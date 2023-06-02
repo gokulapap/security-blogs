@@ -30,7 +30,7 @@ def main():
             with open(links_file_path, 'a') as links_file:
                 links_file.write(f'{line}\n')
 
-            processed_lines.append(line)
+            processed_lines.append("* "+line)
 
     # Remove the processed lines from the queue.md file
     with open(queue_file_path, 'w') as queue_file:
