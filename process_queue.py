@@ -23,6 +23,7 @@ def main():
 
             t = line.split(" ")
             line = t[1].strip(",") + "\n[{}]".format(t[2])
+            line = link.lstrip("- ") + f"\n[{category}]"
             
             # Check if the category folder exists, otherwise create it
             if not os.path.exists(category_folder):
@@ -31,7 +32,7 @@ def main():
             # Save the line to links.md in the category folder
             links_file_path = os.path.join(category_folder, 'links.md')
             with open(links_file_path, 'a') as links_file:
-                t = line.split(" ")[0]
+                t = link.lstrip("- ")
                 links_file.write(f'- {t}\n')
 
             processed_lines.append(line)
@@ -47,7 +48,7 @@ def main():
         bot.send_message(chat_id, message)
     else:
         bot = telebot.TeleBot(telegram_token)
-        bot.send_message(chat_id, "⚠️ NO MORE ARTICLES IN THE QUEUE, ADD THE BLOG LINKS IN THE QUEUE ⚠️")
+        bot.send_message(chat_id, "⚠️ NO MORE ARTICLES IN THE QUEUE, ADD THE BLOG LINKS IN THE QUEUE ⚠️", disable_web_page_preview=True)
 
 if __name__ == '__main__':
     main()
