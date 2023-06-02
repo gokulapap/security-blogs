@@ -22,7 +22,7 @@ def main():
             category_folder = os.path.join(os.getcwd(), category)
 
             t = line.split(" ")
-            line = t[1].strip(",") + f"\n[{t[2]}]"
+            line = t[1].strip(",") + "\n[{}]".format(t[2])
             
             # Check if the category folder exists, otherwise create it
             if not os.path.exists(category_folder):
@@ -31,7 +31,8 @@ def main():
             # Save the line to links.md in the category folder
             links_file_path = os.path.join(category_folder, 'links.md')
             with open(links_file_path, 'a') as links_file:
-                links_file.write(f'- {line.split(" ")[0]}\n')
+                t = line.split(" ")[0]
+                links_file.write(f'- {t}\n')
 
             processed_lines.append(line)
 
