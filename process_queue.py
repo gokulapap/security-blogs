@@ -22,7 +22,7 @@ def main():
             category_folder = os.path.join(os.getcwd(), category)
 
             t = line.split(" ")
-            line = t[1].strip(",") + f" [{t[2]}]"
+            line = t[1].strip(",") + f"\n[{t[2]}]"
             
             # Check if the category folder exists, otherwise create it
             if not os.path.exists(category_folder):
@@ -42,7 +42,7 @@ def main():
     # Alert via Telegram bot
     if processed_lines:
         bot = telebot.TeleBot(telegram_token)
-        message = 'Blogs you need to read Today :\n\n' + '\n'.join(processed_lines)
+        message = 'Blogs you need to read Today :\n\n' + '\n\n'.join(processed_lines)
         bot.send_message(chat_id, message)
     else:
         bot = telebot.TeleBot(telegram_token)
