@@ -7,7 +7,7 @@ def main():
     chat_id = sys.argv[2]
 
     # Read queue.md file
-    queue_file_path = os.path.join(os.getcwd(), 'queue.md')
+    queue_file_path = os.path.join(os.getcwd(), 'a_queue.md')
     with open(queue_file_path, 'r') as queue_file:
         lines = queue_file.readlines()
 
