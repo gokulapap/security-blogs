@@ -1,0 +1,43 @@
+name: Learn 365
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '30 23 * * *' # Runs daily at 6:30 AM
+
+jobs:
+  process_queue:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.9
+
+      - name: Install dependencies
+        run: pip install pyTelegramBotAPI
+
+      - name: Process Queue
+        run: |
+          python process_queue.py ${{ secrets.API_KEY }} ${{ secrets.CHAT_ID }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "Gokul AP"
+          git config --global user.email "gokulap.tce@gmail.com"
+          touch test.txt
+          git add .
+          git commit -m "updating the file"
+          git push
+      - name: Remove junk file
+        run: | 
+          rm test.txt
+          git add .
+          git commit -m "removing junk file"
+          git push
