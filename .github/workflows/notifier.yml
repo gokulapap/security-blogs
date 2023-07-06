@@ -33,11 +33,11 @@ jobs:
           git config --global user.email "gokulap.tce@gmail.com"
           touch test.txt
           git add .
-          git commit -m "updating the file"
+          git commit -m "fetching links and updating the queue"
           git push
       - name: Remove junk file
         run: | 
           rm test.txt
           git add .
-          git commit -m "removing junk file"
+          git commit -m "updating the queue and alert in telebot"
           git push
