@@ -3,7 +3,7 @@ name: Learn 365
 on:
   workflow_dispatch:
   schedule:
-    - cron: '30 23 * * *' # Runs daily at 6:30 AM
+    - cron: '30 23 * * *' # Runs daily at 5:00 AM which is 11:30 UTC
 
 jobs:
   process_queue:
