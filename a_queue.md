@@ -1,2 +1,0 @@
-- https://google.com, google-bug-bounty
-- https://youtube.com, tutorial
