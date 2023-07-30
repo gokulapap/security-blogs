@@ -19,12 +19,12 @@ def main():
         line_parts = line.strip().split(', ')
         if len(line_parts) == 2:
             link, category = line_parts
-            category_folder = os.path.join(os.getcwd(), category)
+            category_folder = os.path.join(os.getcwd(), 'web-security', category)  # Modified folder path
 
             t = line.split(" ")
             line = t[1].strip(",") + "\n[{}]".format(t[2])
             line = link.lstrip("- ") + f"\n[{category}]"
-            
+
             # Check if the category folder exists, otherwise create it
             if not os.path.exists(category_folder):
                 os.makedirs(category_folder)
