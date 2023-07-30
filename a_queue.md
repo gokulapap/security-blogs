@@ -1,0 +1,4 @@
+https://github.com/projectdiscovery/nuclei-templates, github-repo
+https://chat.openai.com/?model=text-davinci-002-render-sha, crlf-injection
+https://others.com, misc
+https://github.com/howtohunt/ato, account-takeovers
