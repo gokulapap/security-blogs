@@ -1,0 +1,43 @@
+name: Learn 365 Cloud Security
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '30 23 * * 5-6' # Runs at 5:00 AM on Friday and Saturdays
+    
+jobs:
+  process_queue:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.9
+
+      - name: Install dependencies
+        run: pip install pyTelegramBotAPI
+
+      - name: Process Queue
+        run: |
+          python process_queue.py ${{ secrets.API_KEY }} ${{ secrets.CHAT_ID }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "Gokul AP"
+          git config --global user.email "gokulap.tce@gmail.com"
+          touch test.txt
+          git add .
+          git commit -m "fetching links and updating the queue"
+          git push
+      - name: Remove junk file
+        run: | 
+          rm test.txt
+          git add .
+          git commit -m "updating the queue and alert in telebot"
+          git push
