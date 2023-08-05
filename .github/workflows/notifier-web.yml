@@ -1,4 +1,4 @@
-name: Learn 365
+name: Learn 365 Web Security
 
 on:
   workflow_dispatch:
