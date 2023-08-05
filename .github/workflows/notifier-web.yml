@@ -23,7 +23,7 @@ jobs:
 
       - name: Process Queue
         run: |
-          python process_queue.py ${{ secrets.API_KEY }} ${{ secrets.CHAT_ID }}
+          python process_queue_web.py ${{ secrets.API_KEY }} ${{ secrets.CHAT_ID }}
         env:
           GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
 
@@ -35,6 +35,7 @@ jobs:
           git add .
           git commit -m "fetching links and updating the queue"
           git push
+          
       - name: Remove junk file
         run: | 
           rm test.txt
