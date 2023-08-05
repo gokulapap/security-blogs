@@ -1,2 +1,0 @@
-- https://google.com, google
-- https://sample.com, sample
