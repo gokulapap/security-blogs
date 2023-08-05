@@ -1,2 +1,0 @@
-- https://cloud.com, aws
-- https://googlecloud.com, gcp
