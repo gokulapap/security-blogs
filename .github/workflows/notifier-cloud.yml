@@ -3,7 +3,7 @@ name: Learn 365 Cloud Security
 on:
   workflow_dispatch:
   schedule:
-    - cron: '30 23 * * 5-6' # Runs at 5:00 AM on Friday and Saturdays
+    - cron: '30 23 * * 4-5' # Runs at 5:00 AM on Friday and Saturdays
     
 jobs:
   process_queue:
