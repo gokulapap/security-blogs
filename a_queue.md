@@ -1,4 +1,4 @@
-- https://medium.com/@LogicalHunter/identity-aware-proxy-misconfiguration-google-cloud-vulnerability-813d2a07a4ed,cloud
+- https://medium.com/@LogicalHunter/identity-aware-proxy-misconfiguration-google-cloud-vulnerability-813d2a07a4ed, cloud
 - https://medium.com/@dewangpanchal98/403-forbidden-bypass-fc8b5df109b7,bypass
 - https://medium.com/@kawyabcs/discover-the-5-best-automation-tools-for-bug-bounty-hunters-cfcca568370d,automation
 - https://medium.com/@sl4x0/all-about-open-redirects-d69cf6726122,open-redirection
