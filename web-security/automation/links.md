@@ -1,0 +1,1 @@
+- https://medium.com/@kawyabcs/discover-the-5-best-automation-tools-for-bug-bounty-hunters-cfcca568370d

@@ -1,0 +1,1 @@
+- https://medium.com/@sl4x0/all-about-open-redirects-d69cf6726122

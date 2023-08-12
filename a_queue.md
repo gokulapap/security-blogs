@@ -1,8 +1,3 @@
-- https://medium.com/@LogicalHunter/identity-aware-proxy-misconfiguration-google-cloud-vulnerability-813d2a07a4ed, cloud
-- https://medium.com/@dewangpanchal98/403-forbidden-bypass-fc8b5df109b7, bypass
-- https://medium.com/@kawyabcs/discover-the-5-best-automation-tools-for-bug-bounty-hunters-cfcca568370d, automation
-- https://medium.com/@sl4x0/all-about-open-redirects-d69cf6726122, open-redirection
-- https://medium.com/@skselim/what-is-the-fastest-way-to-get-into-bug-bounty-hunting-with-zero-experience-af122c21a89a, journey
 - https://medium.com/@vineet08/story-of-a-reserved-cve-2022-23361-2c81d836c6fe, journey
 - https://medium.com/@snoopy101/how-i-hacked-hackers-in-voorivex-hunt-event-9c572ce0005f, journey
 - https://medium.com/@nazeemarif/bug-bounty-how-i-was-able-to-purchased-premium-feature-just-for-1-pkr-by-parameter-2f6f7e5b8bf, parameter
