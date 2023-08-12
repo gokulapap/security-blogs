@@ -1,77 +1,77 @@
-- https://medium.com/@LogicalHunter/identity-aware-proxy-misconfiguration-google-cloud-vulnerability-813d2a07a4ed,cloud
-- https://medium.com/@dewangpanchal98/403-forbidden-bypass-fc8b5df109b7,bypass
-- https://medium.com/@kawyabcs/discover-the-5-best-automation-tools-for-bug-bounty-hunters-cfcca568370d,automation
-- https://medium.com/@sl4x0/all-about-open-redirects-d69cf6726122,open-redirection
-- https://medium.com/@skselim/what-is-the-fastest-way-to-get-into-bug-bounty-hunting-with-zero-experience-af122c21a89a,journey
-- https://medium.com/@vineet08/story-of-a-reserved-cve-2022-23361-2c81d836c6fe,journey
-- https://medium.com/@snoopy101/how-i-hacked-hackers-in-voorivex-hunt-event-9c572ce0005f,journey
-- https://medium.com/@nazeemarif/bug-bounty-how-i-was-able-to-purchased-premium-feature-just-for-1-pkr-by-parameter-2f6f7e5b8bf,parameter
-- https://medium.com/@redfishiaven/bypass-ssrf-via-protocol-change-redirect-a084dad9291e,ssrf
-- https://medium.com/@Az3m/register-vulnerability-checklist-20327eb250be,checklist
-- https://medium.com/@0x3zzat/how-to-find-sql-injection-using-a-simple-technique-bc7e8100a6f3,sql-injection
-- https://medium.com/@csal/dont-scan-my-website-i-exploiting-an-old-version-of-wappalyzer-14c001279434,journey
-- https://medium.com/@gandhim373/5-get-easy-bounty-how-to-exploit-xmlrpc-php-8e47f2604923,tricks
-- https://medium.com/@gupta-bless/basics-of-source-code-review-4c263652202,source-code-review
-- https://medium.com/@jenishpanchal514/account-takeover-via-response-manipulation-otp-brute-force-b965fc1b7a37,ATO
-- https://medium.com/@diegotellaroli05/account-takeover-in-chatgpt-e134ed11654d,ATO
-- https://medium.com/@vulnmachines/banner-grabbing-leads-to-rce-76fe74cde0e5,RCE
-- https://medium.com/@Bishoo97x/google-unrestricted-file-upload-xss-and-html-injection-f6ba3c2cddbf,XSS
-- https://medium.com/@javizgodoy/how-i-use-obsidian-as-a-second-brain-11945456dc69,
-- https://medium.com/@_deshine_/easy-2000-race-condition-b4d093c9bc3c,race-condition
-- https://medium.com/@vickieli/learn-about-command-injection-attacks-1cd0d178fe65,injection
-- https://medium.com/@shahjerry33/exif-data-exposure-9bdd6c2c4f2a,low-hangings
-- https://medium.com/@amit-lt/scenario-of-reflected-cross-site-scripting-vulnerability-a3ee189dd822,XSS
-- https://medium.com/@vignesh3004/open-redirect-vulnerability-in-igp-com-c1d76efc59b3,open-redirection
-- https://medium.com/@sapt/breaking-reset-password-logic-to-get-account-takeover-without-user-interaction-f241fefe12e7,ATO
-- https://medium.com/@arthbajpai277/beginners-guide-of-bug-bounty-by-arth-bajpai-5c6eb27c023,journey
-- https://medium.com/@Dhamuharker/0-day-vulnerability-uri-normalization-issue-access-the-internal-tomcat-server-8b99d9790519,CVE
-- https://medium.com/@thexssrat/ultimate-xxe-beginner-guide-f3bd123b1f4a,XXE
-- https://medium.com/@sumedh00/accessing-admin-dashboard-in-5-seconds-acee737eacfb,journey
-- https://medium.com/@kunalkhubchandani/the-modern-day-android-application-pentesting-approach-for-bugbounties-assessments-b09154b522d,android
-- https://medium.com/@secureica/can-hackers-hijack-your-clicks-clickjacking-attacks-5dade6464bfe,clickjacking
-- https://medium.com/@whitehatcyber404/how-to-find-escalating-html-to-ssrf-i-instantly-got-the-hof-within-5minutes-805f173c34e4,ssrf
-- https://medium.com/@shahjerry33/pii-leakage-revealing-secrets-8b617071bd1c,info-disclosure
-- https://medium.com/@Steiner254/bounty-in-less-3-minutes-from-a-google-dork-54bd9bf3a650,tricks
-- https://medium.com/@that-odd-introvert/django-security-xss-a7722cff2326,CVE
-- https://medium.com/@manikchopra31/welcome-to-the-bug-bounty-beginners-roadmap-your-ultimate-guide-to-success-7195f1dcd8c5,journey
-- https://medium.com/@vickieli/scanning-for-secrets-in-source-code-9fcb486f8c0e,source-code-review
-- https://medium.com/@notifybugme/chaining-an-blind-ssrf-bug-to-get-an-rce-92c09de3c0ba,ssrf
-- https://medium.com/@aidilarf/idor-vulnerability-in-graphql-api-on-website-bc45e050d1d3,graphql
-- https://medium.com/@koroush.pub/10-practical-recon-vulnerability-scanners-for-bug-hunters-part-one-31460b4f642e,recon
-- https://medium.com/@vickieli/intro-to-ssrf-beb35857771f,ssrf
-- https://medium.com/@kotakbhavak/a-csrf-worth-the-wait-and-404c6b531789,csrf
-- https://medium.com/@yagizkocer/a-trivial-otp-bypass-based-on-business-logic-abuse-1513872716b0,bypass
-- https://medium.com/@tutorialboy/bypassing-php-waf-to-achieve-remote-code-execution-in-depth-analysis-f42eb6e633fa,bypass
-- https://medium.com/@unshoulder_supersedes/how-i-earned-47000-usd-as-a-high-school-student-a9a68896b3a3,journey
-- https://medium.com/@nanwinata/rce-docker-api-but-11ff70825935,cloud
-- https://medium.com/@lazyhacker/ways-to-exploit-json-csrf-simple-explanation-5e77c403ede6,csrf
-- https://medium.com/@vflexo/xyz-of-xss-62603eb4cba,XSS
-- https://medium.com/@moSec/how-i-hacked-thousand-of-subdomains-6aa43b92282c,STO
-- https://medium.com/@nixiebytes/toxssin-an-automated-cross-site-scripting-xss-exploiter-604a438f1791,XSS
-- https://medium.com/@basakyilmaz82/log4j-vulnerability-485559065af6,CVE
-- https://medium.com/@thevillagehacker/account-take-over-due-to-no-rate-limitation-433bd7449aca,ATO
-- https://medium.com/@larebsec/critical-unauthorized-idor-leads-to-mass-account-takeover-d2334ac75469,IDOR
-- https://medium.com/@aswinthambipanik07/bug-bounty-recon-part-1-dad7f86d1b0f,recon
-- https://medium.com/@yan.zaripov/time-based-sql-injection-63a395434e97,sql-injection
-- https://medium.com/@codewithvamp/the-cost-of-neglect-html-injection-3c00e719fdef,html-injection
-- https://medium.com/@grahamzemel/p1-bug-bounties-what-is-an-idor-and-how-does-idor-63fc72c371c8,IDOR
-- https://medium.com/@danielmakelley/4-tips-for-new-bug-bounty-hunters-b71c4c6ab5f9,tricks
-- https://medium.com/@fh4ntke/intigriti-xss-challenge-0621-cf76c28840c1,CTF
-- https://medium.com/@thexssrat/xss-made-easy-for-testers-developers-and-managers-b404f744ec6b,XSS
-- https://medium.com/@amitkhandebharad5/privilege-escalation-lets-demote-the-admin-93bd55a6d6fb,privilege-escalation
-- https://medium.com/@marxchryz/how-i-gain-access-to-the-server-administration-of-a-million-dollar-company-14da68c7a9dd,journey
-- https://medium.com/@0UN390/what-is-http-parameter-pollution-a50249869d97,parameter
-- https://medium.com/@ryuukhagetsu/how-i-get-bounty-from-takeover-account-ed17cd838b2a,ATO
-- https://medium.com/@d4ly/an-interesting-rce-on-a-synack-red-team-target-516edb63fd04,RCE
-- https://medium.com/@janirudransh/privilege-escalation-to-view-sensitive-data-of-other-user-c4ad06c9472,privilege-escalation
-- https://medium.com/@ahmdhalabi/rce-via-internal-access-to-adminer-database-management-critical-d3dc2a1d392a,RCE
-- https://medium.com/@aob-89072/story-of-my-bugs-on-a-private-program-privilege-escalation-xss-sqli-idors-a5be4c6acbbd,journey
-- https://medium.com/@qaafqasim/discovering-login-panels-and-detecting-sql-injection-with-logsensor-42842e337244,sql-injection
-- https://medium.com/@jjainam16/otp-verification-bypass-15312498fe10,bypass
-- https://medium.com/@noob3xploiter/hacking-into-school-management-systems-reflected-xss-to-rce-74880c423024,XSS
-- https://medium.com/@techkalam/execute-mongo-shell-commands-in-javascript-file-862dcf45aad6,tricks
-- https://medium.com/@sandh0t/the-bad-twin-a-peculiar-case-of-jwt-exploitation-scenario-1efa03e891c0,JWT
-- https://medium.com/@sahandami/find-xss-in-wide-scope-with-kxss-91f9573883c4,XSS
-- https://medium.com/@vamshivaran110/fuzzing-with-custom-wordlists-bb7a808d943f,recon
-- https://medium.com/@sushantdhopat/how-i-able-to-perform-open-redirection-lead-to-full-account-takeover-6a624210c5e0,open-redirection
-- https://medium.com/@musab_alharany/10-ways-to-exploit-json-web-token-jwt-ac5f4efbc41b,JWT
+- https://medium.com/@LogicalHunter/identity-aware-proxy-misconfiguration-google-cloud-vulnerability-813d2a07a4ed, cloud
+- https://medium.com/@dewangpanchal98/403-forbidden-bypass-fc8b5df109b7, bypass
+- https://medium.com/@kawyabcs/discover-the-5-best-automation-tools-for-bug-bounty-hunters-cfcca568370d, automation
+- https://medium.com/@sl4x0/all-about-open-redirects-d69cf6726122, open-redirection
+- https://medium.com/@skselim/what-is-the-fastest-way-to-get-into-bug-bounty-hunting-with-zero-experience-af122c21a89a, journey
+- https://medium.com/@vineet08/story-of-a-reserved-cve-2022-23361-2c81d836c6fe, journey
+- https://medium.com/@snoopy101/how-i-hacked-hackers-in-voorivex-hunt-event-9c572ce0005f, journey
+- https://medium.com/@nazeemarif/bug-bounty-how-i-was-able-to-purchased-premium-feature-just-for-1-pkr-by-parameter-2f6f7e5b8bf, parameter
+- https://medium.com/@redfishiaven/bypass-ssrf-via-protocol-change-redirect-a084dad9291e, ssrf
+- https://medium.com/@Az3m/register-vulnerability-checklist-20327eb250be, checklist
+- https://medium.com/@0x3zzat/how-to-find-sql-injection-using-a-simple-technique-bc7e8100a6f3, sql-injection
+- https://medium.com/@csal/dont-scan-my-website-i-exploiting-an-old-version-of-wappalyzer-14c001279434, journey
+- https://medium.com/@gandhim373/5-get-easy-bounty-how-to-exploit-xmlrpc-php-8e47f2604923, tricks
+- https://medium.com/@gupta-bless/basics-of-source-code-review-4c263652202, source-code-review
+- https://medium.com/@jenishpanchal514/account-takeover-via-response-manipulation-otp-brute-force-b965fc1b7a37, ATO
+- https://medium.com/@diegotellaroli05/account-takeover-in-chatgpt-e134ed11654d, ATO
+- https://medium.com/@vulnmachines/banner-grabbing-leads-to-rce-76fe74cde0e5, RCE
+- https://medium.com/@Bishoo97x/google-unrestricted-file-upload-xss-and-html-injection-f6ba3c2cddbf, XSS
+- https://medium.com/@javizgodoy/how-i-use-obsidian-as-a-second-brain-11945456dc69, 
+- https://medium.com/@_deshine_/easy-2000-race-condition-b4d093c9bc3c, race-condition
+- https://medium.com/@vickieli/learn-about-command-injection-attacks-1cd0d178fe65, injection
+- https://medium.com/@shahjerry33/exif-data-exposure-9bdd6c2c4f2a, low-hangings
+- https://medium.com/@amit-lt/scenario-of-reflected-cross-site-scripting-vulnerability-a3ee189dd822, XSS
+- https://medium.com/@vignesh3004/open-redirect-vulnerability-in-igp-com-c1d76efc59b3, open-redirection
+- https://medium.com/@sapt/breaking-reset-password-logic-to-get-account-takeover-without-user-interaction-f241fefe12e7, ATO
+- https://medium.com/@arthbajpai277/beginners-guide-of-bug-bounty-by-arth-bajpai-5c6eb27c023, journey
+- https://medium.com/@Dhamuharker/0-day-vulnerability-uri-normalization-issue-access-the-internal-tomcat-server-8b99d9790519, CVE
+- https://medium.com/@thexssrat/ultimate-xxe-beginner-guide-f3bd123b1f4a, XXE
+- https://medium.com/@sumedh00/accessing-admin-dashboard-in-5-seconds-acee737eacfb, journey
+- https://medium.com/@kunalkhubchandani/the-modern-day-android-application-pentesting-approach-for-bugbounties-assessments-b09154b522d, android
+- https://medium.com/@secureica/can-hackers-hijack-your-clicks-clickjacking-attacks-5dade6464bfe, clickjacking
+- https://medium.com/@whitehatcyber404/how-to-find-escalating-html-to-ssrf-i-instantly-got-the-hof-within-5minutes-805f173c34e4, ssrf
+- https://medium.com/@shahjerry33/pii-leakage-revealing-secrets-8b617071bd1c, info-disclosure
+- https://medium.com/@Steiner254/bounty-in-less-3-minutes-from-a-google-dork-54bd9bf3a650, tricks
+- https://medium.com/@that-odd-introvert/django-security-xss-a7722cff2326, CVE
+- https://medium.com/@manikchopra31/welcome-to-the-bug-bounty-beginners-roadmap-your-ultimate-guide-to-success-7195f1dcd8c5, journey
+- https://medium.com/@vickieli/scanning-for-secrets-in-source-code-9fcb486f8c0e, source-code-review
+- https://medium.com/@notifybugme/chaining-an-blind-ssrf-bug-to-get-an-rce-92c09de3c0ba, ssrf
+- https://medium.com/@aidilarf/idor-vulnerability-in-graphql-api-on-website-bc45e050d1d3, graphql
+- https://medium.com/@koroush.pub/10-practical-recon-vulnerability-scanners-for-bug-hunters-part-one-31460b4f642e, recon
+- https://medium.com/@vickieli/intro-to-ssrf-beb35857771f, ssrf
+- https://medium.com/@kotakbhavak/a-csrf-worth-the-wait-and-404c6b531789, csrf
+- https://medium.com/@yagizkocer/a-trivial-otp-bypass-based-on-business-logic-abuse-1513872716b0, bypass
+- https://medium.com/@tutorialboy/bypassing-php-waf-to-achieve-remote-code-execution-in-depth-analysis-f42eb6e633fa, bypass
+- https://medium.com/@unshoulder_supersedes/how-i-earned-47000-usd-as-a-high-school-student-a9a68896b3a3, journey
+- https://medium.com/@nanwinata/rce-docker-api-but-11ff70825935, cloud
+- https://medium.com/@lazyhacker/ways-to-exploit-json-csrf-simple-explanation-5e77c403ede6, csrf
+- https://medium.com/@vflexo/xyz-of-xss-62603eb4cba, XSS
+- https://medium.com/@moSec/how-i-hacked-thousand-of-subdomains-6aa43b92282c, STO
+- https://medium.com/@nixiebytes/toxssin-an-automated-cross-site-scripting-xss-exploiter-604a438f1791, XSS
+- https://medium.com/@basakyilmaz82/log4j-vulnerability-485559065af6, CVE
+- https://medium.com/@thevillagehacker/account-take-over-due-to-no-rate-limitation-433bd7449aca, ATO
+- https://medium.com/@larebsec/critical-unauthorized-idor-leads-to-mass-account-takeover-d2334ac75469, IDOR
+- https://medium.com/@aswinthambipanik07/bug-bounty-recon-part-1-dad7f86d1b0f, recon
+- https://medium.com/@yan.zaripov/time-based-sql-injection-63a395434e97, sql-injection
+- https://medium.com/@codewithvamp/the-cost-of-neglect-html-injection-3c00e719fdef, html-injection
+- https://medium.com/@grahamzemel/p1-bug-bounties-what-is-an-idor-and-how-does-idor-63fc72c371c8, IDOR
+- https://medium.com/@danielmakelley/4-tips-for-new-bug-bounty-hunters-b71c4c6ab5f9, tricks
+- https://medium.com/@fh4ntke/intigriti-xss-challenge-0621-cf76c28840c1, CTF
+- https://medium.com/@thexssrat/xss-made-easy-for-testers-developers-and-managers-b404f744ec6b, XSS
+- https://medium.com/@amitkhandebharad5/privilege-escalation-lets-demote-the-admin-93bd55a6d6fb, privilege-escalation
+- https://medium.com/@marxchryz/how-i-gain-access-to-the-server-administration-of-a-million-dollar-company-14da68c7a9dd, journey
+- https://medium.com/@0UN390/what-is-http-parameter-pollution-a50249869d97, parameter
+- https://medium.com/@ryuukhagetsu/how-i-get-bounty-from-takeover-account-ed17cd838b2a, ATO
+- https://medium.com/@d4ly/an-interesting-rce-on-a-synack-red-team-target-516edb63fd04, RCE
+- https://medium.com/@janirudransh/privilege-escalation-to-view-sensitive-data-of-other-user-c4ad06c9472, privilege-escalation
+- https://medium.com/@ahmdhalabi/rce-via-internal-access-to-adminer-database-management-critical-d3dc2a1d392a, RCE
+- https://medium.com/@aob-89072/story-of-my-bugs-on-a-private-program-privilege-escalation-xss-sqli-idors-a5be4c6acbbd, journey
+- https://medium.com/@qaafqasim/discovering-login-panels-and-detecting-sql-injection-with-logsensor-42842e337244, sql-injection
+- https://medium.com/@jjainam16/otp-verification-bypass-15312498fe10, bypass
+- https://medium.com/@noob3xploiter/hacking-into-school-management-systems-reflected-xss-to-rce-74880c423024, XSS
+- https://medium.com/@techkalam/execute-mongo-shell-commands-in-javascript-file-862dcf45aad6, tricks
+- https://medium.com/@sandh0t/the-bad-twin-a-peculiar-case-of-jwt-exploitation-scenario-1efa03e891c0, JWT
+- https://medium.com/@sahandami/find-xss-in-wide-scope-with-kxss-91f9573883c4, XSS
+- https://medium.com/@vamshivaran110/fuzzing-with-custom-wordlists-bb7a808d943f, recon
+- https://medium.com/@sushantdhopat/how-i-able-to-perform-open-redirection-lead-to-full-account-takeover-6a624210c5e0, open-redirection
+- https://medium.com/@musab_alharany/10-ways-to-exploit-json-web-token-jwt-ac5f4efbc41b, JWT
