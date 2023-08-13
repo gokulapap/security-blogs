@@ -1,6 +1,7 @@
 import os
 import sys
 import telebot
+import random
 
 def main():
     telegram_token = sys.argv[1]
@@ -11,8 +12,10 @@ def main():
     with open(queue_file_path, 'r') as queue_file:
         lines = queue_file.readlines()
 
-    # Get the first 5 lines and process them
-    lines_to_process = lines[:5]
+    # Choose 5 random lines to process
+    num_lines_to_process = min(5, len(lines))  # Ensure we don't select more lines than available
+    random_lines_indices = random.sample(range(len(lines)), num_lines_to_process)
+    lines_to_process = [lines[i] for i in random_lines_indices]
     processed_lines = []
 
     for line in lines_to_process:
@@ -39,7 +42,7 @@ def main():
 
     # Remove the processed lines from the queue.md file
     with open(queue_file_path, 'w') as queue_file:
-        queue_file.writelines(lines[5:])
+        queue_file.writelines([line for i, line in enumerate(lines) if i not in random_lines_indices])
 
     # Alert via Telegram bot
     if processed_lines:
