@@ -1,0 +1,1 @@
+- https://medium.com/@Hacker_Yogi/bug-bounty-open-xmlrpc-php-vulnerability-on-wordpress-site-723361febfaf

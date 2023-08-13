@@ -1,0 +1,1 @@
+- https://medium.com/@lokeshdlk77/contact-point-deanonymization-vulnerability-in-meta-90d575c4d8ef
