@@ -1,0 +1,1 @@
+- https://philippeharewood.com/facebook-bug-bounty-secondary-damage-revisited-why-i-really-like-reporting-to-facebook-too/

@@ -1898,7 +1898,6 @@
 - https://7odamo.medium.com/response-manipulation-in-the-admin-panel-lead-to-pii-leakage-2926b89ea2d0, Account-takeover
 - https://medium.com/@leomsec/every-xss-is-different-c98528fee5e0, XSS
 - https://codewithvamp.medium.com/account-takeover-by-otp-bypass-ec0cff67f516, Information-disclosure
-- https://security.lauritz-holtmann.de/advisories/asana-desktop-credential-disclosure/, Information-disclosure
 - https://medium.com/@sazouki/how-i-hacked-one-of-the-biggest-airline-in-the-world-e7810dc43791, IDOR
 - https://medium.com/@mahitman1/hacking-a-nft-platform-56fc59479d3b, SSRF
 - https://medium.com/@janijay007/how-i-was-able-to-see-likes-and-dislikes-count-which-is-hidden-by-victim-youtube-2-721d8e4686a5, Logic-flaw
@@ -2852,7 +2851,6 @@
 - https://blog.takemyhand.xyz/2021/07/hacking-on-xiaomis-android-apps.html, Android
 - https://melotover.medium.com/how-i-bypassed-a-tough-waf-to-steal-user-cookies-using-xss-da75f28108e4, XSS
 - https://medium.com/@muhammadsholikhin/facebook-vulnerability-1500-for-removing-document-cover-9ffd0173877b, Authorization-flaw
-- https://medium.com/@kalvik/account-takeover-a-bonus-vulnerability-3c2dc4e607ea, Account-takeover
 - https://shahjerry33.medium.com/rce-via-webdav-power-of-put-7e1c06c71e60, Default-credentials
 - https://web.archive.org/web/20211017061704/https://0xdln.ml/IIS-Default-Page-to-Information-Disclosure/, Information-disclosure
 - https://blog.ryotak.me/post/cdnjs-remote-code-execution-en/, RCE
@@ -3302,7 +3300,6 @@
 - https://avanishpathak46.medium.com/an-account-takeover-vulnerability-due-to-response-manipulation-e23fe629bd1, Authentication-bypass
 - https://cyberhacks200.medium.com/an-unexpected-bug-9cab5072e009, Bruteforce
 - https://avanishpathak46.medium.com/an-interesting-account-takeover-vulnerability-a1fbec0e01a, IDOR
-- https://notifybugme.medium.com/android-apk-leaks-access-token-to-takeover-the-whole-infrastructure-c979187f8fc8, Information-disclosure
 - https://medium.com/bugbountywriteup/how-i-chained-p4-to-p2-open-redirection-to-full-account-takeover-a28b09a94bf7, Open-redirect
 - https://web.archive.org/web/20210201180254/https://www.cysek.org/post/bac-sxss, Stored-XSS
 - https://0xfabiof.github.io/stored-xss-tw/, Stored-XSS
@@ -5310,7 +5307,6 @@
 - http://omespino.com/write-up-twitter-bug-bounty-my-1st-bugbounty-poodle-sslv3-bug-on-multiple-twitter-smtp-servers/, Cryptographic-issues
 - https://blog.evanricafort.com/2018/02/rce-remote-code-execution-in-wordpress.html, RCE
 - https://medium.freecodecamp.org/hacking-tinder-accounts-using-facebook-accountkit-d5cc813340d1, Account-takeover
-- https://bughunt1307.herokuapp.com/googlebugs.html, DOM-XSS
 - https://bugbaba.blogspot.com/2018/02/exploiting-cors-miss-configuration.html, CORS-misconfiguration
 - https://medium.com/bugbountywriteup/bugbounty-exploiting-crlf-injection-can-lands-into-a-nice-bounty-159525a9cb62, CRLF-injection
 - https://medium.com/bugbountywriteup/how-i-was-able-to-remotely-crash-any-android-users-instagram-app-and-was-paid-a-mere-500-for-it-d4420721290e, Android
@@ -5693,7 +5689,6 @@
 - https://blog.it-securityguard.com/bugbounty-paypal-stored-xss-security-bypass/, Stored-XSS
 - https://blog.it-securityguard.com/bugbounty-paypal-dom-xss-main-domain/, DOM-XSS
 - https://blog.it-securityguard.com/bugbounty-the-5000-google-xss, XSS
-- https://philippeharewood.com/facebook-bug-bounty-secondary-damage-revisited-why-i-really-like-reporting-to-facebook-too/, Logic-flaw
 - https://blog.it-securityguard.com/bugbounty-yahoo-phpinfo-php-disclosure-2/, Information-disclosure
 - https://josipfranjkovic.blogspot.com/2014/09/step-by-step-exploiting-sql-injection.html, SQL-injection
 - https://bitquark.co.uk/blog/2014/08/31/popping_a_shell_on_the_oculus_developer_portal, SQL-injection

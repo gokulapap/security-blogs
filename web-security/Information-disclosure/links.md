@@ -1,0 +1,2 @@
+- https://notifybugme.medium.com/android-apk-leaks-access-token-to-takeover-the-whole-infrastructure-c979187f8fc8
+- https://security.lauritz-holtmann.de/advisories/asana-desktop-credential-disclosure/
