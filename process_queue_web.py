@@ -47,7 +47,7 @@ def main():
     # Alert via Telegram bot
     if processed_lines:
         bot = telebot.TeleBot(telegram_token)
-        message = 'Blogs you need to read Today :\n\n' + '\n\n'.join(processed_lines)
+        message = '📙 Blogs you need to read Today 📙\n\n✅ ' + '\n\n✅ '.join(processed_lines)
         bot.send_message(chat_id, message)
     else:
         bot = telebot.TeleBot(telegram_token)
