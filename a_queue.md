@@ -93,7 +93,6 @@
 - https://medium.com/@86karthikkarthik/email-verification-bypass-d07b2db8dc4, bypass
 - https://medium.com/@gurudatt.sa26/cypress-understanding-basics-of-api-testing-f81e4f70cca9, api
 - https://medium.com/@ssalssa.1.12.2.1.2.1/hacking-wordpress-server-database-f6cc6c116057, cms
-- https://medium.com/@vickieli/api-security-101-injection-a7feea1d4fd, api
 - https://medium.com/@harishhacker3010/how-i-hacked-google-to-read-files-from-their-servers-for-free-e0486a674912, journey
 - https://medium.com/@patchthenet/host-header-injection-attacks-7160f9fcf63e, injection
 - https://medium.com/@s3c/how-i-hacked-world-wide-tiktok-users-24e794d310d2, journey
@@ -690,7 +689,6 @@
 - https://www.reversemode.com/2023/03/beware-of-javas-stringgetbytes.html, Hash-collision
 - https://sensepost.com/blog/2023/protected-users-you-thought-you-were-safe-uh/, Active-Directory
 - https://7h3h4ckv157.medium.com/unveiling-the-secrets-my-journey-of-hacking-googles-oss-cdd9ef3c7aa, CSRF
-- https://emad0x90.medium.com/exposed-docker-registries-server-as-critical-reminder-on-container-security-a9bba13b403d, Docker-Registry
 - https://crypt0g30rgy.github.io/post/Journey2pII, Information-disclosure
 - https://www.mannulinux.org/2023/03/exploiting-hibernate-injection-in-order.html, HQL-injection
 - https://blog.trailofbits.com/2023/03/30/acropalypse-polytracker-blind-spots/, Privacy-issue
@@ -722,7 +720,6 @@
 - https://occamsec.com/getting-root-a-technical-walkthrough/, Information-disclosure
 - https://www.code-intelligence.com/blog/expression-dos-spring, DoS
 - https://www.synacktiv.com/sites/default/files/2023-03/Synacktiv-Grails-Spring-Security-CVE-2022-41923.pdf, Privilege-escalation
-- https://www.synacktiv.com/en/publications/php-filter-chains-file-read-from-error-based-oracle.html, Arbitrary-file-read
 - https://blog.doyensec.com//2023/03/21/windows-installer.html, Local-Privilege-Escalation
 - https://notifybugme.medium.com/how-i-got-access-to-essilor-international-company-customer-pii-info-by-aws-metadata-access-through-3da02f4c79f0, SSRF
 - https://securitylabs.datadoghq.com/articles/bypass-cloudtrail-aws-service-catalog-and-other/, Cloud
@@ -5500,7 +5497,6 @@
 - https://shahmeeramir.com/how-a-simple-idor-become-a-4k-user-impersonation-vulnerability-705291b55c0d, IDOR
 - https://web.archive.org/web/20180827025910/http://www.paulosyibelo.com/2017/07/coinbase-angularjs-dom-xss-via-kiteworks.html, DOM-XSS
 - https://ahussam.me/Medium-content-spoofing-xss, Content-spoofing
-- https://ysx.me.uk/managed-apps-and-music-a-tale-of-two-xsses-in-google-play/, XSS
 - https://infosecwriteups.com/whatsapp-dos-vulnerability-in-ios-android-d896f76d3253, DoS
 - https://web.archive.org/web/20190718104640/https://medium.com/@tbmnull/making-an-xss-triggered-by-csp-bypass-on-twitter-561f107be3e5, XSS
 - https://corben.io/blog/17-06-30-bandcamp-xss, Stored-XSS
@@ -5729,7 +5725,6 @@
 - https://whitton.io/articles/content-types-and-xss-facebook-studio/, XSS
 - https://www.josipfranjkovic.com/blog/facebook-csrf-full-account-takeover, CSRF
 - https://www.rcesecurity.com/2013/09/paypal-bug-bounty-paypaltech-com-e-mail-injection/, Email-injection
-- https://whitton.io/articles/removing-covers-images-on-friendship-pages-on-facebook/, Authorization-flaw
 - https://arulkumar.in/delete-any-photo-from-facebook-by-exploiting-support-dashboard, IDOR
 - https://arulkumar.in/multiple-open-url-redirection-vulnerability-in-facebook-worth-1500/, Open-redirect
 - https://josipfranjkovic.blogspot.com/2013/07/sql-injections-in-nokia-sites.html, SQL-injection

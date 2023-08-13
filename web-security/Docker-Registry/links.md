@@ -1,0 +1,1 @@
+- https://emad0x90.medium.com/exposed-docker-registries-server-as-critical-reminder-on-container-security-a9bba13b403d

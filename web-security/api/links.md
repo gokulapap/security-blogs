@@ -1,0 +1,1 @@
+- https://medium.com/@vickieli/api-security-101-injection-a7feea1d4fd

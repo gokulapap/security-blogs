@@ -1,0 +1,1 @@
+- https://www.synacktiv.com/en/publications/php-filter-chains-file-read-from-error-based-oracle.html
