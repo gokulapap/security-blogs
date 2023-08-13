@@ -1,0 +1,8 @@
+- https://medium.com/@genijaho/safely-upgrade-from-php-7-4-to-8-1-using-rector-268ab3f77dfb, aa
+- https://medium.com/@shuhasegawa/5-java-methods-you-dont-know-about-56a36e4c45fa, bb
+- https://medium.com/@Hacker_Yogi/bug-bounty-open-xmlrpc-php-vulnerability-on-wordpress-site-723361febfaf, cc
+- https://medium.com/@martin.heinz/python-f-strings-are-more-powerful-than-you-might-think-8271d3efbd7d, dd
+- https://medium.com/@USDTOCH/usdtoch-ambassador-program-4f7a1b037385, ee 
+- https://medium.com/@rahulsharmadev/why-flutter-is-best-choose-for-startup-d7ae4847ba9d, ff
+- https://medium.com/@lokeshdlk77/contact-point-deanonymization-vulnerability-in-meta-90d575c4d8ef, gg
+- https://medium.com/@patriziacastagnod/example-of-a-ar-2-in-matlab-1759942eb4f2, hh
