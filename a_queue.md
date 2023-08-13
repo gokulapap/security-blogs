@@ -367,7 +367,7 @@
 - https://research.nccgroup.com/2023/07/03/technical-advisory-nullsoft-scriptable-installer-system-nsis-insecure-temporary-directory-usage/, Local-Privilege-Escalation
 - https://hoyahaxa.blogspot.com/2023/07/on-coldfusion-aes-and-padding-oracle.html, Padding-oracle-attack
 - https://labs.hakaioffsec.com/nginx-alias-traversal/, Path-traversal
-- https://www.legitsecurity.com/blog/-how-we-found-another-github-action-environment-injection-vulnerability-in-a-google-project, CI/CD
+- https://www.legitsecurity.com/blog/-how-we-found-another-github-action-environment-injection-vulnerability-in-a-google-project, CICD
 - https://blog.silentsignal.eu/2023/07/03/ibm-i-dde-vulnerability-cve-2023-30990/, RCE
 - https://www.rcesecurity.com/2023/07/patch-diffing-cve-2023-28121-to-compromise-a-woocommerce/, Authentication-bypass
 - https://blog.prodefense.io/how-abusing-aws-cloudformation-led-to-a-total-takeover-of-an-aws-environment-7f94cabd671d, Cloud
@@ -585,7 +585,7 @@
 - https://www.cloudquery.io/blog/aws-priv-esc-identity-center, Privilege-escalation
 - https://ophionsecurity.com/blog/placeholder-for-dayzzz, SSTI
 - https://blog.scrt.ch/2023/05/01/solr-rce-from-exposed-administration-interface/, RCE
-- https://pulsesecurity.co.nz/advisories/Azure-Devops-Command-Injection, CI/CD
+- https://pulsesecurity.co.nz/advisories/Azure-Devops-Command-Injection, CICD
 - https://infosecwriteups.com/unauthorized-access-to-the-admin-panel-via-leaked-credentials-on-the-waybackmachine-55c3307141c6, Information-disclosure
 - https://medium.com/@lopseg/bug-bounty-writeup-stored-xss-vulnerability-waf-bypass-f38aae7ff9eb, Stored-XSS
 - https://medium.com/@0ta/tenda-n301-v6-cve-2023-29680-cve-2023-29681-a40f7ae6dc62, Sensitive-Information-Sent-Over-an-Unencrypted-Channel
@@ -610,7 +610,7 @@
 - https://medium.com/cyesec/no-portals-needed-79995d8f7e62, MFA-bypass
 - https://github.com/Sudistark/advisories/blob/main/vscode-extension/Discord-Rich-Presence-LeonardSSH.vscord.md, Information-disclosure
 - https://medium.com/@mmaulanaabdullah/how-careless-default-credentials-impact-to-massive-account-takeover-be6bfc85119a, Authentication-bypass
-- https://blog.ryotak.net/post/github-actions-staff-access-token-en/, CI/CD
+- https://blog.ryotak.net/post/github-actions-staff-access-token-en/, CICD
 - https://www.anvilsecure.com/blog/compromising-garmins-sport-watches-a-deep-dive-into-garminos-and-its-monkeyc-virtual-machine.html, IoT
 - https://www.synack.com/blog/permission-problem-salesforce-javascript-remoting-token/, Salesforce
 - https://sensepost.com/blog/2023/from-bitlocker-suspended-to-virtual-machine/, Internal-pentest
@@ -635,7 +635,7 @@
 - https://blog.includesecurity.com/2023/04/impersonating-local-unity-players-with-udp-spoofing-in-mirror/, Game-hacking
 - https://infosecwriteups.com/break-the-logic-playing-with-product-ratings-on-a-shopping-site-600-c9a87fb66a73, Logic-flaw
 - https://www.pingsafe.com/blog/linkedin-vulnerability-delete-any-post, IDOR
-- https://medium.com/tinder/identifying-vulnerabilities-in-github-actions-aws-oidc-configurations-8067c400d5b8, CI/CD
+- https://medium.com/tinder/identifying-vulnerabilities-in-github-actions-aws-oidc-configurations-8067c400d5b8, CICD
 - https://www.ghostccamm.com/blog/multi_strapi_vulns/, Authentication-bypass
 - https://medium.com/@nanwinata/a-big-company-admin-panel-takeover-4500-9520a6c83430, Authentication-bypass
 - https://starlabs.sg/advisories/23/23-2017/, SSTI
@@ -1509,7 +1509,7 @@
 - https://doyensec.com/resources/Doyensec_Advisory_TypeORM_Q32022.pdf, DoS
 - https://medium.com/@cyberali/mass-assignment-leading-to-pre-account-takeover-13041280a0d9, Mass-assignment
 - https://medium.com/cloud-security/parameters-in-lambda-functions-that-lead-to-xss-and-injection-1bc8e14fca6f, XSS
-- https://www.cidersecurity.io/blog/research/how-we-abused-repository-webhooks-to-access-internal-ci-systems-at-scale/, CI/CD
+- https://www.cidersecurity.io/blog/research/how-we-abused-repository-webhooks-to-access-internal-ci-systems-at-scale/, CICD
 - https://blog.sonarsource.com/onedev-remote-code-execution/, RCE
 - https://doyensec.com/resources/Doyensec_Apollo_Report_Q22022_v4_AfterRetest.pdf, DoS
 - https://www.wiz.io/blog/attachme-oracle-cloud-vulnerability-allows-unauthorized-cross-tenant-volume-access, Cloud
@@ -1518,7 +1518,7 @@
 - https://x-vector.medium.com/privilege-escalation-leads-to-making-authenticated-actions-payment-processing-creating-invoices-2cf808d517ed, Privilege-escalation
 - https://www.x86matthew.com/view_post?id=windows_seagate_lpe, Local-Privilege-Escalation
 - https://ssd-disclosure.com/ssd-advisory-linux-clock_thread_cputime_id-lpe/, Memory-corruption
-- https://github.com/StackOverflowExcept1on/how-to-hack-github-actions, CI/CD
+- https://github.com/StackOverflowExcept1on/how-to-hack-github-actions, CICD
 - https://medium.com/@cyberali/android-application-forgot-password-token-leakage-leading-to-account-takeover-8a0b28296531, Information-disclosure
 - https://breakpoint.sh/posts/turning-your-computer-into-a-gps-tracker-with-apple-maps, Privacy-issue
 - https://srahulceh.medium.com/bug-bounty-how-i-found-an-sensitive-information-disclosure-reconnaissance-542daf10dd19, Information-disclosure
@@ -1568,7 +1568,7 @@
 - https://omar0x01.medium.com/how-i-found-3-rxss-on-the-lululemon-bug-bounty-program-fa357a0154c2, XSS
 - https://security.humanativaspa.it/groovy-template-engine-exploitation-notes-from-a-real-case-scenario/, RCE
 - https://medium.com/@Parag_Bagul/how-i-found-moodle-cross-site-scripting-459a1c9ad4d5, XSS
-- https://marcyoung.us/post/zuckerpunch/, CI/CD
+- https://marcyoung.us/post/zuckerpunch/, CICD
 - https://hopesamples.blogspot.com/2022/09/idor-leads-to-removing-members-from-any.html, IDOR
 - https://hopesamples.blogspot.com/2022/09/group-experts-pending-expertise-request.html, IDOR
 - https://hopesamples.blogspot.com/2022/09/details-about-future-collaboration.html, IDOR
@@ -2253,7 +2253,7 @@
 - https://machevalia.blog/blog/access-control-violation-sensitive-data-exposure, Directory-listing
 - https://medium.com/@friendly_/bypassing-cloudflares-waf-b1b83a50fb2f, XSS
 - https://gitlab.com/kop316/vvm-disclosure, Voicemail-hacking
-- https://remonsec.com/posts/hacking-dutch-gov/, -
+- https://remonsec.com/posts/hacking-dutch-gov/, journey
 - https://remonsec.com/posts/passive-recon-with-spyse-part-II/, Subdomain-takeover
 - https://remonsec.com/posts/getting-first-swag-SIDN/, Directory-listing
 - https://github.com/Metnew/write-ups/tree/main/rce-github-desktop-2.9.3, RCE
@@ -2319,7 +2319,7 @@
 - https://medium.com/@damaidec/idor-vulnerability-on-invoice-and-weak-password-reset-leads-to-account-take-over-603b42143a8c, IDOR
 - https://www.zerodayinitiative.com/blog/2022/2/1/cve-2021-44142-details-on-a-samba-code-execution-bug-demonstrated-at-pwn2own-austin, Memory-corruption
 - https://systemweakness.com/a-peculiar-case-of-xss-and-my-first-bug-19f2132390b6, XSS
-- https://medium.com/@emil.lerner/leaking-uninitialized-memory-from-fastly-83327bcbee1f, HTTP/3
+- https://medium.com/@emil.lerner/leaking-uninitialized-memory-from-fastly-83327bcbee1f, HTTP3
 - https://hetroublemakr.medium.com/how-i-approached-dependency-confusion-272b46f66907, Dependency-confusion
 - https://github.com/httpvoid/writeups/blob/main/Hacking-Google-Drive-Integrations.md, SSRF
 - https://www.offensive-security.com/offsec/microsoft-onedrive-macos-local-privesc/, Local-Privilege-Escalation
@@ -2801,6 +2801,7 @@
 - https://research.checkpoint.com/2021/i-can-take-over-your-kindle/, Memory-corruption
 - https://infosecwriteups.com/account-takeover-user-admin-via-password-reset-322b8020ea6, Account-takeover
 - https://gonzx.medium.com/how-i-found-open-redirect-on-hashnode-com-5f3e9ecb8dc6, Open-redirect
+- Youghourta Ghannei (@YoughartaG), XSS
 - https://yashswarup12.medium.com/how-the-use-of-hidden-form-fields-lead-to-email-verification-bypass-3c8d7c25bd31, Email-verification-bypass
 - https://infosecwriteups.com/how-i-scored-1k-bounty-using-waybackurls-717d9673ca52, Information-disclosure
 - https://blog.gypsyengineer.com/en/security/detecting-jackson-deserialization-vulnerabilities-with-codeql.html, Insecure-deserialization
@@ -5581,7 +5582,7 @@
 - https://medium.com/pentesternepal/bypassing-ebay-xss-protection-8cf73466ba0f, Reflected-XSS
 - https://guptashubham.com/svg-xss-in-unifi-v5-0-2/, Stored-XSS
 - https://guptashubham.com/stored-xss-in-unifi-v4-8-12-controller/, Stored-XSS
-- https://portswigger.net/research/backslash-powered-scanning-hunting-unknown-vulnerability-classes, -
+- https://portswigger.net/research/backslash-powered-scanning-hunting-unknown-vulnerability-classes, misc
 - https://philippeharewood.com/rewriting-a-photo-not-owned-by-the-session-user-in-moments-app-revisited/, Logic-flaw
 - https://ahussam.me/leak-private-videos-vimeo/, Logic-flaw
 - https://foxglovesecurity.com/2016/10/14/hacking-jasperreports-the-hidden-shell-feature/, RCE
