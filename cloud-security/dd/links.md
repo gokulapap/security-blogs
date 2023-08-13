@@ -1,1 +1,0 @@
-- https://medium.com/@martin.heinz/python-f-strings-are-more-powerful-than-you-might-think-8271d3efbd7d

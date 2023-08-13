@@ -1,1 +1,0 @@
-- https://medium.com/@USDTOCH/usdtoch-ambassador-program-4f7a1b037385

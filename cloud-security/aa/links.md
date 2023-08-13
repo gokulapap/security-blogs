@@ -1,1 +1,0 @@
-- https://medium.com/@genijaho/safely-upgrade-from-php-7-4-to-8-1-using-rector-268ab3f77dfb
