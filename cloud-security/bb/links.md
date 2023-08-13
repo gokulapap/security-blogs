@@ -1,0 +1,1 @@
+- https://medium.com/@shuhasegawa/5-java-methods-you-dont-know-about-56a36e4c45fa

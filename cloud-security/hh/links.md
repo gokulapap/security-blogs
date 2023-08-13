@@ -1,0 +1,1 @@
+- https://medium.com/@patriziacastagnod/example-of-a-ar-2-in-matlab-1759942eb4f2

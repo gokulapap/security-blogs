@@ -1,3 +1,0 @@
-- https://medium.com/@shuhasegawa/5-java-methods-you-dont-know-about-56a36e4c45fa, bb
-- https://medium.com/@rahulsharmadev/why-flutter-is-best-choose-for-startup-d7ae4847ba9d, ff
-- https://medium.com/@patriziacastagnod/example-of-a-ar-2-in-matlab-1759942eb4f2, hh
