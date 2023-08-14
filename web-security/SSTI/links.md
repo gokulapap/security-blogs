@@ -1,0 +1,1 @@
+- https://hx01.me/Abusing_Data_Protection_Laws_For_D0xing_and_Account_Takeovers.pdf

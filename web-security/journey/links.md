@@ -1,1 +1,2 @@
 - https://medium.com/@skselim/what-is-the-fastest-way-to-get-into-bug-bounty-hunting-with-zero-experience-af122c21a89a
+- https://medium.com/@mike-sheward/bug-bounties-tips-from-the-triager-7cb092efd22a

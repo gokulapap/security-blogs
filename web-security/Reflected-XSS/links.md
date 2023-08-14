@@ -1,0 +1,1 @@
+- https://medium.com/@pflash0x0punk/how-paypal-helped-me-to-generate-xss-9408c0931add

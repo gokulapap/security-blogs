@@ -71,7 +71,6 @@
 - https://medium.com/@sushantdhopat/how-i-able-to-perform-open-redirection-lead-to-full-account-takeover-6a624210c5e0, open-redirection
 - https://medium.com/@musab_alharany/10-ways-to-exploit-json-web-token-jwt-ac5f4efbc41b, JWT
 - https://medium.com/@0xm5awy/how-to-find-business-logics-and-broken-access-control-bugs-a31c1a03ced4, BAC
-- https://medium.com/@mike-sheward/bug-bounties-tips-from-the-triager-7cb092efd22a, journey
 - https://medium.com/@nav1n/how-i-got-owned-a-multi-billion-dollar-retailers-mysql-databases-using-simple-sql-injection-30f8b0dfd9ce, sql-injection
 - https://medium.com/@basu-banakar/exploiting-non-cloud-ssrf-for-more-fun-profit-3597934518c8, ssrf
 - https://medium.com/@vamshi-vemula/how-i-got-my-first-bounty-open-redirect-80832e5bf4e6, open-redirection
@@ -3155,7 +3154,6 @@
 - https://med-mahmoudi26.medium.com/chaining-bugs-for-the-greater-good-664412ae85f8, Blind-XSS
 - https://blog.teddykatz.com/2021/03/17/github-actions-write-access.html, Logic-flaw
 - https://blog.melbadry9.xyz/dangling-dns/xyz-services/ddns-worksites, Dangling-DNS-records
-- https://hx01.me/Abusing_Data_Protection_Laws_For_D0xing_and_Account_Takeovers.pdf, SSTI
 - https://www.thezdi.com/blog/2021/3/17/cve-2021-27076-a-replay-style-deserialization-attack-against-sharepoint, Insecure-deserialization
 - https://secureitmania.medium.com/an-unknown-linux-secret-that-turned-ssrf-to-os-command-injection-6fe2f4edc202, SSRF
 - https://mayank-01.medium.com/an-interesting-account-takeover-3a33f42d609d, IDOR
@@ -3859,7 +3857,6 @@
 - https://www.cyberonesecurity.com/blog/local-privilege-escalation-discovered-in-vmware-fusion, Local-Privilege-Escalation
 - https://medium.com/@ricardoiramar/this-is-fine-6e032f497b8f, Information-disclosure
 - https://medium.com/@imunissar786/awesome-host-header-injection-worth-2k-a7e5be1dbb1d, Host-header-injection
-- https://medium.com/@odayalhalbe1/how-i-earned-500-from-google-by-change-one-character-8350d2b618e5, CSRF
 - https://medium.com/bugbountywriteup/xss-to-database-credential-leakage-database-access-story-of-total-luck-77c990be8ab2, Reflected-XSS
 - http://www.firstsight.me/2020/06/from-399-to-1650-usd-part-i-simple-vertical-privilege-escalation-by-changing-http-response/, Privilege-escalation
 - https://medium.com/@th3g3nt3l/multiple-information-exposed-due-to-misconfigured-service-now-itsm-instances-de7a303ebd56, Missing-authentication
@@ -4317,7 +4314,6 @@
 - https://cpdos.org, DoS
 - https://medium.com/@edmundaa222/poc-disclose-members-in-any-closed-facebook-group-259783fa4bf, Information-disclosure
 - https://medium.com/@danangtriatmaja/bug-bounty-flaw-in-authentication-get-hall-of-fame-google-6196726ee5b9, Authentication-flaw
-- https://medium.com/@pflash0x0punk/how-paypal-helped-me-to-generate-xss-9408c0931add, Reflected-XSS
 - https://gauravnarwani.com/escalating-privileges-like-a-pro/, Privilege-escalation
 - https://0xsha.io/posts/hunting-for-bounties-antihackme-case-study, RCE
 - https://buer.haus/2019/10/18/a-tale-of-exploitation-in-spreadsheet-file-conversions/, Local-file-disclosure
@@ -4347,7 +4343,6 @@
 - https://web.archive.org/web/20191217020747/https://medium.com/@tech96bot/oneplus-open-unvalidated-redirects-forwards-234185215f33, Open-redirect
 - https://samcurry.net/analysis-of-cve-2019-14994/, Path-traversal
 - https://medium.com/bugbountywriteup/information-disclosure-at-paypal-and-xoom-paypal-acquisition-via-simple-google-dork-1-000-usd-b726fe628a05, Information-disclosure
-- https://web.archive.org/web/20191218184636/https://medium.com/@tech96bot/oneplus-xss-vulnerability-in-customer-support-portal-d5887a7367f4, XSS
 - http://verneet.com/fuzzing-77-till-p1/, SSTI
 - https://tutorgeeks.blogspot.com/2019/09/broken-link-hijacking-s3-buckets.html, Broken-link-hijacking
 - https://noobe.io/articles/2019-09/exploiting-cookie-based-xss-by-finding-rce, Information-disclosure
