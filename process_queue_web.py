@@ -2,10 +2,17 @@ import os
 import sys
 import telebot
 import random
+from slack_sdk import WebClient
+
+def send_slack_alert(token, channel, message):
+    client = WebClient(token=token)
+    client.chat_postMessage(channel=channel, text=message)
 
 def main():
     telegram_token = sys.argv[1]
     chat_id = sys.argv[2]
+    slack_token = sys.argv[3]
+    slack_channel = "#security-blogs"   
 
     # Read queue.md file
     queue_file_path = os.path.join(os.getcwd(), 'a_queue.md')
@@ -49,9 +56,13 @@ def main():
         bot = telebot.TeleBot(telegram_token)
         message = '📙 Blogs you need to read Today 📙\n\n✅ ' + '\n\n✅ '.join(processed_lines)
         bot.send_message(chat_id, message)
+        # Alert via Slack
+        message_slack = '📙 Blogs you need to read Today 📙\n\n✅ ' + '\n\n✅ '.join(processed_lines)
+        send_slack_alert(slack_token, slack_channel, message_slack)
     else:
         bot = telebot.TeleBot(telegram_token)
         bot.send_message(chat_id, "⚠️ NO MORE ARTICLES IN THE QUEUE, ADD THE BLOG LINKS IN THE QUEUE ⚠️", disable_web_page_preview=True)
+        send_slack_alert(slack_token, slack_channel, "⚠️ NO MORE ARTICLES IN THE QUEUE, ADD THE BLOG LINKS IN THE QUEUE ⚠️")
 
 if __name__ == '__main__':
     main()
