@@ -19,7 +19,9 @@ jobs:
           python-version: 3.9
 
       - name: Install dependencies
-        run: pip install pyTelegramBotAPI
+        run: |
+          pip install pyTelegramBotAPI
+          pip install slack_sdk
 
       - name: Process Queue
         run: |
