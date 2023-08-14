@@ -23,7 +23,7 @@ jobs:
 
       - name: Process Queue
         run: |
-          python process_queue_web.py ${{ secrets.API_KEY }} ${{ secrets.CHAT_ID }}
+          python process_queue_web.py ${{ secrets.API_KEY }} ${{ secrets.CHAT_ID }} ${{ secrets.SLACK_TOKEN }}
         env:
           GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
 
