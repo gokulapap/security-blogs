@@ -1,1 +1,2 @@
 - https://medium.com/@kalvik/account-takeover-a-bonus-vulnerability-3c2dc4e607ea
+- https://infosecwriteups.com/full-team-takeover-678c79842065

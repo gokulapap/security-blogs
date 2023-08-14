@@ -1,0 +1,1 @@
+- https://medium.com/@mahitman1/hacking-a-nft-platform-56fc59479d3b

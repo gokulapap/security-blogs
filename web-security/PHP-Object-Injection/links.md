@@ -1,0 +1,1 @@
+- https://karmainsecurity.com/exploiting-an-nday-vbulletin-php-object-injection

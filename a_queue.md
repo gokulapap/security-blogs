@@ -1048,7 +1048,6 @@
 - https://www.imperva.com/blog/google-chrome-symstealer-vulnerability/, Local-Privilege-Escalation
 - https://ssd-disclosure.com/ssd-advisory-macos-mozilla-firefox-download-protections-were-bypassed-by-atloc-ftploc-files/, Local-Privilege-Escalation
 - https://andika-here.medium.com/how-i-earned-1000-from-business-logic-vulnerability-account-takeover-f03547950c82, Logic-flaw
-- https://infosecwriteups.com/full-team-takeover-678c79842065, Account-takeover
 - https://erasec.be/blog/client-side-path-manipulation/, Client-side-Path-Traversal
 - https://dhakalbibek.medium.com/2022-a-year-of-fascinating-discoveries-d3277dfb006f, CSRF
 - https://tuhin1729.medium.com/full-team-takeover-678c79842065, Broken-Access-Control
@@ -1225,7 +1224,6 @@
 - https://attackshipsonfi.re/p/exploiting-cors-misconfigurations, CORS-misconfiguration
 - https://iamgk808.medium.com/how-i-hacked-into-a-government-e-learning-website-ce8da8fb4ccc, IDOR
 - https://v1dr4x.medium.com/hacking-dutch-government-broken-authentication-to-full-website-takeover-p1-9af477604d54, Exposed-registration-page
-- https://karmainsecurity.com/exploiting-an-nday-vbulletin-php-object-injection, PHP-Object-Injection
 - https://hacklido.com/d/93-able-to-mass-change-profile-section-leads-to-my-first-bounty, HTML-injection
 - https://petrusviet.medium.com/cve-2022-43781-32bc29de8960, OS-command-injection
 - https://rashahacks.com/directory-enumeration-guide/, 40x-bypass
@@ -1690,7 +1688,6 @@
 - https://www.synacktiv.com/en/publications/exploiting-cve-2022-24816-a-code-injection-in-the-jt-jiffle-extension-of-geoserver.html, RCE
 - https://medium.com/@fpatrik/how-i-found-an-xss-vulnerability-via-using-emojis-7ad72de49209, XSS
 - https://research.checkpoint.com/2022/researching-xiaomis-tee/, Payment-bypass
-- https://sector7.computest.nl/post/2022-08-process-injection-breaking-all-macos-security-layers-with-a-single-vulnerability/, Local-Privilege-Escalation
 - https://sagarsajeev.medium.com/file-upload-bypass-to-rce-76991b47ad8f, Unrestricted-file-upload
 - https://medium.com/@iknowhatodo/amazon-cognito-misconfiguration-lead-to-account-takeover-20694243ca40, Account-takeover
 - https://bahruz.me/publications/11844, HTTP-Request-Smuggling
@@ -1700,7 +1697,6 @@
 - https://gonzx.medium.com/my-experience-on-hacking-the-dutch-government-a2c5a5f43d83, XSS
 - https://www.rapid7.com/blog/post/2022/08/11/rapid7-discovered-vulnerabilities-in-cisco-asa-asdm-and-firepower-services-software/, RCE
 - https://www.usenix.org/conference/usenixsecurity22/presentation/zhang-lei, Android
-- https://www.usenix.org/conference/usenixsecurity22/presentation/li-song, RCE
 - https://www.usenix.org/conference/usenixsecurity22/presentation/mirheidari, Web-cache-deception
 - https://i.blackhat.com/USA-22/Wednesday/US-22-Doyhenard-Internal-Server-Error-wp.pdf, Memory-corruption
 - https://portswigger.net/research/browser-powered-desync-attacks, HTTP-Request-Smuggling
@@ -1899,7 +1895,6 @@
 - https://medium.com/@leomsec/every-xss-is-different-c98528fee5e0, XSS
 - https://codewithvamp.medium.com/account-takeover-by-otp-bypass-ec0cff67f516, Information-disclosure
 - https://medium.com/@sazouki/how-i-hacked-one-of-the-biggest-airline-in-the-world-e7810dc43791, IDOR
-- https://medium.com/@mahitman1/hacking-a-nft-platform-56fc59479d3b, SSRF
 - https://medium.com/@janijay007/how-i-was-able-to-see-likes-and-dislikes-count-which-is-hidden-by-victim-youtube-2-721d8e4686a5, Logic-flaw
 - https://www.cyberark.com/resources/threat-research-blog/that-pipe-is-still-leaking-revisiting-the-rdp-named-pipe-vulnerability, RCE
 - https://webs3c.com/t/csrf-leads-to-account-takeover-in-yahoo/93, CSRF
