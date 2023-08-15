@@ -9,7 +9,6 @@
 - https://medium.com/@gupta-bless/basics-of-source-code-review-4c263652202, source-code-review
 - https://medium.com/@jenishpanchal514/account-takeover-via-response-manipulation-otp-brute-force-b965fc1b7a37, ATO
 - https://medium.com/@diegotellaroli05/account-takeover-in-chatgpt-e134ed11654d, ATO
-- https://medium.com/@vulnmachines/banner-grabbing-leads-to-rce-76fe74cde0e5, RCE
 - https://medium.com/@Bishoo97x/google-unrestricted-file-upload-xss-and-html-injection-f6ba3c2cddbf, XSS
 - https://medium.com/@javizgodoy/how-i-use-obsidian-as-a-second-brain-11945456dc69, 
 - https://medium.com/@_deshine_/easy-2000-race-condition-b4d093c9bc3c, race-condition
@@ -433,7 +432,6 @@
 - https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/brute-forcing-butterflymx-virtual-keys-and-hacking-time-limits/, Bruteforce
 - https://medium.com/@ferferof/pii-data-leakage-and-us-1500-bounty-af676350fb76, Information-disclosure
 - https://infosecwriteups.com/sql-injection-in-the-http-custom-header-fd117ba1435e, SQL-injection
-- https://rashahacks.com/pwning-admin-panel-to-change-movie-ticket-prices-at-disney/, Bruteforce
 - https://orca.security/resources/blog/examining-two-xss-vulnerabilities-in-azure-services/, XSS
 - https://starlabs.sg/blog/2023/06-the-old-the-new-and-the-bypass-one-clickopen-redirect-to-own-samsung-s22-at-pwn2own-2022/, Open-redirect
 - https://blog.assetnote.io/2023/06/07/moveit-transfer-patch-diff-adventure/, RCE
@@ -1156,7 +1154,6 @@
 - https://hopesamples.blogspot.com/2022/12/source-code-leakage-due-to-exposed.html, Source-code-disclosure
 - https://hopesamples.blogspot.com/2022/12/user-names-and-email-addresses-are.html, Information-disclosure
 - https://hopesamples.blogspot.com/2022/12/custom-role-details-are-exposed-in.html, Information-disclosure
-- https://hopesamples.blogspot.com/2022/12/users-of-other-organizations-can-be.html, Username-enumeration
 - https://medium.com/@mrd17x/scoring-for-a-very-simple-bug-you-dont-always-need-proxy-tools-872a832f83ea, IDOR
 - https://web.archive.org/web/20221212095559/https://medium.com/@seeu-inspace/automate-cross-site-scripting-xss-exploitation-with-unusal-events-and-burp-intruder-9dfed4369fff, XSS
 - https://research.nccgroup.com/2022/12/09/public-report-vpn-by-google-one-security-assessment/, Android
@@ -3746,7 +3743,6 @@
 - https://medium.com/bugbountywriteup/how-i-lost-my-followers-on-medium-9fe10e9862aa, GraphQL
 - https://medium.com/@sudipshah_66336/the-story-of-my-first-4-digit-bounty-from-facebook-3a29830e03cd, Logic-flaw
 - https://medium.com/@saurabhsanmane06/i-am-able-to-see-users-sensitive-data-from-json-file-905e330278df, Information-disclosure
-- https://medium.com/@__mr_beast__/the-3-day-account-takeover-269b0075d526, Logic-flaw
 - https://medium.com/@yaala/admin-editor-can-disclose-personnel-email-of-other-editor-admin-on-page-who-created-shop-57c35ed9f9b7, Information-disclosure
 - https://web.archive.org/web/20211016075506/https://insight.claranet.co.uk/technical-blogs/hunting-postmessage-vulnerabilities, postMessage
 - https://medium.com/bugbountywriteup/exploiting-imported-libraries-to-bypass-cloudflare-waf-7aed99186c5a, Reflected-XSS
@@ -5173,7 +5169,6 @@
 - https://medium.com/@jonathanbouman/unvalidated-open-redirect-bol-com-b270151380e6, Open-redirect
 - https://medium.com/@khaled.hassan/full-account-takeover-via-reset-password-function-8b6ef15f346f, IDOR
 - https://www.bishopfox.com/blog/2018/06/server-side-spreadsheet-injections/, CSV-injection
-- https://www.coalfire.com/The-Coalfire-Blog/June-2018/How-I-Found-CVE-2018-8819-Out-of-Band-(OOB)-XXE, XXE
 - https://blog.ayoubaitelmokhtar.com/2018/06/paypal-bbp-i-couldve-deleted-all-smc.html, CSRF
 - https://thehackerblog.com/steam-fire-and-paste-a-story-of-uxss-via-dom-xss-clickjacking-in-steam-inventory-helper/index.html, DOM-XSS
 - https://medium.com/@adrien_jeanneau/how-i-was-able-to-list-some-internal-information-from-paypal-bugbounty-ca8d217a397c, Expression-Language-Injection

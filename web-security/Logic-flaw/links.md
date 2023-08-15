@@ -1,1 +1,2 @@
 - https://philippeharewood.com/facebook-bug-bounty-secondary-damage-revisited-why-i-really-like-reporting-to-facebook-too/
+- https://medium.com/@__mr_beast__/the-3-day-account-takeover-269b0075d526

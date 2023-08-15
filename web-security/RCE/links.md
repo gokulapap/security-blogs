@@ -1,1 +1,2 @@
 - https://www.usenix.org/conference/usenixsecurity22/presentation/li-song
+- https://medium.com/@vulnmachines/banner-grabbing-leads-to-rce-76fe74cde0e5

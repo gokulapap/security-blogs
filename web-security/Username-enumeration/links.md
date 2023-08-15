@@ -1,0 +1,1 @@
+- https://hopesamples.blogspot.com/2022/12/users-of-other-organizations-can-be.html

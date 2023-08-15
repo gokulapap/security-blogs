@@ -1,0 +1,1 @@
+- https://rashahacks.com/pwning-admin-panel-to-change-movie-ticket-prices-at-disney/
