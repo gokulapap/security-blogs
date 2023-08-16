@@ -693,7 +693,6 @@
 - https://www.legitsecurity.com/blog/remote-code-execution-vulnerability-in-azure-pipelines-can-lead-to-software-supply-chain-attack, RCE
 - https://xelkomy.medium.com/found-ssrf-and-lfi-in-just-10-minutes-of-using-burp-492fddef3f3e, SSRF
 - https://www.netspi.com/blog/technical/vulnerability-research/azure-service-bus-power-platform/, RCE
-- https://checkmarx.com/blog/cve-2022-37734-graphql-java-denial-of-service/, GraphQL
 - https://z-sec.co/hacking-admin-panel-getting-free-subscription, Exposed-registration-API
 - https://www.sonarsource.com/blog/it-s-a-snmp-trap-gaining-code-execution-on-librenms/, RCE
 - https://www.wiz.io/blog/azure-active-directory-bing-misconfiguration, Account-takeover
@@ -1314,7 +1313,6 @@
 - https://medium.com/@vflexo/invitation-hijacking-4d6467f418cc, Authorization-flaw
 - https://redsiege.com/blog/2022/11/the-power-of-adaptability-through-experience/, Lateral-movement
 - https://infosecwriteups.com/get-blind-xss-within-5-minutes-100-9718bd056570, Blind-XSS
-- https://medium.com/@bobvanderstaak/how-i-could-have-been-the-administrator-for-all-dutch-companies-and-create-invoices-and-still-can-de181160cec5, Logic-flaw
 - https://googleprojectzero.blogspot.com/2022/11/gregor-samsa-exploiting-java-xml.html, Integer-truncation
 - https://rohit-soni.medium.com/chaining-multiple-vulnerabilities-leads-to-remote-code-execution-rce-on-paytm-e77f2fd2295e, Exposed-registration-page
 - https://medium.com/@calfcrusher/fuzzing-for-hidden-params-671724bf3fd7, SQL-injection
@@ -4404,7 +4402,6 @@
 - https://palant.info/2019/08/19/kaspersky-in-the-middle--what-could-possibly-go-wrong/, Clickjacking
 - https://medium.com/@ar_arvind/facebook-bug-bounty-reading-whatsapp-contacts-list-without-unlocking-the-device-a40e9c660a42, Authorization-flaw
 - https://aaronesau.com/blog/posts/5, Information-disclosure
-- https://philippeharewood.com/removing-profile-pictures-for-any-facebook-user/, IDOR
 - https://philippeharewood.com/add-users-to-roles-on-facebook-pages-without-an-invitation-consent-revisited/, Logic-flaw
 - https://ninadmathpati.com/how-i-was-able-to-earn-1000-with-just-10-minutes-of-bug-bounty/, Password-reset
 - https://medium.com/@rohitcoder/bypassing-fix-of-domain-blocking-feature-in-business-manager-41949a18460c, Authorization-flaw
@@ -5221,7 +5218,6 @@
 - https://medium.com/@newp_th/reflected-xss-on-stack-overflow-b8366a855472, Reflected-XSS
 - https://medium.com/@mdisrail2468/bypassing-the-confirmation-email-for-newsletter-bof-nl-682c05cb927f, Authorization-flaw
 - https://medium.com/@sivakrishnasamireddi/how-i-earned-60k-from-private-program-71bd51554490, Open-redirect
-- https://medium.com/bug-bounty-hunting/application-logic-bugs-600245fb5bf0, Logic-flaw
 - https://medium.com/@nuraalamdipu/xss-403-forbidden-bypass-write-up-e070de52bc06, XSS
 - https://medium.com/bugbountywriteup/how-we-got-lfi-in-apache-drill-recon-like-a-boss-6f739a79d87d, LFI
 - http://blog.mindedsecurity.com/2018/04/dom-based-cross-site-scripting-in.html, DOM-XSS
@@ -5265,7 +5261,6 @@
 - https://medium.com/bugbountywriteup/creating-test-conversion-using-any-app-8b32ee0a735, Parameter-tampering
 - http://www.tomanthony.co.uk/blog/google-xml-sitemap-auth-bypass-black-hat-seo-bug-bounty/, Logic-flaw
 - https://web.archive.org/web/20200929015014/https://www.mohamedharon.com/2018/03/reflected-xss-moogaloop-swf-version-62x.html, Flash-XSS
-- https://medium.com/@markchristiandeduyo/misconfiguration-of-demographics-privacy-in-a-page-682feb1179f2, Logic-flaw
 - https://medium.com/@logicbomb_1/bugbounty-rewarded-by-securing-vulnerabilities-in-bookmyshow-indias-largest-online-movie-bb81dba9b82, Host-header-injection
 - https://medium.com/bugbountywriteup/hacking-oracle-in-5-minutes-b52107a6124c, Directory-listing
 - https://medium.com/@Alra3ees/google-adwords-3133-7-stored-xss-27bb083b8d27, Stored-XSS

@@ -1,0 +1,1 @@
+- https://checkmarx.com/blog/cve-2022-37734-graphql-java-denial-of-service/
