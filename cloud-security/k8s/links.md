@@ -1,0 +1,1 @@
+- https://medium.com/@hosein-vita/kubernetes-pentest-bypassing-load-balancer-9bcfae2ce84a
