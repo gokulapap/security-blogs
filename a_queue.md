@@ -2238,7 +2238,6 @@
 - https://machevalia.blog/blog/access-control-violation-sensitive-data-exposure, Directory-listing
 - https://medium.com/@friendly_/bypassing-cloudflares-waf-b1b83a50fb2f, XSS
 - https://gitlab.com/kop316/vvm-disclosure, Voicemail-hacking
-- https://remonsec.com/posts/hacking-dutch-gov/, journey
 - https://remonsec.com/posts/passive-recon-with-spyse-part-II/, Subdomain-takeover
 - https://remonsec.com/posts/getting-first-swag-SIDN/, Directory-listing
 - https://github.com/Metnew/write-ups/tree/main/rce-github-desktop-2.9.3, RCE
@@ -2314,7 +2313,6 @@
 - https://web.archive.org/web/20221228134225/https://machevalia.blog/access-control-violation-wiki-page-creation/, Authorization-flaw
 - https://medium.com/@abhijeetbiswas_/xss-cross-site-scripting-via-x-forwarded-host-header-20be114d4254, XSS
 - https://medium.com/@arthbajpai277/2fa-bypass-by-changing-request-method-to-delete-500fd0ed12b8, MFA-bypass
-- https://readme.security/how-i-hacked-my-way-to-the-top-of-darpas-hardware-bug-bounty-b66ec53b1973, Hardware-hacking
 - https://bxmbn.medium.com/how-i-made-15-000-by-hacking-caching-servers-part-1-5541712a61c3, Web-cache-poisoning
 - https://lohigowda.medium.com/paytm-broken-link-hijacking-11624e4e9eef, Broken-link-hijacking
 - https://infosecwriteups.com/multiple-http-redirects-to-bypass-ssrf-protections-45c894e5d41c, SSRF
@@ -2937,7 +2935,6 @@
 - https://samiparyal.medium.com/how-i-could-have-accessed-all-your-private-videos-photos-saved-inside-your-device-without-even-1a7e455ddcc8, Authorization-flaw
 - https://notifybugme.medium.com/how-github-recon-help-me-to-find-nine-full-ssrf-vulnerability-with-aws-metadata-access-531d931413a5, SSRF
 - https://batee5a.medium.com/shopify-multipass-misconfiguration-2bc85e92ad1d, Authentication-flaw
-- https://gccybermonks.com/posts/popups/, XSS
 - https://infosecwriteups.com/executing-csrf-with-phone-validation-103c525dd310, CSRF
 - https://dewangpanchal98.medium.com/403-forbidden-bypass-fc8b5df109b7, OTP-bypass
 - https://bloggerrando.blogspot.com/2021/06/how-many-likes-and-dislikes-that-was.html, Broken-Access-Control
@@ -3330,7 +3327,6 @@
 - https://github.com/httpvoid/writeups/blob/main/Apple-RCE.md, RCE
 - https://warandcode.com/post/apify-mass-bug-bounty/, Akamai-ARL-attack
 - https://warandcode.com/post/akamai-arl-hack/, Akamai-ARL-attack
-- https://secret.club/2021/01/15/bitlocker-bypass.html, Lock-screen-bypass
 - https://blog.blazeinfosec.com/attack-of-the-clones-2-git-command-client-remote-code-execution-strikes-back/, RCE
 - https://labs.detectify.com/2021/01/15/how-i-hijacked-the-top-level-domain-of-a-sovereign-state/, Domain-takeover
 - https://slashcrypto.org/2021/01/15/CVE-2020-1456/, XSS
@@ -4151,7 +4147,6 @@
 - https://medium.com/@shahjerry33/password-reset-token-leak-via-referrer-2e622500c2c1, Password-reset
 - https://medium.com/@ritishkumarsingh/facebook-vulnerability-hidden-community-manager-in-pages-due-to-invitation-accept-logic-61ddbe229c97, Logic-flaw
 - https://blog.securitybreached.org/2020/01/22/user-account-takeover-via-signup-feature-bug-bounty-poc/, Account-takeover
-- https://santuysec.com/2020/01/21/google-bug-bounty-csrf-in-learndigital-withgoogle-com/, CSRF
 - https://web.archive.org/web/20200819163234/https://medium.com/@adeshkolte/cross-site-request-forgery-vulnerability-leads-to-user-profile-change-in-microsoft-express-logic-dc3481ab47ba, CSRF
 - https://medium.com/bugbountywriteup/how-i-bought-my-way-to-subdomain-takeover-on-tokopedia-8c6697c85b4d, Subdomain-takeover
 - https://medium.com/@milanmagyar/ggvulnz-how-i-hacked-hundreds-of-companies-through-google-groups-b69c658c8924, Logic-flaw

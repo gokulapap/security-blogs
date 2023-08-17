@@ -1,0 +1,1 @@
+- https://secret.club/2021/01/15/bitlocker-bypass.html

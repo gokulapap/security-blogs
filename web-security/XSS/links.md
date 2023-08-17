@@ -1,2 +1,3 @@
 - https://ysx.me.uk/managed-apps-and-music-a-tale-of-two-xsses-in-google-play/
 - https://web.archive.org/web/20191218184636/https://medium.com/@tech96bot/oneplus-xss-vulnerability-in-customer-support-portal-d5887a7367f4
+- https://gccybermonks.com/posts/popups/
