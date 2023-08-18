@@ -1,1 +1,2 @@
 - https://sector7.computest.nl/post/2022-08-process-injection-breaking-all-macos-security-layers-with-a-single-vulnerability/
+- https://blog.recurity-labs.com/2021-02-03/webOS_Pt1.html

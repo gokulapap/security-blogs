@@ -1,0 +1,1 @@
+- https://blog.stazot.com/ssh-key-injection-google-cloud/

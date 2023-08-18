@@ -1,0 +1,1 @@
+- https://medium.com/@amangupta566/fun-with-cors-misconfiguration-ii-927caccfe932

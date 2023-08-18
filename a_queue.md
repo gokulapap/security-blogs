@@ -1038,7 +1038,6 @@
 - https://medium.com/@cachemoney/exploiting-application-logic-to-phish-internal-mailing-lists-486b94fc2ef1, Phishing
 - https://blog.stazot.com/auth-bypass-in-google-cloud-workstations/, Account-takeover
 - https://sector7.computest.nl/post/2023-01-xar/, Local-Privilege-Escalation
-- https://blog.stazot.com/ssh-key-injection-google-cloud/, OS-command-injection
 - https://googleprojectzero.blogspot.com/2023/01/der-entitlements-brief-return-of.html, iOS
 - https://blog.geekycat.in/client-side-ssrf-to-google-cloud-project-takeover/, SSRF
 - https://www.imperva.com/blog/google-chrome-symstealer-vulnerability/, Local-Privilege-Escalation
@@ -3275,7 +3274,6 @@
 - https://muhammad-aamir.medium.com/open-redirect-vulnerability-found-using-link-parameter-5fc43e2ea8fd, Open-redirect
 - https://raxis.com/blog/rd-web-access-vulnerability, Timing-attack
 - https://pullerjsecu.medium.com/how-i-was-able-to-turn-a-xss-into-a-account-takeover-ae0c478640e7, Web-cache-poisoning
-- https://blog.recurity-labs.com/2021-02-03/webOS_Pt1.html, Local-Privilege-Escalation
 - https://sunilyedla.medium.com/stealing-chat-session-id-with-cors-and-execute-csrf-attack-f9f7ea229db1, CSRF
 - https://spaceraccoon.dev/applying-offensive-reverse-engineering-to-facebook-gameroom, Insecure-deserialization
 - https://web.archive.org/web/20210204093332/https://nhiephon1337.medium.com/1st-facebook-bug-bounty-disclose-pages-admin-to-mod-admin-of-group-c3161c22c858, Information-disclosure
@@ -3957,7 +3955,6 @@
 - https://www.cyberark.com/threat-research-blog/beware-of-the-gif-account-takeover-vulnerability-in-microsoft-teams/, Account-takeover
 - https://blog.deteact.com/bitrix-waf-bypass/, Reflected-XSS
 - https://www.shielder.it/blog/1-click-rce-on-keybase/, RCE
-- https://medium.com/@amangupta566/fun-with-cors-misconfiguration-ii-927caccfe932, CORS-misconfiguration
 - https://blog.evanricafort.com/2020/04/xss-in-peerio-2-windows-application.html, XSS
 - https://web.archive.org/web/20200426140225/https://medium.com/@aungpyaehackeronetester/web-cache-poisoning-in-postmates-1500-a67eee4fc118, Web-cache-poisoning
 - https://medium.com/@hbothra22/from-recon-to-p1-critical-an-easy-win-6ca93d5b6e6d, Exposed-registration-page
@@ -4085,7 +4082,6 @@
 - https://medium.com/@DarkMatterMatt/breaking-a-discord-channel-with-a-single-message-5095eb7604f1, DoS
 - https://sites.google.com/securifyinc.com/vrp-writeups/hire-with-google/blind-xss, Blind-XSS
 - https://web.archive.org/web/20200505142429/https://medium.com/@godofdarkness.msf/reflected-xss-in-at-t-7f1bdd10d8f7, Reflected-XSS
-- https://medium.com/@bathinivijaysimhareddy/tale-of-account-takeovers-part-1-b24e1f3c3187, Account-takeover
 - https://medium.com/@evan.connelly/hunting-tesla-model-y-secrets-in-the-parts-catalog-2f453f853dd8, Authorization-flaw
 - https://medium.com/tenable-techblog/exploiting-jira-for-host-discovery-43be3cddf023, CSRF
 - https://blog.securitybreached.org/2020/02/19/hacking-sms-api-service-provider-of-a-company-android-app-static-security-analysis-bug-bounty-poc/, Information-disclosure
@@ -4727,7 +4723,6 @@
 - https://medium.com/@futaacmcyber/stored-xss-on-edmodo-11a3fbc6b6d0, Stored-XSS
 - https://medium.com/@elberandre/1-000-ssrf-in-slack-7737935d3884, SSRF
 - https://ysamm.com/?p=240, Authorization-flaw
-- https://medium.com/@rohitcoder/facebook-workplace-bug-exposed-offsite-employee-events-sensitive-emails-putting-employees-at-risk-813d77a0c0ab, Information-disclosure
 - https://web.archive.org/web/20200929010534/https://www.mohamedharon.com/2019/02/subdomain-takeover-via-wufoo-service-in.html, Subdomain-takeover
 - https://medium.com/@abaykandotcom/open-redirect-in-slack-385eb34b7c5f, Open-redirect
 - https://medium.com/bugbountywriteup/bypassing-rate-limit-abusing-misconfiguration-rules-dcd38e4e1028, Rate-limiting-bypass

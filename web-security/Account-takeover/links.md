@@ -1,2 +1,3 @@
 - https://medium.com/@kalvik/account-takeover-a-bonus-vulnerability-3c2dc4e607ea
 - https://infosecwriteups.com/full-team-takeover-678c79842065
+- https://medium.com/@bathinivijaysimhareddy/tale-of-account-takeovers-part-1-b24e1f3c3187
