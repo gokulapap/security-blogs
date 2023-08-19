@@ -1,1 +1,2 @@
 - https://philippeharewood.com/removing-profile-pictures-for-any-facebook-user/
+- https://m7arm4n.medium.com/zero-click-to-account-takeover-idor-xss-98dd6cce63c4

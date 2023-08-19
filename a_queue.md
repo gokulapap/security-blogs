@@ -708,7 +708,6 @@
 - https://pawanchhabria.medium.com/how-i-escalated-default-credentials-to-remote-code-execution-1c34504be7a5, Default-credentials
 - https://infosecwriteups.com/cve-2023-1410-stored-xss-in-the-graphite-function-description-tooltip-165bdc32154c, Stored-XSS
 - https://protectai.com/blog/hacking-ai-system-takeover-exploit-in-mlflow, LFI
-- https://vulncheck.com/blog/joomla-for-rce, Broken-Access-Control
 - https://portswigger.net/research/exploiting-prototype-pollution-in-node-without-the-filesystem, Server-side-prototype-pollution
 - https://www.netspi.com/blog/technical/cloud-penetration-testing/azure-function-apps/, Privilege-escalation
 - https://medium.com/@warrenbutterworth/finding-initial-access-on-a-real-life-penetration-test-86ed5503ae48, Old-components-with-known-vulnerabilities
@@ -1108,7 +1107,6 @@
 - https://posts.specterops.io/passwordless-persistence-and-privilege-escalation-in-azure-98a01310be3f, Privilege-escalation
 - https://medium.com/@yaala/account-takeover-and-two-factor-authentication-bypass-de56ed41d7f9, Authentication-bypass
 - https://bugreader.com/social/write-ups-general-delete-any-video-or-reel-on-facebook-11-250--100965, IDOR
-- https://m7arm4n.medium.com/zero-click-to-account-takeover-idor-xss-98dd6cce63c4, IDOR
 - https://medium.com/@vamshivaran110/rce-on-admin-panel-of-web3-website-2d0acf34d6ea, RCE
 - https://www.shielder.com/advisories/cisco-broadworks-commpilot-ssrf/, SSRF
 - https://medium.com/@EX_097/my-first-bug-in-bugcrowd-76decc1f9901, Race-condition
@@ -1380,7 +1378,6 @@
 - https://medium.com/@kandar.souvik6/found-vulnaribility-on-subdomain-of-nasa-gov-simply-using-censys-d93f253ff560, Exposed-registration-page
 - https://boschko.ca/tenda_ac1200_router/, OS-command-injection
 - https://blog.blacklanternsecurity.com/p/yet-another-telerik-ui-revisit, Cryptographic-issues
-- https://blog.sonarsource.com/remote-code-execution-in-melis-platform/, RCE
 - https://blog.doyensec.com/2022/10/18/cloudsectidbit-dataimport.html, Cloud
 - https://www.jomar.fr/posts/2022/basic_recon_to_rce_iii/, RCE
 - https://www.synacktiv.com/en/publications/php-filters-chain-what-is-it-and-how-to-use-it.html, Insecure-deserialization
@@ -1813,7 +1810,6 @@
 - https://thinkermaruf.medium.com/hacking-on-a-private-program-salseforce-crm-12bfef43fcc7, RCE
 - https://voidzone.me/cve-2022-29885-apache-tomcat-cluster-service-dos/, DoS
 - https://bishopfox.com/blog/netwrix-auditor-advisory, Insecure-deserialization
-- https://nirmaldahal.com.np/posts/2022/07/leveraging-the-sql-injection-to-execute-the-xss-by-evading-csp/, CSP-bypass
 - https://blog.aquasec.com/cve-2022-32223-dll-hijacking, DLL-Hijacking
 - https://medium.com/tenable-techblog/microsoft-azure-site-recovery-dll-hijacking-cd8cc34ef80c, DLL-Hijacking
 - https://medium.com/@soufianehabti/write-up-1-hellosign-integration-full-read-ssrf-df5e1a5bc627, SSRF
@@ -2749,7 +2745,6 @@
 - https://infosecwriteups.com/how-i-got-rce-in-the-world-largest-russian-company-8e6e8288bc4e, RCE
 - https://www.yesnaveen.com/whatsapp-number-disclosure, Information-disclosure
 - https://tuhin1729.medium.com/account-takeover-via-access-token-leakage-687276953408, IDOR
-- https://devco.re/blog/2021/08/06/a-new-attack-surface-on-MS-exchange-part-1-ProxyLogon/, RCE
 - https://zemnmez.medium.com/how-to-hack-apple-id-f3cc9b483a41, XSS
 - https://lokeshdlk77.medium.com/confirming-any-new-email-address-bug-in-facebook-part-4-70cfe1b4dca5, Rate-limiting-bypass
 - https://blog.melbadry9.xyz/dangling-dns/xyz-services/ddns-announcekit, Subdomain-takeover

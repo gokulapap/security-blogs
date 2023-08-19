@@ -1,0 +1,1 @@
+- https://vulncheck.com/blog/joomla-for-rce

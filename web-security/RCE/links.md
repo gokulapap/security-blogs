@@ -1,2 +1,4 @@
 - https://www.usenix.org/conference/usenixsecurity22/presentation/li-song
 - https://medium.com/@vulnmachines/banner-grabbing-leads-to-rce-76fe74cde0e5
+- https://blog.sonarsource.com/remote-code-execution-in-melis-platform/
+- https://devco.re/blog/2021/08/06/a-new-attack-surface-on-MS-exchange-part-1-ProxyLogon/
