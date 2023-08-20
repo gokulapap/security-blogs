@@ -3,3 +3,4 @@
 - https://medium.com/@markchristiandeduyo/misconfiguration-of-demographics-privacy-in-a-page-682feb1179f2
 - https://medium.com/@bobvanderstaak/how-i-could-have-been-the-administrator-for-all-dutch-companies-and-create-invoices-and-still-can-de181160cec5
 - https://medium.com/bug-bounty-hunting/application-logic-bugs-600245fb5bf0
+- https://mickeydebaets.medium.com/how-we-hacked-telenet-s-cybersecurity-quiz-958c1d3ee2ba

@@ -1,0 +1,1 @@
+- https://mazoka777.medium.com/how-i-hacked-all-zendesk-sites-265-000-site-by-one-line-c6b6485a7a6

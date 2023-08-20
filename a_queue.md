@@ -964,7 +964,6 @@
 - https://www.akamai.com/blog/security-research/cant-wait-to-shut-you-down-msrpc-wininit, DoS
 - https://www.ambionics.io/blog/vbulletin-unserializable-but-unreachable, RCE
 - https://khaledyassen.medium.com/how-i-bypassed-the-registration-validation-and-logged-in-with-the-company-email-14eb12c45fb5, Email-verification-bypass
-- https://mazoka777.medium.com/how-i-hacked-all-zendesk-sites-265-000-site-by-one-line-c6b6485a7a6, Web-cache-poisoning
 - https://medium.com/@mrhavit/how-i-found-an-insecure-direct-object-reference-in-tiktok-c7303addf223, IDOR
 - https://medium.com/@abhisekr/discovered-a-critical-idor-and-earned-900-for-my-first-p1-vulnerability-57c1e72f42c1, IDOR
 - https://www.jhaddix.com/post/the-100-million-person-data-disclosure, IDOR
@@ -1295,7 +1294,6 @@
 - https://fortbridge.co.uk/research/compromising-plesk-via-its-rest-api/, CORS-misconfiguration
 - https://maordayanofficial.medium.com/comodo-from-git-to-takeover-803ffb8b57e3, git-folder-disclosure
 - https://breakdev.org/zip-motw-bug-analysis/, Local-Privilege-Escalation
-- https://mickeydebaets.medium.com/how-we-hacked-telenet-s-cybersecurity-quiz-958c1d3ee2ba, Logic-flaw
 - https://medium.com/@mehdi.alouache/stormshield-sns-cleartext-password-leak-b436ef312fe9, Use-of-GET-request-Method-With-sensitive-query-strings
 - https://medium.com/@shellyshubh/idor-on-unsubscribe-emails-to-200-bounty-ae16fb783b01, IDOR
 - https://0xm5awy.medium.com/exploit-feature-to-get-high-bug-impact-1d3ae6517680, Logic-flaw
@@ -1625,7 +1623,6 @@
 - https://redrays.io/cve-2020-2733-jd-edwards/, Information-disclosure
 - https://www.zerodayinitiative.com/blog/2022/8/17/but-you-told-me-you-were-safe-attacking-the-mozilla-firefox-renderer-part-1, Browser-hacking
 - https://whereisk0shl.top/post/break-me-out-of-sandbox-in-old-pipe-cve-2022-22715-windows-dirty-pipe, Local-Privilege-Escalation
-- https://github.com/0vercl0k/paracosme, Memory-corruption
 - https://redrays.io/cve-2020-6369-patch-bypass/, Hardcoded-credentials
 - https://www.benthamsgaze.org/2022/08/22/vulnerability-in-linux-containers-investigation-and-mitigation/, Local-Privilege-Escalation
 - https://security.humanativaspa.it/useless-path-traversals-in-zyxel-admin-interface-cve-2022-2030/, Path-traversal
@@ -4166,7 +4163,6 @@
 - https://medium.com/sourav-sahana/bypass-2fa-in-a-website-d616eaead1e3, MFA-bypass
 - https://medium.com/sourav-sahana/bypass-mobile-pin-verification-d2c571afa3aa, Authentication-bypass
 - https://footstep.ninja/posts/idor-via-http/, IDOR
-- https://footstep.ninja/posts/html-injection-in-email/, HTML-injection
 - https://medium.com/sourav-sahana/from-post-to-get-open-redirect-e91f4f4206a, Open-redirect
 - https://medium.com/@sudhanshur705/bug-hunting-journey-of-2019-95e5190aca7c, XSS
 - https://footstep.ninja/posts/exploiting-self-xss/, Self-XSS
@@ -4863,7 +4859,6 @@
 - https://chainlover.blogspot.com/2018/11/love-story-of-account-takeover-chaining.html, Host-header-injection
 - https://medium.com/@sudhanshur705/story-about-my-first-bug-bounty-9fe710be8241, XSS
 - https://medium.com/@yassergersy/exploiting-post-message-to-steal-users-cookies-7df43a00289a, postMessage
-- https://medium.com/@hossainwalid93/story-of-store-xss-d24c3ab862f0, XSS
 - https://web.archive.org/web/20191221105442/https://medium.com/bugbountywriteup/broken-authentication-bug-bounty-5c941a4a5f48, Session-management-issue
 - https://medium.com/@logicbomb_1/irctc-millions-of-passenger-details-left-at-huge-risk-18c5ecc09d7f, Information-disclosure
 - https://slashcrypto.org/2018/11/28/eBay-source-code-leak/, git-folder-disclosure

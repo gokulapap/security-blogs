@@ -1,0 +1,1 @@
+- https://footstep.ninja/posts/html-injection-in-email/
