@@ -1,0 +1,1 @@
+- https://kleiton0x00.github.io/posts/Exploiting-HTTP-Request-Smuggling-(TE.CL)-XSS-to-website-takeover/

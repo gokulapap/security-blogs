@@ -1,0 +1,1 @@
+- https://pawanchhabria.medium.com/how-i-escalated-default-credentials-to-remote-code-execution-1c34504be7a5

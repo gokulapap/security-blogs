@@ -705,7 +705,6 @@
 - https://medium.com/@bughuntar/my-first-bug-open-redirect-at-epic-games-500-bounty-d0c03de60fa7, Open-redirect
 - https://frichetten.com/blog/undocumented-amplify-api-leak-account-id/, Cloud
 - https://medium.com/@rajdipdeysarkar7/my-journey-to-nokia-hall-of-fame-in-just-10-minutes-4869c78c37e7, DOM-XSS
-- https://pawanchhabria.medium.com/how-i-escalated-default-credentials-to-remote-code-execution-1c34504be7a5, Default-credentials
 - https://infosecwriteups.com/cve-2023-1410-stored-xss-in-the-graphite-function-description-tooltip-165bdc32154c, Stored-XSS
 - https://protectai.com/blog/hacking-ai-system-takeover-exploit-in-mlflow, LFI
 - https://portswigger.net/research/exploiting-prototype-pollution-in-node-without-the-filesystem, Server-side-prototype-pollution
@@ -3154,7 +3153,6 @@
 - https://infosecwriteups.com/chain-of-low-level-bugs-and-misconfigurations-leads-to-account-takeover-de248fc4e481, Reflected-XSS
 - https://notifybugme.medium.com/finding-basic-authtoken-in-javascript-file-by-full-automation-6188ca1b1f56, Information-disclosure
 - https://publish.whoisbinit.me/amazon-ec2-dangling-dns-records-on-surf-test-xwf-internet-org, Subdomain-takeover
-- https://kleiton0x00.github.io/posts/Exploiting-HTTP-Request-Smuggling-(TE.CL)-XSS-to-website-takeover/, HTTP-request-smuggling
 - https://omespino.com/write-up-google-vrp-n-a-ssrf-bypass-with-quadzero-in-google-cloud-monitoring/, SSRF
 - https://blog.melbadry9.xyz/ddns-ec2-ips-current-state, Dangling-DNS-records
 - https://www.bencteux.fr/posts/chrome_bypass_url_restrictions/, Browser-hacking
@@ -3701,7 +3699,6 @@
 - https://medium.com/@akshanshjaiswal/pre-access-to-victims-account-via-facebook-signup-60219e9e381d, OAuth
 - https://medium.com/@jjowi/bug-html-injection-on-tokopedia-9a9b0534ceaa, HTML-injection
 - https://www.r29k.com/articles/bb/csrf, CSRF
-- https://medium.com/@mattshockl/cve-2020-9934-bypassing-the-os-x-transparency-consent-and-control-tcc-framework-for-4e14806f1de8, MacOS
 - https://medium.com/@metnew/exploiting-popular-macos-apps-with-a-single-terminal-file-f6c2efdfedaa, MacOS
 - https://tolo7010note.blogspot.com/2020/07/an-unreproducable-bug-due-to-load.html, Open-redirect
 - https://shivangx01b.github.io/2fa_bypass/, MFA-bypass
@@ -3779,7 +3776,6 @@
 - https://certik.io/blog/technology/vulnerability-electron-based-application-malicious-code-execution, XSS
 - https://medium.com/kminthein/story-of-stealing-mail-conversation-contacts-in-mail-ru-and-mymail-ios-applications-via-xss-1e49c4ed560, Stored-XSS
 - https://blog.securitybreached.org/2020/06/30/using-inspect-element-to-bypass-security-restrictions-bug-bounty-poc/, Client-side-enforcement-of-server-side-security
-- https://medium.com/@keegan.ryan/patched-zoom-exploit-altering-camera-settings-via-remote-sql-injection-4fdf3de8a0d, SQL-injection
 - https://web.archive.org/web/20200629033551/https://blogs.ad3sh.com/2020/06/api-endpoint-leads-to-account-takeover.html, Exposed-token-generation-endpoint
 - https://blog.assetnote.io/2020/06/29/subdomain-takeover-to-account-takeover/, Subdomain-takeover
 - https://medium.com/@hgreal/how-i-hacked-a-bank-their-application-using-it-for-hacking-another-bank-company-10-k-xss-b9cc801a675, XSS
@@ -4307,7 +4303,6 @@
 - https://blog.usejournal.com/how-recon-helped-samsung-protect-their-production-repositories-of-samsungtv-ecommerce-estores-4c51d6ec4fdd, Information-disclosure
 - https://rahulr.in/idor-to-rce/, IDOR
 - https://web.archive.org/web/20201128230506/https://medium.com/@adeshkolte/how-i-made-1000-at-t-bug-bounty-h1-14e68b284e2f, CSRF
-- https://medium.com/@hackerb0y/rest-framework-admin-panel-bypass-and-how-i-recon-for-this-vulnerability-a0ee41b01102, Authentication-bypass
 - https://medium.com/@pranaybafna/graphql-introspection-leads-to-sensitive-data-disclosure-65b385452d7f, Information-disclosure
 - https://awakened1712.github.io/hacking/hacking-whatsapp-gif-rce/, Memory-corruption
 - https://medium.com/@byq/how-to-get-rce-on-aem-instance-without-java-knowledge-a995ceab0a83, RCE

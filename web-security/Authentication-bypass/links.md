@@ -1,0 +1,1 @@
+- https://medium.com/@hackerb0y/rest-framework-admin-panel-bypass-and-how-i-recon-for-this-vulnerability-a0ee41b01102
