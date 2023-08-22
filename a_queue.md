@@ -34,7 +34,6 @@
 - https://medium.com/@koroush.pub/10-practical-recon-vulnerability-scanners-for-bug-hunters-part-one-31460b4f642e, recon
 - https://medium.com/@vickieli/intro-to-ssrf-beb35857771f, ssrf
 - https://medium.com/@kotakbhavak/a-csrf-worth-the-wait-and-404c6b531789, csrf
-- https://medium.com/@yagizkocer/a-trivial-otp-bypass-based-on-business-logic-abuse-1513872716b0, bypass
 - https://medium.com/@tutorialboy/bypassing-php-waf-to-achieve-remote-code-execution-in-depth-analysis-f42eb6e633fa, bypass
 - https://medium.com/@unshoulder_supersedes/how-i-earned-47000-usd-as-a-high-school-student-a9a68896b3a3, journey
 - https://medium.com/@nanwinata/rce-docker-api-but-11ff70825935, Cloud
@@ -280,7 +279,6 @@
 - https://medium.com/@armandjasharaj/pii-nacles-of-discovery-deep-recon-fourth-level-subdomains-and-abusing-exposed-git-repositories-7e282442bd02, git-folder-disclosure
 - https://medium.com/@snoopy101/1000-for-a-simple-stored-xss-8be7083a7c2d, Stored-XSS
 - https://fatnassifiras.medium.com/cross-tenant-information-disclosure-unraveling-microsoft-connections-custom-connectors-and-oauth-6487321d28b3, OAuth
-- https://faizanwrites.medium.com/using-browser-tools-for-bug-hunting-an-interesting-0-write-idor-on-instagram-7d5318299c1a, IDOR
 - https://samcurry.net/points-com/, Path-traversal
 - https://research.aurainfosec.io/pentest/hook-line-and-phishlet/, Phishing
 - https://medium.com/@plenumlab/identifying-and-exploiting-unsafe-deserialization-in-ruby-97c7cbd6c05d, Insecure-deserialization
@@ -3203,7 +3201,6 @@
 - https://zdresearch.com/rce-on-a-laravel-private-program/, RCE
 - https://neroli.medium.com/is-math-random-safe-from-missing-rate-limit-to-bypass-2fa-and-possible-sqli-2a4ea66f82c5, Race-condition
 - https://ashutoshmishra00x0.medium.com/account-takeover-via-response-manipulation-worth-1800-ffb242cc55c9, Authentication-bypass
-- https://certitude.consulting/blog/en/csrf-myfaces-2/, CSRF
 - https://sprocketfox.io/xssfox/2021/02/18/pipeline/, RCE
 - https://thevillagehacker.medium.com/account-take-over-by-response-manipulation-e1293ee51e9a, Authentication-bypass
 - https://ysamm.com/?p=640, Information-disclosure
@@ -3316,7 +3313,6 @@
 - https://warandcode.com/post/apify-mass-bug-bounty/, Akamai-ARL-attack
 - https://warandcode.com/post/akamai-arl-hack/, Akamai-ARL-attack
 - https://blog.blazeinfosec.com/attack-of-the-clones-2-git-command-client-remote-code-execution-strikes-back/, RCE
-- https://labs.detectify.com/2021/01/15/how-i-hijacked-the-top-level-domain-of-a-sovereign-state/, Domain-takeover
 - https://slashcrypto.org/2021/01/15/CVE-2020-1456/, XSS
 - https://theshubh77.medium.com/irremovable-facebook-group-album-photos-and-entire-album-under-certain-circumstances-bounty-1000-b1b2a870b8e0, Logic-flaw
 - https://medium.com/bug-bounty-hunting/tale-of-2-tootb-bugs-google-and-whatsapp-3c0ad40d604c, Information-disclosure
@@ -4487,7 +4483,6 @@
 - https://medium.com/@osamaavvan/cors-to-csrf-attack-c33a595d441, CORS-misconfiguration
 - https://philippeharewood.com/toggle-group-rules-agreement-as-a-non-member/, Authorization-flaw
 - https://medium.com/@dr.spitfire/sensitive-information-disclosure-web-cache-deception-attack-bcac6cb9cd86?sk=a2557f0c557ff38876141c2d94b296dd, Information-disclosure
-- https://www.pentestpartners.com/security-blog/f5-networks-endpoint-inspector-browser-to-rce/, RCE
 - https://philippeharewood.com/download-arexport-files-for-any-public-ar-studio-effect/, IDOR
 - https://medium.com/@navne3t/csv-injection-at-comment-section-d5009ddd176, CSV-injection
 - https://web.archive.org/web/20201001064738/https://medium.com/@protector47/password-reset-vulnerability-full-account-takeover-insecure-direct-object-reference-c4a9a3ea8268, Password-reset
