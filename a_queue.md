@@ -343,7 +343,6 @@
 - https://shahjerry33.medium.com/idn-homograph-attack-and-response-manipulation-the-rarest-case-85f64c272a1c, IDN-homograph-attack
 - https://blog.projectdiscovery.io/moveit-transfer-sql-injection/, SQL-injection
 - https://www.wojciechregula.blog/post/macos-atlassian-companion-rce/, RCE
-- https://bhavukjain.com/blog/2023/07/08/account-takeover-custom-otp/, Account-takeover
 - https://devco.re/blog/2023/07/07/a-journey-into-hacking-google-search-appliance-en/, RCE
 - https://www.code-intelligence.com/blog/cve-protobufjs-prototype-pollution-cve-2023-36665, Prototype-pollution
 - https://www.rapid7.com/blog/post/2023/07/06/user-enumeration-is-not-a-vulnerability-i-beg-to-differ/, Username-enumeration
@@ -1136,7 +1135,6 @@
 - https://medium.com/@jazdprince/doing-it-the-researchers-way-how-i-managed-to-get-ssti-server-side-template-injection-which-66b239ca0104, SSTI
 - https://www.vaadata.com/blog/exploiting-an-sql-injection-with-waf-bypass/, SQL-injection
 - https://blog.lightspin.io/aws-ecr-public-vulnerability, Cloud
-- https://yilmazcanyigit.medium.com/cve-2019-6238-apple-xar-directory-traversal-vulnerability-9a32ba8b3b7d, Local-Privilege-Escalation
 - https://www.secforce.com/blog/cve-2022-20942-its-not-old-functionality-its-vintage/, Information-disclosure
 - https://karol-mazurek95.medium.com/not-usual-csp-bypass-case-b538263e09d6, Unrestricted-file-upload
 - https://0xmayankgarg.medium.com/pii-data-exfiltration-within-minutes-f06d4587d201, Information-disclosure
@@ -1809,7 +1807,6 @@
 - https://medium.com/@soufianehabti/write-up-1-hellosign-integration-full-read-ssrf-df5e1a5bc627, SSRF
 - https://payatu.com/blog/rajesh.r/idor-to-account-deletion, IDOR
 - https://blog.sonarsource.com/blitzjs-prototype-pollution/, Prototype-pollution
-- https://spawnzii.github.io/posts/2022/07/how-we-have-pwned-root-me-in-2022/, XSS
 - https://h3k.ro/2022/07/11/bsqli/, SQL-injection
 - https://blog.lightspin.io/exploiting-eks-authentication-vulnerability-in-aws-iam-authenticator, Authentication-flaw
 - https://medium.com/@idan_malihi/how-i-earned-200-in-bug-bounty-program-6d7225a7ff1a, Information-disclosure
@@ -5145,7 +5142,6 @@
 - https://www.nc-lp.com/blog/searching-for-xss-found-ldap-injection, LDAP-injection
 - https://medium.com/@khaled.hassan/are-you-sure-this-is-a-trusted-email-291121028320, Open-mail-relay
 - https://thehackerblog.com/reading-your-emails-with-a-readwrite-chrome-extension-same-origin-policy-bypass-8-million-users-affected/index.html, SOP-bypass
-- https://hk.saowen.com/a/a8d21c0bdf39e733395aefc0e331998e3d618558f90cf06135aa4df411804e59, SSRF
 - http://www.shawarkhan.com/2018/06/getting-php-code-execution-and-leverage.html, Code-injection
 - https://medium.com/@D0rkerDevil/how-i-convert-ssrf-to-xss-in-a-ssrf-vulnerable-jira-e9f37ad5b158, SSRF
 - https://web.archive.org/web/20200814185643/https://medium.com/@adeshkolte/how-i-earned-750-bounty-reward-from-at-t-bug-bounty-adesh-kolte-ae62dea44083, RCE
@@ -5227,7 +5223,6 @@
 - https://web.archive.org/web/20200929004520/https://www.mohamedharon.com/2018/03/xss-in-subdomain-httpsyefgrantsyahoocom.html, Flash-XSS
 - https://web.archive.org/web/20200928235353/https://www.mohamedharon.com/2018/03/xss-in-sportstwcampaignyahoonet.html, Reflected-XSS
 - https://medium.com/@valeriyshevchenko/how-i-hacked-one-cryptocurrency-service-db3cb0f81d6c, Blind-XSS
-- https://medium.com/bugbountywriteup/how-i-could-have-promoted-any-facebook-page-for-free-70b0f4fc0feb, Logic-flaw
 - https://medium.com/bugbountywriteup/creating-test-conversion-using-any-app-8b32ee0a735, Parameter-tampering
 - http://www.tomanthony.co.uk/blog/google-xml-sitemap-auth-bypass-black-hat-seo-bug-bounty/, Logic-flaw
 - https://web.archive.org/web/20200929015014/https://www.mohamedharon.com/2018/03/reflected-xss-moogaloop-swf-version-62x.html, Flash-XSS

@@ -2,3 +2,4 @@
 - https://web.archive.org/web/20191218184636/https://medium.com/@tech96bot/oneplus-xss-vulnerability-in-customer-support-portal-d5887a7367f4
 - https://gccybermonks.com/posts/popups/
 - https://medium.com/@hossainwalid93/story-of-store-xss-d24c3ab862f0
+- https://spawnzii.github.io/posts/2022/07/how-we-have-pwned-root-me-in-2022/
