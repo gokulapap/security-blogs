@@ -1003,7 +1003,6 @@
 - https://medium.com/pentesternepal/two-factor-authentication-bypass-on-facebook-3f4ac3ea139c, MFA-bypass
 - https://www.secforce.com/blog/aws-cognito-pitfalls-default-settings-attackers-love-and-you-should-know-about/, Amazon-cognito-misconfiguration
 - https://www.zerodayinitiative.com/blog/2023/1/18/cve-2022-35690-unauthenticated-rce-in-adobe-coldfusion, RCE
-- https://blog.viettelcybersecurity.com/saml-show-stopper/, SAML
 - https://medium.com/@siratsami71/the-easiest-way-i-used-to-bypass-an-admin-panel-93d4297ed4a6, HTTP-request-smuggling
 - https://ermetic.com/blog/azure/emojideploy-smile-your-azure-web-service-just-got-rced/, RCE
 - https://shahjerry33.medium.com/api-misconfiguration-no-swag-of-swaggerui-9b43135346be, Security-misconfiguration
@@ -2406,7 +2405,6 @@
 - https://medium.com/@yoshimlutfi/how-i-found-p2-broken-authentication-with-zero-skill-of-hacking-c40b5643fe4a, Authentication-bypass
 - https://ssd-disclosure.com/ssd-advisory-rocket-chat-client-side-remote-code-execution/, RCE
 - https://medium.com/@mohamedtaha_42562/how-i-earned-by-bypassing-2fa-b5487942a86d, MFA-bypass
-- https://web.archive.org/web/20221128052252/https://wya.pl/2021/12/20/bring-your-own-ssrf-the-gateway-actuator/, SSRF
 - https://web.archive.org/web/20220128200941/https://saeeds.medium.com/blackbox-cookie-testing-how-i-cracked-the-admins-cookie-c817dd4281c8, Authentication-bypass
 - https://parsiya.net/blog/2021-12-20-rce-in-visual-studio-codes-remote-wsl-for-fun-and-negative-profit/, RCE
 - https://medium.com/pentesternepal/how-i-was-able-to-reveal-page-admin-of-almost-any-page-on-facebook-5a8d68253e0c, IDOR
@@ -2589,7 +2587,6 @@
 - https://shail-official.medium.com/accessing-apples-internal-uat-slackbot-for-fun-and-non-profit-25b167605f38, Authorization-flaw
 - https://www.zerodayinitiative.com/blog/2021/10/5/cve-2021-26420-remote-code-execution-in-sharepoint-via-workflow-compilation, RCE
 - https://medium.com/@mfocuz/hacking-netflix-eureka-8e5957b2f539, SSRF
-- https://medium.com/@saneem7/csrf-to-one-tray-red-bull-6564cd884a47, CSRF
 - https://www.aeth.cc/public/Article-Pass-Culture/stored-xss-article-en.html, Stored-XSS
 - https://supras.io/how-i-got-access-to-many-piis-through-a-source-code-leak/, Information-disclosure
 - https://github.com/snowyyowl/writeups/blob/main/CVE-2021-26084/CVE-2021-26084.md, RCE
@@ -3400,7 +3397,6 @@
 - https://medium.com/@vedanttekale20/story-of-the-best-vulnerability-ive-found-so-far-5e3b0e02b47e, Self-XSS
 - https://blog.evanricafort.com/2020/12/cve-2019-17674-wordpress-stored-xss.html, Stored-XSS
 - https://shahjerry33.medium.com/rce-via-lfi-log-poisoning-the-death-potion-c0831cebc16d, RCE
-- https://abhisek3122.medium.com/how-redirects-work-on-facebook-technical-breakdown-6699de52996c, Open-redirect
 - https://nmochea.medium.com/this-post-is-about-an-reflected-xss-that-i-found-on-opera-browser-application-which-could-have-been-39823a22045d, XSS
 - https://amineaboud.medium.com/10000-facebook-ssrf-bug-bounty-402bd21e58e5, SSRF
 - https://komradz86.medium.com/leaking-credit-card-activity-in-logs-yes-sir-b988bb6c0c2, Information-disclosure
@@ -5356,7 +5352,6 @@
 - https://medium.com/@neerajedwards/reading-internal-files-using-ssrf-vulnerability-703c5706eefb, SSRF
 - https://web.archive.org/web/20180704183048/http://stamone-bug-bounty.blogspot.com/2017/10/dom-xss-auth_14.html, DOM-XSS
 - https://medium.com/bugbountywriteup/how-i-was-able-to-see-someones-all-private-files-with-a-single-file-share-link-through-atom-feed-7cde46d7e84d, Information-disclosure
-- https://ahussam.me/Amazon-leaking-csrf-token-using-service-worker/, CSRF
 - https://blog.securitybreached.org/2017/10/10/bugcrowds-domain-subdomain-takeover-vulnerability, Subdomain-takeover
 - https://blog.securitybreached.org/2017/10/10/exploiting-insecure-cross-origin-resource-sharing-cors-api-artsy-net, CORS-misconfiguration
 - https://blog.securitybreached.org/2017/10/10/subdomain-takeover-lamborghini-hacked/, Subdomain-takeover

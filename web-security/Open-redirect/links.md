@@ -1,0 +1,1 @@
+- https://abhisek3122.medium.com/how-redirects-work-on-facebook-technical-breakdown-6699de52996c

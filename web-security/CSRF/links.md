@@ -1,3 +1,5 @@
 - https://medium.com/@odayalhalbe1/how-i-earned-500-from-google-by-change-one-character-8350d2b618e5
 - https://santuysec.com/2020/01/21/google-bug-bounty-csrf-in-learndigital-withgoogle-com/
 - https://certitude.consulting/blog/en/csrf-myfaces-2/
+- https://medium.com/@saneem7/csrf-to-one-tray-red-bull-6564cd884a47
+- https://ahussam.me/Amazon-leaking-csrf-token-using-service-worker/
