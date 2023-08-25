@@ -652,7 +652,6 @@
 - https://orca.security/resources/blog/azure-shared-key-authorization-exploitation/, Cloud
 - https://weizman.github.io/2023/04/10/snyk-xss/, Stored-XSS
 - https://blog.nietaanraken.nl/posts/aur-packages-github-repo-jacking/, Repojacking
-- https://medium.com/@thabisomokoena/account-take-over-via-an-api-2eea4fe49532, Account-takeover
 - https://medium.com/@zhero_/a-successful-prototype-pollution-chained-to-a-dom-xss-9887087b56a4, Prototype-pollution
 - https://medium.com/@ch3tanbug/how-i-was-able-to-change-password-of-any-corporate-user-c68b9509840, Account-takeover
 - https://0xwise.medium.com/are-clicking-links-safe-f7cfcae2e421, Android
@@ -1815,7 +1814,6 @@
 - https://pentest.blog/advisory-glpi-service-management-software-sql-injection-remote-code-execution-and-local-file-inclusion/, SQL-injection
 - https://medium.com/@Bishoo97x/stored-xss-and-stored-html-injection-in-united-nations-website-db87d445e41, XSS
 - https://medium.com/@bughunt789/account-takeover-via-response-manipulation-96be568feb7e, Authentication-bypass
-- https://ahmdhalabi.medium.com/pii-disclosure-of-apple-users-10k-d1e3d29bae36, IDOR
 - https://monke.ie/case-study-part-2/, SSRF
 - https://medium.com/@abhinavsecondary/how-i-find-open-redirect-in-facebook-7e7aeb89535d, Open-redirect
 - https://ivreznap.medium.com/interesting-privilege-escalation-in-an-old-private-program-225d27253e13, Privilege-escalation
@@ -3176,7 +3174,6 @@
 - https://shubhamchaskar.com/ato-through-pe/, Privilege-escalation
 - https://github.com/champtar/blog/tree/main/K8S_MITM_LoadBalancer_ExternalIPs, MiTM
 - https://github.com/champtar/blog/tree/main/IPv6_RA_MITM, MiTM
-- https://pallabjyoti218.medium.com/story-about-stop-10000-users-to-get-their-job-notification-6a8aca542c85, Logic-flaw
 - https://infosecwriteups.com/somebody-call-the-plumber-graphql-is-leaking-again-654bf1a38d26, Information-disclosure
 - https://priyankn.github.io/2021-02-26-CVE-2020-13956/, Blind-SSRF
 - https://web.archive.org/web/20210226210519/https://savirsuda.github.io/IDOR-to-view-personal-email-addresses-of-more-than-50k-users/, IDOR
@@ -3517,7 +3514,6 @@
 - https://medium.com/@sechunter/js-is-love-%EF%B8%8F-ca393a4849e9, Information-disclosure
 - https://medium.com/@aakashadhikari786/weak-password-setting-function-on-practo-com-79df78245b81, Authorization-flaw
 - https://medium.com/@parasarora06/cve-2018-5230-jira-cross-site-scripting-59ec96b3d75f, Reflected-XSS
-- https://medium.com/@sechunter/exploiting-admin-panel-like-a-boss-fc2dd2499d31, Authorization-bypass
 - https://medium.com/@sechunter/ato-via-host-header-poisoning-dc5c29d2fd0d, Host-header-injection
 - https://www.intezer.com/blog/cloud-security/kud-i-enter-your-server-new-vulnerabilities-in-microsoft-azure/, Privilege-escalation
 - https://samcurry.net/hacking-apple/, RCE
@@ -3971,7 +3967,6 @@
 - https://blog.securitybreached.org/2020/04/04/playing-with-json-web-tokens-for-fun-and-profit/, Password-reset
 - https://medium.com/@pig.wig45/touch-id-authentication-bypass-on-evernote-and-dropbox-ios-apps-7985219767b2, Authentication-bypass
 - https://www.ryanpickren.com/webcam-hacking-overview, Zero-Click-Unauthorized-Access-to-Sensitive-Data
-- https://medium.com/@intideceukelaire/hundreds-of-internal-servicedesks-exposed-due-to-covid-19-ecd0baec87bd, Security-misconfiguration
 - https://medium.com/@nnez/always-escalate-from-self-xss-to-persistent-xss-on-login-portal-54265b0adfd0, Self-XSS
 - https://medium.com/@ravillabharath123/account-take-over-without-user-interaction-f4ed2bf977de, Password-reset
 - https://medium.com/@shahjerry33/privilege-escalation-hello-admin-a53ac14fd388, Privilege-escalation

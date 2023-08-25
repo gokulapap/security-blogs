@@ -1,3 +1,4 @@
 - https://philippeharewood.com/removing-profile-pictures-for-any-facebook-user/
 - https://m7arm4n.medium.com/zero-click-to-account-takeover-idor-xss-98dd6cce63c4
 - https://faizanwrites.medium.com/using-browser-tools-for-bug-hunting-an-interesting-0-write-idor-on-instagram-7d5318299c1a
+- https://ahmdhalabi.medium.com/pii-disclosure-of-apple-users-10k-d1e3d29bae36
