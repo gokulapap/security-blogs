@@ -1,1 +1,2 @@
 - https://bughunt1307.herokuapp.com/googlebugs.html
+- https://www.rafaybaloch.com/2017/06/dom-based-xss-in-microsoft.html

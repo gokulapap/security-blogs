@@ -1,1 +1,2 @@
 - https://whitton.io/articles/removing-covers-images-on-friendship-pages-on-facebook/
+- https://sites.google.com/securifyinc.com/secblogs/shopify-athena-bug

@@ -1695,7 +1695,6 @@
 - http://blog.h4rsh4d.com/2022/08/open-redirect-bypass.html, Open-redirect
 - https://systemweakness.com/rooting-jenkins-remote-code-execution-on-a-live-bug-bounty-target-fc2c12d89a2e, Missing-authentication
 - https://alpinnnnnn13.medium.com/stored-xss-in-app-gitbook-com-6349f42661f7, Stored-XSS
-- https://ssd-disclosure.com/ssd-advisory-apple-safari-icu-out-of-bounds-write/, Memory-corruption
 - https://medium.com/@sharp488/2fa-bypass-via-google-identity-oauth-login-6c991ac837af, MFA-bypass
 - https://vsrc.vng.com.vn/blog/liferay-revisited-a-tale-of-20k/, RCE
 - https://medium.com/@rajeevgyawali92/irremovable-guest-in-facebook-event-facebook-bug-bounty-e10e03c98cd5, Logic-flaw
@@ -2794,7 +2793,6 @@
 - https://sunilyedla.medium.com/information-disclosure-to-account-takeover-a21b2b54147a, Information-disclosure
 - https://haxolot.com/posts/2021/moodle_pre_auth_shibboleth_rce_part1/, RCE
 - https://web.archive.org/web/20210927021132/https://0xdln.ml/XSS-Special-Cases/, XSS
-- https://filipaze.medium.com/abusing-json-web-token-to-steal-accounts-3000-b9f7daeaef81, IDOR
 - https://medium.com/bug-bounty/telegram-report-ssrf-leads-to-dos-attack-908bea5f5802, SSRF
 - https://innotommy.com/You’ve%20Got%20%28a%20Reset%29%20Mail.pdf, Password-reset
 - https://cinzinga.com/XXE-Case-Studies/, XXE
@@ -4536,7 +4534,6 @@
 - https://blog.takemyhand.xyz/2019/05/escalating-subdomain-takeovers-to-steal.html, Subdomain-takeover
 - https://philippeharewood.com/determine-a-user-from-an-email-address/, Information-disclosure
 - https://whitehatfamilyguy.blogspot.com/2019/06/google-adwordsprivilege-escalation-read.html, Privilege-escalation
-- https://www.updatelap.com/2019/05/local-file-inclusion-in-peeringgooglecom.html, LFI
 - https://medium.com/@zseano/leaking-openid-tokens-with-the-bug-right-infront-of-you-95c1fb4a86e9, OpenID-Connect
 - https://omespino.com/write-up-google-bug-bounty-lfi-on-production-servers-in-redacted-google-com-13337-usd/, LFI
 - https://medium.com/@__rishabh__/open-redirect-to-account-takeover-e939006a9f24, Open-redirect
@@ -4968,7 +4965,6 @@
 - https://nirmaldahal.com.np/posts/2019/11/r-xss-leading-csrf-bypass-to-account-takeover/, Reflected-XSS
 - https://websecblog.com/vulns/bypassing-firebase-authorization-to-create-custom-goo-gl-subdomains/, Logic-flaw
 - https://blog.bentkowski.info/2018/09/another-xss-in-google-colaboratory.html, XSS
-- https://sites.google.com/securifyinc.com/secblogs/shopify-athena-bug, Authorization-flaw
 - https://medium.com/@jonathanbouman/local-file-inclusion-at-ikea-com-e695ed64d82f, LFI
 - https://mohitdabas.wordpress.com/2018/09/18/bypassing-authentication-using-javascript-debugger/, Authentication-bypass
 - https://web.archive.org/web/20190320205543/https://medium.com/@0ktavandi/how-i-bypassed-akamai-kona-waf-xss-in-overstock-com-f205b0e71a0d, XSS
@@ -5453,7 +5449,6 @@
 - https://www.rafaybaloch.com/2017/06/stored-xss-csrf-and-clickjacking.html, Stored-XSS
 - https://www.rafaybaloch.com/2017/06/a-tale-of-another-sop-bypass-in-android.html, SOP-bypass
 - https://www.rafaybaloch.com/2017/06/android-browser-same-origin-policy.html, SOP-bypass
-- https://www.rafaybaloch.com/2017/06/dom-based-xss-in-microsoft.html, DOM-XSS
 - https://www.rafaybaloch.com/2017/06/paypal-mobile-verification-and-payment.html, Logic-flaw
 - https://www.rafaybaloch.com/2017/06/nokia-asha-series-lock-screen-bypass.html, Authentication-bypass
 - https://www.rafaybaloch.com/2017/06/android-browser-all-versions-address.html, Address-Bar-Spoofing

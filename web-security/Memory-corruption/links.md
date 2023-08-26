@@ -1,1 +1,2 @@
 - https://github.com/0vercl0k/paracosme
+- https://ssd-disclosure.com/ssd-advisory-apple-safari-icu-out-of-bounds-write/
