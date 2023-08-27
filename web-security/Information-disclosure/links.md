@@ -1,3 +1,4 @@
 - https://notifybugme.medium.com/android-apk-leaks-access-token-to-takeover-the-whole-infrastructure-c979187f8fc8
 - https://security.lauritz-holtmann.de/advisories/asana-desktop-credential-disclosure/
 - https://medium.com/@rohitcoder/facebook-workplace-bug-exposed-offsite-employee-events-sensitive-emails-putting-employees-at-risk-813d77a0c0ab
+- https://omar0x01.medium.com/company-building-takeover-10a422385390

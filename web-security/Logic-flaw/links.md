@@ -6,3 +6,4 @@
 - https://mickeydebaets.medium.com/how-we-hacked-telenet-s-cybersecurity-quiz-958c1d3ee2ba
 - https://medium.com/bugbountywriteup/how-i-could-have-promoted-any-facebook-page-for-free-70b0f4fc0feb
 - https://pallabjyoti218.medium.com/story-about-stop-10000-users-to-get-their-job-notification-6a8aca542c85
+- https://medium.com/bugbountywriteup/exploiting-an-unknown-vulnerability-a752272ffd7f

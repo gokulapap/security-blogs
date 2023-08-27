@@ -3,3 +3,4 @@
 - https://gccybermonks.com/posts/popups/
 - https://medium.com/@hossainwalid93/story-of-store-xss-d24c3ab862f0
 - https://spawnzii.github.io/posts/2022/07/how-we-have-pwned-root-me-in-2022/
+- https://rotem-bar.com/hacking-65-million-websites-greater-cve-2022-29455-elementor

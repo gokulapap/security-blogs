@@ -3,3 +3,4 @@
 - https://certitude.consulting/blog/en/csrf-myfaces-2/
 - https://medium.com/@saneem7/csrf-to-one-tray-red-bull-6564cd884a47
 - https://ahussam.me/Amazon-leaking-csrf-token-using-service-worker/
+- https://obmiblog.blogspot.com/2022/12/gcp-2022-few-bugs-in-google-cloud-shell.html

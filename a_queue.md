@@ -1078,7 +1078,6 @@
 - https://www.yassineaboukir.com//blog/hunting-for-amazon-cognito-security-misconfigurations/, Amazon-cognito-misconfiguration
 - https://danaepp.com/hacking-a-net-api-in-the-real-world, LFI
 - https://mtechghost.medium.com/stored-xss-vulnerability-in-microsoft-booking-e593de3344e0, Stored-XSS
-- https://obmiblog.blogspot.com/2022/12/gcp-2022-few-bugs-in-google-cloud-shell.html, CSRF
 - https://blog.viettelcybersecurity.com/tabshell-owassrf/, SSRF
 - https://downrightnifty.me/blog/2022/12/26/hacking-google-home.html, IoT
 - https://bergee.it/blog/how-i-found-multiple-critical-bugs-in-red-bull/, Authentication-bypass
@@ -1417,7 +1416,6 @@
 - https://crypt0g30rgy.github.io/post/AuthBypass, Hardcoded-API-keys
 - https://mearegtu.medium.com/insecure-comments-73399193f804, IDOR
 - https://medium.com/stolabs/cve-2022-36635-a-sql-injection-in-zksecuritybio-to-rce-c5bde2962d47, SQL-injection
-- https://omar0x01.medium.com/company-building-takeover-10a422385390, Information-disclosure
 - https://research.nccgroup.com/2022/10/06/technical-advisory-openjdk-weak-parsing-logic-in-java-net-inetaddress-and-related-classes/, IP-address-validation-bypass
 - https://ssd-disclosure.com/ssd-advisory-pfsense-post-auth-rce/, RCE
 - https://ahmadaabdulla.medium.com/mr-robot-self-xss-from-informative-to-high-1200-csrf-open-redirect-self-xss-to-stored-92f371ba3da1, Self-XSS
@@ -1575,7 +1573,6 @@
 - https://portswigger.net/research/using-hackability-to-uncover-a-chrome-infoleak, SOP-bypass
 - https://snapsec.co/blog/Log4shell-on-agorapulse/, Log4shell
 - https://research.nccgroup.com/2022/09/01/settlers-of-netlink-exploiting-a-limited-uaf-in-nf_tables-cve-2022-32250/, Memory-corruption
-- https://blog.syss.com/posts/abusing-ms-teams-direct-routing/, Spoofing
 - https://c0nqr0r.medium.com/reading-robots-txt-got-me-4-xss-reports-9fd2234c635f, XSS
 - https://www.microsoft.com/security/blog/2022/08/31/vulnerability-in-tiktok-android-app-could-lead-to-one-click-account-hijacking/, Insecure-deeplink
 - https://med-mahmoudi26.medium.com/saving-more-than-100-000-website-from-a-watering-hole-attack-a22f63a37f94, Web-cache-poisoning
@@ -1896,7 +1893,6 @@
 - https://medium.com/tenable-techblog/microsoft-azure-synapse-pwnalytics-87c99c036291, Privilege-escalation
 - https://www.randorisec.fr/yet-another-bug-netfilter/, Memory-corruption
 - https://haxatron.gitbook.io/vulnerability-research/vr2, SSRF
-- https://rotem-bar.com/hacking-65-million-websites-greater-cve-2022-29455-elementor, XSS
 - https://infosecwriteups.com/how-i-found-a-critical-bug-in-instagram-and-got-49500-bounty-from-facebook-626ff2c6a853, IDOR
 - https://prajwoldhungana487.medium.com/same-bug-different-platform-4c648e91af6b, Logic-flaw
 - https://medium.com/@joshibeast/from-blind-ssrf-to-localhost-dirbusting-and-asset-enumeration-dc0179310038, SSRF
@@ -4942,7 +4938,6 @@
 - https://www.martinvigo.com/googlemeetroulette, Bruteforce
 - https://www.sec-down.com/wordpress/?p=809, CSRF
 - https://medium.com/@jonathanbouman/stored-xss-unvalidated-embed-at-medium-com-528b0d6d4982, Stored-XSS
-- https://medium.com/bugbountywriteup/exploiting-an-unknown-vulnerability-a752272ffd7f, Logic-flaw
 - https://medium.com/@rohitcoder/email-id-phone-number-can-be-exposed-through-business-manager-e79b970ea288, Logic-flaw
 - http://10degres.net/aws-takeover-through-ssrf-in-javascript/, SSRF
 - https://medium.com/@saamux/applying-a-small-bypass-to-steal-facebook-session-tokens-in-uber-5b9638b7a18c, XSS

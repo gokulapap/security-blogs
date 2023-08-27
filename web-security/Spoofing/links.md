@@ -1,0 +1,1 @@
+- https://blog.syss.com/posts/abusing-ms-teams-direct-routing/
