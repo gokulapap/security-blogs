@@ -395,7 +395,6 @@
 - https://medium.com/@pratiky054/account-takeover-unraveling-idor-stored-xss-flaws-in-an-nft-marketplace-158679660fa7, IDOR
 - https://medium.com/@0day_exploit/stored-xss-via-exif-data-37b279ceb3e9, Stored-XSS
 - https://medium.com/@hbenja47/my-first-two-valid-and-rewarded-web-cache-deceptions-earning-2250-c8d2a6968713, Web-cache-deception
-- https://realm3ter.medium.com/using-dark-web-in-bug-bounty-3a9530fd454c, Credential-stuffing
 - https://medium.com/@mydudehello91/how-i-hacked-scopely-and-got-c60772f77d41, Self-XSS
 - https://medium.com/@kushjain0107/one-mistake-three-bugs-comprehensive-android-pentesting-a8fc68e36af5, Android
 - https://github.com/pedrib/PoC/blob/master/advisories/ManageEngine/adselfpwnplus/adselfpwnplus.md, Authentication-bypass
@@ -677,7 +676,6 @@
 - https://frichetten.com/blog/minor-cross-tenant-vulns-app-runner/, Cross-tenant-vulnerability
 - https://medium.com/@prakashchand72/lenovo-database-of-root-user-credentials-exposed-22aab5382c, git-folder-disclosure
 - https://infosecwriteups.com/lets-hacking-citizens-bank-9520e9c05cf9, XSS
-- https://medium.com/@paulo_mota/bug-bounty-como-encontrei-o-bug-unrestricted-file-upload-dd1a61adc9fd, Unrestricted-file-upload
 - https://rayhan0x01.github.io/ctf/2023/04/01/finding-rce-in-eta-cve-2022-25967.html, RCE
 - https://www.reversemode.com/2023/03/beware-of-javas-stringgetbytes.html, Hash-collision
 - https://sensepost.com/blog/2023/protected-users-you-thought-you-were-safe-uh/, Active-Directory
@@ -3156,7 +3154,6 @@
 - https://www.rafaybaloch.com/2021/02/Microsoft-Edge-Browser-For-IOS-Address-Bar-Spoofing-Vulnerability.html, Address-Bar-Spoofing
 - https://lf.lc/vrp/181521559a/, Container-escape
 - https://notmarshmllow.medium.com/exploiting-cors-to-perform-an-idor-attack-leading-to-pii-information-disclosure-95ef21ecf8ee, CORS-misconfiguration
-- https://ahmdhalabi.medium.com/secret-key-exposure-in-api-config-directory-79cf7e7b976, Information-disclosure
 - https://gevakun.medium.com/join-facebook-group-with-unpublish-page-cb649a20fb0e, Authorization-flaw
 - https://securifyinc.com/disclosures/rocketchat-unauthenticated-access-to-messages, Authorization-flaw
 - https://zonduu.medium.com/ssrf-to-fetch-aws-credentials-with-full-access-to-various-services-18cd08194e91, SSRF
@@ -4046,7 +4043,6 @@
 - https://web.archive.org/web/20200511064630/https://medium.com/@godofdarkness.msf/mail-ru-ext-b-scope-account-takeover-1500-abdb1560e5f9, Account-takeover
 - https://web.archive.org/web/20200513211717/https://mrss4nd0x.000webhostapp.com/Stored-XSS-on-groups-google-com.php, Stored-XSS
 - https://medium.com/@DarkMatterMatt/breaking-a-discord-channel-with-a-single-message-5095eb7604f1, DoS
-- https://sites.google.com/securifyinc.com/vrp-writeups/hire-with-google/blind-xss, Blind-XSS
 - https://web.archive.org/web/20200505142429/https://medium.com/@godofdarkness.msf/reflected-xss-in-at-t-7f1bdd10d8f7, Reflected-XSS
 - https://medium.com/@evan.connelly/hunting-tesla-model-y-secrets-in-the-parts-catalog-2f453f853dd8, Authorization-flaw
 - https://medium.com/tenable-techblog/exploiting-jira-for-host-discovery-43be3cddf023, CSRF
@@ -4616,7 +4612,6 @@
 - https://medium.com/@pratyush1337/edm0d0-idor-vulnerabilities-95ca8600ee1c, IDOR
 - https://blog.redforce.io/sql-injection-in-insert-update-query-without-comma/, SQL-injection
 - https://cryptograph3r.blogspot.com/2021/02/recon-in-2-minutes-and-got-250-easy.html, Missing-secure-flag
-- https://medium.com/@heinthantzin/how-i-was-able-to-turn-self-xss-into-reflected-xss-850e3d5a2beb, Reflected-XSS
 - https://gauravnarwani.com/a-tale-of-3-xss/, XSS
 - https://medium.com/h4x00r/my-very-first-bug-a-dreaded-dupe-and-then-an-idor-jackpot-d01b69f6fbae, IDOR
 - https://hackademic.co.in/youtube-bug/, CSRF

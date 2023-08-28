@@ -1,0 +1,1 @@
+- https://sites.google.com/securifyinc.com/vrp-writeups/hire-with-google/blind-xss
