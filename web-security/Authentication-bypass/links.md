@@ -1,1 +1,2 @@
 - https://medium.com/@hackerb0y/rest-framework-admin-panel-bypass-and-how-i-recon-for-this-vulnerability-a0ee41b01102
+- https://geekboyranjeet.medium.com/strange-admin-panel-bypass-story-bug-bounty-5e618099baaf

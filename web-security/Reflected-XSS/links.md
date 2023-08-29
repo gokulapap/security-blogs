@@ -1,2 +1,3 @@
 - https://medium.com/@pflash0x0punk/how-paypal-helped-me-to-generate-xss-9408c0931add
 - https://medium.com/@heinthantzin/how-i-was-able-to-turn-self-xss-into-reflected-xss-850e3d5a2beb
+- https://medium.com/@mehulcodes/stealing-login-credentials-with-reflected-xss-7cb450bf5710

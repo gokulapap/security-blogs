@@ -1,1 +1,2 @@
 - https://vulncheck.com/blog/joomla-for-rce
+- https://tuhin1729.medium.com/full-team-takeover-678c79842065

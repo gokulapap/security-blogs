@@ -1035,7 +1035,6 @@
 - https://andika-here.medium.com/how-i-earned-1000-from-business-logic-vulnerability-account-takeover-f03547950c82, Logic-flaw
 - https://erasec.be/blog/client-side-path-manipulation/, Client-side-Path-Traversal
 - https://dhakalbibek.medium.com/2022-a-year-of-fascinating-discoveries-d3277dfb006f, CSRF
-- https://tuhin1729.medium.com/full-team-takeover-678c79842065, Broken-Access-Control
 - https://krevetk0.medium.com/hacking-hackers-for-fun-and-profit-784e6c7897e8, Self-XSS
 - https://github.com/blasty/lexmark/blob/main/writeup/writeup.md, RCE
 - https://www.vulnano.com/2023/01/meta-quest-attacker-could-make-any.html, IDOR
@@ -3036,7 +3035,6 @@
 - https://tij.me/blog/harvesting-active-directory-credentials-via-http-request-smuggling/, HTTP-request-smuggling
 - https://pharish4948.medium.com/blind-ssrf-to-port-scanning-through-response-time-d7336667299d, SSRF
 - https://notifybugme.medium.com/unauthorized-access-to-admin-setpassword-page-by-bypass-403-forbidden-f10bbb92ab35, Authorization-flaw
-- https://edmundaa222.medium.com/poc-untrim-any-live-video-on-facebook-ad6b97bad7c0, Authorization-flaw
 - https://mase289.medium.com/exploiting-unrestricted-file-upload-to-achieve-remote-code-execution-on-a-bug-bounty-program-85661516712, Unrestricted-file-upload
 - https://infosecwriteups.com/pwning-your-assignments-stored-xss-via-graphql-endpoint-6dd36c8a19d5, Stored-XSS
 - https://0x2m.medium.com/misconfiguration-in-change-password-functionality-leads-to-account-takeover-1314b5507abf, IDOR
@@ -3288,7 +3286,6 @@
 - https://kunalkhubchandani.medium.com/how-i-was-rewarded-a-1000-bounty-after-abusing-file-upload-functionality-to-stored-xss-945a40ac6f94, Unrestricted-file-upload
 - https://secureitmania.medium.com/lets-know-how-i-have-explored-the-buried-secrets-in-react-native-application-6236728198f7, Information-disclosure
 - https://www.ash-king.co.uk/blog/Shazlocate-abusing-CVE-2019-8791-CVE-2019-8792, Insecure-deeplink
-- https://geekboyranjeet.medium.com/strange-admin-panel-bypass-story-bug-bounty-5e618099baaf, Authentication-bypass
 - https://jwlss.pw/mathjs/, RCE
 - https://takester.medium.com/my-first-and-last-crit-of-2020-on-hackerone-702a694781b0, Lack-of-rate-limiting
 - https://github.com/httpvoid/writeups/blob/main/Apple-RCE.md, RCE
@@ -4280,7 +4277,6 @@
 - https://medium.com/@pranaybafna/graphql-introspection-leads-to-sensitive-data-disclosure-65b385452d7f, Information-disclosure
 - https://awakened1712.github.io/hacking/hacking-whatsapp-gif-rce/, Memory-corruption
 - https://medium.com/@byq/how-to-get-rce-on-aem-instance-without-java-knowledge-a995ceab0a83, RCE
-- https://medium.com/@mehulcodes/stealing-login-credentials-with-reflected-xss-7cb450bf5710, Reflected-XSS
 - https://web.archive.org/web/20200807155301/https://gh0st.cn/archives/2019-10-01/1, IDOR
 - https://web.archive.org/web/20191211081434/https://victoni.github.io/bug-hunting-xss-on-cookie-popup-warning/, Reflected-XSS
 - https://b3nac.com/posts/2019-09-02-Spear-Texting-Via-Parameter-Injection.html, Parameter-tampering
@@ -4561,7 +4557,6 @@
 - https://medium.com/@tod4ro/for-paypal-security-team-get-user-balances-and-transaction-details-is-not-a-vulnerability-2e5b7f8780de, Information-disclosure
 - https://medium.com/@protostar0/sidefx-poc-user-enumeration-no-rate-limeted-in-send-message-function-953f1662d41, Username-enumeration
 - https://whitehatfamilyguy.blogspot.com/2019/04/missing-authorization-check-while.html, Authorization-flaw
-- http://blog.h4rsh4d.com/2019/04/stealing-local-storage-data-through-xss.html, Stored-XSS
 - https://medium.com/@logicbomb_1/the-journey-of-web-cache-firewall-bypass-to-ssrf-to-aws-credentials-compromise-b250fb40af82, LFI
 - https://medium.com/bugbountywriteup/csrf-attack-can-lead-to-stored-xss-f40ba91f1e4f, CSRF
 - https://medium.com/@iframe_h1/a-picture-that-steals-data-ff604ba1012, Information-disclosure
