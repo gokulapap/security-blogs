@@ -204,7 +204,6 @@
 - https://medium.com/@kenkousen/bypassing-the-chain-of-command-d6438d6b4db2, bypass
 - https://medium.com/@bugtest252/how-i-got-rewarded-300-euro-just-by-simple-google-dorking-under-2-mins-75c679f9da68, recon
 - https://medium.com/@infosecwriteups/40-000-bounty-authentication-bypass-techniques-cache-poisoning-idors-password-recovery-2ec097380c57, cache
-- https://medium.com/@thexssrat/broken-authentication-its-not-what-you-think-is-4d64be3583ec, broken-authentication
 - https://medium.com/@thexssrat/subdomain-flyover-and-manual-exploration-of-the-results-15c69d509091, STO
 - https://medium.com/@orkhan_alibayli/subdomain-takeover-95646de1f436, STO
 - https://medium.com/@ibm_ptc_security/exploiting-insecure-deserialization-c4bcb2652406, deserialization
@@ -442,7 +441,6 @@
 - https://hacktus.tech/taking-over-an-entire-organization, Broken-Access-Control
 - https://ndevtk.github.io/writeups/2023/06/11/googlesource/, URL-validation-bypass
 - https://infosecwriteups.com/kubernetes-pentest-bypassing-load-balancer-9bcfae2ce84a, Security-code-review
-- https://medium.com/@f3tch/my-first-bug-a-unique-500-xss-eb5caccb628f, XSS
 - https://www.whiteoaksecurity.com/blog/sony-bravia-remote-code-execution-disclosure/, RCE
 - https://redmaple.tech/blogs/2023/extract-bitwarden-vault-passwords/, Information-disclosure
 - https://albertpedersen.com/blog/cloudflare-casb-confused-deputy/, Confused-deputy
@@ -2209,7 +2207,6 @@
 - https://systemweakness.com/what-an-injection-into-jquery-selector-can-lead-to-1fcaabfd51e5, CSRF
 - https://f4t7.medium.com/xss-in-hidden-input-field-1b98a5fece26, XSS
 - https://infosecwriteups.com/send-a-email-to-me-and-get-kicked-out-of-google-groups-29b5c2c60e95, Logic-flaw
-- https://monke.ie/api-vulns-casestudy/, Information-disclosure
 - https://machevalia.blog/blog/access-control-violation-sensitive-data-exposure, Directory-listing
 - https://medium.com/@friendly_/bypassing-cloudflares-waf-b1b83a50fb2f, XSS
 - https://gitlab.com/kop316/vvm-disclosure, Voicemail-hacking
@@ -2250,7 +2247,6 @@
 - https://blog.sonarsource.com/wordpress-object-injection-vulnerability, Object-injection
 - https://research.ifcr.dk/spoolfool-windows-print-spooler-privilege-escalation-cve-2022-22718-bf7752b68d81, Local-Privilege-Escalation
 - https://www.cyberark.com/resources/threat-research-blog/how-docker-made-me-more-capable-and-the-host-less-secure, Local-Privilege-Escalation
-- https://jub0bs.com/posts/2022-02-08-cve-2022-21703-writeup/, CSRF
 - https://web.archive.org/web/20220214063345/https://7odamo.medium.com/sql-injection-reflected-xss-and-information-disclosure-in-one-subdomain-in-just-10-minutes-f2ce877b43d4, SQL-injection
 - https://medium.com/@kojodaprogrammer/full-account-takeover-ato-a-tale-of-two-bugs-d1b3765ff1de, IDOR
 - https://medium.com/@harshbanshpal/you-can-takeover-any-google-account-f6f2d012466f, Logic-flaw
@@ -5426,7 +5422,6 @@
 - https://blog.witcoat.com/2018/05/30/xss-on-bugcrowd-and-so-many-other-websites-main-domain/, Reflected-XSS
 - https://www.seekurity.com/blog/general/metasploit-web-project-kill-all-running-tasks-csrf-cve-2017-5244/, CSRF
 - https://www.seekurity.com/blog/write-ups/godaddy-xss-affects-parked-domains-redirector-processor, Reflected-XSS
-- https://www.seekurity.com/blog/general/lets-steal-some-tokens, CSRF
 - https://medium.com/bugbountywriteup/whatsapp-dos-vulnerability-in-ios-android-d896f76d3253, DoS
 - http://c0rni3sm.blogspot.com/2017/06/from-js-to-another-js-files-lead-to.html, Authentication-bypass
 - https://medium.com/bugbountywriteup/how-i-got-5500-from-yahoo-for-rce-92fffb7145e6, RCE

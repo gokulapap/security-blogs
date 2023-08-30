@@ -3,3 +3,4 @@
 - https://medium.com/@rohitcoder/facebook-workplace-bug-exposed-offsite-employee-events-sensitive-emails-putting-employees-at-risk-813d77a0c0ab
 - https://omar0x01.medium.com/company-building-takeover-10a422385390
 - https://ahmdhalabi.medium.com/secret-key-exposure-in-api-config-directory-79cf7e7b976
+- https://monke.ie/api-vulns-casestudy/

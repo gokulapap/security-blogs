@@ -1,0 +1,1 @@
+- https://medium.com/@thexssrat/broken-authentication-its-not-what-you-think-is-4d64be3583ec
