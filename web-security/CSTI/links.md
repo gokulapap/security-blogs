@@ -1,0 +1,1 @@
+- https://orca.security/resources/blog/fabrixss-vulnerability-azure-fabric-explorer/

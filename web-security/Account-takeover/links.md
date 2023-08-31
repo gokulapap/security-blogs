@@ -3,3 +3,4 @@
 - https://medium.com/@bathinivijaysimhareddy/tale-of-account-takeovers-part-1-b24e1f3c3187
 - https://bhavukjain.com/blog/2023/07/08/account-takeover-custom-otp/
 - https://medium.com/@thabisomokoena/account-take-over-via-an-api-2eea4fe49532
+- https://akashhamal0x01.medium.com/watch-out-the-links-account-takeover-32b9315390a7

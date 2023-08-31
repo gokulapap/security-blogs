@@ -1356,7 +1356,6 @@
 - https://devco.re/blog/2022/10/19/a-new-attack-surface-on-MS-exchange-part-4-ProxyRelay/, RCE
 - https://portswigger.net/research/http-3-connection-contamination, HTTP-connection-contamination
 - https://kuldeep.io/posts/second-order-xxe-exploitation/, XXE
-- https://orca.security/resources/blog/fabrixss-vulnerability-azure-fabric-explorer/, CSTI
 - https://www.mdsec.co.uk/2022/10/microsoft-office-online-server-remote-code-execution/, SSRF
 - https://www.zerodayinitiative.com/blog/2022/10/19/cve-2022-3236-sophos-firewall-user-portal-and-web-admin-code-injection, RCE
 - https://medium.com/@sas.kunz/scan-qr-code-and-got-hacked-cve-2021-43530-uxss-on-firefox-android-version-768b24b326fb, Universal-XSS
@@ -1473,7 +1472,6 @@
 - https://infosecwriteups.com/how-i-found-multiple-sql-injections-in-5-minutes-in-bug-bounty-40155964c498, SQL-injection
 - https://www.trellix.com/en-us/about/newsroom/stories/research/tarfile-exploiting-the-world.html, Path-traversal
 - https://10degres.net/one-takeover-to-rule-them-all/, Subdomain-takeover
-- https://samcurry.net/universal-xss-on-netlifys-next-js-library/, Universal-XSS
 - https://www.trellix.com/en-us/about/newsroom/stories/threat-labs/tarfile-exploiting-the-world.html, Path-traversal
 - https://doyensec.com/resources/Doyensec_Advisory_TypeORM_Q32022.pdf, DoS
 - https://medium.com/@cyberali/mass-assignment-leading-to-pre-account-takeover-13041280a0d9, Mass-assignment
@@ -2062,7 +2060,6 @@
 - https://ahmadaabdulla.medium.com/vulnerabilitymultiple-vulnerability-leading-to-account-takeover-in-tiktok-smb-subdomain-c99e4a50b377, IDOR
 - https://gokulap.medium.com/how-i-got-access-to-1600k-users-pii-data-64a27a540963, Information-disclosure
 - https://tech-blog.cymetrics.io/en/posts/huli/erpnext-ssrf-and-xss-to-account-takeover/, SSRF
-- https://akashhamal0x01.medium.com/watch-out-the-links-account-takeover-32b9315390a7, Account-takeover
 - https://www.secureworks.com/research/azure-active-directory-exposes-internal-information, Cloud
 - https://crypt0g30rgy.github.io/post/PaymentBypassThree, Payment-bypass
 - https://haxatron.gitbook.io/vulnerability-research/vr1, Broken-Access-Control
@@ -3208,7 +3205,6 @@
 - https://mokhansec.medium.com/idor-via-websockets-allow-me-to-takeover-any-users-account-23460dacdeab, IDOR
 - https://vbharad.medium.com/how-i-hacked-everyones-resume-cv-s-and-got-851aaa4d75d9, IDOR
 - https://blog.evanricafort.com/2021/02/idor-in-redacted.html, IDOR
-- https://ltsirkov.medium.com/gitlab-server-side-request-forgery-in-project-import-page-6fdb9ef423e4, SSRF
 - https://ltsirkov.medium.com/gitlab-just-another-ssrf-issue-483bc040392b, SSRF
 - https://neroli.medium.com/oauth-misconfiguration-leads-to-full-account-takeover-22b032cb6732, OAuth
 - https://ltsirkov.medium.com/gitlab-denial-of-service-via-login-panel-functionality-684c8583706c, Application-level-DoS
@@ -3590,7 +3586,6 @@
 - https://medium.com/bugbountywriteup/upload-to-the-future-1fd38fd502bd, IDOR
 - https://medium.com/@0xnazmul/how-i-found-my-first-bug-stored-xss-and-earned-my-first-bounty-1000-33556678d1ed, Stored-XSS
 - https://apapedulimu.click/shopify-com-blind-stored-xss-via-staff-name/, Stored-XSS
-- https://ezh.es/blog/2020/08/the-confused-mailman-sending-spf-and-dmarc-passing-mail-as-any-gmail-or-g-suite-customer/, Email-spoofing
 - https://medium.com/@mateusz.olejarka/a-perfect-duplicate-or-how-to-send-an-email-with-a-spoofed-invoices-content-66cf369bbaa3, Email-spoofing
 - https://medium.com/@syedabuthahir/django-debug-mode-to-rce-in-microsoft-acquisition-189d27d08971, Information-disclosure
 - https://blog.shashank.co/2020/08/escalating-github-leak-to-takeover.html, Information-disclosure

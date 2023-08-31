@@ -1,0 +1,1 @@
+- https://samcurry.net/universal-xss-on-netlifys-next-js-library/
