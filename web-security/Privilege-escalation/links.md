@@ -1,0 +1,1 @@
+- https://junoonbro.medium.com/how-i-earned-9000-with-privilege-escalations-b187d1f8f4fe

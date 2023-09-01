@@ -3,3 +3,4 @@
 - https://faizanwrites.medium.com/using-browser-tools-for-bug-hunting-an-interesting-0-write-idor-on-instagram-7d5318299c1a
 - https://ahmdhalabi.medium.com/pii-disclosure-of-apple-users-10k-d1e3d29bae36
 - https://filipaze.medium.com/abusing-json-web-token-to-steal-accounts-3000-b9f7daeaef81
+- https://hopesamples.blogspot.com/2022/09/idor-leads-to-removing-members-from-any.html

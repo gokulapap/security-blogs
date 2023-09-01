@@ -890,7 +890,6 @@
 - https://medium.com/@kartikhunt3r/blind-time-based-sql-injection-vulnerability-in-an-indian-government-website-6bf3bb7daf25, SQL-injection
 - https://medium.com/@deadoverflow/bypassing-samesite-lax-cookie-restrictions-to-preform-csrf-resulting-to-a-horizontal-privilege-1dfc8fb17b0a, CSRF
 - https://ophionsecurity.com/blog/hacking-our-way-into-an-internal-db, JWT
-- https://www.synacktiv.com/publications/exploiting-a-remote-heap-overflow-with-a-custom-tcp-stack.html, Memory-corruption
 - https://theevilbit.github.io/posts/cve-2022-22655/, MacoS
 - https://medium.com/@ramkumarnadar47/zip-bomb-attack-88d84a98be9f, Zip-bomb
 - https://basu-banakar.medium.com/ssrf-that-allowed-us-to-access-whole-infra-web-services-and-many-more-3424f8efa0e4, SSRF
@@ -1536,7 +1535,6 @@
 - https://security.humanativaspa.it/groovy-template-engine-exploitation-notes-from-a-real-case-scenario/, RCE
 - https://medium.com/@Parag_Bagul/how-i-found-moodle-cross-site-scripting-459a1c9ad4d5, XSS
 - https://marcyoung.us/post/zuckerpunch/, CICD
-- https://hopesamples.blogspot.com/2022/09/idor-leads-to-removing-members-from-any.html, IDOR
 - https://hopesamples.blogspot.com/2022/09/group-experts-pending-expertise-request.html, IDOR
 - https://hopesamples.blogspot.com/2022/09/details-about-future-collaboration.html, IDOR
 - https://taggart-tech.com/quasar-electron/, Local-Privilege-Escalation
@@ -2216,8 +2214,6 @@
 - https://medium.com/@vishnurajr/403-forbidden-bypass-accessing-config-files-using-a-header-4bd172c25ff1, 403-bypass
 - https://www.iot-inspector.com/blog/advisory-cisco-rv340-dual-wan-gigabit-vpn-router-rce-over-lan/, RCE
 - https://web.archive.org/web/20220217212342/https://castilho101.github.io/posts/cve-2022-0478-woocommerce-event-manager-plugin-sql-injection/, SQL-injection
-- https://junoonbro.medium.com/how-i-earned-9000-with-privilege-escalations-b187d1f8f4fe, Privilege-escalation
-- https://elinfosec.com/2022/my-first-report-on-hackerone-a-logic-flaw-in-npm/, Logic-flaw
 - https://infosecwriteups.com/my-first-reflected-xss-bug-bounty-google-dork-xxx-92ac1180e0d0, Reflected-XSS
 - https://medium.com/@chander.romesh/hacked-dutch-government-website-all-i-got-was-this-l̶o̶u̶s̶y̶-cool-t-shirt-4fd62ed3e734, Information-disclosure
 - https://ashok314.medium.com/bug-report-bypassing-weekly-limits-in-basic-free-linkedin-account-f5265ac0418a, Logic-flaw
@@ -4751,7 +4747,6 @@
 - https://www.hackerinside.me/2019/01/a-tricky-open-redirect.html, Open-redirect
 - https://bugbountypoc.com/how-i-was-able-to-harvest-other-vine-users-ip-address, IDOR
 - https://rudr4sarkar.blogspot.com/2019/01/how-i-found-web-shell-on-antihackme-and.html, RCE
-- https://medium.com/@N0_M3ga_Hacks/a-curious-case-from-little-to-complete-email-verification-bypass-2c7570040e7e, Email-verification-bypass
 - https://footstep.ninja/posts/password-reset/, Password-reset
 - https://medium.com/@pig.wig45/bypassing-access-control-in-a-program-on-hackerone-ef213ab34703, Authorization-flaw
 - https://medium.com/@yogeshtantak7788/how-i-was-able-to-delete-google-gallery-data-idor-53d2f303efff, IDOR

@@ -1,0 +1,1 @@
+- https://medium.com/@N0_M3ga_Hacks/a-curious-case-from-little-to-complete-email-verification-bypass-2c7570040e7e
