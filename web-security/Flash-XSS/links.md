@@ -1,0 +1,1 @@
+- https://web.archive.org/web/20200929015014/https://www.mohamedharon.com/2018/03/reflected-xss-moogaloop-swf-version-62x.html

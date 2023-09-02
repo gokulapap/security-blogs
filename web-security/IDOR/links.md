@@ -4,3 +4,4 @@
 - https://ahmdhalabi.medium.com/pii-disclosure-of-apple-users-10k-d1e3d29bae36
 - https://filipaze.medium.com/abusing-json-web-token-to-steal-accounts-3000-b9f7daeaef81
 - https://hopesamples.blogspot.com/2022/09/idor-leads-to-removing-members-from-any.html
+- https://infosecwriteups.com/how-i-scored-2k-bounty-via-an-idor-32eb2fa8aa1e

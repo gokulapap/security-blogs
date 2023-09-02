@@ -2685,7 +2685,6 @@
 - https://web.archive.org/web/20210829191303/https://0u.ma/5, XSS
 - https://caesarevan23.medium.com/ssrf-external-service-interaction-for-find-real-ip-cloudflare-and-leads-to-sql-injection-c22c02243299, WAF-bypass
 - https://medium.com/@hackrider/exploiting-devops-get-source-code-d4f5825eb373, Information-disclosure
-- https://infosecwriteups.com/how-i-scored-2k-bounty-via-an-idor-32eb2fa8aa1e, IDOR
 - https://infosecwriteups.com/how-did-i-earned-6000-from-tokens-and-scopes-in-one-day-12f95c6bf8aa, Authorization-flaw
 - https://chaosdb.wiz.io, Account-takeover
 - https://web.archive.org/web/20210920030213/https://pmoc.netsoc.cloud/oauth-idor-pii/, IDOR
@@ -4030,7 +4029,6 @@
 - https://web.archive.org/web/20200505142429/https://medium.com/@godofdarkness.msf/reflected-xss-in-at-t-7f1bdd10d8f7, Reflected-XSS
 - https://medium.com/@evan.connelly/hunting-tesla-model-y-secrets-in-the-parts-catalog-2f453f853dd8, Authorization-flaw
 - https://medium.com/tenable-techblog/exploiting-jira-for-host-discovery-43be3cddf023, CSRF
-- https://blog.securitybreached.org/2020/02/19/hacking-sms-api-service-provider-of-a-company-android-app-static-security-analysis-bug-bounty-poc/, Information-disclosure
 - https://spaceraccoon.dev/a-tale-of-two-formats-exploiting-insecure-xml-and-zip-file-parsers-to-create-a, XXE
 - http://www.firstsight.me/2020/02/from-recon-to-optimizing-rce-results-simple-story-with-one-of-the-biggest-ict-company-in-the-world/, Information-disclosure
 - https://medium.com/@adonkidz7/my-first-bounty-from-google-d9f1f3f5787a, Self-XSS
@@ -4778,7 +4776,6 @@
 - https://shkspr.mobi/blog/2018/12/twitter-bug-bounty/, OAuth
 - https://medium.com/@maxpasqua/unremovable-tags-in-facebook-page-reviews-656e095e69aa, Logic-flaw
 - https://medium.com/@maxpasqua/chaining-two-vulnerabilities-to-break-facebook-appointment-times-for-the-second-time-ac639f8c8773, Logic-flaw
-- https://medium.com/@logicbomb_1/bugbounty-user-account-takeover-i-just-need-your-email-id-to-login-into-your-shopping-portal-7fd4fdd6dd56, OAuth
 - https://mohemiv.com/all/exploiting-xxe-with-local-dtd-files/, XXE
 - https://medium.com/bugbountywriteup/open-redirect-developers-are-lazy-or-maybe-busy-6c51718b10e4, Open-redirect
 - https://blog.nyangawa.me/security/CVE-2018-18649-Gitlab-RCE/, RCE
@@ -5135,7 +5132,6 @@
 - https://medium.com/bugbountywriteup/4500-bounty-how-i-got-lucky-99d8bc933f75, Subdomain-takeover
 - https://medium.com/bugbountywriteup/disclose-private-video-thumbnail-from-facebook-workplace-52b6ec4d73b7, IDOR
 - https://medium.com/@evilboyajay/stealing-money-from-one-account-to-another-account-d7c5ee68922b, Logic-flaw
-- https://medium.com/@prial261/story-of-a-stored-xss-bypass-26e6659f807b, Open-redirect
 - https://sysdream.com/news/lab/2018-04-30-multiple-security-vulnerabilities-in-domains-belonging-to-google/, Broken-Access-Control
 - https://medium.com/@kedrisec/how-i-found-2-9-rce-at-yahoo-bug-bounty-program-20ab50dbfac7, RCE
 - https://medium.com/@logicbomb_1/bugbounty-how-i-was-able-to-bypass-firewall-to-get-rce-and-then-went-from-server-shell-to-get-783f71131b94, RCE
@@ -5183,7 +5179,6 @@
 - https://medium.com/@valeriyshevchenko/how-i-hacked-one-cryptocurrency-service-db3cb0f81d6c, Blind-XSS
 - https://medium.com/bugbountywriteup/creating-test-conversion-using-any-app-8b32ee0a735, Parameter-tampering
 - http://www.tomanthony.co.uk/blog/google-xml-sitemap-auth-bypass-black-hat-seo-bug-bounty/, Logic-flaw
-- https://web.archive.org/web/20200929015014/https://www.mohamedharon.com/2018/03/reflected-xss-moogaloop-swf-version-62x.html, Flash-XSS
 - https://medium.com/@logicbomb_1/bugbounty-rewarded-by-securing-vulnerabilities-in-bookmyshow-indias-largest-online-movie-bb81dba9b82, Host-header-injection
 - https://medium.com/bugbountywriteup/hacking-oracle-in-5-minutes-b52107a6124c, Directory-listing
 - https://medium.com/@Alra3ees/google-adwords-3133-7-stored-xss-27bb083b8d27, Stored-XSS

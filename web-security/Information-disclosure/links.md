@@ -4,3 +4,4 @@
 - https://omar0x01.medium.com/company-building-takeover-10a422385390
 - https://ahmdhalabi.medium.com/secret-key-exposure-in-api-config-directory-79cf7e7b976
 - https://monke.ie/api-vulns-casestudy/
+- https://blog.securitybreached.org/2020/02/19/hacking-sms-api-service-provider-of-a-company-android-app-static-security-analysis-bug-bounty-poc/
