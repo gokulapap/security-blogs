@@ -1647,7 +1647,6 @@
 - https://blog.electrovolt.io/posts/element-rce/, RCE
 - https://medium.com/@lovely.goyal1998/story-of-5000-bounty-for-grafana-panel-access-in-apple-89c93ab4486f, Missing-authentication
 - https://www.akamai.com/blog/security/authentication-coercion-windows-server-service, Off-by-one-Error
-- https://web.archive.org/web/20220815093448/https://deb0con.medium.com/how-i-earned-a-7000-bug-bounty-from-grab-rce-unique-bugs-5e5037c5a58d, RCE
 - https://sagarsajeev.medium.com/escalating-open-redirect-to-xss-d2b9355e5f05, Open-redirect
 - https://sagarsajeev.medium.com/an-unusual-tale-of-email-verification-bypass-dcf884d544eb, Email-verification-bypass
 - https://medium.com/@bharatsingh070601/bypassing-unexpected-idor-e6a9da2e0498, IDOR
@@ -1929,7 +1928,6 @@
 - https://mc0wn.blogspot.com/2022/05/2nd-rce-and-xss-in-apache-struts-before-2530.html, RCE
 - https://labs.ingredous.com/2022/05/25/hijacking-over-100k-godaddy-websites/, Subdomain-takeover
 - https://www.synacktiv.com/en/publications/the-printer-goes-brrrrr.html, Memory-corruption
-- https://vikaran101.medium.com/how-i-made-it-into-the-united-nations-hall-of-fame-as-i-slept-f567c90be227, XSS
 - https://infosecwriteups.com/how-i-found-a-companys-internal-s3-bucket-with-41k-files-94b453e588b5, AWS-misconfiguration
 - https://www.blackhillsinfosec.com/spoofing-microsoft-365-like-its-1995/, Spoofing
 - https://www.rapid7.com/blog/post/2022/05/24/cve-2022-22977-vmware-guest-authentication-service-lpe-fixed/, Local-Privilege-Escalation
@@ -3251,7 +3249,6 @@
 - https://santuysec.com/2021/01/27/hijacking-google-drive-files-documents-photo-video-through-google-docs-sharing/, Clickjacking
 - https://bugbountyhunter.medium.com/500-for-no-rate-limit-on-forgot-password-page-d534d1d750db, Lack-of-rate-limiting
 - https://notifybugme.medium.com/finding-ssrf-by-full-automation-7d2680091d68, SSRF
-- https://www.pethuraj.com/blog/bmw-bugbounty-writeup/, OTP-bypass
 - https://yeuchimse.com/leaking-issues-from-linked-jira-atlassian-confluence-server/, XS-Search
 - https://medium.com/bugbountywriteup/get-paid-by-smuggling-the-legal-way-c31805de3c59, HTTP-Request-Smuggling
 - https://github.com/tess-ss/writeups/blob/main/bug.md, Self-XSS
@@ -3459,7 +3456,6 @@
 - https://ynoof.medium.com/error-based-sql-injection-on-a-wordpress-website-and-extract-more-than-150k-user-details-f65f987c2cc0, SQL-injection
 - https://medium.com/bugbountywriteup/automating-xss-identification-with-dalfox-paramspider-e14283bb7916, Reflected-XSS
 - https://medium.com/bugbountywriteup/the-youtube-bug-that-allowed-uploads-to-any-channel-3b41c7b7902a, IDOR
-- https://hamzadzworm.medium.com/how-i-got-250-in-5-munites-using-my-phone-91c9b2258282, HTML-injection
 - https://research.checkpoint.com/2021/tiktok-fixes-privacy-issue-discovered-by-check-point-research/, Information-disclosure
 - https://www.mysk.blog/2020/10/25/link-previews/, Information-disclosure
 - https://servicenger.com/blog/mobile/perform-substring-search-for-emails-even-if-workplace-admin-hides-email-profile-field/, Broken-access-control
@@ -4472,7 +4468,6 @@
 - https://medium.com/bug-bounty-hunting/fullscreen-api-attacks-revisited-and-the-fb-na-story-cbea3ca383c5, Phishing
 - https://websecblog.com/vulns/googleplex-com-blind-xss/, Blind-XSS
 - https://medium.com/@nishantrustlingup/admin-account-total-information-disclosure-72ec60da4a78, Source-code-disclosure
-- https://lf.lc/vrp/135276622/, SSRF
 - https://medium.com/@saadahmedx/idor-account-takeover-1ff5a2d03b8b, IDOR
 - https://web.archive.org/web/20201028215444/http://incidentsecurity.com/how-spending-our-saturday-hacking-earned-us-20k/, IDOR
 - https://medium.com/@ciph3r7r0ll/chaining-improper-authorization-to-race-condition-to-harvest-credit-card-details-a-bug-bounty-effe6e0f5076, Authorization-flaw

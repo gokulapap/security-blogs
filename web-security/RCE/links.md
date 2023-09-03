@@ -3,3 +3,4 @@
 - https://blog.sonarsource.com/remote-code-execution-in-melis-platform/
 - https://devco.re/blog/2021/08/06/a-new-attack-surface-on-MS-exchange-part-1-ProxyLogon/
 - https://www.pentestpartners.com/security-blog/f5-networks-endpoint-inspector-browser-to-rce/
+- https://web.archive.org/web/20220815093448/https://deb0con.medium.com/how-i-earned-a-7000-bug-bounty-from-grab-rce-unique-bugs-5e5037c5a58d

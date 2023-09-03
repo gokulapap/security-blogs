@@ -5,3 +5,4 @@
 - https://spawnzii.github.io/posts/2022/07/how-we-have-pwned-root-me-in-2022/
 - https://rotem-bar.com/hacking-65-million-websites-greater-cve-2022-29455-elementor
 - https://medium.com/@f3tch/my-first-bug-a-unique-500-xss-eb5caccb628f
+- https://vikaran101.medium.com/how-i-made-it-into-the-united-nations-hall-of-fame-as-i-slept-f567c90be227

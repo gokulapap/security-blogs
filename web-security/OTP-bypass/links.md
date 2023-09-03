@@ -1,0 +1,1 @@
+- https://www.pethuraj.com/blog/bmw-bugbounty-writeup/
