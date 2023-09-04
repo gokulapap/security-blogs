@@ -6,3 +6,4 @@
 - https://obmiblog.blogspot.com/2022/12/gcp-2022-few-bugs-in-google-cloud-shell.html
 - https://jub0bs.com/posts/2022-02-08-cve-2022-21703-writeup/
 - https://www.seekurity.com/blog/general/lets-steal-some-tokens
+- https://medium.com/@Skylinearafat/a-very-useful-technique-to-bypass-the-csrf-protection-for-fun-and-profit-471af64da276

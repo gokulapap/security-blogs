@@ -233,7 +233,6 @@
 - https://medium.com/@notifybugme/escalating-ssrf-to-accessing-all-user-pii-information-by-aws-metadata-aabcfd5a3e0e, ssrf
 - https://medium.com/@uttamgupta_/what-after-recon-bbaf43dbcb68, recon
 - https://medium.com/@jaadugar/sensitive-data-exposure-my-first-bug-in-h1-d4006a08d38f, info-disclosure
-- https://medium.com/@cyberweapons/easy-stored-xss-worth-letter-of-appreciation-from-guvi-3088f6d26926, XSS
 - https://medium.com/@hawk101/story-of-a-miss-configuration-that-led-to-admins-account-takeover-895b28392a65, ATO
 - https://medium.com/@caesarevan23/the-journey-to-get-sql-injection-at-bluepay-blue-indonesia-bluepay-2019-7a23bbce4cb8, journey
 - https://medium.com/@akash0x0/p3-bug-in-just-2-minute-fc6bf1710757, journey
@@ -583,7 +582,6 @@
 - https://ltsirkov.medium.com/netflix-bypassing-multi-factor-authentication-mfa-53135c9d6d50, MFA-bypass
 - https://goziem.medium.com/how-i-chained-an-information-disclosure-bug-to-sql-injection-bca936d90fb1, SQL-injection
 - https://herolab.usd.de/security-advisories/usd-2022-0034/, Local-Privilege-Escalation
-- https://portswigger.net/research/ambushed-by-angularjs-a-hidden-csp-bypass-in-piwik-pro, CSP-bypass
 - https://blog.calif.io/p/redash-saml-authentication-bypass, SAML
 - https://starlabs.sg/blog/2023/04-microsoft-exchange-powershell-remoting-deserialization-leading-to-rce-cve-2023-21707/, RCE
 - https://the-deniss.github.io/posts/2023/04/26/avast-privileged-arbitrary-file-create-on-quarantine.html, TOCTOU
@@ -832,7 +830,6 @@
 - https://lude.rs/h4ck1ng/draw.io_cves.html, SSRF
 - https://www.synack.com/blog/exploits-explained-using-apis-to-execute-a-server-side-request-forgery/, SSRF
 - https://starlabs.sg/blog/2023/02-microsoft-azure-account-takeover-via-dom-based-xss-in-cosmos-db-explorer/, Account-takeover
-- https://blog.prodefense.io/little-bug-big-impact-25k-bounty-9e47773f959f, Hardcoded-API-keys
 - https://medium.com/@feribytex/blind-xss-fired-on-admin-panel-worth-2000-abe2c83279b5, Blind-XSS
 - https://blog.trailofbits.com/2023/02/23/escaping-well-configured-vscode-extensions-for-profit/, Electron
 - https://medium.com/@bag0zathev2/how-i-used-js-files-inspection-and-fuzzing-to-do-admins-supports-stuff-dd4f700605a, Broken-Access-Control
@@ -3002,7 +2999,6 @@
 - https://r29k.com/articles/bb/ato, Open-redirect
 - https://wwws.nightwatchcybersecurity.com/2021/04/25/supply-chain-attacks-via-github-com-releases/, Logic-flaw
 - https://mrsinister1501.medium.com/how-i-found-cross-site-scripting-reflected-on-more-than-300-systems-81d8118d9de5, Reflected-XSS
-- https://www.r29k.com/articles/bb/ato, Account-takeover
 - https://infosecwriteups.com/rce-via-internal-access-to-adminer-database-management-critical-d3dc2a1d392a, RCE
 - https://notifybugme.medium.com/aws-internal-metadata-accessed-through-ssrf-by-chaining-an-open-redirect-bug-c4b0e4838dc, SSRF
 - https://baibhavjha.com.np/blogs/deactivateduserspageroles/, Logic-flaw
@@ -4866,7 +4862,6 @@
 - https://medium.com/@logicbomb_1/bugbounty-how-i-was-able-to-download-the-source-code-of-indias-largest-telecom-service-52cf5c5640a1, git-folder-disclosure
 - https://blog.securitybreached.org/2018/10/27/privilege-escalation-like-a-boss/, IDOR
 - https://medium.com/@Skylinearafat/how-misconfigured-api-leaked-user-private-information-e3e8c13e52e4, IDOR
-- https://medium.com/@Skylinearafat/a-very-useful-technique-to-bypass-the-csrf-protection-for-fun-and-profit-471af64da276, CSRF
 - https://web.archive.org/web/20191217012635/https://medium.com/bugbountywriteup/csrf-account-takeover-explained-automated-manual-bug-bounty-447e4b96485b, CSRF
 - https://medium.com/@prial261/subdomain-takeover-dew-to-missconfigured-project-settings-for-custom-domain-46e90e702969, Subdomain-takeover
 - https://medium.com/@kankrale.rahul/dos-on-facebook-android-app-using-65530-characters-of-zero-width-no-break-space-db41ca8ded89, DoS
