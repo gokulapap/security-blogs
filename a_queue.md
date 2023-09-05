@@ -324,7 +324,6 @@
 - https://zxsecurity.co.nz/research/advisories/race-condition-asp-net-core-signinmanager/, Race-condition
 - https://medium.com/@abdulparkar9554/story-of-clickjacking-in-microsoft-leads-to-privilege-escalation-account-takeover-of-admin-a04453ed47fc, Clickjacking
 - https://labs.withsecure.com/publications/executing-arbitrary-code-executables-in-read-only-filesystems, Kubernetes
-- https://research.aurainfosec.io/pentest/bee-yond-capacity/, Memory-corruption
 - https://www.kroll.com/en/insights/publications/cyber/ghostscript-cve-2023-36664-remote-code-execution-vulnerability, RCE
 - https://medium.com/workday-engineering/exploiting-jmeter-via-rmi-e8e12392bba8, Insecure-deserialization
 - https://insinuator.net/2023/07/all-your-parcel-are-belong-to-us-talk-at-troopers-2023/, Privacy-issue
@@ -1997,7 +1996,6 @@
 - https://blog.assetnote.io/2022/04/27/vmware-workspace-one-uem-ssrf/, SSRF
 - https://divyanshsharma2401.medium.com/bypassing-waf-for-2222-f99b80cfdb9b, WAF-bypass
 - https://securecloud.blog/2022/04/27/azure-monitor-malicious-kql-query/, Privilege-escalation
-- https://www.aeth.cc/public/Article-Pass-Culture/mass-assignment-article-en.html, Stored-XSS
 - https://blog.aquasec.com/npm-package-planting, Logic-flaw
 - https://medium.com/@abdalrahman.alshammas/fuzzing-and-credentials-leakage-nice-bug-hunting-writeup-38b2e774b300, Hardcoded-credentials
 - https://systemweakness.com/unlock-any-blur-text-picture-without-membership-subscription-on-scribd-com-by-neuchi-69237776e24, Payment-bypass
@@ -2197,7 +2195,6 @@
 - https://systemweakness.com/what-an-injection-into-jquery-selector-can-lead-to-1fcaabfd51e5, CSRF
 - https://f4t7.medium.com/xss-in-hidden-input-field-1b98a5fece26, XSS
 - https://infosecwriteups.com/send-a-email-to-me-and-get-kicked-out-of-google-groups-29b5c2c60e95, Logic-flaw
-- https://machevalia.blog/blog/access-control-violation-sensitive-data-exposure, Directory-listing
 - https://medium.com/@friendly_/bypassing-cloudflares-waf-b1b83a50fb2f, XSS
 - https://gitlab.com/kop316/vvm-disclosure, Voicemail-hacking
 - https://remonsec.com/posts/passive-recon-with-spyse-part-II/, Subdomain-takeover
@@ -4704,7 +4701,6 @@
 - https://ysamm.com/?p=56, IDOR
 - https://ysamm.com/?p=50, Logic-flaw
 - https://ysamm.com/?p=45, IDOR
-- https://ysamm.com/?p=42, IDOR
 - https://ysamm.com/?p=38, Bruteforce
 - https://ysamm.com/?p=35, IDOR
 - https://ysamm.com/?p=30, Authorization-flaw
@@ -5079,7 +5075,6 @@
 - https://medium.com/@khaled.hassan/full-account-takeover-via-reset-password-function-8b6ef15f346f, IDOR
 - https://www.bishopfox.com/blog/2018/06/server-side-spreadsheet-injections/, CSV-injection
 - https://blog.ayoubaitelmokhtar.com/2018/06/paypal-bbp-i-couldve-deleted-all-smc.html, CSRF
-- https://thehackerblog.com/steam-fire-and-paste-a-story-of-uxss-via-dom-xss-clickjacking-in-steam-inventory-helper/index.html, DOM-XSS
 - https://medium.com/@adrien_jeanneau/how-i-was-able-to-list-some-internal-information-from-paypal-bugbounty-ca8d217a397c, Expression-Language-Injection
 - https://web.archive.org/web/20210117211538/https://medium.com/@adeshkolte/how-i-found-xss-via-ssrf-vulnerability-adesh-kolte-873b30a6b89f, SSRF
 - https://medium.com/@logicbomb_1/bugbounty-database-hacked-of-indias-popular-sports-company-bypassing-host-header-to-sql-7b9af997c610, SQL-injection

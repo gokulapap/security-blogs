@@ -1,0 +1,1 @@
+- https://machevalia.blog/blog/access-control-violation-sensitive-data-exposure

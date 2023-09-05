@@ -1,1 +1,2 @@
 - http://blog.h4rsh4d.com/2019/04/stealing-local-storage-data-through-xss.html
+- https://www.aeth.cc/public/Article-Pass-Culture/mass-assignment-article-en.html

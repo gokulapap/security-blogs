@@ -1,2 +1,3 @@
 - https://bughunt1307.herokuapp.com/googlebugs.html
 - https://www.rafaybaloch.com/2017/06/dom-based-xss-in-microsoft.html
+- https://thehackerblog.com/steam-fire-and-paste-a-story-of-uxss-via-dom-xss-clickjacking-in-steam-inventory-helper/index.html
