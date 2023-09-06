@@ -7,3 +7,4 @@
 - https://medium.com/@f3tch/my-first-bug-a-unique-500-xss-eb5caccb628f
 - https://vikaran101.medium.com/how-i-made-it-into-the-united-nations-hall-of-fame-as-i-slept-f567c90be227
 - https://medium.com/@cyberweapons/easy-stored-xss-worth-letter-of-appreciation-from-guvi-3088f6d26926
+- https://nirmaldahal.com.np/posts/2019/12/xss-is-love/

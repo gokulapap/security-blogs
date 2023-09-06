@@ -6,3 +6,4 @@
 - https://hopesamples.blogspot.com/2022/09/idor-leads-to-removing-members-from-any.html
 - https://infosecwriteups.com/how-i-scored-2k-bounty-via-an-idor-32eb2fa8aa1e
 - https://ysamm.com/?p=42
+- https://medium.com/bugbountywriteup/abusing-new-claps-feature-in-medium-6bd8757a64a4

@@ -192,7 +192,6 @@
 - https://medium.com/@thexssrat/miniseries-xss-to-the-core-pt-1-4a979b9e5139, XSS
 - https://medium.com/@theshubh77/facebook-page-admin-disclosure-by-create-doc-button-bounty-5000-usd-2fd1ff615bf8, misc
 - https://medium.com/@evilprince007/broken-object-level-authorization-in-vapi-8a994c50b711, api
-- https://medium.com/@a13h1/millionaire-in-minutes-uncovering-the-race-condition-exploit-df4c191aa007, race-condition
 - https://medium.com/@princeprafull/how-i-found-reflected-xss-on-gov-in-a8b4a228d84a, XSS
 - https://medium.com/@manishmshiva/finding-hidden-directories-sub-domains-and-s3-buckets-using-gobuster-5c2e3c41ff96, automation
 - https://medium.com/@sapt/sqli-on-a-bugcrowd-private-program-17858b57ec61, sql-injection
@@ -2596,7 +2595,6 @@
 - https://medium.com/@shakti.gtp/a-fever-worth-750-accessing-private-projects-d113c561311f, IDOR
 - https://medium.com/@varmaanu001/cookie-stealing-via-clickjacking-using-burp-collaborator-ff6f4ac1c18b, Clickjacking
 - https://codewhitesec.blogspot.com/2021/09/citrix-sharefile-rce-cve-2021-22941.html, RCE
-- https://blog.grimm-co.com/2021/09/mama-always-told-me-not-to-trust.html, MiTM
 - https://robertchen.cc/blog/2021/09/20/npm-rce, RCE
 - https://infosecwriteups.com/unlimited-report-user-in-instagram-facebook-leads-to-abuse-risk-efcca325aada, Lack-of-rate-limiting
 - https://manasharsh.medium.com/chaining-bugs-for-better-bounties-f14d6b2129de, SSRF
@@ -4114,7 +4112,6 @@
 - https://medium.com/bugbountywriteup/effortlessly-finding-cross-site-script-inclusion-xssi-jsonp-for-bug-bounty-38ae0b9e5c8a, XSSI
 - https://medium.com/nassec-cybersecurity-writeups/bypassing-brand-collabs-manager-eligibility-7d26523da816, Authorization-flaw
 - https://smaranchand.com.np/2019/12/subdomain-takeover-via-pantheon/, Subdomain-takeover
-- https://nirmaldahal.com.np/posts/2019/12/xss-is-love/, XSS
 - https://jinone.github.io/bugbounty-a-dom-xss/, DOM-XSS
 - https://leucosite.com/Edge-Chromium-EoP-RCE/, XSS
 - https://enumerated.wordpress.com/2019/12/24/sop-bypass-via-browser-cache, SOP-bypass
@@ -5025,7 +5022,6 @@
 - https://www.updatelap.com/2018/07/the-malicious-person-add-people-to-top.html, IDOR
 - https://medium.com/@prial261/unclaimed-medium-publication-takeover-in-wetransfer-c268cdb51e2f, Medium-publication-takeover
 - https://medium.com/bug-bounty-hunting/google-assistant-bug-worth-3133-7-830a03724a04, Reflected-XSS
-- https://sites.google.com/view/harshjaiswalblog/rce-due-to-showexceptions, RCE
 - https://opnsec.com/2018/07/into-the-borg-ssrf-inside-google-production-network/, SSRF
 - https://medium.com/@root_31068/the-call-is-coming-from-inside-the-house-dns-rebinding-in-eosio-keosd-wallet-e11deae05974, DNS-rebinding
 - https://sites.google.com/securifyinc.com/secblogs/yahoo-luminate-rce, RCE
@@ -5285,7 +5281,6 @@
 - https://medium.com/bugbountywriteup/senstive-information-disclose-lead-to-join-any-organisation-40ab549011, Information-disclosure
 - https://ysx.me.uk/app-maker-and-colaboratory-a-stored-google-xss-double-bill/, Stored-XSS
 - https://medium.freecodecamp.org/messing-with-the-google-buganizer-system-for-15-600-in-bounties-58f86cc9f9a5, Logic-flaw
-- https://medium.com/bugbountywriteup/abusing-new-claps-feature-in-medium-6bd8757a64a4, IDOR
 - https://blog.intothesymmetry.com/2017/10/slack-saml-authentication-bypass.html, Authentication-bypass
 - https://medium.com/@th3g3nt3l/how-i-found-an-ssrf-in-yahoo-guesthouse-recon-wins-8722672e41d4, SSRF
 - https://kciredor.com/taking-over-every-ad-on-olx-automated-an-idor-story.html, IDOR
