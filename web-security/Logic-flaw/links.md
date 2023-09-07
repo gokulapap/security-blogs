@@ -8,3 +8,4 @@
 - https://pallabjyoti218.medium.com/story-about-stop-10000-users-to-get-their-job-notification-6a8aca542c85
 - https://medium.com/bugbountywriteup/exploiting-an-unknown-vulnerability-a752272ffd7f
 - https://elinfosec.com/2022/my-first-report-on-hackerone-a-logic-flaw-in-npm/
+- https://medium.com/@harshbanshpal/you-can-takeover-any-google-account-f6f2d012466f

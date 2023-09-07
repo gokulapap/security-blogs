@@ -2233,7 +2233,6 @@
 - https://www.cyberark.com/resources/threat-research-blog/how-docker-made-me-more-capable-and-the-host-less-secure, Local-Privilege-Escalation
 - https://web.archive.org/web/20220214063345/https://7odamo.medium.com/sql-injection-reflected-xss-and-information-disclosure-in-one-subdomain-in-just-10-minutes-f2ce877b43d4, SQL-injection
 - https://medium.com/@kojodaprogrammer/full-account-takeover-ato-a-tale-of-two-bugs-d1b3765ff1de, IDOR
-- https://medium.com/@harshbanshpal/you-can-takeover-any-google-account-f6f2d012466f, Logic-flaw
 - https://www.cyberick.com/post/what-i-found-on-sony-vulnerability-disclosure-program, Information-disclosure
 - https://bloggerrando.blogspot.com/2022/02/how-can-i-access-members-only-video.html, Broken-Access-Control
 - https://wwws.nightwatchcybersecurity.com/2022/02/06/insecure-bootstrap-process-in-oracle-cloud-cli/, Supply-chain-attack
@@ -2454,7 +2453,6 @@
 - https://monish-basaniwal.medium.com/open-redirect-vulnerability-on-zapier-an-accidental-find-4cbbf029956c, Open-redirect
 - https://hackrzvijay.medium.com/hacking-apple-security-report-system-db84850002fb, Logic-flaw
 - https://blog.dixitaditya.com/2021/11/19/account-takeover-chain.html, Account-takeover
-- https://krevetk0.medium.com/how-i-accidentally-hacked-many-companies-using-n-a-vulnerability-in-atlassian-cloud-d4ff8e7dbef1, Information-disclosure
 - https://www.p1boom.com/2021/11/a-story-of-epic-blind-remote-code.html, RCE
 - https://threedr3am.github.io/2021/11/18/一种普遍存在于java系统的缺陷-Memory%20DoS/, DoS
 - https://feed.bugs.xdavidhu.me/bugs/0008, Privilege-escalation
@@ -4067,7 +4065,6 @@
 - https://blog.securitybreached.org/2020/01/26/improper-input-validation-add-custom-text-and-urls-in-sms-send-by-snapchat-bug-bounty-poc/, Parameter-tampering
 - https://medium.com/bugbountywriteup/accidental-idor-that-deleted-admin-account-d51264292b66, IDOR
 - https://medium.com/bugbountywriteup/the-unexpected-bounty-a-story-of-zendesk-takeover-on-redacted-com-f2aa96ce2026, Subdomain-takeover
-- https://ysamm.com/?p=363, Cross-Site-Websocket-Hijacking
 - https://medium.com/nassec-cybersecurity-writeups/how-i-was-able-to-take-over-any-users-account-with-host-header-injection-546fff6d0f2, Host-header-injection
 - https://medium.com/@sasaxxx777/cors-misconfiguration-leading-to-private-information-disclosure-3034cfcb4b93, CORS-misconfiguration
 - https://medium.com/@ozguralp/a-less-known-attack-vector-second-order-idor-attacks-14468009781a, IDOR
@@ -4829,7 +4826,6 @@
 - https://apapedulimu.click/clickjacking-on-google-myaccount-worth-7500/, Clickjacking
 - https://blog.zimperium.com/cve-2018-9539-use-free-vulnerability-privileged-android-service/, Memory-corruption
 - https://www.elttam.com/blog/ruby-deserialization/, Insecure-deserialization
-- https://medium.com/@sadiqwest01/bugbounty-how-i-takeover-microsoft-store-a58c1b785aa0, Subdomain-takeover
 - https://medium.com/@rohitcoder/object-name-exposure-ing-bank-responsible-disclosure-program-1f8f808cc789, Information-disclosure
 - https://medium.com/bugbountywriteup/how-i-earned-5040-from-twitter-by-showing-a-way-to-harvest-other-users-ip-address-e9f43c931e9a, Information-disclosure
 - https://medium.com/@prial261/vine-users-private-information-disclosure-f1c55a3abbb6, IDOR
@@ -5569,7 +5565,6 @@
 - https://bitquark.co.uk/blog/2014/08/31/popping_a_shell_on_the_oculus_developer_portal, SQL-injection
 - https://ahussam.me/Flickr-CSRF/, XSRF
 - https://buer.haus/2014/06/16/facebook-stored-cross-site-scripting-xss-badges/, Stored-XSS
-- https://thehackerblog.com/ebay-mobile-reflected-xss-disclosure-writeup/index.html, Reflected-XSS
 - https://blog.it-securityguard.com/bug-bounty-prezi-map-prezi-com-path-traversal/, Path-traversal
 - https://maustin.net/google_docs, Clickjacking
 - https://www.rcesecurity.com/2014/04/magix-bug-bounty-magix-com-rce-sqli-and-xara-com-lfi-xss/, RCE
