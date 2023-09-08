@@ -8,3 +8,4 @@
 - https://vikaran101.medium.com/how-i-made-it-into-the-united-nations-hall-of-fame-as-i-slept-f567c90be227
 - https://medium.com/@cyberweapons/easy-stored-xss-worth-letter-of-appreciation-from-guvi-3088f6d26926
 - https://nirmaldahal.com.np/posts/2019/12/xss-is-love/
+- https://blog.evanricafort.com/2020/02/popping-alerts-in-mixmax-chrome.html

@@ -1,0 +1,1 @@
+- https://medium.com/@engrdrayc/403-forbidden-bypass-leading-to-admin-endpoint-access-b696a36665ed

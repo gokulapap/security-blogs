@@ -1665,7 +1665,6 @@
 - https://medium.com/@avinash_/email-confirmation-bypass-at-instagram-cc968f9a126, Email-verification-bypass
 - https://web.archive.org/web/20220812183449/https://deb0con.medium.com/how-i-earned-a-6000-bug-bounty-from-cloudflare-db6949e39cf7, Path-traversal
 - https://bugra.ninja/posts/cloudshell-command-injection/, OS-command-injection
-- https://medium.com/@engrdrayc/403-forbidden-bypass-leading-to-admin-endpoint-access-b696a36665ed, 403-bypass
 - https://mohamedtarekq.medium.com/defeat-the-httponly-flag-to-achieve-account-takeover-rxss-c16849d3d192, Reflected-XSS
 - https://krausefx.com/blog/ios-privacy-instagram-and-facebook-can-track-anything-you-do-on-any-website-in-their-in-app-browser, Privacy-issue
 - https://googleprojectzero.blogspot.com/2022/08/the-quantum-state-of-linux-kernel.html, Memory-corruption
@@ -3445,7 +3444,6 @@
 - https://ynoof.medium.com/error-based-sql-injection-on-a-wordpress-website-and-extract-more-than-150k-user-details-f65f987c2cc0, SQL-injection
 - https://medium.com/bugbountywriteup/automating-xss-identification-with-dalfox-paramspider-e14283bb7916, Reflected-XSS
 - https://medium.com/bugbountywriteup/the-youtube-bug-that-allowed-uploads-to-any-channel-3b41c7b7902a, IDOR
-- https://research.checkpoint.com/2021/tiktok-fixes-privacy-issue-discovered-by-check-point-research/, Information-disclosure
 - https://www.mysk.blog/2020/10/25/link-previews/, Information-disclosure
 - https://servicenger.com/blog/mobile/perform-substring-search-for-emails-even-if-workplace-admin-hides-email-profile-field/, Broken-access-control
 - https://medium.com/bugbountywriteup/my-first-bug-on-google-observation-wins-1a13d0ea54b0, IDOR
@@ -4034,7 +4032,6 @@
 - https://www.amolbaikar.com/determine-users-with-detailed-role-model-on-behalf-of-any-facebook-application/, IDOR
 - https://web.archive.org/web/20200223073527/https://victoni.github.io/changing-userID-leads-to-data-leak/, IDOR
 - https://medium.com/@hetroublemakr/how-inspect-element-got-me-a-bounty-58d3a9946225, Client-side-enforcement-of-server-side-security
-- https://blog.evanricafort.com/2020/02/popping-alerts-in-mixmax-chrome.html, XSS
 - https://medium.com/bugbountywriteup/simple-remote-code-execution-vulnerability-examples-for-beginners-985867878311, RCE
 - https://web.archive.org/web/20200225040957/https://medium.com/@godofdarkness.msf/google-apis-clickjacking-1337-7a3a9f3eb8df, Clickjacking
 - https://fellchase.blogspot.com/2020/02/site-wide-csrf-on-popular-program.html, CSRF
@@ -4198,7 +4195,6 @@
 - https://medium.com/@androgaming1912/got-vps-hosting-domain-only-0-01-bug-bounty-edeea1a7d5e6, Payment-tampering
 - https://fletchto99.dev/2019/november/slack-vulnerability/, CSS-injection
 - https://geleta.eu/2019/my-first-ssrf-using-dns-rebinfing/, SSRF
-- https://hacknpentest.com/dom-based-xss-bug-bounty-writeup/, DOM-XSS
 - https://medium.com/clouddevops/bugbounty-how-i-cracked-2fa-two-factor-authentication-with-simple-factor-brute-force-a1c0f3a2f1b4, MFA-bypass
 - https://medium.com/@heinthantzin/a-simple-post-auth-bypass-leads-to-unauthorized-web-server-access-483c053c110e, Default-credentials
 - https://web.archive.org/web/20200604001225/https://hackking.net/threads/how-i-hacked-dutch-government-in-5-minutes-twitter-account-takeover.20/, Broken-link-hijacking
@@ -4600,7 +4596,6 @@
 - https://medium.com/@ZishanAdThandar/my-first-stored-xss-on-edmodo-com-540a33349662, Stored-XSS
 - https://medium.com/@GeneralEG/hack-your-form-new-vector-for-blind-xss-b7a50b808016, Blind-XSS
 - https://medium.com/@newp_th/how-i-find-blind-xss-vulnerability-in-redacted-com-33af18b56869, Blind-XSS
-- https://medium.com/@armaanpathan/brute-forcing-user-ids-via-csrf-to-delete-all-users-with-csrf-attack-216ccd4d832c, CSRF
 - https://medium.com/cesppa/escalating-ssrf-to-rce-f28c482eb8b9, SSRF
 - https://philippeharewood.com/cve-2018-16794-on-fs-thefacebook-com/, SSRF
 - https://websecblog.com/vulns/google-earth-studio-vulnerability/, IDOR
