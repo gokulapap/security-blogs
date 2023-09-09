@@ -1,3 +1,4 @@
 - https://sector7.computest.nl/post/2022-08-process-injection-breaking-all-macos-security-layers-with-a-single-vulnerability/
 - https://blog.recurity-labs.com/2021-02-03/webOS_Pt1.html
 - https://yilmazcanyigit.medium.com/cve-2019-6238-apple-xar-directory-traversal-vulnerability-9a32ba8b3b7d
+- https://seanpesce.blogspot.com/2023/03/leveraging-ssh-keygen-for-arbitrary.html

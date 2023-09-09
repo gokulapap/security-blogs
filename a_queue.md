@@ -193,7 +193,6 @@
 - https://medium.com/@theshubh77/facebook-page-admin-disclosure-by-create-doc-button-bounty-5000-usd-2fd1ff615bf8, misc
 - https://medium.com/@evilprince007/broken-object-level-authorization-in-vapi-8a994c50b711, api
 - https://medium.com/@princeprafull/how-i-found-reflected-xss-on-gov-in-a8b4a228d84a, XSS
-- https://medium.com/@manishmshiva/finding-hidden-directories-sub-domains-and-s3-buckets-using-gobuster-5c2e3c41ff96, automation
 - https://medium.com/@sapt/sqli-on-a-bugcrowd-private-program-17858b57ec61, sql-injection
 - https://medium.com/@theredteamer/hacking-apple-two-successful-exploits-and-positive-thoughts-on-their-bug-bounty-program-963efe7518f6, journey
 - https://medium.com/@mehedishakeel/improper-access-control-my-third-finding-on-hackerone-1455e95b6c8c, BAC
@@ -752,7 +751,6 @@
 - https://nav1n.medium.com/i-earned-3500-and-40-points-for-a-graphql-blind-sql-injection-vulnerability-5b7e428c477d, SQL-injection
 - https://blog.agilehunt.com/blogs/security/msrc-critical-google-iap-authorization-bypass-allows-access-to-internal-envirnment-leading-to-zero-interaction-account-takeover, Authorization-bypass
 - https://vijetareigns.medium.com/wait-time-bypass-for-fun-and-profit-c3837e6bb8ed, Rate-limiting-bypass
-- https://seanpesce.blogspot.com/2023/03/leveraging-ssh-keygen-for-arbitrary.html, Local-Privilege-Escalation
 - https://mizu.re/post/ejs-server-side-prototype-pollution-gadgets-to-rce, Server-side-prototype-pollution
 - https://claroty.com/team82/research/the-silent-spy-among-us-modern-attacks-against-smart-intercoms, IoT
 - https://arben.sh/bugbounty/SelfXSS-To-Stored-Through-IDOR/, IDOR
@@ -3288,7 +3286,6 @@
 - https://servicenger.com/blog/mobile/facebook-linkshim-protection-bypass-using-fb-webview/, Open-redirect
 - https://devcraft.io/2021/01/07/universal-deserialisation-gadget-for-ruby-2-x-3-x.html, Insecure-deserialization
 - https://krevetk0.medium.com/10-000-for-a-vulnerability-that-doesnt-exist-9dbc63684e94, Path-traversal
-- https://abss.me/posts/github-org-takeover/, Account-takeover
 - https://emanuel-beni.medium.com/stored-xss-on-product-description-high-400-2f078fd70fd2, Stored-XSS
 - https://web.archive.org/web/20210106234354/https://medium.com/bugbountywriteup/subdomain-take-over-worth-100-ce822ed85ba0, Subdomain-takeover
 - https://medium.com/bugbountywriteup/finding-bugs-on-chess-com-739a71fbdb31, Lack-of-rate-limiting
@@ -4226,7 +4223,6 @@
 - https://buer.haus/2019/10/18/a-tale-of-exploitation-in-spreadsheet-file-conversions/, Local-file-disclosure
 - https://philippeharewood.com/1-800-flowers-credentials-and-message-log-leak-via-facebook-com-facebook/, AWS-misconfiguration
 - https://medium.com/bugbountywriteup/how-i-was-able-to-bypass-otp-token-requirement-in-razer-the-story-of-a-critical-bug-fc63a94ad572, OTP-bypass
-- https://medium.com/@smilehackerofficial/how-i-found-rce-but-got-duplicated-ea7b8b010990, Unrestricted-file-upload
 - https://medium.com/@manralhemant10/how-i-bypassed-2-factor-authentication-899750421331, MFA-bypass
 - https://smaranchand.com.np/2019/10/an-inconsistent-csrf/, CSRF
 - https://medium.com/@frycos/finding-sql-injections-fast-with-white-box-analysis-a-recent-bug-example-ca449bce6c76, SQL-injection
@@ -4757,7 +4753,6 @@
 - https://blog.nyangawa.me/security/CVE-2018-18649-Gitlab-RCE/, RCE
 - https://honoki.net/2018/12/from-blind-xxe-to-root-level-file-read-access/, Blind-XXE
 - https://medium.com/bugbountywriteup/bypass-cloudflare-waf-to-pwned-application-2c9e4f862319, WAF-bypass
-- https://www.safetydetective.com/blog/microsoft-outlook/, Subdomain-takeover
 - https://avatao.com/blog-how-i-could-have-stolen-your-photos-from-google-my-first-3-bug-bounty-writeups/, Parameter-tampering
 - https://medium.com/bugbountywriteup/how-i-was-able-to-generate-access-tokens-for-any-facebook-user-6b84392d0342, IDOR
 - https://medium.com/bugbountywriteup/token-brute-force-to-account-take-over-to-privilege-escalation-to-organization-take-over-650d14c7ce7f, Account-takeover

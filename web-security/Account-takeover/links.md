@@ -5,3 +5,4 @@
 - https://medium.com/@thabisomokoena/account-take-over-via-an-api-2eea4fe49532
 - https://akashhamal0x01.medium.com/watch-out-the-links-account-takeover-32b9315390a7
 - https://www.r29k.com/articles/bb/ato
+- https://abss.me/posts/github-org-takeover/

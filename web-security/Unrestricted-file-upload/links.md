@@ -1,1 +1,2 @@
 - https://medium.com/@paulo_mota/bug-bounty-como-encontrei-o-bug-unrestricted-file-upload-dd1a61adc9fd
+- https://medium.com/@smilehackerofficial/how-i-found-rce-but-got-duplicated-ea7b8b010990

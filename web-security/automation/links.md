@@ -1,1 +1,2 @@
 - https://medium.com/@kawyabcs/discover-the-5-best-automation-tools-for-bug-bounty-hunters-cfcca568370d
+- https://medium.com/@manishmshiva/finding-hidden-directories-sub-domains-and-s3-buckets-using-gobuster-5c2e3c41ff96

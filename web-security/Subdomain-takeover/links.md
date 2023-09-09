@@ -1,1 +1,2 @@
 - https://medium.com/@sadiqwest01/bugbounty-how-i-takeover-microsoft-store-a58c1b785aa0
+- https://www.safetydetective.com/blog/microsoft-outlook/
