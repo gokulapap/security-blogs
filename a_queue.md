@@ -1097,7 +1097,6 @@
 - https://infosecwriteups.com/graphql-idor-leaking-credit-card-information-of-1000s-of-users-d07eec732979, IDOR
 - https://kingcoolvikas.medium.com/how-i-found-my-first-xss-on-a-bug-bounty-program-c41107617ce1, XSS
 - https://www.rapid7.com/blog/post/2022/12/20/cengage-lti-session-management-leakage/, SSO
-- https://www.modzero.com/modlog/archives/2022/12/19/better_make_sure_your_password_manager_is_secure/index.html, Hardcoded-credentials
 - https://medium.com/@M0X0101/how-i-was-able-to-steal-users-credentials-via-swagger-ui-dom-xss-e84255eb8c96, DOM-XSS
 - https://infosecwriteups.com/directory-ttraversal-vulnerability-in-huawei-hg255s-products-dce941a1d015, Path-traversal
 - https://www.microsoft.com/en-us/security/blog/2022/12/19/gatekeepers-achilles-heel-unearthing-a-macos-vulnerability/, Local-Privilege-Escalation
@@ -1897,7 +1896,6 @@
 - https://gccybermonks.com/posts/ssrfvision/, SSRF
 - https://machevalia.blog/blog/ivanti-epm-remote-code-execution, RCE
 - https://medium.com/@shakti.gtp/if-its-a-feature-let-s-abuse-it-for-750-19cfb9848d4b, CSRF
-- https://medium.com/@mahitman1/how-attacker-could-have-suffocated-the-company-staff-37a6b7192f12, Default-credentials
 - https://www.zerodayinitiative.com/blog/2022/6/1/is-exploiting-a-null-pointer-deref-for-lpe-just-a-pipe-dream, Memory-corruption
 - https://medium.com/@ratnadip1998/how-i-mass-hunt-for-admin-panel-access-8c2ad145054, Default-credentials
 - https://hencohen10.medium.com/microsoft-dynamics-container-sandbox-rce-via-unauthenticated-docker-remote-api-20-000-bounty-7f726340a93b, RCE
@@ -2305,7 +2303,6 @@
 - https://0xkasper.com/articles/moodle-sql-injection-broken-access-control.html, SQL-injection
 - https://kuldeep.io/posts/120-days-of-high-frequency-hunting/, SSRF
 - https://hulkvision.github.io/blog/post1/, RCE
-- https://nmochea.medium.com/fb-lite-all-user-active-status-changed-99c5c36029e5, Logic-flaw
 - https://systemweakness.com/xss-filter-evasion-idor-3d4624758ff0, XSS
 - https://nmochea.medium.com/xiaomi-arbitrary-javascript-vulnerability-327a6f3a9b0e, XSS
 - https://medium.com/@frycos/searching-for-deserialization-protection-bypasses-in-microsoft-exchange-cve-2022-21969-bfa38f63a62d, Insecure-deserialization
@@ -4625,7 +4622,6 @@
 - https://medium.com/@modam3r5/reflected-xss-at-https-photos-shopify-com-ea696db3915c, Reflected-XSS
 - https://medium.com/@spade.com/how-i-registered-multiple-accounts-in-privateinternetaccess-vpn-service-for-free-a2068642f418, Logic-flaw
 - https://georgeosterweil.com/2019-02-20-fbctf-idor/, IDOR
-- https://medium.com/@appsecure/leakage-of-client-secret-server-tokens-of-all-uber-developer-applications-657d9d7fd30e, Information-disclosure
 - https://apapedulimu.click/multiple-stored-xss-on-tokopedia/, Stored-XSS
 - https://0x00sec.org/t/using-uri-to-pop-shells-via-the-discord-client/11673, URI-abuse
 - https://www.hackerinside.me/2019/02/dos-on-waf-protected-sites-by-abusing.html, DoS
@@ -5262,7 +5258,6 @@
 - https://web.archive.org/web/20200825165420/https://medium.com/@adeshkolte/get-your-microsoft-account-hijacked-by-simply-clicking-connect-button-adesh-kolte-cc0b335b0221, Stored-XSS
 - https://web.archive.org/web/20201013141953/https://medium.com/@adeshkolte/multiple-intel-vulnerabilities-adesh-kolte-9f74372db34c, Open-redirect
 - https://web.archive.org/web/20200819161548/https://medium.com/@adeshkolte/non-persistent-xss-at-microsoft-adesh-kolte-ad36b1b4a325, Reflected-XSS
-- http://blog.shashank.co/2017/11/crlf-injection-in-bockchaininfo.html, CRLF-injection
 - https://blog.securitybreached.org/2017/11/04/access-localhost-via-virtual-host-virtual-host-enumeration/, vHost-misconfiguration
 - https://medium.com/bugbountywriteup/senstive-information-disclose-lead-to-join-any-organisation-40ab549011, Information-disclosure
 - https://ysx.me.uk/app-maker-and-colaboratory-a-stored-google-xss-double-bill/, Stored-XSS

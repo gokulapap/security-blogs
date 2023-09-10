@@ -9,3 +9,4 @@
 - https://medium.com/bugbountywriteup/exploiting-an-unknown-vulnerability-a752272ffd7f
 - https://elinfosec.com/2022/my-first-report-on-hackerone-a-logic-flaw-in-npm/
 - https://medium.com/@harshbanshpal/you-can-takeover-any-google-account-f6f2d012466f
+- https://nmochea.medium.com/fb-lite-all-user-active-status-changed-99c5c36029e5
