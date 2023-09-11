@@ -7,3 +7,4 @@
 - https://infosecwriteups.com/how-i-scored-2k-bounty-via-an-idor-32eb2fa8aa1e
 - https://ysamm.com/?p=42
 - https://medium.com/bugbountywriteup/abusing-new-claps-feature-in-medium-6bd8757a64a4
+- https://medium.com/bugbountywriteup/disclose-private-attachments-in-facebook-messenger-infrastructure-15-000-ae13602aa486
