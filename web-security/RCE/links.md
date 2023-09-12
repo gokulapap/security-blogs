@@ -5,3 +5,4 @@
 - https://www.pentestpartners.com/security-blog/f5-networks-endpoint-inspector-browser-to-rce/
 - https://web.archive.org/web/20220815093448/https://deb0con.medium.com/how-i-earned-a-7000-bug-bounty-from-grab-rce-unique-bugs-5e5037c5a58d
 - https://sites.google.com/view/harshjaiswalblog/rce-due-to-showexceptions
+- https://web.archive.org/web/20201120053519/https://incogbyte.github.io/pathtraversal/

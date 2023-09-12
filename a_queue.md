@@ -413,7 +413,6 @@
 - https://medium.com/@smukx/how-i-hacked-my-college-cloud-servers-and-find-dos-ato-google-authentication-priv-esc-676b2db98938, Authentication-bypass
 - https://securitycafe.ro/2023/06/19/dll-hijacking-finding-vulnerabilities-in-pestudio-9-52/, DLL-Hijacking
 - https://blog.coffinsec.com/0day/2023/05/31/minidlna-heap-overflow-rca.html, Memory-corruption
-- https://secfault-security.com/blog/libreoffice.html, Arbitrary-file-write
 - http://www.firstsight.me/2023/06/the-unexpected-0-master-id-for-account-data-manipulation/, IDOR
 - https://zerforschung.org/posts/freundschaftspass-en/, Subdomain-takeover
 - https://frycos.github.io/vulns4free/2023/06/18/fortinac.html, RCE
@@ -2375,7 +2374,6 @@
 - https://palant.info/2021/12/20/yes-fun-browser-extensions-can-have-vulnerabilities-too/, XSS
 - https://security.lauritz-holtmann.de/advisories/flickr-account-takeover/, Account-takeover
 - https://infosecwriteups.com/hacked-google-meet-40f364bb8368, Authorization-flaw
-- https://www.zerodayinitiative.com/blog/2021/12/15/exploitation-of-cve-2021-21220-from-incorrect-jit-behavior-to-rce, Browser-hacking
 - https://mearegtu.medium.com/broken-access-control-cc6cfd793b15, IDOR
 - https://securitylab.github.com/advisories/GHSL-2021-1053_Grafana/, Path-traversal
 - https://www.pentestpartners.com/security-blog/gumtree-leaking-your-data-and-not-really-listening/, IDOR
@@ -3308,7 +3306,6 @@
 - https://bhupendra1238.medium.com/how-i-got-my-first-bounty-hof-from-google-csrf-lead-to-account-delete-85f9906ba9ec, CSRF
 - https://blog.geekycat.in/google-vrp-hijacking-your-screenshots/, postMessage
 - https://blog.deesee.xyz/regex/security/2020/12/27/regular-expression-injection.html, ReDoS
-- https://notifybugme.medium.com/chaining-cors-by-reflected-xss-to-account-takeover-my-first-blog-5b4f12b43c70, CORS-misconfiguration
 - https://theshubh77.medium.com/facebook-page-admin-disclosure-by-message-seller-button-bounty-1500-usd-caaa2eac4121, Information-disclosure
 - https://0x48piraj.medium.com/full-address-bar-spoofing-on-opera-mini-android-597fafa60627, Address-Bar-Spoofing
 - https://lutfumertceylan.com.tr/posts/acc-takeover-web-cache-xss/, Reflected-XSS
@@ -4280,7 +4277,6 @@
 - https://medium.com/@0xankush/readme-com-account-takeover-bugbounty-fulldisclosure-a36ddbe915be, Password-reset
 - https://corben.io/blog/19-9-04-jenkins-to-full-pwnage, RCE
 - https://medium.com/@tarekmohamed_20773/add-new-user-with-admin-permission-and-takeover-the-organization-6318ee10154a, Authorization-flaw
-- https://web.archive.org/web/20201120053519/https://incogbyte.github.io/pathtraversal/, RCE
 - https://ysamm.com/?p=280, RCE
 - https://www.loosebyte.com/google-cloud-vulnerability/, XSS
 - https://blog.usejournal.com/graphql-bug-to-steal-anyones-address-fc34f0374417, Information-disclosure
@@ -5527,7 +5523,6 @@
 - https://buer.haus/2015/02/03/google-com-mobile-feedback-url-redirect-regexvalidation-flaw/, Open-redirect
 - https://buer.haus/2015/02/03/flickr-api-explorer-force-users-to-execute-any-api-request/, CSRF
 - https://buer.haus/2015/01/21/admin-google-com-reflected-cross-site-scripting-xss/, Reflected-XSS
-- http://nbsriharsha.blogspot.com/2015/01/vimeo-buying-pro-membership-ondemand.html, IDOR
 - https://buer.haus/2015/01/15/yahoo-root-access-sql-injection-tw-yahoo-com/, SQL-injection
 - https://blog.it-securityguard.com/bugbounty-papyal-xml-upload-cross-site-scripting-vulnerability, XSS
 - https://www.yassineaboukir.com/blog/how-I-discovered-a-1000$-open-redirect-in-facebook/, Open-redirect

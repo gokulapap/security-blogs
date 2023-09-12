@@ -1,1 +1,2 @@
 - https://medium.com/@amangupta566/fun-with-cors-misconfiguration-ii-927caccfe932
+- https://notifybugme.medium.com/chaining-cors-by-reflected-xss-to-account-takeover-my-first-blog-5b4f12b43c70

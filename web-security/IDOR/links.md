@@ -8,3 +8,4 @@
 - https://ysamm.com/?p=42
 - https://medium.com/bugbountywriteup/abusing-new-claps-feature-in-medium-6bd8757a64a4
 - https://medium.com/bugbountywriteup/disclose-private-attachments-in-facebook-messenger-infrastructure-15-000-ae13602aa486
+- http://nbsriharsha.blogspot.com/2015/01/vimeo-buying-pro-membership-ondemand.html
