@@ -1,1 +1,2 @@
 - https://www.pethuraj.com/blog/bmw-bugbounty-writeup/
+- https://dewangpanchal98.medium.com/403-forbidden-bypass-fc8b5df109b7

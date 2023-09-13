@@ -1,1 +1,2 @@
 - https://blog.syss.com/posts/abusing-ms-teams-direct-routing/
+- https://zerocode-ph.medium.com/spoof-as-another-facebook-user-to-report-an-impostor-account-f2dd6683744d

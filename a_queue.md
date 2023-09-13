@@ -2053,7 +2053,6 @@
 - https://tarekbouali.com/posts/how-i-hacked-one-of-the-biggest-airlines-group-of-the-world/, IDOR
 - https://feed.bugs.xdavidhu.me/bugs/0014, IDOR
 - https://blog.viettelcybersecurity.com/moveit-transfer-cve/, SQL-injection
-- https://zerocode-ph.medium.com/spoof-as-another-facebook-user-to-report-an-impostor-account-f2dd6683744d, Spoofing
 - https://kuldeep.io/posts/nosql-injection-in-plain-sight/, NoSQL-injection
 - https://www.trendmicro.com/en_us/research/22/d/macos-suhelper-root-privilege-escalation-vulnerability-a-deep-di.html, Local-Privilege-Escalation
 - https://amit-lt.medium.com/hacked-nokia-with-reflected-cross-site-scripting-vulnerability-327daa8e62fb, Reflected-XSS
@@ -2232,7 +2231,6 @@
 - https://wwws.nightwatchcybersecurity.com/2022/02/06/insecure-bootstrap-process-in-oracle-cloud-cli/, Supply-chain-attack
 - https://feed.bugs.xdavidhu.me/bugs/0012, Information-disclosure
 - https://feed.bugs.xdavidhu.me/bugs/0013, Authentication-bypass
-- https://medium.com/@mrempy/how-i-found-a-critical-p1-bug-in-5-minutes-using-a-cellphone-bug-bounty-303ebec3edd6, SQL-injection
 - https://medium.com/@yaala/facebook-oauth-bypass-446a073e687d, OAuth
 - https://edoverflow.com/2022/bypassing-razers-dom-based-xss-filter/, DOM-XSS
 - https://kailashbohara.com.np/blog/2022/02/04/bypassing-PHP-functions-to-read-system-file-copy/, Components-with-known-vulnerabilities
@@ -2875,7 +2873,6 @@
 - https://notifybugme.medium.com/how-github-recon-help-me-to-find-nine-full-ssrf-vulnerability-with-aws-metadata-access-531d931413a5, SSRF
 - https://batee5a.medium.com/shopify-multipass-misconfiguration-2bc85e92ad1d, Authentication-flaw
 - https://infosecwriteups.com/executing-csrf-with-phone-validation-103c525dd310, CSRF
-- https://dewangpanchal98.medium.com/403-forbidden-bypass-fc8b5df109b7, OTP-bypass
 - https://bloggerrando.blogspot.com/2021/06/how-many-likes-and-dislikes-that-was.html, Broken-Access-Control
 - https://blog.oversecured.com/Android-Exploring-vulnerabilities-in-WebResourceResponse/, Arbitrary-file-read
 - https://shahjerry33.medium.com/server-side-request-forgery-a-forged-document-6359ef25058d, SSRF
@@ -3772,7 +3769,6 @@
 - https://medium.com/@amyrahm786/story-of-blind-sql-with-a-typo-error-43a21913c8d, SQL-injection
 - https://medium.com/@rohitcoder/idor-delete-saved-credit-cards-from-any-business-manager-account-f28c773982eb, IDOR
 - https://initblog.com/2020/oslogin-privesc/, Local-Privilege-Escalation
-- https://blog.darabi.me/2020/06/image-removal-vulnerability-on-facebook.html, IDOR
 - https://gitlab.com/gitlab-com/gl-security/gl-redteam/red-team-tech-notes/-/tree/master/oslogin-privesc-june-2020, Privilege-escalation
 - https://medium.com/heck-the-packet/how-i-got-my-first-big-bounty-payout-with-tesla-8d28b520162d, Information-disclosure
 - https://medium.com/@valeriyshevchenko/from-crlf-to-account-takeover-a94d7aa0d74e, CRLF-injection
@@ -4055,7 +4051,6 @@
 - https://medium.com/@sasaxxx777/cors-misconfiguration-leading-to-private-information-disclosure-3034cfcb4b93, CORS-misconfiguration
 - https://medium.com/@ozguralp/a-less-known-attack-vector-second-order-idor-attacks-14468009781a, IDOR
 - https://medium.com/@shahjerry33/password-reset-token-leak-via-referrer-2e622500c2c1, Password-reset
-- https://medium.com/@ritishkumarsingh/facebook-vulnerability-hidden-community-manager-in-pages-due-to-invitation-accept-logic-61ddbe229c97, Logic-flaw
 - https://blog.securitybreached.org/2020/01/22/user-account-takeover-via-signup-feature-bug-bounty-poc/, Account-takeover
 - https://web.archive.org/web/20200819163234/https://medium.com/@adeshkolte/cross-site-request-forgery-vulnerability-leads-to-user-profile-change-in-microsoft-express-logic-dc3481ab47ba, CSRF
 - https://medium.com/bugbountywriteup/how-i-bought-my-way-to-subdomain-takeover-on-tokopedia-8c6697c85b4d, Subdomain-takeover
