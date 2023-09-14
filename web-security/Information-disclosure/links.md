@@ -8,3 +8,4 @@
 - https://krevetk0.medium.com/how-i-accidentally-hacked-many-companies-using-n-a-vulnerability-in-atlassian-cloud-d4ff8e7dbef1
 - https://research.checkpoint.com/2021/tiktok-fixes-privacy-issue-discovered-by-check-point-research/
 - https://medium.com/@appsecure/leakage-of-client-secret-server-tokens-of-all-uber-developer-applications-657d9d7fd30e
+- https://philippeharewood.com/facebook-marketing-confidential-call-transcript/

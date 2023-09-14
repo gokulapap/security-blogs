@@ -1075,7 +1075,6 @@
 - https://infosecwriteups.com/bypass-apples-redirection-process-with-the-dot-character-c47d40537202, Open-redirect
 - https://infosecwriteups.com/crlf-injection-xxx-how-was-it-possible-for-me-to-earn-a-bounty-with-the-cloudflare-waf-f581506f97f5, CRLF-injection
 - https://medium.com/supakiad-s-m3ez/microsoft-bug-reports-lead-to-ranking-on-microsoft-msrc-quarterly-leaderboard-q3-2022-c6c9f70e2ccd, XSS
-- https://therceman.medium.com/350-xss-in-15-minutes-dcb74ad93d5f, DOM-XSS
 - https://keerok.github.io/2022/12/22/Flickr-Stored-XSS/, Stored-XSS
 - https://github.com/PabloMK7/ENLBufferPwn, Buffer-Overflow
 - https://www.mnemonic.io/resources/blog/acsessed-cross-tenant-network-bypass-in-azure-cognitive-search/, Cloud
@@ -2287,7 +2286,6 @@
 - https://medium.com/@SkiMask0/hashing-the-favicon-ico-a498fc3d665b, Information-disclosure
 - https://srcincite.io/blog/2022/01/20/zohowned-a-critical-authentication-bypass-on-zoho-manageengine-desktop-central.html, Authentication-bypass
 - https://medium.com/@himmat1005/how-i-messed-up-my-own-profile-data-94a4b09cb54c, Authorization-flaw
-- https://medium.com/manomano-tech/the-tale-of-a-click-leading-to-rce-8f68fe93545d, RCE
 - https://www.reversemode.com/2022/01/finding-vulnerabilities-in-swiss-posts.html, Insecure-deserialization
 - https://www.zerodayinitiative.com/blog/2022/1/18/cve-2021-21661-exposing-database-info-via-wordpress-sql-injection, SQL-injection
 - https://googleprojectzero.blogspot.com//2022/01/zooming-in-on-zero-click-exploits.html, Memory-corruption
@@ -3625,7 +3623,6 @@
 - https://hunter-55.medium.com/introduction-fae7c8b3d16c, Exposed-registration-page
 - https://tox7cv3nom.github.io/2020/07/28/authentication-token-bypass-leads-too-idor.html, Authentication-bypass
 - https://medium.com/@akshanshjaiswal/pre-access-to-victims-account-via-facebook-signup-60219e9e381d, OAuth
-- https://medium.com/@jjowi/bug-html-injection-on-tokopedia-9a9b0534ceaa, HTML-injection
 - https://www.r29k.com/articles/bb/csrf, CSRF
 - https://medium.com/@metnew/exploiting-popular-macos-apps-with-a-single-terminal-file-f6c2efdfedaa, MacOS
 - https://tolo7010note.blogspot.com/2020/07/an-unreproducable-bug-due-to-load.html, Open-redirect
@@ -4346,7 +4343,6 @@
 - https://blog.evanricafort.com/2019/07/business-logic-plex-tv.html, Information-disclosure
 - https://medium.com/@baibhavanandjha/xx-to-xxx-in-one-day-9578858b6286, Account-takeover
 - https://blog.parthmalhotra.com/pwning-child-company-to-get-access-to-parentcompanys-slack-team/, SQL-injection
-- https://medium.com/@bywalks/xss-on-twitter-worth-1120-914dcd28ee18, XSS
 - https://medium.com/@madguyyy/reflected-xss-in-ebay-com-60a9d61e26cd, Reflected-XSS
 - https://blog.evanricafort.com/2019/07/html-injection-in-clause-email.html, HTML-injection
 - https://philippeharewood.com/subscribe-to-typing-notifications-for-any-instagram-user/, Authorization-flaw
@@ -4557,7 +4553,6 @@
 - https://hackademic.co.in/youtube-bug/, CSRF
 - https://blog.usejournal.com/an-unusal-bug-on-braintree-paypal-b8d3ec662414, DoS
 - https://www.seekurity.com/blog/general/twitter-denial-of-service-bug-or-how-i-could-prevent-all-followers-from-reading-or-accessing-literally-any-tweets/, DoS
-- https://philippeharewood.com/facebook-marketing-confidential-call-transcript/, Information-disclosure
 - https://medium.com/@terjanq/google-books-x-hacking-29c249862f19, XS-Search
 - https://b3nac.com/posts/2019-02-16-How-to-hunt-for-Malvertising-ads-on-Android.html, Android
 - https://medium.com/@paulorcchoupina/a-real-xss-in-olx-7727ae89c640, Reflected-XSS

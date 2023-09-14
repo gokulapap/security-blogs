@@ -10,3 +10,4 @@
 - https://nirmaldahal.com.np/posts/2019/12/xss-is-love/
 - https://blog.evanricafort.com/2020/02/popping-alerts-in-mixmax-chrome.html
 - https://medium.com/@z.x/how-i-got-450-just-in-one-google-search-sqli-rxss-8c7c28ceba79
+- https://medium.com/@bywalks/xss-on-twitter-worth-1120-914dcd28ee18
