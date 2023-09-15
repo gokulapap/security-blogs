@@ -2,3 +2,4 @@
 - https://ssd-disclosure.com/ssd-advisory-apple-safari-icu-out-of-bounds-write/
 - https://www.synacktiv.com/publications/exploiting-a-remote-heap-overflow-with-a-custom-tcp-stack.html
 - https://research.aurainfosec.io/pentest/bee-yond-capacity/
+- https://github.com/alalng/CVE-2022-44789

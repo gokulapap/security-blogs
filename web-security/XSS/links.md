@@ -11,3 +11,5 @@
 - https://blog.evanricafort.com/2020/02/popping-alerts-in-mixmax-chrome.html
 - https://medium.com/@z.x/how-i-got-450-just-in-one-google-search-sqli-rxss-8c7c28ceba79
 - https://medium.com/@bywalks/xss-on-twitter-worth-1120-914dcd28ee18
+- https://medium.com/@moustadif/how-i-bypassed-reflected-xss-in-well-known-platform-274c07f97674
+- https://medium.com/@kongwenbin/fastest-fix-on-open-bug-bounty-platform-4bb03ff846e8

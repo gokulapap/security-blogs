@@ -8,3 +8,4 @@
 - https://www.seekurity.com/blog/general/lets-steal-some-tokens
 - https://medium.com/@Skylinearafat/a-very-useful-technique-to-bypass-the-csrf-protection-for-fun-and-profit-471af64da276
 - https://medium.com/@armaanpathan/brute-forcing-user-ids-via-csrf-to-delete-all-users-with-csrf-attack-216ccd4d832c
+- https://feed.bugs.xdavidhu.me/bugs/0001

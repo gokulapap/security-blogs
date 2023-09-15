@@ -238,7 +238,6 @@
 - https://medium.com/@renwa/the-underrated-bugs-clickjacking-css-injection-drag-drop-xss-cookie-bomb-login-logout-csrf-84307a98fffa, low-hangings
 - https://medium.com/@evilox/testing-and-bypassing-technique-for-open-redirection-vulnerability-ca1bc6c851c5, open-redirection
 - https://medium.com/@huang-h-kevin/from-retargeting-to-rce-my-journey-from-advertising-to-cybersecurity-4c6149a25c58, journey
-- https://medium.com/@moustadif/how-i-bypassed-reflected-xss-in-well-known-platform-274c07f97674, XSS
 - https://medium.com/@neroli/how-we-was-able-to-takeover-whole-organization-via-privilege-escalation-4f74b31a84a6, privilege-escalation
 - https://medium.com/@AhmedMhesham/easiest-way-to-get-subdomain-takeover-76f444c8ee6f, STO
 - https://medium.com/@nidhipanchal719/open-redirect-to-xss-in-united-nation-website-f4394aa6ed04, XSS
@@ -957,7 +956,6 @@
 - https://shells.systems/froxlor-v2-0-6-remote-command-execution-cve-2023-0315/, RCE
 - https://akashc99.medium.com/bypassing-account-lockout-through-password-reset-functionality-8ff5c256f380, Rate-limiting-bypass
 - https://hacksys.io/blogs/adobe-reader-resetform-cagg-rce-cve-2023-21608, Memory-corruption
-- https://github.com/alalng/CVE-2022-44789, Memory-corruption
 - https://blog.projectdiscovery.io/php-http-server-source-disclosure/, Source-code-disclosure
 - https://medium.com/@sudipshah_66336/disclosing-facebook-page-admins-by-playing-a-game-2b0f4ed082e4, Logic-flaw
 - https://github.blog/2023-01-27-bypassing-ognl-sandboxes-for-fun-and-charities/, OGNL-injection
@@ -2069,7 +2067,6 @@
 - https://blog.relyze.com/2022/04/pwning-cisco-rv340-with-4-bug-chain.html, Local-Privilege-Escalation
 - https://shenkaiwen.com/publication/2022-dkim/, Email-spoofing
 - https://blog.credshields.com/race-condition-in-tendermints-starport-7cebe176d935, Race-condition
-- https://blog.neolex.dev/13/, SSRF
 - https://abdilahrf.github.io/bugbounty/got-access-to-dota-2-admin-panel-by-exploiting-in-game-feature, XSS
 - https://blog.relyze.com/2022/03/cve-2022-27643-netgear-r6700v3-upnpd.html, Memory-corruption
 - https://github.com/pedrib/PoC/blob/master/advisories/Cisco/DCNMPwn.md, Insecure-deserialization
@@ -3029,7 +3026,6 @@
 - https://mikey96.medium.com/cloud-based-storage-misconfigurations-critical-bounties-361647f78a29, Cloud-storage-misconfiguration
 - https://infosecwriteups.com/weird-and-very-easy-authentication-bypass-found-with-google-dorking-c13230a038ed, Authentication-bypass
 - https://huntr.dev/blog/intro-to-open-source-bug-bounty/, Path-traversal
-- https://feed.bugs.xdavidhu.me/bugs/0001, CSRF
 - https://robertchen.cc/blog/2021/04/03/github-pages-xss, XSS
 - https://www.sjoerdlangkemper.nl/2021/04/04/remote-code-execution-through-unsafe-unserialize/, Insecure-deserialization
 - https://bendtheory.medium.com/journeys-in-quoteless-and-multi-reflection-xss-b1d67bb0c5dd, XSS
@@ -5062,7 +5058,6 @@
 - https://www.shawarkhan.com/2018/05/getting-read-access-on-edmodo.html, SSRF
 - https://medium.com/@renwa/self-xss-csrf-to-stored-xss-54f9f423a7f1, Self-XSS
 - https://sites.google.com/site/testsitehacking/-36k-google-app-engine-rce, RCE
-- https://medium.com/@kongwenbin/fastest-fix-on-open-bug-bounty-platform-4bb03ff846e8, XSS
 - https://medium.com/@aayushpokhrel/how-i-got-100-from-one-private-website-3c62c27f6b5d, Information-disclosure
 - https://medium.com/@aayushpokhrel/how-i-hacked-admin-account-via-password-reset-idor-of-one-private-currency-exchanger-site-51723c7c8704, IDOR
 - https://medium.com/@hacker_eth/xss-in-microsoft-7a70416aee75, XSS

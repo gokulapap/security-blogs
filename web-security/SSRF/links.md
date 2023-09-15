@@ -3,3 +3,4 @@
 - https://web.archive.org/web/20221128052252/https://wya.pl/2021/12/20/bring-your-own-ssrf-the-gateway-actuator/
 - https://ltsirkov.medium.com/gitlab-server-side-request-forgery-in-project-import-page-6fdb9ef423e4
 - https://lf.lc/vrp/135276622/
+- https://blog.neolex.dev/13/
