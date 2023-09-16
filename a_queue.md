@@ -124,7 +124,6 @@
 - https://medium.com/@andrea0/understanding-and-exploiting-http-for-bug-bounty-46286fcdd870, misc
 - https://medium.com/@zycc2727/ssrf-cross-site-scripting-a54422d0753e, ssrf
 - https://medium.com/@inakcf/open-redirect-in-email-c658c248eec1, open-redirection
-- https://medium.com/@nvmeeet/4300-instagram-idor-bug-2022-5386cf492cad, IDOR
 - https://medium.com/@vikramroot/account-takeover-via-stored-xss-b774f7a2a3ab, ATO
 - https://medium.com/@ishakudkar/owasp-1-injection-cad772e39a0f, injection
 - https://medium.com/@spideynati/how-i-was-able-to-get-free-for-months-because-of-this-bug-31b1396c563f, journey
@@ -1322,7 +1321,6 @@
 - https://srcincite.io/blog/2022/10/25/eat-what-you-kill-pre-authenticated-rce-in-vmware-nsx-manager.html, RCE
 - https://www.varonis.com/blog/the-logging-dead-two-windows-event-log-vulnerabilities, DoS
 - https://blog.trailofbits.com/2022/10/25/sqlite-vulnerability-july-2022-library-api/, Memory-corruption
-- https://blog.stratumsecurity.com/2022/10/24/abusing-apache-spark-sql-to-get-code-execution/, SQL-injection
 - https://hamzadzworm.medium.com/5000-for-apple-stored-xss-and-another-blind-xss-still-under-review-e9f6f5a76eb1, Blind-XSS
 - https://medium.com/@raymond-lind/ssrf-lfi-in-uploads-feature-a134aa467abf, SSRF
 - https://medium.com/@raymond-lind/how-i-found-a-simple-stored-xss-9a6b1c5e0afa, Stored-XSS
@@ -1676,7 +1674,6 @@
 - https://infosecwriteups.com/how-i-was-able-to-get-29-free-products-bug-bounty-845667ab4ad4, Race-condition
 - https://www.wiz.io/blog/omi-returns-lpe-technical-analysis, Local-Privilege-Escalation
 - https://www.rapid7.com/blog/post/2022/08/05/cve-2022-31660-and-cve-2022-31661-fixed-vmware-workspace-one-access-identity-manager-and-vrealize-automation-lpe/, Local-Privilege-Escalation
-- https://nns.ee/blog/2022/08/05/routeros-container-rce.html, Container-escape
 - https://www.rapid7.com/blog/post/2022/08/04/qnap-poisoned-xml-command-injection-silently-patched/, OS-command-injection
 - https://ibraradi.gitbook.io/write-up/came-looking-for-ssrf-and-found-xss, XSS
 - https://albertpedersen.com/blog/hijacking-email-with-cloudflare-email-routing/, HTTP-response-manipulation
@@ -2398,7 +2395,6 @@
 - https://nechudav.blogspot.com/2021/12/ssrf-vulnerability-in-appsheet-google.html, SSRF
 - https://www.p1boom.com/2021/12/accidental-idor-in-elearnsecurity-to.html, IDOR
 - https://pathleax.medium.com/this-is-how-i-was-able-to-see-and-delete-your-private-facebook-portal-photos-a93ed22f875b, IDOR
-- https://medium.com/@vishnu0002/how-i-managed-to-hack-into-a-billion-dollar-sport-platform-7cc667081229, OTP-bypass
 - https://infosecwriteups.com/how-i-hacked-yandex-with-ssrf-vulnerability-e19af20ed4d, SSRF
 - https://pawanchhabria.medium.com/how-i-accessed-the-sensitive-document-which-i-had-already-deleted-adbc1e6fbb25, Privacy-issue
 - https://omespino.com/write-up-xss-stored-in-files-slack-com-via-xml-svg-file-ios-1000-usd/, XSS
@@ -5504,7 +5500,6 @@
 - https://josipfranjkovic.blogspot.com/2015/04/race-conditions-on-facebook.html, Race-condition
 - https://blog.darabi.me/2015/04/bypass-facebook-csrf.html, CSRF
 - https://blog.zimperium.com/telegram-hack/, Privacy-issue
-- https://web.archive.org/web/20210423154459/https://yassineaboukir.com/blog/neglected-dns-records-exploited-to-takeover-subdomains/, Subdomain-takeover
 - https://buer.haus/2015/02/03/google-com-mobile-feedback-url-redirect-regexvalidation-flaw/, Open-redirect
 - https://buer.haus/2015/02/03/flickr-api-explorer-force-users-to-execute-any-api-request/, CSRF
 - https://buer.haus/2015/01/21/admin-google-com-reflected-cross-site-scripting-xss/, Reflected-XSS

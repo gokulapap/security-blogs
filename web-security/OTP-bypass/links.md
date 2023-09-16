@@ -1,2 +1,3 @@
 - https://www.pethuraj.com/blog/bmw-bugbounty-writeup/
 - https://dewangpanchal98.medium.com/403-forbidden-bypass-fc8b5df109b7
+- https://medium.com/@vishnu0002/how-i-managed-to-hack-into-a-billion-dollar-sport-platform-7cc667081229

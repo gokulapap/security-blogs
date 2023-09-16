@@ -10,3 +10,4 @@
 - https://medium.com/bugbountywriteup/disclose-private-attachments-in-facebook-messenger-infrastructure-15-000-ae13602aa486
 - http://nbsriharsha.blogspot.com/2015/01/vimeo-buying-pro-membership-ondemand.html
 - https://blog.darabi.me/2020/06/image-removal-vulnerability-on-facebook.html
+- https://medium.com/@nvmeeet/4300-instagram-idor-bug-2022-5386cf492cad
