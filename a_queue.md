@@ -1264,7 +1264,6 @@
 - https://medium.com/@nireshpandian19/my-first-account-takeover-fd5570f09c0a, Account-takeover
 - https://hdwsec.fr/blog/20221109-netgear/, Memory-corruption
 - https://medium.com/@nxenon/some-tips-to-finding-idors-more-easily-and-fixing-them-2c9d0c58bb4a, IDOR
-- https://fortbridge.co.uk/research/compromising-plesk-via-its-rest-api/, CORS-misconfiguration
 - https://maordayanofficial.medium.com/comodo-from-git-to-takeover-803ffb8b57e3, git-folder-disclosure
 - https://breakdev.org/zip-motw-bug-analysis/, Local-Privilege-Escalation
 - https://medium.com/@mehdi.alouache/stormshield-sns-cleartext-password-leak-b436ef312fe9, Use-of-GET-request-Method-With-sensitive-query-strings
@@ -2912,7 +2911,6 @@
 - https://www.fortbridge.co.uk/research/drupal-insecure-default-leads-to-password-reset-poisoning/, Password-reset
 - https://sirleeroyjenkins.medium.com/just-gopher-it-escalating-a-blind-ssrf-to-rce-for-15k-f5329a974530, SSRF
 - https://feed.bugs.xdavidhu.me/bugs/0005, Clickjacking
-- https://seaman00o.medium.com/my-fourth-account-takeover-through-password-reset-28a36dfebaf, Account-takeover
 - https://nvk0x.medium.com/how-i-hijacked-12-subdomains-in-one-program-eea468bcd64f, Subdomain-takeover
 - https://feed.bugs.xdavidhu.me/bugs/0004, Broken-Access-Control
 - https://kailashbohara.com.np/blog/2021/05/16/MSSQL-Injection-in-JSON-request/, SQL-injection
@@ -4669,7 +4667,6 @@
 - https://medium.com/bugbountywriteup/command-injection-poc-72cc3743f10d, OS-command-injection
 - https://medium.com/@ritishkumarsingh/facebook-vulnerability-unremovable-facebook-group-admin-2cbf4faf55c1, Logic-flaw
 - https://medium.com/@sadiqwest01/bugbounty-how-i-hack-billion-company-5529a3ebe999, Directory-listing
-- https://www.vesiluoma.com/abusing-mysql-clients/, LFI
 - https://blog.assetnote.io/bug-bounty/2019/01/14/gaining-access-to-ubers-user-data-through-ampscript-evaluation/, AMPScript-injection
 - https://hacklad.github.io/blog/2019/01/13/Xss-it.html, Stored-XSS
 - https://medium.com/@evilboyajay/workplace-logo-id-to-workplace-owner-name-disclosurefacebook-bug-bounty-e745db59d0bd, IDOR
@@ -4868,7 +4865,6 @@
 - https://www.kumar.ninja/2018/09/xss-surveydropboxcom.html, XSS
 - https://medium.com/@rahulraveendran06/weaponizing-xss-attacking-internal-domains-d8ba1cbd106d, Blind-XSS
 - https://blog.securitybreached.org/2018/09/24/subdomain-takeover-via-unsecured-s3-bucket/, Subdomain-takeover
-- https://rpadovani.com/facebook-responsible-disclosure, Logic-flaw
 - https://medium.com/@efkan162/how-i-xssed-uber-and-bypassed-csp-9ae52404f4c5, Reflected-XSS
 - https://nirmaldahal.com.np/posts/2019/11/r-xss-leading-csrf-bypass-to-account-takeover/, Reflected-XSS
 - https://websecblog.com/vulns/bypassing-firebase-authorization-to-create-custom-goo-gl-subdomains/, Logic-flaw
@@ -5069,7 +5065,6 @@
 - https://medium.com/bugbountywriteup/disclose-private-video-thumbnail-from-facebook-workplace-52b6ec4d73b7, IDOR
 - https://medium.com/@evilboyajay/stealing-money-from-one-account-to-another-account-d7c5ee68922b, Logic-flaw
 - https://sysdream.com/news/lab/2018-04-30-multiple-security-vulnerabilities-in-domains-belonging-to-google/, Broken-Access-Control
-- https://medium.com/@kedrisec/how-i-found-2-9-rce-at-yahoo-bug-bounty-program-20ab50dbfac7, RCE
 - https://medium.com/@logicbomb_1/bugbounty-how-i-was-able-to-bypass-firewall-to-get-rce-and-then-went-from-server-shell-to-get-783f71131b94, RCE
 - https://medium.com/@newp_th/reflected-xss-on-stack-overflow-b8366a855472, Reflected-XSS
 - https://medium.com/@mdisrail2468/bypassing-the-confirmation-email-for-newsletter-bof-nl-682c05cb927f, Authorization-flaw

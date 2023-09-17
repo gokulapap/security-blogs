@@ -11,3 +11,4 @@
 - https://medium.com/@harshbanshpal/you-can-takeover-any-google-account-f6f2d012466f
 - https://nmochea.medium.com/fb-lite-all-user-active-status-changed-99c5c36029e5
 - https://medium.com/@ritishkumarsingh/facebook-vulnerability-hidden-community-manager-in-pages-due-to-invitation-accept-logic-61ddbe229c97
+- https://rpadovani.com/facebook-responsible-disclosure

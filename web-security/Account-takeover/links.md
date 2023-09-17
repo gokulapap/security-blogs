@@ -6,3 +6,4 @@
 - https://akashhamal0x01.medium.com/watch-out-the-links-account-takeover-32b9315390a7
 - https://www.r29k.com/articles/bb/ato
 - https://abss.me/posts/github-org-takeover/
+- https://seaman00o.medium.com/my-fourth-account-takeover-through-password-reset-28a36dfebaf
