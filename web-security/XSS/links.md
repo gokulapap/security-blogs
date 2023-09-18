@@ -13,3 +13,4 @@
 - https://medium.com/@bywalks/xss-on-twitter-worth-1120-914dcd28ee18
 - https://medium.com/@moustadif/how-i-bypassed-reflected-xss-in-well-known-platform-274c07f97674
 - https://medium.com/@kongwenbin/fastest-fix-on-open-bug-bounty-platform-4bb03ff846e8
+- https://github.com/google/security-research/security/advisories/GHSA-fpgp-vrmv-v8f2

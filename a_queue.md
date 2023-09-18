@@ -602,7 +602,6 @@
 - https://astrix.security/ghosttoken-exploiting-gcp-application-infrastructure-to-create-invisible-unremovable-trojan-app-on-google-accounts/, Cloud
 - https://zerocode-ph.medium.com/bypassing-link-sharing-protection-in-messenger-kids-parents-control-feature-meta-bug-bounty-e53f2d148bd9, URL-validation-bypass
 - https://blog.thalium.re/posts/fuzzing-samsung-system-services/, Android
-- https://medium.com/bugbountywriteup/turning-vulnerability-into-bounty-how-cve-2020-17453-xss-earned-me-a-500-bounty-dcabc737fded, Components-with-known-vulnerabilities
 - https://medium.com/bugbountywriteup/uncovering-a-critical-vulnerability-my-journey-of-discovering-cve-2021-31589-a-reflected-xss-in-1e13c0aa41b0, Components-with-known-vulnerabilities
 - https://www.zerodayinitiative.com/blog/2023/4/19/cve-2022-29844-a-classic-buffer-overflow-on-the-western-digital-my-cloud-pro-series-pr4100, Buffer-Overflow
 - https://medium.com/@snoopy101/how-i-hacked-hackers-in-voorivex-hunt-event-9c572ce0005f, Cloudflare-bypass
@@ -3659,7 +3658,6 @@
 - https://medium.com/@pig.wig45/from-n-a-to-resolved-for-backblaze-android-app-hackerone-platform-bucket-takeover-f817692a590, Hardcoded-credentials
 - https://medium.com/@dheerajkmadhukar/journey-from-low-to-critical-bug-2ab98db2eec1, IDOR
 - https://medium.com/@b3twise/how-i-found-10-remote-code-execution-in-10-minutes-cve-2020-5902-3def1aa29e9b, RCE
-- https://github.com/google/security-research/security/advisories/GHSA-fpgp-vrmv-v8f2, XSS
 - https://mudit.blog/free-blockchain-storage-bug-substrate/, Blockchain
 - https://xvnpw.github.io/posts/from-dot-in-regex-to-ssrf-part-3/, SSRF
 - https://web.archive.org/web/20200821010435/https://medium.com/@Alone_Wwolf/how-i-was-able-to-bypass-email-confirm-p4-e17af66a4eb0, Information-disclosure
@@ -4465,7 +4463,6 @@
 - https://gist.github.com/stefanocoding/8cdc8acf5253725992432dedb1c9c781, Open-redirect
 - https://www.komodosec.com/post/mime-sniffing-xss, Stored-XSS
 - https://medium.com/@sandh0t/think-outside-the-scope-advanced-cors-exploitation-techniques-dad019c68397, CORS-misconfiguration
-- https://medium.com/@kang_ali/stored-xss-on-techprofile-microsoft-d21757588cc1, Stored-XSS
 - https://web.archive.org/web/20190515123715/https://medium.com/@0ktavandi/blind-ssrf-in-stripe-com-due-to-sentry-misconfiguration-60ebb6a40b5, Blind-SSRF
 - https://medium.com/a-bugz-life/4x-csrfs-chained-for-company-account-takeover-f9fada416986, CSRF
 - https://medium.com/@frostnull1337/sql-injection-through-user-agent-44a1150f6888, SQL-injection
@@ -4568,7 +4565,6 @@
 - https://websecblog.com/vulns/google-earth-studio-vulnerability/, IDOR
 - https://medium.com/@orthonviper/sql-injection-for-50-bounty-but-still-worth-reading-468442c1cc1a, SQL-injection
 - https://medium.com/@sharan.panegav/account-takeover-using-cross-site-websocket-hijacking-cswh-99cf9cea6c50, Cross-Site-WebSocket-Hijacking
-- https://medium.com/@rootxharsh_90844/vimeo-ssrf-with-code-execution-potential-68c774ba7c1e, SSRF
 - https://www.imperva.com/blog/mapping-communication-between-facebook-accounts-using-a-browser-based-side-channel-attack/, Side-channel-attack
 - https://www.vulnano.com/2019/03/facebook-messenger-server-random-memory.html, Information-disclosure
 - https://medium.com/@vladimirmetnew/3-xss-in-protonmail-for-ios-95f8e4b17054, XSS
@@ -4873,7 +4869,6 @@
 - https://mohitdabas.wordpress.com/2018/09/18/bypassing-authentication-using-javascript-debugger/, Authentication-bypass
 - https://web.archive.org/web/20190320205543/https://medium.com/@0ktavandi/how-i-bypassed-akamai-kona-waf-xss-in-overstock-com-f205b0e71a0d, XSS
 - https://bugbounty.blog/2018/09/18/facebook-750-reward-for-a-simple-bug/, Authentication-bypass
-- https://medium.com/@armaanpathan/chain-the-bugs-to-pwn-an-organisation-lfi-unrestricted-file-upload-remote-code-execution-93dfa78ecce, LFI
 - https://medium.com/@jonathanbouman/reflected-xss-at-philips-com-e48bf8f9cd3c, Reflected-XSS
 - https://randywestergren.com/xss-vulnerabilities-in-multiple-iframe-busters-affecting-top-tier-sites/, XSS
 - https://medium.com/bugbountywriteup/user-account-takeover-in-indias-largest-digital-business-company-c7b6d61dadb9, Account-takeover

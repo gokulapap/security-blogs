@@ -1,3 +1,4 @@
 - https://www.updatelap.com/2019/05/local-file-inclusion-in-peeringgooglecom.html
 - https://medium.com/bugbountywriteup/leveraging-lfi-to-rce-in-a-website-with-20000-users-129050f9982b
 - https://www.vesiluoma.com/abusing-mysql-clients/
+- https://medium.com/@armaanpathan/chain-the-bugs-to-pwn-an-organisation-lfi-unrestricted-file-upload-remote-code-execution-93dfa78ecce
