@@ -1,0 +1,1 @@
+- https://medium.com/@plenumlab/identifying-and-exploiting-unsafe-deserialization-in-ruby-97c7cbd6c05d

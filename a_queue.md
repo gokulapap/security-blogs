@@ -275,7 +275,6 @@
 - https://fatnassifiras.medium.com/cross-tenant-information-disclosure-unraveling-microsoft-connections-custom-connectors-and-oauth-6487321d28b3, OAuth
 - https://samcurry.net/points-com/, Path-traversal
 - https://research.aurainfosec.io/pentest/hook-line-and-phishlet/, Phishing
-- https://medium.com/@plenumlab/identifying-and-exploiting-unsafe-deserialization-in-ruby-97c7cbd6c05d, Insecure-deserialization
 - https://mr-medi.github.io/research/2023/07/31/exploring-cross-site-frame-counting-attacks.html, Cross-Site-Frame-Counting
 - https://medium.com/@ramkumarnadar47/desperate-xss-ce3619343f57, Reflected-XSS
 - https://hazanasec.github.io/2023-07-30-Samesite-bypass-method-override.md/, Samesite-cookie-bypass
@@ -3363,7 +3362,6 @@
 - https://kailashbohara.com.np/blog/2020/11/18/GraphQL-IDOR-in-Facebook-streamer-dashboard/, IDOR
 - https://shahjerry33.medium.com/server-side-misconfigurartion-a-funny-fix-63cc12b4c7fc, Information-disclosure
 - https://medium.com/@logicbomb_1/tale-of-3-vulnerabilities-to-account-takeover-44ba631a0304, SSRF
-- https://jsecu.github.io/2020/11/17/openemr/, Arbitrary-file-write
 - https://medium.com/@shaheenfazim/hacking-into-rce-government-server-operated-for-the-us-department-of-energys-national-nuclear-8aadc2e7e491, RCE
 - https://medium.com/@kanytu/firefox-and-how-a-website-could-steal-all-of-your-cookies-581fe4648e8d, Arbitrary-file-read
 - https://web.archive.org/web/20201116060315/https://medium.com/@kunal94/stealing-users-pii-info-by-visiting-api-endpoint-directly-5062e0147f67, Information-disclosure
@@ -3672,7 +3670,6 @@
 - https://pethuraj.com/blog/bbc-bug-bounty-write-up-xss-vulnerability/, Reflected-XSS
 - https://medium.com/@noneofyou/how-i-got-hall-of-fame-in-microsoft-9b507dec3860, XSS
 - https://lutfumertceylan.com.tr/posts/ato-and-data-leakage-via-cors-misc/, CORS-misconfiguration
-- https://balapraneeth.medium.com/csrf-attack-e7bb9f3f36e1, CSRF
 - https://thehackerish.com/bug-bounty-write-up-from-ssrf-to-4000/, SSRF
 - https://fadhilthomas.github.io/post/bug-bounty-tokopedia-03/, IDOR
 - https://medium.com/@ifediri/breaking-business-logic-via-coupons-the-story-of-my-1st-valid-bug-bounty-89c30ff214dc, Payment-tampering
@@ -4579,7 +4576,6 @@
 - https://medium.com/@pumudu88/yet-another-unexpected-hack-for-bounty-295cee0ecc24, Information-disclosure
 - https://spyclub.tech/2019/02/26/horizontal-privilege-escalation-on-quora/, Privilege-escalation
 - https://web.archive.org/web/20200929000850/https://www.mohamedharon.com/2019/02/still-work-redirect-yahoo-subdomain-xss.html, Reflected-XSS
-- https://5alt.me/2019/02/xss-in-azure-devops/, XSS
 - https://medium.com/@kunal94/web-cache-deception-attack-leads-to-user-info-disclosure-805318f7bb29, Web-cache-deception
 - https://blog.redforce.io/shareit-vulnerabilities-enable-unrestricted-access-to-adjacent-devices-files/, Android
 - https://medium.com/@logicbomb_1/chain-of-hacks-leading-to-database-compromise-b2bc2b883915, LFI
@@ -5428,7 +5424,6 @@
 - https://avicoder.me/2016/07/22/Twitter-Vine-Source-code-dump/, Source-code-disclosure
 - https://mhmdiaa.com/blog/spotify-blind-xss/, Blind-XSS
 - https://www.josipfranjkovic.com/blog/hacking-facebook-csrf-device-login-flow, CSRF
-- https://www.arneswinnen.net/2016/07/how-i-could-steal-money-from-instagram-google-and-microsoft/, Logic-flaw
 - https://www.josipfranjkovic.com/blog/race-conditions-on-web, Race-condition
 - https://www.seekurity.com/blog/general/topcoder-vulnerabilities-a-tail-of-site-wide-bugs-leads-to-accounts-compromise-payments-hijacking/, CSRF
 - https://medium.com/@r0t1v/uber-hacking-how-we-found-out-who-you-are-where-you-are-and-where-you-went-1e0769674535, Bruteforce

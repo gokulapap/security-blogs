@@ -14,3 +14,4 @@
 - https://medium.com/@moustadif/how-i-bypassed-reflected-xss-in-well-known-platform-274c07f97674
 - https://medium.com/@kongwenbin/fastest-fix-on-open-bug-bounty-platform-4bb03ff846e8
 - https://github.com/google/security-research/security/advisories/GHSA-fpgp-vrmv-v8f2
+- https://5alt.me/2019/02/xss-in-azure-devops/
