@@ -1,0 +1,1 @@
+- https://www.immunit.ch/blog/2018/11/01/cve-2018-11759-apache-mod_jk-access-bypass/

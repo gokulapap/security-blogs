@@ -7,3 +7,4 @@
 - https://www.r29k.com/articles/bb/ato
 - https://abss.me/posts/github-org-takeover/
 - https://seaman00o.medium.com/my-fourth-account-takeover-through-password-reset-28a36dfebaf
+- https://medium.com/bugbountywriteup/how-i-discovered-an-interesting-account-takeover-flaw-18a7fb1e5359

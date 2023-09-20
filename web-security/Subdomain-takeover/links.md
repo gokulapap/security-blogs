@@ -1,3 +1,4 @@
 - https://medium.com/@sadiqwest01/bugbounty-how-i-takeover-microsoft-store-a58c1b785aa0
 - https://www.safetydetective.com/blog/microsoft-outlook/
 - https://web.archive.org/web/20210423154459/https://yassineaboukir.com/blog/neglected-dns-records-exploited-to-takeover-subdomains/
+- https://web.archive.org/web/20201102112116/https://www.mohamedharon.com/2019/09/how-i-able-to-takeover-10-subdomains-in.html

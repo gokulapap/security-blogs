@@ -431,7 +431,6 @@
 - https://dirkjanm.io/obtaining-domain-admin-from-azure-ad-via-cloud-kerberos-trust/, Azure-AD
 - https://hackcompute.com/hacking-epp-servers/, XXE
 - https://hacktus.tech/taking-over-an-entire-organization, Broken-Access-Control
-- https://ndevtk.github.io/writeups/2023/06/11/googlesource/, URL-validation-bypass
 - https://infosecwriteups.com/kubernetes-pentest-bypassing-load-balancer-9bcfae2ce84a, Security-code-review
 - https://www.whiteoaksecurity.com/blog/sony-bravia-remote-code-execution-disclosure/, RCE
 - https://redmaple.tech/blogs/2023/extract-bitwarden-vault-passwords/, Information-disclosure
@@ -1571,7 +1570,6 @@
 - https://akshayravic09yc47.medium.com/improper-input-validation-leads-to-email-spamming-5d1a53b2a579, Email-content-injection
 - https://joshuaarulsamy.medium.com/my-hall-of-fame-at-united-nations-success-story-97675232aed7, XSS
 - https://xcellerator.github.io/posts/tetsuji/, RCE
-- https://members.backbox.org/zimbra-open-bucket-data-leak-responsible-disclosure/, AWS-misconfiguration
 - https://infosecwriteups.com/break-the-logic-5-different-perspectives-in-single-page-1500-5aa09da0fe7a, Client-side-enforcement-of-server-side-security
 - https://pulsesecurity.co.nz/advisories/aspnetboilerplate-jwt, Authentication-flaw
 - https://ssd-disclosure.com/ssd-advisory-vhdmpivalidatevirtualdisksurface-lpe/, Local-Privilege-Escalation
@@ -4041,7 +4039,6 @@
 - https://medium.com/@raushanraj_65039/adding-a-malicious-notebook-to-be-treated-like-a-trusted-notebook-in-google-colab-1337-b84353a9f77, Authorization-flaw
 - https://irsl.medium.com/the-trouble-with-microsofts-troubleshooters-6e32fc80b8bd, RCE
 - https://xvnpw.github.io/posts/from-dot-in-regex-to-ssrf-part-2/, SSRF
-- https://medium.com/bugbountywriteup/how-i-discovered-an-interesting-account-takeover-flaw-18a7fb1e5359, Account-takeover
 - https://palant.info/2020/01/13/pwning-avast-secure-browser-for-fun-and-profit, RCE
 - https://faun.pub/in-cloud-we-trust-wrong-kubernetes-implementation-by-google-cloud-platform-microsoft-azure-a60f50ba943f, Old-components-with-known-vulnerabilities
 - https://medium.com/@shahjerry33/no-rate-limit-2k-bounty-642720ffba99, Lack-of-rate-limiting
@@ -4221,7 +4218,6 @@
 - https://web.archive.org/web/20191214144210/https://medium.com/bugbountywriteup/a-simple-bypass-of-registration-activation-that-lead-to-many-bug-a-story-about-how-my-friend-5df0889f1062, Information-disclosure
 - https://medium.com/oad-earth/bug-or-feature-github-adventure-001-eae9bea48ae8, OAuth
 - https://medium.com/@hariharan21/stored-xss-on-zendesk-via-macros-part-2-676cefee4616, Stored-XSS
-- https://web.archive.org/web/20201102112116/https://www.mohamedharon.com/2019/09/how-i-able-to-takeover-10-subdomains-in.html, Subdomain-takeover
 - https://philippeharewood.com/business-id-leak-via-creative-hub-redirect/, Open-redirect
 - https://gauravnarwani.com/admin-hijacked-by-sea-surf-pirates/, Stored-XSS
 - https://www.openbugbounty.org/blog/leonmugen/ssrf-reading-local-files-from-downnotifier-server/, SSRF
@@ -4787,7 +4783,6 @@
 - https://web.archive.org/web/20201030131757/https://medium.com/@protector47/full-account-takeover-via-referrer-header-oauth-token-steal-open-redirect-vulnerability-chaining-324a14a1567, Open-redirect
 - https://medium.com/@Skylinearafat/how-outdated-jira-instances-suffers-from-multiple-security-vulnerabilities-6a88c45e9ec6, XSS
 - https://medium.com/@kunal94/imagemagick-gif-coder-vulnerability-leads-to-memory-disclosure-hackerone-e9975a6a560e, Memory-leak
-- https://www.immunit.ch/blog/2018/11/01/cve-2018-11759-apache-mod_jk-access-bypass/, Path-traversal
 - https://medium.com/@mateusz.olejarka/finding-hidden-gems-vol-3-quick-win-with-sh-file-722e58636ded, Information-disclosure
 - https://blog.securitybreached.org/2018/11/03/p1-like-a-boss-information-disclosure-via-github-leads-to-employee-account-takeover/, Information-disclosure
 - https://medium.com/bugbountywriteup/stored-xss-in-bug-bounty-13c08e6f5636, Stored-XSS
