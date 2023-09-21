@@ -2,3 +2,4 @@
 - https://www.aeth.cc/public/Article-Pass-Culture/mass-assignment-article-en.html
 - https://medium.com/@ozil.hakim/stored-xss-in-yahoo-and-all-subdomains-bbcaa7c3b8d
 - https://medium.com/@kang_ali/stored-xss-on-techprofile-microsoft-d21757588cc1
+- https://naveenprakaasam.medium.com/finding-keys-under-the-door-5cea8758ce86

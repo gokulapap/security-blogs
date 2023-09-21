@@ -1,3 +1,4 @@
 - https://medium.com/@keegan.ryan/patched-zoom-exploit-altering-camera-settings-via-remote-sql-injection-4fdf3de8a0d
 - https://medium.com/@mrempy/how-i-found-a-critical-p1-bug-in-5-minutes-using-a-cellphone-bug-bounty-303ebec3edd6
 - https://blog.stratumsecurity.com/2022/10/24/abusing-apache-spark-sql-to-get-code-execution/
+- https://hajarerutik9.medium.com/sql-injection-via-hidden-parameter-6da7699248fc

@@ -447,7 +447,6 @@
 - https://castilho.onrender.com/kanboard, Broken-Access-Control
 - https://ssd-disclosure.com/ssd-advisory-roundcube-markasjunk-rce/, RCE
 - https://jhftss.github.io/CVE-2022-32902-Patch-One-Issue-and-Introduce-Two/, TCC-bypass
-- https://www.synacktiv.com/sites/default/files/2023-06/Synacktiv-3DS-Delmia_Apriso_2017_to_2022-Multiple-Vulnerabilities.pdf, Insecure-deserialization
 - https://evait.medium.com/a-short-white-box-code-audit-of-avo-2083b08f3a95, Stored-XSS
 - https://blog.redteam-pentesting.de/2023/storing-passwords/, Pass-the-Hash
 - https://portswigger.net/research/bypassing-csp-via-dom-clobbering, DOM-Clobbering
@@ -2347,7 +2346,6 @@
 - https://youst.in/posts/cache-poisoning-at-scale/, Web-cache-poisoning
 - https://positive.security/blog/ms-teams-1-feature-4-vulns, SSRF
 - https://janmuhammadzaidi.medium.com/how-i-was-able-to-bypass-waf-and-find-the-origin-ip-and-a-few-sensitive-files-fc445180adb7, WAF-bypass
-- https://sector7.computest.nl/post/2021-12-storeprivilegedtaskservice/, Local-Privilege-Escalation
 - https://www.wiz.io/blog/azure-app-service-source-code-leak, Security-misconfiguration
 - https://medium.com/@yoshimlutfi/how-i-found-p2-broken-authentication-with-zero-skill-of-hacking-c40b5643fe4a, Authentication-bypass
 - https://ssd-disclosure.com/ssd-advisory-rocket-chat-client-side-remote-code-execution/, RCE
@@ -3073,7 +3071,6 @@
 - https://spongebhav.medium.com/facebook-group-members-disclosure-e53eb83df39e, Information-disclosure
 - https://rahulvarale.medium.com/idor-vulenebility-with-empty-response-still-exposing-sensitive-details-of-customers-bdce0a6a1b07, IDOR
 - https://ahmadaabdulla.medium.com/how-i-found-sql-injection-on-8x8-cengage-comodo-automattic-20-company-c296d1a09f63, SQL-injection
-- https://naveenprakaasam.medium.com/finding-keys-under-the-door-5cea8758ce86, Stored-XSS
 - https://ashutoshmishra00x0.medium.com/account-takeover-via-reset-password-worth-2000-de085851d81d, Password-reset
 - https://apapedulimu.click/google-vrp-how-i-get-blind-xss-at-google-with-dork-first-bounty-and-hof/, Blind-XSS
 - https://blog.teddykatz.com/2021/03/10/fork-collab-abuse.html, Broken-Access-Control
@@ -3216,7 +3213,6 @@
 - https://github.com/tess-ss/writeups/blob/main/bug.md, Self-XSS
 - https://susanwagle123.medium.com/idor-revealing-images-cdn-links-6589e19bdbaf, IDOR
 - https://shaurya-sharma.medium.com/bypassing-waf-with-incorrect-proxy-settings-for-hunting-bugs-3449b7716f59, URL-validation-bypass
-- https://hajarerutik9.medium.com/sql-injection-via-hidden-parameter-6da7699248fc, SQL-injection
 - https://kingkaran977.medium.com/10-000-for-automatic-email-confirmation-bug-in-microsofts-edge-browser-22f15ceccb4a, Logic-flaw
 - https://blog.shoebpatel.com/2021/01/23/The-Secret-Parameter-LFR-and-Potential-RCE-in-NodeJS-Apps/, Local-File-Read
 - https://yeuchimse.com/csrf-protection-bypass-in-atlassian-confluence-server/, CSRF
@@ -4151,7 +4147,6 @@
 - https://medium.com/@masonhck357/chains-on-chains-chaining-several-idors-into-account-takeover-part-one-373627f2910f, IDOR
 - https://blog.sagarvd.me/2019/11/taking-over-facebook-page-tabs.html, Broken-link-hijacking
 - https://web.archive.org/web/20200908050502/https://kntx.xyz/Blind-SSRF-due-to-Sentry-Misconfiguration/, SSRF
-- https://medium.com/@trapp3rhat/command-injection-through-blh-3c32614bb395, Broken-link-hijacking
 - https://terjanq.github.io/Bug-Bounty/Google/cache-attack-06jd2d2mz2r0/index.html, XS-Search
 - https://blog.teddykatz.com/2019/11/12/github-actions-dos.html, DoS
 - https://medium.com/@th3hidd3nmist/bug-bounty-broken-api-authorization-d30c940ccb42, Authorization-flaw
