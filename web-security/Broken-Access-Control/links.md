@@ -1,2 +1,3 @@
 - https://vulncheck.com/blog/joomla-for-rce
 - https://tuhin1729.medium.com/full-team-takeover-678c79842065
+- https://medium.com/@mehedi1194/how-i-get-my-first-swag-from-sidn-sensitive-data-expose-fc8e202fef85

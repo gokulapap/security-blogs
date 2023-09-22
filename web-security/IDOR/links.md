@@ -11,3 +11,4 @@
 - http://nbsriharsha.blogspot.com/2015/01/vimeo-buying-pro-membership-ondemand.html
 - https://blog.darabi.me/2020/06/image-removal-vulnerability-on-facebook.html
 - https://medium.com/@nvmeeet/4300-instagram-idor-bug-2022-5386cf492cad
+- https://aidilarf.medium.com/idor-vulnerability-in-graphql-api-on-website-bc45e050d1d3

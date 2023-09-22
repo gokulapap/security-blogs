@@ -24,7 +24,6 @@
 - https://medium.com/@kunalkhubchandani/the-modern-day-android-application-pentesting-approach-for-bugbounties-assessments-b09154b522d, android
 - https://medium.com/@secureica/can-hackers-hijack-your-clicks-clickjacking-attacks-5dade6464bfe, clickjacking
 - https://medium.com/@whitehatcyber404/how-to-find-escalating-html-to-ssrf-i-instantly-got-the-hof-within-5minutes-805f173c34e4, ssrf
-- https://medium.com/@shahjerry33/pii-leakage-revealing-secrets-8b617071bd1c, info-disclosure
 - https://medium.com/@Steiner254/bounty-in-less-3-minutes-from-a-google-dork-54bd9bf3a650, tricks
 - https://medium.com/@that-odd-introvert/django-security-xss-a7722cff2326, CVE
 - https://medium.com/@manikchopra31/welcome-to-the-bug-bounty-beginners-roadmap-your-ultimate-guide-to-success-7195f1dcd8c5, journey
@@ -1791,7 +1790,6 @@
 - https://medium.com/@kashyapherry147/origin-ip-to-account-takeover-62d7a54abebf, WAF-bypass
 - https://janmuhammadzaidi.medium.com/vertical-privilege-escalation-the-user-can-takeover-an-admin-account-via-response-manipulation-9237c8b2fefa, Privilege-escalation
 - https://infosecwriteups.com/a-swag-for-a-open-redirect-google-dork-bug-bounty-2143b943f34e, Open-redirect
-- https://0xmahmoudjo0.medium.com/admin-account-takeover-via-weird-password-reset-functionality-166ce90b1e58, Account-takeover
 - https://worthdoingbadly.com/coretrust/, Signature-validation-bypass
 - https://blog.fraktal.fi/two-faces-of-the-same-pdf-document-17e7a15522a0, PDF-parser-differential-attack
 - https://medium.com/@unurbayar1998/facebook-portals-business-logic-error-lead-to-500-708e91b4055f, Logic-flaw
@@ -2616,7 +2614,6 @@
 - https://cyberguy0xd1.medium.com/how-i-hacked-bbc-mail-servers-e61bb6faed2d, Information-disclosure
 - https://ysamm.com/?p=708, Account-takeover
 - https://aob-89072.medium.com/how-mailru-handled-with-my-report-on-their-program-5e1f587ecaa, AWS-misconfiguration
-- https://aidilarf.medium.com/idor-vulnerability-in-graphql-api-on-website-bc45e050d1d3, IDOR
 - https://irsl.medium.com/google-cloud-build-under-the-hood-bc00c68ad9de, gRPC
 - https://wojciechregula.blog/post/play-the-music-and-bypass-tcc-aka-cve-2020-29621/, Privacy-issue
 - https://4bdoz.medium.com/rce-by-code-injection-perl-reverse-shell-a2e90181b10, RCE
@@ -3350,7 +3347,6 @@
 - https://mostafa-mano.medium.com/2-reflected-xss-in-razer-74783ae5ee53, Reflected-XSS
 - https://ozguralp.medium.com/turning-blind-error-based-sql-injection-into-an-exploitable-boolean-one-85d6be3ca23b, SQL-injection
 - https://r2c.dev/blog/2020/exploiting-dynamic-rendering-engines-to-take-control-of-web-apps/, SSRF
-- https://elmahdi.tistory.com/m/4, Open-redirect
 - https://daeken.svbtle.com/arbitrary-file-write-by-adb-pull, Arbitrary-file-write
 - https://0xgaurang.medium.com/out-of-band-xxe-in-an-e-commerce-ios-app-e22981f7b59b, XXE
 - https://kailashbohara.com.np/blog/2020/11/18/GraphQL-IDOR-in-Facebook-streamer-dashboard/, IDOR
@@ -4012,7 +4008,6 @@
 - https://techblog.mediaservice.net/2020/01/ok-google-bypass-the-authentication/, Authentication-bypass
 - https://web.archive.org/web/20200506144651/https://medium.com/@jeppe.b.weikop/2fa-bypass-via-logical-rate-limiting-bypass-25ae2a4e1835, MFA-bypass
 - https://medium.com/@bathinivijaysimhareddy/how-i-takeover-the-companys-linkedin-page-790c9ed2b04d, Broken-link-hijacking
-- https://medium.com/@mehedi1194/how-i-get-my-first-swag-from-sidn-sensitive-data-expose-fc8e202fef85, Broken-Access-Control
 - https://medium.com/@abhishake100/hyperlink-injection-easy-money-sometimes-cc1104655300, Hyperlink-injection
 - https://publish.whoisbinit.me/adding-anyone-including-non-friend-and-blocked-people-as-co-host-in-personal-event, IDOR
 - https://medium.com/@naveenroy008/tale-of-a-misconfiguration-in-password-reset-e8fb484a4661, Password-reset

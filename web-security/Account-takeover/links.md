@@ -8,3 +8,4 @@
 - https://abss.me/posts/github-org-takeover/
 - https://seaman00o.medium.com/my-fourth-account-takeover-through-password-reset-28a36dfebaf
 - https://medium.com/bugbountywriteup/how-i-discovered-an-interesting-account-takeover-flaw-18a7fb1e5359
+- https://0xmahmoudjo0.medium.com/admin-account-takeover-via-weird-password-reset-functionality-166ce90b1e58
