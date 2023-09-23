@@ -3,3 +3,4 @@
 - https://yilmazcanyigit.medium.com/cve-2019-6238-apple-xar-directory-traversal-vulnerability-9a32ba8b3b7d
 - https://seanpesce.blogspot.com/2023/03/leveraging-ssh-keygen-for-arbitrary.html
 - https://sector7.computest.nl/post/2021-12-storeprivilegedtaskservice/
+- https://www.wiz.io/blog/ubuntu-overlayfs-vulnerability

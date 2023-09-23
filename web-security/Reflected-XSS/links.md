@@ -2,3 +2,4 @@
 - https://medium.com/@heinthantzin/how-i-was-able-to-turn-self-xss-into-reflected-xss-850e3d5a2beb
 - https://medium.com/@mehulcodes/stealing-login-credentials-with-reflected-xss-7cb450bf5710
 - https://thehackerblog.com/ebay-mobile-reflected-xss-disclosure-writeup/index.html
+- https://tij.me/blog/stealing-passwords-from-mcdonalds-users/

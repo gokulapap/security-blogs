@@ -282,7 +282,6 @@
 - https://medium.com/@abhishek.karle92/access-of-android-protected-components-via-embedded-intent-android-app-pentesting-5618ae3cc9b2, Android
 - https://www.mcnulty.blog/posts/dap-csrf, CSRF
 - https://medium.com/@mohammed0x04/how-i-found-two-api-vulnerabilities-using-website-source-code-6c4b0dc54d6f, IDOR
-- https://www.wiz.io/blog/ubuntu-overlayfs-vulnerability, Local-Privilege-Escalation
 - https://securitylabs.datadoghq.com/articles/exploring-github-to-aws-keyless-authentication-flaws/, OpenID-Connect
 - https://blog.doyensec.com/2023/07/26/huawei-theme-arbitrary-code-exec.html, Arbitrary-Code-Execution
 - https://blog.sicuranext.com/aws-waf-bypass/, WAF-bypass
@@ -1377,7 +1376,6 @@
 - https://www.intruder.io/research/in-guid-we-trust, IDOR
 - https://www.akamai.com/blog/security-research/cold-hard-cache-bypassing-rpc-with-cache-abuse, Privilege-escalation
 - https://blog.yeswehack.com/yeswerhackers/web-application-firewall-bypass/, WAF-bypass
-- https://smaranchand.com.np/2022/10/taking-over-the-medium-subdomain-using-medium/, Subdomain-takeover
 - https://www.oxeye.io/blog/vm2-sandbreak-vulnerability-cve-2022-36067, RCE
 - https://medium.com/@protostar0/hacking-banks-broken-access-control-vulnerability-in-banking-application-part-i-c442ed5ae170, Broken-Access-Control
 - https://talosintelligence.com/vulnerability_reports/TALOS-2022-1587, Insecure-deserialization
@@ -1902,7 +1900,6 @@
 - https://infosecwriteups.com/how-an-open-redirection-leads-to-an-account-takeover-73ea883055d1, Open-redirect
 - https://mc0wn.blogspot.com/2022/05/2nd-rce-and-xss-in-apache-struts-before-2530.html, RCE
 - https://labs.ingredous.com/2022/05/25/hijacking-over-100k-godaddy-websites/, Subdomain-takeover
-- https://www.synacktiv.com/en/publications/the-printer-goes-brrrrr.html, Memory-corruption
 - https://infosecwriteups.com/how-i-found-a-companys-internal-s3-bucket-with-41k-files-94b453e588b5, AWS-misconfiguration
 - https://www.blackhillsinfosec.com/spoofing-microsoft-365-like-its-1995/, Spoofing
 - https://www.rapid7.com/blog/post/2022/05/24/cve-2022-22977-vmware-guest-authentication-service-lpe-fixed/, Local-Privilege-Escalation
@@ -5364,7 +5361,6 @@
 - https://medium.com/@prateek_0490/how-i-could-have-compromised-any-account-on-one-of-the-biggest-startup-based-in-california-3ebc8c6844b5, Account-takeover
 - https://httpsonly.blogspot.com/2017/01/0day-writeup-xxe-in-ubercom.html, XXE
 - https://medium.com/bugbountywriteup/how-i-could-have-hacked-iit-guwahatis-website-52dff319b056, Unrestricted-file-upload
-- https://tij.me/blog/stealing-passwords-from-mcdonalds-users/, Reflected-XSS
 - https://tij.me/blog/xss-on-hema-one-of-the-largest-dutch-franchisors/, DOM-XSS
 - http://www.pranav-venkat.com/2016/12/idor-in-facebooks-acquisition-parse.html, IDOR
 - https://thehackerblog.com/the-orphaned-internet-taking-over-120k-domains-via-a-dns-vulnerability-in-aws-google-cloud-rackspace-and-digital-ocean/index.html, Domain-takeover
@@ -5512,7 +5508,6 @@
 - http://blog.shashank.co/2013/10/nokia-email-app-pwnage.html, XSS
 - http://blog.shashank.co/2013/10/lfi-in-nokia-maps.html, LFI
 - https://josipfranjkovic.blogspot.com/2013/11/facebook-bug-bounty-secondary-damage.html, CSRF
-- https://whitton.io/articles/content-types-and-xss-facebook-studio/, XSS
 - https://www.josipfranjkovic.com/blog/facebook-csrf-full-account-takeover, CSRF
 - https://www.rcesecurity.com/2013/09/paypal-bug-bounty-paypaltech-com-e-mail-injection/, Email-injection
 - https://arulkumar.in/delete-any-photo-from-facebook-by-exploiting-support-dashboard, IDOR

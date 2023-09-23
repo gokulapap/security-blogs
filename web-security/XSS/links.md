@@ -15,3 +15,4 @@
 - https://medium.com/@kongwenbin/fastest-fix-on-open-bug-bounty-platform-4bb03ff846e8
 - https://github.com/google/security-research/security/advisories/GHSA-fpgp-vrmv-v8f2
 - https://5alt.me/2019/02/xss-in-azure-devops/
+- https://whitton.io/articles/content-types-and-xss-facebook-studio/
