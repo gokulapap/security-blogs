@@ -912,7 +912,6 @@
 - https://medium.com/@2os5/easy-account-takeover-on-dell-subdomain-6297460741fd, Password-reset
 - https://bloggerrando.blogspot.com/2023/02/06-2.html, Logic-flaw
 - https://security.lauritz-holtmann.de/post/xss-ato-gadgets/, SSO
-- https://kindergartner.computerhacker.ring0.lol, postMessage
 - https://medium.com/@jawadmahdi/a-weird-bug-that-leaked-pii-9e2e91a8b8c8, Information-disclosure
 - https://www.synacktiv.com/sites/default/files/2023-02/Synacktiv-Advisory-Izanami-CVE-2023-22495.pdf, Authentication-bypass
 - https://medium.com/@rezaduty/play-with-google-twitter-apple-dell-a90777faa779, XSS
@@ -2943,7 +2942,6 @@
 - https://ysamm.com/?p=667, OAuth
 - https://www.jomar.fr/posts/2021/my_first_oob_xxe_exploitation/, XXE
 - https://web.archive.org/web/20210621213025/https://savirsuda.github.io/How-I-was-able-to-Retrieve-your-Personal-Documents-using-the-Wayback-Machine/, Privacy-issue
-- https://blog.oversecured.com/Exploiting-memory-corruption-vulnerabilities-on-Android/, Memory-corruption
 - https://blog.sonarsource.com/php-supply-chain-attack-on-composer/, Argument-injection
 - https://bughunter25.medium.com/a-tale-of-html-to-pdf-converter-ssrf-and-various-bypasses-4a3e11030c77, SSRF
 - https://feed.bugs.xdavidhu.me/bugs/0003, Privacy-issue
@@ -4384,7 +4382,6 @@
 - https://m0z.co/XSS-Filter-Evasion/, XSS
 - https://medium.com/@rohitcoder/business-user-employees-can-add-edit-change-or-apply-block-list-to-a-business-account-7b3e8aae667e, Authorization-flaw
 - https://visat.me/security/reflected-xss-in-tokopedia-train-ticket/, Reflected-XSS
-- https://www.jonbottarini.com/2019/06/17/using-burp-suite-match-and-replace-settings-to-escalate-your-user-privileges-and-find-hidden-features/, Client-side-enforcement-of-server-side-security
 - https://smaranchand.com.np/2019/06/parameter-pollution-issue-in-api-resulting-xxx/, HTTP-parameter-pollution
 - https://medium.com/@saadahmedx/sql-injection-c87a390afdd3, SQL-injection
 - https://medium.com/@osamaavvan/bypassing-xss-filter-and-stealing-user-credit-card-data-100f247ed5eb, XSS
@@ -4524,7 +4521,6 @@
 - https://b3nac.com/posts/2019-02-16-How-to-hunt-for-Malvertising-ads-on-Android.html, Android
 - https://medium.com/@paulorcchoupina/a-real-xss-in-olx-7727ae89c640, Reflected-XSS
 - https://www.rodneybeede.com/security/slack-announcement-only-channel-post-restriction-bypass.html, Authorization-flaw
-- https://securitylab.github.com/research/facebook-fizz-CVE-2019-3560/, Integer-overflow
 - https://blog.assetnote.io/bug-bounty/2019/03/19/rce-on-mozilla-zero-day-webpagetest/, RCE
 - https://medium.com/@maxpasqua/dos-across-facebook-endpoints-1d7d0bc27c7f, DoS
 - https://medium.com/@80vul/from-http-domain-to-res-domain-xss-by-using-ie-adobes-pdf-activex-plugin-9f2a72a87aff, DOM-XSS
@@ -5086,7 +5082,6 @@
 - https://medium.com/@logicbomb_1/bugbounty-rewarded-by-securing-vulnerabilities-in-bookmyshow-indias-largest-online-movie-bb81dba9b82, Host-header-injection
 - https://medium.com/bugbountywriteup/hacking-oracle-in-5-minutes-b52107a6124c, Directory-listing
 - https://medium.com/@Alra3ees/google-adwords-3133-7-stored-xss-27bb083b8d27, Stored-XSS
-- https://ahussam.me/Leaking-WordPress-CSRF-Tokens/, CSRF
 - https://blog.zimperium.com/cve-2017-13253-buffer-overflow-multiple-android-drm-services/, Memory-corruption
 - https://labs.detectify.com/2018/03/14/graphql-abuse/, GraphQL
 - https://medium.com/bugbountywriteup/bugbounty-how-i-was-able-to-compromise-any-user-account-via-reset-password-functionality-a11bb5f863b3, Logic-flaw

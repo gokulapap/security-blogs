@@ -1,0 +1,1 @@
+- https://securitylab.github.com/research/facebook-fizz-CVE-2019-3560/

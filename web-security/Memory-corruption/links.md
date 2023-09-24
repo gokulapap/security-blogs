@@ -4,3 +4,4 @@
 - https://research.aurainfosec.io/pentest/bee-yond-capacity/
 - https://github.com/alalng/CVE-2022-44789
 - https://www.synacktiv.com/en/publications/the-printer-goes-brrrrr.html
+- https://blog.oversecured.com/Exploiting-memory-corruption-vulnerabilities-on-Android/
