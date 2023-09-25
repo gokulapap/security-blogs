@@ -8,3 +8,5 @@
 - https://web.archive.org/web/20201120053519/https://incogbyte.github.io/pathtraversal/
 - https://medium.com/manomano-tech/the-tale-of-a-click-leading-to-rce-8f68fe93545d
 - https://medium.com/@kedrisec/how-i-found-2-9-rce-at-yahoo-bug-bounty-program-20ab50dbfac7
+- https://machevalia.blog/blog/remote-code-execution-in-tgz-file-upload
+- https://blog.assetnote.io/2023/04/30/rce-oracle-opera/

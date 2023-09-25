@@ -1,0 +1,1 @@
+- https://astrix.security/ghosttoken-exploiting-gcp-application-infrastructure-to-create-invisible-unremovable-trojan-app-on-google-accounts/

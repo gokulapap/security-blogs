@@ -567,7 +567,6 @@
 - https://infosecwriteups.com/unauthorized-access-to-the-admin-panel-via-leaked-credentials-on-the-waybackmachine-55c3307141c6, Information-disclosure
 - https://medium.com/@lopseg/bug-bounty-writeup-stored-xss-vulnerability-waf-bypass-f38aae7ff9eb, Stored-XSS
 - https://medium.com/@0ta/tenda-n301-v6-cve-2023-29680-cve-2023-29681-a40f7ae6dc62, Sensitive-Information-Sent-Over-an-Unencrypted-Channel
-- https://blog.assetnote.io/2023/04/30/rce-oracle-opera/, RCE
 - https://ltsirkov.medium.com/netflix-bypassing-multi-factor-authentication-mfa-53135c9d6d50, MFA-bypass
 - https://goziem.medium.com/how-i-chained-an-information-disclosure-bug-to-sql-injection-bca936d90fb1, SQL-injection
 - https://herolab.usd.de/security-advisories/usd-2022-0034/, Local-Privilege-Escalation
@@ -594,7 +593,6 @@
 - https://infosecwriteups.com/xs-leak-deanonymize-microsoft-skype-users-by-any-3rd-party-website-69849e4501a8, XSLeaks
 - https://jhftss.github.io/CVE-2023-23525-Get-Root-via-A-Fake-Installer/, Local-Privilege-Escalation
 - https://infosecwriteups.com/turning-vulnerability-into-bounty-how-cve-2020-17453-xss-earned-me-a-500-bounty-dcabc737fded, Components-with-known-vulnerabilities
-- https://astrix.security/ghosttoken-exploiting-gcp-application-infrastructure-to-create-invisible-unremovable-trojan-app-on-google-accounts/, Cloud
 - https://zerocode-ph.medium.com/bypassing-link-sharing-protection-in-messenger-kids-parents-control-feature-meta-bug-bounty-e53f2d148bd9, URL-validation-bypass
 - https://blog.thalium.re/posts/fuzzing-samsung-system-services/, Android
 - https://medium.com/bugbountywriteup/uncovering-a-critical-vulnerability-my-journey-of-discovering-cve-2021-31589-a-reflected-xss-in-1e13c0aa41b0, Components-with-known-vulnerabilities
@@ -1983,7 +1981,6 @@
 - https://amit-lt.medium.com/open-redirection-into-bentley-system-d1ee188bfb25, XSS
 - https://securecloud.blog/2022/04/21/microsoft-cloud-security-research-public-disclosure-gaining-unlimited-access-to-graph-auditlogs-endpoint-using-complex-filters-with-non-privileged-user-account/, Information-disclosure
 - https://systemweakness.com/exploiting-a-file-upload-vulnerability-a-directory-traversal-attack-419308cdb059, Unrestricted-file-upload
-- https://neilmadden.blog/2022/04/19/psychic-signatures-in-java/, Signature-bypass
 - https://unit42.paloaltonetworks.com/aws-log4shell-hot-patch-vulnerabilities/, Privilege-escalation
 - https://palant.info/2022/04/19/adobe-acrobat-hollowing-out-same-origin-policy/, XSS
 - https://palisade.consulting/blog/rarible-vulnerability, XSS
@@ -2235,7 +2232,6 @@
 - https://github.com/httpvoid/writeups/blob/main/Hacking-Google-Drive-Integrations.md, SSRF
 - https://www.offensive-security.com/offsec/microsoft-onedrive-macos-local-privesc/, Local-Privilege-Escalation
 - https://theshubh77.medium.com/write-up-missing-rate-limiting-how-i-was-able-to-add-any-unowned-phone-number-to-my-fb-account-fe4d7e67cf10, OTP-bruteforce
-- https://machevalia.blog/blog/remote-code-execution-in-tgz-file-upload, RCE
 - https://machevalia.blog/blog/stored-cross-site-scripting-in-mediawiki, Stored-XSS
 - https://web.archive.org/web/20221228134225/https://machevalia.blog/access-control-violation-wiki-page-creation/, Authorization-flaw
 - https://medium.com/@abhijeetbiswas_/xss-cross-site-scripting-via-x-forwarded-host-header-20be114d4254, XSS
@@ -5053,7 +5049,6 @@
 - http://firstsight.me/2018/04/idor-at-private-bug-bounty-program-that-could-leads-to-personal-data-leaks/, IDOR
 - https://medium.com/@vis_hacker/how-i-got-stored-xss-using-file-upload-5c33e19df51e, Stored-XSS
 - https://medium.com/@YumiSec/from-an-error-message-to-db-diclosure-1af879c74474, Hardcoded-credentials
-- https://medium.com/@saamux/spoof-a-user-to-create-a-description-of-a-group-in-flickr-72b6b8432404, IDOR
 - https://medium.com/bugbountywriteup/bypassing-captcha-like-a-boss-d0edcc3a1c1, Captcha-bypass
 - https://sites.google.com/site/testsitehacking/-5k-service-dependencies, Logic-flaw
 - https://medium.com/bugbountywriteup/securitybreach-how-i-was-able-to-book-hotel-room-for-1-50-9b35f18e49e8, CORS-misconfiguration

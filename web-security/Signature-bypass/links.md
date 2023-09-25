@@ -1,0 +1,1 @@
+- https://neilmadden.blog/2022/04/19/psychic-signatures-in-java/
