@@ -10,3 +10,4 @@
 - https://medium.com/@kedrisec/how-i-found-2-9-rce-at-yahoo-bug-bounty-program-20ab50dbfac7
 - https://machevalia.blog/blog/remote-code-execution-in-tgz-file-upload
 - https://blog.assetnote.io/2023/04/30/rce-oracle-opera/
+- https://mbrancato.github.io/2021/12/28/rce-dataflow.html

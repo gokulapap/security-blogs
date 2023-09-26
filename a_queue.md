@@ -2320,7 +2320,6 @@
 - https://ndevtk.github.io/writeups/2021/12/30/cloud-shell-xss/, XSS
 - https://servicenger.com/mobile/idor-add-or-remove-the-linked-publications-from-author-publisher-settings-facebook-bug-bounty/, IDOR
 - https://infosecwriteups.com/story-of-a-weird-csrf-bug-bde1129c106e, CSRF
-- https://mbrancato.github.io/2021/12/28/rce-dataflow.html, RCE
 - https://amakki.me/full-account-takeover-vulnerability-in-minecraft-f56076c8287d, Account-takeover
 - https://medium.com/@taniyatesting11/bounty-evaluation-github-15-000-us-dollars-rate-limit-d6c07d73c948, Bruteforce
 - https://systemweakness.com/common-nginx-misconfiguration-leads-to-path-traversal-d58701e997bc, Path-traversal
@@ -4240,7 +4239,6 @@
 - https://medium.com/@Skylinearafat/how-to-look-for-js-files-vulnerability-for-fun-and-profit-78bfdfbd6731, Information-disclosure
 - https://omespino.com/write-up-private-bug-bounty-usd-rce-as-root-on-marathon-instance/, RCE
 - https://medium.com/@ratnadip1998/how-i-was-able-to-exploit-the-same-endpoint-2-times-multiple-xss-open-redirection-on-10-5d12886f823d, XSS
-- https://thezerohack.com/hack-instagram-again, Password-reset
 - https://robinverton.de/blog/2019/08/25/bug-bounty-bypassing-a-crappy-waf-to-exploit-a-blind-sql-injection/, Blind-SQL-injection
 - https://philippeharewood.com/create-living-room-polls-as-a-facebook-page-analyst/, Authorization-flaw
 - https://addictivehackers.blogspot.com/2019/08/from-github-recon-to-account-takeover.html, Information-disclosure
@@ -4293,7 +4291,6 @@
 - https://web.archive.org/web/20210124152317/https://whitehathaji.blogspot.com/2019/07/paypal-bug-10k-all-secondary-users.html, IDOR
 - https://web.archive.org/web/20200928234656/https://www.mohamedharon.com/2019/07/sql-injection-in-private-sitecomloginphp.html, SQL-injection
 - https://medium.com/@mdhridoy_4607/1st-bounty-story-rewarded-300-idor-bc4e1708e8e0, IDOR
-- https://footstep.ninja/posts/idor-via-email/, IDOR
 - https://web.archive.org/web/20200928235705/https://www.mohamedharon.com/2019/07/github-takeover.html, Github-account-takeover
 - https://medium.com/@nahoragg/chaining-cache-poisoning-to-stored-xss-b910076bda4f, Web-cache-poisoning
 - https://medium.com/@ronak_9889/solr-injection-by-abusing-local-parameters-on-zomato-com-a5cb7bef10d5, Solr-injection
@@ -4606,7 +4603,6 @@
 - https://medium.com/@ChandSingh/protonmail-xss-stored-b733031ac3b5, Stored-XSS
 - https://websecblog.com/vulns/leoexpress-personal-data/, Authorization-flaw
 - https://www.shawarkhan.com/2019/01/hijacking-accounts-by-retrieving-jwt.html, Open-redirect
-- https://medium.com/@satboy.fb/a-short-tale-of-account-verification-bypass-22045b38a8b1, Email-verification-bypass
 - https://medium.com/@nahoragg/chaining-tricky-oauth-exploitation-to-stored-xss-b67eaea4aabd, Stored-XSS
 - https://medium.com/@pratheesh.p.narayanan/misconfiguration-whatsapp-messenger-1f0f1cf3ef00, Logic-flaw
 - https://medium.com/@sahruldotid/antihack-idor-on-create-submission-ddb3cf40c26b, IDOR
@@ -4930,7 +4926,6 @@
 - https://medium.com/@0xHyde/yahoo-two-xssi-vulnerabilities-chained-to-steal-user-information-750-bounty-e9bc6a41a40a, XSSI
 - https://www.youtube.com/watch?v=0oKHov6y6mw, Stored-XSS
 - https://medium.com/@tomnomnom/making-a-blind-sql-injection-a-little-less-blind-428dcb614ba8, SQL-injection
-- https://medium.com/@ameerassadi/binary-com-clickjacking-vulnerability-exploiting-html5-security-features-368c1ff2219d, Clickjacking
 - https://medium.com/@codingkarma/how-i-found-xss-on-amazon-f62b50f1c336, XSS
 - https://medium.com/@d0nut/exfiltration-via-css-injection-4e999f63097d, CSS-injection
 - https://mahmoudsec.blogspot.com/2018/07/sql-injection-and-silly-waf.html, SQL-injection

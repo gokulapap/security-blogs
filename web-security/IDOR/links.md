@@ -13,3 +13,4 @@
 - https://medium.com/@nvmeeet/4300-instagram-idor-bug-2022-5386cf492cad
 - https://aidilarf.medium.com/idor-vulnerability-in-graphql-api-on-website-bc45e050d1d3
 - https://medium.com/@saamux/spoof-a-user-to-create-a-description-of-a-group-in-flickr-72b6b8432404
+- https://footstep.ninja/posts/idor-via-email/
