@@ -1,0 +1,1 @@
+- https://mrd0x.com/easy-bounty-with-exposed-buckets-and-blobs/

@@ -1332,7 +1332,6 @@
 - https://portswigger.net/research/http-3-connection-contamination, HTTP-connection-contamination
 - https://kuldeep.io/posts/second-order-xxe-exploitation/, XXE
 - https://www.mdsec.co.uk/2022/10/microsoft-office-online-server-remote-code-execution/, SSRF
-- https://www.zerodayinitiative.com/blog/2022/10/19/cve-2022-3236-sophos-firewall-user-portal-and-web-admin-code-injection, RCE
 - https://medium.com/@sas.kunz/scan-qr-code-and-got-hacked-cve-2021-43530-uxss-on-firefox-android-version-768b24b326fb, Universal-XSS
 - https://medium.com/@kandar.souvik6/found-vulnaribility-on-subdomain-of-nasa-gov-simply-using-censys-d93f253ff560, Exposed-registration-page
 - https://boschko.ca/tenda_ac1200_router/, OS-command-injection
@@ -1761,7 +1760,6 @@
 - https://blog.aquasec.com/cve-2022-32223-dll-hijacking, DLL-Hijacking
 - https://medium.com/tenable-techblog/microsoft-azure-site-recovery-dll-hijacking-cd8cc34ef80c, DLL-Hijacking
 - https://medium.com/@soufianehabti/write-up-1-hellosign-integration-full-read-ssrf-df5e1a5bc627, SSRF
-- https://payatu.com/blog/rajesh.r/idor-to-account-deletion, IDOR
 - https://blog.sonarsource.com/blitzjs-prototype-pollution/, Prototype-pollution
 - https://h3k.ro/2022/07/11/bsqli/, SQL-injection
 - https://blog.lightspin.io/exploiting-eks-authentication-vulnerability-in-aws-iam-authenticator, Authentication-flaw
@@ -2730,7 +2728,6 @@
 - https://sapt.medium.com/apple-hall-of-fame-for-a-small-misconfiguration-unauth-cache-purging-faf81b19419b, Unauthenticated-cache-purge
 - https://www.shielder.it/advisories/mattermost-server-reflected-xss-oauth/, Reflected-XSS
 - https://medium.com/@shubhayumajumdar/bug-chain-leads-to-mass-account-takeover-25dc76205f5d, Information-disclosure
-- https://mrd0x.com/easy-bounty-with-exposed-buckets-and-blobs/, Cloud-storage-misconfiguration
 - https://medium.com/pentesternepal/how-i-found-a-bug-in-apple-within-just-in-5min-d7357237d7a0, XSS
 - https://medium.com/@Kntjrld/not-valid-bug-that-leads-to-us-a-multiple-valid-report-in-facebook-25a3fb8cb51, Information-disclosure
 - https://blog.0xffff.info/2021/07/24/ebay-xss-demo-and-guide-to-spear-phishing/, XSS
@@ -3080,7 +3077,6 @@
 - https://maordayanofficial.medium.com/stored-xss-at-trello-com-ef2e3d1ed24b, Stored-XSS
 - https://wwws.nightwatchcybersecurity.com/2021/03/03/content-injection-rce-in-yandex-browser-for-android-2018/, MiTM
 - https://infosecwriteups.com/the-invincible-kid-7ac1ce2887c0, Logic-flaw
-- https://thezerohack.com/how-i-might-have-hacked-any-microsoft-account, Account-takeover
 - https://www.rafaybaloch.com/2021/02/Microsoft-Edge-Browser-For-IOS-Address-Bar-Spoofing-Vulnerability.html, Address-Bar-Spoofing
 - https://lf.lc/vrp/181521559a/, Container-escape
 - https://notmarshmllow.medium.com/exploiting-cors-to-perform-an-idor-attack-leading-to-pii-information-disclosure-95ef21ecf8ee, CORS-misconfiguration
@@ -3897,7 +3893,6 @@
 - https://medium.com/@ch3ckm4te/self-xss-to-account-takeover-72c89775cf8f, Account-takeover
 - https://adnanmalik.info/blog/the-ticklish-xss%EF%BF%BC/, XSS
 - https://medium.com/@asdqwedev/remote-image-upload-leads-to-rce-inject-malicious-code-to-php-gd-image-90e1e8b2aada, Unrestricted-file-upload
-- https://telegra.ph/API-DOCS-takeover-on-Readmeio-03-19, Subdomain-takeover
 - https://web.archive.org/web/20201004092711/https://sametsahin.net/posts/administrator-level-privilege-escalation-story/, Privilege-escalation
 - https://medium.com/bugbountywriteup/reflected-xss-on-microsoft-com-subdomains-4bdfc2c716df, Reflected-XSS
 - https://medium.com/the-volatile-triad/hacking-always-check-the-cross-domain-policy-369940372de3, SOP-bypass

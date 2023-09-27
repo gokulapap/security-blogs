@@ -3,3 +3,4 @@
 - https://web.archive.org/web/20210423154459/https://yassineaboukir.com/blog/neglected-dns-records-exploited-to-takeover-subdomains/
 - https://web.archive.org/web/20201102112116/https://www.mohamedharon.com/2019/09/how-i-able-to-takeover-10-subdomains-in.html
 - https://smaranchand.com.np/2022/10/taking-over-the-medium-subdomain-using-medium/
+- https://telegra.ph/API-DOCS-takeover-on-Readmeio-03-19
