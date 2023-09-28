@@ -5,3 +5,4 @@
 - https://lf.lc/vrp/135276622/
 - https://blog.neolex.dev/13/
 - https://medium.com/@rootxharsh_90844/vimeo-ssrf-with-code-execution-potential-68c774ba7c1e
+- https://cloudsek.com/appsmith-patches-full-read-ssrf-vulnerabilities-reported-by-cloudsek/

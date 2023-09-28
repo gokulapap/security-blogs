@@ -1137,11 +1137,9 @@
 - https://marxchryz.medium.com/url-validation-bypass-using-browser-uri-normalization-cf545d33d13f, URL-validation-bypass
 - https://karmainsecurity.com/KIS-2022-06, Zip-Slip-attack
 - https://blog.dixitaditya.com/manipulating-aes-traffic-using-a-chain-of-proxies-and-hardcoded-keys, Android
-- https://shahjerry33.medium.com/account-takeover-inside-the-tenant-6101a3cafbee, Account-takeover
 - https://medium.com/@haroonhameed_76621/a-775-worth-of-cookies-reflected-dom-based-xss-bug-bounty-poc-3e7720c78fbe, DOM-XSS
 - https://medium.com/@swapmaurya20/3-step-idor-in-hackerresume-a365f2632996, IDOR
 - https://github.com/Wh04m1001/SysmonEoP, Local-Privilege-Escalation
-- http://rez0.blog/hacking/2022/12/02/hacking-on-a-plane.html, IDOR
 - https://frycos.github.io/vulns4free/2022/12/02/rce-in-20-minutes.html, Security-code-review
 - https://sensepost.com/blog/2022/certpotato-using-adcs-to-privesc-from-virtual-and-network-service-accounts-to-local-system/, Local-Privilege-Escalation
 - https://starlabs.sg/blog/2022/12-multiple-vulnerabilites-in-proxmox-ve--proxmox-mail-gateway/, XSS
@@ -1391,7 +1389,6 @@
 - https://c0nqr0r.medium.com/error-based-sql-injection-with-waf-bypass-manual-exploit-100-bab36b769005, SQL-injection
 - https://itnext.io/a-deep-dive-of-cve-2022-33987-got-allows-a-redirect-to-a-unix-socket-cdeed53944f7, SSRF
 - https://pseudorandom.resistant.tech/disclosing-security-and-privacy-issues-in-thunderbird.html, Privacy-issue
-- https://cloudsek.com/appsmith-patches-full-read-ssrf-vulnerabilities-reported-by-cloudsek/, SSRF
 - https://medium.com/@amithc38/how-i-found-a-p1-bug-a9873819a2d0, Authentication-bypass
 - https://blog.bricked.tech/posts/tmnf/part1/, RCE
 - https://blog.sonarsource.com/securing-developer-tools-a-new-supply-chain-attack-on-php/, Argument-injection
@@ -1835,7 +1832,6 @@
 - https://aidilarf.medium.com/xss-blind-stored-at-asset-domain-android-apps-tiktok-ae2f4c2dbc07, Stored-XSS
 - https://www.proofpoint.com/us/blog/cloud-security/proofpoint-discovers-potentially-dangerous-microsoft-office-365-functionality, Logic-flaw
 - https://www.zerodayinitiative.com/blog/2022/6/15/cve-2022-23088-exploiting-a-heap-overflow-in-the-freebsd-wi-fi-stack, Memory-corruption
-- https://github.com/justinsteven/advisories/blob/main/2022_amazon_log4j-cve-2021-44228-hotpatch_local_privesc.md, Local-Privilege-Escalation
 - https://fredericb.info/2022/06/breaking-secure-boot-on-google-nest-hub-2nd-gen-to-run-ubuntu.html, Hardware-hacking
 - https://www.securesystems.de/blog/privilege-escalation-in-aks-clusters/, Privilege-escalation
 - https://labs.taszk.io/articles/post/unziploc/, Memory-corruption
@@ -4451,7 +4447,6 @@
 - https://medium.com/@protostar0/sidefx-poc-user-enumeration-no-rate-limeted-in-send-message-function-953f1662d41, Username-enumeration
 - https://whitehatfamilyguy.blogspot.com/2019/04/missing-authorization-check-while.html, Authorization-flaw
 - https://medium.com/@logicbomb_1/the-journey-of-web-cache-firewall-bypass-to-ssrf-to-aws-credentials-compromise-b250fb40af82, LFI
-- https://medium.com/bugbountywriteup/csrf-attack-can-lead-to-stored-xss-f40ba91f1e4f, CSRF
 - https://medium.com/@iframe_h1/a-picture-that-steals-data-ff604ba1012, Information-disclosure
 - https://blog.assetnote.io/bug-bounty/2019/04/23/getting-access-zendesk-gcp/, Information-disclosure
 - https://www.7elements.co.uk/resources/blog/facebooks-burglary-shopping-list/, Information-disclosure

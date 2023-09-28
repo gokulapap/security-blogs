@@ -10,3 +10,4 @@
 - https://medium.com/bugbountywriteup/how-i-discovered-an-interesting-account-takeover-flaw-18a7fb1e5359
 - https://0xmahmoudjo0.medium.com/admin-account-takeover-via-weird-password-reset-functionality-166ce90b1e58
 - https://thezerohack.com/how-i-might-have-hacked-any-microsoft-account
+- https://shahjerry33.medium.com/account-takeover-inside-the-tenant-6101a3cafbee

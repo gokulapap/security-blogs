@@ -4,3 +4,4 @@
 - https://seanpesce.blogspot.com/2023/03/leveraging-ssh-keygen-for-arbitrary.html
 - https://sector7.computest.nl/post/2021-12-storeprivilegedtaskservice/
 - https://www.wiz.io/blog/ubuntu-overlayfs-vulnerability
+- https://github.com/justinsteven/advisories/blob/main/2022_amazon_log4j-cve-2021-44228-hotpatch_local_privesc.md

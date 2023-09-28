@@ -15,3 +15,4 @@
 - https://medium.com/@saamux/spoof-a-user-to-create-a-description-of-a-group-in-flickr-72b6b8432404
 - https://footstep.ninja/posts/idor-via-email/
 - https://payatu.com/blog/rajesh.r/idor-to-account-deletion
+- http://rez0.blog/hacking/2022/12/02/hacking-on-a-plane.html
