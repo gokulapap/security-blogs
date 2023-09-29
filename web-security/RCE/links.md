@@ -12,3 +12,5 @@
 - https://blog.assetnote.io/2023/04/30/rce-oracle-opera/
 - https://mbrancato.github.io/2021/12/28/rce-dataflow.html
 - https://www.zerodayinitiative.com/blog/2022/10/19/cve-2022-3236-sophos-firewall-user-portal-and-web-admin-code-injection
+- https://www.usenix.org/system/files/sec23summer_432-shcherbakov-prepub.pdf
+- https://github.com/blasty/lexmark/blob/main/writeup/writeup.md

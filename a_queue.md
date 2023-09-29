@@ -817,7 +817,6 @@
 - https://starlabs.sg/blog/2023/02-microsoft-azure-account-takeover-via-dom-based-xss-in-cosmos-db-explorer/, Account-takeover
 - https://medium.com/@feribytex/blind-xss-fired-on-admin-panel-worth-2000-abe2c83279b5, Blind-XSS
 - https://blog.trailofbits.com/2023/02/23/escaping-well-configured-vscode-extensions-for-profit/, Electron
-- https://medium.com/@bag0zathev2/how-i-used-js-files-inspection-and-fuzzing-to-do-admins-supports-stuff-dd4f700605a, Broken-Access-Control
 - https://m3ez.medium.com/how-i-found-dom-based-xss-on-microsoft-msrc-and-how-they-fixed-it-8b71a6020c82, DOM-XSS
 - https://parkerzanta.medium.com/how-do-i-take-over-another-user-subdomain-name-worth-c66bb0c3f2f7, Subdomain-takeover
 - https://www.whiteoaksecurity.com/blog/logicaldoc-vulnerability-disclosure/, XXE
@@ -1013,7 +1012,6 @@
 - https://erasec.be/blog/client-side-path-manipulation/, Client-side-Path-Traversal
 - https://dhakalbibek.medium.com/2022-a-year-of-fascinating-discoveries-d3277dfb006f, CSRF
 - https://krevetk0.medium.com/hacking-hackers-for-fun-and-profit-784e6c7897e8, Self-XSS
-- https://github.com/blasty/lexmark/blob/main/writeup/writeup.md, RCE
 - https://www.vulnano.com/2023/01/meta-quest-attacker-could-make-any.html, IDOR
 - https://ymohagheghi.medium.com/uploading-the-webshell-using-filename-of-content-disposition-header-story-59ba87752311, Unrestricted-file-upload
 - https://engrinside.medium.com/bug-hunting-open-access-to-s3-bucket-79f262a86a78, AWS-misconfiguration
@@ -1237,7 +1235,6 @@
 - https://medium.com/@jodyritonga/how-i-get-100-in-just-10-minutes-b018b28645ce, Race-condition
 - https://medium.com/@raymond-lind/finding-reflected-xss-in-a-strange-way-289a4f3fa630, XSS
 - https://www.trendmicro.com/en_us/research/22/k/cve-2019-8561-a-hard-to-banish-packagekit-framework-vulnerabilit.html, MacOS
-- https://www.usenix.org/system/files/sec23summer_432-shcherbakov-prepub.pdf, RCE
 - https://www.usenix.org/system/files/sec23summer_235-rohlmann-prepub.pdf, Signature-bypass
 - https://www.usenix.org/system/files/sec23summer_198-gilsenan-prepub.pdf, Cryptographic-issues
 - https://varmaanu001.medium.com/from-shodan-dork-to-grafana-local-file-inclusion-e77dc4cfc264, LFI
@@ -3159,7 +3156,6 @@
 - http://almadj.us/infosec/xxe-to-aws-metadata-disclosure/, XXE
 - https://medium.com/@renwa/facebook-messenger-desktop-app-arbitrary-file-read-db2374550f6d, Arbitrary-file-read
 - https://medium.com/bugbountywriteup/page-admin-disclosed-in-groups-due-to-bad-session-handling-in-facebook-web-184514fafff9, Information-disclosure
-- https://vict0ni.me/redwood-report2web-xss-and-frame-injection/, Reflected-XSS
 - https://www.redtimmy.com/bug-bounty-failure-stories-to-learn-from-how-we-ended-up-to-hack-a-bank-with-no-reward/, DoS
 - https://muhammad-aamir.medium.com/open-redirect-vulnerability-found-using-link-parameter-5fc43e2ea8fd, Open-redirect
 - https://raxis.com/blog/rd-web-access-vulnerability, Timing-attack
@@ -4251,7 +4247,6 @@
 - https://web.archive.org/web/20200722032242/https://kntx.xyz/Bypassing-Nickname-Feature/, Logic-flaw
 - https://medium.com/@04sabsas/bugbounty-writeup-take-attention-and-get-stored-xss-495dd6eab07e, Stored-XSS
 - https://gauravnarwani.com/how-i-xssed-admin-account/, Stored-XSS
-- https://blog.evanricafort.com/2019/08/ssrf-vulnerability-in.html, SSRF
 - https://github.com/sneakerhax/Posts/blob/2454456529ddeedb17237b4e9678f7d58d0ffdca/posts/Amazon_1_click_device_XSS.md, XSS
 - https://websecblog.com/vulns/clickjacking-xss-on-google-org/, Clickjacking
 - https://blog.evanricafort.com/2019/08/application-level-denial-of-service-dos.html, Application-level-DoS
