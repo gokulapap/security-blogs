@@ -715,7 +715,6 @@
 - https://www.sjoerdlangkemper.nl/2023/03/15/textcube-sql-injection-session-ip-spoofing/, SQL-injection
 - http://blog.sysdum.net/parameter-injection-to-rce, RCE
 - https://www.semperis.com/blog/ad-security-research-breaking-trust-transitivity/, Active-Directory-Privilege-Escalation
-- https://trickest.com/blog/hundreds-of-ssrfs/, SSRF
 - https://cupc4k3.lol/cve-2023-24625-idor-in-faveo-service-desk-37a63f53d896, IDOR
 - https://blog.scrt.ch/2023/03/14/producing-a-poc-for-cve-2022-42475-fortinet-rce/, Memory-corruption
 - https://blog.quarkslab.com/vulnerabilities-in-the-tpm-20-reference-implementation-code.html, Memory-corruption
@@ -745,7 +744,6 @@
 - https://arben.sh/bugbounty/SelfXSS-To-Stored-Through-IDOR/, IDOR
 - https://blog.aquasec.com/jenkins-server-vulnerabilities, RCE
 - https://nav1n.medium.com/how-i-got-owned-a-multi-billion-dollar-retailers-mysql-databases-using-simple-sql-injection-30f8b0dfd9ce, SQL-injection
-- https://mahaloz.re/2023/02/25/pwnagent-netgear.html, RCE
 - https://medium.com/@omerkepenek/the-story-of-becoming-a-super-admin-ab32db7dd1b3, Hardcoded-credentials
 - https://www.shockwave.cloud/blog/subdomain-takeover-how-a-misconfigured-dns-record-could-lead-to-a-huge-supply-chain-attack, Subdomain-takeover
 - https://ophionsecurity.com/blog/access-organization-secrets-in-github, Logic-flaw
@@ -1994,7 +1992,6 @@
 - https://medium.com/@_ip_/2-3-xss-through-the-front-door-gitlab-fc4b6799e743, XSS
 - https://falcnix.medium.com/threat-evasion-for-aws-multifactorauthpresent-condition-using-cloudshell-8296b34ecad4, MFA-bypass
 - https://www.sentinelone.com/labs/inside-the-black-box-how-we-fuzzed-microsoft-defender-for-iot-and-found-multiple-vulnerabilities/, DoS
-- https://medium.com/@StealthyBugs/bypass-apple-corp-sso-on-apple-admin-panel-dbfb72c7e634, Path-traversal
 - https://rhinosecuritylabs.com/aws/cve-2022-25165-aws-vpn-client/, Local-Privilege-Escalation
 - https://medium.com/@Bishoo97x/idor-insecure-direct-object-reference-leads-to-listing-all-valid-users-and-edit-their-profiles-2d7bcba78890, IDOR
 - https://www.rapid7.com/blog/post/2022/04/12/cve-2022-24527-microsoft-connected-cache-local-privilege-escalation-fixed/, Local-Privilege-Escalation
@@ -4225,7 +4222,6 @@
 - https://blog.0x48piraj.com/address-bar-spoofing-in-firefox-lite-for-android-and-the-idiocy-that-followed/, Address-Bar-Spoofing
 - https://medium.com/@Skylinearafat/how-to-look-for-js-files-vulnerability-for-fun-and-profit-78bfdfbd6731, Information-disclosure
 - https://omespino.com/write-up-private-bug-bounty-usd-rce-as-root-on-marathon-instance/, RCE
-- https://medium.com/@ratnadip1998/how-i-was-able-to-exploit-the-same-endpoint-2-times-multiple-xss-open-redirection-on-10-5d12886f823d, XSS
 - https://robinverton.de/blog/2019/08/25/bug-bounty-bypassing-a-crappy-waf-to-exploit-a-blind-sql-injection/, Blind-SQL-injection
 - https://philippeharewood.com/create-living-room-polls-as-a-facebook-page-analyst/, Authorization-flaw
 - https://addictivehackers.blogspot.com/2019/08/from-github-recon-to-account-takeover.html, Information-disclosure
@@ -4639,7 +4635,6 @@
 - https://medium.com/@armaanpathan/abusing-acl-permissions-to-overwrite-other-users-uploaded-files-videos-on-s3-bucket-162c8877728, Unrestricted-file-upload
 - https://medium.com/@sahruldotid/how-i-takeover-wordpress-admin-fiiipay-my-1bdede83635d, Account-takeover
 - https://addictivehackers.blogspot.com/2018/12/how-i-was-able-to-takeover-all-user.html, IDOR
-- https://medium.com/@newp_th/reflected-xss-on-ws-na-amazon-adsystem-com-amazon-f1e55f1d24cf, Reflected-XSS
 - https://medium.com/@aniltom/from-hunting-for-a-laptop-to-hunting-down-remote-code-execution-72cce2761846, RCE
 - https://medium.com/@sampanna/rce-in-nokia-com-59b308e4e882, RCE
 - https://medium.com/@modam3r5/unauthenticated-user-can-upload-an-attachment-at-hackerone-aff2a0c573b8, Authorization-flaw

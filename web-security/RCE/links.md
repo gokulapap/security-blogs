@@ -14,3 +14,4 @@
 - https://www.zerodayinitiative.com/blog/2022/10/19/cve-2022-3236-sophos-firewall-user-portal-and-web-admin-code-injection
 - https://www.usenix.org/system/files/sec23summer_432-shcherbakov-prepub.pdf
 - https://github.com/blasty/lexmark/blob/main/writeup/writeup.md
+- https://mahaloz.re/2023/02/25/pwnagent-netgear.html

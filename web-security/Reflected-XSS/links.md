@@ -4,3 +4,4 @@
 - https://thehackerblog.com/ebay-mobile-reflected-xss-disclosure-writeup/index.html
 - https://tij.me/blog/stealing-passwords-from-mcdonalds-users/
 - https://vict0ni.me/redwood-report2web-xss-and-frame-injection/
+- https://medium.com/@newp_th/reflected-xss-on-ws-na-amazon-adsystem-com-amazon-f1e55f1d24cf

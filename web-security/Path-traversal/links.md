@@ -1,1 +1,2 @@
 - https://www.immunit.ch/blog/2018/11/01/cve-2018-11759-apache-mod_jk-access-bypass/
+- https://medium.com/@StealthyBugs/bypass-apple-corp-sso-on-apple-admin-panel-dbfb72c7e634

@@ -16,3 +16,4 @@
 - https://github.com/google/security-research/security/advisories/GHSA-fpgp-vrmv-v8f2
 - https://5alt.me/2019/02/xss-in-azure-devops/
 - https://whitton.io/articles/content-types-and-xss-facebook-studio/
+- https://medium.com/@ratnadip1998/how-i-was-able-to-exploit-the-same-endpoint-2-times-multiple-xss-open-redirection-on-10-5d12886f823d

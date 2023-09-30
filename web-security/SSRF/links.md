@@ -7,3 +7,4 @@
 - https://medium.com/@rootxharsh_90844/vimeo-ssrf-with-code-execution-potential-68c774ba7c1e
 - https://cloudsek.com/appsmith-patches-full-read-ssrf-vulnerabilities-reported-by-cloudsek/
 - https://blog.evanricafort.com/2019/08/ssrf-vulnerability-in.html
+- https://trickest.com/blog/hundreds-of-ssrfs/
