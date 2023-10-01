@@ -1189,7 +1189,6 @@
 - https://hacklido.com/d/90-cve-2021-40662-chamilo-lms-11114-rce, Stored-XSS
 - https://emily.id.au/tailscale, RCE
 - https://basu-banakar.medium.com/ssrf-via-dns-rebinding-cve-2022-4096-b7bf75928bb2, SSRF
-- https://medium.com/pentesternepal/interesting-stored-xss-via-meta-data-eb8fe1de8b33, Stored-XSS
 - https://ssd-disclosure.com/ssd-advisory-netgear-r7800-afpd-preauth/, Memory-corruption
 - https://github.com/0xacb/recollapse/blob/main/till_recollapse_fuzzing_the_web_for_mysterious_bugs.pdf, Regex
 - https://securitylabs.datadoghq.com/articles/appsync-vulnerability-disclosure/, Confused-deputy
@@ -1310,7 +1309,6 @@
 - https://bishopfox.com/blog/jira-align-advisory, SSRF
 - https://snapsec.co/blog/Hacking-Agorapulse/, Log4shell
 - https://www.redteam-pentesting.de/en/advisories/rt-sa-2021-003/-missing-authentication-in-zkteco-zem-zmm-web-interface, Missing-authentication
-- https://medium.com/@ittipatjitrada_72022/how-i-found-three-credentials-leak-on-one-google-dork-on-bugcrowd-3dba9a23ace4, Information-disclosure
 - https://mehedishakeel.medium.com/broken-link-hijacking-my-second-finding-on-hackerone-d715b0713fca, Broken-link-hijacking
 - https://sensepost.com/blog/2022/sail-away-sail-away-sail-away/, RCE
 - https://medium.com/the-gray-area/1-000-p1-pii-disclosure-w-idor-cb344c55d52e, IDOR
@@ -3845,7 +3843,6 @@
 - https://medium.com/@afolicdaralee/hacking-a-telecommunication-company-mtn-c46696451fed, OTP-bypass
 - https://medium.com/bugbountywriteup/how-i-unlocked-the-blocked-accounts-545e9b7d7be1, Password-reset
 - https://blog.doyensec.com/2020/04/08/libressl-fuzzer.html, Memory-corruption
-- https://websecblog.com/vulns/listing-email-addresses-on-google-crisis-map/, IDOR
 - https://web.archive.org/web/20200601005729/https://vict0ni.me/unrestricted-file-upload-on-pdf/, Unrestricted-file-upload
 - https://medium.com/bugbountywriteup/stored-xss-in-google-nest-a82373bbda68, Stored-XSS
 - https://medium.com/@D0rkerDevil/3k-bounty-for-elastic-search-takeover-70c0847d2e40, Elasticsearch-Takeover
@@ -4199,7 +4196,6 @@
 - https://philippeharewood.com/facebook-employee-internal-tool-and-conversations-and-leaked-in-facebook-video/, Information-disclosure
 - https://medium.com/@heinthantzin/how-does-my-recon-win-250-in-15-minutes-a1992508b911, Open-redirect
 - https://philippeharewood.com/add-users-to-roles-on-facebook-pages-without-an-invitation-consent/, Authorization-flaw
-- https://medium.com/@bilalmerokhel/pwn-them-all-bugbounty-4ee60e13c83, Host-header-injection
 - https://philippeharewood.com/subscribe-to-the-list-of-requesters-to-join-a-facebook-live-video-using-mqtt/, Authorization-flaw
 - https://www.rcesecurity.com/2019/09/H1-4420-From-Quiz-to-Admin-Chaining-Two-0-Days-to-Compromise-an-Uber-Wordpress/, Stored-XSS
 - https://www.inputzero.io/2019/09/telegram-privacy-fails-again.html, Logic-flaw
@@ -4329,7 +4325,6 @@
 - https://gauravnarwani.com/injecting-6200-to-1200/, SSTI
 - https://wwws.nightwatchcybersecurity.com/2019/07/02/another-download-protection-bypass-in-google-chrome-bin-files-in-mac-os/, Browser-hacking
 - http://hassankhanyusufzai.com/RFI_LFI_writeup/, RFI
-- https://medium.com/@saadahmedx/accidental-idor-8987a2728d4, IDOR
 - https://cyberzombie.in/stored-xss-on-indeed/, Stored-XSS
 - https://medium.com/@kanchansinghyadav/one-more-parameter-manipulation-bug-7fa0551a6021, Parameter-tampering
 - https://web.archive.org/web/20200928092650/https://pwnsec.ninja/2019/06/28/facebook-bugbounty-short-story-on-page-admin-disclosure/, Authorization-flaw

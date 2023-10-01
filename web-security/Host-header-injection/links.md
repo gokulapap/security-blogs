@@ -1,0 +1,1 @@
+- https://medium.com/@bilalmerokhel/pwn-them-all-bugbounty-4ee60e13c83

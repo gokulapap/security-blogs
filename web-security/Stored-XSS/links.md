@@ -3,3 +3,4 @@
 - https://medium.com/@ozil.hakim/stored-xss-in-yahoo-and-all-subdomains-bbcaa7c3b8d
 - https://medium.com/@kang_ali/stored-xss-on-techprofile-microsoft-d21757588cc1
 - https://naveenprakaasam.medium.com/finding-keys-under-the-door-5cea8758ce86
+- https://medium.com/pentesternepal/interesting-stored-xss-via-meta-data-eb8fe1de8b33

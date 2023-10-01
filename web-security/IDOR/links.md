@@ -16,3 +16,5 @@
 - https://footstep.ninja/posts/idor-via-email/
 - https://payatu.com/blog/rajesh.r/idor-to-account-deletion
 - http://rez0.blog/hacking/2022/12/02/hacking-on-a-plane.html
+- https://websecblog.com/vulns/listing-email-addresses-on-google-crisis-map/
+- https://medium.com/@saadahmedx/accidental-idor-8987a2728d4

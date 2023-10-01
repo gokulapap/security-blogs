@@ -9,3 +9,4 @@
 - https://research.checkpoint.com/2021/tiktok-fixes-privacy-issue-discovered-by-check-point-research/
 - https://medium.com/@appsecure/leakage-of-client-secret-server-tokens-of-all-uber-developer-applications-657d9d7fd30e
 - https://philippeharewood.com/facebook-marketing-confidential-call-transcript/
+- https://medium.com/@ittipatjitrada_72022/how-i-found-three-credentials-leak-on-one-google-dork-on-bugcrowd-3dba9a23ace4
