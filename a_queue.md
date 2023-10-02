@@ -803,7 +803,6 @@
 - https://infosecwriteups.com/how-did-i-found-rce-on-shareit-which-rewarded-bounty-7d4196bf1b52, Log4shell
 - https://nishantjain.tech/#/blog, GraphQL
 - https://medium.com/@omidxrz/command-injection-by-changing-the-logo-2d730887ab6c, RCE
-- https://gonzxph.medium.com/account-takeover-worth-of-5-dba784b32383, OAuth
 - https://hacklido.com/blog/320-how-i-got-a-2000-bounty-with-rxss, Reflected-XSS
 - https://medium.com/@osamaavvan/unauthenticated-graphql-introspection-and-api-calls-92f1d9d86bcf, GraphQL
 - https://systemweakness.com/give-me-a-browser-ill-give-you-a-shell-de19811defa0, Local-Privilege-Escalation
@@ -2431,7 +2430,6 @@
 - https://www.wiz.io/blog/chaosdb-explained-azures-cosmos-db-vulnerability-walkthrough, Cross-tenant-vulnerability
 - https://www.intruder.io/research/practical-http-header-smuggling, HTTP-Header-Smuggling
 - https://medium.com/@fcwdbrqmr/400-bounty-again-using-google-dorks-6dc8e438f017, Directory-listing
-- https://secreltyhiddenwriteups.blogspot.com/2021/11/becoming-super-admin-in-someone-elses.html, IDOR
 - https://0x0021h.medium.com/bypass-chrome-ad-heavy-detection-mechanism-25c9e2e4a0c4, Browser-hacking
 - https://0xmahmoudjo0.medium.com/how-i-found-multiple-sql-injection-with-ffuf-and-sqlmap-in-a-few-minutes-9c3bb3780e8f, SQL-injection
 - https://infosecwriteups.com/sony-hunting-i-discovering-hidden-parameters-5x-swag-c3396c0064bc, Open-redirect
@@ -4381,7 +4379,6 @@
 - https://blog.nyangawa.me/security/GitLab-Local-File-Read/, Path-traversal
 - https://medium.com/@frostnull/hi-guys-again-here-bringing-an-experience-to-share-with-you-as-usual-i-will-overshadow-some-f85a1d5a8d8c, Path-traversal
 - https://vishwarajbhattrai.wordpress.com/2019/06/03/missing-access-control-at-play-store/, Authorization-flaw
-- https://medium.com/@logicbomb_1/the-unusual-case-of-open-redirection-to-aws-security-credentials-compromise-59acc312f02b, SSRF
 - https://medium.com/@nandwanajatin25/story-of-a-uri-based-xss-with-some-simple-google-dorking-e1999254aa55, XSS
 - https://medium.com/@trapp3rhat/edmodo-account-deactivation-vulnerability-1116613bed2b, CORS-misconfiguration
 - https://medium.com/@nishantrustlingup/my-first-csrf-to-account-takeover-worth-750-1332641d4304, CSRF
@@ -4540,7 +4537,6 @@
 - https://0x00sec.org/t/using-uri-to-pop-shells-via-the-discord-client/11673, URI-abuse
 - https://www.hackerinside.me/2019/02/dos-on-waf-protected-sites-by-abusing.html, DoS
 - https://web.archive.org/web/20201117123227/https://www.mohamedharon.com/2019/02/2-subdomains-takeover-via-unbounce-in.html, Subdomain-takeover
-- https://medium.com/@futaacmcyber/stored-xss-on-edmodo-11a3fbc6b6d0, Stored-XSS
 - https://medium.com/@elberandre/1-000-ssrf-in-slack-7737935d3884, SSRF
 - https://ysamm.com/?p=240, Authorization-flaw
 - https://web.archive.org/web/20200929010534/https://www.mohamedharon.com/2019/02/subdomain-takeover-via-wufoo-service-in.html, Subdomain-takeover
@@ -4987,7 +4983,6 @@
 - https://sites.google.com/site/testsitehacking/-36k-google-app-engine-rce, RCE
 - https://medium.com/@aayushpokhrel/how-i-got-100-from-one-private-website-3c62c27f6b5d, Information-disclosure
 - https://medium.com/@aayushpokhrel/how-i-hacked-admin-account-via-password-reset-idor-of-one-private-currency-exchanger-site-51723c7c8704, IDOR
-- https://medium.com/@hacker_eth/xss-in-microsoft-7a70416aee75, XSS
 - https://blog.securitybreached.org/2018/05/18/get-subscription-of-120-year-for-free-bug-bounty-poc, Payment-bypass
 - https://medium.com/@pratheesh.p.narayanan/whatsapp-dos-vulnerability-on-android-ios-web-7628077d21d4, DoS
 - https://medium.com/bugbountywriteup/hsts-bypass-vulnerability-in-ie-preview-fa956161fa8, HSTS-bypass

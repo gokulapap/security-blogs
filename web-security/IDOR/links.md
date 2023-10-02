@@ -18,3 +18,4 @@
 - http://rez0.blog/hacking/2022/12/02/hacking-on-a-plane.html
 - https://websecblog.com/vulns/listing-email-addresses-on-google-crisis-map/
 - https://medium.com/@saadahmedx/accidental-idor-8987a2728d4
+- https://secreltyhiddenwriteups.blogspot.com/2021/11/becoming-super-admin-in-someone-elses.html
