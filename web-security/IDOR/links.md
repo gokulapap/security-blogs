@@ -19,3 +19,4 @@
 - https://websecblog.com/vulns/listing-email-addresses-on-google-crisis-map/
 - https://medium.com/@saadahmedx/accidental-idor-8987a2728d4
 - https://secreltyhiddenwriteups.blogspot.com/2021/11/becoming-super-admin-in-someone-elses.html
+- https://ironfisto.medium.com/theoretically-possible-to-practical-account-takeover-c9383ab03f76

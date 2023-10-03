@@ -1,0 +1,1 @@
+- https://web.archive.org/web/20200920134643/http://wisdomfreak.com/2020/08/banning-users-race-condition/

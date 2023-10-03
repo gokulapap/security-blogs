@@ -1,3 +1,4 @@
 - https://abhisek3122.medium.com/how-redirects-work-on-facebook-technical-breakdown-6699de52996c
 - https://medium.com/@prial261/story-of-a-stored-xss-bypass-26e6659f807b
 - https://elmahdi.tistory.com/m/4
+- https://nmochea.medium.com/facebook-leak-referrer-data-in-every-sub-domain-48da5e505cf6

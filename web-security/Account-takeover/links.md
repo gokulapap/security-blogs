@@ -11,3 +11,4 @@
 - https://0xmahmoudjo0.medium.com/admin-account-takeover-via-weird-password-reset-functionality-166ce90b1e58
 - https://thezerohack.com/how-i-might-have-hacked-any-microsoft-account
 - https://shahjerry33.medium.com/account-takeover-inside-the-tenant-6101a3cafbee
+- https://blog.stazot.com/auth-bypass-in-google-cloud-workstations/

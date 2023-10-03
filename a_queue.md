@@ -999,7 +999,6 @@
 - https://blog.paradoxis.nl/yafpc-unauthenticated-remote-code-execution-755bf9e4d7c1, Authentication-bypass
 - https://infosecwriteups.com/how-browsers-save-as-feature-might-lead-to-code-execution-cve-2022-45415-ebaa8711692, RCE
 - https://medium.com/@cachemoney/exploiting-application-logic-to-phish-internal-mailing-lists-486b94fc2ef1, Phishing
-- https://blog.stazot.com/auth-bypass-in-google-cloud-workstations/, Account-takeover
 - https://sector7.computest.nl/post/2023-01-xar/, Local-Privilege-Escalation
 - https://googleprojectzero.blogspot.com/2023/01/der-entitlements-brief-return-of.html, iOS
 - https://blog.geekycat.in/client-side-ssrf-to-google-cloud-project-takeover/, SSRF
@@ -3283,7 +3282,6 @@
 - https://research.checkpoint.com/2020/game-on-finding-vulnerabilities-in-valves-steam-sockets/, Memory-corruption
 - https://kurtikleiton.medium.com/content-security-policy-bypass-to-perform-xss-3c8dd0d40c2e, XSS
 - https://medium.com/the-volatile-triad/hacking-tamper-with-the-url-parameters-especially-if-they-modify-the-page-7edf158c8db9, HTTP-parameter-pollution
-- https://nmochea.medium.com/facebook-leak-referrer-data-in-every-sub-domain-48da5e505cf6, Open-redirect
 - https://pyrrhon.medium.com/how-i-was-able-to-take-over-one-of-dells-subdomains-7e06b8516e41, Subdomain-takeover
 - https://infosecwriteups.com/facebook-push-notification-linkshim-bypassed-385fe471516, Open-redirect
 - https://github.com/oskarsve/ms-teams-rce, RCE
@@ -3334,7 +3332,6 @@
 - https://rafi-ahamed.medium.com/exploiting-api-with-authtoken-3bea7b1fb6a9, Token-leak
 - https://medium.com/realmodelabs/sd-pwn-part-2-citrix-sd-wan-center-another-network-takeover-a9c950a1a27c, RCE
 - https://medium.com/@seaman00o/account-takeover-through-password-reset-82adc0c19248, Account-takeover
-- https://ironfisto.medium.com/theoretically-possible-to-practical-account-takeover-c9383ab03f76, IDOR
 - https://medium.com/@prakashpanta1999/replying-comments-on-someones-livestream-from-page-is-posted-as-personal-identity-5fe79ef78b28, Logic-flaw
 - https://www.rcesecurity.com/2020/11/Smuggling-an-un-exploitable-xss/, HTTP-Request-Smuggling
 - https://medium.com/@guhanraja/how-i-found-the-facebook-messenger-leaking-access-token-of-million-users-8ee4b3f1e5e3, Information-disclosure
@@ -3550,7 +3547,6 @@
 - https://www.computest.nl/en/knowledge-platform/blog/vulnerability-new-touchid-feature-iCloud-accounts-at-risk-breached/, OAuth
 - https://medium.com/kminthein/account-takeover-in-cups-mail-ru-bdab1483f92c, Logic-flaw
 - https://maordayanofficial.medium.com/look-at-what-i-found-in-comodo-57d62af2f263, Stored-XSS
-- https://web.archive.org/web/20200920134643/http://wisdomfreak.com/2020/08/banning-users-race-condition/, Race-condition
 - https://vj0shii.github.io/multi-factor-auth-bypass-with-password-reset-function/, MFA-bypass
 - https://objective-see.org/blog/blog_0x4D.html, MacOS
 - https://medium.com/bugbountywriteup/refocusing-in-bug-hunting-bonus-an-interestingly-simple-to-test-csrf-bypass-8595b3312147, CSRF
@@ -4278,7 +4274,6 @@
 - https://blog.evanricafort.com/2019/07/business-logic-plex-tv.html, Information-disclosure
 - https://medium.com/@baibhavanandjha/xx-to-xxx-in-one-day-9578858b6286, Account-takeover
 - https://blog.parthmalhotra.com/pwning-child-company-to-get-access-to-parentcompanys-slack-team/, SQL-injection
-- https://medium.com/@madguyyy/reflected-xss-in-ebay-com-60a9d61e26cd, Reflected-XSS
 - https://blog.evanricafort.com/2019/07/html-injection-in-clause-email.html, HTML-injection
 - https://philippeharewood.com/subscribe-to-typing-notifications-for-any-instagram-user/, Authorization-flaw
 - https://blog.usejournal.com/shopping-products-for-free-parameter-tampering-vulnerability-8e09e1471596, Parameter-tampering
