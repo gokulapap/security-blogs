@@ -9,3 +9,4 @@
 - https://blog.evanricafort.com/2019/08/ssrf-vulnerability-in.html
 - https://trickest.com/blog/hundreds-of-ssrfs/
 - https://medium.com/@logicbomb_1/the-unusual-case-of-open-redirection-to-aws-security-credentials-compromise-59acc312f02b
+- https://r2c.dev/blog/2020/exploiting-dynamic-rendering-engines-to-take-control-of-web-apps/

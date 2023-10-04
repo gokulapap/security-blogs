@@ -1,2 +1,3 @@
 - https://medium.com/@plenumlab/identifying-and-exploiting-unsafe-deserialization-in-ruby-97c7cbd6c05d
 - https://www.synacktiv.com/sites/default/files/2023-06/Synacktiv-3DS-Delmia_Apriso_2017_to_2022-Multiple-Vulnerabilities.pdf
+- https://irsl.medium.com/the-nomulus-rift-935a3c4d9300

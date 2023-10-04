@@ -392,7 +392,6 @@
 - https://medium.com/@0xnaeem/how-i-found-a-sql-injection-bug-in-using-my-cellphone-5b5193fdc314, SQL-injection
 - https://medium.com/@karimelsayed0x1/my-first-bug-is-rce-via-sql-injection-dfee9c4d4c01, SQL-injection
 - https://www.rapid7.com/blog/post/2023/06/22/multiple-vulnerabilities-in-fortra-globalscape-eft-administration-server-fixed/, Out-of-bounds-Read
-- https://hdwsec.fr/blog/20230622-netskope/, Local-Privilege-Escalation
 - https://www.trendmicro.com/en_ae/research/23/f/gaps-in-azure-service-fabric-s-security-call-for-user-vigilance.html, Cloud
 - https://www.vusec.net/projects/uncontained/, Kernel-hacking
 - https://octa-mihail.medium.com/my-first-bounty-on-synack-red-team-4ef53329c960, Stored-XSS
@@ -1171,7 +1170,6 @@
 - https://attackshipsonfi.re/p/exploiting-cors-misconfigurations, CORS-misconfiguration
 - https://iamgk808.medium.com/how-i-hacked-into-a-government-e-learning-website-ce8da8fb4ccc, IDOR
 - https://v1dr4x.medium.com/hacking-dutch-government-broken-authentication-to-full-website-takeover-p1-9af477604d54, Exposed-registration-page
-- https://hacklido.com/d/93-able-to-mass-change-profile-section-leads-to-my-first-bounty, HTML-injection
 - https://petrusviet.medium.com/cve-2022-43781-32bc29de8960, OS-command-injection
 - https://rashahacks.com/directory-enumeration-guide/, 40x-bypass
 - https://letshack.xyz/offensive/web-application/legally-hacking-a-government-satellite, Missing-authentication
@@ -1563,7 +1561,6 @@
 - https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/oracle-sbc-multiple-security-vulnerabilities-leading-to-unauthorized-access-and-denial-of-service/, IDOR
 - https://blog.sonarsource.com/securing-developer-tools-argument-injection-in-vscode/, Argument-injection
 - https://redrays.io/cve-2020-2733-jd-edwards/, Information-disclosure
-- https://www.zerodayinitiative.com/blog/2022/8/17/but-you-told-me-you-were-safe-attacking-the-mozilla-firefox-renderer-part-1, Browser-hacking
 - https://whereisk0shl.top/post/break-me-out-of-sandbox-in-old-pipe-cve-2022-22715-windows-dirty-pipe, Local-Privilege-Escalation
 - https://redrays.io/cve-2020-6369-patch-bypass/, Hardcoded-credentials
 - https://www.benthamsgaze.org/2022/08/22/vulnerability-in-linux-containers-investigation-and-mitigation/, Local-Privilege-Escalation
@@ -2627,7 +2624,6 @@
 - https://maxwelldulin.com/BlogPost?post=7676291072, Logic-flaw
 - https://web.archive.org/web/20210826141443/https://medium.com/@navnz/retrieve-archived-stories-of-any-public-instagram-account-b3f5a26851f5, IDOR
 - https://robertheaton.com/bumble-vulnerability/, Information-disclosure
-- https://irsl.medium.com/the-nomulus-rift-935a3c4d9300, Insecure-deserialization
 - https://medium.com/@amnotacat/how-companies-need-to-widen-there-scopes-75ba19ac50c7, RCE
 - https://web.archive.org/web/20211207210720/https://securityflow.io/one-endpoint-two-account-takeovers/, Account-takeover
 - https://medium.com/@noob.assassin/5k-misconfigured-reset-password-that-leads-to-account-takeover-no-user-interaction-ato-e6a36b8ef183, Account-takeover
@@ -3315,7 +3311,6 @@
 - https://komradz86.medium.com/weird-im-possible-xss-on-error-page-a0b943ead41, Reflected-XSS
 - https://mostafa-mano.medium.com/2-reflected-xss-in-razer-74783ae5ee53, Reflected-XSS
 - https://ozguralp.medium.com/turning-blind-error-based-sql-injection-into-an-exploitable-boolean-one-85d6be3ca23b, SQL-injection
-- https://r2c.dev/blog/2020/exploiting-dynamic-rendering-engines-to-take-control-of-web-apps/, SSRF
 - https://daeken.svbtle.com/arbitrary-file-write-by-adb-pull, Arbitrary-file-write
 - https://0xgaurang.medium.com/out-of-band-xxe-in-an-e-commerce-ios-app-e22981f7b59b, XXE
 - https://kailashbohara.com.np/blog/2020/11/18/GraphQL-IDOR-in-Facebook-streamer-dashboard/, IDOR
