@@ -1,3 +1,4 @@
 - https://whitton.io/articles/removing-covers-images-on-friendship-pages-on-facebook/
 - https://sites.google.com/securifyinc.com/secblogs/shopify-athena-bug
 - https://edmundaa222.medium.com/poc-untrim-any-live-video-on-facebook-ad6b97bad7c0
+- https://medium.com/@th3hidd3nmist/bug-bounty-broken-api-authorization-d30c940ccb42

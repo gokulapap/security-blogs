@@ -21,3 +21,4 @@
 - https://secreltyhiddenwriteups.blogspot.com/2021/11/becoming-super-admin-in-someone-elses.html
 - https://ironfisto.medium.com/theoretically-possible-to-practical-account-takeover-c9383ab03f76
 - https://medium.com/pentesternepal/how-i-was-able-to-reveal-page-admin-of-almost-any-page-on-facebook-5a8d68253e0c
+- https://medium.com/@hackrider/stories-of-idor-4966369e6d82

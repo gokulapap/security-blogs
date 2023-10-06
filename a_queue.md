@@ -804,7 +804,6 @@
 - https://hacklido.com/blog/320-how-i-got-a-2000-bounty-with-rxss, Reflected-XSS
 - https://medium.com/@osamaavvan/unauthenticated-graphql-introspection-and-api-calls-92f1d9d86bcf, GraphQL
 - https://systemweakness.com/give-me-a-browser-ill-give-you-a-shell-de19811defa0, Local-Privilege-Escalation
-- https://medium.com/@metikalakullai.gtl/my-p1-account-takeover-3293fc59e10, Account-takeover
 - https://www.horizon3.ai/from-cve-2022-33679-to-unauthenticated-kerberoasting/, Kerberos
 - https://www.synacktiv.com/sites/default/files/2023-02/Synacktiv-IBM-TWS-CVE-2022-38389.pdf, XXE
 - https://lude.rs/h4ck1ng/draw.io_cves.html, SSRF
@@ -1860,7 +1859,6 @@
 - https://medium.com/@ratnadip1998/how-i-mass-hunt-for-admin-panel-access-8c2ad145054, Default-credentials
 - https://hencohen10.medium.com/microsoft-dynamics-container-sandbox-rce-via-unauthenticated-docker-remote-api-20-000-bounty-7f726340a93b, RCE
 - https://medium.com/@mahitman1/how-i-found-a-goldmine-but-got-no-gold-e912a89fa522, Old-components-with-known-vulnerabilities
-- https://systemweakness.com/sql-injection-to-remote-command-execution-rce-dd9a75292d1d, SQL-injection
 - https://medium.com/@byq/from-open-redirect-to-rce-in-one-week-66a7f73fd082, Open-redirect
 - https://medium.com/@terminatorLM/abusing-facebooks-feature-for-a-permanent-account-confusion-logic-vulnerability-d7f5160f373a, MFA-bypass
 - https://medium.com/@ratnadip1998/how-to-find-access-admin-panel-by-digging-into-js-files-282d89391a2d, Weak-credentials
@@ -4099,7 +4097,6 @@
 - https://web.archive.org/web/20200908050502/https://kntx.xyz/Blind-SSRF-due-to-Sentry-Misconfiguration/, SSRF
 - https://terjanq.github.io/Bug-Bounty/Google/cache-attack-06jd2d2mz2r0/index.html, XS-Search
 - https://blog.teddykatz.com/2019/11/12/github-actions-dos.html, DoS
-- https://medium.com/@th3hidd3nmist/bug-bounty-broken-api-authorization-d30c940ccb42, Authorization-flaw
 - https://medium.com/@androgaming1912/got-vps-hosting-domain-only-0-01-bug-bounty-edeea1a7d5e6, Payment-tampering
 - https://fletchto99.dev/2019/november/slack-vulnerability/, CSS-injection
 - https://geleta.eu/2019/my-first-ssrf-using-dns-rebinfing/, SSRF
@@ -4151,8 +4148,6 @@
 - https://web.archive.org/web/20200807155301/https://gh0st.cn/archives/2019-10-01/1, IDOR
 - https://web.archive.org/web/20191211081434/https://victoni.github.io/bug-hunting-xss-on-cookie-popup-warning/, Reflected-XSS
 - https://b3nac.com/posts/2019-09-02-Spear-Texting-Via-Parameter-Injection.html, Parameter-tampering
-- https://medium.com/@hackrider/stories-of-idor-4966369e6d82, IDOR
-- https://web.archive.org/web/20191217020747/https://medium.com/@tech96bot/oneplus-open-unvalidated-redirects-forwards-234185215f33, Open-redirect
 - https://samcurry.net/analysis-of-cve-2019-14994/, Path-traversal
 - https://medium.com/bugbountywriteup/information-disclosure-at-paypal-and-xoom-paypal-acquisition-via-simple-google-dork-1-000-usd-b726fe628a05, Information-disclosure
 - http://verneet.com/fuzzing-77-till-p1/, SSTI

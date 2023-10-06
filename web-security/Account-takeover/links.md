@@ -12,3 +12,4 @@
 - https://thezerohack.com/how-i-might-have-hacked-any-microsoft-account
 - https://shahjerry33.medium.com/account-takeover-inside-the-tenant-6101a3cafbee
 - https://blog.stazot.com/auth-bypass-in-google-cloud-workstations/
+- https://medium.com/@metikalakullai.gtl/my-p1-account-takeover-3293fc59e10

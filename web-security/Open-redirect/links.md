@@ -3,3 +3,4 @@
 - https://elmahdi.tistory.com/m/4
 - https://nmochea.medium.com/facebook-leak-referrer-data-in-every-sub-domain-48da5e505cf6
 - https://nassimchami.medium.com/1st-bug-bounty-writeup-open-redirect-to-xss-on-login-page-313221da2879
+- https://web.archive.org/web/20191217020747/https://medium.com/@tech96bot/oneplus-open-unvalidated-redirects-forwards-234185215f33
