@@ -612,7 +612,6 @@
 - https://www.ghostccamm.com/blog/multi_strapi_vulns/, Authentication-bypass
 - https://medium.com/@nanwinata/a-big-company-admin-panel-takeover-4500-9520a6c83430, Authentication-bypass
 - https://starlabs.sg/advisories/23/23-2017/, SSTI
-- https://medium.com/@mehtashobhit98/bypassing-the-2fa-mfa-an-easy-win-9b059bf0ac75, MFA-bypass
 - https://infosecwriteups.com/from-payload-to-300-bounty-a-story-of-crlf-injection-and-responsible-disclosure-on-hackerone-eeff74aff422, CRLF-injection
 - https://medium.com/@elsayedmohammed/how-do-i-get-cross-site-scripting-xss-in-nokia-3041c942b923, XSS
 - https://medium.com/@ar_hawk/from-django-debug-mode-to-pii-data-leak-of-more-than-500-employees-due-broken-access-control-and-a3eb602a4207, Debug-mode-enabled
@@ -1502,7 +1501,6 @@
 - https://0xmahmoudjo0.medium.com/exploiting-out-of-band-xxe-in-the-wild-16fc6dad9ee2, XXE
 - https://blog.sonarsource.com/wordpress-core-unauthenticated-blind-ssrf/, SSRF
 - https://bergee.it/blog/turning-cookie-based-xss-into-account-takeover/, XSS
-- https://www.bigous.me/2022/09/06/CVE-2022-35405.html, RCE
 - https://srahulceh.medium.com/bug-bounty-how-i-found-an-ssrf-reconnaissance-7b1821a1b1fd, SSRF
 - https://www.zerodayinitiative.com/blog/2022/8/31/cve-2022-34715-more-microsoft-windows-nfs-v4-remote-code-execution, RCE
 - https://www.shielder.com/blog/2022/09/how-to-decrypt-manage-engine-pmp-passwords-for-fun-and-domain-admin-a-red-teaming-tale/, Cryptographic-issues
@@ -2322,7 +2320,6 @@
 - https://medium.com/@mohamedtaha_42562/how-i-earned-by-bypassing-2fa-b5487942a86d, MFA-bypass
 - https://web.archive.org/web/20220128200941/https://saeeds.medium.com/blackbox-cookie-testing-how-i-cracked-the-admins-cookie-c817dd4281c8, Authentication-bypass
 - https://parsiya.net/blog/2021-12-20-rce-in-visual-studio-codes-remote-wsl-for-fun-and-negative-profit/, RCE
-- https://medium.com/pentesternepal/how-i-was-able-to-reveal-page-admin-of-almost-any-page-on-facebook-5a8d68253e0c, IDOR
 - https://amakki.me/stored-xss-by-bypassing-signature-61ebd83ece6, XSS
 - https://palant.info/2021/12/20/yes-fun-browser-extensions-can-have-vulnerabilities-too/, XSS
 - https://security.lauritz-holtmann.de/advisories/flickr-account-takeover/, Account-takeover
@@ -2648,7 +2645,6 @@
 - https://tiszka.com/blog/CVE_2021_21225.html, Browser-hacking
 - https://infosecwriteups.com/why-u-should-use-burp-to-test-path-traversal-vulnerability-and-also-get-rxss-2743cbb16a3c, Path-traversal
 - https://blogs.msmvps.com/alunj/2021/08/15/second-order-subdomain-takeovers-they-do-exist/, Subdomain-takeover
-- https://nassimchami.medium.com/1st-bug-bounty-writeup-open-redirect-to-xss-on-login-page-313221da2879, Open-redirect
 - https://ahmdhalabi.medium.com/taking-over-employee-accounts-by-managers-with-zero-employee-interaction-b60784c3ad84, Account-takeover
 - https://notifybugme.medium.com/finding-multiple-ssrf-with-aws-metadata-access-on-a-bank-system-7e73ac28e50a, SSRF
 - https://medium.com/@viralbhatt100/bypass-google-captcha-parameter-pollution-leads-to-send-email-to-any-user-on-behalf-of-9013aebbabae, HTTP-parameter-pollution
@@ -2964,7 +2960,6 @@
 - https://servicenger.com/blog/mobile/google-photos-theft-of-database-arbitrary-files-android-vulnerability/, Improper-Export-of-Android-Application-Components
 - https://onekey.com/blog/advisory-cisco-rv34x-authentication-bypass-remote-command-execution/, Authentication-bypass
 - https://arben.sh/bugbounty/Local-File-Inclusion/, LFI
-- https://mc0wn.blogspot.com/2021/04/exploiting-struts-rce-on-2526.html, RCE
 - https://starlabs.sg/blog/2021/04-you-talking-to-me/, RCE
 - https://leethax0.rs/2021/04/ElectricChrome/, RCE
 - https://infosecwriteups.com/unauthenticated-account-takeover-through-forget-password-c120b4c1141d, Password-reset

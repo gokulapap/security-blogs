@@ -15,3 +15,5 @@
 - https://www.usenix.org/system/files/sec23summer_432-shcherbakov-prepub.pdf
 - https://github.com/blasty/lexmark/blob/main/writeup/writeup.md
 - https://mahaloz.re/2023/02/25/pwnagent-netgear.html
+- https://www.bigous.me/2022/09/06/CVE-2022-35405.html
+- https://mc0wn.blogspot.com/2021/04/exploiting-struts-rce-on-2526.html
