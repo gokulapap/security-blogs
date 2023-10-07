@@ -10,3 +10,5 @@
 - https://medium.com/@appsecure/leakage-of-client-secret-server-tokens-of-all-uber-developer-applications-657d9d7fd30e
 - https://philippeharewood.com/facebook-marketing-confidential-call-transcript/
 - https://medium.com/@ittipatjitrada_72022/how-i-found-three-credentials-leak-on-one-google-dork-on-bugcrowd-3dba9a23ace4
+- https://noobe.io/articles/2019-09/exploiting-cookie-based-xss-by-finding-rce
+- https://screamy7.github.io/posts/Javascript/

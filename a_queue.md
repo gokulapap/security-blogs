@@ -761,7 +761,6 @@
 - https://hopesamples.blogspot.com/2023/03/idor-on-bitdefendercom.html, IDOR
 - https://hunter-55.medium.com/500-bounty-in-just-5-minutes-through-recon-5eeb6c299c3c, AWS-misconfiguration
 - https://qoop.org/publications/cve-2023-21716-rtf-fonttbl.md, Memory-corruption
-- https://screamy7.github.io/posts/Javascript/, Information-disclosure
 - https://medium.com/@thelinuxboy/30-minute-heist-how-i-bagged-a-1500-bounty-in-just-few-minutes-48753eb2028e, Broken-Access-Control
 - https://medium.com/@mrxdevil404/bug-in-netflix-with-my-automation-1382d087078, Information-disclosure
 - https://m7arm4n.medium.com/unauthorized-access-to-admin-panel-via-swagger-c242e8341045, Missing-authentication
@@ -2533,7 +2532,6 @@
 - https://codewhitesec.blogspot.com/2021/09/citrix-sharefile-rce-cve-2021-22941.html, RCE
 - https://robertchen.cc/blog/2021/09/20/npm-rce, RCE
 - https://infosecwriteups.com/unlimited-report-user-in-instagram-facebook-leads-to-abuse-risk-efcca325aada, Lack-of-rate-limiting
-- https://manasharsh.medium.com/chaining-bugs-for-better-bounties-f14d6b2129de, SSRF
 - https://dewangpanchal98.medium.com/admin-access-799b50694965, Privilege-escalation
 - https://fardeen-ahmed.medium.com/a-small-change-and-things-go-in-your-hand-story-of-a-250-bounty-5ddc43c31463, Information-disclosure
 - https://u-itachi.medium.com/from-phpinfo-page-to-many-p1-bugs-and-rce-symfony-bce432605662, File-disclosure
@@ -3444,7 +3442,6 @@
 - https://medium.com/bugbountywriteup/how-i-accidentally-got-my-first-bounty-from-facebook-facebook-bug-bounty-2020-c12bd2ad8575, Logic-flaw
 - https://initblog.com/2020/firefox-android/, Insecure-intent
 - https://medium.com/@bhavarth33/how-i-was-able-to-takeover-any-account-by-otp-bypass-bba698a725f, OTP-bypass
-- https://medium.com/@d.harish008/business-logic-vulnerabilities-low-level-logic-flaw-f308a21a945d, Logic-flaw
 - https://medium.com/@shahjerry33/sql-injection-remote-code-execution-double-p1-6038ca88a2ec, SQL-injection
 - https://medium.com/bugbountywriteup/how-i-hacked-redbus-an-online-bus-ticketing-application-24ef5bb083cd, LFI
 - https://blog.orange.tw/2020/09/how-i-hacked-facebook-again-mobileiron-mdm-rce.html, RCE
@@ -3809,7 +3806,6 @@
 - https://medium.com/@vincenz/exploiting-a-race-condition-vulnerability-3f2cb387a72, Race-condition
 - https://medium.com/@jayateerthag/cors-bug-on-googles-404-page-rewarded-2163d58d3c8b, CORS-misconfiguration
 - https://medium.com/@adam.adreleve/dom-based-open-redirect-to-the-leak-of-a-jwt-token-1b1dd2ced9a1, Open-redirect
-- https://medium.com/bugbountywriteup/google-maps-api-not-the-key-bugs-that-i-found-over-the-years-781840fc82aa, Logic-flaw
 - https://samcurry.net/abusing-http-path-normalization-and-cache-poisoning-to-steal-rocket-league-accounts/, HTTP-cache-poisoning
 - https://blog.stazot.com/prestashop-csrf-to-rce-article/, RCE
 - https://medium.com/@np20121996/how-was-i-able-to-find-privilege-escalation-b13366b97706, IDOR
@@ -4152,7 +4148,6 @@
 - https://medium.com/bugbountywriteup/information-disclosure-at-paypal-and-xoom-paypal-acquisition-via-simple-google-dork-1-000-usd-b726fe628a05, Information-disclosure
 - http://verneet.com/fuzzing-77-till-p1/, SSTI
 - https://tutorgeeks.blogspot.com/2019/09/broken-link-hijacking-s3-buckets.html, Broken-link-hijacking
-- https://noobe.io/articles/2019-09/exploiting-cookie-based-xss-by-finding-rce, Information-disclosure
 - https://medium.com/@0xgaurang/case-study-oauth-misconfiguration-leads-to-account-takeover-d3621fe8308b, OAuth
 - https://medium.com/bugbountywriteup/facebook-workplace-privilege-escalation-vulnerability-to-change-the-post-privacy-as-public-634f1c995780, Privilege-escalation
 - https://web.archive.org/web/20191214144210/https://medium.com/bugbountywriteup/a-simple-bypass-of-registration-activation-that-lead-to-many-bug-a-story-about-how-my-friend-5df0889f1062, Information-disclosure
