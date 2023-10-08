@@ -1,0 +1,1 @@
+- https://medium.com/@aravindha1234u/os-command-injection-beginners-guide-637e1eed1fde

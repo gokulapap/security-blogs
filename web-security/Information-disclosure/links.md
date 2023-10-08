@@ -12,3 +12,4 @@
 - https://medium.com/@ittipatjitrada_72022/how-i-found-three-credentials-leak-on-one-google-dork-on-bugcrowd-3dba9a23ace4
 - https://noobe.io/articles/2019-09/exploiting-cookie-based-xss-by-finding-rce
 - https://screamy7.github.io/posts/Javascript/
+- https://dudy2kk.medium.com/from-information-disclosure-to-interesting-privilege-escalation-61ed3aaaf218

@@ -12,3 +12,4 @@
 - https://balapraneeth.medium.com/csrf-attack-e7bb9f3f36e1
 - https://ahussam.me/Leaking-WordPress-CSRF-Tokens/
 - https://medium.com/bugbountywriteup/csrf-attack-can-lead-to-stored-xss-f40ba91f1e4f
+- https://fortbridge.co.uk/research/csrf-vulnerability-in-nodejs-ecosystem/

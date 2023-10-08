@@ -102,7 +102,6 @@
 - https://medium.com/@bdemir/a-pentesters-guide-to-cross-site-request-forgery-csrf-57adedbad4be, csrf
 - https://medium.com/@abhishekmorla/how-i-got-20-points-on-a-bugcrowd-private-program-429bc41d7143, journey
 - https://medium.com/@joelmcg1993/stored-xss-with-two-different-parameters-d9243cae3e6a, XSS
-- https://medium.com/@aravindha1234u/os-command-injection-beginners-guide-637e1eed1fde, injection
 - https://medium.com/@notifybugme/how-i-was-able-find-mass-leaked-aws-s3-bucket-from-js-file-6064a5c247f8, info-disclosure
 - https://medium.com/@abdulparkar9554/how-i-found-stored-xss-html-injection-vulnerability-on-microsoft-6b8682c03680, html-injection
 - https://medium.com/@toxglot/hacking-a-company-from-a-phone-478bbfed04c8, journey
@@ -1538,7 +1537,6 @@
 - https://infosecwriteups.com/out-of-bond-remote-code-execution-rce-on-de-nederlandsche-bank-n-v-with-burp-suite-collaborator-2ce50260e2e4, OS-command-injection
 - https://notifybugme.medium.com/how-i-found-reflected-xss-on-idfc-bank-with-burp-suite-intruder-7c53275daf02, Reflected-XSS
 - https://sagarsajeev.medium.com/unsubscribe-any-users-e-mail-notifications-via-idor-2c2e05b79dac, IDOR
-- https://fortbridge.co.uk/research/csrf-vulnerability-in-nodejs-ecosystem/, CSRF
 - https://monish-basaniwal.medium.com/the-million-dollar-hack-8163892bfe2f, IDOR
 - https://infosecwriteups.com/ssrf-leads-to-access-aws-metadata-21952c220aeb, SSRF
 - https://akshayravic09yc47.medium.com/improper-input-validation-leads-to-email-spamming-5d1a53b2a579, Email-content-injection
@@ -1633,7 +1631,6 @@
 - https://petrusviet.medium.com/dancing-on-the-architecture-of-vmware-workspace-one-access-eng-ad592ae1b6dd, Authentication-bypass
 - https://medium.com/@the_harvester/bypassed-cloudflares-web-application-firewall-waf-44da57f3a1d3, XSS
 - http://blog.h4rsh4d.com/2022/08/open-redirect-bypass.html, Open-redirect
-- https://systemweakness.com/rooting-jenkins-remote-code-execution-on-a-live-bug-bounty-target-fc2c12d89a2e, Missing-authentication
 - https://alpinnnnnn13.medium.com/stored-xss-in-app-gitbook-com-6349f42661f7, Stored-XSS
 - https://medium.com/@sharp488/2fa-bypass-via-google-identity-oauth-login-6c991ac837af, MFA-bypass
 - https://vsrc.vng.com.vn/blog/liferay-revisited-a-tale-of-20k/, RCE
@@ -1675,7 +1672,6 @@
 - https://www.sonarsource.com/blog/disclosing-information-with-a-side-channel-in-django/, Side-channel-attack
 - https://blog.includesecurity.com/2022/07/hunting-for-mass-assignment-vulnerabilities-using-github-codesearch-and-grep-app/, Mass-assignment
 - https://pentest.blog/advisory-roxy-wi-unauthenticated-remote-code-executions-cve-2022-31137/, RCE
-- https://medium.com/@xpertwhitehat/publicly-accessible-android-crash-reports-containing-sensitive-information-ec1220079f31, IDOR
 - https://jhftss.github.io/CVE-2022-26712-The-POC-For-SIP-Bypass-Is-Even-Tweetable/, MacOS
 - https://medium.com/@emirpolat/cve-2022-36446-webmin-1-997-7a9225af3165, RCE
 - https://adnanmalik.info/blog/digging-js-files-to-find-bugs/, IDOR
@@ -2763,7 +2759,6 @@
 - https://ysamm.com/?p=700, Information-disclosure
 - https://16521092.medium.com/some-ways-to-find-more-idor-da16c93954e5, IDOR
 - https://blog.mzfr.me/posts/2021-06-24-unexported-component/, Vulnerable-Android-content-provider
-- https://dudy2kk.medium.com/from-information-disclosure-to-interesting-privilege-escalation-61ed3aaaf218, Information-disclosure
 - https://shahjerry33.medium.com/pii-leakage-revealing-secrets-8b617071bd1c, Information-disclosure
 - https://research.checkpoint.com/2021/a-supply-chain-breach-taking-over-an-atlassian-account/, XSS
 - https://smaranchand.com.np/2021/06/flywheel-subdomain-takeover/, Subdomain-takeover
