@@ -1680,7 +1680,6 @@
 - https://infosecwriteups.com/mail-server-misconfiguration-leads-to-sending-a-fax-from-anyones-account-on-hellofax-dropbox-bbp-aab3d97ab4e7, Email-spoofing
 - https://claroty.com/team82/blog/with-management-comes-risk-finding-flaws-in-filewave-mdm, Authentication-bypass
 - https://blog.viettelcybersecurity.com/deep-understand-aspx-file-handling-and-some-related-attack-vector/, Local-Privilege-Escalation
-- https://research.nccgroup.com/2022/07/25/technical-advisory-multiple-vulnerabilities-in-nuki-smart-locks-cve-2022-32509-cve-2022-32504-cve-2022-32502-cve-2022-32507-cve-2022-32503-cve-2022-32510-cve-2022-32506-cve-2022-32508-cve-2/, Memory-corruption
 - https://medium.com/@talhakarakumru/how-i-gained-access-to-a-finance-companys-accounts-session-hijacking-2c6c5d9d84bd, Session-fixation
 - https://medium.com/@720922/a-developers-nightmare-story-of-a-simple-idor-and-some-poor-fixes-worth-1125-5ead70b0a1de, IDOR
 - https://0xpwn.wordpress.com/2022/07/23/how-i-made-300-github-repos-point-to-my-blog-using-azure-subdomains-takeover/, Subdomain-takeover
@@ -2581,7 +2580,6 @@
 - https://www.synacktiv.com/publications/your-vulnerability-is-in-another-oem.html, Memory-corruption
 - https://noob3xploiter.medium.com/sql-injection-in-harvard-subdomain-be67a5dbf664, XSS
 - https://medium.com/nerd-for-tech/breaking-applications-logic-to-dos-attack-88326cd0dd82, IDOR
-- https://medium.com/@behnam.yazdanpanah/chaining-bugs-from-self-xss-to-account-takeover-82d572136bdf, Self-XSS
 - https://marxchryz.medium.com/how-i-found-multiple-xss-in-hidden-legacy-pages-a57a25d8ff1f, XSS
 - https://medium.com/pentesternepal/hacking-dutch-government-for-a-lousy-t-shirt-8e1fd1b56deb, IDOR
 - https://www.zerodayinitiative.com/blog/2021/9/2/cve-2021-2429-a-heap-based-buffer-overflow-bug-in-the-mysql-innodb-memcached-plugin, Memory-corruption
@@ -4018,7 +4016,6 @@
 - https://medium.com/@vbharad/2-fa-bypass-via-csrf-attack-8f2f6a6e3871, MFA-bypass
 - https://medium.com/@vbharad/full-account-takeover-android-application-78fa922f78c5, Information-disclosure
 - https://medium.com/@abhishake100/bypassing-captcha-17c59d37f459, Captcha-bypass
-- https://medium.com/@vbharad/account-takeover-through-password-reset-poisoning-72989a8bb8ea, Password-reset
 - https://medium.com/@nanda_kumar/bugbounty-how-snapdeal-indias-popular-e-commerce-website-kept-their-user-data-at-risk-3d02b4092d9c, Insecure-storage-of-sensitive-information
 - https://ngailong.wordpress.com/2019/12/19/google-vrp-ssrf-in-google-cloud-platform-stackdriver/, SSRF
 - https://weizman.github.io/2019/12/18/js-anti-debug-1/, Browser-hacking
@@ -4635,7 +4632,6 @@
 - https://www.betterhacker.com/2018/12/rce-in-hubspot-with-el-injection-in-hubl.html, RCE
 - https://whitehatfamilyguy.blogspot.com/2018/12/able-to-access-facebook-group-plan-even.html, Authorization-flaw
 - https://blog.intothesymmetry.com/2018/12/billion-laugh-attack-in.html, Billion-laugh-attack
-- https://corben.io/blog/18-12-5-XSS-to-XXE-in-Prince, XSS
 - https://gauravnarwani.com/android-acc-takeover/, Account-takeover
 - https://medium.com/bugbountywriteup/taking-over-google-calendar-of-a-company-1c49071f6a9, Subdomain-takeover
 - https://www.secu.ninja/2018/12/04/how-to-accidentally-find-a-xss-in-protonmail-ios-app/, XSS
@@ -4948,7 +4944,6 @@
 - https://medium.com/@BgxDoc/bugbounty-how-i-was-able-to-hack-any-user-account-via-password-reset-9009d84d94ff, IDOR
 - https://poc-server.com/blog/2018/05/22/rce-by-uploading-a-web-config, RCE
 - https://medium.com/ymedialabs-innovation/an-aws-managed-policy-that-allowed-granting-root-admin-access-to-any-role-51b409ea7ff0, Authorization-flaw
-- https://www.shawarkhan.com/2018/05/getting-read-access-on-edmodo.html, SSRF
 - https://medium.com/@renwa/self-xss-csrf-to-stored-xss-54f9f423a7f1, Self-XSS
 - https://sites.google.com/site/testsitehacking/-36k-google-app-engine-rce, RCE
 - https://medium.com/@aayushpokhrel/how-i-got-100-from-one-private-website-3c62c27f6b5d, Information-disclosure

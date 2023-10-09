@@ -18,3 +18,4 @@
 - https://whitton.io/articles/content-types-and-xss-facebook-studio/
 - https://medium.com/@ratnadip1998/how-i-was-able-to-exploit-the-same-endpoint-2-times-multiple-xss-open-redirection-on-10-5d12886f823d
 - https://medium.com/@hacker_eth/xss-in-microsoft-7a70416aee75
+- https://corben.io/blog/18-12-5-XSS-to-XXE-in-Prince

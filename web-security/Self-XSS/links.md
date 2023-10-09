@@ -1,0 +1,1 @@
+- https://medium.com/@behnam.yazdanpanah/chaining-bugs-from-self-xss-to-account-takeover-82d572136bdf

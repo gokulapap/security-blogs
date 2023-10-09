@@ -11,3 +11,4 @@
 - https://medium.com/@logicbomb_1/the-unusual-case-of-open-redirection-to-aws-security-credentials-compromise-59acc312f02b
 - https://r2c.dev/blog/2020/exploiting-dynamic-rendering-engines-to-take-control-of-web-apps/
 - https://manasharsh.medium.com/chaining-bugs-for-better-bounties-f14d6b2129de
+- https://www.shawarkhan.com/2018/05/getting-read-access-on-edmodo.html

@@ -1,1 +1,2 @@
 - https://thezerohack.com/hack-instagram-again
+- https://medium.com/@vbharad/account-takeover-through-password-reset-poisoning-72989a8bb8ea
