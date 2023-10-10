@@ -2187,7 +2187,6 @@
 - https://omespino.com/write-up-private-bug-bounty-rce-in-ec2-instance-via-ssh-with-private-key-exposed-on-public-github-repository-xx000-usd/, Information-disclosure
 - https://spaceraccoon.dev/solving-dom-xss-puzzles, DOM-XSS
 - https://blog.sorcery.ie/posts/higherlogic_rce/, Insecure-deserialization
-- https://apiiro.com/blog/malicious-kubernetes-helm-charts-can-be-used-to-steal-sensitive-information-from-argo-cd-deployments/, Supply-chain-attack
 - https://kazet.cc/2022/02/03/fuzzing-wordpress-plugins.html, XSS
 - https://web.archive.org/web/20220612235502/https://bugs.0xdroopy.live/bugs/how-i-tracked-you-around-the-globe/, Information-disclosure
 - https://www.ash-king.co.uk/blog/abusing-Facebooks-call-to-action-to-launch-internal-deeplinks, CSRF
@@ -3225,7 +3224,6 @@
 - https://www.pantaprakash.com.np/posts/categories/bugbounty-writeup/2.html, Logic-flaw
 - https://www.pantaprakash.com.np/posts/categories/bugbounty-writeup/3.html, Logic-flaw
 - https://iustin24.github.io/Cache-Key-Normalization-Denial-of-Service/, Web-cache-poisoning
-- https://ronak-9889.medium.com/sensitive-data-leak-using-idor-in-integration-service-d9301be9c91e, IDOR
 - https://theshubh77.medium.com/facebook-page-admin-disclosure-by-create-doc-button-bounty-5000-usd-2fd1ff615bf8, Information-disclosure
 - https://bhupendra1238.medium.com/how-i-got-my-first-bounty-hof-from-google-csrf-lead-to-account-delete-85f9906ba9ec, CSRF
 - https://blog.geekycat.in/google-vrp-hijacking-your-screenshots/, postMessage
@@ -3482,7 +3480,6 @@
 - https://www.activecyber.us/activelabs/windows-appx-deployment-service-local-privilege-escalation-cve-2020-1488, Local-Privilege-Escalation
 - https://abss.me/posts/fcm-takeover/, Hardcoded-API-keys
 - https://web.archive.org/web/20200819113116/https://medium.com/@godofdarkness.msf/account-takeover-using-re-register-bug-bounty-bda8bb2106e6, Account-takeover
-- https://medium.com/bugbountywriteup/stealing-your-data-using-xss-bf7e4a31e6ee, XSS
 - https://medium.com/witnet/witnet-network-acknowledged-dos-bug-f7d55b709051, DoS
 - https://web.archive.org/web/20200816192659/https://medium.com/@godofdarkness.msf/influxdb-access-at-redact-8x8-com-1b54976b137, Missing-authentication
 - https://vishwarajbhattrai.wordpress.com/2020/08/16/disclosing-wifi-password-via-content-provider-injection-in-xiaomi/, Content-provider-injection
@@ -5060,7 +5057,6 @@
 - https://web.archive.org/web/20200926101239/https://medium.com/@adeshkolte/asus-web-application-vulnerabilities-by-adesh-n-kolte-4c14a1bb8739, Directory-listing
 - http://omespino.com/write-up-file-disclosure-via-ds_store-file-macos, Directory-listing
 - https://medium.com/@circleninja/internshala-bug-in-internshala-student-partner-33d7b66c1bd5, Bruteforce
-- https://twitter.com/kl_sree/status/953999305370607617, Weak-credentials
 - https://web.archive.org/web/20201022204145/https://www.mohamedharon.com/2018/01/reflected-file-download-rfd-in.html, Reflected-File-Download
 - https://emtunc.org/blog/01/2018/research-misconfigured-jenkins-servers/, Information-disclosure
 - http://c0rni3sm.blogspot.com/2018/01/1800-in-less-than-hour.html, CSRF
@@ -5308,7 +5304,6 @@
 - https://blog.it-securityguard.com/bugbounty-decoding-a-%f0%9f%98%b1-00000-htpasswd-bounty/, htpasswd-misconfiguration
 - https://web.archive.org/web/20220401221504/https://blog.innerht.ml/internet-explorer-has-a-url-problem/, OAuth
 - https://web.archive.org/web/20200822010745/https://whitehatnepal.tumblr.com/post/149985438982/reading-ubers-internal-emails-uber-bug-bounty, Subdomain-takeover
-- https://web.archive.org/web/20200811013300/https://whitehatnepal.tumblr.com/post/149933960267/rce-in-addthis, RCE
 - https://web.archive.org/web/20200819161533/https://whitehatnepal.tumblr.com/post/149937173467/pornhub-email-confirmation-bypass, Email-verification-bypass
 - https://httpsonly.blogspot.com/2016/08/turning-self-xss-into-good-xss-v2.html, XSS
 - https://thehackerblog.com/floating-domains-taking-over-20k-digitalocean-domains-via-a-lax-domain-import-system/, Subdomain-takeover

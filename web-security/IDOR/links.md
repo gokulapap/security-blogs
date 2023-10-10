@@ -23,3 +23,4 @@
 - https://medium.com/pentesternepal/how-i-was-able-to-reveal-page-admin-of-almost-any-page-on-facebook-5a8d68253e0c
 - https://medium.com/@hackrider/stories-of-idor-4966369e6d82
 - https://medium.com/@xpertwhitehat/publicly-accessible-android-crash-reports-containing-sensitive-information-ec1220079f31
+- https://ronak-9889.medium.com/sensitive-data-leak-using-idor-in-integration-service-d9301be9c91e
