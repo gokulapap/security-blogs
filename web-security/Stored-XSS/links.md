@@ -5,3 +5,4 @@
 - https://naveenprakaasam.medium.com/finding-keys-under-the-door-5cea8758ce86
 - https://medium.com/pentesternepal/interesting-stored-xss-via-meta-data-eb8fe1de8b33
 - https://medium.com/@futaacmcyber/stored-xss-on-edmodo-11a3fbc6b6d0
+- https://buer.haus/2014/06/16/facebook-stored-cross-site-scripting-xss-badges/

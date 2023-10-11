@@ -1306,7 +1306,6 @@
 - https://medium.com/the-gray-area/1-000-p1-pii-disclosure-w-idor-cb344c55d52e, IDOR
 - https://caesarevan23.medium.com/google-vrp-insecure-direct-object-reference-3133-70-a0e37023a4c7, IDOR
 - https://www.trustedsec.com/blog/the-curious-case-of-the-password-database/, Cryptographic-issues
-- https://www.evilsocket.net/2022/10/20/Reverse-Engineering-the-Apple-MultiPeer-Connectivity-Framework/, Authorization-flaw
 - https://mouha.be/sha-3-buffer-overflow/, Buffer-Overflow
 - https://www.netspi.com/blog/technical/social-engineering/bypassing-mimecast-email-defenses/, Secure-Email-Gateway-bypass
 - https://www.code-intelligence.com/blog/potential-remote-code-execution-in-hsqldb, RCE
@@ -1538,7 +1537,6 @@
 - https://notifybugme.medium.com/how-i-found-reflected-xss-on-idfc-bank-with-burp-suite-intruder-7c53275daf02, Reflected-XSS
 - https://sagarsajeev.medium.com/unsubscribe-any-users-e-mail-notifications-via-idor-2c2e05b79dac, IDOR
 - https://monish-basaniwal.medium.com/the-million-dollar-hack-8163892bfe2f, IDOR
-- https://infosecwriteups.com/ssrf-leads-to-access-aws-metadata-21952c220aeb, SSRF
 - https://akshayravic09yc47.medium.com/improper-input-validation-leads-to-email-spamming-5d1a53b2a579, Email-content-injection
 - https://joshuaarulsamy.medium.com/my-hall-of-fame-at-united-nations-success-story-97675232aed7, XSS
 - https://xcellerator.github.io/posts/tetsuji/, RCE
@@ -2648,7 +2646,6 @@
 - https://www.fortbridge.co.uk/research/multiple-vulnerabilities-in-cpanel-whm/, XXE
 - https://medium.com/@gonzalocarrascosec/fuzzing-idor-admin-takeover-5343bb8f436e, IDOR
 - https://infosecwriteups.com/what-is-bola-3-digit-bounty-from-topcoder-a25e7fae0d64, IDOR
-- https://j0vsec.com/post/cve-2021-25738/, RCE
 - https://bohops.com/2021/08/07/cve-2021-0090-intel-driver-support-assistant-dsa-elevation-of-privilege-eop/, Local-Privilege-Escalation
 - https://valsamaras.medium.com/size-matters-cve-2021-0485-cfa0a291f903, Local-Privilege-Escalation
 - https://philippeharewood.com/access-to-crowdtangle-deletion-framework-api/, Authorization-flaw
@@ -4279,7 +4276,6 @@
 - https://medium.com/@ruvlol/cleartext-password-in-localstorage-writeup-245294762829, Violation-of-secure-design-principles
 - https://jspin.re/fileupload-blind-sqli/, SQL-injection
 - https://medium.com/@saugatpokharel/this-is-how-i-managed-to-win-2000-through-facebook-bug-bounty-a7d531d5097e, Logic-flaw
-- https://medium.com/@ritishkumarsingh/facebook-vulnerability-unremovable-co-host-in-facebook-page-events-695729d6a09d, Logic-flaw
 - https://medium.com/@shub66452/account-takeover-using-csrf-json-based-a0e6efd1bffc, CSRF
 - https://medium.com/@nandwanajatin25/story-of-a-stored-xss-to-full-account-takeover-vulnerability-n-a-to-accepted-8478aa5e0d8e, Stored-XSS
 - https://medium.com/@mateusz.olejarka/finding-hidden-gems-vol-4-rakefile-a-k-a-how-to-get-aws-keys-again-ed0d840e0ec, Information-disclosure
@@ -5400,7 +5396,6 @@
 - https://josipfranjkovic.blogspot.com/2014/09/step-by-step-exploiting-sql-injection.html, SQL-injection
 - https://bitquark.co.uk/blog/2014/08/31/popping_a_shell_on_the_oculus_developer_portal, SQL-injection
 - https://ahussam.me/Flickr-CSRF/, XSRF
-- https://buer.haus/2014/06/16/facebook-stored-cross-site-scripting-xss-badges/, Stored-XSS
 - https://blog.it-securityguard.com/bug-bounty-prezi-map-prezi-com-path-traversal/, Path-traversal
 - https://maustin.net/google_docs, Clickjacking
 - https://www.rcesecurity.com/2014/04/magix-bug-bounty-magix-com-rce-sqli-and-xara-com-lfi-xss/, RCE

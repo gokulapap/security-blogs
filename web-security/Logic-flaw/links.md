@@ -15,3 +15,4 @@
 - https://www.arneswinnen.net/2016/07/how-i-could-steal-money-from-instagram-google-and-microsoft/
 - https://medium.com/bugbountywriteup/google-maps-api-not-the-key-bugs-that-i-found-over-the-years-781840fc82aa
 - https://medium.com/@d.harish008/business-logic-vulnerabilities-low-level-logic-flaw-f308a21a945d
+- https://medium.com/@ritishkumarsingh/facebook-vulnerability-unremovable-co-host-in-facebook-page-events-695729d6a09d
