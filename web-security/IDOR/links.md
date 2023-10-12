@@ -24,3 +24,5 @@
 - https://medium.com/@hackrider/stories-of-idor-4966369e6d82
 - https://medium.com/@xpertwhitehat/publicly-accessible-android-crash-reports-containing-sensitive-information-ec1220079f31
 - https://ronak-9889.medium.com/sensitive-data-leak-using-idor-in-integration-service-d9301be9c91e
+- https://medium.com/@Vibhurushi_Chotaliya/idor-payment-fraud-99d330879c0d
+- https://medium.com/@grahamzemel/p1-bug-bounties-what-is-an-idor-and-how-does-idor-63fc72c371c8

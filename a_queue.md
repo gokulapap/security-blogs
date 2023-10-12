@@ -46,7 +46,6 @@
 - https://medium.com/@aswinthambipanik07/bug-bounty-recon-part-1-dad7f86d1b0f, recon
 - https://medium.com/@yan.zaripov/time-based-sql-injection-63a395434e97, sql-injection
 - https://medium.com/@codewithvamp/the-cost-of-neglect-html-injection-3c00e719fdef, html-injection
-- https://medium.com/@grahamzemel/p1-bug-bounties-what-is-an-idor-and-how-does-idor-63fc72c371c8, IDOR
 - https://medium.com/@danielmakelley/4-tips-for-new-bug-bounty-hunters-b71c4c6ab5f9, tricks
 - https://medium.com/@fh4ntke/intigriti-xss-challenge-0621-cf76c28840c1, CTF
 - https://medium.com/@thexssrat/xss-made-easy-for-testers-developers-and-managers-b404f744ec6b, XSS
@@ -288,7 +287,6 @@
 - https://blog.assetnote.io/2023/07/21/citrix-CVE-2023-3519-analysis/, RCE
 - https://blog.assetnote.io/2023/07/22/pre-auth-rce-metabase/, RCE
 - https://divyanshu-mehta.gitbook.io/researchs/hijacking-cloud-ci-cd-systems-for-fun-and-profit#azure, Cloud
-- https://medium.com/@mohameddiv77/how-i-was-able-to-bypass-the-admin-panel-9a5a81e2ec11, Information-disclosure
 - https://medium.com/@mullangisashank/a-tale-of-og-xss-89af3d4725dc, XSS
 - https://blog.qualys.com/vulnerabilities-threat-research/2023/07/19/cve-2023-38408-remote-code-execution-in-opensshs-forwarded-ssh-agent, RCE
 - https://kuldeep.io/posts/escalating-privileges-with-ssrf/, SSRF
@@ -1932,7 +1930,6 @@
 - https://shreyaskoli.medium.com/ato-without-any-interaction-aws-cognito-misconfiguration-d690f4b3da11, Account-takeover
 - https://zerocode-ph.medium.com/page-admin-disclosure-when-posting-a-reel-1bfac9bd7f71, Spoofing
 - https://medium.com/system-weakness/sensitive-data-exfiltration-through-xss-450-409162eced3a, Token-leak
-- https://www.yassineaboukir.com//blog/exploitation-of-an-SSRF-vulnerability-against-EC2-IMDSv2/, SSRF
 - https://lokeshdlk77.medium.com/contact-point-deanonymization-vulnerability-in-meta-90d575c4d8ef, Information-disclosure
 - https://www.wiz.io/blog/wiz-research-discovers-extrareplica-cross-account-database-vulnerability-in-azure-postgresql/, Cross-tenant-vulnerability
 - https://www.cyberick.com/post/2fa-secret-value-disclosure-leads-to-2fa-bypass-bug-bounty-writeup, MFA-bypass
@@ -3079,7 +3076,6 @@
 - https://ysamm.com/?p=634, Information-disclosure
 - https://ysamm.com/?p=632, XSS
 - https://ysamm.com/?p=629, Information-disclosure
-- https://ysamm.com/?p=620, Authorization-flaw
 - https://ysamm.com/?p=627, GraphQL
 - https://ysamm.com/?p=621, Authorization-flaw
 - https://ysamm.com/?p=625, Open-redirect
@@ -4301,7 +4297,6 @@
 - https://blog.lent.ink/post/klanteservice/, Logic-flaw
 - https://medium.com/@osamaavvan/1800-worth-clickjacking-1f92e79d0414, Clickjacking
 - https://www.rcesecurity.com/2019/06/about-a-sucuri-rce-and-how-not-to-handle-bug-bounty-reports/, RCE
-- https://medium.com/@Vibhurushi_Chotaliya/idor-payment-fraud-99d330879c0d, IDOR
 - https://medium.com/@saadahmedx/self-xss-to-evil-xss-bcf2494a82a4, XSS
 - https://medium.com/@dr.spitfire/a-fight-for-duplicate-marked-bug-story-of-bbc-hall-of-fame-16f9c8215315?sk=9269454dd3557dc8ea9c1ec26be033dd, XSS
 - https://hackademic.co.in/how-a-classical-xss-can-lead-to-persistent-ato-vulnerability/, XSS
