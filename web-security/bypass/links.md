@@ -1,2 +1,3 @@
 - https://medium.com/@dewangpanchal98/403-forbidden-bypass-fc8b5df109b7
 - https://medium.com/@yagizkocer/a-trivial-otp-bypass-based-on-business-logic-abuse-1513872716b0
+- https://medium.com/@devnack/how-i-bypassed-incapsula-waf-db0498b3a021

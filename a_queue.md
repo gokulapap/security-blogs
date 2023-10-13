@@ -112,7 +112,6 @@
 - https://medium.com/@grumpinout/solving-intigritis-november-xss-challenge-with-the-javascript-console-dde7253117dd, CTF
 - https://medium.com/@deepamkumar510/remote-code-execution-rce-through-file-upload-functionality-1809bd504805, RCE
 - https://medium.com/@starlox.riju123/finding-my-first-bug-sql-injection-and-xss-just-with-google-dork-2f31772f8549, sql-injection
-- https://medium.com/@devnack/how-i-bypassed-incapsula-waf-db0498b3a021, bypass
 - https://medium.com/@nynan/what-i-learnt-from-reading-217-subdomain-takeover-bug-reports-c0b94eda4366, STO
 - https://medium.com/@proviesec/a-swag-for-a-open-redirect-google-dork-bug-bounty-2143b943f34e, open-redirection
 - https://medium.com/@pravinponnusamy/secure-code-review-and-sql-injection-d8a1a6da3d67, source-code-review
@@ -269,7 +268,6 @@
 - https://ophionsecurity.com/blog/phishing-the-anti-phishers, Phishing
 - https://medium.com/@armandjasharaj/pii-nacles-of-discovery-deep-recon-fourth-level-subdomains-and-abusing-exposed-git-repositories-7e282442bd02, git-folder-disclosure
 - https://medium.com/@snoopy101/1000-for-a-simple-stored-xss-8be7083a7c2d, Stored-XSS
-- https://fatnassifiras.medium.com/cross-tenant-information-disclosure-unraveling-microsoft-connections-custom-connectors-and-oauth-6487321d28b3, OAuth
 - https://samcurry.net/points-com/, Path-traversal
 - https://research.aurainfosec.io/pentest/hook-line-and-phishlet/, Phishing
 - https://mr-medi.github.io/research/2023/07/31/exploring-cross-site-frame-counting-attacks.html, Cross-Site-Frame-Counting
@@ -2381,7 +2379,6 @@
 - https://hackrzvijay.medium.com/hacking-apple-security-report-system-db84850002fb, Logic-flaw
 - https://blog.dixitaditya.com/2021/11/19/account-takeover-chain.html, Account-takeover
 - https://www.p1boom.com/2021/11/a-story-of-epic-blind-remote-code.html, RCE
-- https://threedr3am.github.io/2021/11/18/一种普遍存在于java系统的缺陷-Memory%20DoS/, DoS
 - https://feed.bugs.xdavidhu.me/bugs/0008, Privilege-escalation
 - https://www.netspi.com/blog/technical/cloud-penetration-testing/azure-cloud-vulnerability-credmanifest/, Information-disclosure
 - https://omespino.com/write-up-apple-bug-bounty-n-a-arbitrary-local-file-read-via-zip-file-and-symlinks-usd/, Arbitrary-file-read
@@ -2468,7 +2465,6 @@
 - https://medium.com/cider-sec/bypassing-required-reviews-using-github-actions-6e1b29135cc7, Privilege-escalation
 - https://joranhonig.nl/stealing-info-using-ipfs-fuse/, Web3-hacking
 - https://medium.com/@mehdi.alouache/eset-endpoint-security-credentials-theft-90082dfdf474, Credentials-sent-over-unencrypted-channel
-- https://medium.com/@mehdi.alouache/pulse-secure-version-number-disclosure-in-error-messages-143aa76c90cd, Information-disclosure
 - https://realkeyboardwarrior.github.io/security/2021/10/11/hacking-youtube.html, Logic-flaw
 - https://mhmdiaa.com/blog/exploiting-html-imports/, XSS
 - https://medium.com/@cappriciosec/how-i-hacked-billion-android-users-social-and-3rd-party-account-a-story-about-5000-bug-c422ca43bd2, Android
@@ -3022,7 +3018,6 @@
 - https://publish.whoisbinit.me/amazon-ec2-dangling-dns-records-on-surf-test-xwf-internet-org, Subdomain-takeover
 - https://omespino.com/write-up-google-vrp-n-a-ssrf-bypass-with-quadzero-in-google-cloud-monitoring/, SSRF
 - https://blog.melbadry9.xyz/ddns-ec2-ips-current-state, Dangling-DNS-records
-- https://www.bencteux.fr/posts/chrome_bypass_url_restrictions/, Browser-hacking
 - https://medium.com/@mehdi.alouache/partially-disable-cybereason-edr-as-low-privileges-user-on-windows-1405fd53e90e, EDR-bypass
 - https://ashketchum.medium.com/stored-xss-in-google-ads-android-application-3133-70-373f6c361ff3, Stored-XSS
 - https://ahmdhalabi.medium.com/finding-hidden-login-endpoint-exposing-secret-client-id-88c3c2a1af45, Information-disclosure

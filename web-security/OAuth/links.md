@@ -1,2 +1,3 @@
 - https://medium.com/@logicbomb_1/bugbounty-user-account-takeover-i-just-need-your-email-id-to-login-into-your-shopping-portal-7fd4fdd6dd56
 - https://gonzxph.medium.com/account-takeover-worth-of-5-dba784b32383
+- https://fatnassifiras.medium.com/cross-tenant-information-disclosure-unraveling-microsoft-connections-custom-connectors-and-oauth-6487321d28b3
