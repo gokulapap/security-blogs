@@ -4,3 +4,4 @@
 - https://medium.com/@th3hidd3nmist/bug-bounty-broken-api-authorization-d30c940ccb42
 - https://www.evilsocket.net/2022/10/20/Reverse-Engineering-the-Apple-MultiPeer-Connectivity-Framework/
 - https://ysamm.com/?p=620
+- https://ysamm.com/?p=597

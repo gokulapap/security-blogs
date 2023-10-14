@@ -383,7 +383,6 @@
 - https://medium.com/@mydudehello91/how-i-hacked-scopely-and-got-c60772f77d41, Self-XSS
 - https://medium.com/@kushjain0107/one-mistake-three-bugs-comprehensive-android-pentesting-a8fc68e36af5, Android
 - https://github.com/pedrib/PoC/blob/master/advisories/ManageEngine/adselfpwnplus/adselfpwnplus.md, Authentication-bypass
-- https://medium.com/@mahmud0x/graphql-api-hacking-7cf6cd46ce4f, GraphQL
 - https://medium.com/@0xnaeem/how-i-found-a-sql-injection-bug-in-using-my-cellphone-5b5193fdc314, SQL-injection
 - https://medium.com/@karimelsayed0x1/my-first-bug-is-rce-via-sql-injection-dfee9c4d4c01, SQL-injection
 - https://www.rapid7.com/blog/post/2023/06/22/multiple-vulnerabilities-in-fortra-globalscape-eft-administration-server-fixed/, Out-of-bounds-Read
@@ -2083,7 +2082,6 @@
 - https://medium.com/@tobydavenn/how-i-was-able-to-takeover-any-users-account-on-a-major-telecoms-website-2cd5aa43e3d6, XSS
 - https://medium.com/@girishbo58/rate-limit-bypass-at-readme-com-35c4fb0c7f85, Lack-of-rate-limiting
 - https://medium.com/@tobydavenn/how-i-was-able-to-read-any-users-confidential-reports-on-a-public-level-domain-1e563857b0b9, IDOR
-- https://www.netspi.com/blog/technical/cloud-penetration-testing/azure-logic-app-contributor-escalation-to-root-owner/, Privilege-escalation
 - https://medium.com/@tobydavenn/how-i-was-able-to-wipe-any-registered-account-3b738afc389, Logic-flaw
 - https://prajwoldhungana487.medium.com/demographic-misconfiguration-9359910c6fcf, Logic-flaw
 - https://ssd-disclosure.com/ssd-advisory-netgear-dgnd3700v2-preauth-root-access/, Authentication-bypass
@@ -2395,7 +2393,6 @@
 - https://threatnix.io/blog/exploiting-csp-in-webkit-to-break-authentication-authorization/, Information-disclosure
 - https://securityflow.io/impact-of-an-insecure-deep-link/, Insecure-deeplink
 - https://secureitmania.medium.com/never-leave-this-tip-while-you-hunting-broken-access-control-f63c00b1e96a, Broken-Access-Control
-- https://medium.com/@kashyapherry147/privilege-escalation-worth-of-300-b9a6eac3b0fa, Broken-Access-Control
 - https://medium.com/@yashhunter772/how-i-got-200-in-30-seconds-3dd742f60186, Information-disclosure
 - https://tox7cv3nom.github.io/2021/11/12/chaining-of-csrf-token-misconfiguration-and-no-rate-limit-leads-to-mass-account-takeover.html, Account-takeover
 - https://hector0x.medium.com/from-url-dumps-digging-to-idor-bac-massive-phishing-in-udemy-6fa7f94ef256, Broken-Access-Control
@@ -3086,7 +3083,6 @@
 - https://ysamm.com/?p=609, Authorization-flaw
 - https://ysamm.com/?p=603, Logic-flaw
 - https://ysamm.com/?p=613, Information-disclosure
-- https://ysamm.com/?p=597, Authorization-flaw
 - https://vbharad.medium.com/stored-xss-in-icloud-com-5000-998b8c4b2075, Stored-XSS
 - https://karansh491.medium.com/my-first-bounty-stored-xss-96dea41fd9cf, Stored-XSS
 - https://mokhansec.medium.com/idor-via-websockets-allow-me-to-takeover-any-users-account-23460dacdeab, IDOR
@@ -3320,7 +3316,6 @@
 - https://ruvlol.medium.com/1000-for-open-redirect-via-unknown-technique-675f5815e38a, Open-redirect
 - https://community.disclose.io/t/how-i-found-a-tor-vulnerability-in-brave-browser-reported-it-watched-it-get-patched-got-a-cve-cve-2020-8276-and-a-small-bounty-all-in-one-working-day/65, Information-disclosure
 - https://lokeshdlk77.medium.com/delete-any-photos-in-facebook-832dbe81cdc4, Authorization-flaw
-- https://blog.shashank.co/2020/11/from-500-error-to-django-admin-takeover.html, Authorization-bypass
 - https://rafi-ahamed.medium.com/forcing-for-a-bounty-b637c468d7bd, Authorization-flaw
 - https://lokeshdlk77.medium.com/reveal-the-page-admin-that-uploaded-a-video-on-the-page-in-comment-section-9760e4a31453, Information-disclosure
 - https://security.lauritz-holtmann.de/advisories/cve-2020-13294/, Authentication-flaw

@@ -1,1 +1,2 @@
 - https://medium.com/@sechunter/exploiting-admin-panel-like-a-boss-fc2dd2499d31
+- https://blog.shashank.co/2020/11/from-500-error-to-django-admin-takeover.html

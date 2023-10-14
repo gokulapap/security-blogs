@@ -2,3 +2,4 @@
 - https://tuhin1729.medium.com/full-team-takeover-678c79842065
 - https://medium.com/@mehedi1194/how-i-get-my-first-swag-from-sidn-sensitive-data-expose-fc8e202fef85
 - https://medium.com/@bag0zathev2/how-i-used-js-files-inspection-and-fuzzing-to-do-admins-supports-stuff-dd4f700605a
+- https://medium.com/@kashyapherry147/privilege-escalation-worth-of-300-b9a6eac3b0fa

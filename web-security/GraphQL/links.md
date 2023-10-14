@@ -1,1 +1,2 @@
 - https://checkmarx.com/blog/cve-2022-37734-graphql-java-denial-of-service/
+- https://medium.com/@mahmud0x/graphql-api-hacking-7cf6cd46ce4f
