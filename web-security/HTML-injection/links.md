@@ -2,3 +2,4 @@
 - https://hamzadzworm.medium.com/how-i-got-250-in-5-munites-using-my-phone-91c9b2258282
 - https://medium.com/@jjowi/bug-html-injection-on-tokopedia-9a9b0534ceaa
 - https://hacklido.com/d/93-able-to-mass-change-profile-section-leads-to-my-first-bounty
+- https://infosecwriteups.com/zero-day-xss-309916922ea6

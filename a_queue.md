@@ -49,7 +49,6 @@
 - https://medium.com/@danielmakelley/4-tips-for-new-bug-bounty-hunters-b71c4c6ab5f9, tricks
 - https://medium.com/@fh4ntke/intigriti-xss-challenge-0621-cf76c28840c1, CTF
 - https://medium.com/@thexssrat/xss-made-easy-for-testers-developers-and-managers-b404f744ec6b, XSS
-- https://medium.com/@amitkhandebharad5/privilege-escalation-lets-demote-the-admin-93bd55a6d6fb, privilege-escalation
 - https://medium.com/@marxchryz/how-i-gain-access-to-the-server-administration-of-a-million-dollar-company-14da68c7a9dd, journey
 - https://medium.com/@0UN390/what-is-http-parameter-pollution-a50249869d97, parameter
 - https://medium.com/@ryuukhagetsu/how-i-get-bounty-from-takeover-account-ed17cd838b2a, ATO
@@ -1028,7 +1027,6 @@
 - https://infosecwriteups.com/cve-2022-38627-a-journey-through-sqlite-injection-to-compromise-the-whole-enterprise-building-15cebd072ed6, SQL-injection
 - https://sudhanshur705.medium.com/exploring-the-world-of-esi-injection-b86234e66f91, ESI-injection
 - https://hamzadzworm.medium.com/how-i-got-a-bug-that-leads-to-takeover-accounts-of-any-user-who-view-my-profile-913c8704f6cd, XSS
-- https://medium.com/@mukundbhuva/account-takeover-due-to-cognito-misconfiguration-earns-me-xxxx-3a7b8bb9a619, Amazon-cognito-misconfiguration
 - https://medium.com/@ashlyn.lau_17206/hooking-secret-key-to-building-custom-burp-extension-c6aeb6fd312a, SQL-injection
 - https://medium.com/@kandar.souvik6/feedback-analyzer-exploitation-dc44a91b7fcc, Information-disclosure
 - https://infosecwriteups.com/unauthorized-sign-up-on-subdomain-of-subdomain-leading-to-organization-takeover-worth-2000-a7199952d80b, Exposed-registration-page
@@ -1647,7 +1645,6 @@
 - https://medium.com/@mohamedtarekq/how-i-get-full-account-takeover-via-stealing-actions-login-form-xss-9e50068c2b2d, XSS
 - https://medium.com/@whitehatcyber404/how-i-earned-150-in-2-minutes-html-injection-in-email-3f26f27d3822, HTML-injection
 - https://y0ungdst.medium.com/my-second-cve-cve-2022-31855-6c071c4fb9d9, OS-command-injection
-- https://infosecwriteups.com/zero-day-xss-309916922ea6, HTML-injection
 - https://blog.electrovolt.io/posts/discord-rce/, RCE
 - https://sagarsajeev.medium.com/business-logic-vulnerabilities-b4db2af08aaf, Logic-flaw
 - https://derekabdine.com/blog/2022-arris-advisory, Path-traversal
@@ -3310,7 +3307,6 @@
 - https://servicenger.com/blog/mobile/facebook-ios-address-bar-spoofing/, Address-Bar-Spoofing
 - https://medium.com/realmodelabs/silver-peak-unity-orchestrator-rce-2928d65ef749, RCE
 - https://galnagli.com/DoD_IDOR/, IDOR
-- https://ysamm.com/?p=493, DOM-XSS
 - https://blog.blazeinfosec.com/attack-of-the-clones-github-desktop-remote-code-execution/, RCE
 - https://dhakal0kushal.medium.com/story-of-a-pre-account-takeover-33e3d5b4c33f, Account-takeover
 - https://ruvlol.medium.com/1000-for-open-redirect-via-unknown-technique-675f5815e38a, Open-redirect
@@ -3760,7 +3756,6 @@
 - https://medium.com/sud0root/bug-bounty-writeups-exploiting-sql-injection-vulnerability-20b019553716, SQL-injection
 - https://medium.com/@kishorehariram/account-taken-over-in-style-8a547342a5ad, Logic-flaw
 - https://hethical.io/stealing-the-trello-token-by-abusing-a-cross-iframe-xss-on-the-butler-plugin/, XSS
-- https://medium.com/@kunal94/indirect-uxss-issues-on-a-private-integrated-browser-219f6b809b6c, Universal-XSS
 - https://medium.com/@hbothra22/recon-to-sensitive-information-disclosure-in-minutes-503fc7ccdf0b, Information-disclosure
 - https://servicenger.com/blog/mobile/private-bounty-sendmsg/, Authorization-flaw
 - https://medium.com/@d0nut/piercing-the-veal-short-stories-to-read-with-friends-4aa86d606fc5, SSRF

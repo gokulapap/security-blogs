@@ -1,1 +1,2 @@
 - https://samcurry.net/universal-xss-on-netlifys-next-js-library/
+- https://medium.com/@kunal94/indirect-uxss-issues-on-a-private-integrated-browser-219f6b809b6c

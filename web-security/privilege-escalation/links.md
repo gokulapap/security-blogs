@@ -1,0 +1,1 @@
+- https://medium.com/@amitkhandebharad5/privilege-escalation-lets-demote-the-admin-93bd55a6d6fb

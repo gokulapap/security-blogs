@@ -3,3 +3,4 @@
 - https://thehackerblog.com/steam-fire-and-paste-a-story-of-uxss-via-dom-xss-clickjacking-in-steam-inventory-helper/index.html
 - https://hacknpentest.com/dom-based-xss-bug-bounty-writeup/
 - https://therceman.medium.com/350-xss-in-15-minutes-dcb74ad93d5f
+- https://ysamm.com/?p=493
