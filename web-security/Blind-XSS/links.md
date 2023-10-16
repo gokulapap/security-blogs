@@ -1,1 +1,2 @@
 - https://sites.google.com/securifyinc.com/vrp-writeups/hire-with-google/blind-xss
+- https://www.invicti.com/blog/web-security/exploiting-insecure-exception-logging/

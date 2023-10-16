@@ -635,7 +635,6 @@
 - https://crypt0g30rgy.github.io/post/TinderBug, IDOR
 - https://vitorfalcao.com/posts/simple-bugs/overwritting-files/, Normalization
 - https://www.zerodayinitiative.com/blog/2023/4/5/bash-privileged-mode-vulnerabilities-in-parallels-desktop-and-cdpath-handling-in-macos, MacoS
-- https://www.invicti.com/blog/web-security/exploiting-insecure-exception-logging/, Blind-XSS
 - https://canvatechblog.com/discovering-headroll-cve-2023-0704-in-chromium-2e7f66fc130c, SOP-bypass
 - https://bishopfox.com/blog/microsoft-intune-version-1-55-48-0-advisory, Unquoted-search-path
 - https://bishopfox.com/blog/windows-task-scheduler-19044-advisory, Unquoted-search-path
@@ -2146,7 +2145,6 @@
 - https://medium.com/@interc3pt3r/my-first-bounty-and-how-i-got-it-a6dba459c652, Subdomain-takeover
 - https://infosecwriteups.com/hacking-aws-cognito-misconfiguration-to-zero-click-account-takeover-36a209a0bd8a, AWS-misconfiguration
 - https://amakki.me/how-i-made-15k-from-remote-code-execution-vulnerability-2e1b14b3902a, Code-injection
-- https://shahjerry33.medium.com/broken-link-hijacking-mr-user-agent-cd124297f6e6, Broken-link-hijacking
 - https://infosecwriteups.com/a-tale-of-0-click-account-takeover-and-2fa-bypass-b369cd70e42f, Account-takeover
 - https://thehackerblog.com/zero-days-without-incident-compromising-angular-via-expired-npm-publisher-email-domains-7kZplW4x/, Supply-chain-attack
 - https://n0lsec.medium.com/qrcdr-path-traversal-vulnerability-bb89acc0c100, Path-traversal
@@ -2232,7 +2230,6 @@
 - https://medium.com/@robert0/how-i-found-broken-access-control-through-out-of-sync-setup-and-got-1000-9143fc5febdd, Broken-Access-Control
 - https://www.cyberick.com/post/xxe-in-saml-sso-writeup-bug-bounty, XXE
 - https://0xkasper.com/articles/moodle-sql-injection-broken-access-control.html, SQL-injection
-- https://kuldeep.io/posts/120-days-of-high-frequency-hunting/, SSRF
 - https://hulkvision.github.io/blog/post1/, RCE
 - https://systemweakness.com/xss-filter-evasion-idor-3d4624758ff0, XSS
 - https://nmochea.medium.com/xiaomi-arbitrary-javascript-vulnerability-327a6f3a9b0e, XSS
@@ -3438,7 +3435,6 @@
 - https://blog.oversecured.com/Oversecured-automatically-discovers-persistent-code-execution-in-the-Google-Play-Core-Library/, Arbitrary-Code-Execution
 - https://payatu.com/blog/nikhil-mittal/my-hacking-adventures-with-safari-reader-mode, CSP-bypass
 - https://medium.com/bugbountywriteup/accessing-the-website-directly-through-its-ip-address-a-case-of-a-poorly-hidden-sql-injection-82833defbbc3, SQL-injection
-- https://techkranti.com/delete-idor-on-a-fashion-ecommerce-website/, IDOR
 - https://www.ezequiel.tech/2020/08/leaking-google-cloud-projects.html, Authentication-bypass
 - https://medium.com/@leviwof/bug-bounty-failsx101-4-b601616fbe9f, MFA-bypass
 - https://www.malgregator.com/post/waze-how-i-tracked-your-mother/, Logic-flaw
@@ -4576,7 +4572,6 @@
 - https://blog.compass-security.com/2018/12/xss-worm-a-creative-use-of-web-application-vulnerability/, XSS
 - https://medium.com/@tnirmalz/facebook-bugbounty-disclosing-page-members-1178595cc520, Information-disclosure
 - https://www.tnirmal.com.np/2018/12/facebook-bugbounty-disclosing.html, Information-disclosure
-- https://soroush.secproject.com/blog/2018/12/story-of-two-published-rces-in-sharepoint-workflows/, RCE
 - https://medium.com/@hritik.3hs/exploiting-two-endpoints-to-get-account-takeover-651813d0a33b, Authorization-flaw
 - https://medium.com/@mustafakhan_89646/asuss-admin-panel-auth-bypass-af5062584ddf, Authentication-bypass
 - https://blog.ripstech.com/2018/wordpress-post-type-privilege-escalation/, Privilege-escalation

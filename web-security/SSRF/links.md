@@ -14,3 +14,4 @@
 - https://www.shawarkhan.com/2018/05/getting-read-access-on-edmodo.html
 - https://infosecwriteups.com/ssrf-leads-to-access-aws-metadata-21952c220aeb
 - https://www.yassineaboukir.com//blog/exploitation-of-an-SSRF-vulnerability-against-EC2-IMDSv2/
+- https://kuldeep.io/posts/120-days-of-high-frequency-hunting/
