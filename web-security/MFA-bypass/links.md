@@ -1,1 +1,2 @@
 - https://medium.com/@mehtashobhit98/bypassing-the-2fa-mfa-an-easy-win-9b059bf0ac75
+- https://www.cyberick.com/post/2fa-secret-value-disclosure-leads-to-2fa-bypass-bug-bounty-writeup

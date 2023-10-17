@@ -1,2 +1,3 @@
 - https://junoonbro.medium.com/how-i-earned-9000-with-privilege-escalations-b187d1f8f4fe
 - https://www.netspi.com/blog/technical/cloud-penetration-testing/azure-logic-app-contributor-escalation-to-root-owner/
+- https://www.paloaltonetworks.com/resources/whitepapers/kubernetes-privilege-escalation-excessive-permissions-in-popular-platforms

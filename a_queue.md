@@ -1882,7 +1882,6 @@
 - https://quip.com/Uks4AzL33oAu, IDOR
 - https://jspin.re/variant-cloud-analysis/, Default-credentials
 - https://evowizz.dev/blog/huawei-appgallery-vulnerability, Payment-bypass
-- https://www.paloaltonetworks.com/resources/whitepapers/kubernetes-privilege-escalation-excessive-permissions-in-popular-platforms, Privilege-escalation
 - https://blog.stazot.com/stealing-google-drive-oauth-tokens-from-dropbox/, CSRF
 - https://infosecwriteups.com/bypassing-waf-to-weaponize-a-stored-xss-ff9963c421ee, Stored-XSS
 - https://www.vidocsecurity.com/blog/hacking-swagger-ui-from-xss-to-account-takeovers/, DOM-XSS
@@ -1925,7 +1924,6 @@
 - https://medium.com/system-weakness/sensitive-data-exfiltration-through-xss-450-409162eced3a, Token-leak
 - https://lokeshdlk77.medium.com/contact-point-deanonymization-vulnerability-in-meta-90d575c4d8ef, Information-disclosure
 - https://www.wiz.io/blog/wiz-research-discovers-extrareplica-cross-account-database-vulnerability-in-azure-postgresql/, Cross-tenant-vulnerability
-- https://www.cyberick.com/post/2fa-secret-value-disclosure-leads-to-2fa-bypass-bug-bounty-writeup, MFA-bypass
 - https://blog.assetnote.io/2022/04/27/vmware-workspace-one-uem-ssrf/, SSRF
 - https://divyanshsharma2401.medium.com/bypassing-waf-for-2222-f99b80cfdb9b, WAF-bypass
 - https://securecloud.blog/2022/04/27/azure-monitor-malicious-kql-query/, Privilege-escalation
@@ -3794,7 +3792,6 @@
 - https://web.archive.org/web/20200405123820/https://medium.com/@saugatpokharel/cannot-delete-post-on-facebook-group-facebook-bug-bounty-4f2661655c3a, Logic-flaw
 - https://blog.securitybreached.org/2020/04/04/playing-with-json-web-tokens-for-fun-and-profit/, Password-reset
 - https://medium.com/@pig.wig45/touch-id-authentication-bypass-on-evernote-and-dropbox-ios-apps-7985219767b2, Authentication-bypass
-- https://www.ryanpickren.com/webcam-hacking-overview, Zero-Click-Unauthorized-Access-to-Sensitive-Data
 - https://medium.com/@nnez/always-escalate-from-self-xss-to-persistent-xss-on-login-portal-54265b0adfd0, Self-XSS
 - https://medium.com/@ravillabharath123/account-take-over-without-user-interaction-f4ed2bf977de, Password-reset
 - https://medium.com/@shahjerry33/privilege-escalation-hello-admin-a53ac14fd388, Privilege-escalation
@@ -4259,7 +4256,6 @@
 - https://medium.com/@schopath/yeah-i-got-p2-in-1-minute-stored-xss-via-markdown-editor-7872dba3f158, Stored-XSS
 - https://gauravnarwani.com/injecting-6200-to-1200/, SSTI
 - https://wwws.nightwatchcybersecurity.com/2019/07/02/another-download-protection-bypass-in-google-chrome-bin-files-in-mac-os/, Browser-hacking
-- http://hassankhanyusufzai.com/RFI_LFI_writeup/, RFI
 - https://cyberzombie.in/stored-xss-on-indeed/, Stored-XSS
 - https://medium.com/@kanchansinghyadav/one-more-parameter-manipulation-bug-7fa0551a6021, Parameter-tampering
 - https://web.archive.org/web/20200928092650/https://pwnsec.ninja/2019/06/28/facebook-bugbounty-short-story-on-page-admin-disclosure/, Authorization-flaw
@@ -4735,7 +4731,6 @@
 - https://medium.com/@efkan162/how-i-xssed-uber-and-bypassed-csp-9ae52404f4c5, Reflected-XSS
 - https://nirmaldahal.com.np/posts/2019/11/r-xss-leading-csrf-bypass-to-account-takeover/, Reflected-XSS
 - https://websecblog.com/vulns/bypassing-firebase-authorization-to-create-custom-goo-gl-subdomains/, Logic-flaw
-- https://blog.bentkowski.info/2018/09/another-xss-in-google-colaboratory.html, XSS
 - https://medium.com/@jonathanbouman/local-file-inclusion-at-ikea-com-e695ed64d82f, LFI
 - https://mohitdabas.wordpress.com/2018/09/18/bypassing-authentication-using-javascript-debugger/, Authentication-bypass
 - https://web.archive.org/web/20190320205543/https://medium.com/@0ktavandi/how-i-bypassed-akamai-kona-waf-xss-in-overstock-com-f205b0e71a0d, XSS

@@ -20,3 +20,4 @@
 - https://medium.com/@hacker_eth/xss-in-microsoft-7a70416aee75
 - https://corben.io/blog/18-12-5-XSS-to-XXE-in-Prince
 - https://medium.com/bugbountywriteup/stealing-your-data-using-xss-bf7e4a31e6ee
+- https://blog.bentkowski.info/2018/09/another-xss-in-google-colaboratory.html
