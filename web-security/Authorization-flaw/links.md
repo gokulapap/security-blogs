@@ -5,3 +5,4 @@
 - https://www.evilsocket.net/2022/10/20/Reverse-Engineering-the-Apple-MultiPeer-Connectivity-Framework/
 - https://ysamm.com/?p=620
 - https://ysamm.com/?p=597
+- https://medium.com/@modam3r5/unauthenticated-user-can-upload-an-attachment-at-hackerone-aff2a0c573b8

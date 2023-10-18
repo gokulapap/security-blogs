@@ -1,1 +1,2 @@
 - https://members.backbox.org/zimbra-open-bucket-data-leak-responsible-disclosure/
+- https://aob-89072.medium.com/how-mailru-handled-with-my-report-on-their-program-5e1f587ecaa

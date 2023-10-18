@@ -1499,7 +1499,6 @@
 - https://blog.silentsignal.eu/2022/09/05/simple-ibm-i-as-400-hacking/, Local-Privilege-Escalation
 - https://vvx7.io/posts/2022/09/your-amiibos-haunted/, Memory-corruption
 - https://medium.com/@0x0Asif/how-i-found-my-first-rce-8f8033883dc4, IDOR
-- https://medium.com/@mr.vrushabh/discovery-of-cve-2022-35406-303f4bca2742, Logic-flaw
 - https://nokline.github.io/bugbounty/2022/09/02/Glassdoor-Cache-Poisoning.html, Web-cache-poisoning
 - https://feed.bugs.xdavidhu.me/bugs/0015, IDOR
 - https://mr23r0.medium.com/the-database-handover-a-dumb-mistake-critical-bug-f73c99e72e40, Information-disclosure
@@ -2104,7 +2103,6 @@
 - https://research.nccgroup.com/2022/02/28/brokenprint-a-netgear-stack-overflow/, Memory-corruption
 - https://blog.securitybreached.org/2022/02/27/hacking-subscription-plans-for-free-service/, Payment-bypass
 - https://web.archive.org/web/20221128044142/https://wya.pl/2022/02/26/cve-2022-22947-spel-casting-and-evil-beans/, RCE
-- https://web.archive.org/web/20220315080229/https://medium.com/@raymond-lind/ssrf-lfi-in-uploads-feature-321d83b93ec0, SSRF
 - https://swarm.ptsecurity.com/catching-bugs-in-vmware-carbon-black-cloud-workload-appliance-and-vrealize-operations-manager/, Authentication-bypass
 - https://medium.com/@vflexo/a-weird-price-tampering-vulnerability-1251dfe8d2a1, Payment-tampering
 - https://medium.com/@Kntjrld/bypassing-default-visibility-for-newly-added-email-in-facebook-part-i-submitting-i-d-da78142f032d, Logic-flaw
@@ -2551,7 +2549,6 @@
 - https://infosecwriteups.com/bypassed-and-uploaded-a-sweet-reverse-shell-d15e1bbf5836, Unrestricted-file-upload
 - https://cyberguy0xd1.medium.com/how-i-hacked-bbc-mail-servers-e61bb6faed2d, Information-disclosure
 - https://ysamm.com/?p=708, Account-takeover
-- https://aob-89072.medium.com/how-mailru-handled-with-my-report-on-their-program-5e1f587ecaa, AWS-misconfiguration
 - https://irsl.medium.com/google-cloud-build-under-the-hood-bc00c68ad9de, gRPC
 - https://wojciechregula.blog/post/play-the-music-and-bypass-tcc-aka-cve-2020-29621/, Privacy-issue
 - https://4bdoz.medium.com/rce-by-code-injection-perl-reverse-shell-a2e90181b10, RCE
@@ -4560,7 +4557,6 @@
 - https://addictivehackers.blogspot.com/2018/12/how-i-was-able-to-takeover-all-user.html, IDOR
 - https://medium.com/@aniltom/from-hunting-for-a-laptop-to-hunting-down-remote-code-execution-72cce2761846, RCE
 - https://medium.com/@sampanna/rce-in-nokia-com-59b308e4e882, RCE
-- https://medium.com/@modam3r5/unauthenticated-user-can-upload-an-attachment-at-hackerone-aff2a0c573b8, Authorization-flaw
 - https://medium.com/@ironfisto/tokopedia-account-takeover-bug-worth-8-million-idr-5474cb5b5cc9, Password-reset
 - https://medium.com/@putracraft.theworld/server-side-request-forgery-in-openid-support-defcc64d5e41, SSRF
 - http://blog.randorisec.fr/client-side-validation/, Client-side-enforcement-of-server-side-security
@@ -5104,7 +5100,6 @@
 - https://medium.com/bugbountywriteup/900-xss-in-yahoo-recon-wins-65ee6d4bfcbd, XSS
 - https://medium.com/bugbountywriteup/how-i-bypassed-practos-firewall-and-triggered-a-xss-b30164a8f1dc, XSS
 - https://guptashubham.com/idor-execute-javascript-into-anyone-account/, IDOR
-- https://guptashubham.com/stored-xss-to-full-information-disclosure, Stored-XSS
 - https://medium.com/@rojanrijal/luminate-internal-privilege-escalation-admin-to-owner-2ca28e575985, Authorization-flaw
 - https://medium.com/@rojanrijal/this-domain-is-my-domain-g-suite-a-record-vulnerability-b447a90a8de7, Domain-takeover
 - https://guptashubham.com/all-about-hackerone-private-program-terapeak/, IDOR

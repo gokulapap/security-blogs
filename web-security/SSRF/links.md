@@ -15,3 +15,4 @@
 - https://infosecwriteups.com/ssrf-leads-to-access-aws-metadata-21952c220aeb
 - https://www.yassineaboukir.com//blog/exploitation-of-an-SSRF-vulnerability-against-EC2-IMDSv2/
 - https://kuldeep.io/posts/120-days-of-high-frequency-hunting/
+- https://web.archive.org/web/20220315080229/https://medium.com/@raymond-lind/ssrf-lfi-in-uploads-feature-321d83b93ec0
