@@ -7,3 +7,4 @@
 - https://medium.com/@futaacmcyber/stored-xss-on-edmodo-11a3fbc6b6d0
 - https://buer.haus/2014/06/16/facebook-stored-cross-site-scripting-xss-badges/
 - https://guptashubham.com/stored-xss-to-full-information-disclosure
+- https://medium.com/@elmrhassel/xss-stored-on-outlook-web-outlook-android-app-ad4bd46b8823

@@ -15,3 +15,4 @@
 - https://dudy2kk.medium.com/from-information-disclosure-to-interesting-privilege-escalation-61ed3aaaf218
 - https://medium.com/@mohameddiv77/how-i-was-able-to-bypass-the-admin-panel-9a5a81e2ec11
 - https://medium.com/@mehdi.alouache/pulse-secure-version-number-disclosure-in-error-messages-143aa76c90cd
+- http://omespino.com/nokia-internal-ips-disclosure

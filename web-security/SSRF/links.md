@@ -16,3 +16,4 @@
 - https://www.yassineaboukir.com//blog/exploitation-of-an-SSRF-vulnerability-against-EC2-IMDSv2/
 - https://kuldeep.io/posts/120-days-of-high-frequency-hunting/
 - https://web.archive.org/web/20220315080229/https://medium.com/@raymond-lind/ssrf-lfi-in-uploads-feature-321d83b93ec0
+- https://vedanttekale20.medium.com/story-of-a-really-cool-ssrf-bug-cf88a3800efc

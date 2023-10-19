@@ -473,7 +473,6 @@
 - https://medium.com/@ajzead660/how-i-found-a-tricky-xss-1adf25850d33, XSS
 - https://www.rootcat.de/blog/ec2-meta_may23/, Cloud
 - https://www.dig.security/post/gcp-cloudsql-vulnerability-leads-to-internal-container-access-and-data-exposure, Cloud
-- https://salt.security/blog/a-new-oauth-vulnerability-that-may-impact-hundreds-of-online-services, OAuth
 - https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/from-response-to-request-adding-your-own-variables-inside-of-graphql-queries-for-account-take-over/, GraphQL
 - https://www.secureworks.com/research/tampering-with-conditional-access-policies-using-azure-ad-graph-api, Cloud
 - https://www.synacktiv.com/sites/default/files/2023-05/Synacktiv-Danfoss-Storeview-Multiple-Vulnerabilities.pdf, OS-command-injection
@@ -829,7 +828,6 @@
 - https://aidilarf.medium.com/bypassing-sso-authentication-from-the-login-without-password-feature-lead-to-account-takeover-d2322a33a208, Account-takeover
 - https://blog.robinjust.in/gov-in/2023/02/Exposing-Indian-Citizens-Sensitive-PII-and-more/, Broken-Access-Control
 - https://jjainam16.medium.com/reflected-cross-site-scripting-awards-3500-bounty-c8a619f129a1, Reflected-XSS
-- https://medium.com/@siratsami71/1500-worth-slack-vulnerability-bypass-invite-accept-process-8204e5431d52, Broken-Access-Control
 - https://www.archcloudlabs.com/projects/disabling-clamav-as-unprivileged-user/, Local-Privilege-Escalation
 - https://vengeance.medium.com/found-an-url-in-the-android-application-source-code-which-lead-to-an-idor-1b8768708756, Android
 - https://medium.com/@niraj1mahajan/hacking-the-search-bar-the-story-of-discovering-and-reporting-an-xss-vulnerability-on-bing-com-cac2f241835, XSS
@@ -3157,7 +3155,6 @@
 - https://theshubh77.medium.com/irremovable-facebook-group-album-photos-and-entire-album-under-certain-circumstances-bounty-1000-b1b2a870b8e0, Logic-flaw
 - https://medium.com/bug-bounty-hunting/tale-of-2-tootb-bugs-google-and-whatsapp-3c0ad40d604c, Information-disclosure
 - https://web.archive.org/web/20210730144815/https://www.cysek.org/post/sxss-by-cache-poison-attack, Web-cache-poisoning
-- https://vedanttekale20.medium.com/story-of-a-really-cool-ssrf-bug-cf88a3800efc, SSRF
 - https://pulsesecurity.co.nz/advisories/GOCD-Multiple-Vulnerabilities, RCE
 - https://srcincite.io/blog/2021/01/12/making-clouds-rain-rce-in-office-365.html, RCE
 - https://levelup.gitconnected.com/stealing-user-information-via-xss-via-parameter-pollution-7d99b3379e7d, Open-redirect
@@ -4015,7 +4012,6 @@
 - https://rez0.blog/hacking/2019/11/29/rce-via-imagetragick.html, RCE
 - https://medium.com/@abhishake100/how-i-turned-self-xss-to-stored-via-csrf-d12eaaf59f2e, Self-XSS
 - https://web.archive.org/web/20211106053748/https://eng.getwisdom.io/hacking-github-with-unicode-dotless-i/, Logic-flaw
-- https://medium.com/@elmrhassel/xss-stored-on-outlook-web-outlook-android-app-ad4bd46b8823, Stored-XSS
 - https://ysamm.com/?p=343, Reflected-XSS
 - https://lf.lc/vrp/145304705/, Site-Isolation-bypass
 - https://medium.com/@johnssimon_6607/getting-access-to-disabled-hidden-features-with-the-help-of-burp-match-and-replace-e1d7b70d131e, Authorization-flaw
@@ -5004,7 +5000,6 @@
 - https://medium.com/@kankrale.rahul/facebook-mailto-injection-leads-to-social-engineering-spam-attack-68b08e36764a, Mailto-injection
 - https://medium.com/bugbountywriteup/bugbounty-i-dont-need-your-current-password-to-login-into-your-account-how-could-i-e51a945b083d, Authentication-bypass
 - https://codeburst.io/hunting-insecure-direct-object-reference-vulnerabilities-for-fun-and-profit-part-1-f338c6a52782, IDOR
-- http://omespino.com/nokia-internal-ips-disclosure, Information-disclosure
 - https://blog.securitybreached.org/2018/02/02/how-i-was-able-to-bypass-xss-protection-on-hackerones-private-program/, XSS
 - http://omespino.com/facebook-bug-bounty-getting-access-to-prompt-debug-dialog-and-serialized-tool-on-main-website-facebook-com/, Information-disclosure
 - https://blog.securitybreached.org/2018/01/27/how-i-was-able-to-download-any-file-from-web-server/, XSS
