@@ -27,3 +27,4 @@
 - https://medium.com/@Vibhurushi_Chotaliya/idor-payment-fraud-99d330879c0d
 - https://medium.com/@grahamzemel/p1-bug-bounties-what-is-an-idor-and-how-does-idor-63fc72c371c8
 - https://techkranti.com/delete-idor-on-a-fashion-ecommerce-website/
+- https://www.inputzero.io/2020/03/idor-in-vlc-ios.html

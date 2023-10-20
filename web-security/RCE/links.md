@@ -20,3 +20,5 @@
 - https://web.archive.org/web/20200811013300/https://whitehatnepal.tumblr.com/post/149933960267/rce-in-addthis
 - https://j0vsec.com/post/cve-2021-25738/
 - https://soroush.secproject.com/blog/2018/12/story-of-two-published-rces-in-sharepoint-workflows/
+- https://github.com/geffner/CVE-2020-8150
+- https://www.code-intelligence.com/blog/potential-remote-code-execution-in-hsqldb

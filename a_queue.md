@@ -1298,7 +1298,6 @@
 - https://www.trustedsec.com/blog/the-curious-case-of-the-password-database/, Cryptographic-issues
 - https://mouha.be/sha-3-buffer-overflow/, Buffer-Overflow
 - https://www.netspi.com/blog/technical/social-engineering/bypassing-mimecast-email-defenses/, Secure-Email-Gateway-bypass
-- https://www.code-intelligence.com/blog/potential-remote-code-execution-in-hsqldb, RCE
 - https://medium.com/@h4x0r_dz/23000-for-authentication-bypass-file-upload-arbitrary-file-overwrite-2578b730a5f8, JWT
 - https://devco.re/blog/2022/10/19/a-new-attack-surface-on-MS-exchange-part-4-ProxyRelay/, RCE
 - https://portswigger.net/research/http-3-connection-contamination, HTTP-connection-contamination
@@ -2595,7 +2594,6 @@
 - https://medium.com/@gguzelkokar.mdbf15/huge-impact-server-side-request-forgery-in-production-app-20bf0cc5731, SSRF
 - https://medium.com/@nehpatel/story-of-unexpected-bugs-75734d51ac57, IDOR
 - https://web.archive.org/web/20210909040725/https://obsrva.org/2021/08/22/monkeytype-disclosure.html, Stored-XSS
-- https://xelkomy.medium.com/how-i-was-able-to-get-1000-bounty-from-a-ds-store-file-dc2b7175e92c, Information-disclosure
 - https://aswinthambi.blogspot.com/2021/08/recon-for-bug-bounty.html, AWS-misconfiguration
 - https://monish-basaniwal.medium.com/how-i-found-my-first-subdomain-takeover-vulnerability-b7d5c17b61fd, Subdomain-takeover
 - https://infosecwriteups.com/how-i-got-rce-in-the-world-largest-russian-company-8e6e8288bc4e, RCE
@@ -3407,7 +3405,6 @@
 - https://alesandroortiz.com/articles/uxss-android-webview-cve-2020-6506/, Universal-XSS
 - https://medium.com/@gaupaler/unintended-behaviour-of-domain-got-me-p4-d6af19b5dcdd, Logic-flaw
 - https://medium.com/infosec/how-often-do-we-overlook-vulnerabilities-960a7c45f59, Information-disclosure
-- https://github.com/geffner/CVE-2020-8150, RCE
 - https://www.ehpus.com/post/xss-fix-bypass-10000-bounty-in-google-maps, XSS
 - https://blog.dixitaditya.com/from-android-app-to-rce/, RCE
 - https://medium.com/@odayalhalbe1/my-first-bug-in-google-and-how-i-got-csrf-token-for-victim-account-rather-than-bypass-it-1337-bf01261feb47, CSRF
@@ -3805,7 +3802,6 @@
 - https://medium.com/@nnez/1st-bug-bounty-write-up-open-redirect-vulnerability-on-login-page-5e0dd9a6eb69, Open-redirect
 - https://web.archive.org/web/20200511145923/https://medium.com/@godofdarkness.msf/account-takeover-flow-in-mail-ru-s-ext-a-domain-150-8952e8078211, Logic-flaw
 - https://supras.io/exploitation-of-the-cve-2018-15961-unrestricted-file-upload-in-adobe-coldfusion/, Unrestricted-file-upload
-- https://www.inputzero.io/2020/03/idor-in-vlc-ios.html, IDOR
 - https://www.synacktiv.com/publications/pentesting-cisco-sd-wan-part-1-attacking-vmanage.html, Cypher-injection
 - https://medium.com/bugbountywriteup/xss-waf-character-limitation-bypass-like-a-boss-2c788647c229, XSS
 - https://protonvpn.com/blog/apple-ios-vulnerability-disclosure/, Privacy-issue
@@ -4607,7 +4603,6 @@
 - https://www.amolbaikar.com/xss-on-facebook-instagram-cdn-server-bypassing-signature-protection/, XSS
 - https://www.amolbaikar.com/facebook-source-code-disclosure-in-ads-api/, Source-code-disclosure
 - https://medium.com/@benjitobias/from-ctfs-to-bug-bounty-booty-81bab999b70d, Information-disclosure
-- https://www.secjuice.com/google-hall-of-fame/, Open-redirect
 - https://www.hackerinside.me/2018/11/critical-stored-xss-vulnerability.html, Stored-XSS
 - https://medium.com/@pratheesh.p.narayanan/bypassing-scratch-cards-on-google-pay-8915d5423385, Logic-flaw
 - https://medium.com/@zain.sabahat/exploiting-ssrf-like-a-boss-c090dc63d326, SSRF
