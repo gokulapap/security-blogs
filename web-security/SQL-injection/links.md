@@ -3,3 +3,4 @@
 - https://blog.stratumsecurity.com/2022/10/24/abusing-apache-spark-sql-to-get-code-execution/
 - https://hajarerutik9.medium.com/sql-injection-via-hidden-parameter-6da7699248fc
 - https://systemweakness.com/sql-injection-to-remote-command-execution-rce-dd9a75292d1d
+- https://medium.com/@calfcrusher/fuzzing-for-hidden-params-671724bf3fd7

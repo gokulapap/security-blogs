@@ -17,3 +17,4 @@
 - https://medium.com/@mehdi.alouache/pulse-secure-version-number-disclosure-in-error-messages-143aa76c90cd
 - http://omespino.com/nokia-internal-ips-disclosure
 - https://xelkomy.medium.com/how-i-was-able-to-get-1000-bounty-from-a-ds-store-file-dc2b7175e92c
+- https://theshubh77.medium.com/facebook-page-admin-disclosure-by-create-doc-button-bounty-5000-usd-2fd1ff615bf8

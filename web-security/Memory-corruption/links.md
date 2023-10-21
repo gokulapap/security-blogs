@@ -6,3 +6,4 @@
 - https://www.synacktiv.com/en/publications/the-printer-goes-brrrrr.html
 - https://blog.oversecured.com/Exploiting-memory-corruption-vulnerabilities-on-Android/
 - https://research.nccgroup.com/2022/07/25/technical-advisory-multiple-vulnerabilities-in-nuki-smart-locks-cve-2022-32509-cve-2022-32504-cve-2022-32502-cve-2022-32507-cve-2022-32503-cve-2022-32510-cve-2022-32506-cve-2022-32508-cve-2/
+- https://www.synacktiv.com/sites/default/files/2022-11/vlc_vnc_int_overflow-CVE-2022-41325.pdf

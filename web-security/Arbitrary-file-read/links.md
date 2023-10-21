@@ -1,1 +1,2 @@
 - https://www.synacktiv.com/en/publications/php-filter-chains-file-read-from-error-based-oracle.html
+- https://medium.com/@kanytu/firefox-and-how-a-website-could-steal-all-of-your-cookies-581fe4648e8d

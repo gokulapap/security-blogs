@@ -1131,7 +1131,6 @@
 - https://www.wiz.io/blog/hells-keychain-supply-chain-attack-in-ibm-cloud-databases-for-postgresql, Cloud
 - https://www.legitsecurity.com/blog/artifact-poisoning-vulnerability-discovered-in-rust, Supply-chain-attack
 - https://medium.com/bored-engineer/xss-on-account-leagueoflegends-com-via-easyxdm-2016-75bcf9d582b5, XSS
-- https://www.synacktiv.com/sites/default/files/2022-11/vlc_vnc_int_overflow-CVE-2022-41325.pdf, Memory-corruption
 - https://hopesamples.blogspot.com/2022/11/the-space-creators-can-still-see.html, IDOR
 - https://aidilarf.medium.com/stored-xss-at-https-www-tiktok-com-11fed6db0590, Stored-XSS
 - https://www.synacktiv.com/sites/default/files/2022-11/trufusion_enterprise_unauthenticated_arbitrary_file_write.pdf, Unrestricted-file-upload
@@ -1247,7 +1246,6 @@
 - https://infosecwriteups.com/get-blind-xss-within-5-minutes-100-9718bd056570, Blind-XSS
 - https://googleprojectzero.blogspot.com/2022/11/gregor-samsa-exploiting-java-xml.html, Integer-truncation
 - https://rohit-soni.medium.com/chaining-multiple-vulnerabilities-leads-to-remote-code-execution-rce-on-paytm-e77f2fd2295e, Exposed-registration-page
-- https://medium.com/@calfcrusher/fuzzing-for-hidden-params-671724bf3fd7, SQL-injection
 - https://mehedishakeel.medium.com/improper-access-control-my-third-finding-on-hackerone-1455e95b6c8c, HTML-injection
 - https://infosecwriteups.com/how-403-forbidden-bypass-got-me-nokia-hall-of-fame-hof-8acbd2c1c2c8, 403-bypass
 - https://medium.com/@0xnaeem/how-i-get-5x-swag-from-sony-102dbefd0c2c, DOM-XSS
@@ -3192,7 +3190,6 @@
 - https://www.pantaprakash.com.np/posts/categories/bugbounty-writeup/2.html, Logic-flaw
 - https://www.pantaprakash.com.np/posts/categories/bugbounty-writeup/3.html, Logic-flaw
 - https://iustin24.github.io/Cache-Key-Normalization-Denial-of-Service/, Web-cache-poisoning
-- https://theshubh77.medium.com/facebook-page-admin-disclosure-by-create-doc-button-bounty-5000-usd-2fd1ff615bf8, Information-disclosure
 - https://bhupendra1238.medium.com/how-i-got-my-first-bounty-hof-from-google-csrf-lead-to-account-delete-85f9906ba9ec, CSRF
 - https://blog.geekycat.in/google-vrp-hijacking-your-screenshots/, postMessage
 - https://blog.deesee.xyz/regex/security/2020/12/27/regular-expression-injection.html, ReDoS
@@ -3267,7 +3264,6 @@
 - https://shahjerry33.medium.com/server-side-misconfigurartion-a-funny-fix-63cc12b4c7fc, Information-disclosure
 - https://medium.com/@logicbomb_1/tale-of-3-vulnerabilities-to-account-takeover-44ba631a0304, SSRF
 - https://medium.com/@shaheenfazim/hacking-into-rce-government-server-operated-for-the-us-department-of-energys-national-nuclear-8aadc2e7e491, RCE
-- https://medium.com/@kanytu/firefox-and-how-a-website-could-steal-all-of-your-cookies-581fe4648e8d, Arbitrary-file-read
 - https://web.archive.org/web/20201116060315/https://medium.com/@kunal94/stealing-users-pii-info-by-visiting-api-endpoint-directly-5062e0147f67, Information-disclosure
 - https://evait.medium.com/pentest-story-empirum-password-decryption-3a9e2530aba7, Weak-crypto
 - https://cyc10n3.medium.com/rce-via-server-side-template-injection-ad46f8e0c2ae, SSTI
@@ -5252,7 +5248,6 @@
 - https://github.com/cymtrick/lol/blob/d17ed765129b26a1bf8060757e5aebd4e237c908/_posts/2016-09-20-Facebook-partners-CSRF.md, CSRF
 - http://blog.rakeshmane.com/2016/09/bug-bounty-account-takeover.html, OAuth
 - https://web.archive.org/web/20200817171403/https://whitehatnepal.tumblr.com/post/150381068912/how-i-snooped-into-your-private-slack-messages, Subdomain-takeover
-- https://blog.it-securityguard.com/bugbounty-decoding-a-%f0%9f%98%b1-00000-htpasswd-bounty/, htpasswd-misconfiguration
 - https://web.archive.org/web/20220401221504/https://blog.innerht.ml/internet-explorer-has-a-url-problem/, OAuth
 - https://web.archive.org/web/20200822010745/https://whitehatnepal.tumblr.com/post/149985438982/reading-ubers-internal-emails-uber-bug-bounty, Subdomain-takeover
 - https://web.archive.org/web/20200819161533/https://whitehatnepal.tumblr.com/post/149937173467/pornhub-email-confirmation-bypass, Email-verification-bypass

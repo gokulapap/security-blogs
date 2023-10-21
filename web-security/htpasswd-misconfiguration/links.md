@@ -1,0 +1,1 @@
+- https://blog.it-securityguard.com/bugbounty-decoding-a-%f0%9f%98%b1-00000-htpasswd-bounty/
