@@ -22,3 +22,4 @@
 - https://soroush.secproject.com/blog/2018/12/story-of-two-published-rces-in-sharepoint-workflows/
 - https://github.com/geffner/CVE-2020-8150
 - https://www.code-intelligence.com/blog/potential-remote-code-execution-in-hsqldb
+- https://medium.com/@yousefamery/emotional-rollercoaster-a-unique-case-study-of-bypassing-antivirus-and-firewall-by-abusing-2b36d8f6553c

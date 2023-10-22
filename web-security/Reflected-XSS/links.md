@@ -6,3 +6,4 @@
 - https://vict0ni.me/redwood-report2web-xss-and-frame-injection/
 - https://medium.com/@newp_th/reflected-xss-on-ws-na-amazon-adsystem-com-amazon-f1e55f1d24cf
 - https://medium.com/@madguyyy/reflected-xss-in-ebay-com-60a9d61e26cd
+- https://mohamedtarekq.medium.com/defeat-the-httponly-flag-to-achieve-account-takeover-rxss-c16849d3d192

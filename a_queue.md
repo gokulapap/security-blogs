@@ -699,7 +699,6 @@
 - https://research.checkpoint.com/2023/checkmate/, Websockets
 - https://medium.com/@minometidji/oauth-authentication-misconfiguration-cb43c3b3ec24, OAuth
 - https://infosecwriteups.com/bypassing-character-limit-xss-using-spanned-payload-7301ffac226e, XSS
-- https://medium.com/@yousefamery/emotional-rollercoaster-a-unique-case-study-of-bypassing-antivirus-and-firewall-by-abusing-2b36d8f6553c, RCE
 - https://shahjerry33.medium.com/lfi-an-interesting-tweak-9c5638dbdd1b, LFI
 - https://www.sjoerdlangkemper.nl/2023/03/15/textcube-sql-injection-session-ip-spoofing/, SQL-injection
 - http://blog.sysdum.net/parameter-injection-to-rce, RCE
@@ -1036,7 +1035,6 @@
 - https://bergee.it/blog/how-i-found-multiple-critical-bugs-in-red-bull/, Authentication-bypass
 - https://cems.fun/2022/12/26/CVE-2017-8758.html, XSS
 - https://sharanthehunter.medium.com/authentication-bypass-in-nexus-manager-version-3-37-3-02-712f0bdb2fb4, Components-with-known-vulnerabilities
-- https://rashahacks.com/how-i-pwned-10-admin-panels-and-rewarded-8000/, Information-disclosure
 - https://medium.com/@mares.viktor/unusual-403-bypass-to-a-full-website-takeover-external-pentest-4970c788c6bf, 403-bypass
 - https://medium.com/@tobydavenn/bypassing-ssrf-protections-45e5e3ac31e9, SSRF
 - https://infosecwriteups.com/bypass-apples-redirection-process-with-the-dot-character-c47d40537202, Open-redirect
@@ -1606,7 +1604,6 @@
 - https://medium.com/@avinash_/email-confirmation-bypass-at-instagram-cc968f9a126, Email-verification-bypass
 - https://web.archive.org/web/20220812183449/https://deb0con.medium.com/how-i-earned-a-6000-bug-bounty-from-cloudflare-db6949e39cf7, Path-traversal
 - https://bugra.ninja/posts/cloudshell-command-injection/, OS-command-injection
-- https://mohamedtarekq.medium.com/defeat-the-httponly-flag-to-achieve-account-takeover-rxss-c16849d3d192, Reflected-XSS
 - https://krausefx.com/blog/ios-privacy-instagram-and-facebook-can-track-anything-you-do-on-any-website-in-their-in-app-browser, Privacy-issue
 - https://googleprojectzero.blogspot.com/2022/08/the-quantum-state-of-linux-kernel.html, Memory-corruption
 - https://blog.sonarsource.com/security-implications-of-url-parsing-differentials, Open-redirect
@@ -4492,7 +4489,6 @@
 - https://medium.com/@ChandSingh/protonmail-xss-stored-b733031ac3b5, Stored-XSS
 - https://websecblog.com/vulns/leoexpress-personal-data/, Authorization-flaw
 - https://www.shawarkhan.com/2019/01/hijacking-accounts-by-retrieving-jwt.html, Open-redirect
-- https://medium.com/@nahoragg/chaining-tricky-oauth-exploitation-to-stored-xss-b67eaea4aabd, Stored-XSS
 - https://medium.com/@pratheesh.p.narayanan/misconfiguration-whatsapp-messenger-1f0f1cf3ef00, Logic-flaw
 - https://medium.com/@sahruldotid/antihack-idor-on-create-submission-ddb3cf40c26b, IDOR
 - https://www.symbo1.com/articles/2019/01/25/fb-change-product-availability-as-pageanalyst.html, Logic-flaw
@@ -4754,7 +4750,6 @@
 - https://dev.to/antogarand/pwned-together-hacking-devto-hkd, Stored-XSS
 - https://medium.com/@rohanchavan/100-bounty-in-300-seconds-isnt-bad-4f4112c102ef, Stored-XSS
 - https://web.archive.org/web/20200929012934/https://www.mohamedharon.com/2018/08/mapboxxss.html, Reflected-XSS
-- https://medium.com/@mateusz.olejarka/finding-hidden-gems-vol-2-reamde-md-the-story-of-a-bit-too-helpful-readme-file-12d6bb51e77f, Information-disclosure
 - https://medium.com/@D0rkerDevil/a-infinite-loop-story-f2bc05771a88, DoS
 - https://gauravnarwani.com/a-1000-bounty/, Information-disclosure
 - https://web.archive.org/web/20200929004149/https://www.mohamedharon.com/2018/08/wordpressXSS.html, Flash-XSS
