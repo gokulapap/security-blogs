@@ -17,3 +17,5 @@
 - https://medium.com/@d.harish008/business-logic-vulnerabilities-low-level-logic-flaw-f308a21a945d
 - https://medium.com/@ritishkumarsingh/facebook-vulnerability-unremovable-co-host-in-facebook-page-events-695729d6a09d
 - https://medium.com/@mr.vrushabh/discovery-of-cve-2022-35406-303f4bca2742
+- https://medium.com/@mrmax4o4/story-of-youtubes-unfixable-ads-bypass-b3bb7016c14e
+- https://orthonviper.medium.com/exploiting-max-character-limitation-cde982545019

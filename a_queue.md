@@ -2247,7 +2247,6 @@
 - https://medium.com/@tushar.tilak.sharma/p5-to-p1-intresting-account-takeover-6e59b879494b, Account-takeover
 - https://infosecwriteups.com/idor-leads-to-leak-private-details-866563365490, IDOR
 - https://xko2x.medium.com/how-i-was-able-to-bypass-a-pin-code-protection-8352295bb4fb, Authorization-flaw
-- https://medium.com/@mrmax4o4/story-of-youtubes-unfixable-ads-bypass-b3bb7016c14e, Logic-flaw
 - https://systemweakness.com/the-story-of-how-i-bypass-sso-login-6b93370196cf, Authentication-bypass
 - https://trevorspiniolas.com/doorlock/doorlock.html, DoS
 - https://medium.com/pentesternepal/a-tale-of-zero-click-account-takeover-56b51fdbd7ae, Account-takeover
@@ -3175,7 +3174,6 @@
 - https://tmosh.medium.com/incident-response-during-christmas-33c7fabb1429, Subdomain-takeover
 - https://akshartank.medium.com/each-and-every-request-make-sense-4572b3205382, Privilege-escalation
 - https://parasarora06.medium.com/privilege-escalation-from-being-a-normal-user-to-admin-3f86896f1c93, Privilege-escalation
-- https://orthonviper.medium.com/exploiting-max-character-limitation-cde982545019, Logic-flaw
 - https://savebreach.com/facebook-page-admin-identity-disclosure-through-document-edit-history/, Information-disclosure
 - https://ysamm.com/?p=588, IDOR
 - https://ysamm.com/?p=525, XSS
@@ -3800,7 +3798,6 @@
 - https://protonvpn.com/blog/apple-ios-vulnerability-disclosure/, Privacy-issue
 - https://medium.com/@ch3ckm4te/self-xss-to-account-takeover-72c89775cf8f, Account-takeover
 - https://adnanmalik.info/blog/the-ticklish-xss%EF%BF%BC/, XSS
-- https://medium.com/@asdqwedev/remote-image-upload-leads-to-rce-inject-malicious-code-to-php-gd-image-90e1e8b2aada, Unrestricted-file-upload
 - https://web.archive.org/web/20201004092711/https://sametsahin.net/posts/administrator-level-privilege-escalation-story/, Privilege-escalation
 - https://medium.com/bugbountywriteup/reflected-xss-on-microsoft-com-subdomains-4bdfc2c716df, Reflected-XSS
 - https://medium.com/the-volatile-triad/hacking-always-check-the-cross-domain-policy-369940372de3, SOP-bypass
@@ -4302,7 +4299,6 @@
 - https://medium.com/@dortz/how-did-i-bypass-a-custom-brute-force-protection-and-why-that-solution-is-not-a-good-idea-4bec705004f9, Bruteforce
 - https://ysamm.com/?p=272, Weak-encryption
 - https://medium.com/@mustafakhan_89646/multiple-api-issues-due-to-fixed-authorization-token-17365056f17a, Authorization-flaw
-- https://medium.com/@frostnull/from-file-upload-to-email-pass-dc7141aa1ff6, Unrestricted-file-upload
 - https://tutorgeeks.blogspot.com/2019/05/security-assessment-on-staging-domains.html, Missing-authentication
 - https://philippeharewood.com/instagram-github-token-with-public_scope-found-in-travis-ci-build-logs/, Information-disclosure
 - https://smaranchand.com.np/2019/05/how-i-acquired-xxx-bounty-by-investing-99-cents/, Logic-flaw
@@ -5129,7 +5125,6 @@
 - https://www.seekurity.com/blog/general/rolling-around-and-bypassing-facebook-linkshim-protection-on-ios, Open-redirect
 - https://medium.com/@arbazhussain/stored-xss-on-rockstar-game-c008ec18d071, XSS
 - https://bugbaba.blogspot.com/2017/07/open-redirect-in-flock-my-first-swag.html, Open-redirect
-- https://blog.zsec.uk/rce-starwars/, RCE
 - https://medium.com/bugbountywriteup/how-i-was-able-to-bypass-strong-xss-protection-in-well-known-website-imgur-com-8a247c527975, XSS
 - https://medium.com/@arbazhussain/missing-authorization-check-in-facebook-pages-manager-9f7bd879ff33, Authorization-flaw
 - https://medium.com/@arbazhussain/race-condition-bypassing-team-limit-b162e777ca3b, Race-condition
