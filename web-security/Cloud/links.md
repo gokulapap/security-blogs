@@ -1,1 +1,2 @@
 - https://astrix.security/ghosttoken-exploiting-gcp-application-infrastructure-to-create-invisible-unremovable-trojan-app-on-google-accounts/
+- https://www.trendmicro.com/en_ae/research/23/f/gaps-in-azure-service-fabric-s-security-call-for-user-vigilance.html

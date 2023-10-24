@@ -1,0 +1,1 @@
+- https://medium.com/@starlox.riju123/finding-my-first-bug-sql-injection-and-xss-just-with-google-dork-2f31772f8549

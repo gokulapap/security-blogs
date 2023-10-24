@@ -110,7 +110,6 @@
 - https://medium.com/@vickieli/all-about-idor-attacks-64c4203b518e, IDOR
 - https://medium.com/@grumpinout/solving-intigritis-november-xss-challenge-with-the-javascript-console-dde7253117dd, CTF
 - https://medium.com/@deepamkumar510/remote-code-execution-rce-through-file-upload-functionality-1809bd504805, RCE
-- https://medium.com/@starlox.riju123/finding-my-first-bug-sql-injection-and-xss-just-with-google-dork-2f31772f8549, sql-injection
 - https://medium.com/@nynan/what-i-learnt-from-reading-217-subdomain-takeover-bug-reports-c0b94eda4366, STO
 - https://medium.com/@proviesec/a-swag-for-a-open-redirect-google-dork-bug-bounty-2143b943f34e, open-redirection
 - https://medium.com/@pravinponnusamy/secure-code-review-and-sql-injection-d8a1a6da3d67, source-code-review
@@ -385,7 +384,6 @@
 - https://medium.com/@0xnaeem/how-i-found-a-sql-injection-bug-in-using-my-cellphone-5b5193fdc314, SQL-injection
 - https://medium.com/@karimelsayed0x1/my-first-bug-is-rce-via-sql-injection-dfee9c4d4c01, SQL-injection
 - https://www.rapid7.com/blog/post/2023/06/22/multiple-vulnerabilities-in-fortra-globalscape-eft-administration-server-fixed/, Out-of-bounds-Read
-- https://www.trendmicro.com/en_ae/research/23/f/gaps-in-azure-service-fabric-s-security-call-for-user-vigilance.html, Cloud
 - https://www.vusec.net/projects/uncontained/, Kernel-hacking
 - https://octa-mihail.medium.com/my-first-bounty-on-synack-red-team-4ef53329c960, Stored-XSS
 - https://medium.com/@elsayedmohammed/how-i-hacked-nasa-and-get-8-bugs-e5cd397a6af9, Open-redirect
@@ -522,7 +520,6 @@
 - https://www.akamai.com/blog/security-research/important-outlook-vulnerability-bypass-windows-api, Privilege-escalation
 - https://chevonphillip.medium.com/rce-due-to-dependency-confusion-5000-bounty-fd1b294d645f, Dependency-confusion
 - https://crnkovic.dev/testing-converso/, Android
-- https://infosecwriteups.com/discovery-of-an-xss-on-opera-f029f6522ec5, XSS
 - https://www.elttam.com/blog/pwnassistant/, Authentication-bypass
 - https://hacktus.tech/subdomain-takeover-leading-to-full-account-takeover, Subdomain-takeover
 - https://www.synopsys.com/blogs/software-security/a-deep-dive-on-pluck-cms-vulnerability-cve-2023-25828/, Unrestricted-file-upload
@@ -2727,7 +2724,6 @@
 - https://smaranchand.com.np/2021/06/flywheel-subdomain-takeover/, Subdomain-takeover
 - https://web.archive.org/web/20210910154714/https://ricardoiramar.medium.com/msrc-is-confused-5d86b23c2e88, Dependency-confusion
 - https://gccybermonks.com/posts/msstorebypass/, Payment-tampering
-- https://gccybermonks.com/posts/msstore/, Payment-tampering
 - https://fardeen-ahmed.medium.com/how-i-was-able-to-get-appreciation-from-the-organization-of-a-website-just-by-changing-a-sign-661042c97a98, Information-disclosure
 - https://blog.evanricafort.com/2021/06/generate-online-votes-using-race.html, Race-condition
 - https://craighays.com/cracking-encrypted-credit-card-numbers-exposed-by-api/, Information-disclosure
@@ -4599,7 +4595,6 @@
 - https://medium.com/@vignesh4303/how-i-hacked-netflix-users-use-it-free-forever-9febb1427262, Cookie-injection
 - https://medium.com/@luanherrera/xs-searching-googles-bug-tracker-to-find-out-vulnerable-source-code-50d8135b7549, XS-Search
 - https://quitten.github.io/Youtube/, Open-redirect
-- https://medium.com/bugbountywriteup/xss-bypass-using-meta-tag-in-realestate-postnl-nl-32db25db7308, XSS
 - https://medium.com/bugbountywriteup/from-security-misconfiguration-to-gaining-access-of-smtp-server-ed833e757e6e, File-disclosure
 - https://web.archive.org/web/20200907110700/https://medium.com/@sameerphad72/edmodo-xss-bug-9c0fc9bdd0bf, XSS
 - https://medium.com/@gopalsingh/bypassing-how-i-hacked-googles-bug-tracking-system-itself-for-15-600-in-bounties-16134466ab15, Logic-flaw

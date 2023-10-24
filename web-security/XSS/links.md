@@ -21,3 +21,5 @@
 - https://corben.io/blog/18-12-5-XSS-to-XXE-in-Prince
 - https://medium.com/bugbountywriteup/stealing-your-data-using-xss-bf7e4a31e6ee
 - https://blog.bentkowski.info/2018/09/another-xss-in-google-colaboratory.html
+- https://infosecwriteups.com/discovery-of-an-xss-on-opera-f029f6522ec5
+- https://medium.com/bugbountywriteup/xss-bypass-using-meta-tag-in-realestate-postnl-nl-32db25db7308
