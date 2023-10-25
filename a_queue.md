@@ -128,7 +128,6 @@
 - https://medium.com/@krishArse/open-map-of-sql-complete-sqlmap-quide-1088909959da, sql-injection
 - https://medium.com/@dewangpanchal98/tell-of-my-first-bounty-d3c5a85e18c9, journey
 - https://medium.com/@xcheater/recon-methodology-for-bug-hunting-e623120a7ca6, recon
-- https://medium.com/@veshraj77/first-bug-bounty-ever-sql-injection-da4e64e30851, sql-injection
 - https://medium.com/@ahmdhalabi/taking-over-employee-accounts-by-managers-with-zero-employee-interaction-b60784c3ad84, misc
 - https://medium.com/@burhanxd/my-first-nosql-injection-bug-e62bfe9950d9, sql-injection
 - https://medium.com/@justm0rph3u5/html-and-hyperlink-injection-via-share-option-in-microsoft-onenote-application-47e94d0e6478, injection
@@ -221,7 +220,6 @@
 - https://medium.com/@ethicalkaps/behind-the-scene-http-parameter-pollution-534b4fa2449c, parameter
 - https://medium.com/@sudarshan-s/sql-injection-important-things-you-need-to-know-right-now-b173cdea0610, sql-injection
 - https://medium.com/@mrnikhilsri/xxe-in-public-transport-ticketing-mobile-app-81ae245c01a1, XXE
-- https://medium.com/@notifybugme/escalating-ssrf-to-accessing-all-user-pii-information-by-aws-metadata-aabcfd5a3e0e, ssrf
 - https://medium.com/@uttamgupta_/what-after-recon-bbaf43dbcb68, recon
 - https://medium.com/@jaadugar/sensitive-data-exposure-my-first-bug-in-h1-d4006a08d38f, info-disclosure
 - https://medium.com/@hawk101/story-of-a-miss-configuration-that-led-to-admins-account-takeover-895b28392a65, ATO
@@ -3050,7 +3048,6 @@
 - https://infosecwriteups.com/from-aws-s3-misconfiguration-to-sensitive-data-exposure-784f37a30bf9, AWS-misconfiguration
 - https://irsl.medium.com/dropping-a-shell-in-googles-cloud-sql-the-speckle-umbrella-story-f9375bd4960d, Configuration-file-injection
 - https://www.shielder.it/blog/2021/02/hunting-for-bugs-in-telegrams-animated-stickers-remote-attack-surface/, Memory-corruption
-- https://publish.whoisbinit.me/subdomain-takeover-on-api-techprep-fb-com-through-aws-elastic-beanstalk, Subdomain-takeover
 - https://www.trendmicro.com/en_us/research/21/b/shareit-flaw-could-lead-to-remote-code-execution.html, Android
 - https://hencohen10.medium.com/i-own-your-cloud-shell-taking-over-azure-cloud-shell-kubernetes-cluster-through-unsecured-558621519cf9, Privilege-escalation
 - https://ysamm.com/?p=606, Authorization-flaw
@@ -4591,7 +4588,6 @@
 - https://medium.com/@pratheesh.p.narayanan/bypassing-scratch-cards-on-google-pay-8915d5423385, Logic-flaw
 - https://medium.com/@zain.sabahat/exploiting-ssrf-like-a-boss-c090dc63d326, SSRF
 - https://medium.com/@zain.sabahat/an-interesting-xxe-in-sap-8b35fec6ef33, XXE
-- https://medium.com/@androgaming1912/how-i-found-password-bypass-vulnerability-on-private-document-at-scribd-com-c0905e8dcc9a, CSRF
 - https://medium.com/@vignesh4303/how-i-hacked-netflix-users-use-it-free-forever-9febb1427262, Cookie-injection
 - https://medium.com/@luanherrera/xs-searching-googles-bug-tracker-to-find-out-vulnerable-source-code-50d8135b7549, XS-Search
 - https://quitten.github.io/Youtube/, Open-redirect
@@ -4649,7 +4645,6 @@
 - https://medium.com/@egeken/facebook-hidden-redirection-vulnerability-aeaaac0b9d73, Open-redirect
 - https://medium.com/@ariffadhlullah2310/xss-deface-with-html-and-how-to-convert-the-html-into-charcode-f0c62dd5ef3f, XSS
 - https://medium.com/@raushanraj_65039/google-sites-and-exploiting-same-origin-policy-d400bf569964, SOP-bypass
-- https://medium.com/@agrawalsmart7/cookie-based-injection-xss-making-exploitable-with-out-exploiting-other-vulns-81132ca01d67, XSS
 - https://medium.com/japzdivino/harvesting-all-private-invites-using-leave-program-fast-tracked-invitation-and-security-email-a01c8b3ce76f, Logic-flaw
 - https://medium.com/@notsoshant/a-possibility-of-account-takeover-in-medium-8d950e547639, Account-takeover
 - https://github.com/cymtrick/lol/blob/d17ed765129b26a1bf8060757e5aebd4e237c908/_posts/2018-10-20-CVE-2018-17082-PHP-XSS-A-Story-of-Chunked-Requests.md, XSS

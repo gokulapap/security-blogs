@@ -1,0 +1,1 @@
+- https://medium.com/@notifybugme/escalating-ssrf-to-accessing-all-user-pii-information-by-aws-metadata-aabcfd5a3e0e
