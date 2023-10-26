@@ -1315,7 +1315,6 @@
 - https://blog.infiltrateops.io/the-castles-latrine-10f9c16548bd, SQL-injection
 - https://labs.withsecure.com/advisories/microsoft-office-365-message-encryption-insecure-mode-of-operation, Weak-crypto
 - https://payatu.com/blog/p3n7a90n/wp-all-export-pro, SQL-injection
-- https://www.synacktiv.com/sites/default/files/2022-10/SSH.NET_weak_private_key_generation_0.pdf, Weak-crypto
 - https://infosecwriteups.com/its-the-little-things-breaking-an-ai-40c30ae85f37, Path-traversal
 - https://checkmarx.com/blog/some-vulnerabilities-dont-have-a-name/, ReDoS
 - https://medium.com/@iknowhatodo/fall-account-takeover-via-amazon-cognito-misconfiguration-ba5975b06c24, IDOR
@@ -2359,7 +2358,6 @@
 - https://medium.com/techiepedia/the-tale-of-cve-2021-34479-vscode-xss-b336ba6cf3d6, XSS
 - https://www.oliviaohara.com/keybase, Information-disclosure
 - https://medium.com/manomano-tech/finding-zero-day-vulnerabilities-in-the-supply-chain-28afa43b0f6e, CSTI
-- https://starlabs.sg/blog/2021/11-diving-into-open-source-lms-ccodebases/, Insecure-file-upload
 - https://hector0x.medium.com/dos-attack-in-yahoo-how-i-was-able-to-deny-new-users-from-service-6b222e744e61, DoS
 - https://hector0x.medium.com/broken-authentication-through-referral-code-25cd0e8bccc2, Authentication-flaw
 - https://bahruz.me/publications/11847, HTTP-Request-Smuggling
@@ -2565,7 +2563,6 @@
 - https://caesarevan23.medium.com/ssrf-external-service-interaction-for-find-real-ip-cloudflare-and-leads-to-sql-injection-c22c02243299, WAF-bypass
 - https://medium.com/@hackrider/exploiting-devops-get-source-code-d4f5825eb373, Information-disclosure
 - https://infosecwriteups.com/how-did-i-earned-6000-from-tokens-and-scopes-in-one-day-12f95c6bf8aa, Authorization-flaw
-- https://chaosdb.wiz.io, Account-takeover
 - https://web.archive.org/web/20210920030213/https://pmoc.netsoc.cloud/oauth-idor-pii/, IDOR
 - https://medium.com/@friendly_/reflective-xss-via-search-box-bypassing-cloudflare-waf-841ed420b7f, Reflected-XSS
 - https://sunilyedla.medium.com/websocket-hijacking-to-steal-session-id-of-victim-users-bca84243830, Cross-Site-WebSocket-Hijacking
@@ -4228,7 +4225,6 @@
 - https://medium.com/@schopath/yeah-i-got-p2-in-1-minute-stored-xss-via-markdown-editor-7872dba3f158, Stored-XSS
 - https://gauravnarwani.com/injecting-6200-to-1200/, SSTI
 - https://wwws.nightwatchcybersecurity.com/2019/07/02/another-download-protection-bypass-in-google-chrome-bin-files-in-mac-os/, Browser-hacking
-- https://cyberzombie.in/stored-xss-on-indeed/, Stored-XSS
 - https://medium.com/@kanchansinghyadav/one-more-parameter-manipulation-bug-7fa0551a6021, Parameter-tampering
 - https://web.archive.org/web/20200928092650/https://pwnsec.ninja/2019/06/28/facebook-bugbounty-short-story-on-page-admin-disclosure/, Authorization-flaw
 - https://medium.com/@reegun/nuget-squirrel-uncontrolled-endpoints-leads-to-arbitrary-code-execution-80c9df51cf12, RCE
@@ -4873,7 +4869,6 @@
 - https://medium.com/ymedialabs-innovation/an-aws-managed-policy-that-allowed-granting-root-admin-access-to-any-role-51b409ea7ff0, Authorization-flaw
 - https://medium.com/@renwa/self-xss-csrf-to-stored-xss-54f9f423a7f1, Self-XSS
 - https://sites.google.com/site/testsitehacking/-36k-google-app-engine-rce, RCE
-- https://medium.com/@aayushpokhrel/how-i-got-100-from-one-private-website-3c62c27f6b5d, Information-disclosure
 - https://medium.com/@aayushpokhrel/how-i-hacked-admin-account-via-password-reset-idor-of-one-private-currency-exchanger-site-51723c7c8704, IDOR
 - https://blog.securitybreached.org/2018/05/18/get-subscription-of-120-year-for-free-bug-bounty-poc, Payment-bypass
 - https://medium.com/@pratheesh.p.narayanan/whatsapp-dos-vulnerability-on-android-ios-web-7628077d21d4, DoS
