@@ -6,3 +6,4 @@
 - https://web.archive.org/web/20191217020747/https://medium.com/@tech96bot/oneplus-open-unvalidated-redirects-forwards-234185215f33
 - https://www.secjuice.com/google-hall-of-fame/
 - https://medium.com/@vflexo/full-account-takeover-via-open-redirection-41c167db46
+- https://medium.com/@tarek.tix/how-i-got-200-with-an-out-of-the-box-open-redirect-vulnerability-809e91270

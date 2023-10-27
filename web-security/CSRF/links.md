@@ -15,3 +15,4 @@
 - https://fortbridge.co.uk/research/csrf-vulnerability-in-nodejs-ecosystem/
 - https://medium.com/@androgaming1912/how-i-found-password-bypass-vulnerability-on-private-document-at-scribd-com-c0905e8dcc9a
 - https://ash-king.co.uk/blog/Launching-internal-non-exported-deeplinks-on-Facebook
+- https://yeraisci.com/tokopedia-site-wide-csrf-through-graphql-request

@@ -21,3 +21,4 @@
 - https://rashahacks.com/how-i-pwned-10-admin-panels-and-rewarded-8000/
 - https://medium.com/@mateusz.olejarka/finding-hidden-gems-vol-2-reamde-md-the-story-of-a-bit-too-helpful-readme-file-12d6bb51e77f
 - https://medium.com/@aayushpokhrel/how-i-got-100-from-one-private-website-3c62c27f6b5d
+- https://tomforb.es/i-scanned-every-package-on-pypi-and-found-57-live-aws-keys/

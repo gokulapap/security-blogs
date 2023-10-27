@@ -995,7 +995,6 @@
 - https://crypt0g30rgy.github.io/post/PaymentBypassOne, Payment-bypass
 - https://medium.com/@sandro.einfeldt/advanced-csrf-exploitation-via-xss-4cd00c895ba, CSRF
 - https://medium.com/@LogicalHunter/identity-aware-proxy-misconfiguration-google-cloud-vulnerability-813d2a07a4ed, CORS-misconfiguration
-- https://tomforb.es/i-scanned-every-package-on-pypi-and-found-57-live-aws-keys/, Information-disclosure
 - https://3sjay.github.io/2023/01/06/pandoraFMS-Pre-Auth-RCE.html, RCE
 - https://yaseenzubair.medium.com/blind-xss-in-email-field-1000-bounty-b19b25a23236, Blind-XSS
 - https://blog.abdulrah33m.com/prototype-pollution-in-python/, Prototype-pollution
@@ -1519,7 +1518,6 @@
 - https://joshuaarulsamy.medium.com/my-hall-of-fame-at-united-nations-success-story-97675232aed7, XSS
 - https://xcellerator.github.io/posts/tetsuji/, RCE
 - https://infosecwriteups.com/break-the-logic-5-different-perspectives-in-single-page-1500-5aa09da0fe7a, Client-side-enforcement-of-server-side-security
-- https://pulsesecurity.co.nz/advisories/aspnetboilerplate-jwt, Authentication-flaw
 - https://ssd-disclosure.com/ssd-advisory-vhdmpivalidatevirtualdisksurface-lpe/, Local-Privilege-Escalation
 - https://blog.nietaanraken.nl/posts/github-pages-command-injection/, RCE
 - https://dphoeniixx.medium.com/chaining-telegram-bugs-to-steal-session-related-files-c90eac4749bd, Arbitrary-file-read
@@ -2744,7 +2742,6 @@
 - https://ian.sh/airflow, Session-management-issue
 - https://medium.com/tenable-techblog/stealing-tokens-emails-files-and-more-in-microsoft-teams-through-malicious-tabs-a7e5ff07b138, postMessage
 - https://shahjerry33.medium.com/blind-command-injection-it-hurts-9f396c1f63f2, Command-injection
-- https://hosein-vita.medium.com/an-exciting-journey-to-find-ssrf-bypass-cloudflare-and-extract-aws-metadata-fdb8be0b5f79, SSRF
 - https://otmastimi.medium.com/users-location-diclosure-in-the-nearby-friends-feature-fabd24be05cb, Information-disclosure
 - https://0x01alka.medium.com/google-vrp-privilege-escalation-on-https-dialogflow-cloud-google-com-599af6c4516d, Authorization-flaw
 - https://kaif0x01.medium.com/story-of-account-takeover-using-social-login-with-mass-assignment-vulnerability-to-hack-accounts-21e4d5856f5e, Mass-assignment
@@ -3546,7 +3543,6 @@
 - https://thehackerish.com/bug-bounty-write-up-from-ssrf-to-4000/, SSRF
 - https://fadhilthomas.github.io/post/bug-bounty-tokopedia-03/, IDOR
 - https://medium.com/@ifediri/breaking-business-logic-via-coupons-the-story-of-my-1st-valid-bug-bounty-89c30ff214dc, Payment-tampering
-- https://medium.com/@tarek.tix/how-i-got-200-with-an-out-of-the-box-open-redirect-vulnerability-809e91270, Open-redirect
 - https://vj0shii.github.io/improper-bakend-checks-food-order-site/, Payment-tampering
 - https://ysamm.com/?p=479, Information-disclosure
 - https://infosecwriteups.com/story-of-a-2-5k-bounty-ssrf-on-zimbra-led-to-dump-all-credentials-in-clear-text-6fe826005ccc, SSRF
@@ -4199,7 +4195,6 @@
 - https://medium.com/a-bugz-life/the-bugs-are-out-there-hiding-in-plain-sight-12d056613ea3, IDOR
 - https://sysrant.com/500-bounty-man-in-the-middle-on-slack/, MiTM
 - https://medium.com/@0x01devansh/facebook-bug-sending-messages-as-a-page-with-jobmanager-permission-763dc0d8e32c, Authorization-flaw
-- https://yeraisci.com/tokopedia-site-wide-csrf-through-graphql-request, CSRF
 - https://thezerohack.com/hack-any-instagram, Race-condition
 - https://samcurry.net/cracking-my-windshield-and-earning-10000-on-the-tesla-bug-bounty-program/, Blind-XSS
 - https://medium.com/@sansyrox/hacking-tinders-premium-model-43f9f699d44, Authorization-flaw

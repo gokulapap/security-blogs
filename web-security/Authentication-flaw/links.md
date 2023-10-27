@@ -1,0 +1,1 @@
+- https://pulsesecurity.co.nz/advisories/aspnetboilerplate-jwt
