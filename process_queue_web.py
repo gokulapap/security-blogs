@@ -17,6 +17,7 @@ def send_slack_alert(webhook_url, message):
 def main():
     telegram_token = sys.argv[1]
     chat_id = sys.argv[2]
+    chat_ids = ['1214546863','1309362123', '1338786380', '1551270031', '5733169306', '1452475940', '5589889222', '803127855', '1048207326', '766621469']
     slack_webhook_url = sys.argv[3]
 
     # Read queue.md file
@@ -60,7 +61,11 @@ def main():
     if processed_lines:
         bot = telebot.TeleBot(telegram_token)
         message = '📙 Blogs you need to read Today 📙\n\n✅ ' + '\n\n✅ '.join(processed_lines)
-        bot.send_message(chat_id, message)
+        for sid in chat_ids:
+            try:
+                bot.send_message(sid, message)
+            except:
+                print("[-] Error for ", sid, "\n")
         # Alert via Slack webhook
         message_slack = '📙 Blogs you need to read Today 📙\n\n✅ ' + '\n\n✅ '.join(processed_lines)
         send_slack_alert(slack_webhook_url, message_slack)
