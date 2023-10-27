@@ -5,3 +5,4 @@
 - https://smaranchand.com.np/2022/10/taking-over-the-medium-subdomain-using-medium/
 - https://telegra.ph/API-DOCS-takeover-on-Readmeio-03-19
 - https://publish.whoisbinit.me/subdomain-takeover-on-api-techprep-fb-com-through-aws-elastic-beanstalk
+- https://medium.com/@interc3pt3r/my-first-bounty-and-how-i-got-it-a6dba459c652

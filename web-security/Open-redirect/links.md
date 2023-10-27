@@ -5,3 +5,4 @@
 - https://nassimchami.medium.com/1st-bug-bounty-writeup-open-redirect-to-xss-on-login-page-313221da2879
 - https://web.archive.org/web/20191217020747/https://medium.com/@tech96bot/oneplus-open-unvalidated-redirects-forwards-234185215f33
 - https://www.secjuice.com/google-hall-of-fame/
+- https://medium.com/@vflexo/full-account-takeover-via-open-redirection-41c167db46

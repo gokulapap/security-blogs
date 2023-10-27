@@ -14,3 +14,4 @@
 - https://medium.com/bugbountywriteup/csrf-attack-can-lead-to-stored-xss-f40ba91f1e4f
 - https://fortbridge.co.uk/research/csrf-vulnerability-in-nodejs-ecosystem/
 - https://medium.com/@androgaming1912/how-i-found-password-bypass-vulnerability-on-private-document-at-scribd-com-c0905e8dcc9a
+- https://ash-king.co.uk/blog/Launching-internal-non-exported-deeplinks-on-Facebook

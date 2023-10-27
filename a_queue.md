@@ -1929,7 +1929,6 @@
 - https://palisade.consulting/blog/rarible-vulnerability, XSS
 - https://systemweakness.com/stored-xss-to-other-users-via-messages-e033239821b5, Stored-XSS
 - https://medium.com/pentesternepal/sql-injection-in-harvards-subdomain-c3148f8be156, SQL-injection
-- https://medium.com/@vflexo/full-account-takeover-via-open-redirection-41c167db46, Open-redirect
 - https://blog.viettelcybersecurity.com/searching-against-the-flow/, Information-disclosure
 - https://medium.com/@hacxyk/how-we-spoofed-ens-domains-52acea2079f6, Homograph-attack
 - https://bloggerrando.blogspot.com/2022/04/15-1.html, Broken-Access-Control
@@ -2124,7 +2123,6 @@
 - https://www.zerodayinitiative.com/blog/2022/2/14/static-taint-analysis-using-binary-ninja-a-case-study-of-mysql-cluster-vulnerabilities, Memory-corruption
 - https://www.iot-inspector.com/blog/advisory-western-digital-my-cloud-pro-series-pr4100-rce/, RCE
 - https://ozguralp.medium.com/bigquery-sql-injection-cheat-sheet-65ad70e11eac, SQL-injection
-- https://medium.com/@interc3pt3r/my-first-bounty-and-how-i-got-it-a6dba459c652, Subdomain-takeover
 - https://infosecwriteups.com/hacking-aws-cognito-misconfiguration-to-zero-click-account-takeover-36a209a0bd8a, AWS-misconfiguration
 - https://amakki.me/how-i-made-15k-from-remote-code-execution-vulnerability-2e1b14b3902a, Code-injection
 - https://infosecwriteups.com/a-tale-of-0-click-account-takeover-and-2fa-bypass-b369cd70e42f, Account-takeover
@@ -3071,7 +3069,6 @@
 - https://santoshdbobade.medium.com/how-i-got-an-appreciation-letter-from-harvard-university-a3d19de69701, Subdomain-takeover
 - https://enfinlay.github.io//xss/selfxss/upload/bugbounty/2021/02/09/selfxss-to-rxss-via-file-name.html, Self-XSS
 - https://medium.com/@alex.birsan/dependency-confusion-4a5d60fec610, Dependency-confusion
-- https://huntingreads.com/abusing-uri-parsers-for-fun-and-profit/, URL-validation-bypass
 - https://shahjerry33.medium.com/duplicate-registration-the-twinning-twins-883dfee59eaf, Account-takeover
 - https://infosecwriteups.com/bigbasket-bug-bounty-writeup-9fedc490b814, Insecure-data-storage
 - https://thevillagehacker.medium.com/reflected-xss-on-a-public-program-e8c0416daca1, Reflected-XSS
@@ -3096,7 +3093,6 @@
 - https://medium.com/bugbountywriteup/how-i-chained-p4-to-p2-open-redirection-to-full-account-takeover-a28b09a94bf7, Open-redirect
 - https://web.archive.org/web/20210201180254/https://www.cysek.org/post/bac-sxss, Stored-XSS
 - https://0xfabiof.github.io/stored-xss-tw/, Stored-XSS
-- https://ash-king.co.uk/blog/Launching-internal-non-exported-deeplinks-on-Facebook, CSRF
 - https://www.shawarkhan.com/2021/01/analysing-crash-messages-to-achieve.html, OS-command-injection
 - https://yeuchimse.com/remote-code-execution-limesurvey-cve-2018-7556/, RCE
 - https://logicbomb.medium.com/otp-bypass-account-takeover-to-admin-panel-ft-header-injection-16f2982a0136, OTP-bypass
@@ -5116,7 +5112,6 @@
 - https://medium.com/@arbazhussain/self-xss-to-good-xss-clickjacking-6db43b44777e, XSS
 - https://www.seekurity.com/blog/general/business-logic-vulnerabilities-series-a-brief-on-abusing-invitation-systems/, Logic-flaw
 - https://medium.com/@ciph3r7r0ll/that-escalated-quickly-from-partial-csrf-to-reflected-xss-to-complete-csrf-to-stored-xss-6ba8103069c2, CSRF
-- https://medium.com/@arbazhussain/xss-using-dynamically-generated-js-file-a7a10d05ff08, XSS
 - https://medium.com/@arbazhussain/exploiting-misconfigured-cors-on-popular-btc-site-2aedfff906f6, CORS-misconfiguration
 - https://medium.com/@arbazhussain/stealing-access-token-of-one-drive-integration-by-chaining-csrf-vulnerability-779f999624a7, OAuth
 - https://medium.com/@arbazhussain/idor-while-connecting-social-account-in-hackster-io-2296b316b7a7, IDOR

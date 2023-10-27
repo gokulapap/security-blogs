@@ -24,3 +24,4 @@
 - https://infosecwriteups.com/discovery-of-an-xss-on-opera-f029f6522ec5
 - https://medium.com/bugbountywriteup/xss-bypass-using-meta-tag-in-realestate-postnl-nl-32db25db7308
 - https://medium.com/@agrawalsmart7/cookie-based-injection-xss-making-exploitable-with-out-exploiting-other-vulns-81132ca01d67
+- https://medium.com/@arbazhussain/xss-using-dynamically-generated-js-file-a7a10d05ff08

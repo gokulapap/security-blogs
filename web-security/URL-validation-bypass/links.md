@@ -1,1 +1,2 @@
 - https://ndevtk.github.io/writeups/2023/06/11/googlesource/
+- https://huntingreads.com/abusing-uri-parsers-for-fun-and-profit/
