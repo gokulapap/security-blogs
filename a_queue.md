@@ -1743,7 +1743,6 @@
 - https://medium.com/@TheKomodoconsulting/the-army-of-the-headless-browsers-11aad3f7ee81, DDoS
 - https://medium.com/@erik.wynter/pwning-manageengine-from-poc-to-exploit-cfe5adb8c175, Path-traversal
 - https://blog.sonarsource.com/zimbra-pre-auth-rce-via-unrar-0day/, Path-traversal
-- https://codewhitesec.blogspot.com/2022/06/bypassing-dotnet-serialization-binders.html, Insecure-deserialization
 - https://unit42.paloaltonetworks.com/fabricscape-cve-2022-30137/, Container-escape
 - https://medium.com/pentesternepal/access-control-worth-2000-everyone-missed-this-idor-access-control-between-two-admins-9745eaf15d21, IDOR
 - https://www.rapid7.com/blog/post/2022/06/28/cve-2021-3779-ruby-mysql-gem-client-file-read-fixed/, Client-File-Read
@@ -1765,7 +1764,6 @@
 - https://medium.com/maverislabs/lock-screen-bypass-exploit-of-android-devices-cve-2022-20006-604958fcee3a, Authentication-bypass
 - https://bishopfox.com/blog/filestack-upload-advisory, XSS
 - https://palant.info/2020/06/22/exploiting-bitdefender-antivirus-rce-from-any-website/, RCE
-- https://www.volkis.com.au/blog/we-were-vulnerable/, Broken-Access-Control
 - https://medium.com/@tobydavenn/1500-of-broken-access-controls-503d8a5f56f5, Broken-Access-Control
 - https://lonewolf-raj.medium.com/exploiting-vulnerabilities-in-ios-application-cf5718910c47, IDOR
 - https://portswigger.net/research/widespread-prototype-pollution-gadgets, Prototype-pollution
@@ -2913,7 +2911,6 @@
 - https://0xra.github.io/posts/apple-tv-code-execution/, RCE
 - https://mikey96.medium.com/cloud-based-storage-misconfigurations-critical-bounties-361647f78a29, Cloud-storage-misconfiguration
 - https://infosecwriteups.com/weird-and-very-easy-authentication-bypass-found-with-google-dorking-c13230a038ed, Authentication-bypass
-- https://huntr.dev/blog/intro-to-open-source-bug-bounty/, Path-traversal
 - https://robertchen.cc/blog/2021/04/03/github-pages-xss, XSS
 - https://www.sjoerdlangkemper.nl/2021/04/04/remote-code-execution-through-unsafe-unserialize/, Insecure-deserialization
 - https://bendtheory.medium.com/journeys-in-quoteless-and-multi-reflection-xss-b1d67bb0c5dd, XSS
@@ -3474,7 +3471,6 @@
 - http://blog.redxorblue.com/2020/07/one-click-to-compromise-fun-with.html, NTLMv2-hash-disclosure
 - https://www.tomanthony.co.uk/blog/zoom-security-exploit-crack-private-meeting-passwords/, CSRF
 - https://medium.com/@mudassirsharief58/the-noob-way-of-taking-over-accounts-81aee783c064, Authorization-flaw
-- https://sa1tama0.medium.com/xss-rce-html-file-upload-in-same-endpoint-4a03348445f4, XSS
 - https://medium.com/bugbountywriteup/my-first-bug-bounty-21d3203ffdb0, Information-disclosure
 - https://www.ehpus.com/post/authorization-bypass-in-google-s-ticketing-system, Authorization-flaw
 - https://hunter-55.medium.com/introduction-fae7c8b3d16c, Exposed-registration-page
@@ -4336,7 +4332,6 @@
 - https://www.inputzero.io/2019/04/evernote-cve-2019-10038.html, RCE
 - https://medium.com/bugbountywriteup/banner-grabbing-to-dos-and-memory-corruption-2442b1c25bbb, DoS
 - https://medium.com/@mr_hacker/a-5000-idor-f4268fffcd2e, IDOR
-- https://medium.com/@D0rkerDevil/how-i-found-credential-enriched-redis-dump-2b9e808024c4, File-disclosure
 - https://medium.com/@ZishanAdThandar/just-5-minute-to-get-my-2nd-stored-xss-on-edmodo-com-fe2ee559e00d, Stored-XSS
 - https://medium.com/@valeriyshevchenko/how-i-hacked-vending-machine-5b5a80bd5ffe, Violation-of-secure-design-principles
 - https://medium.com/@daniel.marad/post-komodosec-google-groups-authorization-bypass-500-bounty-adb371d16ab6, Authorization-flaw

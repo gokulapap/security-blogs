@@ -25,3 +25,4 @@
 - https://medium.com/bugbountywriteup/xss-bypass-using-meta-tag-in-realestate-postnl-nl-32db25db7308
 - https://medium.com/@agrawalsmart7/cookie-based-injection-xss-making-exploitable-with-out-exploiting-other-vulns-81132ca01d67
 - https://medium.com/@arbazhussain/xss-using-dynamically-generated-js-file-a7a10d05ff08
+- https://sa1tama0.medium.com/xss-rce-html-file-upload-in-same-endpoint-4a03348445f4
