@@ -203,7 +203,6 @@
 - https://medium.com/@sagarsajeev/escalating-open-redirect-to-xss-d2b9355e5f05, open-redirection
 - https://medium.com/@dcube.merlin/basic-web-security-testing-apis-58f37e01a730, api
 - https://medium.com/@muhammedfarish007/how-i-found-a-csrf-vulnerability-on-a-bugcrowd-program-8dd7dbb5d091, csrf
-- https://medium.com/@sirleeroyjenkins/just-gopher-it-escalating-a-blind-ssrf-to-rce-for-15k-f5329a974530, ssrf
 - https://medium.com/@pyrrhon/how-i-was-able-to-take-over-one-of-dells-subdomains-7e06b8516e41, STO
 - https://medium.com/@gpiechnik/afrog-explained-for-bug-hunters-ed1497d5aaf5, automation
 - https://medium.com/@who1am1i999/how-i-found-reflected-xss-in-users-login-page-on-public-program-f2c9f6580ed7, XSS
@@ -1834,7 +1833,6 @@
 - https://medium.com/@vaibhavatkale/weird-email-verification-bypass-96c793c36d7e, Email-verification-bypass
 - https://corben.io/blog/a-simple-sql-injection-in-an-air-force-website, SQL-injection
 - https://hoyahaxa.blogspot.com/2022/05/bygone-vulnerabilities-remote-code.html, XSS
-- https://appcheck-ng.com/dnn-cms-server-side-request-forgery-cve-2021-40186, SSRF
 - https://hogarth45.medium.com/social-media-take-over-easy-money-aa6274b4b70d, Broken-link-hijacking
 - https://infosecwriteups.com/how-an-open-redirection-leads-to-an-account-takeover-73ea883055d1, Open-redirect
 - https://mc0wn.blogspot.com/2022/05/2nd-rce-and-xss-in-apache-struts-before-2530.html, RCE
@@ -3066,7 +3064,6 @@
 - https://shahjerry33.medium.com/duplicate-registration-the-twinning-twins-883dfee59eaf, Account-takeover
 - https://infosecwriteups.com/bigbasket-bug-bounty-writeup-9fedc490b814, Insecure-data-storage
 - https://thevillagehacker.medium.com/reflected-xss-on-a-public-program-e8c0416daca1, Reflected-XSS
-- https://marxchryz.medium.com/how-i-gain-access-to-the-server-administration-of-a-million-dollar-company-14da68c7a9dd, Privilege-escalation
 - https://sanderwind.medium.com/escalating-ssrf-to-rce-7c0147371c40, SSRF
 - http://almadj.us/infosec/xxe-to-aws-metadata-disclosure/, XXE
 - https://medium.com/@renwa/facebook-messenger-desktop-app-arbitrary-file-read-db2374550f6d, Arbitrary-file-read
@@ -3110,7 +3107,6 @@
 - https://medium.com/realmodelabs/kindledrip-from-your-kindles-email-address-to-using-your-credit-card-bb93dbfb2a08, RCE
 - https://systemweakness.com/story-behind-sweet-ssrf-40c705f13053, SSRF
 - https://r4id3n.medium.com/ssrf-exploitation-in-spreedsheet-to-pdf-converter-2c7eacdac781, SSRF
-- https://medium.com/bugbountywriteup/bug-bounty-600-info-disclosure-a-token-is-not-the-same-on-all-endpoints-febf5b7ea745, Information-disclosure
 - https://inakcf.medium.com/open-redirect-in-email-c658c248eec1, Open-redirect
 - https://sunilyedla.medium.com/simple-sweet-bypassing-email-update-restriction-to-change-emails-of-team-members-6ce5770e7929, Logic-flaw
 - https://bugs.xdavidhu.me/google/2021/01/18/the-embedded-youtube-player-told-me-what-you-were-watching-and-more/, Information-disclosure
@@ -4361,7 +4357,6 @@
 - https://medium.com/tenable-techblog/filezilla-untrusted-search-path-bc3a7b3ae51e, RCE
 - https://medium.com/@rajsek/how-i-was-able-to-get-your-facebook-private-friend-list-responsible-disclosure-91984606e682, Information-disclosure
 - https://medium.com/@pratyush1337/edm0d0-idor-vulnerabilities-95ca8600ee1c, IDOR
-- https://blog.redforce.io/sql-injection-in-insert-update-query-without-comma/, SQL-injection
 - https://cryptograph3r.blogspot.com/2021/02/recon-in-2-minutes-and-got-250-easy.html, Missing-secure-flag
 - https://gauravnarwani.com/a-tale-of-3-xss/, XSS
 - https://medium.com/h4x00r/my-very-first-bug-a-dreaded-dupe-and-then-an-idor-jackpot-d01b69f6fbae, IDOR

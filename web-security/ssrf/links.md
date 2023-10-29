@@ -1,1 +1,2 @@
 - https://medium.com/@notifybugme/escalating-ssrf-to-accessing-all-user-pii-information-by-aws-metadata-aabcfd5a3e0e
+- https://medium.com/@sirleeroyjenkins/just-gopher-it-escalating-a-blind-ssrf-to-rce-for-15k-f5329a974530

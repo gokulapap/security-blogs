@@ -22,3 +22,4 @@
 - https://medium.com/@mateusz.olejarka/finding-hidden-gems-vol-2-reamde-md-the-story-of-a-bit-too-helpful-readme-file-12d6bb51e77f
 - https://medium.com/@aayushpokhrel/how-i-got-100-from-one-private-website-3c62c27f6b5d
 - https://tomforb.es/i-scanned-every-package-on-pypi-and-found-57-live-aws-keys/
+- https://medium.com/bugbountywriteup/bug-bounty-600-info-disclosure-a-token-is-not-the-same-on-all-endpoints-febf5b7ea745

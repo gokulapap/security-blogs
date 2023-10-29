@@ -18,3 +18,4 @@
 - https://web.archive.org/web/20220315080229/https://medium.com/@raymond-lind/ssrf-lfi-in-uploads-feature-321d83b93ec0
 - https://vedanttekale20.medium.com/story-of-a-really-cool-ssrf-bug-cf88a3800efc
 - https://hosein-vita.medium.com/an-exciting-journey-to-find-ssrf-bypass-cloudflare-and-extract-aws-metadata-fdb8be0b5f79
+- https://appcheck-ng.com/dnn-cms-server-side-request-forgery-cve-2021-40186
