@@ -1293,7 +1293,6 @@
 - https://kuldeep.io/posts/second-order-xxe-exploitation/, XXE
 - https://www.mdsec.co.uk/2022/10/microsoft-office-online-server-remote-code-execution/, SSRF
 - https://medium.com/@sas.kunz/scan-qr-code-and-got-hacked-cve-2021-43530-uxss-on-firefox-android-version-768b24b326fb, Universal-XSS
-- https://medium.com/@kandar.souvik6/found-vulnaribility-on-subdomain-of-nasa-gov-simply-using-censys-d93f253ff560, Exposed-registration-page
 - https://boschko.ca/tenda_ac1200_router/, OS-command-injection
 - https://blog.blacklanternsecurity.com/p/yet-another-telerik-ui-revisit, Cryptographic-issues
 - https://blog.doyensec.com/2022/10/18/cloudsectidbit-dataimport.html, Cloud
@@ -2416,7 +2415,6 @@
 - https://www.gosecure.net/blog/2021/10/19/a-scientific-notation-bug-in-mysql-left-aws-waf-clients-vulnerable-to-sql-injection/, SQL-injection
 - https://web.archive.org/web/20221128060608/https://wya.pl/2021/10/18/shells-and-soap-websphere-deserialization-to-rce/, RCE
 - https://irsl.medium.com/the-speckle-umbrella-story-part-2-fcc0193614ea, Information-disclosure
-- https://fortbridge.co.uk/research/independently-secure-together-not-so-much-a-story-of-2-wp-plugins/, RCE
 - https://infosecwriteups.com/how-i-escalated-a-time-based-sql-injection-to-rce-bbf0d68cb398, SQL-injection
 - https://shahjerry33.medium.com/business-logic-errors-a-logic-destruction-477c4ebc824b, Logic-flaw
 - https://muhammad-aamir.medium.com/exploitation-of-files-download-parameters-to-create-potential-risk-of-malware-delivery-200-bug-e2bcce0e737, CSRF
@@ -3068,7 +3066,6 @@
 - http://almadj.us/infosec/xxe-to-aws-metadata-disclosure/, XXE
 - https://medium.com/@renwa/facebook-messenger-desktop-app-arbitrary-file-read-db2374550f6d, Arbitrary-file-read
 - https://medium.com/bugbountywriteup/page-admin-disclosed-in-groups-due-to-bad-session-handling-in-facebook-web-184514fafff9, Information-disclosure
-- https://www.redtimmy.com/bug-bounty-failure-stories-to-learn-from-how-we-ended-up-to-hack-a-bank-with-no-reward/, DoS
 - https://muhammad-aamir.medium.com/open-redirect-vulnerability-found-using-link-parameter-5fc43e2ea8fd, Open-redirect
 - https://raxis.com/blog/rd-web-access-vulnerability, Timing-attack
 - https://pullerjsecu.medium.com/how-i-was-able-to-turn-a-xss-into-a-account-takeover-ae0c478640e7, Web-cache-poisoning
@@ -3648,7 +3645,6 @@
 - https://andrei-abakumov.medium.com/how-dangerous-is-request-splitting-a-vulnerability-in-golang-or-how-we-found-the-rce-in-portainer-7339ba24c871, HTTP-request-splitting
 - https://medium.com/@pallabjyoti218/story-about-otp-bypass-to-stored-xss-81bfd735c709, OTP-bypass
 - http://hack4bounty.com/how-source-code-reading-helped-me-find-an-idor/, IDOR
-- https://medium.com/@talatmehmood1995/my-first-bug-bounty-2-factor-authentication-bypass-b034812c8243, OTP-bypass
 - https://medium.com/@ciph3r7r0ll/parsing-the-dom-elements-of-other-pages-via-xss-bug-bounty-story-46d517e6711d, XSS
 - https://www.ezequiel.tech/2020/05/rce-in-cloud-dm.html, SSRF
 - https://medium.com/@yaala/bypassing-message-request-inbox-cf54f859dd25, Authorization-flaw
@@ -4945,7 +4941,6 @@
 - https://medium.com/bugbountywriteup/how-i-gained-access-to-sonys-database-f3ba08d0e035, Path-traversal
 - https://medium.com/bugbountywriteup/sql-injection-with-load-file-and-into-outfile-c62f7d92c4e2, SQL-injection
 - https://blog.securitybreached.org/2018/02/05/how-i-found-idor-on-twitters-acquisition-mopub-com/, IDOR
-- https://medium.com/@kankrale.rahul/facebook-mailto-injection-leads-to-social-engineering-spam-attack-68b08e36764a, Mailto-injection
 - https://medium.com/bugbountywriteup/bugbounty-i-dont-need-your-current-password-to-login-into-your-account-how-could-i-e51a945b083d, Authentication-bypass
 - https://codeburst.io/hunting-insecure-direct-object-reference-vulnerabilities-for-fun-and-profit-part-1-f338c6a52782, IDOR
 - https://blog.securitybreached.org/2018/02/02/how-i-was-able-to-bypass-xss-protection-on-hackerones-private-program/, XSS
