@@ -23,3 +23,4 @@
 - https://medium.com/@aayushpokhrel/how-i-got-100-from-one-private-website-3c62c27f6b5d
 - https://tomforb.es/i-scanned-every-package-on-pypi-and-found-57-live-aws-keys/
 - https://medium.com/bugbountywriteup/bug-bounty-600-info-disclosure-a-token-is-not-the-same-on-all-endpoints-febf5b7ea745
+- https://blog.evanricafort.com/2019/07/business-logic-plex-tv.html

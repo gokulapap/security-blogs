@@ -26,3 +26,5 @@
 - https://medium.com/@agrawalsmart7/cookie-based-injection-xss-making-exploitable-with-out-exploiting-other-vulns-81132ca01d67
 - https://medium.com/@arbazhussain/xss-using-dynamically-generated-js-file-a7a10d05ff08
 - https://sa1tama0.medium.com/xss-rce-html-file-upload-in-same-endpoint-4a03348445f4
+- https://web.archive.org/web/20210824230504/https://medium.com/@yusifceferov_/how-i-bypassed-website-using-akamai-waf-e4e907aeb161
+- https://medium.com/bugbountywriteup/cache-poisoning-with-xss-a-peculiar-case-eb5973850814

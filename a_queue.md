@@ -2572,7 +2572,6 @@
 - https://web.archive.org/web/20210909040725/https://obsrva.org/2021/08/22/monkeytype-disclosure.html, Stored-XSS
 - https://aswinthambi.blogspot.com/2021/08/recon-for-bug-bounty.html, AWS-misconfiguration
 - https://monish-basaniwal.medium.com/how-i-found-my-first-subdomain-takeover-vulnerability-b7d5c17b61fd, Subdomain-takeover
-- https://infosecwriteups.com/how-i-got-rce-in-the-world-largest-russian-company-8e6e8288bc4e, RCE
 - https://www.yesnaveen.com/whatsapp-number-disclosure, Information-disclosure
 - https://tuhin1729.medium.com/account-takeover-via-access-token-leakage-687276953408, IDOR
 - https://zemnmez.medium.com/how-to-hack-apple-id-f3cc9b483a41, XSS
@@ -2623,7 +2622,6 @@
 - https://web.archive.org/web/20220303093431/https://securitygoat.medium.com/bug-bounty-stories-1-tale-of-csp-bypass-in-an-electron-app-f669f6ecefc9, CSP-bypass
 - https://medium.com/@mumeido/from-hobby-to-hacking-5d8befb3adde, Unrestricted-file-upload
 - https://gonzx.medium.com/how-i-escalate-my-self-stored-xss-to-account-takeover-with-the-help-of-idor-f20733ecdbe9, Self-XSS
-- https://web.archive.org/web/20210824230504/https://medium.com/@yusifceferov_/how-i-bypassed-website-using-akamai-waf-e4e907aeb161, XSS
 - https://medium.com/@muhammadsholikhin/facebook-vulnerability-expose-group-member-3000-cca809a53f6b, IDOR
 - https://blog.niksthehacker.com/xxe-in-public-transport-ticketing-mobile-app-81ae245c01a1, XXE
 - https://medium.com/@vikramroot/account-takeover-via-stored-xss-b774f7a2a3ab, Stored-XSS
@@ -3433,7 +3431,6 @@
 - https://observationsinsecurity.com/2020/08/09/bypassing-403-to-get-access-to-an-admin-console-endpoints/, Authentication-bypass
 - https://mazinahmed.net/blog/hacking-zoom/, Information-disclosure
 - https://blog.dixitaditya.com/bypassing-google-maps-api-key-restrictions/, Logic-flaw
-- https://medium.com/bugbountywriteup/cache-poisoning-with-xss-a-peculiar-case-eb5973850814, XSS
 - https://medium.com/bugbountywriteup/reflected-xss-in-facebooks-mirror-websites-4384b4eb3e11, Reflected-XSS
 - https://medium.com/@zseano/the-feature-works-as-intended-but-whats-in-the-source-d29f9401bcf6, Information-disclosure
 - https://blog.dixitaditya.com/exploiting-jwt-lack-of-signature-verification, Account-takeover
@@ -4160,7 +4157,6 @@
 - https://web.archive.org/web/20201008153910/https://medium.com/@adeshkolte/full-account-takeover-changing-email-and-password-of-any-user-through-api-parameters-3d527ab27240, IDOR
 - https://apapedulimu.click/price-parameter-tampering-on-bukalapak/, Parameter-tampering
 - https://medium.com/@innocenthacker/how-i-found-the-most-critical-bug-in-live-bug-bounty-event-7a88b3aa97b3, Password-reset
-- https://blog.evanricafort.com/2019/07/business-logic-plex-tv.html, Information-disclosure
 - https://medium.com/@baibhavanandjha/xx-to-xxx-in-one-day-9578858b6286, Account-takeover
 - https://blog.parthmalhotra.com/pwning-child-company-to-get-access-to-parentcompanys-slack-team/, SQL-injection
 - https://blog.evanricafort.com/2019/07/html-injection-in-clause-email.html, HTML-injection
@@ -4877,7 +4873,6 @@
 - https://medium.com/@YoKoKho/idor-at-private-bug-bounty-program-that-could-leads-to-personal-data-leaks-d2536d026bf5, IDOR
 - http://firstsight.me/2018/04/idor-at-private-bug-bounty-program-that-could-leads-to-personal-data-leaks/, IDOR
 - https://medium.com/@vis_hacker/how-i-got-stored-xss-using-file-upload-5c33e19df51e, Stored-XSS
-- https://medium.com/@YumiSec/from-an-error-message-to-db-diclosure-1af879c74474, Hardcoded-credentials
 - https://medium.com/bugbountywriteup/bypassing-captcha-like-a-boss-d0edcc3a1c1, Captcha-bypass
 - https://sites.google.com/site/testsitehacking/-5k-service-dependencies, Logic-flaw
 - https://medium.com/bugbountywriteup/securitybreach-how-i-was-able-to-book-hotel-room-for-1-50-9b35f18e49e8, CORS-misconfiguration

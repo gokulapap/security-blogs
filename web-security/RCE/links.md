@@ -25,3 +25,4 @@
 - https://medium.com/@yousefamery/emotional-rollercoaster-a-unique-case-study-of-bypassing-antivirus-and-firewall-by-abusing-2b36d8f6553c
 - https://blog.zsec.uk/rce-starwars/
 - https://fortbridge.co.uk/research/independently-secure-together-not-so-much-a-story-of-2-wp-plugins/
+- https://infosecwriteups.com/how-i-got-rce-in-the-world-largest-russian-company-8e6e8288bc4e

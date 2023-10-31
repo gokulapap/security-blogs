@@ -1,1 +1,2 @@
 - https://www.modzero.com/modlog/archives/2022/12/19/better_make_sure_your_password_manager_is_secure/index.html
+- https://medium.com/@YumiSec/from-an-error-message-to-db-diclosure-1af879c74474
