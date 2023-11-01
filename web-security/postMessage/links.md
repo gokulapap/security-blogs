@@ -1,1 +1,2 @@
 - https://kindergartner.computerhacker.ring0.lol
+- https://jub0bs.com/posts/2023-05-05-smorgasbord-of-a-bug-chain/

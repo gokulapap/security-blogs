@@ -19,3 +19,4 @@
 - https://vedanttekale20.medium.com/story-of-a-really-cool-ssrf-bug-cf88a3800efc
 - https://hosein-vita.medium.com/an-exciting-journey-to-find-ssrf-bypass-cloudflare-and-extract-aws-metadata-fdb8be0b5f79
 - https://appcheck-ng.com/dnn-cms-server-side-request-forgery-cve-2021-40186
+- https://tomcope.com/exploit/2020/10/21/ibm-datapower-exploit-cve-2020-5014.html

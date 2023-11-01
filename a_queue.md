@@ -108,7 +108,6 @@
 - https://medium.com/@tommasobona04/building-an-xss-scanner-with-python-detecting-cross-site-scripting-vulnerabilities-by-tommaso-69d4c9e04d72, automation
 - https://medium.com/@nynan/bug-bounty-wordlists-please-do-them-properly-2110babcf482, misc
 - https://medium.com/@vickieli/all-about-idor-attacks-64c4203b518e, IDOR
-- https://medium.com/@grumpinout/solving-intigritis-november-xss-challenge-with-the-javascript-console-dde7253117dd, CTF
 - https://medium.com/@deepamkumar510/remote-code-execution-rce-through-file-upload-functionality-1809bd504805, RCE
 - https://medium.com/@nynan/what-i-learnt-from-reading-217-subdomain-takeover-bug-reports-c0b94eda4366, STO
 - https://medium.com/@proviesec/a-swag-for-a-open-redirect-google-dork-bug-bounty-2143b943f34e, open-redirection
@@ -531,7 +530,6 @@
 - https://infosecwriteups.com/mass-assignment-leads-to-the-victims-account-being-inaccessible-forever-52e48c6a8a4d, Mass-assignment
 - https://www.pentestpartners.com/security-blog/bullied-by-bugcrowd-over-kape-cyberghost-disclosure/, Local-Privilege-Escalation
 - https://blog.ankursundara.com/cookie-bugs/, Cookie-smuggling
-- https://jub0bs.com/posts/2023-05-05-smorgasbord-of-a-bug-chain/, postMessage
 - https://ermetic.com/blog/azure/when-good-apis-go-bad-uncovering-3-azure-api-management-vulnerabilities/, SSRF
 - https://blog.stratumsecurity.com/2023/05/04/integration-fails/, Privilege-escalation
 - https://checkmarx.com/blog/openai-allowed-unlimited-credit-on-new-accounts/, Logic-flaw
@@ -1523,7 +1521,6 @@
 - https://jfrog.com/blog/crashing-industrial-control-systems-at-pwn2own-miami-2022/, DoS
 - https://medium.com/@bobbyrsec/gifshell-covert-attack-chain-and-c2-utilizing-microsoft-teams-gifs-1618c4e64ed7, Phishing
 - https://pierrekim.github.io/blog/2022-08-24-2-byte-dos-freebsd-netbsd-telnetd-netkit-telnetd-inetutils-telnetd-kerberos-telnetd.html, DoS
-- https://canmustdie.medium.com/break-the-logic-insecure-parameters-300-e655cc4fcc42, Parameter-manipulation
 - https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/oracle-sbc-multiple-security-vulnerabilities-leading-to-unauthorized-access-and-denial-of-service/, IDOR
 - https://blog.sonarsource.com/securing-developer-tools-argument-injection-in-vscode/, Argument-injection
 - https://redrays.io/cve-2020-2733-jd-edwards/, Information-disclosure
@@ -3286,7 +3283,6 @@
 - https://medium.com/bugbountywriteup/accidental-observation-to-critical-idor-d4d910a855bf, IDOR
 - https://labs.f-secure.com/blog/samsung-s20-rce-via-samsung-galaxy-store-app/, RCE
 - https://medium.com/@seaman00o/300-p3-easy-bug-in-30-seconds-de65ea3d8f50, Missing-authentication
-- https://tomcope.com/exploit/2020/10/21/ibm-datapower-exploit-cve-2020-5014.html, SSRF
 - https://servicenger.com/blog/mobile/perform-substring-search-for-emails-even-if-workplace-admin-hides-email-profile-field/, Authorization-flaw
 - https://servicenger.com/blog/mobile/facebook-page-admin-disclosure/, Information-disclosure
 - https://devcraft.io/2020/10/20/github-pages-multiple-rces-via-kramdown-config.html, RCE
@@ -5265,7 +5261,6 @@
 - https://thezerohack.com/hacking-facebook-pages, Authorization-flaw
 - https://ahussam.me/One-payload-to-xss-them/, Flash-XSS
 - https://ahussam.me/Blind-sqli-Hootsuite/, Blind-SQL-injection
-- https://whitton.io/articles/bypassing-google-authentication-on-periscopes-admin-panel/, Authentication-bypass
 - https://josipfranjkovic.blogspot.com/2015/07/the-easiest-bug-bounties-i-have-ever-won.html, IDOR
 - https://web.archive.org/web/20200313201545/http://www.anandpraka.sh/2015/06/how-i-hacked-zomatocom-to-see-data-of.html, IDOR
 - https://blog.darabi.me/2015/03/facebook-bypass-ads-account-roles.html, Authorization-flaw
