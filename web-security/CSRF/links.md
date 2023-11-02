@@ -16,3 +16,4 @@
 - https://medium.com/@androgaming1912/how-i-found-password-bypass-vulnerability-on-private-document-at-scribd-com-c0905e8dcc9a
 - https://ash-king.co.uk/blog/Launching-internal-non-exported-deeplinks-on-Facebook
 - https://yeraisci.com/tokopedia-site-wide-csrf-through-graphql-request
+- https://bloggerrando.blogspot.com/2022/08/17-1.html

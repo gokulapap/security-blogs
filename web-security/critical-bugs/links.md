@@ -1,0 +1,1 @@
+- https://medium.com/@thefemaleprogrammer/coinbase-has-paid-out-250-000-for-finding-a-critical-bug-to-a-researcher-d69459ab4198

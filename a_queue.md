@@ -247,7 +247,6 @@
 - https://medium.com/@whitedevil4276/otp-bypass-through-burpsuite-in-maruti-nexa-test-drive-e9d82db656b8, bypass
 - https://medium.com/@haythamkarouata/bug-bounty-hunting-101-js-files-diving-4b1753fefb3d, source-code-review
 - https://medium.com/@jonathanbouman/stored-xss-in-paytium-3-0-13-wordpress-plugin-3157ee37eb8f, XSS
-- https://medium.com/@thefemaleprogrammer/coinbase-has-paid-out-250-000-for-finding-a-critical-bug-to-a-researcher-d69459ab4198, critical-bugs
 - https://medium.com/@ms-official5878/xss-through-file-upload-f3f4e55616ad, XSS
 - https://medium.com/@apkash8/hunting-and-exploiting-apache-ghostcat-b7446ef83e74, CVE
 - https://medium.com/@secureica/tricking-the-frontend-and-the-backend-http-request-smuggling-81adc9a61181, request-smuggling
@@ -571,7 +570,6 @@
 - https://medium.com/@mmaulanaabdullah/how-careless-default-credentials-impact-to-massive-account-takeover-be6bfc85119a, Authentication-bypass
 - https://blog.ryotak.net/post/github-actions-staff-access-token-en/, CICD
 - https://www.anvilsecure.com/blog/compromising-garmins-sport-watches-a-deep-dive-into-garminos-and-its-monkeyc-virtual-machine.html, IoT
-- https://www.synack.com/blog/permission-problem-salesforce-javascript-remoting-token/, Salesforce
 - https://sensepost.com/blog/2023/from-bitlocker-suspended-to-virtual-machine/, Internal-pentest
 - https://infosecwriteups.com/xs-leak-deanonymize-microsoft-skype-users-by-any-3rd-party-website-69849e4501a8, XSLeaks
 - https://jhftss.github.io/CVE-2023-23525-Get-Root-via-A-Fake-Installer/, Local-Privilege-Escalation
@@ -1549,7 +1547,6 @@
 - https://thinkloveshare.com/hacking/rce_on_spip_and_root_me_v2/, RCE
 - https://medium.com/@Dhamuharker/monitoring-linux-host-metrics-with-the-node-exporter-information-disclosure-350-bab3baa75bdc, Information-disclosure
 - https://medium.com/@tobydavenn/dom-xss-on-a-gov-domain-bypassing-waf-93daec67fda9, DOM-XSS
-- https://bloggerrando.blogspot.com/2022/08/17-1.html, CSRF
 - https://medium.com/@ashlyn.lau_17206/2fa-bypass-do-re-mi-cfcfc3775d2e, MFA-bypass
 - https://doyensec.com/resources/Doyensec_Advisory_SmokescreenGoProxy_Q12022.pdf, DoS
 - https://accessvector.net/2022/freebsd-aio-lpe, Memory-corruption
@@ -2913,7 +2910,6 @@
 - https://infosecwriteups.com/bragging-rights-lets-head-back-to-bug-bucket-88c94730b6fa, XSS
 - https://security.lauritz-holtmann.de/post/xss-parameter-guessing/, XSS
 - https://sriram-offcl.medium.com/play-a-game-get-subscribed-to-my-channel-youtube-clickjacking-bug-googlevrp-6ce1d15542d3, Clickjacking
-- https://googleprojectzero.blogspot.com/2021/04/who-contains-containers.html, Local-Privilege-Escalation
 - https://ysamm.com/?p=654, Account-takeover
 - https://ysamm.com/?p=646, Account-takeover
 - https://mikko-kenttala.medium.com/zero-click-vulnerability-in-apples-macos-mail-59e0c14b106c, Account-takeover
@@ -4383,7 +4379,6 @@
 - http://www.tomanthony.co.uk/blog/facebook-bug-confirm-user-identities/, Information-disclosure
 - https://www.smeegesec.com/2019/03/auditing-github-repo-wikis-for-fun-and.html, Misconfigured-Github-wiki
 - https://medium.com/@valakeyur/xss-in-edmodo-within-5-minute-my-first-bug-bounty-889e3da6167d, Reflected-XSS
-- http://obsidianterminal.blogspot.com/2019/03/a-simple-account-takeover-misusing-jwt.html, Authorization-flaw
 - https://staaldraad.github.io/post/2019-03-02-universal-rce-ruby-yaml-load/, Insecure-deserialization
 - https://licenciaparahackear.github.io/en/posts/bypassing-a-restrictive-js-sandbox/, JS-sandbox-breakout
 - https://medium.com/@pumudu88/yet-another-unexpected-hack-for-bounty-295cee0ecc24, Information-disclosure

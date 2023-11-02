@@ -6,3 +6,4 @@
 - https://ysamm.com/?p=620
 - https://ysamm.com/?p=597
 - https://medium.com/@modam3r5/unauthenticated-user-can-upload-an-attachment-at-hackerone-aff2a0c573b8
+- http://obsidianterminal.blogspot.com/2019/03/a-simple-account-takeover-misusing-jwt.html

@@ -1,0 +1,1 @@
+- https://www.synack.com/blog/permission-problem-salesforce-javascript-remoting-token/
