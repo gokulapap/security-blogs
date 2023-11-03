@@ -19,3 +19,4 @@
 - https://medium.com/@mr.vrushabh/discovery-of-cve-2022-35406-303f4bca2742
 - https://medium.com/@mrmax4o4/story-of-youtubes-unfixable-ads-bypass-b3bb7016c14e
 - https://orthonviper.medium.com/exploiting-max-character-limitation-cde982545019
+- http://www.tomanthony.co.uk/blog/confirm-google-users-email/

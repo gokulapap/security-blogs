@@ -24,3 +24,5 @@
 - https://tomforb.es/i-scanned-every-package-on-pypi-and-found-57-live-aws-keys/
 - https://medium.com/bugbountywriteup/bug-bounty-600-info-disclosure-a-token-is-not-the-same-on-all-endpoints-febf5b7ea745
 - https://blog.evanricafort.com/2019/07/business-logic-plex-tv.html
+- https://blog.assetnote.io/2022/01/23/solarwinds-webhelpdesk-hsql-eval-harcoded-creds/
+- https://medium.com/bug-bounty-hunting/tale-of-2-tootb-bugs-google-and-whatsapp-3c0ad40d604c

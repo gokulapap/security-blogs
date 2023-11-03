@@ -76,7 +76,6 @@
 - https://medium.com/@hunter-55/how-i-was-able-to-bypass-open-redirect-3-times-on-same-program-d78f9d2443f6, open-redirection
 - https://medium.com/@gtm0x01/two-factor-authentication-bypass-on-facebook-3f4ac3ea139c, bypass
 - https://medium.com/@ibm_ptc_security/exploiting-missing-hsts-54f8e23ed80b, misc
-- https://medium.com/@m.m.n.c.marasinghe04/nikto-a-practical-website-vulnerability-scanner-b2005f496a7b, automation
 - https://medium.com/@manavbankatwala29/unique-rate-limit-bypass-worth-1800-6e2947c7d972, bypass
 - https://medium.com/@sathvika03/reset-the-password-for-vulnerability-b0805f7adf9c, reset-password
 - https://medium.com/@dewangpanchal98/zero-day-xss-309916922ea6, XSS
@@ -1630,7 +1629,6 @@
 - https://ssd-disclosure.com/ssd-advisory-apple-safari-idn-url-spoofing/, URL-spoofing
 - https://medium.com/@xpertwhitehat/reflected-cross-site-scripting-on-user-agent-dependent-response-b44258a3d978, Reflected-XSS
 - https://medium.com/tinder/exploiting-github-actions-on-open-source-projects-5d93936d189f, RCE
-- https://ndevtk.github.io/writeups/2022/07/26/google-xss/, XSS
 - https://shahjerry33.medium.com/http-parameter-pollution-its-contaminated-again-95c75b0295e1, HTTP-parameter-pollution
 - https://www.synacktiv.com/publications/cve-2022-31813-forwarding-addresses-is-hard.html, Host-header-injection
 - https://www.sonarsource.com/blog/disclosing-information-with-a-side-channel-in-django/, Side-channel-attack
@@ -2179,7 +2177,6 @@
 - https://aidilarf.medium.com/first-valid-bug-finding-at-microsoft-and-i-got-the-acknowledgments-page-microsoft-a2c185c53074, XSS
 - https://www.zerodayinitiative.com/blog/2022/1/25/cve-2021-44790-code-execution-on-apache-via-an-integer-underflow, Memory-corruption
 - https://medium.com/@david_colombo/how-i-got-access-to-25-teslas-around-the-world-by-accident-and-curiosity-8b9ef040a028, Default-credentials
-- https://blog.assetnote.io/2022/01/23/solarwinds-webhelpdesk-hsql-eval-harcoded-creds/, Information-disclosure
 - https://kuldeep.io/posts/path-traversal-paradise/, Path-traversal
 - https://infosecwriteups.com/how-i-was-able-to-find-multiple-vulnerabilities-of-a-symfony-web-framework-web-application-2b82cd5de144, Debug-mode-enabled
 - https://coffeejunkie.me//120-Days-Of-Frequent-Hacking/, SSRF
@@ -3109,7 +3106,6 @@
 - https://blog.blazeinfosec.com/attack-of-the-clones-2-git-command-client-remote-code-execution-strikes-back/, RCE
 - https://slashcrypto.org/2021/01/15/CVE-2020-1456/, XSS
 - https://theshubh77.medium.com/irremovable-facebook-group-album-photos-and-entire-album-under-certain-circumstances-bounty-1000-b1b2a870b8e0, Logic-flaw
-- https://medium.com/bug-bounty-hunting/tale-of-2-tootb-bugs-google-and-whatsapp-3c0ad40d604c, Information-disclosure
 - https://web.archive.org/web/20210730144815/https://www.cysek.org/post/sxss-by-cache-poison-attack, Web-cache-poisoning
 - https://pulsesecurity.co.nz/advisories/GOCD-Multiple-Vulnerabilities, RCE
 - https://srcincite.io/blog/2021/01/12/making-clouds-rain-rce-in-office-365.html, RCE
@@ -5060,7 +5056,6 @@
 - https://medium.com/@armaanpathan/idor-was-leading-to-privilege-escalation-and-violating-the-facebook-policy-355c67c654e6, IDOR
 - https://medium.com/securityescape/getting-access-to-25k-employees-details-c085d18b73f0, Exposed-registration-page
 - https://sites.google.com/site/testsitehacking/10k-host-header, Authorization-flaw
-- http://www.tomanthony.co.uk/blog/confirm-google-users-email/, Logic-flaw
 - https://bugbaba.blogspot.com/2017/08/xss-because-of-wrong-content-type-header.html, XSS
 - https://www.seekurity.com/blog/general/business-logic-vulnerabilities-series-how-i-became-invisible-and-immune-to-blocking-on-instagram/, Logic-flaw
 - https://medium.com/@valeriyshevchenko/massive-information-disclosure-of-1500-famous-people-b1b950fa657, Information-disclosure
