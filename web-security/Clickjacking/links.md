@@ -1,2 +1,3 @@
 - https://medium.com/@raushanraj_65039/google-clickjacking-6a04132b918a
 - https://medium.com/@ameerassadi/binary-com-clickjacking-vulnerability-exploiting-html5-security-features-368c1ff2219d
+- https://www.seekurity.com/blog/general/telegram-web-client-clickjacking-vulnerability/

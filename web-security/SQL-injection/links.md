@@ -5,3 +5,4 @@
 - https://systemweakness.com/sql-injection-to-remote-command-execution-rce-dd9a75292d1d
 - https://medium.com/@calfcrusher/fuzzing-for-hidden-params-671724bf3fd7
 - https://blog.redforce.io/sql-injection-in-insert-update-query-without-comma/
+- https://medium.com/@tomnomnom/making-a-blind-sql-injection-a-little-less-blind-428dcb614ba8

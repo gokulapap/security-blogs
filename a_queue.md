@@ -997,7 +997,6 @@
 - https://samcurry.net/web-hackers-vs-the-auto-industry/, Account-takeover
 - https://acut3.github.io/bug-bounty/2023/01/03/fetch-diversion.html, DOM-XSS
 - https://medium.com/@sid0krypt/vue-js-reflected-xss-fae04c9872d2, Reflected-XSS
-- https://medium.com/@adhaamsayed3/access-to-page-with-default-credentials-that-require-authenticate-e59cebf0bced, Default-credentials
 - https://trufflesecurity.com/blog/of-cors/index.html, CORS-misconfiguration
 - https://servicenger.com/mobile/instagram-vulnerability-turn-off-message-requests-deeplink/, Insecure-deeplink
 - https://kailashbohara.com.np/blog/2023/01/02/exploiting-thousands-of-domains-for-XSS/, XSS
@@ -2256,7 +2255,6 @@
 - https://www.wiz.io/blog/azure-app-service-source-code-leak, Security-misconfiguration
 - https://medium.com/@yoshimlutfi/how-i-found-p2-broken-authentication-with-zero-skill-of-hacking-c40b5643fe4a, Authentication-bypass
 - https://ssd-disclosure.com/ssd-advisory-rocket-chat-client-side-remote-code-execution/, RCE
-- https://medium.com/@mohamedtaha_42562/how-i-earned-by-bypassing-2fa-b5487942a86d, MFA-bypass
 - https://web.archive.org/web/20220128200941/https://saeeds.medium.com/blackbox-cookie-testing-how-i-cracked-the-admins-cookie-c817dd4281c8, Authentication-bypass
 - https://parsiya.net/blog/2021-12-20-rce-in-visual-studio-codes-remote-wsl-for-fun-and-negative-profit/, RCE
 - https://amakki.me/stored-xss-by-bypassing-signature-61ebd83ece6, XSS
@@ -4493,7 +4491,6 @@
 - https://blog.compass-security.com/2018/12/xss-worm-a-creative-use-of-web-application-vulnerability/, XSS
 - https://medium.com/@tnirmalz/facebook-bugbounty-disclosing-page-members-1178595cc520, Information-disclosure
 - https://www.tnirmal.com.np/2018/12/facebook-bugbounty-disclosing.html, Information-disclosure
-- https://medium.com/@hritik.3hs/exploiting-two-endpoints-to-get-account-takeover-651813d0a33b, Authorization-flaw
 - https://medium.com/@mustafakhan_89646/asuss-admin-panel-auth-bypass-af5062584ddf, Authentication-bypass
 - https://blog.ripstech.com/2018/wordpress-post-type-privilege-escalation/, Privilege-escalation
 - https://medium.com/bugbountywriteup/subdomain-takeover-new-level-43f88b55e0b2, Subdomain-takeover
@@ -4745,7 +4742,6 @@
 - https://medium.freecodecamp.org/hacking-imgur-for-fun-and-profit-3b2ec30c9463, Outdated-component-with-a-known-vulnerability
 - https://medium.com/@0xHyde/yahoo-two-xssi-vulnerabilities-chained-to-steal-user-information-750-bounty-e9bc6a41a40a, XSSI
 - https://www.youtube.com/watch?v=0oKHov6y6mw, Stored-XSS
-- https://medium.com/@tomnomnom/making-a-blind-sql-injection-a-little-less-blind-428dcb614ba8, SQL-injection
 - https://medium.com/@codingkarma/how-i-found-xss-on-amazon-f62b50f1c336, XSS
 - https://medium.com/@d0nut/exfiltration-via-css-injection-4e999f63097d, CSS-injection
 - https://mahmoudsec.blogspot.com/2018/07/sql-injection-and-silly-waf.html, SQL-injection
@@ -5217,7 +5213,6 @@
 - https://thehackerblog.com/poisoning-the-well-compromising-godaddy-customer-support-with-blind-xss/index.html, Blind-XSS
 - https://www.seekurity.com/blog/general/facebook-movies-recommendation-bug/, Logic-flaw
 - https://www.seekurity.com/blog/general/whatsapp-clickjacking-vulnerability-yet-another-web-client-failure, Clickjacking
-- https://www.seekurity.com/blog/general/telegram-web-client-clickjacking-vulnerability/, Clickjacking
 - https://www.seekurity.com/blog/write-ups/facebook-clickjacking-how-we-put-a-new-dress-on-facebook-ui/, Clickjacking
 - https://buer.haus/2016/04/18/esea-server-side-request-forgery-and-querying-aws-meta-data/, SSRF
 - https://buer.haus/2016/04/18/yahoo-login-protection-seal-stored-css-injection/, CSS-injection
