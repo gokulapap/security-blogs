@@ -2172,7 +2172,6 @@
 - https://infosecwriteups.com/how-i-could-have-read-your-confidential-bug-reports-by-simple-mail-cfd2e4f8e25c, Information-disclosure
 - https://www.ryanpickren.com/safari-uxss, Universal-XSS
 - https://medium.com/@moSec/how-i-hacked-thousand-of-subdomains-6aa43b92282c, Subdomain-takeover
-- https://infosecwriteups.com/how-i-was-able-to-takeover-accounts-in-websites-deal-with-github-as-a-sso-provider-294290358e0c, Bruteforce
 - https://aidilarf.medium.com/first-valid-bug-finding-at-microsoft-and-i-got-the-acknowledgments-page-microsoft-a2c185c53074, XSS
 - https://www.zerodayinitiative.com/blog/2022/1/25/cve-2021-44790-code-execution-on-apache-via-an-integer-underflow, Memory-corruption
 - https://medium.com/@david_colombo/how-i-got-access-to-25-teslas-around-the-world-by-accident-and-curiosity-8b9ef040a028, Default-credentials
@@ -2444,7 +2443,6 @@
 - https://ysamm.com/?p=729, Account-takeover
 - https://dewcode.medium.com/force-browsing-bug-at-facebook-business-plan-500-bounty-73d1bb4883af, Authorization-flaw
 - https://habr.com/en/post/580582/, Privacy-issue
-- https://blog.s1r1us.ninja/research/PP, Prototype-pollution
 - https://medium.com/@bobbyrsec/zero-day-hijacking-icloud-credentials-with-apple-airtags-stored-xss-6997da43a216, Stored-XSS
 - https://deepsurface.com/deepsurface-security-advisory-lpe-in-firefox-on-windows/, Local-Privilege-Escalation
 - https://medium.com/@dheerajkmadhukar/bypass-of-biometrics-password-security-functionality-for-android-8e0174ac7cac, Authentication-bypass
@@ -2974,7 +2972,6 @@
 - https://www.rafaybaloch.com/2021/02/Microsoft-Edge-Browser-For-IOS-Address-Bar-Spoofing-Vulnerability.html, Address-Bar-Spoofing
 - https://lf.lc/vrp/181521559a/, Container-escape
 - https://notmarshmllow.medium.com/exploiting-cors-to-perform-an-idor-attack-leading-to-pii-information-disclosure-95ef21ecf8ee, CORS-misconfiguration
-- https://gevakun.medium.com/join-facebook-group-with-unpublish-page-cb649a20fb0e, Authorization-flaw
 - https://securifyinc.com/disclosures/rocketchat-unauthenticated-access-to-messages, Authorization-flaw
 - https://zonduu.medium.com/ssrf-to-fetch-aws-credentials-with-full-access-to-various-services-18cd08194e91, SSRF
 - https://www.bugcrowd.com/blog/big-bugs-cve-2020-28914/, RCE
@@ -3237,7 +3234,6 @@
 - https://www.cyberonesecurity.com/blog/local-privilege-escalation-vulnerability-discovered-in-vmware-fusion, Local-Privilege-Escalation
 - https://pulsesecurity.co.nz/advisories/Atlassian-ID-Username-Enumeration, Username-enumeration
 - https://nechudav.blogspot.com/2020/11/31k-ssrf-in-google-cloud-monitoring.html, SSRF
-- https://medium.com/techfenix/ssrf-server-side-request-forgery-worth-4913-my-highest-bounty-ever-7d733bb368cb, SSRF
 - https://medium.com/bugbountywriteup/chaining-password-reset-link-poisoning-idor-account-information-leakage-to-achieve-account-bb5e0e400745, HTTP-header-injection
 - https://blog.mozilla.org/attack-and-defense/2020/11/10/firefox-for-android-lan-based-intent-triggering/, Insecure-intent
 - https://servicenger.com/blog/mobile/facebook-ios-address-bar-spoofing/, Address-Bar-Spoofing
@@ -4566,7 +4562,6 @@
 - http://blog.h4rsh4d.com/2018/03/olx-reflected-xss-on-resend-code-link.html, Reflected-XSS
 - https://apapedulimu.click/clickjacking-on-google-myaccount-worth-7500/, Clickjacking
 - https://blog.zimperium.com/cve-2018-9539-use-free-vulnerability-privileged-android-service/, Memory-corruption
-- https://www.elttam.com/blog/ruby-deserialization/, Insecure-deserialization
 - https://medium.com/@rohitcoder/object-name-exposure-ing-bank-responsible-disclosure-program-1f8f808cc789, Information-disclosure
 - https://medium.com/bugbountywriteup/how-i-earned-5040-from-twitter-by-showing-a-way-to-harvest-other-users-ip-address-e9f43c931e9a, Information-disclosure
 - https://medium.com/@prial261/vine-users-private-information-disclosure-f1c55a3abbb6, IDOR

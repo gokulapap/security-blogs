@@ -20,3 +20,4 @@
 - https://hosein-vita.medium.com/an-exciting-journey-to-find-ssrf-bypass-cloudflare-and-extract-aws-metadata-fdb8be0b5f79
 - https://appcheck-ng.com/dnn-cms-server-side-request-forgery-cve-2021-40186
 - https://tomcope.com/exploit/2020/10/21/ibm-datapower-exploit-cve-2020-5014.html
+- https://medium.com/techfenix/ssrf-server-side-request-forgery-worth-4913-my-highest-bounty-ever-7d733bb368cb

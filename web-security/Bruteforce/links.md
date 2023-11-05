@@ -1,1 +1,2 @@
 - https://rashahacks.com/pwning-admin-panel-to-change-movie-ticket-prices-at-disney/
+- https://infosecwriteups.com/how-i-was-able-to-takeover-accounts-in-websites-deal-with-github-as-a-sso-provider-294290358e0c

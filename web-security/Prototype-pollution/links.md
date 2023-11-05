@@ -1,0 +1,1 @@
+- https://blog.s1r1us.ninja/research/PP
