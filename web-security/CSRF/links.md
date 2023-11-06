@@ -17,3 +17,4 @@
 - https://ash-king.co.uk/blog/Launching-internal-non-exported-deeplinks-on-Facebook
 - https://yeraisci.com/tokopedia-site-wide-csrf-through-graphql-request
 - https://bloggerrando.blogspot.com/2022/08/17-1.html
+- https://buer.haus/2015/02/03/flickr-api-explorer-force-users-to-execute-any-api-request/

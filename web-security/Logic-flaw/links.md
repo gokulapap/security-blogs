@@ -20,3 +20,4 @@
 - https://medium.com/@mrmax4o4/story-of-youtubes-unfixable-ads-bypass-b3bb7016c14e
 - https://orthonviper.medium.com/exploiting-max-character-limitation-cde982545019
 - http://www.tomanthony.co.uk/blog/confirm-google-users-email/
+- https://medium.com/@gaupaler/unintended-behaviour-of-domain-got-me-p4-d6af19b5dcdd

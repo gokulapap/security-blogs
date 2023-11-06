@@ -230,7 +230,6 @@
 - https://medium.com/@AhmedMhesham/easiest-way-to-get-subdomain-takeover-76f444c8ee6f, STO
 - https://medium.com/@nidhipanchal719/open-redirect-to-xss-in-united-nation-website-f4394aa6ed04, XSS
 - https://medium.com/@zaidanr/exploiting-exposed-git-directory-without-gittools-7d3764dd3af6, misconfig
-- https://medium.com/@mohammed199709/improper-access-control-403-forbidden-bypass-489393ea112e, bypass
 - https://medium.com/@nmblog2135/you-can-earn-more-than-1000-if-you-know-this-vulnerability-open-redirect-vulnerabilities-b9170e88adba, open-redirection
 - https://medium.com/@Rend_/sqli-next-level-5b1145b83c79, sql-injection
 - https://medium.com/@gandhim373/new-way-to-find-html-injection-get-easy-bounty-65fdd319d688, tricks
@@ -3065,7 +3064,6 @@
 - https://web.archive.org/web/20210201180254/https://www.cysek.org/post/bac-sxss, Stored-XSS
 - https://0xfabiof.github.io/stored-xss-tw/, Stored-XSS
 - https://www.shawarkhan.com/2021/01/analysing-crash-messages-to-achieve.html, OS-command-injection
-- https://yeuchimse.com/remote-code-execution-limesurvey-cve-2018-7556/, RCE
 - https://logicbomb.medium.com/otp-bypass-account-takeover-to-admin-panel-ft-header-injection-16f2982a0136, OTP-bypass
 - https://medium.com/bugbountywriteup/business-logic-error-methodology-easy-way-poc-s-8195d8dee95b, Logic-flaw
 - https://www.intezer.com/blog/research/how-we-escaped-docker-in-azure-functions/, Privilege-escalation
@@ -3347,7 +3345,6 @@
 - https://medium.com/bugbountywriteup/how-i-hacked-redbus-an-online-bus-ticketing-application-24ef5bb083cd, LFI
 - https://blog.orange.tw/2020/09/how-i-hacked-facebook-again-mobileiron-mdm-rce.html, RCE
 - https://alesandroortiz.com/articles/uxss-android-webview-cve-2020-6506/, Universal-XSS
-- https://medium.com/@gaupaler/unintended-behaviour-of-domain-got-me-p4-d6af19b5dcdd, Logic-flaw
 - https://medium.com/infosec/how-often-do-we-overlook-vulnerabilities-960a7c45f59, Information-disclosure
 - https://www.ehpus.com/post/xss-fix-bypass-10000-bounty-in-google-maps, XSS
 - https://blog.dixitaditya.com/from-android-app-to-rce/, RCE
@@ -4066,7 +4063,6 @@
 - https://www.hackerinside.me/2019/09/xss-in-zoho-mail.html, XSS
 - https://medium.com/@osamaavvan/exploiting-jsonp-and-bypassing-referer-check-2d6e40dfa24, Information-disclosure
 - https://medium.com/@cc1h2e1/write-up-of-two-http-requests-smuggling-ff211656fe7d, HTTP-request-smuggling
-- https://medium.com/@hisokamorou12/finding-gem-in-someones-report-instant-500usd-at-hackerone-platform-9a1afa0df813, Information-disclosure
 - https://hateshape.github.io/general/2019/09/06/SuperGlamorousReconwithIntendedFunctionalities.html, SSTI
 - https://web.archive.org/web/20201222140349/https://www.mohamedharon.com/2019/09/dom-based-xss-in-private-program.html, DOM-XSS
 - https://medium.com/@0xankush/readme-com-account-takeover-bugbounty-fulldisclosure-a36ddbe915be, Password-reset
@@ -5248,7 +5244,6 @@
 - https://blog.darabi.me/2015/04/bypass-facebook-csrf.html, CSRF
 - https://blog.zimperium.com/telegram-hack/, Privacy-issue
 - https://buer.haus/2015/02/03/google-com-mobile-feedback-url-redirect-regexvalidation-flaw/, Open-redirect
-- https://buer.haus/2015/02/03/flickr-api-explorer-force-users-to-execute-any-api-request/, CSRF
 - https://buer.haus/2015/01/21/admin-google-com-reflected-cross-site-scripting-xss/, Reflected-XSS
 - https://buer.haus/2015/01/15/yahoo-root-access-sql-injection-tw-yahoo-com/, SQL-injection
 - https://blog.it-securityguard.com/bugbounty-papyal-xml-upload-cross-site-scripting-vulnerability, XSS
