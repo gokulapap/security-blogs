@@ -268,7 +268,6 @@
 - https://infosecwriteups.com/bypassing-email-verification-of-high-profile-tech-company-e592cc4a89ce, Email-verification-bypass
 - https://medium.com/@abhishek.karle92/access-of-android-protected-components-via-embedded-intent-android-app-pentesting-5618ae3cc9b2, Android
 - https://www.mcnulty.blog/posts/dap-csrf, CSRF
-- https://medium.com/@mohammed0x04/how-i-found-two-api-vulnerabilities-using-website-source-code-6c4b0dc54d6f, IDOR
 - https://securitylabs.datadoghq.com/articles/exploring-github-to-aws-keyless-authentication-flaws/, OpenID-Connect
 - https://blog.doyensec.com/2023/07/26/huawei-theme-arbitrary-code-exec.html, Arbitrary-Code-Execution
 - https://blog.sicuranext.com/aws-waf-bypass/, WAF-bypass
@@ -1618,7 +1617,6 @@
 - https://y0ungdst.medium.com/my-second-cve-cve-2022-31855-6c071c4fb9d9, OS-command-injection
 - https://blog.electrovolt.io/posts/discord-rce/, RCE
 - https://sagarsajeev.medium.com/business-logic-vulnerabilities-b4db2af08aaf, Logic-flaw
-- https://derekabdine.com/blog/2022-arris-advisory, Path-traversal
 - https://mearegtu.medium.com/reading-message-from-microsofts-private-yammer-group-6be844639bca, Authorization-flaw
 - https://www.oxeye.io/blog/golang-parameter-smuggling-attack, HTTP-Parameter-Smuggling
 - https://swarm.ptsecurity.com/researching-open-source-apps-for-xss-to-rce-flaws/, XSS
@@ -2477,7 +2475,6 @@
 - https://iamsaugat.medium.com/a-facebook-bug-that-exposes-email-phone-number-to-your-friends-a980d24e5ea8, Information-disclosure
 - https://asterfiester.medium.com/how-i-was-able-to-send-sms-from-google-to-anyone-google-vulnerability-3277ea0cc9d1, Content-spoofing
 - https://s3c.medium.com/how-i-hacked-world-wide-tiktok-users-24e794d310d2, IDOR
-- https://www.y-security.de/news-en/microsoft-azure-portal-persistent-cross-site-scripting/index.html, Stored-XSS
 - https://www.wiz.io/blog/omigod-critical-vulnerabilities-in-omi-azure, Local-Privilege-Escalation
 - https://infosecwriteups.com/10-golden-minutes-for-taking-over-a-chess-com-account-56e73f7c5f0d, Lack-of-rate-limiting
 - https://labs.detectify.com/2021/09/13/hacking-cloudkit-how-i-accidentally-deleted-your-apple-shortcuts/, Logic-flaw
@@ -3234,7 +3231,6 @@
 - https://nechudav.blogspot.com/2020/11/31k-ssrf-in-google-cloud-monitoring.html, SSRF
 - https://medium.com/bugbountywriteup/chaining-password-reset-link-poisoning-idor-account-information-leakage-to-achieve-account-bb5e0e400745, HTTP-header-injection
 - https://blog.mozilla.org/attack-and-defense/2020/11/10/firefox-for-android-lan-based-intent-triggering/, Insecure-intent
-- https://servicenger.com/blog/mobile/facebook-ios-address-bar-spoofing/, Address-Bar-Spoofing
 - https://medium.com/realmodelabs/silver-peak-unity-orchestrator-rce-2928d65ef749, RCE
 - https://galnagli.com/DoD_IDOR/, IDOR
 - https://blog.blazeinfosec.com/attack-of-the-clones-github-desktop-remote-code-execution/, RCE
@@ -4097,7 +4093,6 @@
 - https://web.archive.org/web/20200722032242/https://kntx.xyz/Bypassing-Nickname-Feature/, Logic-flaw
 - https://medium.com/@04sabsas/bugbounty-writeup-take-attention-and-get-stored-xss-495dd6eab07e, Stored-XSS
 - https://gauravnarwani.com/how-i-xssed-admin-account/, Stored-XSS
-- https://github.com/sneakerhax/Posts/blob/2454456529ddeedb17237b4e9678f7d58d0ffdca/posts/Amazon_1_click_device_XSS.md, XSS
 - https://websecblog.com/vulns/clickjacking-xss-on-google-org/, Clickjacking
 - https://blog.evanricafort.com/2019/08/application-level-denial-of-service-dos.html, Application-level-DoS
 - https://medium.com/@valeriyshevchenko/two-easy-rce-in-atlassian-products-e8480eacdc7f, Credential-stuffing

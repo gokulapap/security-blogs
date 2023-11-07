@@ -28,3 +28,4 @@
 - https://medium.com/@grahamzemel/p1-bug-bounties-what-is-an-idor-and-how-does-idor-63fc72c371c8
 - https://techkranti.com/delete-idor-on-a-fashion-ecommerce-website/
 - https://www.inputzero.io/2020/03/idor-in-vlc-ios.html
+- https://medium.com/@mohammed0x04/how-i-found-two-api-vulnerabilities-using-website-source-code-6c4b0dc54d6f

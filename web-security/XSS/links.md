@@ -29,3 +29,4 @@
 - https://web.archive.org/web/20210824230504/https://medium.com/@yusifceferov_/how-i-bypassed-website-using-akamai-waf-e4e907aeb161
 - https://medium.com/bugbountywriteup/cache-poisoning-with-xss-a-peculiar-case-eb5973850814
 - https://ndevtk.github.io/writeups/2022/07/26/google-xss/
+- https://github.com/sneakerhax/Posts/blob/2454456529ddeedb17237b4e9678f7d58d0ffdca/posts/Amazon_1_click_device_XSS.md
