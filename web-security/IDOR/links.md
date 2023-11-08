@@ -29,3 +29,4 @@
 - https://techkranti.com/delete-idor-on-a-fashion-ecommerce-website/
 - https://www.inputzero.io/2020/03/idor-in-vlc-ios.html
 - https://medium.com/@mohammed0x04/how-i-found-two-api-vulnerabilities-using-website-source-code-6c4b0dc54d6f
+- https://codeburst.io/hunting-insecure-direct-object-reference-vulnerabilities-for-fun-and-profit-part-1-f338c6a52782

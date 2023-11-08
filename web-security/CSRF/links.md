@@ -18,3 +18,4 @@
 - https://yeraisci.com/tokopedia-site-wide-csrf-through-graphql-request
 - https://bloggerrando.blogspot.com/2022/08/17-1.html
 - https://buer.haus/2015/02/03/flickr-api-explorer-force-users-to-execute-any-api-request/
+- https://medium.com/bugbountywriteup/lets-bypass-csrf-protection-password-confirmation-to-takeover-victim-accounts-d-4a21297847ff

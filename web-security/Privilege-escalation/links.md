@@ -2,3 +2,4 @@
 - https://www.netspi.com/blog/technical/cloud-penetration-testing/azure-logic-app-contributor-escalation-to-root-owner/
 - https://www.paloaltonetworks.com/resources/whitepapers/kubernetes-privilege-escalation-excessive-permissions-in-popular-platforms
 - https://marxchryz.medium.com/how-i-gain-access-to-the-server-administration-of-a-million-dollar-company-14da68c7a9dd
+- https://hencohen10.medium.com/i-own-your-cloud-shell-taking-over-azure-cloud-shell-kubernetes-cluster-through-unsecured-558621519cf9

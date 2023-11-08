@@ -1185,7 +1185,6 @@
 - https://blog.compass-security.com/2022/11/relaying-to-ad-certificate-services-over-rpc/, Active-Directory
 - https://www.oxeye.io/blog/remote-code-execution-in-spotifys-backstage, RCE
 - https://portswigger.net/research/stealing-passwords-from-infosec-mastodon-without-bypassing-csp, HTML-injection
-- https://www.varonis.com/blog/zendesk-sql-injection-and-access-flaws, SQL-injection
 - https://blog.sonarsource.com/checkmk-rce-chain-1/, RCE
 - https://medium.com/@haroonhameed_76621/winning-qr-with-dom-based-xss-bug-bounty-poc-4b4048cf285d, DOM-XSS
 - https://saligrama.io/blog/post/firebase-insecure-by-default/, Hardcoded-API-keys
@@ -3013,7 +3012,6 @@
 - https://irsl.medium.com/dropping-a-shell-in-googles-cloud-sql-the-speckle-umbrella-story-f9375bd4960d, Configuration-file-injection
 - https://www.shielder.it/blog/2021/02/hunting-for-bugs-in-telegrams-animated-stickers-remote-attack-surface/, Memory-corruption
 - https://www.trendmicro.com/en_us/research/21/b/shareit-flaw-could-lead-to-remote-code-execution.html, Android
-- https://hencohen10.medium.com/i-own-your-cloud-shell-taking-over-azure-cloud-shell-kubernetes-cluster-through-unsecured-558621519cf9, Privilege-escalation
 - https://ysamm.com/?p=606, Authorization-flaw
 - https://mokhansec.medium.com/full-account-takeover-worth-1000-think-out-of-the-box-808f0bdd8ac7, Account-takeover
 - https://ysamm.com/?p=609, Authorization-flaw
@@ -3559,7 +3557,6 @@
 - https://medium.com/@pravinponnusamy/race-condition-vulnerability-found-in-bug-bounty-program-573260454c43, Race-condition
 - https://medium.com/@vishnu0002/account-takeover-via-otp-bruteforce-apigee-api-9b5481c642df, OTP-bypass
 - https://medium.com/@NinadMishra/dos-and-bugbounties-a-series-of-dos-attacks-on-hackerone-9c8316e192c9, DoS
-- https://medium.com/bugbountywriteup/lets-bypass-csrf-protection-password-confirmation-to-takeover-victim-accounts-d-4a21297847ff, CSRF
 - https://pandaonair.com/2020/06/11/race-conditions-exploring-the-possibilities.html, Race-condition
 - https://medium.com/@mudassirsharief58/hunt-for-sql-injection-the-smart-way-db85243a4e90, SQL-injection
 - https://medium.com/@__mr_beast__/the-frustrating-xss-33607894a071, XSS
@@ -3732,7 +3729,6 @@
 - https://payatu.com/blog/nikhil-mittal/executing-scripts-in-safari-reader-mode--to-csp-bypass, XSS
 - https://medium.com/@adnanmalikinfo110/i-want-that-cookie-8d2daab242ac, Logic-flaw
 - https://0xsha.io/posts/exploiting-magic-links-critical-bugs-are-one-line-away, Information-disclosure
-- https://medium.com/@nnez/1st-bug-bounty-write-up-open-redirect-vulnerability-on-login-page-5e0dd9a6eb69, Open-redirect
 - https://web.archive.org/web/20200511145923/https://medium.com/@godofdarkness.msf/account-takeover-flow-in-mail-ru-s-ext-a-domain-150-8952e8078211, Logic-flaw
 - https://supras.io/exploitation-of-the-cve-2018-15961-unrestricted-file-upload-in-adobe-coldfusion/, Unrestricted-file-upload
 - https://www.synacktiv.com/publications/pentesting-cisco-sd-wan-part-1-attacking-vmanage.html, Cypher-injection
@@ -4906,7 +4902,6 @@
 - https://medium.com/bugbountywriteup/sql-injection-with-load-file-and-into-outfile-c62f7d92c4e2, SQL-injection
 - https://blog.securitybreached.org/2018/02/05/how-i-found-idor-on-twitters-acquisition-mopub-com/, IDOR
 - https://medium.com/bugbountywriteup/bugbounty-i-dont-need-your-current-password-to-login-into-your-account-how-could-i-e51a945b083d, Authentication-bypass
-- https://codeburst.io/hunting-insecure-direct-object-reference-vulnerabilities-for-fun-and-profit-part-1-f338c6a52782, IDOR
 - https://blog.securitybreached.org/2018/02/02/how-i-was-able-to-bypass-xss-protection-on-hackerones-private-program/, XSS
 - http://omespino.com/facebook-bug-bounty-getting-access-to-prompt-debug-dialog-and-serialized-tool-on-main-website-facebook-com/, Information-disclosure
 - https://blog.securitybreached.org/2018/01/27/how-i-was-able-to-download-any-file-from-web-server/, XSS
