@@ -7,3 +7,4 @@
 - https://github.com/justinsteven/advisories/blob/main/2022_amazon_log4j-cve-2021-44228-hotpatch_local_privesc.md
 - https://hdwsec.fr/blog/20230622-netskope/
 - https://googleprojectzero.blogspot.com/2021/04/who-contains-containers.html
+- https://www.gosecure.net/blog/2021/11/22/gosecure-investigates-abusing-windows-server-update-services-wsus-to-enable-ntlm-relaying-attacks/

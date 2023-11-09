@@ -1,0 +1,1 @@
+- https://bishopfox.com/blog/microsoft-intune-version-1-55-48-0-advisory

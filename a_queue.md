@@ -622,7 +622,6 @@
 - https://vitorfalcao.com/posts/simple-bugs/overwritting-files/, Normalization
 - https://www.zerodayinitiative.com/blog/2023/4/5/bash-privileged-mode-vulnerabilities-in-parallels-desktop-and-cdpath-handling-in-macos, MacoS
 - https://canvatechblog.com/discovering-headroll-cve-2023-0704-in-chromium-2e7f66fc130c, SOP-bypass
-- https://bishopfox.com/blog/microsoft-intune-version-1-55-48-0-advisory, Unquoted-search-path
 - https://bishopfox.com/blog/windows-task-scheduler-19044-advisory, Unquoted-search-path
 - https://medium.com/@evan.connelly/post-account-takeover-account-takeover-of-internal-tesla-accounts-bc720603e67d, Account-takeover
 - https://www.n00py.io/2023/01/bypassing-amazon-kids-parental-controls/, Logic-flaw
@@ -708,7 +707,6 @@
 - https://infosecwriteups.com/account-takeover-an-epic-bug-bounty-story-dd5468d5773d, Account-takeover
 - https://noahblog.360.cn/cve-2022-36413-unauthorized-reset-password-of-zoho-manageengine-adselfservice-plus/, Password-reset
 - https://medium.com/@thelinuxboy/bugging-out-my-experience-of-earning-300-for-reporting-an-unexpected-bug-ec9f9b0054bc, Subdomain-takeover
-- https://medium.com/@oXnoOneXo/improper-authentication-in-android-app-aa855227e6f1, Logic-flaw
 - https://m7arm4n.medium.com/default-credentials-on-sony-swag-time-8e35681ad39e, Hardcoded-credentials
 - https://infosecwriteups.com/rxss-inside-href-attribute-bypassing-lots-of-weird-checks-to-takeover-accounts-b4c8b4e70877, Reflected-XSS
 - https://nav1n.medium.com/i-earned-3500-and-40-points-for-a-graphql-blind-sql-injection-vulnerability-5b7e428c477d, SQL-injection
@@ -1033,7 +1031,6 @@
 - https://web.archive.org/web/20221224215757/https://rashahacks.com/how-race-condition-helped-me-break-business-logic/, Race-condition
 - https://posts.specterops.io/passwordless-persistence-and-privilege-escalation-in-azure-98a01310be3f, Privilege-escalation
 - https://medium.com/@yaala/account-takeover-and-two-factor-authentication-bypass-de56ed41d7f9, Authentication-bypass
-- https://bugreader.com/social/write-ups-general-delete-any-video-or-reel-on-facebook-11-250--100965, IDOR
 - https://medium.com/@vamshivaran110/rce-on-admin-panel-of-web3-website-2d0acf34d6ea, RCE
 - https://www.shielder.com/advisories/cisco-broadworks-commpilot-ssrf/, SSRF
 - https://medium.com/@EX_097/my-first-bug-in-bugcrowd-76decc1f9901, Race-condition
@@ -2320,7 +2317,6 @@
 - https://zseano.medium.com/finding-xss-on-apple-com-and-building-a-proof-of-concept-to-leak-your-pii-information-d7bc93cff2df, XSS
 - https://r0.haxors.org/posts?id=26, SQL-injection
 - https://itsdeepceh.medium.com/a-business-logic-error-bug-worth-600-a0050720bfee, Payment-tampering
-- https://www.gosecure.net/blog/2021/11/22/gosecure-investigates-abusing-windows-server-update-services-wsus-to-enable-ntlm-relaying-attacks/, Local-Privilege-Escalation
 - https://lethanhphuc-pk.medium.com/bugbounty-xss-with-markdown-exploit-fix-on-opensource-1baecebe9645, XSS
 - https://cirius.medium.com/peeping-through-a-web-socket-936ed55a2c31, Cross-Site-Websocket-Hijacking
 - https://monish-basaniwal.medium.com/open-redirect-vulnerability-on-zapier-an-accidental-find-4cbbf029956c, Open-redirect
@@ -4417,7 +4413,6 @@
 - https://www.shawarkhan.com/2019/01/hijacking-accounts-by-retrieving-jwt.html, Open-redirect
 - https://medium.com/@pratheesh.p.narayanan/misconfiguration-whatsapp-messenger-1f0f1cf3ef00, Logic-flaw
 - https://medium.com/@sahruldotid/antihack-idor-on-create-submission-ddb3cf40c26b, IDOR
-- https://www.symbo1.com/articles/2019/01/25/fb-change-product-availability-as-pageanalyst.html, Logic-flaw
 - https://medium.com/@lukeberner/how-i-abused-2fa-to-maintain-persistence-after-a-password-change-google-microsoft-instagram-7e3f455b71a1, Logic-flaw
 - https://blog.scrt.ch/2019/01/24/magento-rce-local-file-read-with-low-privilege-admin-rights/, LFI
 - https://blog.saycure.io/2019/01/24/antihack-xss-2-php-upload/, Blind-XSS

@@ -21,3 +21,5 @@
 - https://orthonviper.medium.com/exploiting-max-character-limitation-cde982545019
 - http://www.tomanthony.co.uk/blog/confirm-google-users-email/
 - https://medium.com/@gaupaler/unintended-behaviour-of-domain-got-me-p4-d6af19b5dcdd
+- https://www.symbo1.com/articles/2019/01/25/fb-change-product-availability-as-pageanalyst.html
+- https://medium.com/@oXnoOneXo/improper-authentication-in-android-app-aa855227e6f1
