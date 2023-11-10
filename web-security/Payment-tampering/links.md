@@ -1,1 +1,2 @@
 - https://gccybermonks.com/posts/msstore/
+- https://medium.com/@androgaming1912/got-vps-hosting-domain-only-0-01-bug-bounty-edeea1a7d5e6

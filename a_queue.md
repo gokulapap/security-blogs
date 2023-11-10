@@ -24,7 +24,6 @@
 - https://medium.com/@kunalkhubchandani/the-modern-day-android-application-pentesting-approach-for-bugbounties-assessments-b09154b522d, android
 - https://medium.com/@secureica/can-hackers-hijack-your-clicks-clickjacking-attacks-5dade6464bfe, clickjacking
 - https://medium.com/@whitehatcyber404/how-to-find-escalating-html-to-ssrf-i-instantly-got-the-hof-within-5minutes-805f173c34e4, ssrf
-- https://medium.com/@Steiner254/bounty-in-less-3-minutes-from-a-google-dork-54bd9bf3a650, tricks
 - https://medium.com/@that-odd-introvert/django-security-xss-a7722cff2326, CVE
 - https://medium.com/@manikchopra31/welcome-to-the-bug-bounty-beginners-roadmap-your-ultimate-guide-to-success-7195f1dcd8c5, journey
 - https://medium.com/@vickieli/scanning-for-secrets-in-source-code-9fcb486f8c0e, source-code-review
@@ -1416,7 +1415,6 @@
 - https://infosecwriteups.com/abusing-broken-link-in-fitbit-google-acquisition-to-collect-bugbounty-reports-on-behalf-of-google-5885a556eb7c, Broken-link-hijacking
 - https://medium.com/@tobydavenn/the-tale-of-ssrf-to-rce-on-gov-domain-191185b32b37, SSRF
 - https://github.com/AnkitCuriosity/Write-Ups/blob/main/HTTP%20Desync%20Attack%20(Request%20Smuggling).md, HTTP-Request-Smuggling
-- https://blog.assetnote.io/2022/09/14/rce-in-bitbucket-server/, RCE
 - https://onekey.com/blog/security-advisory-netgear-routers-funjsq-vulnerabilities/, OS-command-injection
 - https://infosecwriteups.com/how-i-abused-the-file-upload-function-to-get-a-high-severity-vulnerability-in-bug-bounty-7cdcf349080b, Unrestricted-file-upload
 - https://sector7.computest.nl/post/2022-09-unified-automation-opcua-cpp/, DoS
@@ -2986,7 +2984,6 @@
 - https://web-in-security.blogspot.com/2021/02/security-and-privacy-of-social-logins-part2.html, DOM-XSS
 - https://johnjhacking.com/blog/cve-2021-23827/, Unencrypted-storage
 - https://jayateerthag.medium.com/grafana-admin-panel-bypass-in-google-acquisition-virustotal-c5ecc9d7b8ae, Default-credentials
-- https://jsecu.github.io/2021/02/21/poisoning/, Web-cache-poisoning
 - https://secureitmania.medium.com/lets-know-how-i-have-explored-the-buried-secrets-in-xamarin-application-d6b8c5609c87, Hardcoded-API-keys
 - https://zdresearch.com/rce-on-a-laravel-private-program/, RCE
 - https://neroli.medium.com/is-math-random-safe-from-missing-rate-limit-to-bypass-2fa-and-possible-sqli-2a4ea66f82c5, Race-condition
@@ -3648,7 +3645,6 @@
 - https://medium.com/@aishwaryakendle/how-we-hijacked-26-subdomains-9c05c94c7049, Subdomain-takeover
 - https://medium.com/@youssefla/dom-xss-walkthrough-4d60c45ffb21, DOM-XSS
 - https://medium.com/@TnMch/google-acquisition-xss-apigee-5479d7b5dc4, XSS
-- https://geleta.eu/2020/a-tale-of-verbose-error-message-and-jwt-token/, Information-disclosure
 - https://sites.google.com/securifyinc.com/vrp-writeups/waze/waze-xss, XSS
 - https://sites.google.com/securifyinc.com/vrp-writeups/hire-with-google/xsses, Stored-XSS
 - https://sites.google.com/securifyinc.com/vrp-writeups/gsuite/bookmark-xss-device-management, XSS
@@ -3966,7 +3962,6 @@
 - https://web.archive.org/web/20200908050502/https://kntx.xyz/Blind-SSRF-due-to-Sentry-Misconfiguration/, SSRF
 - https://terjanq.github.io/Bug-Bounty/Google/cache-attack-06jd2d2mz2r0/index.html, XS-Search
 - https://blog.teddykatz.com/2019/11/12/github-actions-dos.html, DoS
-- https://medium.com/@androgaming1912/got-vps-hosting-domain-only-0-01-bug-bounty-edeea1a7d5e6, Payment-tampering
 - https://fletchto99.dev/2019/november/slack-vulnerability/, CSS-injection
 - https://geleta.eu/2019/my-first-ssrf-using-dns-rebinfing/, SSRF
 - https://medium.com/clouddevops/bugbounty-how-i-cracked-2fa-two-factor-authentication-with-simple-factor-brute-force-a1c0f3a2f1b4, MFA-bypass

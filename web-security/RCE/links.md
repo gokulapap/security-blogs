@@ -27,3 +27,4 @@
 - https://fortbridge.co.uk/research/independently-secure-together-not-so-much-a-story-of-2-wp-plugins/
 - https://infosecwriteups.com/how-i-got-rce-in-the-world-largest-russian-company-8e6e8288bc4e
 - https://yeuchimse.com/remote-code-execution-limesurvey-cve-2018-7556/
+- https://blog.assetnote.io/2022/09/14/rce-in-bitbucket-server/

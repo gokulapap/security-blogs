@@ -1,0 +1,1 @@
+- https://medium.com/@Steiner254/bounty-in-less-3-minutes-from-a-google-dork-54bd9bf3a650
