@@ -30,3 +30,4 @@
 - https://medium.com/bugbountywriteup/cache-poisoning-with-xss-a-peculiar-case-eb5973850814
 - https://ndevtk.github.io/writeups/2022/07/26/google-xss/
 - https://github.com/sneakerhax/Posts/blob/2454456529ddeedb17237b4e9678f7d58d0ffdca/posts/Amazon_1_click_device_XSS.md
+- https://medium.com/@arthbajpai277/stored-xss-to-stealing-admin-credentials-to-your-domain-2ec10cb68bed

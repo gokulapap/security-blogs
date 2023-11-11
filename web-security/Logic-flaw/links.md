@@ -23,3 +23,4 @@
 - https://medium.com/@gaupaler/unintended-behaviour-of-domain-got-me-p4-d6af19b5dcdd
 - https://www.symbo1.com/articles/2019/01/25/fb-change-product-availability-as-pageanalyst.html
 - https://medium.com/@oXnoOneXo/improper-authentication-in-android-app-aa855227e6f1
+- https://medium.com/@pratheesh.p.narayanan/misconfiguration-whatsapp-messenger-1f0f1cf3ef00

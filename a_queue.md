@@ -233,7 +233,6 @@
 - https://medium.com/@Rend_/sqli-next-level-5b1145b83c79, sql-injection
 - https://medium.com/@gandhim373/new-way-to-find-html-injection-get-easy-bounty-65fdd319d688, tricks
 - https://medium.com/@darshanstanislaus/account-takeover-by-html-injection-d02bbfb43845, html-injection
-- https://medium.com/@arthbajpai277/stored-xss-to-stealing-admin-credentials-to-your-domain-2ec10cb68bed, XSS
 - https://medium.com/@sghosh2402/demystifying-insecure-deserialization-in-php-684cab9c4d24, deserialization
 - https://medium.com/@v3d/full-account-takeover-via-password-reset-flaw-my-first-blog-10d6e11df2e0, reset-password
 - https://medium.com/@skarbala.martin/graphql-101-challenge-e65e2c773ac4, graphql
@@ -1953,7 +1952,6 @@
 - https://amit-lt.medium.com/hacked-nokia-with-reflected-cross-site-scripting-vulnerability-327daa8e62fb, Reflected-XSS
 - https://medium.com/stolabs/cloud-ssrf-exploitation-1f256bdc145f, SSRF
 - https://www.legitsecurity.com/blog/github-privilege-escalation-vulnerability, Privilege-escalation
-- https://www.yassineaboukir.com/blog/exploiting-a-double-edged-SSRF-for-server-and-client-side-impact/, SSRF
 - https://amit-lt.medium.com/hacked-instagram-handle-of-samsung-cb1a35990a90, Broken-link-hijacking
 - https://blog.dbouman.nl/2022/04/02/How-The-Tables-Have-Turned-CVE-2022-1015-1016/, Memory-corruption
 - https://ph-hitachi.medium.com/view-friends-list-of-any-users-using-view-as-facebook-bug-bounty-edeb6af5640b, Logic-flaw
@@ -2298,7 +2296,6 @@
 - https://github.com/l0ggg/VMware_vCenter, LFI
 - https://cyberguy0xd1.medium.com/my-write-up-in-hacking-ibms-administration-panel-and-getting-sqli-on-it-51404c7bee27, SQL-injection
 - https://blog.sonarsource.com/nodebb-remote-code-execution-with-one-shot, RCE
-- https://www.synack.com/blog/this-microsoft-windows-rce-vulnerability-gives-an-attacker-complete-control/, Memory-corruption
 - https://www.inputzero.io/2021/04/play-the-opera-please.html, Browser-hacking
 - https://marxchryz.medium.com/price-manipulation-bypass-using-integer-overflow-method-36ff23ebe91d, Payment-tampering
 - https://sh1yo.art/post/websocket_hijacking/, Cross-Site-Websocket-Hijacking
@@ -4330,7 +4327,6 @@
 - https://medium.com/@rohitcoder/user-account-takeover-password-change-nice-catch-2293f4d272b2, Account-takeover
 - https://omespino.com/write-up-1000-usd-in-5-minutes-xss-stored-in-outlook-com-ios-browsers/, Stored-XSS
 - https://blog.ripstech.com/2019/wordpress-csrf-to-rce/, CSRF
-- https://medium.com/@abaykandotcom/olx-bug-bounty-reflected-xss-adb3095cd525, Reflected-XSS
 - https://medium.com/@ZishanAdThandar/my-first-stored-xss-on-edmodo-com-540a33349662, Stored-XSS
 - https://medium.com/@GeneralEG/hack-your-form-new-vector-for-blind-xss-b7a50b808016, Blind-XSS
 - https://medium.com/@newp_th/how-i-find-blind-xss-vulnerability-in-redacted-com-33af18b56869, Blind-XSS
@@ -4406,7 +4402,6 @@
 - https://medium.com/@ChandSingh/protonmail-xss-stored-b733031ac3b5, Stored-XSS
 - https://websecblog.com/vulns/leoexpress-personal-data/, Authorization-flaw
 - https://www.shawarkhan.com/2019/01/hijacking-accounts-by-retrieving-jwt.html, Open-redirect
-- https://medium.com/@pratheesh.p.narayanan/misconfiguration-whatsapp-messenger-1f0f1cf3ef00, Logic-flaw
 - https://medium.com/@sahruldotid/antihack-idor-on-create-submission-ddb3cf40c26b, IDOR
 - https://medium.com/@lukeberner/how-i-abused-2fa-to-maintain-persistence-after-a-password-change-google-microsoft-instagram-7e3f455b71a1, Logic-flaw
 - https://blog.scrt.ch/2019/01/24/magento-rce-local-file-read-with-low-privilege-admin-rights/, LFI
