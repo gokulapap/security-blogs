@@ -7,3 +7,4 @@
 - https://blog.redforce.io/sql-injection-in-insert-update-query-without-comma/
 - https://medium.com/@tomnomnom/making-a-blind-sql-injection-a-little-less-blind-428dcb614ba8
 - https://www.varonis.com/blog/zendesk-sql-injection-and-access-flaws
+- https://eslam.io/posts/practical-exploitation-of-error-based-sql-injection

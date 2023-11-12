@@ -1,0 +1,1 @@
+- https://smaranchand.com.np/2020/04/misconfigured-wordpress-takeover-to-remote-code-execution/

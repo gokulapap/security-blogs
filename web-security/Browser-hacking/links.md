@@ -1,3 +1,4 @@
 - https://www.zerodayinitiative.com/blog/2021/12/15/exploitation-of-cve-2021-21220-from-incorrect-jit-behavior-to-rce
 - https://www.zerodayinitiative.com/blog/2022/8/17/but-you-told-me-you-were-safe-attacking-the-mozilla-firefox-renderer-part-1
 - https://www.bencteux.fr/posts/chrome_bypass_url_restrictions/
+- https://jakearchibald.com/2018/i-discovered-a-browser-bug/

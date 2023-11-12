@@ -2482,7 +2482,6 @@
 - https://www.spookjs.com, Browser-hacking
 - https://medium.com/@gguzelkokar.mdbf15/xss-via-account-takeover-in-e-signature-feature-worth-2500-435f3f8325bf, XSS
 - https://rikeshbaniyaaa.medium.com/facebook-email-disclosure-and-account-takeover-ecdb44ee12e9, Information-disclosure
-- https://blogs.opera.com/security/2021/09/bug-bounty-guest-post-local-file-read-via-stored-xss-in-the-opera-browser/, Stored-XSS
 - https://infosecwriteups.com/accessing-grofers-grafana-instance-using-shodan-52c585ada797, Weak-credentials
 - https://websecblog.com/vulns/google-threadit/, DOM-XSS
 - https://xhzeem.me/posts/SSRF-in-PDF-export-with-PhantomJs/read, SSRF
@@ -3661,7 +3660,6 @@
 - https://medium.com/@kishorehariram/account-taken-over-in-style-8a547342a5ad, Logic-flaw
 - https://hethical.io/stealing-the-trello-token-by-abusing-a-cross-iframe-xss-on-the-butler-plugin/, XSS
 - https://medium.com/@hbothra22/recon-to-sensitive-information-disclosure-in-minutes-503fc7ccdf0b, Information-disclosure
-- https://servicenger.com/blog/mobile/private-bounty-sendmsg/, Authorization-flaw
 - https://medium.com/@d0nut/piercing-the-veal-short-stories-to-read-with-friends-4aa86d606fc5, SSRF
 - https://www.cyberark.com/threat-research-blog/beware-of-the-gif-account-takeover-vulnerability-in-microsoft-teams/, Account-takeover
 - https://blog.deteact.com/bitrix-waf-bypass/, Reflected-XSS
@@ -3672,7 +3670,6 @@
 - https://medium.com/@aungpyaehackeronetester/two-factor-authentication-bypass-50-5b397e68cfed, MFA-bypass
 - https://wongmjane.com/blog/messenger-rooms-writeup, Privilege-escalation
 - https://baibhavjha.com.np/blogs/hidinginclosefriendlist/, Authorization-flaw
-- https://smaranchand.com.np/2020/04/misconfigured-wordpress-takeover-to-remote-code-execution/, Wordpress-takeover
 - https://medium.com/@mohameddaher/from-p5-to-p5-to-p2-from-nothing-to-1000-bxss-4dd26bc30a82, Race-condition
 - https://web.archive.org/web/20200513210337/https://medium.com/bugbountywriteup/the-secret-sauce-of-bug-bounty-bdcc2e2d45af, CSTI
 - https://medium.com/@vincenz/exploiting-a-race-condition-vulnerability-3f2cb387a72, Race-condition
@@ -4754,7 +4751,6 @@
 - https://blog.bentkowski.info/2018/06/xss-in-google-colaboratory-csp-bypass.html, XSS
 - https://medium.com/@cachemoney/using-a-github-app-to-escalate-to-an-organization-owner-for-a-10-000-bounty-4ec307168631, Authorization-flaw
 - https://blog.bentkowski.info/2018/06/setting-arbitrary-request-headers-in.html, CRLF-injection
-- https://jakearchibald.com/2018/i-discovered-a-browser-bug/, Browser-hacking
 - https://pulsesecurity.co.nz/advisories/ManageEngine-OpManager-RCE, RCE
 - https://medium.com/bugbountywriteup/responsible-disclosure-how-i-could-have-booked-movie-tickets-through-other-user-accounts-2db26a037b4c, Password-reset
 - https://web.archive.org/web/20191217223802/https://medium.com/@tahasmily2013m/how-i-found-blind-xss-in-apple-c890775e745a, Blind-XSS
@@ -5100,7 +5096,6 @@
 - https://timeofcheck.com/time-based-blind-sqli-on-news-starbucks-com/, Blind-SQL-injection
 - https://medium.com/@sean.roesner/one-company-262-bugs-100-acceptance-2-57-priority-300million-user-details-saved-dd88ecb10f6f, Stored-XSS
 - https://medium.com/intigriti/how-i-got-your-phone-number-through-facebook-223b769cccf1, Logic-flaw
-- https://eslam.io/posts/practical-exploitation-of-error-based-sql-injection, SQL-injection
 - https://hackernoon.com/how-i-bypassed-state-bank-of-india-otp-f145469a9f1d, OTP-bypass
 - https://medium.com/bugbountywriteup/how-i-was-able-to-remove-your-instagram-phone-number-d346515e79c3, Bruteforce
 - https://ysx.me.uk/from-rss-to-xxe-feed-parsing-on-hootsuite/, XSS

@@ -11,3 +11,4 @@
 - https://medium.com/@nahoragg/chaining-tricky-oauth-exploitation-to-stored-xss-b67eaea4aabd
 - https://cyberzombie.in/stored-xss-on-indeed/
 - https://www.y-security.de/news-en/microsoft-azure-portal-persistent-cross-site-scripting/index.html
+- https://blogs.opera.com/security/2021/09/bug-bounty-guest-post-local-file-read-via-stored-xss-in-the-opera-browser/
