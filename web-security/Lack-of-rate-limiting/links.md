@@ -1,0 +1,1 @@
+- https://medium.com/@spazzyy/bug-bounty-101-always-check-the-source-code-1adaf3f59567

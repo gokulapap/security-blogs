@@ -502,7 +502,6 @@
 - https://www.synacktiv.com/en/publications/the-printer-goes-brrrrr-again.html, Printer-hacking
 - https://medium.com/@atomiczsec/one-bug-at-a-time-my-first-paid-bug-1-000-idor-4b89b63b2b4b, IDOR
 - https://medium.com/@yashsancheti24/discovering-a-hidden-security-loophole-rent-luxury-cars-for-a-single-dollar-706b4a7bf101, Payment-tampering
-- https://3bodymo.medium.com/hacking-hackerone-how-computer-vision-helped-uncover-hidden-vulnerabilities-858d03a6a67, Information-disclosure
 - https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/rendezvous-with-a-chatbot-chaining-contextual-risk-vulnerabilities/, Chatbot
 - https://medium.com/@icebre4ker/hacking-chess-com-my-journey-to-unlock-premium-bots-on-the-android-app-d8cac9d25094, Android
 - https://thinkloveshare.com/hacking/kong-konga-exploitation-and-hardening/, RCE
@@ -568,7 +567,6 @@
 - https://sensepost.com/blog/2023/from-bitlocker-suspended-to-virtual-machine/, Internal-pentest
 - https://infosecwriteups.com/xs-leak-deanonymize-microsoft-skype-users-by-any-3rd-party-website-69849e4501a8, XSLeaks
 - https://jhftss.github.io/CVE-2023-23525-Get-Root-via-A-Fake-Installer/, Local-Privilege-Escalation
-- https://infosecwriteups.com/turning-vulnerability-into-bounty-how-cve-2020-17453-xss-earned-me-a-500-bounty-dcabc737fded, Components-with-known-vulnerabilities
 - https://zerocode-ph.medium.com/bypassing-link-sharing-protection-in-messenger-kids-parents-control-feature-meta-bug-bounty-e53f2d148bd9, URL-validation-bypass
 - https://blog.thalium.re/posts/fuzzing-samsung-system-services/, Android
 - https://medium.com/bugbountywriteup/uncovering-a-critical-vulnerability-my-journey-of-discovering-cve-2021-31589-a-reflected-xss-in-1e13c0aa41b0, Components-with-known-vulnerabilities
@@ -1157,7 +1155,6 @@
 - https://cybervelia.com/?p=1380, IoT
 - https://trufflesecurity.com/blog/email-graffiti/index.html, Broken-link-hijacking
 - https://dewcode.medium.com/how-i-found-29-stored-xss-in-modern-framework-1cfe60a107a0, Stored-XSS
-- https://www.alevsk.com/2022/11/system-misconfiguration-is-the-number-one-vulnerability-at-least-for-mastodon/, Security-misconfiguration
 - https://splint3rsec.medium.com/russian-roulette-xss-bbba6afd2570, Blind-XSS
 - https://bendtheory.medium.com/remediation-archeology-finding-and-decoding-an-ancient-xss-ea541c1106d1, XSS
 - https://r29k.com/articles/bb/account-takeover, Account-takeover
@@ -3024,7 +3021,6 @@
 - https://medium.com/bugbountywriteup/a-tale-of-2nd-xxx-bounty-ability-to-gain-persistence-on-facebook-events-as-an-unremovable-9408338ccf8f, Logic-flaw
 - https://santoshdbobade.medium.com/how-i-got-an-appreciation-letter-from-harvard-university-a3d19de69701, Subdomain-takeover
 - https://enfinlay.github.io//xss/selfxss/upload/bugbounty/2021/02/09/selfxss-to-rxss-via-file-name.html, Self-XSS
-- https://medium.com/@alex.birsan/dependency-confusion-4a5d60fec610, Dependency-confusion
 - https://shahjerry33.medium.com/duplicate-registration-the-twinning-twins-883dfee59eaf, Account-takeover
 - https://infosecwriteups.com/bigbasket-bug-bounty-writeup-9fedc490b814, Insecure-data-storage
 - https://thevillagehacker.medium.com/reflected-xss-on-a-public-program-e8c0416daca1, Reflected-XSS
@@ -4348,7 +4344,6 @@
 - https://medium.com/@kunal94/web-cache-deception-attack-leads-to-user-info-disclosure-805318f7bb29, Web-cache-deception
 - https://blog.redforce.io/shareit-vulnerabilities-enable-unrestricted-access-to-adjacent-devices-files/, Android
 - https://medium.com/@logicbomb_1/chain-of-hacks-leading-to-database-compromise-b2bc2b883915, LFI
-- https://medium.com/@spazzyy/bug-bounty-101-always-check-the-source-code-1adaf3f59567, Lack-of-rate-limiting
 - https://medium.com/@ChandSingh/download-any-organisation-data-s3-amazonaws-64059847e06, Authorization-flaw
 - https://web.archive.org/web/20200929003949/https://www.mohamedharon.com/2019/02/subdomain-aws-s3-buckets-reader.html, Subdomain-takeover
 - https://sites.google.com/securifyinc.com/secblogs/exploitingcalendars, Authorization-flaw

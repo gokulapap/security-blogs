@@ -28,3 +28,4 @@
 - https://medium.com/bug-bounty-hunting/tale-of-2-tootb-bugs-google-and-whatsapp-3c0ad40d604c
 - https://medium.com/@hisokamorou12/finding-gem-in-someones-report-instant-500usd-at-hackerone-platform-9a1afa0df813
 - https://geleta.eu/2020/a-tale-of-verbose-error-message-and-jwt-token/
+- https://3bodymo.medium.com/hacking-hackerone-how-computer-vision-helped-uncover-hidden-vulnerabilities-858d03a6a67

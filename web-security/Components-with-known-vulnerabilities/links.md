@@ -1,1 +1,2 @@
 - https://medium.com/bugbountywriteup/turning-vulnerability-into-bounty-how-cve-2020-17453-xss-earned-me-a-500-bounty-dcabc737fded
+- https://infosecwriteups.com/turning-vulnerability-into-bounty-how-cve-2020-17453-xss-earned-me-a-500-bounty-dcabc737fded
