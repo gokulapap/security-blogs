@@ -1,0 +1,1 @@
+- https://medium.com/@fardeenahmed410/how-i-landed-on-my-first-bounty-no-spf-dmarc-record-found-2fdfea64cf52

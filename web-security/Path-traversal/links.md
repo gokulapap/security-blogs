@@ -2,3 +2,4 @@
 - https://medium.com/@StealthyBugs/bypass-apple-corp-sso-on-apple-admin-panel-dbfb72c7e634
 - https://huntr.dev/blog/intro-to-open-source-bug-bounty/
 - https://derekabdine.com/blog/2022-arris-advisory
+- https://n0lsec.medium.com/qrcdr-path-traversal-vulnerability-bb89acc0c100

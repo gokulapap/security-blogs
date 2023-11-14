@@ -1412,7 +1412,6 @@
 - https://medium.com/@tobydavenn/the-tale-of-ssrf-to-rce-on-gov-domain-191185b32b37, SSRF
 - https://github.com/AnkitCuriosity/Write-Ups/blob/main/HTTP%20Desync%20Attack%20(Request%20Smuggling).md, HTTP-Request-Smuggling
 - https://onekey.com/blog/security-advisory-netgear-routers-funjsq-vulnerabilities/, OS-command-injection
-- https://infosecwriteups.com/how-i-abused-the-file-upload-function-to-get-a-high-severity-vulnerability-in-bug-bounty-7cdcf349080b, Unrestricted-file-upload
 - https://sector7.computest.nl/post/2022-09-unified-automation-opcua-cpp/, DoS
 - https://tamirzb.com/attacking-android-kernel-using-qualcomm-trustzone, Memory-corruption
 - https://cturt.github.io/mast1c0re.html, Memory-corruption
@@ -2097,7 +2096,6 @@
 - https://amakki.me/how-i-made-15k-from-remote-code-execution-vulnerability-2e1b14b3902a, Code-injection
 - https://infosecwriteups.com/a-tale-of-0-click-account-takeover-and-2fa-bypass-b369cd70e42f, Account-takeover
 - https://thehackerblog.com/zero-days-without-incident-compromising-angular-via-expired-npm-publisher-email-domains-7kZplW4x/, Supply-chain-attack
-- https://n0lsec.medium.com/qrcdr-path-traversal-vulnerability-bb89acc0c100, Path-traversal
 - https://twitter.com/FlashbackPwn/status/1492074441450397698, Memory-corruption
 - https://twitter.com/m7mdharon/status/1492204287295897600, Subdomain-takeover
 - https://www.zerodayinitiative.com/blog/2022/2/10/mindshare-when-mysql-cluster-encounters-taint-analysis, Memory-corruption
@@ -3412,7 +3410,6 @@
 - https://objective-see.com/blog/blog_0x4D.html, Local-Privilege-Escalation
 - https://a2nkf.github.io/unauthd_Logic_bugs_FTW/, Logic-flaw
 - https://medium.com/bugbountywriteup/bypassing-otp-via-reset-password-f004a29020c, OTP-bypass
-- https://medium.com/@zseano/using-xampp-and-burp-intruder-when-scanning-for-subdomains-to-look-for-interesting-behaviour-code-f24c511d15ed, Information-disclosure
 - https://medium.com/@zseano/new-features-means-new-bugs-ece4d10cdf9d, Logic-flaw
 - https://medium.com/@ashokcpg/weird-behavior-of-facebook-page-faq-leading-to-bounty-from-facebook-b4984e623b38, Logic-flaw
 - https://medium.com/bugbountywriteup/exploiting-business-logic-wallet-money-6a7654f4e147, Payment-tampering
@@ -3442,7 +3439,6 @@
 - https://medium.com/@mohamedayad_72488/dos-over-wep-application-c5176dc29035, DoS
 - https://web.archive.org/web/20201123204526/https://medium.com/@olisandip99/chaining-rate-limiting-for-account-lockout-6a2a7828dd24, Lack-of-rate-limiting
 - https://medium.com/@mohamedayad_72488/bypass-user-restriction-registration-cbfc4eb855, Logic-flaw
-- https://medium.com/@fardeenahmed410/how-i-landed-on-my-first-bounty-no-spf-dmarc-record-found-2fdfea64cf52, No-valid-SPF-records
 - https://medium.com/bugbountywriteup/unique-case-for-price-manipulation-bugbounty-vapt-df57637769cd, Payment-tampering
 - https://medium.com/@balook/creative-android-pin-bypass-with-race-conditon-63a8bc3f0e31, Race-condition
 - https://medium.com/@balook/android-pin-bypass-with-rate-limiting-a3f5dd811715, Lack-of-rate-limiting
@@ -3629,7 +3625,6 @@
 - https://medium.com/@aniltom/magic-of-the-back-slash-d868e66b532a, Path-traversal
 - https://medium.com/@frycos/another-zoho-manageengine-story-7b472f1515f5, Authentication-bypass
 - https://tillsongalloway.com/finding-sensitive-information-on-github/index.html, Information-disclosure
-- https://medium.com/@adonkidz7/bypass-xss-filter-using-html-escape-f2e06bebc8c3, XSS
 - https://www.synacktiv.com/en/publications/pentesting-cisco-sd-wan-part-2-breaking-routers.html, OS-command-injection
 - https://vinothkumar.me/20000-facebook-dom-xss/, DOM-XSS
 - https://chefsecure.com/blog/i-found-xss-security-flaws-in-rails-heres-what-happened, XSS
