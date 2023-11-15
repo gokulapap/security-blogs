@@ -1,0 +1,1 @@
+- https://claroty.com/wp-content/uploads/2022/01/Exploiting-URL-Parsing-Confusion.pdf

@@ -529,7 +529,6 @@
 - https://danrevah.github.io/2023/05/03/CVE-2023-25394-VideoStream-LPE/, Local-Privilege-Escalation
 - https://www.trellix.com/en-us/about/newsroom/stories/research/the-art-of-information-disclosure.html, Out-of-bounds-Read
 - https://sumedh00.medium.com/accessing-admin-dashboard-in-5-seconds-acee737eacfb, Default-credentials
-- https://medium.com/@janirudransh/automating-sql-injection-on-encrypted-request-21a43aa2e7ef, SQL-injection
 - https://blog.onsec.io/when-youre-so-bored-you-start-debugging-someone-elses-code/, SSTI
 - https://www.revblock.dev/exploiting-misconfigured-google-cloud-service-accounts-from-github-actions/, OpenID-Connect
 - https://sec-consult.com/blog/detail/securing-databricks-cluster-init-scripts/, Privilege-escalation
@@ -2075,7 +2074,6 @@
 - https://infosecwriteups.com/send-a-email-to-me-and-get-kicked-out-of-google-groups-29b5c2c60e95, Logic-flaw
 - https://medium.com/@friendly_/bypassing-cloudflares-waf-b1b83a50fb2f, XSS
 - https://gitlab.com/kop316/vvm-disclosure, Voicemail-hacking
-- https://remonsec.com/posts/passive-recon-with-spyse-part-II/, Subdomain-takeover
 - https://remonsec.com/posts/getting-first-swag-SIDN/, Directory-listing
 - https://github.com/Metnew/write-ups/tree/main/rce-github-desktop-2.9.3, RCE
 - https://web.archive.org/web/20220220072733/https://bloggerrando.blogspot.com/2022/02/stored-xss-on-messagealibabacom-alibaba.html, Stored-XSS
@@ -2184,7 +2182,6 @@
 - https://www.bitcrack.net/pwning-the-portal-from-database-dump-to-session-hijacking/, SQL-injection
 - https://medium.com/@veletisleri/how-i-downed-acronis-com-in-2-minutes-lucky-bug-write-up-a563bcdb563d, DoS
 - https://www.cyberark.com/resources/threat-research-blog/attacking-rdp-from-inside, RCE
-- https://claroty.com/wp-content/uploads/2022/01/Exploiting-URL-Parsing-Confusion.pdf, URL-parsing-issue
 - https://sa1tama0.medium.com/cross-origin-resource-sharing-cors-misconfiguration-leads-to-users-pii-leaks-b31fd3246e64, CORS-misconfiguration
 - https://haxolot.com/posts/2022/moodle_pre_auth_shibboleth_rce_part2/, Session-hijacking
 - https://www.microsoft.com/security/blog/2022/01/10/new-macos-vulnerability-powerdir-could-lead-to-unauthorized-user-data-access/, Privacy-issue
@@ -2714,7 +2711,6 @@
 - https://infosecwriteups.com/how-i-was-able-to-bypass-parental-pin-of-showmax-e6d6ec3af92d, Authorization-flaw
 - https://fortbridge.co.uk/research/joomla-password-reset-vulnerability-and-stored-xss-for-full-compromise/, Password-reset
 - https://vedanttekale20.medium.com/story-of-my-first-cash-bounty-on-hackerone-acad282ae962, SSRF
-- https://samiparyal.medium.com/how-i-could-have-accessed-all-your-private-videos-photos-saved-inside-your-device-without-even-1a7e455ddcc8, Authorization-flaw
 - https://notifybugme.medium.com/how-github-recon-help-me-to-find-nine-full-ssrf-vulnerability-with-aws-metadata-access-531d931413a5, SSRF
 - https://batee5a.medium.com/shopify-multipass-misconfiguration-2bc85e92ad1d, Authentication-flaw
 - https://infosecwriteups.com/executing-csrf-with-phone-validation-103c525dd310, CSRF
@@ -4174,7 +4170,6 @@
 - https://medium.com/@saadahmedx/sql-injection-c87a390afdd3, SQL-injection
 - https://medium.com/@osamaavvan/bypassing-xss-filter-and-stealing-user-credit-card-data-100f247ed5eb, XSS
 - https://medium.com/@Vibhurushi_Chotaliya/password-bypass-and-something-else-cded0847c9df, Authentication-bypass
-- https://web.archive.org/web/20201107231430/https://medium.com/@protector47/how-i-earned-1-500-in-just-15-mins-due-to-amazon-s3-bucket-misconfiguration-953b28242f95, AWS-misconfiguration
 - https://medium.com/@saadahmedx/account-takeover-worth-900-cacbe10de58e, Account-takeover
 - https://medium.com/@osamaavvan/stealing-cookies-to-login-in-any-account-52ca33df0318, Cookie-theft
 - https://spenkk.github.io/bugbounty/Local-File-Inclusion/, WAF-bypass

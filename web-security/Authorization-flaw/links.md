@@ -10,3 +10,4 @@
 - https://medium.com/@hritik.3hs/exploiting-two-endpoints-to-get-account-takeover-651813d0a33b
 - https://gevakun.medium.com/join-facebook-group-with-unpublish-page-cb649a20fb0e
 - https://servicenger.com/blog/mobile/private-bounty-sendmsg/
+- https://samiparyal.medium.com/how-i-could-have-accessed-all-your-private-videos-photos-saved-inside-your-device-without-even-1a7e455ddcc8

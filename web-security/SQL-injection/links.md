@@ -8,3 +8,4 @@
 - https://medium.com/@tomnomnom/making-a-blind-sql-injection-a-little-less-blind-428dcb614ba8
 - https://www.varonis.com/blog/zendesk-sql-injection-and-access-flaws
 - https://eslam.io/posts/practical-exploitation-of-error-based-sql-injection
+- https://medium.com/@janirudransh/automating-sql-injection-on-encrypted-request-21a43aa2e7ef

@@ -1,2 +1,3 @@
 - https://members.backbox.org/zimbra-open-bucket-data-leak-responsible-disclosure/
 - https://aob-89072.medium.com/how-mailru-handled-with-my-report-on-their-program-5e1f587ecaa
+- https://web.archive.org/web/20201107231430/https://medium.com/@protector47/how-i-earned-1-500-in-just-15-mins-due-to-amazon-s3-bucket-misconfiguration-953b28242f95
