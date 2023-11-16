@@ -1,2 +1,3 @@
 - https://secfault-security.com/blog/libreoffice.html
 - https://jsecu.github.io/2020/11/17/openemr/
+- https://blog.oversecured.com/Two-weeks-of-securing-Samsung-devices-Part-1/

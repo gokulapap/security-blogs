@@ -11,3 +11,4 @@
 - https://gevakun.medium.com/join-facebook-group-with-unpublish-page-cb649a20fb0e
 - https://servicenger.com/blog/mobile/private-bounty-sendmsg/
 - https://samiparyal.medium.com/how-i-could-have-accessed-all-your-private-videos-photos-saved-inside-your-device-without-even-1a7e455ddcc8
+- https://ysamm.com/?p=30

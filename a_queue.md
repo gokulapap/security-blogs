@@ -1779,7 +1779,6 @@
 - https://web.archive.org/web/20220611144030/https://medium.com/@pmmali/my-first-cve-2022-31289-4081c57e90fb, Authentication-bypass
 - https://webs3c.com/t/how-to-download-ebooks-from-google-play-store-without-paying-for-them/79, Payment-bypass
 - https://blog.viettelcybersecurity.com/cve-2022-1040-sophos-xg-firewall-authentication-bypass/, Authentication-bypass
-- https://blog.assetnote.io/2022/06/09/whatsup-gold-exploit/, SSRF
 - https://www.shielder.com/advisories/autodesk-fusion-import-svg-blind-xxe/, XXE
 - https://jfrog.com/blog/denial-of-service-vulnerability-in-envoy-proxy-cve-2022-29225/, Zip-bomb
 - https://www.reversemode.com/2022/06/de-anonymization-attacks-against-proton.html, Privacy-issue
@@ -1916,7 +1915,6 @@
 - https://www.sentinelone.com/labs/inside-the-black-box-how-we-fuzzed-microsoft-defender-for-iot-and-found-multiple-vulnerabilities/, DoS
 - https://rhinosecuritylabs.com/aws/cve-2022-25165-aws-vpn-client/, Local-Privilege-Escalation
 - https://medium.com/@Bishoo97x/idor-insecure-direct-object-reference-leads-to-listing-all-valid-users-and-edit-their-profiles-2d7bcba78890, IDOR
-- https://www.rapid7.com/blog/post/2022/04/12/cve-2022-24527-microsoft-connected-cache-local-privilege-escalation-fixed/, Local-Privilege-Escalation
 - https://shahjerry33.medium.com/xss-the-localstorage-robbery-d5fbf353c6b0, XSS
 - https://naveenroy008.medium.com/broken-session-control-leads-to-access-the-admin-panel-even-after-revoking-the-access-zoho-db219b19d2dd, Broken-Access-Control
 - https://www.notgitbleed.com, Information-disclosure
@@ -2704,7 +2702,6 @@
 - https://sinsinology.medium.com/how-i-found-the-silliest-logical-vulnerability-for-750-d4f49e5b8763, Logic-flaw
 - https://pratikkhalane91.medium.com/how-i-was-able-to-bypass-the-admin-panel-without-the-credentials-d65f90e0e1e4, Information-disclosure
 - https://youst.in/posts/bypassing-2fa-using-openid-misconfiguration/, MFA-bypass
-- https://blog.oversecured.com/Two-weeks-of-securing-Samsung-devices-Part-1/, Arbitrary-file-write
 - https://0xdekster.medium.com/second-order-race-condition-be8aaf774783, Race-condition
 - https://blog.evanricafort.com/2021/06/2usd-idor-bug-in-redacted.html, IDOR
 - https://www.ehpus.com/post/author-spoofing-in-google-colaboratory, Logic-flaw
@@ -3741,7 +3738,6 @@
 - https://medium.com/ctf-writeups/breaking-the-competition-bug-bounty-write-up-ca7cb7bc53f5, Race-condition
 - https://web.archive.org/web/20200820030054/https://medium.com/@protector47/5-005-worth-vulnerability-duplicated-how-i-loose-5-005-in-a-day-831f5a064713, DoS
 - https://medium.com/@adonkidz7/google-ads-self-xss-html-injection-5000-52280da76c80, Self-XSS
-- https://medium.com/@secureITmania/how-i-exploit-the-json-csrf-with-method-override-technique-71c0a9a7f3b0, CSRF
 - https://santuysec.com/2020/03/06/google-bug-bounty-clickjacking-on-google-payment-1337/, Clickjacking
 - https://medium.com/cyberverse/got-bounty-with-account-takeover-ato-unicode-case-mapping-collision-d23a7785e1be, Account-takeover
 - https://posts.specterops.io/abusing-slack-for-offensive-operations-2343237b9282, Logic-flaw
@@ -4398,7 +4394,6 @@
 - https://ysamm.com/?p=45, IDOR
 - https://ysamm.com/?p=38, Bruteforce
 - https://ysamm.com/?p=35, IDOR
-- https://ysamm.com/?p=30, Authorization-flaw
 - https://ysamm.com/?p=12, XSS
 - https://medium.com/@sudhanshur705/reflected-xss-in-zomato-f892d6887147, Reflected-XSS
 - https://medium.com/@nahoragg/a-simple-cors-misconfig-leaked-private-post-of-twitter-facebook-instagram-5f1a634feb9d, CORS-misconfiguration
