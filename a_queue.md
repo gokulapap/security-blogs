@@ -1814,7 +1814,6 @@
 - https://infosecwriteups.com/how-i-found-a-companys-internal-s3-bucket-with-41k-files-94b453e588b5, AWS-misconfiguration
 - https://www.blackhillsinfosec.com/spoofing-microsoft-365-like-its-1995/, Spoofing
 - https://www.rapid7.com/blog/post/2022/05/24/cve-2022-22977-vmware-guest-authentication-service-lpe-fixed/, Local-Privilege-Escalation
-- https://medium.com/@ryuukhagetsu/how-i-get-bounty-from-takeover-account-ed17cd838b2a, IDOR
 - https://www.secjuice.cz0idsecom/breaking-parser-logic-gain-access-to-nginx-plus-api-read-write-upstreams/, Path-traversal
 - https://www.reversemode.com/2022/05/finding-vulnerabilities-in-swiss-posts.html, Insecure-deserialization
 - https://medium.com/@sharp488/2fa-bypass-on-private-bug-bounty-program-due-to-improper-caching-mechanism-212c5912bd00, MFA-bypass
@@ -3123,7 +3122,6 @@
 - https://saugatpokharel.medium.com/this-is-how-i-was-able-to-view-anyones-private-email-and-birthday-on-instagram-1469f44b842b, Information-disclosure
 - https://vivekps143.medium.com/facebook-bug-bounty-finding-the-hidden-members-of-the-private-events-977dc1784ff9, Information-disclosure
 - https://web.archive.org/web/20210123173946/https://protector47.medium.com/worth-1-500-idor-access-unauthorize-data-52604aec99, IDOR
-- https://omespino.com/write-up-google-vrp-n-a-sandboxed-rce-as-root-on-apigee-api-proxies/, RCE
 - https://galnagli.com/Samsung_Exposure/, Information-disclosure
 - https://virdoexhunter.medium.com/misconfigured-s3-bucket-leads-to-sensitive-data-exposure-no-super-controls-f47e26b586c6, AWS-misconfiguration
 - https://marxchryz.medium.com/my-bug-bounty-journey-and-my-first-critical-bug-time-based-blind-sql-injection-aa91d8276e41, SQL-injection
@@ -3297,7 +3295,6 @@
 - https://medium.com/bugbountywriteup/how-i-earned-500-from-google-flaw-in-authentication-a40018c05616, Authentication-flaw
 - https://medium.com/@alonnsoandres/25k-instagram-almost-xss-filter-link-facebook-bug-bounty-798b10c13b83, Stored-XSS
 - https://medium.com/@merry6607/how-i-by-pass-the-login-page-and-2fa-authentication-3f33b06838c, Authentication-bypass
-- https://lf.lc/vrp/168991979/, Cross-tenant-vulnerability
 - https://www.pentestpartners.com/security-blog/you-cant-stop-me-ms-teams-session-hijacking-and-bypass/, Insecure-storage-of-sensitive-information
 - https://lf.lc/vrp/168987557/, RCE
 - https://medium.com/@Sheshasai/emoji-error-handling-ba11f1bdb8a6, SQL-injection
@@ -3820,7 +3817,6 @@
 - https://medium.com/@ozguralp/a-less-known-attack-vector-second-order-idor-attacks-14468009781a, IDOR
 - https://medium.com/@shahjerry33/password-reset-token-leak-via-referrer-2e622500c2c1, Password-reset
 - https://blog.securitybreached.org/2020/01/22/user-account-takeover-via-signup-feature-bug-bounty-poc/, Account-takeover
-- https://web.archive.org/web/20200819163234/https://medium.com/@adeshkolte/cross-site-request-forgery-vulnerability-leads-to-user-profile-change-in-microsoft-express-logic-dc3481ab47ba, CSRF
 - https://medium.com/bugbountywriteup/how-i-bought-my-way-to-subdomain-takeover-on-tokopedia-8c6697c85b4d, Subdomain-takeover
 - https://medium.com/@milanmagyar/ggvulnz-how-i-hacked-hundreds-of-companies-through-google-groups-b69c658c8924, Logic-flaw
 - https://noobe.io/articles/2020-01/how-i-found-bug-google-search-console, Logic-flaw
@@ -4105,7 +4101,6 @@
 - https://leucosite.com/Microsoft-Office-365-Outlook-XSS/, XSS
 - https://medium.com/@kgaber99/sql-injection-in-forget-password-function-3c945512e3cb, SQL-injection
 - https://blog.teserakt.io/2019/07/18/how-to-lock-a-github-user-out-of-their-repos-bug-or-feature/, DoS
-- https://medium.com/@iSecMax/сookie-based-xss-exploitation-2300-bug-bounty-story-9bc532ffa564, XSS
 - https://medium.com/@sumitcfe/account-takeover-vulnerability-7e6e039a4dd3, Password-reset
 - https://medium.com/@sudhanshur705/how-recon-helped-me-to-to-find-a-facebook-domain-takeover-58163de0e7d5, Subdomain-takeover
 - https://medium.com/@circleninja/facebook-informative-bug-from-triaged-76738e4d5938, Lack-of-rate-limiting

@@ -20,3 +20,4 @@
 - https://buer.haus/2015/02/03/flickr-api-explorer-force-users-to-execute-any-api-request/
 - https://medium.com/bugbountywriteup/lets-bypass-csrf-protection-password-confirmation-to-takeover-victim-accounts-d-4a21297847ff
 - https://medium.com/@secureITmania/how-i-exploit-the-json-csrf-with-method-override-technique-71c0a9a7f3b0
+- https://web.archive.org/web/20200819163234/https://medium.com/@adeshkolte/cross-site-request-forgery-vulnerability-leads-to-user-profile-change-in-microsoft-express-logic-dc3481ab47ba

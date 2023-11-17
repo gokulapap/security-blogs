@@ -31,3 +31,4 @@
 - https://medium.com/@mohammed0x04/how-i-found-two-api-vulnerabilities-using-website-source-code-6c4b0dc54d6f
 - https://codeburst.io/hunting-insecure-direct-object-reference-vulnerabilities-for-fun-and-profit-part-1-f338c6a52782
 - https://bugreader.com/social/write-ups-general-delete-any-video-or-reel-on-facebook-11-250--100965
+- https://medium.com/@ryuukhagetsu/how-i-get-bounty-from-takeover-account-ed17cd838b2a
