@@ -33,3 +33,4 @@
 - https://medium.com/@arthbajpai277/stored-xss-to-stealing-admin-credentials-to-your-domain-2ec10cb68bed
 - https://medium.com/@adonkidz7/bypass-xss-filter-using-html-escape-f2e06bebc8c3
 - https://medium.com/@iSecMax/сookie-based-xss-exploitation-2300-bug-bounty-story-9bc532ffa564
+- https://www.vidocsecurity.com/blog/2022-summary-how-we-made-120k-bug-bounty-in-a-year/

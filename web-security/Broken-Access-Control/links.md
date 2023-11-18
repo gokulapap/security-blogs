@@ -5,3 +5,4 @@
 - https://medium.com/@kashyapherry147/privilege-escalation-worth-of-300-b9a6eac3b0fa
 - https://medium.com/@siratsami71/1500-worth-slack-vulnerability-bypass-invite-accept-process-8204e5431d52
 - https://www.volkis.com.au/blog/we-were-vulnerable/
+- https://feed.bugs.xdavidhu.me/bugs/0004

@@ -476,7 +476,6 @@
 - https://medium.com/@lukinha05farias/dns-recursion-leads-to-dos-attack-vivo-play-iptv-cve-2023-31893-b5ac45f38f, DoS
 - https://strike.sh/blog/official-extension-attacks, Extension-spoofing
 - https://www.zerodayinitiative.com/blog/2023/5/17/cve-2023-2086920870-exploiting-vmware-workstation-at-pwn2own-vancouver, Memory-corruption
-- https://medium.com/@alb-soul/blind-os-command-injection-via-activation-request-66dc25377bf4, OS-command-injection
 - https://shahjerry33.medium.com/stored-iframe-injection-permanent-open-redirection-zero-day-ce7cd15903ac, HTML-injection
 - https://blog.pretera.com/how-misconfigured-and-vulnerable-devices-could-expose-your-company-to-physical-and-cyber-threats-37d0e0d8d158, IoT
 - https://corben.io/blog/hacking-kucoin, Information-disclosure
@@ -867,7 +866,6 @@
 - https://securitylabs.datadoghq.com/articles/aws-console-rate-limit-bypass/, Rate-limiting-bypass
 - https://pyn3rd.github.io/2023/02/06/Apache-Commons-SCXML-Remote-Code-Execution/, RCE
 - https://frycos.github.io/vulns4free/2023/02/06/goanywhere-forgotten.html, Insecure-deserialization
-- https://www.vidocsecurity.com/blog/2022-summary-how-we-made-120k-bug-bounty-in-a-year/, XSS
 - https://medium.com/@2os5/easy-account-takeover-on-dell-subdomain-6297460741fd, Password-reset
 - https://bloggerrando.blogspot.com/2023/02/06-2.html, Logic-flaw
 - https://security.lauritz-holtmann.de/post/xss-ato-gadgets/, SSO
@@ -2759,7 +2757,6 @@
 - https://sirleeroyjenkins.medium.com/just-gopher-it-escalating-a-blind-ssrf-to-rce-for-15k-f5329a974530, SSRF
 - https://feed.bugs.xdavidhu.me/bugs/0005, Clickjacking
 - https://nvk0x.medium.com/how-i-hijacked-12-subdomains-in-one-program-eea468bcd64f, Subdomain-takeover
-- https://feed.bugs.xdavidhu.me/bugs/0004, Broken-Access-Control
 - https://kailashbohara.com.np/blog/2021/05/16/MSSQL-Injection-in-JSON-request/, SQL-injection
 - https://www.pethuraj.com/blog/edmodo-bug-bounty-writeup/, XSS
 - https://omar0x01.medium.com/how-to-prevent-more-than-200-million-users-from-using-google-services-136b3b8e221f, Logic-flaw
@@ -2780,7 +2777,6 @@
 - https://dewangpanchal98.medium.com/microsoft-bug-bounty-writeup-5ee4a7264dbf, Information-disclosure
 - https://mvinni.medium.com/workplace-by-facebook-unauthorized-access-to-companies-environment-27-5k-a593a57092f1, Authorization-flaw
 - https://takashi-suzuki.medium.com/apple-bug-bounty-xss-2021-78c2f4fc4106, XSS
-- https://ysamm.com/?p=691, Privacy-issue
 - https://www.offensive-security.com/offsec/macos-preferences-priv-escalation/, Local-Privilege-Escalation
 - https://blog.polybdenum.com/2021/05/05/how-i-hacked-google-app-engine-anatomy-of-a-java-bytecode-exploit.html, RCE
 - https://ysamm.com/?p=684, OAuth
@@ -4195,7 +4191,6 @@
 - https://ysamm.com/?p=272, Weak-encryption
 - https://medium.com/@mustafakhan_89646/multiple-api-issues-due-to-fixed-authorization-token-17365056f17a, Authorization-flaw
 - https://tutorgeeks.blogspot.com/2019/05/security-assessment-on-staging-domains.html, Missing-authentication
-- https://philippeharewood.com/instagram-github-token-with-public_scope-found-in-travis-ci-build-logs/, Information-disclosure
 - https://smaranchand.com.np/2019/05/how-i-acquired-xxx-bounty-by-investing-99-cents/, Logic-flaw
 - https://blog.takemyhand.xyz/2019/05/escalating-subdomain-takeovers-to-steal.html, Subdomain-takeover
 - https://philippeharewood.com/determine-a-user-from-an-email-address/, Information-disclosure

@@ -30,3 +30,4 @@
 - https://geleta.eu/2020/a-tale-of-verbose-error-message-and-jwt-token/
 - https://3bodymo.medium.com/hacking-hackerone-how-computer-vision-helped-uncover-hidden-vulnerabilities-858d03a6a67
 - https://medium.com/@zseano/using-xampp-and-burp-intruder-when-scanning-for-subdomains-to-look-for-interesting-behaviour-code-f24c511d15ed
+- https://philippeharewood.com/instagram-github-token-with-public_scope-found-in-travis-ci-build-logs/
