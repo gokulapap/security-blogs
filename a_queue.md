@@ -1408,7 +1408,6 @@
 - https://infosecwriteups.com/abusing-broken-link-in-fitbit-google-acquisition-to-collect-bugbounty-reports-on-behalf-of-google-5885a556eb7c, Broken-link-hijacking
 - https://medium.com/@tobydavenn/the-tale-of-ssrf-to-rce-on-gov-domain-191185b32b37, SSRF
 - https://github.com/AnkitCuriosity/Write-Ups/blob/main/HTTP%20Desync%20Attack%20(Request%20Smuggling).md, HTTP-Request-Smuggling
-- https://onekey.com/blog/security-advisory-netgear-routers-funjsq-vulnerabilities/, OS-command-injection
 - https://sector7.computest.nl/post/2022-09-unified-automation-opcua-cpp/, DoS
 - https://tamirzb.com/attacking-android-kernel-using-qualcomm-trustzone, Memory-corruption
 - https://cturt.github.io/mast1c0re.html, Memory-corruption
@@ -2594,7 +2593,6 @@
 - https://haxolot.com/posts/2021/moodle_pre_auth_shibboleth_rce_part1/, RCE
 - https://web.archive.org/web/20210927021132/https://0xdln.ml/XSS-Special-Cases/, XSS
 - https://medium.com/bug-bounty/telegram-report-ssrf-leads-to-dos-attack-908bea5f5802, SSRF
-- https://innotommy.com/You’ve%20Got%20%28a%20Reset%29%20Mail.pdf, Password-reset
 - https://cinzinga.com/XXE-Case-Studies/, XXE
 - https://sapt.medium.com/apple-hall-of-fame-for-a-small-misconfiguration-unauth-cache-purging-faf81b19419b, Unauthenticated-cache-purge
 - https://www.shielder.it/advisories/mattermost-server-reflected-xss-oauth/, Reflected-XSS
@@ -2821,7 +2819,6 @@
 - https://privatedrop.github.io, Privacy-issue
 - https://www.lutasecurity.com/post/new-clubhouse-security-vulnerabilities-could-happen-to-any-growing-unicorn, Logic-flaw
 - https://blog.ryotak.me/post/homebrew-security-incident-en/, RCE
-- https://noobx.in/blogs/how-i-was-able-to-inject-xss-payload-into-any-user-s-mailbox, XSS
 - https://websec.nl/blog/606ecfec2f798a048269340e/dmcacom%20hack%20full%20disclosure%20with%20proof-of-concept, Privilege-escalation
 - https://secret.club/2021/04/20/source-engine-rce-invite.html, RCE
 - https://jmrcsnchz.medium.com/playing-with-iframes-bypassing-content-security-policy-987c2f0b8e8a, CSP-bypass
@@ -3822,7 +3819,6 @@
 - https://palant.info/2020/01/13/pwning-avast-secure-browser-for-fun-and-profit, RCE
 - https://faun.pub/in-cloud-we-trust-wrong-kubernetes-implementation-by-google-cloud-platform-microsoft-azure-a60f50ba943f, Old-components-with-known-vulnerabilities
 - https://medium.com/@shahjerry33/no-rate-limit-2k-bounty-642720ffba99, Lack-of-rate-limiting
-- https://medium.com/sourav-sahana/how-i-earn-500-from-razer-open-s3-bucket-fe314e4bbab8, AWS-misconfiguration
 - https://medium.com/@abhishake100/my-first-rce-stressed-employee-gets-me-2x-bounty-c4879c277e37, Unrestricted-file-upload
 - https://medium.com/@know.0nix/hunting-good-bugs-with-only-html-d8fd40d17b38, Open-redirect
 - https://blog.redteam.pl/2020/04/google-chrome-display-locking-fuzzing.html, Use-After-Free
@@ -5071,7 +5067,6 @@
 - https://ysx.me.uk/from-rss-to-xxe-feed-parsing-on-hootsuite/, XSS
 - http://mahmoudsec.blogspot.com/2017/02/sql-injection-in-update-query-bug.html, SQL-injection
 - https://ysx.me.uk/lightweight-markup-a-trio-of-persistent-xss-in-gitlab/, Stored-XSS
-- https://medium.com/@zahidali_93675/vulnerabilities-in-facebook-login-approval-form-dfa5fce92023, Authorization-flaw
 - https://medium.com/@zahidali_93675/conflict-account-recovery-form-in-facebook-2b6e7d203cfd, Logic-flaw
 - https://medium.com/@zahidali_93675/bypassed-facebook-phone-number-security-9e2d34dc063b, Authorization-flaw
 - https://foxglovesecurity.com/2017/02/07/type-juggling-and-php-object-injection-and-sqli-oh-my/, Type-juggling
