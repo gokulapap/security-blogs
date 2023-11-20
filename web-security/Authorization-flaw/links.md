@@ -13,3 +13,4 @@
 - https://samiparyal.medium.com/how-i-could-have-accessed-all-your-private-videos-photos-saved-inside-your-device-without-even-1a7e455ddcc8
 - https://ysamm.com/?p=30
 - https://medium.com/@zahidali_93675/vulnerabilities-in-facebook-login-approval-form-dfa5fce92023
+- https://spaceraccoon.dev/exploiting-improper-validation-amazon-simple-notification-service/

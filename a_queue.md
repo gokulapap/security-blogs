@@ -1480,7 +1480,6 @@
 - https://falcon319.medium.com/my-findings-on-hack-u-s-program-43b692a5c057, Missing-authentication
 - https://mehedishakeel.medium.com/found-sql-injection-vulnerability-on-government-organization-website-3eb33c0c49a4, SQL-injection
 - https://jfrog.com/blog/cve-2021-38297-analysis-of-a-go-web-assembly-vulnerability/, Memory-corruption
-- https://spaceraccoon.dev/exploiting-improper-validation-amazon-simple-notification-service/, Authorization-flaw
 - https://s0md3v.github.io/blog/modsecurity-rce-bypass, WAF-bypass
 - https://www.ambionics.io/blog/hacking-watchguard-firewalls, XPath-injection
 - https://infosecwriteups.com/bypassing-amazon-waf-to-pop-an-alert-4646ce35554e, WAF-bypass
@@ -2309,7 +2308,6 @@
 - https://omespino.com/write-up-apple-bug-bounty-n-a-arbitrary-local-file-read-via-zip-file-and-symlinks-usd/, Arbitrary-file-read
 - https://medium.com/techiepedia/the-tale-of-cve-2021-34479-vscode-xss-b336ba6cf3d6, XSS
 - https://www.oliviaohara.com/keybase, Information-disclosure
-- https://medium.com/manomano-tech/finding-zero-day-vulnerabilities-in-the-supply-chain-28afa43b0f6e, CSTI
 - https://hector0x.medium.com/dos-attack-in-yahoo-how-i-was-able-to-deny-new-users-from-service-6b222e744e61, DoS
 - https://hector0x.medium.com/broken-authentication-through-referral-code-25cd0e8bccc2, Authentication-flaw
 - https://bahruz.me/publications/11847, HTTP-Request-Smuggling
@@ -3533,7 +3531,6 @@
 - https://medium.com/@__mr_beast__/the-accidental-rce-7ceef9cee179, Unrestricted-file-upload
 - https://www.cyberonesecurity.com/blog/local-privilege-escalation-discovered-in-vmware-fusion, Local-Privilege-Escalation
 - https://medium.com/@ricardoiramar/this-is-fine-6e032f497b8f, Information-disclosure
-- https://medium.com/@imunissar786/awesome-host-header-injection-worth-2k-a7e5be1dbb1d, Host-header-injection
 - https://medium.com/bugbountywriteup/xss-to-database-credential-leakage-database-access-story-of-total-luck-77c990be8ab2, Reflected-XSS
 - http://www.firstsight.me/2020/06/from-399-to-1650-usd-part-i-simple-vertical-privilege-escalation-by-changing-http-response/, Privilege-escalation
 - https://medium.com/@th3g3nt3l/multiple-information-exposed-due-to-misconfigured-service-now-itsm-instances-de7a303ebd56, Missing-authentication
@@ -4292,7 +4289,6 @@
 - https://medium.com/@rohitcoder/user-account-takeover-password-change-nice-catch-2293f4d272b2, Account-takeover
 - https://omespino.com/write-up-1000-usd-in-5-minutes-xss-stored-in-outlook-com-ios-browsers/, Stored-XSS
 - https://blog.ripstech.com/2019/wordpress-csrf-to-rce/, CSRF
-- https://medium.com/@ZishanAdThandar/my-first-stored-xss-on-edmodo-com-540a33349662, Stored-XSS
 - https://medium.com/@GeneralEG/hack-your-form-new-vector-for-blind-xss-b7a50b808016, Blind-XSS
 - https://medium.com/@newp_th/how-i-find-blind-xss-vulnerability-in-redacted-com-33af18b56869, Blind-XSS
 - https://medium.com/cesppa/escalating-ssrf-to-rce-f28c482eb8b9, SSRF
@@ -4702,7 +4698,6 @@
 - https://hateshape.github.io/general/2018/06/07/CVE-2018-8819.html, XXE
 - https://hateshape.github.io/general/2018/07/05/CVE-2016-3473.html, XXE
 - https://medium.com/bugbountywriteup/latex-to-rce-private-bug-bounty-program-6a0b5b33d26a, RCE
-- https://samcurry.net/the-12000-intersection-between-clickjacking-xss-and-denial-of-service/, Clickjacking
 - https://www.nahamsec.com/posts/chaining-multiple-vulnerabilities-to-gain-admin-access, IDOR
 - https://leigh-annegalloway.com/tumblr/, Captcha-bypass
 - https://www.cyberonesecurity.com/blog/unauthenticated-command-injection-vulnerability-in-vmware-nsx-sd-wan-by-velocloud, OS-command-injection

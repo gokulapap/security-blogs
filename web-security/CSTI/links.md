@@ -1,1 +1,2 @@
 - https://orca.security/resources/blog/fabrixss-vulnerability-azure-fabric-explorer/
+- https://medium.com/manomano-tech/finding-zero-day-vulnerabilities-in-the-supply-chain-28afa43b0f6e
