@@ -32,3 +32,4 @@
 - https://codeburst.io/hunting-insecure-direct-object-reference-vulnerabilities-for-fun-and-profit-part-1-f338c6a52782
 - https://bugreader.com/social/write-ups-general-delete-any-video-or-reel-on-facebook-11-250--100965
 - https://medium.com/@ryuukhagetsu/how-i-get-bounty-from-takeover-account-ed17cd838b2a
+- https://xcoder074.medium.com/bac-idor-how-my-father-credit-card-help-me-to-find-this-access-control-issue-7ff7c1ae463e

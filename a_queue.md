@@ -32,7 +32,6 @@
 - https://medium.com/@koroush.pub/10-practical-recon-vulnerability-scanners-for-bug-hunters-part-one-31460b4f642e, recon
 - https://medium.com/@vickieli/intro-to-ssrf-beb35857771f, ssrf
 - https://medium.com/@kotakbhavak/a-csrf-worth-the-wait-and-404c6b531789, csrf
-- https://medium.com/@tutorialboy/bypassing-php-waf-to-achieve-remote-code-execution-in-depth-analysis-f42eb6e633fa, bypass
 - https://medium.com/@unshoulder_supersedes/how-i-earned-47000-usd-as-a-high-school-student-a9a68896b3a3, journey
 - https://medium.com/@nanwinata/rce-docker-api-but-11ff70825935, Cloud
 - https://medium.com/@lazyhacker/ways-to-exploit-json-csrf-simple-explanation-5e77c403ede6, csrf
@@ -1081,7 +1080,6 @@
 - https://starlabs.sg/blog/2022/12-the-last-breath-of-our-netgear-rax30-bugs-a-tragic-tale-before-pwn2own-toronto-2022/, Command-injection
 - https://medium.com/@cybercitizen.tech/how-we-breached-zdfheute-live-on-television-7530509b91be, Information-disclosure
 - https://starlabs.sg/blog/2022/12-the-hole-new-world-how-a-small-leak-will-sink-a-great-browser-cve-2021-38003/, Memory-corruption
-- https://xcoder074.medium.com/bac-idor-how-my-father-credit-card-help-me-to-find-this-access-control-issue-7ff7c1ae463e, IDOR
 - https://ag3n7.medium.com/otp-leaking-through-cookie-leads-to-account-takeover-4fb96f255e2f, Information-disclosure
 - https://www.pmnh.site/post/writeup_spring_el_waf_bypass/, SSTI
 - https://blog.nietaanraken.nl/posts/gitub-popular-repository-namespace-retirement-bypass/, Repojacking
@@ -1518,7 +1516,6 @@
 - https://checkmarx.com/blog/amazon-quickly-fixed-a-vulnerability-in-ring-android-app-that-could-expose-users-camera-recordings/, XSS
 - https://monke.ie/xss-by-javascript-overriding/, XSS
 - https://blog.78researchlab.com/b9c80d00-d935-43b1-8805-969000df301d, DoS
-- https://www.cyberark.com/resources/threat-research-blog/trust-me-i-m-a-robot-can-we-trust-rpa-with-our-most-guarded-secrets, Robotic-Process-Automation
 - https://www.whiteoaksecurity.com/blog/fishbowl-disclosure-cve-2022-29805/, Insecure-deserialization
 - https://blog.orange.tw/2022/08/lets-dance-in-the-cache-destabilizing-hash-table-on-microsoft-iis.html, DoS
 - https://spaceraccoon.dev/exploiting-icalendar-properties-enterprise-applications/, XSS
@@ -3184,7 +3181,6 @@
 - https://medium.com/@prakashpanta1999/replying-comments-on-someones-livestream-from-page-is-posted-as-personal-identity-5fe79ef78b28, Logic-flaw
 - https://www.rcesecurity.com/2020/11/Smuggling-an-un-exploitable-xss/, HTTP-Request-Smuggling
 - https://medium.com/@guhanraja/how-i-found-the-facebook-messenger-leaking-access-token-of-million-users-8ee4b3f1e5e3, Information-disclosure
-- https://medium.com/@mrnikhilsri/interesting-case-of-sqli-84cc3f4a5255, SQL-injection
 - https://samiparyal.medium.com/commenting-on-a-post-by-opening-it-via-pages-news-feed-goes-from-a-wrong-actor-i-e-56fab4cf5a91, Information-disclosure
 - https://medium.com/@aryalsamipofficial59/users-private-watched-videos-list-saved-videos-etc-30faa8610b33, Information-disclosure
 - https://medium.com/bugbountywriteup/evading-filters-to-perform-the-arbitrary-url-redirection-attack-cce628b9b6a0, Open-redirect
@@ -5022,7 +5018,6 @@
 - https://www.seekurity.com/blog/general/metasploit-web-project-kill-all-running-tasks-csrf-cve-2017-5244/, CSRF
 - https://www.seekurity.com/blog/write-ups/godaddy-xss-affects-parked-domains-redirector-processor, Reflected-XSS
 - https://medium.com/bugbountywriteup/whatsapp-dos-vulnerability-in-ios-android-d896f76d3253, DoS
-- http://c0rni3sm.blogspot.com/2017/06/from-js-to-another-js-files-lead-to.html, Authentication-bypass
 - https://medium.com/bugbountywriteup/how-i-got-5500-from-yahoo-for-rce-92fffb7145e6, RCE
 - https://seanmelia.files.wordpress.com/2017/06/django-privilege-escalation-e28093-zero-to-superuser.pdf, Privilege-escalation
 - https://www.rafaybaloch.com/2017/06/stored-xss-csrf-and-clickjacking.html, Stored-XSS
