@@ -29,3 +29,5 @@
 - https://yeuchimse.com/remote-code-execution-limesurvey-cve-2018-7556/
 - https://blog.assetnote.io/2022/09/14/rce-in-bitbucket-server/
 - https://omespino.com/write-up-google-vrp-n-a-sandboxed-rce-as-root-on-apigee-api-proxies/
+- https://blog.ripstech.com/2018/wordpress-design-flaw-leads-to-woocommerce-rce/
+- https://medium.com/realmodelabs/sd-pwn-part-4-vmware-velocloud-the-last-takeover-a7016f9a9175

@@ -14,3 +14,5 @@
 - https://blog.stazot.com/auth-bypass-in-google-cloud-workstations/
 - https://medium.com/@metikalakullai.gtl/my-p1-account-takeover-3293fc59e10
 - https://chaosdb.wiz.io
+- https://shahjerry33.medium.com/account-takeover-smoking-with-null-e43df2c3bb41
+- https://medium.com/@androgaming1912/story-about-facebook-oauth-account-takeover-6537ff32281b

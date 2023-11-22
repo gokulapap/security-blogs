@@ -14,3 +14,4 @@
 - https://ysamm.com/?p=30
 - https://medium.com/@zahidali_93675/vulnerabilities-in-facebook-login-approval-form-dfa5fce92023
 - https://spaceraccoon.dev/exploiting-improper-validation-amazon-simple-notification-service/
+- https://medium.com/bugbountywriteup/distorted-and-undeletable-posts-in-facebook-group-9424e15f5551

@@ -2946,7 +2946,6 @@
 - https://priyankn.github.io/2021-02-26-CVE-2020-13956/, Blind-SSRF
 - https://web.archive.org/web/20210226210519/https://savirsuda.github.io/IDOR-to-view-personal-email-addresses-of-more-than-50k-users/, IDOR
 - https://blog.deesee.xyz/fuzzing/security/2021/02/26/ssrf-bypassing-hostname-restrictions-fuzzing.html, SSRF
-- https://shahjerry33.medium.com/account-takeover-smoking-with-null-e43df2c3bb41, Account-takeover
 - https://saajan.bhujel.cyou/blog/web/2021-02-26-password-reset-token-leak-via-x-forwarded-host, Host-header-injection
 - https://blog.scrt.ch/2021/02/25/stealing-user-passwords-through-a-vpns-sso/, Open-redirect
 - https://galnagli.com/Cache_Poisoning/, Web-cache-poisoning
@@ -3154,7 +3153,6 @@
 - https://shellbr3ak.medium.com/the-story-of-my-first-critical-bug-93a5920d6c43, SQL-injection
 - https://rafipiun.medium.com/how-i-got-easy-for-sql-injection-bug-7ff622236e4c, SQL-injection
 - https://vijetareigns.medium.com/pre-account-takeover-using-oauth-misconfiguration-ebd32b80f3d3, OAuth
-- https://medium.com/realmodelabs/sd-pwn-part-4-vmware-velocloud-the-last-takeover-a7016f9a9175, RCE
 - https://fuomag9.medium.com/how-images-on-github-will-leak-your-private-information-88f3b563e7d9, Information-disclosure
 - https://medium.com/bugbountywriteup/reflected-cross-site-scripting-on-private-program-bounty-750-34cc67a931f1, Reflected-XSS
 - https://medium.com/realmodelabs/sd-pwn-part-3-cisco-vmanage-another-day-another-network-takeover-15731a4d75b7, RCE
@@ -4070,7 +4068,6 @@
 - https://web.archive.org/web/20200928235705/https://www.mohamedharon.com/2019/07/github-takeover.html, Github-account-takeover
 - https://medium.com/@nahoragg/chaining-cache-poisoning-to-stored-xss-b910076bda4f, Web-cache-poisoning
 - https://medium.com/@ronak_9889/solr-injection-by-abusing-local-parameters-on-zomato-com-a5cb7bef10d5, Solr-injection
-- https://medium.com/@androgaming1912/story-about-facebook-oauth-account-takeover-6537ff32281b, Account-takeover
 - https://web.archive.org/web/20200826192345/https://pwnsec.ninja/2019/07/26/facebook-bugbounty-tale-of-an-instagram-bug-disclosing-users-phone-number-via-checkpoint/, Information-disclosure
 - https://web.archive.org/web/20201008153910/https://medium.com/@adeshkolte/full-account-takeover-changing-email-and-password-of-any-user-through-api-parameters-3d527ab27240, IDOR
 - https://apapedulimu.click/price-parameter-tampering-on-bukalapak/, Parameter-tampering
@@ -4492,7 +4489,6 @@
 - https://medium.com/@rohitcoder/object-name-exposure-ing-bank-responsible-disclosure-program-1f8f808cc789, Information-disclosure
 - https://medium.com/bugbountywriteup/how-i-earned-5040-from-twitter-by-showing-a-way-to-harvest-other-users-ip-address-e9f43c931e9a, Information-disclosure
 - https://medium.com/@prial261/vine-users-private-information-disclosure-f1c55a3abbb6, IDOR
-- https://blog.ripstech.com/2018/wordpress-design-flaw-leads-to-woocommerce-rce/, RCE
 - https://medium.com/@tim.kent/xss-in-dynamics-365-25c800aac473, XSS
 - https://paper.seebug.org/737/, Stored-XSS
 - https://medium.com/bugbountywriteup/duplicate-but-still-cool-236835685075, IDOR
@@ -4631,7 +4627,6 @@
 - https://sites.google.com/securifyinc.com/secblogs/uber-business-support-bug, Ticket-Trick
 - https://medium.com/@friendly_/xss-at-hubspot-and-xss-in-email-areas-674fa39d5248, XSS
 - https://medium.com/bugbountywriteup/idor-leads-to-getting-access-tokens-of-users-linked-to-google-drive-on-edmodo-3978017134bd, IDOR
-- https://medium.com/bugbountywriteup/distorted-and-undeletable-posts-in-facebook-group-9424e15f5551, Authorization-flaw
 - http://blog.orange.tw/2018/08/how-i-chained-4-bugs-features-into-rce-on-amazon.html, RCE
 - https://medium.com/@justmorpheus/s3-bucket-misconfiguration-in-amazon-a7da6a6e02ea, AWS-misconfiguration
 - https://medium.com/bugbountywriteup/adminer-script-results-to-pwning-server-private-bug-bounty-program-fe6d8a43fe6f, Authentication-bypass
