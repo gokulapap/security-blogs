@@ -15,3 +15,4 @@
 - https://medium.com/@zahidali_93675/vulnerabilities-in-facebook-login-approval-form-dfa5fce92023
 - https://spaceraccoon.dev/exploiting-improper-validation-amazon-simple-notification-service/
 - https://medium.com/bugbountywriteup/distorted-and-undeletable-posts-in-facebook-group-9424e15f5551
+- https://medium.com/@johnssimon_6607/getting-access-to-disabled-hidden-features-with-the-help-of-burp-match-and-replace-e1d7b70d131e

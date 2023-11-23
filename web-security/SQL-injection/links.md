@@ -10,3 +10,4 @@
 - https://eslam.io/posts/practical-exploitation-of-error-based-sql-injection
 - https://medium.com/@janirudransh/automating-sql-injection-on-encrypted-request-21a43aa2e7ef
 - https://medium.com/@mrnikhilsri/interesting-case-of-sqli-84cc3f4a5255
+- https://bitquark.co.uk/blog/2014/08/31/popping_a_shell_on_the_oculus_developer_portal

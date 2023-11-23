@@ -2945,7 +2945,6 @@
 - https://infosecwriteups.com/somebody-call-the-plumber-graphql-is-leaking-again-654bf1a38d26, Information-disclosure
 - https://priyankn.github.io/2021-02-26-CVE-2020-13956/, Blind-SSRF
 - https://web.archive.org/web/20210226210519/https://savirsuda.github.io/IDOR-to-view-personal-email-addresses-of-more-than-50k-users/, IDOR
-- https://blog.deesee.xyz/fuzzing/security/2021/02/26/ssrf-bypassing-hostname-restrictions-fuzzing.html, SSRF
 - https://saajan.bhujel.cyou/blog/web/2021-02-26-password-reset-token-leak-via-x-forwarded-host, Host-header-injection
 - https://blog.scrt.ch/2021/02/25/stealing-user-passwords-through-a-vpns-sso/, Open-redirect
 - https://galnagli.com/Cache_Poisoning/, Web-cache-poisoning
@@ -3886,7 +3885,6 @@
 - https://web.archive.org/web/20211106053748/https://eng.getwisdom.io/hacking-github-with-unicode-dotless-i/, Logic-flaw
 - https://ysamm.com/?p=343, Reflected-XSS
 - https://lf.lc/vrp/145304705/, Site-Isolation-bypass
-- https://medium.com/@johnssimon_6607/getting-access-to-disabled-hidden-features-with-the-help-of-burp-match-and-replace-e1d7b70d131e, Authorization-flaw
 - https://pastebin.com/E6LMFm2w, HTTP-request-smuggling
 - https://medium.com/@tristanfarkas/finding-a-security-bug-in-discord-and-what-it-taught-me-516cda561295, OAuth
 - https://medium.com/@mashoud1122/cors-misconfiguration-account-takeover-out-of-scope-to-grab-items-in-scope-66d9d18c7a46, CORS-misconfiguration
@@ -4476,7 +4474,6 @@
 - https://publish.whoisbinit.me/unauthorized-comments-on-facebook-live-stream, Privilege-escalation
 - https://philippeharewood.com/disclose-page-admins-via-gaming-dashboard-bans/, Information-disclosure
 - https://medium.com/@ritishkumarsingh/facebook-vulnerability-hiding-from-the-view-of-business-admin-in-the-business-manager-a04515fee9dd, Logic-flaw
-- https://blog.fadyothman.com/how-i-discovered-xss-that-affects-over-20-uber-subdomains/, XSS
 - https://medium.com/@maxpasqua/breaking-appointments-and-job-interview-schedules-with-malformed-times-edef103e46ba, DoS
 - https://xlab.tencent.com/en/2018/11/13/cve-2018-4277/, Browser-hacking
 - https://medium.com/@mrnikhilsri/oob-xxe-in-prizmdoc-cve-2018-15805-dfb1e474345c, OOB-XXE
@@ -5164,7 +5161,6 @@
 - https://blog.darabi.me/2015/04/bypass-facebook-csrf.html, CSRF
 - https://blog.zimperium.com/telegram-hack/, Privacy-issue
 - https://buer.haus/2015/02/03/google-com-mobile-feedback-url-redirect-regexvalidation-flaw/, Open-redirect
-- https://buer.haus/2015/01/21/admin-google-com-reflected-cross-site-scripting-xss/, Reflected-XSS
 - https://buer.haus/2015/01/15/yahoo-root-access-sql-injection-tw-yahoo-com/, SQL-injection
 - https://blog.it-securityguard.com/bugbounty-papyal-xml-upload-cross-site-scripting-vulnerability, XSS
 - https://www.yassineaboukir.com/blog/how-I-discovered-a-1000$-open-redirect-in-facebook/, Open-redirect
@@ -5179,7 +5175,6 @@
 - https://blog.it-securityguard.com/bugbounty-the-5000-google-xss, XSS
 - https://blog.it-securityguard.com/bugbounty-yahoo-phpinfo-php-disclosure-2/, Information-disclosure
 - https://josipfranjkovic.blogspot.com/2014/09/step-by-step-exploiting-sql-injection.html, SQL-injection
-- https://bitquark.co.uk/blog/2014/08/31/popping_a_shell_on_the_oculus_developer_portal, SQL-injection
 - https://ahussam.me/Flickr-CSRF/, XSRF
 - https://blog.it-securityguard.com/bug-bounty-prezi-map-prezi-com-path-traversal/, Path-traversal
 - https://maustin.net/google_docs, Clickjacking
