@@ -2018,7 +2018,6 @@
 - https://medium.com/@tobydavenn/how-i-was-able-to-takeover-any-users-account-on-a-major-telecoms-website-2cd5aa43e3d6, XSS
 - https://medium.com/@girishbo58/rate-limit-bypass-at-readme-com-35c4fb0c7f85, Lack-of-rate-limiting
 - https://medium.com/@tobydavenn/how-i-was-able-to-read-any-users-confidential-reports-on-a-public-level-domain-1e563857b0b9, IDOR
-- https://medium.com/@tobydavenn/how-i-was-able-to-wipe-any-registered-account-3b738afc389, Logic-flaw
 - https://prajwoldhungana487.medium.com/demographic-misconfiguration-9359910c6fcf, Logic-flaw
 - https://ssd-disclosure.com/ssd-advisory-netgear-dgnd3700v2-preauth-root-access/, Authentication-bypass
 - https://testbnull.medium.com/oracle-access-manager-pre-auth-rce-cve-2021-35587-analysis-1302a4542316, RCE
@@ -4122,7 +4121,6 @@
 - https://philippeharewood.com/toggle-group-rules-agreement-as-a-non-member/, Authorization-flaw
 - https://medium.com/@dr.spitfire/sensitive-information-disclosure-web-cache-deception-attack-bcac6cb9cd86?sk=a2557f0c557ff38876141c2d94b296dd, Information-disclosure
 - https://philippeharewood.com/download-arexport-files-for-any-public-ar-studio-effect/, IDOR
-- https://medium.com/@navne3t/csv-injection-at-comment-section-d5009ddd176, CSV-injection
 - https://web.archive.org/web/20201001064738/https://medium.com/@protector47/password-reset-vulnerability-full-account-takeover-insecure-direct-object-reference-c4a9a3ea8268, Password-reset
 - https://medium.com/@evilboyajay/page-admin-disclosure-facebook-bug-bounty-2019-ee9920e768eb, Authorization-flaw
 - https://www.f5.com/labs/articles/threat-intelligence/how-i-hacked-the-microsoft-outlook-android-app-and-found-cve-2019-1105, XSS
@@ -4458,7 +4456,6 @@
 - https://www.hackerinside.me/2018/11/critical-stored-xss-vulnerability.html, Stored-XSS
 - https://medium.com/@pratheesh.p.narayanan/bypassing-scratch-cards-on-google-pay-8915d5423385, Logic-flaw
 - https://medium.com/@zain.sabahat/exploiting-ssrf-like-a-boss-c090dc63d326, SSRF
-- https://medium.com/@zain.sabahat/an-interesting-xxe-in-sap-8b35fec6ef33, XXE
 - https://medium.com/@vignesh4303/how-i-hacked-netflix-users-use-it-free-forever-9febb1427262, Cookie-injection
 - https://medium.com/@luanherrera/xs-searching-googles-bug-tracker-to-find-out-vulnerable-source-code-50d8135b7549, XS-Search
 - https://quitten.github.io/Youtube/, Open-redirect
@@ -4570,7 +4567,6 @@
 - https://bugbounty.blog/2018/09/18/facebook-750-reward-for-a-simple-bug/, Authentication-bypass
 - https://medium.com/@jonathanbouman/reflected-xss-at-philips-com-e48bf8f9cd3c, Reflected-XSS
 - https://randywestergren.com/xss-vulnerabilities-in-multiple-iframe-busters-affecting-top-tier-sites/, XSS
-- https://medium.com/bugbountywriteup/user-account-takeover-in-indias-largest-digital-business-company-c7b6d61dadb9, Account-takeover
 - https://blog.securitybreached.org/2018/09/16/idor-account-takeover-using-facebook/, IDOR
 - https://web.archive.org/web/20200811013311/https://medium.com/@protector47/persistent-cross-site-scripting-on-redacted-worth-2-000-1e760617ccab, Stored-XSS
 - https://medium.com/intigriti/how-i-hijacked-your-account-when-you-opened-my-cat-picture-9a0a0acca9e8, Logout-CSRF
@@ -5138,7 +5134,6 @@
 - https://bitquark.co.uk/blog/2016/02/09/how_i_got_access_to_millions_of_redacted_accounts, RFI
 - https://portswigger.net/research/xss-without-html-client-side-template-injection-with-angularjs, CSTI
 - https://whitton.io/articles/xss-on-facebook-via-png-content-types, XSS
-- http://artsploit.blogspot.com/2016/01/paypal-rce.html, RCE
 - https://medium.com/bugbountywriteup/broken-access-control-in-bingmapsportal-a012bffd2c43, Broken-Access-Control
 - https://medium.com/bugbountywriteup/how-i-got-listed-in-microsoft-hall-of-fame-8f96ca4535c2, IDOR
 - http://exfiltrated.com/research-Instagram-RCE.php, RCE

@@ -24,3 +24,4 @@
 - https://www.symbo1.com/articles/2019/01/25/fb-change-product-availability-as-pageanalyst.html
 - https://medium.com/@oXnoOneXo/improper-authentication-in-android-app-aa855227e6f1
 - https://medium.com/@pratheesh.p.narayanan/misconfiguration-whatsapp-messenger-1f0f1cf3ef00
+- https://medium.com/@tobydavenn/how-i-was-able-to-wipe-any-registered-account-3b738afc389

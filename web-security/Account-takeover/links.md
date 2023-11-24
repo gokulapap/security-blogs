@@ -16,3 +16,4 @@
 - https://chaosdb.wiz.io
 - https://shahjerry33.medium.com/account-takeover-smoking-with-null-e43df2c3bb41
 - https://medium.com/@androgaming1912/story-about-facebook-oauth-account-takeover-6537ff32281b
+- https://medium.com/bugbountywriteup/user-account-takeover-in-indias-largest-digital-business-company-c7b6d61dadb9
