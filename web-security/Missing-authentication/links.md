@@ -1,1 +1,2 @@
 - https://systemweakness.com/rooting-jenkins-remote-code-execution-on-a-live-bug-bounty-target-fc2c12d89a2e
+- https://pratikkhalane91.medium.com/unauthenticated-access-to-mongodb-database-of-oracle-corporation-d825c271267a

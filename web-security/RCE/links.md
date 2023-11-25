@@ -32,3 +32,4 @@
 - https://blog.ripstech.com/2018/wordpress-design-flaw-leads-to-woocommerce-rce/
 - https://medium.com/realmodelabs/sd-pwn-part-4-vmware-velocloud-the-last-takeover-a7016f9a9175
 - http://artsploit.blogspot.com/2016/01/paypal-rce.html
+- https://medium.com/csg-govtech/all-your-d-base-are-belong-to-us-part-1-code-execution-in-apache-openoffice-cve-2021-33035-767fc7d6daf7

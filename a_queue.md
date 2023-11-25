@@ -2436,7 +2436,6 @@
 - https://fardeen-ahmed.medium.com/a-small-change-and-things-go-in-your-hand-story-of-a-250-bounty-5ddc43c31463, Information-disclosure
 - https://u-itachi.medium.com/from-phpinfo-page-to-many-p1-bugs-and-rce-symfony-bce432605662, File-disclosure
 - https://mikekitckchan.medium.com/from-google-dorking-to-information-disclosure-5da4f1d771e5, Information-disclosure
-- https://medium.com/csg-govtech/all-your-d-base-are-belong-to-us-part-1-code-execution-in-apache-openoffice-cve-2021-33035-767fc7d6daf7, RCE
 - https://medium.com/hacking-info-sec/how-to-have-free-internet-wifi-on-united-airlines-flights-65ead4087bc9, Payment-tampering
 - https://medium.com/@sarveshblogs/a-small-tale-of-account-takeover-2eba07a6ef5f, IDOR
 - https://pwnsauc3.medium.com/weaponizing-reflected-xss-to-account-takeover-ae8aeea7aca3, XSS
@@ -2598,7 +2597,6 @@
 - https://imajk.medium.com/story-of-my-3rd-bounty-from-facebook-fef352853d1b, Logic-flaw
 - https://github.com/vanhoefm/fragattacks#fragattacks-fragmentation--aggregation-attacks, Wifi
 - https://craighays.com/pre-account-takeover-by-reversing-a-weak-email-verification-token-algorithm/, Weak-crypto
-- https://pratikkhalane91.medium.com/unauthenticated-access-to-mongodb-database-of-oracle-corporation-d825c271267a, Missing-authentication
 - https://www.r29k.com/articles/bb/self-xss-to-stored-xss, Self-XSS
 - https://microsoftedge.github.io/edgevr/posts/attacking-the-devtools/, Browser-hacking
 - https://web.archive.org/web/20210924032932/https://0xdln.ml/XSS-Through-Fuzzing-Default-IIS/, Reflected-XSS
@@ -3608,7 +3606,6 @@
 - https://sites.google.com/securifyinc.com/vrp-writeups/hire-with-google/xsses, Stored-XSS
 - https://sites.google.com/securifyinc.com/vrp-writeups/gsuite/bookmark-xss-device-management, XSS
 - https://gyanihackers.com/blog/cool-paste-jacking-attack/, Paste-jacking
-- https://opnsec.com/2020/05/dom-xss-in-gmail-with-a-little-help-from-chrome, DOM-XSS
 - https://medium.com/@sandeepkumarsingh1902/bugbounty-adding-money-using-response-modification-334448d34251, Payment-tampering
 - https://medium.com/@rohitcoder/private-dashboards-were-accessible-by-other-admins-in-analytics-dashboard-558010a379ab, Authorization-flaw
 - https://medium.com/@impratikdabhi/reflected-xss-on-microsoft-com-via-angular-template-injection-2e26d80a7fd8, CSTI
@@ -4042,7 +4039,6 @@
 - https://initblog.com/2019/switcheroo/, SSRF
 - https://medium.com/@protostar0/break-and-bypass-verification-email-ac3359041272, Open-redirect
 - https://medium.com/@protostar0/crlf-injection-allow-cookie-injection-in-root-domain-xss-812cd807ba5b, CRLF-injection
-- https://medium.com/@protostar0/self-xss-to-stored-xss-think-out-the-box-44b094f113f9, Self-XSS
 - http://mahmoudsec.blogspot.com/2019/08/exploiting-out-of-band-xxe-using.html, XXE
 - https://medium.com/@04sabsas/bugbounty-writeup-creative-thinking-is-our-everything-race-condition-business-logic-error-2f3e82b9aa17, Race-condition
 - https://learn.hackersid.com/2019/08/stored-xss-on-laporbugid.html, Stored-XSS
@@ -4691,7 +4687,6 @@
 - https://0xpatrik.com/subdomain-takeover-starbucks/, Subdomain-takeover
 - https://medium.com/@yassergersy/account-take-over-via-reset-password-f2e9d887bce1, Password-reset
 - https://www.coengoedegebure.com/how-i-got-access-to-local-aws-info-via-jira/, SSRF
-- https://kongwenbin.com/fastest-fix-on-open-bug-bounty-platform, Reflected-XSS
 - https://medium.com/@jonathanbouman/how-i-hacked-apple-com-unrestricted-file-upload-bcda047e27e3, Unrestricted-file-upload
 - https://blog.bentkowski.info/2018/06/xss-in-google-colaboratory-csp-bypass.html, XSS
 - https://medium.com/@cachemoney/using-a-github-app-to-escalate-to-an-organization-owner-for-a-10-000-bounty-4ec307168631, Authorization-flaw

@@ -9,3 +9,4 @@
 - https://mohamedtarekq.medium.com/defeat-the-httponly-flag-to-achieve-account-takeover-rxss-c16849d3d192
 - https://medium.com/@abaykandotcom/olx-bug-bounty-reflected-xss-adb3095cd525
 - https://buer.haus/2015/01/21/admin-google-com-reflected-cross-site-scripting-xss/
+- https://kongwenbin.com/fastest-fix-on-open-bug-bounty-platform
