@@ -1780,7 +1780,6 @@
 - https://gatolouco.medium.com/exploiting-amazon-active-vulnerability-d2554c8c7ffd, Payment-bypass
 - https://www.zerodayinitiative.com/blog/2022/6/7/cve-2022-26937-microsoft-windows-network-file-system-nlm-portmap-stack-buffer-overflow, Buffer-Overflow
 - https://liman.io/blog/gitlab-security-vulnerability-jupyter-notebooks, HTML-injection
-- https://medium.com/@ao64400225/an-unusual-way-to-find-xss-injection-in-one-minute-9ed2c7e2a848, CSTI
 - https://security.humanativaspa.it/multiple-vulnerabilities-in-zyxel-zysh/, OS-command-injection
 - https://gccybermonks.com/posts/ssrfvision/, SSRF
 - https://machevalia.blog/blog/ivanti-epm-remote-code-execution, RCE
@@ -1922,7 +1921,6 @@
 - https://blog.fadyothman.com/metas-sparkar/, RCE
 - https://ahmadaabdulla.medium.com/vulnerabilitymultiple-vulnerability-leading-to-account-takeover-in-tiktok-smb-subdomain-c99e4a50b377, IDOR
 - https://gokulap.medium.com/how-i-got-access-to-1600k-users-pii-data-64a27a540963, Information-disclosure
-- https://tech-blog.cymetrics.io/en/posts/huli/erpnext-ssrf-and-xss-to-account-takeover/, SSRF
 - https://www.secureworks.com/research/azure-active-directory-exposes-internal-information, Cloud
 - https://crypt0g30rgy.github.io/post/PaymentBypassThree, Payment-bypass
 - https://haxatron.gitbook.io/vulnerability-research/vr1, Broken-Access-Control
@@ -3626,7 +3624,6 @@
 - https://www.shielder.it/blog/1-click-rce-on-keybase/, RCE
 - https://blog.evanricafort.com/2020/04/xss-in-peerio-2-windows-application.html, XSS
 - https://web.archive.org/web/20200426140225/https://medium.com/@aungpyaehackeronetester/web-cache-poisoning-in-postmates-1500-a67eee4fc118, Web-cache-poisoning
-- https://medium.com/@hbothra22/from-recon-to-p1-critical-an-easy-win-6ca93d5b6e6d, Exposed-registration-page
 - https://medium.com/@aungpyaehackeronetester/two-factor-authentication-bypass-50-5b397e68cfed, MFA-bypass
 - https://wongmjane.com/blog/messenger-rooms-writeup, Privilege-escalation
 - https://baibhavjha.com.np/blogs/hidinginclosefriendlist/, Authorization-flaw
@@ -3786,7 +3783,6 @@
 - https://medium.com/@naveenroy008/tale-of-a-misconfiguration-in-password-reset-e8fb484a4661, Password-reset
 - https://web.archive.org/web/20200825001615/https://hazana.xyz/posts/escalating-reflected-xss-with-http-smuggling/, Reflected-XSS
 - https://www.amolbaikar.com/xss-on-facebook-instagram-cdn-server-bypassing-signature-protection/, XSS
-- https://www.amolbaikar.com/disclose-facebook-business-account-id/, Information-disclosure
 - https://www.amolbaikar.com/xss-on-facebooks-acquisition-oculus-cdn-server/, XSS
 - https://blog.securitybreached.org/2020/01/26/improper-input-validation-add-custom-text-and-urls-in-sms-send-by-snapchat-bug-bounty-poc/, Parameter-tampering
 - https://medium.com/bugbountywriteup/accidental-idor-that-deleted-admin-account-d51264292b66, IDOR
@@ -3803,7 +3799,6 @@
 - https://irsl.medium.com/the-trouble-with-microsofts-troubleshooters-6e32fc80b8bd, RCE
 - https://xvnpw.github.io/posts/from-dot-in-regex-to-ssrf-part-2/, SSRF
 - https://palant.info/2020/01/13/pwning-avast-secure-browser-for-fun-and-profit, RCE
-- https://faun.pub/in-cloud-we-trust-wrong-kubernetes-implementation-by-google-cloud-platform-microsoft-azure-a60f50ba943f, Old-components-with-known-vulnerabilities
 - https://medium.com/@shahjerry33/no-rate-limit-2k-bounty-642720ffba99, Lack-of-rate-limiting
 - https://medium.com/@abhishake100/my-first-rce-stressed-employee-gets-me-2x-bounty-c4879c277e37, Unrestricted-file-upload
 - https://medium.com/@know.0nix/hunting-good-bugs-with-only-html-d8fd40d17b38, Open-redirect

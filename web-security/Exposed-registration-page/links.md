@@ -1,1 +1,2 @@
 - https://medium.com/@kandar.souvik6/found-vulnaribility-on-subdomain-of-nasa-gov-simply-using-censys-d93f253ff560
+- https://medium.com/@hbothra22/from-recon-to-p1-critical-an-easy-win-6ca93d5b6e6d

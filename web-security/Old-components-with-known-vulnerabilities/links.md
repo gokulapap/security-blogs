@@ -1,0 +1,1 @@
+- https://faun.pub/in-cloud-we-trust-wrong-kubernetes-implementation-by-google-cloud-platform-microsoft-azure-a60f50ba943f

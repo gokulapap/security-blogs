@@ -24,3 +24,4 @@
 - https://www.yassineaboukir.com/blog/exploiting-a-double-edged-SSRF-for-server-and-client-side-impact/
 - https://blog.assetnote.io/2022/06/09/whatsup-gold-exploit/
 - https://blog.deesee.xyz/fuzzing/security/2021/02/26/ssrf-bypassing-hostname-restrictions-fuzzing.html
+- https://tech-blog.cymetrics.io/en/posts/huli/erpnext-ssrf-and-xss-to-account-takeover/
