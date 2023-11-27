@@ -198,7 +198,6 @@
 - https://medium.com/@vuk.ivanovic9000/salesforce-bug-hunting-to-critical-bug-b5da44789d3, critical-bugs
 - https://medium.com/@sagarsajeev/escalating-open-redirect-to-xss-d2b9355e5f05, open-redirection
 - https://medium.com/@dcube.merlin/basic-web-security-testing-apis-58f37e01a730, api
-- https://medium.com/@muhammedfarish007/how-i-found-a-csrf-vulnerability-on-a-bugcrowd-program-8dd7dbb5d091, csrf
 - https://medium.com/@pyrrhon/how-i-was-able-to-take-over-one-of-dells-subdomains-7e06b8516e41, STO
 - https://medium.com/@gpiechnik/afrog-explained-for-bug-hunters-ed1497d5aaf5, automation
 - https://medium.com/@who1am1i999/how-i-found-reflected-xss-in-users-login-page-on-public-program-f2c9f6580ed7, XSS
@@ -781,7 +780,6 @@
 - https://m3ez.medium.com/how-i-found-dom-based-xss-on-microsoft-msrc-and-how-they-fixed-it-8b71a6020c82, DOM-XSS
 - https://parkerzanta.medium.com/how-do-i-take-over-another-user-subdomain-name-worth-c66bb0c3f2f7, Subdomain-takeover
 - https://www.whiteoaksecurity.com/blog/logicaldoc-vulnerability-disclosure/, XXE
-- https://cylect.io/blog/cybr-2/exploit-airlines-to-get-free-wifi-airline-vulnerability-8, Wifi
 - https://github.blog/2023-02-23-the-code-that-wasnt-there-reading-memory-on-an-android-device-by-accident/, Kernel-hacking
 - https://sensepost.com/blog/2023/decoding-blazorpack/, Websockets
 - https://sl4x0.medium.com/how-i-got-into-nokia-hof-in-5-mins-99ce16583bd4, Information-disclosure
@@ -1053,7 +1051,6 @@
 - https://medium.com/@h4ck3rp4tik/privilege-escalation-leads-to-deleting-other-users-account-and-company-workspace-access-control-7b709eb88ef, Privilege-escalation
 - https://aidenpearce369.github.io/offsec/My-First-RedTeam-Engagement/, SQL-injection
 - https://medium.com/@jazdprince/doing-it-the-researchers-way-how-i-managed-to-get-ssti-server-side-template-injection-which-66b239ca0104, SSTI
-- https://www.vaadata.com/blog/exploiting-an-sql-injection-with-waf-bypass/, SQL-injection
 - https://blog.lightspin.io/aws-ecr-public-vulnerability, Cloud
 - https://www.secforce.com/blog/cve-2022-20942-its-not-old-functionality-its-vintage/, Information-disclosure
 - https://karol-mazurek95.medium.com/not-usual-csp-bypass-case-b538263e09d6, Unrestricted-file-upload
@@ -4584,7 +4581,6 @@
 - https://medium.com/@logicbomb_1/bugbounty-how-naaptol-indias-popular-home-shopping-company-kept-their-millions-of-user-data-e414cd4151c, IDOR
 - https://medium.com/@aroraminali21/how-i-could-download-the-source-code-of-an-indian-e-commerce-website-30cb8310b6e4, File-disclosure
 - https://medium.com/@Wh11teW0lf/p1-vulnerability-in-60-seconds-85ef93d42b99, Information-disclosure
-- https://medium.com/@alicanact60/facebook-bug-bounty-permission-bug-19c9358d2297, Authorization-flaw
 - https://b3nac.github.io/bugs/2018/09/01/How-I-could-have-launched-a-spear-phishing-campaign-with-Starbucks-newsletter-signup.html, Host-header-injection
 - https://blog.sagarvd.me/2018/09/youtube-csrf.html, CSRF
 - https://medium.com/@mahitman1/i-own-your-customers-22e965761abd, Information-disclosure
@@ -4972,7 +4968,6 @@
 - https://medium.com/@arbazhussain/ctrl-d5ffc7b0640e, Clickjacking
 - https://hackernoon.com/how-to-find-internal-subdomains-yql-yahoo-and-bug-bounty-d7730b374d77, Information-disclosure
 - https://zseano.medium.com/fun-with-mobile-apps-broken-api-leads-to-leak-of-millions-of-personal-information-e7eb0b9dcce7, IDOR
-- https://wesecureapp.com/blog/fabric-io-api-permission-apocalypse-privilege-escalations, Authorization-flaw
 - https://wesecureapp.com/blog/how-we-tookover-shopify-accounts-with-one-single-click, Stored-XSS
 - https://wesecureapp.com/blog/xss-by-tossing-cookies/, XSS
 - https://shahmeeramir.com/how-a-simple-idor-become-a-4k-user-impersonation-vulnerability-705291b55c0d, IDOR

@@ -1,0 +1,1 @@
+- https://medium.com/@muhammedfarish007/how-i-found-a-csrf-vulnerability-on-a-bugcrowd-program-8dd7dbb5d091

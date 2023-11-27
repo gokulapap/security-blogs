@@ -16,3 +16,5 @@
 - https://spaceraccoon.dev/exploiting-improper-validation-amazon-simple-notification-service/
 - https://medium.com/bugbountywriteup/distorted-and-undeletable-posts-in-facebook-group-9424e15f5551
 - https://medium.com/@johnssimon_6607/getting-access-to-disabled-hidden-features-with-the-help-of-burp-match-and-replace-e1d7b70d131e
+- https://wesecureapp.com/blog/fabric-io-api-permission-apocalypse-privilege-escalations
+- https://medium.com/@alicanact60/facebook-bug-bounty-permission-bug-19c9358d2297
