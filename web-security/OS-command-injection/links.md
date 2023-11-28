@@ -1,3 +1,4 @@
 - https://blog.stazot.com/ssh-key-injection-google-cloud/
 - https://medium.com/@alb-soul/blind-os-command-injection-via-activation-request-66dc25377bf4
 - https://onekey.com/blog/security-advisory-netgear-routers-funjsq-vulnerabilities/
+- https://www.rapid7.com/blog/post/2022/08/04/qnap-poisoned-xml-command-injection-silently-patched/

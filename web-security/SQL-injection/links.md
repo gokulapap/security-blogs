@@ -12,3 +12,4 @@
 - https://medium.com/@mrnikhilsri/interesting-case-of-sqli-84cc3f4a5255
 - https://bitquark.co.uk/blog/2014/08/31/popping_a_shell_on_the_oculus_developer_portal
 - https://www.vaadata.com/blog/exploiting-an-sql-injection-with-waf-bypass/
+- https://nareshlamgade.com.np/2016/03/sql-injection-on-mega/

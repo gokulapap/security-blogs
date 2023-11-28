@@ -1,0 +1,1 @@
+- https://medium.com/@ar_hawk/how-a-misconfigured-lotus-domino-server-can-lead-to-disclosure-of-pii-data-of-employees-badad691dad

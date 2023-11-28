@@ -309,7 +309,6 @@
 - https://amjadali110.medium.com/unveiling-access-control-flaws-how-a-viewer-became-an-editor-b4aa83a5a0ec, Broken-Access-Control
 - https://web.archive.org/web/20230710001307/https://0xbartita.medium.com/how-i-got-two-rce-at-epam-bounty-program-389eb9fc7938, SAP
 - https://cristivlad.medium.com/account-of-the-ceo-takeover-via-password-reset-7e55c0175425, Account-takeover
-- https://www.shielder.com/blog/2023/07/aws-codebuild--s3-privilege-escalation/, Cloud
 - https://code-white.com/blog/2023-07-from-blackbox-dotnet-remoting-to-rce/, RCE
 - https://shahjerry33.medium.com/idn-homograph-attack-and-response-manipulation-the-rarest-case-85f64c272a1c, IDN-homograph-attack
 - https://blog.projectdiscovery.io/moveit-transfer-sql-injection/, SQL-injection
@@ -429,7 +428,6 @@
 - https://infosecwriteups.com/send-email-from-anyone-to-any-user-outlook-microsoft-69fce333066d, Open-mail-relay
 - https://medium.com/@mrhavit/breaking-tiktok-our-journey-to-finding-an-account-takeover-vulnerability-b0646aba1c4b, XSS
 - https://medium.com/@chenshiri/aws-chain-attack-thousands-of-vulnerable-eks-clusters-701cbd963907, AWS-Kubernetes
-- https://medium.com/@ar_hawk/how-a-misconfigured-lotus-domino-server-can-lead-to-disclosure-of-pii-data-of-employees-badad691dad, Lotus-Domino
 - https://zeroxuf.medium.com/rate-limit-bypass-leads-to-0-click-ato-9f1b29daec42, Rate-limiting-bypass
 - https://github.com/Sudistark/BB-Writeups/blob/main/2023/prototype-pollution-akamai.md, Client-side-prototype-pollution
 - https://0day.click/recipe/pash/, RCE
@@ -1578,7 +1576,6 @@
 - https://infosecwriteups.com/how-i-was-able-to-get-29-free-products-bug-bounty-845667ab4ad4, Race-condition
 - https://www.wiz.io/blog/omi-returns-lpe-technical-analysis, Local-Privilege-Escalation
 - https://www.rapid7.com/blog/post/2022/08/05/cve-2022-31660-and-cve-2022-31661-fixed-vmware-workspace-one-access-identity-manager-and-vrealize-automation-lpe/, Local-Privilege-Escalation
-- https://www.rapid7.com/blog/post/2022/08/04/qnap-poisoned-xml-command-injection-silently-patched/, OS-command-injection
 - https://ibraradi.gitbook.io/write-up/came-looking-for-ssrf-and-found-xss, XSS
 - https://albertpedersen.com/blog/hijacking-email-with-cloudflare-email-routing/, HTTP-response-manipulation
 - https://tamimhasan404.medium.com/elasticsearch-a-easy-win-for-bug-bounty-hunters-how-to-find-and-report-ddd900395bcb, Information-disclosure
@@ -2209,7 +2206,6 @@
 - https://infosecwriteups.com/how-i-bypassed-netflix-profile-lock-43901be1307c, Logic-flaw
 - https://blog.assetnote.io/2021/12/26/chained-ssrf-websphere/, SSRF
 - https://3bodymo.medium.com/xss-through-image-proxy-using-svg-image-49cdf955cf4f, XSS
-- https://web.archive.org/web/20220325063636/https://bugs.0xdroopy.live/bugs/how-i-saved-the-christmas-for-google/, Dependency-confusion
 - https://infosecwriteups.com/massive-users-account-takeovers-chaining-vulnerabilities-to-idor-ea4e1b6407d2, Authentication-bypass
 - https://medium.com/@mamunwhh/information-disclosure-leads-to-sensitive-credential-35e779f6f4db, Information-disclosure
 - https://www.tldr.engineering/how-i-found-and-fixed-a-vulnerability-in-python/, Web-cache-poisoning
@@ -5111,7 +5107,6 @@
 - https://www.arneswinnen.net/2016/03/how-i-could-compromise-4-locked-instagram-accounts, IDOR
 - https://whitton.io/articles/uber-turning-self-xss-into-good-xss/, XSS
 - http://www.pranav-venkat.com/2016/03/command-injection-which-got-me-6000.html, OS-command-injection
-- https://nareshlamgade.com.np/2016/03/sql-injection-on-mega/, SQL-injection
 - http://karmainsecurity.com/hacking-magento-ecommerce-for-fun-and-17000-usd, Information-disclosure
 - https://www.rcesecurity.com/2016/02/ubiquiti-bug-bounty-unifi-v3-2-10-generic-csrf-protection-bypass/, CSRF
 - https://ahussam.me/how-i-hacked-oculus-oauth-ebay-ibm/, Unrestricted-file-upload

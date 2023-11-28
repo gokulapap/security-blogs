@@ -1,1 +1,2 @@
 - https://medium.com/@alex.birsan/dependency-confusion-4a5d60fec610
+- https://web.archive.org/web/20220325063636/https://bugs.0xdroopy.live/bugs/how-i-saved-the-christmas-for-google/
