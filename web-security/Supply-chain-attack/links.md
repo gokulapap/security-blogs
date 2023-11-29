@@ -1,1 +1,2 @@
 - https://apiiro.com/blog/malicious-kubernetes-helm-charts-can-be-used-to-steal-sensitive-information-from-argo-cd-deployments/
+- https://blog.vlt.sh/blog/the-massive-hole-in-the-npm-ecosystem

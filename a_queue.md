@@ -354,7 +354,6 @@
 - https://github.com/W0rty/libcurl-crlf, CRLF-injection
 - https://www.mdsec.co.uk/2023/06/cve-2023-26258-remote-code-execution-in-arcserve-udp-backup/, RCE
 - https://www.securityjoes.com/post/process-mockingjay-echoing-rwx-in-userland-to-achieve-code-execution, DLL-injection
-- https://blog.vlt.sh/blog/the-massive-hole-in-the-npm-ecosystem, Supply-chain-attack
 - https://bharat-singh.medium.com/how-bac-broken-access-control-got-me-a-pre-account-takeover-2481931b7b3a, Pre-account-takeover
 - https://infosecwriteups.com/unleashing-the-power-of-recon-how-i-earned-2500-in-5-minutes-cve-2017-5638-ognl-injection-23ece4811f14, OGNL-injection
 - https://www.sonarsource.com/blog/why-orms-and-prepared-statements-cant-always-win/, SQL-injection
@@ -737,7 +736,6 @@
 - https://www.permasecure.io/2023/03/03/how-your-nfts-could-have-been-stolen-in-just-one-click/, postMessage
 - https://ibraradi.gitbook.io/write-up/upgrade-plan-from-free-to-paid-via-response-manipulation, Payment-bypass
 - https://mshibilmp.medium.com/how-i-earned-for-excessive-data-exposure-through-directory-traversal-leads-to-product-price-4582e5371774, Path-traversal
-- https://medium.com/@ahmedelbolaqy/the-story-of-my-first-reflected-xss-c24fbfef2dc6, Reflected-XSS
 - https://vijetareigns.medium.com/email-verification-bypass-worth-cbb65a68a34f, Email-verification-bypass
 - https://farlow.dev/2023/03/02/hacking-the-nintendo-dsi-browser, Memory-corruption
 - https://salt.security/blog/traveling-with-oauth-account-takeover-on-booking-com, OAuth
@@ -990,7 +988,6 @@
 - https://medium.com/@querylab/bypass-premium-account-payment-getpocket-d813b249687c, Payment-bypass
 - https://medium.com/@coffeeaddict_exe/500-in-5-minutes-45977e89a337, Broken-link-hijacking
 - https://medium.com/@mohammed01550038865/hello-hackers-a229fb5c821b, Blind-XSS
-- https://0xprial.com/subdomain-hijacking-of-any-qwilrs-customer/, Subdomain-takeover
 - https://infosecwriteups.com/cve-2022-38627-a-journey-through-sqlite-injection-to-compromise-the-whole-enterprise-building-15cebd072ed6, SQL-injection
 - https://sudhanshur705.medium.com/exploring-the-world-of-esi-injection-b86234e66f91, ESI-injection
 - https://hamzadzworm.medium.com/how-i-got-a-bug-that-leads-to-takeover-accounts-of-any-user-who-view-my-profile-913c8704f6cd, XSS
@@ -2134,7 +2131,6 @@
 - https://www.willsroot.io/2022/01/cve-2022-0185.html, Container-escape
 - https://infosecwriteups.com/how-i-could-have-read-your-confidential-bug-reports-by-simple-mail-cfd2e4f8e25c, Information-disclosure
 - https://www.ryanpickren.com/safari-uxss, Universal-XSS
-- https://medium.com/@moSec/how-i-hacked-thousand-of-subdomains-6aa43b92282c, Subdomain-takeover
 - https://aidilarf.medium.com/first-valid-bug-finding-at-microsoft-and-i-got-the-acknowledgments-page-microsoft-a2c185c53074, XSS
 - https://www.zerodayinitiative.com/blog/2022/1/25/cve-2021-44790-code-execution-on-apache-via-an-integer-underflow, Memory-corruption
 - https://medium.com/@david_colombo/how-i-got-access-to-25-teslas-around-the-world-by-accident-and-curiosity-8b9ef040a028, Default-credentials
@@ -4798,7 +4794,6 @@
 - https://bugbaba.blogspot.com/2018/02/exploiting-cors-miss-configuration.html, CORS-misconfiguration
 - https://medium.com/bugbountywriteup/bugbounty-exploiting-crlf-injection-can-lands-into-a-nice-bounty-159525a9cb62, CRLF-injection
 - https://medium.com/bugbountywriteup/how-i-was-able-to-remotely-crash-any-android-users-instagram-app-and-was-paid-a-mere-500-for-it-d4420721290e, Android
-- https://sites.google.com/site/testsitehacking/-7-5k-Google-services-mix-up, Logic-flaw
 - https://edoverflow.com/2018/logic-flaws-in-wot-services, Logic-flaw
 - https://medium.com/bugbountywriteup/bugbounty-how-i-was-able-to-shop-for-free-payment-price-manipulation-b29355a8e68e, Parameter-tampering
 - https://web.archive.org/web/20200818084242/https://medium.com/@adeshkolte/oracle-cross-site-scripting-vulnerability-adesh-kolte-ddc5d9f279be, Reflected-XSS

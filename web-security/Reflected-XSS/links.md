@@ -10,3 +10,4 @@
 - https://medium.com/@abaykandotcom/olx-bug-bounty-reflected-xss-adb3095cd525
 - https://buer.haus/2015/01/21/admin-google-com-reflected-cross-site-scripting-xss/
 - https://kongwenbin.com/fastest-fix-on-open-bug-bounty-platform
+- https://medium.com/@ahmedelbolaqy/the-story-of-my-first-reflected-xss-c24fbfef2dc6
