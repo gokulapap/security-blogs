@@ -2,3 +2,4 @@
 - https://medium.com/@ameerassadi/binary-com-clickjacking-vulnerability-exploiting-html5-security-features-368c1ff2219d
 - https://www.seekurity.com/blog/general/telegram-web-client-clickjacking-vulnerability/
 - https://samcurry.net/the-12000-intersection-between-clickjacking-xss-and-denial-of-service/
+- https://www.seekurity.com/blog/general/microsoft-yammer-clickjacking-exploiting-html5-security-features

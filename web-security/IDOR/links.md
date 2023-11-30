@@ -33,3 +33,4 @@
 - https://bugreader.com/social/write-ups-general-delete-any-video-or-reel-on-facebook-11-250--100965
 - https://medium.com/@ryuukhagetsu/how-i-get-bounty-from-takeover-account-ed17cd838b2a
 - https://xcoder074.medium.com/bac-idor-how-my-father-credit-card-help-me-to-find-this-access-control-issue-7ff7c1ae463e
+- https://medium.com/@aayushpokhrel/how-i-hacked-admin-account-via-password-reset-idor-of-one-private-currency-exchanger-site-51723c7c8704

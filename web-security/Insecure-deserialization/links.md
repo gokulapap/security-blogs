@@ -3,3 +3,4 @@
 - https://irsl.medium.com/the-nomulus-rift-935a3c4d9300
 - https://codewhitesec.blogspot.com/2022/06/bypassing-dotnet-serialization-binders.html
 - https://www.elttam.com/blog/ruby-deserialization/
+- https://github.com/snowyyowl/writeups/tree/main/CVE-2022-26133

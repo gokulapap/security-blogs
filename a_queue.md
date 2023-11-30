@@ -1204,7 +1204,6 @@
 - https://caffeinevulns.com/rces-and-acpvs/, RCE
 - https://medium.com/@vflexo/invitation-hijacking-4d6467f418cc, Authorization-flaw
 - https://redsiege.com/blog/2022/11/the-power-of-adaptability-through-experience/, Lateral-movement
-- https://infosecwriteups.com/get-blind-xss-within-5-minutes-100-9718bd056570, Blind-XSS
 - https://googleprojectzero.blogspot.com/2022/11/gregor-samsa-exploiting-java-xml.html, Integer-truncation
 - https://rohit-soni.medium.com/chaining-multiple-vulnerabilities-leads-to-remote-code-execution-rce-on-paytm-e77f2fd2295e, Exposed-registration-page
 - https://mehedishakeel.medium.com/improper-access-control-my-third-finding-on-hackerone-1455e95b6c8c, HTML-injection
@@ -1885,7 +1884,6 @@
 - https://medium.com/@_ip_/3-3-cache-poisoning-lateral-movement-gitlab-9c6288708576, Broken-Access-Control
 - https://mr23r0.medium.com/crazy-smiple-insecure-design-300-bounty-16a2b8e80522, IP-grabbing
 - https://github.com/Sudistark/advisories/blob/main/2023/npm-package/fast-xml-parser.md, Prototype-pollution
-- https://github.com/snowyyowl/writeups/tree/main/CVE-2022-26133, Insecure-deserialization
 - https://firefart.at/post/multiple_vulnerabilities_cisco_expressway/, Memory-leak
 - https://debprasadbanerjee502.medium.com/united-nations-bug-bounty-writeup-4bcfdefbb8d3, Information-disclosure
 - https://www.netspi.com/blog/technical/cloud-penetration-testing/abusing-azure-hybrid-workers-part-2/, Privilege-escalation
@@ -4388,7 +4386,6 @@
 - https://medium.com/@tnirmalz/facebook-bugbounty-disclosing-page-members-1178595cc520, Information-disclosure
 - https://www.tnirmal.com.np/2018/12/facebook-bugbounty-disclosing.html, Information-disclosure
 - https://medium.com/@mustafakhan_89646/asuss-admin-panel-auth-bypass-af5062584ddf, Authentication-bypass
-- https://blog.ripstech.com/2018/wordpress-post-type-privilege-escalation/, Privilege-escalation
 - https://medium.com/bugbountywriteup/subdomain-takeover-new-level-43f88b55e0b2, Subdomain-takeover
 - https://samcurry.net/reading-asp-secrets-for-17000/, Local-file-disclosure
 - https://medium.com/@ahmedasherif/accessing-voip-internal-service-via-port-8009-routing-traffic-through-local-apache-proxy-54a4ff539c5f, Information-disclosure
@@ -4711,7 +4708,6 @@
 - https://medium.com/ymedialabs-innovation/an-aws-managed-policy-that-allowed-granting-root-admin-access-to-any-role-51b409ea7ff0, Authorization-flaw
 - https://medium.com/@renwa/self-xss-csrf-to-stored-xss-54f9f423a7f1, Self-XSS
 - https://sites.google.com/site/testsitehacking/-36k-google-app-engine-rce, RCE
-- https://medium.com/@aayushpokhrel/how-i-hacked-admin-account-via-password-reset-idor-of-one-private-currency-exchanger-site-51723c7c8704, IDOR
 - https://blog.securitybreached.org/2018/05/18/get-subscription-of-120-year-for-free-bug-bounty-poc, Payment-bypass
 - https://medium.com/@pratheesh.p.narayanan/whatsapp-dos-vulnerability-on-android-ios-web-7628077d21d4, DoS
 - https://medium.com/bugbountywriteup/hsts-bypass-vulnerability-in-ie-preview-fa956161fa8, HSTS-bypass
@@ -5083,7 +5079,6 @@
 - https://blog.zsec.uk/pwning-pornhub, Information-disclosure
 - https://www.seekurity.com/blog/general/runkeeper-stores-xss-vulnerability/, Stored-XSS
 - https://www.arneswinnen.net/2016/05/instabrute-two-ways-to-brute-force-instagram-account-credentials/, Bruteforce
-- https://www.seekurity.com/blog/general/microsoft-yammer-clickjacking-exploiting-html5-security-features, Clickjacking
 - https://www.seekurity.com/blog/general/badoo-hotornot-privacy-disclosure-feature-not-a-bug, Information-disclosure
 - https://blog.it-securityguard.com/bugbounty-sleeping-stored-google-xss-awakens-a-5000-bounty/, Stored-XSS
 - https://blog.darabi.me/2016/05/how-i-bypassed-facebook-csrf-in-2016.html, CSRF
