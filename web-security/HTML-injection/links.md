@@ -3,3 +3,4 @@
 - https://medium.com/@jjowi/bug-html-injection-on-tokopedia-9a9b0534ceaa
 - https://hacklido.com/d/93-able-to-mass-change-profile-section-leads-to-my-first-bounty
 - https://infosecwriteups.com/zero-day-xss-309916922ea6
+- https://saadahmedx.medium.com/exploiting-auto-save-functionality-to-steal-login-credentials-bf4c7e1594da

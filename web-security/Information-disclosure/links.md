@@ -32,3 +32,4 @@
 - https://medium.com/@zseano/using-xampp-and-burp-intruder-when-scanning-for-subdomains-to-look-for-interesting-behaviour-code-f24c511d15ed
 - https://philippeharewood.com/instagram-github-token-with-public_scope-found-in-travis-ci-build-logs/
 - https://www.amolbaikar.com/disclose-facebook-business-account-id/
+- https://otmastimi.medium.com/users-location-diclosure-in-the-nearby-friends-feature-fabd24be05cb

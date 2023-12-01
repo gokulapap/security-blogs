@@ -1,0 +1,1 @@
+- https://infosecwriteups.com/google-bug-bounty-500-worth-client-side-dos-on-google-keep-35aab6aef279

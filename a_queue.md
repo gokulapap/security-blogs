@@ -2334,7 +2334,6 @@
 - https://medium.com/@vikramroot/unauthorized-access-to-any-users-account-600e8efe7de0, IDOR
 - https://blog.sonarsource.com/gocd-pre-auth-pipeline-takeover, Broken-authentication
 - https://web.archive.org/web/20211216032639/https://xelkomy.medium.com/easy-ssrf-from-wayback-machine-edf946486120, SSRF
-- https://blog.zecops.com/research/use-after-free-in-voice-control-cve-2021-30902/, Memory-corruption
 - https://darrenmartyn.ie/2021/10/27/zimbra-zmslapd-local-root-exploit/, Local-Privilege-Escalation
 - https://renganathanofficial.medium.com/an-effective-5-min-recon-leads-to-a-hall-of-fame-ae7f20e5cf1a, Information-disclosure
 - https://darrenmartyn.ie/2021/10/25/zimbra-nginx-local-root-exploit/, Local-Privilege-Escalation
@@ -2561,7 +2560,6 @@
 - https://medium.com/@muhammadsholikhin/facebook-vulnerability-expose-group-member-3000-cca809a53f6b, IDOR
 - https://blog.niksthehacker.com/xxe-in-public-transport-ticketing-mobile-app-81ae245c01a1, XXE
 - https://medium.com/@vikramroot/account-takeover-via-stored-xss-b774f7a2a3ab, Stored-XSS
-- https://infosecwriteups.com/google-bug-bounty-500-worth-client-side-dos-on-google-keep-35aab6aef279, Application-level-DoS
 - https://medium.com/@sebastien.kaul/gaining-access-to-gcp-of-google-stadia-500-bounty-22f76ecc8e60, Information-disclosure
 - https://n1ghtmar3.medium.com/how-i-found-my-first-idor-in-hackerone-5d5f17bb431, IDOR
 - https://infosecwriteups.com/how-i-could-have-hacked-your-medium-account-by-phishing-your-fb-twitter-google-credentials-d53bf7096da7, Open-redirect
@@ -2617,7 +2615,6 @@
 - https://google.github.io/security-research/pocs/linux/cve-2021-22555/writeup.html, Memory-corruption
 - https://adnanmalik.info/blog/lets-cancel-the-subscription/, Logic-flaw
 - https://donjon.ledger.com/kaspersky-password-manager/, Weak-crypto
-- https://saadahmedx.medium.com/exploiting-auto-save-functionality-to-steal-login-credentials-bf4c7e1594da, HTML-injection
 - https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/solarwinds-serv-u-1523-share-url-xss-cve-2021-32604/, XSS
 - https://hackrzvijay.medium.com/blind-xss-in-apple-school-enrollment-data-disclosure-a94c1da5bf54, Blind-XSS
 - https://gevakun.medium.com/view-other-user-private-livestream-data-e30a0acb5972, IDOR
@@ -2668,7 +2665,6 @@
 - https://ian.sh/airflow, Session-management-issue
 - https://medium.com/tenable-techblog/stealing-tokens-emails-files-and-more-in-microsoft-teams-through-malicious-tabs-a7e5ff07b138, postMessage
 - https://shahjerry33.medium.com/blind-command-injection-it-hurts-9f396c1f63f2, Command-injection
-- https://otmastimi.medium.com/users-location-diclosure-in-the-nearby-friends-feature-fabd24be05cb, Information-disclosure
 - https://0x01alka.medium.com/google-vrp-privilege-escalation-on-https-dialogflow-cloud-google-com-599af6c4516d, Authorization-flaw
 - https://kaif0x01.medium.com/story-of-account-takeover-using-social-login-with-mass-assignment-vulnerability-to-hack-accounts-21e4d5856f5e, Mass-assignment
 - https://sinsinology.medium.com/how-i-found-the-silliest-logical-vulnerability-for-750-d4f49e5b8763, Logic-flaw
@@ -4142,7 +4138,6 @@
 - https://medium.com/@frostnull/hi-guys-again-here-bringing-an-experience-to-share-with-you-as-usual-i-will-overshadow-some-f85a1d5a8d8c, Path-traversal
 - https://vishwarajbhattrai.wordpress.com/2019/06/03/missing-access-control-at-play-store/, Authorization-flaw
 - https://medium.com/@nandwanajatin25/story-of-a-uri-based-xss-with-some-simple-google-dorking-e1999254aa55, XSS
-- https://medium.com/@trapp3rhat/edmodo-account-deactivation-vulnerability-1116613bed2b, CORS-misconfiguration
 - https://medium.com/@nishantrustlingup/my-first-csrf-to-account-takeover-worth-750-1332641d4304, CSRF
 - https://anotherhackerblog.com/exploiting-file-uploads-pt1/, Stored-XSS
 - https://medium.com/@matarpan33r/stored-xss-on-edmodo-67b244824fa5, Stored-XSS
