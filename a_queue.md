@@ -1711,7 +1711,6 @@
 - https://curl.se/docs/CVE-2022-32205.html, DoS
 - https://blog.assetnote.io/2022/06/26/exploiting-ssrf-in-jira/, SSRF
 - https://medium.com/@deepmarketer/hyperlink-injection-on-irc-cloud-809e5243406f, Hyperlink-injection
-- https://medium.com/@gerrygosselin/cisco-ios-snmpv3-acl-issues-66dbab0bd138, Information-disclosure
 - https://bugs.php.net/bug.php?id=81719, Buffer-Overflow
 - https://tomorrowisnew.com/posts/moderation-filter-bypass/, Logic-flaw
 - https://medium.com/@shakti.gtp/an-out-of-scope-domain-leads-to-a-critical-bug-1500-f228d2c7db4b, Authorization-flaw
@@ -1835,7 +1834,6 @@
 - https://mokhansec.medium.com/account-verification-code-bypass-lead-to-a-4000-bounty-b31dda6f3011, OTP-bypass
 - https://melotover.medium.com/can-analyzing-javascript-files-lead-to-remote-code-execution-f24112f1aa1f, Unrestricted-file-upload
 - https://web.archive.org/web/20220516024454/https://medium.com/@tobydavenn/how-i-paid-for-my-holiday-with-bug-bounty-668f1f59e6e5, XSS
-- https://medium.com/@huntersherlock11/p1-bug-pii-information-disclosure-7669ebbb91a8, Information-disclosure
 - https://medium.com/@anjaneyulukanakatla1996/its-all-about-2fa-bypass-or-account-takeover-f9521f0a03b5, Password-reset
 - https://medium.com/@masonhck357/the-16-000-dev-mistake-13e516e86be6, Information-disclosure
 - https://blog.assetnote.io/2022/05/06/cloudflare-pages-pt1/, Command-injection
@@ -3189,7 +3187,6 @@
 - https://testbnull.medium.com/weblogic-rce-by-only-one-get-request-cve-2020-14882-analysis-6e4b09981dbf, RCE
 - https://medium.com/@vedanttekale20/story-of-an-interesting-bug-de07fbef4017, Lack-of-rate-limiting
 - https://ynoof.medium.com/error-based-sql-injection-on-a-wordpress-website-and-extract-more-than-150k-user-details-f65f987c2cc0, SQL-injection
-- https://medium.com/bugbountywriteup/automating-xss-identification-with-dalfox-paramspider-e14283bb7916, Reflected-XSS
 - https://medium.com/bugbountywriteup/the-youtube-bug-that-allowed-uploads-to-any-channel-3b41c7b7902a, IDOR
 - https://www.mysk.blog/2020/10/25/link-previews/, Information-disclosure
 - https://servicenger.com/blog/mobile/perform-substring-search-for-emails-even-if-workplace-admin-hides-email-profile-field/, Broken-access-control
@@ -3485,7 +3482,6 @@
 - https://medium.com/@ddigvijay29/how-to-secure-aws-serverless-lambda-from-redos-regular-expression-denial-of-service-resultant-12f0401118cd, ReDoS
 - https://ysamm.com/?p=460, Privilege-escalation
 - https://ysamm.com/?p=450, Information-disclosure
-- https://ysamm.com/?p=455, Information-disclosure
 - https://ysamm.com/?p=458, Information-disclosure
 - https://medium.com/@pravinponnusamy/race-condition-vulnerability-found-in-bug-bounty-program-573260454c43, Race-condition
 - https://medium.com/@vishnu0002/account-takeover-via-otp-bruteforce-apigee-api-9b5481c642df, OTP-bypass
@@ -4562,7 +4558,6 @@
 - https://blog.securitybreached.org/2018/09/07/rce-jenkins-instance-dosomething-org-bug-bounty-poc/, RCE
 - http://omespino.com/write-up-lovestory-from-closed-as-informative-to-xx00-usd-in-yahoo-ios-mail-app/, Stored-XSS
 - https://medium.com/@ciph3r7r0ll/simple-login-brute-force-current-password-requirement-bypass-e8f58931e257, IDOR
-- https://medium.com/@logicbomb_1/bugbounty-how-naaptol-indias-popular-home-shopping-company-kept-their-millions-of-user-data-e414cd4151c, IDOR
 - https://medium.com/@aroraminali21/how-i-could-download-the-source-code-of-an-indian-e-commerce-website-30cb8310b6e4, File-disclosure
 - https://medium.com/@Wh11teW0lf/p1-vulnerability-in-60-seconds-85ef93d42b99, Information-disclosure
 - https://b3nac.github.io/bugs/2018/09/01/How-I-could-have-launched-a-spear-phishing-campaign-with-Starbucks-newsletter-signup.html, Host-header-injection

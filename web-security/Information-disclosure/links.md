@@ -33,3 +33,6 @@
 - https://philippeharewood.com/instagram-github-token-with-public_scope-found-in-travis-ci-build-logs/
 - https://www.amolbaikar.com/disclose-facebook-business-account-id/
 - https://otmastimi.medium.com/users-location-diclosure-in-the-nearby-friends-feature-fabd24be05cb
+- https://medium.com/@huntersherlock11/p1-bug-pii-information-disclosure-7669ebbb91a8
+- https://ysamm.com/?p=455
+- https://medium.com/@gerrygosselin/cisco-ios-snmpv3-acl-issues-66dbab0bd138
