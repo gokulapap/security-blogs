@@ -18,3 +18,4 @@
 - https://medium.com/@johnssimon_6607/getting-access-to-disabled-hidden-features-with-the-help-of-burp-match-and-replace-e1d7b70d131e
 - https://wesecureapp.com/blog/fabric-io-api-permission-apocalypse-privilege-escalations
 - https://medium.com/@alicanact60/facebook-bug-bounty-permission-bug-19c9358d2297
+- https://medium.com/@mudassirsharief58/the-noob-way-of-taking-over-accounts-81aee783c064

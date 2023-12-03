@@ -36,3 +36,4 @@
 - https://www.vidocsecurity.com/blog/2022-summary-how-we-made-120k-bug-bounty-in-a-year/
 - https://noobx.in/blogs/how-i-was-able-to-inject-xss-payload-into-any-user-s-mailbox
 - https://blog.fadyothman.com/how-i-discovered-xss-that-affects-over-20-uber-subdomains/
+- https://flattsecurity.medium.com/finding-bugs-to-trigger-unauthenticated-command-injection-in-a-netgear-router-psv-2022-0044-2b394fb9edc

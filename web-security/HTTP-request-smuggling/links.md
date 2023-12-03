@@ -1,1 +1,2 @@
 - https://kleiton0x00.github.io/posts/Exploiting-HTTP-Request-Smuggling-(TE.CL)-XSS-to-website-takeover/
+- https://blog.assetnote.io/2021/03/18/h2c-smuggling/

@@ -1325,7 +1325,6 @@
 - https://medium.com/@nireshpandian19/my-first-and-second-bugs-are-2fa-bypass-1f6fd823b467, MFA-bypass
 - https://medium.com/@bug_vs_me/csrf-attack-0-click-account-delete-1st-write-up-3d67b267b931, CSRF
 - https://rohit443.medium.com/using-default-credential-to-admin-account-takeover-677e782ff2f2, Weak-credentials
-- https://adilnbabras.medium.com/how-i-found-an-idor-worth-1500-d5f78bc22a7e, IDOR
 - https://thehemdeep.medium.com/breaking-business-logic-part-2-7-1-f19924b18783, Race-condition
 - https://medium.com/@Cybervenom/tale-of-easy-p1-bugs-in-wild-1b7f5bf80eef, Forced-browsing
 - https://www.trenchesofit.com/2022/09/30/zoneminder-web-app-testing/, DoS
@@ -1784,7 +1783,6 @@
 - https://infosecwriteups.com/domain-admin-compromise-in-3-hours-5778902604c9, Default-credentials
 - https://xvnpw.github.io/posts/external_authentication_bypass_in_ingress_nginx/, Path-traversal
 - https://web.archive.org/web/20220529130635/https://pwnsec.ninja/2022/05/29/exploiting-ios-app-for-fun-and-profit/, Account-takeover
-- https://medium.com/@b0x_in/hall-of-fame-vice-media-hacking-while-sleepy-3eb931f124e1, Subdomain-takeover
 - https://medium.com/@vaibhavatkale/weird-email-verification-bypass-96c793c36d7e, Email-verification-bypass
 - https://corben.io/blog/a-simple-sql-injection-in-an-air-force-website, SQL-injection
 - https://hoyahaxa.blogspot.com/2022/05/bygone-vulnerabilities-remote-code.html, XSS
@@ -1950,7 +1948,6 @@
 - https://machevalia.blog/blog/broken-access-control-idor, IDOR
 - https://blogs.opera.com/security/2022/03/bug-bounty-adventures-a-nodebb-0-day/, CSRF
 - https://irsl.medium.com/clipboard-hazard-with-google-sheets-1c1f3d566907, Phishing
-- https://flattsecurity.medium.com/finding-bugs-to-trigger-unauthenticated-command-injection-in-a-netgear-router-psv-2022-0044-2b394fb9edc, XSS
 - https://www.synacktiv.com/publications/pwn2own-austin-2021-defeating-the-netgear-r6700v3.html, RCE
 - https://cryptograph3r.blogspot.com/2022/03/how-token-misconfiguration-can-lead-to.html, Account-takeover
 - https://research.nccgroup.com/2022/03/24/remote-code-execution-on-western-digital-pr4100-nas-cve-2022-23121/, RCE
@@ -2869,7 +2866,6 @@
 - https://godiego.co/posts/STO-AWS/, Subdomain-takeover
 - https://gccybermonks.com/posts/xss-mozilla/, XSS
 - https://clarkvoss.medium.com/how-to-harpon-big-blue-c163722638d8, Logic-flaw
-- https://blog.assetnote.io/2021/03/18/h2c-smuggling/, HTTP-request-smuggling
 - https://medium.com/@dPhoeniixx/tiktok-for-android-1-click-rce-240266e78105, RCE
 - https://infosecwriteups.com/how-i-hacked-facebook-part-two-ffab96d57b19, SSRF
 - https://med-mahmoudi26.medium.com/chaining-bugs-for-the-greater-good-664412ae85f8, Blind-XSS
@@ -3364,7 +3360,6 @@
 - https://medium.com/bugbountywriteup/exploiting-business-logic-wallet-money-6a7654f4e147, Payment-tampering
 - http://blog.redxorblue.com/2020/07/one-click-to-compromise-fun-with.html, NTLMv2-hash-disclosure
 - https://www.tomanthony.co.uk/blog/zoom-security-exploit-crack-private-meeting-passwords/, CSRF
-- https://medium.com/@mudassirsharief58/the-noob-way-of-taking-over-accounts-81aee783c064, Authorization-flaw
 - https://medium.com/bugbountywriteup/my-first-bug-bounty-21d3203ffdb0, Information-disclosure
 - https://www.ehpus.com/post/authorization-bypass-in-google-s-ticketing-system, Authorization-flaw
 - https://hunter-55.medium.com/introduction-fae7c8b3d16c, Exposed-registration-page
