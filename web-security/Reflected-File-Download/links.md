@@ -1,0 +1,1 @@
+- https://kabilan1290.medium.com/rfd-vulnerability-and-content-disposition-header-bypass-story-f8f962f54c7d

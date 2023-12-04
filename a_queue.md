@@ -546,7 +546,6 @@
 - https://blog.ethiack.com/en/blog/git-arbitrary-configuration-injection-cve-2023-29007, Logic-flaw
 - https://blog.assetnote.io/2023/04/26/xss-million-websites-cpanel/, Reflected-XSS
 - https://www.gosecure.net/blog/2023/04/26/never-connect-to-rdp-servers-over-untrusted-networks/, RDP
-- https://shahjerry33.medium.com/api-misconfiguration-algolia-api-key-b3f4a9f04f0d, Hardcoded-API-keys
 - https://strike.sh/blog/business-bugs-approach, Logic-flaw
 - https://www.bitsight.com/blog/new-high-severity-vulnerability-cve-2023-29552-discovered-service-location-protocol-slp, DoS
 - https://www.horizon3.ai/cve-2023-27524-insecure-default-configuration-in-apache-superset-leads-to-remote-code-execution/, RCE
@@ -2588,7 +2587,6 @@
 - https://blog.ryotak.me/post/cdnjs-remote-code-execution-en/, RCE
 - https://infosecwriteups.com/logical-flaw-resulting-path-hijacking-dd4d1e1e832f, Namespace-attack
 - https://infosecwriteups.com/how-i-was-able-to-bypass-cloudflare-for-xss-e94cd827a5d6, XSS
-- https://kabilan1290.medium.com/rfd-vulnerability-and-content-disposition-header-bypass-story-f8f962f54c7d, Reflected-File-Download
 - https://jasminderpalsingh.info/stored-xss-in-google-doubleclick-studio-google-research-grant/, Stored-XSS
 - https://medium.com/@jawadmahdi/how-i-found-blind-sql-injection-just-by-browsing-and-getting-a-unique-url-ed87fa1f35ed, SQL-injection
 - https://krevetk0.medium.com/credential-stuffing-in-bug-bounty-hunting-7168dc1d3153, Credential-stuffing
@@ -4109,7 +4107,6 @@
 - https://spenkk.github.io/bugbounty/Local-File-Inclusion/, WAF-bypass
 - https://medium.com/@saadahmedx/complete-web-server-access-46d19279a2b, Unrestricted-file-upload
 - https://medium.com/bug-bounty-hunting/fullscreen-api-attacks-revisited-and-the-fb-na-story-cbea3ca383c5, Phishing
-- https://websecblog.com/vulns/googleplex-com-blind-xss/, Blind-XSS
 - https://medium.com/@nishantrustlingup/admin-account-total-information-disclosure-72ec60da4a78, Source-code-disclosure
 - https://medium.com/@saadahmedx/idor-account-takeover-1ff5a2d03b8b, IDOR
 - https://web.archive.org/web/20201028215444/http://incidentsecurity.com/how-spending-our-saturday-hacking-earned-us-20k/, IDOR
@@ -4475,7 +4472,6 @@
 - https://medium.com/@raushanraj_65039/google-sites-and-exploiting-same-origin-policy-d400bf569964, SOP-bypass
 - https://medium.com/japzdivino/harvesting-all-private-invites-using-leave-program-fast-tracked-invitation-and-security-email-a01c8b3ce76f, Logic-flaw
 - https://medium.com/@notsoshant/a-possibility-of-account-takeover-in-medium-8d950e547639, Account-takeover
-- https://github.com/cymtrick/lol/blob/d17ed765129b26a1bf8060757e5aebd4e237c908/_posts/2018-10-20-CVE-2018-17082-PHP-XSS-A-Story-of-Chunked-Requests.md, XSS
 - https://www.itsecguy.com/xss-with-put-in-ghost-blog/, XSS
 - https://medium.com/bugbountywriteup/add-comment-on-a-private-oculus-developer-bug-report-93f35bc80b2c, IDOR
 - https://medium.com/japzdivino/security-teams-internal-attachments-can-be-exported-via-export-as-zip-feature-on-hackerone-35ca6ec2bf8b, Logic-flaw
@@ -4876,7 +4872,6 @@
 - https://medium.com/secjuice/how-i-was-able-to-view-private-tweets-of-any-private-twitter-account-86a9d2640ded, IDOR
 - https://ret2got.wordpress.com/2017/10/05/how-i-could-have-mass-uploaded-from-every-flickr-account/, Bruteforce
 - https://markus-krell.de/craft-cms-why-case-matters/, Reflected-XSS
-- https://medium.com/bugbountywriteup/device-authorization-bypass-aa508c9193ed, Authorization-flaw
 - https://medium.com/@saamux/filter-bypass-to-reflected-xss-on-https-finance-yahoo-com-mobile-version-22b854327b27, Reflected-XSS
 - https://medium.com/bugbountywriteup/900-xss-in-yahoo-recon-wins-65ee6d4bfcbd, XSS
 - https://medium.com/bugbountywriteup/how-i-bypassed-practos-firewall-and-triggered-a-xss-b30164a8f1dc, XSS
