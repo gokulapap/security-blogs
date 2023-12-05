@@ -3,3 +3,4 @@
 - https://medium.com/@frostnull/from-file-upload-to-email-pass-dc7141aa1ff6
 - https://medium.com/@asdqwedev/remote-image-upload-leads-to-rce-inject-malicious-code-to-php-gd-image-90e1e8b2aada
 - https://infosecwriteups.com/how-i-abused-the-file-upload-function-to-get-a-high-severity-vulnerability-in-bug-bounty-7cdcf349080b
+- https://cooltrickshome.blogspot.com/2018/11/spoofing-file-extensions-on-hackerone.html

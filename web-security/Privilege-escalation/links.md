@@ -4,3 +4,4 @@
 - https://marxchryz.medium.com/how-i-gain-access-to-the-server-administration-of-a-million-dollar-company-14da68c7a9dd
 - https://hencohen10.medium.com/i-own-your-cloud-shell-taking-over-azure-cloud-shell-kubernetes-cluster-through-unsecured-558621519cf9
 - https://blog.ripstech.com/2018/wordpress-post-type-privilege-escalation/
+- https://gitlab.com/gitlab-com/gl-security/gl-redteam/red-team-tech-notes/-/tree/master/oslogin-privesc-june-2020

@@ -433,7 +433,6 @@
 - https://blog.stratumsecurity.com/2023/06/01/sqli-the-road-to-bypassing-an-industry-leading-waf/, SQL-injection
 - https://www.zerodayinitiative.com/blog/2023/5/31/cve-2023-24941-microsoft-network-file-system-remote-code-execution, RCE
 - https://www.klogixsecurity.com/scorpion-labs-blog/anatomy-of-an-iot-exploit-from-hands-on-to-rce, IoT
-- https://www.varonis.com/blog/salesforce-ghost-sites, Salesforce
 - https://research.nccgroup.com/2023/05/31/reverse-engineering-coin-hunt-worlds-binary-protocol/, Reverse-engineering
 - https://zxsecurity.co.nz/research/advisories/kramer-via-go-2-rce-and-other-vulns/, RCE
 - https://sensepost.com/blog/2023/an-offensive-look-at-docker-desktop-extensions/, OS-command-injection
@@ -717,7 +716,6 @@
 - https://blog.bitcrack.net/oracle-databases-remote-stealth-password-bruteforce/, Bruteforce
 - https://medium.com/@Ano_F_/manipulating-encrypted-traffic-using-pycript-b637612528bb, Client-side-encryption-bypass
 - https://eaton-works.com/2023/03/06/toyota-c360-hack/, Authentication-bypass
-- https://hoyahaxa.blogspot.com/2023/03/authentication-bypass-mura-masa.html, Authentication-bypass
 - https://medium.com/@mukundbhuva/accessing-the-data-sources-of-any-facebook-business-account-via-idor-in-graphql-1fc963ad3ecd, IDOR
 - https://rashahacks.com/exposing-users-table-from-a-leaky-graphql-query/, GraphQL
 - https://www.microsoft.com/en-us/security/blog/2023/03/06/protecting-android-clipboard-content-from-unintended-exposure/, Android
@@ -1172,7 +1170,6 @@
 - https://sec-consult.com/vulnerability-lab/advisory/path-traversal-vulnerability-in-payara-platform/, Path-traversal
 - https://medium.com/@jodyritonga/how-i-get-100-in-just-10-minutes-b018b28645ce, Race-condition
 - https://medium.com/@raymond-lind/finding-reflected-xss-in-a-strange-way-289a4f3fa630, XSS
-- https://www.trendmicro.com/en_us/research/22/k/cve-2019-8561-a-hard-to-banish-packagekit-framework-vulnerabilit.html, MacOS
 - https://www.usenix.org/system/files/sec23summer_235-rohlmann-prepub.pdf, Signature-bypass
 - https://www.usenix.org/system/files/sec23summer_198-gilsenan-prepub.pdf, Cryptographic-issues
 - https://varmaanu001.medium.com/from-shodan-dork-to-grafana-local-file-inclusion-e77dc4cfc264, LFI
@@ -3499,7 +3496,6 @@
 - https://medium.com/@amyrahm786/story-of-blind-sql-with-a-typo-error-43a21913c8d, SQL-injection
 - https://medium.com/@rohitcoder/idor-delete-saved-credit-cards-from-any-business-manager-account-f28c773982eb, IDOR
 - https://initblog.com/2020/oslogin-privesc/, Local-Privilege-Escalation
-- https://gitlab.com/gitlab-com/gl-security/gl-redteam/red-team-tech-notes/-/tree/master/oslogin-privesc-june-2020, Privilege-escalation
 - https://medium.com/heck-the-packet/how-i-got-my-first-big-bounty-payout-with-tesla-8d28b520162d, Information-disclosure
 - https://medium.com/@valeriyshevchenko/from-crlf-to-account-takeover-a94d7aa0d74e, CRLF-injection
 - https://kb.cert.org/vuls/id/636397, DoS
@@ -4427,7 +4423,6 @@
 - https://portswigger.net/blog/xss-in-hidden-input-fields, XSS
 - https://medium.com/@ariffadhlullah2310/poc-cross-site-scripting-on-garuda-indonesia-website-452f4864f615, XSS
 - https://blog.hackenproof.com/customer-stories/hackenproof-customer-story-uklon/, XSS
-- https://cooltrickshome.blogspot.com/2018/11/spoofing-file-extensions-on-hackerone.html, Unrestricted-file-upload
 - https://publish.whoisbinit.me/unauthorized-comments-on-facebook-live-stream, Privilege-escalation
 - https://philippeharewood.com/disclose-page-admins-via-gaming-dashboard-bans/, Information-disclosure
 - https://medium.com/@ritishkumarsingh/facebook-vulnerability-hiding-from-the-view-of-business-admin-in-the-business-manager-a04515fee9dd, Logic-flaw

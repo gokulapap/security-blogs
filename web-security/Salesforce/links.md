@@ -1,1 +1,2 @@
 - https://www.synack.com/blog/permission-problem-salesforce-javascript-remoting-token/
+- https://www.varonis.com/blog/salesforce-ghost-sites

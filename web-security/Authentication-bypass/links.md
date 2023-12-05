@@ -2,3 +2,4 @@
 - https://geekboyranjeet.medium.com/strange-admin-panel-bypass-story-bug-bounty-5e618099baaf
 - https://whitton.io/articles/bypassing-google-authentication-on-periscopes-admin-panel/
 - http://c0rni3sm.blogspot.com/2017/06/from-js-to-another-js-files-lead-to.html
+- https://hoyahaxa.blogspot.com/2023/03/authentication-bypass-mura-masa.html
