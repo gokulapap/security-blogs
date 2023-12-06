@@ -38,3 +38,4 @@
 - https://blog.fadyothman.com/how-i-discovered-xss-that-affects-over-20-uber-subdomains/
 - https://flattsecurity.medium.com/finding-bugs-to-trigger-unauthenticated-command-injection-in-a-netgear-router-psv-2022-0044-2b394fb9edc
 - https://github.com/cymtrick/lol/blob/d17ed765129b26a1bf8060757e5aebd4e237c908/_posts/2018-10-20-CVE-2018-17082-PHP-XSS-A-Story-of-Chunked-Requests.md
+- https://medium.com/bugbountywriteup/the-1-000-worth-cookie-6cf48af08e08

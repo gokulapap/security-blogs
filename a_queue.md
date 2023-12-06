@@ -142,7 +142,6 @@
 - https://medium.com/@popalltheshells/domain-admin-compromise-in-3-hours-5778902604c9, misc
 - https://medium.com/@sivasimha/unrestricted-file-upload-cloud-fare-bypass-12867b65de3a, file-upload
 - https://medium.com/@vishwaraj101/finding-backup-vulnerabilities-in-android-apps-6b87330f97b3, android
-- https://medium.com/@prashanth-pulisetti/my-first-bug-bounty-8ad7351d644a, journey
 - https://medium.com/@adamjsturge/mx-takeovers-automated-subdomain-takeover-64e658fc4fb7, automation
 - https://medium.com/@quadrimohammedbilal.mb/account-takeover-by-chaining-oauth-misconfiguration-and-xss-822e41dc85b0, oauth-misconfig
 - https://medium.com/@corneacristian/top-25-rce-bug-bounty-reports-bc9555cca7bc, RCE
@@ -890,7 +889,6 @@
 - https://medium.com/@DrakenKun/how-i-was-able-to-find-4-cross-site-scripting-xss-on-vulnerability-disclosure-program-e2f39199ae16, XSS
 - https://akashc99.medium.com/blind-xss-to-ssrf-e2bc579976d, Blind-XSS
 - https://ysamm.com/?p=779, DOM-XSS
-- https://ysamm.com/?p=783, Account-takeover
 - https://ysamm.com/?p=777, Account-takeover
 - https://shells.systems/froxlor-v2-0-6-remote-command-execution-cve-2023-0315/, RCE
 - https://akashc99.medium.com/bypassing-account-lockout-through-password-reset-functionality-8ff5c256f380, Rate-limiting-bypass
@@ -2064,7 +2062,6 @@
 - https://twitter.com/FlashbackPwn/status/1492074441450397698, Memory-corruption
 - https://twitter.com/m7mdharon/status/1492204287295897600, Subdomain-takeover
 - https://www.zerodayinitiative.com/blog/2022/2/10/mindshare-when-mysql-cluster-encounters-taint-analysis, Memory-corruption
-- https://priyankraval.medium.com/microsoft-teams-unpatched-url-spoofing-vulnerability-c58f5949fac8, URL-spoofing
 - https://medium.com/@harishhacker3010/how-i-hacked-google-to-read-files-from-their-servers-for-free-e0486a674912, Arbitrary-file-read
 - https://onapsis.com/threat-report/icmad-sap-vulnerabilities, HTTP-request-smuggling
 - https://orca.security/resources/blog/oracle-server-side-request-forgery-ssrf-attack-metadata/, SSRF
@@ -2073,7 +2070,6 @@
 - https://research.ifcr.dk/spoolfool-windows-print-spooler-privilege-escalation-cve-2022-22718-bf7752b68d81, Local-Privilege-Escalation
 - https://www.cyberark.com/resources/threat-research-blog/how-docker-made-me-more-capable-and-the-host-less-secure, Local-Privilege-Escalation
 - https://web.archive.org/web/20220214063345/https://7odamo.medium.com/sql-injection-reflected-xss-and-information-disclosure-in-one-subdomain-in-just-10-minutes-f2ce877b43d4, SQL-injection
-- https://medium.com/@kojodaprogrammer/full-account-takeover-ato-a-tale-of-two-bugs-d1b3765ff1de, IDOR
 - https://www.cyberick.com/post/what-i-found-on-sony-vulnerability-disclosure-program, Information-disclosure
 - https://bloggerrando.blogspot.com/2022/02/how-can-i-access-members-only-video.html, Broken-Access-Control
 - https://wwws.nightwatchcybersecurity.com/2022/02/06/insecure-bootstrap-process-in-oracle-cloud-cli/, Supply-chain-attack
@@ -3374,7 +3370,6 @@
 - https://medium.com/@totmukesh/hack-till-your-last-breath-3e58f4fb1738, IDOR
 - https://web.archive.org/web/20220519224811/http://wisdomfreak.com/increasing-reward-points-n-number-of-time/, Logic-flaw
 - https://medium.com/@ashikbhaskar94/denial-of-service-dos-by-regex-205536c8dcd0, DoS
-- https://medium.com/bugbountywriteup/the-1-000-worth-cookie-6cf48af08e08, XSS
 - https://medium.com/@mohamedayad_72488/dos-over-wep-application-c5176dc29035, DoS
 - https://web.archive.org/web/20201123204526/https://medium.com/@olisandip99/chaining-rate-limiting-for-account-lockout-6a2a7828dd24, Lack-of-rate-limiting
 - https://medium.com/@mohamedayad_72488/bypass-user-restriction-registration-cbfc4eb855, Logic-flaw

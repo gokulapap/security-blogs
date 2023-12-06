@@ -1,0 +1,1 @@
+- https://priyankraval.medium.com/microsoft-teams-unpatched-url-spoofing-vulnerability-c58f5949fac8
