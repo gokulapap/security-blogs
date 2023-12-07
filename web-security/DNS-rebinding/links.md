@@ -1,0 +1,1 @@
+- https://voidzone.me/cve-2018-20139-daikin-emura-series-arbitrary-remote-control-via-dns-rebinding/

@@ -8,3 +8,4 @@
 - https://medium.com/@vflexo/full-account-takeover-via-open-redirection-41c167db46
 - https://medium.com/@tarek.tix/how-i-got-200-with-an-out-of-the-box-open-redirect-vulnerability-809e91270
 - https://medium.com/@nnez/1st-bug-bounty-write-up-open-redirect-vulnerability-on-login-page-5e0dd9a6eb69
+- https://web.archive.org/web/20201030131757/https://medium.com/@protector47/full-account-takeover-via-referrer-header-oauth-token-steal-open-redirect-vulnerability-chaining-324a14a1567

@@ -1681,7 +1681,6 @@
 - https://medium.com/@kashyapherry147/origin-ip-to-account-takeover-62d7a54abebf, WAF-bypass
 - https://janmuhammadzaidi.medium.com/vertical-privilege-escalation-the-user-can-takeover-an-admin-account-via-response-manipulation-9237c8b2fefa, Privilege-escalation
 - https://infosecwriteups.com/a-swag-for-a-open-redirect-google-dork-bug-bounty-2143b943f34e, Open-redirect
-- https://worthdoingbadly.com/coretrust/, Signature-validation-bypass
 - https://blog.fraktal.fi/two-faces-of-the-same-pdf-document-17e7a15522a0, PDF-parser-differential-attack
 - https://medium.com/@unurbayar1998/facebook-portals-business-logic-error-lead-to-500-708e91b4055f, Logic-flaw
 - https://blog.electrovolt.io/posts/vscode-rce/, RCE
@@ -4364,7 +4363,6 @@
 - https://samcurry.net/reading-asp-secrets-for-17000/, Local-file-disclosure
 - https://medium.com/@ahmedasherif/accessing-voip-internal-service-via-port-8009-routing-traffic-through-local-apache-proxy-54a4ff539c5f, Information-disclosure
 - https://nahoragg.github.io/bugbounty/2018/12/15/Self-XSS-to-Interesting-Stored-XSS.html, Stored-XSS
-- https://voidzone.me/cve-2018-20139-daikin-emura-series-arbitrary-remote-control-via-dns-rebinding/, DNS-rebinding
 - https://blog.scrt.ch/2018/08/24/remote-code-execution-on-a-facebook-server/, LFI
 - https://websecblog.com/vulns/google-code-in-xss/, XSS
 - https://shkspr.mobi/blog/2018/12/twitter-bug-bounty/, OAuth
@@ -4437,7 +4435,6 @@
 - https://paper.seebug.org/737/, Stored-XSS
 - https://medium.com/bugbountywriteup/duplicate-but-still-cool-236835685075, IDOR
 - http://codegrazer.com/blog/rsftp-to-command-injection.html, Path-traversal
-- https://web.archive.org/web/20201030131757/https://medium.com/@protector47/full-account-takeover-via-referrer-header-oauth-token-steal-open-redirect-vulnerability-chaining-324a14a1567, Open-redirect
 - https://medium.com/@Skylinearafat/how-outdated-jira-instances-suffers-from-multiple-security-vulnerabilities-6a88c45e9ec6, XSS
 - https://medium.com/@kunal94/imagemagick-gif-coder-vulnerability-leads-to-memory-disclosure-hackerone-e9975a6a560e, Memory-leak
 - https://medium.com/@mateusz.olejarka/finding-hidden-gems-vol-3-quick-win-with-sh-file-722e58636ded, Information-disclosure
@@ -4871,7 +4868,6 @@
 - https://guptashubham.com/all-about-hackerone-private-program-terapeak/, IDOR
 - https://guptashubham.com/multiple-vulnerabilities-in-oracle-ebs/, SQL-injection
 - https://kciredor.com/first-bounty-time-to-step-up-my-game.html, Same-Origin-Method-Execution
-- https://www.ansariosama.com/2017/09/exploiting-single-request-for-multiple.html, Stored-XSS
 - http://www.noob.ninja/2017/09/story-of-parameter-specific-xss.html, XSS
 - https://medium.com/bugbountywriteup/chaining-self-xss-with-ui-redressing-is-leading-to-session-hijacking-pwn-users-like-a-boss-efb46249cd14, Self-XSS
 - https://medium.com/@arbazhussain/stored-xss-with-arbitrary-cookie-installation-567931433c7f, XSS
@@ -5031,7 +5027,6 @@
 - https://guptashubham.com/swf-xss-dom-based-xss/, Flash-XSS
 - https://guptashubham.com/xss-filter-bypass-in-yahoo-dev-flurry-com/, XSS
 - https://guptashubham.com/xss-on-flickr/, XSS
-- https://blog.zsec.uk/csvhub/, CSV-injection
 - https://whitton.io/articles/messenger-site-wide-csrf/, CSRF
 - https://www.seekurity.com/blog/general/bmw-vulnerabilities-hijack-cars-connecteddrive-service/, Clickjacking
 - http://www.kernelpicnic.net/2016/07/24/Microsoft-signout.live.com-Remote-Code-Execution-Write-Up.html, RCE
