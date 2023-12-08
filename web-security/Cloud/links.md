@@ -1,3 +1,4 @@
 - https://astrix.security/ghosttoken-exploiting-gcp-application-infrastructure-to-create-invisible-unremovable-trojan-app-on-google-accounts/
 - https://www.trendmicro.com/en_ae/research/23/f/gaps-in-azure-service-fabric-s-security-call-for-user-vigilance.html
 - https://www.shielder.com/blog/2023/07/aws-codebuild--s3-privilege-escalation/
+- https://www.rootcat.de/blog/ec2-meta_may23/

@@ -452,7 +452,6 @@
 - https://medium.com/@A0g/xss-via-qr-code-8022a1a0309f, XSS
 - https://kuenzi.dev/toothbrush/, IoT
 - https://medium.com/@ajzead660/how-i-found-a-tricky-xss-1adf25850d33, XSS
-- https://www.rootcat.de/blog/ec2-meta_may23/, Cloud
 - https://www.dig.security/post/gcp-cloudsql-vulnerability-leads-to-internal-container-access-and-data-exposure, Cloud
 - https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/from-response-to-request-adding-your-own-variables-inside-of-graphql-queries-for-account-take-over/, GraphQL
 - https://www.secureworks.com/research/tampering-with-conditional-access-policies-using-azure-ad-graph-api, Cloud
@@ -2695,7 +2694,6 @@
 - https://mikekitckchan.medium.com/cors-misconfig-that-worths-usd200-4696eda5ab4c, CORS-misconfiguration
 - https://bendtheory.medium.com/finding-and-exploiting-unintended-functionality-in-main-web-app-apis-6eca3ef000af, IDOR
 - https://rohitcoder.medium.com/victims-anti-csrf-token-could-be-exposed-to-third-party-applications-installed-on-user-s-device-be8e40d511ba, Information-disclosure
-- https://rohitcoder.medium.com/csrf-from-which-we-can-create-a-support-ticket-in-victims-account-500-c1aa61f99c17, CSRF
 - https://shrirangdiwakar.medium.com/how-i-turned-0000-into-600-phone-verification-bypass-b1c0f6eb568e, OTP-bypass
 - https://dewangpanchal98.medium.com/403-forbidden-bypass-fc8b5df109b7, 403-bypass
 - https://skylightcyber.com/2021/05/20/13-nagios-vulnerabilities-7-will-shock-you/, RCE
@@ -2794,7 +2792,6 @@
 - https://aseemshrey.in/lets-learn-english-hacking-10M-Users/, AWS-misconfiguration
 - https://edmundaa222.medium.com/poc-update-business-fyi-message-as-facebook-page-analyst-d36170fdede2, IDOR
 - https://pharish4948.medium.com/how-i-earned-3200-in-4hours-through-stored-xss-38597877d3e1, Stored-XSS
-- https://infosecwriteups.com/fun-sql-injection-mod-security-bypass-644b54b0c445, SQL-injection
 - https://positive.security/blog/url-open-rce, RCE
 - https://fernale.blogspot.com/2021/04/how-i-got-9000-usd-by-hacking-into.html, XSS
 - https://census-labs.com/news/2021/04/14/whatsapp-mitd-remote-exploitation-CVE-2021-24027/, Man-in-the-Disk-attack
@@ -4483,14 +4480,12 @@
 - https://portswigger.net/research/bypassing-web-cache-poisoning-countermeasures, Web-cache-poisoning
 - https://r00thunt.com/2018/10/05/blind-xml-external-entities-out-of-band-channel-vulnerability-paypal-case-study/, Blind-XXE
 - https://medium.com/@raushanraj_65039/clickjacking-in-google-docs-and-voice-typing-feature-c481d00b020a, Clickjacking
-- https://securitylab.github.com/research/apache-struts-double-evaluation/, RCE
 - https://www.martinvigo.com/googlemeetroulette, Bruteforce
 - https://www.sec-down.com/wordpress/?p=809, CSRF
 - https://medium.com/@jonathanbouman/stored-xss-unvalidated-embed-at-medium-com-528b0d6d4982, Stored-XSS
 - https://medium.com/@rohitcoder/email-id-phone-number-can-be-exposed-through-business-manager-e79b970ea288, Logic-flaw
 - http://10degres.net/aws-takeover-through-ssrf-in-javascript/, SSRF
 - https://medium.com/@saamux/applying-a-small-bypass-to-steal-facebook-session-tokens-in-uber-5b9638b7a18c, XSS
-- https://rudr4sarkar.blogspot.com/2018/10/how-i-found-stored-xss-on-your.html, XSS
 - https://blog.securityevaluators.com/collecting-shells-by-the-sea-of-nas-vulnerabilities-155a0bd7c525, OS-command-injection
 - https://web.archive.org/web/20200929001941/https://www.mohamedharon.com/2018/10/subdomain-takeover-via-shopify-vendor.html, Subdomain-takeover
 - https://medium.com/@alexali5080/how-i-was-able-to-takeover-accounts-of-an-earning-app-c22d07d8ce9, Information-disclosure
