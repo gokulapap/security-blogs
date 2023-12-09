@@ -40,3 +40,4 @@
 - https://github.com/cymtrick/lol/blob/d17ed765129b26a1bf8060757e5aebd4e237c908/_posts/2018-10-20-CVE-2018-17082-PHP-XSS-A-Story-of-Chunked-Requests.md
 - https://medium.com/bugbountywriteup/the-1-000-worth-cookie-6cf48af08e08
 - https://rudr4sarkar.blogspot.com/2018/10/how-i-found-stored-xss-on-your.html
+- https://github.com/setuid0-sec/Swiss_E-Voting_Publications

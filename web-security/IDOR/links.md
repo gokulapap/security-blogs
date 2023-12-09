@@ -37,3 +37,4 @@
 - https://medium.com/@logicbomb_1/bugbounty-how-naaptol-indias-popular-home-shopping-company-kept-their-millions-of-user-data-e414cd4151c
 - https://adilnbabras.medium.com/how-i-found-an-idor-worth-1500-d5f78bc22a7e
 - https://medium.com/@kojodaprogrammer/full-account-takeover-ato-a-tale-of-two-bugs-d1b3765ff1de
+- https://medium.com/@backup-nobugescapes/blind-insecure-direct-object-reference-idor-leads-to-export-other-users-data-on-instagram-7df7efd963b7

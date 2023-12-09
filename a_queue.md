@@ -174,7 +174,6 @@
 - https://medium.com/@omarahmed_13016/idor-unpin-posts-for-fun-18f628eaef24, IDOR
 - https://medium.com/@joshuaarulsamy/mindset-that-made-me-one-among-top-15-security-researchers-in-india-for-3-consecutive-times-febb06e8af61, journey
 - https://medium.com/@akashtesla/how-to-automate-your-initial-recon-and-extend-asm-using-sub-scout-a52de14a2b6a, automation
-- https://medium.com/@backup-nobugescapes/blind-insecure-direct-object-reference-idor-leads-to-export-other-users-data-on-instagram-7df7efd963b7, IDOR
 - https://medium.com/@taksec/tips-for-bac-and-idor-vulnerabilities-8a3e58f79d95, BAC
 - https://medium.com/@thexssrat/miniseries-xss-to-the-core-pt-1-4a979b9e5139, XSS
 - https://medium.com/@theshubh77/facebook-page-admin-disclosure-by-create-doc-button-bounty-5000-usd-2fd1ff615bf8, misc
@@ -3436,7 +3435,6 @@
 - https://web.archive.org/web/20200626065913/https://medium.com/@saugatpokharel/able-to-create-hidden-comment-by-blocking-an-admin-facebook-bug-bounty-2020-c62bd10712f, Logic-flaw
 - https://medium.com/@abhishake100/bug-bounty-in-lockdown-sqli-and-business-logic-98ab8cb5f661, SQL-injection
 - https://medium.com/bugbountywriteup/all-about-getting-first-bounty-with-idor-849db2828c8, IDOR
-- https://palant.info/2020/06/22/exploiting-bitdefender-antivirus-rce-from-any-website/, RCE
 - https://medium.com/@mase289/a-tale-of-my-first-ever-full-ssrf-bug-4fe71a76e9c4, SSRF
 - https://jub0bs.com/posts/2020-06-23-ssrf/, SSRF
 - https://medium.com/bugbountywriteup/api-token-hijacking-through-clickjacking-2e36c02e6c48, Clickjacking
@@ -4252,7 +4250,6 @@
 - https://medium.com/@ChandSingh/download-any-organisation-data-s3-amazonaws-64059847e06, Authorization-flaw
 - https://web.archive.org/web/20200929003949/https://www.mohamedharon.com/2019/02/subdomain-aws-s3-buckets-reader.html, Subdomain-takeover
 - https://sites.google.com/securifyinc.com/secblogs/exploitingcalendars, Authorization-flaw
-- https://github.com/setuid0-sec/Swiss_E-Voting_Publications, XSS
 - https://medium.com/intigriti/abusing-autoresponders-and-email-bounces-9b1995eb53c2, Information-disclosure
 - https://medium.com/@modam3r5/reflected-xss-at-https-photos-shopify-com-ea696db3915c, Reflected-XSS
 - https://medium.com/@spade.com/how-i-registered-multiple-accounts-in-privateinternetaccess-vpn-service-for-free-a2068642f418, Logic-flaw
@@ -4765,7 +4762,6 @@
 - https://blog.securitybreached.org/2018/02/05/how-i-found-idor-on-twitters-acquisition-mopub-com/, IDOR
 - https://medium.com/bugbountywriteup/bugbounty-i-dont-need-your-current-password-to-login-into-your-account-how-could-i-e51a945b083d, Authentication-bypass
 - https://blog.securitybreached.org/2018/02/02/how-i-was-able-to-bypass-xss-protection-on-hackerones-private-program/, XSS
-- http://omespino.com/facebook-bug-bounty-getting-access-to-prompt-debug-dialog-and-serialized-tool-on-main-website-facebook-com/, Information-disclosure
 - https://blog.securitybreached.org/2018/01/27/how-i-was-able-to-download-any-file-from-web-server/, XSS
 - https://web.archive.org/web/20210122102751/https://www.guptashubham.com/how-i-got-22000-worth-ethereum/, Blind-XSS
 - https://medium.com/@pig.wig45/json-csrf-attack-on-a-social-networking-site-hackerone-platform-3d7aed3239b0, CSRF
@@ -5090,7 +5086,6 @@
 - https://blog.it-securityguard.com/bugbounty-papyal-xml-upload-cross-site-scripting-vulnerability, XSS
 - https://www.yassineaboukir.com/blog/how-I-discovered-a-1000$-open-redirect-in-facebook/, Open-redirect
 - https://blog.it-securityguard.com/bugbounty-reflected-cross-site-scripting-at-paypal-com/, Reflected-XSS
-- https://blog.it-securityguard.com/bugbounty-malicious-redirect-on-mailroom-prezi-com/, Open-redirect
 - https://quitten.github.io/Aliexpress/, XSS
 - https://josipfranjkovic.blogspot.com/2014/12/reading-local-files-from-facebooks.html, LFI
 - https://www.rcesecurity.com/2014/11/google-bug-bounty-nice-catch-on-google-cloud-platform-live, Reflected-XSS

@@ -34,3 +34,4 @@
 - http://artsploit.blogspot.com/2016/01/paypal-rce.html
 - https://medium.com/csg-govtech/all-your-d-base-are-belong-to-us-part-1-code-execution-in-apache-openoffice-cve-2021-33035-767fc7d6daf7
 - https://securitylab.github.com/research/apache-struts-double-evaluation/
+- https://palant.info/2020/06/22/exploiting-bitdefender-antivirus-rce-from-any-website/
