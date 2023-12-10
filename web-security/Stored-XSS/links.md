@@ -14,3 +14,4 @@
 - https://blogs.opera.com/security/2021/09/bug-bounty-guest-post-local-file-read-via-stored-xss-in-the-opera-browser/
 - https://medium.com/@ZishanAdThandar/my-first-stored-xss-on-edmodo-com-540a33349662
 - https://www.ansariosama.com/2017/09/exploiting-single-request-for-multiple.html
+- https://omespino.com/write-up-1000-usd-in-5-minutes-xss-stored-in-outlook-com-ios-browsers/

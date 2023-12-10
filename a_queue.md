@@ -251,7 +251,6 @@
 - https://medium.com/@Sm9l/what-i-learnt-from-reading-126-information-disclosure-writeups-d896c5d5a2a4, info-disclosure
 - https://medium.com/@rammk01/how-can-i-takeover-any-account-using-only-their-email-or-mobile-number-deca71a05a4b, journey
 - https://ophionsecurity.com/blog/phishing-the-anti-phishers, Phishing
-- https://medium.com/@armandjasharaj/pii-nacles-of-discovery-deep-recon-fourth-level-subdomains-and-abusing-exposed-git-repositories-7e282442bd02, git-folder-disclosure
 - https://medium.com/@snoopy101/1000-for-a-simple-stored-xss-8be7083a7c2d, Stored-XSS
 - https://samcurry.net/points-com/, Path-traversal
 - https://research.aurainfosec.io/pentest/hook-line-and-phishlet/, Phishing
@@ -4015,7 +4014,6 @@
 - https://medium.com/@ronak_9889/solr-injection-by-abusing-local-parameters-on-zomato-com-a5cb7bef10d5, Solr-injection
 - https://web.archive.org/web/20200826192345/https://pwnsec.ninja/2019/07/26/facebook-bugbounty-tale-of-an-instagram-bug-disclosing-users-phone-number-via-checkpoint/, Information-disclosure
 - https://web.archive.org/web/20201008153910/https://medium.com/@adeshkolte/full-account-takeover-changing-email-and-password-of-any-user-through-api-parameters-3d527ab27240, IDOR
-- https://apapedulimu.click/price-parameter-tampering-on-bukalapak/, Parameter-tampering
 - https://medium.com/@innocenthacker/how-i-found-the-most-critical-bug-in-live-bug-bounty-event-7a88b3aa97b3, Password-reset
 - https://medium.com/@baibhavanandjha/xx-to-xxx-in-one-day-9578858b6286, Account-takeover
 - https://blog.parthmalhotra.com/pwning-child-company-to-get-access-to-parentcompanys-slack-team/, SQL-injection
@@ -4222,7 +4220,6 @@
 - https://medium.com/@vis_hacker/how-i-was-able-to-pwned-30000-users-webhook-d26dc3420703, IDOR
 - https://medium.com/@imranparray/privilege-escalation-on-private-program-a2a5548cde09, Privilege-escalation
 - https://medium.com/@rohitcoder/user-account-takeover-password-change-nice-catch-2293f4d272b2, Account-takeover
-- https://omespino.com/write-up-1000-usd-in-5-minutes-xss-stored-in-outlook-com-ios-browsers/, Stored-XSS
 - https://blog.ripstech.com/2019/wordpress-csrf-to-rce/, CSRF
 - https://medium.com/@GeneralEG/hack-your-form-new-vector-for-blind-xss-b7a50b808016, Blind-XSS
 - https://medium.com/@newp_th/how-i-find-blind-xss-vulnerability-in-redacted-com-33af18b56869, Blind-XSS
@@ -4879,7 +4876,6 @@
 - https://medium.com/@arbazhussain/improper-storage-of-protected-projects-files-9ece8e9a4743, IDOR
 - https://medium.com/@arbazhussain/bypassing-rate-limit-protection-by-spoofing-originating-ip-ff06adf34157, Bruteforce
 - https://web.archive.org/web/20220818204507/https://www.rcesecurity.com/2017/08/from-lfi-to-rce-via-php-sessions/, LFI
-- https://medium.com/bugbountywriteup/pre-domain-wildcard-cors-exploitation-2d6ac1d4bd30, CORS-misconfiguration
 - https://philippeharewood.com/facebook-stories-disclose-facebook-friend-list/, Logic-flaw
 - https://nahamsec.com/posts/secure-your-jenkins-instance-or-hackers-will-force-you-to-snapchats-5000-vulnerability, RCE
 - https://lightningsecurity.io/blog/password-not-provided/, Authentication-flaw
@@ -4902,7 +4898,6 @@
 - https://bugbaba.blogspot.com/2017/07/open-redirect-in-flock-my-first-swag.html, Open-redirect
 - https://medium.com/bugbountywriteup/how-i-was-able-to-bypass-strong-xss-protection-in-well-known-website-imgur-com-8a247c527975, XSS
 - https://medium.com/@arbazhussain/missing-authorization-check-in-facebook-pages-manager-9f7bd879ff33, Authorization-flaw
-- https://medium.com/@arbazhussain/race-condition-bypassing-team-limit-b162e777ca3b, Race-condition
 - https://medium.com/@arbazhussain/self-xss-to-good-xss-clickjacking-6db43b44777e, XSS
 - https://www.seekurity.com/blog/general/business-logic-vulnerabilities-series-a-brief-on-abusing-invitation-systems/, Logic-flaw
 - https://medium.com/@ciph3r7r0ll/that-escalated-quickly-from-partial-csrf-to-reflected-xss-to-complete-csrf-to-stored-xss-6ba8103069c2, CSRF

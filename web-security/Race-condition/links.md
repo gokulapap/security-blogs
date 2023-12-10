@@ -1,1 +1,2 @@
 - https://web.archive.org/web/20200920134643/http://wisdomfreak.com/2020/08/banning-users-race-condition/
+- https://medium.com/@arbazhussain/race-condition-bypassing-team-limit-b162e777ca3b
