@@ -1,0 +1,1 @@
+- https://www.cyberark.com/resources/threat-research-blog/the-linux-kernel-and-the-cursed-driver

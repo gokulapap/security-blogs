@@ -846,7 +846,6 @@
 - https://hesec.de/posts/cve-2023-22855/, RCE
 - https://medium.com/@mares.viktor/code-injection-via-python-sandbox-escape-how-i-got-a-shell-inside-a-network-c977c35a82de, Code-injection
 - https://blog.quarkslab.com/post-exploitation-abusing-the-keepass-plugin-cache.html, Local-Privilege-escalation
-- https://www.cyberark.com/resources/threat-research-blog/the-linux-kernel-and-the-cursed-driver, Kernel-hacking
 - https://read.martiandefense.llc/a-zero-day-for-demo-servers-and-internal-government-networks-96acda9e83ed, XSS
 - https://eaton-works.com/2023/02/06/toyota-gspims-hack/, Authentication-bypass
 - https://securitylabs.datadoghq.com/articles/aws-console-rate-limit-bypass/, Rate-limiting-bypass
@@ -3079,7 +3078,6 @@
 - https://dl.acm.org/doi/fullHtml/10.1145/3427228.3427290, XSS
 - https://infosecwriteups.com/how-i-hacked-facebook-part-one-282bbb125a5d, Missing-authentication
 - https://ph-hitachi.medium.com/how-i-got-my-first-bug-bounty-in-intersting-target-lfi-to-sxss-58fa5c4f5882, LFI
-- https://rikeshbaniyaaa.medium.com/how-i-dumped-pii-information-of-customers-in-an-ecommerce-site-237761f813cf, AWS-misconfiguration
 - https://web.archive.org/web/20210508050717/http://dphoeniixx.com/2020/12/13-2/, CSRF
 - https://baibhavjha.com.np/blogs/hidingcustomlist/, Logic-flaw
 - https://research.checkpoint.com/2020/game-on-finding-vulnerabilities-in-valves-steam-sockets/, Memory-corruption
@@ -4044,7 +4042,6 @@
 - https://thesecurityexperts.wordpress.com/2019/07/11/xss-on-google-custom-search-engine/, XSS
 - https://medium.com/@janijay007/story-of-my-biggest-bounty-evecommand-execution-on-jenkin-a73f5242b1e2, RCE
 - https://medium.com/@ariffadhlullah2310/sql-injection-bug-bounty-110e92e71ec3, SQL-injection
-- https://medium.com/@sakyb7/tale-of-account-takeover-sensitive-info-disclosure-broken-access-control-cea0a5e3a1fd, IDOR
 - https://xp.ht/oauth-authentication-bypass-on-airbnb-acquisition-using-weird-1-char-open-redirect/, Open-redirect
 - https://medium.com/@hazzaazi31/a-malicious-editor-of-a-page-can-support-to-a-community-action-which-cant-be-unsupported-by-the-f568c3762042, Authorization-flaw
 - https://medium.com/@pratyush1337/information-disclosure-via-misconfigured-aws-to-aws-bucket-takeover-6a6a66470d0e, AWS-misconfiguration
@@ -4525,7 +4522,6 @@
 - https://blog.securitybreached.org/2018/09/07/rce-jenkins-instance-dosomething-org-bug-bounty-poc/, RCE
 - http://omespino.com/write-up-lovestory-from-closed-as-informative-to-xx00-usd-in-yahoo-ios-mail-app/, Stored-XSS
 - https://medium.com/@ciph3r7r0ll/simple-login-brute-force-current-password-requirement-bypass-e8f58931e257, IDOR
-- https://medium.com/@aroraminali21/how-i-could-download-the-source-code-of-an-indian-e-commerce-website-30cb8310b6e4, File-disclosure
 - https://medium.com/@Wh11teW0lf/p1-vulnerability-in-60-seconds-85ef93d42b99, Information-disclosure
 - https://b3nac.github.io/bugs/2018/09/01/How-I-could-have-launched-a-spear-phishing-campaign-with-Starbucks-newsletter-signup.html, Host-header-injection
 - https://blog.sagarvd.me/2018/09/youtube-csrf.html, CSRF
@@ -5047,7 +5043,6 @@
 - https://medium.com/swlh/watch-paint-dry-how-i-got-a-game-on-the-steam-store-without-anyone-from-valve-ever-looking-at-it-2e476858c753, Authorization-flaw
 - https://www.arneswinnen.net/2016/03/how-i-could-compromise-4-locked-instagram-accounts, IDOR
 - https://whitton.io/articles/uber-turning-self-xss-into-good-xss/, XSS
-- http://www.pranav-venkat.com/2016/03/command-injection-which-got-me-6000.html, OS-command-injection
 - http://karmainsecurity.com/hacking-magento-ecommerce-for-fun-and-17000-usd, Information-disclosure
 - https://www.rcesecurity.com/2016/02/ubiquiti-bug-bounty-unifi-v3-2-10-generic-csrf-protection-bypass/, CSRF
 - https://ahussam.me/how-i-hacked-oculus-oauth-ebay-ibm/, Unrestricted-file-upload
