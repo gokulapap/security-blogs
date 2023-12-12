@@ -1,0 +1,1 @@
+- https://medium.com/@thedarkwayg/bypass-authentication-1bfab09332fe

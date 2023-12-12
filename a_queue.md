@@ -2200,7 +2200,6 @@
 - https://mearegtu.medium.com/broken-access-control-cc6cfd793b15, IDOR
 - https://securitylab.github.com/advisories/GHSL-2021-1053_Grafana/, Path-traversal
 - https://www.pentestpartners.com/security-blog/gumtree-leaking-your-data-and-not-really-listening/, IDOR
-- https://medium.com/@thedarkwayg/bypass-authentication-1bfab09332fe, Session-expiration-issue
 - https://breakpoint.sh/posts/bypassing-the-macos-gatekeeper, Local-Privilege-Escalation
 - https://medium.com/@mohamedtaha_42562/how-i-found-xss-vulnerability-in-amazon-in-5-minutes-using-shodan-50b583655297, XSS
 - https://medium.com/@daudmalik06/how-i-bypassed-incapsula-waf-db0498b3a021, SQL-injection
@@ -2544,7 +2543,6 @@
 - https://medium.com/@vikramroot/account-takeover-via-stored-xss-b774f7a2a3ab, Stored-XSS
 - https://medium.com/@sebastien.kaul/gaining-access-to-gcp-of-google-stadia-500-bounty-22f76ecc8e60, Information-disclosure
 - https://n1ghtmar3.medium.com/how-i-found-my-first-idor-in-hackerone-5d5f17bb431, IDOR
-- https://infosecwriteups.com/how-i-could-have-hacked-your-medium-account-by-phishing-your-fb-twitter-google-credentials-d53bf7096da7, Open-redirect
 - https://radianid.medium.com/chaining-open-redirect-with-xss-to-account-takeover-36acf218a6d5, Open-redirect
 - https://3bodymo.medium.com/how-i-earned-by-amazon-s3-bucket-misconfigurations-29d51ee510de, AWS-misconfiguration
 - https://sunilyedla.medium.com/information-disclosure-to-account-takeover-a21b2b54147a, Information-disclosure
@@ -3329,7 +3327,6 @@
 - https://medium.com/@rikeshbaniyaaa/how-i-was-able-to-do-mass-account-takeover-bug-bounty-b279af1ce62b, Account-takeover
 - https://pulsesecurity.co.nz/advisories/AWS-Bastion-Logger-Bypass, Logging-bypass
 - https://www.computest.nl/en/knowledge-platform/blog/vulnerability-new-touchid-feature-iCloud-accounts-at-risk-breached/, OAuth
-- https://medium.com/kminthein/account-takeover-in-cups-mail-ru-bdab1483f92c, Logic-flaw
 - https://maordayanofficial.medium.com/look-at-what-i-found-in-comodo-57d62af2f263, Stored-XSS
 - https://vj0shii.github.io/multi-factor-auth-bypass-with-password-reset-function/, MFA-bypass
 - https://objective-see.org/blog/blog_0x4D.html, MacOS
@@ -4620,7 +4617,6 @@
 - https://0xpatrik.com/subdomain-takeover-starbucks/, Subdomain-takeover
 - https://medium.com/@yassergersy/account-take-over-via-reset-password-f2e9d887bce1, Password-reset
 - https://www.coengoedegebure.com/how-i-got-access-to-local-aws-info-via-jira/, SSRF
-- https://medium.com/@jonathanbouman/how-i-hacked-apple-com-unrestricted-file-upload-bcda047e27e3, Unrestricted-file-upload
 - https://blog.bentkowski.info/2018/06/xss-in-google-colaboratory-csp-bypass.html, XSS
 - https://medium.com/@cachemoney/using-a-github-app-to-escalate-to-an-organization-owner-for-a-10-000-bounty-4ec307168631, Authorization-flaw
 - https://blog.bentkowski.info/2018/06/setting-arbitrary-request-headers-in.html, CRLF-injection
@@ -5073,7 +5069,6 @@
 - https://blog.zimperium.com/telegram-hack/, Privacy-issue
 - https://buer.haus/2015/02/03/google-com-mobile-feedback-url-redirect-regexvalidation-flaw/, Open-redirect
 - https://buer.haus/2015/01/15/yahoo-root-access-sql-injection-tw-yahoo-com/, SQL-injection
-- https://blog.it-securityguard.com/bugbounty-papyal-xml-upload-cross-site-scripting-vulnerability, XSS
 - https://www.yassineaboukir.com/blog/how-I-discovered-a-1000$-open-redirect-in-facebook/, Open-redirect
 - https://blog.it-securityguard.com/bugbounty-reflected-cross-site-scripting-at-paypal-com/, Reflected-XSS
 - https://quitten.github.io/Aliexpress/, XSS

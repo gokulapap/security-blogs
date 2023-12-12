@@ -26,3 +26,4 @@
 - https://medium.com/@pratheesh.p.narayanan/misconfiguration-whatsapp-messenger-1f0f1cf3ef00
 - https://medium.com/@tobydavenn/how-i-was-able-to-wipe-any-registered-account-3b738afc389
 - https://sites.google.com/site/testsitehacking/-7-5k-Google-services-mix-up
+- https://medium.com/kminthein/account-takeover-in-cups-mail-ru-bdab1483f92c

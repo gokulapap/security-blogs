@@ -41,3 +41,4 @@
 - https://medium.com/bugbountywriteup/the-1-000-worth-cookie-6cf48af08e08
 - https://rudr4sarkar.blogspot.com/2018/10/how-i-found-stored-xss-on-your.html
 - https://github.com/setuid0-sec/Swiss_E-Voting_Publications
+- https://blog.it-securityguard.com/bugbounty-papyal-xml-upload-cross-site-scripting-vulnerability
