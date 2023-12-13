@@ -399,7 +399,6 @@
 - https://summoning.team/blog/vmware-vrealize-network-insight-rce-cve-2023-20887/, RCE
 - https://blog.lexfo.fr/xortigate-cve-2023-27997.html, RCE
 - https://research.nccgroup.com/2023/06/13/dynamic-linq-injection-remote-code-execution-vulnerability-cve-2023-32571/, RCE
-- https://dirkjanm.io/obtaining-domain-admin-from-azure-ad-via-cloud-kerberos-trust/, Azure-AD
 - https://hackcompute.com/hacking-epp-servers/, XXE
 - https://hacktus.tech/taking-over-an-entire-organization, Broken-Access-Control
 - https://infosecwriteups.com/kubernetes-pentest-bypassing-load-balancer-9bcfae2ce84a, Security-code-review
@@ -2037,7 +2036,6 @@
 - https://remonsec.com/posts/getting-first-swag-SIDN/, Directory-listing
 - https://github.com/Metnew/write-ups/tree/main/rce-github-desktop-2.9.3, RCE
 - https://web.archive.org/web/20220220072733/https://bloggerrando.blogspot.com/2022/02/stored-xss-on-messagealibabacom-alibaba.html, Stored-XSS
-- https://research.nccgroup.com/2022/02/18/analyzing-a-pjl-directory-traversal-vulnerability-exploiting-the-lexmark-mc3224i-printer-part-2/, Arbitrary-file-write
 - https://medium.com/@720922/recon-and-youtube-is-that-a-thing-5523b48c32e3, Subdomain-takeover
 - https://medium.com/@vishnurajr/403-forbidden-bypass-accessing-config-files-using-a-header-4bd172c25ff1, 403-bypass
 - https://www.iot-inspector.com/blog/advisory-cisco-rv340-dual-wan-gigabit-vpn-router-rce-over-lan/, RCE
@@ -2050,7 +2048,6 @@
 - https://www.zerodayinitiative.com/blog/2022/2/14/static-taint-analysis-using-binary-ninja-a-case-study-of-mysql-cluster-vulnerabilities, Memory-corruption
 - https://www.iot-inspector.com/blog/advisory-western-digital-my-cloud-pro-series-pr4100-rce/, RCE
 - https://ozguralp.medium.com/bigquery-sql-injection-cheat-sheet-65ad70e11eac, SQL-injection
-- https://infosecwriteups.com/hacking-aws-cognito-misconfiguration-to-zero-click-account-takeover-36a209a0bd8a, AWS-misconfiguration
 - https://amakki.me/how-i-made-15k-from-remote-code-execution-vulnerability-2e1b14b3902a, Code-injection
 - https://infosecwriteups.com/a-tale-of-0-click-account-takeover-and-2fa-bypass-b369cd70e42f, Account-takeover
 - https://thehackerblog.com/zero-days-without-incident-compromising-angular-via-expired-npm-publisher-email-domains-7kZplW4x/, Supply-chain-attack
@@ -2214,7 +2211,6 @@
 - https://outflank.nl/blog/2021/12/09/a-phishing-document-signed-by-microsoft/, Phishing
 - https://ahmed8magdy.medium.com/file-upload-to-rce-538bb4128062, Unrestricted-file-upload
 - https://notifybugme.medium.com/exploiting-s3-bucket-with-path-folder-to-access-pii-info-of-a-bank-91d8563cb45, AWS-misconfiguration
-- https://www.r29k.com/articles/bb/s3-sensitive-data-exposure, AWS-misconfiguration
 - https://www.r29k.com/articles/bb/priv-esc-via-stored-xss, Account-takeover
 - https://j0vsec.com/post/cve-2021-43798/, Path-traversal
 - https://rizwansiddiqu1.medium.com/another-admin-panel-e0489dc76678, HTTP-response-manipulation
@@ -2582,7 +2578,6 @@
 - https://rakesh-thodupunoori.medium.com/part-2-dive-into-zoom-applications-1b01091345c1, CSRF
 - https://medium.com/macoclock/apple-security-bounty-a-personal-experience-fe9a57a81943, Permission-bypass
 - https://tomorrowisnew.com/posts/broken-access-control-bug-bypassing-403-s-by-finding-another-endpoint-that-do-the-same-thing/, Broken-Access-Control
-- https://4bdoz.medium.com/trick-to-bypass-rate-limit-of-password-reset-functionality-a9923d3d7c4b, Rate-limiting-bypass
 - https://medium.com/@kalvik/pre-denial-of-service-set-up-2fa-on-unverified-account-8399af52ea2d, Application-level-DoS
 - https://infosecwriteups.com/critical-bug-bounty-reports-part-1-6fd9aef4b486, Account-takeover
 - https://infosecwriteups.com/reflected-xss-through-insecure-dynamic-loading-dbf4d33611e0, XSS

@@ -3,3 +3,5 @@
 - https://web.archive.org/web/20201107231430/https://medium.com/@protector47/how-i-earned-1-500-in-just-15-mins-due-to-amazon-s3-bucket-misconfiguration-953b28242f95
 - https://medium.com/sourav-sahana/how-i-earn-500-from-razer-open-s3-bucket-fe314e4bbab8
 - https://rikeshbaniyaaa.medium.com/how-i-dumped-pii-information-of-customers-in-an-ecommerce-site-237761f813cf
+- https://www.r29k.com/articles/bb/s3-sensitive-data-exposure
+- https://infosecwriteups.com/hacking-aws-cognito-misconfiguration-to-zero-click-account-takeover-36a209a0bd8a
