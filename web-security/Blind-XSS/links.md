@@ -2,3 +2,4 @@
 - https://www.invicti.com/blog/web-security/exploiting-insecure-exception-logging/
 - https://infosecwriteups.com/get-blind-xss-within-5-minutes-100-9718bd056570
 - https://websecblog.com/vulns/googleplex-com-blind-xss/
+- https://medium.com/@dirtycoder0124/n-a-to-750-bounty-for-a-blind-xss-dc218c84a340

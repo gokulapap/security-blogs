@@ -39,3 +39,4 @@
 - https://medium.com/@kojodaprogrammer/full-account-takeover-ato-a-tale-of-two-bugs-d1b3765ff1de
 - https://medium.com/@backup-nobugescapes/blind-insecure-direct-object-reference-idor-leads-to-export-other-users-data-on-instagram-7df7efd963b7
 - https://medium.com/@sakyb7/tale-of-account-takeover-sensitive-info-disclosure-broken-access-control-cea0a5e3a1fd
+- https://medium.com/bugbountywriteup/accidental-observation-to-critical-idor-d4d910a855bf

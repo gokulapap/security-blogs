@@ -1,2 +1,3 @@
 - https://www.coalfire.com/The-Coalfire-Blog/June-2018/How-I-Found-CVE-2018-8819-Out-of-Band-(OOB)-XXE
 - https://medium.com/@zain.sabahat/an-interesting-xxe-in-sap-8b35fec6ef33
+- https://blog.netspi.com/xxe-in-ibms-maas360-platform/

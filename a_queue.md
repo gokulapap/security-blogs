@@ -1498,7 +1498,6 @@
 - https://www.whiteoaksecurity.com/blog/fishbowl-disclosure-cve-2022-29805/, Insecure-deserialization
 - https://blog.orange.tw/2022/08/lets-dance-in-the-cache-destabilizing-hash-table-on-microsoft-iis.html, DoS
 - https://spaceraccoon.dev/exploiting-icalendar-properties-enterprise-applications/, XSS
-- https://medium.com/@dirtycoder0124/n-a-to-750-bounty-for-a-blind-xss-dc218c84a340, Blind-XSS
 - https://bugcrowd.com/disclosures/f7ce8504-0152-483b-bbf3-fb9b759f9f89/critical-local-file-read-in-electron-desktop-app, LFI
 - https://thinkloveshare.com/hacking/rce_on_spip_and_root_me_v2/, RCE
 - https://medium.com/@Dhamuharker/monitoring-linux-host-metrics-with-the-node-exporter-information-disclosure-350-bab3baa75bdc, Information-disclosure
@@ -3163,7 +3162,6 @@
 - https://www.mysk.blog/2020/10/25/link-previews/, Information-disclosure
 - https://servicenger.com/blog/mobile/perform-substring-search-for-emails-even-if-workplace-admin-hides-email-profile-field/, Broken-access-control
 - https://medium.com/bugbountywriteup/my-first-bug-on-google-observation-wins-1a13d0ea54b0, IDOR
-- https://medium.com/bugbountywriteup/accidental-observation-to-critical-idor-d4d910a855bf, IDOR
 - https://labs.f-secure.com/blog/samsung-s20-rce-via-samsung-galaxy-store-app/, RCE
 - https://medium.com/@seaman00o/300-p3-easy-bug-in-30-seconds-de65ea3d8f50, Missing-authentication
 - https://servicenger.com/blog/mobile/perform-substring-search-for-emails-even-if-workplace-admin-hides-email-profile-field/, Authorization-flaw
@@ -3365,7 +3363,6 @@
 - https://medium.com/@sudipshah_66336/the-story-of-my-first-4-digit-bounty-from-facebook-3a29830e03cd, Logic-flaw
 - https://medium.com/@saurabhsanmane06/i-am-able-to-see-users-sensitive-data-from-json-file-905e330278df, Information-disclosure
 - https://medium.com/@yaala/admin-editor-can-disclose-personnel-email-of-other-editor-admin-on-page-who-created-shop-57c35ed9f9b7, Information-disclosure
-- https://web.archive.org/web/20211016075506/https://insight.claranet.co.uk/technical-blogs/hunting-postmessage-vulnerabilities, postMessage
 - https://medium.com/bugbountywriteup/exploiting-imported-libraries-to-bypass-cloudflare-waf-7aed99186c5a, Reflected-XSS
 - https://medium.com/@rafaelrodripaz/ssrf-in-import-file-function-d0f1c6397262, SSRF
 - https://www.secjuice.com/api-misconfiguration-data-breach/, Information-disclosure
@@ -4196,7 +4193,6 @@
 - https://hackademic.co.in/youtube-bug/, CSRF
 - https://blog.usejournal.com/an-unusal-bug-on-braintree-paypal-b8d3ec662414, DoS
 - https://www.seekurity.com/blog/general/twitter-denial-of-service-bug-or-how-i-could-prevent-all-followers-from-reading-or-accessing-literally-any-tweets/, DoS
-- https://medium.com/@terjanq/google-books-x-hacking-29c249862f19, XS-Search
 - https://b3nac.com/posts/2019-02-16-How-to-hunt-for-Malvertising-ads-on-Android.html, Android
 - https://medium.com/@paulorcchoupina/a-real-xss-in-olx-7727ae89c640, Reflected-XSS
 - https://www.rodneybeede.com/security/slack-announcement-only-channel-post-restriction-bypass.html, Authorization-flaw
@@ -4442,7 +4438,6 @@
 - https://www.itsecguy.com/xss-with-put-in-ghost-blog/, XSS
 - https://medium.com/bugbountywriteup/add-comment-on-a-private-oculus-developer-bug-report-93f35bc80b2c, IDOR
 - https://medium.com/japzdivino/security-teams-internal-attachments-can-be-exported-via-export-as-zip-feature-on-hackerone-35ca6ec2bf8b, Logic-flaw
-- https://blog.netspi.com/xxe-in-ibms-maas360-platform/, XXE
 - https://blog.harshjaiswal.com/path-traversal-while-uploading-results-in-rce, Path-traversal
 - https://medium.com/bugbountywriteup/brave-browser-script-blocker-bypass-vulnerability-fffd659c5a7, Browser-hacking
 - https://web.archive.org/web/20200825165404/https://medium.com/@adeshkolte/how-i-got-500-from-microsoft-for-csrf-vulnerability-700accaf48b9, CSRF
