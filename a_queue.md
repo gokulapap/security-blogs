@@ -1239,7 +1239,6 @@
 - https://snapsec.co/blog/Hacking-Agorapulse/, Log4shell
 - https://www.redteam-pentesting.de/en/advisories/rt-sa-2021-003/-missing-authentication-in-zkteco-zem-zmm-web-interface, Missing-authentication
 - https://mehedishakeel.medium.com/broken-link-hijacking-my-second-finding-on-hackerone-d715b0713fca, Broken-link-hijacking
-- https://sensepost.com/blog/2022/sail-away-sail-away-sail-away/, RCE
 - https://medium.com/the-gray-area/1-000-p1-pii-disclosure-w-idor-cb344c55d52e, IDOR
 - https://caesarevan23.medium.com/google-vrp-insecure-direct-object-reference-3133-70-a0e37023a4c7, IDOR
 - https://www.trustedsec.com/blog/the-curious-case-of-the-password-database/, Cryptographic-issues
@@ -1828,7 +1827,6 @@
 - https://systemweakness.com/chained-bug-xml-file-upload-to-xss-to-csrf-to-full-account-take-over-ato-156409c41b57, XSS
 - https://labs.f-secure.com/advisories/samsung-galaxy-any-app-can-install-any-app/, Android
 - https://labs.f-secure.com/advisories/samsung-flow-any-app-can-read-the-external-storage/, Android
-- https://www.yesnaveen.com/remotely-permanent-crash-any-instagram, DoS
 - https://shahjerry33.medium.com/business-logic-errors-art-of-testing-cards-4907cfb46a57, Payment-bypass
 - https://medium.com/@robert0/how-did-i-find-a-vulnerability-that-leads-to-access-any-users-sensitive-data-and-got-500-5cce1c21d86a, Information-disclosure
 - https://github.com/Metnew/write-ups/tree/main/rce-gh-cli-run-download, RCE
@@ -2238,7 +2236,6 @@
 - https://github.com/l0ggg/VMware_vCenter, LFI
 - https://cyberguy0xd1.medium.com/my-write-up-in-hacking-ibms-administration-panel-and-getting-sqli-on-it-51404c7bee27, SQL-injection
 - https://blog.sonarsource.com/nodebb-remote-code-execution-with-one-shot, RCE
-- https://www.inputzero.io/2021/04/play-the-opera-please.html, Browser-hacking
 - https://marxchryz.medium.com/price-manipulation-bypass-using-integer-overflow-method-36ff23ebe91d, Payment-tampering
 - https://sh1yo.art/post/websocket_hijacking/, Cross-Site-Websocket-Hijacking
 - https://sh1yo.art/post/sec-596/, Reflected-XSS
@@ -4780,7 +4777,6 @@
 - https://corben.io/blog/17-12-17-hackertarget, SSRF
 - https://lightningsecurity.io/blog/host-header-injection/, Password-reset
 - https://blog.securitybreached.org/2017/12/10/how-i-was-able-to-takeover-facebook-account-bug-bounty-poc/, Authentication-bypass
-- https://medium.com/@joshuaregio/using-app-ads-helper-as-an-analytic-user-e751fcf9c594, Authorization-flaw
 - https://medium.com/bugbountywriteup/bug-bounty-fastmail-feeda67905f5, Blind-SSRF
 - https://medium.com/secjuice/how-i-was-able-to-view-exact-bounty-balance-of-any-bug-bounty-program-in-hackerone-f0e18e4206d5, Logic-flaw
 - https://medium.com/@uranium238/getting-a-rce-ctf-way-2fd612fb643f, RCE
@@ -4840,7 +4836,6 @@
 - https://kciredor.com/first-bounty-time-to-step-up-my-game.html, Same-Origin-Method-Execution
 - http://www.noob.ninja/2017/09/story-of-parameter-specific-xss.html, XSS
 - https://medium.com/bugbountywriteup/chaining-self-xss-with-ui-redressing-is-leading-to-session-hijacking-pwn-users-like-a-boss-efb46249cd14, Self-XSS
-- https://medium.com/@arbazhussain/stored-xss-with-arbitrary-cookie-installation-567931433c7f, XSS
 - http://manuel-sousa.blogspot.com/2017/09/url-whitelist-bypass-accounts-google.html, Open-redirect
 - https://medium.com/intigriti/how-i-hacked-hundreds-of-companies-through-their-helpdesk-b7680ddc2d4c, Ticket-Trick
 - https://hackernoon.com/bypassing-facebook-profile-picture-guard-security-f0676550f089, Authorization-flaw

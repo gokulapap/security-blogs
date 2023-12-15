@@ -1,2 +1,3 @@
 - https://threedr3am.github.io/2021/11/18/一种普遍存在于java系统的缺陷-Memory%20DoS/
 - https://www.redtimmy.com/bug-bounty-failure-stories-to-learn-from-how-we-ended-up-to-hack-a-bank-with-no-reward/
+- https://www.yesnaveen.com/remotely-permanent-crash-any-instagram

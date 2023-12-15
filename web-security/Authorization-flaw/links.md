@@ -20,3 +20,4 @@
 - https://medium.com/@alicanact60/facebook-bug-bounty-permission-bug-19c9358d2297
 - https://medium.com/@mudassirsharief58/the-noob-way-of-taking-over-accounts-81aee783c064
 - https://medium.com/bugbountywriteup/device-authorization-bypass-aa508c9193ed
+- https://medium.com/@joshuaregio/using-app-ads-helper-as-an-analytic-user-e751fcf9c594
