@@ -37,3 +37,4 @@
 - https://ysamm.com/?p=455
 - https://medium.com/@gerrygosselin/cisco-ios-snmpv3-acl-issues-66dbab0bd138
 - http://omespino.com/facebook-bug-bounty-getting-access-to-prompt-debug-dialog-and-serialized-tool-on-main-website-facebook-com/
+- https://medium.com/@tod4ro/for-paypal-security-team-get-user-balances-and-transaction-details-is-not-a-vulnerability-2e5b7f8780de

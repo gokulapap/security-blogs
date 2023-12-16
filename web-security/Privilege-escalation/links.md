@@ -5,3 +5,4 @@
 - https://hencohen10.medium.com/i-own-your-cloud-shell-taking-over-azure-cloud-shell-kubernetes-cluster-through-unsecured-558621519cf9
 - https://blog.ripstech.com/2018/wordpress-post-type-privilege-escalation/
 - https://gitlab.com/gitlab-com/gl-security/gl-redteam/red-team-tech-notes/-/tree/master/oslogin-privesc-june-2020
+- https://medium.com/@h4ck3rp4tik/privilege-escalation-leads-to-deleting-other-users-account-and-company-workspace-access-control-7b709eb88ef

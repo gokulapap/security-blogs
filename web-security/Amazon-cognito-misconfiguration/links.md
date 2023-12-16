@@ -1,1 +1,2 @@
 - https://medium.com/@mukundbhuva/account-takeover-due-to-cognito-misconfiguration-earns-me-xxxx-3a7b8bb9a619
+- https://www.secforce.com/blog/aws-cognito-pitfalls-default-settings-attackers-love-and-you-should-know-about/

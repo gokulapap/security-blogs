@@ -917,7 +917,6 @@
 - https://melotover.medium.com/bypassing-e2e-encryption-leads-to-multiple-high-vulnerabilities-65b708e5ad84, IDOR
 - https://research.nccgroup.com/2023/01/20/technical-advisory-multiple-vulnerabilities-in-the-galaxy-app-store-cve-2023-21433-cve-2023-21434/, Android
 - https://medium.com/pentesternepal/two-factor-authentication-bypass-on-facebook-3f4ac3ea139c, MFA-bypass
-- https://www.secforce.com/blog/aws-cognito-pitfalls-default-settings-attackers-love-and-you-should-know-about/, Amazon-cognito-misconfiguration
 - https://www.zerodayinitiative.com/blog/2023/1/18/cve-2022-35690-unauthenticated-rce-in-adobe-coldfusion, RCE
 - https://medium.com/@siratsami71/the-easiest-way-i-used-to-bypass-an-admin-panel-93d4297ed4a6, HTTP-request-smuggling
 - https://ermetic.com/blog/azure/emojideploy-smile-your-azure-web-service-just-got-rced/, RCE
@@ -1033,7 +1032,6 @@
 - https://spyclub.tech/2022/12/14/unusual-cache-poisoning-akamai-s3/, Web-cache-poisoning
 - https://labs.nettitude.com/blog/exploiting-onlyoffice-web-sockets-for-unauthenticated-remote-code-execution/, Websockets
 - https://www.akamai.com/blog/security-research/msrpc-lsm-cve-disturbing-hosts-rest, Windows
-- https://medium.com/@h4ck3rp4tik/privilege-escalation-leads-to-deleting-other-users-account-and-company-workspace-access-control-7b709eb88ef, Privilege-escalation
 - https://aidenpearce369.github.io/offsec/My-First-RedTeam-Engagement/, SQL-injection
 - https://medium.com/@jazdprince/doing-it-the-researchers-way-how-i-managed-to-get-ssti-server-side-template-injection-which-66b239ca0104, SSTI
 - https://blog.lightspin.io/aws-ecr-public-vulnerability, Cloud
@@ -1540,7 +1538,6 @@
 - https://i.blackhat.com/USA-22/Wednesday/US-22-Doyhenard-Internal-Server-Error-wp.pdf, Memory-corruption
 - https://portswigger.net/research/browser-powered-desync-attacks, HTTP-Request-Smuggling
 - https://medium.com/@avinash_/email-confirmation-bypass-at-instagram-cc968f9a126, Email-verification-bypass
-- https://web.archive.org/web/20220812183449/https://deb0con.medium.com/how-i-earned-a-6000-bug-bounty-from-cloudflare-db6949e39cf7, Path-traversal
 - https://bugra.ninja/posts/cloudshell-command-injection/, OS-command-injection
 - https://krausefx.com/blog/ios-privacy-instagram-and-facebook-can-track-anything-you-do-on-any-website-in-their-in-app-browser, Privacy-issue
 - https://googleprojectzero.blogspot.com/2022/08/the-quantum-state-of-linux-kernel.html, Memory-corruption
@@ -4135,7 +4132,6 @@
 - https://edoverflow.com/2019/ci-knew-there-would-be-bugs-here/, Information-disclosure
 - https://medium.com/@ronak_9889/denial-of-service-using-cookie-bombing-55c2d0ef808c, DoS
 - https://medium.com/@YumiSec/how-to-bypass-a-2fa-with-a-http-header-ce82f7927893, MFA-bypass
-- https://medium.com/@tod4ro/for-paypal-security-team-get-user-balances-and-transaction-details-is-not-a-vulnerability-2e5b7f8780de, Information-disclosure
 - https://medium.com/@protostar0/sidefx-poc-user-enumeration-no-rate-limeted-in-send-message-function-953f1662d41, Username-enumeration
 - https://whitehatfamilyguy.blogspot.com/2019/04/missing-authorization-check-while.html, Authorization-flaw
 - https://medium.com/@logicbomb_1/the-journey-of-web-cache-firewall-bypass-to-ssrf-to-aws-credentials-compromise-b250fb40af82, LFI
@@ -4373,7 +4369,6 @@
 - https://www.amolbaikar.com/disclose-contact_email-of-any-facebook-application/, Information-disclosure
 - https://www.amolbaikar.com/xss-on-facebooks-acquisition-oculus-cdn/, XSS
 - https://www.amolbaikar.com/xss-on-facebook-instagram-cdn-server-bypassing-signature-protection/, XSS
-- https://www.amolbaikar.com/facebook-source-code-disclosure-in-ads-api/, Source-code-disclosure
 - https://medium.com/@benjitobias/from-ctfs-to-bug-bounty-booty-81bab999b70d, Information-disclosure
 - https://www.hackerinside.me/2018/11/critical-stored-xss-vulnerability.html, Stored-XSS
 - https://medium.com/@pratheesh.p.narayanan/bypassing-scratch-cards-on-google-pay-8915d5423385, Logic-flaw
