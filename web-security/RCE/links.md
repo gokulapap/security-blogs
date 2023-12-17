@@ -36,3 +36,4 @@
 - https://securitylab.github.com/research/apache-struts-double-evaluation/
 - https://palant.info/2020/06/22/exploiting-bitdefender-antivirus-rce-from-any-website/
 - https://sensepost.com/blog/2022/sail-away-sail-away-sail-away/
+- https://blog.assetnote.io/2023/05/10/sitecore-round-two/

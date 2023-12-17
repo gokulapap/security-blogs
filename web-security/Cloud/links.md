@@ -2,3 +2,4 @@
 - https://www.trendmicro.com/en_ae/research/23/f/gaps-in-azure-service-fabric-s-security-call-for-user-vigilance.html
 - https://www.shielder.com/blog/2023/07/aws-codebuild--s3-privilege-escalation/
 - https://www.rootcat.de/blog/ec2-meta_may23/
+- https://divyanshu-mehta.gitbook.io/researchs/hijacking-cloud-ci-cd-systems-for-fun-and-profit#azure

@@ -267,7 +267,6 @@
 - https://bountyplz.xyz/bugbounty/2023/07/24/Opinions-are-like-bugs.html, HTML-injection
 - https://blog.assetnote.io/2023/07/21/citrix-CVE-2023-3519-analysis/, RCE
 - https://blog.assetnote.io/2023/07/22/pre-auth-rce-metabase/, RCE
-- https://divyanshu-mehta.gitbook.io/researchs/hijacking-cloud-ci-cd-systems-for-fun-and-profit#azure, Cloud
 - https://medium.com/@mullangisashank/a-tale-of-og-xss-89af3d4725dc, XSS
 - https://blog.qualys.com/vulnerabilities-threat-research/2023/07/19/cve-2023-38408-remote-code-execution-in-opensshs-forwarded-ssh-agent, RCE
 - https://kuldeep.io/posts/escalating-privileges-with-ssrf/, SSRF
@@ -493,7 +492,6 @@
 - https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/rendezvous-with-a-chatbot-chaining-contextual-risk-vulnerabilities/, Chatbot
 - https://medium.com/@icebre4ker/hacking-chess-com-my-journey-to-unlock-premium-bots-on-the-android-app-d8cac9d25094, Android
 - https://thinkloveshare.com/hacking/kong-konga-exploitation-and-hardening/, RCE
-- https://blog.assetnote.io/2023/05/10/sitecore-round-two/, RCE
 - https://www.akamai.com/blog/security-research/important-outlook-vulnerability-bypass-windows-api, Privilege-escalation
 - https://chevonphillip.medium.com/rce-due-to-dependency-confusion-5000-bounty-fd1b294d645f, Dependency-confusion
 - https://crnkovic.dev/testing-converso/, Android
@@ -1998,7 +1996,6 @@
 - https://www.rapid7.com/blog/post/2022/03/03/cve-2021-4191-gitlab-graphql-api-user-enumeration-fixed/, Username-enumeration
 - https://medium.com/@nvmeeet/4300-instagram-idor-bug-2022-5386cf492cad, IDOR
 - https://muffsec.com/blog/moodle-2nd-order-sqli/, SQL-injection
-- https://noob3xploiter.medium.com/idor-in-support-mozilla-org-through-code-review-ff2aa8ea1201, IDOR
 - https://octagon.net/blog/2022/03/02/apache-jspwiki-preauth-xss-to-ato/, Stored-XSS
 - https://blog.recurity-labs.com/2022-03-02/webOS_Pt2.html, Local-Privilege-Escalation
 - https://web.archive.org/web/20220306040035/https://medium.com/@1337Fenrir/how-did-i-find-directory-traversal-attack-using-github-9b051ed749ca, Information-disclosure
@@ -2634,7 +2631,6 @@
 - https://shahjerry33.medium.com/blind-command-injection-it-hurts-9f396c1f63f2, Command-injection
 - https://0x01alka.medium.com/google-vrp-privilege-escalation-on-https-dialogflow-cloud-google-com-599af6c4516d, Authorization-flaw
 - https://kaif0x01.medium.com/story-of-account-takeover-using-social-login-with-mass-assignment-vulnerability-to-hack-accounts-21e4d5856f5e, Mass-assignment
-- https://sinsinology.medium.com/how-i-found-the-silliest-logical-vulnerability-for-750-d4f49e5b8763, Logic-flaw
 - https://pratikkhalane91.medium.com/how-i-was-able-to-bypass-the-admin-panel-without-the-credentials-d65f90e0e1e4, Information-disclosure
 - https://youst.in/posts/bypassing-2fa-using-openid-misconfiguration/, MFA-bypass
 - https://0xdekster.medium.com/second-order-race-condition-be8aaf774783, Race-condition
@@ -4687,7 +4683,6 @@
 - https://medium.com/@logicbomb_1/bugbounty-your-details-are-saved-into-my-account-user-info-disclosure-vulnerability-in-practo-fe36930a1246, IDOR
 - https://medium.com/@satboy.fb/how-i-caught-multiple-vulnerabilities-in-udemy-com-14012a8a1421, XSS
 - https://www.gosecure.net/blog/2018/04/03/beyond-xss-edge-side-include-injection/, ESI-injection
-- https://whitehatfamilyguy.blogspot.com/2019/04/hijacking-friend-requests-facebook.html, Authorization-flaw
 - https://web.archive.org/web/20201022201335/https://www.mohamedharon.com/2018/04/my-best-small-report-bounty-report-in.html, SQL-injection
 - https://web.archive.org/web/20200929004520/https://www.mohamedharon.com/2018/03/xss-in-subdomain-httpsyefgrantsyahoocom.html, Flash-XSS
 - https://web.archive.org/web/20200928235353/https://www.mohamedharon.com/2018/03/xss-in-sportstwcampaignyahoonet.html, Reflected-XSS

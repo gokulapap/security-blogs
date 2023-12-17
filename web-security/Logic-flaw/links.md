@@ -27,3 +27,4 @@
 - https://medium.com/@tobydavenn/how-i-was-able-to-wipe-any-registered-account-3b738afc389
 - https://sites.google.com/site/testsitehacking/-7-5k-Google-services-mix-up
 - https://medium.com/kminthein/account-takeover-in-cups-mail-ru-bdab1483f92c
+- https://sinsinology.medium.com/how-i-found-the-silliest-logical-vulnerability-for-750-d4f49e5b8763
