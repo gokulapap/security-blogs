@@ -1,0 +1,1 @@
+- https://blog.bitcrack.net/fabric-os-8-0-2cs-rbash-escape-to-read-system-files/

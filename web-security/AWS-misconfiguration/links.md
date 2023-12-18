@@ -5,3 +5,4 @@
 - https://rikeshbaniyaaa.medium.com/how-i-dumped-pii-information-of-customers-in-an-ecommerce-site-237761f813cf
 - https://www.r29k.com/articles/bb/s3-sensitive-data-exposure
 - https://infosecwriteups.com/hacking-aws-cognito-misconfiguration-to-zero-click-account-takeover-36a209a0bd8a
+- https://medium.com/@gguzelkokar.mdbf15/hatal%C4%B1-yap%C4%B1land%C4%B1r%C4%B1lm%C4%B1%C5%9F-aws-s3-bucket-%C3%BCzerinde-bulunan-g%C3%BCvenlik-a%C3%A7%C4%B1%C4%9F%C4%B1n%C4%B1n-yaratt%C4%B1%C4%9F%C4%B1-etkiler-cb073179360d

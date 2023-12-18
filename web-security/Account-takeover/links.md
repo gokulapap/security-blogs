@@ -18,3 +18,4 @@
 - https://medium.com/@androgaming1912/story-about-facebook-oauth-account-takeover-6537ff32281b
 - https://medium.com/bugbountywriteup/user-account-takeover-in-indias-largest-digital-business-company-c7b6d61dadb9
 - https://ysamm.com/?p=783
+- https://nullr3x.medium.com/weird-functionality-leads-to-account-takeover-millions-of-users-affected-3fdf06be45

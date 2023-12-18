@@ -127,7 +127,6 @@
 - https://medium.com/@ahmdhalabi/taking-over-employee-accounts-by-managers-with-zero-employee-interaction-b60784c3ad84, misc
 - https://medium.com/@burhanxd/my-first-nosql-injection-bug-e62bfe9950d9, sql-injection
 - https://medium.com/@justm0rph3u5/html-and-hyperlink-injection-via-share-option-in-microsoft-onenote-application-47e94d0e6478, injection
-- https://medium.com/@dewcode/how-did-i-earn-by-breaking-the-back-end-logic-of-the-server-fd94882cbdf6, misc
 - https://medium.com/@roberto.cyberkid/another-day-another-idor-vulnerability-5000-reddit-bug-bounty-22a75003d999, IDOR
 - https://medium.com/@sunilyedla/exploiting-max-character-limitation-cde982545019, misc
 - https://medium.com/@cypherthethird/cross-site-scripting-xss-for-dummies-9a7717bbd002, XSS
@@ -718,7 +717,6 @@
 - https://medium.com/@thelinuxboy/30-minute-heist-how-i-bagged-a-1500-bounty-in-just-few-minutes-48753eb2028e, Broken-Access-Control
 - https://medium.com/@mrxdevil404/bug-in-netflix-with-my-automation-1382d087078, Information-disclosure
 - https://m7arm4n.medium.com/unauthorized-access-to-admin-panel-via-swagger-c242e8341045, Missing-authentication
-- https://wojciechregula.blog/post/bypass-tcc-via-icloud/, TCC-bypass
 - https://bountyplz.xyz/bugbounty/2023/03/03/Bypassing-Safe-Redirect-in-Rails-7.0.html, Open-redirect
 - https://github.blog/2023-03-03-github-security-lab-audited-datahub-heres-what-they-found/, SSRF
 - https://github.com/AnkitCuriosity/Write-Ups/blob/main/Web%20Cache%20Poisoning%20-%20Capability%20to%20disable%E2%88%95deface%20the%20app.vulnerable.com%20(A%20tale%20of%20poisoning%20through%20the%20layers%20of%20caching).md, Web-cache-poisoning
@@ -1083,7 +1081,6 @@
 - https://hopesamples.blogspot.com/2022/11/the-space-creators-can-still-see.html, IDOR
 - https://aidilarf.medium.com/stored-xss-at-https-www-tiktok-com-11fed6db0590, Stored-XSS
 - https://www.synacktiv.com/sites/default/files/2022-11/trufusion_enterprise_unauthenticated_arbitrary_file_write.pdf, Unrestricted-file-upload
-- https://blog.bitcrack.net/fabric-os-8-0-2cs-rbash-escape-to-read-system-files/, rbash-escape
 - https://mc0wn.blogspot.com/2022/11/rce-on-apache-struts-2530.html, RCE
 - https://0xjin.medium.com/voip-spoofing-intigriti-1-250-57b99bf8bd2b, VoIP
 - https://www.synacktiv.com/sites/default/files/2022-11/CodeIgniter3_XSS_2022.pdf, Reflected-XSS
@@ -1212,7 +1209,6 @@
 - https://logicbomb.medium.com/a-bug-worth-1-75lacs-aws-ssrf-to-rce-8d43d5fda899, SSRF
 - https://blog.doyensec.com/2022/10/27/jupytervscode.html, RCE
 - https://medium.com/@dsonbacker/a-250-css-injection-my-first-finding-on-hackerone-8863ad253560, CSS-injection
-- https://medium.com/@gguzelkokar.mdbf15/hatal%C4%B1-yap%C4%B1land%C4%B1r%C4%B1lm%C4%B1%C5%9F-aws-s3-bucket-%C3%BCzerinde-bulunan-g%C3%BCvenlik-a%C3%A7%C4%B1%C4%9F%C4%B1n%C4%B1n-yaratt%C4%B1%C4%9F%C4%B1-etkiler-cb073179360d, AWS-misconfiguration
 - https://googleprojectzero.blogspot.com/2022/10/rc4-is-still-considered-harmful.html, Kerberos
 - https://blog.nietaanraken.nl/posts/aur-packages-expired-domains/, Subdomain-takeover
 - https://bpandasec.medium.com/client-side-desync-attack-cl-0-request-smuggling-bounty-of-150-327d3aeaeea6, HTTP-Request-Smuggling
@@ -2961,7 +2957,6 @@
 - https://logicbomb.medium.com/otp-bypass-account-takeover-to-admin-panel-ft-header-injection-16f2982a0136, OTP-bypass
 - https://medium.com/bugbountywriteup/business-logic-error-methodology-easy-way-poc-s-8195d8dee95b, Logic-flaw
 - https://www.intezer.com/blog/research/how-we-escaped-docker-in-azure-functions/, Privilege-escalation
-- https://nullr3x.medium.com/weird-functionality-leads-to-account-takeover-millions-of-users-affected-3fdf06be45, Account-takeover
 - https://medium.com/bugbountywriteup/bragging-rights-part-1-short-story-of-a-bug-wave-dbb88f48b604, IDOR
 - https://santuysec.com/2021/01/27/hijacking-google-drive-files-documents-photo-video-through-google-docs-sharing/, Clickjacking
 - https://bugbountyhunter.medium.com/500-for-no-rate-limit-on-forgot-password-page-d534d1d750db, Lack-of-rate-limiting
