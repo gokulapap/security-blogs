@@ -531,7 +531,6 @@
 - https://goziem.medium.com/how-i-chained-an-information-disclosure-bug-to-sql-injection-bca936d90fb1, SQL-injection
 - https://herolab.usd.de/security-advisories/usd-2022-0034/, Local-Privilege-Escalation
 - https://blog.calif.io/p/redash-saml-authentication-bypass, SAML
-- https://starlabs.sg/blog/2023/04-microsoft-exchange-powershell-remoting-deserialization-leading-to-rce-cve-2023-21707/, RCE
 - https://the-deniss.github.io/posts/2023/04/26/avast-privileged-arbitrary-file-create-on-quarantine.html, TOCTOU
 - https://mikko-kenttala.medium.com/alias-file-to-rule-them-all-one-click-code-execution-with-alias-file-in-macos-1eeb0a730b88, Arbitrary-Code-Execution
 - https://blog.ethiack.com/en/blog/git-arbitrary-configuration-injection-cve-2023-29007, Logic-flaw
@@ -1697,7 +1696,6 @@
 - https://bishopfox.com/blog/filestack-upload-advisory, XSS
 - https://palant.info/2020/06/22/exploiting-bitdefender-antivirus-rce-from-any-website/, RCE
 - https://medium.com/@tobydavenn/1500-of-broken-access-controls-503d8a5f56f5, Broken-Access-Control
-- https://lonewolf-raj.medium.com/exploiting-vulnerabilities-in-ios-application-cf5718910c47, IDOR
 - https://portswigger.net/research/widespread-prototype-pollution-gadgets, Prototype-pollution
 - https://www.gosecure.net/blog/2022/06/21/xss-vulnerability-in-ibm-content-navigator-cve-2020-4757/, XSS
 - https://eaton-works.com/2022/06/20/hacking-into-the-worldwide-jacuzzi-smarttub-network/, SPA
@@ -2013,7 +2011,6 @@
 - https://omespino.com/write-up-private-bug-bounty-bypass-redacted-android-application-screen-lock-via-local-brute-forcing/, Android
 - https://servicenger.com/mobile/facebook-android-vulnerability-launching-internal-tighten-deeplink-onbehalf-of-user/, Android
 - https://ninetyn1ne.github.io/2022-02-21-oauth-postmessage-misconfig/, OAuth
-- https://infosecwriteups.com/how-i-couldve-bypassed-the-2fa-security-of-instagram-once-again-43c05cc9b755, MFA-bypass
 - https://flattsecurity.medium.com/finding-an-unseen-sql-injection-by-bypassing-escape-functions-in-mysqljs-mysql-90b27f6542b4, SQL-injection
 - https://systemweakness.com/what-an-injection-into-jquery-selector-can-lead-to-1fcaabfd51e5, CSRF
 - https://f4t7.medium.com/xss-in-hidden-input-field-1b98a5fece26, XSS
@@ -3466,7 +3463,6 @@
 - https://medium.com/bugbountywriteup/how-i-leveraged-an-interesting-csrf-vulnerability-to-turn-self-xss-into-a-persistent-attack-b780824042d2, Self-XSS
 - https://medium.com/@win3zz/how-i-made-31500-by-submitting-a-bug-to-facebook-d31bb046e204, SSRF
 - https://f4d3.io/xxe_wild/, XXE
-- https://elmahdi.tistory.com/3, RCE
 - https://medium.com/@secureITmania/weird-subdomain-take-over-pattern-of-amazon-s3-75165ab2e883, Subdomain-takeover
 - https://medium.com/@sudipshah_66336/the-story-of-my-first-xxx-bug-bounty-from-facebook-565a212c94ad, Logic-flaw
 - https://medium.com/@kassihmouhssine/cross-site-scripting-the-power-of-the-hidden-parameters-259a4d2c4c09, Reflected-XSS
@@ -3643,7 +3639,6 @@
 - https://medium.com/cyberverse/got-bounty-with-account-takeover-ato-unicode-case-mapping-collision-d23a7785e1be, Account-takeover
 - https://posts.specterops.io/abusing-slack-for-offensive-operations-2343237b9282, Logic-flaw
 - https://eslam.io/posts/uppy-js-ssrf-vulnerability/, SSRF
-- https://web.archive.org/web/20200304074843/https://medium.com/@kenanistaken/sop-bypass-ecae7f4a5c00, SOP-bypass
 - https://medium.com/a-bugz-life/exploiting-an-ssrf-trials-and-tribulations-14c5d8dbd69a, SSRF
 - https://medium.com/@ducanhbui/manageengine-servicedesk-plus-arbitrary-file-upload-4bab0bd00425, Arbitrary-file-upload
 - https://medium.com/@rajeshranjan457/how-i-csrfd-my-first-bounty-a62b593d3f4d, CSRF

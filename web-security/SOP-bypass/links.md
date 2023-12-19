@@ -1,0 +1,1 @@
+- https://web.archive.org/web/20200304074843/https://medium.com/@kenanistaken/sop-bypass-ecae7f4a5c00

@@ -37,3 +37,5 @@
 - https://palant.info/2020/06/22/exploiting-bitdefender-antivirus-rce-from-any-website/
 - https://sensepost.com/blog/2022/sail-away-sail-away-sail-away/
 - https://blog.assetnote.io/2023/05/10/sitecore-round-two/
+- https://starlabs.sg/blog/2023/04-microsoft-exchange-powershell-remoting-deserialization-leading-to-rce-cve-2023-21707/
+- https://elmahdi.tistory.com/3

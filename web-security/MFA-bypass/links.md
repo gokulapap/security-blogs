@@ -1,3 +1,4 @@
 - https://medium.com/@mehtashobhit98/bypassing-the-2fa-mfa-an-easy-win-9b059bf0ac75
 - https://www.cyberick.com/post/2fa-secret-value-disclosure-leads-to-2fa-bypass-bug-bounty-writeup
 - https://medium.com/@mohamedtaha_42562/how-i-earned-by-bypassing-2fa-b5487942a86d
+- https://infosecwriteups.com/how-i-couldve-bypassed-the-2fa-security-of-instagram-once-again-43c05cc9b755
