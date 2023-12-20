@@ -25,3 +25,4 @@
 - https://blog.assetnote.io/2022/06/09/whatsup-gold-exploit/
 - https://blog.deesee.xyz/fuzzing/security/2021/02/26/ssrf-bypassing-hostname-restrictions-fuzzing.html
 - https://tech-blog.cymetrics.io/en/posts/huli/erpnext-ssrf-and-xss-to-account-takeover/
+- https://blog.usamav.dev/how-i-got-400-usd-for-my-first-ssrf-bug

@@ -618,7 +618,6 @@
 - https://crypt0g30rgy.github.io/post/Journey2pII, Information-disclosure
 - https://www.mannulinux.org/2023/03/exploiting-hibernate-injection-in-order.html, HQL-injection
 - https://blog.trailofbits.com/2023/03/30/acropalypse-polytracker-blind-spots/, Privacy-issue
-- https://orca.security/resources/blog/super-fabrixss-azure-vulnerability/, RCE
 - https://www.legitsecurity.com/blog/remote-code-execution-vulnerability-in-azure-pipelines-can-lead-to-software-supply-chain-attack, RCE
 - https://xelkomy.medium.com/found-ssrf-and-lfi-in-just-10-minutes-of-using-burp-492fddef3f3e, SSRF
 - https://www.netspi.com/blog/technical/vulnerability-research/azure-service-bus-power-platform/, RCE
@@ -1247,7 +1246,6 @@
 - https://www.jomar.fr/posts/2022/basic_recon_to_rce_iii/, RCE
 - https://www.synacktiv.com/en/publications/php-filters-chain-what-is-it-and-how-to-use-it.html, Insecure-deserialization
 - https://marcin-wolak.medium.com/cve-2022-24082-rce-in-the-pega-platform-discovery-remediation-technical-details-long-live-69efb5437316, RCE
-- https://microsoftedge.github.io/edgevr/posts/memory-corruption-vulnerabilities-in-edge/, Browser-hacking
 - https://securityintelligence.com/posts/analysis-rce-vulnerability-cobalt-strike/, RCE
 - https://sector7.computest.nl/post/2022-10-iconics-genesis64/, RCE
 - https://lokeshdlk77.medium.com/facebook-sms-captcha-was-vulnerable-to-csrf-attack-8db537b1e980, CSRF
@@ -1781,7 +1779,6 @@
 - https://breakpoint.sh/posts/snyk-code-broken-access-control, Path-traversal
 - https://cyllective.com/blog/post/research_audit_wordpress_plugins/, SQL-injection
 - https://blog.bitcrack.net/pwning-portals-error-based-sqli-using-websockets/, SQL-injection
-- https://medium.com/@mohamedtaha_42562/how-i-was-able-to-access-ibm-internal-documents-a33858387d30, Information-disclosure
 - https://medium.com/@mohamedtaha_42562/from-wayback-to-account-takeover-ea7e80600188, Information-disclosure
 - https://www.websec.ca/publication/Blog/CVE-2022-21404-Another-story-of-developers-fixing-vulnerabilities-unknowingly-because-of-CodeQL, Insecure-deserialization
 - https://blog.ret2.io/2022/05/19/pwn2own-2021-parallels-desktop-exploit/, Memory-corruption
@@ -2719,7 +2716,6 @@
 - https://notifybugme.medium.com/chaining-csrf-with-xss-to-deactivate-mass-user-accounts-by-single-click-b463c0d26587, CSRF
 - https://www.jomar.fr/posts/2021/ssrf_through_pdf_generation/, SSRF
 - https://web.archive.org/web/20220922223136/https://ipanda.co.in/blog0.html, RCE
-- https://blog.usamav.dev/how-i-got-400-usd-for-my-first-ssrf-bug, SSRF
 - https://www.pentagrid.ch/de/blog/password-reset-code-brute-force-vulnerability-in-AWS-Cognito/, Password-reset
 - https://ysamm.com/?p=667, OAuth
 - https://www.jomar.fr/posts/2021/my_first_oob_xxe_exploitation/, XXE
@@ -2878,7 +2874,6 @@
 - https://web.archive.org/web/20210226210519/https://savirsuda.github.io/IDOR-to-view-personal-email-addresses-of-more-than-50k-users/, IDOR
 - https://saajan.bhujel.cyou/blog/web/2021-02-26-password-reset-token-leak-via-x-forwarded-host, Host-header-injection
 - https://blog.scrt.ch/2021/02/25/stealing-user-passwords-through-a-vpns-sso/, Open-redirect
-- https://galnagli.com/Cache_Poisoning/, Web-cache-poisoning
 - https://blog.evanricafort.com/2021/02/hijacking-reset-password-link-in.html, Host-header-injection
 - https://web.archive.org/web/20210227092343/https://tommysuriel.medium.com/csrf-through-url-with-tag-parameter-c8ef585bded3, CSRF
 - https://web-in-security.blogspot.com/2021/02/security-and-privacy-of-social-logins-part2.html, DOM-XSS
