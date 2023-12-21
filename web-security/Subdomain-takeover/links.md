@@ -10,3 +10,4 @@
 - https://medium.com/@moSec/how-i-hacked-thousand-of-subdomains-6aa43b92282c
 - https://0xprial.com/subdomain-hijacking-of-any-qwilrs-customer/
 - https://medium.com/@b0x_in/hall-of-fame-vice-media-hacking-while-sleepy-3eb931f124e1
+- https://santoshdbobade.medium.com/how-i-got-an-appreciation-letter-from-harvard-university-a3d19de69701

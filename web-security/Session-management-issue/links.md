@@ -1,0 +1,1 @@
+- https://www.seekurity.com/blog/general/openproject-session-management-security-vulnerability/

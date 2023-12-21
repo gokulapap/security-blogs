@@ -11,3 +11,4 @@
 - https://web.archive.org/web/20201030131757/https://medium.com/@protector47/full-account-takeover-via-referrer-header-oauth-token-steal-open-redirect-vulnerability-chaining-324a14a1567
 - https://blog.it-securityguard.com/bugbounty-malicious-redirect-on-mailroom-prezi-com/
 - https://infosecwriteups.com/how-i-could-have-hacked-your-medium-account-by-phishing-your-fb-twitter-google-credentials-d53bf7096da7
+- https://infosecwriteups.com/a-swag-for-a-open-redirect-google-dork-bug-bounty-2143b943f34e

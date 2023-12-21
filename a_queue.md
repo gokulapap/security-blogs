@@ -1661,7 +1661,6 @@
 - https://bhashit.in/?p=71, Firebase
 - https://medium.com/@kashyapherry147/origin-ip-to-account-takeover-62d7a54abebf, WAF-bypass
 - https://janmuhammadzaidi.medium.com/vertical-privilege-escalation-the-user-can-takeover-an-admin-account-via-response-manipulation-9237c8b2fefa, Privilege-escalation
-- https://infosecwriteups.com/a-swag-for-a-open-redirect-google-dork-bug-bounty-2143b943f34e, Open-redirect
 - https://blog.fraktal.fi/two-faces-of-the-same-pdf-document-17e7a15522a0, PDF-parser-differential-attack
 - https://medium.com/@unurbayar1998/facebook-portals-business-logic-error-lead-to-500-708e91b4055f, Logic-flaw
 - https://blog.electrovolt.io/posts/vscode-rce/, RCE
@@ -2627,7 +2626,6 @@
 - https://blog.evanricafort.com/2021/06/2usd-idor-bug-in-redacted.html, IDOR
 - https://www.ehpus.com/post/author-spoofing-in-google-colaboratory, Logic-flaw
 - https://infosecwriteups.com/how-i-was-able-to-bypass-parental-pin-of-showmax-e6d6ec3af92d, Authorization-flaw
-- https://fortbridge.co.uk/research/joomla-password-reset-vulnerability-and-stored-xss-for-full-compromise/, Password-reset
 - https://vedanttekale20.medium.com/story-of-my-first-cash-bounty-on-hackerone-acad282ae962, SSRF
 - https://notifybugme.medium.com/how-github-recon-help-me-to-find-nine-full-ssrf-vulnerability-with-aws-metadata-access-531d931413a5, SSRF
 - https://batee5a.medium.com/shopify-multipass-misconfiguration-2bc85e92ad1d, Authentication-flaw
@@ -2921,7 +2919,6 @@
 - https://web.archive.org/web/20210213062858/https://www.cysek.org/post/subdomain-dnsmiscon, Subdomain-takeover
 - https://servicenger.com/blog/mobile/sending-ephemeral-message-to-any-facebook-user/, IDOR
 - https://medium.com/bugbountywriteup/a-tale-of-2nd-xxx-bounty-ability-to-gain-persistence-on-facebook-events-as-an-unremovable-9408338ccf8f, Logic-flaw
-- https://santoshdbobade.medium.com/how-i-got-an-appreciation-letter-from-harvard-university-a3d19de69701, Subdomain-takeover
 - https://enfinlay.github.io//xss/selfxss/upload/bugbounty/2021/02/09/selfxss-to-rxss-via-file-name.html, Self-XSS
 - https://shahjerry33.medium.com/duplicate-registration-the-twinning-twins-883dfee59eaf, Account-takeover
 - https://infosecwriteups.com/bigbasket-bug-bounty-writeup-9fedc490b814, Insecure-data-storage
@@ -4867,7 +4864,6 @@
 - https://infosecwriteups.com/whatsapp-dos-vulnerability-in-ios-android-d896f76d3253, DoS
 - https://web.archive.org/web/20190718104640/https://medium.com/@tbmnull/making-an-xss-triggered-by-csp-bypass-on-twitter-561f107be3e5, XSS
 - https://corben.io/blog/17-06-30-bandcamp-xss, Stored-XSS
-- https://www.seekurity.com/blog/general/openproject-session-management-security-vulnerability/, Session-management-issue
 - https://medium.com/@zahidali_93675/posting-on-groups-as-people-whenever-their-email-was-known-by-an-attacker-9dc8d7baf970, Authorization-flaw
 - https://buer.haus/2017/06/29/escalating-xss-in-phantomjs-image-rendering-to-ssrflocal-file-read/, XSS
 - https://www.seekurity.com/blog/general/reflected-xss-vulnerability-in-simplerisk, Reflected-XSS
@@ -4923,7 +4919,6 @@
 - https://ysx.me.uk/lightweight-markup-a-trio-of-persistent-xss-in-gitlab/, Stored-XSS
 - https://medium.com/@zahidali_93675/conflict-account-recovery-form-in-facebook-2b6e7d203cfd, Logic-flaw
 - https://medium.com/@zahidali_93675/bypassed-facebook-phone-number-security-9e2d34dc063b, Authorization-flaw
-- https://foxglovesecurity.com/2017/02/07/type-juggling-and-php-object-injection-and-sqli-oh-my/, Type-juggling
 - https://medium.com/@zahidali_93675/hijack-facebook-groups-721c08526326, Authorization-flaw
 - https://medium.com/@zahidali_93675/cross-site-request-forgery-in-facebook-86087201d8c, CSRF
 - https://web.archive.org/web/20170206221502/https://deadpool.sh/2017/RCE-Springs/, RCE
