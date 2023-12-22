@@ -9,3 +9,4 @@
 - https://www.synacktiv.com/sites/default/files/2022-11/vlc_vnc_int_overflow-CVE-2022-41325.pdf
 - https://www.synack.com/blog/this-microsoft-windows-rce-vulnerability-gives-an-attacker-complete-control/
 - https://blog.zecops.com/research/use-after-free-in-voice-control-cve-2021-30902/
+- https://google.github.io/security-research/pocs/linux/cve-2021-22555/writeup.html

@@ -571,7 +571,6 @@
 - https://starlabs.sg/advisories/23/23-2017/, SSTI
 - https://infosecwriteups.com/from-payload-to-300-bounty-a-story-of-crlf-injection-and-responsible-disclosure-on-hackerone-eeff74aff422, CRLF-injection
 - https://medium.com/@elsayedmohammed/how-do-i-get-cross-site-scripting-xss-in-nokia-3041c942b923, XSS
-- https://medium.com/@ar_hawk/from-django-debug-mode-to-pii-data-leak-of-more-than-500-employees-due-broken-access-control-and-a3eb602a4207, Debug-mode-enabled
 - https://www.offensity.com/en/blog/user-impersonation-via-stolen-uuid-code-in-keycloak-cve-2023-0264/, OAuth
 - https://giraffesecurity.dev/posts/google-remote-code-execution/, Dependency-confusion
 - https://medium.com/@m4cddr/how-i-got-rce-in-10-websites-26dd87441f22, RCE
@@ -2179,7 +2178,6 @@
 - https://www.pentestpartners.com/security-blog/gumtree-leaking-your-data-and-not-really-listening/, IDOR
 - https://breakpoint.sh/posts/bypassing-the-macos-gatekeeper, Local-Privilege-Escalation
 - https://medium.com/@mohamedtaha_42562/how-i-found-xss-vulnerability-in-amazon-in-5-minutes-using-shodan-50b583655297, XSS
-- https://medium.com/@daudmalik06/how-i-bypassed-incapsula-waf-db0498b3a021, SQL-injection
 - https://m7-arman.medium.com/zero-click-to-account-takeover-d764e12bee4b, Account-takeover
 - https://prashantbhatkal2000.medium.com/svg-based-stored-xss-ee6e9b240dee, Stored-XSS
 - https://infosecwriteups.com/a-story-about-a-not-so-direct-ssrf-b2b98e128af0, SSRF
@@ -2565,7 +2563,6 @@
 - https://medium.com/pentesternepal/facebook-email-phone-disclosure-using-binary-search-d50430758c54, Password-reset
 - https://mrd0x.com/discovering-mcafee-products-zero-day-vulnerabilities/, Local-Privilege-Escalation
 - https://feed.bugs.xdavidhu.me/bugs/0009, IDOR
-- https://google.github.io/security-research/pocs/linux/cve-2021-22555/writeup.html, Memory-corruption
 - https://adnanmalik.info/blog/lets-cancel-the-subscription/, Logic-flaw
 - https://donjon.ledger.com/kaspersky-password-manager/, Weak-crypto
 - https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/solarwinds-serv-u-1523-share-url-xss-cve-2021-32604/, XSS
@@ -4506,7 +4503,6 @@
 - https://sites.google.com/securifyinc.com/secblogs/uber-business-support-bug, Ticket-Trick
 - https://medium.com/@friendly_/xss-at-hubspot-and-xss-in-email-areas-674fa39d5248, XSS
 - https://medium.com/bugbountywriteup/idor-leads-to-getting-access-tokens-of-users-linked-to-google-drive-on-edmodo-3978017134bd, IDOR
-- http://blog.orange.tw/2018/08/how-i-chained-4-bugs-features-into-rce-on-amazon.html, RCE
 - https://medium.com/@justmorpheus/s3-bucket-misconfiguration-in-amazon-a7da6a6e02ea, AWS-misconfiguration
 - https://medium.com/bugbountywriteup/adminer-script-results-to-pwning-server-private-bug-bounty-program-fe6d8a43fe6f, Authentication-bypass
 - https://www.tutorgeeks.net/2018/08/misconfigured-jira-setting-apigee.html, Information-disclosure
@@ -4831,7 +4827,6 @@
 - http://c0rni3sm.blogspot.com/2017/08/accidentally-typo-to-bypass.html, Authentication-bypass
 - https://medium.com/@saamux/reflected-xss-on-www-yahoo-com-9b1857cecb8c, Reflected-XSS
 - https://medium.com/@armaanpathan/chain-the-vulnerabilities-and-take-your-report-impact-on-the-moon-csrf-to-html-injection-which-608fa6e74236, CSRF
-- https://medium.com/@armaanpathan/idor-was-leading-to-privilege-escalation-and-violating-the-facebook-policy-355c67c654e6, IDOR
 - https://medium.com/securityescape/getting-access-to-25k-employees-details-c085d18b73f0, Exposed-registration-page
 - https://sites.google.com/site/testsitehacking/10k-host-header, Authorization-flaw
 - https://bugbaba.blogspot.com/2017/08/xss-because-of-wrong-content-type-header.html, XSS

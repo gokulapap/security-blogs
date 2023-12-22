@@ -42,3 +42,4 @@
 - https://medium.com/bugbountywriteup/accidental-observation-to-critical-idor-d4d910a855bf
 - https://noob3xploiter.medium.com/idor-in-support-mozilla-org-through-code-review-ff2aa8ea1201
 - https://lonewolf-raj.medium.com/exploiting-vulnerabilities-in-ios-application-cf5718910c47
+- https://medium.com/@armaanpathan/idor-was-leading-to-privilege-escalation-and-violating-the-facebook-policy-355c67c654e6

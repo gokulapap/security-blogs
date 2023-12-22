@@ -14,3 +14,4 @@
 - https://www.vaadata.com/blog/exploiting-an-sql-injection-with-waf-bypass/
 - https://nareshlamgade.com.np/2016/03/sql-injection-on-mega/
 - https://infosecwriteups.com/fun-sql-injection-mod-security-bypass-644b54b0c445
+- https://medium.com/@daudmalik06/how-i-bypassed-incapsula-waf-db0498b3a021
