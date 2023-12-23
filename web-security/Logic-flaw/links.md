@@ -28,3 +28,4 @@
 - https://sites.google.com/site/testsitehacking/-7-5k-Google-services-mix-up
 - https://medium.com/kminthein/account-takeover-in-cups-mail-ru-bdab1483f92c
 - https://sinsinology.medium.com/how-i-found-the-silliest-logical-vulnerability-for-750-d4f49e5b8763
+- https://medium.com/secjuice/how-i-was-able-to-view-exact-bounty-balance-of-any-bug-bounty-program-in-hackerone-f0e18e4206d5

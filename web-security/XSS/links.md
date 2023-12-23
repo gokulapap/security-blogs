@@ -43,3 +43,4 @@
 - https://github.com/setuid0-sec/Swiss_E-Voting_Publications
 - https://blog.it-securityguard.com/bugbounty-papyal-xml-upload-cross-site-scripting-vulnerability
 - https://medium.com/@arbazhussain/stored-xss-with-arbitrary-cookie-installation-567931433c7f
+- https://ag3n7.medium.com/got-another-xss-using-double-encoding-e6493a9f7368

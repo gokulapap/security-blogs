@@ -1134,7 +1134,6 @@
 - https://blog.rehack.xyz/2022/11/rescrutiny-delay-then-migrate-your.html, Internal-pentest
 - https://nirmaldahal.com.np/posts/2022/11/megas-unlimited-cloud-storage-vulnerability/, Logic-flaw
 - https://ian.sh/etugra, Default-credentials
-- https://ag3n7.medium.com/got-another-xss-using-double-encoding-e6493a9f7368, XSS
 - https://mehedishakeel.medium.com/information-exposure-my-fourth-finding-on-hackerone-4fc4461920c4, Directory-listing
 - https://gonzxph.medium.com/account-takeover-worth-of-2500-e643661f94e9, Account-takeover
 - https://medium.com/@hf6452/a-story-of-a-strange-stored-idor-b6f2769bb6cb, IDOR
@@ -3726,7 +3725,6 @@
 - https://keenlab.tencent.com/en/2020/01/02/exploiting-wifi-stack-on-tesla-model-s/, Wifi-hacking
 - https://markus-krell.de/admin-capabilities-around-your-ears/, Local-Privilege-Escalation
 - https://medium.com/sourav-sahana/bypass-2fa-in-a-website-d616eaead1e3, MFA-bypass
-- https://medium.com/sourav-sahana/bypass-mobile-pin-verification-d2c571afa3aa, Authentication-bypass
 - https://footstep.ninja/posts/idor-via-http/, IDOR
 - https://medium.com/sourav-sahana/from-post-to-get-open-redirect-e91f4f4206a, Open-redirect
 - https://medium.com/@sudhanshur705/bug-hunting-journey-of-2019-95e5190aca7c, XSS
@@ -3825,7 +3823,6 @@
 - https://medium.com/@heinthantzin/a-simple-post-auth-bypass-leads-to-unauthorized-web-server-access-483c053c110e, Default-credentials
 - https://web.archive.org/web/20200604001225/https://hackking.net/threads/how-i-hacked-dutch-government-in-5-minutes-twitter-account-takeover.20/, Broken-link-hijacking
 - https://jinone.github.io/bugbounty-a-simple-ssrf/, SSRF
-- https://blog.teddykatz.com/2019/11/05/github-oauth-bypass.html, OAuth
 - https://jinone.github.io/bugbounty-a-simple-ssrf/, SSRF
 - https://medium.com/@04sabsas/xss-will-never-die-eb3584081a5f, XSS
 - https://samcurry.net/filling-in-the-blanks-exploiting-null-byte-buffer-overflow-for-a-40000-bounty/, Null-byte-buffer-overflow
@@ -3965,7 +3962,6 @@
 - https://web.archive.org/web/20210124152317/https://whitehathaji.blogspot.com/2019/07/paypal-bug-10k-all-secondary-users.html, IDOR
 - https://web.archive.org/web/20200928234656/https://www.mohamedharon.com/2019/07/sql-injection-in-private-sitecomloginphp.html, SQL-injection
 - https://medium.com/@mdhridoy_4607/1st-bounty-story-rewarded-300-idor-bc4e1708e8e0, IDOR
-- https://web.archive.org/web/20200928235705/https://www.mohamedharon.com/2019/07/github-takeover.html, Github-account-takeover
 - https://medium.com/@nahoragg/chaining-cache-poisoning-to-stored-xss-b910076bda4f, Web-cache-poisoning
 - https://medium.com/@ronak_9889/solr-injection-by-abusing-local-parameters-on-zomato-com-a5cb7bef10d5, Solr-injection
 - https://web.archive.org/web/20200826192345/https://pwnsec.ninja/2019/07/26/facebook-bugbounty-tale-of-an-instagram-bug-disclosing-users-phone-number-via-checkpoint/, Information-disclosure
@@ -4746,7 +4742,6 @@
 - https://lightningsecurity.io/blog/host-header-injection/, Password-reset
 - https://blog.securitybreached.org/2017/12/10/how-i-was-able-to-takeover-facebook-account-bug-bounty-poc/, Authentication-bypass
 - https://medium.com/bugbountywriteup/bug-bounty-fastmail-feeda67905f5, Blind-SSRF
-- https://medium.com/secjuice/how-i-was-able-to-view-exact-bounty-balance-of-any-bug-bounty-program-in-hackerone-f0e18e4206d5, Logic-flaw
 - https://medium.com/@uranium238/getting-a-rce-ctf-way-2fd612fb643f, RCE
 - https://medium.com/@Skylinearafat/xss-protection-bypass-made-my-quickest-bounty-ever-f4fd970c9116, XSS
 - https://medium.com/@maxon3/lfi-to-command-execution-deutche-telekom-bug-bounty-6fe0de7df7a6, LFI
