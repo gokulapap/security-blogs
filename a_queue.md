@@ -40,7 +40,6 @@
 - https://medium.com/@nixiebytes/toxssin-an-automated-cross-site-scripting-xss-exploiter-604a438f1791, XSS
 - https://medium.com/@basakyilmaz82/log4j-vulnerability-485559065af6, CVE
 - https://medium.com/@thevillagehacker/account-take-over-due-to-no-rate-limitation-433bd7449aca, ATO
-- https://medium.com/@larebsec/critical-unauthorized-idor-leads-to-mass-account-takeover-d2334ac75469, IDOR
 - https://medium.com/@aswinthambipanik07/bug-bounty-recon-part-1-dad7f86d1b0f, recon
 - https://medium.com/@yan.zaripov/time-based-sql-injection-63a395434e97, sql-injection
 - https://medium.com/@codewithvamp/the-cost-of-neglect-html-injection-3c00e719fdef, html-injection
@@ -1128,7 +1127,6 @@
 - https://medium.com/@win3zz/remote-command-execution-in-a-bank-server-b213f9f42afe, RCE
 - https://www.semperis.com/blog/syncjacking-azure-ad-account-takeover/, Account-takeover
 - https://wojciechregula.blog/post/macos-sandbox-escape-via-terminal/, MacOS
-- https://medium.com/@snoopy101/250-for-email-account-enumeration-using-nametomail-tool-cce02a17ade8, Username-enumeration
 - https://0xm5awy.medium.com/how-i-found-8-vulnerabilities-in-24h-aad3bd5fd487, Logic-flaw
 - https://hacklido.com/d/87-reflected-xss-using-double-encoding, XSS
 - https://blog.rehack.xyz/2022/11/rescrutiny-delay-then-migrate-your.html, Internal-pentest
@@ -3286,7 +3284,6 @@
 - https://medium.com/@DK999/apache-example-servlet-leads-to-61a2720cac20, Clickjacking
 - https://enumerated.wordpress.com/2020/08/05/the-case-of-the-missing-cache-keys/, Web-cache-poisoning
 - https://medium.com/bugbountywriteup/csrf-poc-mistake-that-broke-crucial-functions-for-the-end-user-victim-ef4fa4584ca8, Logic-flaw
-- https://medium.com/@mohamedayad_72488/i-want-all-these-features-bb41e8252020, Logic-flaw
 - https://medium.com/@rikeshbaniyaaa/how-i-was-able-to-do-mass-account-takeover-bug-bounty-b279af1ce62b, Account-takeover
 - https://pulsesecurity.co.nz/advisories/AWS-Bastion-Logger-Bypass, Logging-bypass
 - https://www.computest.nl/en/knowledge-platform/blog/vulnerability-new-touchid-feature-iCloud-accounts-at-risk-breached/, OAuth
@@ -4307,7 +4304,6 @@
 - https://websecblog.com/vulns/google-code-in-xss/, XSS
 - https://shkspr.mobi/blog/2018/12/twitter-bug-bounty/, OAuth
 - https://medium.com/@maxpasqua/unremovable-tags-in-facebook-page-reviews-656e095e69aa, Logic-flaw
-- https://medium.com/@maxpasqua/chaining-two-vulnerabilities-to-break-facebook-appointment-times-for-the-second-time-ac639f8c8773, Logic-flaw
 - https://mohemiv.com/all/exploiting-xxe-with-local-dtd-files/, XXE
 - https://medium.com/bugbountywriteup/open-redirect-developers-are-lazy-or-maybe-busy-6c51718b10e4, Open-redirect
 - https://blog.nyangawa.me/security/CVE-2018-18649-Gitlab-RCE/, RCE
@@ -4801,7 +4797,6 @@
 - https://medium.com/bugbountywriteup/chaining-self-xss-with-ui-redressing-is-leading-to-session-hijacking-pwn-users-like-a-boss-efb46249cd14, Self-XSS
 - http://manuel-sousa.blogspot.com/2017/09/url-whitelist-bypass-accounts-google.html, Open-redirect
 - https://medium.com/intigriti/how-i-hacked-hundreds-of-companies-through-their-helpdesk-b7680ddc2d4c, Ticket-Trick
-- https://hackernoon.com/bypassing-facebook-profile-picture-guard-security-f0676550f089, Authorization-flaw
 - https://medium.com/@0xHyde/exploiting-history-back-3ec789c124dd, Open-redirect
 - https://medium.com/@SyntaxError4/reflective-xss-and-open-redirect-on-indeed-com-subdomain-b4ab40e40c83, Reflected-XSS
 - https://medium.com/@SyntaxError4/how-i-found-reflective-xss-in-yahoo-subdomain-3ad4831b386e, Reflected-XSS

@@ -29,3 +29,5 @@
 - https://medium.com/kminthein/account-takeover-in-cups-mail-ru-bdab1483f92c
 - https://sinsinology.medium.com/how-i-found-the-silliest-logical-vulnerability-for-750-d4f49e5b8763
 - https://medium.com/secjuice/how-i-was-able-to-view-exact-bounty-balance-of-any-bug-bounty-program-in-hackerone-f0e18e4206d5
+- https://medium.com/@mohamedayad_72488/i-want-all-these-features-bb41e8252020
+- https://medium.com/@maxpasqua/chaining-two-vulnerabilities-to-break-facebook-appointment-times-for-the-second-time-ac639f8c8773

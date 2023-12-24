@@ -1,1 +1,2 @@
 - https://hopesamples.blogspot.com/2022/12/users-of-other-organizations-can-be.html
+- https://medium.com/@snoopy101/250-for-email-account-enumeration-using-nametomail-tool-cce02a17ade8
