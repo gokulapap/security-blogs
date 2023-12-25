@@ -4,3 +4,4 @@
 - https://codewhitesec.blogspot.com/2022/06/bypassing-dotnet-serialization-binders.html
 - https://www.elttam.com/blog/ruby-deserialization/
 - https://github.com/snowyyowl/writeups/tree/main/CVE-2022-26133
+- https://www.reversemode.com/2022/05/finding-vulnerabilities-in-swiss-posts.html

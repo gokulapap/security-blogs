@@ -15,3 +15,4 @@
 - https://nareshlamgade.com.np/2016/03/sql-injection-on-mega/
 - https://infosecwriteups.com/fun-sql-injection-mod-security-bypass-644b54b0c445
 - https://medium.com/@daudmalik06/how-i-bypassed-incapsula-waf-db0498b3a021
+- https://ahmadaabdulla.medium.com/how-i-found-sql-injection-on-8x8-cengage-comodo-automattic-20-company-c296d1a09f63

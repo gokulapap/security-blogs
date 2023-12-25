@@ -10,3 +10,4 @@
 - https://www.synack.com/blog/this-microsoft-windows-rce-vulnerability-gives-an-attacker-complete-control/
 - https://blog.zecops.com/research/use-after-free-in-voice-control-cve-2021-30902/
 - https://google.github.io/security-research/pocs/linux/cve-2021-22555/writeup.html
+- https://claroty.com/2022/04/14/blog-research-blinding-snort-breaking-the-modbus-ot-preprocessor/
