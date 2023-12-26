@@ -23,3 +23,4 @@
 - https://medium.com/@joshuaregio/using-app-ads-helper-as-an-analytic-user-e751fcf9c594
 - https://whitehatfamilyguy.blogspot.com/2019/04/hijacking-friend-requests-facebook.html
 - https://hackernoon.com/bypassing-facebook-profile-picture-guard-security-f0676550f089
+- https://whitehatfamilyguy.blogspot.com/2018/12/able-to-access-facebook-group-plan-even.html

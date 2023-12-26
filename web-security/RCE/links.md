@@ -41,3 +41,4 @@
 - https://elmahdi.tistory.com/3
 - https://orca.security/resources/blog/super-fabrixss-azure-vulnerability/
 - http://blog.orange.tw/2018/08/how-i-chained-4-bugs-features-into-rce-on-amazon.html
+- https://devco.re/blog/2022/10/19/a-new-attack-surface-on-MS-exchange-part-4-ProxyRelay/

@@ -12,3 +12,4 @@
 - https://kongwenbin.com/fastest-fix-on-open-bug-bounty-platform
 - https://medium.com/@ahmedelbolaqy/the-story-of-my-first-reflected-xss-c24fbfef2dc6
 - https://medium.com/bugbountywriteup/automating-xss-identification-with-dalfox-paramspider-e14283bb7916
+- https://infosecwriteups.com/rxss-inside-href-attribute-bypassing-lots-of-weird-checks-to-takeover-accounts-b4c8b4e70877

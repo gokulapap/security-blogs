@@ -683,7 +683,6 @@
 - https://noahblog.360.cn/cve-2022-36413-unauthorized-reset-password-of-zoho-manageengine-adselfservice-plus/, Password-reset
 - https://medium.com/@thelinuxboy/bugging-out-my-experience-of-earning-300-for-reporting-an-unexpected-bug-ec9f9b0054bc, Subdomain-takeover
 - https://m7arm4n.medium.com/default-credentials-on-sony-swag-time-8e35681ad39e, Hardcoded-credentials
-- https://infosecwriteups.com/rxss-inside-href-attribute-bypassing-lots-of-weird-checks-to-takeover-accounts-b4c8b4e70877, Reflected-XSS
 - https://nav1n.medium.com/i-earned-3500-and-40-points-for-a-graphql-blind-sql-injection-vulnerability-5b7e428c477d, SQL-injection
 - https://blog.agilehunt.com/blogs/security/msrc-critical-google-iap-authorization-bypass-allows-access-to-internal-envirnment-leading-to-zero-interaction-account-takeover, Authorization-bypass
 - https://vijetareigns.medium.com/wait-time-bypass-for-fun-and-profit-c3837e6bb8ed, Rate-limiting-bypass
@@ -1231,7 +1230,6 @@
 - https://mouha.be/sha-3-buffer-overflow/, Buffer-Overflow
 - https://www.netspi.com/blog/technical/social-engineering/bypassing-mimecast-email-defenses/, Secure-Email-Gateway-bypass
 - https://medium.com/@h4x0r_dz/23000-for-authentication-bypass-file-upload-arbitrary-file-overwrite-2578b730a5f8, JWT
-- https://devco.re/blog/2022/10/19/a-new-attack-surface-on-MS-exchange-part-4-ProxyRelay/, RCE
 - https://portswigger.net/research/http-3-connection-contamination, HTTP-connection-contamination
 - https://kuldeep.io/posts/second-order-xxe-exploitation/, XXE
 - https://www.mdsec.co.uk/2022/10/microsoft-office-online-server-remote-code-execution/, SSRF
@@ -1280,7 +1278,6 @@
 - https://www.synacktiv.com/publications/persistent-php-payloads-in-pngs-how-to-inject-php-code-in-an-image-and-keep-it-there.html, Unrestricted-file-upload
 - https://debprasadbanerjee502.medium.com/the-easiest-bug-to-get-a-hall-of-fame-from-a-billion-dollar-company-8278fd7b3035, GraphQL
 - https://medium.com/@claudio_moranb/vulnerabilities-in-online-payment-systems-edd2d3c06905, Payment-bypass
-- https://crypt0g30rgy.github.io/post/AuthBypass, Hardcoded-API-keys
 - https://mearegtu.medium.com/insecure-comments-73399193f804, IDOR
 - https://medium.com/stolabs/cve-2022-36635-a-sql-injection-in-zksecuritybio-to-rce-c5bde2962d47, SQL-injection
 - https://research.nccgroup.com/2022/10/06/technical-advisory-openjdk-weak-parsing-logic-in-java-net-inetaddress-and-related-classes/, IP-address-validation-bypass
@@ -2066,7 +2063,6 @@
 - https://machevalia.blog/blog/stored-cross-site-scripting-in-mediawiki, Stored-XSS
 - https://web.archive.org/web/20221228134225/https://machevalia.blog/access-control-violation-wiki-page-creation/, Authorization-flaw
 - https://medium.com/@abhijeetbiswas_/xss-cross-site-scripting-via-x-forwarded-host-header-20be114d4254, XSS
-- https://medium.com/@arthbajpai277/2fa-bypass-by-changing-request-method-to-delete-500fd0ed12b8, MFA-bypass
 - https://bxmbn.medium.com/how-i-made-15-000-by-hacking-caching-servers-part-1-5541712a61c3, Web-cache-poisoning
 - https://lohigowda.medium.com/paytm-broken-link-hijacking-11624e4e9eef, Broken-link-hijacking
 - https://infosecwriteups.com/multiple-http-redirects-to-bypass-ssrf-protections-45c894e5d41c, SSRF
@@ -4312,7 +4308,6 @@
 - https://web.archive.org/web/20191219015356/https://medium.com/@adeshkolte/proof-of-concept-nokia-cross-site-scripting-5bb47c3b9529, XSS
 - https://blog.securitybreached.org/2018/12/08/how-i-was-able-to-bypass-email-verification/, Information-disclosure
 - https://www.betterhacker.com/2018/12/rce-in-hubspot-with-el-injection-in-hubl.html, RCE
-- https://whitehatfamilyguy.blogspot.com/2018/12/able-to-access-facebook-group-plan-even.html, Authorization-flaw
 - https://blog.intothesymmetry.com/2018/12/billion-laugh-attack-in.html, Billion-laugh-attack
 - https://gauravnarwani.com/android-acc-takeover/, Account-takeover
 - https://medium.com/bugbountywriteup/taking-over-google-calendar-of-a-company-1c49071f6a9, Subdomain-takeover

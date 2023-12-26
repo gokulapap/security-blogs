@@ -1,2 +1,3 @@
 - https://blog.prodefense.io/little-bug-big-impact-25k-bounty-9e47773f959f
 - https://shahjerry33.medium.com/api-misconfiguration-algolia-api-key-b3f4a9f04f0d
+- https://crypt0g30rgy.github.io/post/AuthBypass
