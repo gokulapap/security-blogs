@@ -5,3 +5,4 @@
 - https://infosecwriteups.com/how-i-abused-the-file-upload-function-to-get-a-high-severity-vulnerability-in-bug-bounty-7cdcf349080b
 - https://cooltrickshome.blogspot.com/2018/11/spoofing-file-extensions-on-hackerone.html
 - https://medium.com/@jonathanbouman/how-i-hacked-apple-com-unrestricted-file-upload-bcda047e27e3
+- https://medium.com/bugbountywriteup/how-i-could-have-hacked-iit-guwahatis-website-52dff319b056

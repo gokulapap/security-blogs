@@ -323,7 +323,6 @@
 - https://medium.com/pinoywhitehat/getting-email-address-of-any-hackerone-user-worth-7-500-afb8076ee395, Information-disclosure
 - https://www.synacktiv.com/sites/default/files/2023-07/synacktiv-phplist-partial-file-read.pdf, Arbitrary-file-read
 - https://research.nccgroup.com/2023/07/03/technical-advisory-nullsoft-scriptable-installer-system-nsis-insecure-temporary-directory-usage/, Local-Privilege-Escalation
-- https://hoyahaxa.blogspot.com/2023/07/on-coldfusion-aes-and-padding-oracle.html, Padding-oracle-attack
 - https://labs.hakaioffsec.com/nginx-alias-traversal/, Path-traversal
 - https://www.legitsecurity.com/blog/-how-we-found-another-github-action-environment-injection-vulnerability-in-a-google-project, CICD
 - https://blog.silentsignal.eu/2023/07/03/ibm-i-dde-vulnerability-cve-2023-30990/, RCE
@@ -2605,7 +2604,6 @@
 - https://infosecwriteups.com/importance-of-burp-history-analysis-to-bypass-403-afc7af6c08b, 403-bypass
 - https://ian.sh/airflow, Session-management-issue
 - https://medium.com/tenable-techblog/stealing-tokens-emails-files-and-more-in-microsoft-teams-through-malicious-tabs-a7e5ff07b138, postMessage
-- https://shahjerry33.medium.com/blind-command-injection-it-hurts-9f396c1f63f2, Command-injection
 - https://0x01alka.medium.com/google-vrp-privilege-escalation-on-https-dialogflow-cloud-google-com-599af6c4516d, Authorization-flaw
 - https://kaif0x01.medium.com/story-of-account-takeover-using-social-login-with-mass-assignment-vulnerability-to-hack-accounts-21e4d5856f5e, Mass-assignment
 - https://pratikkhalane91.medium.com/how-i-was-able-to-bypass-the-admin-panel-without-the-credentials-d65f90e0e1e4, Information-disclosure
@@ -2753,7 +2751,6 @@
 - https://servicenger.com/blog/mobile/google-photos-theft-of-database-arbitrary-files-android-vulnerability/, Improper-Export-of-Android-Application-Components
 - https://onekey.com/blog/advisory-cisco-rv34x-authentication-bypass-remote-command-execution/, Authentication-bypass
 - https://arben.sh/bugbounty/Local-File-Inclusion/, LFI
-- https://starlabs.sg/blog/2021/04-you-talking-to-me/, RCE
 - https://leethax0.rs/2021/04/ElectricChrome/, RCE
 - https://infosecwriteups.com/unauthenticated-account-takeover-through-forget-password-c120b4c1141d, Password-reset
 - https://monke.ie/duckduckgoxss/, Stored-XSS
@@ -3468,7 +3465,6 @@
 - https://www.ezequiel.tech/2020/05/rce-in-cloud-dm.html, SSRF
 - https://medium.com/@yaala/bypassing-message-request-inbox-cf54f859dd25, Authorization-flaw
 - https://philippeharewood.com/change-any-link-at-https-fbwat-ch/, Authorization-flaw
-- https://medium.com/@yaala/become-member-of-close-public-group-9564c359c050, Authorization-flaw
 - https://torbencapiau.be/?p=106, Broken-access-control
 - http://hack4bounty.com/how-i-got-200-in-5-minutes-%f0%9f%98%9c-sensitive-data-leak-%f0%9f%98%9c/, Information-disclosure
 - https://healdb.tech/blog/teradici.html, Missing-authentication
@@ -4900,7 +4896,6 @@
 - https://web.archive.org/web/20200822111544/https://whitehatnepal.tumblr.com/post/156707088037/i-got-emails-g-suite-vulnerability, Logic-flaw
 - https://medium.com/@prateek_0490/how-i-could-have-compromised-any-account-on-one-of-the-biggest-startup-based-in-california-3ebc8c6844b5, Account-takeover
 - https://httpsonly.blogspot.com/2017/01/0day-writeup-xxe-in-ubercom.html, XXE
-- https://medium.com/bugbountywriteup/how-i-could-have-hacked-iit-guwahatis-website-52dff319b056, Unrestricted-file-upload
 - https://tij.me/blog/xss-on-hema-one-of-the-largest-dutch-franchisors/, DOM-XSS
 - http://www.pranav-venkat.com/2016/12/idor-in-facebooks-acquisition-parse.html, IDOR
 - https://thehackerblog.com/the-orphaned-internet-taking-over-120k-domains-via-a-dns-vulnerability-in-aws-google-cloud-rackspace-and-digital-ocean/index.html, Domain-takeover

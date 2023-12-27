@@ -1,0 +1,1 @@
+- https://shahjerry33.medium.com/blind-command-injection-it-hurts-9f396c1f63f2

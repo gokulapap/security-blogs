@@ -1,0 +1,1 @@
+- https://hoyahaxa.blogspot.com/2023/07/on-coldfusion-aes-and-padding-oracle.html
