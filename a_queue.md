@@ -466,7 +466,6 @@
 - https://corben.io/blog/hacking-kucoin, Information-disclosure
 - https://bleekseeks.com/blog/keepass-master-password-exploit-cve-2023-32784-poc, Plaintext-Storage-of-a-Password
 - https://www.synacktiv.com/sites/default/files/2023-05/Synacktiv-Webflow-Arbitrary-Email-Forgery.pdf, Email-spoofing
-- https://cyolo.io/blog/dll-hijacking-strikes-back-exploiting-windows-on-arm-rdp-client-cve-2023-24905/, DLL-Hijacking
 - https://nasbench.medium.com/lolbined-finding-lolbins-in-av-uninstallers-bf29427d3cd8, Local-Privilege-Escalation
 - https://medium.com/@zhero_/dos-via-cache-poisoning-38f3a87f997c, Web-cache-deception
 - https://posts.specterops.io/from-da-to-ea-with-esc5-f9f045aa105c, Active-Directory-Privilege-Escalation
@@ -484,7 +483,6 @@
 - https://neodyme.io/blog/csgo_from_zero_to_0day/, Game-hacking
 - https://www.mnemonic.io/resources/blog/container-security-infecting-images-to-establish-backdoors/, Container-security
 - https://www.synacktiv.com/en/publications/the-printer-goes-brrrrr-again.html, Printer-hacking
-- https://medium.com/@atomiczsec/one-bug-at-a-time-my-first-paid-bug-1-000-idor-4b89b63b2b4b, IDOR
 - https://medium.com/@yashsancheti24/discovering-a-hidden-security-loophole-rent-luxury-cars-for-a-single-dollar-706b4a7bf101, Payment-tampering
 - https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/rendezvous-with-a-chatbot-chaining-contextual-risk-vulnerabilities/, Chatbot
 - https://medium.com/@icebre4ker/hacking-chess-com-my-journey-to-unlock-premium-bots-on-the-android-app-d8cac9d25094, Android
@@ -644,7 +642,6 @@
 - https://securitylabs.datadoghq.com/articles/bypass-cloudtrail-aws-service-catalog-and-other/, Cloud
 - https://blog.impalabs.com/2303_advisory_parallels-desktop_toolgate.html, Path-traversal
 - https://www.pentagrid.ch/de/blog/viseca-expense-credit-card-statement-disclosure/, IDOR
-- https://codewhitesec.blogspot.com/2023/03/jmx-exploitation-revisited.html, RCE
 - https://cupc4k3.lol/ssti-leads-to-rce-on-pyrocms-7515be27c811, SSTI
 - https://www.da.vidbuchanan.co.uk/blog/exploiting-acropalypse.html, Privacy-issue
 - https://medium.com/@bag0zathev2/easy-via-api-params-manipulation-leading-to-bypassing-the-email-verification-block-a45dad2db60c, Mass-assignment
@@ -2273,7 +2270,6 @@
 - https://www.microsoft.com/security/blog/2021/10/28/microsoft-finds-new-macos-vulnerability-shrootless-that-could-bypass-system-integrity-protection/, SIP-bypass
 - https://omespino.com/write-up-xss-stored-in-api-media-atlassian-com-via-doc-file-ios/, Stored-XSS
 - https://shubhamchaskar.com/xxe-to-ntlm/, XXE
-- https://research.nccgroup.com/2021/10/28/technical-advisory-apple-xar-arbitrary-file-write-cve-2021-30833/, Arbitrary-file-write
 - https://medium.com/@priyanshbansal25/unauthenticated-cache-purge-c56fac8569e8, Unauthenticated-cache-purge
 - https://medium.com/@vikramroot/unauthorized-access-to-any-users-account-600e8efe7de0, IDOR
 - https://blog.sonarsource.com/gocd-pre-auth-pipeline-takeover, Broken-authentication
@@ -4659,7 +4655,6 @@
 - https://medium.com/bugbountywriteup/bugbounty-how-i-could-book-cab-using-your-wallet-money-in-indias-largest-auto-transportation-e0c4252ca1a3, OTP-bypass
 - https://medium.com/bug-bounty-hunting/how-i-found-a-surprising-xss-vulnerability-on-oracle-netsuite-2d48b7fcf0c8, XSS
 - https://www.seekurity.com/blog/general/the-2-5mins-or-2-5k-hawk-eye-bug-a-facebook-pages-admins-disclosure-vulnerability/, Information-disclosure
-- https://www.seekurity.com/blog/general/redressing-instagram-leaking-application-tokens-via-instagram-clickjacking-vulnerability/, Clickjacking
 - https://infosecwriteups.com/how-i-hacked-into-a-bugcrowd-public-program-fcfdd4fb1b69, RCE
 - https://medium.com/bugbountywriteup/bugbounty-api-keys-leakage-source-code-disclosure-in-indias-largest-e-commerce-health-care-c75967392c7e, Path-traversal
 - https://medium.com/@JubaBaghdad/how-i-was-able-to-delete-any-image-in-facebook-community-question-forum-a03ea516e327, IDOR

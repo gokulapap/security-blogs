@@ -44,3 +44,4 @@
 - https://lonewolf-raj.medium.com/exploiting-vulnerabilities-in-ios-application-cf5718910c47
 - https://medium.com/@armaanpathan/idor-was-leading-to-privilege-escalation-and-violating-the-facebook-policy-355c67c654e6
 - https://medium.com/@larebsec/critical-unauthorized-idor-leads-to-mass-account-takeover-d2334ac75469
+- https://medium.com/@atomiczsec/one-bug-at-a-time-my-first-paid-bug-1-000-idor-4b89b63b2b4b

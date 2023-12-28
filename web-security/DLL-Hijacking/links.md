@@ -1,0 +1,1 @@
+- https://cyolo.io/blog/dll-hijacking-strikes-back-exploiting-windows-on-arm-rdp-client-cve-2023-24905/

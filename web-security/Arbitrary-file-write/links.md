@@ -2,3 +2,4 @@
 - https://jsecu.github.io/2020/11/17/openemr/
 - https://blog.oversecured.com/Two-weeks-of-securing-Samsung-devices-Part-1/
 - https://research.nccgroup.com/2022/02/18/analyzing-a-pjl-directory-traversal-vulnerability-exploiting-the-lexmark-mc3224i-printer-part-2/
+- https://research.nccgroup.com/2021/10/28/technical-advisory-apple-xar-arbitrary-file-write-cve-2021-30833/
