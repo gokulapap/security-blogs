@@ -1,0 +1,1 @@
+- https://medium.com/@mares.viktor/p1-vulnerability-by-bypassing-the-membership-payment-page-3289e09262c1

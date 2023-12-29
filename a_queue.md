@@ -671,8 +671,6 @@
 - https://www.tomanthony.co.uk/blog/googles-manual-actions-hack/, Broken-Access-Control
 - https://infosecwriteups.com/how-i-leak-others-access-token-by-exploiting-evil-deeplink-flaw-a0a566677639, Insecure-deeplink
 - https://www.dsecbypass.com/en/dolibarr-pre-auth-contact-database-dump/, SQL-injection
-- https://medium.com/@mares.viktor/p1-vulnerability-by-bypassing-the-membership-payment-page-3289e09262c1, Payment-bypass
-- https://medium.com/@rajqureshi07/the-story-of-how-i-was-able-to-chain-ssrf-with-command-injection-vulnerability-ef31feb30ea9, SSRF
 - https://ndevtk.github.io/writeups/2023/03/11/ccai/, XSS
 - https://ltsirkov.medium.com/netflix-smart-tv-chaining-self-xss-with-session-poisoning-3eb7c78c7914, Self-XSS
 - https://infosecwriteups.com/account-takeover-an-epic-bug-bounty-story-dd5468d5773d, Account-takeover
@@ -1899,7 +1897,6 @@
 - https://devco.re/blog/2022/03/28/your-NAS-is-not-your-NAS-en/, RCE
 - https://github.com/httpvoid/writeups/blob/main/Ruby-deserialization-gadget-on-rails.md, Insecure-deserialization
 - https://www.sentinelone.com/labs/pwning-microsoft-azure-defender-for-iot-multiple-flaws-allow-remote-code-execution-for-all/, RCE
-- https://mizu.re/post/how-i-was-able-to-rick-roll-every-users-on-root-me.org, XSS
 - https://web.archive.org/web/20220329163747/https://pwnsec.ninja/2022/03/27/stealing-cookies-from-subdomain-leads-to-takeover-user-accounts-at-redacted-com/, Account-takeover
 - https://web.archive.org/web/20220405093345/https://pwnsec.ninja/2022/03/26/deleting-account-via-support-ticket/, IDOR
 - https://machevalia.blog/blog/broken-access-control-idor, IDOR
@@ -2896,7 +2893,6 @@
 - https://samcurry.net/hacking-chesscom/, Reflected-XSS
 - https://www.inputzero.io/2020/12/telegram-privacy-fails-again.html, Privacy-issue
 - https://santoshdbobade.blogspot.com/, XSS
-- https://web.archive.org/web/20210213062858/https://www.cysek.org/post/subdomain-dnsmiscon, Subdomain-takeover
 - https://servicenger.com/blog/mobile/sending-ephemeral-message-to-any-facebook-user/, IDOR
 - https://medium.com/bugbountywriteup/a-tale-of-2nd-xxx-bounty-ability-to-gain-persistence-on-facebook-events-as-an-unremovable-9408338ccf8f, Logic-flaw
 - https://enfinlay.github.io//xss/selfxss/upload/bugbounty/2021/02/09/selfxss-to-rxss-via-file-name.html, Self-XSS
@@ -4915,7 +4911,6 @@
 - https://github.com/cymtrick/lol/blob/d17ed765129b26a1bf8060757e5aebd4e237c908/_posts/2016-09-20-Facebook-partners-CSRF.md, CSRF
 - http://blog.rakeshmane.com/2016/09/bug-bounty-account-takeover.html, OAuth
 - https://web.archive.org/web/20200817171403/https://whitehatnepal.tumblr.com/post/150381068912/how-i-snooped-into-your-private-slack-messages, Subdomain-takeover
-- https://web.archive.org/web/20220401221504/https://blog.innerht.ml/internet-explorer-has-a-url-problem/, OAuth
 - https://web.archive.org/web/20200822010745/https://whitehatnepal.tumblr.com/post/149985438982/reading-ubers-internal-emails-uber-bug-bounty, Subdomain-takeover
 - https://web.archive.org/web/20200819161533/https://whitehatnepal.tumblr.com/post/149937173467/pornhub-email-confirmation-bypass, Email-verification-bypass
 - https://httpsonly.blogspot.com/2016/08/turning-self-xss-into-good-xss-v2.html, XSS

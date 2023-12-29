@@ -3,3 +3,4 @@
 - https://fatnassifiras.medium.com/cross-tenant-information-disclosure-unraveling-microsoft-connections-custom-connectors-and-oauth-6487321d28b3
 - https://salt.security/blog/a-new-oauth-vulnerability-that-may-impact-hundreds-of-online-services
 - https://blog.teddykatz.com/2019/11/05/github-oauth-bypass.html
+- https://web.archive.org/web/20220401221504/https://blog.innerht.ml/internet-explorer-has-a-url-problem/
