@@ -1778,7 +1778,6 @@
 - https://orwaatyat.medium.com/my-new-discovery-in-oracle-e-business-login-panel-that-allowed-to-access-for-all-employees-ed0ec4cad7ac, Exposed-registration-page
 - https://medium.com/@odayalhalbe1/from-android-app-to-access-admin-dashboard-a8f825e8e806, Exposed-registration-page
 - https://basyounii.medium.com/forging-oauth-tokens-using-discovered-client-id-and-client-secret-d224e4e7892a, Information-disclosure
-- https://www.starlabs.sg/blog/2022/05-new-wine-in-old-bottle-microsoft-sharepoint-post-auth-deserialization-rce-cve-2022-29108/, Insecure-deserialization
 - https://web.archive.org/web/20220513145411/https://pwnsec.ninja/2022/05/12/takeover-seller-accounts-worth-billions-millions/, IDOR
 - https://www.varonis.com/blog/url-spoofing, URL-spoofing
 - https://www.trustedsec.com/blog/diving-into-pre-created-computer-accounts/, Active-Directory
@@ -2878,7 +2877,6 @@
 - https://ysamm.com/?p=606, Authorization-flaw
 - https://mokhansec.medium.com/full-account-takeover-worth-1000-think-out-of-the-box-808f0bdd8ac7, Account-takeover
 - https://ysamm.com/?p=609, Authorization-flaw
-- https://ysamm.com/?p=603, Logic-flaw
 - https://ysamm.com/?p=613, Information-disclosure
 - https://vbharad.medium.com/stored-xss-in-icloud-com-5000-998b8c4b2075, Stored-XSS
 - https://karansh491.medium.com/my-first-bounty-stored-xss-96dea41fd9cf, Stored-XSS
@@ -3610,7 +3608,6 @@
 - https://medium.com/@St00rm/sql-injection-via-stopping-the-redirection-to-a-login-page-52b0792d5592, SQL-injection
 - https://medium.com/@michan001/ssrf-on-pdf-generator-36b81e16d67b, SSRF
 - https://medium.com/@DarkMatterMatt/discord-embed-spoofing-c6d07ab1decc, Phishing
-- https://www.amolbaikar.com/facebook-oauth-framework-vulnerability/, OAuth
 - https://alexbakker.me/post/mysterious-google-titan-m-bug-cve-2019-9465.html, Cryptographic-issues
 - https://medium.com/@bhaveshthakur2015/account-hijack-using-authorization-bypass-which-made-me-richer-by-ba9dace72682, Account-takeover
 - https://medium.com/@timpaxerror/page-admin-disclosure-via-an-upgraded-page-post-57863fb02c50, Authorization-flaw
@@ -3911,7 +3908,6 @@
 - https://medium.com/@04sabsas/bugbounty-writeup-take-attention-and-get-stored-xss-495dd6eab07e, Stored-XSS
 - https://gauravnarwani.com/how-i-xssed-admin-account/, Stored-XSS
 - https://websecblog.com/vulns/clickjacking-xss-on-google-org/, Clickjacking
-- https://blog.evanricafort.com/2019/08/application-level-denial-of-service-dos.html, Application-level-DoS
 - https://medium.com/@valeriyshevchenko/two-easy-rce-in-atlassian-products-e8480eacdc7f, Credential-stuffing
 - https://blog.evanricafort.com/2019/08/read-other-user-support-tickets-in.html, IDOR
 - https://medium.com/@ronak_9889/privilege-escalation-using-api-endpoint-fce841caaff3, Privilege-escalation
@@ -4963,7 +4959,6 @@
 - https://whitton.io/articles/xss-on-facebook-via-png-content-types, XSS
 - https://medium.com/bugbountywriteup/broken-access-control-in-bingmapsportal-a012bffd2c43, Broken-Access-Control
 - https://medium.com/bugbountywriteup/how-i-got-listed-in-microsoft-hall-of-fame-8f96ca4535c2, IDOR
-- http://exfiltrated.com/research-Instagram-RCE.php, RCE
 - https://web.archive.org/web/20210511011807/https://blog.evanricafort.com/2015/12/local-file-xss-vulnerability-in.html, XSS
 - https://blog.evanricafort.com/2015/12/arbitary-file-upload-vulnerability-in.html, Unrestricted-file-upload
 - https://web.archive.org/web/20180322133921/http://codel10n.com/how-to-hack-payu-buy-10x-more-same-price/, RCE

@@ -1,1 +1,2 @@
 - https://infosecwriteups.com/google-bug-bounty-500-worth-client-side-dos-on-google-keep-35aab6aef279
+- https://blog.evanricafort.com/2019/08/application-level-denial-of-service-dos.html

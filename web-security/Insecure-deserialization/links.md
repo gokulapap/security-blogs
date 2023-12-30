@@ -5,3 +5,4 @@
 - https://www.elttam.com/blog/ruby-deserialization/
 - https://github.com/snowyyowl/writeups/tree/main/CVE-2022-26133
 - https://www.reversemode.com/2022/05/finding-vulnerabilities-in-swiss-posts.html
+- https://www.starlabs.sg/blog/2022/05-new-wine-in-old-bottle-microsoft-sharepoint-post-auth-deserialization-rce-cve-2022-29108/

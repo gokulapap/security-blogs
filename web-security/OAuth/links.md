@@ -4,3 +4,4 @@
 - https://salt.security/blog/a-new-oauth-vulnerability-that-may-impact-hundreds-of-online-services
 - https://blog.teddykatz.com/2019/11/05/github-oauth-bypass.html
 - https://web.archive.org/web/20220401221504/https://blog.innerht.ml/internet-explorer-has-a-url-problem/
+- https://www.amolbaikar.com/facebook-oauth-framework-vulnerability/

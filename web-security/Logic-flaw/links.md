@@ -31,3 +31,4 @@
 - https://medium.com/secjuice/how-i-was-able-to-view-exact-bounty-balance-of-any-bug-bounty-program-in-hackerone-f0e18e4206d5
 - https://medium.com/@mohamedayad_72488/i-want-all-these-features-bb41e8252020
 - https://medium.com/@maxpasqua/chaining-two-vulnerabilities-to-break-facebook-appointment-times-for-the-second-time-ac639f8c8773
+- https://ysamm.com/?p=603

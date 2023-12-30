@@ -44,3 +44,4 @@
 - https://devco.re/blog/2022/10/19/a-new-attack-surface-on-MS-exchange-part-4-ProxyRelay/
 - https://starlabs.sg/blog/2021/04-you-talking-to-me/
 - https://codewhitesec.blogspot.com/2023/03/jmx-exploitation-revisited.html
+- http://exfiltrated.com/research-Instagram-RCE.php
