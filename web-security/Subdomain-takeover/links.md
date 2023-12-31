@@ -13,3 +13,4 @@
 - https://santoshdbobade.medium.com/how-i-got-an-appreciation-letter-from-harvard-university-a3d19de69701
 - https://godiego.co/posts/STO-Azure/
 - https://web.archive.org/web/20210213062858/https://www.cysek.org/post/subdomain-dnsmiscon
+- https://hacktus.tech/subdomain-takeover-leading-to-full-account-takeover

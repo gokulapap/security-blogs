@@ -491,7 +491,6 @@
 - https://chevonphillip.medium.com/rce-due-to-dependency-confusion-5000-bounty-fd1b294d645f, Dependency-confusion
 - https://crnkovic.dev/testing-converso/, Android
 - https://www.elttam.com/blog/pwnassistant/, Authentication-bypass
-- https://hacktus.tech/subdomain-takeover-leading-to-full-account-takeover, Subdomain-takeover
 - https://www.synopsys.com/blogs/software-security/a-deep-dive-on-pluck-cms-vulnerability-cve-2023-25828/, Unrestricted-file-upload
 - https://pwn.win/2023/05/08/parallels-escape.html, Local-Privilege-Escalation
 - https://blog.prodefense.io/sorting-your-way-to-stolen-passwords-43ff5cfeeabd, Bruteforce
@@ -855,7 +854,6 @@
 - https://www.metabaseq.com/imagemagick-zero-days/, Application-level-DoS
 - https://infosecwriteups.com/an-idor-vulnerability-often-hides-many-others-2893ddd0a0d7, IDOR
 - https://blog.assetnote.io/2023/02/01/rce-in-avaya-aura/, RCE
-- https://www.rapid7.com/blog/post/2023/02/01/cve-2023-22374-f5-big-ip-format-string-vulnerability/, Format-string-vulnerability
 - https://webresearcher007.medium.com/broken-function-level-authorization-leads-to-disclosing-pii-information-of-all-company-users-35aee60b287b, Broken-Function-Level-Authorization
 - https://z-sec.co/mass-account-takeover, MFA-bypass
 - https://eta.st/2023/01/31/rail-tickets.html, Reverse-engineering
@@ -3500,7 +3498,6 @@
 - https://pankajupadhyay.in/2020/05/01/ok-google-bypass-flag-secure/, Authorization-flaw
 - https://medium.com/@rooterkaustubh/the-story-of-blind-ssrf-leads-to-internal-host-discovery-ee65b9b91e23, SSRF
 - https://blog.sambal0x.com/2020/04/30/Hacking-razer-pay-ewallet-app.html, IDOR
-- https://blog.doyensec.com/2020/04/30/polymorphic-images-for-xss.html, Stored-XSS
 - https://medium.com/sud0root/bug-bounty-writeups-exploiting-sql-injection-vulnerability-20b019553716, SQL-injection
 - https://medium.com/@kishorehariram/account-taken-over-in-style-8a547342a5ad, Logic-flaw
 - https://hethical.io/stealing-the-trello-token-by-abusing-a-cross-iframe-xss-on-the-butler-plugin/, XSS
@@ -3538,7 +3535,6 @@
 - https://medium.com/bugbountywriteup/stored-xss-in-google-nest-a82373bbda68, Stored-XSS
 - https://medium.com/@D0rkerDevil/3k-bounty-for-elastic-search-takeover-70c0847d2e40, Elasticsearch-Takeover
 - https://www.rtcsec.com/2020/04/01-slack-webrtc-turn-compromise/, SSRF
-- https://ladysecspeare.wordpress.com/2020/04/05/how-a-simple-csrf-attack-turned-into-a-p1-level-bug/, CSRF
 - https://web.archive.org/web/20200407121700/https://medium.com/nassec-cybersecurity-writeups/page-admin-disclosure-facebook-bug-bounty-2020-8a45cf911e24, Information-disclosure
 - https://web.archive.org/web/20200405123820/https://medium.com/@saugatpokharel/cannot-delete-post-on-facebook-group-facebook-bug-bounty-4f2661655c3a, Logic-flaw
 - https://blog.securitybreached.org/2020/04/04/playing-with-json-web-tokens-for-fun-and-profit/, Password-reset
@@ -4222,7 +4218,6 @@
 - https://medium.com/bugbountywriteup/frapp%C3%A9-technologies-erpnext-server-side-template-injection-74e1c95ec872, SSTI
 - https://ysamm.com/?p=68, Logic-flaw
 - https://ysamm.com/?p=60, IDOR
-- https://ysamm.com/?p=64, IDOR
 - https://ysamm.com/?p=56, IDOR
 - https://ysamm.com/?p=50, Logic-flaw
 - https://ysamm.com/?p=45, IDOR
