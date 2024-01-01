@@ -19,3 +19,4 @@
 - https://medium.com/bugbountywriteup/user-account-takeover-in-indias-largest-digital-business-company-c7b6d61dadb9
 - https://ysamm.com/?p=783
 - https://nullr3x.medium.com/weird-functionality-leads-to-account-takeover-millions-of-users-affected-3fdf06be45
+- https://mikko-kenttala.medium.com/zero-click-vulnerability-in-apples-macos-mail-59e0c14b106c

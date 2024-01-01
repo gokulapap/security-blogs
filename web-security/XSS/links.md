@@ -45,3 +45,4 @@
 - https://medium.com/@arbazhussain/stored-xss-with-arbitrary-cookie-installation-567931433c7f
 - https://ag3n7.medium.com/got-another-xss-using-double-encoding-e6493a9f7368
 - https://mizu.re/post/how-i-was-able-to-rick-roll-every-users-on-root-me.org
+- https://blog.compass-security.com/2018/12/xss-worm-a-creative-use-of-web-application-vulnerability/

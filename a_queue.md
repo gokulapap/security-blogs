@@ -403,7 +403,6 @@
 - https://albertpedersen.com/blog/cloudflare-casb-confused-deputy/, Confused-deputy
 - https://posts.specterops.io/less-smartscreen-more-caffeine-ab-using-clickonce-for-trusted-code-execution-1446ea8051c5, Phishing
 - https://medium.com/pentesternepal/how-i-hacked-100k-godaddy-users-and-help-to-secure-for-free-65f172bd726a, git-folder-disclosure
-- https://mizu.re/post/abusing-client-side-desync-on-werkzeug, Client-Side-Desync-attack
 - https://d3lb3.github.io/keepass_triggers_arent_dead/, Local-Privilege-Escalation
 - https://www.tarlogic.com/blog/linked-servers-adsi-passwords/, ADSI
 - https://www.trustedsec.com/blog/onedrive-to-enum-them-all/, Username-enumeration
@@ -2546,7 +2545,6 @@
 - https://adnanmalik.info/blog/lets-cancel-the-subscription/, Logic-flaw
 - https://donjon.ledger.com/kaspersky-password-manager/, Weak-crypto
 - https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/solarwinds-serv-u-1523-share-url-xss-cve-2021-32604/, XSS
-- https://hackrzvijay.medium.com/blind-xss-in-apple-school-enrollment-data-disclosure-a94c1da5bf54, Blind-XSS
 - https://gevakun.medium.com/view-other-user-private-livestream-data-e30a0acb5972, IDOR
 - https://philippeharewood.com/bulletin-com-email-address-leak/, Information-disclosure
 - https://sankalpa02.medium.com/testing-cookies-worth-500-8fc2310e6d7e, Account-takeover
@@ -2766,7 +2764,6 @@
 - https://sriram-offcl.medium.com/play-a-game-get-subscribed-to-my-channel-youtube-clickjacking-bug-googlevrp-6ce1d15542d3, Clickjacking
 - https://ysamm.com/?p=654, Account-takeover
 - https://ysamm.com/?p=646, Account-takeover
-- https://mikko-kenttala.medium.com/zero-click-vulnerability-in-apples-macos-mail-59e0c14b106c, Account-takeover
 - https://lf.lc/vrp/181521559d/, Container-escape
 - https://philippeharewood.com/download-facebook-internal-mobile-builds/, Information-disclosure
 - https://medium.com/@Kntjrld/my-first-bug-report-at-facebook-2021-bab2c2373ee3, Logic-flaw
@@ -4262,7 +4259,6 @@
 - https://medium.com/@putracraft.theworld/server-side-request-forgery-in-openid-support-defcc64d5e41, SSRF
 - http://blog.randorisec.fr/client-side-validation/, Client-side-enforcement-of-server-side-security
 - https://malfind.com/index.php/2018/12/21/how-i-accidentaly-found-clickjacking-in-facebook/, Clickjacking
-- https://blog.compass-security.com/2018/12/xss-worm-a-creative-use-of-web-application-vulnerability/, XSS
 - https://medium.com/@tnirmalz/facebook-bugbounty-disclosing-page-members-1178595cc520, Information-disclosure
 - https://www.tnirmal.com.np/2018/12/facebook-bugbounty-disclosing.html, Information-disclosure
 - https://medium.com/@mustafakhan_89646/asuss-admin-panel-auth-bypass-af5062584ddf, Authentication-bypass
@@ -4393,7 +4389,6 @@
 - http://10degres.net/aws-takeover-through-ssrf-in-javascript/, SSRF
 - https://medium.com/@saamux/applying-a-small-bypass-to-steal-facebook-session-tokens-in-uber-5b9638b7a18c, XSS
 - https://blog.securityevaluators.com/collecting-shells-by-the-sea-of-nas-vulnerabilities-155a0bd7c525, OS-command-injection
-- https://web.archive.org/web/20200929001941/https://www.mohamedharon.com/2018/10/subdomain-takeover-via-shopify-vendor.html, Subdomain-takeover
 - https://medium.com/@alexali5080/how-i-was-able-to-takeover-accounts-of-an-earning-app-c22d07d8ce9, Information-disclosure
 - https://ls-la.fyi/2018/09/28/subway-xposed/, Logic-flaw
 - https://medium.com/@justmorpheus/idor-content-spoofing-and-url-redirection-via-unsubscribe-email-in-confluent-1fa7398cfe7a, IDOR

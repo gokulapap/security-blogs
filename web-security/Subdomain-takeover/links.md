@@ -14,3 +14,4 @@
 - https://godiego.co/posts/STO-Azure/
 - https://web.archive.org/web/20210213062858/https://www.cysek.org/post/subdomain-dnsmiscon
 - https://hacktus.tech/subdomain-takeover-leading-to-full-account-takeover
+- https://web.archive.org/web/20200929001941/https://www.mohamedharon.com/2018/10/subdomain-takeover-via-shopify-vendor.html

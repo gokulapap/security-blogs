@@ -1,0 +1,1 @@
+- https://mizu.re/post/abusing-client-side-desync-on-werkzeug
