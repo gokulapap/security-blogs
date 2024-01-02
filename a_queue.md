@@ -1162,7 +1162,6 @@
 - https://0xm5awy.medium.com/exploit-feature-to-get-high-bug-impact-1d3ae6517680, Logic-flaw
 - https://srd.cx/cve-2022-26730/, MacOS
 - https://infosecwriteups.com/story-of-a-1k-bounty-ssrf-d5c4868680f5, SSRF
-- https://medium.com/@wrinnsec/directory-traversal-in-pdf-viewing-application-leading-to-full-database-takeover-376e68eadd86, Path-traversal
 - https://medium.com/@armandjasharaj/pentest-tales-exif-data-manipulation-b36beb291229, Unrestricted-file-upload
 - https://mr-medi.github.io/research/2022/11/04/practical-client-side-path-traversal-attacks.html, Path-traversal
 - https://medium.com/@omarbakrey90/csrf-leads-to-delete-user-account-fc362078be2f, CSRF
@@ -1796,7 +1795,6 @@
 - https://labs.f-secure.com/advisories/samsung-flow-any-app-can-read-the-external-storage/, Android
 - https://shahjerry33.medium.com/business-logic-errors-art-of-testing-cards-4907cfb46a57, Payment-bypass
 - https://medium.com/@robert0/how-did-i-find-a-vulnerability-that-leads-to-access-any-users-sensitive-data-and-got-500-5cce1c21d86a, Information-disclosure
-- https://github.com/Metnew/write-ups/tree/main/rce-gh-cli-run-download, RCE
 - https://blog.assetnote.io/2022/05/03/hacking-a-bank-using-dotcms-rce/, Directory-traversal
 - https://github.com/yuriisanin/CVE-2022-25262, Authorization-flaw
 - https://maxva.medium.com/how-i-got-a-lousyt-shirt-from-the-dutch-goverment-2a0d13fe7675, Old-components-with-known-vulnerabilities
@@ -2303,7 +2301,6 @@
 - https://medium.com/@cappriciosec/how-i-hacked-billion-android-users-social-and-3rd-party-account-a-story-about-5000-bug-c422ca43bd2, Android
 - https://medium.com/@mamunwhh/how-i-got-500-with-open-redirect-48fd80c82631, Open-redirect
 - https://svennergr.github.io/writeups/google/ads_dom_xss/, DOM-XSS
-- https://hunter-55.medium.com/account-takeover-story-of-2-same-issues-in-a-single-program-but-different-sub-domains-in-10-minutes-840b2701db91, Account-takeover
 - https://feed.bugs.xdavidhu.me/bugs/0011, Insecure-deeplink
 - https://mikekitckchan.medium.com/power-of-your-own-wordlist-fuzz-for-log-file-leads-to-information-leakage-ad46958b4729, Information-disclosure
 - https://medium.com/@oxygenne/request-smuggling-in-major-crypto-site-road-to-disappointment-a71a461f3b1f, HTTP-Header-Smuggling
@@ -2401,7 +2398,6 @@
 - https://marxchryz.medium.com/how-i-found-multiple-xss-in-hidden-legacy-pages-a57a25d8ff1f, XSS
 - https://medium.com/pentesternepal/hacking-dutch-government-for-a-lousy-t-shirt-8e1fd1b56deb, IDOR
 - https://www.zerodayinitiative.com/blog/2021/9/2/cve-2021-2429-a-heap-based-buffer-overflow-bug-in-the-mysql-innodb-memcached-plugin, Memory-corruption
-- https://tomorrowisnew.com/posts/sql-injection-in-harvard-subdomain/, SQL-injection
 - https://research.checkpoint.com/2021/now-patched-vulnerability-in-whatsapp-could-have-led-to-data-exposure-of-users/, Memory-corruption
 - https://cho0k.com/wp-content/uploads/2021/08/FullPoC.pdf, Privilege-escalation
 - https://www.tnirmal.com.np/2021/08/dropping-root-shell-in-crypto-exchange.html, RCE
@@ -2433,7 +2429,6 @@
 - https://medium.com/@noob.assassin/5k-misconfigured-reset-password-that-leads-to-account-takeover-no-user-interaction-ato-e6a36b8ef183, Account-takeover
 - https://web.archive.org/web/20210825045217/https://medium.com/@imunissar786/how-i-was-able-to-steal-private-files-of-any-user-on-larksuite-c0e2757429e2, IDOR
 - https://www.upguard.com/breaches/power-apps, Information-disclosure
-- https://medium.com/techiepedia/hey-google-delete-my-data-properly-googlevrp-83349ca8e0e1, Logic-flaw
 - https://sector7.computest.nl/post/2021-08-zoom/, RCE
 - https://medium.com/@gguzelkokar.mdbf15/huge-impact-server-side-request-forgery-in-production-app-20bf0cc5731, SSRF
 - https://medium.com/@nehpatel/story-of-unexpected-bugs-75734d51ac57, IDOR

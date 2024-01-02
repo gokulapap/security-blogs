@@ -45,3 +45,4 @@
 - https://starlabs.sg/blog/2021/04-you-talking-to-me/
 - https://codewhitesec.blogspot.com/2023/03/jmx-exploitation-revisited.html
 - http://exfiltrated.com/research-Instagram-RCE.php
+- https://github.com/Metnew/write-ups/tree/main/rce-gh-cli-run-download

@@ -20,3 +20,4 @@
 - https://ysamm.com/?p=783
 - https://nullr3x.medium.com/weird-functionality-leads-to-account-takeover-millions-of-users-affected-3fdf06be45
 - https://mikko-kenttala.medium.com/zero-click-vulnerability-in-apples-macos-mail-59e0c14b106c
+- https://hunter-55.medium.com/account-takeover-story-of-2-same-issues-in-a-single-program-but-different-sub-domains-in-10-minutes-840b2701db91

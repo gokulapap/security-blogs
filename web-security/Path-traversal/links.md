@@ -4,3 +4,4 @@
 - https://derekabdine.com/blog/2022-arris-advisory
 - https://n0lsec.medium.com/qrcdr-path-traversal-vulnerability-bb89acc0c100
 - https://web.archive.org/web/20220812183449/https://deb0con.medium.com/how-i-earned-a-6000-bug-bounty-from-cloudflare-db6949e39cf7
+- https://medium.com/@wrinnsec/directory-traversal-in-pdf-viewing-application-leading-to-full-database-takeover-376e68eadd86
