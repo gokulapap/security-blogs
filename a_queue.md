@@ -846,7 +846,6 @@
 - https://shahjerry33.medium.com/idor-inside-the-session-storage-88af485fc899, IDOR
 - https://www.cyberark.com/resources/threat-research-blog/breaking-docker-named-pipes-systematically-docker-desktop-privilege-escalation-part-1, Local-Privilege-Escalation
 - https://www.flashback.sh/blog/weekend-destroyer-wd-pr4100-rce, RCE
-- https://blog.assetnote.io/2023/02/02/pre-auth-rce-aspera-faspex/, RCE
 - https://www.synack.com/blog/exploits-explained-java-jmxs-exploitation-problems-and-resolutions/, RCE
 - https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/vulnerability-causing-deletion-of-all-users-in-crushftp-admin-area/, Application-level-DoS
 - https://www.whiteoaksecurity.com/blog/centrestack-disclosure/, Authentication-bypass
@@ -1216,7 +1215,6 @@
 - https://mehedishakeel.medium.com/broken-link-hijacking-my-second-finding-on-hackerone-d715b0713fca, Broken-link-hijacking
 - https://medium.com/the-gray-area/1-000-p1-pii-disclosure-w-idor-cb344c55d52e, IDOR
 - https://caesarevan23.medium.com/google-vrp-insecure-direct-object-reference-3133-70-a0e37023a4c7, IDOR
-- https://www.trustedsec.com/blog/the-curious-case-of-the-password-database/, Cryptographic-issues
 - https://mouha.be/sha-3-buffer-overflow/, Buffer-Overflow
 - https://www.netspi.com/blog/technical/social-engineering/bypassing-mimecast-email-defenses/, Secure-Email-Gateway-bypass
 - https://medium.com/@h4x0r_dz/23000-for-authentication-bypass-file-upload-arbitrary-file-overwrite-2578b730a5f8, JWT
@@ -1271,7 +1269,6 @@
 - https://mearegtu.medium.com/insecure-comments-73399193f804, IDOR
 - https://medium.com/stolabs/cve-2022-36635-a-sql-injection-in-zksecuritybio-to-rce-c5bde2962d47, SQL-injection
 - https://research.nccgroup.com/2022/10/06/technical-advisory-openjdk-weak-parsing-logic-in-java-net-inetaddress-and-related-classes/, IP-address-validation-bypass
-- https://ssd-disclosure.com/ssd-advisory-pfsense-post-auth-rce/, RCE
 - https://ahmadaabdulla.medium.com/mr-robot-self-xss-from-informative-to-high-1200-csrf-open-redirect-self-xss-to-stored-92f371ba3da1, Self-XSS
 - https://tantosec.com/blog/cve-2022-41343/, RCE
 - https://sec-consult.com/blog/detail/melting-the-dns-iceberg-taking-over-your-infrastructure-kaminsky-style/, DNS-cache-poisoning
@@ -2046,7 +2043,6 @@
 - https://hetroublemakr.medium.com/how-i-approached-dependency-confusion-272b46f66907, Dependency-confusion
 - https://github.com/httpvoid/writeups/blob/main/Hacking-Google-Drive-Integrations.md, SSRF
 - https://www.offensive-security.com/offsec/microsoft-onedrive-macos-local-privesc/, Local-Privilege-Escalation
-- https://theshubh77.medium.com/write-up-missing-rate-limiting-how-i-was-able-to-add-any-unowned-phone-number-to-my-fb-account-fe4d7e67cf10, OTP-bruteforce
 - https://machevalia.blog/blog/stored-cross-site-scripting-in-mediawiki, Stored-XSS
 - https://web.archive.org/web/20221228134225/https://machevalia.blog/access-control-violation-wiki-page-creation/, Authorization-flaw
 - https://medium.com/@abhijeetbiswas_/xss-cross-site-scripting-via-x-forwarded-host-header-20be114d4254, XSS
@@ -4360,7 +4356,6 @@
 - https://blog.harshjaiswal.com/path-traversal-while-uploading-results-in-rce, Path-traversal
 - https://medium.com/bugbountywriteup/brave-browser-script-blocker-bypass-vulnerability-fffd659c5a7, Browser-hacking
 - https://web.archive.org/web/20200825165404/https://medium.com/@adeshkolte/how-i-got-500-from-microsoft-for-csrf-vulnerability-700accaf48b9, CSRF
-- https://medium.com/bugbountywriteup/bug-bounty-mail-ru-234fa6f5a5a, Authentication-bypass
 - https://medium.com/@m4shahab1/magic-xss-with-two-parameters-463559b03949, XSS
 - https://medium.com/bugbountywriteup/add-description-to-instagram-posts-on-behalf-of-other-users-6500-7d55b4a24c5a, IDOR
 - https://leucosite.com/Microsoft-Edge-RCE/, RCE

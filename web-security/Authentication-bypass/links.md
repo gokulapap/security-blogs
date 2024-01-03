@@ -4,3 +4,4 @@
 - http://c0rni3sm.blogspot.com/2017/06/from-js-to-another-js-files-lead-to.html
 - https://hoyahaxa.blogspot.com/2023/03/authentication-bypass-mura-masa.html
 - https://medium.com/sourav-sahana/bypass-mobile-pin-verification-d2c571afa3aa
+- https://medium.com/bugbountywriteup/bug-bounty-mail-ru-234fa6f5a5a

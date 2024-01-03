@@ -1,0 +1,1 @@
+- https://www.trustedsec.com/blog/the-curious-case-of-the-password-database/
