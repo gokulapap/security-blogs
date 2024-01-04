@@ -17,3 +17,4 @@
 - https://medium.com/@daudmalik06/how-i-bypassed-incapsula-waf-db0498b3a021
 - https://ahmadaabdulla.medium.com/how-i-found-sql-injection-on-8x8-cengage-comodo-automattic-20-company-c296d1a09f63
 - https://tomorrowisnew.com/posts/sql-injection-in-harvard-subdomain/
+- https://medium.com/@ariffadhlullah2310/sql-injection-bug-bounty-110e92e71ec3

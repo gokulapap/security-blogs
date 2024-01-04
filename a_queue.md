@@ -602,7 +602,6 @@
 - https://chevonphillip.medium.com/blind-xss-via-sms-support-chat-1100-bug-bounty-779a1e19cc51, Blind-XSS
 - https://vitorfalcao.com/posts/simple-bugs/password-changing-to-ato/, Account-takeover
 - https://frichetten.com/blog/minor-cross-tenant-vulns-app-runner/, Cross-tenant-vulnerability
-- https://medium.com/@prakashchand72/lenovo-database-of-root-user-credentials-exposed-22aab5382c, git-folder-disclosure
 - https://infosecwriteups.com/lets-hacking-citizens-bank-9520e9c05cf9, XSS
 - https://rayhan0x01.github.io/ctf/2023/04/01/finding-rce-in-eta-cve-2022-25967.html, RCE
 - https://www.reversemode.com/2023/03/beware-of-javas-stringgetbytes.html, Hash-collision
@@ -1300,7 +1299,6 @@
 - https://nebuchadnezzar-megolm.github.io, Cryptographic-issues
 - https://www.synack.com/blog/exploits-explained-5-unusual-authentication-bypass-techniques/, Authentication-bypass
 - https://medium.com/@seeu-inspace/two-rces-are-better-than-one-write-up-of-an-interesting-lateral-movement-66a52d42e075, Local-Privilege-Escalation
-- https://blog.silentsignal.eu/2022/09/28/another-tale-of-ibm-i-as-400-hacking/, Local-Privilege-Escalation
 - https://webs3c.com/t/from-nothing-to-aws-credentials/220, SSRF
 - https://blog.champtar.fr/VLAN0_LLC_SNAP/, Layer-2-networking-vulnerability
 - https://blog.rehack.xyz/2022/09/tips-tricks-discovering-less-known.html, TockenChpoken
@@ -3572,7 +3570,6 @@
 - https://techkranti.com/how-i-reported-a-dos-vulnerability-to-aws/, DoS
 - https://ysamm.com/?p=404, Authorization-flaw
 - https://ysamm.com/?p=396, Lack-of-rate-limiting
-- https://ninadmathpati.com/how-i-was-able-to-bypass-the-current-password/, Account-takeover
 - https://medium.com/@shahjerry33/otp-bypass-developers-check-5786885d55c6, OTP-bypass
 - https://medium.com/@sw33tlie/finding-a-p1-in-one-minute-with-shodan-io-rce-735e08123f52, RCE
 - https://medium.com/cyberverse/got-easiest-bounty-with-html-injection-via-email-confirmation-b1b10575a105, HTML-injection
@@ -3725,7 +3722,6 @@
 - https://www.ezequiel.tech/p/500-getclass.html, Sandbox-bypass
 - https://medium.com/@navne3t/a-25-easy-bug-bdfcde4d1370, Session-management-issue
 - https://medium.com/@pflash0x0punk/ssrf-via-ffmpeg-hls-processing-a04e0288a8c5, SSRF
-- https://medium.com/@dirtycoder0124/blind-xss-a-mind-game-to-win-the-battle-4fc67c524678?, Blind-XSS
 - https://kishanbagaria.com/airdos/, DoS
 - https://payatu.com/blog/nikhil-mittal/firefox-ios-qr-code-reader-xss-(cve-2019-17003), XSS
 - https://medium.com/@ultranoob/weird-and-simple-2fa-bypass-without-any-test-b869e09ac261, MFA-bypass
@@ -3951,7 +3947,6 @@
 - https://medium.com/@yusuffurkan/facebook-bug-bounty-page-admin-disclose-bug-facebook-android-app-c0fa50459177, Information-disclosure
 - https://thesecurityexperts.wordpress.com/2019/07/11/xss-on-google-custom-search-engine/, XSS
 - https://medium.com/@janijay007/story-of-my-biggest-bounty-evecommand-execution-on-jenkin-a73f5242b1e2, RCE
-- https://medium.com/@ariffadhlullah2310/sql-injection-bug-bounty-110e92e71ec3, SQL-injection
 - https://xp.ht/oauth-authentication-bypass-on-airbnb-acquisition-using-weird-1-char-open-redirect/, Open-redirect
 - https://medium.com/@hazzaazi31/a-malicious-editor-of-a-page-can-support-to-a-community-action-which-cant-be-unsupported-by-the-f568c3762042, Authorization-flaw
 - https://medium.com/@pratyush1337/information-disclosure-via-misconfigured-aws-to-aws-bucket-takeover-6a6a66470d0e, AWS-misconfiguration
