@@ -25,3 +25,4 @@
 - https://hackernoon.com/bypassing-facebook-profile-picture-guard-security-f0676550f089
 - https://whitehatfamilyguy.blogspot.com/2018/12/able-to-access-facebook-group-plan-even.html
 - https://medium.com/@yaala/become-member-of-close-public-group-9564c359c050
+- https://medium.com/@arbazhussain/missing-authorization-check-in-facebook-pages-manager-9f7bd879ff33

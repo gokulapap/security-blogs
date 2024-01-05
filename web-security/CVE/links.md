@@ -1,0 +1,1 @@
+- https://medium.com/@y0ungdst/xss-in-jenzabar-cve-2021-26723-a0749231328

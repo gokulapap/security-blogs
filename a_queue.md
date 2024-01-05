@@ -146,7 +146,6 @@
 - https://medium.com/@deepamkumar510/parameter-tampering-842ef9355943, parameter
 - https://medium.com/@pingsec/interesting-account-takeover-bugs-619df8466ca0, ATO
 - https://medium.com/@vickieli/are-csrfs-still-a-thing-7e16c09c951a, csrf
-- https://medium.com/@y0ungdst/xss-in-jenzabar-cve-2021-26723-a0749231328, CVE
 - https://medium.com/@rohit443/idor-on-password-change-to-full-account-takeover-4d96b9f7f9f0, IDOR
 - https://medium.com/@shahjerry33/information-disclosure-wordpress-cms-82133480b8b3, info-disclosure
 - https://medium.com/@thelinuxboy/bugging-out-my-experience-of-earning-300-for-reporting-an-unexpected-bug-ec9f9b0054bc, journey
@@ -847,7 +846,6 @@
 - https://www.flashback.sh/blog/weekend-destroyer-wd-pr4100-rce, RCE
 - https://www.synack.com/blog/exploits-explained-java-jmxs-exploitation-problems-and-resolutions/, RCE
 - https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/vulnerability-causing-deletion-of-all-users-in-crushftp-admin-area/, Application-level-DoS
-- https://www.whiteoaksecurity.com/blog/centrestack-disclosure/, Authentication-bypass
 - https://www.metabaseq.com/imagemagick-zero-days/, Application-level-DoS
 - https://infosecwriteups.com/an-idor-vulnerability-often-hides-many-others-2893ddd0a0d7, IDOR
 - https://blog.assetnote.io/2023/02/01/rce-in-avaya-aura/, RCE
@@ -2926,7 +2924,6 @@
 - https://bugs.xdavidhu.me/google/2021/01/18/the-embedded-youtube-player-told-me-what-you-were-watching-and-more/, Information-disclosure
 - https://kunalkhubchandani.medium.com/how-i-was-rewarded-a-1000-bounty-after-abusing-file-upload-functionality-to-stored-xss-945a40ac6f94, Unrestricted-file-upload
 - https://secureitmania.medium.com/lets-know-how-i-have-explored-the-buried-secrets-in-react-native-application-6236728198f7, Information-disclosure
-- https://www.ash-king.co.uk/blog/Shazlocate-abusing-CVE-2019-8791-CVE-2019-8792, Insecure-deeplink
 - https://jwlss.pw/mathjs/, RCE
 - https://takester.medium.com/my-first-and-last-crit-of-2020-on-hackerone-702a694781b0, Lack-of-rate-limiting
 - https://github.com/httpvoid/writeups/blob/main/Apple-RCE.md, RCE
@@ -4779,7 +4776,6 @@
 - https://medium.com/@arbazhussain/stored-xss-on-rockstar-game-c008ec18d071, XSS
 - https://bugbaba.blogspot.com/2017/07/open-redirect-in-flock-my-first-swag.html, Open-redirect
 - https://medium.com/bugbountywriteup/how-i-was-able-to-bypass-strong-xss-protection-in-well-known-website-imgur-com-8a247c527975, XSS
-- https://medium.com/@arbazhussain/missing-authorization-check-in-facebook-pages-manager-9f7bd879ff33, Authorization-flaw
 - https://medium.com/@arbazhussain/self-xss-to-good-xss-clickjacking-6db43b44777e, XSS
 - https://www.seekurity.com/blog/general/business-logic-vulnerabilities-series-a-brief-on-abusing-invitation-systems/, Logic-flaw
 - https://medium.com/@ciph3r7r0ll/that-escalated-quickly-from-partial-csrf-to-reflected-xss-to-complete-csrf-to-stored-xss-6ba8103069c2, CSRF
@@ -4955,7 +4951,6 @@
 - https://buer.haus/2015/02/03/google-com-mobile-feedback-url-redirect-regexvalidation-flaw/, Open-redirect
 - https://buer.haus/2015/01/15/yahoo-root-access-sql-injection-tw-yahoo-com/, SQL-injection
 - https://www.yassineaboukir.com/blog/how-I-discovered-a-1000$-open-redirect-in-facebook/, Open-redirect
-- https://blog.it-securityguard.com/bugbounty-reflected-cross-site-scripting-at-paypal-com/, Reflected-XSS
 - https://quitten.github.io/Aliexpress/, XSS
 - https://josipfranjkovic.blogspot.com/2014/12/reading-local-files-from-facebooks.html, LFI
 - https://www.rcesecurity.com/2014/11/google-bug-bounty-nice-catch-on-google-cloud-platform-live, Reflected-XSS

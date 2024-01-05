@@ -5,3 +5,4 @@
 - https://hoyahaxa.blogspot.com/2023/03/authentication-bypass-mura-masa.html
 - https://medium.com/sourav-sahana/bypass-mobile-pin-verification-d2c571afa3aa
 - https://medium.com/bugbountywriteup/bug-bounty-mail-ru-234fa6f5a5a
+- https://www.whiteoaksecurity.com/blog/centrestack-disclosure/

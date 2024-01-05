@@ -1,0 +1,1 @@
+- https://www.ash-king.co.uk/blog/Shazlocate-abusing-CVE-2019-8791-CVE-2019-8792
