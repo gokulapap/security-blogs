@@ -10,3 +10,4 @@
 - https://www.gosecure.net/blog/2021/11/22/gosecure-investigates-abusing-windows-server-update-services-wsus-to-enable-ntlm-relaying-attacks/
 - https://www.rapid7.com/blog/post/2022/04/12/cve-2022-24527-microsoft-connected-cache-local-privilege-escalation-fixed/
 - https://blog.silentsignal.eu/2022/09/28/another-tale-of-ibm-i-as-400-hacking/
+- https://jhftss.github.io/CVE-2022-22616-Gatekeeper-Bypass/

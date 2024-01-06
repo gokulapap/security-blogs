@@ -3,3 +3,4 @@
 - https://www.shielder.com/blog/2023/07/aws-codebuild--s3-privilege-escalation/
 - https://www.rootcat.de/blog/ec2-meta_may23/
 - https://divyanshu-mehta.gitbook.io/researchs/hijacking-cloud-ci-cd-systems-for-fun-and-profit#azure
+- https://www.rapid7.com/blog/post/2023/03/14/microsoft-defender-for-cloud-management-port-exposure-confusion/

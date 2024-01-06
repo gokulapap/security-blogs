@@ -46,3 +46,5 @@
 - https://medium.com/@larebsec/critical-unauthorized-idor-leads-to-mass-account-takeover-d2334ac75469
 - https://medium.com/@atomiczsec/one-bug-at-a-time-my-first-paid-bug-1-000-idor-4b89b63b2b4b
 - https://ysamm.com/?p=64
+- https://medium.com/@Bishoo97x/idor-insecure-direct-object-reference-leads-to-listing-all-valid-users-and-edit-their-profiles-2d7bcba78890
+- https://medium.com/@mukundbhuva/accessing-the-data-sources-of-any-facebook-business-account-via-idor-in-graphql-1fc963ad3ecd

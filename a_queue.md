@@ -662,7 +662,6 @@
 - https://www.mdsec.co.uk/2023/03/exploiting-cve-2023-23397-microsoft-outlook-elevation-of-privilege-vulnerability/, Privilege-escalation
 - https://www.blackhillsinfosec.com/your-browser-is-not-a-safe-space/, Local-Privilege-Escalation
 - https://medium.com/@H1Xploit/hacking-the-docker-registry-with-burp-suite-18112cbfb6dd, Docker-Registry
-- https://www.rapid7.com/blog/post/2023/03/14/microsoft-defender-for-cloud-management-port-exposure-confusion/, Cloud
 - https://www.horizon3.ai/veeam-backup-and-replication-cve-2023-27532-deep-dive/, Local-Privilege-Escalation
 - https://www.tomanthony.co.uk/blog/googles-manual-actions-hack/, Broken-Access-Control
 - https://infosecwriteups.com/how-i-leak-others-access-token-by-exploiting-evil-deeplink-flaw-a0a566677639, Insecure-deeplink
@@ -693,7 +692,6 @@
 - https://blog.bitcrack.net/oracle-databases-remote-stealth-password-bruteforce/, Bruteforce
 - https://medium.com/@Ano_F_/manipulating-encrypted-traffic-using-pycript-b637612528bb, Client-side-encryption-bypass
 - https://eaton-works.com/2023/03/06/toyota-c360-hack/, Authentication-bypass
-- https://medium.com/@mukundbhuva/accessing-the-data-sources-of-any-facebook-business-account-via-idor-in-graphql-1fc963ad3ecd, IDOR
 - https://rashahacks.com/exposing-users-table-from-a-leaky-graphql-query/, GraphQL
 - https://www.microsoft.com/en-us/security/blog/2023/03/06/protecting-android-clipboard-content-from-unintended-exposure/, Android
 - https://hopesamples.blogspot.com/2023/03/idor-on-bitdefendercom.html, IDOR
@@ -1832,7 +1830,6 @@
 - https://falcnix.medium.com/threat-evasion-for-aws-multifactorauthpresent-condition-using-cloudshell-8296b34ecad4, MFA-bypass
 - https://www.sentinelone.com/labs/inside-the-black-box-how-we-fuzzed-microsoft-defender-for-iot-and-found-multiple-vulnerabilities/, DoS
 - https://rhinosecuritylabs.com/aws/cve-2022-25165-aws-vpn-client/, Local-Privilege-Escalation
-- https://medium.com/@Bishoo97x/idor-insecure-direct-object-reference-leads-to-listing-all-valid-users-and-edit-their-profiles-2d7bcba78890, IDOR
 - https://shahjerry33.medium.com/xss-the-localstorage-robbery-d5fbf353c6b0, XSS
 - https://naveenroy008.medium.com/broken-session-control-leads-to-access-the-admin-panel-even-after-revoking-the-access-zoho-db219b19d2dd, Broken-Access-Control
 - https://www.notgitbleed.com, Information-disclosure
@@ -1920,7 +1917,6 @@
 - https://blog.sonarsource.com/securing-developer-tools-git-integrations, Local-Privilege-Escalation
 - https://research.nccgroup.com/2022/03/15/technical-advisory-apple-macos-xar-arbitrary-file-write-cve-2022-22582/, Arbitrary-file-write
 - https://c4rrilat0r.medium.com/how-i-managed-to-trigger-xss-automatically-to-get-critical-account-takeover-92ea3abcaf9, Stored-XSS
-- https://jhftss.github.io/CVE-2022-22616-Gatekeeper-Bypass/, Local-Privilege-Escalation
 - https://blog.haboob.sa/blog/adobe-reader-cjk-codecs-memory-disclosure-vulnerability, Memory-disclosure
 - https://www.cyberick.com/post/my-first-bug-on-vdp-bbp-bug-bounty, Stored-XSS
 - https://rambo.codes/posts/2022-03-15-how-a-macos-bug-could-have-allowed-for-a-serious-phishing-attack-against-users, MacOS
@@ -4192,7 +4188,6 @@
 - https://www.shawarkhan.com/2019/01/hijacking-accounts-by-retrieving-jwt.html, Open-redirect
 - https://medium.com/@sahruldotid/antihack-idor-on-create-submission-ddb3cf40c26b, IDOR
 - https://medium.com/@lukeberner/how-i-abused-2fa-to-maintain-persistence-after-a-password-change-google-microsoft-instagram-7e3f455b71a1, Logic-flaw
-- https://blog.scrt.ch/2019/01/24/magento-rce-local-file-read-with-low-privilege-admin-rights/, LFI
 - https://blog.saycure.io/2019/01/24/antihack-xss-2-php-upload/, Blind-XSS
 - https://gauravnarwani.com/priv-esc-highest-admin/, IDOR
 - https://medium.com/bugbountywriteup/frapp%C3%A9-technologies-erpnext-server-side-template-injection-74e1c95ec872, SSTI
