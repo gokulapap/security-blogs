@@ -934,7 +934,6 @@
 - https://engrinside.medium.com/bug-hunting-open-access-to-s3-bucket-79f262a86a78, AWS-misconfiguration
 - https://crypt0g30rgy.github.io/post/SSRFtoDos, SSRF
 - https://crypt0g30rgy.github.io/post/PaymentBypassOne, Payment-bypass
-- https://medium.com/@sandro.einfeldt/advanced-csrf-exploitation-via-xss-4cd00c895ba, CSRF
 - https://medium.com/@LogicalHunter/identity-aware-proxy-misconfiguration-google-cloud-vulnerability-813d2a07a4ed, CORS-misconfiguration
 - https://3sjay.github.io/2023/01/06/pandoraFMS-Pre-Auth-RCE.html, RCE
 - https://yaseenzubair.medium.com/blind-xss-in-email-field-1000-bounty-b19b25a23236, Blind-XSS
@@ -1128,7 +1127,6 @@
 - https://blog.sonarsource.com/checkmk-rce-chain-1/, RCE
 - https://medium.com/@haroonhameed_76621/winning-qr-with-dom-based-xss-bug-bounty-poc-4b4048cf285d, DOM-XSS
 - https://saligrama.io/blog/post/firebase-insecure-by-default/, Hardcoded-API-keys
-- https://ssd-disclosure.com/ssd-advisory-cisco-secure-manager-appliance-jwt_api_impl-hardcoded-jwt-secret-elevation-of-privilege/, Hardcoded-credentials
 - https://ssd-disclosure.com/ssd-advisory-cisco-secure-manager-appliance-remediation_request_utils-sql-injection-remote-code-execution/, SQL-injection
 - https://theevilbit.github.io/posts/cve-2022-32929/, Local-Privilege-Escalation
 - https://sec-consult.com/vulnerability-lab/advisory/path-traversal-vulnerability-in-payara-platform/, Path-traversal
@@ -1956,7 +1954,6 @@
 - https://octagon.net/blog/2022/03/02/apache-jspwiki-preauth-xss-to-ato/, Stored-XSS
 - https://blog.recurity-labs.com/2022-03-02/webOS_Pt2.html, Local-Privilege-Escalation
 - https://web.archive.org/web/20220306040035/https://medium.com/@1337Fenrir/how-did-i-find-directory-traversal-attack-using-github-9b051ed749ca, Information-disclosure
-- https://palant.info/2022/03/01/skype-extension-all-functionality-broken-still-exploitable/, Information-disclosure
 - https://medium.com/techiepedia/password-reset-to-admin-access-3b2a649bdc3, Account-takeover
 - https://shenkaiwen.com/publication/2022-hdiff/, HTTP-request-smuggling
 - https://blog.dixitaditya.com/pwning-a-server-using-markdown, LFI
@@ -3269,7 +3266,6 @@
 - https://medium.com/@vneelam609/a-simple-idor-which-should-not-be-missed-on-dating-site-c500cba8e6c3, IDOR
 - https://medium.com/bugbountywriteup/dns-rebinding-the-treacherous-attack-it-can-be-b367c61b4372, DNS-rebinding
 - https://medium.com/@vneelam609/5000-account-takeover-bf7749746981, Account-takeover
-- https://co0nan.gitbook.io/wirteups/, Authorization-flaw
 - https://medium.com/@shahjerry33/http-parameter-pollution-its-contaminated-85edc0805654, HTTP-parameter-pollution
 - https://ysamm.com/?p=487, Information-disclosure
 - https://medium.com/@totmukesh/hack-till-your-last-breath-3e58f4fb1738, IDOR
@@ -4577,7 +4573,6 @@
 - http://firstsight.me/2018/04/idor-at-private-bug-bounty-program-that-could-leads-to-personal-data-leaks/, IDOR
 - https://medium.com/@vis_hacker/how-i-got-stored-xss-using-file-upload-5c33e19df51e, Stored-XSS
 - https://medium.com/bugbountywriteup/bypassing-captcha-like-a-boss-d0edcc3a1c1, Captcha-bypass
-- https://sites.google.com/site/testsitehacking/-5k-service-dependencies, Logic-flaw
 - https://medium.com/bugbountywriteup/securitybreach-how-i-was-able-to-book-hotel-room-for-1-50-9b35f18e49e8, CORS-misconfiguration
 - https://medium.com/bugbountywriteup/bypass-csp-by-abusing-xss-filter-in-edge-43e9106a9754, CSP-bypass
 - https://medium.com/@iSecMax/how-i-hacked-companies-related-to-the-crypto-currency-and-earned-60-000-93e9b3299f4e, Authorization-flaw

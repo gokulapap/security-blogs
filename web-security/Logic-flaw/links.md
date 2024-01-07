@@ -33,3 +33,4 @@
 - https://medium.com/@maxpasqua/chaining-two-vulnerabilities-to-break-facebook-appointment-times-for-the-second-time-ac639f8c8773
 - https://ysamm.com/?p=603
 - https://medium.com/techiepedia/hey-google-delete-my-data-properly-googlevrp-83349ca8e0e1
+- https://sites.google.com/site/testsitehacking/-5k-service-dependencies
