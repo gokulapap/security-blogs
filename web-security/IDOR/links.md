@@ -48,3 +48,4 @@
 - https://ysamm.com/?p=64
 - https://medium.com/@Bishoo97x/idor-insecure-direct-object-reference-leads-to-listing-all-valid-users-and-edit-their-profiles-2d7bcba78890
 - https://medium.com/@mukundbhuva/accessing-the-data-sources-of-any-facebook-business-account-via-idor-in-graphql-1fc963ad3ecd
+- https://guptashubham.com/idor-execute-javascript-into-anyone-account/

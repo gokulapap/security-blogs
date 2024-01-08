@@ -48,3 +48,4 @@
 - https://github.com/Metnew/write-ups/tree/main/rce-gh-cli-run-download
 - https://ssd-disclosure.com/ssd-advisory-pfsense-post-auth-rce/
 - https://blog.assetnote.io/2023/02/02/pre-auth-rce-aspera-faspex/
+- https://0day.click/recipe/discourse-sns-rce/

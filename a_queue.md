@@ -740,7 +740,6 @@
 - https://www.horizon3.ai/from-cve-2022-33679-to-unauthenticated-kerberoasting/, Kerberos
 - https://www.synacktiv.com/sites/default/files/2023-02/Synacktiv-IBM-TWS-CVE-2022-38389.pdf, XXE
 - https://lude.rs/h4ck1ng/draw.io_cves.html, SSRF
-- https://www.synack.com/blog/exploits-explained-using-apis-to-execute-a-server-side-request-forgery/, SSRF
 - https://starlabs.sg/blog/2023/02-microsoft-azure-account-takeover-via-dom-based-xss-in-cosmos-db-explorer/, Account-takeover
 - https://medium.com/@feribytex/blind-xss-fired-on-admin-panel-worth-2000-abe2c83279b5, Blind-XSS
 - https://blog.trailofbits.com/2023/02/23/escaping-well-configured-vscode-extensions-for-profit/, Electron
@@ -908,7 +907,6 @@
 - https://www.dsecbypass.com/en/centreon-map-vulnerability/, Authentication-bypass
 - https://orca.security/resources/blog/ssrf-vulnerabilities-in-four-azure-services/, SSRF
 - https://medium.com/@haroonhameed_76621/dom-based-xss-for-fun-and-profit-bug-bounty-poc-f4b9554e95d, DOM-XSS
-- https://securitylabs.datadoghq.com/articles/iamadmin-cloudtrail-bypass/, Cloud
 - https://onekey.com/blog/security-advisory-wago-unauthenticated-config-export-vulnerability/, Path-traversal
 - https://blog.pksecurity.io/2023/01/16/2022-microsoft-teams-rce.html, RCE
 - https://blog.viettelcybersecurity.com/cve-2022-21587-oracle-e-business-suite-unauth-rce/, RCE
@@ -2257,7 +2255,6 @@
 - https://gauravnarwani.com/account-takeover-via-improper-input-validation/, OAuth
 - https://dhiyaneshgeek.github.io/web/security/2021/10/23/how-i-was-able-to-revoke-your-instagram-2fa/, Bruteforce
 - https://securityforeveryone.com/blog/google-chrome-zero-day-vulnerability-cve-2021-30573, Memory-corruption
-- https://0day.click/recipe/discourse-sns-rce/, RCE
 - https://mrkrhy-xyz.medium.com/tagged-user-could-delete-facebook-story-d7f9cdde92aa, Logic-flaw
 - https://xdev05.github.io/How-i-Got-3-SQLI-in-just-10-minutes/, SQL-injection
 - https://infosecwriteups.com/a-story-of-another-awesome-old-school-hacking-that-lead-to-a-cool-p1-bug-f88da04b1ecf, 403-bypass
@@ -4148,7 +4145,6 @@
 - https://ysamm.com/?p=240, Authorization-flaw
 - https://web.archive.org/web/20200929010534/https://www.mohamedharon.com/2019/02/subdomain-takeover-via-wufoo-service-in.html, Subdomain-takeover
 - https://medium.com/@abaykandotcom/open-redirect-in-slack-385eb34b7c5f, Open-redirect
-- https://medium.com/bugbountywriteup/bypassing-rate-limit-abusing-misconfiguration-rules-dcd38e4e1028, Rate-limiting-bypass
 - https://web.archive.org/web/20200928234202/https://www.mohamedharon.com/2019/02/subdomain-takeover-via-hubspot.html, Subdomain-takeover
 - https://web.archive.org/web/20200929012457/https://www.mohamedharon.com/2019/02/souqcom-subdomain-takeover-via.html, Subdomain-takeover
 - https://gauravnarwani.com/never-stop-at-banner-grabbing/, Information-disclosure
@@ -4722,7 +4718,6 @@
 - https://medium.com/@saamux/filter-bypass-to-reflected-xss-on-https-finance-yahoo-com-mobile-version-22b854327b27, Reflected-XSS
 - https://medium.com/bugbountywriteup/900-xss-in-yahoo-recon-wins-65ee6d4bfcbd, XSS
 - https://medium.com/bugbountywriteup/how-i-bypassed-practos-firewall-and-triggered-a-xss-b30164a8f1dc, XSS
-- https://guptashubham.com/idor-execute-javascript-into-anyone-account/, IDOR
 - https://medium.com/@rojanrijal/luminate-internal-privilege-escalation-admin-to-owner-2ca28e575985, Authorization-flaw
 - https://medium.com/@rojanrijal/this-domain-is-my-domain-g-suite-a-record-vulnerability-b447a90a8de7, Domain-takeover
 - https://guptashubham.com/all-about-hackerone-private-program-terapeak/, IDOR
