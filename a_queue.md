@@ -819,7 +819,6 @@
 - https://jowin922.medium.com/reflected-xss-on-target-with-tough-waf-waf-bypass-3b7efd1ef2bc, Reflected-XSS
 - https://decoded.avast.io/janvojtesek/dota-2-under-attack-how-a-v8-bug-was-exploited-in-the-game/, V8-JavaScript-engine
 - https://arnavtripathy98.medium.com/bypassing-api-restrictions-for-fun-and-profit-c9ab746b67be, Payment-bypass
-- https://medium.com/@mydudehello91/how-i-got-1000-by-clickacking-233e89d76ffd, Clickjacking
 - https://hesec.de/posts/cve-2023-22855/, RCE
 - https://medium.com/@mares.viktor/code-injection-via-python-sandbox-escape-how-i-got-a-shell-inside-a-network-c977c35a82de, Code-injection
 - https://blog.quarkslab.com/post-exploitation-abusing-the-keepass-plugin-cache.html, Local-Privilege-escalation
@@ -1620,7 +1619,6 @@
 - https://medium.com/@Bishoo97x/stored-xss-and-stored-html-injection-in-united-nations-website-db87d445e41, XSS
 - https://medium.com/@bughunt789/account-takeover-via-response-manipulation-96be568feb7e, Authentication-bypass
 - https://monke.ie/case-study-part-2/, SSRF
-- https://medium.com/@abhinavsecondary/how-i-find-open-redirect-in-facebook-7e7aeb89535d, Open-redirect
 - https://ivreznap.medium.com/interesting-privilege-escalation-in-an-old-private-program-225d27253e13, Privilege-escalation
 - https://labs.detectify.com/2022/07/06/account-hijacking-using-dirty-dancing-in-sign-in-oauth-flows/, OAuth
 - https://github.com/aeyesec/CVE-2022-34265, SQL-injection
@@ -2487,7 +2485,6 @@
 - https://blog.0xffff.info/2021/07/24/ebay-xss-demo-and-guide-to-spear-phishing/, XSS
 - https://orwaatyat.medium.com/how-i-found-multiple-bugs-on-facebook-in-1-month-and-a-part-for-my-methodology-tools-58a677a9040c, SSTI
 - https://imajk.medium.com/story-of-my-3rd-bounty-from-facebook-fef352853d1b, Logic-flaw
-- https://github.com/vanhoefm/fragattacks#fragattacks-fragmentation--aggregation-attacks, Wifi
 - https://craighays.com/pre-account-takeover-by-reversing-a-weak-email-verification-token-algorithm/, Weak-crypto
 - https://www.r29k.com/articles/bb/self-xss-to-stored-xss, Self-XSS
 - https://microsoftedge.github.io/edgevr/posts/attacking-the-devtools/, Browser-hacking
@@ -2660,7 +2657,6 @@
 - https://ctf.re//source-engine/exploitation/2021/05/01/source-engine-2/, RCE
 - https://web.archive.org/web/20210728030437/https://ritiksahni.me/open-source-bug-bounty-tutorial, CSRF
 - https://web.archive.org/web/20210620102348/https://ipanda.co.in/blog1.html, RCE
-- https://0xprial.com/idor-leads-to-leak-any-uber-eats-restaurant-analytics/, IDOR
 - https://www.jomar.fr/posts/2021/basic_recon_to_rce/, Insecure-deserialization
 - https://notifybugme.medium.com/chaining-csrf-with-xss-to-deactivate-mass-user-accounts-by-single-click-b463c0d26587, CSRF
 - https://www.jomar.fr/posts/2021/ssrf_through_pdf_generation/, SSRF
@@ -4503,7 +4499,6 @@
 - https://blog.bentkowski.info/2018/06/setting-arbitrary-request-headers-in.html, CRLF-injection
 - https://pulsesecurity.co.nz/advisories/ManageEngine-OpManager-RCE, RCE
 - https://medium.com/bugbountywriteup/responsible-disclosure-how-i-could-have-booked-movie-tickets-through-other-user-accounts-2db26a037b4c, Password-reset
-- https://web.archive.org/web/20191217223802/https://medium.com/@tahasmily2013m/how-i-found-blind-xss-in-apple-c890775e745a, Blind-XSS
 - https://medium.com/@jonathanbouman/reflected-client-xss-amazon-com-7b0d3cec787, Reflected-XSS
 - https://web.archive.org/web/20191219011308/https://medium.com/@tahasmily2013m/i-have-found-vulnerability-in-360totalsecurity-is-reflected-xss-in-3a6bd602bb5a, Reflected-XSS
 - https://medium.com/@khaled.hassan/the-2-5-btc-stored-xss-f2f9393417f2, Stored-XSS

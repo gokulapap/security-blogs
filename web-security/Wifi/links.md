@@ -1,1 +1,2 @@
 - https://cylect.io/blog/cybr-2/exploit-airlines-to-get-free-wifi-airline-vulnerability-8
+- https://github.com/vanhoefm/fragattacks#fragattacks-fragmentation--aggregation-attacks
