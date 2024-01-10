@@ -27,3 +27,4 @@
 - https://medium.com/@yaala/become-member-of-close-public-group-9564c359c050
 - https://medium.com/@arbazhussain/missing-authorization-check-in-facebook-pages-manager-9f7bd879ff33
 - https://co0nan.gitbook.io/wirteups/
+- https://www.seekurity.com/blog/general/asus-control-center-an-information-disclosure-and-a-database-connection-clear-text-password-leakage-vulnerability/

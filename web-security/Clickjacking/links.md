@@ -5,3 +5,4 @@
 - https://www.seekurity.com/blog/general/microsoft-yammer-clickjacking-exploiting-html5-security-features
 - https://www.seekurity.com/blog/general/redressing-instagram-leaking-application-tokens-via-instagram-clickjacking-vulnerability/
 - https://medium.com/@mydudehello91/how-i-got-1000-by-clickacking-233e89d76ffd
+- https://santuysec.com/2020/05/16/how-i-was-able-to-make-users-loss-of-money-on-google-pay/

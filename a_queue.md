@@ -1547,7 +1547,6 @@
 - https://jhftss.github.io/CVE-2022-26712-The-POC-For-SIP-Bypass-Is-Even-Tweetable/, MacOS
 - https://medium.com/@emirpolat/cve-2022-36446-webmin-1-997-7a9225af3165, RCE
 - https://adnanmalik.info/blog/digging-js-files-to-find-bugs/, IDOR
-- https://medium.com/@iamdevansharya/outdated-php-version-leads-to-rce-380fb4db32f4, RCE
 - https://sagarsajeev.medium.com/dos-worth-650-interesting-right-144ff45ccf3b, DoS
 - https://infosecwriteups.com/mail-server-misconfiguration-leads-to-sending-a-fax-from-anyones-account-on-hellofax-dropbox-bbp-aab3d97ab4e7, Email-spoofing
 - https://claroty.com/team82/blog/with-management-comes-risk-finding-flaws-in-filewave-mdm, Authentication-bypass
@@ -3434,7 +3433,6 @@
 - https://www.bad5ect0r.sh/posts/stored-xss-leads-to-plaintext-password-disclosure/, Stored-XSS
 - https://medium.com/@bilalmerokhel/one-param-10k-9d80a33f5eb5, IDOR
 - https://bugwriteups.tech/logical-bug-which-let-me-stop-users-from-creating-ads-at-a-website, Logic-flaw
-- https://santuysec.com/2020/05/16/how-i-was-able-to-make-users-loss-of-money-on-google-pay/, Clickjacking
 - https://medium.com/@bilalmerokhel/chained-bugs-account-takeover-ceff67d1d55a, IDOR
 - https://medium.com/@swapmaurya20/password-reset-poisoning-leading-to-account-takeover-f178f5f1de87, Password-reset
 - http://hack4bounty.com/how-i-got-my-first-swag-on-edmodo-with-a-simple-xss/, Stored-XSS
@@ -4002,7 +4000,6 @@
 - https://medium.com/@mustafakhan_89646/multiple-api-issues-due-to-fixed-authorization-token-17365056f17a, Authorization-flaw
 - https://tutorgeeks.blogspot.com/2019/05/security-assessment-on-staging-domains.html, Missing-authentication
 - https://smaranchand.com.np/2019/05/how-i-acquired-xxx-bounty-by-investing-99-cents/, Logic-flaw
-- https://blog.takemyhand.xyz/2019/05/escalating-subdomain-takeovers-to-steal.html, Subdomain-takeover
 - https://philippeharewood.com/determine-a-user-from-an-email-address/, Information-disclosure
 - https://whitehatfamilyguy.blogspot.com/2019/06/google-adwordsprivilege-escalation-read.html, Privilege-escalation
 - https://medium.com/@zseano/leaking-openid-tokens-with-the-bug-right-infront-of-you-95c1fb4a86e9, OpenID-Connect
@@ -4067,7 +4064,6 @@
 - https://medium.com/@jayateerthag/multiple-xss-in-skype-com-81d65919ed24, XSS
 - https://medium.com/@nuraalamdipu/spokeo-bug-bounty-experience-3f5caba52416, XSS
 - https://www.rcesecurity.com/2019/04/dell-kace-k1000-remote-code-execution-the-story-of-bug-k1-18652/, RCE
-- https://medium.com/@elberandre/ssrf-trick-ssrf-xspa-in-microsofts-bing-webmaster-central-8015b5d487fb, SSRF
 - https://medium.com/@daniel.thatcher/obtaining-xss-using-moodle-features-and-minor-bugs-2035665989cc, Login-CSRF
 - https://ninadmathpati.com/how-i-got-a-trip-to-amsterdam-through-bug-bounty/, Bruteforce
 - https://ngailong.wordpress.com/2019/04/07/old-but-gold-dot-dot-slash-to-get-the-flag-uber-microservice/amp/, SSRF
@@ -4538,7 +4534,6 @@
 - https://medium.com/bugbountywriteup/hsts-bypass-vulnerability-in-ie-preview-fa956161fa8, HSTS-bypass
 - https://medium.freecodecamp.org/discovering-the-hidden-mine-of-credentials-and-sensitive-information-8e5ccfef2724, Authorization-flaw
 - https://medium.com/@honcbb/internet-safety-for-kids-families-trend-micro-dom-xss-db34c9bbb120, DOM-XSS
-- https://www.seekurity.com/blog/general/asus-control-center-an-information-disclosure-and-a-database-connection-clear-text-password-leakage-vulnerability/, Authorization-flaw
 - https://web.archive.org/web/20200904133318/https://medium.com/bugbountywriteup/a-five-minute-sql-i-16ab75b20fe4, SQL-injection
 - https://medium.com/bugbountywriteup/how-i-got-paid-0-from-the-indias-largest-online-gifting-portal-bug-bounty-program-fd9e14f9ca20, Payment-tampering
 - https://medium.com/bugbountywriteup/4500-bounty-how-i-got-lucky-99d8bc933f75, Subdomain-takeover
