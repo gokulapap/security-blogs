@@ -29,3 +29,4 @@
 - https://medium.com/@rajqureshi07/the-story-of-how-i-was-able-to-chain-ssrf-with-command-injection-vulnerability-ef31feb30ea9
 - https://www.synack.com/blog/exploits-explained-using-apis-to-execute-a-server-side-request-forgery/
 - https://medium.com/@elberandre/ssrf-trick-ssrf-xspa-in-microsofts-bing-webmaster-central-8015b5d487fb
+- https://eslam.io/posts/uppy-js-ssrf-vulnerability/

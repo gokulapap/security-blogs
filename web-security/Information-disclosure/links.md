@@ -40,3 +40,4 @@
 - https://medium.com/@tod4ro/for-paypal-security-team-get-user-balances-and-transaction-details-is-not-a-vulnerability-2e5b7f8780de
 - https://medium.com/@mohamedtaha_42562/how-i-was-able-to-access-ibm-internal-documents-a33858387d30
 - https://palant.info/2022/03/01/skype-extension-all-functionality-broken-still-exploitable/
+- https://medium.com/@Wh11teW0lf/p1-vulnerability-in-60-seconds-85ef93d42b99

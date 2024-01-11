@@ -11,3 +11,4 @@
 - https://www.rapid7.com/blog/post/2022/04/12/cve-2022-24527-microsoft-connected-cache-local-privilege-escalation-fixed/
 - https://blog.silentsignal.eu/2022/09/28/another-tale-of-ibm-i-as-400-hacking/
 - https://jhftss.github.io/CVE-2022-22616-Gatekeeper-Bypass/
+- https://sector7.computest.nl/post/2023-01-xar/
