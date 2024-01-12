@@ -50,3 +50,4 @@
 - https://blog.assetnote.io/2023/02/02/pre-auth-rce-aspera-faspex/
 - https://0day.click/recipe/discourse-sns-rce/
 - https://medium.com/@iamdevansharya/outdated-php-version-leads-to-rce-380fb4db32f4
+- https://xcellerator.github.io/posts/tetsuji/

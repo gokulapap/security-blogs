@@ -856,7 +856,6 @@
 - https://medium.com/@abhisekr/discovered-a-critical-idor-and-earned-900-for-my-first-p1-vulnerability-57c1e72f42c1, IDOR
 - https://www.jhaddix.com/post/the-100-million-person-data-disclosure, IDOR
 - https://medium.com/@DrakenKun/how-i-was-able-to-find-4-cross-site-scripting-xss-on-vulnerability-disclosure-program-e2f39199ae16, XSS
-- https://akashc99.medium.com/blind-xss-to-ssrf-e2bc579976d, Blind-XSS
 - https://ysamm.com/?p=779, DOM-XSS
 - https://ysamm.com/?p=777, Account-takeover
 - https://shells.systems/froxlor-v2-0-6-remote-command-execution-cve-2023-0315/, RCE
@@ -1117,7 +1116,6 @@
 - https://www.rapid7.com/blog/post/2022/11/16/cve-2022-41622-and-cve-2022-41800-fixed-f5-big-ip-and-icontrol-rest-vulnerabilities-and-exposures/, CSRF
 - https://www.bentkowski.info/2022/11/google-roulette/, SOP-bypass
 - https://www.zerodayinitiative.com/blog/2022/11/14/control-your-types-or-get-pwned-remote-code-execution-in-exchange-powershell-backend, RCE
-- https://blog.compass-security.com/2022/11/relaying-to-ad-certificate-services-over-rpc/, Active-Directory
 - https://www.oxeye.io/blog/remote-code-execution-in-spotifys-backstage, RCE
 - https://portswigger.net/research/stealing-passwords-from-infosec-mastodon-without-bypassing-csp, HTML-injection
 - https://blog.sonarsource.com/checkmk-rce-chain-1/, RCE
@@ -1423,7 +1421,6 @@
 - https://monish-basaniwal.medium.com/the-million-dollar-hack-8163892bfe2f, IDOR
 - https://akshayravic09yc47.medium.com/improper-input-validation-leads-to-email-spamming-5d1a53b2a579, Email-content-injection
 - https://joshuaarulsamy.medium.com/my-hall-of-fame-at-united-nations-success-story-97675232aed7, XSS
-- https://xcellerator.github.io/posts/tetsuji/, RCE
 - https://infosecwriteups.com/break-the-logic-5-different-perspectives-in-single-page-1500-5aa09da0fe7a, Client-side-enforcement-of-server-side-security
 - https://ssd-disclosure.com/ssd-advisory-vhdmpivalidatevirtualdisksurface-lpe/, Local-Privilege-Escalation
 - https://blog.nietaanraken.nl/posts/github-pages-command-injection/, RCE
@@ -2424,7 +2421,6 @@
 - https://infosecwriteups.com/why-u-should-use-burp-to-test-path-traversal-vulnerability-and-also-get-rxss-2743cbb16a3c, Path-traversal
 - https://blogs.msmvps.com/alunj/2021/08/15/second-order-subdomain-takeovers-they-do-exist/, Subdomain-takeover
 - https://ahmdhalabi.medium.com/taking-over-employee-accounts-by-managers-with-zero-employee-interaction-b60784c3ad84, Account-takeover
-- https://notifybugme.medium.com/finding-multiple-ssrf-with-aws-metadata-access-on-a-bank-system-7e73ac28e50a, SSRF
 - https://medium.com/@viralbhatt100/bypass-google-captcha-parameter-pollution-leads-to-send-email-to-any-user-on-behalf-of-9013aebbabae, HTTP-parameter-pollution
 - https://medium.com/bug-bounty-hunting/facebook-bug-invite-user-to-like-a-page-even-after-they-decline-the-page-like-invite-f83d9ec845b3, Logic-flaw
 - https://infosecwriteups.com/how-we-was-able-to-takeover-whole-organization-via-privilege-escalation-4f74b31a84a6, Privilege-escalation
@@ -4721,7 +4717,6 @@
 - https://medium.com/@arbazhussain/stealing-0auth-token-mitm-3eeab46e96cf, OAuth
 - https://medium.com/@TheShahzada/reflected-xss-in-yahoo-6e2b6b177448, Reflected-XSS
 - http://zhchbin.github.io/2017/08/30/Uber-XSS-via-Cookie/, XSS
-- https://medium.com/@rojanrijal/luminate-store-basics-defacement-and-potential-takeover-3b53d1e45b4f, CSRF
 - https://medium.com/@rojanrijal/developer-luminate-idor-42bd0d98e0c, IDOR
 - https://medium.com/@arbazhussain/improper-storage-of-protected-projects-files-9ece8e9a4743, IDOR
 - https://medium.com/@arbazhussain/bypassing-rate-limit-protection-by-spoofing-originating-ip-ff06adf34157, Bruteforce

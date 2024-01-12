@@ -1,0 +1,1 @@
+- https://blog.compass-security.com/2022/11/relaying-to-ad-certificate-services-over-rpc/

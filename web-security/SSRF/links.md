@@ -30,3 +30,4 @@
 - https://www.synack.com/blog/exploits-explained-using-apis-to-execute-a-server-side-request-forgery/
 - https://medium.com/@elberandre/ssrf-trick-ssrf-xspa-in-microsofts-bing-webmaster-central-8015b5d487fb
 - https://eslam.io/posts/uppy-js-ssrf-vulnerability/
+- https://notifybugme.medium.com/finding-multiple-ssrf-with-aws-metadata-access-on-a-bank-system-7e73ac28e50a

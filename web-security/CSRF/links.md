@@ -24,3 +24,4 @@
 - https://rohitcoder.medium.com/csrf-from-which-we-can-create-a-support-ticket-in-victims-account-500-c1aa61f99c17
 - https://ladysecspeare.wordpress.com/2020/04/05/how-a-simple-csrf-attack-turned-into-a-p1-level-bug/
 - https://medium.com/@sandro.einfeldt/advanced-csrf-exploitation-via-xss-4cd00c895ba
+- https://medium.com/@rojanrijal/luminate-store-basics-defacement-and-potential-takeover-3b53d1e45b4f
