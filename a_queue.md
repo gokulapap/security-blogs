@@ -289,7 +289,6 @@
 - https://posts.specterops.io/performance-diagnostics-and-wmi-21f3e01790d3, Lateral-movement
 - https://research.securitum.com/how-private-cache-can-lead-to-mass-account-takeover-pentest-case/, Account-takeover
 - https://zxsecurity.co.nz/research/advisories/race-condition-asp-net-core-signinmanager/, Race-condition
-- https://medium.com/@abdulparkar9554/story-of-clickjacking-in-microsoft-leads-to-privilege-escalation-account-takeover-of-admin-a04453ed47fc, Clickjacking
 - https://labs.withsecure.com/publications/executing-arbitrary-code-executables-in-read-only-filesystems, Kubernetes
 - https://www.kroll.com/en/insights/publications/cyber/ghostscript-cve-2023-36664-remote-code-execution-vulnerability, RCE
 - https://medium.com/workday-engineering/exploiting-jmeter-via-rmi-e8e12392bba8, Insecure-deserialization
@@ -655,7 +654,6 @@
 - https://shahjerry33.medium.com/lfi-an-interesting-tweak-9c5638dbdd1b, LFI
 - https://www.sjoerdlangkemper.nl/2023/03/15/textcube-sql-injection-session-ip-spoofing/, SQL-injection
 - http://blog.sysdum.net/parameter-injection-to-rce, RCE
-- https://www.semperis.com/blog/ad-security-research-breaking-trust-transitivity/, Active-Directory-Privilege-Escalation
 - https://cupc4k3.lol/cve-2023-24625-idor-in-faveo-service-desk-37a63f53d896, IDOR
 - https://blog.scrt.ch/2023/03/14/producing-a-poc-for-cve-2022-42475-fortinet-rce/, Memory-corruption
 - https://blog.quarkslab.com/vulnerabilities-in-the-tpm-20-reference-implementation-code.html, Memory-corruption
@@ -788,7 +786,6 @@
 - https://wesecureapp-smm.medium.com/assumed-breach-assessment-case-study-uncovering-wesecureapps-approach-45a512c0bd63, Internal-pentest
 - https://github.com/haproxy/haproxy/commit/a8598a2eb11b6c989e81f0dbf10be361782e8d32, HTTP-header-attack
 - https://checkmarx.com/blog/securing-open-source-solutions-a-study-of-osticket-vulnerabilities/, Stored-XSS
-- https://blog.trailofbits.com/2023/02/14/curl-audit-fuzzing-libcurl-command-line-interface/, Memory-corruption
 - https://github.com/blackarrowsec/redteam-research/tree/master/LPE%20via%20StorSvc, Local-Privilege-Escalation
 - https://mahmoudsec.blogspot.com/2023/02/sql-injection-utilizing-xml-functions.html, SQL-injection
 - https://pullerjsecu.medium.com/bypassing-cors-configurations-to-produce-an-account-takeover-for-fun-and-profit-3e50c3f2a124, CORS-misconfiguration
@@ -2866,7 +2863,6 @@
 - https://raxis.com/blog/rd-web-access-vulnerability, Timing-attack
 - https://pullerjsecu.medium.com/how-i-was-able-to-turn-a-xss-into-a-account-takeover-ae0c478640e7, Web-cache-poisoning
 - https://sunilyedla.medium.com/stealing-chat-session-id-with-cors-and-execute-csrf-attack-f9f7ea229db1, CSRF
-- https://spaceraccoon.dev/applying-offensive-reverse-engineering-to-facebook-gameroom, Insecure-deserialization
 - https://web.archive.org/web/20210204093332/https://nhiephon1337.medium.com/1st-facebook-bug-bounty-disclose-pages-admin-to-mod-admin-of-group-c3161c22c858, Information-disclosure
 - https://mrd0x.com/spoofing-and-attacking-with-skype/, Spoofing
 - https://amineaboud.medium.com/access-developer-tasks-list-of-any-of-facebook-application-graphql-idor-62307c5e5b34, IDOR
@@ -3937,7 +3933,6 @@
 - https://medium.com/@reegun/nuget-squirrel-uncontrolled-endpoints-leads-to-arbitrary-code-execution-80c9df51cf12, RCE
 - https://medium.com/@androgaming1912/gain-adfly-smtp-access-with-ssrf-via-gopher-protocol-26a26d0ec2cb, SSRF
 - https://philippeharewood.com/view-facebook-payouts-for-any-facebook-trivia-game/, Information-disclosure
-- https://medium.com/@y.shahinzadeh/1-click-account-takeover-in-virgool-io-a-nice-case-study-6bfc3cb98ef2, Account-takeover
 - https://medium.com/@osamaavvan/cors-to-csrf-attack-c33a595d441, CORS-misconfiguration
 - https://philippeharewood.com/toggle-group-rules-agreement-as-a-non-member/, Authorization-flaw
 - https://medium.com/@dr.spitfire/sensitive-information-disclosure-web-cache-deception-attack-bcac6cb9cd86?sk=a2557f0c557ff38876141c2d94b296dd, Information-disclosure

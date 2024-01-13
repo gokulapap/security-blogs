@@ -22,3 +22,4 @@
 - https://mikko-kenttala.medium.com/zero-click-vulnerability-in-apples-macos-mail-59e0c14b106c
 - https://hunter-55.medium.com/account-takeover-story-of-2-same-issues-in-a-single-program-but-different-sub-domains-in-10-minutes-840b2701db91
 - https://ninadmathpati.com/how-i-was-able-to-bypass-the-current-password/
+- https://medium.com/@y.shahinzadeh/1-click-account-takeover-in-virgool-io-a-nice-case-study-6bfc3cb98ef2

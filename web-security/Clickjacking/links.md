@@ -6,3 +6,4 @@
 - https://www.seekurity.com/blog/general/redressing-instagram-leaking-application-tokens-via-instagram-clickjacking-vulnerability/
 - https://medium.com/@mydudehello91/how-i-got-1000-by-clickacking-233e89d76ffd
 - https://santuysec.com/2020/05/16/how-i-was-able-to-make-users-loss-of-money-on-google-pay/
+- https://medium.com/@abdulparkar9554/story-of-clickjacking-in-microsoft-leads-to-privilege-escalation-account-takeover-of-admin-a04453ed47fc

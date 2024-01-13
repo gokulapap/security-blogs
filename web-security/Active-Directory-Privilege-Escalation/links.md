@@ -1,0 +1,1 @@
+- https://www.semperis.com/blog/ad-security-research-breaking-trust-transitivity/
