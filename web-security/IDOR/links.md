@@ -50,3 +50,4 @@
 - https://medium.com/@mukundbhuva/accessing-the-data-sources-of-any-facebook-business-account-via-idor-in-graphql-1fc963ad3ecd
 - https://guptashubham.com/idor-execute-javascript-into-anyone-account/
 - https://0xprial.com/idor-leads-to-leak-any-uber-eats-restaurant-analytics/
+- https://medium.com/@vickieli/all-about-idor-attacks-64c4203b518e

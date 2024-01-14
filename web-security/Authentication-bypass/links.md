@@ -6,3 +6,4 @@
 - https://medium.com/sourav-sahana/bypass-mobile-pin-verification-d2c571afa3aa
 - https://medium.com/bugbountywriteup/bug-bounty-mail-ru-234fa6f5a5a
 - https://www.whiteoaksecurity.com/blog/centrestack-disclosure/
+- https://observationsinsecurity.com/2020/08/09/bypassing-403-to-get-access-to-an-admin-console-endpoints/

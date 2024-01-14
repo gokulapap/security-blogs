@@ -41,3 +41,4 @@
 - https://medium.com/@mohamedtaha_42562/how-i-was-able-to-access-ibm-internal-documents-a33858387d30
 - https://palant.info/2022/03/01/skype-extension-all-functionality-broken-still-exploitable/
 - https://medium.com/@Wh11teW0lf/p1-vulnerability-in-60-seconds-85ef93d42b99
+- https://medium.com/@kandar.souvik6/feedback-analyzer-exploitation-dc44a91b7fcc

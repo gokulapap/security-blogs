@@ -18,3 +18,4 @@
 - https://ahmadaabdulla.medium.com/how-i-found-sql-injection-on-8x8-cengage-comodo-automattic-20-company-c296d1a09f63
 - https://tomorrowisnew.com/posts/sql-injection-in-harvard-subdomain/
 - https://medium.com/@ariffadhlullah2310/sql-injection-bug-bounty-110e92e71ec3
+- http://c0rni3sm.blogspot.com/2013/04/how-i-rewarded-with-usdk-just-with.html

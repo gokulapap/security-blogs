@@ -103,7 +103,6 @@
 - https://medium.com/@cyber.jemin/price-manipulation-vulnerability-potential-exploitation-in-dating-website-d1a7438c5eeb, parameter
 - https://medium.com/@tommasobona04/building-an-xss-scanner-with-python-detecting-cross-site-scripting-vulnerabilities-by-tommaso-69d4c9e04d72, automation
 - https://medium.com/@nynan/bug-bounty-wordlists-please-do-them-properly-2110babcf482, misc
-- https://medium.com/@vickieli/all-about-idor-attacks-64c4203b518e, IDOR
 - https://medium.com/@deepamkumar510/remote-code-execution-rce-through-file-upload-functionality-1809bd504805, RCE
 - https://medium.com/@nynan/what-i-learnt-from-reading-217-subdomain-takeover-bug-reports-c0b94eda4366, STO
 - https://medium.com/@proviesec/a-swag-for-a-open-redirect-google-dork-bug-bounty-2143b943f34e, open-redirection
@@ -948,7 +947,6 @@
 - https://sudhanshur705.medium.com/exploring-the-world-of-esi-injection-b86234e66f91, ESI-injection
 - https://hamzadzworm.medium.com/how-i-got-a-bug-that-leads-to-takeover-accounts-of-any-user-who-view-my-profile-913c8704f6cd, XSS
 - https://medium.com/@ashlyn.lau_17206/hooking-secret-key-to-building-custom-burp-extension-c6aeb6fd312a, SQL-injection
-- https://medium.com/@kandar.souvik6/feedback-analyzer-exploitation-dc44a91b7fcc, Information-disclosure
 - https://infosecwriteups.com/unauthorized-sign-up-on-subdomain-of-subdomain-leading-to-organization-takeover-worth-2000-a7199952d80b, Exposed-registration-page
 - https://tamimhasan404.medium.com/ldap-anonymous-login-story-of-my-3-simple-p3-findings-d5b4a991b345, LDAP-anonymous-login
 - https://www.yassineaboukir.com//blog/hunting-for-amazon-cognito-security-misconfigurations/, Amazon-cognito-misconfiguration
@@ -3206,7 +3204,6 @@
 - https://honoki.net/2020/08/10/cve-2020-11518-how-i-bruteforced-my-way-into-your-active-directory/, RCE
 - https://www.perimeterx.com/tech-blog/2020/csp-bypass-vuln-disclosure/, CSP-bypass
 - https://medium.com/@sudipshah_66336/my-2nd-4digit-bug-bounty-from-facebook-99baa727ed02, Logic-flaw
-- https://observationsinsecurity.com/2020/08/09/bypassing-403-to-get-access-to-an-admin-console-endpoints/, Authentication-bypass
 - https://mazinahmed.net/blog/hacking-zoom/, Information-disclosure
 - https://blog.dixitaditya.com/bypassing-google-maps-api-key-restrictions/, Logic-flaw
 - https://medium.com/bugbountywriteup/reflected-xss-in-facebooks-mirror-websites-4384b4eb3e11, Reflected-XSS
@@ -3876,7 +3873,6 @@
 - https://ysamm.com/?p=321, Internal-path-disclosure
 - https://ysamm.com/?p=314, IDOR
 - https://ysamm.com/?p=281, Authorization-flaw
-- https://medium.com/@saadahmedx/bypassing-cors-13e46987a45b, CORS-misconfiguration
 - https://web.archive.org/web/20191219015349/https://rhys.io/post/rce-in-ruby-using-mustache-templates, RCE
 - https://medium.com/@dekeeu/reposted-2017-linkedin-hackers-experience-8465c1848c88, Stored-XSS
 - https://medium.com/@dekeeu/reposted-2019-hacking-youtube-for-fun-and-profit-8685dd475e30, Authorization-flaw
@@ -4955,7 +4951,6 @@
 - https://whitton.io/articles/overwriting-banner-images-on-etsy/, Authorization-flaw
 - https://www.rcesecurity.com/2013/04/paypal-bug-bounty-paypaltech-com-xss/, XSS
 - https://whitton.io/articles/stealing-facebook-access-tokens-with-a-double-submit/, CSRF
-- http://c0rni3sm.blogspot.com/2013/04/how-i-rewarded-with-usdk-just-with.html, SQL-injection
 - http://www.rafayhackingarticles.net/2013/02/dom-based-xss-in-avg.html, DOM-XSS
 - https://whitton.io/archive/framing-part-1-click-jacking-etsy, Clickjacking
 - https://whitton.io/archive/persistent-xss-on-myworld-ebay-com/, XSS

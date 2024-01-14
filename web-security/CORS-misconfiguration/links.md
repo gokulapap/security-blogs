@@ -3,3 +3,4 @@
 - https://fortbridge.co.uk/research/compromising-plesk-via-its-rest-api/
 - https://medium.com/@trapp3rhat/edmodo-account-deactivation-vulnerability-1116613bed2b
 - https://medium.com/bugbountywriteup/pre-domain-wildcard-cors-exploitation-2d6ac1d4bd30
+- https://medium.com/@saadahmedx/bypassing-cors-13e46987a45b
