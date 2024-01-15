@@ -47,7 +47,6 @@
 - https://medium.com/@fh4ntke/intigriti-xss-challenge-0621-cf76c28840c1, CTF
 - https://medium.com/@thexssrat/xss-made-easy-for-testers-developers-and-managers-b404f744ec6b, XSS
 - https://medium.com/@marxchryz/how-i-gain-access-to-the-server-administration-of-a-million-dollar-company-14da68c7a9dd, journey
-- https://medium.com/@0UN390/what-is-http-parameter-pollution-a50249869d97, parameter
 - https://medium.com/@ryuukhagetsu/how-i-get-bounty-from-takeover-account-ed17cd838b2a, ATO
 - https://medium.com/@d4ly/an-interesting-rce-on-a-synack-red-team-target-516edb63fd04, RCE
 - https://medium.com/@janirudransh/privilege-escalation-to-view-sensitive-data-of-other-user-c4ad06c9472, privilege-escalation
@@ -784,7 +783,6 @@
 - https://faiyazhacks.medium.com/i-got-united-nations-hall-of-fame-with-this-simple-technique-3d9a021e4a5d, HTML-injection
 - https://wesecureapp-smm.medium.com/assumed-breach-assessment-case-study-uncovering-wesecureapps-approach-45a512c0bd63, Internal-pentest
 - https://github.com/haproxy/haproxy/commit/a8598a2eb11b6c989e81f0dbf10be361782e8d32, HTTP-header-attack
-- https://checkmarx.com/blog/securing-open-source-solutions-a-study-of-osticket-vulnerabilities/, Stored-XSS
 - https://github.com/blackarrowsec/redteam-research/tree/master/LPE%20via%20StorSvc, Local-Privilege-Escalation
 - https://mahmoudsec.blogspot.com/2023/02/sql-injection-utilizing-xml-functions.html, SQL-injection
 - https://pullerjsecu.medium.com/bypassing-cors-configurations-to-produce-an-account-takeover-for-fun-and-profit-3e50c3f2a124, CORS-misconfiguration
@@ -2584,7 +2582,6 @@
 - https://github.com/champtar/blog/tree/main/Metadata_MITM_root_EKS_GKE, Kubernetes
 - https://github.com/xbforce/Blog/blob/main/writeup/account-takeover-via-iframe-injection.md, Iframe-injection
 - https://master-sec.medium.com/the-beauty-of-chaining-client-side-bugs-759e1091eabf, CRLF-injection
-- https://sinsinology.medium.com/cafebazaar-and-subdomain-takeover-a0ab61a19ce8, Subdomain-takeover
 - https://web.archive.org/web/20210621221618/https://savirsuda.github.io/Github-The-Goldmine-for-P1s-and-P2s-Sensitive-Information-Exposure-via-Github-by-a-Company-Employee/, Information-disclosure
 - https://akashroxstarz.medium.com/hey-waf-better-luck-next-time-a1df7f444863, SQL-injection
 - https://cirius.medium.com/how-i-hacked-a-target-again-and-again-6db2e462221f, OAuth
@@ -3469,7 +3466,6 @@
 - https://medium.com/@vincenz/exploiting-a-race-condition-vulnerability-3f2cb387a72, Race-condition
 - https://medium.com/@jayateerthag/cors-bug-on-googles-404-page-rewarded-2163d58d3c8b, CORS-misconfiguration
 - https://medium.com/@adam.adreleve/dom-based-open-redirect-to-the-leak-of-a-jwt-token-1b1dd2ced9a1, Open-redirect
-- https://samcurry.net/abusing-http-path-normalization-and-cache-poisoning-to-steal-rocket-league-accounts/, HTTP-cache-poisoning
 - https://blog.stazot.com/prestashop-csrf-to-rce-article/, RCE
 - https://medium.com/@np20121996/how-was-i-able-to-find-privilege-escalation-b13366b97706, IDOR
 - https://medium.com/@ashokcpg/non-technical-write-up-on-my-second-bounty-of-1-000-from-facebook-74daecd6879b, Logic-flaw
@@ -3648,7 +3644,6 @@
 - https://medium.com/sourav-sahana/bypass-2fa-in-a-website-d616eaead1e3, MFA-bypass
 - https://footstep.ninja/posts/idor-via-http/, IDOR
 - https://medium.com/sourav-sahana/from-post-to-get-open-redirect-e91f4f4206a, Open-redirect
-- https://medium.com/@sudhanshur705/bug-hunting-journey-of-2019-95e5190aca7c, XSS
 - https://footstep.ninja/posts/exploiting-self-xss/, Self-XSS
 - https://medium.com/monetary/how-did-i-earn-3133-70-from-google-translator-9becf942dbdc, XSS
 - https://medium.com/bug-bounty-hunting/facebook-bug-bounty-story-x000-for-an-information-disclosure-bug-f0c0d19d7815, Information-disclosure

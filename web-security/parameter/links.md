@@ -1,0 +1,1 @@
+- https://medium.com/@0UN390/what-is-http-parameter-pollution-a50249869d97

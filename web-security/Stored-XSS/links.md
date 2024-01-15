@@ -16,3 +16,4 @@
 - https://www.ansariosama.com/2017/09/exploiting-single-request-for-multiple.html
 - https://omespino.com/write-up-1000-usd-in-5-minutes-xss-stored-in-outlook-com-ios-browsers/
 - https://blog.doyensec.com/2020/04/30/polymorphic-images-for-xss.html
+- https://checkmarx.com/blog/securing-open-source-solutions-a-study-of-osticket-vulnerabilities/
