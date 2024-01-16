@@ -137,7 +137,6 @@
 - https://medium.com/@grumpinout/intigritis-january-xss-challenge-4475265edaa7, ctf
 - https://medium.com/@popalltheshells/domain-admin-compromise-in-3-hours-5778902604c9, misc
 - https://medium.com/@sivasimha/unrestricted-file-upload-cloud-fare-bypass-12867b65de3a, file-upload
-- https://medium.com/@vishwaraj101/finding-backup-vulnerabilities-in-android-apps-6b87330f97b3, android
 - https://medium.com/@adamjsturge/mx-takeovers-automated-subdomain-takeover-64e658fc4fb7, automation
 - https://medium.com/@quadrimohammedbilal.mb/account-takeover-by-chaining-oauth-misconfiguration-and-xss-822e41dc85b0, oauth-misconfig
 - https://medium.com/@corneacristian/top-25-rce-bug-bounty-reports-bc9555cca7bc, RCE
@@ -2515,7 +2514,6 @@
 - https://github.com/irsl/gcp-dhcp-takeover-code-exec, DHCP-flood
 - https://vovohelo.medium.com/how-i-found-my-first-chrome-bug-cve-2021-21210-248a21272248, NAT-Slipstreaming
 - https://blog.tyage.net/posts/2021-06-27-dependabot-rce/, SSRF
-- https://web.archive.org/web/20210706150728/https://blog.assetnote.io/2021/06/27/uber-account-takeover-voicemail/, Account-takeover
 - https://medium.com/techiepedia/misconfigured-3-bucket-a-semi-opened-environment-9cfb9dee782d, AWS-misconfiguration
 - https://www.pethuraj.com/blog/escalating-xss-to-arbitrary-file-read/, XSS
 - https://ysamm.com/?p=702, CSRF
@@ -4412,7 +4410,6 @@
 - https://dev.to/antogarand/from-data-leak-to-account-takeover-1kck, Account-takeover
 - https://medium.com/@vesirin/how-i-gained-commit-access-to-homebrew-in-30-minutes-2ae314df03ab, Information-disclosure
 - https://medium.com/bugbountywriteup/sending-out-phishing-e-mails-from-microsoft-com-84c3b918ada2, HTML-injection
-- https://research.checkpoint.com/2018/fakesapp-a-vulnerability-in-whatsapp/, Content-spoofing
 - https://sites.google.com/securifyinc.com/vrp-writeups/google-meet/authorization-bugs, Authorization-flaw
 - https://medium.com/@friendly_/self-xss-leads-to-blind-xss-and-reflected-xss-950b1dc24647, Blind-XSS
 - https://medium.com/@friendly_/reflected-xss-primagames-com-c7a641912626, Reflected-XSS
@@ -4469,7 +4466,6 @@
 - https://medium.com/@yassergersy/account-take-over-via-reset-password-f2e9d887bce1, Password-reset
 - https://www.coengoedegebure.com/how-i-got-access-to-local-aws-info-via-jira/, SSRF
 - https://blog.bentkowski.info/2018/06/xss-in-google-colaboratory-csp-bypass.html, XSS
-- https://medium.com/@cachemoney/using-a-github-app-to-escalate-to-an-organization-owner-for-a-10-000-bounty-4ec307168631, Authorization-flaw
 - https://blog.bentkowski.info/2018/06/setting-arbitrary-request-headers-in.html, CRLF-injection
 - https://pulsesecurity.co.nz/advisories/ManageEngine-OpManager-RCE, RCE
 - https://medium.com/bugbountywriteup/responsible-disclosure-how-i-could-have-booked-movie-tickets-through-other-user-accounts-2db26a037b4c, Password-reset
@@ -4541,7 +4537,6 @@
 - https://medium.com/bugbountywriteup/bypass-csp-by-abusing-xss-filter-in-edge-43e9106a9754, CSP-bypass
 - https://medium.com/@iSecMax/how-i-hacked-companies-related-to-the-crypto-currency-and-earned-60-000-93e9b3299f4e, Authorization-flaw
 - https://medium.com/@flex0geek/how-i-bypassed-ebay-process-on-redirect-98739384b4bc, Open-redirect
-- https://www.seekurity.com/blog/general/hijacking-users-private-information-access_token-from-microsoft-office360-facebook-app, Logic-flaw
 - https://web.archive.org/web/20191217083137/http://blog.jr0ch17.com/2018/Please-email-me-your-password/, Blind-XSS
 - https://medium.com/bugbountywriteup/how-i-broke-into-google-issue-tracker-667b9e33e931, Logic-flaw
 - https://medium.com/@rojanrijal/source-code-analysis-in-ysurvey-luminate-bug-c86dc29b70c4, Authentication-bypass

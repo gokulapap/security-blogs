@@ -1,0 +1,1 @@
+- https://medium.com/@vishwaraj101/finding-backup-vulnerabilities-in-android-apps-6b87330f97b3

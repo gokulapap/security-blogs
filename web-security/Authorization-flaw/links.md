@@ -28,3 +28,4 @@
 - https://medium.com/@arbazhussain/missing-authorization-check-in-facebook-pages-manager-9f7bd879ff33
 - https://co0nan.gitbook.io/wirteups/
 - https://www.seekurity.com/blog/general/asus-control-center-an-information-disclosure-and-a-database-connection-clear-text-password-leakage-vulnerability/
+- https://medium.com/@cachemoney/using-a-github-app-to-escalate-to-an-organization-owner-for-a-10-000-bounty-4ec307168631

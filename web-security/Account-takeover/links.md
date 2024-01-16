@@ -23,3 +23,4 @@
 - https://hunter-55.medium.com/account-takeover-story-of-2-same-issues-in-a-single-program-but-different-sub-domains-in-10-minutes-840b2701db91
 - https://ninadmathpati.com/how-i-was-able-to-bypass-the-current-password/
 - https://medium.com/@y.shahinzadeh/1-click-account-takeover-in-virgool-io-a-nice-case-study-6bfc3cb98ef2
+- https://web.archive.org/web/20210706150728/https://blog.assetnote.io/2021/06/27/uber-account-takeover-voicemail/

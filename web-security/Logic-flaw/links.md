@@ -34,3 +34,4 @@
 - https://ysamm.com/?p=603
 - https://medium.com/techiepedia/hey-google-delete-my-data-properly-googlevrp-83349ca8e0e1
 - https://sites.google.com/site/testsitehacking/-5k-service-dependencies
+- https://www.seekurity.com/blog/general/hijacking-users-private-information-access_token-from-microsoft-office360-facebook-app
