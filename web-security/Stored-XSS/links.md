@@ -17,3 +17,4 @@
 - https://omespino.com/write-up-1000-usd-in-5-minutes-xss-stored-in-outlook-com-ios-browsers/
 - https://blog.doyensec.com/2020/04/30/polymorphic-images-for-xss.html
 - https://checkmarx.com/blog/securing-open-source-solutions-a-study-of-osticket-vulnerabilities/
+- https://medium.com/@reiss.r/stop-scratching-the-surface-and-hack-the-dependencies-fe4c26cd8ea

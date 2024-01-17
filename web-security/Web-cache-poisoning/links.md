@@ -1,3 +1,4 @@
 - https://mazoka777.medium.com/how-i-hacked-all-zendesk-sites-265-000-site-by-one-line-c6b6485a7a6
 - https://jsecu.github.io/2021/02/21/poisoning/
 - https://galnagli.com/Cache_Poisoning/
+- https://www.tldr.engineering/how-i-found-and-fixed-a-vulnerability-in-python/

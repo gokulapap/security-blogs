@@ -13,3 +13,4 @@
 - https://infosecwriteups.com/how-i-could-have-hacked-your-medium-account-by-phishing-your-fb-twitter-google-credentials-d53bf7096da7
 - https://infosecwriteups.com/a-swag-for-a-open-redirect-google-dork-bug-bounty-2143b943f34e
 - https://medium.com/@abhinavsecondary/how-i-find-open-redirect-in-facebook-7e7aeb89535d
+- https://www.yassineaboukir.com/blog/how-I-discovered-a-1000$-open-redirect-in-facebook/

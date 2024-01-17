@@ -47,3 +47,4 @@
 - https://mizu.re/post/how-i-was-able-to-rick-roll-every-users-on-root-me.org
 - https://blog.compass-security.com/2018/12/xss-worm-a-creative-use-of-web-application-vulnerability/
 - https://medium.com/@sudhanshur705/bug-hunting-journey-of-2019-95e5190aca7c
+- https://positive.security/blog/dompdf-rce

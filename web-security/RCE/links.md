@@ -51,3 +51,4 @@
 - https://0day.click/recipe/discourse-sns-rce/
 - https://medium.com/@iamdevansharya/outdated-php-version-leads-to-rce-380fb4db32f4
 - https://xcellerator.github.io/posts/tetsuji/
+- https://www.akamai.com/blog/security-research/rpc-runtime-exploring-three-vulnerabilities

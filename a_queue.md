@@ -432,7 +432,6 @@
 - https://handbook.volkis.com.au/assets/doc/Volkis%20-%20Anonymous%20Client%20-%20Penetration%20Test%20May%202023.pdf, Internal-pentest
 - https://medium.com/@ibederov_en/find-out-the-ip-address-through-a-call-to-telegram-a899441b1bac, Privacy-issue
 - https://medium.com/@ar_hawk/utilizing-historical-urls-of-an-organization-to-successfully-execute-sql-queries-blind-sqli-3526d9c3863d, Blind-SQL-injection
-- https://www.akamai.com/blog/security-research/rpc-runtime-exploring-three-vulnerabilities, RCE
 - https://occamsec.com/exploit-for-cve-2023-2825/, Path-traversal
 - https://www.zerodayinitiative.com/blog/2023/5/24/exploiting-the-sonos-one-speaker-three-different-ways-a-pwn2own-toronto-highlight, Memory-corruption
 - https://checkmarx.com/blog/ericsson-sensitive-data-exposure-via-trace-axd/, Information-disclosure
@@ -1891,7 +1890,6 @@
 - https://www.netspi.com/blog/technical/cloud-penetration-testing/abusing-azure-hybrid-workers-for-privilege-escalation/, Privilege-escalation
 - https://medium.com/@vamshivaran110/my-first-blind-sql-injection-7db4b5e5c66d, SQL-injection
 - https://shahjerry33.medium.com/parameter-pollution-zero-day-3feb86ee8a02, HTTP-parameter-pollution
-- https://positive.security/blog/dompdf-rce, XSS
 - https://github.com/justinsteven/advisories/blob/main/2022_git_buried_bare_repos_and_fsmonitor_various_abuses.md, RCE
 - https://infosecwriteups.com/how-i-was-able-to-find-50-cross-site-scripting-xss-security-vulnerabilities-on-bugcrowd-public-ba33db2b0ab1, XSS
 - https://ssd-disclosure.com/ssd-advisory-exchange-server-getwacinfo-information-disclosure-vulnerability/, XXE
@@ -2106,7 +2104,6 @@
 - https://3bodymo.medium.com/xss-through-image-proxy-using-svg-image-49cdf955cf4f, XSS
 - https://infosecwriteups.com/massive-users-account-takeovers-chaining-vulnerabilities-to-idor-ea4e1b6407d2, Authentication-bypass
 - https://medium.com/@mamunwhh/information-disclosure-leads-to-sensitive-credential-35e779f6f4db, Information-disclosure
-- https://www.tldr.engineering/how-i-found-and-fixed-a-vulnerability-in-python/, Web-cache-poisoning
 - https://youst.in/posts/cache-poisoning-at-scale/, Web-cache-poisoning
 - https://positive.security/blog/ms-teams-1-feature-4-vulns, SSRF
 - https://janmuhammadzaidi.medium.com/how-i-was-able-to-bypass-waf-and-find-the-origin-ip-and-a-few-sensitive-files-fc445180adb7, WAF-bypass
@@ -3150,7 +3147,6 @@
 - https://weizman.github.io/2020/09/02/csp-vuln/, CSP-bypass
 - https://www.pentestpartners.com/security-blog/cloud-firewall-management-api-snafu-put-500k-sonicwall-customers-at-risk/, IDOR
 - https://medium.com/stolabs/denial-of-service-in-the-protection-service-provided-by-avast-security-premium-284dfd5ab40, DoS
-- https://medium.com/@reiss.r/stop-scratching-the-surface-and-hack-the-dependencies-fe4c26cd8ea, Stored-XSS
 - https://medium.com/@rohitcoder/page-shops-with-a-hidden-product-in-featured-product-section-which-could-be-controlled-by-d0fd58c4cc8b, Logic-flaw
 - https://medium.com/bugbountywriteup/unhiding-the-hidden-2ef44192c10b, Client-side-enforcement-of-server-side-security
 - https://medium.com/bugbountywriteup/the-importance-of-keeping-up-to-date-or-how-i-found-an-interesting-bug-thanks-to-a-tweet-2ec6ba9a5e1e, Stored-XSS
@@ -4896,7 +4892,6 @@
 - https://blog.zimperium.com/telegram-hack/, Privacy-issue
 - https://buer.haus/2015/02/03/google-com-mobile-feedback-url-redirect-regexvalidation-flaw/, Open-redirect
 - https://buer.haus/2015/01/15/yahoo-root-access-sql-injection-tw-yahoo-com/, SQL-injection
-- https://www.yassineaboukir.com/blog/how-I-discovered-a-1000$-open-redirect-in-facebook/, Open-redirect
 - https://quitten.github.io/Aliexpress/, XSS
 - https://josipfranjkovic.blogspot.com/2014/12/reading-local-files-from-facebooks.html, LFI
 - https://www.rcesecurity.com/2014/11/google-bug-bounty-nice-catch-on-google-cloud-platform-live, Reflected-XSS
