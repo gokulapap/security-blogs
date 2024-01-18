@@ -1131,7 +1131,6 @@
 - https://mu00d8.me/paper/bernhard22jitpicking.pdf, Browser-hacking
 - https://medium.com/@nireshpandian19/my-first-account-takeover-fd5570f09c0a, Account-takeover
 - https://hdwsec.fr/blog/20221109-netgear/, Memory-corruption
-- https://medium.com/@nxenon/some-tips-to-finding-idors-more-easily-and-fixing-them-2c9d0c58bb4a, IDOR
 - https://maordayanofficial.medium.com/comodo-from-git-to-takeover-803ffb8b57e3, git-folder-disclosure
 - https://breakdev.org/zip-motw-bug-analysis/, Local-Privilege-Escalation
 - https://medium.com/@mehdi.alouache/stormshield-sns-cleartext-password-leak-b436ef312fe9, Use-of-GET-request-Method-With-sensitive-query-strings
@@ -1342,7 +1341,6 @@
 - https://medium.com/@nynan/how-i-didnt-get-an-rce-in-a-200-billion-company-bug-bounty-377afb2fb4ec, RCE
 - https://hesec.de/posts/bbh-csrf/, CSRF
 - https://medium.com/@cyberali/contentful-access-token-disclosure-in-android-apk-ace5f7bdf98, Information-disclosure
-- https://0x01alka.medium.com/ssrf-g-vrp-for-5000-d08c8f515c95, SSRF
 - https://rashahacks.com/privacy-violation-in-chat-system/, Privacy-issue
 - https://medium.com/@zer0d/how-i-found-3-bug-bounties-in-a-day-c82fe023716e, Session-expiration-issue
 - https://medium.com/@Parag_Bagul/how-i-was-able-to-bypass-philips-authentication-c3bd3e1df9ff, Outdated-component-with-a-known-vulnerability
@@ -1650,7 +1648,6 @@
 - https://portswigger.net/research/widespread-prototype-pollution-gadgets, Prototype-pollution
 - https://www.gosecure.net/blog/2022/06/21/xss-vulnerability-in-ibm-content-navigator-cve-2020-4757/, XSS
 - https://eaton-works.com/2022/06/20/hacking-into-the-worldwide-jacuzzi-smarttub-network/, SPA
-- https://7odamo.medium.com/response-manipulation-in-the-admin-panel-lead-to-pii-leakage-2926b89ea2d0, Account-takeover
 - https://medium.com/@leomsec/every-xss-is-different-c98528fee5e0, XSS
 - https://codewithvamp.medium.com/account-takeover-by-otp-bypass-ec0cff67f516, Information-disclosure
 - https://medium.com/@sazouki/how-i-hacked-one-of-the-biggest-airline-in-the-world-e7810dc43791, IDOR
@@ -3308,7 +3305,6 @@
 - https://medium.com/@minometidji/how-i-bypassed-open-redirect-and-i-have-get-reward-from-yandex-5df5de836718, Open-redirect
 - https://web.archive.org/web/20200627125016/https://medium.com/@s3c/hacked-worldwide-zoom-users-fceb31868c2d, OAuth
 - https://web.archive.org/web/20200626065913/https://medium.com/@saugatpokharel/able-to-create-hidden-comment-by-blocking-an-admin-facebook-bug-bounty-2020-c62bd10712f, Logic-flaw
-- https://medium.com/@abhishake100/bug-bounty-in-lockdown-sqli-and-business-logic-98ab8cb5f661, SQL-injection
 - https://medium.com/bugbountywriteup/all-about-getting-first-bounty-with-idor-849db2828c8, IDOR
 - https://medium.com/@mase289/a-tale-of-my-first-ever-full-ssrf-bug-4fe71a76e9c4, SSRF
 - https://jub0bs.com/posts/2020-06-23-ssrf/, SSRF
@@ -3439,7 +3435,6 @@
 - https://web.archive.org/web/20210117211634/https://kurtikleiton.medium.com/blind-ssrf-on-coda-io-c7063f304455, SSRF
 - https://ysamm.com/?p=444, Information-disclosure
 - https://ysamm.com/?p=437, Information-disclosure
-- https://pankajupadhyay.in/2020/05/01/ok-google-bypass-flag-secure/, Authorization-flaw
 - https://medium.com/@rooterkaustubh/the-story-of-blind-ssrf-leads-to-internal-host-discovery-ee65b9b91e23, SSRF
 - https://blog.sambal0x.com/2020/04/30/Hacking-razer-pay-ewallet-app.html, IDOR
 - https://medium.com/sud0root/bug-bounty-writeups-exploiting-sql-injection-vulnerability-20b019553716, SQL-injection

@@ -24,3 +24,4 @@
 - https://ninadmathpati.com/how-i-was-able-to-bypass-the-current-password/
 - https://medium.com/@y.shahinzadeh/1-click-account-takeover-in-virgool-io-a-nice-case-study-6bfc3cb98ef2
 - https://web.archive.org/web/20210706150728/https://blog.assetnote.io/2021/06/27/uber-account-takeover-voicemail/
+- https://7odamo.medium.com/response-manipulation-in-the-admin-panel-lead-to-pii-leakage-2926b89ea2d0

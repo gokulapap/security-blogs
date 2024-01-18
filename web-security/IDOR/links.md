@@ -51,3 +51,4 @@
 - https://guptashubham.com/idor-execute-javascript-into-anyone-account/
 - https://0xprial.com/idor-leads-to-leak-any-uber-eats-restaurant-analytics/
 - https://medium.com/@vickieli/all-about-idor-attacks-64c4203b518e
+- https://medium.com/@nxenon/some-tips-to-finding-idors-more-easily-and-fixing-them-2c9d0c58bb4a
