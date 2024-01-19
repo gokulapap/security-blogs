@@ -850,7 +850,6 @@
 - https://medium.com/@DrakenKun/how-i-was-able-to-find-4-cross-site-scripting-xss-on-vulnerability-disclosure-program-e2f39199ae16, XSS
 - https://ysamm.com/?p=779, DOM-XSS
 - https://ysamm.com/?p=777, Account-takeover
-- https://shells.systems/froxlor-v2-0-6-remote-command-execution-cve-2023-0315/, RCE
 - https://akashc99.medium.com/bypassing-account-lockout-through-password-reset-functionality-8ff5c256f380, Rate-limiting-bypass
 - https://hacksys.io/blogs/adobe-reader-resetform-cagg-rce-cve-2023-21608, Memory-corruption
 - https://blog.projectdiscovery.io/php-http-server-source-disclosure/, Source-code-disclosure
@@ -953,7 +952,6 @@
 - https://bergee.it/blog/how-i-found-multiple-critical-bugs-in-red-bull/, Authentication-bypass
 - https://cems.fun/2022/12/26/CVE-2017-8758.html, XSS
 - https://sharanthehunter.medium.com/authentication-bypass-in-nexus-manager-version-3-37-3-02-712f0bdb2fb4, Components-with-known-vulnerabilities
-- https://medium.com/@mares.viktor/unusual-403-bypass-to-a-full-website-takeover-external-pentest-4970c788c6bf, 403-bypass
 - https://medium.com/@tobydavenn/bypassing-ssrf-protections-45e5e3ac31e9, SSRF
 - https://infosecwriteups.com/bypass-apples-redirection-process-with-the-dot-character-c47d40537202, Open-redirect
 - https://infosecwriteups.com/crlf-injection-xxx-how-was-it-possible-for-me-to-earn-a-bounty-with-the-cloudflare-waf-f581506f97f5, CRLF-injection
@@ -2484,7 +2482,6 @@
 - https://krevetk0.medium.com/credential-stuffing-in-bug-bounty-hunting-7168dc1d3153, Credential-stuffing
 - https://aidilarf.medium.com/380-xss-stored-in-bigo-bug-bounty-program-a8b9529adcc4, XSS
 - https://vijetareigns.medium.com/forced-browsing-to-access-admin-panel-214a7defa2a5, Forced-browsing
-- https://feed.bugs.xdavidhu.me/bugs/0010, MiTM
 - https://rakesh-thodupunoori.medium.com/part-2-dive-into-zoom-applications-1b01091345c1, CSRF
 - https://medium.com/macoclock/apple-security-bounty-a-personal-experience-fe9a57a81943, Permission-bypass
 - https://tomorrowisnew.com/posts/broken-access-control-bug-bypassing-403-s-by-finding-another-endpoint-that-do-the-same-thing/, Broken-Access-Control
@@ -4115,7 +4112,6 @@
 - https://ysamm.com/?p=214, Authorization-flaw
 - https://medium.com/@abaykandotcom/clickjacking-on-google-cse-6636bba72d20, Clickjacking
 - https://medium.com/@mr_hacker/csrf-bypass-using-cross-frame-scripting-c349d6f33eb6, CSRF
-- https://mustafakemalcan.com/asus-rce-vulnerability-on-rma-asus-europe-eu/, Unrestricted-file-upload
 - https://medium.com/@pig.wig45/setting-up-gitrob-and-using-it-to-find-leaking-repository-of-an-employee-in-a-hackerone-private-e4c40da1bc85, Information-disclosure
 - https://ysamm.com/?p=158, Information-disclosure
 - https://ysamm.com/?p=171, IDOR
@@ -4870,7 +4866,6 @@
 - https://web.archive.org/web/20210511011807/https://blog.evanricafort.com/2015/12/local-file-xss-vulnerability-in.html, XSS
 - https://blog.evanricafort.com/2015/12/arbitary-file-upload-vulnerability-in.html, Unrestricted-file-upload
 - https://web.archive.org/web/20180322133921/http://codel10n.com/how-to-hack-payu-buy-10x-more-same-price/, RCE
-- https://ahussam.me/Cloudflare-xss/, XSS
 - https://maustin.net/2015/11/12/hipchat_rce.html, XSS
 - https://medium.com/@r0t1v/open-redirect-in-linkedin-and-yahoo-a3ffd2a9cc48, Open-redirect
 - http://mahmoudsec.blogspot.com/2015/09/how-i-found-xss-vulnerability-in-google.html, XSS

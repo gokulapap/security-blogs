@@ -6,3 +6,4 @@
 - https://cooltrickshome.blogspot.com/2018/11/spoofing-file-extensions-on-hackerone.html
 - https://medium.com/@jonathanbouman/how-i-hacked-apple-com-unrestricted-file-upload-bcda047e27e3
 - https://medium.com/bugbountywriteup/how-i-could-have-hacked-iit-guwahatis-website-52dff319b056
+- https://mustafakemalcan.com/asus-rce-vulnerability-on-rma-asus-europe-eu/
