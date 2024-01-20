@@ -7,3 +7,4 @@
 - https://medium.com/@jonathanbouman/how-i-hacked-apple-com-unrestricted-file-upload-bcda047e27e3
 - https://medium.com/bugbountywriteup/how-i-could-have-hacked-iit-guwahatis-website-52dff319b056
 - https://mustafakemalcan.com/asus-rce-vulnerability-on-rma-asus-europe-eu/
+- https://medium.com/@escapesequence89/rce-via-image-upload-functionality-925c902943b8

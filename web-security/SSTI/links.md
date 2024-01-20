@@ -1,2 +1,3 @@
 - https://hx01.me/Abusing_Data_Protection_Laws_For_D0xing_and_Account_Takeovers.pdf
 - https://medium.com/vault-infosec/how-i-hacked-50-companies-in-6-hrs-7ec0368a9196
+- https://markus-krell.de/itop-template-injection-inside-customer-portal/

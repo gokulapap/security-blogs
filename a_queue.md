@@ -1870,7 +1870,6 @@
 - https://www.jomar.fr/posts/2022/basic_recon_to_rce_ii/, RCE
 - https://dhakalbibek.medium.com/story-about-more-than-3-5-million-pii-leakage-in-yahoo-3a530210dcc6, IDOR
 - https://cupc4k3.co/caso-de-uso-não-autorizados-de-chave-da-api-do-google-maps-89498752cf7d, Information-disclosure
-- https://markus-krell.de/itop-template-injection-inside-customer-portal/, SSTI
 - https://ajpc500.github.io/macos/Targeting-Visual-Studio-Code-For-macOS/, Local-Privilege-Escalation
 - https://wahaz.medium.com/broken-authentication-and-idor-at-redacted-646de8d508e6, IDOR
 - https://naveenroy008.medium.com/broken-session-control-leads-to-access-private-videos-using-the-shared-link-even-after-revoking-the-84e31ac16fe4, Broken-Access-Control
@@ -1882,7 +1881,6 @@
 - https://medium.com/@interc3pt3r/for-the-first-bounty-it-takes-a-few-challenging-months-but-only-a-few-days-for-the-second-7b53259b0199, Old-components-with-known-vulnerabilities
 - https://yajdesu.medium.com/bypass-confirmation-to-add-payment-method-df2772a36561, Email-verification-bypass
 - https://www.zerodayinitiative.com/blog/2022/3/16/abusing-arbitrary-file-deletes-to-escalate-privilege-and-other-great-tricks, Local-Privilege-Escalation
-- https://www.netspi.com/blog/technical/cloud-penetration-testing/abusing-azure-hybrid-workers-for-privilege-escalation/, Privilege-escalation
 - https://medium.com/@vamshivaran110/my-first-blind-sql-injection-7db4b5e5c66d, SQL-injection
 - https://shahjerry33.medium.com/parameter-pollution-zero-day-3feb86ee8a02, HTTP-parameter-pollution
 - https://github.com/justinsteven/advisories/blob/main/2022_git_buried_bare_repos_and_fsmonitor_various_abuses.md, RCE
@@ -3270,7 +3268,6 @@
 - https://bugs.chromium.org/p/chromium/issues/detail?id=1040755, Universal-XSS
 - https://medium.com/@yaala/make-featured-product-in-any-video-ec2bd4816ae4, IDOR
 - https://medium.com/@swaysthinking/my-first-bug-blind-ssrf-through-profile-picture-upload-72f00fd27bc6, SSRF
-- https://medium.com/@escapesequence89/rce-via-image-upload-functionality-925c902943b8, Unrestricted-file-upload
 - https://blog.easysiem.com/application-security/case-study-i-browser-anomaly-with-facebook-apps-1500usd, Authorization-flaw
 - https://medium.com/@alyanwar/taking-over-files-in-a-chat-idor-in-microsoft-teams-e5289c2efd0, IDOR
 - https://medium.com/@daoud_youssef/from-host-header-injection-to-sql-injection-e7c61a61b575, Host-header-injection
@@ -3501,7 +3498,6 @@
 - https://medium.com/bugbountywriteup/reflected-xss-on-microsoft-com-subdomains-4bdfc2c716df, Reflected-XSS
 - https://medium.com/the-volatile-triad/hacking-always-check-the-cross-domain-policy-369940372de3, SOP-bypass
 - https://honoki.net/2020/03/18/xxe-scape-through-the-front-door-circumventing-the-firewall-with-http-request-smuggling/, XXE
-- https://medium.com/@aniltom/where-is-my-train-tracking-to-hacking-d388e4b97225, Reflected-XSS
 - https://medium.com/@parasarora06/how-i-was-able-to-verify-any-contact-number-for-my-account-57c939dab202, OTP-bypass
 - https://web.archive.org/web/20200317103909/https://medium.com/sourav-sahana/razer-mobile-pin-verification-bypass-1k-bug-2eb1485796b3, OTP-bypass
 - https://medium.com/@ashketchum/how-i-earned-1750-at-shopify-bug-bounty-program-ca7821990d08, XSS
@@ -4910,7 +4906,6 @@
 - http://blog.shashank.co/2013/12/heroku-directory-transversal.html, Path-traversal
 - http://manuel-sousa.blogspot.com/2013/11/xss-google-groups-groupsgooglecom.html, Reflected-XSS
 - http://blog.shashank.co/2013/11/oracle-xss.html, XSS
-- https://whitton.io/articles/instagrams-one-click-privacy-switch/, CSRF
 - http://blog.shashank.co/2013/10/nokia-email-app-pwnage.html, XSS
 - http://blog.shashank.co/2013/10/lfi-in-nokia-maps.html, LFI
 - https://josipfranjkovic.blogspot.com/2013/11/facebook-bug-bounty-secondary-damage.html, CSRF
