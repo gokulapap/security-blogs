@@ -1,1 +1,2 @@
 - https://ysamm.com/?p=691
+- https://wwws.nightwatchcybersecurity.com/2021/12/30/whatsapp-for-android-retains-deleted-contacts-locally/

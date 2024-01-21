@@ -4,3 +4,4 @@
 - https://jakearchibald.com/2018/i-discovered-a-browser-bug/
 - https://www.inputzero.io/2021/04/play-the-opera-please.html
 - https://microsoftedge.github.io/edgevr/posts/memory-corruption-vulnerabilities-in-edge/
+- https://blog.lbherrera.me/posts/appcache-forgotten-tales/

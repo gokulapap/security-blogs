@@ -180,7 +180,6 @@
 - https://medium.com/@rootkid/payment-gateway-bypass-on-government-domain-8e0135c34185, misc
 - https://medium.com/@4bdoz/access-more-than-10k-premium-api-keys-python-exploit-c728fdf5eae, automation
 - https://medium.com/@kenkousen/bypassing-the-chain-of-command-d6438d6b4db2, bypass
-- https://medium.com/@bugtest252/how-i-got-rewarded-300-euro-just-by-simple-google-dorking-under-2-mins-75c679f9da68, recon
 - https://medium.com/@infosecwriteups/40-000-bounty-authentication-bypass-techniques-cache-poisoning-idors-password-recovery-2ec097380c57, cache
 - https://medium.com/@thexssrat/subdomain-flyover-and-manual-exploration-of-the-results-15c69d509091, STO
 - https://medium.com/@orkhan_alibayli/subdomain-takeover-95646de1f436, STO
@@ -2082,7 +2081,6 @@
 - https://rv09.medium.com/my-first-google-hof-b66c54f6acfd, Broken-Access-Control
 - https://faizanwrites.medium.com/heres-how-i-could-read-anyone-s-iphone-metrics-remotely-28459943b898, Information-disclosure
 - https://www.seblu.de/2021/12/iap-bypass.html, Authorization-flaw
-- https://wwws.nightwatchcybersecurity.com/2021/12/30/whatsapp-for-android-retains-deleted-contacts-locally/, Privacy-issue
 - https://medium.com/@sam0-0/how-i-am-able-to-crash-anyones-mozilla-firefox-browser-by-sending-an-email-a12563cc8d79, DoS
 - https://ndevtk.github.io/writeups/2021/12/30/cloud-shell-xss/, XSS
 - https://servicenger.com/mobile/idor-add-or-remove-the-linked-publications-from-author-publisher-settings-facebook-bug-bounty/, IDOR
@@ -2563,7 +2561,6 @@
 - https://notifybugme.medium.com/escalating-ssrf-to-accessing-all-user-pii-information-by-aws-metadata-aabcfd5a3e0e, SSRF
 - https://justintaft.com/blog/2021/06/01/cve-2021-29084-synology-crlf-unauthenticated-file-downloads, CRLF-injection
 - https://infosecwriteups.com/facebook-page-admin-disclosure-7d8893a4a674, Information-disclosure
-- https://blog.lbherrera.me/posts/appcache-forgotten-tales/, Browser-hacking
 - https://notifybugme.medium.com/escalating-ssrf-to-accessing-all-user-pii-information-by-aws-metadata-aabcfd5a3e0e, SSRF
 - https://github.com/champtar/blog/tree/main/runc-symlink-CVE-2021-30465, Kubernetes
 - https://github.com/champtar/blog/tree/main/Metadata_MITM_root_EKS_GKE, Kubernetes
@@ -3716,7 +3713,6 @@
 - https://blog.teddykatz.com/2019/11/12/github-actions-dos.html, DoS
 - https://fletchto99.dev/2019/november/slack-vulnerability/, CSS-injection
 - https://geleta.eu/2019/my-first-ssrf-using-dns-rebinfing/, SSRF
-- https://medium.com/clouddevops/bugbounty-how-i-cracked-2fa-two-factor-authentication-with-simple-factor-brute-force-a1c0f3a2f1b4, MFA-bypass
 - https://medium.com/@heinthantzin/a-simple-post-auth-bypass-leads-to-unauthorized-web-server-access-483c053c110e, Default-credentials
 - https://web.archive.org/web/20200604001225/https://hackking.net/threads/how-i-hacked-dutch-government-in-5-minutes-twitter-account-takeover.20/, Broken-link-hijacking
 - https://jinone.github.io/bugbounty-a-simple-ssrf/, SSRF
@@ -4023,7 +4019,6 @@
 - https://medium.com/@mrnikhilsri/unauthenticated-account-takeover-through-http-leak-33386bb0ba0b, HTML-injection
 - https://web.archive.org/web/20191218195406/https://medium.com/@sherazkhalid_60362/account-takeover-by-chaining-two-vulnerabilities-bb447753b089, CSRF
 - https://medium.com/@jayateerthag/multiple-xss-in-skype-com-81d65919ed24, XSS
-- https://medium.com/@nuraalamdipu/spokeo-bug-bounty-experience-3f5caba52416, XSS
 - https://www.rcesecurity.com/2019/04/dell-kace-k1000-remote-code-execution-the-story-of-bug-k1-18652/, RCE
 - https://medium.com/@daniel.thatcher/obtaining-xss-using-moodle-features-and-minor-bugs-2035665989cc, Login-CSRF
 - https://ninadmathpati.com/how-i-got-a-trip-to-amsterdam-through-bug-bounty/, Bruteforce

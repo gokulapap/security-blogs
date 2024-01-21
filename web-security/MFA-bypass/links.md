@@ -3,3 +3,4 @@
 - https://medium.com/@mohamedtaha_42562/how-i-earned-by-bypassing-2fa-b5487942a86d
 - https://infosecwriteups.com/how-i-couldve-bypassed-the-2fa-security-of-instagram-once-again-43c05cc9b755
 - https://medium.com/@arthbajpai277/2fa-bypass-by-changing-request-method-to-delete-500fd0ed12b8
+- https://medium.com/clouddevops/bugbounty-how-i-cracked-2fa-two-factor-authentication-with-simple-factor-brute-force-a1c0f3a2f1b4

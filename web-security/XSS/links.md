@@ -49,3 +49,4 @@
 - https://medium.com/@sudhanshur705/bug-hunting-journey-of-2019-95e5190aca7c
 - https://positive.security/blog/dompdf-rce
 - https://ahussam.me/Cloudflare-xss/
+- https://medium.com/@nuraalamdipu/spokeo-bug-bounty-experience-3f5caba52416
