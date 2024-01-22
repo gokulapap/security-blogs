@@ -42,3 +42,5 @@
 - https://palant.info/2022/03/01/skype-extension-all-functionality-broken-still-exploitable/
 - https://medium.com/@Wh11teW0lf/p1-vulnerability-in-60-seconds-85ef93d42b99
 - https://medium.com/@kandar.souvik6/feedback-analyzer-exploitation-dc44a91b7fcc
+- https://medium.com/@yogendra_h1/sensitive-data-exposure-by-requesting-a-resource-with-a-different-content-type-27412a9d6e2f
+- https://medium.com/@alexali5080/how-i-was-able-to-takeover-accounts-of-an-earning-app-c22d07d8ce9

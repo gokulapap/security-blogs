@@ -928,7 +928,6 @@
 - https://samcurry.net/web-hackers-vs-the-auto-industry/, Account-takeover
 - https://acut3.github.io/bug-bounty/2023/01/03/fetch-diversion.html, DOM-XSS
 - https://medium.com/@sid0krypt/vue-js-reflected-xss-fae04c9872d2, Reflected-XSS
-- https://trufflesecurity.com/blog/of-cors/index.html, CORS-misconfiguration
 - https://servicenger.com/mobile/instagram-vulnerability-turn-off-message-requests-deeplink/, Insecure-deeplink
 - https://kailashbohara.com.np/blog/2023/01/02/exploiting-thousands-of-domains-for-XSS/, XSS
 - https://yaseenzubair.medium.com/web-cache-poisoning-worth-it-e7c6d88797b1, Web-cache-poisoning
@@ -1643,7 +1642,6 @@
 - https://palant.info/2020/06/22/exploiting-bitdefender-antivirus-rce-from-any-website/, RCE
 - https://medium.com/@tobydavenn/1500-of-broken-access-controls-503d8a5f56f5, Broken-Access-Control
 - https://portswigger.net/research/widespread-prototype-pollution-gadgets, Prototype-pollution
-- https://www.gosecure.net/blog/2022/06/21/xss-vulnerability-in-ibm-content-navigator-cve-2020-4757/, XSS
 - https://eaton-works.com/2022/06/20/hacking-into-the-worldwide-jacuzzi-smarttub-network/, SPA
 - https://medium.com/@leomsec/every-xss-is-different-c98528fee5e0, XSS
 - https://codewithvamp.medium.com/account-takeover-by-otp-bypass-ec0cff67f516, Information-disclosure
@@ -3847,7 +3845,6 @@
 - https://ysamm.com/?p=314, IDOR
 - https://ysamm.com/?p=281, Authorization-flaw
 - https://web.archive.org/web/20191219015349/https://rhys.io/post/rce-in-ruby-using-mustache-templates, RCE
-- https://medium.com/@dekeeu/reposted-2017-linkedin-hackers-experience-8465c1848c88, Stored-XSS
 - https://medium.com/@dekeeu/reposted-2019-hacking-youtube-for-fun-and-profit-8685dd475e30, Authorization-flaw
 - https://web.archive.org/web/20210124152317/https://whitehathaji.blogspot.com/2019/07/paypal-bug-10k-all-secondary-users.html, IDOR
 - https://web.archive.org/web/20200928234656/https://www.mohamedharon.com/2019/07/sql-injection-in-private-sitecomloginphp.html, SQL-injection
@@ -4305,7 +4302,6 @@
 - http://10degres.net/aws-takeover-through-ssrf-in-javascript/, SSRF
 - https://medium.com/@saamux/applying-a-small-bypass-to-steal-facebook-session-tokens-in-uber-5b9638b7a18c, XSS
 - https://blog.securityevaluators.com/collecting-shells-by-the-sea-of-nas-vulnerabilities-155a0bd7c525, OS-command-injection
-- https://medium.com/@alexali5080/how-i-was-able-to-takeover-accounts-of-an-earning-app-c22d07d8ce9, Information-disclosure
 - https://ls-la.fyi/2018/09/28/subway-xposed/, Logic-flaw
 - https://medium.com/@justmorpheus/idor-content-spoofing-and-url-redirection-via-unsubscribe-email-in-confluent-1fa7398cfe7a, IDOR
 - https://medium.com/@sivakrishnasamireddi/just-another-tale-of-severe-bugs-on-a-private-program-405870b03532, Open-redirect
@@ -4643,7 +4639,6 @@
 - https://blog.intothesymmetry.com/2017/10/slack-saml-authentication-bypass.html, Authentication-bypass
 - https://medium.com/@th3g3nt3l/how-i-found-an-ssrf-in-yahoo-guesthouse-recon-wins-8722672e41d4, SSRF
 - https://kciredor.com/taking-over-every-ad-on-olx-automated-an-idor-story.html, IDOR
-- https://medium.com/@yogendra_h1/sensitive-data-exposure-by-requesting-a-resource-with-a-different-content-type-27412a9d6e2f, Information-disclosure
 - https://medium.com/@neerajedwards/how-i-hacked-all-the-redact-agents-accounts-ec165b7c514a, Default-credentials
 - https://medium.com/@neerajedwards/reading-internal-files-using-ssrf-vulnerability-703c5706eefb, SSRF
 - https://web.archive.org/web/20180704183048/http://stamone-bug-bounty.blogspot.com/2017/10/dom-xss-auth_14.html, DOM-XSS

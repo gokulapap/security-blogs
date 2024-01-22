@@ -50,3 +50,4 @@
 - https://positive.security/blog/dompdf-rce
 - https://ahussam.me/Cloudflare-xss/
 - https://medium.com/@nuraalamdipu/spokeo-bug-bounty-experience-3f5caba52416
+- https://www.gosecure.net/blog/2022/06/21/xss-vulnerability-in-ibm-content-navigator-cve-2020-4757/
