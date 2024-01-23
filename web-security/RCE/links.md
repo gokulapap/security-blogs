@@ -53,3 +53,4 @@
 - https://xcellerator.github.io/posts/tetsuji/
 - https://www.akamai.com/blog/security-research/rpc-runtime-exploring-three-vulnerabilities
 - https://shells.systems/froxlor-v2-0-6-remote-command-execution-cve-2023-0315/
+- https://www.jomar.fr/posts/2022/basic_recon_to_rce_iii/

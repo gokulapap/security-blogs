@@ -1101,7 +1101,6 @@
 - https://gonzxph.medium.com/account-takeover-worth-of-2500-e643661f94e9, Account-takeover
 - https://medium.com/@hf6452/a-story-of-a-strange-stored-idor-b6f2769bb6cb, IDOR
 - https://www.rapid7.com/blog/post/2022/11/16/cve-2022-41622-and-cve-2022-41800-fixed-f5-big-ip-and-icontrol-rest-vulnerabilities-and-exposures/, CSRF
-- https://www.bentkowski.info/2022/11/google-roulette/, SOP-bypass
 - https://www.zerodayinitiative.com/blog/2022/11/14/control-your-types-or-get-pwned-remote-code-execution-in-exchange-powershell-backend, RCE
 - https://www.oxeye.io/blog/remote-code-execution-in-spotifys-backstage, RCE
 - https://portswigger.net/research/stealing-passwords-from-infosec-mastodon-without-bypassing-csp, HTML-injection
@@ -1198,7 +1197,6 @@
 - https://boschko.ca/tenda_ac1200_router/, OS-command-injection
 - https://blog.blacklanternsecurity.com/p/yet-another-telerik-ui-revisit, Cryptographic-issues
 - https://blog.doyensec.com/2022/10/18/cloudsectidbit-dataimport.html, Cloud
-- https://www.jomar.fr/posts/2022/basic_recon_to_rce_iii/, RCE
 - https://www.synacktiv.com/en/publications/php-filters-chain-what-is-it-and-how-to-use-it.html, Insecure-deserialization
 - https://marcin-wolak.medium.com/cve-2022-24082-rce-in-the-pega-platform-discovery-remediation-technical-details-long-live-69efb5437316, RCE
 - https://securityintelligence.com/posts/analysis-rce-vulnerability-cobalt-strike/, RCE
@@ -1444,7 +1442,6 @@
 - https://doyensec.com/resources/Doyensec_Advisory_SmokescreenGoProxy_Q12022.pdf, DoS
 - https://accessvector.net/2022/freebsd-aio-lpe, Memory-corruption
 - https://xthemo.medium.com/open-redirect-at-nvidia-62343b45f85b, Open-redirect
-- https://labs.nettitude.com/blog/cve-2022-30211-windows-l2tp-vpn-memory-leak-and-use-after-free-vulnerability/, Memory-corruption
 - https://www.immersivelabs.com/blog/we-discovered-major-vulnerabilities-in-control-web-panel-heres-how-we-found-them/, Path-traversal
 - https://infosecwriteups.com/salesforce-bug-hunting-to-critical-bug-b5da44789d3, Information-disclosure
 - https://sagarsajeev.medium.com/business-logic-vulnerability-via-idor-6d510f1caea9, IDOR
@@ -2239,7 +2236,6 @@
 - https://web.archive.org/web/20221128060608/https://wya.pl/2021/10/18/shells-and-soap-websphere-deserialization-to-rce/, RCE
 - https://irsl.medium.com/the-speckle-umbrella-story-part-2-fcc0193614ea, Information-disclosure
 - https://infosecwriteups.com/how-i-escalated-a-time-based-sql-injection-to-rce-bbf0d68cb398, SQL-injection
-- https://shahjerry33.medium.com/business-logic-errors-a-logic-destruction-477c4ebc824b, Logic-flaw
 - https://muhammad-aamir.medium.com/exploitation-of-files-download-parameters-to-create-potential-risk-of-malware-delivery-200-bug-e2bcce0e737, CSRF
 - https://lf.lc/vrp/203177829/, RCE
 - https://omespino.com/write-up-google-vrp-n-a-arbitrary-local-file-read-macos-via-a-tag-and-null-byte-in-google-earth-pro-desktop-app/, Local-File-Read
@@ -4894,7 +4890,6 @@
 - https://maustin.net/articles/2013-12/flickr_xss, XSS
 - https://whitton.io/articles/abusing-cors-for-an-xss-on-flickr/, XSS
 - http://blog.shashank.co/2013/12/heroku-directory-transversal.html, Path-traversal
-- http://manuel-sousa.blogspot.com/2013/11/xss-google-groups-groupsgooglecom.html, Reflected-XSS
 - http://blog.shashank.co/2013/11/oracle-xss.html, XSS
 - http://blog.shashank.co/2013/10/nokia-email-app-pwnage.html, XSS
 - http://blog.shashank.co/2013/10/lfi-in-nokia-maps.html, LFI

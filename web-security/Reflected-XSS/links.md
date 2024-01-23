@@ -15,3 +15,4 @@
 - https://infosecwriteups.com/rxss-inside-href-attribute-bypassing-lots-of-weird-checks-to-takeover-accounts-b4c8b4e70877
 - https://blog.it-securityguard.com/bugbounty-reflected-cross-site-scripting-at-paypal-com/
 - https://medium.com/@aniltom/where-is-my-train-tracking-to-hacking-d388e4b97225
+- http://manuel-sousa.blogspot.com/2013/11/xss-google-groups-groupsgooglecom.html
