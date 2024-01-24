@@ -1300,7 +1300,6 @@
 - https://www.trellix.com/en-us/about/newsroom/stories/threat-labs/tarfile-exploiting-the-world.html, Path-traversal
 - https://doyensec.com/resources/Doyensec_Advisory_TypeORM_Q32022.pdf, DoS
 - https://medium.com/@cyberali/mass-assignment-leading-to-pre-account-takeover-13041280a0d9, Mass-assignment
-- https://medium.com/cloud-security/parameters-in-lambda-functions-that-lead-to-xss-and-injection-1bc8e14fca6f, XSS
 - https://www.cidersecurity.io/blog/research/how-we-abused-repository-webhooks-to-access-internal-ci-systems-at-scale/, CICD
 - https://blog.sonarsource.com/onedev-remote-code-execution/, RCE
 - https://doyensec.com/resources/Doyensec_Apollo_Report_Q22022_v4_AfterRetest.pdf, DoS
@@ -2317,7 +2316,6 @@
 - https://vedanttekale20.medium.com/how-i-found-my-first-aem-related-bug-5ea901aad3f4, LFR
 - https://kattraxler.github.io/gcp/hacking/2021/09/10/gcp-org-policy-bypass-ai-notebooks.html, Authorization-flaw
 - https://sank-dahal.medium.com/how-i-was-able-to-delete-any-facebook-story-where-am-i-mentioned-or-tagged-10c38a50e55c, Logic-flaw
-- https://blog.chichou.me/2021/08/04/mistuned-part-i/, XSS
 - https://unit42.paloaltonetworks.com/azure-container-instances/, Container-takeover
 - https://wojciechregula.blog/post/change-home-directory-and-bypass-tcc-aka-cve-2020-27937/, Privacy-issue
 - https://github.com/justinsteven/advisories/blob/master/2021_github_actions_checkspelling_token_leak_via_advice_symlink.md, Logic-flaw
@@ -2374,7 +2372,6 @@
 - https://web.archive.org/web/20210826141443/https://medium.com/@navnz/retrieve-archived-stories-of-any-public-instagram-account-b3f5a26851f5, IDOR
 - https://robertheaton.com/bumble-vulnerability/, Information-disclosure
 - https://medium.com/@amnotacat/how-companies-need-to-widen-there-scopes-75ba19ac50c7, RCE
-- https://web.archive.org/web/20211207210720/https://securityflow.io/one-endpoint-two-account-takeovers/, Account-takeover
 - https://medium.com/@noob.assassin/5k-misconfigured-reset-password-that-leads-to-account-takeover-no-user-interaction-ato-e6a36b8ef183, Account-takeover
 - https://web.archive.org/web/20210825045217/https://medium.com/@imunissar786/how-i-was-able-to-steal-private-files-of-any-user-on-larksuite-c0e2757429e2, IDOR
 - https://www.upguard.com/breaches/power-apps, Information-disclosure
@@ -3180,7 +3177,6 @@
 - https://medium.com/@sudipshah_66336/my-2nd-4digit-bug-bounty-from-facebook-99baa727ed02, Logic-flaw
 - https://mazinahmed.net/blog/hacking-zoom/, Information-disclosure
 - https://blog.dixitaditya.com/bypassing-google-maps-api-key-restrictions/, Logic-flaw
-- https://medium.com/bugbountywriteup/reflected-xss-in-facebooks-mirror-websites-4384b4eb3e11, Reflected-XSS
 - https://medium.com/@zseano/the-feature-works-as-intended-but-whats-in-the-source-d29f9401bcf6, Information-disclosure
 - https://blog.dixitaditya.com/exploiting-jwt-lack-of-signature-verification, Account-takeover
 - https://jameshfisher.com/2020/08/06/smear-phishing-how-to-scam-an-android-user/, Phishing
@@ -4679,7 +4675,6 @@
 - https://medium.com/@armaanpathan/chain-the-vulnerabilities-and-take-your-report-impact-on-the-moon-csrf-to-html-injection-which-608fa6e74236, CSRF
 - https://medium.com/securityescape/getting-access-to-25k-employees-details-c085d18b73f0, Exposed-registration-page
 - https://sites.google.com/site/testsitehacking/10k-host-header, Authorization-flaw
-- https://bugbaba.blogspot.com/2017/08/xss-because-of-wrong-content-type-header.html, XSS
 - https://www.seekurity.com/blog/general/business-logic-vulnerabilities-series-how-i-became-invisible-and-immune-to-blocking-on-instagram/, Logic-flaw
 - https://medium.com/@valeriyshevchenko/massive-information-disclosure-of-1500-famous-people-b1b950fa657, Information-disclosure
 - https://medium.com/@arbazhussain/referer-based-xss-52aeff7b09e7, XSS

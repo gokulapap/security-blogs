@@ -51,3 +51,6 @@
 - https://ahussam.me/Cloudflare-xss/
 - https://medium.com/@nuraalamdipu/spokeo-bug-bounty-experience-3f5caba52416
 - https://www.gosecure.net/blog/2022/06/21/xss-vulnerability-in-ibm-content-navigator-cve-2020-4757/
+- https://medium.com/cloud-security/parameters-in-lambda-functions-that-lead-to-xss-and-injection-1bc8e14fca6f
+- https://bugbaba.blogspot.com/2017/08/xss-because-of-wrong-content-type-header.html
+- https://blog.chichou.me/2021/08/04/mistuned-part-i/
