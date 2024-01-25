@@ -1,0 +1,1 @@
+- https://www.gosecure.net/blog/2018/04/03/beyond-xss-edge-side-include-injection/

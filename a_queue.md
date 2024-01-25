@@ -2159,7 +2159,6 @@
 - https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/modsecurity-dos-vulnerability-in-json-parsing-cve-2021-42717/, DoS
 - https://zseano.medium.com/finding-xss-on-apple-com-and-building-a-proof-of-concept-to-leak-your-pii-information-d7bc93cff2df, XSS
 - https://r0.haxors.org/posts?id=26, SQL-injection
-- https://itsdeepceh.medium.com/a-business-logic-error-bug-worth-600-a0050720bfee, Payment-tampering
 - https://lethanhphuc-pk.medium.com/bugbounty-xss-with-markdown-exploit-fix-on-opensource-1baecebe9645, XSS
 - https://cirius.medium.com/peeping-through-a-web-socket-936ed55a2c31, Cross-Site-Websocket-Hijacking
 - https://monish-basaniwal.medium.com/open-redirect-vulnerability-on-zapier-an-accidental-find-4cbbf029956c, Open-redirect
@@ -2813,7 +2812,6 @@
 - https://blog.evanricafort.com/2021/02/idor-in-redacted.html, IDOR
 - https://ltsirkov.medium.com/gitlab-just-another-ssrf-issue-483bc040392b, SSRF
 - https://neroli.medium.com/oauth-misconfiguration-leads-to-full-account-takeover-22b032cb6732, OAuth
-- https://ltsirkov.medium.com/gitlab-denial-of-service-via-login-panel-functionality-684c8583706c, Application-level-DoS
 - https://web.archive.org/web/20220519231807/https://wisdomfreak.com/how-i-was-able-to-get-extra-coins/, Logic-flaw
 - https://philippeharewood.com/leaked-credentials-gives-access-to-internalfb-com/, Information-disclosure
 - https://samcurry.net/hacking-chesscom/, Reflected-XSS
@@ -4065,7 +4063,6 @@
 - https://spyclub.tech/2019/02/26/horizontal-privilege-escalation-on-quora/, Privilege-escalation
 - https://web.archive.org/web/20200929000850/https://www.mohamedharon.com/2019/02/still-work-redirect-yahoo-subdomain-xss.html, Reflected-XSS
 - https://medium.com/@kunal94/web-cache-deception-attack-leads-to-user-info-disclosure-805318f7bb29, Web-cache-deception
-- https://blog.redforce.io/shareit-vulnerabilities-enable-unrestricted-access-to-adjacent-devices-files/, Android
 - https://medium.com/@logicbomb_1/chain-of-hacks-leading-to-database-compromise-b2bc2b883915, LFI
 - https://medium.com/@ChandSingh/download-any-organisation-data-s3-amazonaws-64059847e06, Authorization-flaw
 - https://web.archive.org/web/20200929003949/https://www.mohamedharon.com/2019/02/subdomain-aws-s3-buckets-reader.html, Subdomain-takeover
@@ -4389,7 +4386,6 @@
 - https://web.archive.org/web/20201022195925/https://www.mohamedharon.com/2018/08/Shipttakeover.html, Subdomain-takeover
 - https://medium.com/@tomnomnom/crlf-injection-into-phps-curl-options-e2e0d7cfe545, CRLF-injection
 - https://medium.com/@thehackerish/how-i-could-access-your-internal-servers-steal-and-modify-your-image-repository-d477f79b329a, RCE
-- https://medium.freecodecamp.org/hacking-imgur-for-fun-and-profit-3b2ec30c9463, Outdated-component-with-a-known-vulnerability
 - https://medium.com/@0xHyde/yahoo-two-xssi-vulnerabilities-chained-to-steal-user-information-750-bounty-e9bc6a41a40a, XSSI
 - https://www.youtube.com/watch?v=0oKHov6y6mw, Stored-XSS
 - https://medium.com/@codingkarma/how-i-found-xss-on-amazon-f62b50f1c336, XSS
@@ -4513,7 +4509,6 @@
 - https://web.archive.org/web/20201123204445/https://www.mohamedharon.com/2018/04/link-injection-on-2-twitter-subdomain.html, Hyperlink-injection
 - https://medium.com/@logicbomb_1/bugbounty-your-details-are-saved-into-my-account-user-info-disclosure-vulnerability-in-practo-fe36930a1246, IDOR
 - https://medium.com/@satboy.fb/how-i-caught-multiple-vulnerabilities-in-udemy-com-14012a8a1421, XSS
-- https://www.gosecure.net/blog/2018/04/03/beyond-xss-edge-side-include-injection/, ESI-injection
 - https://web.archive.org/web/20201022201335/https://www.mohamedharon.com/2018/04/my-best-small-report-bounty-report-in.html, SQL-injection
 - https://web.archive.org/web/20200929004520/https://www.mohamedharon.com/2018/03/xss-in-subdomain-httpsyefgrantsyahoocom.html, Flash-XSS
 - https://web.archive.org/web/20200928235353/https://www.mohamedharon.com/2018/03/xss-in-sportstwcampaignyahoonet.html, Reflected-XSS

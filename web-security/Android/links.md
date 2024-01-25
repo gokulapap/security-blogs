@@ -1,0 +1,1 @@
+- https://blog.redforce.io/shareit-vulnerabilities-enable-unrestricted-access-to-adjacent-devices-files/
