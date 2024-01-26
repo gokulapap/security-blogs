@@ -44,3 +44,4 @@
 - https://medium.com/@kandar.souvik6/feedback-analyzer-exploitation-dc44a91b7fcc
 - https://medium.com/@yogendra_h1/sensitive-data-exposure-by-requesting-a-resource-with-a-different-content-type-27412a9d6e2f
 - https://medium.com/@alexali5080/how-i-was-able-to-takeover-accounts-of-an-earning-app-c22d07d8ce9
+- https://medium.com/@aryalsamipofficial59/users-private-watched-videos-list-saved-videos-etc-30faa8610b33

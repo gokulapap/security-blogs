@@ -7,3 +7,4 @@
 - https://medium.com/bugbountywriteup/bug-bounty-mail-ru-234fa6f5a5a
 - https://www.whiteoaksecurity.com/blog/centrestack-disclosure/
 - https://observationsinsecurity.com/2020/08/09/bypassing-403-to-get-access-to-an-admin-console-endpoints/
+- https://bugbounty.blog/2018/09/18/facebook-750-reward-for-a-simple-bug/

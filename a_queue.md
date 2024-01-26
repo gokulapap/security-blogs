@@ -659,7 +659,6 @@
 - https://www.tomanthony.co.uk/blog/googles-manual-actions-hack/, Broken-Access-Control
 - https://infosecwriteups.com/how-i-leak-others-access-token-by-exploiting-evil-deeplink-flaw-a0a566677639, Insecure-deeplink
 - https://www.dsecbypass.com/en/dolibarr-pre-auth-contact-database-dump/, SQL-injection
-- https://ndevtk.github.io/writeups/2023/03/11/ccai/, XSS
 - https://ltsirkov.medium.com/netflix-smart-tv-chaining-self-xss-with-session-poisoning-3eb7c78c7914, Self-XSS
 - https://infosecwriteups.com/account-takeover-an-epic-bug-bounty-story-dd5468d5773d, Account-takeover
 - https://noahblog.360.cn/cve-2022-36413-unauthorized-reset-password-of-zoho-manageengine-adselfservice-plus/, Password-reset
@@ -2998,7 +2997,6 @@
 - https://www.rcesecurity.com/2020/11/Smuggling-an-un-exploitable-xss/, HTTP-Request-Smuggling
 - https://medium.com/@guhanraja/how-i-found-the-facebook-messenger-leaking-access-token-of-million-users-8ee4b3f1e5e3, Information-disclosure
 - https://samiparyal.medium.com/commenting-on-a-post-by-opening-it-via-pages-news-feed-goes-from-a-wrong-actor-i-e-56fab4cf5a91, Information-disclosure
-- https://medium.com/@aryalsamipofficial59/users-private-watched-videos-list-saved-videos-etc-30faa8610b33, Information-disclosure
 - https://medium.com/bugbountywriteup/evading-filters-to-perform-the-arbitrary-url-redirection-attack-cce628b9b6a0, Open-redirect
 - https://blog.oversecured.com/Evernote-Universal-XSS-theft-of-all-cookies-from-all-sites-and-more/, Universal-XSS
 - https://www.cyberonesecurity.com/blog/local-privilege-escalation-vulnerability-discovered-in-vmware-fusion, Local-Privilege-Escalation
@@ -4307,7 +4305,6 @@
 - https://medium.com/@jonathanbouman/local-file-inclusion-at-ikea-com-e695ed64d82f, LFI
 - https://mohitdabas.wordpress.com/2018/09/18/bypassing-authentication-using-javascript-debugger/, Authentication-bypass
 - https://web.archive.org/web/20190320205543/https://medium.com/@0ktavandi/how-i-bypassed-akamai-kona-waf-xss-in-overstock-com-f205b0e71a0d, XSS
-- https://bugbounty.blog/2018/09/18/facebook-750-reward-for-a-simple-bug/, Authentication-bypass
 - https://medium.com/@jonathanbouman/reflected-xss-at-philips-com-e48bf8f9cd3c, Reflected-XSS
 - https://randywestergren.com/xss-vulnerabilities-in-multiple-iframe-busters-affecting-top-tier-sites/, XSS
 - https://blog.securitybreached.org/2018/09/16/idor-account-takeover-using-facebook/, IDOR
@@ -4496,7 +4493,6 @@
 - https://medium.com/@vis_hacker/how-i-got-stored-xss-using-file-upload-5c33e19df51e, Stored-XSS
 - https://medium.com/bugbountywriteup/bypassing-captcha-like-a-boss-d0edcc3a1c1, Captcha-bypass
 - https://medium.com/bugbountywriteup/securitybreach-how-i-was-able-to-book-hotel-room-for-1-50-9b35f18e49e8, CORS-misconfiguration
-- https://medium.com/bugbountywriteup/bypass-csp-by-abusing-xss-filter-in-edge-43e9106a9754, CSP-bypass
 - https://medium.com/@iSecMax/how-i-hacked-companies-related-to-the-crypto-currency-and-earned-60-000-93e9b3299f4e, Authorization-flaw
 - https://medium.com/@flex0geek/how-i-bypassed-ebay-process-on-redirect-98739384b4bc, Open-redirect
 - https://web.archive.org/web/20191217083137/http://blog.jr0ch17.com/2018/Please-email-me-your-password/, Blind-XSS
@@ -4680,7 +4676,6 @@
 - https://www.seekurity.com/blog/general/rolling-around-and-bypassing-facebook-linkshim-protection-on-ios, Open-redirect
 - https://medium.com/@arbazhussain/stored-xss-on-rockstar-game-c008ec18d071, XSS
 - https://bugbaba.blogspot.com/2017/07/open-redirect-in-flock-my-first-swag.html, Open-redirect
-- https://medium.com/bugbountywriteup/how-i-was-able-to-bypass-strong-xss-protection-in-well-known-website-imgur-com-8a247c527975, XSS
 - https://medium.com/@arbazhussain/self-xss-to-good-xss-clickjacking-6db43b44777e, XSS
 - https://www.seekurity.com/blog/general/business-logic-vulnerabilities-series-a-brief-on-abusing-invitation-systems/, Logic-flaw
 - https://medium.com/@ciph3r7r0ll/that-escalated-quickly-from-partial-csrf-to-reflected-xss-to-complete-csrf-to-stored-xss-6ba8103069c2, CSRF

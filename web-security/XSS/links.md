@@ -54,3 +54,5 @@
 - https://medium.com/cloud-security/parameters-in-lambda-functions-that-lead-to-xss-and-injection-1bc8e14fca6f
 - https://bugbaba.blogspot.com/2017/08/xss-because-of-wrong-content-type-header.html
 - https://blog.chichou.me/2021/08/04/mistuned-part-i/
+- https://ndevtk.github.io/writeups/2023/03/11/ccai/
+- https://medium.com/bugbountywriteup/how-i-was-able-to-bypass-strong-xss-protection-in-well-known-website-imgur-com-8a247c527975
