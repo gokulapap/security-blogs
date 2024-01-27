@@ -36,3 +36,4 @@
 - https://sites.google.com/site/testsitehacking/-5k-service-dependencies
 - https://www.seekurity.com/blog/general/hijacking-users-private-information-access_token-from-microsoft-office360-facebook-app
 - https://shahjerry33.medium.com/business-logic-errors-a-logic-destruction-477c4ebc824b
+- https://labs.detectify.com/2021/09/13/hacking-cloudkit-how-i-accidentally-deleted-your-apple-shortcuts/

@@ -45,3 +45,5 @@
 - https://medium.com/@yogendra_h1/sensitive-data-exposure-by-requesting-a-resource-with-a-different-content-type-27412a9d6e2f
 - https://medium.com/@alexali5080/how-i-was-able-to-takeover-accounts-of-an-earning-app-c22d07d8ce9
 - https://medium.com/@aryalsamipofficial59/users-private-watched-videos-list-saved-videos-etc-30faa8610b33
+- https://medium.com/@sprtndilip99/how-i-made-1500-dollars-using-base64-decoder-8da1a7672b
+- https://daleys.space/writeup/0day/2019/09/09/verizon-leak.html

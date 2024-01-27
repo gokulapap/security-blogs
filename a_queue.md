@@ -1924,7 +1924,6 @@
 - https://shenkaiwen.com/publication/2022-hdiff/, HTTP-request-smuggling
 - https://blog.dixitaditya.com/pwning-a-server-using-markdown, LFI
 - https://research.nccgroup.com/2022/02/28/brokenprint-a-netgear-stack-overflow/, Memory-corruption
-- https://blog.securitybreached.org/2022/02/27/hacking-subscription-plans-for-free-service/, Payment-bypass
 - https://web.archive.org/web/20221128044142/https://wya.pl/2022/02/26/cve-2022-22947-spel-casting-and-evil-beans/, RCE
 - https://swarm.ptsecurity.com/catching-bugs-in-vmware-carbon-black-cloud-workload-appliance-and-vrealize-operations-manager/, Authentication-bypass
 - https://medium.com/@vflexo/a-weird-price-tampering-vulnerability-1251dfe8d2a1, Payment-tampering
@@ -2306,7 +2305,6 @@
 - https://s3c.medium.com/how-i-hacked-world-wide-tiktok-users-24e794d310d2, IDOR
 - https://www.wiz.io/blog/omigod-critical-vulnerabilities-in-omi-azure, Local-Privilege-Escalation
 - https://infosecwriteups.com/10-golden-minutes-for-taking-over-a-chess-com-account-56e73f7c5f0d, Lack-of-rate-limiting
-- https://labs.detectify.com/2021/09/13/hacking-cloudkit-how-i-accidentally-deleted-your-apple-shortcuts/, Logic-flaw
 - https://www.netspi.com/blog/technical/cloud-penetration-testing/escalating-azure-privileges-with-the-log-analystics-contributor-role/, Logic-flaw
 - https://asterfiester.medium.com/3133-70-google-dialogflow-idor-vulnerability-7a72771678dd, IDOR
 - https://infosecwriteups.com/exposing-millions-of-irctc-passengers-ticket-details-53338280fb9e, IDOR
@@ -3113,7 +3111,6 @@
 - https://medium.com/infosec/how-often-do-we-overlook-vulnerabilities-960a7c45f59, Information-disclosure
 - https://www.ehpus.com/post/xss-fix-bypass-10000-bounty-in-google-maps, XSS
 - https://blog.dixitaditya.com/from-android-app-to-rce/, RCE
-- https://medium.com/@odayalhalbe1/my-first-bug-in-google-and-how-i-got-csrf-token-for-victim-account-rather-than-bypass-it-1337-bf01261feb47, CSRF
 - https://infosecwriteups.com/how-response-manipulation-got-me-a-little-but-sweet-bounty-38b515ca0910, MFA-bypass
 - https://medium.com/@soyelmago/never-give-up-the-story-behind-a-dupe-to-a-triaged-43b72debb6c9, XSS
 - https://medium.com/@smilehackerofficial/xss-that-can-pay-your-bills-9377eff1fd0d, Reflected-XSS
@@ -3264,7 +3261,6 @@
 - https://vj0shii.github.io/improper-bakend-checks-food-order-site/, Payment-tampering
 - https://ysamm.com/?p=479, Information-disclosure
 - https://infosecwriteups.com/story-of-a-2-5k-bounty-ssrf-on-zimbra-led-to-dump-all-credentials-in-clear-text-6fe826005ccc, SSRF
-- https://medium.com/@sprtndilip99/how-i-made-1500-dollars-using-base64-decoder-8da1a7672b, Information-disclosure
 - https://medium.com/bugbountywriteup/s3-bucket-misconfigured-access-controls-to-critical-vulnerability-6b535e3df9a5, AWS-misconfiguration
 - https://embracethered.com/blog/posts/2020/aws-xss-cross-site-scripting-vulnerability/, DOM-XSS
 - https://research.securitum.com/art-of-bug-bounty-a-way-from-js-file-analysis-to-xss/, XSS
@@ -3773,7 +3769,6 @@
 - https://philippeharewood.com/subscribe-to-the-list-of-requesters-to-join-a-facebook-live-video-using-mqtt/, Authorization-flaw
 - https://www.rcesecurity.com/2019/09/H1-4420-From-Quiz-to-Admin-Chaining-Two-0-Days-to-Compromise-an-Uber-Wordpress/, Stored-XSS
 - https://www.inputzero.io/2019/09/telegram-privacy-fails-again.html, Logic-flaw
-- https://daleys.space/writeup/0day/2019/09/09/verizon-leak.html, Information-disclosure
 - https://medium.com/@karthiksoft007/oculus-identity-verification-bypass-through-brute-force-dbd0c0d3c37e, OTP-bypass
 - https://www.hackerinside.me/2019/09/xss-in-zoho-mail.html, XSS
 - https://medium.com/@osamaavvan/exploiting-jsonp-and-bypassing-referer-check-2d6e40dfa24, Information-disclosure
