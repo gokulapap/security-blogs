@@ -114,7 +114,6 @@
 - https://medium.com/@vikramroot/account-takeover-via-stored-xss-b774f7a2a3ab, ATO
 - https://medium.com/@ishakudkar/owasp-1-injection-cad772e39a0f, injection
 - https://medium.com/@spideynati/how-i-was-able-to-get-free-for-months-because-of-this-bug-31b1396c563f, journey
-- https://medium.com/@ibrahimtahaistikbal/reflected-xss-with-some-svg-markup-34b53fc30415, XSS
 - https://medium.com/@Dhamuharker/unsubscribe-any-users-e-mail-notifications-via-idor-7de76e2b036b, IDOR
 - https://medium.com/@h4krg33k/open-redirects-for-bug-bounties-bf4b58313842, open-redirection
 - https://medium.com/@securitygoat/bug-bounty-bootcamp-ch07-open-redirects-b11d2fe134d5, open-redirection
@@ -426,7 +425,6 @@
 - https://blog.ammaraskar.com/vscode-rce/, RCE
 - https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/hunting-for-password-reset-tokens-by-spraying-and-using-http-pipelining/, Password-reset
 - https://medium.com/@ajzead660/exploit-an-unexploitable-xss-via-an-open-redirect-a-real-life-scenario-from-a-hackers-mindset-32b71041c5fe, XSS
-- https://research.securitum.com/xss-in-wordpress-via-open-embed-auto-discovery/, XSS
 - https://medium.com/@gokulsspace/the-30000-bounty-affair-3f025ee6b834, RCE
 - https://handbook.volkis.com.au/assets/doc/Volkis%20-%20Anonymous%20Client%20-%20Penetration%20Test%20May%202023.pdf, Internal-pentest
 - https://medium.com/@ibederov_en/find-out-the-ip-address-through-a-call-to-telegram-a899441b1bac, Privacy-issue
@@ -654,7 +652,6 @@
 - https://blog.quarkslab.com/vulnerabilities-in-the-tpm-20-reference-implementation-code.html, Memory-corruption
 - https://www.mdsec.co.uk/2023/03/exploiting-cve-2023-23397-microsoft-outlook-elevation-of-privilege-vulnerability/, Privilege-escalation
 - https://www.blackhillsinfosec.com/your-browser-is-not-a-safe-space/, Local-Privilege-Escalation
-- https://medium.com/@H1Xploit/hacking-the-docker-registry-with-burp-suite-18112cbfb6dd, Docker-Registry
 - https://www.horizon3.ai/veeam-backup-and-replication-cve-2023-27532-deep-dive/, Local-Privilege-Escalation
 - https://www.tomanthony.co.uk/blog/googles-manual-actions-hack/, Broken-Access-Control
 - https://infosecwriteups.com/how-i-leak-others-access-token-by-exploiting-evil-deeplink-flaw-a0a566677639, Insecure-deeplink
@@ -885,7 +882,6 @@
 - https://shahjerry33.medium.com/api-misconfiguration-no-swag-of-swaggerui-9b43135346be, Security-misconfiguration
 - https://www.secureworks.com/research/azure-active-directory-flaw-allowed-saml-persistence, Azure-AD
 - https://security.humanativaspa.it/nothing-new-under-the-sun/, Printer-hacking
-- https://www.legitsecurity.com/blog/dos-via-software-supply-chain-innumerable-projects-exposed-to-a-markdown-library-vulnerability, DoS
 - https://medium.com/@Parag_Bagul/how-i-identified-and-reported-vulnerabilities-in-oracle-and-the-rewards-of-responsible-43ee5fea457f, Information-disclosure
 - https://www.synacktiv.com/sites/default/files/2023-01/sudo-CVE-2023-22809.pdf, Local-Privilege-Escalation
 - https://medium.com/@mohanad.hussam23/from-error-log-file-p4-to-company-account-takeover-p1-and-unauthorized-actions-on-api-35e45e43273a, Information-disclosure
@@ -2436,7 +2432,6 @@
 - https://sunilyedla.medium.com/information-disclosure-to-account-takeover-a21b2b54147a, Information-disclosure
 - https://haxolot.com/posts/2021/moodle_pre_auth_shibboleth_rce_part1/, RCE
 - https://web.archive.org/web/20210927021132/https://0xdln.ml/XSS-Special-Cases/, XSS
-- https://medium.com/bug-bounty/telegram-report-ssrf-leads-to-dos-attack-908bea5f5802, SSRF
 - https://cinzinga.com/XXE-Case-Studies/, XXE
 - https://sapt.medium.com/apple-hall-of-fame-for-a-small-misconfiguration-unauth-cache-purging-faf81b19419b, Unauthenticated-cache-purge
 - https://www.shielder.it/advisories/mattermost-server-reflected-xss-oauth/, Reflected-XSS

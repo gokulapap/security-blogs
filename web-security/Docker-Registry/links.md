@@ -1,1 +1,2 @@
 - https://emad0x90.medium.com/exposed-docker-registries-server-as-critical-reminder-on-container-security-a9bba13b403d
+- https://medium.com/@H1Xploit/hacking-the-docker-registry-with-burp-suite-18112cbfb6dd
