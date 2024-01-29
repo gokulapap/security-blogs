@@ -6,3 +6,4 @@
 - https://medium.com/@siratsami71/1500-worth-slack-vulnerability-bypass-invite-accept-process-8204e5431d52
 - https://www.volkis.com.au/blog/we-were-vulnerable/
 - https://feed.bugs.xdavidhu.me/bugs/0004
+- https://naveenroy008.medium.com/broken-session-control-leads-to-access-the-admin-panel-even-after-revoking-the-access-zoho-db219b19d2dd

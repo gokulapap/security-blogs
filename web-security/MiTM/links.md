@@ -1,2 +1,3 @@
 - https://blog.grimm-co.com/2021/09/mama-always-told-me-not-to-trust.html
 - https://feed.bugs.xdavidhu.me/bugs/0010
+- https://sysrant.com/500-bounty-man-in-the-middle-on-slack/

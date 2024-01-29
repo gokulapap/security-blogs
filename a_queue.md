@@ -1186,7 +1186,6 @@
 - https://www.netspi.com/blog/technical/social-engineering/bypassing-mimecast-email-defenses/, Secure-Email-Gateway-bypass
 - https://medium.com/@h4x0r_dz/23000-for-authentication-bypass-file-upload-arbitrary-file-overwrite-2578b730a5f8, JWT
 - https://portswigger.net/research/http-3-connection-contamination, HTTP-connection-contamination
-- https://kuldeep.io/posts/second-order-xxe-exploitation/, XXE
 - https://www.mdsec.co.uk/2022/10/microsoft-office-online-server-remote-code-execution/, SSRF
 - https://medium.com/@sas.kunz/scan-qr-code-and-got-hacked-cve-2021-43530-uxss-on-firefox-android-version-768b24b326fb, Universal-XSS
 - https://boschko.ca/tenda_ac1200_router/, OS-command-injection
@@ -1794,7 +1793,6 @@
 - https://www.sentinelone.com/labs/inside-the-black-box-how-we-fuzzed-microsoft-defender-for-iot-and-found-multiple-vulnerabilities/, DoS
 - https://rhinosecuritylabs.com/aws/cve-2022-25165-aws-vpn-client/, Local-Privilege-Escalation
 - https://shahjerry33.medium.com/xss-the-localstorage-robbery-d5fbf353c6b0, XSS
-- https://naveenroy008.medium.com/broken-session-control-leads-to-access-the-admin-panel-even-after-revoking-the-access-zoho-db219b19d2dd, Broken-Access-Control
 - https://www.notgitbleed.com, Information-disclosure
 - https://blog.lightspin.io/aws-rds-critical-security-vulnerability, LFI
 - https://infosecwriteups.com/svg-ssrfs-and-saga-of-bypasses-777e035a17a7, SSRF
@@ -3004,7 +3002,6 @@
 - https://ruvlol.medium.com/1000-for-open-redirect-via-unknown-technique-675f5815e38a, Open-redirect
 - https://community.disclose.io/t/how-i-found-a-tor-vulnerability-in-brave-browser-reported-it-watched-it-get-patched-got-a-cve-cve-2020-8276-and-a-small-bounty-all-in-one-working-day/65, Information-disclosure
 - https://lokeshdlk77.medium.com/delete-any-photos-in-facebook-832dbe81cdc4, Authorization-flaw
-- https://rafi-ahamed.medium.com/forcing-for-a-bounty-b637c468d7bd, Authorization-flaw
 - https://lokeshdlk77.medium.com/reveal-the-page-admin-that-uploaded-a-video-on-the-page-in-comment-section-9760e4a31453, Information-disclosure
 - https://security.lauritz-holtmann.de/advisories/cve-2020-13294/, Authentication-flaw
 - https://james-clee.com/2020/11/01/leaked-git-folder-leads-to-rce/, git-folder-disclosure
@@ -3851,7 +3848,6 @@
 - https://medium.com/bugbountywriteup/what-do-netcat-smtp-and-self-xss-have-in-common-stored-xss-a05648b72002, Stored-XSS
 - https://medium.com/bugbountywriteup/wrong-swipe-tinder-29fe1eb0203c, Information-disclosure
 - https://medium.com/a-bugz-life/the-bugs-are-out-there-hiding-in-plain-sight-12d056613ea3, IDOR
-- https://sysrant.com/500-bounty-man-in-the-middle-on-slack/, MiTM
 - https://medium.com/@0x01devansh/facebook-bug-sending-messages-as-a-page-with-jobmanager-permission-763dc0d8e32c, Authorization-flaw
 - https://thezerohack.com/hack-any-instagram, Race-condition
 - https://samcurry.net/cracking-my-windshield-and-earning-10000-on-the-tesla-bug-bounty-program/, Blind-XSS
@@ -4361,7 +4357,6 @@
 - https://medium.com/@vesirin/how-i-gained-commit-access-to-homebrew-in-30-minutes-2ae314df03ab, Information-disclosure
 - https://medium.com/bugbountywriteup/sending-out-phishing-e-mails-from-microsoft-com-84c3b918ada2, HTML-injection
 - https://sites.google.com/securifyinc.com/vrp-writeups/google-meet/authorization-bugs, Authorization-flaw
-- https://medium.com/@friendly_/self-xss-leads-to-blind-xss-and-reflected-xss-950b1dc24647, Blind-XSS
 - https://medium.com/@friendly_/reflected-xss-primagames-com-c7a641912626, Reflected-XSS
 - https://www.secjuice.com/logical-bug-at-edmodo/, Logic-flaw
 - https://blog.evanricafort.com/2018/08/blind-xss-in-chrome-experiments-google.html, Blind-XSS
