@@ -52,3 +52,4 @@
 - https://0xprial.com/idor-leads-to-leak-any-uber-eats-restaurant-analytics/
 - https://medium.com/@vickieli/all-about-idor-attacks-64c4203b518e
 - https://medium.com/@nxenon/some-tips-to-finding-idors-more-easily-and-fixing-them-2c9d0c58bb4a
+- https://0x4kd.medium.com/how-i-became-a-millionaire-in-3h-fintech-bug-bounty-part-1-90193c5bd86f

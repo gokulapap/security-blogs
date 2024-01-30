@@ -148,7 +148,6 @@
 - https://medium.com/@gokulelango1040/privilege-escalation-attacks-28a9ef226abb, privilege-escalation
 - https://medium.com/@jjainam16/csrf-lead-to-account-deletion-critical-bounty-7500-58aa6b848e3a, csrf
 - https://medium.com/@omfacu/methods-for-exploiting-file-upload-vulnerabilities-c046f9946b62, file-upload
-- https://medium.com/@omerxx/hacking-your-application-may-be-easier-than-you-think-c822d77ec58b, misc
 - https://medium.com/@hasharmujahid/bypassing-csrf-protection-i-bc014384d0aa, csrf
 - https://medium.com/@ashrafharb997/csrf-to-full-account-takeover-5196cef9d166, csrf
 - https://medium.com/@grahamzemel/1000-bac-the-complete-guide-to-exploiting-broken-access-control-966f1bd121e9, BAC
@@ -990,7 +989,6 @@
 - https://www.secforce.com/blog/cve-2022-20942-its-not-old-functionality-its-vintage/, Information-disclosure
 - https://karol-mazurek95.medium.com/not-usual-csp-bypass-case-b538263e09d6, Unrestricted-file-upload
 - https://0xmayankgarg.medium.com/pii-data-exfiltration-within-minutes-f06d4587d201, Information-disclosure
-- https://0x4kd.medium.com/how-i-became-a-millionaire-in-3h-fintech-bug-bounty-part-1-90193c5bd86f, IDOR
 - https://medium.com/@Iam5345/how-i-hacked-the-dutch-government-and-got-the-lousy-t-shirt-81fd0a0dd84d, XSS
 - https://hopesamples.blogspot.com/2022/12/idor-allows-to-assign-deleted-tasks-to.html, IDOR
 - https://hopesamples.blogspot.com/2022/12/source-code-leakage-due-to-exposed.html, Source-code-disclosure
@@ -2848,7 +2846,6 @@
 - https://blog.shoebpatel.com/2021/01/23/The-Secret-Parameter-LFR-and-Potential-RCE-in-NodeJS-Apps/, Local-File-Read
 - https://yeuchimse.com/csrf-protection-bypass-in-atlassian-confluence-server/, CSRF
 - https://www.pantaprakash.com.np/posts/categories/bugbounty-writeup/4.html, Information-disclosure
-- https://ph-hitachi.medium.com/staff-information-disclosure-on-support-ticketing-system-p2-x-xxx-a08960aea7b1, Information-disclosure
 - https://medium.com/realmodelabs/kindledrip-from-your-kindles-email-address-to-using-your-credit-card-bb93dbfb2a08, RCE
 - https://systemweakness.com/story-behind-sweet-ssrf-40c705f13053, SSRF
 - https://r4id3n.medium.com/ssrf-exploitation-in-spreedsheet-to-pdf-converter-2c7eacdac781, SSRF
@@ -2975,7 +2972,6 @@
 - https://shahjerry33.medium.com/server-side-misconfigurartion-a-funny-fix-63cc12b4c7fc, Information-disclosure
 - https://medium.com/@logicbomb_1/tale-of-3-vulnerabilities-to-account-takeover-44ba631a0304, SSRF
 - https://medium.com/@shaheenfazim/hacking-into-rce-government-server-operated-for-the-us-department-of-energys-national-nuclear-8aadc2e7e491, RCE
-- https://web.archive.org/web/20201116060315/https://medium.com/@kunal94/stealing-users-pii-info-by-visiting-api-endpoint-directly-5062e0147f67, Information-disclosure
 - https://evait.medium.com/pentest-story-empirum-password-decryption-3a9e2530aba7, Weak-crypto
 - https://cyc10n3.medium.com/rce-via-server-side-template-injection-ad46f8e0c2ae, SSTI
 - http://www.firstsight.me/2020/11/optimizing-hunting-results-in-vdp-for-use-in-bug-bounty-programs-from-sensitive-information-disclosure-to-accessing-hidden-apis-which-can-be-used-to-retrieve-customer-data/, Information-disclosure
@@ -3594,7 +3590,6 @@
 - https://hipotermia.pw/bb/http-desync-account-takeover, HTTP-request-smuggling
 - https://keenlab.tencent.com/en/2020/01/02/exploiting-wifi-stack-on-tesla-model-s/, Wifi-hacking
 - https://markus-krell.de/admin-capabilities-around-your-ears/, Local-Privilege-Escalation
-- https://medium.com/sourav-sahana/bypass-2fa-in-a-website-d616eaead1e3, MFA-bypass
 - https://footstep.ninja/posts/idor-via-http/, IDOR
 - https://medium.com/sourav-sahana/from-post-to-get-open-redirect-e91f4f4206a, Open-redirect
 - https://footstep.ninja/posts/exploiting-self-xss/, Self-XSS

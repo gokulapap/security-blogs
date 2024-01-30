@@ -47,3 +47,5 @@
 - https://medium.com/@aryalsamipofficial59/users-private-watched-videos-list-saved-videos-etc-30faa8610b33
 - https://medium.com/@sprtndilip99/how-i-made-1500-dollars-using-base64-decoder-8da1a7672b
 - https://daleys.space/writeup/0day/2019/09/09/verizon-leak.html
+- https://web.archive.org/web/20201116060315/https://medium.com/@kunal94/stealing-users-pii-info-by-visiting-api-endpoint-directly-5062e0147f67
+- https://ph-hitachi.medium.com/staff-information-disclosure-on-support-ticketing-system-p2-x-xxx-a08960aea7b1
