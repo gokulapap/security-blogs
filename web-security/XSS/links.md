@@ -58,3 +58,4 @@
 - https://medium.com/bugbountywriteup/how-i-was-able-to-bypass-strong-xss-protection-in-well-known-website-imgur-com-8a247c527975
 - https://medium.com/@ibrahimtahaistikbal/reflected-xss-with-some-svg-markup-34b53fc30415
 - https://research.securitum.com/xss-in-wordpress-via-open-embed-auto-discovery/
+- https://ysx.me.uk/taking-note-xss-to-rce-in-the-simplenote-electron-client/

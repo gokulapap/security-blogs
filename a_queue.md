@@ -2722,7 +2722,6 @@
 - https://mayank-01.medium.com/an-interesting-account-takeover-3a33f42d609d, IDOR
 - https://www.pantaprakash.com.np/posts/categories/bugbounty-writeup/5.html, Information-disclosure
 - https://noobx.in/blogs/API-Misconfiguration-which-leads-to-unauthorized-access-to-servicedesk-tickets, Information-disclosure
-- https://baibhavjha.com.np/blogs/facebookgroupmemberdisclosure/, GraphQL
 - https://spongebhav.medium.com/facebook-group-members-disclosure-e53eb83df39e, Information-disclosure
 - https://rahulvarale.medium.com/idor-vulenebility-with-empty-response-still-exposing-sensitive-details-of-customers-bdce0a6a1b07, IDOR
 - https://ashutoshmishra00x0.medium.com/account-takeover-via-reset-password-worth-2000-de085851d81d, Password-reset
@@ -2781,7 +2780,6 @@
 - https://ysamm.com/?p=636, Information-disclosure
 - https://ysamm.com/?p=634, Information-disclosure
 - https://ysamm.com/?p=632, XSS
-- https://ysamm.com/?p=629, Information-disclosure
 - https://ysamm.com/?p=627, GraphQL
 - https://ysamm.com/?p=621, Authorization-flaw
 - https://ysamm.com/?p=625, Open-redirect
@@ -4555,7 +4553,6 @@
 - https://research.digitalinterruption.com/2018/01/04/toytalk-bug-bounty-writeup/, Authentication-bypass
 - https://wwws.nightwatchcybersecurity.com/2018/01/04/rce-in-duolingos-tinycards-app-for-android-cve-2017-16905/, Content-injection
 - https://voidzone.me/facebook-chat-dashboard-content-injection, Content-injection
-- https://www.jonbottarini.com/2018/01/02/abusing-internal-api-to-achieve-idor-in-new-relic/, IDOR
 - https://blog.witcoat.com/2018/05/30/stealing-10000-yahoo-cookies/, CORS-misconfiguration
 - https://w00troot.blogspot.com/2017/12/how-i-found-ssrf-on-thefacebookcom.html, SSRF
 - https://medium.com/bugbountywriteup/jumping-to-the-hell-with-10-attempts-to-bypass-devils-waf-4275bfe679dd, XSS
@@ -4575,7 +4572,6 @@
 - https://corben.io/blog/17-11-27-tricky-CORS, CORS-misconfiguration
 - https://blog.darabi.me/2017/11/image-removal-vulnerability-in-facebook.html, IDOR
 - https://medium.com/@malcolmx0x/story-of-bypassing-referer-header-to-make-open-redirect-94f938b9d032, Open-redirect
-- https://ysx.me.uk/taking-note-xss-to-rce-in-the-simplenote-electron-client/, XSS
 - https://blog.securitybreached.org/2017/11/20/uber-wildcard-subdomain-takeover, Subdomain-takeover
 - https://medium.com/@honcbb/amazon-bypass-open-redirect-12609c879dff, Open-redirect
 - https://medium.com/@honcbb/vmware-official-vcdx-reflected-xss-90e69a3c35e1, Reflected-XSS
@@ -4801,7 +4797,6 @@
 - https://medium.com/swlh/watch-paint-dry-how-i-got-a-game-on-the-steam-store-without-anyone-from-valve-ever-looking-at-it-2e476858c753, Authorization-flaw
 - https://www.arneswinnen.net/2016/03/how-i-could-compromise-4-locked-instagram-accounts, IDOR
 - https://whitton.io/articles/uber-turning-self-xss-into-good-xss/, XSS
-- http://karmainsecurity.com/hacking-magento-ecommerce-for-fun-and-17000-usd, Information-disclosure
 - https://www.rcesecurity.com/2016/02/ubiquiti-bug-bounty-unifi-v3-2-10-generic-csrf-protection-bypass/, CSRF
 - https://ahussam.me/how-i-hacked-oculus-oauth-ebay-ibm/, Unrestricted-file-upload
 - https://www.seekurity.com/blog/write-ups/eset-broken-authentication-vulnerability/, Authentication-flaw

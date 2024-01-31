@@ -49,3 +49,5 @@
 - https://daleys.space/writeup/0day/2019/09/09/verizon-leak.html
 - https://web.archive.org/web/20201116060315/https://medium.com/@kunal94/stealing-users-pii-info-by-visiting-api-endpoint-directly-5062e0147f67
 - https://ph-hitachi.medium.com/staff-information-disclosure-on-support-ticketing-system-p2-x-xxx-a08960aea7b1
+- http://karmainsecurity.com/hacking-magento-ecommerce-for-fun-and-17000-usd
+- https://ysamm.com/?p=629
