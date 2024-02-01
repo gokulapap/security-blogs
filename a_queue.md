@@ -1549,7 +1549,6 @@
 - https://infosecwriteups.com/hacking-facebook-invoice-how-i-couldve-bought-anything-for-free-from-facebook-business-pages-42bcfaa73ec4, Payment-bypass
 - https://virtuvil.medium.com/hey-google-lets-submit-bug-from-victim-account-af6a25d390e1, IDOR
 - https://infosecwriteups.com/story-of-my-first-valid-critical-bug-22029115f8d7, Missing-authentication
-- https://medium.com/stolabs/cve-2022-35909-cve-2022-35910-incorrect-access-control-and-xss-stored-to-jellyfin-967359c91058, Broken-Access-Control
 - https://infosecwriteups.com/ffuf-ing-recon-1ee4e79b3256, vHost-misconfiguration
 - https://medium.com/@rajqureshi07/a-story-of-my-first-bug-bounty-dda320db78d9, Information-disclosure
 - https://securityflow.io/going-beyond-alert-with-xss/, XSS
@@ -2439,7 +2438,6 @@
 - https://imajk.medium.com/story-of-my-3rd-bounty-from-facebook-fef352853d1b, Logic-flaw
 - https://craighays.com/pre-account-takeover-by-reversing-a-weak-email-verification-token-algorithm/, Weak-crypto
 - https://www.r29k.com/articles/bb/self-xss-to-stored-xss, Self-XSS
-- https://microsoftedge.github.io/edgevr/posts/attacking-the-devtools/, Browser-hacking
 - https://web.archive.org/web/20210924032932/https://0xdln.ml/XSS-Through-Fuzzing-Default-IIS/, Reflected-XSS
 - https://notifybugme.medium.com/how-i-was-able-find-mass-leaked-aws-s3-bucket-from-js-file-6064a5c247f8, AWS-misconfiguration
 - https://tomcope.com/exploit/2021/07/19/ibm-hmc-exploit-cve-2021-29707.html, Local-Privilege-Escalation
@@ -2581,7 +2579,6 @@
 - https://galnagli.com/Mass_Assignment/, Mass-assignment
 - https://ysamm.com/?p=695, Reflected-XSS
 - https://kailashbohara.com.np/blog/2021/05/13/Google-blind-XSS/, Blind-XSS
-- https://secret.club/2021/05/13/source-engine-rce-join.html, RCE
 - https://filipaze.medium.com/how-i-find-my-first-stored-xss-c6f57155cc1a, Stored-XSS
 - https://tuhin1729.medium.com/story-of-my-hacking-dutch-government-46b7a3c8b75a, XSS
 - https://hateshape.github.io/general/2021/05/11/CVE-2020-35580.html, LFI
@@ -2797,7 +2794,6 @@
 - https://vbharad.medium.com/how-i-hacked-everyones-resume-cv-s-and-got-851aaa4d75d9, IDOR
 - https://blog.evanricafort.com/2021/02/idor-in-redacted.html, IDOR
 - https://ltsirkov.medium.com/gitlab-just-another-ssrf-issue-483bc040392b, SSRF
-- https://neroli.medium.com/oauth-misconfiguration-leads-to-full-account-takeover-22b032cb6732, OAuth
 - https://web.archive.org/web/20220519231807/https://wisdomfreak.com/how-i-was-able-to-get-extra-coins/, Logic-flaw
 - https://philippeharewood.com/leaked-credentials-gives-access-to-internalfb-com/, Information-disclosure
 - https://samcurry.net/hacking-chesscom/, Reflected-XSS
@@ -4373,7 +4369,6 @@
 - https://medium.com/@prial261/unclaimed-medium-publication-takeover-in-wetransfer-c268cdb51e2f, Medium-publication-takeover
 - https://medium.com/bug-bounty-hunting/google-assistant-bug-worth-3133-7-830a03724a04, Reflected-XSS
 - https://opnsec.com/2018/07/into-the-borg-ssrf-inside-google-production-network/, SSRF
-- https://medium.com/@root_31068/the-call-is-coming-from-inside-the-house-dns-rebinding-in-eosio-keosd-wallet-e11deae05974, DNS-rebinding
 - https://sites.google.com/securifyinc.com/secblogs/yahoo-luminate-rce, RCE
 - https://haiderm.com/how-i-was-able-to-delete-13k-microsoft-translator-projects/, CSRF
 - https://pulsesecurity.co.nz/advisories/WebLogic-SAML-Vulnerabilities, SAML

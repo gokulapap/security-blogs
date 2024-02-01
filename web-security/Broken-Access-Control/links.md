@@ -7,3 +7,4 @@
 - https://www.volkis.com.au/blog/we-were-vulnerable/
 - https://feed.bugs.xdavidhu.me/bugs/0004
 - https://naveenroy008.medium.com/broken-session-control-leads-to-access-the-admin-panel-even-after-revoking-the-access-zoho-db219b19d2dd
+- https://medium.com/stolabs/cve-2022-35909-cve-2022-35910-incorrect-access-control-and-xss-stored-to-jellyfin-967359c91058

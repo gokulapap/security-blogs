@@ -1,1 +1,2 @@
 - https://voidzone.me/cve-2018-20139-daikin-emura-series-arbitrary-remote-control-via-dns-rebinding/
+- https://medium.com/@root_31068/the-call-is-coming-from-inside-the-house-dns-rebinding-in-eosio-keosd-wallet-e11deae05974
