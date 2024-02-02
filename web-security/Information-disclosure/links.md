@@ -51,3 +51,4 @@
 - https://ph-hitachi.medium.com/staff-information-disclosure-on-support-ticketing-system-p2-x-xxx-a08960aea7b1
 - http://karmainsecurity.com/hacking-magento-ecommerce-for-fun-and-17000-usd
 - https://ysamm.com/?p=629
+- https://orwaatyat.medium.com/how-i-was-able-to-get-critical-bug-on-google-by-get-full-access-on-google-cloud-bi-hackathon-f779fce29900

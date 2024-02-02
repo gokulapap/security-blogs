@@ -59,3 +59,4 @@
 - https://medium.com/@ibrahimtahaistikbal/reflected-xss-with-some-svg-markup-34b53fc30415
 - https://research.securitum.com/xss-in-wordpress-via-open-embed-auto-discovery/
 - https://ysx.me.uk/taking-note-xss-to-rce-in-the-simplenote-electron-client/
+- https://medium.com/@friendly_/bypassing-cloudflares-waf-b1b83a50fb2f

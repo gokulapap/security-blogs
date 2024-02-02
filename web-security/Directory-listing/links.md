@@ -1,1 +1,2 @@
 - https://machevalia.blog/blog/access-control-violation-sensitive-data-exposure
+- https://u-itachi.medium.com/full-structure-takeover-to-many-brands-of-company-e0ca434890ee

@@ -318,7 +318,6 @@
 - https://labs.hakaioffsec.com/nginx-alias-traversal/, Path-traversal
 - https://www.legitsecurity.com/blog/-how-we-found-another-github-action-environment-injection-vulnerability-in-a-google-project, CICD
 - https://blog.silentsignal.eu/2023/07/03/ibm-i-dde-vulnerability-cve-2023-30990/, RCE
-- https://www.rcesecurity.com/2023/07/patch-diffing-cve-2023-28121-to-compromise-a-woocommerce/, Authentication-bypass
 - https://blog.prodefense.io/how-abusing-aws-cloudformation-led-to-a-total-takeover-of-an-aws-environment-7f94cabd671d, Cloud
 - https://medium.com/@nguhuynh.148/how-did-i-get-200-with-wordpress-vulnerability-4ce80f106709, Information-disclosure
 - https://www.randorisec.fr/chamilo-1.11.18-multiple-vulnerabilities, OS-command-injection
@@ -865,7 +864,6 @@
 - https://www.zerodayinitiative.com/blog/2023/1/23/activation-context-cache-poisoning-exploiting-csrss-for-privilege-escalation, Local-Privilege-Escalation
 - https://ph-hitachi.medium.com/how-i-hacked-scopely-using-sign-in-with-google-298a9c166ad, Account-takeover
 - https://johnjhacking.com/blog/cve-2023-24068-cve-2023-24069/, Thick-client
-- https://orwaatyat.medium.com/how-i-was-able-to-get-critical-bug-on-google-by-get-full-access-on-google-cloud-bi-hackathon-f779fce29900, Information-disclosure
 - https://infosecwriteups.com/reflected-xss-leads-to-3-000-bug-bounty-rewards-from-microsoft-forms-efe34fc6b261, Reflected-XSS
 - https://sl4x0.medium.com/how-i-found-xss-on-admin-page-without-login-fe165a5f89c2, Reflected-XSS
 - https://www.ukusormus.com/bypassing-cloudflare-waf-xss-via-sql-injection/, Reflected-XSS
@@ -1876,7 +1874,6 @@
 - https://www.cyberick.com/post/my-first-bug-on-vdp-bbp-bug-bounty, Stored-XSS
 - https://rambo.codes/posts/2022-03-15-how-a-macos-bug-could-have-allowed-for-a-serious-phishing-attack-against-users, MacOS
 - http://www.firstsight.me/2022/03/from-recon-via-censys-and-dnsdumpster-to-getting-p1-by-login-using-weak-password-password/, WAF-bypass
-- https://medium.com/@haroonhameed_76621/achieving-remote-code-execution-via-unrestricted-file-upload-6050f360c218, Unrestricted-file-upload
 - https://web.archive.org/web/20220315141258/https://eslam3kl.medium.com/sql-injection-at-spotify-d19e0861ddf0, SQL-injection
 - https://xkurtph.medium.com/how-i-access-other-domains-in-infinityfree-net-using-directory-traversal-4625692d6a2d, Directory-traversal
 - https://medium.com/@tobydavenn/how-i-made-the-bbc-hall-of-fame-3-times-2c816fa515d7, Information-disclosure
@@ -1931,7 +1928,6 @@
 - https://systemweakness.com/what-an-injection-into-jquery-selector-can-lead-to-1fcaabfd51e5, CSRF
 - https://f4t7.medium.com/xss-in-hidden-input-field-1b98a5fece26, XSS
 - https://infosecwriteups.com/send-a-email-to-me-and-get-kicked-out-of-google-groups-29b5c2c60e95, Logic-flaw
-- https://medium.com/@friendly_/bypassing-cloudflares-waf-b1b83a50fb2f, XSS
 - https://gitlab.com/kop316/vvm-disclosure, Voicemail-hacking
 - https://remonsec.com/posts/getting-first-swag-SIDN/, Directory-listing
 - https://github.com/Metnew/write-ups/tree/main/rce-github-desktop-2.9.3, RCE
@@ -2312,7 +2308,6 @@
 - https://infosecwriteups.com/accessing-grofers-grafana-instance-using-shodan-52c585ada797, Weak-credentials
 - https://websecblog.com/vulns/google-threadit/, DOM-XSS
 - https://xhzeem.me/posts/SSRF-in-PDF-export-with-PhantomJs/read, SSRF
-- https://u-itachi.medium.com/full-structure-takeover-to-many-brands-of-company-e0ca434890ee, Directory-listing
 - https://ssd-disclosure.com/ssd-advisory-netgear-d7000-authentication-bypass/, Authentication-bypass
 - https://apapedulimu.click/story-of-idor-on-google-product/, IDOR
 - https://medium.com/@katikitala.sushmitha078/how-i-can-take-over-any-users-account-with-their-mobile-number-6d820a364cad, Account-takeover

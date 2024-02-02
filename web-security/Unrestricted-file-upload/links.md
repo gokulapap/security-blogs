@@ -8,3 +8,4 @@
 - https://medium.com/bugbountywriteup/how-i-could-have-hacked-iit-guwahatis-website-52dff319b056
 - https://mustafakemalcan.com/asus-rce-vulnerability-on-rma-asus-europe-eu/
 - https://medium.com/@escapesequence89/rce-via-image-upload-functionality-925c902943b8
+- https://medium.com/@haroonhameed_76621/achieving-remote-code-execution-via-unrestricted-file-upload-6050f360c218
