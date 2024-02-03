@@ -20,3 +20,4 @@
 - https://medium.com/@ariffadhlullah2310/sql-injection-bug-bounty-110e92e71ec3
 - http://c0rni3sm.blogspot.com/2013/04/how-i-rewarded-with-usdk-just-with.html
 - https://medium.com/@abhishake100/bug-bounty-in-lockdown-sqli-and-business-logic-98ab8cb5f661
+- https://infosecwriteups.com/cve-2022-38627-a-journey-through-sqlite-injection-to-compromise-the-whole-enterprise-building-15cebd072ed6

@@ -928,7 +928,6 @@
 - https://medium.com/@querylab/bypass-premium-account-payment-getpocket-d813b249687c, Payment-bypass
 - https://medium.com/@coffeeaddict_exe/500-in-5-minutes-45977e89a337, Broken-link-hijacking
 - https://medium.com/@mohammed01550038865/hello-hackers-a229fb5c821b, Blind-XSS
-- https://infosecwriteups.com/cve-2022-38627-a-journey-through-sqlite-injection-to-compromise-the-whole-enterprise-building-15cebd072ed6, SQL-injection
 - https://sudhanshur705.medium.com/exploring-the-world-of-esi-injection-b86234e66f91, ESI-injection
 - https://hamzadzworm.medium.com/how-i-got-a-bug-that-leads-to-takeover-accounts-of-any-user-who-view-my-profile-913c8704f6cd, XSS
 - https://medium.com/@ashlyn.lau_17206/hooking-secret-key-to-building-custom-burp-extension-c6aeb6fd312a, SQL-injection
@@ -2080,7 +2079,6 @@
 - https://www.wiz.io/blog/azure-app-service-source-code-leak, Security-misconfiguration
 - https://medium.com/@yoshimlutfi/how-i-found-p2-broken-authentication-with-zero-skill-of-hacking-c40b5643fe4a, Authentication-bypass
 - https://ssd-disclosure.com/ssd-advisory-rocket-chat-client-side-remote-code-execution/, RCE
-- https://web.archive.org/web/20220128200941/https://saeeds.medium.com/blackbox-cookie-testing-how-i-cracked-the-admins-cookie-c817dd4281c8, Authentication-bypass
 - https://parsiya.net/blog/2021-12-20-rce-in-visual-studio-codes-remote-wsl-for-fun-and-negative-profit/, RCE
 - https://amakki.me/stored-xss-by-bypassing-signature-61ebd83ece6, XSS
 - https://palant.info/2021/12/20/yes-fun-browser-extensions-can-have-vulnerabilities-too/, XSS
@@ -2195,7 +2193,6 @@
 - https://www.microsoft.com/security/blog/2021/10/28/microsoft-finds-new-macos-vulnerability-shrootless-that-could-bypass-system-integrity-protection/, SIP-bypass
 - https://omespino.com/write-up-xss-stored-in-api-media-atlassian-com-via-doc-file-ios/, Stored-XSS
 - https://shubhamchaskar.com/xxe-to-ntlm/, XXE
-- https://medium.com/@priyanshbansal25/unauthenticated-cache-purge-c56fac8569e8, Unauthenticated-cache-purge
 - https://medium.com/@vikramroot/unauthorized-access-to-any-users-account-600e8efe7de0, IDOR
 - https://blog.sonarsource.com/gocd-pre-auth-pipeline-takeover, Broken-authentication
 - https://web.archive.org/web/20211216032639/https://xelkomy.medium.com/easy-ssrf-from-wayback-machine-edf946486120, SSRF
@@ -2759,7 +2756,6 @@
 - https://web.archive.org/web/20210227092343/https://tommysuriel.medium.com/csrf-through-url-with-tag-parameter-c8ef585bded3, CSRF
 - https://web-in-security.blogspot.com/2021/02/security-and-privacy-of-social-logins-part2.html, DOM-XSS
 - https://johnjhacking.com/blog/cve-2021-23827/, Unencrypted-storage
-- https://jayateerthag.medium.com/grafana-admin-panel-bypass-in-google-acquisition-virustotal-c5ecc9d7b8ae, Default-credentials
 - https://secureitmania.medium.com/lets-know-how-i-have-explored-the-buried-secrets-in-xamarin-application-d6b8c5609c87, Hardcoded-API-keys
 - https://zdresearch.com/rce-on-a-laravel-private-program/, RCE
 - https://neroli.medium.com/is-math-random-safe-from-missing-rate-limit-to-bypass-2fa-and-possible-sqli-2a4ea66f82c5, Race-condition
@@ -3728,7 +3724,6 @@
 - https://philippeharewood.com/business-id-leak-via-creative-hub-redirect/, Open-redirect
 - https://gauravnarwani.com/admin-hijacked-by-sea-surf-pirates/, Stored-XSS
 - https://www.openbugbounty.org/blog/leonmugen/ssrf-reading-local-files-from-downnotifier-server/, SSRF
-- https://medium.com/@akshukatkar/rce-with-flask-jinja-template-injection-ea5d0201b870, SSTI
 - https://medium.com/@tungpun/client-not-client-aa448cfdedd2, LFI
 - https://medium.com/@jayateerthag/google-referer-leak-bug-434f6293ce66, Referer-leakage
 - https://web.archive.org/web/20200820030055/https://pwnsec.ninja/2019/09/14/how-i-found-a-simple-and-weird-account-takeover-bug/, Account-takeover

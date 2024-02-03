@@ -1,3 +1,4 @@
 - https://pawanchhabria.medium.com/how-i-escalated-default-credentials-to-remote-code-execution-1c34504be7a5
 - https://medium.com/@mahitman1/how-attacker-could-have-suffocated-the-company-staff-37a6b7192f12
 - https://medium.com/@adhaamsayed3/access-to-page-with-default-credentials-that-require-authenticate-e59cebf0bced
+- https://jayateerthag.medium.com/grafana-admin-panel-bypass-in-google-acquisition-virustotal-c5ecc9d7b8ae
