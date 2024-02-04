@@ -660,7 +660,6 @@
 - https://medium.com/@thelinuxboy/bugging-out-my-experience-of-earning-300-for-reporting-an-unexpected-bug-ec9f9b0054bc, Subdomain-takeover
 - https://m7arm4n.medium.com/default-credentials-on-sony-swag-time-8e35681ad39e, Hardcoded-credentials
 - https://nav1n.medium.com/i-earned-3500-and-40-points-for-a-graphql-blind-sql-injection-vulnerability-5b7e428c477d, SQL-injection
-- https://blog.agilehunt.com/blogs/security/msrc-critical-google-iap-authorization-bypass-allows-access-to-internal-envirnment-leading-to-zero-interaction-account-takeover, Authorization-bypass
 - https://vijetareigns.medium.com/wait-time-bypass-for-fun-and-profit-c3837e6bb8ed, Rate-limiting-bypass
 - https://mizu.re/post/ejs-server-side-prototype-pollution-gadgets-to-rce, Server-side-prototype-pollution
 - https://claroty.com/team82/research/the-silent-spy-among-us-modern-attacks-against-smart-intercoms, IoT
@@ -1191,7 +1190,6 @@
 - https://securityintelligence.com/posts/analysis-rce-vulnerability-cobalt-strike/, RCE
 - https://sector7.computest.nl/post/2022-10-iconics-genesis64/, RCE
 - https://lokeshdlk77.medium.com/facebook-sms-captcha-was-vulnerable-to-csrf-attack-8db537b1e980, CSRF
-- https://research.nccgroup.com/2022/10/17/toner-deaf-printing-your-next-persistence-hexacon-2022/, Path-traversal
 - https://saajan.bhujel.cyou/blog/web/2022-10-16-how-i-got-10000-from-github-for-bypassing-filtration-of-html-tags, XSS
 - https://web.archive.org/web/20221017025828/https://medium.com/@EX_097/my-first-critical-bug-in-hackerone-platform-2ce9adcb39a6, HTTP-request-smuggling
 - https://blog.kylebot.net/2022/10/16/CVE-2022-1786/, Use-After-Free
@@ -2244,7 +2242,6 @@
 - https://encodedguy.medium.com/600-for-idor-file-or-folder-download-243166452dad, IDOR
 - https://rishuranjanofficial.medium.com/html-injection-in-itunesconnect-apple-com-3f8a898f21ee, HTML-injection
 - https://vanshal.medium.com/pre-auth-ssrf-to-full-mailbox-access-microsoft-exchange-server-exploit-a62c8ac04b47, SSRF
-- https://labs.f-secure.com/blog/the-discovery-of-cve-2021-1810/, Logic-flaw
 - https://rohit443.medium.com/privilege-escalation-to-stored-xss-dff01314bc7e, Privilege-escalation
 - https://pentera.io/blog/vscalation-cve-2021-22015-local-privilege-escalation-in-vmware-vcenter-pentera-labs/, Local-Privilege-Escalation
 - https://blog.tint0.com/2021/09/pinging-xmlsec.html, XSLT
@@ -3301,7 +3298,6 @@
 - https://echopwn.com/local-file-read-via-xss-using-pdf-generate-functionality/, XSS
 - https://medium.com/@amyrahm786/story-of-blind-sql-with-a-typo-error-43a21913c8d, SQL-injection
 - https://medium.com/@rohitcoder/idor-delete-saved-credit-cards-from-any-business-manager-account-f28c773982eb, IDOR
-- https://initblog.com/2020/oslogin-privesc/, Local-Privilege-Escalation
 - https://medium.com/heck-the-packet/how-i-got-my-first-big-bounty-payout-with-tesla-8d28b520162d, Information-disclosure
 - https://medium.com/@valeriyshevchenko/from-crlf-to-account-takeover-a94d7aa0d74e, CRLF-injection
 - https://kb.cert.org/vuls/id/636397, DoS
@@ -4165,7 +4161,6 @@
 - https://slashcrypto.org/2018/11/28/eBay-source-code-leak/, git-folder-disclosure
 - https://medium.com/@vishnu0002/instagram-multi-factor-authentication-bypass-924d963325a1, MFA-bypass
 - https://www.amolbaikar.com/disclose-contact_email-of-any-facebook-application/, Information-disclosure
-- https://www.amolbaikar.com/xss-on-facebooks-acquisition-oculus-cdn/, XSS
 - https://www.amolbaikar.com/xss-on-facebook-instagram-cdn-server-bypassing-signature-protection/, XSS
 - https://medium.com/@benjitobias/from-ctfs-to-bug-bounty-booty-81bab999b70d, Information-disclosure
 - https://www.hackerinside.me/2018/11/critical-stored-xss-vulnerability.html, Stored-XSS

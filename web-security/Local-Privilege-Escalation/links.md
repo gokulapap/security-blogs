@@ -12,3 +12,4 @@
 - https://blog.silentsignal.eu/2022/09/28/another-tale-of-ibm-i-as-400-hacking/
 - https://jhftss.github.io/CVE-2022-22616-Gatekeeper-Bypass/
 - https://sector7.computest.nl/post/2023-01-xar/
+- https://initblog.com/2020/oslogin-privesc/
