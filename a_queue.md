@@ -300,7 +300,6 @@
 - https://blog.projectdiscovery.io/moveit-transfer-sql-injection/, SQL-injection
 - https://www.wojciechregula.blog/post/macos-atlassian-companion-rce/, RCE
 - https://devco.re/blog/2023/07/07/a-journey-into-hacking-google-search-appliance-en/, RCE
-- https://www.code-intelligence.com/blog/cve-protobufjs-prototype-pollution-cve-2023-36665, Prototype-pollution
 - https://www.rapid7.com/blog/post/2023/07/06/user-enumeration-is-not-a-vulnerability-i-beg-to-differ/, Username-enumeration
 - https://kuldeep.io/posts/fulldisclosure-dom-based-xss/, DOM-XSS
 - http://blog.takemyhand.xyz/2023/07/remote-code-execution-in-gitlabs-cli.html, RCE
@@ -704,7 +703,6 @@
 - https://redshark1802.com/blog/2023/03/01/abusing-hopy-by-hop-header-crlf-injection/, CRLF-injection
 - https://cristivlad.medium.com/exfiltrating-aws-credentials-via-pdf-rendering-of-unsanitized-input-63f39d60d963, SSRF
 - https://medium.com/@0xd3vil/how-i-earned-1800-for-finding-a-business-logic-account-takeover-vulnerability-c84c78e6ade0, Account-takeover
-- https://bergee.it/blog/broken-links-hijacking-and-cdn-takeover/, Broken-link-hijacking
 - https://blog.doyensec.com/2023/02/28/new-vector-for-dirty-arbitrary-file-write-2-rce.html, Arbitrary-file-write
 - https://www.sonarsource.com/blog/empowering-weak-primitives-file-truncation-to-code-execution-with-git/, Argument-injection
 - https://www.zerodayinitiative.com/blog/2023/2/27/cve-2022-38108-rce-in-solarwinds-network-performance-monitor, Insecure-deserialization
@@ -2432,7 +2430,6 @@
 - https://tomcope.com/exploit/2021/07/19/ibm-hmc-exploit-cve-2021-29707.html, Local-Privilege-Escalation
 - https://blog.takemyhand.xyz/2021/07/hacking-on-xiaomis-android-apps.html, Android
 - https://melotover.medium.com/how-i-bypassed-a-tough-waf-to-steal-user-cookies-using-xss-da75f28108e4, XSS
-- https://medium.com/@muhammadsholikhin/facebook-vulnerability-1500-for-removing-document-cover-9ffd0173877b, Authorization-flaw
 - https://shahjerry33.medium.com/rce-via-webdav-power-of-put-7e1c06c71e60, Default-credentials
 - https://web.archive.org/web/20211017061704/https://0xdln.ml/IIS-Default-Page-to-Information-Disclosure/, Information-disclosure
 - https://blog.ryotak.me/post/cdnjs-remote-code-execution-en/, RCE
@@ -2795,7 +2792,6 @@
 - https://thevillagehacker.medium.com/reflected-xss-on-a-public-program-e8c0416daca1, Reflected-XSS
 - https://sanderwind.medium.com/escalating-ssrf-to-rce-7c0147371c40, SSRF
 - http://almadj.us/infosec/xxe-to-aws-metadata-disclosure/, XXE
-- https://medium.com/@renwa/facebook-messenger-desktop-app-arbitrary-file-read-db2374550f6d, Arbitrary-file-read
 - https://medium.com/bugbountywriteup/page-admin-disclosed-in-groups-due-to-bad-session-handling-in-facebook-web-184514fafff9, Information-disclosure
 - https://muhammad-aamir.medium.com/open-redirect-vulnerability-found-using-link-parameter-5fc43e2ea8fd, Open-redirect
 - https://raxis.com/blog/rd-web-access-vulnerability, Timing-attack
@@ -3889,7 +3885,6 @@
 - https://payatu.com/microsoft-edge-extensions-host-permission-bypass-cve-2019-0678/, Browser-hacking
 - https://medium.com/bugbountywriteup/unicode-vs-waf-xss-waf-bypass-128cd9972a30, XSS
 - https://portswigger.net/blog/bypassing-csp-with-policy-injection, CSP-bypass
-- https://medium.com/@vishnu0002/remote-code-execution-recon-wins-e9c1db79f3da, RCE
 - https://blog.nyangawa.me/security/GitLab-Local-File-Read/, Path-traversal
 - https://medium.com/@frostnull/hi-guys-again-here-bringing-an-experience-to-share-with-you-as-usual-i-will-overshadow-some-f85a1d5a8d8c, Path-traversal
 - https://vishwarajbhattrai.wordpress.com/2019/06/03/missing-access-control-at-play-store/, Authorization-flaw

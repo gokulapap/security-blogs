@@ -1,2 +1,3 @@
 - https://medium.com/@trapp3rhat/command-injection-through-blh-3c32614bb395
 - https://shahjerry33.medium.com/broken-link-hijacking-mr-user-agent-cd124297f6e6
+- https://bergee.it/blog/broken-links-hijacking-and-cdn-takeover/
