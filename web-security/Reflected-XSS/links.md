@@ -17,3 +17,4 @@
 - https://medium.com/@aniltom/where-is-my-train-tracking-to-hacking-d388e4b97225
 - http://manuel-sousa.blogspot.com/2013/11/xss-google-groups-groupsgooglecom.html
 - https://medium.com/bugbountywriteup/reflected-xss-in-facebooks-mirror-websites-4384b4eb3e11
+- https://medium.com/@ramkumarnadar47/desperate-xss-ce3619343f57

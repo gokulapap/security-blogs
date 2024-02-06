@@ -1,1 +1,2 @@
 - https://twitter.com/kl_sree/status/953999305370607617
+- https://rohit443.medium.com/using-default-credential-to-admin-account-takeover-677e782ff2f2

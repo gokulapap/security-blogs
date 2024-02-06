@@ -246,7 +246,6 @@
 - https://samcurry.net/points-com/, Path-traversal
 - https://research.aurainfosec.io/pentest/hook-line-and-phishlet/, Phishing
 - https://mr-medi.github.io/research/2023/07/31/exploring-cross-site-frame-counting-attacks.html, Cross-Site-Frame-Counting
-- https://medium.com/@ramkumarnadar47/desperate-xss-ce3619343f57, Reflected-XSS
 - https://hazanasec.github.io/2023-07-30-Samesite-bypass-method-override.md/, Samesite-cookie-bypass
 - https://bountyplz.xyz/bugbounty/2023/07/30/HTML-Over-The-Wire.html, CSRF
 - https://infosecwriteups.com/bypassing-email-verification-of-high-profile-tech-company-e592cc4a89ce, Email-verification-bypass
@@ -638,7 +637,6 @@
 - https://princej-76.medium.com/how-i-chained-multiple-high-impact-vulnearbilities-to-create-a-critical-one-476950a3bb9f, Account-takeover
 - https://blog.doyensec.com/2023/03/16/ssrf-remediation-bypass.html, SSRF
 - https://medium.com/@abdulparkar9554/facebook-creator-studio-misconfiguration-348b0ee38c31, Session-expiration-issue
-- https://research.checkpoint.com/2023/checkmate/, Websockets
 - https://medium.com/@minometidji/oauth-authentication-misconfiguration-cb43c3b3ec24, OAuth
 - https://infosecwriteups.com/bypassing-character-limit-xss-using-spanned-payload-7301ffac226e, XSS
 - https://shahjerry33.medium.com/lfi-an-interesting-tweak-9c5638dbdd1b, LFI
@@ -1005,7 +1003,6 @@
 - https://medium.com/@cybercitizen.tech/how-we-breached-zdfheute-live-on-television-7530509b91be, Information-disclosure
 - https://starlabs.sg/blog/2022/12-the-hole-new-world-how-a-small-leak-will-sink-a-great-browser-cve-2021-38003/, Memory-corruption
 - https://ag3n7.medium.com/otp-leaking-through-cookie-leads-to-account-takeover-4fb96f255e2f, Information-disclosure
-- https://www.pmnh.site/post/writeup_spring_el_waf_bypass/, SSTI
 - https://blog.nietaanraken.nl/posts/gitub-popular-repository-namespace-retirement-bypass/, Repojacking
 - https://marvelmaniac.medium.com/the-most-underrated-injection-of-all-time-cypher-injection-fa2018ba0de8, Cypher-injection
 - https://marxchryz.medium.com/url-validation-bypass-using-browser-uri-normalization-cf545d33d13f, URL-validation-bypass
@@ -1237,7 +1234,6 @@
 - https://medium.com/@302Found/bugcrowd-tale-of-multiple-misconfigurations-cb5b98f09302, Account-takeover
 - https://medium.com/@nireshpandian19/my-first-and-second-bugs-are-2fa-bypass-1f6fd823b467, MFA-bypass
 - https://medium.com/@bug_vs_me/csrf-attack-0-click-account-delete-1st-write-up-3d67b267b931, CSRF
-- https://rohit443.medium.com/using-default-credential-to-admin-account-takeover-677e782ff2f2, Weak-credentials
 - https://thehemdeep.medium.com/breaking-business-logic-part-2-7-1-f19924b18783, Race-condition
 - https://medium.com/@Cybervenom/tale-of-easy-p1-bugs-in-wild-1b7f5bf80eef, Forced-browsing
 - https://www.trenchesofit.com/2022/09/30/zoneminder-web-app-testing/, DoS
@@ -1950,7 +1946,6 @@
 - https://orca.security/resources/blog/oracle-server-side-request-forgery-ssrf-attack-metadata/, SSRF
 - https://tech-blog.cymetrics.io/en/posts/huli/how-i-hacked-glints-and-your-resume-en/, IDOR
 - https://blog.sonarsource.com/wordpress-object-injection-vulnerability, Object-injection
-- https://research.ifcr.dk/spoolfool-windows-print-spooler-privilege-escalation-cve-2022-22718-bf7752b68d81, Local-Privilege-Escalation
 - https://www.cyberark.com/resources/threat-research-blog/how-docker-made-me-more-capable-and-the-host-less-secure, Local-Privilege-Escalation
 - https://web.archive.org/web/20220214063345/https://7odamo.medium.com/sql-injection-reflected-xss-and-information-disclosure-in-one-subdomain-in-just-10-minutes-f2ce877b43d4, SQL-injection
 - https://www.cyberick.com/post/what-i-found-on-sony-vulnerability-disclosure-program, Information-disclosure

@@ -13,3 +13,4 @@
 - https://jhftss.github.io/CVE-2022-22616-Gatekeeper-Bypass/
 - https://sector7.computest.nl/post/2023-01-xar/
 - https://initblog.com/2020/oslogin-privesc/
+- https://research.ifcr.dk/spoolfool-windows-print-spooler-privilege-escalation-cve-2022-22718-bf7752b68d81
