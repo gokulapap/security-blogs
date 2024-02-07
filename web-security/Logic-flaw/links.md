@@ -38,3 +38,5 @@
 - https://shahjerry33.medium.com/business-logic-errors-a-logic-destruction-477c4ebc824b
 - https://labs.detectify.com/2021/09/13/hacking-cloudkit-how-i-accidentally-deleted-your-apple-shortcuts/
 - https://labs.f-secure.com/blog/the-discovery-of-cve-2021-1810/
+- https://www.ezequiel.tech/2019/01/75k-google-cloud-platform-organization.html
+- https://medium.com/bugbountywriteup/hacking-the-medium-partner-program-84c0e9fa340

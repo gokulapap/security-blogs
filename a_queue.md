@@ -262,7 +262,6 @@
 - https://kuldeep.io/posts/escalating-privileges-with-ssrf/, SSRF
 - https://matan-h.com/one-lfi-bypass-to-rule-them-all-using-base64/, LFI
 - https://www.zerodayinitiative.com/blog/2023/7/19/cve-2023-36934-progress-software-moveit-transfer-sql-injection-remote-code-execution-vulnerability, SQL-injection
-- https://blog.exodusintel.com/2023/07/20/shifting-boundaries-exploiting-an-integer-overflow-in-apple-safari/, Integer-overflow
 - https://ssd-disclosure.com/ssd-advisory-tp-link-tl-wr840n-stack-buffer-overflow-dos/, Buffer-Overflow
 - https://www.mandiant.com/resources/blog/privileges-third-party-windows-installers, Local-Privilege-Escalation
 - https://www.sonarsource.com/blog/a-twist-in-the-code-openmeetings-vulnerabilities-through-unexpected-application-state/, Account-takeover
@@ -1096,7 +1095,6 @@
 - https://sec-consult.com/vulnerability-lab/advisory/path-traversal-vulnerability-in-payara-platform/, Path-traversal
 - https://medium.com/@jodyritonga/how-i-get-100-in-just-10-minutes-b018b28645ce, Race-condition
 - https://medium.com/@raymond-lind/finding-reflected-xss-in-a-strange-way-289a4f3fa630, XSS
-- https://www.usenix.org/system/files/sec23summer_235-rohlmann-prepub.pdf, Signature-bypass
 - https://www.usenix.org/system/files/sec23summer_198-gilsenan-prepub.pdf, Cryptographic-issues
 - https://varmaanu001.medium.com/from-shodan-dork-to-grafana-local-file-inclusion-e77dc4cfc264, LFI
 - https://blog.northseapwn.top/2022/11/11/Windows-Kernel-Exploit-CVE-2022-35803-in-Common-Log-File-System/index.html, Windows
@@ -2905,7 +2903,6 @@
 - https://web.archive.org/web/20210508050717/http://dphoeniixx.com/2020/12/13-2/, CSRF
 - https://baibhavjha.com.np/blogs/hidingcustomlist/, Logic-flaw
 - https://research.checkpoint.com/2020/game-on-finding-vulnerabilities-in-valves-steam-sockets/, Memory-corruption
-- https://kurtikleiton.medium.com/content-security-policy-bypass-to-perform-xss-3c8dd0d40c2e, XSS
 - https://medium.com/the-volatile-triad/hacking-tamper-with-the-url-parameters-especially-if-they-modify-the-page-7edf158c8db9, HTTP-parameter-pollution
 - https://pyrrhon.medium.com/how-i-was-able-to-take-over-one-of-dells-subdomains-7e06b8516e41, Subdomain-takeover
 - https://infosecwriteups.com/facebook-push-notification-linkshim-bypassed-385fe471516, Open-redirect
@@ -3038,7 +3035,6 @@
 - https://johnjhacking.com/blog/p1-critical-discovering-and-foiling-a-threat-actor/, Information-disclosure
 - https://medium.com/@vasuyadav0786/5-ways-to-do-ato-in-a-single-website-cfe7e5da987e, Account-takeover
 - https://medium.com/@masonhck357/chains-on-chains-chaining-multiple-low-level-vulns-into-a-critical-8b88db29738e, Blind-XSS
-- https://medium.com/bugbountywriteup/hacking-the-medium-partner-program-84c0e9fa340, Logic-flaw
 - https://medium.com/@suneets1ngh/parameter-tampering-ddd9b3de0da8, Parameter-tampering
 - https://vnhacker.blogspot.com/2020/09/advisory-security-issues-in-aws-kms-and.html, Cryptographic-issues
 - https://medium.com/bugbountywriteup/pii-leakage-via-idor-weak-passwordreset-full-account-takeover-58d159f88d73, IDOR
@@ -4053,7 +4049,6 @@
 - https://medium.com/@rupika.luhach/how-i-was-able-to-extract-information-of-other-users-exploiting-idor-9f03aa72dd06, IDOR
 - https://offensi.com/2019/01/31/lfi-in-apigee-portals, LFI
 - https://medium.com/bugbountywriteup/how-i-found-a-simple-bug-in-facebook-without-any-test-3bc8cf5e2ca2, Authorization-flaw
-- https://www.ezequiel.tech/2019/01/75k-google-cloud-platform-organization.html, Logic-flaw
 - https://medium.com/@0x48piraj/how-i-hacked-a-website-integrated-w-facebook-having-1-1-mil-users-under-45-seconds-e4adcfe8ccd6, Information-disclosure
 - https://medium.com/@kedrisec/publish-tweets-by-any-other-user-6c9d892708e3, IDOR
 - https://blog.detectify.com/2019/01/29/hacking-isnt-an-exact-science/, Authorization-flaw
