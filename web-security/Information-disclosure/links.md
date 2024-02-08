@@ -52,3 +52,4 @@
 - http://karmainsecurity.com/hacking-magento-ecommerce-for-fun-and-17000-usd
 - https://ysamm.com/?p=629
 - https://orwaatyat.medium.com/how-i-was-able-to-get-critical-bug-on-google-by-get-full-access-on-google-cloud-bi-hackathon-f779fce29900
+- https://blog.viettelcybersecurity.com/searching-against-the-flow/

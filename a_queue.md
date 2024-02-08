@@ -147,7 +147,6 @@
 - https://medium.com/@thelinuxboy/bugging-out-my-experience-of-earning-300-for-reporting-an-unexpected-bug-ec9f9b0054bc, journey
 - https://medium.com/@gokulelango1040/privilege-escalation-attacks-28a9ef226abb, privilege-escalation
 - https://medium.com/@jjainam16/csrf-lead-to-account-deletion-critical-bounty-7500-58aa6b848e3a, csrf
-- https://medium.com/@omfacu/methods-for-exploiting-file-upload-vulnerabilities-c046f9946b62, file-upload
 - https://medium.com/@hasharmujahid/bypassing-csrf-protection-i-bc014384d0aa, csrf
 - https://medium.com/@ashrafharb997/csrf-to-full-account-takeover-5196cef9d166, csrf
 - https://medium.com/@grahamzemel/1000-bac-the-complete-guide-to-exploiting-broken-access-control-966f1bd121e9, BAC
@@ -664,7 +663,6 @@
 - https://nav1n.medium.com/how-i-got-owned-a-multi-billion-dollar-retailers-mysql-databases-using-simple-sql-injection-30f8b0dfd9ce, SQL-injection
 - https://medium.com/@omerkepenek/the-story-of-becoming-a-super-admin-ab32db7dd1b3, Hardcoded-credentials
 - https://www.shockwave.cloud/blog/subdomain-takeover-how-a-misconfigured-dns-record-could-lead-to-a-huge-supply-chain-attack, Subdomain-takeover
-- https://ophionsecurity.com/blog/access-organization-secrets-in-github, Logic-flaw
 - https://infosecwriteups.com/dont-send-a-message-to-anyone-before-reading-this-account-takeover-vulnerability-external-audit-cf584a0c983c, HTTP-response-manipulation
 - https://medium.com/tenable-techblog/wordpress-buddyforms-plugin-unauthenticated-insecure-deserialization-cve-2023-26326-3becb5575ed8, Insecure-deserialization
 - https://secfault-security.com/blog/ms-app-center.html, Insecure-deserialization
@@ -1761,7 +1759,6 @@
 - https://palisade.consulting/blog/rarible-vulnerability, XSS
 - https://systemweakness.com/stored-xss-to-other-users-via-messages-e033239821b5, Stored-XSS
 - https://medium.com/pentesternepal/sql-injection-in-harvards-subdomain-c3148f8be156, SQL-injection
-- https://blog.viettelcybersecurity.com/searching-against-the-flow/, Information-disclosure
 - https://medium.com/@hacxyk/how-we-spoofed-ens-domains-52acea2079f6, Homograph-attack
 - https://bloggerrando.blogspot.com/2022/04/15-1.html, Broken-Access-Control
 - https://medium.com/@_ip_/3-3-cache-poisoning-lateral-movement-gitlab-9c6288708576, Broken-Access-Control
@@ -2147,7 +2144,6 @@
 - https://bahruz.me/publications/11847, HTTP-Request-Smuggling
 - https://hector0x.medium.com/dos-attack-in-yahoo-how-i-was-able-to-deny-new-users-from-service-6b222e744e61, DoS
 - https://piyushshuklabug.medium.com/how-i-found-p1-bug-due-to-sensitive-data-exposer-and-earn-99ebcb342bcd, Information-disclosure
-- https://proviesec.medium.com/broken-link-hijacking-404-google-play-store-xxx-bounty-96e79a8dfd71, Broken-link-hijacking
 - https://threatnix.io/blog/exploiting-csp-in-webkit-to-break-authentication-authorization/, Information-disclosure
 - https://securityflow.io/impact-of-an-insecure-deep-link/, Insecure-deeplink
 - https://secureitmania.medium.com/never-leave-this-tip-while-you-hunting-broken-access-control-f63c00b1e96a, Broken-Access-Control
@@ -3271,7 +3267,6 @@
 - https://medium.com/@__mr_beast__/the-frustrating-xss-33607894a071, XSS
 - https://www.synack.com/blog/guest-blog-from-file-upload-to-rce/, Unrestricted-file-upload
 - https://medium.com/@bachrudinashari/privilege-escalation-by-changing-http-response-admin-access-5e67c44713f6, Privilege-escalation
-- https://medium.com/@shakti.gtp/utilizing-lockdown-blind-sqli-leads-to-account-takeover-data-extraction-3705ce8bdb62, Blind-SQL-injection
 - https://medium.com/@silentbronco/the-p5-link-injection-story-2632e61f62b7, Hyperlink-injection
 - https://medium.com/swlh/abusing-microsoft-teams-rate-limiting-for-ddos-a8238958376a, DoS
 - https://hackingiscool.pl/cmdhijack-command-argument-confusion-with-path-traversal-in-cmd-exe/, OS-command-injection

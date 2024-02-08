@@ -40,3 +40,4 @@
 - https://labs.f-secure.com/blog/the-discovery-of-cve-2021-1810/
 - https://www.ezequiel.tech/2019/01/75k-google-cloud-platform-organization.html
 - https://medium.com/bugbountywriteup/hacking-the-medium-partner-program-84c0e9fa340
+- https://ophionsecurity.com/blog/access-organization-secrets-in-github
