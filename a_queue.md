@@ -1021,7 +1021,6 @@
 - https://www.legitsecurity.com/blog/artifact-poisoning-vulnerability-discovered-in-rust, Supply-chain-attack
 - https://medium.com/bored-engineer/xss-on-account-leagueoflegends-com-via-easyxdm-2016-75bcf9d582b5, XSS
 - https://hopesamples.blogspot.com/2022/11/the-space-creators-can-still-see.html, IDOR
-- https://aidilarf.medium.com/stored-xss-at-https-www-tiktok-com-11fed6db0590, Stored-XSS
 - https://www.synacktiv.com/sites/default/files/2022-11/trufusion_enterprise_unauthenticated_arbitrary_file_write.pdf, Unrestricted-file-upload
 - https://mc0wn.blogspot.com/2022/11/rce-on-apache-struts-2530.html, RCE
 - https://0xjin.medium.com/voip-spoofing-intigriti-1-250-57b99bf8bd2b, VoIP
@@ -1442,7 +1441,6 @@
 - https://sagarsajeev.medium.com/file-upload-bypass-to-rce-76991b47ad8f, Unrestricted-file-upload
 - https://medium.com/@iknowhatodo/amazon-cognito-misconfiguration-lead-to-account-takeover-20694243ca40, Account-takeover
 - https://bahruz.me/publications/11844, HTTP-Request-Smuggling
-- https://srcincite.io/blog/2022/08/11/i-am-whoever-i-say-i-am-infiltrating-vmware-workspace-one-access-using-a-0-click-exploit.html, Authentication-bypass
 - https://www.wiz.io/blog/the-cloud-has-an-isolation-problem-postgresql-vulnerabilities, Privilege-escalation
 - https://blog.quarkslab.com/attacking-titan-m-with-only-one-byte.html, Memory-corruption
 - https://gonzx.medium.com/my-experience-on-hacking-the-dutch-government-a2c5a5f43d83, XSS
@@ -2000,7 +1998,6 @@
 - https://www.reversemode.com/2022/01/finding-vulnerabilities-in-swiss-posts.html, Insecure-deserialization
 - https://www.zerodayinitiative.com/blog/2022/1/18/cve-2021-21661-exposing-database-info-via-wordpress-sql-injection, SQL-injection
 - https://googleprojectzero.blogspot.com//2022/01/zooming-in-on-zero-click-exploits.html, Memory-corruption
-- https://www.varonis.com/blog/box-mfa-bypass-sms, OTP-bypass
 - https://blog.assetnote.io/2022/01/17/workspace-one-access-ssrf/, SSRF
 - https://omespino.com/write-up-private-bug-bounty-firebase-database-exposed-by-misconfiguration-2000-usd/, Android
 - https://medium.com/@p3rr0x22/critical-xss-in-chrome-extension-b55757a2074, XSS
@@ -3097,7 +3094,6 @@
 - https://medium.com/bugbountywriteup/how-could-i-tag-photo-to-any-users-scrapbook-on-facebook-23ab15e6e4b4, Authorization-flaw
 - https://medium.com/bugbountywriteup/from-sql-injection-to-hall-of-fame-96a08c869acd, SQL-injection
 - https://www.activecyber.us/activelabs/windows-appx-deployment-service-local-privilege-escalation-cve-2020-1488, Local-Privilege-Escalation
-- https://abss.me/posts/fcm-takeover/, Hardcoded-API-keys
 - https://web.archive.org/web/20200819113116/https://medium.com/@godofdarkness.msf/account-takeover-using-re-register-bug-bounty-bda8bb2106e6, Account-takeover
 - https://medium.com/witnet/witnet-network-acknowledged-dos-bug-f7d55b709051, DoS
 - https://web.archive.org/web/20200816192659/https://medium.com/@godofdarkness.msf/influxdb-access-at-redact-8x8-com-1b54976b137, Missing-authentication
@@ -3528,7 +3524,6 @@
 - https://medium.com/bugbountywriteup/accidental-idor-that-deleted-admin-account-d51264292b66, IDOR
 - https://medium.com/bugbountywriteup/the-unexpected-bounty-a-story-of-zendesk-takeover-on-redacted-com-f2aa96ce2026, Subdomain-takeover
 - https://medium.com/nassec-cybersecurity-writeups/how-i-was-able-to-take-over-any-users-account-with-host-header-injection-546fff6d0f2, Host-header-injection
-- https://medium.com/@sasaxxx777/cors-misconfiguration-leading-to-private-information-disclosure-3034cfcb4b93, CORS-misconfiguration
 - https://medium.com/@ozguralp/a-less-known-attack-vector-second-order-idor-attacks-14468009781a, IDOR
 - https://medium.com/@shahjerry33/password-reset-token-leak-via-referrer-2e622500c2c1, Password-reset
 - https://blog.securitybreached.org/2020/01/22/user-account-takeover-via-signup-feature-bug-bounty-poc/, Account-takeover

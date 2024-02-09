@@ -19,3 +19,4 @@
 - https://checkmarx.com/blog/securing-open-source-solutions-a-study-of-osticket-vulnerabilities/
 - https://medium.com/@reiss.r/stop-scratching-the-surface-and-hack-the-dependencies-fe4c26cd8ea
 - https://medium.com/@dekeeu/reposted-2017-linkedin-hackers-experience-8465c1848c88
+- https://aidilarf.medium.com/stored-xss-at-https-www-tiktok-com-11fed6db0590
