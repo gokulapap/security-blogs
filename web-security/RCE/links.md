@@ -56,3 +56,4 @@
 - https://www.jomar.fr/posts/2022/basic_recon_to_rce_iii/
 - https://secret.club/2021/05/13/source-engine-rce-join.html
 - https://medium.com/@vishnu0002/remote-code-execution-recon-wins-e9c1db79f3da
+- https://robertchen.cc/blog/2021/09/20/npm-rce

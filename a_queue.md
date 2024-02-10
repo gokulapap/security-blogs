@@ -105,7 +105,6 @@
 - https://medium.com/@deepamkumar510/remote-code-execution-rce-through-file-upload-functionality-1809bd504805, RCE
 - https://medium.com/@nynan/what-i-learnt-from-reading-217-subdomain-takeover-bug-reports-c0b94eda4366, STO
 - https://medium.com/@proviesec/a-swag-for-a-open-redirect-google-dork-bug-bounty-2143b943f34e, open-redirection
-- https://medium.com/@pravinponnusamy/secure-code-review-and-sql-injection-d8a1a6da3d67, source-code-review
 - https://medium.com/@sharanthehunter/g-map-api-key-exploitation-6fdf60fbb263, misc
 - https://medium.com/@videopourtoujour/brokenlinkhijacking-43ab80a4a717, low-hangings
 - https://medium.com/@andrea0/understanding-and-exploiting-http-for-bug-bounty-46286fcdd870, misc
@@ -348,7 +347,6 @@
 - https://medium.com/@kushjain0107/one-mistake-three-bugs-comprehensive-android-pentesting-a8fc68e36af5, Android
 - https://github.com/pedrib/PoC/blob/master/advisories/ManageEngine/adselfpwnplus/adselfpwnplus.md, Authentication-bypass
 - https://medium.com/@0xnaeem/how-i-found-a-sql-injection-bug-in-using-my-cellphone-5b5193fdc314, SQL-injection
-- https://medium.com/@karimelsayed0x1/my-first-bug-is-rce-via-sql-injection-dfee9c4d4c01, SQL-injection
 - https://www.rapid7.com/blog/post/2023/06/22/multiple-vulnerabilities-in-fortra-globalscape-eft-administration-server-fixed/, Out-of-bounds-Read
 - https://www.vusec.net/projects/uncontained/, Kernel-hacking
 - https://octa-mihail.medium.com/my-first-bounty-on-synack-red-team-4ef53329c960, Stored-XSS
@@ -665,7 +663,6 @@
 - https://www.shockwave.cloud/blog/subdomain-takeover-how-a-misconfigured-dns-record-could-lead-to-a-huge-supply-chain-attack, Subdomain-takeover
 - https://infosecwriteups.com/dont-send-a-message-to-anyone-before-reading-this-account-takeover-vulnerability-external-audit-cf584a0c983c, HTTP-response-manipulation
 - https://medium.com/tenable-techblog/wordpress-buddyforms-plugin-unauthenticated-insecure-deserialization-cve-2023-26326-3becb5575ed8, Insecure-deserialization
-- https://secfault-security.com/blog/ms-app-center.html, Insecure-deserialization
 - https://www.securifera.com/blog/2023/03/06/attacking-net-web-services/, Security-code-review
 - https://mega-caveat.github.io, Cryptographic-issues
 - https://eprint.iacr.org/2023/331.pdf, Cryptographic-issues
@@ -2254,7 +2251,6 @@
 - https://medium.com/@shakti.gtp/a-fever-worth-750-accessing-private-projects-d113c561311f, IDOR
 - https://medium.com/@varmaanu001/cookie-stealing-via-clickjacking-using-burp-collaborator-ff6f4ac1c18b, Clickjacking
 - https://codewhitesec.blogspot.com/2021/09/citrix-sharefile-rce-cve-2021-22941.html, RCE
-- https://robertchen.cc/blog/2021/09/20/npm-rce, RCE
 - https://infosecwriteups.com/unlimited-report-user-in-instagram-facebook-leads-to-abuse-risk-efcca325aada, Lack-of-rate-limiting
 - https://dewangpanchal98.medium.com/admin-access-799b50694965, Privilege-escalation
 - https://fardeen-ahmed.medium.com/a-small-change-and-things-go-in-your-hand-story-of-a-250-bounty-5ddc43c31463, Information-disclosure
@@ -2525,7 +2521,6 @@
 - https://medium.com/fraktal/content-spoofing-vulnerability-in-shibboleth-service-provider-a6619404eaf1, Content-spoofing
 - https://amineaboud.medium.com/disclose-leads-form-details-of-any-facebook-business-account-or-facebook-page-bug-bounty-7ecae6cff312, IDOR
 - https://mikekitckchan.medium.com/cors-misconfig-that-worths-usd200-4696eda5ab4c, CORS-misconfiguration
-- https://bendtheory.medium.com/finding-and-exploiting-unintended-functionality-in-main-web-app-apis-6eca3ef000af, IDOR
 - https://rohitcoder.medium.com/victims-anti-csrf-token-could-be-exposed-to-third-party-applications-installed-on-user-s-device-be8e40d511ba, Information-disclosure
 - https://shrirangdiwakar.medium.com/how-i-turned-0000-into-600-phone-verification-bypass-b1c0f6eb568e, OTP-bypass
 - https://dewangpanchal98.medium.com/403-forbidden-bypass-fc8b5df109b7, 403-bypass

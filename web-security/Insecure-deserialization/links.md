@@ -7,3 +7,4 @@
 - https://www.reversemode.com/2022/05/finding-vulnerabilities-in-swiss-posts.html
 - https://www.starlabs.sg/blog/2022/05-new-wine-in-old-bottle-microsoft-sharepoint-post-auth-deserialization-rce-cve-2022-29108/
 - https://spaceraccoon.dev/applying-offensive-reverse-engineering-to-facebook-gameroom
+- https://secfault-security.com/blog/ms-app-center.html

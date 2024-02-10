@@ -54,3 +54,4 @@
 - https://medium.com/@nxenon/some-tips-to-finding-idors-more-easily-and-fixing-them-2c9d0c58bb4a
 - https://0x4kd.medium.com/how-i-became-a-millionaire-in-3h-fintech-bug-bounty-part-1-90193c5bd86f
 - https://www.jonbottarini.com/2018/01/02/abusing-internal-api-to-achieve-idor-in-new-relic/
+- https://bendtheory.medium.com/finding-and-exploiting-unintended-functionality-in-main-web-app-apis-6eca3ef000af

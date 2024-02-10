@@ -1,0 +1,1 @@
+- https://medium.com/@pravinponnusamy/secure-code-review-and-sql-injection-d8a1a6da3d67
