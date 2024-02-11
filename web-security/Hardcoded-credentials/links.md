@@ -1,3 +1,4 @@
 - https://www.modzero.com/modlog/archives/2022/12/19/better_make_sure_your_password_manager_is_secure/index.html
 - https://medium.com/@YumiSec/from-an-error-message-to-db-diclosure-1af879c74474
 - https://ssd-disclosure.com/ssd-advisory-cisco-secure-manager-appliance-jwt_api_impl-hardcoded-jwt-secret-elevation-of-privilege/
+- https://redrays.io/cve-2020-6369-patch-bypass/

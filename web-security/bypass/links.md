@@ -3,3 +3,4 @@
 - https://medium.com/@devnack/how-i-bypassed-incapsula-waf-db0498b3a021
 - https://medium.com/@mohammed199709/improper-access-control-403-forbidden-bypass-489393ea112e
 - https://medium.com/@tutorialboy/bypassing-php-waf-to-achieve-remote-code-execution-in-depth-analysis-f42eb6e633fa
+- https://medium.com/@videopourtoujour/2fa-bypass-techniques-4050d2ff4818

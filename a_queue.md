@@ -154,7 +154,6 @@
 - https://medium.com/@pawanchhabria/how-i-escalated-default-credentials-to-remote-code-execution-1c34504be7a5, RCE
 - https://medium.com/@sushantdhopat/how-i-able-to-steal-lot-of-user-sensitive-information-pii-throw-idor-insecure-direct-object-e41e08e88a06, info-disclosure
 - https://medium.com/@sathvika03/finding-exif-geo-location-of-images-4ea35e9d10e7, low-hangings
-- https://medium.com/@videopourtoujour/2fa-bypass-techniques-4050d2ff4818, bypass
 - https://medium.com/@grahamzemel/a-500-open-redirect-bounty-in-under-10-minutes-fbb1cce063e5, open-redirection
 - https://medium.com/@s_novoselov/ssti-csti-dont-waste-your-time-c6e9fbb20743, injection
 - https://medium.com/@K9ightFr3ak/exploiting-broken-access-control-vulnerability-4d16f72c7983, BAC
@@ -338,7 +337,6 @@
 - https://www.sonarsource.com/blog/why-orms-and-prepared-statements-cant-always-win/, SQL-injection
 - https://www.synacktiv.com/sites/default/files/2023-06/synacktiv-ucopia-multiple-vulnerabilities-2022.pdf, Security-misconfiguration
 - https://x64.sh/posts/ServiceNow-Insecure-access-control-to-admin/, Broken-Access-Control
-- https://medium.com/@lokesh.leads13/disallow-any-hackerone-user-permanent-access-to-his-her-own-hackerone-account-using-vulnerability-147ce9957692, Application-level-DoS
 - http://www.kamilonurozkaleli.com/posts/a-classical-account-takeover-case-via-multiple-bypasses/, Account-takeover
 - https://medium.com/@pratiky054/account-takeover-unraveling-idor-stored-xss-flaws-in-an-nft-marketplace-158679660fa7, IDOR
 - https://medium.com/@0day_exploit/stored-xss-via-exif-data-37b279ceb3e9, Stored-XSS
@@ -1029,7 +1027,6 @@
 - https://offsec.space/posts/airtel-vulnerabilities/, Arbitrary-Code-Execution
 - https://medium.com/@sharp488/2fa-enabled-accounts-can-bypass-authentication-access-account-after-deactivation-8276a586be82, Authentication-bypass
 - https://infosecwriteups.com/unique-rate-limit-bypass-worth-1800-6e2947c7d972, Rate-limiting-bypass
-- https://medium.com/@damaidec/firebase-exploit-bug-bounty-be63f4dc1e4a, Security-misconfiguration
 - https://medium.com/@sharp488/access-any-owner-account-without-authentication-auth-bypass-2fa-bypass-94d0d3ef0d9c, Authentication-bypass
 - https://www.scrawledsecurityblog.com/2022/11/automating-unsolicited-richard-pics.html, IDOR
 - https://bhashit.in/?p=117, OS-command-injection
@@ -1388,7 +1385,6 @@
 - https://blog.sonarsource.com/securing-developer-tools-argument-injection-in-vscode/, Argument-injection
 - https://redrays.io/cve-2020-2733-jd-edwards/, Information-disclosure
 - https://whereisk0shl.top/post/break-me-out-of-sandbox-in-old-pipe-cve-2022-22715-windows-dirty-pipe, Local-Privilege-Escalation
-- https://redrays.io/cve-2020-6369-patch-bypass/, Hardcoded-credentials
 - https://www.benthamsgaze.org/2022/08/22/vulnerability-in-linux-containers-investigation-and-mitigation/, Local-Privilege-Escalation
 - https://security.humanativaspa.it/useless-path-traversals-in-zyxel-admin-interface-cve-2022-2030/, Path-traversal
 - https://apth3hack3r.medium.com/ssrf-google-hof-hall-of-fame-2c159dda04e3, SSRF
@@ -3555,7 +3551,6 @@
 - https://smaranchand.com.np/2019/12/subdomain-takeover-via-pantheon/, Subdomain-takeover
 - https://jinone.github.io/bugbounty-a-dom-xss/, DOM-XSS
 - https://leucosite.com/Edge-Chromium-EoP-RCE/, XSS
-- https://enumerated.wordpress.com/2019/12/24/sop-bypass-via-browser-cache, SOP-bypass
 - https://web.archive.org/web/20210116171139/https://strynx.org/imagemagick-rce/, ImageTragick
 - https://web.archive.org/web/20210116173906/https://strynx.org/insecure-crypto-code-execution/, SQL-injection
 - https://www.indoappsec.in/2019/12/airbnb-steal-earning-of-airbnb-hosts-by.html, IDOR
