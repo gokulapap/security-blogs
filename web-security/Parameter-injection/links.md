@@ -1,0 +1,1 @@
+- https://www.synacktiv.com/sites/default/files/2023-02/Synacktiv-Security_Advisory-Dell_EMC_vApp_Manager-Multiple_Vulnerabilities.pdf

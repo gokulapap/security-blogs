@@ -732,7 +732,6 @@
 - https://medium.com/@fattselimi/information-disclosure-vulnerability-in-adobe-experience-manager-affecting-multiple-companies-2fb0558cd957, Information-disclosure
 - https://medium.com/@chenshiri/taking-over-google-cloud-shell-by-utilizing-capabilities-and-kubelet-fd5e2417f286, Container-escape
 - https://www.vaadata.com/blog/exploiting-an-html-injection-with-dangling-markup/, HTML-injection
-- https://www.synacktiv.com/sites/default/files/2023-02/Synacktiv-Security_Advisory-Dell_EMC_vApp_Manager-Multiple_Vulnerabilities.pdf, Parameter-injection
 - https://www.trellix.com/en-us/about/newsroom/stories/research/trellix-advanced-research-center-discovers-a-new-privilege-escalation-bug-class-on-macos-and-ios.html, Local-Privilege-Escalation
 - https://bishopfox.com/blog/what-the-vuln-zimbra, Zip-Slip-attack
 - https://onekey.com/blog/clamav-critical-patch-review/, RCE
@@ -2620,7 +2619,6 @@
 - https://servicenger.com/blog/mobile/google-photos-theft-of-database-arbitrary-files-android-vulnerability/, Improper-Export-of-Android-Application-Components
 - https://onekey.com/blog/advisory-cisco-rv34x-authentication-bypass-remote-command-execution/, Authentication-bypass
 - https://arben.sh/bugbounty/Local-File-Inclusion/, LFI
-- https://leethax0.rs/2021/04/ElectricChrome/, RCE
 - https://infosecwriteups.com/unauthenticated-account-takeover-through-forget-password-c120b4c1141d, Password-reset
 - https://monke.ie/duckduckgoxss/, Stored-XSS
 - https://gatolouco.medium.com/cookie-poisoning-leads-to-dos-and-privacy-violation-8aa773547c96, DoS
@@ -3188,7 +3186,6 @@
 - https://bugs.chromium.org/p/chromium/issues/detail?id=1040755, Universal-XSS
 - https://medium.com/@yaala/make-featured-product-in-any-video-ec2bd4816ae4, IDOR
 - https://medium.com/@swaysthinking/my-first-bug-blind-ssrf-through-profile-picture-upload-72f00fd27bc6, SSRF
-- https://blog.easysiem.com/application-security/case-study-i-browser-anomaly-with-facebook-apps-1500usd, Authorization-flaw
 - https://medium.com/@alyanwar/taking-over-files-in-a-chat-idor-in-microsoft-teams-e5289c2efd0, IDOR
 - https://medium.com/@daoud_youssef/from-host-header-injection-to-sql-injection-e7c61a61b575, Host-header-injection
 - https://medium.com/@hgreal/why-i-paid-3-5k-to-become-a-tld-registrar-reseller-when-doing-bug-bounty-d9d407911dce, XXE
@@ -4210,7 +4207,6 @@
 - https://www.martinvigo.com/googlemeetroulette, Bruteforce
 - https://www.sec-down.com/wordpress/?p=809, CSRF
 - https://medium.com/@jonathanbouman/stored-xss-unvalidated-embed-at-medium-com-528b0d6d4982, Stored-XSS
-- https://medium.com/@rohitcoder/email-id-phone-number-can-be-exposed-through-business-manager-e79b970ea288, Logic-flaw
 - http://10degres.net/aws-takeover-through-ssrf-in-javascript/, SSRF
 - https://medium.com/@saamux/applying-a-small-bypass-to-steal-facebook-session-tokens-in-uber-5b9638b7a18c, XSS
 - https://blog.securityevaluators.com/collecting-shells-by-the-sea-of-nas-vulnerabilities-155a0bd7c525, OS-command-injection
@@ -4765,7 +4761,6 @@
 - https://web.archive.org/web/20200313201545/http://www.anandpraka.sh/2015/06/how-i-hacked-zomatocom-to-see-data-of.html, IDOR
 - https://blog.darabi.me/2015/03/facebook-bypass-ads-account-roles.html, Authorization-flaw
 - https://josipfranjkovic.blogspot.com/2015/04/race-conditions-on-facebook.html, Race-condition
-- https://blog.darabi.me/2015/04/bypass-facebook-csrf.html, CSRF
 - https://blog.zimperium.com/telegram-hack/, Privacy-issue
 - https://buer.haus/2015/02/03/google-com-mobile-feedback-url-redirect-regexvalidation-flaw/, Open-redirect
 - https://buer.haus/2015/01/15/yahoo-root-access-sql-injection-tw-yahoo-com/, SQL-injection

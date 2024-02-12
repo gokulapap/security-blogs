@@ -32,3 +32,4 @@
 - https://pankajupadhyay.in/2020/05/01/ok-google-bypass-flag-secure/
 - https://rafi-ahamed.medium.com/forcing-for-a-bounty-b637c468d7bd
 - https://medium.com/@muhammadsholikhin/facebook-vulnerability-1500-for-removing-document-cover-9ffd0173877b
+- https://blog.easysiem.com/application-security/case-study-i-browser-anomaly-with-facebook-apps-1500usd

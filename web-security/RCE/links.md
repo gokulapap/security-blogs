@@ -57,3 +57,4 @@
 - https://secret.club/2021/05/13/source-engine-rce-join.html
 - https://medium.com/@vishnu0002/remote-code-execution-recon-wins-e9c1db79f3da
 - https://robertchen.cc/blog/2021/09/20/npm-rce
+- https://leethax0.rs/2021/04/ElectricChrome/

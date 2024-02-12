@@ -27,3 +27,4 @@
 - https://medium.com/@rojanrijal/luminate-store-basics-defacement-and-potential-takeover-3b53d1e45b4f
 - https://whitton.io/articles/instagrams-one-click-privacy-switch/
 - https://medium.com/@odayalhalbe1/my-first-bug-in-google-and-how-i-got-csrf-token-for-victim-account-rather-than-bypass-it-1337-bf01261feb47
+- https://blog.darabi.me/2015/04/bypass-facebook-csrf.html
