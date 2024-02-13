@@ -277,7 +277,6 @@
 - https://blog.talosintelligence.com/weaknesses-mac-os-vmware-msrpc/, Kernel-hacking
 - https://posts.specterops.io/performance-diagnostics-and-wmi-21f3e01790d3, Lateral-movement
 - https://research.securitum.com/how-private-cache-can-lead-to-mass-account-takeover-pentest-case/, Account-takeover
-- https://zxsecurity.co.nz/research/advisories/race-condition-asp-net-core-signinmanager/, Race-condition
 - https://labs.withsecure.com/publications/executing-arbitrary-code-executables-in-read-only-filesystems, Kubernetes
 - https://www.kroll.com/en/insights/publications/cyber/ghostscript-cve-2023-36664-remote-code-execution-vulnerability, RCE
 - https://medium.com/workday-engineering/exploiting-jmeter-via-rmi-e8e12392bba8, Insecure-deserialization
@@ -3410,7 +3409,6 @@
 - https://adnanmalik.info/blog/the-ticklish-xss%EF%BF%BC/, XSS
 - https://web.archive.org/web/20201004092711/https://sametsahin.net/posts/administrator-level-privilege-escalation-story/, Privilege-escalation
 - https://medium.com/bugbountywriteup/reflected-xss-on-microsoft-com-subdomains-4bdfc2c716df, Reflected-XSS
-- https://medium.com/the-volatile-triad/hacking-always-check-the-cross-domain-policy-369940372de3, SOP-bypass
 - https://honoki.net/2020/03/18/xxe-scape-through-the-front-door-circumventing-the-firewall-with-http-request-smuggling/, XXE
 - https://medium.com/@parasarora06/how-i-was-able-to-verify-any-contact-number-for-my-account-57c939dab202, OTP-bypass
 - https://web.archive.org/web/20200317103909/https://medium.com/sourav-sahana/razer-mobile-pin-verification-bypass-1k-bug-2eb1485796b3, OTP-bypass
@@ -3500,7 +3498,6 @@
 - https://web.archive.org/web/20200328011551/https://medium.com/@godofdarkness.msf/tumblr-bug-bounty-200-2051ba54e981, Unrestricted-file-upload
 - https://www.amolbaikar.com/disclose-full-admin-list-of-any-facebook-applications/, IDOR
 - https://techblog.mediaservice.net/2020/01/ok-google-bypass-the-authentication/, Authentication-bypass
-- https://web.archive.org/web/20200506144651/https://medium.com/@jeppe.b.weikop/2fa-bypass-via-logical-rate-limiting-bypass-25ae2a4e1835, MFA-bypass
 - https://medium.com/@bathinivijaysimhareddy/how-i-takeover-the-companys-linkedin-page-790c9ed2b04d, Broken-link-hijacking
 - https://medium.com/@abhishake100/hyperlink-injection-easy-money-sometimes-cc1104655300, Hyperlink-injection
 - https://publish.whoisbinit.me/adding-anyone-including-non-friend-and-blocked-people-as-co-host-in-personal-event, IDOR
@@ -3651,7 +3648,6 @@
 - https://medium.com/@edmundaa222/poc-disclose-members-in-any-closed-facebook-group-259783fa4bf, Information-disclosure
 - https://medium.com/@danangtriatmaja/bug-bounty-flaw-in-authentication-get-hall-of-fame-google-6196726ee5b9, Authentication-flaw
 - https://gauravnarwani.com/escalating-privileges-like-a-pro/, Privilege-escalation
-- https://0xsha.io/posts/hunting-for-bounties-antihackme-case-study, RCE
 - https://buer.haus/2019/10/18/a-tale-of-exploitation-in-spreadsheet-file-conversions/, Local-file-disclosure
 - https://philippeharewood.com/1-800-flowers-credentials-and-message-log-leak-via-facebook-com-facebook/, AWS-misconfiguration
 - https://medium.com/bugbountywriteup/how-i-was-able-to-bypass-otp-token-requirement-in-razer-the-story-of-a-critical-bug-fc63a94ad572, OTP-bypass
@@ -3841,7 +3837,6 @@
 - https://medium.com/bug-bounty-hunting/fullscreen-api-attacks-revisited-and-the-fb-na-story-cbea3ca383c5, Phishing
 - https://medium.com/@nishantrustlingup/admin-account-total-information-disclosure-72ec60da4a78, Source-code-disclosure
 - https://medium.com/@saadahmedx/idor-account-takeover-1ff5a2d03b8b, IDOR
-- https://web.archive.org/web/20201028215444/http://incidentsecurity.com/how-spending-our-saturday-hacking-earned-us-20k/, IDOR
 - https://medium.com/@ciph3r7r0ll/chaining-improper-authorization-to-race-condition-to-harvest-credit-card-details-a-bug-bounty-effe6e0f5076, Authorization-flaw
 - https://medium.com/@androgaming1912/redstrom-denial-of-service-write-up-d8fd97f18335, DoS
 - https://noobe.io/articles/2019-06/reflected-xss-on-error-page, Reflected-XSS

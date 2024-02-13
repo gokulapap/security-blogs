@@ -58,3 +58,4 @@
 - https://medium.com/@vishnu0002/remote-code-execution-recon-wins-e9c1db79f3da
 - https://robertchen.cc/blog/2021/09/20/npm-rce
 - https://leethax0.rs/2021/04/ElectricChrome/
+- https://0xsha.io/posts/hunting-for-bounties-antihackme-case-study

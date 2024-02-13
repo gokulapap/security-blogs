@@ -1,3 +1,4 @@
 - https://web.archive.org/web/20200304074843/https://medium.com/@kenanistaken/sop-bypass-ecae7f4a5c00
 - https://www.bentkowski.info/2022/11/google-roulette/
 - https://enumerated.wordpress.com/2019/12/24/sop-bypass-via-browser-cache
+- https://medium.com/the-volatile-triad/hacking-always-check-the-cross-domain-policy-369940372de3

@@ -5,3 +5,4 @@
 - https://medium.com/@arthbajpai277/2fa-bypass-by-changing-request-method-to-delete-500fd0ed12b8
 - https://medium.com/clouddevops/bugbounty-how-i-cracked-2fa-two-factor-authentication-with-simple-factor-brute-force-a1c0f3a2f1b4
 - https://medium.com/sourav-sahana/bypass-2fa-in-a-website-d616eaead1e3
+- https://web.archive.org/web/20200506144651/https://medium.com/@jeppe.b.weikop/2fa-bypass-via-logical-rate-limiting-bypass-25ae2a4e1835
