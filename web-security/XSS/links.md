@@ -62,3 +62,4 @@
 - https://medium.com/@friendly_/bypassing-cloudflares-waf-b1b83a50fb2f
 - https://www.amolbaikar.com/xss-on-facebooks-acquisition-oculus-cdn/
 - https://kurtikleiton.medium.com/content-security-policy-bypass-to-perform-xss-3c8dd0d40c2e
+- https://ysamm.com/?p=525

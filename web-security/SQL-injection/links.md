@@ -22,3 +22,4 @@
 - https://medium.com/@abhishake100/bug-bounty-in-lockdown-sqli-and-business-logic-98ab8cb5f661
 - https://infosecwriteups.com/cve-2022-38627-a-journey-through-sqlite-injection-to-compromise-the-whole-enterprise-building-15cebd072ed6
 - https://medium.com/@karimelsayed0x1/my-first-bug-is-rce-via-sql-injection-dfee9c4d4c01
+- https://github.com/aeyesec/CVE-2022-34265

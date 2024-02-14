@@ -2,3 +2,4 @@
 - https://www.redtimmy.com/bug-bounty-failure-stories-to-learn-from-how-we-ended-up-to-hack-a-bank-with-no-reward/
 - https://www.yesnaveen.com/remotely-permanent-crash-any-instagram
 - https://www.legitsecurity.com/blog/dos-via-software-supply-chain-innumerable-projects-exposed-to-a-markdown-library-vulnerability
+- https://www.usenix.org/conference/usenixsecurity21/presentation/bock

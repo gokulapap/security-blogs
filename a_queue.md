@@ -1562,7 +1562,6 @@
 - https://monke.ie/case-study-part-2/, SSRF
 - https://ivreznap.medium.com/interesting-privilege-escalation-in-an-old-private-program-225d27253e13, Privilege-escalation
 - https://labs.detectify.com/2022/07/06/account-hijacking-using-dirty-dancing-in-sign-in-oauth-flows/, OAuth
-- https://github.com/aeyesec/CVE-2022-34265, SQL-injection
 - https://medium.com/@ittipatjitrada_72022/how-i-found-open-redirect-on-bug-crowd-public-program-in-2-day-a217cfb70f3, Open-redirect
 - https://infosecwriteups.com/exposing-millions-of-voter-id-card-users-details-8a993c9a5d35, IDOR
 - https://www.signal-labs.com/blog/rediscovering-epic-games-0-days, Local-Privilege-Escalation
@@ -2348,7 +2347,6 @@
 - https://medium.com/@psr595bro/how-i-found-read-write-access-to-the-personal-data-of-3-million-users-of-an-e-commerce-website-b9026b0d4bd3, IDOR
 - https://yasshk.medium.com/blind-ssrf-in-url-validator-93cbe7521c68, Blind-SSRF
 - https://medium.com/@chaitanyarajhans024/simple-html-injection-to-250-895b760409ed, HTML-injection
-- https://www.usenix.org/conference/usenixsecurity21/presentation/bock, DoS
 - https://craighays.com/how-i-bought-a-240-pound-annual-subscription-for-bargain-1-penny/, Payment-tampering
 - https://github.com/justinsteven/advisories/blob/master/2021_vscode_ipynb_xss_arbitrary_file_read.md, XSS
 - https://www.fortbridge.co.uk/research/multiple-vulnerabilities-in-cpanel-whm/, XXE
@@ -2530,7 +2528,6 @@
 - https://n3t-hunt3r.medium.com/finding-my-first-critical-web-cache-poisoning-6f956799371c, Web-cache-poisoning
 - https://feed.bugs.xdavidhu.me/bugs/0006, Path-traversal
 - https://www.fortbridge.co.uk/research/drupal-insecure-default-leads-to-password-reset-poisoning/, Password-reset
-- https://sirleeroyjenkins.medium.com/just-gopher-it-escalating-a-blind-ssrf-to-rce-for-15k-f5329a974530, SSRF
 - https://feed.bugs.xdavidhu.me/bugs/0005, Clickjacking
 - https://nvk0x.medium.com/how-i-hijacked-12-subdomains-in-one-program-eea468bcd64f, Subdomain-takeover
 - https://kailashbohara.com.np/blog/2021/05/16/MSSQL-Injection-in-JSON-request/, SQL-injection
@@ -2844,7 +2841,6 @@
 - https://parasarora06.medium.com/privilege-escalation-from-being-a-normal-user-to-admin-3f86896f1c93, Privilege-escalation
 - https://savebreach.com/facebook-page-admin-identity-disclosure-through-document-edit-history/, Information-disclosure
 - https://ysamm.com/?p=588, IDOR
-- https://ysamm.com/?p=525, XSS
 - https://rafi-ahamed.medium.com/api-based-idor-to-leaking-private-ip-address-of-6000-businesses-6bc085ac6a6f, IDOR
 - https://ysamm.com/?p=510, Account-takeover
 - https://medium.com/bugbountywriteup/facebook-bug-bounty-500-usd-a-blocked-fundraiser-organizer-would-be-unable-to-view-or-remove-5da9f86d2fa0, DoS
@@ -4163,7 +4159,6 @@
 - https://web.archive.org/web/20181030103042/https://zseano.com/blogs/4.html, CSRF
 - https://medium.com/@plenumlab/idor-in-jwt-and-the-shortest-token-you-will-ever-see-uid-1234567890-4e02377ea03a, IDOR
 - https://blog.zimperium.com/cve-2018-9411-new-critical-vulnerability-multiple-high-privileged-android-services/, Memory-corruption
-- https://zseano.medium.com/site-wide-csrf-issue-chained-with-clickjacking-multiple-sites-vulnerable-6201abab0d3e, CSRF
 - https://thesecurityexperts.wordpress.com/2018/10/28/journey-through-google-referer-leakage-bugs/, Information-disclosure
 - https://medium.com/@logicbomb_1/bugbounty-how-i-was-able-to-download-the-source-code-of-indias-largest-telecom-service-52cf5c5640a1, git-folder-disclosure
 - https://blog.securitybreached.org/2018/10/27/privilege-escalation-like-a-boss/, IDOR
