@@ -13,7 +13,6 @@
 - https://medium.com/@javizgodoy/how-i-use-obsidian-as-a-second-brain-11945456dc69, 
 - https://medium.com/@_deshine_/easy-2000-race-condition-b4d093c9bc3c, race-condition
 - https://medium.com/@vickieli/learn-about-command-injection-attacks-1cd0d178fe65, injection
-- https://medium.com/@shahjerry33/exif-data-exposure-9bdd6c2c4f2a, low-hangings
 - https://medium.com/@amit-lt/scenario-of-reflected-cross-site-scripting-vulnerability-a3ee189dd822, XSS
 - https://medium.com/@vignesh3004/open-redirect-vulnerability-in-igp-com-c1d76efc59b3, open-redirection
 - https://medium.com/@sapt/breaking-reset-password-logic-to-get-account-takeover-without-user-interaction-f241fefe12e7, ATO
@@ -80,7 +79,6 @@
 - https://medium.com/@yashdharmani/a-bug-that-made-me-250-485df60f5b26, journey
 - https://medium.com/@nynan/bug-bounty-fingerprinting-204506945ab, recon
 - https://medium.com/@86karthikkarthik/email-verification-bypass-d07b2db8dc4, bypass
-- https://medium.com/@gurudatt.sa26/cypress-understanding-basics-of-api-testing-f81e4f70cca9, api
 - https://medium.com/@ssalssa.1.12.2.1.2.1/hacking-wordpress-server-database-f6cc6c116057, cms
 - https://medium.com/@harishhacker3010/how-i-hacked-google-to-read-files-from-their-servers-for-free-e0486a674912, journey
 - https://medium.com/@patchthenet/host-header-injection-attacks-7160f9fcf63e, injection
@@ -3430,7 +3428,6 @@
 - https://medium.com/bugbountywriteup/broke-limited-scope-with-a-chain-of-bugs-ef734ac430f5, CORS-misconfiguration
 - https://bugs.xdavidhu.me/google/2020/03/08/the-unexpected-google-wide-domain-check-bypass/, Logic-flaw
 - https://medium.com/ctf-writeups/breaking-the-competition-bug-bounty-write-up-ca7cb7bc53f5, Race-condition
-- https://web.archive.org/web/20200820030054/https://medium.com/@protector47/5-005-worth-vulnerability-duplicated-how-i-loose-5-005-in-a-day-831f5a064713, DoS
 - https://medium.com/@adonkidz7/google-ads-self-xss-html-injection-5000-52280da76c80, Self-XSS
 - https://santuysec.com/2020/03/06/google-bug-bounty-clickjacking-on-google-payment-1337/, Clickjacking
 - https://medium.com/cyberverse/got-bounty-with-account-takeover-ato-unicode-case-mapping-collision-d23a7785e1be, Account-takeover
@@ -4441,7 +4438,6 @@
 - https://medium.com/@joshuaregio/modifying-any-ad-space-and-placement-e22c7cec050f, IDOR
 - http://omespino.com/write-up-twitter-bug-bounty-my-1st-bugbounty-poodle-sslv3-bug-on-multiple-twitter-smtp-servers/, Cryptographic-issues
 - https://blog.evanricafort.com/2018/02/rce-remote-code-execution-in-wordpress.html, RCE
-- https://medium.freecodecamp.org/hacking-tinder-accounts-using-facebook-accountkit-d5cc813340d1, Account-takeover
 - https://bugbaba.blogspot.com/2018/02/exploiting-cors-miss-configuration.html, CORS-misconfiguration
 - https://medium.com/bugbountywriteup/bugbounty-exploiting-crlf-injection-can-lands-into-a-nice-bounty-159525a9cb62, CRLF-injection
 - https://medium.com/bugbountywriteup/how-i-was-able-to-remotely-crash-any-android-users-instagram-app-and-was-paid-a-mere-500-for-it-d4420721290e, Android
@@ -4515,7 +4511,6 @@
 - https://zseano.medium.com/how-signing-up-for-an-account-with-an-company-com-email-can-have-unexpected-results-7f1b700976f5, Logic-flaw
 - https://www.ansariosama.com/2017/11/how-i-pwned-company-using-idor-blind-xss.html, IDOR
 - https://medium.com/@abdelfattahibrahim/from-recon-to-dom-based-xss-f279602a14cf, DOM-XSS
-- http://blog.shashank.co/2017/11/stealing-bitcoin-wallet-backups-from.html, Logic-flaw
 - https://medium.com/@valeriyshevchenko/how-to-delete-all-company-progress-by-one-rm-command-in-aws-s3-bucket-df9c44727d7b, AWS-misconfiguration
 - http://www.noob.ninja/2017/11/local-file-read-via-xss-in-dynamically.html, XSS
 - https://medium.com/@tungpun/from-ssrf-to-local-file-disclosure-58962cdc589f, SSRF

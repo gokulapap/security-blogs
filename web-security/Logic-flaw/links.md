@@ -42,3 +42,4 @@
 - https://medium.com/bugbountywriteup/hacking-the-medium-partner-program-84c0e9fa340
 - https://ophionsecurity.com/blog/access-organization-secrets-in-github
 - https://medium.com/@rohitcoder/email-id-phone-number-can-be-exposed-through-business-manager-e79b970ea288
+- http://blog.shashank.co/2017/11/stealing-bitcoin-wallet-backups-from.html

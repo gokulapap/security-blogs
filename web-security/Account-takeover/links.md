@@ -26,3 +26,4 @@
 - https://web.archive.org/web/20210706150728/https://blog.assetnote.io/2021/06/27/uber-account-takeover-voicemail/
 - https://7odamo.medium.com/response-manipulation-in-the-admin-panel-lead-to-pii-leakage-2926b89ea2d0
 - https://web.archive.org/web/20211207210720/https://securityflow.io/one-endpoint-two-account-takeovers/
+- https://medium.freecodecamp.org/hacking-tinder-accounts-using-facebook-accountkit-d5cc813340d1

@@ -3,3 +3,4 @@
 - https://www.yesnaveen.com/remotely-permanent-crash-any-instagram
 - https://www.legitsecurity.com/blog/dos-via-software-supply-chain-innumerable-projects-exposed-to-a-markdown-library-vulnerability
 - https://www.usenix.org/conference/usenixsecurity21/presentation/bock
+- https://web.archive.org/web/20200820030054/https://medium.com/@protector47/5-005-worth-vulnerability-duplicated-how-i-loose-5-005-in-a-day-831f5a064713

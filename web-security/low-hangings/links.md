@@ -1,0 +1,1 @@
+- https://medium.com/@shahjerry33/exif-data-exposure-9bdd6c2c4f2a
