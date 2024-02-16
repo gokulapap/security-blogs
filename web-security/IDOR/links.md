@@ -56,3 +56,4 @@
 - https://www.jonbottarini.com/2018/01/02/abusing-internal-api-to-achieve-idor-in-new-relic/
 - https://bendtheory.medium.com/finding-and-exploiting-unintended-functionality-in-main-web-app-apis-6eca3ef000af
 - https://web.archive.org/web/20201028215444/http://incidentsecurity.com/how-spending-our-saturday-hacking-earned-us-20k/
+- https://sagarsajeev.medium.com/business-logic-vulnerability-via-idor-6d510f1caea9

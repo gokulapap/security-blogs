@@ -330,7 +330,6 @@
 - https://www.mdsec.co.uk/2023/06/cve-2023-26258-remote-code-execution-in-arcserve-udp-backup/, RCE
 - https://www.securityjoes.com/post/process-mockingjay-echoing-rwx-in-userland-to-achieve-code-execution, DLL-injection
 - https://bharat-singh.medium.com/how-bac-broken-access-control-got-me-a-pre-account-takeover-2481931b7b3a, Pre-account-takeover
-- https://infosecwriteups.com/unleashing-the-power-of-recon-how-i-earned-2500-in-5-minutes-cve-2017-5638-ognl-injection-23ece4811f14, OGNL-injection
 - https://www.sonarsource.com/blog/why-orms-and-prepared-statements-cant-always-win/, SQL-injection
 - https://www.synacktiv.com/sites/default/files/2023-06/synacktiv-ucopia-multiple-vulnerabilities-2022.pdf, Security-misconfiguration
 - https://x64.sh/posts/ServiceNow-Insecure-access-control-to-admin/, Broken-Access-Control
@@ -381,7 +380,6 @@
 - https://www.whiteoaksecurity.com/blog/sony-bravia-remote-code-execution-disclosure/, RCE
 - https://redmaple.tech/blogs/2023/extract-bitwarden-vault-passwords/, Information-disclosure
 - https://albertpedersen.com/blog/cloudflare-casb-confused-deputy/, Confused-deputy
-- https://posts.specterops.io/less-smartscreen-more-caffeine-ab-using-clickonce-for-trusted-code-execution-1446ea8051c5, Phishing
 - https://medium.com/pentesternepal/how-i-hacked-100k-godaddy-users-and-help-to-secure-for-free-65f172bd726a, git-folder-disclosure
 - https://d3lb3.github.io/keepass_triggers_arent_dead/, Local-Privilege-Escalation
 - https://www.tarlogic.com/blog/linked-servers-adsi-passwords/, ADSI
@@ -653,7 +651,6 @@
 - https://claroty.com/team82/research/the-silent-spy-among-us-modern-attacks-against-smart-intercoms, IoT
 - https://arben.sh/bugbounty/SelfXSS-To-Stored-Through-IDOR/, IDOR
 - https://blog.aquasec.com/jenkins-server-vulnerabilities, RCE
-- https://nav1n.medium.com/how-i-got-owned-a-multi-billion-dollar-retailers-mysql-databases-using-simple-sql-injection-30f8b0dfd9ce, SQL-injection
 - https://medium.com/@omerkepenek/the-story-of-becoming-a-super-admin-ab32db7dd1b3, Hardcoded-credentials
 - https://www.shockwave.cloud/blog/subdomain-takeover-how-a-misconfigured-dns-record-could-lead-to-a-huge-supply-chain-attack, Subdomain-takeover
 - https://infosecwriteups.com/dont-send-a-message-to-anyone-before-reading-this-account-takeover-vulnerability-external-audit-cf584a0c983c, HTTP-response-manipulation
@@ -1408,7 +1405,6 @@
 - https://xthemo.medium.com/open-redirect-at-nvidia-62343b45f85b, Open-redirect
 - https://www.immersivelabs.com/blog/we-discovered-major-vulnerabilities-in-control-web-panel-heres-how-we-found-them/, Path-traversal
 - https://infosecwriteups.com/salesforce-bug-hunting-to-critical-bug-b5da44789d3, Information-disclosure
-- https://sagarsajeev.medium.com/business-logic-vulnerability-via-idor-6d510f1caea9, IDOR
 - https://blog.viettelcybersecurity.com/1day-to-0day-on-tl-link-tl-wr841n/, Memory-corruption
 - https://bergee.it/blog/five-minute-hunting-for-hidden-xss/, Reflected-XSS
 - https://bergee.it/blog/the-forgotten-api-and-xss-filter-bypass/, XSS
@@ -2511,7 +2507,6 @@
 - https://medium.com/fraktal/content-spoofing-vulnerability-in-shibboleth-service-provider-a6619404eaf1, Content-spoofing
 - https://amineaboud.medium.com/disclose-leads-form-details-of-any-facebook-business-account-or-facebook-page-bug-bounty-7ecae6cff312, IDOR
 - https://mikekitckchan.medium.com/cors-misconfig-that-worths-usd200-4696eda5ab4c, CORS-misconfiguration
-- https://rohitcoder.medium.com/victims-anti-csrf-token-could-be-exposed-to-third-party-applications-installed-on-user-s-device-be8e40d511ba, Information-disclosure
 - https://shrirangdiwakar.medium.com/how-i-turned-0000-into-600-phone-verification-bypass-b1c0f6eb568e, OTP-bypass
 - https://dewangpanchal98.medium.com/403-forbidden-bypass-fc8b5df109b7, 403-bypass
 - https://skylightcyber.com/2021/05/20/13-nagios-vulnerabilities-7-will-shock-you/, RCE
