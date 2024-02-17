@@ -34,3 +34,4 @@
 - https://0x01alka.medium.com/ssrf-g-vrp-for-5000-d08c8f515c95
 - https://medium.com/bug-bounty/telegram-report-ssrf-leads-to-dos-attack-908bea5f5802
 - https://sirleeroyjenkins.medium.com/just-gopher-it-escalating-a-blind-ssrf-to-rce-for-15k-f5329a974530
+- https://nechudav.blogspot.com/2021/12/ssrf-vulnerability-in-appsheet-google.html

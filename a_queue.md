@@ -1571,7 +1571,6 @@
 - https://aidilarf.medium.com/xss-blind-stored-at-2-assets-tiktok-f32829f11e58, XSS
 - https://medium.com/@aravindb26/my-first-apple-bug-and-my-first-writeup-8a833e8e953c, IDOR
 - https://iamnoob.medium.com/bugbounty-how-do-i-get-a-premium-tier-account-without-paying-a-penny-767921a6c4e4, Mass-assignment
-- https://medium.com/@TheKomodoconsulting/the-army-of-the-headless-browsers-11aad3f7ee81, DDoS
 - https://medium.com/@erik.wynter/pwning-manageengine-from-poc-to-exploit-cfe5adb8c175, Path-traversal
 - https://blog.sonarsource.com/zimbra-pre-auth-rce-via-unrar-0day/, Path-traversal
 - https://unit42.paloaltonetworks.com/fabricscape-cve-2022-30137/, Container-escape
@@ -2076,7 +2075,6 @@
 - https://www.appsecure.security/blog/dubsmash-bola-security-vulnerability, IDOR
 - https://medium.com/@7azimo/hacking-into-admin-panel-of-u-s-federal-government-system-c-a-r-s-without-credentials-9117b865ba58, Client-side-enforcement-of-server-side-security
 - https://www.y-security.de/news-en/microsoft-azure-portal-csv-injection/index.html, CSV-injection
-- https://nechudav.blogspot.com/2021/12/ssrf-vulnerability-in-appsheet-google.html, SSRF
 - https://www.p1boom.com/2021/12/accidental-idor-in-elearnsecurity-to.html, IDOR
 - https://pathleax.medium.com/this-is-how-i-was-able-to-see-and-delete-your-private-facebook-portal-photos-a93ed22f875b, IDOR
 - https://infosecwriteups.com/how-i-hacked-yandex-with-ssrf-vulnerability-e19af20ed4d, SSRF
@@ -3209,7 +3207,6 @@
 - https://medium.com/bugbountywriteup/api-token-hijacking-through-clickjacking-2e36c02e6c48, Clickjacking
 - https://medium.com/@eldeebxboy/how-i-was-able-to-chain-bugs-and-gain-access-to-internal-okta-instance-f2da9ab71367, Missing-authentication
 - https://medium.com/@divyanshsharma2401/it-took-me-only-5-minutes-to-find-an-rce-on-bentley-38265da15788, RCE
-- https://medium.com/@win3zz/simple-story-of-some-complicated-xss-on-facebook-8a9c0d80969d, Reflected-XSS
 - https://medium.com/bugbountywriteup/bypass-2fa-like-a-boss-378787707ba, Lack-of-rate-limiting
 - https://alaa.blog/2020/06/how-did-i-found-information-disclosure-on-facebook-writeup/, Information-disclosure
 - https://samcurry.net/hacking-starbucks/, Path-traversal
@@ -3586,7 +3583,6 @@
 - https://blog.teddykatz.com/2019/11/23/json-padding-oracles.html, Padding-oracle-attack
 - https://footstep.ninja/posts/idor-via-websockets/, IDOR
 - https://medium.com/bugbountywriteup/stories-of-idor-part-2-29d313a39e55, IDOR
-- https://medium.com/@lokeshdlk77/disable-any-unconfirmed-account-in-facebook-123aeba19426, Bruteforce
 - https://www.pankajinfosec.com/post/700-denial-of-service-dos-vulnerability-in-script-loader-php-cve-2018-6389, DoS
 - https://baibhavjha.com.np/blogs/instagramstory2/, Authorization-flaw
 - https://portswigger.net/research/cracking-recaptcha-turbo-intruder-style, Captcha-bypass
@@ -4375,7 +4371,6 @@
 - https://medium.com/@evilboyajay/stealing-money-from-one-account-to-another-account-d7c5ee68922b, Logic-flaw
 - https://sysdream.com/news/lab/2018-04-30-multiple-security-vulnerabilities-in-domains-belonging-to-google/, Broken-Access-Control
 - https://medium.com/@logicbomb_1/bugbounty-how-i-was-able-to-bypass-firewall-to-get-rce-and-then-went-from-server-shell-to-get-783f71131b94, RCE
-- https://medium.com/@newp_th/reflected-xss-on-stack-overflow-b8366a855472, Reflected-XSS
 - https://medium.com/@mdisrail2468/bypassing-the-confirmation-email-for-newsletter-bof-nl-682c05cb927f, Authorization-flaw
 - https://medium.com/@sivakrishnasamireddi/how-i-earned-60k-from-private-program-71bd51554490, Open-redirect
 - https://medium.com/@nuraalamdipu/xss-403-forbidden-bypass-write-up-e070de52bc06, XSS

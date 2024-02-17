@@ -18,3 +18,5 @@
 - http://manuel-sousa.blogspot.com/2013/11/xss-google-groups-groupsgooglecom.html
 - https://medium.com/bugbountywriteup/reflected-xss-in-facebooks-mirror-websites-4384b4eb3e11
 - https://medium.com/@ramkumarnadar47/desperate-xss-ce3619343f57
+- https://medium.com/@win3zz/simple-story-of-some-complicated-xss-on-facebook-8a9c0d80969d
+- https://medium.com/@newp_th/reflected-xss-on-stack-overflow-b8366a855472
