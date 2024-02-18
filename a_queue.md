@@ -1380,7 +1380,6 @@
 - https://whereisk0shl.top/post/break-me-out-of-sandbox-in-old-pipe-cve-2022-22715-windows-dirty-pipe, Local-Privilege-Escalation
 - https://www.benthamsgaze.org/2022/08/22/vulnerability-in-linux-containers-investigation-and-mitigation/, Local-Privilege-Escalation
 - https://security.humanativaspa.it/useless-path-traversals-in-zyxel-admin-interface-cve-2022-2030/, Path-traversal
-- https://apth3hack3r.medium.com/ssrf-google-hof-hall-of-fame-2c159dda04e3, SSRF
 - https://medium.com/@mullangisashank/how-a-port-scan-got-me-nokia-hall-of-fame-6f9b65e920e3, Missing-authentication
 - https://wesecureapp.com/blog/blockchain-network-is-secured-but-not-the-apps-and-their-integrations/, Payment-tampering
 - https://bergee.it/blog/blind-command-injection/, RCE
@@ -1433,7 +1432,6 @@
 - https://www.usenix.org/conference/usenixsecurity22/presentation/zhang-lei, Android
 - https://www.usenix.org/conference/usenixsecurity22/presentation/mirheidari, Web-cache-deception
 - https://i.blackhat.com/USA-22/Wednesday/US-22-Doyhenard-Internal-Server-Error-wp.pdf, Memory-corruption
-- https://portswigger.net/research/browser-powered-desync-attacks, HTTP-Request-Smuggling
 - https://medium.com/@avinash_/email-confirmation-bypass-at-instagram-cc968f9a126, Email-verification-bypass
 - https://bugra.ninja/posts/cloudshell-command-injection/, OS-command-injection
 - https://krausefx.com/blog/ios-privacy-instagram-and-facebook-can-track-anything-you-do-on-any-website-in-their-in-app-browser, Privacy-issue
@@ -3919,7 +3917,6 @@
 - https://mahmoudsec.blogspot.com/2019/04/handlebars-template-injection-and-rce.html, SSTI
 - https://medium.com/@jonathanbouman/leaked-salesforce-api-access-token-at-ikea-com-132eea3844e0, Information-disclosure
 - http://archive.ingredous.com/notes/downnotifer-ssrf/, SSRF
-- https://medium.com/bugbountywriteup/how-i-am-able-to-hijack-you-1cab793a01d1, Logic-flaw
 - https://medium.com/@ritishkumarsingh/https-medium-com-ritishkumarsingh-facebook-vulnerability-hiding-from-facebook-page-admin-in-hacked-workflow-86f366f183c6, Logic-flaw
 - https://medium.com/tenable-techblog/filezilla-untrusted-search-path-bc3a7b3ae51e, RCE
 - https://medium.com/@rajsek/how-i-was-able-to-get-your-facebook-private-friend-list-responsible-disclosure-91984606e682, Information-disclosure
@@ -4264,7 +4261,6 @@
 - https://medium.com/bugbountywriteup/from-tomcat-to-nt-authority-system-a79fa09c4abb, Default-credentials
 - https://web.archive.org/web/20201006184247/https://www.mohamedharon.com/2018/08/reverb-api.html, Information-disclosure
 - https://medium.com/@carlosdanielgiovanella/this-is-how-can-i-spoof-any-sentry-log-infinitely-and-create-fake-error-logs-74406367f4ba, Content-spoofing
-- https://medium.com/mcorral74/my-first-critical-report-9ceeb15f20c3, Password-reset
 - https://steemit.com/cryptocurrency/@mabdullah22/how-i-hacked-a-crypto-exchange-bug-bounty-writeup, IDOR
 - https://dev.to/antogarand/from-data-leak-to-account-takeover-1kck, Account-takeover
 - https://medium.com/@vesirin/how-i-gained-commit-access-to-homebrew-in-30-minutes-2ae314df03ab, Information-disclosure
@@ -4504,7 +4500,6 @@
 - https://medium.com/@valeriyshevchenko/how-to-delete-all-company-progress-by-one-rm-command-in-aws-s3-bucket-df9c44727d7b, AWS-misconfiguration
 - http://www.noob.ninja/2017/11/local-file-read-via-xss-in-dynamically.html, XSS
 - https://medium.com/@tungpun/from-ssrf-to-local-file-disclosure-58962cdc589f, SSRF
-- https://web.archive.org/web/20200825165420/https://medium.com/@adeshkolte/get-your-microsoft-account-hijacked-by-simply-clicking-connect-button-adesh-kolte-cc0b335b0221, Stored-XSS
 - https://web.archive.org/web/20201013141953/https://medium.com/@adeshkolte/multiple-intel-vulnerabilities-adesh-kolte-9f74372db34c, Open-redirect
 - https://web.archive.org/web/20200819161548/https://medium.com/@adeshkolte/non-persistent-xss-at-microsoft-adesh-kolte-ad36b1b4a325, Reflected-XSS
 - https://blog.securitybreached.org/2017/11/04/access-localhost-via-virtual-host-virtual-host-enumeration/, vHost-misconfiguration

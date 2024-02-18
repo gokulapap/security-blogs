@@ -1,0 +1,1 @@
+- https://portswigger.net/research/browser-powered-desync-attacks

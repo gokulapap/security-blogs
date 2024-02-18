@@ -20,3 +20,4 @@
 - https://medium.com/@reiss.r/stop-scratching-the-surface-and-hack-the-dependencies-fe4c26cd8ea
 - https://medium.com/@dekeeu/reposted-2017-linkedin-hackers-experience-8465c1848c88
 - https://aidilarf.medium.com/stored-xss-at-https-www-tiktok-com-11fed6db0590
+- https://web.archive.org/web/20200825165420/https://medium.com/@adeshkolte/get-your-microsoft-account-hijacked-by-simply-clicking-connect-button-adesh-kolte-cc0b335b0221

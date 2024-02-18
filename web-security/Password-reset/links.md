@@ -2,3 +2,4 @@
 - https://medium.com/@vbharad/account-takeover-through-password-reset-poisoning-72989a8bb8ea
 - https://innotommy.com/You’ve%20Got%20%28a%20Reset%29%20Mail.pdf
 - https://fortbridge.co.uk/research/joomla-password-reset-vulnerability-and-stored-xss-for-full-compromise/
+- https://medium.com/mcorral74/my-first-critical-report-9ceeb15f20c3
