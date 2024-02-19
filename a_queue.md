@@ -156,7 +156,6 @@
 - https://medium.com/@s_novoselov/ssti-csti-dont-waste-your-time-c6e9fbb20743, injection
 - https://medium.com/@K9ightFr3ak/exploiting-broken-access-control-vulnerability-4d16f72c7983, BAC
 - https://medium.com/@ramAnon/bug-bounty-hunting-methodology-toolkit-tips-tricks-blogs-eb142034d5a5, tricks
-- https://medium.com/@mrummanhasan/scanning-methodology-a-practical-guide-1b0b7686fb89, recon
 - https://medium.com/@akshayravic09yc47/crlf-injection-leads-to-xss-f92a07db9848, crlf
 - https://medium.com/@omarahmed_13016/idor-unpin-posts-for-fun-18f628eaef24, IDOR
 - https://medium.com/@joshuaarulsamy/mindset-that-made-me-one-among-top-15-security-researchers-in-india-for-3-consecutive-times-febb06e8af61, journey
@@ -2329,7 +2328,6 @@
 - https://sick.codes/sick-2021-109/, Privacy-issue
 - https://tiszka.com/blog/CVE_2021_21225.html, Browser-hacking
 - https://infosecwriteups.com/why-u-should-use-burp-to-test-path-traversal-vulnerability-and-also-get-rxss-2743cbb16a3c, Path-traversal
-- https://blogs.msmvps.com/alunj/2021/08/15/second-order-subdomain-takeovers-they-do-exist/, Subdomain-takeover
 - https://ahmdhalabi.medium.com/taking-over-employee-accounts-by-managers-with-zero-employee-interaction-b60784c3ad84, Account-takeover
 - https://medium.com/@viralbhatt100/bypass-google-captcha-parameter-pollution-leads-to-send-email-to-any-user-on-behalf-of-9013aebbabae, HTTP-parameter-pollution
 - https://medium.com/bug-bounty-hunting/facebook-bug-invite-user-to-like-a-page-even-after-they-decline-the-page-like-invite-f83d9ec845b3, Logic-flaw
@@ -3319,7 +3317,6 @@
 - https://sites.google.com/securifyinc.com/vrp-writeups/waze/waze-xss, XSS
 - https://sites.google.com/securifyinc.com/vrp-writeups/hire-with-google/xsses, Stored-XSS
 - https://sites.google.com/securifyinc.com/vrp-writeups/gsuite/bookmark-xss-device-management, XSS
-- https://gyanihackers.com/blog/cool-paste-jacking-attack/, Paste-jacking
 - https://medium.com/@sandeepkumarsingh1902/bugbounty-adding-money-using-response-modification-334448d34251, Payment-tampering
 - https://medium.com/@rohitcoder/private-dashboards-were-accessible-by-other-admins-in-analytics-dashboard-558010a379ab, Authorization-flaw
 - https://medium.com/@impratikdabhi/reflected-xss-on-microsoft-com-via-angular-template-injection-2e26d80a7fd8, CSTI
@@ -3841,7 +3838,6 @@
 - https://medium.com/@dortz/how-did-i-bypass-a-custom-brute-force-protection-and-why-that-solution-is-not-a-good-idea-4bec705004f9, Bruteforce
 - https://ysamm.com/?p=272, Weak-encryption
 - https://medium.com/@mustafakhan_89646/multiple-api-issues-due-to-fixed-authorization-token-17365056f17a, Authorization-flaw
-- https://tutorgeeks.blogspot.com/2019/05/security-assessment-on-staging-domains.html, Missing-authentication
 - https://smaranchand.com.np/2019/05/how-i-acquired-xxx-bounty-by-investing-99-cents/, Logic-flaw
 - https://philippeharewood.com/determine-a-user-from-an-email-address/, Information-disclosure
 - https://whitehatfamilyguy.blogspot.com/2019/06/google-adwordsprivilege-escalation-read.html, Privilege-escalation
@@ -3990,7 +3986,6 @@
 - https://medium.com/@pig.wig45/setting-up-gitrob-and-using-it-to-find-leaking-repository-of-an-employee-in-a-hackerone-private-e4c40da1bc85, Information-disclosure
 - https://ysamm.com/?p=158, Information-disclosure
 - https://ysamm.com/?p=171, IDOR
-- https://clever-idi0t.com/2019/02/07/how-i-was-able-to-dump-sqldb-simple-bug/, Directory-listing
 - https://outpost24.com/blog/X-forwarded-for-SQL-injection, SQL-injection
 - https://medium.freecodecamp.org/cache-deception-how-i-discovered-a-vulnerability-in-medium-and-helped-them-fix-it-31cec2a3938b, Web-cache-deception
 - https://posts.specterops.io/remote-code-execution-via-path-traversal-in-the-device-metadata-authoring-wizard-a0d5839fc54f, Path-traversal

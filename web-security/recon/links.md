@@ -1,1 +1,2 @@
 - https://medium.com/@bugtest252/how-i-got-rewarded-300-euro-just-by-simple-google-dorking-under-2-mins-75c679f9da68
+- https://medium.com/@mrummanhasan/scanning-methodology-a-practical-guide-1b0b7686fb89

@@ -17,3 +17,4 @@
 - https://web.archive.org/web/20200929001941/https://www.mohamedharon.com/2018/10/subdomain-takeover-via-shopify-vendor.html
 - https://blog.takemyhand.xyz/2019/05/escalating-subdomain-takeovers-to-steal.html
 - https://sinsinology.medium.com/cafebazaar-and-subdomain-takeover-a0ab61a19ce8
+- https://blogs.msmvps.com/alunj/2021/08/15/second-order-subdomain-takeovers-they-do-exist/

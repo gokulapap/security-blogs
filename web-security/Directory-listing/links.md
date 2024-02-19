@@ -1,2 +1,3 @@
 - https://machevalia.blog/blog/access-control-violation-sensitive-data-exposure
 - https://u-itachi.medium.com/full-structure-takeover-to-many-brands-of-company-e0ca434890ee
+- https://clever-idi0t.com/2019/02/07/how-i-was-able-to-dump-sqldb-simple-bug/
