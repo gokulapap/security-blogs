@@ -3,3 +3,4 @@
 - https://markus-krell.de/itop-template-injection-inside-customer-portal/
 - https://medium.com/@akshukatkar/rce-with-flask-jinja-template-injection-ea5d0201b870
 - https://www.pmnh.site/post/writeup_spring_el_waf_bypass/
+- http://verneet.com/fuzzing-77-till-p1/

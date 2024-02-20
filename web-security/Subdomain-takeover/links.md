@@ -18,3 +18,4 @@
 - https://blog.takemyhand.xyz/2019/05/escalating-subdomain-takeovers-to-steal.html
 - https://sinsinology.medium.com/cafebazaar-and-subdomain-takeover-a0ab61a19ce8
 - https://blogs.msmvps.com/alunj/2021/08/15/second-order-subdomain-takeovers-they-do-exist/
+- https://web.archive.org/web/20200929003949/https://www.mohamedharon.com/2019/02/subdomain-aws-s3-buckets-reader.html

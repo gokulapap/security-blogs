@@ -2028,7 +2028,6 @@
 - https://infosecwriteups.com/story-of-a-weird-csrf-bug-bde1129c106e, CSRF
 - https://amakki.me/full-account-takeover-vulnerability-in-minecraft-f56076c8287d, Account-takeover
 - https://medium.com/@taniyatesting11/bounty-evaluation-github-15-000-us-dollars-rate-limit-d6c07d73c948, Bruteforce
-- https://systemweakness.com/common-nginx-misconfiguration-leads-to-path-traversal-d58701e997bc, Path-traversal
 - https://rezer0dai.github.io/biug-bounties/, RCE
 - https://sharmajijvs.medium.com/xss-via-file-upload-a2bcc1e5d7f7, XSS
 - https://infosecwriteups.com/how-i-bypassed-netflix-profile-lock-43901be1307c, Logic-flaw
@@ -2056,7 +2055,6 @@
 - https://prashantbhatkal2000.medium.com/svg-based-stored-xss-ee6e9b240dee, Stored-XSS
 - https://infosecwriteups.com/a-story-about-a-not-so-direct-ssrf-b2b98e128af0, SSRF
 - https://shahjerry33.medium.com/open-redirection-qr-code-magic-18ace1a0170f, Open-redirect
-- https://thalium.github.io/blog/posts/deserialization-bug-through-rdp-smart-card-extension/, Memory-corruption
 - https://thalium.github.io/blog/posts/leaking-aslr-through-rdp-printer-cache-registry/, Memory-corruption
 - https://medium.com/@Cho0k/protobuffer-reutilization-new-way-to-security-test-googlecaptcha-b3e0fc6cf7c4, Captcha-bypass
 - https://jonbottarini.com/2021/12/09/dont-reply-a-clever-phishing-method-in-apples-mail-app/, Phishing
@@ -3649,7 +3647,6 @@
 - https://b3nac.com/posts/2019-09-02-Spear-Texting-Via-Parameter-Injection.html, Parameter-tampering
 - https://samcurry.net/analysis-of-cve-2019-14994/, Path-traversal
 - https://medium.com/bugbountywriteup/information-disclosure-at-paypal-and-xoom-paypal-acquisition-via-simple-google-dork-1-000-usd-b726fe628a05, Information-disclosure
-- http://verneet.com/fuzzing-77-till-p1/, SSTI
 - https://tutorgeeks.blogspot.com/2019/09/broken-link-hijacking-s3-buckets.html, Broken-link-hijacking
 - https://medium.com/@0xgaurang/case-study-oauth-misconfiguration-leads-to-account-takeover-d3621fe8308b, OAuth
 - https://medium.com/bugbountywriteup/facebook-workplace-privilege-escalation-vulnerability-to-change-the-post-privacy-as-public-634f1c995780, Privilege-escalation
@@ -3959,7 +3956,6 @@
 - https://medium.com/@kunal94/web-cache-deception-attack-leads-to-user-info-disclosure-805318f7bb29, Web-cache-deception
 - https://medium.com/@logicbomb_1/chain-of-hacks-leading-to-database-compromise-b2bc2b883915, LFI
 - https://medium.com/@ChandSingh/download-any-organisation-data-s3-amazonaws-64059847e06, Authorization-flaw
-- https://web.archive.org/web/20200929003949/https://www.mohamedharon.com/2019/02/subdomain-aws-s3-buckets-reader.html, Subdomain-takeover
 - https://sites.google.com/securifyinc.com/secblogs/exploitingcalendars, Authorization-flaw
 - https://medium.com/intigriti/abusing-autoresponders-and-email-bounces-9b1995eb53c2, Information-disclosure
 - https://medium.com/@modam3r5/reflected-xss-at-https-photos-shopify-com-ea696db3915c, Reflected-XSS
@@ -4558,7 +4554,6 @@
 - https://www.seekurity.com/blog/general/rolling-around-and-bypassing-facebook-linkshim-protection-on-ios, Open-redirect
 - https://medium.com/@arbazhussain/stored-xss-on-rockstar-game-c008ec18d071, XSS
 - https://bugbaba.blogspot.com/2017/07/open-redirect-in-flock-my-first-swag.html, Open-redirect
-- https://medium.com/@arbazhussain/self-xss-to-good-xss-clickjacking-6db43b44777e, XSS
 - https://www.seekurity.com/blog/general/business-logic-vulnerabilities-series-a-brief-on-abusing-invitation-systems/, Logic-flaw
 - https://medium.com/@ciph3r7r0ll/that-escalated-quickly-from-partial-csrf-to-reflected-xss-to-complete-csrf-to-stored-xss-6ba8103069c2, CSRF
 - https://medium.com/@arbazhussain/exploiting-misconfigured-cors-on-popular-btc-site-2aedfff906f6, CORS-misconfiguration
