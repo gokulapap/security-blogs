@@ -64,3 +64,4 @@
 - https://kurtikleiton.medium.com/content-security-policy-bypass-to-perform-xss-3c8dd0d40c2e
 - https://ysamm.com/?p=525
 - https://medium.com/@arbazhussain/self-xss-to-good-xss-clickjacking-6db43b44777e
+- https://infosecwriteups.com/lets-hacking-citizens-bank-9520e9c05cf9

@@ -577,7 +577,6 @@
 - https://chevonphillip.medium.com/blind-xss-via-sms-support-chat-1100-bug-bounty-779a1e19cc51, Blind-XSS
 - https://vitorfalcao.com/posts/simple-bugs/password-changing-to-ato/, Account-takeover
 - https://frichetten.com/blog/minor-cross-tenant-vulns-app-runner/, Cross-tenant-vulnerability
-- https://infosecwriteups.com/lets-hacking-citizens-bank-9520e9c05cf9, XSS
 - https://rayhan0x01.github.io/ctf/2023/04/01/finding-rce-in-eta-cve-2022-25967.html, RCE
 - https://www.reversemode.com/2023/03/beware-of-javas-stringgetbytes.html, Hash-collision
 - https://sensepost.com/blog/2023/protected-users-you-thought-you-were-safe-uh/, Active-Directory
@@ -1967,7 +1966,6 @@
 - https://www.ryanpickren.com/safari-uxss, Universal-XSS
 - https://aidilarf.medium.com/first-valid-bug-finding-at-microsoft-and-i-got-the-acknowledgments-page-microsoft-a2c185c53074, XSS
 - https://www.zerodayinitiative.com/blog/2022/1/25/cve-2021-44790-code-execution-on-apache-via-an-integer-underflow, Memory-corruption
-- https://medium.com/@david_colombo/how-i-got-access-to-25-teslas-around-the-world-by-accident-and-curiosity-8b9ef040a028, Default-credentials
 - https://kuldeep.io/posts/path-traversal-paradise/, Path-traversal
 - https://infosecwriteups.com/how-i-was-able-to-find-multiple-vulnerabilities-of-a-symfony-web-framework-web-application-2b82cd5de144, Debug-mode-enabled
 - https://coffeejunkie.me//120-Days-Of-Frequent-Hacking/, SSRF
@@ -2345,7 +2343,6 @@
 - https://philippeharewood.com/access-to-crowdtangle-deletion-framework-api/, Information-disclosure
 - https://santoshdbobade.medium.com/how-i-got-reflected-cross-site-scripting-rxss-on-manchester-metropolitan-university-700b36cb4f53, XSS
 - https://research.checkpoint.com/2021/i-can-take-over-your-kindle/, Memory-corruption
-- https://infosecwriteups.com/account-takeover-user-admin-via-password-reset-322b8020ea6, Account-takeover
 - https://gonzx.medium.com/how-i-found-open-redirect-on-hashnode-com-5f3e9ecb8dc6, Open-redirect
 - Youghourta Ghannei (@YoughartaG), XSS
 - https://yashswarup12.medium.com/how-the-use-of-hidden-form-fields-lead-to-email-verification-bypass-3c8d7c25bd31, Email-verification-bypass
@@ -3473,7 +3470,6 @@
 - https://blog.securitybreached.org/2020/02/04/exploiting-insecure-firebase-database-bugbounty/, Insecure-Firebase-database
 - https://medium.com/@zseano/easily-leaking-passenger-information-on-an-airline-18f99b22cf95, IDOR
 - https://medium.com/@navne3t/csrf-csrf-csrf-f203e6452a9c, CSRF
-- https://web.archive.org/web/20200328011551/https://medium.com/@godofdarkness.msf/tumblr-bug-bounty-200-2051ba54e981, Unrestricted-file-upload
 - https://www.amolbaikar.com/disclose-full-admin-list-of-any-facebook-applications/, IDOR
 - https://techblog.mediaservice.net/2020/01/ok-google-bypass-the-authentication/, Authentication-bypass
 - https://medium.com/@bathinivijaysimhareddy/how-i-takeover-the-companys-linkedin-page-790c9ed2b04d, Broken-link-hijacking
@@ -3641,7 +3637,6 @@
 - https://web.archive.org/web/20201128230506/https://medium.com/@adeshkolte/how-i-made-1000-at-t-bug-bounty-h1-14e68b284e2f, CSRF
 - https://medium.com/@pranaybafna/graphql-introspection-leads-to-sensitive-data-disclosure-65b385452d7f, Information-disclosure
 - https://awakened1712.github.io/hacking/hacking-whatsapp-gif-rce/, Memory-corruption
-- https://medium.com/@byq/how-to-get-rce-on-aem-instance-without-java-knowledge-a995ceab0a83, RCE
 - https://web.archive.org/web/20200807155301/https://gh0st.cn/archives/2019-10-01/1, IDOR
 - https://web.archive.org/web/20191211081434/https://victoni.github.io/bug-hunting-xss-on-cookie-popup-warning/, Reflected-XSS
 - https://b3nac.com/posts/2019-09-02-Spear-Texting-Via-Parameter-Injection.html, Parameter-tampering

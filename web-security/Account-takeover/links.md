@@ -27,3 +27,4 @@
 - https://7odamo.medium.com/response-manipulation-in-the-admin-panel-lead-to-pii-leakage-2926b89ea2d0
 - https://web.archive.org/web/20211207210720/https://securityflow.io/one-endpoint-two-account-takeovers/
 - https://medium.freecodecamp.org/hacking-tinder-accounts-using-facebook-accountkit-d5cc813340d1
+- https://infosecwriteups.com/account-takeover-user-admin-via-password-reset-322b8020ea6

@@ -9,3 +9,4 @@
 - https://mustafakemalcan.com/asus-rce-vulnerability-on-rma-asus-europe-eu/
 - https://medium.com/@escapesequence89/rce-via-image-upload-functionality-925c902943b8
 - https://medium.com/@haroonhameed_76621/achieving-remote-code-execution-via-unrestricted-file-upload-6050f360c218
+- https://web.archive.org/web/20200328011551/https://medium.com/@godofdarkness.msf/tumblr-bug-bounty-200-2051ba54e981
