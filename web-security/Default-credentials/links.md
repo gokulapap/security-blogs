@@ -3,3 +3,4 @@
 - https://medium.com/@adhaamsayed3/access-to-page-with-default-credentials-that-require-authenticate-e59cebf0bced
 - https://jayateerthag.medium.com/grafana-admin-panel-bypass-in-google-acquisition-virustotal-c5ecc9d7b8ae
 - https://medium.com/@david_colombo/how-i-got-access-to-25-teslas-around-the-world-by-accident-and-curiosity-8b9ef040a028
+- https://infosecwriteups.com/domain-admin-compromise-in-3-hours-5778902604c9

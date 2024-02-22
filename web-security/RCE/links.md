@@ -60,3 +60,4 @@
 - https://leethax0.rs/2021/04/ElectricChrome/
 - https://0xsha.io/posts/hunting-for-bounties-antihackme-case-study
 - https://medium.com/@byq/how-to-get-rce-on-aem-instance-without-java-knowledge-a995ceab0a83
+- https://marcin-wolak.medium.com/cve-2022-24082-rce-in-the-pega-platform-discovery-remediation-technical-details-long-live-69efb5437316

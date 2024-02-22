@@ -1161,7 +1161,6 @@
 - https://blog.blacklanternsecurity.com/p/yet-another-telerik-ui-revisit, Cryptographic-issues
 - https://blog.doyensec.com/2022/10/18/cloudsectidbit-dataimport.html, Cloud
 - https://www.synacktiv.com/en/publications/php-filters-chain-what-is-it-and-how-to-use-it.html, Insecure-deserialization
-- https://marcin-wolak.medium.com/cve-2022-24082-rce-in-the-pega-platform-discovery-remediation-technical-details-long-live-69efb5437316, RCE
 - https://securityintelligence.com/posts/analysis-rce-vulnerability-cobalt-strike/, RCE
 - https://sector7.computest.nl/post/2022-10-iconics-genesis64/, RCE
 - https://lokeshdlk77.medium.com/facebook-sms-captcha-was-vulnerable-to-csrf-attack-8db537b1e980, CSRF
@@ -1647,7 +1646,6 @@
 - https://medium.com/@terminatorLM/abusing-facebooks-feature-for-a-permanent-account-confusion-logic-vulnerability-d7f5160f373a, MFA-bypass
 - https://medium.com/@ratnadip1998/how-to-find-access-admin-panel-by-digging-into-js-files-282d89391a2d, Weak-credentials
 - https://octagon.net/blog/2022/05/29/bypass-csp-using-wordpress-by-abusing-same-origin-method-execution/, CSP-bypass
-- https://infosecwriteups.com/domain-admin-compromise-in-3-hours-5778902604c9, Default-credentials
 - https://xvnpw.github.io/posts/external_authentication_bypass_in_ingress_nginx/, Path-traversal
 - https://web.archive.org/web/20220529130635/https://pwnsec.ninja/2022/05/29/exploiting-ios-app-for-fun-and-profit/, Account-takeover
 - https://medium.com/@vaibhavatkale/weird-email-verification-bypass-96c793c36d7e, Email-verification-bypass
@@ -2251,7 +2249,6 @@
 - https://vedanttekale20.medium.com/how-i-found-my-first-aem-related-bug-5ea901aad3f4, LFR
 - https://kattraxler.github.io/gcp/hacking/2021/09/10/gcp-org-policy-bypass-ai-notebooks.html, Authorization-flaw
 - https://sank-dahal.medium.com/how-i-was-able-to-delete-any-facebook-story-where-am-i-mentioned-or-tagged-10c38a50e55c, Logic-flaw
-- https://unit42.paloaltonetworks.com/azure-container-instances/, Container-takeover
 - https://wojciechregula.blog/post/change-home-directory-and-bypass-tcc-aka-cve-2020-27937/, Privacy-issue
 - https://github.com/justinsteven/advisories/blob/master/2021_github_actions_checkspelling_token_leak_via_advice_symlink.md, Logic-flaw
 - https://www.spookjs.com, Browser-hacking
@@ -4310,7 +4307,6 @@
 - https://medium.com/@jonathanbouman/reflected-client-xss-amazon-com-7b0d3cec787, Reflected-XSS
 - https://web.archive.org/web/20191219011308/https://medium.com/@tahasmily2013m/i-have-found-vulnerability-in-360totalsecurity-is-reflected-xss-in-3a6bd602bb5a, Reflected-XSS
 - https://medium.com/@khaled.hassan/the-2-5-btc-stored-xss-f2f9393417f2, Stored-XSS
-- https://medium.com/@khaled.hassan/how-i-got-paid-premium-plan-for-free-on-many-popular-websites-90e62a52416a, Logic-flaw
 - https://medium.com/@black_b/vulnerability-netflix-cross-site-scripting-xss-d44010142e2c, Reflected-XSS
 - https://medium.com/@jonathanbouman/unvalidated-open-redirect-bol-com-b270151380e6, Open-redirect
 - https://medium.com/@khaled.hassan/full-account-takeover-via-reset-password-function-8b6ef15f346f, IDOR
@@ -4432,7 +4428,6 @@
 - https://medium.com/@saamux/full-account-takeover-through-cors-with-connection-sockets-179133384815, CORS-misconfiguration
 - https://web.archive.org/web/20191218054030/https://medium.com/@zk34911/yahoo-bug-bounty-unauthorized-access-to-unisphere-management-server-debugging-facility-on-448aeb6d0c94, Authorization-flaw
 - http://blog.jr0ch17.com/2018/No-RCE-then-SSH-to-the-box/, LFI
-- https://web.archive.org/web/20201207232241/https://www.mohamedharon.com/2018/01/reflected-xss-possible-server-side.html, Reflected-XSS
 - https://medium.com/bugbountywriteup/bugbounty-linkedln-how-i-was-able-to-bypass-open-redirection-protection-2e143eb36941, Open-redirect
 - https://web.archive.org/web/20200926101239/https://medium.com/@adeshkolte/asus-web-application-vulnerabilities-by-adesh-n-kolte-4c14a1bb8739, Directory-listing
 - http://omespino.com/write-up-file-disclosure-via-ds_store-file-macos, Directory-listing

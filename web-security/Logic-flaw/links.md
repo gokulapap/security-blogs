@@ -44,3 +44,4 @@
 - https://medium.com/@rohitcoder/email-id-phone-number-can-be-exposed-through-business-manager-e79b970ea288
 - http://blog.shashank.co/2017/11/stealing-bitcoin-wallet-backups-from.html
 - https://medium.com/bugbountywriteup/how-i-am-able-to-hijack-you-1cab793a01d1
+- https://medium.com/@khaled.hassan/how-i-got-paid-premium-plan-for-free-on-many-popular-websites-90e62a52416a
