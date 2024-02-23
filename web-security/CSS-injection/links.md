@@ -1,0 +1,1 @@
+- https://medium.com/@rdzsp/getting-paid-with-just-picking-color-bug-bounty-d3dbbac277fa

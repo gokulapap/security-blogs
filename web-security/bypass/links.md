@@ -4,3 +4,4 @@
 - https://medium.com/@mohammed199709/improper-access-control-403-forbidden-bypass-489393ea112e
 - https://medium.com/@tutorialboy/bypassing-php-waf-to-achieve-remote-code-execution-in-depth-analysis-f42eb6e633fa
 - https://medium.com/@videopourtoujour/2fa-bypass-techniques-4050d2ff4818
+- https://medium.com/@kenkousen/bypassing-the-chain-of-command-d6438d6b4db2

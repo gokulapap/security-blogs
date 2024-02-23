@@ -171,7 +171,6 @@
 - https://medium.com/@grahamzemel/python-tips-and-tricks-for-cybersecurity-enthusiasts-9504d9541b8b, tricks
 - https://medium.com/@rootkid/payment-gateway-bypass-on-government-domain-8e0135c34185, misc
 - https://medium.com/@4bdoz/access-more-than-10k-premium-api-keys-python-exploit-c728fdf5eae, automation
-- https://medium.com/@kenkousen/bypassing-the-chain-of-command-d6438d6b4db2, bypass
 - https://medium.com/@infosecwriteups/40-000-bounty-authentication-bypass-techniques-cache-poisoning-idors-password-recovery-2ec097380c57, cache
 - https://medium.com/@thexssrat/subdomain-flyover-and-manual-exploration-of-the-results-15c69d509091, STO
 - https://medium.com/@orkhan_alibayli/subdomain-takeover-95646de1f436, STO
@@ -663,7 +662,6 @@
 - https://www.microsoft.com/en-us/security/blog/2023/03/06/protecting-android-clipboard-content-from-unintended-exposure/, Android
 - https://hopesamples.blogspot.com/2023/03/idor-on-bitdefendercom.html, IDOR
 - https://hunter-55.medium.com/500-bounty-in-just-5-minutes-through-recon-5eeb6c299c3c, AWS-misconfiguration
-- https://qoop.org/publications/cve-2023-21716-rtf-fonttbl.md, Memory-corruption
 - https://medium.com/@thelinuxboy/30-minute-heist-how-i-bagged-a-1500-bounty-in-just-few-minutes-48753eb2028e, Broken-Access-Control
 - https://medium.com/@mrxdevil404/bug-in-netflix-with-my-automation-1382d087078, Information-disclosure
 - https://m7arm4n.medium.com/unauthorized-access-to-admin-panel-via-swagger-c242e8341045, Missing-authentication
@@ -1278,7 +1276,6 @@
 - https://blog.hacktivesecurity.com/index.php/2022/09/17/http/, HTTP-request-smuggling
 - https://systemweakness.com/how-i-made-the-multiple-hall-of-fame-in-nokia-within-2-minutes-535056fcb66d, Clickjacking
 - https://medium.com/@lukeberner/cloning-internal-google-repos-for-fun-and-info-bf2c83d0ae00, Authorization-flaw
-- https://medium.com/@rdzsp/getting-paid-with-just-picking-color-bug-bounty-d3dbbac277fa, CSS-injection
 - https://infosecwriteups.com/abusing-broken-link-in-fitbit-google-acquisition-to-collect-bugbounty-reports-on-behalf-of-google-5885a556eb7c, Broken-link-hijacking
 - https://medium.com/@tobydavenn/the-tale-of-ssrf-to-rce-on-gov-domain-191185b32b37, SSRF
 - https://github.com/AnkitCuriosity/Write-Ups/blob/main/HTTP%20Desync%20Attack%20(Request%20Smuggling).md, HTTP-Request-Smuggling
@@ -3193,7 +3190,6 @@
 - https://medium.com/@mase289/a-tale-of-my-first-ever-full-ssrf-bug-4fe71a76e9c4, SSRF
 - https://jub0bs.com/posts/2020-06-23-ssrf/, SSRF
 - https://medium.com/bugbountywriteup/api-token-hijacking-through-clickjacking-2e36c02e6c48, Clickjacking
-- https://medium.com/@eldeebxboy/how-i-was-able-to-chain-bugs-and-gain-access-to-internal-okta-instance-f2da9ab71367, Missing-authentication
 - https://medium.com/@divyanshsharma2401/it-took-me-only-5-minutes-to-find-an-rce-on-bentley-38265da15788, RCE
 - https://medium.com/bugbountywriteup/bypass-2fa-like-a-boss-378787707ba, Lack-of-rate-limiting
 - https://alaa.blog/2020/06/how-did-i-found-information-disclosure-on-facebook-writeup/, Information-disclosure
@@ -4007,7 +4003,6 @@
 - https://medium.com/@sudhanshur705/reflected-xss-in-zomato-f892d6887147, Reflected-XSS
 - https://medium.com/@nahoragg/a-simple-cors-misconfig-leaked-private-post-of-twitter-facebook-instagram-5f1a634feb9d, CORS-misconfiguration
 - https://medium.com/@Jacksonkv22/oauth-misconfiguration-lead-to-complete-account-takeover-c8e4e89a96a, CSRF
-- https://medium.com/@friendly_/xss-through-swf-file-4f04af7b0f59, Flash-XSS
 - https://blog.ibrahimdraidia.com/bypass-csp-framing-restriction-rule-olx/, CSP-bypass
 - https://medium.com/bugbountywriteup/command-injection-poc-72cc3743f10d, OS-command-injection
 - https://medium.com/@ritishkumarsingh/facebook-vulnerability-unremovable-facebook-group-admin-2cbf4faf55c1, Logic-flaw
