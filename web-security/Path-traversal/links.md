@@ -7,3 +7,4 @@
 - https://medium.com/@wrinnsec/directory-traversal-in-pdf-viewing-application-leading-to-full-database-takeover-376e68eadd86
 - https://research.nccgroup.com/2022/10/17/toner-deaf-printing-your-next-persistence-hexacon-2022/
 - https://systemweakness.com/common-nginx-misconfiguration-leads-to-path-traversal-d58701e997bc
+- https://security.humanativaspa.it/useless-path-traversals-in-zyxel-admin-interface-cve-2022-2030/

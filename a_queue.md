@@ -421,7 +421,6 @@
 - https://www.dig.security/post/gcp-cloudsql-vulnerability-leads-to-internal-container-access-and-data-exposure, Cloud
 - https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/from-response-to-request-adding-your-own-variables-inside-of-graphql-queries-for-account-take-over/, GraphQL
 - https://www.secureworks.com/research/tampering-with-conditional-access-policies-using-azure-ad-graph-api, Cloud
-- https://www.synacktiv.com/sites/default/files/2023-05/Synacktiv-Danfoss-Storeview-Multiple-Vulnerabilities.pdf, OS-command-injection
 - https://github.com/dhmosfunk/CVE-2023-25690-POC, HTTP-Request-Smuggling
 - https://mr-r3bot.github.io/red/team/2023/05/22/From-RCE-to-owning-entire-cloud-infrastructure.html, RCE
 - https://medium.com/@husein.ayoub/azure-dns-takeover-swisscom-7c6aacb38e8, DNS-takeover
@@ -1373,7 +1372,6 @@
 - https://redrays.io/cve-2020-2733-jd-edwards/, Information-disclosure
 - https://whereisk0shl.top/post/break-me-out-of-sandbox-in-old-pipe-cve-2022-22715-windows-dirty-pipe, Local-Privilege-Escalation
 - https://www.benthamsgaze.org/2022/08/22/vulnerability-in-linux-containers-investigation-and-mitigation/, Local-Privilege-Escalation
-- https://security.humanativaspa.it/useless-path-traversals-in-zyxel-admin-interface-cve-2022-2030/, Path-traversal
 - https://medium.com/@mullangisashank/how-a-port-scan-got-me-nokia-hall-of-fame-6f9b65e920e3, Missing-authentication
 - https://wesecureapp.com/blog/blockchain-network-is-secured-but-not-the-apps-and-their-integrations/, Payment-tampering
 - https://bergee.it/blog/blind-command-injection/, RCE
@@ -2485,7 +2483,6 @@
 - https://feed.bugs.xdavidhu.me/bugs/0007, Browser-hacking
 - https://ledz1996.gitlab.io/blog/writeups/CVE-2021-22203-gitlab-arbitrary-file-read-write-through-kroki, Arbitrary-file-read
 - https://joelmcg1993.medium.com/stored-xss-with-two-different-parameters-d9243cae3e6a, Reflected-XSS
-- https://blog.theori.io/research/webkit-type-confusion/, Memory-corruption
 - https://n1ghtmar3.medium.com/chaining-xss-with-authentication-issues-to-turn-it-into-full-account-takeover-ae886ac696bb, XSS
 - https://medium.com/fraktal/content-spoofing-vulnerability-in-shibboleth-service-provider-a6619404eaf1, Content-spoofing
 - https://amineaboud.medium.com/disclose-leads-form-details-of-any-facebook-business-account-or-facebook-page-bug-bounty-7ecae6cff312, IDOR
@@ -2894,7 +2891,6 @@
 - https://kailashbohara.com.np/blog/2020/11/18/GraphQL-IDOR-in-Facebook-streamer-dashboard/, IDOR
 - https://shahjerry33.medium.com/server-side-misconfigurartion-a-funny-fix-63cc12b4c7fc, Information-disclosure
 - https://medium.com/@logicbomb_1/tale-of-3-vulnerabilities-to-account-takeover-44ba631a0304, SSRF
-- https://medium.com/@shaheenfazim/hacking-into-rce-government-server-operated-for-the-us-department-of-energys-national-nuclear-8aadc2e7e491, RCE
 - https://evait.medium.com/pentest-story-empirum-password-decryption-3a9e2530aba7, Weak-crypto
 - https://cyc10n3.medium.com/rce-via-server-side-template-injection-ad46f8e0c2ae, SSTI
 - http://www.firstsight.me/2020/11/optimizing-hunting-results-in-vdp-for-use-in-bug-bounty-programs-from-sensitive-information-disclosure-to-accessing-hidden-apis-which-can-be-used-to-retrieve-customer-data/, Information-disclosure
@@ -3539,7 +3535,6 @@
 - https://web.archive.org/web/20200530191901/https://vict0ni.me/multiple-header-injections-bug-hunting/, Host-header-injection
 - https://www.ezequiel.tech/p/500-getclass.html, Sandbox-bypass
 - https://medium.com/@navne3t/a-25-easy-bug-bdfcde4d1370, Session-management-issue
-- https://medium.com/@pflash0x0punk/ssrf-via-ffmpeg-hls-processing-a04e0288a8c5, SSRF
 - https://kishanbagaria.com/airdos/, DoS
 - https://payatu.com/blog/nikhil-mittal/firefox-ios-qr-code-reader-xss-(cve-2019-17003), XSS
 - https://medium.com/@ultranoob/weird-and-simple-2fa-bypass-without-any-test-b869e09ac261, MFA-bypass

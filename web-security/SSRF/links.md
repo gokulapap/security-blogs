@@ -36,3 +36,4 @@
 - https://sirleeroyjenkins.medium.com/just-gopher-it-escalating-a-blind-ssrf-to-rce-for-15k-f5329a974530
 - https://nechudav.blogspot.com/2021/12/ssrf-vulnerability-in-appsheet-google.html
 - https://apth3hack3r.medium.com/ssrf-google-hof-hall-of-fame-2c159dda04e3
+- https://medium.com/@pflash0x0punk/ssrf-via-ffmpeg-hls-processing-a04e0288a8c5

@@ -15,3 +15,4 @@
 - https://labs.nettitude.com/blog/cve-2022-30211-windows-l2tp-vpn-memory-leak-and-use-after-free-vulnerability/
 - https://thalium.github.io/blog/posts/deserialization-bug-through-rdp-smart-card-extension/
 - https://qoop.org/publications/cve-2023-21716-rtf-fonttbl.md
+- https://blog.theori.io/research/webkit-type-confusion/
