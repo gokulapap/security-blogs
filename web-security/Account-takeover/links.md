@@ -28,3 +28,4 @@
 - https://web.archive.org/web/20211207210720/https://securityflow.io/one-endpoint-two-account-takeovers/
 - https://medium.freecodecamp.org/hacking-tinder-accounts-using-facebook-accountkit-d5cc813340d1
 - https://infosecwriteups.com/account-takeover-user-admin-via-password-reset-322b8020ea6
+- https://www.sociosploit.com/2020/06/another-fappening-on-horizon.html

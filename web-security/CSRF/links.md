@@ -29,3 +29,4 @@
 - https://medium.com/@odayalhalbe1/my-first-bug-in-google-and-how-i-got-csrf-token-for-victim-account-rather-than-bypass-it-1337-bf01261feb47
 - https://blog.darabi.me/2015/04/bypass-facebook-csrf.html
 - https://zseano.medium.com/site-wide-csrf-issue-chained-with-clickjacking-multiple-sites-vulnerable-6201abab0d3e
+- https://infosecwriteups.com/chaining-bugs-to-get-my-first-bug-bounty-7e94afb704e7

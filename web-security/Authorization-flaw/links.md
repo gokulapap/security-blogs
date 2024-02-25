@@ -33,3 +33,4 @@
 - https://rafi-ahamed.medium.com/forcing-for-a-bounty-b637c468d7bd
 - https://medium.com/@muhammadsholikhin/facebook-vulnerability-1500-for-removing-document-cover-9ffd0173877b
 - https://blog.easysiem.com/application-security/case-study-i-browser-anomaly-with-facebook-apps-1500usd
+- https://medium.com/@evilboyajay/page-admin-disclosure-facebook-bug-bounty-2019-ee9920e768eb

@@ -775,7 +775,6 @@
 - https://www.synack.com/blog/default-credentials-still-a-problem-today/, Default-credentials
 - https://www.blackhillsinfosec.com/exploit-development-a-sincere-form-of-flattery/, MS-RPC
 - https://www.zerodayinitiative.com/blog/2023/2/6/pwn2owning-two-hosts-at-the-same-time-abusing-inductive-automation-ignitions-custom-deserialization, Insecure-deserialization
-- https://infosecwriteups.com/chaining-bugs-to-get-my-first-bug-bounty-7e94afb704e7, CSRF
 - https://jowin922.medium.com/reflected-xss-on-target-with-tough-waf-waf-bypass-3b7efd1ef2bc, Reflected-XSS
 - https://decoded.avast.io/janvojtesek/dota-2-under-attack-how-a-v8-bug-was-exploited-in-the-game/, V8-JavaScript-engine
 - https://arnavtripathy98.medium.com/bypassing-api-restrictions-for-fun-and-profit-c9ab746b67be, Payment-bypass
@@ -2365,7 +2364,6 @@
 - https://web.archive.org/web/20210927021132/https://0xdln.ml/XSS-Special-Cases/, XSS
 - https://cinzinga.com/XXE-Case-Studies/, XXE
 - https://sapt.medium.com/apple-hall-of-fame-for-a-small-misconfiguration-unauth-cache-purging-faf81b19419b, Unauthenticated-cache-purge
-- https://www.shielder.it/advisories/mattermost-server-reflected-xss-oauth/, Reflected-XSS
 - https://medium.com/@shubhayumajumdar/bug-chain-leads-to-mass-account-takeover-25dc76205f5d, Information-disclosure
 - https://medium.com/pentesternepal/how-i-found-a-bug-in-apple-within-just-in-5min-d7357237d7a0, XSS
 - https://medium.com/@Kntjrld/not-valid-bug-that-leads-to-us-a-multiple-valid-report-in-facebook-25a3fb8cb51, Information-disclosure
@@ -3203,7 +3201,6 @@
 - https://www.ehpus.com/post/smtp-injection-in-gsuite, SMTP-injection
 - https://medium.com/bugbountywriteup/reflected-user-input-xss-c3e681710e74, Reflected-XSS
 - https://medium.com/bugbountywriteup/business-logic-flaw-in-invitation-system-allows-to-takeover-any-account-at-private-company-daaf898966b0, Account-takeover
-- https://www.sociosploit.com/2020/06/another-fappening-on-horizon.html, Account-takeover
 - https://medium.com/@ddigvijay29/how-to-secure-aws-serverless-lambda-from-redos-regular-expression-denial-of-service-resultant-12f0401118cd, ReDoS
 - https://ysamm.com/?p=460, Privilege-escalation
 - https://ysamm.com/?p=450, Information-disclosure
@@ -3772,7 +3769,6 @@
 - https://medium.com/@dr.spitfire/sensitive-information-disclosure-web-cache-deception-attack-bcac6cb9cd86?sk=a2557f0c557ff38876141c2d94b296dd, Information-disclosure
 - https://philippeharewood.com/download-arexport-files-for-any-public-ar-studio-effect/, IDOR
 - https://web.archive.org/web/20201001064738/https://medium.com/@protector47/password-reset-vulnerability-full-account-takeover-insecure-direct-object-reference-c4a9a3ea8268, Password-reset
-- https://medium.com/@evilboyajay/page-admin-disclosure-facebook-bug-bounty-2019-ee9920e768eb, Authorization-flaw
 - https://www.f5.com/labs/articles/threat-intelligence/how-i-hacked-the-microsoft-outlook-android-app-and-found-cve-2019-1105, XSS
 - https://blog.lent.ink/post/klanteservice/, Logic-flaw
 - https://medium.com/@osamaavvan/1800-worth-clickjacking-1f92e79d0414, Clickjacking
@@ -4558,7 +4554,6 @@
 - https://www.seekurity.com/blog/general/stored-xss-in-the-heart-of-the-russian-email-provider-giant-mail-ru/, Stored-XSS
 - https://dos.sh/blog/2017/6/21/yahoo-small-business-luminate-and-the-not-so-secret-keys, Blind-SSRF
 - https://www.bishopfox.com/blog/2017/06/how-i-built-an-xss-worm-on-atmail/, XSS
-- https://www.arneswinnen.net/2017/06/authentication-bypass-on-airbnb-via-oauth-tokens-theft/, OAuth
 - https://web.archive.org/web/20170620023433/https://medium.com/@know.0nix/how-i-hack-23-900-000-tumblr-domains-at-once-341edad6e7cc, IDOR
 - https://blog.witcoat.com/2018/05/30/xss-on-bugcrowd-and-so-many-other-websites-main-domain/, Reflected-XSS
 - https://www.seekurity.com/blog/general/metasploit-web-project-kill-all-running-tasks-csrf-cve-2017-5244/, CSRF

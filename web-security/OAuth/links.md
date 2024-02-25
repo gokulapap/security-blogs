@@ -6,3 +6,4 @@
 - https://web.archive.org/web/20220401221504/https://blog.innerht.ml/internet-explorer-has-a-url-problem/
 - https://www.amolbaikar.com/facebook-oauth-framework-vulnerability/
 - https://neroli.medium.com/oauth-misconfiguration-leads-to-full-account-takeover-22b032cb6732
+- https://www.arneswinnen.net/2017/06/authentication-bypass-on-airbnb-via-oauth-tokens-theft/

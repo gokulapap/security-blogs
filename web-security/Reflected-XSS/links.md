@@ -21,3 +21,4 @@
 - https://medium.com/@win3zz/simple-story-of-some-complicated-xss-on-facebook-8a9c0d80969d
 - https://medium.com/@newp_th/reflected-xss-on-stack-overflow-b8366a855472
 - https://web.archive.org/web/20201207232241/https://www.mohamedharon.com/2018/01/reflected-xss-possible-server-side.html
+- https://www.shielder.it/advisories/mattermost-server-reflected-xss-oauth/
