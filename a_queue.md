@@ -99,7 +99,6 @@
 - https://medium.com/@ahmadaabdulla/how-i-found-sql-injection-on-8x8-cengage-comodo-automattic-20-company-c296d1a09f63, sql-injection
 - https://medium.com/@cyber.jemin/price-manipulation-vulnerability-potential-exploitation-in-dating-website-d1a7438c5eeb, parameter
 - https://medium.com/@tommasobona04/building-an-xss-scanner-with-python-detecting-cross-site-scripting-vulnerabilities-by-tommaso-69d4c9e04d72, automation
-- https://medium.com/@nynan/bug-bounty-wordlists-please-do-them-properly-2110babcf482, misc
 - https://medium.com/@deepamkumar510/remote-code-execution-rce-through-file-upload-functionality-1809bd504805, RCE
 - https://medium.com/@nynan/what-i-learnt-from-reading-217-subdomain-takeover-bug-reports-c0b94eda4366, STO
 - https://medium.com/@proviesec/a-swag-for-a-open-redirect-google-dork-bug-bounty-2143b943f34e, open-redirection
@@ -2617,7 +2616,6 @@
 - https://thexssrat.medium.com/i-felt-like-there-were-no-more-bugs-left-after-winning-2000-but-an-email-worth-750-changed-my-c7a507649060, Broken-Access-Control
 - https://infosecwriteups.com/a-weird-xss-77c13d135c9f, Reflected-XSS
 - https://medium.com/@ashrafharb997/csrf-to-full-account-takeover-5196cef9d166, CSRF
-- https://xhzeem.me/posts/PHP-fopen-function-to-local-file-inclusion/read/, LFI
 - https://www.pethuraj.com/blog/paypal-bug-bounty-writeup/, Open-redirect
 - https://bloggerrando.blogspot.com/2021/03/bug-bounty-like-and-dislike-count.html, Broken-Access-Control
 - https://jychp.medium.com/how-to-bypass-cloudflare-bot-protection-1f2c6c0c36fb, Logic-flaw
@@ -3330,7 +3328,6 @@
 - https://medium.com/@abhishake100/strange-redirect-fixed-but-no-bounty-54425aea7f19, Open-redirect
 - https://medium.com/@rat010/otp-verification-bypass-ee17d68f8425, OTP-bypass
 - https://fadhilthomas.github.io/post/facebook-white-hat-01/, Session-management-issue
-- https://blog.yappare.com/2020/04/tricky-oracle-sql-injection-situation.html, SQL-injection
 - https://blog.zimperium.com/multiple-kernel-vulnerabilities-affecting-all-qualcomm-devices/, Memory-corruption
 - https://medium.com/@kristian.balog/netflix-party-simple-xss-ec92ed1d7e18, XSS
 - https://medium.com/@shahjerry33/business-logic-errors-a-new-look-3b18d9c2a12f, Logic-flaw
@@ -4015,7 +4012,6 @@
 - https://web.archive.org/web/20191217045127/https://medium.com/vulnerables/yes-i-can-see-your-otp-9334cd27f021, IDOR
 - https://www.hackerinside.me/2019/01/a-tricky-open-redirect.html, Open-redirect
 - https://bugbountypoc.com/how-i-was-able-to-harvest-other-vine-users-ip-address, IDOR
-- https://rudr4sarkar.blogspot.com/2019/01/how-i-found-web-shell-on-antihackme-and.html, RCE
 - https://footstep.ninja/posts/password-reset/, Password-reset
 - https://medium.com/@pig.wig45/bypassing-access-control-in-a-program-on-hackerone-ef213ab34703, Authorization-flaw
 - https://medium.com/@yogeshtantak7788/how-i-was-able-to-delete-google-gallery-data-idor-53d2f303efff, IDOR
@@ -4366,7 +4362,6 @@
 - https://medium.com/@logicbomb_1/bugbounty-your-details-are-saved-into-my-account-user-info-disclosure-vulnerability-in-practo-fe36930a1246, IDOR
 - https://medium.com/@satboy.fb/how-i-caught-multiple-vulnerabilities-in-udemy-com-14012a8a1421, XSS
 - https://web.archive.org/web/20201022201335/https://www.mohamedharon.com/2018/04/my-best-small-report-bounty-report-in.html, SQL-injection
-- https://web.archive.org/web/20200929004520/https://www.mohamedharon.com/2018/03/xss-in-subdomain-httpsyefgrantsyahoocom.html, Flash-XSS
 - https://web.archive.org/web/20200928235353/https://www.mohamedharon.com/2018/03/xss-in-sportstwcampaignyahoonet.html, Reflected-XSS
 - https://medium.com/@valeriyshevchenko/how-i-hacked-one-cryptocurrency-service-db3cb0f81d6c, Blind-XSS
 - https://medium.com/bugbountywriteup/creating-test-conversion-using-any-app-8b32ee0a735, Parameter-tampering
