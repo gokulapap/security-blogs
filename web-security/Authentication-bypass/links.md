@@ -11,3 +11,4 @@
 - https://www.rcesecurity.com/2023/07/patch-diffing-cve-2023-28121-to-compromise-a-woocommerce/
 - https://web.archive.org/web/20220128200941/https://saeeds.medium.com/blackbox-cookie-testing-how-i-cracked-the-admins-cookie-c817dd4281c8
 - https://srcincite.io/blog/2022/08/11/i-am-whoever-i-say-i-am-infiltrating-vmware-workspace-one-access-using-a-0-click-exploit.html
+- https://medium.com/bugbountywriteup/bypassing-googles-fix-to-access-their-internal-admin-panels-12acd3d821e3

@@ -65,3 +65,5 @@
 - https://ysamm.com/?p=525
 - https://medium.com/@arbazhussain/self-xss-to-good-xss-clickjacking-6db43b44777e
 - https://infosecwriteups.com/lets-hacking-citizens-bank-9520e9c05cf9
+- https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/solarwinds-serv-u-1523-share-url-xss-cve-2021-32604/
+- https://medium.com/bugbountywriteup/900-xss-in-yahoo-recon-wins-65ee6d4bfcbd

@@ -1,1 +1,2 @@
 - https://medium.com/@grumpinout/solving-intigritis-november-xss-challenge-with-the-javascript-console-dde7253117dd
+- https://medium.com/@fh4ntke/intigriti-xss-challenge-0621-cf76c28840c1

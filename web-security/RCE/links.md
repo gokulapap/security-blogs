@@ -63,3 +63,4 @@
 - https://marcin-wolak.medium.com/cve-2022-24082-rce-in-the-pega-platform-discovery-remediation-technical-details-long-live-69efb5437316
 - https://medium.com/@shaheenfazim/hacking-into-rce-government-server-operated-for-the-us-department-of-energys-national-nuclear-8aadc2e7e491
 - https://rudr4sarkar.blogspot.com/2019/01/how-i-found-web-shell-on-antihackme-and.html
+- https://blog.ammaraskar.com/vscode-rce/
