@@ -8,3 +8,4 @@
 - https://research.nccgroup.com/2022/10/17/toner-deaf-printing-your-next-persistence-hexacon-2022/
 - https://systemweakness.com/common-nginx-misconfiguration-leads-to-path-traversal-d58701e997bc
 - https://security.humanativaspa.it/useless-path-traversals-in-zyxel-admin-interface-cve-2022-2030/
+- https://www.immersivelabs.com/blog/we-discovered-major-vulnerabilities-in-control-web-panel-heres-how-we-found-them/

@@ -1,1 +1,2 @@
 - https://blog.redforce.io/shareit-vulnerabilities-enable-unrestricted-access-to-adjacent-devices-files/
+- https://medium.com/@severustalin/how-i-found-my-first-bug-in-android-41153093ba57

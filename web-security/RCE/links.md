@@ -64,3 +64,5 @@
 - https://medium.com/@shaheenfazim/hacking-into-rce-government-server-operated-for-the-us-department-of-energys-national-nuclear-8aadc2e7e491
 - https://rudr4sarkar.blogspot.com/2019/01/how-i-found-web-shell-on-antihackme-and.html
 - https://blog.ammaraskar.com/vscode-rce/
+- https://www.zerodayinitiative.com/blog/2021/10/5/cve-2021-26420-remote-code-execution-in-sharepoint-via-workflow-compilation
+- https://blog.aquasec.com/jenkins-server-vulnerabilities

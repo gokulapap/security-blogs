@@ -643,7 +643,6 @@
 - https://mizu.re/post/ejs-server-side-prototype-pollution-gadgets-to-rce, Server-side-prototype-pollution
 - https://claroty.com/team82/research/the-silent-spy-among-us-modern-attacks-against-smart-intercoms, IoT
 - https://arben.sh/bugbounty/SelfXSS-To-Stored-Through-IDOR/, IDOR
-- https://blog.aquasec.com/jenkins-server-vulnerabilities, RCE
 - https://medium.com/@omerkepenek/the-story-of-becoming-a-super-admin-ab32db7dd1b3, Hardcoded-credentials
 - https://www.shockwave.cloud/blog/subdomain-takeover-how-a-misconfigured-dns-record-could-lead-to-a-huge-supply-chain-attack, Subdomain-takeover
 - https://infosecwriteups.com/dont-send-a-message-to-anyone-before-reading-this-account-takeover-vulnerability-external-audit-cf584a0c983c, HTTP-response-manipulation
@@ -819,7 +818,6 @@
 - https://blog.projectdiscovery.io/php-http-server-source-disclosure/, Source-code-disclosure
 - https://medium.com/@sudipshah_66336/disclosing-facebook-page-admins-by-playing-a-game-2b0f4ed082e4, Logic-flaw
 - https://github.blog/2023-01-27-bypassing-ognl-sandboxes-for-fun-and-charities/, OGNL-injection
-- https://medium.com/@severustalin/how-i-found-my-first-bug-in-android-41153093ba57, Android
 - https://positive.security/blog/ransack-data-exfiltration, Account-takeover
 - https://www.sonarsource.com/blog/openemr-remote-code-execution-in-your-healthcare-system/, RCE
 - https://www.rtcsec.com/article/kamailio-exec-module-considered-harmful/, OS-command-injection
@@ -1390,7 +1388,6 @@
 - https://doyensec.com/resources/Doyensec_Advisory_SmokescreenGoProxy_Q12022.pdf, DoS
 - https://accessvector.net/2022/freebsd-aio-lpe, Memory-corruption
 - https://xthemo.medium.com/open-redirect-at-nvidia-62343b45f85b, Open-redirect
-- https://www.immersivelabs.com/blog/we-discovered-major-vulnerabilities-in-control-web-panel-heres-how-we-found-them/, Path-traversal
 - https://infosecwriteups.com/salesforce-bug-hunting-to-critical-bug-b5da44789d3, Information-disclosure
 - https://blog.viettelcybersecurity.com/1day-to-0day-on-tl-link-tl-wr841n/, Memory-corruption
 - https://bergee.it/blog/five-minute-hunting-for-hidden-xss/, Reflected-XSS
@@ -1757,7 +1754,6 @@
 - https://crypt0g30rgy.github.io/post/PaymentBypassThree, Payment-bypass
 - https://haxatron.gitbook.io/vulnerability-research/vr1, Broken-Access-Control
 - https://blog.aquasec.com/npm-supply-chain-attack, Information-disclosure
-- https://medium.com/@StealthyBugs/http-request-smuggling-on-business-apple-com-and-others-2c43e81bcc52, HTTP-request-smuggling
 - https://www.secureworks.com/research/azure-active-directory-exposes-internal-information, Information-disclosure
 - https://tarekbouali.com/posts/how-i-hacked-one-of-the-biggest-airlines-group-of-the-world/, IDOR
 - https://feed.bugs.xdavidhu.me/bugs/0014, IDOR
@@ -2180,7 +2176,6 @@
 - https://mikekitckchan.medium.com/power-of-your-own-wordlist-fuzz-for-log-file-leads-to-information-leakage-ad46958b4729, Information-disclosure
 - https://medium.com/@oxygenne/request-smuggling-in-major-crypto-site-road-to-disappointment-a71a461f3b1f, HTTP-Header-Smuggling
 - https://shail-official.medium.com/accessing-apples-internal-uat-slackbot-for-fun-and-non-profit-25b167605f38, Authorization-flaw
-- https://www.zerodayinitiative.com/blog/2021/10/5/cve-2021-26420-remote-code-execution-in-sharepoint-via-workflow-compilation, RCE
 - https://medium.com/@mfocuz/hacking-netflix-eureka-8e5957b2f539, SSRF
 - https://www.aeth.cc/public/Article-Pass-Culture/stored-xss-article-en.html, Stored-XSS
 - https://supras.io/how-i-got-access-to-many-piis-through-a-source-code-leak/, Information-disclosure
