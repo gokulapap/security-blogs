@@ -1367,7 +1367,6 @@
 - https://whereisk0shl.top/post/break-me-out-of-sandbox-in-old-pipe-cve-2022-22715-windows-dirty-pipe, Local-Privilege-Escalation
 - https://www.benthamsgaze.org/2022/08/22/vulnerability-in-linux-containers-investigation-and-mitigation/, Local-Privilege-Escalation
 - https://medium.com/@mullangisashank/how-a-port-scan-got-me-nokia-hall-of-fame-6f9b65e920e3, Missing-authentication
-- https://wesecureapp.com/blog/blockchain-network-is-secured-but-not-the-apps-and-their-integrations/, Payment-tampering
 - https://bergee.it/blog/blind-command-injection/, RCE
 - https://hackingguy.medium.com/failed-coding-assessment-to-remote-code-execution-a-case-study-part-1-1778934b3b34, RCE
 - https://www.michaelhorowitz.com/VPNs.on.iOS.are.scam.php, Privacy-issue
@@ -1962,7 +1961,6 @@
 - https://www.zerodayinitiative.com/blog/2022/1/18/cve-2021-21661-exposing-database-info-via-wordpress-sql-injection, SQL-injection
 - https://googleprojectzero.blogspot.com//2022/01/zooming-in-on-zero-click-exploits.html, Memory-corruption
 - https://blog.assetnote.io/2022/01/17/workspace-one-access-ssrf/, SSRF
-- https://omespino.com/write-up-private-bug-bounty-firebase-database-exposed-by-misconfiguration-2000-usd/, Android
 - https://medium.com/@p3rr0x22/critical-xss-in-chrome-extension-b55757a2074, XSS
 - https://medium.com/@robert0/how-i-found-broken-access-control-through-out-of-sync-setup-and-got-1000-9143fc5febdd, Broken-Access-Control
 - https://www.cyberick.com/post/xxe-in-saml-sso-writeup-bug-bounty, XXE
@@ -2430,7 +2428,6 @@
 - https://infosecwriteups.com/crashing-your-linkedin-app-with-a-connection-request-257f9b484550, Application-level-DoS
 - https://blog.oversecured.com/Why-dynamic-code-loading-could-be-dangerous-for-your-apps-a-Google-example/, Arbitrary-file-write
 - https://rakesh-thodupunoori.medium.com/part-1-dive-into-zoom-applications-d70f3de53ec5, CSRF
-- https://infosecwriteups.com/story-of-google-hall-of-fame-and-private-program-bounty-worth-53559a95c468, Exposed-registration-page
 - https://inakcf.medium.com/one-click-dos-via-response-manipulation-2f08da421104, Logic-flaw
 - https://infosecwriteups.com/authentication-bypass-easy-p1-in-10-minutes-54d5a2093e54, Authentication-bypass
 - https://blog.cyberxplore.com/how-we-are-able-to-hack-any-company-by-sending-message-20000-bounty-cve-2021-34506/, Universal-XSS
@@ -3864,7 +3861,6 @@
 - https://medium.com/@kunal94/web-cache-deception-to-api-endpoint-attack-using-cached-token-header-b01a604a5ccd, Web-cache-deception
 - https://web.archive.org/web/20200929013706/https://www.mohamedharon.com/2019/04/apache-strust-rce.html, RCE
 - https://medium.com/@mrnikhilsri/unauthenticated-account-takeover-through-http-leak-33386bb0ba0b, HTML-injection
-- https://web.archive.org/web/20191218195406/https://medium.com/@sherazkhalid_60362/account-takeover-by-chaining-two-vulnerabilities-bb447753b089, CSRF
 - https://medium.com/@jayateerthag/multiple-xss-in-skype-com-81d65919ed24, XSS
 - https://www.rcesecurity.com/2019/04/dell-kace-k1000-remote-code-execution-the-story-of-bug-k1-18652/, RCE
 - https://medium.com/@daniel.thatcher/obtaining-xss-using-moodle-features-and-minor-bugs-2035665989cc, Login-CSRF
@@ -4733,4 +4729,3 @@
 - https://whitton.io/archive/my-experience-with-the-paypal-bug-bounty-programme/, CSRF
 - https://maustin.net/articles/2011-08/FBML_dom_traversal, Information-disclosure
 - https://maustin.net/articles/2010-07/facebook_fbml_xss, XSS
-- https://maustin.net/articles/2010-07/facebook_html5, XSS
