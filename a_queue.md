@@ -132,7 +132,6 @@
 - https://medium.com/@popalltheshells/domain-admin-compromise-in-3-hours-5778902604c9, misc
 - https://medium.com/@sivasimha/unrestricted-file-upload-cloud-fare-bypass-12867b65de3a, file-upload
 - https://medium.com/@adamjsturge/mx-takeovers-automated-subdomain-takeover-64e658fc4fb7, automation
-- https://medium.com/@quadrimohammedbilal.mb/account-takeover-by-chaining-oauth-misconfiguration-and-xss-822e41dc85b0, oauth-misconfig
 - https://medium.com/@corneacristian/top-25-rce-bug-bounty-reports-bc9555cca7bc, RCE
 - https://medium.com/@deepamkumar510/parameter-tampering-842ef9355943, parameter
 - https://medium.com/@pingsec/interesting-account-takeover-bugs-619df8466ca0, ATO
@@ -719,7 +718,6 @@
 - https://www.vaadata.com/blog/exploiting-an-html-injection-with-dangling-markup/, HTML-injection
 - https://www.trellix.com/en-us/about/newsroom/stories/research/trellix-advanced-research-center-discovers-a-new-privilege-escalation-bug-class-on-macos-and-ios.html, Local-Privilege-Escalation
 - https://bishopfox.com/blog/what-the-vuln-zimbra, Zip-Slip-attack
-- https://onekey.com/blog/clamav-critical-patch-review/, RCE
 - https://www.synacktiv.com/sites/default/files/2023-02/Synacktiv-Nokia-BTS-AirScale-Asika-Multiple-Vulnerabilities.pdf, Base-transceiver-station
 - https://jjainam16.medium.com/reflected-cross-site-scripting-on-reddit-website-bounty-awards-5000-99fa639cdd7, Reflected-XSS
 - https://blog.trailofbits.com/2023/02/21/vscode-extension-escape-vulnerability/, Path-traversal
@@ -3427,7 +3425,6 @@
 - https://web.archive.org/web/20200305081812/https://0xatul.github.io/posts/2020/02/external-xml-entity-via-file-upload-svg/, XXE
 - https://www.amolbaikar.com/determine-users-with-detailed-role-model-on-behalf-of-any-facebook-application/, IDOR
 - https://web.archive.org/web/20200223073527/https://victoni.github.io/changing-userID-leads-to-data-leak/, IDOR
-- https://medium.com/@hetroublemakr/how-inspect-element-got-me-a-bounty-58d3a9946225, Client-side-enforcement-of-server-side-security
 - https://medium.com/bugbountywriteup/simple-remote-code-execution-vulnerability-examples-for-beginners-985867878311, RCE
 - https://web.archive.org/web/20200225040957/https://medium.com/@godofdarkness.msf/google-apis-clickjacking-1337-7a3a9f3eb8df, Clickjacking
 - https://fellchase.blogspot.com/2020/02/site-wide-csrf-on-popular-program.html, CSRF
@@ -3507,7 +3504,6 @@
 - https://weizman.github.io/2019/12/18/js-anti-debug-1/, Browser-hacking
 - https://medium.com/@rootxharsh_90844/abusing-feature-to-steal-your-tokens-f15f78cebf74, OAuth
 - https://research.checkpoint.com/2019/breakingapp-whatsapp-crash-data-loss-bug/, DoS
-- https://medium.com/@pratyush1337/inf0rm-tion-disclosure-via-idor-cff5541a9232, IDOR
 - https://medium.com/@irounakdhadiwal999/stored-iframe-injection-csrf-account-takeover-42c93ad13f5d, HTML-injection
 - https://m0chan.github.io/2019/12/16/Subdomain-Takeover-Azure-CDN.html, Subdomain-takeover
 - https://offensi.com/2019/12/16/4-google-cloud-shell-bugs-explained-introduction/, RCE
@@ -4476,7 +4472,6 @@
 - https://guptashubham.com/all-about-hackerone-private-program-terapeak/, IDOR
 - https://guptashubham.com/multiple-vulnerabilities-in-oracle-ebs/, SQL-injection
 - https://kciredor.com/first-bounty-time-to-step-up-my-game.html, Same-Origin-Method-Execution
-- http://www.noob.ninja/2017/09/story-of-parameter-specific-xss.html, XSS
 - https://medium.com/bugbountywriteup/chaining-self-xss-with-ui-redressing-is-leading-to-session-hijacking-pwn-users-like-a-boss-efb46249cd14, Self-XSS
 - http://manuel-sousa.blogspot.com/2017/09/url-whitelist-bypass-accounts-google.html, Open-redirect
 - https://medium.com/intigriti/how-i-hacked-hundreds-of-companies-through-their-helpdesk-b7680ddc2d4c, Ticket-Trick

@@ -1,0 +1,1 @@
+- https://medium.com/@quadrimohammedbilal.mb/account-takeover-by-chaining-oauth-misconfiguration-and-xss-822e41dc85b0
