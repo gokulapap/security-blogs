@@ -14,3 +14,4 @@
 - https://sector7.computest.nl/post/2023-01-xar/
 - https://initblog.com/2020/oslogin-privesc/
 - https://research.ifcr.dk/spoolfool-windows-print-spooler-privilege-escalation-cve-2022-22718-bf7752b68d81
+- https://ssd-disclosure.com/ssd-advisory-vhdmpivalidatevirtualdisksurface-lpe/

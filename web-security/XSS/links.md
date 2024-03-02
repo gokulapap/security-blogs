@@ -69,3 +69,4 @@
 - https://medium.com/bugbountywriteup/900-xss-in-yahoo-recon-wins-65ee6d4bfcbd
 - https://maustin.net/articles/2010-07/facebook_html5
 - http://www.noob.ninja/2017/09/story-of-parameter-specific-xss.html
+- https://dl.acm.org/doi/fullHtml/10.1145/3427228.3427290

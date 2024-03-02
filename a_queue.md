@@ -1352,7 +1352,6 @@
 - https://akshayravic09yc47.medium.com/improper-input-validation-leads-to-email-spamming-5d1a53b2a579, Email-content-injection
 - https://joshuaarulsamy.medium.com/my-hall-of-fame-at-united-nations-success-story-97675232aed7, XSS
 - https://infosecwriteups.com/break-the-logic-5-different-perspectives-in-single-page-1500-5aa09da0fe7a, Client-side-enforcement-of-server-side-security
-- https://ssd-disclosure.com/ssd-advisory-vhdmpivalidatevirtualdisksurface-lpe/, Local-Privilege-Escalation
 - https://blog.nietaanraken.nl/posts/github-pages-command-injection/, RCE
 - https://dphoeniixx.medium.com/chaining-telegram-bugs-to-steal-session-related-files-c90eac4749bd, Arbitrary-file-read
 - https://jfrog.com/blog/satisfying-our-way-into-remote-code-execution-in-the-opc-ua-industrial-stack/, Memory-corruption
@@ -1384,7 +1383,6 @@
 - https://medium.com/@ashlyn.lau_17206/2fa-bypass-do-re-mi-cfcfc3775d2e, MFA-bypass
 - https://doyensec.com/resources/Doyensec_Advisory_SmokescreenGoProxy_Q12022.pdf, DoS
 - https://accessvector.net/2022/freebsd-aio-lpe, Memory-corruption
-- https://xthemo.medium.com/open-redirect-at-nvidia-62343b45f85b, Open-redirect
 - https://infosecwriteups.com/salesforce-bug-hunting-to-critical-bug-b5da44789d3, Information-disclosure
 - https://blog.viettelcybersecurity.com/1day-to-0day-on-tl-link-tl-wr841n/, Memory-corruption
 - https://bergee.it/blog/five-minute-hunting-for-hidden-xss/, Reflected-XSS
@@ -2825,12 +2823,10 @@
 - https://lf.lc/vrp/175896812/, RCE
 - https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/d-link-multiple-security-vulnerabilities-leading-to-rce/, RCE
 - https://medium.com/@3bodymo/how-i-hacked-ibm-and-got-full-access-on-many-services-ecf1dab4a054, Information-disclosure
-- https://rikeshbaniyaaa.medium.com/javascript-analysis-leading-to-admin-portal-access-ea30f8328c8e, Authorization-flaw
 - https://security.lauritz-holtmann.de, CSRF
 - https://jayateerthag.medium.com/download-filename-manipulation-due-to-improper-rendering-of-rtlo-characters-69e2751a8f28, RTLO
 - https://baibhavjha.com.np/blogs/fblitegroupmemberdisclosure/, Authorization-flaw
 - https://medium.com/@yaala/confirm-an-email-address-belonging-to-a-specific-user-fe9c305e0af, Information-disclosure
-- https://dl.acm.org/doi/fullHtml/10.1145/3427228.3427290, XSS
 - https://infosecwriteups.com/how-i-hacked-facebook-part-one-282bbb125a5d, Missing-authentication
 - https://ph-hitachi.medium.com/how-i-got-my-first-bug-bounty-in-intersting-target-lfi-to-sxss-58fa5c4f5882, LFI
 - https://web.archive.org/web/20210508050717/http://dphoeniixx.com/2020/12/13-2/, CSRF
@@ -4546,7 +4542,6 @@
 - https://sites.google.com/site/bugbountybughunter/home/stored-xss-in-google-image-search, Stored-XSS
 - http://www.kernelpicnic.net/2017/05/29/Pivoting-from-blind-SSRF-to-RCE-with-Hashicorp-Consul.html, Blind-XSS
 - https://ysx.me.uk/a-pair-of-plotly-bugs-stored-xss-and-aws-metadata-ssrf/, Stored-XSS
-- https://medium.com/@nmalcolm/hacking-the-nhs-for-fun-and-no-profit-90931029dcb4, SQL-injection
 - http://panchocosil.blogspot.com/2017/05/one-cloud-based-local-file-inclusion.html, Path-traversal
 - https://philippeharewood.com/find-mingle-suggestions-for-any-facebook-user-revisited/, Logic-flaw
 - https://medium.com/@rojanrijal/i-got-emails-g-suite-vulnerability-917e1f6a91f6, Logic-flaw
