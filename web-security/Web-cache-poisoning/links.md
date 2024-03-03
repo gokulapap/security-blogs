@@ -2,3 +2,4 @@
 - https://jsecu.github.io/2021/02/21/poisoning/
 - https://galnagli.com/Cache_Poisoning/
 - https://www.tldr.engineering/how-i-found-and-fixed-a-vulnerability-in-python/
+- https://medium.com/@nahoragg/chaining-cache-poisoning-to-stored-xss-b910076bda4f

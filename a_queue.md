@@ -1530,7 +1530,6 @@
 - https://bloggerrando.blogspot.com/2022/07/09-1.html, XSS
 - https://pentest.blog/advisory-glpi-service-management-software-sql-injection-remote-code-execution-and-local-file-inclusion/, SQL-injection
 - https://medium.com/@Bishoo97x/stored-xss-and-stored-html-injection-in-united-nations-website-db87d445e41, XSS
-- https://medium.com/@bughunt789/account-takeover-via-response-manipulation-96be568feb7e, Authentication-bypass
 - https://monke.ie/case-study-part-2/, SSRF
 - https://ivreznap.medium.com/interesting-privilege-escalation-in-an-old-private-program-225d27253e13, Privilege-escalation
 - https://labs.detectify.com/2022/07/06/account-hijacking-using-dirty-dancing-in-sign-in-oauth-flows/, OAuth
@@ -1989,7 +1988,6 @@
 - https://medium.com/@tushar.tilak.sharma/p5-to-p1-intresting-account-takeover-6e59b879494b, Account-takeover
 - https://infosecwriteups.com/idor-leads-to-leak-private-details-866563365490, IDOR
 - https://xko2x.medium.com/how-i-was-able-to-bypass-a-pin-code-protection-8352295bb4fb, Authorization-flaw
-- https://systemweakness.com/the-story-of-how-i-bypass-sso-login-6b93370196cf, Authentication-bypass
 - https://trevorspiniolas.com/doorlock/doorlock.html, DoS
 - https://medium.com/pentesternepal/a-tale-of-zero-click-account-takeover-56b51fdbd7ae, Account-takeover
 - https://snapsec.co/blog/Abusing-Business-logic-of-an-application-to-create-backdoor-in-APP/, Logic-flaw
@@ -2748,7 +2746,6 @@
 - https://kingkaran977.medium.com/10-000-for-automatic-email-confirmation-bug-in-microsofts-edge-browser-22f15ceccb4a, Logic-flaw
 - https://blog.shoebpatel.com/2021/01/23/The-Secret-Parameter-LFR-and-Potential-RCE-in-NodeJS-Apps/, Local-File-Read
 - https://yeuchimse.com/csrf-protection-bypass-in-atlassian-confluence-server/, CSRF
-- https://www.pantaprakash.com.np/posts/categories/bugbounty-writeup/4.html, Information-disclosure
 - https://medium.com/realmodelabs/kindledrip-from-your-kindles-email-address-to-using-your-credit-card-bb93dbfb2a08, RCE
 - https://systemweakness.com/story-behind-sweet-ssrf-40c705f13053, SSRF
 - https://r4id3n.medium.com/ssrf-exploitation-in-spreedsheet-to-pdf-converter-2c7eacdac781, SSRF
@@ -3693,7 +3690,6 @@
 - https://web.archive.org/web/20210124152317/https://whitehathaji.blogspot.com/2019/07/paypal-bug-10k-all-secondary-users.html, IDOR
 - https://web.archive.org/web/20200928234656/https://www.mohamedharon.com/2019/07/sql-injection-in-private-sitecomloginphp.html, SQL-injection
 - https://medium.com/@mdhridoy_4607/1st-bounty-story-rewarded-300-idor-bc4e1708e8e0, IDOR
-- https://medium.com/@nahoragg/chaining-cache-poisoning-to-stored-xss-b910076bda4f, Web-cache-poisoning
 - https://medium.com/@ronak_9889/solr-injection-by-abusing-local-parameters-on-zomato-com-a5cb7bef10d5, Solr-injection
 - https://web.archive.org/web/20200826192345/https://pwnsec.ninja/2019/07/26/facebook-bugbounty-tale-of-an-instagram-bug-disclosing-users-phone-number-via-checkpoint/, Information-disclosure
 - https://web.archive.org/web/20201008153910/https://medium.com/@adeshkolte/full-account-takeover-changing-email-and-password-of-any-user-through-api-parameters-3d527ab27240, IDOR
@@ -4335,7 +4331,6 @@
 - https://medium.com/bugbountywriteup/how-i-broke-into-google-issue-tracker-667b9e33e931, Logic-flaw
 - https://medium.com/@rojanrijal/source-code-analysis-in-ysurvey-luminate-bug-c86dc29b70c4, Authentication-bypass
 - https://medium.com/bugbountywriteup/piercing-the-veil-server-side-request-forgery-to-niprnet-access-c358fd5e249a, SSRF
-- https://medium.com/@yassergersy/xss-to-session-hijack-6039e11e6a81, XSS
 - https://web.archive.org/web/20200929003337/https://www.mohamedharon.com/2018/04/reflected-xss-on-wwwzomatocom-by.html, Reflected-XSS
 - https://medium.com/@hisham.mir/exploiting-a-single-parameter-6f4ba2acf523, SSRF
 - https://web.archive.org/web/20201123204445/https://www.mohamedharon.com/2018/04/link-injection-on-2-twitter-subdomain.html, Hyperlink-injection

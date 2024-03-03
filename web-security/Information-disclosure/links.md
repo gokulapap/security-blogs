@@ -54,3 +54,4 @@
 - https://orwaatyat.medium.com/how-i-was-able-to-get-critical-bug-on-google-by-get-full-access-on-google-cloud-bi-hackathon-f779fce29900
 - https://blog.viettelcybersecurity.com/searching-against-the-flow/
 - https://rohitcoder.medium.com/victims-anti-csrf-token-could-be-exposed-to-third-party-applications-installed-on-user-s-device-be8e40d511ba
+- https://www.pantaprakash.com.np/posts/categories/bugbounty-writeup/4.html
