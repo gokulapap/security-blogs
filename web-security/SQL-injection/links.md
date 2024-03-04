@@ -26,3 +26,4 @@
 - https://nav1n.medium.com/how-i-got-owned-a-multi-billion-dollar-retailers-mysql-databases-using-simple-sql-injection-30f8b0dfd9ce
 - https://blog.yappare.com/2020/04/tricky-oracle-sql-injection-situation.html
 - https://medium.com/@nmalcolm/hacking-the-nhs-for-fun-and-no-profit-90931029dcb4
+- https://medium.com/@kgaber99/sql-injection-in-forget-password-function-3c945512e3cb

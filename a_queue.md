@@ -310,7 +310,6 @@
 - https://medium.com/@M0X0101/how-i-was-able-to-get-account-takeover-via-insecure-data-storage-and-webview-with-exported-activity-5308a330ab80, Account-takeover
 - https://www.ghostccamm.com/blog/multi_cockpit_vulns/, CSRF
 - https://medium.themayor.tech/domain-takeover-without-domain-admin-permissions-28a7bd330501, Active-Directory-Privilege-Escalation
-- https://neupanemizzle.medium.com/server-side-template-injection-leading-to-rce-on-google-vrp-75f0a4bc6ebc, SSTI
 - https://sudhanshukashyap123.medium.com/chaining-self-blind-xss-with-broken-access-control-to-make-it-non-self-blind-xss-626a70c8bbc7, Blind-XSS
 - https://www.ns-echo.com/posts/cve_2023_33298.html, Local-Privilege-Escalation
 - https://security.lauritz-holtmann.de/post/csti-xss-sso-gadget-chain/, CSTI
@@ -1852,7 +1851,6 @@
 - https://web.archive.org/web/20220306040035/https://medium.com/@1337Fenrir/how-did-i-find-directory-traversal-attack-using-github-9b051ed749ca, Information-disclosure
 - https://medium.com/techiepedia/password-reset-to-admin-access-3b2a649bdc3, Account-takeover
 - https://shenkaiwen.com/publication/2022-hdiff/, HTTP-request-smuggling
-- https://blog.dixitaditya.com/pwning-a-server-using-markdown, LFI
 - https://research.nccgroup.com/2022/02/28/brokenprint-a-netgear-stack-overflow/, Memory-corruption
 - https://web.archive.org/web/20221128044142/https://wya.pl/2022/02/26/cve-2022-22947-spel-casting-and-evil-beans/, RCE
 - https://swarm.ptsecurity.com/catching-bugs-in-vmware-carbon-black-cloud-workload-appliance-and-vrealize-operations-manager/, Authentication-bypass
@@ -1880,7 +1878,6 @@
 - https://web.archive.org/web/20220217212342/https://castilho101.github.io/posts/cve-2022-0478-woocommerce-event-manager-plugin-sql-injection/, SQL-injection
 - https://infosecwriteups.com/my-first-reflected-xss-bug-bounty-google-dork-xxx-92ac1180e0d0, Reflected-XSS
 - https://medium.com/@chander.romesh/hacked-dutch-government-website-all-i-got-was-this-l̶o̶u̶s̶y̶-cool-t-shirt-4fd62ed3e734, Information-disclosure
-- https://ashok314.medium.com/bug-report-bypassing-weekly-limits-in-basic-free-linkedin-account-f5265ac0418a, Logic-flaw
 - https://swarm.ptsecurity.com/hunting-for-bugs-in-vmware-view-planner-and-vrealize-business-for-cloud/, RCE
 - https://medium.com/@yaala/trim-private-live-videos-and-access-them-a331447cc82a, IDOR
 - https://www.zerodayinitiative.com/blog/2022/2/14/static-taint-analysis-using-binary-ninja-a-case-study-of-mysql-cluster-vulnerabilities, Memory-corruption
@@ -2010,7 +2007,6 @@
 - https://3bodymo.medium.com/xss-through-image-proxy-using-svg-image-49cdf955cf4f, XSS
 - https://infosecwriteups.com/massive-users-account-takeovers-chaining-vulnerabilities-to-idor-ea4e1b6407d2, Authentication-bypass
 - https://medium.com/@mamunwhh/information-disclosure-leads-to-sensitive-credential-35e779f6f4db, Information-disclosure
-- https://youst.in/posts/cache-poisoning-at-scale/, Web-cache-poisoning
 - https://positive.security/blog/ms-teams-1-feature-4-vulns, SSRF
 - https://janmuhammadzaidi.medium.com/how-i-was-able-to-bypass-waf-and-find-the-origin-ip-and-a-few-sensitive-files-fc445180adb7, WAF-bypass
 - https://www.wiz.io/blog/azure-app-service-source-code-leak, Security-misconfiguration
@@ -3703,7 +3699,6 @@
 - https://philippeharewood.com/get-page-inbox-notifications-for-any-facebook-page/, Authorization-flaw
 - https://burninatorsec.blogspot.com/2019/07/microsoft-id-open-redirect.html, Open-redirect
 - https://leucosite.com/Microsoft-Office-365-Outlook-XSS/, XSS
-- https://medium.com/@kgaber99/sql-injection-in-forget-password-function-3c945512e3cb, SQL-injection
 - https://blog.teserakt.io/2019/07/18/how-to-lock-a-github-user-out-of-their-repos-bug-or-feature/, DoS
 - https://medium.com/@sumitcfe/account-takeover-vulnerability-7e6e039a4dd3, Password-reset
 - https://medium.com/@sudhanshur705/how-recon-helped-me-to-to-find-a-facebook-domain-takeover-58163de0e7d5, Subdomain-takeover

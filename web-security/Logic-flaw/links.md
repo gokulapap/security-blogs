@@ -45,3 +45,4 @@
 - http://blog.shashank.co/2017/11/stealing-bitcoin-wallet-backups-from.html
 - https://medium.com/bugbountywriteup/how-i-am-able-to-hijack-you-1cab793a01d1
 - https://medium.com/@khaled.hassan/how-i-got-paid-premium-plan-for-free-on-many-popular-websites-90e62a52416a
+- https://ashok314.medium.com/bug-report-bypassing-weekly-limits-in-basic-free-linkedin-account-f5265ac0418a

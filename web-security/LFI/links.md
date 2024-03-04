@@ -4,3 +4,4 @@
 - https://medium.com/@armaanpathan/chain-the-bugs-to-pwn-an-organisation-lfi-unrestricted-file-upload-remote-code-execution-93dfa78ecce
 - https://blog.scrt.ch/2019/01/24/magento-rce-local-file-read-with-low-privilege-admin-rights/
 - https://xhzeem.me/posts/PHP-fopen-function-to-local-file-inclusion/read/
+- https://blog.dixitaditya.com/pwning-a-server-using-markdown
