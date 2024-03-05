@@ -58,3 +58,4 @@
 - https://web.archive.org/web/20201028215444/http://incidentsecurity.com/how-spending-our-saturday-hacking-earned-us-20k/
 - https://sagarsajeev.medium.com/business-logic-vulnerability-via-idor-6d510f1caea9
 - https://medium.com/@pratyush1337/inf0rm-tion-disclosure-via-idor-cff5541a9232
+- https://medium.com/@mrhavit/how-i-found-an-insecure-direct-object-reference-in-tiktok-c7303addf223

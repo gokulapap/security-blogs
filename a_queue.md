@@ -804,7 +804,6 @@
 - https://www.akamai.com/blog/security-research/cant-wait-to-shut-you-down-msrpc-wininit, DoS
 - https://www.ambionics.io/blog/vbulletin-unserializable-but-unreachable, RCE
 - https://khaledyassen.medium.com/how-i-bypassed-the-registration-validation-and-logged-in-with-the-company-email-14eb12c45fb5, Email-verification-bypass
-- https://medium.com/@mrhavit/how-i-found-an-insecure-direct-object-reference-in-tiktok-c7303addf223, IDOR
 - https://medium.com/@abhisekr/discovered-a-critical-idor-and-earned-900-for-my-first-p1-vulnerability-57c1e72f42c1, IDOR
 - https://www.jhaddix.com/post/the-100-million-person-data-disclosure, IDOR
 - https://medium.com/@DrakenKun/how-i-was-able-to-find-4-cross-site-scripting-xss-on-vulnerability-disclosure-program-e2f39199ae16, XSS
@@ -1891,7 +1890,6 @@
 - https://www.zerodayinitiative.com/blog/2022/2/10/mindshare-when-mysql-cluster-encounters-taint-analysis, Memory-corruption
 - https://medium.com/@harishhacker3010/how-i-hacked-google-to-read-files-from-their-servers-for-free-e0486a674912, Arbitrary-file-read
 - https://onapsis.com/threat-report/icmad-sap-vulnerabilities, HTTP-request-smuggling
-- https://orca.security/resources/blog/oracle-server-side-request-forgery-ssrf-attack-metadata/, SSRF
 - https://tech-blog.cymetrics.io/en/posts/huli/how-i-hacked-glints-and-your-resume-en/, IDOR
 - https://blog.sonarsource.com/wordpress-object-injection-vulnerability, Object-injection
 - https://www.cyberark.com/resources/threat-research-blog/how-docker-made-me-more-capable-and-the-host-less-secure, Local-Privilege-Escalation
@@ -2007,7 +2005,6 @@
 - https://3bodymo.medium.com/xss-through-image-proxy-using-svg-image-49cdf955cf4f, XSS
 - https://infosecwriteups.com/massive-users-account-takeovers-chaining-vulnerabilities-to-idor-ea4e1b6407d2, Authentication-bypass
 - https://medium.com/@mamunwhh/information-disclosure-leads-to-sensitive-credential-35e779f6f4db, Information-disclosure
-- https://positive.security/blog/ms-teams-1-feature-4-vulns, SSRF
 - https://janmuhammadzaidi.medium.com/how-i-was-able-to-bypass-waf-and-find-the-origin-ip-and-a-few-sensitive-files-fc445180adb7, WAF-bypass
 - https://www.wiz.io/blog/azure-app-service-source-code-leak, Security-misconfiguration
 - https://medium.com/@yoshimlutfi/how-i-found-p2-broken-authentication-with-zero-skill-of-hacking-c40b5643fe4a, Authentication-bypass
@@ -2596,7 +2593,6 @@
 - https://infosecwriteups.com/a-weird-xss-77c13d135c9f, Reflected-XSS
 - https://medium.com/@ashrafharb997/csrf-to-full-account-takeover-5196cef9d166, CSRF
 - https://www.pethuraj.com/blog/paypal-bug-bounty-writeup/, Open-redirect
-- https://bloggerrando.blogspot.com/2021/03/bug-bounty-like-and-dislike-count.html, Broken-Access-Control
 - https://jychp.medium.com/how-to-bypass-cloudflare-bot-protection-1f2c6c0c36fb, Logic-flaw
 - https://abhisek3122.medium.com/increasing-impact-of-information-disclosure-full-account-takeover-2f12d8963d5c, Information-disclosure
 - https://bloggerrando.blogspot.com/2021/03/bug-bounty-idor-in-youtube-bounty.html, Broken-Access-Control
@@ -2867,7 +2863,6 @@
 - https://cyc10n3.medium.com/rce-via-server-side-template-injection-ad46f8e0c2ae, SSTI
 - http://www.firstsight.me/2020/11/optimizing-hunting-results-in-vdp-for-use-in-bug-bounty-programs-from-sensitive-information-disclosure-to-accessing-hidden-apis-which-can-be-used-to-retrieve-customer-data/, Information-disclosure
 - https://www.pethuraj.com/blog/microsoft-bug-bounty-writeup-stored-xss-vulnerability/, Stored-XSS
-- https://medium.com/@vasuyadav0786/weak-cryptography-to-account-takeovers-87782224ed0d, Cryptographic-issues
 - https://rafi-ahamed.medium.com/exploiting-api-with-authtoken-3bea7b1fb6a9, Token-leak
 - https://medium.com/realmodelabs/sd-pwn-part-2-citrix-sd-wan-center-another-network-takeover-a9c950a1a27c, RCE
 - https://medium.com/@seaman00o/account-takeover-through-password-reset-82adc0c19248, Account-takeover

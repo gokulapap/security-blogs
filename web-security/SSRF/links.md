@@ -37,3 +37,5 @@
 - https://nechudav.blogspot.com/2021/12/ssrf-vulnerability-in-appsheet-google.html
 - https://apth3hack3r.medium.com/ssrf-google-hof-hall-of-fame-2c159dda04e3
 - https://medium.com/@pflash0x0punk/ssrf-via-ffmpeg-hls-processing-a04e0288a8c5
+- https://orca.security/resources/blog/oracle-server-side-request-forgery-ssrf-attack-metadata/
+- https://positive.security/blog/ms-teams-1-feature-4-vulns
