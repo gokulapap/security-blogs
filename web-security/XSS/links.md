@@ -71,3 +71,4 @@
 - http://www.noob.ninja/2017/09/story-of-parameter-specific-xss.html
 - https://dl.acm.org/doi/fullHtml/10.1145/3427228.3427290
 - https://medium.com/@yassergersy/xss-to-session-hijack-6039e11e6a81
+- https://vedanttekale20.medium.com/idor-that-allowed-me-to-takeover-any-users-account-129e55871d8

@@ -39,3 +39,4 @@
 - https://medium.com/@pflash0x0punk/ssrf-via-ffmpeg-hls-processing-a04e0288a8c5
 - https://orca.security/resources/blog/oracle-server-side-request-forgery-ssrf-attack-metadata/
 - https://positive.security/blog/ms-teams-1-feature-4-vulns
+- https://buer.haus/2016/04/18/esea-server-side-request-forgery-and-querying-aws-meta-data/

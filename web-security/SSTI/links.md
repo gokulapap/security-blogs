@@ -5,3 +5,4 @@
 - https://www.pmnh.site/post/writeup_spring_el_waf_bypass/
 - http://verneet.com/fuzzing-77-till-p1/
 - https://neupanemizzle.medium.com/server-side-template-injection-leading-to-rce-on-google-vrp-75f0a4bc6ebc
+- https://www.r29k.com/articles/bb/ssti

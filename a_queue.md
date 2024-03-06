@@ -1662,7 +1662,6 @@
 - https://securityflow.io/impact-of-an-insecure-deep-link/, Insecure-deeplink
 - https://ysamm.com/?p=763, XSS
 - https://orwaatyat.medium.com/my-new-discovery-in-oracle-e-business-login-panel-that-allowed-to-access-for-all-employees-ed0ec4cad7ac, Exposed-registration-page
-- https://medium.com/@odayalhalbe1/from-android-app-to-access-admin-dashboard-a8f825e8e806, Exposed-registration-page
 - https://basyounii.medium.com/forging-oauth-tokens-using-discovered-client-id-and-client-secret-d224e4e7892a, Information-disclosure
 - https://web.archive.org/web/20220513145411/https://pwnsec.ninja/2022/05/12/takeover-seller-accounts-worth-billions-millions/, IDOR
 - https://www.varonis.com/blog/url-spoofing, URL-spoofing
@@ -2680,7 +2679,6 @@
 - https://ysamm.com/?p=627, GraphQL
 - https://ysamm.com/?p=621, Authorization-flaw
 - https://ysamm.com/?p=625, Open-redirect
-- https://vedanttekale20.medium.com/idor-that-allowed-me-to-takeover-any-users-account-129e55871d8, XSS
 - https://irsl.medium.com/dropping-a-shell-in-googles-cloud-sql-the-speckle-umbrella-story-f9375bd4960d, Configuration-file-injection
 - https://www.shielder.it/blog/2021/02/hunting-for-bugs-in-telegrams-animated-stickers-remote-attack-surface/, Memory-corruption
 - https://www.trendmicro.com/en_us/research/21/b/shareit-flaw-could-lead-to-remote-code-execution.html, Android
@@ -2834,7 +2832,6 @@
 - https://securitytrooper.com/en/cross-site-scripting-xss-reflected-in-one-of-the-subdomains-of-general-motorsbugbounty, Reflected-XSS
 - https://blog.witcoat.com/2020/12/03/site-wide-csrf-on-glassdoor/, CSRF
 - https://www.fortinet.com/blog/threat-research/leaking-browser-url-protocol-handlers, Information-disclosure
-- https://www.r29k.com/articles/bb/ssti, SSTI
 - https://medium.com/the-volatile-triad/hacking-always-check-out-the-images-99217e6cea, Information-disclosure
 - https://googleprojectzero.blogspot.com/2020/12/an-ios-zero-click-radio-proximity.html, iOS
 - https://medium.com/bugbountywriteup/chaining-vulnerabilities-lead-to-account-takeover-b583f0c10591, Account-takeover
@@ -3331,7 +3328,6 @@
 - https://medium.com/@adnanmalikinfo110/i-want-that-cookie-8d2daab242ac, Logic-flaw
 - https://0xsha.io/posts/exploiting-magic-links-critical-bugs-are-one-line-away, Information-disclosure
 - https://web.archive.org/web/20200511145923/https://medium.com/@godofdarkness.msf/account-takeover-flow-in-mail-ru-s-ext-a-domain-150-8952e8078211, Logic-flaw
-- https://supras.io/exploitation-of-the-cve-2018-15961-unrestricted-file-upload-in-adobe-coldfusion/, Unrestricted-file-upload
 - https://www.synacktiv.com/publications/pentesting-cisco-sd-wan-part-1-attacking-vmanage.html, Cypher-injection
 - https://medium.com/bugbountywriteup/xss-waf-character-limitation-bypass-like-a-boss-2c788647c229, XSS
 - https://protonvpn.com/blog/apple-ios-vulnerability-disclosure/, Privacy-issue
@@ -4622,7 +4618,6 @@
 - https://www.seekurity.com/blog/general/facebook-movies-recommendation-bug/, Logic-flaw
 - https://www.seekurity.com/blog/general/whatsapp-clickjacking-vulnerability-yet-another-web-client-failure, Clickjacking
 - https://www.seekurity.com/blog/write-ups/facebook-clickjacking-how-we-put-a-new-dress-on-facebook-ui/, Clickjacking
-- https://buer.haus/2016/04/18/esea-server-side-request-forgery-and-querying-aws-meta-data/, SSRF
 - https://buer.haus/2016/04/18/yahoo-login-protection-seal-stored-css-injection/, CSS-injection
 - https://medium.com/@albeckshahar/facebook-invitees-email-address-disclosure-25059ae93725, Information-disclosure
 - https://whitton.io/articles/obtaining-tokens-outlook-office-azure-account/, CSRF
