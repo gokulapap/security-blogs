@@ -15,3 +15,4 @@
 - https://medium.com/@abhinavsecondary/how-i-find-open-redirect-in-facebook-7e7aeb89535d
 - https://www.yassineaboukir.com/blog/how-I-discovered-a-1000$-open-redirect-in-facebook/
 - https://xthemo.medium.com/open-redirect-at-nvidia-62343b45f85b
+- https://radianid.medium.com/chaining-open-redirect-with-xss-to-account-takeover-36acf218a6d5

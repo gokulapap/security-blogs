@@ -19,3 +19,4 @@
 - https://sinsinology.medium.com/cafebazaar-and-subdomain-takeover-a0ab61a19ce8
 - https://blogs.msmvps.com/alunj/2021/08/15/second-order-subdomain-takeovers-they-do-exist/
 - https://web.archive.org/web/20200929003949/https://www.mohamedharon.com/2019/02/subdomain-aws-s3-buckets-reader.html
+- https://medium.com/@aishwaryakendle/how-we-hijacked-26-subdomains-9c05c94c7049

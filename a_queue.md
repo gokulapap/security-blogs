@@ -535,7 +535,6 @@
 - https://medium.com/@elsayedmohammed/how-do-i-get-cross-site-scripting-xss-in-nokia-3041c942b923, XSS
 - https://www.offensity.com/en/blog/user-impersonation-via-stolen-uuid-code-in-keycloak-cve-2023-0264/, OAuth
 - https://giraffesecurity.dev/posts/google-remote-code-execution/, Dependency-confusion
-- https://medium.com/@m4cddr/how-i-got-rce-in-10-websites-26dd87441f22, RCE
 - https://char49.com/articles/topdesk-vulnerable-to-xml-signature-wrapping-attacks, XML-Signature-Wrapping
 - https://blog.redteam-pentesting.de/2023/rooting-printer/, Printer-hacking
 - https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/cve-2023-29383-abusing-linux-chfn-to-misrepresent-etc-passwd/, Local-Privilege-Escalation
@@ -2333,7 +2332,6 @@
 - https://medium.com/@vikramroot/account-takeover-via-stored-xss-b774f7a2a3ab, Stored-XSS
 - https://medium.com/@sebastien.kaul/gaining-access-to-gcp-of-google-stadia-500-bounty-22f76ecc8e60, Information-disclosure
 - https://n1ghtmar3.medium.com/how-i-found-my-first-idor-in-hackerone-5d5f17bb431, IDOR
-- https://radianid.medium.com/chaining-open-redirect-with-xss-to-account-takeover-36acf218a6d5, Open-redirect
 - https://3bodymo.medium.com/how-i-earned-by-amazon-s3-bucket-misconfigurations-29d51ee510de, AWS-misconfiguration
 - https://sunilyedla.medium.com/information-disclosure-to-account-takeover-a21b2b54147a, Information-disclosure
 - https://haxolot.com/posts/2021/moodle_pre_auth_shibboleth_rce_part1/, RCE
@@ -3258,7 +3256,6 @@
 - https://vinothkumar.me/20000-facebook-dom-xss/, DOM-XSS
 - https://chefsecure.com/blog/i-found-xss-security-flaws-in-rails-heres-what-happened, XSS
 - https://twitter.com/missoum1307/status/1258472717453582336, DOM-XSS
-- https://medium.com/@aishwaryakendle/how-we-hijacked-26-subdomains-9c05c94c7049, Subdomain-takeover
 - https://medium.com/@youssefla/dom-xss-walkthrough-4d60c45ffb21, DOM-XSS
 - https://medium.com/@TnMch/google-acquisition-xss-apigee-5479d7b5dc4, XSS
 - https://sites.google.com/securifyinc.com/vrp-writeups/waze/waze-xss, XSS
@@ -3750,7 +3747,6 @@
 - https://spenkk.github.io/bugbounty/Local-File-Inclusion/, WAF-bypass
 - https://medium.com/@saadahmedx/complete-web-server-access-46d19279a2b, Unrestricted-file-upload
 - https://medium.com/bug-bounty-hunting/fullscreen-api-attacks-revisited-and-the-fb-na-story-cbea3ca383c5, Phishing
-- https://medium.com/@nishantrustlingup/admin-account-total-information-disclosure-72ec60da4a78, Source-code-disclosure
 - https://medium.com/@saadahmedx/idor-account-takeover-1ff5a2d03b8b, IDOR
 - https://medium.com/@ciph3r7r0ll/chaining-improper-authorization-to-race-condition-to-harvest-credit-card-details-a-bug-bounty-effe6e0f5076, Authorization-flaw
 - https://medium.com/@androgaming1912/redstrom-denial-of-service-write-up-d8fd97f18335, DoS
@@ -4611,7 +4607,6 @@
 - https://www.seekurity.com/blog/general/badoo-hotornot-privacy-disclosure-feature-not-a-bug, Information-disclosure
 - https://blog.it-securityguard.com/bugbounty-sleeping-stored-google-xss-awakens-a-5000-bounty/, Stored-XSS
 - https://blog.darabi.me/2016/05/how-i-bypassed-facebook-csrf-in-2016.html, CSRF
-- https://www.seekurity.com/blog/general/facebook-vulnerability-a-cute-bug-that-reveals-the-likes-of-deleted-posts-regardless-of-their-privacy-settings/, Logic-flaw
 - https://www.seekurity.com/blog/general/fiverr-com-full-accounts-takeover-vulnerability/, CSRF
 - https://www.seekurity.com/blog/general/firefox-find-my-device-service-clickjacking/, Clickjacking
 - https://thehackerblog.com/poisoning-the-well-compromising-godaddy-customer-support-with-blind-xss/index.html, Blind-XSS

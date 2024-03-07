@@ -67,3 +67,4 @@
 - https://www.zerodayinitiative.com/blog/2021/10/5/cve-2021-26420-remote-code-execution-in-sharepoint-via-workflow-compilation
 - https://blog.aquasec.com/jenkins-server-vulnerabilities
 - https://onekey.com/blog/clamav-critical-patch-review/
+- https://medium.com/@m4cddr/how-i-got-rce-in-10-websites-26dd87441f22

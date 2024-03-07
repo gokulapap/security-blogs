@@ -46,3 +46,4 @@
 - https://medium.com/bugbountywriteup/how-i-am-able-to-hijack-you-1cab793a01d1
 - https://medium.com/@khaled.hassan/how-i-got-paid-premium-plan-for-free-on-many-popular-websites-90e62a52416a
 - https://ashok314.medium.com/bug-report-bypassing-weekly-limits-in-basic-free-linkedin-account-f5265ac0418a
+- https://www.seekurity.com/blog/general/facebook-vulnerability-a-cute-bug-that-reveals-the-likes-of-deleted-posts-regardless-of-their-privacy-settings/

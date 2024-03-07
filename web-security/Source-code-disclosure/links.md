@@ -1,1 +1,2 @@
 - https://www.amolbaikar.com/facebook-source-code-disclosure-in-ads-api/
+- https://medium.com/@nishantrustlingup/admin-account-total-information-disclosure-72ec60da4a78
