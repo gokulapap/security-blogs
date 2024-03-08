@@ -2,3 +2,4 @@
 - https://medium.com/@zain.sabahat/an-interesting-xxe-in-sap-8b35fec6ef33
 - https://blog.netspi.com/xxe-in-ibms-maas360-platform/
 - https://kuldeep.io/posts/second-order-xxe-exploitation/
+- https://hateshape.github.io/general/2018/06/07/CVE-2018-8819.html

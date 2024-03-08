@@ -390,7 +390,6 @@
 - https://infosecwriteups.com/send-email-from-anyone-to-any-user-outlook-microsoft-69fce333066d, Open-mail-relay
 - https://medium.com/@mrhavit/breaking-tiktok-our-journey-to-finding-an-account-takeover-vulnerability-b0646aba1c4b, XSS
 - https://medium.com/@chenshiri/aws-chain-attack-thousands-of-vulnerable-eks-clusters-701cbd963907, AWS-Kubernetes
-- https://zeroxuf.medium.com/rate-limit-bypass-leads-to-0-click-ato-9f1b29daec42, Rate-limiting-bypass
 - https://github.com/Sudistark/BB-Writeups/blob/main/2023/prototype-pollution-akamai.md, Client-side-prototype-pollution
 - https://0day.click/recipe/pash/, RCE
 - https://blog.stratumsecurity.com/2023/06/01/sqli-the-road-to-bypassing-an-industry-leading-waf/, SQL-injection
@@ -508,7 +507,6 @@
 - https://medium.com/@mmaulanaabdullah/how-careless-default-credentials-impact-to-massive-account-takeover-be6bfc85119a, Authentication-bypass
 - https://blog.ryotak.net/post/github-actions-staff-access-token-en/, CICD
 - https://www.anvilsecure.com/blog/compromising-garmins-sport-watches-a-deep-dive-into-garminos-and-its-monkeyc-virtual-machine.html, IoT
-- https://sensepost.com/blog/2023/from-bitlocker-suspended-to-virtual-machine/, Internal-pentest
 - https://infosecwriteups.com/xs-leak-deanonymize-microsoft-skype-users-by-any-3rd-party-website-69849e4501a8, XSLeaks
 - https://jhftss.github.io/CVE-2023-23525-Get-Root-via-A-Fake-Installer/, Local-Privilege-Escalation
 - https://zerocode-ph.medium.com/bypassing-link-sharing-protection-in-messenger-kids-parents-control-feature-meta-bug-bounty-e53f2d148bd9, URL-validation-bypass
@@ -2240,7 +2238,6 @@
 - https://4bdoz.medium.com/rce-by-code-injection-perl-reverse-shell-a2e90181b10, RCE
 - https://halove23.blogspot.com/2021/09/zdi-21-1053-bypassing-windows-lock.html, Authentication-bypass
 - https://www.synacktiv.com/publications/your-vulnerability-is-in-another-oem.html, Memory-corruption
-- https://noob3xploiter.medium.com/sql-injection-in-harvard-subdomain-be67a5dbf664, XSS
 - https://medium.com/nerd-for-tech/breaking-applications-logic-to-dos-attack-88326cd0dd82, IDOR
 - https://marxchryz.medium.com/how-i-found-multiple-xss-in-hidden-legacy-pages-a57a25d8ff1f, XSS
 - https://medium.com/pentesternepal/hacking-dutch-government-for-a-lousy-t-shirt-8e1fd1b56deb, IDOR
@@ -2389,7 +2386,6 @@
 - https://ysamm.com/?p=700, Information-disclosure
 - https://16521092.medium.com/some-ways-to-find-more-idor-da16c93954e5, IDOR
 - https://blog.mzfr.me/posts/2021-06-24-unexported-component/, Vulnerable-Android-content-provider
-- https://shahjerry33.medium.com/pii-leakage-revealing-secrets-8b617071bd1c, Information-disclosure
 - https://research.checkpoint.com/2021/a-supply-chain-breach-taking-over-an-atlassian-account/, XSS
 - https://smaranchand.com.np/2021/06/flywheel-subdomain-takeover/, Subdomain-takeover
 - https://web.archive.org/web/20210910154714/https://ricardoiramar.medium.com/msrc-is-confused-5d86b23c2e88, Dependency-confusion
@@ -4228,7 +4224,6 @@
 - https://medium.com/@jonathanbouman/persistent-xss-at-ah-nl-198fe7b4c781, Stored-XSS
 - https://medium.com/@logicbomb_1/bugbounty-compromising-user-account-how-i-was-able-to-compromise-user-account-via-http-4288068b901f, HTTP-parameter-pollution
 - https://www.linkedin.com/feed/update/urn:li:activity:6421357227923337216, SSRF
-- https://hateshape.github.io/general/2018/06/07/CVE-2018-8819.html, XXE
 - https://hateshape.github.io/general/2018/07/05/CVE-2016-3473.html, XXE
 - https://medium.com/bugbountywriteup/latex-to-rce-private-bug-bounty-program-6a0b5b33d26a, RCE
 - https://www.nahamsec.com/posts/chaining-multiple-vulnerabilities-to-gain-admin-access, IDOR
