@@ -59,3 +59,4 @@
 - https://sagarsajeev.medium.com/business-logic-vulnerability-via-idor-6d510f1caea9
 - https://medium.com/@pratyush1337/inf0rm-tion-disclosure-via-idor-cff5541a9232
 - https://medium.com/@mrhavit/how-i-found-an-insecure-direct-object-reference-in-tiktok-c7303addf223
+- https://dhakalbibek.medium.com/story-about-more-than-3-5-million-pii-leakage-in-yahoo-3a530210dcc6

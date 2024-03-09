@@ -47,3 +47,4 @@
 - https://medium.com/@khaled.hassan/how-i-got-paid-premium-plan-for-free-on-many-popular-websites-90e62a52416a
 - https://ashok314.medium.com/bug-report-bypassing-weekly-limits-in-basic-free-linkedin-account-f5265ac0418a
 - https://www.seekurity.com/blog/general/facebook-vulnerability-a-cute-bug-that-reveals-the-likes-of-deleted-posts-regardless-of-their-privacy-settings/
+- https://medium.com/@prakashpanta1999/group-admin-cant-able-to-moderate-comments-when-posted-through-page-facebook-bug-bounty-2020-16c2d04a27cb

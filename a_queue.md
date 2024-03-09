@@ -364,7 +364,6 @@
 - https://blog.assetnote.io/2023/06/07/moveit-transfer-patch-diff-adventure/, RCE
 - https://medium.com/@omarahmed_13016/idor-unpin-posts-for-fun-18f628eaef24, IDOR
 - https://medium.com/@0day_exploit/stored-xss-injection-permanent-open-redirection-e14ffa11573c, Reflected-XSS
-- https://insinuator.net/2023/06/jasper-reports-library-code-injection/, RCE
 - https://summoning.team/blog/vmware-vrealize-network-insight-rce-cve-2023-20887/, RCE
 - https://blog.lexfo.fr/xortigate-cve-2023-27997.html, RCE
 - https://research.nccgroup.com/2023/06/13/dynamic-linq-injection-remote-code-execution-vulnerability-cve-2023-32571/, RCE
@@ -1601,7 +1600,6 @@
 - https://microsoftedge.github.io/edgevr/posts/a-story-of-a-bug-found-fuzzing/, Browser-hacking
 - https://github.com/MystenLabs/ed25519-unsafe-libs, Cryptographic-issues
 - https://web.archive.org/web/20220611144030/https://medium.com/@pmmali/my-first-cve-2022-31289-4081c57e90fb, Authentication-bypass
-- https://webs3c.com/t/how-to-download-ebooks-from-google-play-store-without-paying-for-them/79, Payment-bypass
 - https://blog.viettelcybersecurity.com/cve-2022-1040-sophos-xg-firewall-authentication-bypass/, Authentication-bypass
 - https://www.shielder.com/advisories/autodesk-fusion-import-svg-blind-xxe/, XXE
 - https://jfrog.com/blog/denial-of-service-vulnerability-in-envoy-proxy-cve-2022-29225/, Zip-bomb
@@ -1785,7 +1783,6 @@
 - https://valsamaras.medium.com/when-equal-is-not-another-webview-takeover-story-730be8d6e202, Android
 - https://infosecwriteups.com/authentication-bypass-using-root-array-4a179242b9f7, Authentication-bypass
 - https://www.jomar.fr/posts/2022/basic_recon_to_rce_ii/, RCE
-- https://dhakalbibek.medium.com/story-about-more-than-3-5-million-pii-leakage-in-yahoo-3a530210dcc6, IDOR
 - https://cupc4k3.co/caso-de-uso-não-autorizados-de-chave-da-api-do-google-maps-89498752cf7d, Information-disclosure
 - https://ajpc500.github.io/macos/Targeting-Visual-Studio-Code-For-macOS/, Local-Privilege-Escalation
 - https://wahaz.medium.com/broken-authentication-and-idor-at-redacted-646de8d508e6, IDOR
@@ -2448,7 +2445,6 @@
 - https://cirius.medium.com/how-i-hacked-a-target-again-and-again-6db2e462221f, OAuth
 - https://feed.bugs.xdavidhu.me/bugs/0007, Browser-hacking
 - https://ledz1996.gitlab.io/blog/writeups/CVE-2021-22203-gitlab-arbitrary-file-read-write-through-kroki, Arbitrary-file-read
-- https://joelmcg1993.medium.com/stored-xss-with-two-different-parameters-d9243cae3e6a, Reflected-XSS
 - https://n1ghtmar3.medium.com/chaining-xss-with-authentication-issues-to-turn-it-into-full-account-takeover-ae886ac696bb, XSS
 - https://medium.com/fraktal/content-spoofing-vulnerability-in-shibboleth-service-provider-a6619404eaf1, Content-spoofing
 - https://amineaboud.medium.com/disclose-leads-form-details-of-any-facebook-business-account-or-facebook-page-bug-bounty-7ecae6cff312, IDOR
@@ -3027,7 +3023,6 @@
 - https://medium.com/@singh.simran7838/how-i-made-2000-with-url-redirection-b1b5f4e7a678, Open-redirect
 - https://voidsec.com/cve-2020-1337-printdemon-is-dead-long-live-printdemon/, Local-Privilege-Escalation
 - https://medium.com/nassec-cybersecurity-writeups/how-i-was-able-to-find-page-personal-account-disclosure-on-instagram-d9607de4883f, Information-disclosure
-- https://medium.com/@prakashpanta1999/group-admin-cant-able-to-moderate-comments-when-posted-through-page-facebook-bug-bounty-2020-16c2d04a27cb, Logic-flaw
 - https://honoki.net/2020/08/10/cve-2020-11518-how-i-bruteforced-my-way-into-your-active-directory/, RCE
 - https://www.perimeterx.com/tech-blog/2020/csp-bypass-vuln-disclosure/, CSP-bypass
 - https://medium.com/@sudipshah_66336/my-2nd-4digit-bug-bounty-from-facebook-99baa727ed02, Logic-flaw
