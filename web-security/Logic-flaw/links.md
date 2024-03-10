@@ -48,3 +48,4 @@
 - https://ashok314.medium.com/bug-report-bypassing-weekly-limits-in-basic-free-linkedin-account-f5265ac0418a
 - https://www.seekurity.com/blog/general/facebook-vulnerability-a-cute-bug-that-reveals-the-likes-of-deleted-posts-regardless-of-their-privacy-settings/
 - https://medium.com/@prakashpanta1999/group-admin-cant-able-to-moderate-comments-when-posted-through-page-facebook-bug-bounty-2020-16c2d04a27cb
+- https://medium.com/@ashokcpg/non-technical-write-up-on-my-second-bounty-of-1-000-from-facebook-74daecd6879b

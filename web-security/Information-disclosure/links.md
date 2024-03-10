@@ -56,3 +56,4 @@
 - https://rohitcoder.medium.com/victims-anti-csrf-token-could-be-exposed-to-third-party-applications-installed-on-user-s-device-be8e40d511ba
 - https://www.pantaprakash.com.np/posts/categories/bugbounty-writeup/4.html
 - https://shahjerry33.medium.com/pii-leakage-revealing-secrets-8b617071bd1c
+- https://medium.com/bugbountywriteup/bcrypt-account-takeover-due-to-weak-encryption-hr51kdb-4418f6e65907

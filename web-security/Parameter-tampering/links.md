@@ -1,1 +1,2 @@
 - https://apapedulimu.click/price-parameter-tampering-on-bukalapak/
+- https://avatao.com/blog-how-i-could-have-stolen-your-photos-from-google-my-first-3-bug-bounty-writeups/

@@ -2027,7 +2027,6 @@
 - https://rizwansiddiqu1.medium.com/another-admin-panel-e0489dc76678, HTTP-response-manipulation
 - https://web.archive.org/web/20220823110821/https://cybernews.com/security/microsoft-vancouver-leaking-website-credentials-via-overlooked-ds-store-file/, Information-disclosure
 - https://blog.agilehunt.com/blogs/security/privilege-escalation-in-microsoft-teams-2021, Privilege-escalation
-- https://positive.security/blog/ms-officecmd-rce, RCE
 - https://www.appsecure.security/blog/dubsmash-bola-security-vulnerability, IDOR
 - https://medium.com/@7azimo/hacking-into-admin-panel-of-u-s-federal-government-system-c-a-r-s-without-credentials-9117b865ba58, Client-side-enforcement-of-server-side-security
 - https://www.y-security.de/news-en/microsoft-azure-portal-csv-injection/index.html, CSV-injection
@@ -2829,7 +2828,6 @@
 - https://therealunicornsecurity.github.io/Aliexpress/, Captcha-bypass
 - https://zetc0de.github.io/post/authenticated-rce-ssrf-wondercms/, Blind-SSRF
 - https://ahmdhalabi.medium.com/chaining-multiple-requests-to-achieve-rate-limiting-vulnerabilities-96c1e8365c06, Rate-limiting-bypass
-- https://medium.com/bugbountywriteup/bcrypt-account-takeover-due-to-weak-encryption-hr51kdb-4418f6e65907, Information-disclosure
 - https://shellbr3ak.medium.com/the-story-of-my-first-critical-bug-93a5920d6c43, SQL-injection
 - https://rafipiun.medium.com/how-i-got-easy-for-sql-injection-bug-7ff622236e4c, SQL-injection
 - https://vijetareigns.medium.com/pre-account-takeover-using-oauth-misconfiguration-ebd32b80f3d3, OAuth
@@ -3280,7 +3278,6 @@
 - https://medium.com/@adam.adreleve/dom-based-open-redirect-to-the-leak-of-a-jwt-token-1b1dd2ced9a1, Open-redirect
 - https://blog.stazot.com/prestashop-csrf-to-rce-article/, RCE
 - https://medium.com/@np20121996/how-was-i-able-to-find-privilege-escalation-b13366b97706, IDOR
-- https://medium.com/@ashokcpg/non-technical-write-up-on-my-second-bounty-of-1-000-from-facebook-74daecd6879b, Logic-flaw
 - https://medium.com/@abhishake100/strange-redirect-fixed-but-no-bounty-54425aea7f19, Open-redirect
 - https://medium.com/@rat010/otp-verification-bypass-ee17d68f8425, OTP-bypass
 - https://fadhilthomas.github.io/post/facebook-white-hat-01/, Session-management-issue
@@ -3981,7 +3978,6 @@
 - https://medium.com/@ahmedasherif/accessing-voip-internal-service-via-port-8009-routing-traffic-through-local-apache-proxy-54a4ff539c5f, Information-disclosure
 - https://nahoragg.github.io/bugbounty/2018/12/15/Self-XSS-to-Interesting-Stored-XSS.html, Stored-XSS
 - https://blog.scrt.ch/2018/08/24/remote-code-execution-on-a-facebook-server/, LFI
-- https://websecblog.com/vulns/google-code-in-xss/, XSS
 - https://shkspr.mobi/blog/2018/12/twitter-bug-bounty/, OAuth
 - https://medium.com/@maxpasqua/unremovable-tags-in-facebook-page-reviews-656e095e69aa, Logic-flaw
 - https://mohemiv.com/all/exploiting-xxe-with-local-dtd-files/, XXE
@@ -3989,7 +3985,6 @@
 - https://blog.nyangawa.me/security/CVE-2018-18649-Gitlab-RCE/, RCE
 - https://honoki.net/2018/12/from-blind-xxe-to-root-level-file-read-access/, Blind-XXE
 - https://medium.com/bugbountywriteup/bypass-cloudflare-waf-to-pwned-application-2c9e4f862319, WAF-bypass
-- https://avatao.com/blog-how-i-could-have-stolen-your-photos-from-google-my-first-3-bug-bounty-writeups/, Parameter-tampering
 - https://medium.com/bugbountywriteup/how-i-was-able-to-generate-access-tokens-for-any-facebook-user-6b84392d0342, IDOR
 - https://medium.com/bugbountywriteup/token-brute-force-to-account-take-over-to-privilege-escalation-to-organization-take-over-650d14c7ce7f, Account-takeover
 - https://medium.com/@sampanna/self-xss-in-indeed-com-e0c99c104cba, XSS

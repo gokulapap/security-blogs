@@ -73,3 +73,4 @@
 - https://medium.com/@yassergersy/xss-to-session-hijack-6039e11e6a81
 - https://vedanttekale20.medium.com/idor-that-allowed-me-to-takeover-any-users-account-129e55871d8
 - https://noob3xploiter.medium.com/sql-injection-in-harvard-subdomain-be67a5dbf664
+- https://websecblog.com/vulns/google-code-in-xss/
