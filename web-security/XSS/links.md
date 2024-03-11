@@ -74,3 +74,4 @@
 - https://vedanttekale20.medium.com/idor-that-allowed-me-to-takeover-any-users-account-129e55871d8
 - https://noob3xploiter.medium.com/sql-injection-in-harvard-subdomain-be67a5dbf664
 - https://websecblog.com/vulns/google-code-in-xss/
+- https://medium.com/@soyelmago/never-give-up-the-story-behind-a-dupe-to-a-triaged-43b72debb6c9

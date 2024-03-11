@@ -380,7 +380,6 @@
 - https://medium.com/@M0X0101/how-i-was-able-to-get-account-takeover-via-idor-form-jwt-caaf7ea58aa, JWT
 - https://eaton-works.com/2023/06/06/honda-ecommerce-hack/, Password-reset
 - https://medium.com/@malekmahmed55/turning-a-50-tab-nabbing-vulnerability-into-a-1000-account-takeover-9c3f32cb2d84, Reverse-tabnabbing
-- https://castilho.onrender.com/kanboard, Broken-Access-Control
 - https://ssd-disclosure.com/ssd-advisory-roundcube-markasjunk-rce/, RCE
 - https://jhftss.github.io/CVE-2022-32902-Patch-One-Issue-and-Introduce-Two/, TCC-bypass
 - https://evait.medium.com/a-short-white-box-code-audit-of-avo-2083b08f3a95, Stored-XSS
@@ -761,7 +760,6 @@
 - https://www.elttam.com/blog/cracking-randomness-in-java/, Cryptographic-issues
 - https://p4n7h3rx.medium.com/how-i-got-bounty-within-5-mins-f1448f6db9b5, RCE
 - https://www.trustedsec.com/blog/azure-ad-kerberos-tickets-pivoting-to-the-cloud/, Active-Directory
-- https://www.synack.com/blog/default-credentials-still-a-problem-today/, Default-credentials
 - https://www.blackhillsinfosec.com/exploit-development-a-sincere-form-of-flattery/, MS-RPC
 - https://www.zerodayinitiative.com/blog/2023/2/6/pwn2owning-two-hosts-at-the-same-time-abusing-inductive-automation-ignitions-custom-deserialization, Insecure-deserialization
 - https://jowin922.medium.com/reflected-xss-on-target-with-tough-waf-waf-bypass-3b7efd1ef2bc, Reflected-XSS
@@ -2900,7 +2898,6 @@
 - https://devcraft.io/2020/10/18/github-rce-git-inject.html, RCE
 - https://mksben.l0.cm/2020/10/discord-desktop-rce.html, RCE
 - https://saadahmedx.medium.com/weaponizing-xss-for-fun-profit-a1414f3fcee9, XSS
-- https://www.pentestpartners.com/security-blog/ms-enterprise-app-management-service-rce-cve-2022-35841/, RCE
 - https://blog.yappare.com/2020/10/i-had-fun-with-this-xss.html, XSS
 - https://medium.com/@shahjerry33/blind-ssrf-the-hide-seek-game-da9d0ecef2fb, Blind-SSRF
 - https://medium.com/@merry6607/how-i-find-my-first-p1-level-bug-5a6dd9587203, XSS
@@ -2970,7 +2967,6 @@
 - https://www.ehpus.com/post/xss-fix-bypass-10000-bounty-in-google-maps, XSS
 - https://blog.dixitaditya.com/from-android-app-to-rce/, RCE
 - https://infosecwriteups.com/how-response-manipulation-got-me-a-little-but-sweet-bounty-38b515ca0910, MFA-bypass
-- https://medium.com/@soyelmago/never-give-up-the-story-behind-a-dupe-to-a-triaged-43b72debb6c9, XSS
 - https://medium.com/@smilehackerofficial/xss-that-can-pay-your-bills-9377eff1fd0d, Reflected-XSS
 - https://web.archive.org/web/20201125190336/https://tox7cv3nom.github.io/2020-08-05-how_i_was_able_to_pawned_website_via_escilating_webcache-deception-to-rce/, Web-cache-deception
 - https://blog.deteact.com/account-takeover-via-idor/, IDOR
@@ -3613,7 +3609,6 @@
 - https://blog.usejournal.com/graphql-bug-to-steal-anyones-address-fc34f0374417, Information-disclosure
 - https://cyberzombie.in/my-first-lfi/, LFI
 - https://medium.com/@bathinivijaysimhareddy/shodan-is-your-friend-if-you-lose-him-you-will-lose-many-657d07472f75, SQL-injection
-- https://blog.0x48piraj.com/address-bar-spoofing-in-firefox-lite-for-android-and-the-idiocy-that-followed/, Address-Bar-Spoofing
 - https://medium.com/@Skylinearafat/how-to-look-for-js-files-vulnerability-for-fun-and-profit-78bfdfbd6731, Information-disclosure
 - https://omespino.com/write-up-private-bug-bounty-usd-rce-as-root-on-marathon-instance/, RCE
 - https://robinverton.de/blog/2019/08/25/bug-bounty-bypassing-a-crappy-waf-to-exploit-a-blind-sql-injection/, Blind-SQL-injection

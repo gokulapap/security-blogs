@@ -70,3 +70,4 @@
 - https://medium.com/@m4cddr/how-i-got-rce-in-10-websites-26dd87441f22
 - https://insinuator.net/2023/06/jasper-reports-library-code-injection/
 - https://positive.security/blog/ms-officecmd-rce
+- https://www.pentestpartners.com/security-blog/ms-enterprise-app-management-service-rce-cve-2022-35841/
