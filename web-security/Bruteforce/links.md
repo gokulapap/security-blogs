@@ -1,3 +1,4 @@
 - https://rashahacks.com/pwning-admin-panel-to-change-movie-ticket-prices-at-disney/
 - https://infosecwriteups.com/how-i-was-able-to-takeover-accounts-in-websites-deal-with-github-as-a-sso-provider-294290358e0c
 - https://medium.com/@lokeshdlk77/disable-any-unconfirmed-account-in-facebook-123aeba19426
+- https://bilalabdulmuqeet.medium.com/brute-forcing-otp-via-bypassing-rate-limit-c5ee6b25c2a8

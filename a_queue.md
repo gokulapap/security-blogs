@@ -1095,7 +1095,6 @@
 - https://portswigger.net/research/safari-is-hot-linking-images-to-semi-random-websites, Browser-hacking
 - https://medium.com/@jawadmahdi/blind-sql-injection-on-delete-request-486770af75a6, Blind-SQL-injection
 - https://pwning.systems/posts/easy-apple-kernel-bug/, Out-of-bounds-Read
-- https://www.zerodayinitiative.com/blog/2022/10/28/vulnerabilities-in-apache-batik-default-security-controls-ssrf-and-rce-through-remote-class-loading, SSRF
 - https://akashhamal0x01.medium.com/2fa-bypass-due-to-information-disclosure-improper-access-control-f9a5a8a4e0af, DoS
 - https://medium.com/@nanwinata/old-rce-worth-3362-1af0cd70c459, RCE
 - https://blog.assetnote.io/2022/10/28/exploiting-static-site-generators/, SSRF
@@ -2270,7 +2269,6 @@
 - https://medium.com/@gguzelkokar.mdbf15/huge-impact-server-side-request-forgery-in-production-app-20bf0cc5731, SSRF
 - https://medium.com/@nehpatel/story-of-unexpected-bugs-75734d51ac57, IDOR
 - https://web.archive.org/web/20210909040725/https://obsrva.org/2021/08/22/monkeytype-disclosure.html, Stored-XSS
-- https://aswinthambi.blogspot.com/2021/08/recon-for-bug-bounty.html, AWS-misconfiguration
 - https://monish-basaniwal.medium.com/how-i-found-my-first-subdomain-takeover-vulnerability-b7d5c17b61fd, Subdomain-takeover
 - https://www.yesnaveen.com/whatsapp-number-disclosure, Information-disclosure
 - https://tuhin1729.medium.com/account-takeover-via-access-token-leakage-687276953408, IDOR
@@ -2590,7 +2588,6 @@
 - https://dewcode.in/2021/03/24/Finding-and-exploiting-race-condition-vulnerability-on-facebook-server.html, Race-condition
 - https://sudhanshur705.medium.com/how-i-made-it-to-google-hof-f1cec85fdb1b, IDOR
 - https://thexssrat.medium.com/how-i-found-my-first-critical-vulnerability-in-bug-bounties-f890d420764b, Information-disclosure
-- https://bilalabdulmuqeet.medium.com/brute-forcing-otp-via-bypassing-rate-limit-c5ee6b25c2a8, Bruteforce
 - https://shahjerry33.medium.com/cross-site-port-attack-a-strangers-call-c2467f93792f, XSPA
 - https://muhammad-aamir.medium.com/oauth-misconfiguration-found-in-small-time-window-of-attack-b585afcb94c6, OAuth
 - https://godiego.co/posts/STO-AWS/, Subdomain-takeover
@@ -3368,7 +3365,6 @@
 - https://medium.com/@evan.connelly/hunting-tesla-model-y-secrets-in-the-parts-catalog-2f453f853dd8, Authorization-flaw
 - https://medium.com/tenable-techblog/exploiting-jira-for-host-discovery-43be3cddf023, CSRF
 - https://spaceraccoon.dev/a-tale-of-two-formats-exploiting-insecure-xml-and-zip-file-parsers-to-create-a, XXE
-- http://www.firstsight.me/2020/02/from-recon-to-optimizing-rce-results-simple-story-with-one-of-the-biggest-ict-company-in-the-world/, Information-disclosure
 - https://medium.com/@adonkidz7/my-first-bounty-from-google-d9f1f3f5787a, Self-XSS
 - https://www.acunetix.com/blog/web-security-zone/xss-google-acunetix/, XSS
 - https://s1gnalcha0s.github.io/logic/2020/02/17/Google-Fiber.html, Logic-flaw
@@ -3419,7 +3415,6 @@
 - https://medium.com/bugbountywriteup/how-i-bought-my-way-to-subdomain-takeover-on-tokopedia-8c6697c85b4d, Subdomain-takeover
 - https://medium.com/@milanmagyar/ggvulnz-how-i-hacked-hundreds-of-companies-through-google-groups-b69c658c8924, Logic-flaw
 - https://noobe.io/articles/2020-01/how-i-found-bug-google-search-console, Logic-flaw
-- https://medium.com/@raushanraj_65039/adding-a-malicious-notebook-to-be-treated-like-a-trusted-notebook-in-google-colab-1337-b84353a9f77, Authorization-flaw
 - https://irsl.medium.com/the-trouble-with-microsofts-troubleshooters-6e32fc80b8bd, RCE
 - https://xvnpw.github.io/posts/from-dot-in-regex-to-ssrf-part-2/, SSRF
 - https://palant.info/2020/01/13/pwning-avast-secure-browser-for-fun-and-profit, RCE

@@ -35,3 +35,4 @@
 - https://blog.easysiem.com/application-security/case-study-i-browser-anomaly-with-facebook-apps-1500usd
 - https://medium.com/@evilboyajay/page-admin-disclosure-facebook-bug-bounty-2019-ee9920e768eb
 - https://rikeshbaniyaaa.medium.com/javascript-analysis-leading-to-admin-portal-access-ea30f8328c8e
+- https://medium.com/@raushanraj_65039/adding-a-malicious-notebook-to-be-treated-like-a-trusted-notebook-in-google-colab-1337-b84353a9f77
