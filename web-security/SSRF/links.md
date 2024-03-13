@@ -41,3 +41,4 @@
 - https://positive.security/blog/ms-teams-1-feature-4-vulns
 - https://buer.haus/2016/04/18/esea-server-side-request-forgery-and-querying-aws-meta-data/
 - https://www.zerodayinitiative.com/blog/2022/10/28/vulnerabilities-in-apache-batik-default-security-controls-ssrf-and-rce-through-remote-class-loading
+- https://medium.com/@armaanpathan/pdfreacter-ssrf-to-root-level-local-file-read-which-led-to-rce-eb460ffb3129

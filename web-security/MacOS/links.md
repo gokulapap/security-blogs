@@ -1,2 +1,3 @@
 - https://medium.com/@mattshockl/cve-2020-9934-bypassing-the-os-x-transparency-consent-and-control-tcc-framework-for-4e14806f1de8
 - https://www.trendmicro.com/en_us/research/22/k/cve-2019-8561-a-hard-to-banish-packagekit-framework-vulnerabilit.html
+- https://wojciechregula.blog/post/macos-sandbox-escape-via-terminal/

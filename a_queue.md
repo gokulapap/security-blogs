@@ -1037,7 +1037,6 @@
 - https://r29k.com/articles/bb/account-takeover, Account-takeover
 - https://medium.com/@win3zz/remote-command-execution-in-a-bank-server-b213f9f42afe, RCE
 - https://www.semperis.com/blog/syncjacking-azure-ad-account-takeover/, Account-takeover
-- https://wojciechregula.blog/post/macos-sandbox-escape-via-terminal/, MacOS
 - https://0xm5awy.medium.com/how-i-found-8-vulnerabilities-in-24h-aad3bd5fd487, Logic-flaw
 - https://hacklido.com/d/87-reflected-xss-using-double-encoding, XSS
 - https://blog.rehack.xyz/2022/11/rescrutiny-delay-then-migrate-your.html, Internal-pentest
@@ -1273,7 +1272,6 @@
 - https://medium.com/@nynan/how-i-didnt-get-an-rce-in-a-200-billion-company-bug-bounty-377afb2fb4ec, RCE
 - https://hesec.de/posts/bbh-csrf/, CSRF
 - https://medium.com/@cyberali/contentful-access-token-disclosure-in-android-apk-ace5f7bdf98, Information-disclosure
-- https://rashahacks.com/privacy-violation-in-chat-system/, Privacy-issue
 - https://medium.com/@zer0d/how-i-found-3-bug-bounties-in-a-day-c82fe023716e, Session-expiration-issue
 - https://medium.com/@Parag_Bagul/how-i-was-able-to-bypass-philips-authentication-c3bd3e1df9ff, Outdated-component-with-a-known-vulnerability
 - https://www.legitsecurity.com/blog/bypassing-github-required-reviewers-to-submit-malicious-code, Authorization-flaw
@@ -1887,7 +1885,6 @@
 - https://www.cyberick.com/post/what-i-found-on-sony-vulnerability-disclosure-program, Information-disclosure
 - https://bloggerrando.blogspot.com/2022/02/how-can-i-access-members-only-video.html, Broken-Access-Control
 - https://wwws.nightwatchcybersecurity.com/2022/02/06/insecure-bootstrap-process-in-oracle-cloud-cli/, Supply-chain-attack
-- https://feed.bugs.xdavidhu.me/bugs/0012, Information-disclosure
 - https://feed.bugs.xdavidhu.me/bugs/0013, Authentication-bypass
 - https://medium.com/@yaala/facebook-oauth-bypass-446a073e687d, OAuth
 - https://edoverflow.com/2022/bypassing-razers-dom-based-xss-filter/, DOM-XSS
@@ -3797,7 +3794,6 @@
 - https://terjanq.github.io/Bug-Bounty/Twitter/protected-tweets-exposure-efvju8i785y1/, Information-disclosure
 - https://rpadovani.com/gitlab-responsible-disclosure, Authorization-flaw
 - https://sites.google.com/securifyinc.com/secblogs/scary-tickets, Ticket-Trick
-- https://medium.com/@armaanpathan/pdfreacter-ssrf-to-root-level-local-file-read-which-led-to-rce-eb460ffb3129, SSRF
 - https://www.inputzero.io/2019/04/evernote-cve-2019-10038.html, RCE
 - https://medium.com/bugbountywriteup/banner-grabbing-to-dos-and-memory-corruption-2442b1c25bbb, DoS
 - https://medium.com/@mr_hacker/a-5000-idor-f4268fffcd2e, IDOR
@@ -4538,7 +4534,6 @@
 - https://guptashubham.com/svg-xss-in-unifi-v5-0-2/, Stored-XSS
 - https://guptashubham.com/stored-xss-in-unifi-v4-8-12-controller/, Stored-XSS
 - https://portswigger.net/research/backslash-powered-scanning-hunting-unknown-vulnerability-classes, misc
-- https://philippeharewood.com/rewriting-a-photo-not-owned-by-the-session-user-in-moments-app-revisited/, Logic-flaw
 - https://ahussam.me/leak-private-videos-vimeo/, Logic-flaw
 - https://foxglovesecurity.com/2016/10/14/hacking-jasperreports-the-hidden-shell-feature/, RCE
 - https://portswigger.net/research/exploiting-cors-misconfigurations-for-bitcoins-and-bounties, CORS-misconfiguration

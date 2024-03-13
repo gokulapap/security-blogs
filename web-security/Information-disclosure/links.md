@@ -58,3 +58,4 @@
 - https://shahjerry33.medium.com/pii-leakage-revealing-secrets-8b617071bd1c
 - https://medium.com/bugbountywriteup/bcrypt-account-takeover-due-to-weak-encryption-hr51kdb-4418f6e65907
 - http://www.firstsight.me/2020/02/from-recon-to-optimizing-rce-results-simple-story-with-one-of-the-biggest-ict-company-in-the-world/
+- https://feed.bugs.xdavidhu.me/bugs/0012
