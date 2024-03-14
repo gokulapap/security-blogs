@@ -16,3 +16,4 @@
 - https://www.yassineaboukir.com/blog/how-I-discovered-a-1000$-open-redirect-in-facebook/
 - https://xthemo.medium.com/open-redirect-at-nvidia-62343b45f85b
 - https://radianid.medium.com/chaining-open-redirect-with-xss-to-account-takeover-36acf218a6d5
+- https://buer.haus/2017/03/09/airbnb-chaining-third-party-open-redirect-into-server-side-request-forgery-ssrf-via-liveperson-chat/

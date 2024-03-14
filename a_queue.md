@@ -1788,7 +1788,6 @@
 - https://debprasadbanerjee502.medium.com/adobe-bug-bounty-using-idor-confidential-data-leaks-f6c55e5143d0, IDOR
 - https://mearegtu.medium.com/insecure-direct-object-reference-exposes-all-users-of-microsoft-azure-independent-software-vendors-bed3b45e509, IDOR
 - https://medium.com/@interc3pt3r/for-the-first-bounty-it-takes-a-few-challenging-months-but-only-a-few-days-for-the-second-7b53259b0199, Old-components-with-known-vulnerabilities
-- https://yajdesu.medium.com/bypass-confirmation-to-add-payment-method-df2772a36561, Email-verification-bypass
 - https://www.zerodayinitiative.com/blog/2022/3/16/abusing-arbitrary-file-deletes-to-escalate-privilege-and-other-great-tricks, Local-Privilege-Escalation
 - https://medium.com/@vamshivaran110/my-first-blind-sql-injection-7db4b5e5c66d, SQL-injection
 - https://shahjerry33.medium.com/parameter-pollution-zero-day-3feb86ee8a02, HTTP-parameter-pollution
@@ -2883,7 +2882,6 @@
 - https://labs.f-secure.com/blog/samsung-s20-rce-via-samsung-galaxy-store-app/, RCE
 - https://medium.com/@seaman00o/300-p3-easy-bug-in-30-seconds-de65ea3d8f50, Missing-authentication
 - https://servicenger.com/blog/mobile/perform-substring-search-for-emails-even-if-workplace-admin-hides-email-profile-field/, Authorization-flaw
-- https://servicenger.com/blog/mobile/facebook-page-admin-disclosure/, Information-disclosure
 - https://devcraft.io/2020/10/20/github-pages-multiple-rces-via-kramdown-config.html, RCE
 - https://medium.com/@saneklarek22/back-to-2019-disclosure-employers-pii-and-credentials-bb7f344dcb08, Information-disclosure
 - https://www.rafaybaloch.com/2020/10/multiple-address-bar-spoofing-vulnerabilities.html, Address-Bar-Spoofing
@@ -3949,7 +3947,6 @@
 - https://medium.com/@yogeshtantak7788/how-i-was-able-to-delete-google-gallery-data-idor-53d2f303efff, IDOR
 - https://medium.com/@armaanpathan/abusing-acl-permissions-to-overwrite-other-users-uploaded-files-videos-on-s3-bucket-162c8877728, Unrestricted-file-upload
 - https://medium.com/@sahruldotid/how-i-takeover-wordpress-admin-fiiipay-my-1bdede83635d, Account-takeover
-- https://addictivehackers.blogspot.com/2018/12/how-i-was-able-to-takeover-all-user.html, IDOR
 - https://medium.com/@aniltom/from-hunting-for-a-laptop-to-hunting-down-remote-code-execution-72cce2761846, RCE
 - https://medium.com/@sampanna/rce-in-nokia-com-59b308e4e882, RCE
 - https://medium.com/@ironfisto/tokopedia-account-takeover-bug-worth-8-million-idr-5474cb5b5cc9, Password-reset
@@ -4043,7 +4040,6 @@
 - https://medium.com/@logicbomb_1/bugbounty-how-i-was-able-to-download-the-source-code-of-indias-largest-telecom-service-52cf5c5640a1, git-folder-disclosure
 - https://blog.securitybreached.org/2018/10/27/privilege-escalation-like-a-boss/, IDOR
 - https://medium.com/@Skylinearafat/how-misconfigured-api-leaked-user-private-information-e3e8c13e52e4, IDOR
-- https://web.archive.org/web/20191217012635/https://medium.com/bugbountywriteup/csrf-account-takeover-explained-automated-manual-bug-bounty-447e4b96485b, CSRF
 - https://medium.com/@prial261/subdomain-takeover-dew-to-missconfigured-project-settings-for-custom-domain-46e90e702969, Subdomain-takeover
 - https://medium.com/@kankrale.rahul/dos-on-facebook-android-app-using-65530-characters-of-zero-width-no-break-space-db41ca8ded89, DoS
 - https://medium.com/@mrnikhilsri/soap-based-unauthenticated-out-of-band-xml-external-entity-oob-xxe-in-a-help-desk-software-c27a6abf182a, XXE
@@ -4505,7 +4501,6 @@
 - https://buer.haus/2017/03/13/airbnb-ruby-on-rails-string-interpolation-led-to-remote-code-execution/, RCE
 - https://corben.io/blog/17-3-10-att-rce, RCE
 - https://medium.com/@marin_m/how-i-found-a-5-000-google-maps-xss-by-fiddling-with-protobuf-963ee0d9caff, XSS
-- https://buer.haus/2017/03/09/airbnb-chaining-third-party-open-redirect-into-server-side-request-forgery-ssrf-via-liveperson-chat/, Open-redirect
 - https://buer.haus/2017/03/08/airbnb-when-bypassing-json-encoding-xss-filter-waf-csp-and-auditor-turns-into-eight-vulnerabilities/, XSS
 - https://www.rcesecurity.com/2017/03/ok-google-give-me-all-your-internal-dns-information/, SSRF
 - https://labs.detectify.com/2017/02/28/hacking-slack-using-postmessage-and-websocket-reconnect-to-steal-your-precious-token/, postMessage
