@@ -1179,7 +1179,6 @@
 - https://medium.com/@claudio_moranb/vulnerabilities-in-online-payment-systems-edd2d3c06905, Payment-bypass
 - https://mearegtu.medium.com/insecure-comments-73399193f804, IDOR
 - https://medium.com/stolabs/cve-2022-36635-a-sql-injection-in-zksecuritybio-to-rce-c5bde2962d47, SQL-injection
-- https://research.nccgroup.com/2022/10/06/technical-advisory-openjdk-weak-parsing-logic-in-java-net-inetaddress-and-related-classes/, IP-address-validation-bypass
 - https://ahmadaabdulla.medium.com/mr-robot-self-xss-from-informative-to-high-1200-csrf-open-redirect-self-xss-to-stored-92f371ba3da1, Self-XSS
 - https://tantosec.com/blog/cve-2022-41343/, RCE
 - https://sec-consult.com/blog/detail/melting-the-dns-iceberg-taking-over-your-infrastructure-kaminsky-style/, DNS-cache-poisoning
@@ -2502,7 +2501,6 @@
 - https://n45ht.or.id/post/reflected-dom-xss-on-domainesia/en, XSS
 - https://n45ht.or.id/post/exploiting-xss-via-markdown-on-xiaomi/en, XSS
 - https://blog.sonarsource.com/wordpress-xxe-security-vulnerability/, XXE
-- https://labs.sentinelone.com/relaying-potatoes-dce-rpc-ntlm-relay-eop/, Local-Privilege-Escalation
 - https://blog.bricked.tech/posts/exiftool/, RCE
 - https://n45ht.or.id/post/reflected-xss-on-microsoft/en, Reflected-XSS
 - https://r29k.com/articles/bb/ato, Open-redirect
@@ -3505,7 +3503,6 @@
 - https://medium.com/bugbountywriteup/bypassing-the-fix-of-my-previous-instagram-bug-49ece4ea7e1d, Authorization-flaw
 - https://medium.com/@Rising_Hunter/privilege-escalation-with-simple-recon-da4e50fea9e5, Privilege-escalation
 - https://medium.com/@himanshu_pdy/ldap-admin-account-bypassed-2cc8b264d66e, LDAP-injection
-- https://philippeharewood.com/view-the-ranked-messenger-users-for-any-page/, Information-disclosure
 - https://fadhilthomas.github.io/post/bug-bounty-tokopedia-01-en/, IDOR
 - https://web.archive.org/web/20220826045457/https://blog.bi.tk/chrome-cors/, Caching-issue
 - https://medium.com/@masonhck357/chains-on-chains-chaining-several-idors-into-account-takeover-part-one-373627f2910f, IDOR
@@ -3543,7 +3540,6 @@
 - https://philippeharewood.com/1-800-flowers-credentials-and-message-log-leak-via-facebook-com-facebook/, AWS-misconfiguration
 - https://medium.com/bugbountywriteup/how-i-was-able-to-bypass-otp-token-requirement-in-razer-the-story-of-a-critical-bug-fc63a94ad572, OTP-bypass
 - https://medium.com/@manralhemant10/how-i-bypassed-2-factor-authentication-899750421331, MFA-bypass
-- https://smaranchand.com.np/2019/10/an-inconsistent-csrf/, CSRF
 - https://medium.com/@frycos/finding-sql-injections-fast-with-white-box-analysis-a-recent-bug-example-ca449bce6c76, SQL-injection
 - https://medium.com/@rohitcoder/whitehat-test-accounts-can-act-as-hidden-admin-with-business-manager-ad-accounts-ce75ead5ffff, Authorization-flaw
 - https://medium.com/@Master_SEC/bypass-uppercase-filters-like-a-pro-xss-advanced-methods-daf7a82673ce, XSS
@@ -3697,7 +3693,6 @@
 - https://medium.com/@osamaavvan/cors-to-csrf-attack-c33a595d441, CORS-misconfiguration
 - https://philippeharewood.com/toggle-group-rules-agreement-as-a-non-member/, Authorization-flaw
 - https://medium.com/@dr.spitfire/sensitive-information-disclosure-web-cache-deception-attack-bcac6cb9cd86?sk=a2557f0c557ff38876141c2d94b296dd, Information-disclosure
-- https://philippeharewood.com/download-arexport-files-for-any-public-ar-studio-effect/, IDOR
 - https://web.archive.org/web/20201001064738/https://medium.com/@protector47/password-reset-vulnerability-full-account-takeover-insecure-direct-object-reference-c4a9a3ea8268, Password-reset
 - https://www.f5.com/labs/articles/threat-intelligence/how-i-hacked-the-microsoft-outlook-android-app-and-found-cve-2019-1105, XSS
 - https://blog.lent.ink/post/klanteservice/, Logic-flaw

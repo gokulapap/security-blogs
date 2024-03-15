@@ -61,3 +61,4 @@
 - https://medium.com/@mrhavit/how-i-found-an-insecure-direct-object-reference-in-tiktok-c7303addf223
 - https://dhakalbibek.medium.com/story-about-more-than-3-5-million-pii-leakage-in-yahoo-3a530210dcc6
 - https://addictivehackers.blogspot.com/2018/12/how-i-was-able-to-takeover-all-user.html
+- https://philippeharewood.com/download-arexport-files-for-any-public-ar-studio-effect/

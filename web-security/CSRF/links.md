@@ -32,3 +32,4 @@
 - https://infosecwriteups.com/chaining-bugs-to-get-my-first-bug-bounty-7e94afb704e7
 - https://web.archive.org/web/20191218195406/https://medium.com/@sherazkhalid_60362/account-takeover-by-chaining-two-vulnerabilities-bb447753b089
 - https://web.archive.org/web/20191217012635/https://medium.com/bugbountywriteup/csrf-account-takeover-explained-automated-manual-bug-bounty-447e4b96485b
+- https://smaranchand.com.np/2019/10/an-inconsistent-csrf/
