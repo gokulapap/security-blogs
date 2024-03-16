@@ -208,7 +208,6 @@
 - https://medium.com/@zaidanr/exploiting-exposed-git-directory-without-gittools-7d3764dd3af6, misconfig
 - https://medium.com/@nmblog2135/you-can-earn-more-than-1000-if-you-know-this-vulnerability-open-redirect-vulnerabilities-b9170e88adba, open-redirection
 - https://medium.com/@Rend_/sqli-next-level-5b1145b83c79, sql-injection
-- https://medium.com/@gandhim373/new-way-to-find-html-injection-get-easy-bounty-65fdd319d688, tricks
 - https://medium.com/@darshanstanislaus/account-takeover-by-html-injection-d02bbfb43845, html-injection
 - https://medium.com/@sghosh2402/demystifying-insecure-deserialization-in-php-684cab9c4d24, deserialization
 - https://medium.com/@v3d/full-account-takeover-via-password-reset-flaw-my-first-blog-10d6e11df2e0, reset-password
@@ -1935,7 +1934,6 @@
 - https://www.reversemode.com/2022/01/finding-vulnerabilities-in-swiss-posts.html, Insecure-deserialization
 - https://www.zerodayinitiative.com/blog/2022/1/18/cve-2021-21661-exposing-database-info-via-wordpress-sql-injection, SQL-injection
 - https://googleprojectzero.blogspot.com//2022/01/zooming-in-on-zero-click-exploits.html, Memory-corruption
-- https://blog.assetnote.io/2022/01/17/workspace-one-access-ssrf/, SSRF
 - https://medium.com/@p3rr0x22/critical-xss-in-chrome-extension-b55757a2074, XSS
 - https://medium.com/@robert0/how-i-found-broken-access-control-through-out-of-sync-setup-and-got-1000-9143fc5febdd, Broken-Access-Control
 - https://www.cyberick.com/post/xxe-in-saml-sso-writeup-bug-bounty, XXE
@@ -2455,7 +2453,6 @@
 - https://www.fortbridge.co.uk/research/drupal-insecure-default-leads-to-password-reset-poisoning/, Password-reset
 - https://feed.bugs.xdavidhu.me/bugs/0005, Clickjacking
 - https://nvk0x.medium.com/how-i-hijacked-12-subdomains-in-one-program-eea468bcd64f, Subdomain-takeover
-- https://kailashbohara.com.np/blog/2021/05/16/MSSQL-Injection-in-JSON-request/, SQL-injection
 - https://www.pethuraj.com/blog/edmodo-bug-bounty-writeup/, XSS
 - https://omar0x01.medium.com/how-to-prevent-more-than-200-million-users-from-using-google-services-136b3b8e221f, Logic-flaw
 - https://infosecwriteups.com/2fa-bypass-via-forced-browsing-9e511dfdb8df, MFA-bypass
@@ -3123,7 +3120,6 @@
 - https://medium.com/@mase289/a-tale-of-my-first-ever-full-ssrf-bug-4fe71a76e9c4, SSRF
 - https://jub0bs.com/posts/2020-06-23-ssrf/, SSRF
 - https://medium.com/bugbountywriteup/api-token-hijacking-through-clickjacking-2e36c02e6c48, Clickjacking
-- https://medium.com/@divyanshsharma2401/it-took-me-only-5-minutes-to-find-an-rce-on-bentley-38265da15788, RCE
 - https://medium.com/bugbountywriteup/bypass-2fa-like-a-boss-378787707ba, Lack-of-rate-limiting
 - https://alaa.blog/2020/06/how-did-i-found-information-disclosure-on-facebook-writeup/, Information-disclosure
 - https://samcurry.net/hacking-starbucks/, Path-traversal
@@ -4434,7 +4430,6 @@
 - https://www.seekurity.com/blog/general/business-logic-vulnerabilities-series-how-i-became-invisible-and-immune-to-blocking-on-instagram/, Logic-flaw
 - https://medium.com/@valeriyshevchenko/massive-information-disclosure-of-1500-famous-people-b1b950fa657, Information-disclosure
 - https://medium.com/@arbazhussain/referer-based-xss-52aeff7b09e7, XSS
-- https://blog.orange.tw/2017/07/how-i-chained-4-vulnerabilities-on.html, SSRF
 - https://portswigger.net/research/cracking-the-lens-targeting-https-hidden-attack-surface, Reflected-XSS
 - https://labs.detectify.com/2017/07/27/how-we-invented-the-tesla-dom-doom-xss/, DOM-XSS
 - https://medium.com/@zahidali_93675/disabling-new-emails-from-facebook-without-email-owner-interaction-11c979778a68, Logic-flaw

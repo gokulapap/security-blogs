@@ -27,3 +27,4 @@
 - https://blog.yappare.com/2020/04/tricky-oracle-sql-injection-situation.html
 - https://medium.com/@nmalcolm/hacking-the-nhs-for-fun-and-no-profit-90931029dcb4
 - https://medium.com/@kgaber99/sql-injection-in-forget-password-function-3c945512e3cb
+- https://kailashbohara.com.np/blog/2021/05/16/MSSQL-Injection-in-JSON-request/

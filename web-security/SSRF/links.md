@@ -42,3 +42,5 @@
 - https://buer.haus/2016/04/18/esea-server-side-request-forgery-and-querying-aws-meta-data/
 - https://www.zerodayinitiative.com/blog/2022/10/28/vulnerabilities-in-apache-batik-default-security-controls-ssrf-and-rce-through-remote-class-loading
 - https://medium.com/@armaanpathan/pdfreacter-ssrf-to-root-level-local-file-read-which-led-to-rce-eb460ffb3129
+- https://blog.orange.tw/2017/07/how-i-chained-4-vulnerabilities-on.html
+- https://blog.assetnote.io/2022/01/17/workspace-one-access-ssrf/
