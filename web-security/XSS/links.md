@@ -75,3 +75,5 @@
 - https://noob3xploiter.medium.com/sql-injection-in-harvard-subdomain-be67a5dbf664
 - https://websecblog.com/vulns/google-code-in-xss/
 - https://medium.com/@soyelmago/never-give-up-the-story-behind-a-dupe-to-a-triaged-43b72debb6c9
+- https://medium.com/@who1am1i999/how-i-found-reflected-xss-in-users-login-page-on-public-program-f2c9f6580ed7
+- https://omar0x01.medium.com/how-i-found-3-rxss-on-the-lululemon-bug-bounty-program-fa357a0154c2

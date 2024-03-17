@@ -62,3 +62,4 @@
 - https://dhakalbibek.medium.com/story-about-more-than-3-5-million-pii-leakage-in-yahoo-3a530210dcc6
 - https://addictivehackers.blogspot.com/2018/12/how-i-was-able-to-takeover-all-user.html
 - https://philippeharewood.com/download-arexport-files-for-any-public-ar-studio-effect/
+- https://amineaboud.medium.com/disclose-leads-form-details-of-any-facebook-business-account-or-facebook-page-bug-bounty-7ecae6cff312

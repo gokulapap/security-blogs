@@ -179,7 +179,6 @@
 - https://medium.com/@dcube.merlin/basic-web-security-testing-apis-58f37e01a730, api
 - https://medium.com/@pyrrhon/how-i-was-able-to-take-over-one-of-dells-subdomains-7e06b8516e41, STO
 - https://medium.com/@gpiechnik/afrog-explained-for-bug-hunters-ed1497d5aaf5, automation
-- https://medium.com/@who1am1i999/how-i-found-reflected-xss-in-users-login-page-on-public-program-f2c9f6580ed7, XSS
 - https://medium.com/@stopvvar/sql-injection-with-insert-statement-bdcf4d47d178, sql-injection
 - https://medium.com/@ltsirkov/netflix-bypassing-multi-factor-authentication-mfa-53135c9d6d50, bypass
 - https://medium.com/@harish_nataraj/making-api-bug-bounties-a-breeze-bf6443db5b37, api
@@ -1287,7 +1286,6 @@
 - https://security.humanativaspa.it/groovy-template-engine-exploitation-notes-from-a-real-case-scenario/, RCE
 - https://shinchina.in/blog/2022-09-07/$900-blind-xss.html, Blind-XSS
 - https://mogwailabs.de/en/blog/2022/08/exploiting-laravel-based-applications-with-leaked-app_keys-and-queues/, RCE
-- https://omar0x01.medium.com/how-i-found-3-rxss-on-the-lululemon-bug-bounty-program-fa357a0154c2, XSS
 - https://security.humanativaspa.it/groovy-template-engine-exploitation-notes-from-a-real-case-scenario/, RCE
 - https://medium.com/@Parag_Bagul/how-i-found-moodle-cross-site-scripting-459a1c9ad4d5, XSS
 - https://marcyoung.us/post/zuckerpunch/, CICD
@@ -2435,7 +2433,6 @@
 - https://ledz1996.gitlab.io/blog/writeups/CVE-2021-22203-gitlab-arbitrary-file-read-write-through-kroki, Arbitrary-file-read
 - https://n1ghtmar3.medium.com/chaining-xss-with-authentication-issues-to-turn-it-into-full-account-takeover-ae886ac696bb, XSS
 - https://medium.com/fraktal/content-spoofing-vulnerability-in-shibboleth-service-provider-a6619404eaf1, Content-spoofing
-- https://amineaboud.medium.com/disclose-leads-form-details-of-any-facebook-business-account-or-facebook-page-bug-bounty-7ecae6cff312, IDOR
 - https://mikekitckchan.medium.com/cors-misconfig-that-worths-usd200-4696eda5ab4c, CORS-misconfiguration
 - https://shrirangdiwakar.medium.com/how-i-turned-0000-into-600-phone-verification-bypass-b1c0f6eb568e, OTP-bypass
 - https://dewangpanchal98.medium.com/403-forbidden-bypass-fc8b5df109b7, 403-bypass
@@ -3271,7 +3268,6 @@
 - https://medium.com/bugbountywriteup/how-i-unlocked-the-blocked-accounts-545e9b7d7be1, Password-reset
 - https://blog.doyensec.com/2020/04/08/libressl-fuzzer.html, Memory-corruption
 - https://web.archive.org/web/20200601005729/https://vict0ni.me/unrestricted-file-upload-on-pdf/, Unrestricted-file-upload
-- https://medium.com/bugbountywriteup/stored-xss-in-google-nest-a82373bbda68, Stored-XSS
 - https://medium.com/@D0rkerDevil/3k-bounty-for-elastic-search-takeover-70c0847d2e40, Elasticsearch-Takeover
 - https://www.rtcsec.com/2020/04/01-slack-webrtc-turn-compromise/, SSRF
 - https://web.archive.org/web/20200407121700/https://medium.com/nassec-cybersecurity-writeups/page-admin-disclosure-facebook-bug-bounty-2020-8a45cf911e24, Information-disclosure
@@ -3821,7 +3817,6 @@
 - https://medium.com/@paulorcchoupina/a-real-xss-in-olx-7727ae89c640, Reflected-XSS
 - https://www.rodneybeede.com/security/slack-announcement-only-channel-post-restriction-bypass.html, Authorization-flaw
 - https://blog.assetnote.io/bug-bounty/2019/03/19/rce-on-mozilla-zero-day-webpagetest/, RCE
-- https://medium.com/@maxpasqua/dos-across-facebook-endpoints-1d7d0bc27c7f, DoS
 - https://medium.com/@80vul/from-http-domain-to-res-domain-xss-by-using-ie-adobes-pdf-activex-plugin-9f2a72a87aff, DOM-XSS
 - https://palant.info/2019/03/18/should-you-be-concerned-about-lastpass-uploading-your-passwords-to-its-server/, Information-disclosure
 - https://medium.com/@avinash_/disclosure-of-pending-roles-for-any-facebook-page-ab6e4e219f8e, IDOR
