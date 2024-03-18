@@ -392,7 +392,6 @@
 - https://www.zerodayinitiative.com/blog/2023/5/31/cve-2023-24941-microsoft-network-file-system-remote-code-execution, RCE
 - https://www.klogixsecurity.com/scorpion-labs-blog/anatomy-of-an-iot-exploit-from-hands-on-to-rce, IoT
 - https://research.nccgroup.com/2023/05/31/reverse-engineering-coin-hunt-worlds-binary-protocol/, Reverse-engineering
-- https://zxsecurity.co.nz/research/advisories/kramer-via-go-2-rce-and-other-vulns/, RCE
 - https://sensepost.com/blog/2023/an-offensive-look-at-docker-desktop-extensions/, OS-command-injection
 - https://mc0wn.blogspot.com/2023/05/vulnerabilities-in-apache-commons-text.html, Path-traversal
 - https://www.microsoft.com/en-us/security/blog/2023/05/30/new-macos-vulnerability-migraine-could-bypass-system-integrity-protection/, SIP-bypass
@@ -1997,7 +1996,6 @@
 - https://infosecwriteups.com/hacked-google-meet-40f364bb8368, Authorization-flaw
 - https://mearegtu.medium.com/broken-access-control-cc6cfd793b15, IDOR
 - https://securitylab.github.com/advisories/GHSL-2021-1053_Grafana/, Path-traversal
-- https://www.pentestpartners.com/security-blog/gumtree-leaking-your-data-and-not-really-listening/, IDOR
 - https://breakpoint.sh/posts/bypassing-the-macos-gatekeeper, Local-Privilege-Escalation
 - https://medium.com/@mohamedtaha_42562/how-i-found-xss-vulnerability-in-amazon-in-5-minutes-using-shodan-50b583655297, XSS
 - https://m7-arman.medium.com/zero-click-to-account-takeover-d764e12bee4b, Account-takeover
@@ -2231,7 +2229,6 @@
 - https://www.tnirmal.com.np/2021/08/dropping-root-shell-in-crypto-exchange.html, RCE
 - https://theshubh77.medium.com/bypassing-2-factor-authentication-for-facebook-business-manager-bounty-1000-usd-c78c858459d6, MFA-bypass
 - https://v3d.medium.com/broken-access-control-leads-to-change-of-admin-details-a783e31729c4, Privilege-escalation
-- https://translate.google.com/translate?hl=en&sl=zh-CN&u=https://www.leavesongs.com/PENETRATION/cachet-from-laravel-sqli-to-bug-bounty.html&prev=search&pto=aue, SQL-injection
 - https://www.zerodayinitiative.com/blog/2021/8/30/proxytoken-an-authentication-bypass-in-microsoft-exchange-server, Authentication-bypass
 - https://itsfading.github.io/posts/I-owe-your-Request-HTTP-Request-Smuggling-leads-to-Full-Accounts-takeover/, HTTP-Request-Smuggling
 - https://blog.usamav.dev/two-account-takeover-bugs-worth-4300-dollar-bounty, Account-takeover
@@ -3216,7 +3213,6 @@
 - https://medium.com/@talatmehmood1995/bug-bounty-advanced-manual-penetration-testing-leading-to-price-manipulation-vulnerability-d935a3a5ddf6, Payment-tampering
 - https://embracethered.com/blog/posts/2020/mozilla-bug-bounty-credential-hunt-phabricator-token/, Information-disclosure
 - https://bugwriteups.tech/bug-bounty-write-up-lucky-vulnerability, SQL-injection
-- https://philippeharewood.com/change-the-profanity-filter-for-any-facebook-page/, Authorization-flaw
 - https://medium.com/@aniltom/magic-of-the-back-slash-d868e66b532a, Path-traversal
 - https://medium.com/@frycos/another-zoho-manageengine-story-7b472f1515f5, Authentication-bypass
 - https://tillsongalloway.com/finding-sensitive-information-on-github/index.html, Information-disclosure
@@ -3732,7 +3728,6 @@
 - https://medium.com/@mustafakhan_89646/multiple-api-issues-due-to-fixed-authorization-token-17365056f17a, Authorization-flaw
 - https://smaranchand.com.np/2019/05/how-i-acquired-xxx-bounty-by-investing-99-cents/, Logic-flaw
 - https://philippeharewood.com/determine-a-user-from-an-email-address/, Information-disclosure
-- https://whitehatfamilyguy.blogspot.com/2019/06/google-adwordsprivilege-escalation-read.html, Privilege-escalation
 - https://medium.com/@zseano/leaking-openid-tokens-with-the-bug-right-infront-of-you-95c1fb4a86e9, OpenID-Connect
 - https://omespino.com/write-up-google-bug-bounty-lfi-on-production-servers-in-redacted-google-com-13337-usd/, LFI
 - https://medium.com/@__rishabh__/open-redirect-to-account-takeover-e939006a9f24, Open-redirect
