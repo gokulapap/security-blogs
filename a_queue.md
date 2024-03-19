@@ -2166,7 +2166,6 @@
 - https://www.shielder.it/advisories/remote-command-execution-in-visual-studio-code-remote-development-extension/, RCE
 - https://habr.com/en/post/579714/, Information-disclosure
 - https://blogs.opera.com/security/2021/09/8000-bug-bounty-highlight-xss-to-rce-in-the-opera-browser, XSS
-- https://medium.com/@the.white.soul.0/bug-bounty-fastmail-pobox-com-account-takeover-e1e2fd190a2, Account-takeover
 - https://medium.com/@the.white.soul.0/bug-bounty-fastmail-topicbox-com-privileges-escalation-organization-takeover-815466876ad4, Privilege-escalation
 - https://www.vulnano.com/2021/09/facebook-messenger-for-macos-contained.html, Hardcoded-credentials
 - https://trenchant.io/pwn2own-2021-parallels-desktop-guest-to-host-escape/, VM-escape
@@ -2404,7 +2403,6 @@
 - https://www.ehpus.com/post/author-spoofing-in-google-colaboratory, Logic-flaw
 - https://infosecwriteups.com/how-i-was-able-to-bypass-parental-pin-of-showmax-e6d6ec3af92d, Authorization-flaw
 - https://vedanttekale20.medium.com/story-of-my-first-cash-bounty-on-hackerone-acad282ae962, SSRF
-- https://notifybugme.medium.com/how-github-recon-help-me-to-find-nine-full-ssrf-vulnerability-with-aws-metadata-access-531d931413a5, SSRF
 - https://batee5a.medium.com/shopify-multipass-misconfiguration-2bc85e92ad1d, Authentication-flaw
 - https://infosecwriteups.com/executing-csrf-with-phone-validation-103c525dd310, CSRF
 - https://bloggerrando.blogspot.com/2021/06/how-many-likes-and-dislikes-that-was.html, Broken-Access-Control
@@ -2878,7 +2876,6 @@
 - https://devcraft.io/2020/10/19/github-gist-account-takeover.html, Open-redirect
 - https://devcraft.io/2020/10/18/github-rce-git-inject.html, RCE
 - https://mksben.l0.cm/2020/10/discord-desktop-rce.html, RCE
-- https://saadahmedx.medium.com/weaponizing-xss-for-fun-profit-a1414f3fcee9, XSS
 - https://blog.yappare.com/2020/10/i-had-fun-with-this-xss.html, XSS
 - https://medium.com/@shahjerry33/blind-ssrf-the-hide-seek-game-da9d0ecef2fb, Blind-SSRF
 - https://medium.com/@merry6607/how-i-find-my-first-p1-level-bug-5a6dd9587203, XSS
@@ -3339,7 +3336,6 @@
 - https://medium.com/@shahjerry33/long-string-dos-6ba8ceab3aa0, DoS
 - https://medium.com/@harrmahar/how-i-get-my-first-p1-sensitive-information-disclosure-using-wpscan-c2fba00ac361, Information-disclosure
 - https://medium.com/@Mr.Daman.Singh/how-i-found-3-ssrf-in-one-day-on-different-bug-bounty-targets-62e91b4268f8, SSRF
-- https://web.archive.org/web/20200511064630/https://medium.com/@godofdarkness.msf/mail-ru-ext-b-scope-account-takeover-1500-abdb1560e5f9, Account-takeover
 - https://web.archive.org/web/20200513211717/https://mrss4nd0x.000webhostapp.com/Stored-XSS-on-groups-google-com.php, Stored-XSS
 - https://medium.com/@DarkMatterMatt/breaking-a-discord-channel-with-a-single-message-5095eb7604f1, DoS
 - https://web.archive.org/web/20200505142429/https://medium.com/@godofdarkness.msf/reflected-xss-in-at-t-7f1bdd10d8f7, Reflected-XSS
@@ -3391,7 +3387,6 @@
 - https://medium.com/bugbountywriteup/the-unexpected-bounty-a-story-of-zendesk-takeover-on-redacted-com-f2aa96ce2026, Subdomain-takeover
 - https://medium.com/nassec-cybersecurity-writeups/how-i-was-able-to-take-over-any-users-account-with-host-header-injection-546fff6d0f2, Host-header-injection
 - https://medium.com/@ozguralp/a-less-known-attack-vector-second-order-idor-attacks-14468009781a, IDOR
-- https://medium.com/@shahjerry33/password-reset-token-leak-via-referrer-2e622500c2c1, Password-reset
 - https://blog.securitybreached.org/2020/01/22/user-account-takeover-via-signup-feature-bug-bounty-poc/, Account-takeover
 - https://medium.com/bugbountywriteup/how-i-bought-my-way-to-subdomain-takeover-on-tokopedia-8c6697c85b4d, Subdomain-takeover
 - https://medium.com/@milanmagyar/ggvulnz-how-i-hacked-hundreds-of-companies-through-google-groups-b69c658c8924, Logic-flaw

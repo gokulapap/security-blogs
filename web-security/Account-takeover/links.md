@@ -29,3 +29,5 @@
 - https://medium.freecodecamp.org/hacking-tinder-accounts-using-facebook-accountkit-d5cc813340d1
 - https://infosecwriteups.com/account-takeover-user-admin-via-password-reset-322b8020ea6
 - https://www.sociosploit.com/2020/06/another-fappening-on-horizon.html
+- https://medium.com/@the.white.soul.0/bug-bounty-fastmail-pobox-com-account-takeover-e1e2fd190a2
+- https://web.archive.org/web/20200511064630/https://medium.com/@godofdarkness.msf/mail-ru-ext-b-scope-account-takeover-1500-abdb1560e5f9

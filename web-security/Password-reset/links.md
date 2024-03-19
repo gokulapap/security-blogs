@@ -3,3 +3,4 @@
 - https://innotommy.com/You’ve%20Got%20%28a%20Reset%29%20Mail.pdf
 - https://fortbridge.co.uk/research/joomla-password-reset-vulnerability-and-stored-xss-for-full-compromise/
 - https://medium.com/mcorral74/my-first-critical-report-9ceeb15f20c3
+- https://medium.com/@shahjerry33/password-reset-token-leak-via-referrer-2e622500c2c1
