@@ -2,3 +2,4 @@
 - https://medium.com/@arbazhussain/race-condition-bypassing-team-limit-b162e777ca3b
 - https://www.seekurity.com/blog/general/the-fuzz-the-bug-the-action-a-race-condition-bug-in-facebook-chat-groups-leads-to-spy-on-conversations
 - https://zxsecurity.co.nz/research/advisories/race-condition-asp-net-core-signinmanager/
+- https://pandaonair.com/2020/06/11/race-conditions-exploring-the-possibilities.html

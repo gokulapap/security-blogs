@@ -37,3 +37,4 @@
 - https://rikeshbaniyaaa.medium.com/javascript-analysis-leading-to-admin-portal-access-ea30f8328c8e
 - https://medium.com/@raushanraj_65039/adding-a-malicious-notebook-to-be-treated-like-a-trusted-notebook-in-google-colab-1337-b84353a9f77
 - https://philippeharewood.com/change-the-profanity-filter-for-any-facebook-page/
+- https://xko2x.medium.com/how-i-was-able-to-bypass-a-pin-code-protection-8352295bb4fb

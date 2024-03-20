@@ -45,3 +45,4 @@
 - https://blog.orange.tw/2017/07/how-i-chained-4-vulnerabilities-on.html
 - https://blog.assetnote.io/2022/01/17/workspace-one-access-ssrf/
 - https://notifybugme.medium.com/how-github-recon-help-me-to-find-nine-full-ssrf-vulnerability-with-aws-metadata-access-531d931413a5
+- https://medium.com/@mfocuz/hacking-netflix-eureka-8e5957b2f539

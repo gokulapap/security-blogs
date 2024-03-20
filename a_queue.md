@@ -1962,7 +1962,6 @@
 - https://medium.com/cider-sec/npm-might-be-executing-malicious-code-in-your-ci-without-your-knowledge-e5e45bab2fed, RCE
 - https://medium.com/@tushar.tilak.sharma/p5-to-p1-intresting-account-takeover-6e59b879494b, Account-takeover
 - https://infosecwriteups.com/idor-leads-to-leak-private-details-866563365490, IDOR
-- https://xko2x.medium.com/how-i-was-able-to-bypass-a-pin-code-protection-8352295bb4fb, Authorization-flaw
 - https://trevorspiniolas.com/doorlock/doorlock.html, DoS
 - https://medium.com/pentesternepal/a-tale-of-zero-click-account-takeover-56b51fdbd7ae, Account-takeover
 - https://snapsec.co/blog/Abusing-Business-logic-of-an-application-to-create-backdoor-in-APP/, Logic-flaw
@@ -2139,7 +2138,6 @@
 - https://mikekitckchan.medium.com/power-of-your-own-wordlist-fuzz-for-log-file-leads-to-information-leakage-ad46958b4729, Information-disclosure
 - https://medium.com/@oxygenne/request-smuggling-in-major-crypto-site-road-to-disappointment-a71a461f3b1f, HTTP-Header-Smuggling
 - https://shail-official.medium.com/accessing-apples-internal-uat-slackbot-for-fun-and-non-profit-25b167605f38, Authorization-flaw
-- https://medium.com/@mfocuz/hacking-netflix-eureka-8e5957b2f539, SSRF
 - https://www.aeth.cc/public/Article-Pass-Culture/stored-xss-article-en.html, Stored-XSS
 - https://supras.io/how-i-got-access-to-many-piis-through-a-source-code-leak/, Information-disclosure
 - https://github.com/snowyyowl/writeups/blob/main/CVE-2021-26084/CVE-2021-26084.md, RCE
@@ -2576,7 +2574,6 @@
 - https://godiego.co/posts/STO-AWS/, Subdomain-takeover
 - https://gccybermonks.com/posts/xss-mozilla/, XSS
 - https://clarkvoss.medium.com/how-to-harpon-big-blue-c163722638d8, Logic-flaw
-- https://medium.com/@dPhoeniixx/tiktok-for-android-1-click-rce-240266e78105, RCE
 - https://infosecwriteups.com/how-i-hacked-facebook-part-two-ffab96d57b19, SSRF
 - https://med-mahmoudi26.medium.com/chaining-bugs-for-the-greater-good-664412ae85f8, Blind-XSS
 - https://blog.teddykatz.com/2021/03/17/github-actions-write-access.html, Logic-flaw
@@ -2991,7 +2988,6 @@
 - https://medium.com/@balapraneeth98/journey-to-my-first-bug-hunt-6dc5e4552128, CSRF
 - https://medium.com/@ashikbhaskar94/blind-os-command-injection-87910f0d2276, OS-command-injection
 - https://medium.com/bugbountywriteup/cache-poisoning-of-wget-94a4d70104b1, Web-cache-poisoning
-- https://medium.com/@rushikesh12gaikwad/cracking-the-2fa-215d24ccb29b, MFA-bypass
 - https://medium.com/@singh.simran7838/how-i-made-2000-with-url-redirection-b1b5f4e7a678, Open-redirect
 - https://voidsec.com/cve-2020-1337-printdemon-is-dead-long-live-printdemon/, Local-Privilege-Escalation
 - https://medium.com/nassec-cybersecurity-writeups/how-i-was-able-to-find-page-personal-account-disclosure-on-instagram-d9607de4883f, Information-disclosure
@@ -3134,7 +3130,6 @@
 - https://medium.com/@pravinponnusamy/race-condition-vulnerability-found-in-bug-bounty-program-573260454c43, Race-condition
 - https://medium.com/@vishnu0002/account-takeover-via-otp-bruteforce-apigee-api-9b5481c642df, OTP-bypass
 - https://medium.com/@NinadMishra/dos-and-bugbounties-a-series-of-dos-attacks-on-hackerone-9c8316e192c9, DoS
-- https://pandaonair.com/2020/06/11/race-conditions-exploring-the-possibilities.html, Race-condition
 - https://medium.com/@mudassirsharief58/hunt-for-sql-injection-the-smart-way-db85243a4e90, SQL-injection
 - https://medium.com/@__mr_beast__/the-frustrating-xss-33607894a071, XSS
 - https://www.synack.com/blog/guest-blog-from-file-upload-to-rce/, Unrestricted-file-upload

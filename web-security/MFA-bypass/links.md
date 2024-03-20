@@ -6,3 +6,4 @@
 - https://medium.com/clouddevops/bugbounty-how-i-cracked-2fa-two-factor-authentication-with-simple-factor-brute-force-a1c0f3a2f1b4
 - https://medium.com/sourav-sahana/bypass-2fa-in-a-website-d616eaead1e3
 - https://web.archive.org/web/20200506144651/https://medium.com/@jeppe.b.weikop/2fa-bypass-via-logical-rate-limiting-bypass-25ae2a4e1835
+- https://medium.com/@rushikesh12gaikwad/cracking-the-2fa-215d24ccb29b

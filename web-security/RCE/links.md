@@ -73,3 +73,4 @@
 - https://www.pentestpartners.com/security-blog/ms-enterprise-app-management-service-rce-cve-2022-35841/
 - https://medium.com/@divyanshsharma2401/it-took-me-only-5-minutes-to-find-an-rce-on-bentley-38265da15788
 - https://zxsecurity.co.nz/research/advisories/kramer-via-go-2-rce-and-other-vulns/
+- https://medium.com/@dPhoeniixx/tiktok-for-android-1-click-rce-240266e78105
