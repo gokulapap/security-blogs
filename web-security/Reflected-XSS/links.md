@@ -23,3 +23,4 @@
 - https://web.archive.org/web/20201207232241/https://www.mohamedharon.com/2018/01/reflected-xss-possible-server-side.html
 - https://www.shielder.it/advisories/mattermost-server-reflected-xss-oauth/
 - https://joelmcg1993.medium.com/stored-xss-with-two-different-parameters-d9243cae3e6a
+- https://medium.com/bugbountywriteup/reflected-cross-site-scripting-on-private-program-bounty-750-34cc67a931f1

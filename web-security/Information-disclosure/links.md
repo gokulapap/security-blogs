@@ -61,3 +61,4 @@
 - https://feed.bugs.xdavidhu.me/bugs/0012
 - https://servicenger.com/blog/mobile/facebook-page-admin-disclosure/
 - https://philippeharewood.com/view-the-ranked-messenger-users-for-any-page/
+- https://medium.com/infosec/how-often-do-we-overlook-vulnerabilities-960a7c45f59

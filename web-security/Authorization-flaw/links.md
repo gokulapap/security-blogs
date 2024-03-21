@@ -38,3 +38,4 @@
 - https://medium.com/@raushanraj_65039/adding-a-malicious-notebook-to-be-treated-like-a-trusted-notebook-in-google-colab-1337-b84353a9f77
 - https://philippeharewood.com/change-the-profanity-filter-for-any-facebook-page/
 - https://xko2x.medium.com/how-i-was-able-to-bypass-a-pin-code-protection-8352295bb4fb
+- https://medium.com/@aakashadhikari786/weak-password-setting-function-on-practo-com-79df78245b81

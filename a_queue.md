@@ -440,7 +440,6 @@
 - https://redcanary.com/blog/gatekeeper-bypass-vulnerabilities/, GateKeeper-bypass
 - https://www.interruptlabs.co.uk/articles/linux-ipv6-route-of-death, DoS
 - https://www.sonarsource.com/blog/pimcore-one-click-two-security-vulnerabilities/, Path-traversal
-- https://danrevah.github.io/2023/05/15/CVE-2023-26818-Bypass-TCC-with-Telegram/, TCC-bypass
 - https://neodyme.io/blog/csgo_from_zero_to_0day/, Game-hacking
 - https://www.mnemonic.io/resources/blog/container-security-infecting-images-to-establish-backdoors/, Container-security
 - https://www.synacktiv.com/en/publications/the-printer-goes-brrrrr-again.html, Printer-hacking
@@ -2807,7 +2806,6 @@
 - https://rafipiun.medium.com/how-i-got-easy-for-sql-injection-bug-7ff622236e4c, SQL-injection
 - https://vijetareigns.medium.com/pre-account-takeover-using-oauth-misconfiguration-ebd32b80f3d3, OAuth
 - https://fuomag9.medium.com/how-images-on-github-will-leak-your-private-information-88f3b563e7d9, Information-disclosure
-- https://medium.com/bugbountywriteup/reflected-cross-site-scripting-on-private-program-bounty-750-34cc67a931f1, Reflected-XSS
 - https://medium.com/realmodelabs/sd-pwn-part-3-cisco-vmanage-another-day-another-network-takeover-15731a4d75b7, RCE
 - https://security.love/blog/gcp/2020/11/22/lateral-movement-and-privesc-in-GCP.html, Privilege-escalation
 - https://cirius.medium.com/escalating-xss-to-account-takeover-ffde08624937, Reflected-XSS
@@ -2881,7 +2879,6 @@
 - https://web.archive.org/web/20211020083928/https://medium.com/@rahulnaidu_92192/unauthorized-access-to-all-the-users-account-c087511fe42a, Account-takeover
 - https://blog.dixitaditya.com/leveraging-xss-to-read-internal-files/, XSS
 - https://medium.com/@sechunter/js-is-love-%EF%B8%8F-ca393a4849e9, Information-disclosure
-- https://medium.com/@aakashadhikari786/weak-password-setting-function-on-practo-com-79df78245b81, Authorization-flaw
 - https://medium.com/@parasarora06/cve-2018-5230-jira-cross-site-scripting-59ec96b3d75f, Reflected-XSS
 - https://medium.com/@sechunter/ato-via-host-header-poisoning-dc5c29d2fd0d, Host-header-injection
 - https://www.intezer.com/blog/cloud-security/kud-i-enter-your-server-new-vulnerabilities-in-microsoft-azure/, Privilege-escalation
@@ -2938,7 +2935,6 @@
 - https://medium.com/bugbountywriteup/how-i-hacked-redbus-an-online-bus-ticketing-application-24ef5bb083cd, LFI
 - https://blog.orange.tw/2020/09/how-i-hacked-facebook-again-mobileiron-mdm-rce.html, RCE
 - https://alesandroortiz.com/articles/uxss-android-webview-cve-2020-6506/, Universal-XSS
-- https://medium.com/infosec/how-often-do-we-overlook-vulnerabilities-960a7c45f59, Information-disclosure
 - https://www.ehpus.com/post/xss-fix-bypass-10000-bounty-in-google-maps, XSS
 - https://blog.dixitaditya.com/from-android-app-to-rce/, RCE
 - https://infosecwriteups.com/how-response-manipulation-got-me-a-little-but-sweet-bounty-38b515ca0910, MFA-bypass
@@ -4431,7 +4427,6 @@
 - https://ahussam.me/Medium-content-spoofing-xss, Content-spoofing
 - https://infosecwriteups.com/whatsapp-dos-vulnerability-in-ios-android-d896f76d3253, DoS
 - https://web.archive.org/web/20190718104640/https://medium.com/@tbmnull/making-an-xss-triggered-by-csp-bypass-on-twitter-561f107be3e5, XSS
-- https://corben.io/blog/17-06-30-bandcamp-xss, Stored-XSS
 - https://medium.com/@zahidali_93675/posting-on-groups-as-people-whenever-their-email-was-known-by-an-attacker-9dc8d7baf970, Authorization-flaw
 - https://buer.haus/2017/06/29/escalating-xss-in-phantomjs-image-rendering-to-ssrflocal-file-read/, XSS
 - https://www.seekurity.com/blog/general/reflected-xss-vulnerability-in-simplerisk, Reflected-XSS
