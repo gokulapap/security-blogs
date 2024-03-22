@@ -815,7 +815,6 @@
 - https://blog.assetnote.io/2023/01/24/yellowfin-auth-bypass-to-rce/, RCE
 - https://frycos.github.io/vulns4free/2023/01/24/0days-united-nations.html, RCE
 - https://www.varonis.com/blog/okta-attack-vectors, Insecure-storage-of-sensitive-information
-- https://blog.stratumsecurity.com/2023/01/23/remote-code-execution-through-deserializtion/, RCE
 - https://www.zerodayinitiative.com/blog/2023/1/23/activation-context-cache-poisoning-exploiting-csrss-for-privilege-escalation, Local-Privilege-Escalation
 - https://ph-hitachi.medium.com/how-i-hacked-scopely-using-sign-in-with-google-298a9c166ad, Account-takeover
 - https://johnjhacking.com/blog/cve-2023-24068-cve-2023-24069/, Thick-client
@@ -2033,7 +2032,6 @@
 - https://cyberguy0xd1.medium.com/my-write-up-in-hacking-ibms-administration-panel-and-getting-sqli-on-it-51404c7bee27, SQL-injection
 - https://blog.sonarsource.com/nodebb-remote-code-execution-with-one-shot, RCE
 - https://marxchryz.medium.com/price-manipulation-bypass-using-integer-overflow-method-36ff23ebe91d, Payment-tampering
-- https://sh1yo.art/post/websocket_hijacking/, Cross-Site-Websocket-Hijacking
 - https://sh1yo.art/post/sec-596/, Reflected-XSS
 - https://medium.com/@thenighthawk0/how-i-got-my-first-bounty-on-financial-sector-gateway-site-by-using-previous-graphql-462cca7389ca, Information-disclosure
 - https://ssd-disclosure.com/ssd-advisory-chrome-ad-heavy-bypass-via-history-back/, Browser-hacking
@@ -2202,7 +2200,6 @@
 - https://infosecwriteups.com/accessing-grofers-grafana-instance-using-shodan-52c585ada797, Weak-credentials
 - https://websecblog.com/vulns/google-threadit/, DOM-XSS
 - https://xhzeem.me/posts/SSRF-in-PDF-export-with-PhantomJs/read, SSRF
-- https://ssd-disclosure.com/ssd-advisory-netgear-d7000-authentication-bypass/, Authentication-bypass
 - https://apapedulimu.click/story-of-idor-on-google-product/, IDOR
 - https://medium.com/@katikitala.sushmitha078/how-i-can-take-over-any-users-account-with-their-mobile-number-6d820a364cad, Account-takeover
 - https://web.archive.org/web/20211025081016/http://noahblog.360.cn/burp-suite-rce/, RCE
@@ -2239,7 +2236,6 @@
 - https://medium.com/@hackrider/exploiting-devops-get-source-code-d4f5825eb373, Information-disclosure
 - https://infosecwriteups.com/how-did-i-earned-6000-from-tokens-and-scopes-in-one-day-12f95c6bf8aa, Authorization-flaw
 - https://web.archive.org/web/20210920030213/https://pmoc.netsoc.cloud/oauth-idor-pii/, IDOR
-- https://medium.com/@friendly_/reflective-xss-via-search-box-bypassing-cloudflare-waf-841ed420b7f, Reflected-XSS
 - https://sunilyedla.medium.com/websocket-hijacking-to-steal-session-id-of-victim-users-bca84243830, Cross-Site-WebSocket-Hijacking
 - https://srcincite.io/blog/2021/08/25/pwn2own-vancouver-2021-microsoft-exchange-server-remote-code-execution.html, RCE
 - https://maxwelldulin.com/BlogPost?post=7676291072, Logic-flaw
@@ -3793,7 +3789,6 @@
 - https://medium.com/h4x00r/my-very-first-bug-a-dreaded-dupe-and-then-an-idor-jackpot-d01b69f6fbae, IDOR
 - https://hackademic.co.in/youtube-bug/, CSRF
 - https://blog.usejournal.com/an-unusal-bug-on-braintree-paypal-b8d3ec662414, DoS
-- https://www.seekurity.com/blog/general/twitter-denial-of-service-bug-or-how-i-could-prevent-all-followers-from-reading-or-accessing-literally-any-tweets/, DoS
 - https://b3nac.com/posts/2019-02-16-How-to-hunt-for-Malvertising-ads-on-Android.html, Android
 - https://medium.com/@paulorcchoupina/a-real-xss-in-olx-7727ae89c640, Reflected-XSS
 - https://www.rodneybeede.com/security/slack-announcement-only-channel-post-restriction-bypass.html, Authorization-flaw

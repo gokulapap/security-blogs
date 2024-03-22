@@ -24,3 +24,4 @@
 - https://www.shielder.it/advisories/mattermost-server-reflected-xss-oauth/
 - https://joelmcg1993.medium.com/stored-xss-with-two-different-parameters-d9243cae3e6a
 - https://medium.com/bugbountywriteup/reflected-cross-site-scripting-on-private-program-bounty-750-34cc67a931f1
+- https://medium.com/@friendly_/reflective-xss-via-search-box-bypassing-cloudflare-waf-841ed420b7f

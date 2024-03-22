@@ -1,1 +1,2 @@
 - https://ysamm.com/?p=363
+- https://sh1yo.art/post/websocket_hijacking/

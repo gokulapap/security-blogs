@@ -14,3 +14,4 @@
 - https://medium.com/bugbountywriteup/bypassing-googles-fix-to-access-their-internal-admin-panels-12acd3d821e3
 - https://medium.com/@bughunt789/account-takeover-via-response-manipulation-96be568feb7e
 - https://systemweakness.com/the-story-of-how-i-bypass-sso-login-6b93370196cf
+- https://ssd-disclosure.com/ssd-advisory-netgear-d7000-authentication-bypass/
