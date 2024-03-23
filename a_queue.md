@@ -17,7 +17,6 @@
 - https://medium.com/@vignesh3004/open-redirect-vulnerability-in-igp-com-c1d76efc59b3, open-redirection
 - https://medium.com/@sapt/breaking-reset-password-logic-to-get-account-takeover-without-user-interaction-f241fefe12e7, ATO
 - https://medium.com/@arthbajpai277/beginners-guide-of-bug-bounty-by-arth-bajpai-5c6eb27c023, journey
-- https://medium.com/@Dhamuharker/0-day-vulnerability-uri-normalization-issue-access-the-internal-tomcat-server-8b99d9790519, CVE
 - https://medium.com/@thexssrat/ultimate-xxe-beginner-guide-f3bd123b1f4a, XXE
 - https://medium.com/@sumedh00/accessing-admin-dashboard-in-5-seconds-acee737eacfb, journey
 - https://medium.com/@kunalkhubchandani/the-modern-day-android-application-pentesting-approach-for-bugbounties-assessments-b09154b522d, android
@@ -100,7 +99,6 @@
 - https://medium.com/@tommasobona04/building-an-xss-scanner-with-python-detecting-cross-site-scripting-vulnerabilities-by-tommaso-69d4c9e04d72, automation
 - https://medium.com/@deepamkumar510/remote-code-execution-rce-through-file-upload-functionality-1809bd504805, RCE
 - https://medium.com/@nynan/what-i-learnt-from-reading-217-subdomain-takeover-bug-reports-c0b94eda4366, STO
-- https://medium.com/@proviesec/a-swag-for-a-open-redirect-google-dork-bug-bounty-2143b943f34e, open-redirection
 - https://medium.com/@sharanthehunter/g-map-api-key-exploitation-6fdf60fbb263, misc
 - https://medium.com/@videopourtoujour/brokenlinkhijacking-43ab80a4a717, low-hangings
 - https://medium.com/@andrea0/understanding-and-exploiting-http-for-bug-bounty-46286fcdd870, misc
@@ -124,7 +122,6 @@
 - https://medium.com/@tomnomnom/making-a-blind-sql-injection-a-little-less-blind-428dcb614ba8, sql-injection
 - https://medium.com/@Parag_Bagul/how-i-found-moodle-cross-site-scripting-459a1c9ad4d5, XSS
 - https://medium.com/@geekboyranjeet/strange-admin-panel-bypass-story-bug-bounty-5e618099baaf, bypass
-- https://medium.com/@hacksheets/dom-invader-burp-suite-tool-to-find-dom-based-xss-easily-3cb09adf4d44, automation
 - https://medium.com/@rahulkumarmk/fuzzing-get-and-post-requests-a-comprehensive-guide-with-gobuster-ffuz-and-wfuzz-bde14769999e, automation
 - https://medium.com/@kaorrosi/content-discovery-automated-and-manual-9984ba8d1da6, recon
 - https://medium.com/@cyberweapons/reflected-xss-cloudflare-waf-bypass-cc60a7b565eb, XSS
@@ -1333,7 +1330,6 @@
 - https://monish-basaniwal.medium.com/the-million-dollar-hack-8163892bfe2f, IDOR
 - https://akshayravic09yc47.medium.com/improper-input-validation-leads-to-email-spamming-5d1a53b2a579, Email-content-injection
 - https://joshuaarulsamy.medium.com/my-hall-of-fame-at-united-nations-success-story-97675232aed7, XSS
-- https://infosecwriteups.com/break-the-logic-5-different-perspectives-in-single-page-1500-5aa09da0fe7a, Client-side-enforcement-of-server-side-security
 - https://blog.nietaanraken.nl/posts/github-pages-command-injection/, RCE
 - https://dphoeniixx.medium.com/chaining-telegram-bugs-to-steal-session-related-files-c90eac4749bd, Arbitrary-file-read
 - https://jfrog.com/blog/satisfying-our-way-into-remote-code-execution-in-the-opc-ua-industrial-stack/, Memory-corruption
@@ -1398,7 +1394,6 @@
 - https://bugra.ninja/posts/cloudshell-command-injection/, OS-command-injection
 - https://krausefx.com/blog/ios-privacy-instagram-and-facebook-can-track-anything-you-do-on-any-website-in-their-in-app-browser, Privacy-issue
 - https://googleprojectzero.blogspot.com/2022/08/the-quantum-state-of-linux-kernel.html, Memory-corruption
-- https://blog.sonarsource.com/security-implications-of-url-parsing-differentials, Open-redirect
 - https://onekey.com/blog/advisory-cisco-small-business-rv-series-routers-web-filter-database-update-command-injection-vulnerability/, OS-command-injection
 - https://srcincite.io/blog/2022/08/09/from-shared-dash-to-root-bash-pre-authenticated-rce-in-vmware-vrealize-operations-manager.html, Authentication-bypass
 - https://petrusviet.medium.com/dancing-on-the-architecture-of-vmware-workspace-one-access-eng-ad592ae1b6dd, Authentication-bypass

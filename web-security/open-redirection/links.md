@@ -1,1 +1,2 @@
 - https://medium.com/@sl4x0/all-about-open-redirects-d69cf6726122
+- https://medium.com/@proviesec/a-swag-for-a-open-redirect-google-dork-bug-bounty-2143b943f34e

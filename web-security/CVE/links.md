@@ -1,1 +1,2 @@
 - https://medium.com/@y0ungdst/xss-in-jenzabar-cve-2021-26723-a0749231328
+- https://medium.com/@Dhamuharker/0-day-vulnerability-uri-normalization-issue-access-the-internal-tomcat-server-8b99d9790519
