@@ -1,1 +1,2 @@
 - https://www.seekurity.com/blog/general/openproject-session-management-security-vulnerability/
+- https://fadhilthomas.github.io/post/facebook-white-hat-01/

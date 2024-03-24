@@ -1273,7 +1273,6 @@
 - https://bloggerrando.blogspot.com/2022/09/09-1.html, Information-disclosure
 - https://www.whiteoaksecurity.com/blog/fun-with-cors/, CORS-misconfiguration
 - https://labs.jumpsec.com/quest-kace-desktop-authority-pre-auth-remote-code-execution-cve-2021-44031/, RCE
-- https://sector7.computest.nl/post/2022-09-aveva-edge/, Arbitrary-Code-Execution
 - https://www.rapid7.com/blog/post/2022/09/08/baxter-sigma-spectrum-infusion-pumps-multiple-vulnerabilities-fixed/, Hardcoded-credentials
 - https://www.binarly.io/posts/Binarly_Finds_Six_High_Severity_Firmware_Vulnerabilities_in_HP_Enterprise_Devices/index.html, Memory-corruption
 - https://starlabs.sg/blog/2022/09-step-by-step-walkthrough-of-cve-2022-32792/, Memory-corruption
@@ -1651,7 +1650,6 @@
 - https://mokhansec.medium.com/account-verification-code-bypass-lead-to-a-4000-bounty-b31dda6f3011, OTP-bypass
 - https://melotover.medium.com/can-analyzing-javascript-files-lead-to-remote-code-execution-f24112f1aa1f, Unrestricted-file-upload
 - https://web.archive.org/web/20220516024454/https://medium.com/@tobydavenn/how-i-paid-for-my-holiday-with-bug-bounty-668f1f59e6e5, XSS
-- https://medium.com/@anjaneyulukanakatla1996/its-all-about-2fa-bypass-or-account-takeover-f9521f0a03b5, Password-reset
 - https://medium.com/@masonhck357/the-16-000-dev-mistake-13e516e86be6, Information-disclosure
 - https://blog.assetnote.io/2022/05/06/cloudflare-pages-pt1/, Command-injection
 - https://www.pmnh.site/post/advanced-sqlmap-case-study-1/, SQL-injection
@@ -2441,7 +2439,6 @@
 - https://kailashbohara.com.np/blog/2021/05/13/Google-blind-XSS/, Blind-XSS
 - https://filipaze.medium.com/how-i-find-my-first-stored-xss-c6f57155cc1a, Stored-XSS
 - https://tuhin1729.medium.com/story-of-my-hacking-dutch-government-46b7a3c8b75a, XSS
-- https://hateshape.github.io/general/2021/05/11/CVE-2020-35580.html, LFI
 - https://www.intezer.com/blog/cloud-security/cve-2021-27075-microsoft-azure-vulnerability-allows-privilege-escalation-and-leak-of-data/, Privilege-escalation
 - https://blog.evanricafort.com/2021/05/2fa-verification-bypass-in-shapeshift.html, MFA-bypass
 - https://infosecwriteups.com/stored-xss-to-organisation-takeover-6eaaa2fdcd5b, Stored-XSS
@@ -2826,7 +2823,6 @@
 - https://nechudav.blogspot.com/2020/11/31k-ssrf-in-google-cloud-monitoring.html, SSRF
 - https://medium.com/bugbountywriteup/chaining-password-reset-link-poisoning-idor-account-information-leakage-to-achieve-account-bb5e0e400745, HTTP-header-injection
 - https://blog.mozilla.org/attack-and-defense/2020/11/10/firefox-for-android-lan-based-intent-triggering/, Insecure-intent
-- https://medium.com/realmodelabs/silver-peak-unity-orchestrator-rce-2928d65ef749, RCE
 - https://galnagli.com/DoD_IDOR/, IDOR
 - https://blog.blazeinfosec.com/attack-of-the-clones-github-desktop-remote-code-execution/, RCE
 - https://dhakal0kushal.medium.com/story-of-a-pre-account-takeover-33e3d5b4c33f, Account-takeover
@@ -3234,7 +3230,6 @@
 - https://medium.com/@np20121996/how-was-i-able-to-find-privilege-escalation-b13366b97706, IDOR
 - https://medium.com/@abhishake100/strange-redirect-fixed-but-no-bounty-54425aea7f19, Open-redirect
 - https://medium.com/@rat010/otp-verification-bypass-ee17d68f8425, OTP-bypass
-- https://fadhilthomas.github.io/post/facebook-white-hat-01/, Session-management-issue
 - https://blog.zimperium.com/multiple-kernel-vulnerabilities-affecting-all-qualcomm-devices/, Memory-corruption
 - https://medium.com/@kristian.balog/netflix-party-simple-xss-ec92ed1d7e18, XSS
 - https://medium.com/@shahjerry33/business-logic-errors-a-new-look-3b18d9c2a12f, Logic-flaw

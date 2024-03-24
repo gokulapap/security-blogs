@@ -4,3 +4,4 @@
 - https://fortbridge.co.uk/research/joomla-password-reset-vulnerability-and-stored-xss-for-full-compromise/
 - https://medium.com/mcorral74/my-first-critical-report-9ceeb15f20c3
 - https://medium.com/@shahjerry33/password-reset-token-leak-via-referrer-2e622500c2c1
+- https://medium.com/@anjaneyulukanakatla1996/its-all-about-2fa-bypass-or-account-takeover-f9521f0a03b5

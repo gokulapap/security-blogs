@@ -1,0 +1,1 @@
+- https://sector7.computest.nl/post/2022-09-aveva-edge/

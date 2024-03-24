@@ -75,3 +75,4 @@
 - https://zxsecurity.co.nz/research/advisories/kramer-via-go-2-rce-and-other-vulns/
 - https://medium.com/@dPhoeniixx/tiktok-for-android-1-click-rce-240266e78105
 - https://blog.stratumsecurity.com/2023/01/23/remote-code-execution-through-deserializtion/
+- https://medium.com/realmodelabs/silver-peak-unity-orchestrator-rce-2928d65ef749

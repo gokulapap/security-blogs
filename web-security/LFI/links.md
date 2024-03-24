@@ -5,3 +5,4 @@
 - https://blog.scrt.ch/2019/01/24/magento-rce-local-file-read-with-low-privilege-admin-rights/
 - https://xhzeem.me/posts/PHP-fopen-function-to-local-file-inclusion/read/
 - https://blog.dixitaditya.com/pwning-a-server-using-markdown
+- https://hateshape.github.io/general/2021/05/11/CVE-2020-35580.html
