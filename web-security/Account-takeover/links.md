@@ -31,3 +31,4 @@
 - https://www.sociosploit.com/2020/06/another-fappening-on-horizon.html
 - https://medium.com/@the.white.soul.0/bug-bounty-fastmail-pobox-com-account-takeover-e1e2fd190a2
 - https://web.archive.org/web/20200511064630/https://medium.com/@godofdarkness.msf/mail-ru-ext-b-scope-account-takeover-1500-abdb1560e5f9
+- https://medium.com/@0xd3vil/how-i-earned-1800-for-finding-a-business-logic-account-takeover-vulnerability-c84c78e6ade0

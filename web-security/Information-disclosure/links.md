@@ -62,3 +62,4 @@
 - https://servicenger.com/blog/mobile/facebook-page-admin-disclosure/
 - https://philippeharewood.com/view-the-ranked-messenger-users-for-any-page/
 - https://medium.com/infosec/how-often-do-we-overlook-vulnerabilities-960a7c45f59
+- https://sunilyedla.medium.com/information-disclosure-to-account-takeover-a21b2b54147a

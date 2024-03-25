@@ -663,7 +663,6 @@
 - https://snyk.io/blog/gitpod-remote-code-execution-vulnerability-websockets/, RCE
 - https://redshark1802.com/blog/2023/03/01/abusing-hopy-by-hop-header-crlf-injection/, CRLF-injection
 - https://cristivlad.medium.com/exfiltrating-aws-credentials-via-pdf-rendering-of-unsanitized-input-63f39d60d963, SSRF
-- https://medium.com/@0xd3vil/how-i-earned-1800-for-finding-a-business-logic-account-takeover-vulnerability-c84c78e6ade0, Account-takeover
 - https://blog.doyensec.com/2023/02/28/new-vector-for-dirty-arbitrary-file-write-2-rce.html, Arbitrary-file-write
 - https://www.sonarsource.com/blog/empowering-weak-primitives-file-truncation-to-code-execution-with-git/, Argument-injection
 - https://www.zerodayinitiative.com/blog/2023/2/27/cve-2022-38108-rce-in-solarwinds-network-performance-monitor, Insecure-deserialization
@@ -1736,7 +1735,6 @@
 - https://amit-lt.medium.com/multiple-times-i-hacked-duke-university-with-rxss-vulnerability-7e291aad043a, Reflected-XSS
 - https://akashhamal0x01.medium.com/design-flaw-a-tale-of-permanent-dos-a9ef05181083, DoS
 - https://omespino.com/write-up-finapi-open-banking-api-oauth-credentials-exposed-in-plain-text-in-android-app/, Hardcoded-credentials
-- https://medium.com/falconforce/debugging-the-undebuggable-and-finding-a-cve-in-microsoft-defender-for-endpoint-ce36f50bb31, Endpoint-spoofing
 - https://medium.com/@terminatorLM/small-bugs-are-more-dangerous-than-you-think-9411618191ab, Self-XSS
 - https://blog.relyze.com/2022/04/pwning-cisco-rv340-with-4-bug-chain.html, Local-Privilege-Escalation
 - https://shenkaiwen.com/publication/2022-dkim/, Email-spoofing
@@ -2030,7 +2028,6 @@
 - https://ssd-disclosure.com/ssd-advisory-chrome-ad-heavy-bypass-via-history-back/, Browser-hacking
 - https://vavkamil.cz/2021/11/25/wordpress-plugin-confusion-update-can-get-you-pwned/, Supply-chain-attack
 - https://securifyinc.com/disclosures/rocketchat-monitor-messages, Authorization-flaw
-- https://medium.com/@thedarkwayg/how-i-found-my-first-xss-bug-96fb8e85a24c, XSS
 - https://wahaz.medium.com/unauthenticated-sensitive-information-disclosure-at-redacted-2702224098c, Old-components-with-known-vulnerabilities
 - https://fortbridge.co.uk/research/multiple-vulnerabilities-in-concrete-cms-part2/, Privilege-escalation
 - https://web.archive.org/web/20220119155429/https://0xgodson.medium.com/account-takeover-in-million-company-report-rejected-whats-wrong-60041f1815fb, Account-takeover
@@ -2295,7 +2292,6 @@
 - https://medium.com/@sebastien.kaul/gaining-access-to-gcp-of-google-stadia-500-bounty-22f76ecc8e60, Information-disclosure
 - https://n1ghtmar3.medium.com/how-i-found-my-first-idor-in-hackerone-5d5f17bb431, IDOR
 - https://3bodymo.medium.com/how-i-earned-by-amazon-s3-bucket-misconfigurations-29d51ee510de, AWS-misconfiguration
-- https://sunilyedla.medium.com/information-disclosure-to-account-takeover-a21b2b54147a, Information-disclosure
 - https://haxolot.com/posts/2021/moodle_pre_auth_shibboleth_rce_part1/, RCE
 - https://web.archive.org/web/20210927021132/https://0xdln.ml/XSS-Special-Cases/, XSS
 - https://cinzinga.com/XXE-Case-Studies/, XXE
@@ -3679,7 +3675,6 @@
 - https://medium.com/@ciph3r7r0ll/chaining-improper-authorization-to-race-condition-to-harvest-credit-card-details-a-bug-bounty-effe6e0f5076, Authorization-flaw
 - https://medium.com/@androgaming1912/redstrom-denial-of-service-write-up-d8fd97f18335, DoS
 - https://noobe.io/articles/2019-06/reflected-xss-on-error-page, Reflected-XSS
-- https://medium.com/@ritishkumarsingh/facebook-vulnerability-non-unfriendable-user-in-hacked-workflow-5a3b392a2a98, Logic-flaw
 - https://medium.com/bugbountywriteup/account-takeover-using-idor-and-the-misleading-case-of-error-403-cb42c96ea310, IDOR
 - https://medium.com/@hariharan21/idor-leads-to-project-takeover-548a1bfd4d66, IDOR
 - https://medium.com/@noob.assassin/dont-underestimates-the-errors-they-can-provide-good-bounty-d437ecca6596, Information-disclosure
