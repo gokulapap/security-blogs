@@ -76,3 +76,4 @@
 - https://medium.com/@dPhoeniixx/tiktok-for-android-1-click-rce-240266e78105
 - https://blog.stratumsecurity.com/2023/01/23/remote-code-execution-through-deserializtion/
 - https://medium.com/realmodelabs/silver-peak-unity-orchestrator-rce-2928d65ef749
+- https://blog.redteam.pl/2019/12/chrome-portal-element-fuzzing.html

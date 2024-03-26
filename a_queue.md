@@ -414,7 +414,6 @@
 - https://medium.com/@sharp488/2fa-bypass-using-custom-cookie-parameter-cb270c8557d2, MFA-bypass
 - https://realm3ter.medium.com/aem-bug-in-adobe-416763d3ad04, AEM
 - https://nav1n.medium.com/exploiting-sql-error-sqlstate-42000-to-own-mariadb-of-a-large-eu-based-online-media-and-cf7396c43bbf, SQL-injection
-- https://emanuel-beni.medium.com/why-you-should-always-check-the-audit-log-medium-500-80a778bfbcd6, Information-disclosure
 - https://infosecwriteups.com/exposing-icloud-users-name-phone-numbers-and-email-addresses-d1f4a3786092, Information-disclosure
 - https://medium.com/@lukinha05farias/dns-recursion-leads-to-dos-attack-vivo-play-iptv-cve-2023-31893-b5ac45f38f, DoS
 - https://strike.sh/blog/official-extension-attacks, Extension-spoofing
@@ -1801,7 +1800,6 @@
 - https://medium.com/@girishbo58/rate-limit-bypass-at-readme-com-35c4fb0c7f85, Lack-of-rate-limiting
 - https://medium.com/@tobydavenn/how-i-was-able-to-read-any-users-confidential-reports-on-a-public-level-domain-1e563857b0b9, IDOR
 - https://prajwoldhungana487.medium.com/demographic-misconfiguration-9359910c6fcf, Logic-flaw
-- https://ssd-disclosure.com/ssd-advisory-netgear-dgnd3700v2-preauth-root-access/, Authentication-bypass
 - https://testbnull.medium.com/oracle-access-manager-pre-auth-rce-cve-2021-35587-analysis-1302a4542316, RCE
 - https://unit42.paloaltonetworks.com/gke-autopilot-vulnerabilities/, Privilege-escalation
 - https://medium.com/@amnotacat/log4shell-in-google-1337-00-144684269bf8, Log4shell
@@ -2763,7 +2761,6 @@
 - https://medium.com/@yaala/confirm-an-email-address-belonging-to-a-specific-user-fe9c305e0af, Information-disclosure
 - https://infosecwriteups.com/how-i-hacked-facebook-part-one-282bbb125a5d, Missing-authentication
 - https://ph-hitachi.medium.com/how-i-got-my-first-bug-bounty-in-intersting-target-lfi-to-sxss-58fa5c4f5882, LFI
-- https://web.archive.org/web/20210508050717/http://dphoeniixx.com/2020/12/13-2/, CSRF
 - https://baibhavjha.com.np/blogs/hidingcustomlist/, Logic-flaw
 - https://research.checkpoint.com/2020/game-on-finding-vulnerabilities-in-valves-steam-sockets/, Memory-corruption
 - https://medium.com/the-volatile-triad/hacking-tamper-with-the-url-parameters-especially-if-they-modify-the-page-7edf158c8db9, HTTP-parameter-pollution
@@ -3428,7 +3425,6 @@
 - https://medium.com/swlh/reusing-cookies-23ed4691122b, Session-management-issue
 - https://blog.evanricafort.com/2019/12/html-injection-to-xss-bypass-in.html, Reflected-XSS
 - https://medium.com/@navne3t/150-xss-at-error-page-of-respository-code-4fc628892742, Reflected-XSS
-- https://blog.redteam.pl/2019/12/chrome-portal-element-fuzzing.html, RCE
 - https://hipotermia.pw/bb/http-desync-idor, HTTP-request-smuggling
 - https://www.hackerinside.me/2019/12/xss-like-pro.html, XSS
 - https://medium.com/bugbountywriteup/dank-writeup-on-broken-access-control-on-an-indian-startup-d29132a1ecd, Unrestricted-file-upload
@@ -3908,7 +3904,6 @@
 - https://medium.com/@ahmedasherif/accessing-voip-internal-service-via-port-8009-routing-traffic-through-local-apache-proxy-54a4ff539c5f, Information-disclosure
 - https://nahoragg.github.io/bugbounty/2018/12/15/Self-XSS-to-Interesting-Stored-XSS.html, Stored-XSS
 - https://blog.scrt.ch/2018/08/24/remote-code-execution-on-a-facebook-server/, LFI
-- https://shkspr.mobi/blog/2018/12/twitter-bug-bounty/, OAuth
 - https://medium.com/@maxpasqua/unremovable-tags-in-facebook-page-reviews-656e095e69aa, Logic-flaw
 - https://mohemiv.com/all/exploiting-xxe-with-local-dtd-files/, XXE
 - https://medium.com/bugbountywriteup/open-redirect-developers-are-lazy-or-maybe-busy-6c51718b10e4, Open-redirect

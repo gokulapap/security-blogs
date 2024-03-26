@@ -7,3 +7,4 @@
 - https://www.amolbaikar.com/facebook-oauth-framework-vulnerability/
 - https://neroli.medium.com/oauth-misconfiguration-leads-to-full-account-takeover-22b032cb6732
 - https://www.arneswinnen.net/2017/06/authentication-bypass-on-airbnb-via-oauth-tokens-theft/
+- https://shkspr.mobi/blog/2018/12/twitter-bug-bounty/

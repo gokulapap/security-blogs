@@ -15,3 +15,4 @@
 - https://medium.com/@bughunt789/account-takeover-via-response-manipulation-96be568feb7e
 - https://systemweakness.com/the-story-of-how-i-bypass-sso-login-6b93370196cf
 - https://ssd-disclosure.com/ssd-advisory-netgear-d7000-authentication-bypass/
+- https://ssd-disclosure.com/ssd-advisory-netgear-dgnd3700v2-preauth-root-access/
