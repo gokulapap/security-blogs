@@ -221,7 +221,6 @@
 - https://medium.com/@Sm9l/what-i-learnt-from-reading-220-idor-bug-reports-6efbea44db7, IDOR
 - https://medium.com/@raymondlind/finding-reflected-xss-in-a-strange-way-289a4f3fa630, XSS
 - https://medium.com/@grahamzemel/the-best-vulnerability-disclosure-programs-less-competitive-bounties-a166acbbbd1b, tricks
-- https://medium.com/@ibm_ptc_security/xml-security-vulnerabilities-series-850a9c19faf9, XXE
 - https://medium.com/@cyberguy0xd1/how-i-was-able-to-bypass-cloudflare-waf-for-sqli-payload-b9e7a4260026, sql-injection
 - https://medium.com/@fh4ntke/davincictf-web-challenges-writeup-517e77d6fa39, ctf
 - https://medium.com/@Sm9l/what-i-learnt-from-reading-126-information-disclosure-writeups-d896c5d5a2a4, info-disclosure
@@ -258,7 +257,6 @@
 - https://kair0s3.medium.com/blind-sql-injection-with-a-little-waf-871e69d06e2c, Blind-SQL-injection
 - https://infosecwriteups.com/the-buffer-curse-3591efb4a724, CSP-bypass
 - https://badoption.eu/blog/2023/07/15/divideconqer.html, AMSI-bypass
-- https://www.rapid7.com/blog/post/2023/07/13/pentales-old-vulns-new-tricks/, Internal-pentest
 - https://infosecwriteups.com/lets-go-for-whole-company-d2e24bcfb5ef, Default-credentials
 - https://fingerprint.com/blog/apple-macos-mdns-brute-force/, Privacy-issue
 - https://www.trustedsec.com/blog/modeling-malicious-code-hacking-in-3d/, Phishing
@@ -1781,7 +1779,6 @@
 - https://research.nccgroup.com/2022/03/15/technical-advisory-apple-macos-xar-arbitrary-file-write-cve-2022-22582/, Arbitrary-file-write
 - https://c4rrilat0r.medium.com/how-i-managed-to-trigger-xss-automatically-to-get-critical-account-takeover-92ea3abcaf9, Stored-XSS
 - https://blog.haboob.sa/blog/adobe-reader-cjk-codecs-memory-disclosure-vulnerability, Memory-disclosure
-- https://www.cyberick.com/post/my-first-bug-on-vdp-bbp-bug-bounty, Stored-XSS
 - https://rambo.codes/posts/2022-03-15-how-a-macos-bug-could-have-allowed-for-a-serious-phishing-attack-against-users, MacOS
 - http://www.firstsight.me/2022/03/from-recon-via-censys-and-dnsdumpster-to-getting-p1-by-login-using-weak-password-password/, WAF-bypass
 - https://web.archive.org/web/20220315141258/https://eslam3kl.medium.com/sql-injection-at-spotify-d19e0861ddf0, SQL-injection
@@ -4255,7 +4252,6 @@
 - https://bugbaba.blogspot.com/2018/02/exploiting-cors-miss-configuration.html, CORS-misconfiguration
 - https://medium.com/bugbountywriteup/bugbounty-exploiting-crlf-injection-can-lands-into-a-nice-bounty-159525a9cb62, CRLF-injection
 - https://medium.com/bugbountywriteup/how-i-was-able-to-remotely-crash-any-android-users-instagram-app-and-was-paid-a-mere-500-for-it-d4420721290e, Android
-- https://edoverflow.com/2018/logic-flaws-in-wot-services, Logic-flaw
 - https://medium.com/bugbountywriteup/bugbounty-how-i-was-able-to-shop-for-free-payment-price-manipulation-b29355a8e68e, Parameter-tampering
 - https://web.archive.org/web/20200818084242/https://medium.com/@adeshkolte/oracle-cross-site-scripting-vulnerability-adesh-kolte-ddc5d9f279be, Reflected-XSS
 - https://medium.com/@mrityunjoy/stored-xss-on-snapchat-5d704131d8fd, Stored-XSS
@@ -4488,7 +4484,6 @@
 - https://httpsonly.blogspot.com/2016/08/turning-self-xss-into-good-xss-v2.html, XSS
 - https://thehackerblog.com/floating-domains-taking-over-20k-digitalocean-domains-via-a-lax-domain-import-system/, Subdomain-takeover
 - http://artsploit.blogspot.com/, RCE
-- https://www.evilsocket.net/2016/08/17/Samsung-Galaxy-Apps-MITM-Vulnerabilities/, MiTM
 - https://guptashubham.com/swf-xss-dom-based-xss/, Flash-XSS
 - https://guptashubham.com/xss-filter-bypass-in-yahoo-dev-flurry-com/, XSS
 - https://guptashubham.com/xss-on-flickr/, XSS

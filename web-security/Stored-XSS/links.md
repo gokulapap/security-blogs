@@ -23,3 +23,4 @@
 - https://web.archive.org/web/20200825165420/https://medium.com/@adeshkolte/get-your-microsoft-account-hijacked-by-simply-clicking-connect-button-adesh-kolte-cc0b335b0221
 - https://medium.com/bugbountywriteup/stored-xss-in-google-nest-a82373bbda68
 - https://corben.io/blog/17-06-30-bandcamp-xss
+- https://www.cyberick.com/post/my-first-bug-on-vdp-bbp-bug-bounty

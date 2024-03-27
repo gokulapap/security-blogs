@@ -51,3 +51,4 @@
 - https://medium.com/@ashokcpg/non-technical-write-up-on-my-second-bounty-of-1-000-from-facebook-74daecd6879b
 - https://philippeharewood.com/rewriting-a-photo-not-owned-by-the-session-user-in-moments-app-revisited/
 - https://medium.com/@ritishkumarsingh/facebook-vulnerability-non-unfriendable-user-in-hacked-workflow-5a3b392a2a98
+- https://edoverflow.com/2018/logic-flaws-in-wot-services
