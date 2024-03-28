@@ -34,3 +34,4 @@
 - https://web.archive.org/web/20191217012635/https://medium.com/bugbountywriteup/csrf-account-takeover-explained-automated-manual-bug-bounty-447e4b96485b
 - https://smaranchand.com.np/2019/10/an-inconsistent-csrf/
 - https://web.archive.org/web/20210508050717/http://dphoeniixx.com/2020/12/13-2/
+- https://medium.com/bugbountywriteup/refocusing-in-bug-hunting-bonus-an-interestingly-simple-to-test-csrf-bypass-8595b3312147

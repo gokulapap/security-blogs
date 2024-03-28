@@ -690,7 +690,6 @@
 - https://github.blog/2023-02-23-the-code-that-wasnt-there-reading-memory-on-an-android-device-by-accident/, Kernel-hacking
 - https://sensepost.com/blog/2023/decoding-blazorpack/, Websockets
 - https://sl4x0.medium.com/how-i-got-into-nokia-hof-in-5-mins-99ce16583bd4, Information-disclosure
-- https://0x1int.gitbook.io/blogs/insufficient-graphql-api-vulnerability-due-to-lack-of-validation-of-authorization-bearer-token, GraphQL
 - https://www.vicarius.io/vsociety/blog/unauthenticated-rce-in-goanywhere, Insecure-deserialization
 - https://www.codean.io/blog/vulnerability-write-up---%22dangerous-assumptions%22, Prototype-pollution
 - https://medium.com/@rramgattie/exploiting-parameter-pollution-in-golang-web-apps-daca72b28ce2, Authorization-flaw
@@ -1519,7 +1518,6 @@
 - https://www.horizon3.ai/red-team-blog-cve-2022-28219/, XXE
 - https://aidilarf.medium.com/xss-blind-stored-at-2-assets-tiktok-f32829f11e58, XSS
 - https://medium.com/@aravindb26/my-first-apple-bug-and-my-first-writeup-8a833e8e953c, IDOR
-- https://iamnoob.medium.com/bugbounty-how-do-i-get-a-premium-tier-account-without-paying-a-penny-767921a6c4e4, Mass-assignment
 - https://medium.com/@erik.wynter/pwning-manageengine-from-poc-to-exploit-cfe5adb8c175, Path-traversal
 - https://blog.sonarsource.com/zimbra-pre-auth-rce-via-unrar-0day/, Path-traversal
 - https://unit42.paloaltonetworks.com/fabricscape-cve-2022-30137/, Container-escape
@@ -2230,7 +2228,6 @@
 - https://medium.com/@noob.assassin/5k-misconfigured-reset-password-that-leads-to-account-takeover-no-user-interaction-ato-e6a36b8ef183, Account-takeover
 - https://web.archive.org/web/20210825045217/https://medium.com/@imunissar786/how-i-was-able-to-steal-private-files-of-any-user-on-larksuite-c0e2757429e2, IDOR
 - https://www.upguard.com/breaches/power-apps, Information-disclosure
-- https://sector7.computest.nl/post/2021-08-zoom/, RCE
 - https://medium.com/@gguzelkokar.mdbf15/huge-impact-server-side-request-forgery-in-production-app-20bf0cc5731, SSRF
 - https://medium.com/@nehpatel/story-of-unexpected-bugs-75734d51ac57, IDOR
 - https://web.archive.org/web/20210909040725/https://obsrva.org/2021/08/22/monkeytype-disclosure.html, Stored-XSS
@@ -2984,7 +2981,6 @@
 - https://maordayanofficial.medium.com/look-at-what-i-found-in-comodo-57d62af2f263, Stored-XSS
 - https://vj0shii.github.io/multi-factor-auth-bypass-with-password-reset-function/, MFA-bypass
 - https://objective-see.org/blog/blog_0x4D.html, MacOS
-- https://medium.com/bugbountywriteup/refocusing-in-bug-hunting-bonus-an-interestingly-simple-to-test-csrf-bypass-8595b3312147, CSRF
 - https://rhynorater.github.io/CVE-2020-13379-Write-Up, SSRF
 - https://objective-see.com/blog/blog_0x4D.html, Local-Privilege-Escalation
 - https://a2nkf.github.io/unauthd_Logic_bugs_FTW/, Logic-flaw
@@ -3499,7 +3495,6 @@
 - https://rahulr.in/idor-to-rce/, IDOR
 - https://web.archive.org/web/20201128230506/https://medium.com/@adeshkolte/how-i-made-1000-at-t-bug-bounty-h1-14e68b284e2f, CSRF
 - https://medium.com/@pranaybafna/graphql-introspection-leads-to-sensitive-data-disclosure-65b385452d7f, Information-disclosure
-- https://awakened1712.github.io/hacking/hacking-whatsapp-gif-rce/, Memory-corruption
 - https://web.archive.org/web/20200807155301/https://gh0st.cn/archives/2019-10-01/1, IDOR
 - https://web.archive.org/web/20191211081434/https://victoni.github.io/bug-hunting-xss-on-cookie-popup-warning/, Reflected-XSS
 - https://b3nac.com/posts/2019-09-02-Spear-Texting-Via-Parameter-Injection.html, Parameter-tampering
