@@ -35,7 +35,6 @@
 - https://medium.com/@lazyhacker/ways-to-exploit-json-csrf-simple-explanation-5e77c403ede6, csrf
 - https://medium.com/@vflexo/xyz-of-xss-62603eb4cba, XSS
 - https://medium.com/@moSec/how-i-hacked-thousand-of-subdomains-6aa43b92282c, STO
-- https://medium.com/@nixiebytes/toxssin-an-automated-cross-site-scripting-xss-exploiter-604a438f1791, XSS
 - https://medium.com/@basakyilmaz82/log4j-vulnerability-485559065af6, CVE
 - https://medium.com/@thevillagehacker/account-take-over-due-to-no-rate-limitation-433bd7449aca, ATO
 - https://medium.com/@aswinthambipanik07/bug-bounty-recon-part-1-dad7f86d1b0f, recon
@@ -1249,7 +1248,6 @@
 - https://sector7.computest.nl/post/2022-09-unified-automation-opcua-cpp/, DoS
 - https://tamirzb.com/attacking-android-kernel-using-qualcomm-trustzone, Memory-corruption
 - https://cturt.github.io/mast1c0re.html, Memory-corruption
-- https://www.cyberark.com/resources/threat-research-blog/colorful-vulnerabilities, Memory-corruption
 - https://arben.sh/bugbounty/Blind-XXE-CVE-2019-12154/, Blind-XXE
 - https://medium.com/@cyberali/blind-xss-and-time-based-sql-injection-to-admin-panel-control-and-database-takeover-9b7645a53748, Blind-XSS
 - https://blog.includesecurity.com/2021/06/hacking-unity-games-malicious-unity-game-objects/, Arbitrary-code-execution
@@ -1687,7 +1685,6 @@
 - https://bloggerrando.blogspot.com/2022/04/15-1.html, Broken-Access-Control
 - https://medium.com/@_ip_/3-3-cache-poisoning-lateral-movement-gitlab-9c6288708576, Broken-Access-Control
 - https://mr23r0.medium.com/crazy-smiple-insecure-design-300-bounty-16a2b8e80522, IP-grabbing
-- https://github.com/Sudistark/advisories/blob/main/2023/npm-package/fast-xml-parser.md, Prototype-pollution
 - https://firefart.at/post/multiple_vulnerabilities_cisco_expressway/, Memory-leak
 - https://debprasadbanerjee502.medium.com/united-nations-bug-bounty-writeup-4bcfdefbb8d3, Information-disclosure
 - https://www.netspi.com/blog/technical/cloud-penetration-testing/abusing-azure-hybrid-workers-part-2/, Privilege-escalation
@@ -2384,7 +2381,6 @@
 - https://shahjerry33.medium.com/server-side-request-forgery-a-forged-document-6359ef25058d, SSRF
 - https://medium.com/@abhishake21/bypassing-lfi-local-file-inclusion-ebf4274e7027, LFI
 - https://frichetten.com/blog/xss_in_aws_console/, XSS
-- https://payatu.com/blog/gaurav/exploiting-open-redirect, Open-redirect
 - https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/huawei-lte-usb-stick-e3372-file-overwrite-to-code-execution/, Local-Privilege-Escalation
 - https://infosecwriteups.com/admin-panel-pwned-89db333f3836, Information-disclosure
 - https://notifybugme.medium.com/escalating-ssrf-to-accessing-all-user-pii-information-by-aws-metadata-aabcfd5a3e0e, SSRF
@@ -2774,7 +2770,6 @@
 - https://googleprojectzero.blogspot.com/2020/12/an-ios-zero-click-radio-proximity.html, iOS
 - https://medium.com/bugbountywriteup/chaining-vulnerabilities-lead-to-account-takeover-b583f0c10591, Account-takeover
 - https://www.shawarkhan.com/2020/11/exploiting-blind-postgresql-injection.html, SQL-injection
-- https://therealunicornsecurity.github.io/Aliexpress/, Captcha-bypass
 - https://zetc0de.github.io/post/authenticated-rce-ssrf-wondercms/, Blind-SSRF
 - https://ahmdhalabi.medium.com/chaining-multiple-requests-to-achieve-rate-limiting-vulnerabilities-96c1e8365c06, Rate-limiting-bypass
 - https://shellbr3ak.medium.com/the-story-of-my-first-critical-bug-93a5920d6c43, SQL-injection

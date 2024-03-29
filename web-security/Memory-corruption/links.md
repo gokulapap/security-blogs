@@ -17,3 +17,4 @@
 - https://qoop.org/publications/cve-2023-21716-rtf-fonttbl.md
 - https://blog.theori.io/research/webkit-type-confusion/
 - https://awakened1712.github.io/hacking/hacking-whatsapp-gif-rce/
+- https://www.cyberark.com/resources/threat-research-blog/colorful-vulnerabilities

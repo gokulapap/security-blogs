@@ -1,2 +1,3 @@
 - https://blog.s1r1us.ninja/research/PP
 - https://www.code-intelligence.com/blog/cve-protobufjs-prototype-pollution-cve-2023-36665
+- https://github.com/Sudistark/advisories/blob/main/2023/npm-package/fast-xml-parser.md
