@@ -1,2 +1,3 @@
 - https://medium.com/@bilalmerokhel/pwn-them-all-bugbounty-4ee60e13c83
 - https://medium.com/@imunissar786/awesome-host-header-injection-worth-2k-a7e5be1dbb1d
+- https://b3nac.github.io/bugs/2018/09/01/How-I-could-have-launched-a-spear-phishing-campaign-with-Starbucks-newsletter-signup.html

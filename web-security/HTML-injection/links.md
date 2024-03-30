@@ -4,3 +4,4 @@
 - https://hacklido.com/d/93-able-to-mass-change-profile-section-leads-to-my-first-bounty
 - https://infosecwriteups.com/zero-day-xss-309916922ea6
 - https://saadahmedx.medium.com/exploiting-auto-save-functionality-to-steal-login-credentials-bf4c7e1594da
+- https://liman.io/blog/gitlab-security-vulnerability-jupyter-notebooks

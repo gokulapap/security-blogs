@@ -64,3 +64,4 @@
 - https://medium.com/infosec/how-often-do-we-overlook-vulnerabilities-960a7c45f59
 - https://sunilyedla.medium.com/information-disclosure-to-account-takeover-a21b2b54147a
 - https://emanuel-beni.medium.com/why-you-should-always-check-the-audit-log-medium-500-80a778bfbcd6
+- https://www.allysonomalley.com/2020/01/06/saying-goodbye-to-my-favorite-5-minute-p1/

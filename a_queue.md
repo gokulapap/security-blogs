@@ -370,7 +370,6 @@
 - https://www.tarlogic.com/blog/linked-servers-adsi-passwords/, ADSI
 - https://www.trustedsec.com/blog/onedrive-to-enum-them-all/, Username-enumeration
 - https://medium.com/@M0X0101/how-i-was-able-to-get-account-takeover-via-idor-form-jwt-caaf7ea58aa, JWT
-- https://eaton-works.com/2023/06/06/honda-ecommerce-hack/, Password-reset
 - https://medium.com/@malekmahmed55/turning-a-50-tab-nabbing-vulnerability-into-a-1000-account-takeover-9c3f32cb2d84, Reverse-tabnabbing
 - https://ssd-disclosure.com/ssd-advisory-roundcube-markasjunk-rce/, RCE
 - https://jhftss.github.io/CVE-2022-32902-Patch-One-Issue-and-Introduce-Two/, TCC-bypass
@@ -1528,7 +1527,6 @@
 - https://curl.se/docs/CVE-2022-32206.html, DoS
 - https://curl.se/docs/CVE-2022-32205.html, DoS
 - https://blog.assetnote.io/2022/06/26/exploiting-ssrf-in-jira/, SSRF
-- https://medium.com/@deepmarketer/hyperlink-injection-on-irc-cloud-809e5243406f, Hyperlink-injection
 - https://bugs.php.net/bug.php?id=81719, Buffer-Overflow
 - https://tomorrowisnew.com/posts/moderation-filter-bypass/, Logic-flaw
 - https://medium.com/@shakti.gtp/an-out-of-scope-domain-leads-to-a-critical-bug-1500-f228d2c7db4b, Authorization-flaw
@@ -1582,7 +1580,6 @@
 - https://www.r29k.com/articles/bb/account-takeover-via-idors, IDOR
 - https://gatolouco.medium.com/exploiting-amazon-active-vulnerability-d2554c8c7ffd, Payment-bypass
 - https://www.zerodayinitiative.com/blog/2022/6/7/cve-2022-26937-microsoft-windows-network-file-system-nlm-portmap-stack-buffer-overflow, Buffer-Overflow
-- https://liman.io/blog/gitlab-security-vulnerability-jupyter-notebooks, HTML-injection
 - https://security.humanativaspa.it/multiple-vulnerabilities-in-zyxel-zysh/, OS-command-injection
 - https://gccybermonks.com/posts/ssrfvision/, SSRF
 - https://machevalia.blog/blog/ivanti-epm-remote-code-execution, RCE
@@ -3359,7 +3356,6 @@
 - https://medium.com/@alex.birsan/the-bug-that-exposed-your-paypal-password-539fc2896da9, XSSI
 - https://medium.com/@jonathan.leitschuh/update-want-to-take-over-the-java-ecosystem-all-you-need-is-a-mitm-d069d253fe23, MiTM
 - https://medium.com/@pratiky054/html-injection-unique-exploitation-a5c3d4e6fed8, HTML-injection
-- https://www.allysonomalley.com/2020/01/06/saying-goodbye-to-my-favorite-5-minute-p1/, Information-disclosure
 - https://medium.com/nassec-cybersecurity-writeups/an-interesting-story-of-privilege-escalation-1da021e7fd0, Privilege-escalation
 - https://medium.com/@gguzelkokar.mdbf15/xss-on-sony-subdomain-feddaea8f5ac, Reflected-XSS
 - https://xvnpw.github.io/posts/from-dot-in-regex-to-ssrf-part-1/, SSRF
@@ -4046,7 +4042,6 @@
 - https://blog.securitybreached.org/2018/09/07/rce-jenkins-instance-dosomething-org-bug-bounty-poc/, RCE
 - http://omespino.com/write-up-lovestory-from-closed-as-informative-to-xx00-usd-in-yahoo-ios-mail-app/, Stored-XSS
 - https://medium.com/@ciph3r7r0ll/simple-login-brute-force-current-password-requirement-bypass-e8f58931e257, IDOR
-- https://b3nac.github.io/bugs/2018/09/01/How-I-could-have-launched-a-spear-phishing-campaign-with-Starbucks-newsletter-signup.html, Host-header-injection
 - https://blog.sagarvd.me/2018/09/youtube-csrf.html, CSRF
 - https://medium.com/@mahitman1/i-own-your-customers-22e965761abd, Information-disclosure
 - https://dev.to/antogarand/pwned-together-hacking-devto-hkd, Stored-XSS
