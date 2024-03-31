@@ -2,3 +2,4 @@
 - https://pratikkhalane91.medium.com/unauthenticated-access-to-mongodb-database-of-oracle-corporation-d825c271267a
 - https://tutorgeeks.blogspot.com/2019/05/security-assessment-on-staging-domains.html
 - https://medium.com/@eldeebxboy/how-i-was-able-to-chain-bugs-and-gain-access-to-internal-okta-instance-f2da9ab71367
+- https://medium.com/@th3g3nt3l/multiple-information-exposed-due-to-misconfigured-service-now-itsm-instances-de7a303ebd56

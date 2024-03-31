@@ -943,7 +943,6 @@
 - https://infosecwriteups.com/stripe-live-key-exposed-bounty-1000-dc670f2c5d9c, Information-disclosure
 - https://claroty.com/team82/research/js-on-security-off-abusing-json-based-sql-to-bypass-waf, WAF-bypass
 - https://jowin922.medium.com/cors-misconfig-on-out-of-scope-domain-bug-bounty-writeup-300-usd-reward-8a9e420d21e0, CORS-misconfiguration
-- https://blog.agilehunt.com/blogs/security/race-condition-vulnerability-in-azure-video-indexer-allowed-trial-account-users-use-advance-premium-feature, Race-condition
 - https://www.blackhat.com/eu-22/briefings/schedule/#databindingshell-novel-pathways-to-rce-web-frameworks-28583, RCE
 - https://tusharvaidya16.medium.com/a03-2021-injection-sql-injection-through-internal-directory-disclose-ecdef5230131, SQL-injection
 - https://medium.com/@shellyshubh/how-you-can-find-your-first-bug-using-google-c9327f82632e, Information-disclosure
@@ -3103,7 +3102,6 @@
 - https://medium.com/@ricardoiramar/this-is-fine-6e032f497b8f, Information-disclosure
 - https://medium.com/bugbountywriteup/xss-to-database-credential-leakage-database-access-story-of-total-luck-77c990be8ab2, Reflected-XSS
 - http://www.firstsight.me/2020/06/from-399-to-1650-usd-part-i-simple-vertical-privilege-escalation-by-changing-http-response/, Privilege-escalation
-- https://medium.com/@th3g3nt3l/multiple-information-exposed-due-to-misconfigured-service-now-itsm-instances-de7a303ebd56, Missing-authentication
 - https://yxw21.github.io/2020/06/05/Account-Takeover-Via-PostMessage/, Account-takeover
 - https://echopwn.com/local-file-read-via-xss-using-pdf-generate-functionality/, XSS
 - https://medium.com/@amyrahm786/story-of-blind-sql-with-a-typo-error-43a21913c8d, SQL-injection
@@ -3582,7 +3580,6 @@
 - https://web.archive.org/web/20200826192345/https://pwnsec.ninja/2019/07/26/facebook-bugbounty-tale-of-an-instagram-bug-disclosing-users-phone-number-via-checkpoint/, Information-disclosure
 - https://web.archive.org/web/20201008153910/https://medium.com/@adeshkolte/full-account-takeover-changing-email-and-password-of-any-user-through-api-parameters-3d527ab27240, IDOR
 - https://medium.com/@innocenthacker/how-i-found-the-most-critical-bug-in-live-bug-bounty-event-7a88b3aa97b3, Password-reset
-- https://medium.com/@baibhavanandjha/xx-to-xxx-in-one-day-9578858b6286, Account-takeover
 - https://blog.parthmalhotra.com/pwning-child-company-to-get-access-to-parentcompanys-slack-team/, SQL-injection
 - https://blog.evanricafort.com/2019/07/html-injection-in-clause-email.html, HTML-injection
 - https://philippeharewood.com/subscribe-to-typing-notifications-for-any-instagram-user/, Authorization-flaw
@@ -3916,7 +3913,6 @@
 - https://slashcrypto.org/2018/11/28/eBay-source-code-leak/, git-folder-disclosure
 - https://medium.com/@vishnu0002/instagram-multi-factor-authentication-bypass-924d963325a1, MFA-bypass
 - https://www.amolbaikar.com/disclose-contact_email-of-any-facebook-application/, Information-disclosure
-- https://www.amolbaikar.com/xss-on-facebook-instagram-cdn-server-bypassing-signature-protection/, XSS
 - https://medium.com/@benjitobias/from-ctfs-to-bug-bounty-booty-81bab999b70d, Information-disclosure
 - https://www.hackerinside.me/2018/11/critical-stored-xss-vulnerability.html, Stored-XSS
 - https://medium.com/@pratheesh.p.narayanan/bypassing-scratch-cards-on-google-pay-8915d5423385, Logic-flaw
@@ -3977,7 +3973,6 @@
 - https://medium.com/bugbountywriteup/add-comment-on-a-private-oculus-developer-bug-report-93f35bc80b2c, IDOR
 - https://medium.com/japzdivino/security-teams-internal-attachments-can-be-exported-via-export-as-zip-feature-on-hackerone-35ca6ec2bf8b, Logic-flaw
 - https://blog.harshjaiswal.com/path-traversal-while-uploading-results-in-rce, Path-traversal
-- https://medium.com/bugbountywriteup/brave-browser-script-blocker-bypass-vulnerability-fffd659c5a7, Browser-hacking
 - https://web.archive.org/web/20200825165404/https://medium.com/@adeshkolte/how-i-got-500-from-microsoft-for-csrf-vulnerability-700accaf48b9, CSRF
 - https://medium.com/@m4shahab1/magic-xss-with-two-parameters-463559b03949, XSS
 - https://medium.com/bugbountywriteup/add-description-to-instagram-posts-on-behalf-of-other-users-6500-7d55b4a24c5a, IDOR

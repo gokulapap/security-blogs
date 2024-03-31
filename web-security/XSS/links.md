@@ -80,3 +80,4 @@
 - https://saadahmedx.medium.com/weaponizing-xss-for-fun-profit-a1414f3fcee9
 - https://medium.com/@thedarkwayg/how-i-found-my-first-xss-bug-96fb8e85a24c
 - https://medium.com/@nixiebytes/toxssin-an-automated-cross-site-scripting-xss-exploiter-604a438f1791
+- https://www.amolbaikar.com/xss-on-facebook-instagram-cdn-server-bypassing-signature-protection/
