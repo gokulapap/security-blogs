@@ -65,3 +65,4 @@
 - https://sunilyedla.medium.com/information-disclosure-to-account-takeover-a21b2b54147a
 - https://emanuel-beni.medium.com/why-you-should-always-check-the-audit-log-medium-500-80a778bfbcd6
 - https://www.allysonomalley.com/2020/01/06/saying-goodbye-to-my-favorite-5-minute-p1/
+- https://medium.com/bugbountywriteup/million-users-pii-leak-attack-288c5e37b283

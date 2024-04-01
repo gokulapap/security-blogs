@@ -1215,7 +1215,6 @@
 - https://medium.com/@AvyuktSyrine/my-first-xss-d88ee864df82, Open-redirect
 - https://www.form3.tech/engineering/content/exploiting-distroless-images, Command-injection
 - https://frycos.github.io/vulns4free/2022/09/22/skype-audit-part1.html, Local-Privilege-Escalation
-- https://portswigger.net/research/making-http-header-injection-critical-via-response-queue-poisoning, HTTP-header-injection
 - https://infosecwriteups.com/how-i-found-multiple-sql-injections-in-5-minutes-in-bug-bounty-40155964c498, SQL-injection
 - https://www.trellix.com/en-us/about/newsroom/stories/research/tarfile-exploiting-the-world.html, Path-traversal
 - https://10degres.net/one-takeover-to-rule-them-all/, Subdomain-takeover
@@ -2299,7 +2298,6 @@
 - https://blog.ryotak.me/post/cdnjs-remote-code-execution-en/, RCE
 - https://infosecwriteups.com/logical-flaw-resulting-path-hijacking-dd4d1e1e832f, Namespace-attack
 - https://infosecwriteups.com/how-i-was-able-to-bypass-cloudflare-for-xss-e94cd827a5d6, XSS
-- https://jasminderpalsingh.info/stored-xss-in-google-doubleclick-studio-google-research-grant/, Stored-XSS
 - https://medium.com/@jawadmahdi/how-i-found-blind-sql-injection-just-by-browsing-and-getting-a-unique-url-ed87fa1f35ed, SQL-injection
 - https://krevetk0.medium.com/credential-stuffing-in-bug-bounty-hunting-7168dc1d3153, Credential-stuffing
 - https://aidilarf.medium.com/380-xss-stored-in-bigo-bug-bounty-program-a8b9529adcc4, XSS
@@ -3430,7 +3428,6 @@
 - https://medium.com/@rajasudhakar/how-i-could-delete-facebook-ask-for-recommendations-posts-place-objects-in-comments-b7c9bcdf1c92, IDOR
 - https://medium.com/@0xBarakat/broken-session-permanent-access-to-facebook-users-cfed68684113, Authentication-bypass
 - https://philippeharewood.com/disclose-the-owner-of-a-recruiting-manager-in-jobs-beta/, Information-disclosure
-- https://medium.com/bugbountywriteup/million-users-pii-leak-attack-288c5e37b283, Information-disclosure
 - https://research.securitum.com/xss-in-amp4email-dom-clobbering/, XSS
 - https://medium.com/@abidafahd/how-i-was-able-to-hunt-a-rare-bug-in-a-private-program-caec0ebaef7f, Missing-authentication
 - https://medium.com/@abhishake100/my-first-bug-500-9222998e6249, No-valid-SPF-records
@@ -4280,7 +4277,6 @@
 - https://corben.io/blog/17-12-17-hackertarget, SSRF
 - https://lightningsecurity.io/blog/host-header-injection/, Password-reset
 - https://blog.securitybreached.org/2017/12/10/how-i-was-able-to-takeover-facebook-account-bug-bounty-poc/, Authentication-bypass
-- https://medium.com/bugbountywriteup/bug-bounty-fastmail-feeda67905f5, Blind-SSRF
 - https://medium.com/@uranium238/getting-a-rce-ctf-way-2fd612fb643f, RCE
 - https://medium.com/@Skylinearafat/xss-protection-bypass-made-my-quickest-bounty-ever-f4fd970c9116, XSS
 - https://medium.com/@maxon3/lfi-to-command-execution-deutche-telekom-bug-bounty-6fe0de7df7a6, LFI
@@ -4443,7 +4439,6 @@
 - https://www.arneswinnen.net/2016/11/authentication-bypass-on-sso-ubnt-com-via-subdomain-takeover-of-ping-ubnt-com/, Subdomain-takeover
 - https://medium.com/pentesternepal/bypassing-ebay-xss-protection-8cf73466ba0f, Reflected-XSS
 - https://guptashubham.com/svg-xss-in-unifi-v5-0-2/, Stored-XSS
-- https://guptashubham.com/stored-xss-in-unifi-v4-8-12-controller/, Stored-XSS
 - https://portswigger.net/research/backslash-powered-scanning-hunting-unknown-vulnerability-classes, misc
 - https://ahussam.me/leak-private-videos-vimeo/, Logic-flaw
 - https://foxglovesecurity.com/2016/10/14/hacking-jasperreports-the-hidden-shell-feature/, RCE

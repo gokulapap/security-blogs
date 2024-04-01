@@ -1,0 +1,1 @@
+- https://portswigger.net/research/making-http-header-injection-critical-via-response-queue-poisoning

@@ -24,3 +24,5 @@
 - https://medium.com/bugbountywriteup/stored-xss-in-google-nest-a82373bbda68
 - https://corben.io/blog/17-06-30-bandcamp-xss
 - https://www.cyberick.com/post/my-first-bug-on-vdp-bbp-bug-bounty
+- https://guptashubham.com/stored-xss-in-unifi-v4-8-12-controller/
+- https://jasminderpalsingh.info/stored-xss-in-google-doubleclick-studio-google-research-grant/
