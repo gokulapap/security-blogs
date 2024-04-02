@@ -1017,7 +1017,6 @@
 - https://trufflesecurity.com/blog/email-graffiti/index.html, Broken-link-hijacking
 - https://dewcode.medium.com/how-i-found-29-stored-xss-in-modern-framework-1cfe60a107a0, Stored-XSS
 - https://splint3rsec.medium.com/russian-roulette-xss-bbba6afd2570, Blind-XSS
-- https://bendtheory.medium.com/remediation-archeology-finding-and-decoding-an-ancient-xss-ea541c1106d1, XSS
 - https://r29k.com/articles/bb/account-takeover, Account-takeover
 - https://medium.com/@win3zz/remote-command-execution-in-a-bank-server-b213f9f42afe, RCE
 - https://www.semperis.com/blog/syncjacking-azure-ad-account-takeover/, Account-takeover
@@ -1394,7 +1393,6 @@
 - https://medium.com/@rajeevgyawali92/irremovable-guest-in-facebook-event-facebook-bug-bounty-e10e03c98cd5, Logic-flaw
 - https://ruia-ruia.github.io/2022/08/05/CVE-2022-29582-io-uring/, Memory-corruption
 - https://infosecwriteups.com/how-i-was-able-to-get-29-free-products-bug-bounty-845667ab4ad4, Race-condition
-- https://www.wiz.io/blog/omi-returns-lpe-technical-analysis, Local-Privilege-Escalation
 - https://www.rapid7.com/blog/post/2022/08/05/cve-2022-31660-and-cve-2022-31661-fixed-vmware-workspace-one-access-identity-manager-and-vrealize-automation-lpe/, Local-Privilege-Escalation
 - https://ibraradi.gitbook.io/write-up/came-looking-for-ssrf-and-found-xss, XSS
 - https://albertpedersen.com/blog/hijacking-email-with-cloudflare-email-routing/, HTTP-response-manipulation
@@ -1971,7 +1969,6 @@
 - https://securitylab.github.com/advisories/GHSL-2021-1053_Grafana/, Path-traversal
 - https://breakpoint.sh/posts/bypassing-the-macos-gatekeeper, Local-Privilege-Escalation
 - https://medium.com/@mohamedtaha_42562/how-i-found-xss-vulnerability-in-amazon-in-5-minutes-using-shodan-50b583655297, XSS
-- https://m7-arman.medium.com/zero-click-to-account-takeover-d764e12bee4b, Account-takeover
 - https://prashantbhatkal2000.medium.com/svg-based-stored-xss-ee6e9b240dee, Stored-XSS
 - https://infosecwriteups.com/a-story-about-a-not-so-direct-ssrf-b2b98e128af0, SSRF
 - https://shahjerry33.medium.com/open-redirection-qr-code-magic-18ace1a0170f, Open-redirect
@@ -2142,7 +2139,6 @@
 - https://rizwansiddiqu1.medium.com/super-admin-panel-without-credentials-c2022a23bb35, Authentication-bypass
 - https://www.akamai.com/blog/security/autodiscovering-the-great-leak, Domain-name-collision
 - https://gccybermonks.com/posts/mxss/, XSS
-- https://medium.com/@shakti.gtp/a-fever-worth-750-accessing-private-projects-d113c561311f, IDOR
 - https://medium.com/@varmaanu001/cookie-stealing-via-clickjacking-using-burp-collaborator-ff6f4ac1c18b, Clickjacking
 - https://codewhitesec.blogspot.com/2021/09/citrix-sharefile-rce-cve-2021-22941.html, RCE
 - https://infosecwriteups.com/unlimited-report-user-in-instagram-facebook-leads-to-abuse-risk-efcca325aada, Lack-of-rate-limiting
@@ -2431,7 +2427,6 @@
 - https://ysamm.com/?p=684, OAuth
 - https://ahmadaabdulla.medium.com/how-i-found-sql-injection-on-intensedebate-com-h1-in-5-minute-350-a36c2890882d, SQL-injection
 - https://infosecwriteups.com/xss-through-parameter-pollution-9a55da150ab2, Open-redirect
-- https://justm0rph3u5.medium.com/injecting-punycode-url-within-the-arbitrary-text-via-comment-box-in-google-photos-sharing-option-8b424065deb3, HTML-injection
 - https://saajan.bhujel.cyou/blog/web/2021-05-05-xss-through-parameter-pollution, XSS
 - https://devcraft.io/2021/05/04/exiftool-arbitrary-code-execution-cve-2021-22204.html, RCE
 - https://ctf.re//source-engine/exploitation/2021/05/01/source-engine-2/, RCE

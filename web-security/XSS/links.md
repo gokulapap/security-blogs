@@ -81,3 +81,4 @@
 - https://medium.com/@thedarkwayg/how-i-found-my-first-xss-bug-96fb8e85a24c
 - https://medium.com/@nixiebytes/toxssin-an-automated-cross-site-scripting-xss-exploiter-604a438f1791
 - https://www.amolbaikar.com/xss-on-facebook-instagram-cdn-server-bypassing-signature-protection/
+- https://bendtheory.medium.com/remediation-archeology-finding-and-decoding-an-ancient-xss-ea541c1106d1

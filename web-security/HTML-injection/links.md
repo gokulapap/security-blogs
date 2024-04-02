@@ -5,3 +5,4 @@
 - https://infosecwriteups.com/zero-day-xss-309916922ea6
 - https://saadahmedx.medium.com/exploiting-auto-save-functionality-to-steal-login-credentials-bf4c7e1594da
 - https://liman.io/blog/gitlab-security-vulnerability-jupyter-notebooks
+- https://justm0rph3u5.medium.com/injecting-punycode-url-within-the-arbitrary-text-via-comment-box-in-google-photos-sharing-option-8b424065deb3

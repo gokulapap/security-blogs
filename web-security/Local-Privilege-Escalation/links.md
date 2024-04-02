@@ -16,3 +16,4 @@
 - https://research.ifcr.dk/spoolfool-windows-print-spooler-privilege-escalation-cve-2022-22718-bf7752b68d81
 - https://ssd-disclosure.com/ssd-advisory-vhdmpivalidatevirtualdisksurface-lpe/
 - https://labs.sentinelone.com/relaying-potatoes-dce-rpc-ntlm-relay-eop/
+- https://www.wiz.io/blog/omi-returns-lpe-technical-analysis

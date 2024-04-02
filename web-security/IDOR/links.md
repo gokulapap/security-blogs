@@ -64,3 +64,4 @@
 - https://philippeharewood.com/download-arexport-files-for-any-public-ar-studio-effect/
 - https://amineaboud.medium.com/disclose-leads-form-details-of-any-facebook-business-account-or-facebook-page-bug-bounty-7ecae6cff312
 - https://www.pentestpartners.com/security-blog/gumtree-leaking-your-data-and-not-really-listening/
+- https://medium.com/@shakti.gtp/a-fever-worth-750-accessing-private-projects-d113c561311f
