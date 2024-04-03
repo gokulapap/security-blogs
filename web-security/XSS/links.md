@@ -82,3 +82,4 @@
 - https://medium.com/@nixiebytes/toxssin-an-automated-cross-site-scripting-xss-exploiter-604a438f1791
 - https://www.amolbaikar.com/xss-on-facebook-instagram-cdn-server-bypassing-signature-protection/
 - https://bendtheory.medium.com/remediation-archeology-finding-and-decoding-an-ancient-xss-ea541c1106d1
+- http://blog.shashank.co/2013/10/nokia-email-app-pwnage.html

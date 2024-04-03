@@ -612,7 +612,6 @@
 - https://www.blackhillsinfosec.com/your-browser-is-not-a-safe-space/, Local-Privilege-Escalation
 - https://www.horizon3.ai/veeam-backup-and-replication-cve-2023-27532-deep-dive/, Local-Privilege-Escalation
 - https://www.tomanthony.co.uk/blog/googles-manual-actions-hack/, Broken-Access-Control
-- https://infosecwriteups.com/how-i-leak-others-access-token-by-exploiting-evil-deeplink-flaw-a0a566677639, Insecure-deeplink
 - https://www.dsecbypass.com/en/dolibarr-pre-auth-contact-database-dump/, SQL-injection
 - https://ltsirkov.medium.com/netflix-smart-tv-chaining-self-xss-with-session-poisoning-3eb7c78c7914, Self-XSS
 - https://infosecwriteups.com/account-takeover-an-epic-bug-bounty-story-dd5468d5773d, Account-takeover
@@ -2184,7 +2183,6 @@
 - https://4bdoz.medium.com/rce-by-code-injection-perl-reverse-shell-a2e90181b10, RCE
 - https://halove23.blogspot.com/2021/09/zdi-21-1053-bypassing-windows-lock.html, Authentication-bypass
 - https://www.synacktiv.com/publications/your-vulnerability-is-in-another-oem.html, Memory-corruption
-- https://medium.com/nerd-for-tech/breaking-applications-logic-to-dos-attack-88326cd0dd82, IDOR
 - https://marxchryz.medium.com/how-i-found-multiple-xss-in-hidden-legacy-pages-a57a25d8ff1f, XSS
 - https://medium.com/pentesternepal/hacking-dutch-government-for-a-lousy-t-shirt-8e1fd1b56deb, IDOR
 - https://www.zerodayinitiative.com/blog/2021/9/2/cve-2021-2429-a-heap-based-buffer-overflow-bug-in-the-mysql-innodb-memcached-plugin, Memory-corruption
@@ -4019,7 +4017,6 @@
 - https://blog.securitybreached.org/2018/09/10/sqli-login-bypass-autotraders/, SQL-injection
 - https://www.rafaybaloch.com/2018/09/apple-safari-microsoft-edge-browser.html, Address-Bar-Spoofing
 - https://www.hackerinside.me/2018/09/stored-xss-vulnerability-in-h1c-private.html, Stored-XSS
-- https://ash-king.co.uk/facebook-bug-bounty-09-18.html, Open-redirect
 - https://blog.securitybreached.org/2018/09/09/zol-zimbabwe-authbypass-sqli-xss/, XSS
 - https://web.archive.org/web/20200904145527/https://medium.com/@protector47/how-i-find-open-redirect-vulnerability-in-redacted-com-one-of-the-top-payment-gateway-e9b92afdc114, Open-redirect
 - https://www.hackerinside.me/2018/09/stored-xss-vulnerability-in-tumblr.html, Stored-XSS
@@ -4075,7 +4072,6 @@
 - https://blog.evanricafort.com/2018/08/blind-xss-in-chrome-experiments-google.html, Blind-XSS
 - https://medium.com/@logicbomb_1/bugbounty-paytm-customer-information-is-at-risk-indias-largest-digital-wallet-company-6f7116d4b2d5, IDOR
 - https://ioactive.com/discovering-and-exploiting-a-vulnerability-in-androids-personal-dictionary/, Privilege-escalation
-- https://www.netsparker.com/blog/web-security/stealing-local-files-with-simple-html-file/, SOP-bypass
 - https://web.archive.org/web/20201022195925/https://www.mohamedharon.com/2018/08/Shipttakeover.html, Subdomain-takeover
 - https://medium.com/@tomnomnom/crlf-injection-into-phps-curl-options-e2e0d7cfe545, CRLF-injection
 - https://medium.com/@thehackerish/how-i-could-access-your-internal-servers-steal-and-modify-your-image-repository-d477f79b329a, RCE
@@ -4542,7 +4538,6 @@
 - https://whitton.io/articles/abusing-cors-for-an-xss-on-flickr/, XSS
 - http://blog.shashank.co/2013/12/heroku-directory-transversal.html, Path-traversal
 - http://blog.shashank.co/2013/11/oracle-xss.html, XSS
-- http://blog.shashank.co/2013/10/nokia-email-app-pwnage.html, XSS
 - http://blog.shashank.co/2013/10/lfi-in-nokia-maps.html, LFI
 - https://josipfranjkovic.blogspot.com/2013/11/facebook-bug-bounty-secondary-damage.html, CSRF
 - https://www.josipfranjkovic.com/blog/facebook-csrf-full-account-takeover, CSRF

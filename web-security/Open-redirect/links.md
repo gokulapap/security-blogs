@@ -19,3 +19,4 @@
 - https://buer.haus/2017/03/09/airbnb-chaining-third-party-open-redirect-into-server-side-request-forgery-ssrf-via-liveperson-chat/
 - https://blog.sonarsource.com/security-implications-of-url-parsing-differentials
 - https://payatu.com/blog/gaurav/exploiting-open-redirect
+- https://ash-king.co.uk/facebook-bug-bounty-09-18.html
