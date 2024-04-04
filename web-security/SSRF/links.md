@@ -46,3 +46,4 @@
 - https://blog.assetnote.io/2022/01/17/workspace-one-access-ssrf/
 - https://notifybugme.medium.com/how-github-recon-help-me-to-find-nine-full-ssrf-vulnerability-with-aws-metadata-access-531d931413a5
 - https://medium.com/@mfocuz/hacking-netflix-eureka-8e5957b2f539
+- https://web.archive.org/web/20210117211538/https://medium.com/@adeshkolte/how-i-found-xss-via-ssrf-vulnerability-adesh-kolte-873b30a6b89f

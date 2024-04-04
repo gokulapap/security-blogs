@@ -2615,7 +2615,6 @@
 - https://blog.evanricafort.com/2021/02/idor-in-redacted.html, IDOR
 - https://ltsirkov.medium.com/gitlab-just-another-ssrf-issue-483bc040392b, SSRF
 - https://web.archive.org/web/20220519231807/https://wisdomfreak.com/how-i-was-able-to-get-extra-coins/, Logic-flaw
-- https://philippeharewood.com/leaked-credentials-gives-access-to-internalfb-com/, Information-disclosure
 - https://samcurry.net/hacking-chesscom/, Reflected-XSS
 - https://www.inputzero.io/2020/12/telegram-privacy-fails-again.html, Privacy-issue
 - https://santoshdbobade.blogspot.com/, XSS
@@ -3147,7 +3146,6 @@
 - https://medium.com/@bathinivijaysimhareddy/tale-of-account-takeovers-part-2-9abf62de4ca3, Account-takeover
 - https://www.bad5ect0r.sh/posts/stored-xss-leads-to-plaintext-password-disclosure/, Stored-XSS
 - https://medium.com/@bilalmerokhel/one-param-10k-9d80a33f5eb5, IDOR
-- https://bugwriteups.tech/logical-bug-which-let-me-stop-users-from-creating-ads-at-a-website, Logic-flaw
 - https://medium.com/@bilalmerokhel/chained-bugs-account-takeover-ceff67d1d55a, IDOR
 - https://medium.com/@swapmaurya20/password-reset-poisoning-leading-to-account-takeover-f178f5f1de87, Password-reset
 - http://hack4bounty.com/how-i-got-my-first-swag-on-edmodo-with-a-simple-xss/, Stored-XSS
@@ -3229,7 +3227,6 @@
 - https://0xsha.io/posts/exploiting-magic-links-critical-bugs-are-one-line-away, Information-disclosure
 - https://web.archive.org/web/20200511145923/https://medium.com/@godofdarkness.msf/account-takeover-flow-in-mail-ru-s-ext-a-domain-150-8952e8078211, Logic-flaw
 - https://www.synacktiv.com/publications/pentesting-cisco-sd-wan-part-1-attacking-vmanage.html, Cypher-injection
-- https://medium.com/bugbountywriteup/xss-waf-character-limitation-bypass-like-a-boss-2c788647c229, XSS
 - https://protonvpn.com/blog/apple-ios-vulnerability-disclosure/, Privacy-issue
 - https://medium.com/@ch3ckm4te/self-xss-to-account-takeover-72c89775cf8f, Account-takeover
 - https://adnanmalik.info/blog/the-ticklish-xss%EF%BF%BC/, XSS
@@ -3348,7 +3345,6 @@
 - https://medium.com/nassec-cybersecurity-writeups/an-interesting-story-of-privilege-escalation-1da021e7fd0, Privilege-escalation
 - https://medium.com/@gguzelkokar.mdbf15/xss-on-sony-subdomain-feddaea8f5ac, Reflected-XSS
 - https://xvnpw.github.io/posts/from-dot-in-regex-to-ssrf-part-1/, SSRF
-- https://hipotermia.pw/bb/http-desync-account-takeover, HTTP-request-smuggling
 - https://keenlab.tencent.com/en/2020/01/02/exploiting-wifi-stack-on-tesla-model-s/, Wifi-hacking
 - https://markus-krell.de/admin-capabilities-around-your-ears/, Local-Privilege-Escalation
 - https://footstep.ninja/posts/idor-via-http/, IDOR
@@ -4127,7 +4123,6 @@
 - https://www.bishopfox.com/blog/2018/06/server-side-spreadsheet-injections/, CSV-injection
 - https://blog.ayoubaitelmokhtar.com/2018/06/paypal-bbp-i-couldve-deleted-all-smc.html, CSRF
 - https://medium.com/@adrien_jeanneau/how-i-was-able-to-list-some-internal-information-from-paypal-bugbounty-ca8d217a397c, Expression-Language-Injection
-- https://web.archive.org/web/20210117211538/https://medium.com/@adeshkolte/how-i-found-xss-via-ssrf-vulnerability-adesh-kolte-873b30a6b89f, SSRF
 - https://medium.com/@logicbomb_1/bugbounty-database-hacked-of-indias-popular-sports-company-bypassing-host-header-to-sql-7b9af997c610, SQL-injection
 - https://www.imperva.com/blog/2018/06/how-i-impersonated-someone-else-using-auth0/, Logic-flaw
 - https://www.nc-lp.com/blog/searching-for-xss-found-ldap-injection, LDAP-injection

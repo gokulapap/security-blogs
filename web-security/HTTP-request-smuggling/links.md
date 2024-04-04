@@ -1,3 +1,4 @@
 - https://kleiton0x00.github.io/posts/Exploiting-HTTP-Request-Smuggling-(TE.CL)-XSS-to-website-takeover/
 - https://blog.assetnote.io/2021/03/18/h2c-smuggling/
 - https://medium.com/@StealthyBugs/http-request-smuggling-on-business-apple-com-and-others-2c43e81bcc52
+- https://hipotermia.pw/bb/http-desync-account-takeover
