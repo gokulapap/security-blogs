@@ -1,0 +1,1 @@
+- https://akshayravic09yc47.medium.com/improper-input-validation-leads-to-email-spamming-5d1a53b2a579

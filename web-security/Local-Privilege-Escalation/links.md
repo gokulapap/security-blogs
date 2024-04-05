@@ -17,3 +17,4 @@
 - https://ssd-disclosure.com/ssd-advisory-vhdmpivalidatevirtualdisksurface-lpe/
 - https://labs.sentinelone.com/relaying-potatoes-dce-rpc-ntlm-relay-eop/
 - https://www.wiz.io/blog/omi-returns-lpe-technical-analysis
+- https://blog.viettelcybersecurity.com/deep-understand-aspx-file-handling-and-some-related-attack-vector/

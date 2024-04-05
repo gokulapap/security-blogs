@@ -1312,7 +1312,6 @@
 - https://notifybugme.medium.com/how-i-found-reflected-xss-on-idfc-bank-with-burp-suite-intruder-7c53275daf02, Reflected-XSS
 - https://sagarsajeev.medium.com/unsubscribe-any-users-e-mail-notifications-via-idor-2c2e05b79dac, IDOR
 - https://monish-basaniwal.medium.com/the-million-dollar-hack-8163892bfe2f, IDOR
-- https://akshayravic09yc47.medium.com/improper-input-validation-leads-to-email-spamming-5d1a53b2a579, Email-content-injection
 - https://joshuaarulsamy.medium.com/my-hall-of-fame-at-united-nations-success-story-97675232aed7, XSS
 - https://blog.nietaanraken.nl/posts/github-pages-command-injection/, RCE
 - https://dphoeniixx.medium.com/chaining-telegram-bugs-to-steal-session-related-files-c90eac4749bd, Arbitrary-file-read
@@ -1425,7 +1424,6 @@
 - https://sagarsajeev.medium.com/dos-worth-650-interesting-right-144ff45ccf3b, DoS
 - https://infosecwriteups.com/mail-server-misconfiguration-leads-to-sending-a-fax-from-anyones-account-on-hellofax-dropbox-bbp-aab3d97ab4e7, Email-spoofing
 - https://claroty.com/team82/blog/with-management-comes-risk-finding-flaws-in-filewave-mdm, Authentication-bypass
-- https://blog.viettelcybersecurity.com/deep-understand-aspx-file-handling-and-some-related-attack-vector/, Local-Privilege-Escalation
 - https://medium.com/@talhakarakumru/how-i-gained-access-to-a-finance-companys-accounts-session-hijacking-2c6c5d9d84bd, Session-fixation
 - https://medium.com/@720922/a-developers-nightmare-story-of-a-simple-idor-and-some-poor-fixes-worth-1125-5ead70b0a1de, IDOR
 - https://0xpwn.wordpress.com/2022/07/23/how-i-made-300-github-repos-point-to-my-blog-using-azure-subdomains-takeover/, Subdomain-takeover
@@ -3394,7 +3392,6 @@
 - https://www.hackerinside.me/2019/12/xss-like-pro.html, XSS
 - https://medium.com/bugbountywriteup/dank-writeup-on-broken-access-control-on-an-indian-startup-d29132a1ecd, Unrestricted-file-upload
 - https://rez0.blog/hacking/2019/11/29/rce-via-imagetragick.html, RCE
-- https://medium.com/@abhishake100/how-i-turned-self-xss-to-stored-via-csrf-d12eaaf59f2e, Self-XSS
 - https://web.archive.org/web/20211106053748/https://eng.getwisdom.io/hacking-github-with-unicode-dotless-i/, Logic-flaw
 - https://ysamm.com/?p=343, Reflected-XSS
 - https://lf.lc/vrp/145304705/, Site-Isolation-bypass
@@ -3689,7 +3686,6 @@
 - https://medium.com/@logicbomb_1/the-journey-of-web-cache-firewall-bypass-to-ssrf-to-aws-credentials-compromise-b250fb40af82, LFI
 - https://medium.com/@iframe_h1/a-picture-that-steals-data-ff604ba1012, Information-disclosure
 - https://blog.assetnote.io/bug-bounty/2019/04/23/getting-access-zendesk-gcp/, Information-disclosure
-- https://www.7elements.co.uk/resources/blog/facebooks-burglary-shopping-list/, Information-disclosure
 - https://medium.com/@heshamwatany/the-neglected-bug-that-can-infect-all-facebook-users-who-pay-for-leads-ads-8c374cd64d76, CSV-injection
 - https://soroush.secproject.com/blog/2019/04/yet-other-examples-of-abusing-csrf-in-logout/, CSRF
 - https://medium.com/bugbountywriteup/xss-reflected-xss-bypass-filter-de41d35239a3, Reflected-XSS
@@ -4189,7 +4185,6 @@
 - https://medium.com/bugbountywriteup/creating-test-conversion-using-any-app-8b32ee0a735, Parameter-tampering
 - http://www.tomanthony.co.uk/blog/google-xml-sitemap-auth-bypass-black-hat-seo-bug-bounty/, Logic-flaw
 - https://medium.com/@logicbomb_1/bugbounty-rewarded-by-securing-vulnerabilities-in-bookmyshow-indias-largest-online-movie-bb81dba9b82, Host-header-injection
-- https://medium.com/bugbountywriteup/hacking-oracle-in-5-minutes-b52107a6124c, Directory-listing
 - https://medium.com/@Alra3ees/google-adwords-3133-7-stored-xss-27bb083b8d27, Stored-XSS
 - https://blog.zimperium.com/cve-2017-13253-buffer-overflow-multiple-android-drm-services/, Memory-corruption
 - https://labs.detectify.com/2018/03/14/graphql-abuse/, GraphQL
