@@ -18,3 +18,5 @@
 - https://blog.theori.io/research/webkit-type-confusion/
 - https://awakened1712.github.io/hacking/hacking-whatsapp-gif-rce/
 - https://www.cyberark.com/resources/threat-research-blog/colorful-vulnerabilities
+- https://blog.trailofbits.com/2022/10/25/sqlite-vulnerability-july-2022-library-api/
+- https://farlow.dev/2023/03/02/hacking-the-nintendo-dsi-browser

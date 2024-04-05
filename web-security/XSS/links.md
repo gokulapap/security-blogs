@@ -84,3 +84,4 @@
 - https://bendtheory.medium.com/remediation-archeology-finding-and-decoding-an-ancient-xss-ea541c1106d1
 - http://blog.shashank.co/2013/10/nokia-email-app-pwnage.html
 - https://medium.com/bugbountywriteup/xss-waf-character-limitation-bypass-like-a-boss-2c788647c229
+- https://blogs.opera.com/security/2021/09/8000-bug-bounty-highlight-xss-to-rce-in-the-opera-browser

@@ -648,7 +648,6 @@
 - https://ibraradi.gitbook.io/write-up/upgrade-plan-from-free-to-paid-via-response-manipulation, Payment-bypass
 - https://mshibilmp.medium.com/how-i-earned-for-excessive-data-exposure-through-directory-traversal-leads-to-product-price-4582e5371774, Path-traversal
 - https://vijetareigns.medium.com/email-verification-bypass-worth-cbb65a68a34f, Email-verification-bypass
-- https://farlow.dev/2023/03/02/hacking-the-nintendo-dsi-browser, Memory-corruption
 - https://salt.security/blog/traveling-with-oauth-account-takeover-on-booking-com, OAuth
 - https://fireshellsecurity.team/mining-takeovers-for-fun-and-profit/, Subdomain-takeover
 - https://medium.com/@kushjain0107/how-simple-idor-impacted-the-data-of-thousands-of-customers-of-an-indian-automotive-giant-fdbd2ef1c2c6, Account-takeover
@@ -1102,7 +1101,6 @@
 - https://mechboy.medium.com/support-supports-a-hacker-be9931104923, Social-engineering
 - https://srcincite.io/blog/2022/10/25/eat-what-you-kill-pre-authenticated-rce-in-vmware-nsx-manager.html, RCE
 - https://www.varonis.com/blog/the-logging-dead-two-windows-event-log-vulnerabilities, DoS
-- https://blog.trailofbits.com/2022/10/25/sqlite-vulnerability-july-2022-library-api/, Memory-corruption
 - https://hamzadzworm.medium.com/5000-for-apple-stored-xss-and-another-blind-xss-still-under-review-e9f6f5a76eb1, Blind-XSS
 - https://medium.com/@raymond-lind/ssrf-lfi-in-uploads-feature-a134aa467abf, SSRF
 - https://medium.com/@raymond-lind/how-i-found-a-simple-stored-xss-9a6b1c5e0afa, Stored-XSS
@@ -1278,7 +1276,6 @@
 - https://blog.sonarsource.com/wordpress-core-unauthenticated-blind-ssrf/, SSRF
 - https://bergee.it/blog/turning-cookie-based-xss-into-account-takeover/, XSS
 - https://srahulceh.medium.com/bug-bounty-how-i-found-an-ssrf-reconnaissance-7b1821a1b1fd, SSRF
-- https://www.zerodayinitiative.com/blog/2022/8/31/cve-2022-34715-more-microsoft-windows-nfs-v4-remote-code-execution, RCE
 - https://www.shielder.com/blog/2022/09/how-to-decrypt-manage-engine-pmp-passwords-for-fun-and-domain-admin-a-red-teaming-tale/, Cryptographic-issues
 - https://medium.com/@jedus0r/idor-insecure-direct-object-references-my-first-p1-in-bugbounty-fb01f50e25df, IDOR
 - https://daniel.haxx.se/blog/2022/09/05/a-bug-that-was-23-years-old-or-not/, DoS
@@ -2131,7 +2128,6 @@
 - https://hack5.dev/telegram/bug/2021/09/24/telegram-sessions-bug.html, Session-expiration-issue
 - https://www.shielder.it/advisories/remote-command-execution-in-visual-studio-code-remote-development-extension/, RCE
 - https://habr.com/en/post/579714/, Information-disclosure
-- https://blogs.opera.com/security/2021/09/8000-bug-bounty-highlight-xss-to-rce-in-the-opera-browser, XSS
 - https://medium.com/@the.white.soul.0/bug-bounty-fastmail-topicbox-com-privileges-escalation-organization-takeover-815466876ad4, Privilege-escalation
 - https://www.vulnano.com/2021/09/facebook-messenger-for-macos-contained.html, Hardcoded-credentials
 - https://trenchant.io/pwn2own-2021-parallels-desktop-guest-to-host-escape/, VM-escape
@@ -4461,7 +4457,6 @@
 - https://ahussam.me/Medium-full-account-takeover/, XSS
 - https://lab.wallarm.com/critical-linkedin-vulnerability-proactively-resolved-by-wallarm-xxe-in-application-server-239bba28e415, XXE
 - https://medium.com/bugbountywriteup/two-vulnerabilities-makes-an-exploit-xss-and-csrf-in-bing-cd4269da7b69, XSS
-- https://medium.com/intigriti/why-you-shouldnt-share-links-on-facebook-f317ba4aa58b, Information-disclosure
 - https://blog.zsec.uk/pwning-pornhub, Information-disclosure
 - https://www.seekurity.com/blog/general/runkeeper-stores-xss-vulnerability/, Stored-XSS
 - https://www.arneswinnen.net/2016/05/instabrute-two-ways-to-brute-force-instagram-account-credentials/, Bruteforce

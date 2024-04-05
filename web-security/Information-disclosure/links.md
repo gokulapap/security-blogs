@@ -67,3 +67,4 @@
 - https://www.allysonomalley.com/2020/01/06/saying-goodbye-to-my-favorite-5-minute-p1/
 - https://medium.com/bugbountywriteup/million-users-pii-leak-attack-288c5e37b283
 - https://philippeharewood.com/leaked-credentials-gives-access-to-internalfb-com/
+- https://medium.com/intigriti/why-you-shouldnt-share-links-on-facebook-f317ba4aa58b

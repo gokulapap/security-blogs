@@ -78,3 +78,4 @@
 - https://medium.com/realmodelabs/silver-peak-unity-orchestrator-rce-2928d65ef749
 - https://blog.redteam.pl/2019/12/chrome-portal-element-fuzzing.html
 - https://sector7.computest.nl/post/2021-08-zoom/
+- https://www.zerodayinitiative.com/blog/2022/8/31/cve-2022-34715-more-microsoft-windows-nfs-v4-remote-code-execution
