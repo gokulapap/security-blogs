@@ -20,3 +20,4 @@
 - https://blog.sonarsource.com/security-implications-of-url-parsing-differentials
 - https://payatu.com/blog/gaurav/exploiting-open-redirect
 - https://ash-king.co.uk/facebook-bug-bounty-09-18.html
+- https://servicenger.com/blog/mobile/facebook-linkshim-protection-bypass-using-fb-webview/

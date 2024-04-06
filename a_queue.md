@@ -215,7 +215,6 @@
 - https://medium.com/@haythamkarouata/bug-bounty-hunting-101-js-files-diving-4b1753fefb3d, source-code-review
 - https://medium.com/@jonathanbouman/stored-xss-in-paytium-3-0-13-wordpress-plugin-3157ee37eb8f, XSS
 - https://medium.com/@ms-official5878/xss-through-file-upload-f3f4e55616ad, XSS
-- https://medium.com/@apkash8/hunting-and-exploiting-apache-ghostcat-b7446ef83e74, CVE
 - https://medium.com/@secureica/tricking-the-frontend-and-the-backend-http-request-smuggling-81adc9a61181, request-smuggling
 - https://medium.com/@Sm9l/what-i-learnt-from-reading-220-idor-bug-reports-6efbea44db7, IDOR
 - https://medium.com/@raymondlind/finding-reflected-xss-in-a-strange-way-289a4f3fa630, XSS
@@ -498,7 +497,6 @@
 - https://zerocode-ph.medium.com/bypassing-link-sharing-protection-in-messenger-kids-parents-control-feature-meta-bug-bounty-e53f2d148bd9, URL-validation-bypass
 - https://blog.thalium.re/posts/fuzzing-samsung-system-services/, Android
 - https://medium.com/bugbountywriteup/uncovering-a-critical-vulnerability-my-journey-of-discovering-cve-2021-31589-a-reflected-xss-in-1e13c0aa41b0, Components-with-known-vulnerabilities
-- https://www.zerodayinitiative.com/blog/2023/4/19/cve-2022-29844-a-classic-buffer-overflow-on-the-western-digital-my-cloud-pro-series-pr4100, Buffer-Overflow
 - https://medium.com/@snoopy101/how-i-hacked-hackers-in-voorivex-hunt-event-9c572ce0005f, Cloudflare-bypass
 - https://mogwailabs.de/en/blog/2023/04/vulnerability-spotlight-cve-2023-0264/, OpenID-Connect
 - https://blog.securitybreached.org/2023/04/19/how-i-manipulated-my-rank-on-the-bugcrowd-platform/, Logic-flaw
@@ -2684,7 +2682,6 @@
 - https://niemand.com.ar/2021/01/08/exploiting-application-level-profile-semantics-apls-from-spring-data-rest/, APLS-misconfiguration
 - https://ashketchum.medium.com/blind-xss-in-google-analytics-admin-panel-3133-70-2185d1cce82a, Blind-XSS
 - https://orthonviper.medium.com/information-disclosure-through-signup-endpoint-86d2d66dfef1, Information-disclosure
-- https://servicenger.com/blog/mobile/facebook-linkshim-protection-bypass-using-fb-webview/, Open-redirect
 - https://devcraft.io/2021/01/07/universal-deserialisation-gadget-for-ruby-2-x-3-x.html, Insecure-deserialization
 - https://krevetk0.medium.com/10-000-for-a-vulnerability-that-doesnt-exist-9dbc63684e94, Path-traversal
 - https://emanuel-beni.medium.com/stored-xss-on-product-description-high-400-2f078fd70fd2, Stored-XSS
@@ -3541,7 +3538,6 @@
 - http://mahmoudsec.blogspot.com/2019/08/exploiting-out-of-band-xxe-using.html, XXE
 - https://medium.com/@04sabsas/bugbounty-writeup-creative-thinking-is-our-everything-race-condition-business-logic-error-2f3e82b9aa17, Race-condition
 - https://learn.hackersid.com/2019/08/stored-xss-on-laporbugid.html, Stored-XSS
-- https://www.shawarkhan.com/2019/08/leveraging-angularjs-based-xss-to-privilege-escalation.html, XSS
 - https://blog.usejournal.com/how-i-found-xss-by-searching-in-shodan-6943b799e648, Reflected-XSS
 - https://smaranchand.com.np/2019/08/no-rate-limiting-eligible-for-bounty, Lack-of-rate-limiting
 - https://medium.com/@aniltom/https-medium-com-aniltom-from-sub-domain-takeover-to-open-redirect-b5be4906e1a4, Subdomain-takeover
@@ -3622,7 +3618,6 @@
 - https://medium.com/@osamaavvan/bypassing-xss-filter-and-stealing-user-credit-card-data-100f247ed5eb, XSS
 - https://medium.com/@Vibhurushi_Chotaliya/password-bypass-and-something-else-cded0847c9df, Authentication-bypass
 - https://medium.com/@saadahmedx/account-takeover-worth-900-cacbe10de58e, Account-takeover
-- https://medium.com/@osamaavvan/stealing-cookies-to-login-in-any-account-52ca33df0318, Cookie-theft
 - https://spenkk.github.io/bugbounty/Local-File-Inclusion/, WAF-bypass
 - https://medium.com/@saadahmedx/complete-web-server-access-46d19279a2b, Unrestricted-file-upload
 - https://medium.com/bug-bounty-hunting/fullscreen-api-attacks-revisited-and-the-fb-na-story-cbea3ca383c5, Phishing

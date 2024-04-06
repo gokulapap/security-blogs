@@ -1,0 +1,1 @@
+- https://medium.com/@osamaavvan/stealing-cookies-to-login-in-any-account-52ca33df0318
