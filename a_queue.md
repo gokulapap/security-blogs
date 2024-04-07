@@ -363,7 +363,6 @@
 - https://infosecwriteups.com/kubernetes-pentest-bypassing-load-balancer-9bcfae2ce84a, Security-code-review
 - https://www.whiteoaksecurity.com/blog/sony-bravia-remote-code-execution-disclosure/, RCE
 - https://redmaple.tech/blogs/2023/extract-bitwarden-vault-passwords/, Information-disclosure
-- https://albertpedersen.com/blog/cloudflare-casb-confused-deputy/, Confused-deputy
 - https://medium.com/pentesternepal/how-i-hacked-100k-godaddy-users-and-help-to-secure-for-free-65f172bd726a, git-folder-disclosure
 - https://d3lb3.github.io/keepass_triggers_arent_dead/, Local-Privilege-Escalation
 - https://www.tarlogic.com/blog/linked-servers-adsi-passwords/, ADSI
@@ -1757,7 +1756,6 @@
 - https://ssd-disclosure.com/ssd-advisory-exchange-server-getwacinfo-information-disclosure-vulnerability/, XXE
 - https://blog.sonarsource.com/securing-developer-tools-git-integrations, Local-Privilege-Escalation
 - https://research.nccgroup.com/2022/03/15/technical-advisory-apple-macos-xar-arbitrary-file-write-cve-2022-22582/, Arbitrary-file-write
-- https://c4rrilat0r.medium.com/how-i-managed-to-trigger-xss-automatically-to-get-critical-account-takeover-92ea3abcaf9, Stored-XSS
 - https://blog.haboob.sa/blog/adobe-reader-cjk-codecs-memory-disclosure-vulnerability, Memory-disclosure
 - https://rambo.codes/posts/2022-03-15-how-a-macos-bug-could-have-allowed-for-a-serious-phishing-attack-against-users, MacOS
 - http://www.firstsight.me/2022/03/from-recon-via-censys-and-dnsdumpster-to-getting-p1-by-login-using-weak-password-password/, WAF-bypass
@@ -3123,7 +3121,6 @@
 - http://hack4bounty.com/how-source-code-reading-helped-me-find-an-idor/, IDOR
 - https://medium.com/@ciph3r7r0ll/parsing-the-dom-elements-of-other-pages-via-xss-bug-bounty-story-46d517e6711d, XSS
 - https://www.ezequiel.tech/2020/05/rce-in-cloud-dm.html, SSRF
-- https://medium.com/@yaala/bypassing-message-request-inbox-cf54f859dd25, Authorization-flaw
 - https://philippeharewood.com/change-any-link-at-https-fbwat-ch/, Authorization-flaw
 - https://torbencapiau.be/?p=106, Broken-access-control
 - http://hack4bounty.com/how-i-got-200-in-5-minutes-%f0%9f%98%9c-sensitive-data-leak-%f0%9f%98%9c/, Information-disclosure
@@ -3458,7 +3455,6 @@
 - https://spidersec.ninja/Youtube-X-frame-options-Bypass-Vulnerability, Clickjacking
 - https://blog.usejournal.com/how-recon-helped-samsung-protect-their-production-repositories-of-samsungtv-ecommerce-estores-4c51d6ec4fdd, Information-disclosure
 - https://rahulr.in/idor-to-rce/, IDOR
-- https://web.archive.org/web/20201128230506/https://medium.com/@adeshkolte/how-i-made-1000-at-t-bug-bounty-h1-14e68b284e2f, CSRF
 - https://medium.com/@pranaybafna/graphql-introspection-leads-to-sensitive-data-disclosure-65b385452d7f, Information-disclosure
 - https://web.archive.org/web/20200807155301/https://gh0st.cn/archives/2019-10-01/1, IDOR
 - https://web.archive.org/web/20191211081434/https://victoni.github.io/bug-hunting-xss-on-cookie-popup-warning/, Reflected-XSS
@@ -4260,7 +4256,6 @@
 - https://medium.com/@honcbb/amazon-bypass-open-redirect-12609c879dff, Open-redirect
 - https://medium.com/@honcbb/vmware-official-vcdx-reflected-xss-90e69a3c35e1, Reflected-XSS
 - https://medium.com/bugbountywriteup/account-take-over-vulnerability-in-google-acquisition-famebit-e93b1a0a7af9, CSRF
-- https://medium.com/bugbountywriteup/transforming-a-domain-into-the-matrix-an-open-redirect-story-4bd87c3a8caa, Open-redirect
 - https://emtunc.org/blog/11/2017/jwt-refresh-token-manipulation/, JWT
 - https://medium.com/@agrawalsmart7/sql-is-every-where-5cba6ae9480a, SQL-injection
 - http://www.digitalmunition.com/WhyIWalkedFrom3k.pdf, AWS-misconfiguration

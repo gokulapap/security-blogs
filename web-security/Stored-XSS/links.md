@@ -26,3 +26,4 @@
 - https://www.cyberick.com/post/my-first-bug-on-vdp-bbp-bug-bounty
 - https://guptashubham.com/stored-xss-in-unifi-v4-8-12-controller/
 - https://jasminderpalsingh.info/stored-xss-in-google-doubleclick-studio-google-research-grant/
+- https://c4rrilat0r.medium.com/how-i-managed-to-trigger-xss-automatically-to-get-critical-account-takeover-92ea3abcaf9

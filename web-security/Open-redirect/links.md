@@ -21,3 +21,4 @@
 - https://payatu.com/blog/gaurav/exploiting-open-redirect
 - https://ash-king.co.uk/facebook-bug-bounty-09-18.html
 - https://servicenger.com/blog/mobile/facebook-linkshim-protection-bypass-using-fb-webview/
+- https://medium.com/bugbountywriteup/transforming-a-domain-into-the-matrix-an-open-redirect-story-4bd87c3a8caa

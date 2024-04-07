@@ -1,0 +1,1 @@
+- https://albertpedersen.com/blog/cloudflare-casb-confused-deputy/
