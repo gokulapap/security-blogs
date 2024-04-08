@@ -1,2 +1,3 @@
 - https://medium.com/@starlox.riju123/finding-my-first-bug-sql-injection-and-xss-just-with-google-dork-2f31772f8549
 - https://medium.com/@veshraj77/first-bug-bounty-ever-sql-injection-da4e64e30851
+- https://medium.com/@sapt/sqli-on-a-bugcrowd-private-program-17858b57ec61

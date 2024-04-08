@@ -70,7 +70,6 @@
 - https://medium.com/@ibm_ptc_security/exploiting-missing-hsts-54f8e23ed80b, misc
 - https://medium.com/@manavbankatwala29/unique-rate-limit-bypass-worth-1800-6e2947c7d972, bypass
 - https://medium.com/@sathvika03/reset-the-password-for-vulnerability-b0805f7adf9c, reset-password
-- https://medium.com/@dewangpanchal98/zero-day-xss-309916922ea6, XSS
 - https://medium.com/@ethr/how-to-install-nmap-and-use-it-for-vulnerability-scanning-60dd84e06a53, automation
 - https://medium.com/@dPhoeniixx/tiktok-for-android-1-click-rce-240266e78105, RCE
 - https://medium.com/@yashdharmani/a-bug-that-made-me-250-485df60f5b26, journey
@@ -158,7 +157,6 @@
 - https://medium.com/@theshubh77/facebook-page-admin-disclosure-by-create-doc-button-bounty-5000-usd-2fd1ff615bf8, misc
 - https://medium.com/@evilprince007/broken-object-level-authorization-in-vapi-8a994c50b711, api
 - https://medium.com/@princeprafull/how-i-found-reflected-xss-on-gov-in-a8b4a228d84a, XSS
-- https://medium.com/@sapt/sqli-on-a-bugcrowd-private-program-17858b57ec61, sql-injection
 - https://medium.com/@theredteamer/hacking-apple-two-successful-exploits-and-positive-thoughts-on-their-bug-bounty-program-963efe7518f6, journey
 - https://medium.com/@mehedishakeel/improper-access-control-my-third-finding-on-hackerone-1455e95b6c8c, BAC
 - https://medium.com/@grahamzemel/python-tips-and-tricks-for-cybersecurity-enthusiasts-9504d9541b8b, tricks
@@ -356,7 +354,6 @@
 - https://medium.com/@omarahmed_13016/idor-unpin-posts-for-fun-18f628eaef24, IDOR
 - https://medium.com/@0day_exploit/stored-xss-injection-permanent-open-redirection-e14ffa11573c, Reflected-XSS
 - https://summoning.team/blog/vmware-vrealize-network-insight-rce-cve-2023-20887/, RCE
-- https://blog.lexfo.fr/xortigate-cve-2023-27997.html, RCE
 - https://research.nccgroup.com/2023/06/13/dynamic-linq-injection-remote-code-execution-vulnerability-cve-2023-32571/, RCE
 - https://hackcompute.com/hacking-epp-servers/, XXE
 - https://hacktus.tech/taking-over-an-entire-organization, Broken-Access-Control
@@ -1305,7 +1302,6 @@
 - https://www.ambionics.io/blog/hacking-watchguard-firewalls, XPath-injection
 - https://infosecwriteups.com/bypassing-amazon-waf-to-pop-an-alert-4646ce35554e, WAF-bypass
 - https://moustadif.medium.com/how-i-bypassed-reflected-xss-in-well-known-platform-274c07f97674, XSS
-- https://infosecwriteups.com/out-of-bond-remote-code-execution-rce-on-de-nederlandsche-bank-n-v-with-burp-suite-collaborator-2ce50260e2e4, OS-command-injection
 - https://notifybugme.medium.com/how-i-found-reflected-xss-on-idfc-bank-with-burp-suite-intruder-7c53275daf02, Reflected-XSS
 - https://sagarsajeev.medium.com/unsubscribe-any-users-e-mail-notifications-via-idor-2c2e05b79dac, IDOR
 - https://monish-basaniwal.medium.com/the-million-dollar-hack-8163892bfe2f, IDOR
@@ -2157,7 +2153,6 @@
 - https://www.spookjs.com, Browser-hacking
 - https://medium.com/@gguzelkokar.mdbf15/xss-via-account-takeover-in-e-signature-feature-worth-2500-435f3f8325bf, XSS
 - https://rikeshbaniyaaa.medium.com/facebook-email-disclosure-and-account-takeover-ecdb44ee12e9, Information-disclosure
-- https://infosecwriteups.com/accessing-grofers-grafana-instance-using-shodan-52c585ada797, Weak-credentials
 - https://websecblog.com/vulns/google-threadit/, DOM-XSS
 - https://xhzeem.me/posts/SSRF-in-PDF-export-with-PhantomJs/read, SSRF
 - https://apapedulimu.click/story-of-idor-on-google-product/, IDOR

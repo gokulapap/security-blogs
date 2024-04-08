@@ -86,3 +86,4 @@
 - https://medium.com/bugbountywriteup/xss-waf-character-limitation-bypass-like-a-boss-2c788647c229
 - https://blogs.opera.com/security/2021/09/8000-bug-bounty-highlight-xss-to-rce-in-the-opera-browser
 - https://www.shawarkhan.com/2019/08/leveraging-angularjs-based-xss-to-privilege-escalation.html
+- https://medium.com/@dewangpanchal98/zero-day-xss-309916922ea6
