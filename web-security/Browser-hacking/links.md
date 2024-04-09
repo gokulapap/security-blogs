@@ -7,3 +7,4 @@
 - https://blog.lbherrera.me/posts/appcache-forgotten-tales/
 - https://microsoftedge.github.io/edgevr/posts/attacking-the-devtools/
 - https://medium.com/bugbountywriteup/brave-browser-script-blocker-bypass-vulnerability-fffd659c5a7
+- https://ssd-disclosure.com/ssd-advisory-chrome-ad-heavy-bypass-via-history-back/

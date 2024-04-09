@@ -29,3 +29,4 @@
 - https://medium.com/@kgaber99/sql-injection-in-forget-password-function-3c945512e3cb
 - https://kailashbohara.com.np/blog/2021/05/16/MSSQL-Injection-in-JSON-request/
 - https://translate.google.com/translate?hl=en&sl=zh-CN&u=https://www.leavesongs.com/PENETRATION/cachet-from-laravel-sqli-to-bug-bounty.html&prev=search&pto=aue
+- https://mahmoudsec.blogspot.com/2018/07/sql-injection-and-silly-waf.html

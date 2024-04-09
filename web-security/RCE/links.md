@@ -80,3 +80,4 @@
 - https://sector7.computest.nl/post/2021-08-zoom/
 - https://www.zerodayinitiative.com/blog/2022/8/31/cve-2022-34715-more-microsoft-windows-nfs-v4-remote-code-execution
 - https://blog.lexfo.fr/xortigate-cve-2023-27997.html
+- https://research.aurainfosec.io/pentest/pentah0wnage/

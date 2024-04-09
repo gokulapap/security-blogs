@@ -69,3 +69,4 @@
 - https://philippeharewood.com/leaked-credentials-gives-access-to-internalfb-com/
 - https://medium.com/intigriti/why-you-shouldnt-share-links-on-facebook-f317ba4aa58b
 - https://www.7elements.co.uk/resources/blog/facebooks-burglary-shopping-list/
+- https://medium.com/@mateusz.olejarka/finding-hidden-gems-vol-4-rakefile-a-k-a-how-to-get-aws-keys-again-ed0d840e0ec

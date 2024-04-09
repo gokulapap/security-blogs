@@ -541,7 +541,6 @@
 - https://bishopfox.com/blog/windows-task-scheduler-19044-advisory, Unquoted-search-path
 - https://medium.com/@evan.connelly/post-account-takeover-account-takeover-of-internal-tesla-accounts-bc720603e67d, Account-takeover
 - https://www.n00py.io/2023/01/bypassing-amazon-kids-parental-controls/, Logic-flaw
-- https://research.aurainfosec.io/pentest/pentah0wnage/, RCE
 - https://kuldeep.io/posts/holiday-hunting-with-aquatone/, SSRF
 - https://mmmds.pl/cyberghostvpn-mitm-rce-lpe/, RCE
 - https://chevonphillip.medium.com/blind-xss-via-sms-support-chat-1100-bug-bounty-779a1e19cc51, Blind-XSS
@@ -1938,7 +1937,6 @@
 - https://rezer0dai.github.io/biug-bounties/, RCE
 - https://sharmajijvs.medium.com/xss-via-file-upload-a2bcc1e5d7f7, XSS
 - https://infosecwriteups.com/how-i-bypassed-netflix-profile-lock-43901be1307c, Logic-flaw
-- https://blog.assetnote.io/2021/12/26/chained-ssrf-websphere/, SSRF
 - https://3bodymo.medium.com/xss-through-image-proxy-using-svg-image-49cdf955cf4f, XSS
 - https://infosecwriteups.com/massive-users-account-takeovers-chaining-vulnerabilities-to-idor-ea4e1b6407d2, Authentication-bypass
 - https://medium.com/@mamunwhh/information-disclosure-leads-to-sensitive-credential-35e779f6f4db, Information-disclosure
@@ -1993,7 +1991,6 @@
 - https://marxchryz.medium.com/price-manipulation-bypass-using-integer-overflow-method-36ff23ebe91d, Payment-tampering
 - https://sh1yo.art/post/sec-596/, Reflected-XSS
 - https://medium.com/@thenighthawk0/how-i-got-my-first-bounty-on-financial-sector-gateway-site-by-using-previous-graphql-462cca7389ca, Information-disclosure
-- https://ssd-disclosure.com/ssd-advisory-chrome-ad-heavy-bypass-via-history-back/, Browser-hacking
 - https://vavkamil.cz/2021/11/25/wordpress-plugin-confusion-update-can-get-you-pwned/, Supply-chain-attack
 - https://securifyinc.com/disclosures/rocketchat-monitor-messages, Authorization-flaw
 - https://wahaz.medium.com/unauthenticated-sensitive-information-disclosure-at-redacted-2702224098c, Old-components-with-known-vulnerabilities
@@ -3579,7 +3576,6 @@
 - https://medium.com/@saugatpokharel/this-is-how-i-managed-to-win-2000-through-facebook-bug-bounty-a7d531d5097e, Logic-flaw
 - https://medium.com/@shub66452/account-takeover-using-csrf-json-based-a0e6efd1bffc, CSRF
 - https://medium.com/@nandwanajatin25/story-of-a-stored-xss-to-full-account-takeover-vulnerability-n-a-to-accepted-8478aa5e0d8e, Stored-XSS
-- https://medium.com/@mateusz.olejarka/finding-hidden-gems-vol-4-rakefile-a-k-a-how-to-get-aws-keys-again-ed0d840e0ec, Information-disclosure
 - https://medium.com/@schopath/yeah-i-got-p2-in-1-minute-stored-xss-via-markdown-editor-7872dba3f158, Stored-XSS
 - https://gauravnarwani.com/injecting-6200-to-1200/, SSTI
 - https://wwws.nightwatchcybersecurity.com/2019/07/02/another-download-protection-bypass-in-google-chrome-bin-files-in-mac-os/, Browser-hacking
@@ -4053,7 +4049,6 @@
 - https://www.youtube.com/watch?v=0oKHov6y6mw, Stored-XSS
 - https://medium.com/@codingkarma/how-i-found-xss-on-amazon-f62b50f1c336, XSS
 - https://medium.com/@d0nut/exfiltration-via-css-injection-4e999f63097d, CSS-injection
-- https://mahmoudsec.blogspot.com/2018/07/sql-injection-and-silly-waf.html, SQL-injection
 - http://ha.cker.info/exploitation-of-server-side-template-injection-with-craft-cms-plguin-seomatic/, SSTI
 - https://blog.bentkowski.info/2018/07/vulnerability-in-hangouts-chat-aka-how.html, Open-redirect
 - https://medium.com/@mateusz.olejarka/finding-hidden-gems-vol-1-forging-oauth-tokens-using-discovered-client-id-and-client-secret-467f1cd21714, Information-disclosure
