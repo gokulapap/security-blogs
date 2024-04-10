@@ -34,3 +34,4 @@
 - https://medium.com/@0xd3vil/how-i-earned-1800-for-finding-a-business-logic-account-takeover-vulnerability-c84c78e6ade0
 - https://medium.com/@baibhavanandjha/xx-to-xxx-in-one-day-9578858b6286
 - https://m7-arman.medium.com/zero-click-to-account-takeover-d764e12bee4b
+- https://blog.securitybreached.org/2020/01/22/user-account-takeover-via-signup-feature-bug-bounty-poc/

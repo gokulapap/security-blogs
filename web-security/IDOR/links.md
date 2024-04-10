@@ -66,3 +66,4 @@
 - https://www.pentestpartners.com/security-blog/gumtree-leaking-your-data-and-not-really-listening/
 - https://medium.com/@shakti.gtp/a-fever-worth-750-accessing-private-projects-d113c561311f
 - https://medium.com/nerd-for-tech/breaking-applications-logic-to-dos-attack-88326cd0dd82
+- https://web.archive.org/web/20200313201545/http://www.anandpraka.sh/2015/06/how-i-hacked-zomatocom-to-see-data-of.html

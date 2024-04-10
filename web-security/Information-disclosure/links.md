@@ -70,3 +70,4 @@
 - https://medium.com/intigriti/why-you-shouldnt-share-links-on-facebook-f317ba4aa58b
 - https://www.7elements.co.uk/resources/blog/facebooks-burglary-shopping-list/
 - https://medium.com/@mateusz.olejarka/finding-hidden-gems-vol-4-rakefile-a-k-a-how-to-get-aws-keys-again-ed0d840e0ec
+- https://medium.com/@mdisrail2468/a-step-by-step-walk-through-of-an-invalid-endpoint-acfbdc84b209

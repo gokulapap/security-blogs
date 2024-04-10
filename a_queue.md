@@ -1844,7 +1844,6 @@
 - https://omespino.com/write-up-private-bug-bounty-rce-in-ec2-instance-via-ssh-with-private-key-exposed-on-public-github-repository-xx000-usd/, Information-disclosure
 - https://spaceraccoon.dev/solving-dom-xss-puzzles, DOM-XSS
 - https://blog.sorcery.ie/posts/higherlogic_rce/, Insecure-deserialization
-- https://kazet.cc/2022/02/03/fuzzing-wordpress-plugins.html, XSS
 - https://web.archive.org/web/20220612235502/https://bugs.0xdroopy.live/bugs/how-i-tracked-you-around-the-globe/, Information-disclosure
 - https://www.ash-king.co.uk/blog/abusing-Facebooks-call-to-action-to-launch-internal-deeplinks, CSRF
 - https://medium.com/@ladecruze/my-first-bounty-idor-self-xss-3000-cde89cbbc1b1, Self-XSS
@@ -3276,7 +3275,6 @@
 - https://medium.com/@swapmaurya20/a-simple-idor-to-account-takeover-88b8a1d2ec24, IDOR
 - https://medium.com/@ozguralp/weird-vulnerabilities-happening-on-load-balancers-shallow-copies-and-caches-9194d4f72322, Information-disclosure
 - https://techkranti.com/ssrf-aws-metadata-leakage, SSRF
-- https://medium.com/@mdisrail2468/a-step-by-step-walk-through-of-an-invalid-endpoint-acfbdc84b209, Information-disclosure
 - https://web.archive.org/web/20200305081812/https://0xatul.github.io/posts/2020/02/external-xml-entity-via-file-upload-svg/, XXE
 - https://www.amolbaikar.com/determine-users-with-detailed-role-model-on-behalf-of-any-facebook-application/, IDOR
 - https://web.archive.org/web/20200223073527/https://victoni.github.io/changing-userID-leads-to-data-leak/, IDOR
@@ -3308,7 +3306,6 @@
 - https://medium.com/bugbountywriteup/the-unexpected-bounty-a-story-of-zendesk-takeover-on-redacted-com-f2aa96ce2026, Subdomain-takeover
 - https://medium.com/nassec-cybersecurity-writeups/how-i-was-able-to-take-over-any-users-account-with-host-header-injection-546fff6d0f2, Host-header-injection
 - https://medium.com/@ozguralp/a-less-known-attack-vector-second-order-idor-attacks-14468009781a, IDOR
-- https://blog.securitybreached.org/2020/01/22/user-account-takeover-via-signup-feature-bug-bounty-poc/, Account-takeover
 - https://medium.com/bugbountywriteup/how-i-bought-my-way-to-subdomain-takeover-on-tokopedia-8c6697c85b4d, Subdomain-takeover
 - https://medium.com/@milanmagyar/ggvulnz-how-i-hacked-hundreds-of-companies-through-google-groups-b69c658c8924, Logic-flaw
 - https://noobe.io/articles/2020-01/how-i-found-bug-google-search-console, Logic-flaw
@@ -4348,7 +4345,6 @@
 - https://seanmelia.files.wordpress.com/2017/06/django-privilege-escalation-e28093-zero-to-superuser.pdf, Privilege-escalation
 - https://www.rafaybaloch.com/2017/06/stored-xss-csrf-and-clickjacking.html, Stored-XSS
 - https://www.rafaybaloch.com/2017/06/a-tale-of-another-sop-bypass-in-android.html, SOP-bypass
-- https://www.rafaybaloch.com/2017/06/android-browser-same-origin-policy.html, SOP-bypass
 - https://www.rafaybaloch.com/2017/06/paypal-mobile-verification-and-payment.html, Logic-flaw
 - https://www.rafaybaloch.com/2017/06/nokia-asha-series-lock-screen-bypass.html, Authentication-bypass
 - https://www.rafaybaloch.com/2017/06/android-browser-all-versions-address.html, Address-Bar-Spoofing
@@ -4470,7 +4466,6 @@
 - https://ahussam.me/One-payload-to-xss-them/, Flash-XSS
 - https://ahussam.me/Blind-sqli-Hootsuite/, Blind-SQL-injection
 - https://josipfranjkovic.blogspot.com/2015/07/the-easiest-bug-bounties-i-have-ever-won.html, IDOR
-- https://web.archive.org/web/20200313201545/http://www.anandpraka.sh/2015/06/how-i-hacked-zomatocom-to-see-data-of.html, IDOR
 - https://blog.darabi.me/2015/03/facebook-bypass-ads-account-roles.html, Authorization-flaw
 - https://josipfranjkovic.blogspot.com/2015/04/race-conditions-on-facebook.html, Race-condition
 - https://blog.zimperium.com/telegram-hack/, Privacy-issue
