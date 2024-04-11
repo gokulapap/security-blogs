@@ -1,1 +1,2 @@
 - https://medium.com/@spazzyy/bug-bounty-101-always-check-the-source-code-1adaf3f59567
+- https://medium.com/@vedanttekale20/story-of-an-interesting-bug-de07fbef4017

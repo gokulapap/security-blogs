@@ -1,1 +1,2 @@
 - https://medium.com/@thedarkwayg/bypass-authentication-1bfab09332fe
+- https://medium.com/@zer0d/how-i-found-3-bug-bounties-in-a-day-c82fe023716e

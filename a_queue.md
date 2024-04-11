@@ -193,7 +193,6 @@
 - https://medium.com/@akash0x0/p3-bug-in-just-2-minute-fc6bf1710757, journey
 - https://medium.com/@vflexo/full-account-takeover-via-open-redirection-41c167db46, ATO
 - https://medium.com/@renwa/the-underrated-bugs-clickjacking-css-injection-drag-drop-xss-cookie-bomb-login-logout-csrf-84307a98fffa, low-hangings
-- https://medium.com/@evilox/testing-and-bypassing-technique-for-open-redirection-vulnerability-ca1bc6c851c5, open-redirection
 - https://medium.com/@huang-h-kevin/from-retargeting-to-rce-my-journey-from-advertising-to-cybersecurity-4c6149a25c58, journey
 - https://medium.com/@neroli/how-we-was-able-to-takeover-whole-organization-via-privilege-escalation-4f74b31a84a6, privilege-escalation
 - https://medium.com/@AhmedMhesham/easiest-way-to-get-subdomain-takeover-76f444c8ee6f, STO
@@ -1242,7 +1241,6 @@
 - https://medium.com/@nynan/how-i-didnt-get-an-rce-in-a-200-billion-company-bug-bounty-377afb2fb4ec, RCE
 - https://hesec.de/posts/bbh-csrf/, CSRF
 - https://medium.com/@cyberali/contentful-access-token-disclosure-in-android-apk-ace5f7bdf98, Information-disclosure
-- https://medium.com/@zer0d/how-i-found-3-bug-bounties-in-a-day-c82fe023716e, Session-expiration-issue
 - https://medium.com/@Parag_Bagul/how-i-was-able-to-bypass-philips-authentication-c3bd3e1df9ff, Outdated-component-with-a-known-vulnerability
 - https://www.legitsecurity.com/blog/bypassing-github-required-reviewers-to-submit-malicious-code, Authorization-flaw
 - https://www.graplsecurity.com/post/attacking-firecracker, Memory-corruption
@@ -1464,7 +1462,6 @@
 - https://www.zerodayinitiative.com/blog/2022/7/13/cve-2022-30136-microsoft-windows-network-file-system-v4-remote-code-execution-vulnerability, RCE
 - https://medium.com/@rodricbr/from-open-redirect-to-reflected-xss-manually-64e633a3d23f, Open-redirect
 - https://medium.com/@numanturle/microsoft-teams-stored-xss-bypass-csp-8b4a7f5fccbf, XSS
-- https://www.microsoft.com/security/blog/2022/07/13/uncovering-a-macos-app-sandbox-escape-vulnerability-a-deep-dive-into-cve-2022-26706/, Local-Privilege-Escalation
 - https://thinkermaruf.medium.com/hacking-on-a-private-program-salseforce-crm-12bfef43fcc7, RCE
 - https://voidzone.me/cve-2022-29885-apache-tomcat-cluster-service-dos/, DoS
 - https://bishopfox.com/blog/netwrix-auditor-advisory, Insecure-deserialization
@@ -2198,7 +2195,6 @@
 - https://medium.com/@gguzelkokar.mdbf15/huge-impact-server-side-request-forgery-in-production-app-20bf0cc5731, SSRF
 - https://medium.com/@nehpatel/story-of-unexpected-bugs-75734d51ac57, IDOR
 - https://web.archive.org/web/20210909040725/https://obsrva.org/2021/08/22/monkeytype-disclosure.html, Stored-XSS
-- https://monish-basaniwal.medium.com/how-i-found-my-first-subdomain-takeover-vulnerability-b7d5c17b61fd, Subdomain-takeover
 - https://www.yesnaveen.com/whatsapp-number-disclosure, Information-disclosure
 - https://tuhin1729.medium.com/account-takeover-via-access-token-leakage-687276953408, IDOR
 - https://zemnmez.medium.com/how-to-hack-apple-id-f3cc9b483a41, XSS
@@ -2790,7 +2786,6 @@
 - https://0xt4144t.medium.com/rate-limit-bypassing-allowing-identity-spoofing-789b2fe2efa8, Rate-limiting-bypass
 - https://grumpinout.medium.com/manual-broken-link-monitoring-bcc064f5f5f2, Broken-link-hijacking
 - https://testbnull.medium.com/weblogic-rce-by-only-one-get-request-cve-2020-14882-analysis-6e4b09981dbf, RCE
-- https://medium.com/@vedanttekale20/story-of-an-interesting-bug-de07fbef4017, Lack-of-rate-limiting
 - https://ynoof.medium.com/error-based-sql-injection-on-a-wordpress-website-and-extract-more-than-150k-user-details-f65f987c2cc0, SQL-injection
 - https://medium.com/bugbountywriteup/the-youtube-bug-that-allowed-uploads-to-any-channel-3b41c7b7902a, IDOR
 - https://www.mysk.blog/2020/10/25/link-previews/, Information-disclosure
