@@ -1,3 +1,4 @@
 - https://4bdoz.medium.com/trick-to-bypass-rate-limit-of-password-reset-functionality-a9923d3d7c4b
 - https://medium.com/bugbountywriteup/bypassing-rate-limit-abusing-misconfiguration-rules-dcd38e4e1028
 - https://zeroxuf.medium.com/rate-limit-bypass-leads-to-0-click-ato-9f1b29daec42
+- https://lokeshdlk77.medium.com/confirming-any-new-email-address-bug-in-facebook-part-4-70cfe1b4dca5

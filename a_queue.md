@@ -678,7 +678,6 @@
 - https://github.blog/2023-02-23-the-code-that-wasnt-there-reading-memory-on-an-android-device-by-accident/, Kernel-hacking
 - https://sensepost.com/blog/2023/decoding-blazorpack/, Websockets
 - https://sl4x0.medium.com/how-i-got-into-nokia-hof-in-5-mins-99ce16583bd4, Information-disclosure
-- https://www.vicarius.io/vsociety/blog/unauthenticated-rce-in-goanywhere, Insecure-deserialization
 - https://www.codean.io/blog/vulnerability-write-up---%22dangerous-assumptions%22, Prototype-pollution
 - https://medium.com/@rramgattie/exploiting-parameter-pollution-in-golang-web-apps-daca72b28ce2, Authorization-flaw
 - https://medium.com/@knassar702/with-a-single-request-you-can-kill-any-gitea-server-1275c5f3b226, Application-level-DoS
@@ -1406,7 +1405,6 @@
 - https://shahjerry33.medium.com/http-parameter-pollution-its-contaminated-again-95c75b0295e1, HTTP-parameter-pollution
 - https://www.synacktiv.com/publications/cve-2022-31813-forwarding-addresses-is-hard.html, Host-header-injection
 - https://www.sonarsource.com/blog/disclosing-information-with-a-side-channel-in-django/, Side-channel-attack
-- https://blog.includesecurity.com/2022/07/hunting-for-mass-assignment-vulnerabilities-using-github-codesearch-and-grep-app/, Mass-assignment
 - https://pentest.blog/advisory-roxy-wi-unauthenticated-remote-code-executions-cve-2022-31137/, RCE
 - https://jhftss.github.io/CVE-2022-26712-The-POC-For-SIP-Bypass-Is-Even-Tweetable/, MacOS
 - https://medium.com/@emirpolat/cve-2022-36446-webmin-1-997-7a9225af3165, RCE
@@ -2166,7 +2164,6 @@
 - https://www.zerodayinitiative.com/blog/2021/9/2/cve-2021-2429-a-heap-based-buffer-overflow-bug-in-the-mysql-innodb-memcached-plugin, Memory-corruption
 - https://research.checkpoint.com/2021/now-patched-vulnerability-in-whatsapp-could-have-led-to-data-exposure-of-users/, Memory-corruption
 - https://cho0k.com/wp-content/uploads/2021/08/FullPoC.pdf, Privilege-escalation
-- https://www.tnirmal.com.np/2021/08/dropping-root-shell-in-crypto-exchange.html, RCE
 - https://theshubh77.medium.com/bypassing-2-factor-authentication-for-facebook-business-manager-bounty-1000-usd-c78c858459d6, MFA-bypass
 - https://v3d.medium.com/broken-access-control-leads-to-change-of-admin-details-a783e31729c4, Privilege-escalation
 - https://www.zerodayinitiative.com/blog/2021/8/30/proxytoken-an-authentication-bypass-in-microsoft-exchange-server, Authentication-bypass
@@ -2198,7 +2195,6 @@
 - https://www.yesnaveen.com/whatsapp-number-disclosure, Information-disclosure
 - https://tuhin1729.medium.com/account-takeover-via-access-token-leakage-687276953408, IDOR
 - https://zemnmez.medium.com/how-to-hack-apple-id-f3cc9b483a41, XSS
-- https://lokeshdlk77.medium.com/confirming-any-new-email-address-bug-in-facebook-part-4-70cfe1b4dca5, Rate-limiting-bypass
 - https://blog.melbadry9.xyz/dangling-dns/xyz-services/ddns-announcekit, Subdomain-takeover
 - https://blog.oversecured.com/Two-weeks-of-securing-Samsung-devices-Part-2/, Arbitrary-file-write
 - https://sick.codes/sick-2021-109/, Privacy-issue
@@ -3057,7 +3053,6 @@
 - https://medium.com/@NinadMishra/dos-and-bugbounties-a-series-of-dos-attacks-on-hackerone-9c8316e192c9, DoS
 - https://medium.com/@mudassirsharief58/hunt-for-sql-injection-the-smart-way-db85243a4e90, SQL-injection
 - https://medium.com/@__mr_beast__/the-frustrating-xss-33607894a071, XSS
-- https://www.synack.com/blog/guest-blog-from-file-upload-to-rce/, Unrestricted-file-upload
 - https://medium.com/@bachrudinashari/privilege-escalation-by-changing-http-response-admin-access-5e67c44713f6, Privilege-escalation
 - https://medium.com/@silentbronco/the-p5-link-injection-story-2632e61f62b7, Hyperlink-injection
 - https://medium.com/swlh/abusing-microsoft-teams-rate-limiting-for-ddos-a8238958376a, DoS

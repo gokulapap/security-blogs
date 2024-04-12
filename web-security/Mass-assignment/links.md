@@ -1,1 +1,2 @@
 - https://iamnoob.medium.com/bugbounty-how-do-i-get-a-premium-tier-account-without-paying-a-penny-767921a6c4e4
+- https://blog.includesecurity.com/2022/07/hunting-for-mass-assignment-vulnerabilities-using-github-codesearch-and-grep-app/

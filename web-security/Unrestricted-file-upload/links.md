@@ -11,3 +11,4 @@
 - https://medium.com/@haroonhameed_76621/achieving-remote-code-execution-via-unrestricted-file-upload-6050f360c218
 - https://web.archive.org/web/20200328011551/https://medium.com/@godofdarkness.msf/tumblr-bug-bounty-200-2051ba54e981
 - https://supras.io/exploitation-of-the-cve-2018-15961-unrestricted-file-upload-in-adobe-coldfusion/
+- https://www.synack.com/blog/guest-blog-from-file-upload-to-rce/
