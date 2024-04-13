@@ -9,3 +9,4 @@
 - https://spaceraccoon.dev/applying-offensive-reverse-engineering-to-facebook-gameroom
 - https://secfault-security.com/blog/ms-app-center.html
 - https://www.vicarius.io/vsociety/blog/unauthenticated-rce-in-goanywhere
+- https://frycos.github.io/vulns4free/2023/02/06/goanywhere-forgotten.html

@@ -747,7 +747,6 @@
 - https://eaton-works.com/2023/02/06/toyota-gspims-hack/, Authentication-bypass
 - https://securitylabs.datadoghq.com/articles/aws-console-rate-limit-bypass/, Rate-limiting-bypass
 - https://pyn3rd.github.io/2023/02/06/Apache-Commons-SCXML-Remote-Code-Execution/, RCE
-- https://frycos.github.io/vulns4free/2023/02/06/goanywhere-forgotten.html, Insecure-deserialization
 - https://medium.com/@2os5/easy-account-takeover-on-dell-subdomain-6297460741fd, Password-reset
 - https://bloggerrando.blogspot.com/2023/02/06-2.html, Logic-flaw
 - https://security.lauritz-holtmann.de/post/xss-ato-gadgets/, SSO
@@ -2275,7 +2274,6 @@
 - https://medium.com/@kalvik/pre-denial-of-service-set-up-2fa-on-unverified-account-8399af52ea2d, Application-level-DoS
 - https://infosecwriteups.com/critical-bug-bounty-reports-part-1-6fd9aef4b486, Account-takeover
 - https://infosecwriteups.com/reflected-xss-through-insecure-dynamic-loading-dbf4d33611e0, XSS
-- https://web.archive.org/web/20210711090831/https://palisade.consulting/blog/link-hijacking-binances-shortlinks-through-appsflyer, Broken-link-hijacking
 - https://infosecwriteups.com/account-takeovers-believe-the-unbelievable-bb98a0c251a4, Account-takeover
 - https://medium.com/pentesternepal/facebook-email-phone-disclosure-using-binary-search-d50430758c54, Password-reset
 - https://mrd0x.com/discovering-mcafee-products-zero-day-vulnerabilities/, Local-Privilege-Escalation
@@ -3567,7 +3565,6 @@
 - https://gauravnarwani.com/injecting-6200-to-1200/, SSTI
 - https://wwws.nightwatchcybersecurity.com/2019/07/02/another-download-protection-bypass-in-google-chrome-bin-files-in-mac-os/, Browser-hacking
 - https://medium.com/@kanchansinghyadav/one-more-parameter-manipulation-bug-7fa0551a6021, Parameter-tampering
-- https://web.archive.org/web/20200928092650/https://pwnsec.ninja/2019/06/28/facebook-bugbounty-short-story-on-page-admin-disclosure/, Authorization-flaw
 - https://medium.com/@reegun/nuget-squirrel-uncontrolled-endpoints-leads-to-arbitrary-code-execution-80c9df51cf12, RCE
 - https://medium.com/@androgaming1912/gain-adfly-smtp-access-with-ssrf-via-gopher-protocol-26a26d0ec2cb, SSRF
 - https://philippeharewood.com/view-facebook-payouts-for-any-facebook-trivia-game/, Information-disclosure
@@ -3807,7 +3804,6 @@
 - https://medium.com/@jacopotediosi/how-i-hacked-altervista-org-f23d011cdb96, Open-redirect
 - https://www.ash-king.co.uk/downloading-any-file-via-facebook-android.html, Authorization-flaw
 - http://infosecflash.com/2019/01/05/how-i-could-have-taken-over-any-pinterest-account/, CSRF
-- https://medium.com/@parthshah14031998/how-i-stumbled-upon-a-stored-xss-my-first-bug-bounty-story-2793300d82bb, Stored-XSS
 - https://medium.com/@maxpasqua/stealing-side-channel-attack-tokens-in-facebook-account-switcher-90c5944e3b58, Token-leak
 - https://web.archive.org/web/20191217045127/https://medium.com/vulnerables/yes-i-can-see-your-otp-9334cd27f021, IDOR
 - https://www.hackerinside.me/2019/01/a-tricky-open-redirect.html, Open-redirect
@@ -4099,7 +4095,6 @@
 - https://medium.com/@emenalf/how-i-got-hall-of-fame-in-two-fortune-500-companies-an-rce-story-9c89cead81ff, RCE
 - http://cybristerboy.blogspot.com/2018/05/how-i-was-able-to-get-admin-panel-on.html, Weak-credentials
 - https://andresriancho.com/recaptcha-bypass-via-http-parameter-pollution, Captcha-bypass
-- https://wesecureapp.com/blog/persistent-xss-to-steal-passwords-paypal/, Stored-XSS
 - https://medium.com/@r99tiq/idor-how-i-was-able-to-see-any-private-album-passwrod-in-picturepush-264913f45e10, IDOR
 - https://medium.com/@BgxDoc/bugbounty-how-i-was-able-to-hack-any-user-account-via-password-reset-9009d84d94ff, IDOR
 - https://poc-server.com/blog/2018/05/22/rce-by-uploading-a-web-config, RCE

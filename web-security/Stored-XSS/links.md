@@ -27,3 +27,5 @@
 - https://guptashubham.com/stored-xss-in-unifi-v4-8-12-controller/
 - https://jasminderpalsingh.info/stored-xss-in-google-doubleclick-studio-google-research-grant/
 - https://c4rrilat0r.medium.com/how-i-managed-to-trigger-xss-automatically-to-get-critical-account-takeover-92ea3abcaf9
+- https://wesecureapp.com/blog/persistent-xss-to-steal-passwords-paypal/
+- https://medium.com/@parthshah14031998/how-i-stumbled-upon-a-stored-xss-my-first-bug-bounty-story-2793300d82bb

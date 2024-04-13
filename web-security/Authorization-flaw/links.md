@@ -40,3 +40,4 @@
 - https://xko2x.medium.com/how-i-was-able-to-bypass-a-pin-code-protection-8352295bb4fb
 - https://medium.com/@aakashadhikari786/weak-password-setting-function-on-practo-com-79df78245b81
 - https://medium.com/@yaala/bypassing-message-request-inbox-cf54f859dd25
+- https://web.archive.org/web/20200928092650/https://pwnsec.ninja/2019/06/28/facebook-bugbounty-short-story-on-page-admin-disclosure/

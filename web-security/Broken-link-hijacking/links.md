@@ -2,3 +2,4 @@
 - https://shahjerry33.medium.com/broken-link-hijacking-mr-user-agent-cd124297f6e6
 - https://bergee.it/blog/broken-links-hijacking-and-cdn-takeover/
 - https://proviesec.medium.com/broken-link-hijacking-404-google-play-store-xxx-bounty-96e79a8dfd71
+- https://web.archive.org/web/20210711090831/https://palisade.consulting/blog/link-hijacking-binances-shortlinks-through-appsflyer
