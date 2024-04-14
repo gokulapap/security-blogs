@@ -53,3 +53,4 @@
 - https://medium.com/@ritishkumarsingh/facebook-vulnerability-non-unfriendable-user-in-hacked-workflow-5a3b392a2a98
 - https://edoverflow.com/2018/logic-flaws-in-wot-services
 - https://bugwriteups.tech/logical-bug-which-let-me-stop-users-from-creating-ads-at-a-website
+- https://www.n00py.io/2023/01/bypassing-amazon-kids-parental-controls/

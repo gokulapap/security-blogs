@@ -367,7 +367,6 @@
 - https://medium.com/@malekmahmed55/turning-a-50-tab-nabbing-vulnerability-into-a-1000-account-takeover-9c3f32cb2d84, Reverse-tabnabbing
 - https://ssd-disclosure.com/ssd-advisory-roundcube-markasjunk-rce/, RCE
 - https://jhftss.github.io/CVE-2022-32902-Patch-One-Issue-and-Introduce-Two/, TCC-bypass
-- https://evait.medium.com/a-short-white-box-code-audit-of-avo-2083b08f3a95, Stored-XSS
 - https://blog.redteam-pentesting.de/2023/storing-passwords/, Pass-the-Hash
 - https://portswigger.net/research/bypassing-csp-via-dom-clobbering, DOM-Clobbering
 - https://infosecwriteups.com/send-email-from-anyone-to-any-user-outlook-microsoft-69fce333066d, Open-mail-relay
@@ -539,7 +538,6 @@
 - https://canvatechblog.com/discovering-headroll-cve-2023-0704-in-chromium-2e7f66fc130c, SOP-bypass
 - https://bishopfox.com/blog/windows-task-scheduler-19044-advisory, Unquoted-search-path
 - https://medium.com/@evan.connelly/post-account-takeover-account-takeover-of-internal-tesla-accounts-bc720603e67d, Account-takeover
-- https://www.n00py.io/2023/01/bypassing-amazon-kids-parental-controls/, Logic-flaw
 - https://kuldeep.io/posts/holiday-hunting-with-aquatone/, SSRF
 - https://mmmds.pl/cyberghostvpn-mitm-rce-lpe/, RCE
 - https://chevonphillip.medium.com/blind-xss-via-sms-support-chat-1100-bug-bounty-779a1e19cc51, Blind-XSS
@@ -899,7 +897,6 @@
 - https://medium.com/@M0X0101/how-i-was-able-to-steal-users-credentials-via-swagger-ui-dom-xss-e84255eb8c96, DOM-XSS
 - https://infosecwriteups.com/directory-ttraversal-vulnerability-in-huawei-hg255s-products-dce941a1d015, Path-traversal
 - https://www.microsoft.com/en-us/security/blog/2022/12/19/gatekeepers-achilles-heel-unearthing-a-macos-vulnerability/, Local-Privilege-Escalation
-- https://spaceraccoon.dev/analyzing-clipboardevent-listeners-stored-xss/, Stored-XSS
 - https://crypt0g30rgy.github.io/post/PaymentBypassTwo, Payment-bypass
 - https://0xraminfosec.medium.com/simple-cors-misconfig-leads-to-disclose-the-sensitive-token-worth-of-91433763f4d6, CORS-misconfiguration
 - https://omar0x01.medium.com/cve-2022-42710-a-journey-through-xxe-to-stored-xss-851d74dfe917, Stored-XSS
@@ -2240,7 +2237,6 @@
 - https://blog.niksthehacker.com/xxe-in-public-transport-ticketing-mobile-app-81ae245c01a1, XXE
 - https://medium.com/@vikramroot/account-takeover-via-stored-xss-b774f7a2a3ab, Stored-XSS
 - https://medium.com/@sebastien.kaul/gaining-access-to-gcp-of-google-stadia-500-bounty-22f76ecc8e60, Information-disclosure
-- https://n1ghtmar3.medium.com/how-i-found-my-first-idor-in-hackerone-5d5f17bb431, IDOR
 - https://3bodymo.medium.com/how-i-earned-by-amazon-s3-bucket-misconfigurations-29d51ee510de, AWS-misconfiguration
 - https://haxolot.com/posts/2021/moodle_pre_auth_shibboleth_rce_part1/, RCE
 - https://web.archive.org/web/20210927021132/https://0xdln.ml/XSS-Special-Cases/, XSS
@@ -4185,7 +4181,6 @@
 - https://medium.com/@pig.wig45/json-csrf-attack-on-a-social-networking-site-hackerone-platform-3d7aed3239b0, CSRF
 - https://medium.freecodecamp.org/how-anyone-could-have-used-uber-to-ride-for-free-36cdee5ea854, Logic-flaw
 - https://medium.com/@saamux/full-account-takeover-through-cors-with-connection-sockets-179133384815, CORS-misconfiguration
-- https://web.archive.org/web/20191218054030/https://medium.com/@zk34911/yahoo-bug-bounty-unauthorized-access-to-unisphere-management-server-debugging-facility-on-448aeb6d0c94, Authorization-flaw
 - http://blog.jr0ch17.com/2018/No-RCE-then-SSH-to-the-box/, LFI
 - https://medium.com/bugbountywriteup/bugbounty-linkedln-how-i-was-able-to-bypass-open-redirection-protection-2e143eb36941, Open-redirect
 - https://web.archive.org/web/20200926101239/https://medium.com/@adeshkolte/asus-web-application-vulnerabilities-by-adesh-n-kolte-4c14a1bb8739, Directory-listing

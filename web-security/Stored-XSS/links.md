@@ -29,3 +29,5 @@
 - https://c4rrilat0r.medium.com/how-i-managed-to-trigger-xss-automatically-to-get-critical-account-takeover-92ea3abcaf9
 - https://wesecureapp.com/blog/persistent-xss-to-steal-passwords-paypal/
 - https://medium.com/@parthshah14031998/how-i-stumbled-upon-a-stored-xss-my-first-bug-bounty-story-2793300d82bb
+- https://spaceraccoon.dev/analyzing-clipboardevent-listeners-stored-xss/
+- https://evait.medium.com/a-short-white-box-code-audit-of-avo-2083b08f3a95

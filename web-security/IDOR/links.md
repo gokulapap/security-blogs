@@ -67,3 +67,4 @@
 - https://medium.com/@shakti.gtp/a-fever-worth-750-accessing-private-projects-d113c561311f
 - https://medium.com/nerd-for-tech/breaking-applications-logic-to-dos-attack-88326cd0dd82
 - https://web.archive.org/web/20200313201545/http://www.anandpraka.sh/2015/06/how-i-hacked-zomatocom-to-see-data-of.html
+- https://n1ghtmar3.medium.com/how-i-found-my-first-idor-in-hackerone-5d5f17bb431
