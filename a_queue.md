@@ -656,7 +656,6 @@
 - https://medium.com/@mullangisashank/the-vulnerability-that-exposed-an-un-website-to-remote-code-execution-dfe377b82049, Components-with-known-vulnerabilities
 - https://medium.com/@levshmelevv/10-000-bounty-for-exposed-git-to-rce-304c7e1f54, git-folder-disclosure
 - https://rollingpwn.github.io/BLE-Relay-Aattck/, Bluetooth
-- https://varmaanu001.medium.com/interesting-stored-xss-in-sandboxed-environment-to-full-account-takeover-32e541062938, Stored-XSS
 - https://infosecwriteups.com/how-did-i-found-rce-on-shareit-which-rewarded-bounty-7d4196bf1b52, Log4shell
 - https://nishantjain.tech/#/blog, GraphQL
 - https://medium.com/@omidxrz/command-injection-by-changing-the-logo-2d730887ab6c, RCE
@@ -1026,7 +1025,6 @@
 - https://medium.com/@raymond-lind/finding-reflected-xss-in-a-strange-way-289a4f3fa630, XSS
 - https://www.usenix.org/system/files/sec23summer_198-gilsenan-prepub.pdf, Cryptographic-issues
 - https://varmaanu001.medium.com/from-shodan-dork-to-grafana-local-file-inclusion-e77dc4cfc264, LFI
-- https://blog.northseapwn.top/2022/11/11/Windows-Kernel-Exploit-CVE-2022-35803-in-Common-Log-File-System/index.html, Windows
 - https://blog.oversecured.com/Discovering-vendor-specific-vulnerabilities-in-Android/, Android
 - https://unit42.paloaltonetworks.com/openlitespeed-vulnerabilities/, RCE
 - https://blog.sigstore.dev/how-sigstore-quickly-patched-an-upstream-vulnerability-76ba84ef1122, OAuth
@@ -1315,7 +1313,6 @@
 - https://www.bugbounty.info/2022/08/never-underestimate-power-of-open.html, Open-redirect
 - https://medium.com/@faique/account-takeover-worth-1000-611452063cf, Account-takeover
 - https://www.microsoft.com/security/blog/2022/08/19/uncovering-a-chromeos-remote-memory-corruption-vulnerability/, Memory-corruption
-- https://checkmarx.com/blog/amazon-quickly-fixed-a-vulnerability-in-ring-android-app-that-could-expose-users-camera-recordings/, XSS
 - https://monke.ie/xss-by-javascript-overriding/, XSS
 - https://blog.78researchlab.com/b9c80d00-d935-43b1-8805-969000df301d, DoS
 - https://www.whiteoaksecurity.com/blog/fishbowl-disclosure-cve-2022-29805/, Insecure-deserialization
@@ -3702,7 +3699,6 @@
 - https://medium.com/@newp_th/how-i-find-blind-xss-vulnerability-in-redacted-com-33af18b56869, Blind-XSS
 - https://medium.com/cesppa/escalating-ssrf-to-rce-f28c482eb8b9, SSRF
 - https://philippeharewood.com/cve-2018-16794-on-fs-thefacebook-com/, SSRF
-- https://websecblog.com/vulns/google-earth-studio-vulnerability/, IDOR
 - https://medium.com/@orthonviper/sql-injection-for-50-bounty-but-still-worth-reading-468442c1cc1a, SQL-injection
 - https://medium.com/@sharan.panegav/account-takeover-using-cross-site-websocket-hijacking-cswh-99cf9cea6c50, Cross-Site-WebSocket-Hijacking
 - https://www.imperva.com/blog/mapping-communication-between-facebook-accounts-using-a-browser-based-side-channel-attack/, Side-channel-attack
@@ -4166,7 +4162,6 @@
 - https://medium.freecodecamp.org/responsible-disclosure-how-i-could-have-hacked-all-facebook-accounts-f47c0252ae4d, Bruteforce
 - https://www.josipfranjkovic.com/blog/facebook-partners-portal-account-takeover, Information-disclosure
 - https://blog.intothesymmetry.com/2018/02/bug-bounty-left-over-and-rant-part-iii.html, OAuth
-- https://medium.com/bugbountywriteup/how-i-gained-access-to-sonys-database-f3ba08d0e035, Path-traversal
 - https://medium.com/bugbountywriteup/sql-injection-with-load-file-and-into-outfile-c62f7d92c4e2, SQL-injection
 - https://blog.securitybreached.org/2018/02/05/how-i-found-idor-on-twitters-acquisition-mopub-com/, IDOR
 - https://medium.com/bugbountywriteup/bugbounty-i-dont-need-your-current-password-to-login-into-your-account-how-could-i-e51a945b083d, Authentication-bypass

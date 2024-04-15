@@ -69,3 +69,4 @@
 - https://web.archive.org/web/20200313201545/http://www.anandpraka.sh/2015/06/how-i-hacked-zomatocom-to-see-data-of.html
 - https://n1ghtmar3.medium.com/how-i-found-my-first-idor-in-hackerone-5d5f17bb431
 - https://web.archive.org/web/20201008153910/https://medium.com/@adeshkolte/full-account-takeover-changing-email-and-password-of-any-user-through-api-parameters-3d527ab27240
+- https://websecblog.com/vulns/google-earth-studio-vulnerability/

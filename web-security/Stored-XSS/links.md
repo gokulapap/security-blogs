@@ -31,3 +31,4 @@
 - https://medium.com/@parthshah14031998/how-i-stumbled-upon-a-stored-xss-my-first-bug-bounty-story-2793300d82bb
 - https://spaceraccoon.dev/analyzing-clipboardevent-listeners-stored-xss/
 - https://evait.medium.com/a-short-white-box-code-audit-of-avo-2083b08f3a95
+- https://varmaanu001.medium.com/interesting-stored-xss-in-sandboxed-environment-to-full-account-takeover-32e541062938
