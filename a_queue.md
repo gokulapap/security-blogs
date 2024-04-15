@@ -86,7 +86,6 @@
 - https://medium.com/@gokulsspace/the-30000-bounty-affair-3f025ee6b834, journey
 - https://medium.com/@terjanq/clobbering-the-clobbered-advanced-dom-clobbering-8443547ebe94, misc
 - https://medium.com/@0xinfosec/cloudfare-xss-bypass-improper-csrf-token-leads-to-account-takeover-of-victim-account-b795fa429fc3, XSS
-- https://medium.com/@bdemir/a-pentesters-guide-to-cross-site-request-forgery-csrf-57adedbad4be, csrf
 - https://medium.com/@abhishekmorla/how-i-got-20-points-on-a-bugcrowd-private-program-429bc41d7143, journey
 - https://medium.com/@joelmcg1993/stored-xss-with-two-different-parameters-d9243cae3e6a, XSS
 - https://medium.com/@notifybugme/how-i-was-able-find-mass-leaked-aws-s3-bucket-from-js-file-6064a5c247f8, info-disclosure
@@ -2171,7 +2170,6 @@
 - https://riteshgohil-25.medium.com/ato-of-wordpress-website-4-digits-bounty-in-5-minute-cc888c4054c9, Exposed-registration-page
 - https://rizwansiddiqu1.medium.com/information-disclosure-via-api-misconfiguration-c05ed327f9d2, Information-disclosure
 - https://0xjin.medium.com/bug-bounty-my-remote-code-execution-da7bbd00925a, Default-credentials
-- https://web.archive.org/web/20210829191303/https://0u.ma/5, XSS
 - https://caesarevan23.medium.com/ssrf-external-service-interaction-for-find-real-ip-cloudflare-and-leads-to-sql-injection-c22c02243299, WAF-bypass
 - https://medium.com/@hackrider/exploiting-devops-get-source-code-d4f5825eb373, Information-disclosure
 - https://infosecwriteups.com/how-did-i-earned-6000-from-tokens-and-scopes-in-one-day-12f95c6bf8aa, Authorization-flaw
@@ -2610,7 +2608,6 @@
 - https://0xfabiof.github.io/stored-xss-tw/, Stored-XSS
 - https://www.shawarkhan.com/2021/01/analysing-crash-messages-to-achieve.html, OS-command-injection
 - https://logicbomb.medium.com/otp-bypass-account-takeover-to-admin-panel-ft-header-injection-16f2982a0136, OTP-bypass
-- https://medium.com/bugbountywriteup/business-logic-error-methodology-easy-way-poc-s-8195d8dee95b, Logic-flaw
 - https://www.intezer.com/blog/research/how-we-escaped-docker-in-azure-functions/, Privilege-escalation
 - https://medium.com/bugbountywriteup/bragging-rights-part-1-short-story-of-a-bug-wave-dbb88f48b604, IDOR
 - https://santuysec.com/2021/01/27/hijacking-google-drive-files-documents-photo-video-through-google-docs-sharing/, Clickjacking
@@ -3522,7 +3519,6 @@
 - https://medium.com/@mdhridoy_4607/1st-bounty-story-rewarded-300-idor-bc4e1708e8e0, IDOR
 - https://medium.com/@ronak_9889/solr-injection-by-abusing-local-parameters-on-zomato-com-a5cb7bef10d5, Solr-injection
 - https://web.archive.org/web/20200826192345/https://pwnsec.ninja/2019/07/26/facebook-bugbounty-tale-of-an-instagram-bug-disclosing-users-phone-number-via-checkpoint/, Information-disclosure
-- https://web.archive.org/web/20201008153910/https://medium.com/@adeshkolte/full-account-takeover-changing-email-and-password-of-any-user-through-api-parameters-3d527ab27240, IDOR
 - https://medium.com/@innocenthacker/how-i-found-the-most-critical-bug-in-live-bug-bounty-event-7a88b3aa97b3, Password-reset
 - https://blog.parthmalhotra.com/pwning-child-company-to-get-access-to-parentcompanys-slack-team/, SQL-injection
 - https://blog.evanricafort.com/2019/07/html-injection-in-clause-email.html, HTML-injection
@@ -4022,7 +4018,6 @@
 - https://medium.com/@logicbomb_1/bugbounty-paytm-customer-information-is-at-risk-indias-largest-digital-wallet-company-6f7116d4b2d5, IDOR
 - https://ioactive.com/discovering-and-exploiting-a-vulnerability-in-androids-personal-dictionary/, Privilege-escalation
 - https://web.archive.org/web/20201022195925/https://www.mohamedharon.com/2018/08/Shipttakeover.html, Subdomain-takeover
-- https://medium.com/@tomnomnom/crlf-injection-into-phps-curl-options-e2e0d7cfe545, CRLF-injection
 - https://medium.com/@thehackerish/how-i-could-access-your-internal-servers-steal-and-modify-your-image-repository-d477f79b329a, RCE
 - https://medium.com/@0xHyde/yahoo-two-xssi-vulnerabilities-chained-to-steal-user-information-750-bounty-e9bc6a41a40a, XSSI
 - https://www.youtube.com/watch?v=0oKHov6y6mw, Stored-XSS

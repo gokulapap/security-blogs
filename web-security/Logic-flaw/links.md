@@ -54,3 +54,4 @@
 - https://edoverflow.com/2018/logic-flaws-in-wot-services
 - https://bugwriteups.tech/logical-bug-which-let-me-stop-users-from-creating-ads-at-a-website
 - https://www.n00py.io/2023/01/bypassing-amazon-kids-parental-controls/
+- https://medium.com/bugbountywriteup/business-logic-error-methodology-easy-way-poc-s-8195d8dee95b

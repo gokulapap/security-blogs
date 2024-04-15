@@ -88,3 +88,4 @@
 - https://www.shawarkhan.com/2019/08/leveraging-angularjs-based-xss-to-privilege-escalation.html
 - https://medium.com/@dewangpanchal98/zero-day-xss-309916922ea6
 - https://kazet.cc/2022/02/03/fuzzing-wordpress-plugins.html
+- https://web.archive.org/web/20210829191303/https://0u.ma/5
