@@ -71,3 +71,5 @@
 - https://www.7elements.co.uk/resources/blog/facebooks-burglary-shopping-list/
 - https://medium.com/@mateusz.olejarka/finding-hidden-gems-vol-4-rakefile-a-k-a-how-to-get-aws-keys-again-ed0d840e0ec
 - https://medium.com/@mdisrail2468/a-step-by-step-walk-through-of-an-invalid-endpoint-acfbdc84b209
+- https://ahmdhalabi.medium.com/finding-hidden-login-endpoint-exposing-secret-client-id-88c3c2a1af45
+- https://fardeen-ahmed.medium.com/how-i-was-able-to-get-appreciation-from-the-organization-of-a-website-just-by-changing-a-sign-661042c97a98

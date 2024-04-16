@@ -2290,7 +2290,6 @@
 - https://smaranchand.com.np/2021/06/flywheel-subdomain-takeover/, Subdomain-takeover
 - https://web.archive.org/web/20210910154714/https://ricardoiramar.medium.com/msrc-is-confused-5d86b23c2e88, Dependency-confusion
 - https://gccybermonks.com/posts/msstorebypass/, Payment-tampering
-- https://fardeen-ahmed.medium.com/how-i-was-able-to-get-appreciation-from-the-organization-of-a-website-just-by-changing-a-sign-661042c97a98, Information-disclosure
 - https://blog.evanricafort.com/2021/06/generate-online-votes-using-race.html, Race-condition
 - https://craighays.com/cracking-encrypted-credit-card-numbers-exposed-by-api/, Information-disclosure
 - https://sm4rty.medium.com/stored-xss-via-invite-leading-to-mass-account-takeover-at-opera-a85ed257dd12, Stored-XSS
@@ -2516,7 +2515,6 @@
 - https://blog.melbadry9.xyz/ddns-ec2-ips-current-state, Dangling-DNS-records
 - https://medium.com/@mehdi.alouache/partially-disable-cybereason-edr-as-low-privileges-user-on-windows-1405fd53e90e, EDR-bypass
 - https://ashketchum.medium.com/stored-xss-in-google-ads-android-application-3133-70-373f6c361ff3, Stored-XSS
-- https://ahmdhalabi.medium.com/finding-hidden-login-endpoint-exposing-secret-client-id-88c3c2a1af45, Information-disclosure
 - https://cirius.medium.com/exploiting-a-hidden-and-forgotten-bug-49ce7ad4de39, SSRF
 - https://3bodymo.medium.com/the-easiest-2500-i-got-it-from-bug-bounty-program-8f47ea4aff22, Information-disclosure
 - https://lf.lc/vrp/181521559c/, Container-escape
@@ -2663,7 +2661,6 @@
 - https://parasarora06.medium.com/privilege-escalation-from-being-a-normal-user-to-admin-3f86896f1c93, Privilege-escalation
 - https://savebreach.com/facebook-page-admin-identity-disclosure-through-document-edit-history/, Information-disclosure
 - https://ysamm.com/?p=588, IDOR
-- https://rafi-ahamed.medium.com/api-based-idor-to-leaking-private-ip-address-of-6000-businesses-6bc085ac6a6f, IDOR
 - https://ysamm.com/?p=510, Account-takeover
 - https://medium.com/bugbountywriteup/facebook-bug-bounty-500-usd-a-blocked-fundraiser-organizer-would-be-unable-to-view-or-remove-5da9f86d2fa0, DoS
 - https://mohsinalibukc.medium.com/cross-domain-referrer-leakage-7873ada102ad, Cross-Domain-Referrer-Leakage
@@ -3298,7 +3295,6 @@
 - https://medium.com/@jonathan.leitschuh/update-want-to-take-over-the-java-ecosystem-all-you-need-is-a-mitm-d069d253fe23, MiTM
 - https://medium.com/@pratiky054/html-injection-unique-exploitation-a5c3d4e6fed8, HTML-injection
 - https://medium.com/nassec-cybersecurity-writeups/an-interesting-story-of-privilege-escalation-1da021e7fd0, Privilege-escalation
-- https://medium.com/@gguzelkokar.mdbf15/xss-on-sony-subdomain-feddaea8f5ac, Reflected-XSS
 - https://xvnpw.github.io/posts/from-dot-in-regex-to-ssrf-part-1/, SSRF
 - https://keenlab.tencent.com/en/2020/01/02/exploiting-wifi-stack-on-tesla-model-s/, Wifi-hacking
 - https://markus-krell.de/admin-capabilities-around-your-ears/, Local-Privilege-Escalation
@@ -4223,7 +4219,6 @@
 - https://medium.com/@valeriyshevchenko/how-to-delete-all-company-progress-by-one-rm-command-in-aws-s3-bucket-df9c44727d7b, AWS-misconfiguration
 - http://www.noob.ninja/2017/11/local-file-read-via-xss-in-dynamically.html, XSS
 - https://medium.com/@tungpun/from-ssrf-to-local-file-disclosure-58962cdc589f, SSRF
-- https://web.archive.org/web/20201013141953/https://medium.com/@adeshkolte/multiple-intel-vulnerabilities-adesh-kolte-9f74372db34c, Open-redirect
 - https://web.archive.org/web/20200819161548/https://medium.com/@adeshkolte/non-persistent-xss-at-microsoft-adesh-kolte-ad36b1b4a325, Reflected-XSS
 - https://blog.securitybreached.org/2017/11/04/access-localhost-via-virtual-host-virtual-host-enumeration/, vHost-misconfiguration
 - https://medium.com/bugbountywriteup/senstive-information-disclose-lead-to-join-any-organisation-40ab549011, Information-disclosure

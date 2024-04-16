@@ -22,3 +22,4 @@
 - https://ash-king.co.uk/facebook-bug-bounty-09-18.html
 - https://servicenger.com/blog/mobile/facebook-linkshim-protection-bypass-using-fb-webview/
 - https://medium.com/bugbountywriteup/transforming-a-domain-into-the-matrix-an-open-redirect-story-4bd87c3a8caa
+- https://web.archive.org/web/20201013141953/https://medium.com/@adeshkolte/multiple-intel-vulnerabilities-adesh-kolte-9f74372db34c
