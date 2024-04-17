@@ -42,3 +42,4 @@
 - https://medium.com/@yaala/bypassing-message-request-inbox-cf54f859dd25
 - https://web.archive.org/web/20200928092650/https://pwnsec.ninja/2019/06/28/facebook-bugbounty-short-story-on-page-admin-disclosure/
 - https://web.archive.org/web/20191218054030/https://medium.com/@zk34911/yahoo-bug-bounty-unauthorized-access-to-unisphere-management-server-debugging-facility-on-448aeb6d0c94
+- https://medium.com/@zahidali_93675/bypassed-facebook-phone-number-security-9e2d34dc063b

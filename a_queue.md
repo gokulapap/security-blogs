@@ -1307,7 +1307,6 @@
 - https://whereisk0shl.top/post/break-me-out-of-sandbox-in-old-pipe-cve-2022-22715-windows-dirty-pipe, Local-Privilege-Escalation
 - https://www.benthamsgaze.org/2022/08/22/vulnerability-in-linux-containers-investigation-and-mitigation/, Local-Privilege-Escalation
 - https://medium.com/@mullangisashank/how-a-port-scan-got-me-nokia-hall-of-fame-6f9b65e920e3, Missing-authentication
-- https://bergee.it/blog/blind-command-injection/, RCE
 - https://hackingguy.medium.com/failed-coding-assessment-to-remote-code-execution-a-case-study-part-1-1778934b3b34, RCE
 - https://www.michaelhorowitz.com/VPNs.on.iOS.are.scam.php, Privacy-issue
 - https://www.bugbounty.info/2022/08/never-underestimate-power-of-open.html, Open-redirect
@@ -3382,7 +3381,6 @@
 - https://blog.teddykatz.com/2019/11/12/github-actions-dos.html, DoS
 - https://fletchto99.dev/2019/november/slack-vulnerability/, CSS-injection
 - https://geleta.eu/2019/my-first-ssrf-using-dns-rebinfing/, SSRF
-- https://medium.com/@heinthantzin/a-simple-post-auth-bypass-leads-to-unauthorized-web-server-access-483c053c110e, Default-credentials
 - https://web.archive.org/web/20200604001225/https://hackking.net/threads/how-i-hacked-dutch-government-in-5-minutes-twitter-account-takeover.20/, Broken-link-hijacking
 - https://jinone.github.io/bugbounty-a-simple-ssrf/, SSRF
 - https://jinone.github.io/bugbounty-a-simple-ssrf/, SSRF
@@ -3896,7 +3894,6 @@
 - https://medium.com/@raushanraj_65039/google-sites-and-exploiting-same-origin-policy-d400bf569964, SOP-bypass
 - https://medium.com/japzdivino/harvesting-all-private-invites-using-leave-program-fast-tracked-invitation-and-security-email-a01c8b3ce76f, Logic-flaw
 - https://medium.com/@notsoshant/a-possibility-of-account-takeover-in-medium-8d950e547639, Account-takeover
-- https://www.itsecguy.com/xss-with-put-in-ghost-blog/, XSS
 - https://medium.com/bugbountywriteup/add-comment-on-a-private-oculus-developer-bug-report-93f35bc80b2c, IDOR
 - https://medium.com/japzdivino/security-teams-internal-attachments-can-be-exported-via-export-as-zip-feature-on-hackerone-35ca6ec2bf8b, Logic-flaw
 - https://blog.harshjaiswal.com/path-traversal-while-uploading-results-in-rce, Path-traversal
@@ -3928,7 +3925,6 @@
 - https://medium.com/@sivakrishnasamireddi/just-another-tale-of-severe-bugs-on-a-private-program-405870b03532, Open-redirect
 - https://medium.com/@logicbomb_1/bugbounty-from-finding-jenkins-instance-to-command-execution-secure-your-jenkins-instance-9bd1e75c2288, RCE
 - https://medium.com/@mantissts/thick-client-attacking-databases-the-fun-easy-way-6e31162b1335, Thick-client
-- https://medium.com/@mantissts/arbitrary-file-read-in-one-of-the-largest-crms-658caa2f05d2, LFI
 - https://medium.com/@ratnadip1998/how-i-got-4000-from-visma-for-rce-d541e6042086, RCE
 - https://www.kumar.ninja/2018/09/xss-surveydropboxcom.html, XSS
 - https://medium.com/@rahulraveendran06/weaponizing-xss-attacking-internal-domains-d8ba1cbd106d, Blind-XSS
@@ -4343,7 +4339,6 @@
 - http://mahmoudsec.blogspot.com/2017/02/sql-injection-in-update-query-bug.html, SQL-injection
 - https://ysx.me.uk/lightweight-markup-a-trio-of-persistent-xss-in-gitlab/, Stored-XSS
 - https://medium.com/@zahidali_93675/conflict-account-recovery-form-in-facebook-2b6e7d203cfd, Logic-flaw
-- https://medium.com/@zahidali_93675/bypassed-facebook-phone-number-security-9e2d34dc063b, Authorization-flaw
 - https://medium.com/@zahidali_93675/hijack-facebook-groups-721c08526326, Authorization-flaw
 - https://medium.com/@zahidali_93675/cross-site-request-forgery-in-facebook-86087201d8c, CSRF
 - https://web.archive.org/web/20170206221502/https://deadpool.sh/2017/RCE-Springs/, RCE

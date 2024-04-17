@@ -82,3 +82,4 @@
 - https://blog.lexfo.fr/xortigate-cve-2023-27997.html
 - https://research.aurainfosec.io/pentest/pentah0wnage/
 - https://www.tnirmal.com.np/2021/08/dropping-root-shell-in-crypto-exchange.html
+- https://bergee.it/blog/blind-command-injection/

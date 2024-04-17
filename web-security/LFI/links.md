@@ -6,3 +6,4 @@
 - https://xhzeem.me/posts/PHP-fopen-function-to-local-file-inclusion/read/
 - https://blog.dixitaditya.com/pwning-a-server-using-markdown
 - https://hateshape.github.io/general/2021/05/11/CVE-2020-35580.html
+- https://medium.com/@mantissts/arbitrary-file-read-in-one-of-the-largest-crms-658caa2f05d2

@@ -5,3 +5,4 @@
 - https://medium.com/@david_colombo/how-i-got-access-to-25-teslas-around-the-world-by-accident-and-curiosity-8b9ef040a028
 - https://infosecwriteups.com/domain-admin-compromise-in-3-hours-5778902604c9
 - https://www.synack.com/blog/default-credentials-still-a-problem-today/
+- https://medium.com/@heinthantzin/a-simple-post-auth-bypass-leads-to-unauthorized-web-server-access-483c053c110e
