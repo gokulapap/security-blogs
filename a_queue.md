@@ -3507,7 +3507,6 @@
 - https://medium.com/@dekeeu/reposted-2019-hacking-youtube-for-fun-and-profit-8685dd475e30, Authorization-flaw
 - https://web.archive.org/web/20210124152317/https://whitehathaji.blogspot.com/2019/07/paypal-bug-10k-all-secondary-users.html, IDOR
 - https://web.archive.org/web/20200928234656/https://www.mohamedharon.com/2019/07/sql-injection-in-private-sitecomloginphp.html, SQL-injection
-- https://medium.com/@mdhridoy_4607/1st-bounty-story-rewarded-300-idor-bc4e1708e8e0, IDOR
 - https://medium.com/@ronak_9889/solr-injection-by-abusing-local-parameters-on-zomato-com-a5cb7bef10d5, Solr-injection
 - https://web.archive.org/web/20200826192345/https://pwnsec.ninja/2019/07/26/facebook-bugbounty-tale-of-an-instagram-bug-disclosing-users-phone-number-via-checkpoint/, Information-disclosure
 - https://medium.com/@innocenthacker/how-i-found-the-most-critical-bug-in-live-bug-bounty-event-7a88b3aa97b3, Password-reset
@@ -3527,7 +3526,6 @@
 - https://medium.com/@saadahmedx/bypass-csrf-with-clickjacking-worth-1250-6c70cc263f40, CSRF
 - https://medium.com/bugbountywriteup/what-do-netcat-smtp-and-self-xss-have-in-common-stored-xss-a05648b72002, Stored-XSS
 - https://medium.com/bugbountywriteup/wrong-swipe-tinder-29fe1eb0203c, Information-disclosure
-- https://medium.com/a-bugz-life/the-bugs-are-out-there-hiding-in-plain-sight-12d056613ea3, IDOR
 - https://medium.com/@0x01devansh/facebook-bug-sending-messages-as-a-page-with-jobmanager-permission-763dc0d8e32c, Authorization-flaw
 - https://thezerohack.com/hack-any-instagram, Race-condition
 - https://samcurry.net/cracking-my-windshield-and-earning-10000-on-the-tesla-bug-bounty-program/, Blind-XSS
@@ -4075,7 +4073,6 @@
 - http://cybristerboy.blogspot.com/2018/05/how-i-was-able-to-get-admin-panel-on.html, Weak-credentials
 - https://andresriancho.com/recaptcha-bypass-via-http-parameter-pollution, Captcha-bypass
 - https://medium.com/@r99tiq/idor-how-i-was-able-to-see-any-private-album-passwrod-in-picturepush-264913f45e10, IDOR
-- https://medium.com/@BgxDoc/bugbounty-how-i-was-able-to-hack-any-user-account-via-password-reset-9009d84d94ff, IDOR
 - https://poc-server.com/blog/2018/05/22/rce-by-uploading-a-web-config, RCE
 - https://medium.com/ymedialabs-innovation/an-aws-managed-policy-that-allowed-granting-root-admin-access-to-any-role-51b409ea7ff0, Authorization-flaw
 - https://medium.com/@renwa/self-xss-csrf-to-stored-xss-54f9f423a7f1, Self-XSS
@@ -4130,7 +4127,6 @@
 - https://medium.com/@Alra3ees/google-adwords-3133-7-stored-xss-27bb083b8d27, Stored-XSS
 - https://blog.zimperium.com/cve-2017-13253-buffer-overflow-multiple-android-drm-services/, Memory-corruption
 - https://labs.detectify.com/2018/03/14/graphql-abuse/, GraphQL
-- https://medium.com/bugbountywriteup/bugbounty-how-i-was-able-to-compromise-any-user-account-via-reset-password-functionality-a11bb5f863b3, Logic-flaw
 - https://medium.com/@nuraalamdipu/union-based-sql-injection-write-up-a-private-company-site-273f89a49ed9, SQL-injection
 - https://medium.com/@agrawalsmart7/how-i-hacked-74k-users-of-a-website-869e8a0b319, Authorization-flaw
 - https://www.josipfranjkovic.com/blog/facebook-friendlist-paymentcard-leak, Information-disclosure
@@ -4178,7 +4174,6 @@
 - https://medium.com/bugbountywriteup/bugbounty-how-i-was-able-to-delete-anyones-account-in-an-online-car-rental-company-8a4022cc611, CSRF
 - https://corben.io/blog/18-1-11-chaining-yahoo-bugs, CORS-misconfiguration
 - https://medium.com/bugbountywriteup/bugbounty-how-i-was-able-to-read-chat-of-users-in-an-online-travel-portal-c55a1787f999, IDOR
-- https://web.archive.org/web/20200929023045/https://www.mohamedharon.com/2018/01/rce-vulnerabilite-in-yahoo-subdomain.html, RCE
 - https://blog.securitybreached.org/2018/02/04/hunting-insecure-direct-object-reference-vulnerabilities-for-fun-and-profit-part-1/, IDOR
 - https://research.digitalinterruption.com/2018/01/04/toytalk-bug-bounty-writeup/, Authentication-bypass
 - https://wwws.nightwatchcybersecurity.com/2018/01/04/rce-in-duolingos-tinycards-app-for-android-cve-2017-16905/, Content-injection

@@ -83,3 +83,4 @@
 - https://research.aurainfosec.io/pentest/pentah0wnage/
 - https://www.tnirmal.com.np/2021/08/dropping-root-shell-in-crypto-exchange.html
 - https://bergee.it/blog/blind-command-injection/
+- https://web.archive.org/web/20200929023045/https://www.mohamedharon.com/2018/01/rce-vulnerabilite-in-yahoo-subdomain.html

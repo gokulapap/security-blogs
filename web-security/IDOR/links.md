@@ -71,3 +71,6 @@
 - https://web.archive.org/web/20201008153910/https://medium.com/@adeshkolte/full-account-takeover-changing-email-and-password-of-any-user-through-api-parameters-3d527ab27240
 - https://websecblog.com/vulns/google-earth-studio-vulnerability/
 - https://rafi-ahamed.medium.com/api-based-idor-to-leaking-private-ip-address-of-6000-businesses-6bc085ac6a6f
+- https://medium.com/@mdhridoy_4607/1st-bounty-story-rewarded-300-idor-bc4e1708e8e0
+- https://medium.com/@BgxDoc/bugbounty-how-i-was-able-to-hack-any-user-account-via-password-reset-9009d84d94ff
+- https://medium.com/a-bugz-life/the-bugs-are-out-there-hiding-in-plain-sight-12d056613ea3

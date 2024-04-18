@@ -55,3 +55,4 @@
 - https://bugwriteups.tech/logical-bug-which-let-me-stop-users-from-creating-ads-at-a-website
 - https://www.n00py.io/2023/01/bypassing-amazon-kids-parental-controls/
 - https://medium.com/bugbountywriteup/business-logic-error-methodology-easy-way-poc-s-8195d8dee95b
+- https://medium.com/bugbountywriteup/bugbounty-how-i-was-able-to-compromise-any-user-account-via-reset-password-functionality-a11bb5f863b3
