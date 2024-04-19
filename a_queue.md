@@ -1492,7 +1492,6 @@
 - https://infosecwriteups.com/html-and-hyperlink-injection-via-share-option-in-microsoft-onenote-application-47e94d0e6478, HTML-injection
 - https://curl.se/docs/CVE-2022-32208.html, MiTM
 - https://curl.se/docs/CVE-2022-32207.html, Improper-Preservation-of-Permissions
-- https://curl.se/docs/CVE-2022-32206.html, DoS
 - https://curl.se/docs/CVE-2022-32205.html, DoS
 - https://blog.assetnote.io/2022/06/26/exploiting-ssrf-in-jira/, SSRF
 - https://bugs.php.net/bug.php?id=81719, Buffer-Overflow
@@ -1549,7 +1548,6 @@
 - https://gatolouco.medium.com/exploiting-amazon-active-vulnerability-d2554c8c7ffd, Payment-bypass
 - https://www.zerodayinitiative.com/blog/2022/6/7/cve-2022-26937-microsoft-windows-network-file-system-nlm-portmap-stack-buffer-overflow, Buffer-Overflow
 - https://security.humanativaspa.it/multiple-vulnerabilities-in-zyxel-zysh/, OS-command-injection
-- https://gccybermonks.com/posts/ssrfvision/, SSRF
 - https://machevalia.blog/blog/ivanti-epm-remote-code-execution, RCE
 - https://medium.com/@shakti.gtp/if-its-a-feature-let-s-abuse-it-for-750-19cfb9848d4b, CSRF
 - https://www.zerodayinitiative.com/blog/2022/6/1/is-exploiting-a-null-pointer-deref-for-lpe-just-a-pipe-dream, Memory-corruption
@@ -1835,7 +1833,6 @@
 - https://medium.com/@ladecruze/my-first-bounty-idor-self-xss-3000-cde89cbbc1b1, Self-XSS
 - https://logicbomb.medium.com/a-misconfigured-apache-airflow-to-aws-account-compromise-c905dc49998d, Outdated-component-with-a-known-vulnerability
 - https://sanyamchawla1999.medium.com/my-experience-of-hacking-the-dutch-government-8c219c61c795, XSS
-- https://medium.com/@noob_master/no-rate-limiting-on-otp-sending-39a3a9fc93f6, Bruteforce
 - https://medium.com/@damaidec/idor-vulnerability-on-invoice-and-weak-password-reset-leads-to-account-take-over-603b42143a8c, IDOR
 - https://www.zerodayinitiative.com/blog/2022/2/1/cve-2021-44142-details-on-a-samba-code-execution-bug-demonstrated-at-pwn2own-austin, Memory-corruption
 - https://systemweakness.com/a-peculiar-case-of-xss-and-my-first-bug-19f2132390b6, XSS
@@ -2420,7 +2417,6 @@
 - https://privatedrop.github.io, Privacy-issue
 - https://www.lutasecurity.com/post/new-clubhouse-security-vulnerabilities-could-happen-to-any-growing-unicorn, Logic-flaw
 - https://blog.ryotak.me/post/homebrew-security-incident-en/, RCE
-- https://websec.nl/blog/606ecfec2f798a048269340e/dmcacom%20hack%20full%20disclosure%20with%20proof-of-concept, Privilege-escalation
 - https://secret.club/2021/04/20/source-engine-rce-invite.html, RCE
 - https://jmrcsnchz.medium.com/playing-with-iframes-bypassing-content-security-policy-987c2f0b8e8a, CSP-bypass
 - https://feed.bugs.xdavidhu.me/bugs/0002, Authentication-bypass
@@ -3563,7 +3559,6 @@
 - https://medium.com/@ritishkumarsingh/facebook-vulnerability-unremovable-co-host-in-facebook-group-events-13a9ea28b302, Logic-flaw
 - https://medium.com/@osamaavvan/account-taker-with-clickjacking-ace744842ec3, Clickjacking
 - https://m0z.co/XSS-Filter-Evasion/, XSS
-- https://medium.com/@rohitcoder/business-user-employees-can-add-edit-change-or-apply-block-list-to-a-business-account-7b3e8aae667e, Authorization-flaw
 - https://visat.me/security/reflected-xss-in-tokopedia-train-ticket/, Reflected-XSS
 - https://smaranchand.com.np/2019/06/parameter-pollution-issue-in-api-resulting-xxx/, HTTP-parameter-pollution
 - https://medium.com/@saadahmedx/sql-injection-c87a390afdd3, SQL-injection

@@ -6,3 +6,4 @@
 - https://web.archive.org/web/20200820030054/https://medium.com/@protector47/5-005-worth-vulnerability-duplicated-how-i-loose-5-005-in-a-day-831f5a064713
 - https://medium.com/@maxpasqua/dos-across-facebook-endpoints-1d7d0bc27c7f
 - https://www.seekurity.com/blog/general/twitter-denial-of-service-bug-or-how-i-could-prevent-all-followers-from-reading-or-accessing-literally-any-tweets/
+- https://curl.se/docs/CVE-2022-32206.html
