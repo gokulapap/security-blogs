@@ -1824,7 +1824,6 @@
 - https://medium.com/@yaala/facebook-oauth-bypass-446a073e687d, OAuth
 - https://edoverflow.com/2022/bypassing-razers-dom-based-xss-filter/, DOM-XSS
 - https://kailashbohara.com.np/blog/2022/02/04/bypassing-PHP-functions-to-read-system-file-copy/, Components-with-known-vulnerabilities
-- https://kloudle.com/blog/the-infamous-8kb-aws-waf-request-body-inspection-limitation, WAF-bypass
 - https://omespino.com/write-up-private-bug-bounty-rce-in-ec2-instance-via-ssh-with-private-key-exposed-on-public-github-repository-xx000-usd/, Information-disclosure
 - https://spaceraccoon.dev/solving-dom-xss-puzzles, DOM-XSS
 - https://blog.sorcery.ie/posts/higherlogic_rce/, Insecure-deserialization
@@ -1878,7 +1877,6 @@
 - https://systemweakness.com/xss-filter-evasion-idor-3d4624758ff0, XSS
 - https://nmochea.medium.com/xiaomi-arbitrary-javascript-vulnerability-327a6f3a9b0e, XSS
 - https://medium.com/@frycos/searching-for-deserialization-protection-bypasses-in-microsoft-exchange-cve-2022-21969-bfa38f63a62d, Insecure-deserialization
-- https://systemweakness.com/c-s-t-i-lead-to-account-takeover-f21ea07d9141, CSTI
 - https://www.bitcrack.net/pwning-the-portal-from-database-dump-to-session-hijacking/, SQL-injection
 - https://medium.com/@veletisleri/how-i-downed-acronis-com-in-2-minutes-lucky-bug-write-up-a563bcdb563d, DoS
 - https://www.cyberark.com/resources/threat-research-blog/attacking-rdp-from-inside, RCE
@@ -2376,7 +2374,6 @@
 - https://notifybugme.medium.com/unauthorized-access-to-django-admin-dashboard-by-endpoint-leaked-on-github-5336969ddbbc, Missing-authentication
 - https://dewangpanchal98.medium.com/microsoft-bug-bounty-writeup-5ee4a7264dbf, Information-disclosure
 - https://mvinni.medium.com/workplace-by-facebook-unauthorized-access-to-companies-environment-27-5k-a593a57092f1, Authorization-flaw
-- https://takashi-suzuki.medium.com/apple-bug-bounty-xss-2021-78c2f4fc4106, XSS
 - https://www.offensive-security.com/offsec/macos-preferences-priv-escalation/, Local-Privilege-Escalation
 - https://blog.polybdenum.com/2021/05/05/how-i-hacked-google-app-engine-anatomy-of-a-java-bytecode-exploit.html, RCE
 - https://ysamm.com/?p=684, OAuth
@@ -3506,7 +3503,6 @@
 - https://medium.com/@ronak_9889/solr-injection-by-abusing-local-parameters-on-zomato-com-a5cb7bef10d5, Solr-injection
 - https://web.archive.org/web/20200826192345/https://pwnsec.ninja/2019/07/26/facebook-bugbounty-tale-of-an-instagram-bug-disclosing-users-phone-number-via-checkpoint/, Information-disclosure
 - https://medium.com/@innocenthacker/how-i-found-the-most-critical-bug-in-live-bug-bounty-event-7a88b3aa97b3, Password-reset
-- https://blog.parthmalhotra.com/pwning-child-company-to-get-access-to-parentcompanys-slack-team/, SQL-injection
 - https://blog.evanricafort.com/2019/07/html-injection-in-clause-email.html, HTML-injection
 - https://philippeharewood.com/subscribe-to-typing-notifications-for-any-instagram-user/, Authorization-flaw
 - https://blog.usejournal.com/shopping-products-for-free-parameter-tampering-vulnerability-8e09e1471596, Parameter-tampering
@@ -3807,7 +3803,6 @@
 - https://medium.com/bugbountywriteup/open-redirect-developers-are-lazy-or-maybe-busy-6c51718b10e4, Open-redirect
 - https://blog.nyangawa.me/security/CVE-2018-18649-Gitlab-RCE/, RCE
 - https://honoki.net/2018/12/from-blind-xxe-to-root-level-file-read-access/, Blind-XXE
-- https://medium.com/bugbountywriteup/bypass-cloudflare-waf-to-pwned-application-2c9e4f862319, WAF-bypass
 - https://medium.com/bugbountywriteup/how-i-was-able-to-generate-access-tokens-for-any-facebook-user-6b84392d0342, IDOR
 - https://medium.com/bugbountywriteup/token-brute-force-to-account-take-over-to-privilege-escalation-to-organization-take-over-650d14c7ce7f, Account-takeover
 - https://medium.com/@sampanna/self-xss-in-indeed-com-e0c99c104cba, XSS

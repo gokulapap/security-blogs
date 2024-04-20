@@ -1,0 +1,2 @@
+- https://medium.com/bugbountywriteup/bypass-cloudflare-waf-to-pwned-application-2c9e4f862319
+- https://kloudle.com/blog/the-infamous-8kb-aws-waf-request-body-inspection-limitation

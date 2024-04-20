@@ -91,3 +91,4 @@
 - https://web.archive.org/web/20210829191303/https://0u.ma/5
 - https://checkmarx.com/blog/amazon-quickly-fixed-a-vulnerability-in-ring-android-app-that-could-expose-users-camera-recordings/
 - https://www.itsecguy.com/xss-with-put-in-ghost-blog/
+- https://takashi-suzuki.medium.com/apple-bug-bounty-xss-2021-78c2f4fc4106
