@@ -778,7 +778,6 @@
 - https://blog.projectdiscovery.io/php-http-server-source-disclosure/, Source-code-disclosure
 - https://medium.com/@sudipshah_66336/disclosing-facebook-page-admins-by-playing-a-game-2b0f4ed082e4, Logic-flaw
 - https://github.blog/2023-01-27-bypassing-ognl-sandboxes-for-fun-and-charities/, OGNL-injection
-- https://positive.security/blog/ransack-data-exfiltration, Account-takeover
 - https://www.sonarsource.com/blog/openemr-remote-code-execution-in-your-healthcare-system/, RCE
 - https://www.rtcsec.com/article/kamailio-exec-module-considered-harmful/, OS-command-injection
 - https://www.akamai.com/blog/security-research/exploiting-critical-spoofing-vulnerability-microsoft-cryptoapi, Windows
@@ -957,7 +956,6 @@
 - https://hopesamples.blogspot.com/2022/11/the-space-creators-can-still-see.html, IDOR
 - https://www.synacktiv.com/sites/default/files/2022-11/trufusion_enterprise_unauthenticated_arbitrary_file_write.pdf, Unrestricted-file-upload
 - https://mc0wn.blogspot.com/2022/11/rce-on-apache-struts-2530.html, RCE
-- https://0xjin.medium.com/voip-spoofing-intigriti-1-250-57b99bf8bd2b, VoIP
 - https://www.synacktiv.com/sites/default/files/2022-11/CodeIgniter3_XSS_2022.pdf, Reflected-XSS
 - https://letshack.xyz/offensive/general-research/discord-exe-improper-input-validation, Security-code-review
 - https://medium.com/@Hossam.Mesbah/broken-access-control-misconfiguration-beautiful-privilege-escalation-e4fdfd018efa, Broken-Access-Control
@@ -1499,7 +1497,6 @@
 - https://medium.com/@shakti.gtp/an-out-of-scope-domain-leads-to-a-critical-bug-1500-f228d2c7db4b, Authorization-flaw
 - https://peterjson.medium.com/miracle-one-vulnerability-to-rule-them-all-c3aed9edeea2, Insecure-deserialization
 - https://blog.viettelcybersecurity.com/pwn2own-2021-microsoft-exchange-exploit-chain/, SSRF
-- https://www.rapid7.com/blog/post/2022/06/23/cve-2022-31749-watchguard-authenticated-arbitrary-file-read-write-fixed/, Argument-injection
 - https://medium.com/maverislabs/lock-screen-bypass-exploit-of-android-devices-cve-2022-20006-604958fcee3a, Authentication-bypass
 - https://bishopfox.com/blog/filestack-upload-advisory, XSS
 - https://palant.info/2020/06/22/exploiting-bitdefender-antivirus-rce-from-any-website/, RCE
@@ -3950,7 +3947,6 @@
 - https://blog.sagarvd.me/2018/09/youtube-csrf.html, CSRF
 - https://medium.com/@mahitman1/i-own-your-customers-22e965761abd, Information-disclosure
 - https://dev.to/antogarand/pwned-together-hacking-devto-hkd, Stored-XSS
-- https://medium.com/@rohanchavan/100-bounty-in-300-seconds-isnt-bad-4f4112c102ef, Stored-XSS
 - https://web.archive.org/web/20200929012934/https://www.mohamedharon.com/2018/08/mapboxxss.html, Reflected-XSS
 - https://medium.com/@D0rkerDevil/a-infinite-loop-story-f2bc05771a88, DoS
 - https://gauravnarwani.com/a-1000-bounty/, Information-disclosure
@@ -4385,7 +4381,6 @@
 - https://www.seekurity.com/blog/general/facebook-movies-recommendation-bug/, Logic-flaw
 - https://www.seekurity.com/blog/general/whatsapp-clickjacking-vulnerability-yet-another-web-client-failure, Clickjacking
 - https://www.seekurity.com/blog/write-ups/facebook-clickjacking-how-we-put-a-new-dress-on-facebook-ui/, Clickjacking
-- https://buer.haus/2016/04/18/yahoo-login-protection-seal-stored-css-injection/, CSS-injection
 - https://medium.com/@albeckshahar/facebook-invitees-email-address-disclosure-25059ae93725, Information-disclosure
 - https://whitton.io/articles/obtaining-tokens-outlook-office-azure-account/, CSRF
 - https://medium.com/swlh/watch-paint-dry-how-i-got-a-game-on-the-steam-store-without-anyone-from-valve-ever-looking-at-it-2e476858c753, Authorization-flaw

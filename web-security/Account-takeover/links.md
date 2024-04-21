@@ -35,3 +35,4 @@
 - https://medium.com/@baibhavanandjha/xx-to-xxx-in-one-day-9578858b6286
 - https://m7-arman.medium.com/zero-click-to-account-takeover-d764e12bee4b
 - https://blog.securitybreached.org/2020/01/22/user-account-takeover-via-signup-feature-bug-bounty-poc/
+- https://positive.security/blog/ransack-data-exfiltration
