@@ -114,7 +114,6 @@
 - https://medium.com/@burhanxd/my-first-nosql-injection-bug-e62bfe9950d9, sql-injection
 - https://medium.com/@justm0rph3u5/html-and-hyperlink-injection-via-share-option-in-microsoft-onenote-application-47e94d0e6478, injection
 - https://medium.com/@roberto.cyberkid/another-day-another-idor-vulnerability-5000-reddit-bug-bounty-22a75003d999, IDOR
-- https://medium.com/@sunilyedla/exploiting-max-character-limitation-cde982545019, misc
 - https://medium.com/@cypherthethird/cross-site-scripting-xss-for-dummies-9a7717bbd002, XSS
 - https://medium.com/@tomnomnom/making-a-blind-sql-injection-a-little-less-blind-428dcb614ba8, sql-injection
 - https://medium.com/@Parag_Bagul/how-i-found-moodle-cross-site-scripting-459a1c9ad4d5, XSS
@@ -2074,7 +2073,6 @@
 - https://sapt.medium.com/bypassing-403-protection-to-get-pagespeed-admin-access-822fab64c0b3, 403-bypass
 - https://encodedguy.medium.com/600-for-idor-file-or-folder-download-243166452dad, IDOR
 - https://rishuranjanofficial.medium.com/html-injection-in-itunesconnect-apple-com-3f8a898f21ee, HTML-injection
-- https://vanshal.medium.com/pre-auth-ssrf-to-full-mailbox-access-microsoft-exchange-server-exploit-a62c8ac04b47, SSRF
 - https://rohit443.medium.com/privilege-escalation-to-stored-xss-dff01314bc7e, Privilege-escalation
 - https://pentera.io/blog/vscalation-cve-2021-22015-local-privilege-escalation-in-vmware-vcenter-pentera-labs/, Local-Privilege-Escalation
 - https://blog.tint0.com/2021/09/pinging-xmlsec.html, XSLT
@@ -2249,7 +2247,6 @@
 - https://medium.com/@jawadmahdi/how-i-found-blind-sql-injection-just-by-browsing-and-getting-a-unique-url-ed87fa1f35ed, SQL-injection
 - https://krevetk0.medium.com/credential-stuffing-in-bug-bounty-hunting-7168dc1d3153, Credential-stuffing
 - https://aidilarf.medium.com/380-xss-stored-in-bigo-bug-bounty-program-a8b9529adcc4, XSS
-- https://vijetareigns.medium.com/forced-browsing-to-access-admin-panel-214a7defa2a5, Forced-browsing
 - https://rakesh-thodupunoori.medium.com/part-2-dive-into-zoom-applications-1b01091345c1, CSRF
 - https://medium.com/macoclock/apple-security-bounty-a-personal-experience-fe9a57a81943, Permission-bypass
 - https://tomorrowisnew.com/posts/broken-access-control-bug-bypassing-403-s-by-finding-another-endpoint-that-do-the-same-thing/, Broken-Access-Control
@@ -2794,9 +2791,7 @@
 - https://medium.com/@vedanttekale20/spend-more-time-doing-recon-youll-get-more-bugs-e7ffd5bf9202, Reflected-XSS
 - https://medium.com/@vasuyadav0786/exploiting-payment-gateways-97ce7af5a9cf, Payment-tampering
 - https://medium.com/@harshtya9i/journey-of-my-first-bug-bounty-nov-2018-af471c21efc0, Authentication-bypass
-- https://medium.com/@dPhoeniixx/arbitrary-code-execution-on-facebook-for-android-through-download-feature-fb6826e33e0f, Arbitrary-code-execution
 - https://medium.com/@ricardoiramar/the-powerful-http-request-smuggling-af208fafa142, HTTP-Request-Smuggling
-- https://omespino.com/write-up-google-bug-bounty-xss-to-cloud-shell-instance-takeover-rce-as-root-5000-usd/, XSS
 - https://medium.com/@amineaboud/story-of-a-weird-vulnerability-i-found-on-facebook-fc0875eb5125, Authentication-bypass
 - https://thinkloveshare.com/hacking/rce_on_spip_and_root_me/, RCE
 - https://medium.com/@pratyush1337/the-art-of-idor-7-idors-in-edm0d0-b86d683c8de9, IDOR

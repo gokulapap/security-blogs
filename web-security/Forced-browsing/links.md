@@ -1,0 +1,1 @@
+- https://vijetareigns.medium.com/forced-browsing-to-access-admin-panel-214a7defa2a5

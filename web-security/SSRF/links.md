@@ -49,3 +49,4 @@
 - https://web.archive.org/web/20210117211538/https://medium.com/@adeshkolte/how-i-found-xss-via-ssrf-vulnerability-adesh-kolte-873b30a6b89f
 - https://blog.assetnote.io/2021/12/26/chained-ssrf-websphere/
 - https://gccybermonks.com/posts/ssrfvision/
+- https://vanshal.medium.com/pre-auth-ssrf-to-full-mailbox-access-microsoft-exchange-server-exploit-a62c8ac04b47

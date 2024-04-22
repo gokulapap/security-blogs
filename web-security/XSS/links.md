@@ -92,3 +92,4 @@
 - https://checkmarx.com/blog/amazon-quickly-fixed-a-vulnerability-in-ring-android-app-that-could-expose-users-camera-recordings/
 - https://www.itsecguy.com/xss-with-put-in-ghost-blog/
 - https://takashi-suzuki.medium.com/apple-bug-bounty-xss-2021-78c2f4fc4106
+- https://omespino.com/write-up-google-bug-bounty-xss-to-cloud-shell-instance-takeover-rce-as-root-5000-usd/

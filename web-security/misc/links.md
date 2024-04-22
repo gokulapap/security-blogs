@@ -1,3 +1,4 @@
 - https://medium.com/@dewcode/how-did-i-earn-by-breaking-the-back-end-logic-of-the-server-fd94882cbdf6
 - https://medium.com/@omerxx/hacking-your-application-may-be-easier-than-you-think-c822d77ec58b
 - https://medium.com/@nynan/bug-bounty-wordlists-please-do-them-properly-2110babcf482
+- https://medium.com/@sunilyedla/exploiting-max-character-limitation-cde982545019
