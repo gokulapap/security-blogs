@@ -33,3 +33,4 @@
 - https://evait.medium.com/a-short-white-box-code-audit-of-avo-2083b08f3a95
 - https://varmaanu001.medium.com/interesting-stored-xss-in-sandboxed-environment-to-full-account-takeover-32e541062938
 - https://medium.com/@rohanchavan/100-bounty-in-300-seconds-isnt-bad-4f4112c102ef
+- https://www.synacktiv.com/sites/default/files/2023-04/Synacktiv-ZimbraConnect-CVE-2022-41348.pdf

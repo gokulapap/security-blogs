@@ -5,3 +5,4 @@
 - https://therceman.medium.com/350-xss-in-15-minutes-dcb74ad93d5f
 - https://ysamm.com/?p=493
 - https://opnsec.com/2020/05/dom-xss-in-gmail-with-a-little-help-from-chrome
+- https://www.vpnmentor.com/blog/dom-xss-bug-affecting-tinder-shopify-yelp/

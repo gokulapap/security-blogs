@@ -526,7 +526,6 @@
 - https://medium.com/@ch3tanbug/how-i-was-able-to-change-password-of-any-corporate-user-c68b9509840, Account-takeover
 - https://0xwise.medium.com/are-clicking-links-safe-f7cfcae2e421, Android
 - https://shahjerry33.medium.com/sql-wildcard-dos-hang-till-death-adbae66d1f7b, DoS
-- https://www.synacktiv.com/sites/default/files/2023-04/Synacktiv-ZimbraConnect-CVE-2022-41348.pdf, Stored-XSS
 - https://testbnull.medium.com/phân-t%C3%ADch-lỗ-hổng-sharepoint-webpart-property-traversal-cve-2022-38053-cve-2023-21742-bc6931698a5f, Property-traversal
 - https://dev.to/mikesamuel/2008-silently-securing-jsonparse-5cbb, Parsing-issue
 - https://blog.exodusintel.com/2023/04/06/escaping-adobe-sandbox-exploiting-an-integer-overflow-in-microsoft-windows/, Integer-overflow
@@ -1579,7 +1578,6 @@
 - https://cyllective.com/blog/post/research_audit_wordpress_plugins/, SQL-injection
 - https://blog.bitcrack.net/pwning-portals-error-based-sqli-using-websockets/, SQL-injection
 - https://medium.com/@mohamedtaha_42562/from-wayback-to-account-takeover-ea7e80600188, Information-disclosure
-- https://www.websec.ca/publication/Blog/CVE-2022-21404-Another-story-of-developers-fixing-vulnerabilities-unknowingly-because-of-CodeQL, Insecure-deserialization
 - https://blog.ret2.io/2022/05/19/pwn2own-2021-parallels-desktop-exploit/, Memory-corruption
 - https://quip.com/Uks4AzL33oAu, IDOR
 - https://jspin.re/variant-cloud-analysis/, Default-credentials
@@ -1653,7 +1651,6 @@
 - https://falcnix.medium.com/threat-evasion-for-aws-multifactorauthpresent-condition-using-cloudshell-8296b34ecad4, MFA-bypass
 - https://www.sentinelone.com/labs/inside-the-black-box-how-we-fuzzed-microsoft-defender-for-iot-and-found-multiple-vulnerabilities/, DoS
 - https://rhinosecuritylabs.com/aws/cve-2022-25165-aws-vpn-client/, Local-Privilege-Escalation
-- https://shahjerry33.medium.com/xss-the-localstorage-robbery-d5fbf353c6b0, XSS
 - https://www.notgitbleed.com, Information-disclosure
 - https://blog.lightspin.io/aws-rds-critical-security-vulnerability, LFI
 - https://infosecwriteups.com/svg-ssrfs-and-saga-of-bypasses-777e035a17a7, SSRF
@@ -3072,7 +3069,6 @@
 - https://medium.com/@ciph3r7r0ll/parsing-the-dom-elements-of-other-pages-via-xss-bug-bounty-story-46d517e6711d, XSS
 - https://www.ezequiel.tech/2020/05/rce-in-cloud-dm.html, SSRF
 - https://philippeharewood.com/change-any-link-at-https-fbwat-ch/, Authorization-flaw
-- https://torbencapiau.be/?p=106, Broken-access-control
 - http://hack4bounty.com/how-i-got-200-in-5-minutes-%f0%9f%98%9c-sensitive-data-leak-%f0%9f%98%9c/, Information-disclosure
 - https://healdb.tech/blog/teradici.html, Missing-authentication
 - https://servicenger.com/blog/mobile/facebook-for-ios-address-bar-spoofing/, Address-Bar-Spoofing
@@ -3886,7 +3882,6 @@
 - https://pratikyadav0.blogspot.com/2018/10/hello-everyone-took-some-time-from-my.html, Payment-bypass
 - https://philippeharewood.com/facebook-business-takeover/, Authorization-flaw
 - https://jonbottarini.com/2018/10/09/get-as-image-function-pulls-any-insights-nrql-data-from-any-new-relic-account-idor/, IDOR
-- https://www.vpnmentor.com/blog/dom-xss-bug-affecting-tinder-shopify-yelp/, DOM-XSS
 - https://medium.com/bugbountywriteup/make-any-unit-in-facebook-groups-undeletable-efb68e26adb9, Logic-flaw
 - https://medium.com/bugbountywriteup/critical-bypass-csrf-protection-on-ibm-313ffb68dd0c, CSRF
 - https://medium.com/@jonathanbouman/persistent-xss-unvalidated-open-graph-embed-at-linkedin-com-db6188acedd9, Stored-XSS
