@@ -3,3 +3,4 @@
 - https://tutorgeeks.blogspot.com/2019/05/security-assessment-on-staging-domains.html
 - https://medium.com/@eldeebxboy/how-i-was-able-to-chain-bugs-and-gain-access-to-internal-okta-instance-f2da9ab71367
 - https://medium.com/@th3g3nt3l/multiple-information-exposed-due-to-misconfigured-service-now-itsm-instances-de7a303ebd56
+- https://notifybugme.medium.com/unauthorized-access-to-django-admin-dashboard-by-endpoint-leaked-on-github-5336969ddbbc

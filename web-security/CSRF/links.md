@@ -36,3 +36,4 @@
 - https://web.archive.org/web/20210508050717/http://dphoeniixx.com/2020/12/13-2/
 - https://medium.com/bugbountywriteup/refocusing-in-bug-hunting-bonus-an-interestingly-simple-to-test-csrf-bypass-8595b3312147
 - https://web.archive.org/web/20201128230506/https://medium.com/@adeshkolte/how-i-made-1000-at-t-bug-bounty-h1-14e68b284e2f
+- https://medium.com/tenable-techblog/exploiting-jira-for-host-discovery-43be3cddf023

@@ -529,7 +529,6 @@
 - https://testbnull.medium.com/phân-t%C3%ADch-lỗ-hổng-sharepoint-webpart-property-traversal-cve-2022-38053-cve-2023-21742-bc6931698a5f, Property-traversal
 - https://dev.to/mikesamuel/2008-silently-securing-jsonparse-5cbb, Parsing-issue
 - https://blog.exodusintel.com/2023/04/06/escaping-adobe-sandbox-exploiting-an-integer-overflow-in-microsoft-windows/, Integer-overflow
-- https://crypt0g30rgy.github.io/post/TinderBug, IDOR
 - https://vitorfalcao.com/posts/simple-bugs/overwritting-files/, Normalization
 - https://www.zerodayinitiative.com/blog/2023/4/5/bash-privileged-mode-vulnerabilities-in-parallels-desktop-and-cdpath-handling-in-macos, MacoS
 - https://canvatechblog.com/discovering-headroll-cve-2023-0704-in-chromium-2e7f66fc130c, SOP-bypass
@@ -2140,7 +2139,6 @@
 - https://marxchryz.medium.com/how-i-found-multiple-xss-in-hidden-legacy-pages-a57a25d8ff1f, XSS
 - https://medium.com/pentesternepal/hacking-dutch-government-for-a-lousy-t-shirt-8e1fd1b56deb, IDOR
 - https://www.zerodayinitiative.com/blog/2021/9/2/cve-2021-2429-a-heap-based-buffer-overflow-bug-in-the-mysql-innodb-memcached-plugin, Memory-corruption
-- https://research.checkpoint.com/2021/now-patched-vulnerability-in-whatsapp-could-have-led-to-data-exposure-of-users/, Memory-corruption
 - https://cho0k.com/wp-content/uploads/2021/08/FullPoC.pdf, Privilege-escalation
 - https://theshubh77.medium.com/bypassing-2-factor-authentication-for-facebook-business-manager-bounty-1000-usd-c78c858459d6, MFA-bypass
 - https://v3d.medium.com/broken-access-control-leads-to-change-of-admin-details-a783e31729c4, Privilege-escalation
@@ -2362,7 +2360,6 @@
 - https://infosecwriteups.com/stored-xss-to-organisation-takeover-6eaaa2fdcd5b, Stored-XSS
 - https://sndpgiriz.medium.com/simple-logical-bug-turned-into-a-bounty-a3d7ac214606, Logic-flaw
 - https://mrcyberwarrior.medium.com/exploiting-activity-in-medium-android-app-e2e6f3553eef, Insecure-intent
-- https://notifybugme.medium.com/unauthorized-access-to-django-admin-dashboard-by-endpoint-leaked-on-github-5336969ddbbc, Missing-authentication
 - https://dewangpanchal98.medium.com/microsoft-bug-bounty-writeup-5ee4a7264dbf, Information-disclosure
 - https://mvinni.medium.com/workplace-by-facebook-unauthorized-access-to-companies-environment-27-5k-a593a57092f1, Authorization-flaw
 - https://www.offensive-security.com/offsec/macos-preferences-priv-escalation/, Local-Privilege-Escalation
@@ -2372,7 +2369,6 @@
 - https://infosecwriteups.com/xss-through-parameter-pollution-9a55da150ab2, Open-redirect
 - https://saajan.bhujel.cyou/blog/web/2021-05-05-xss-through-parameter-pollution, XSS
 - https://devcraft.io/2021/05/04/exiftool-arbitrary-code-execution-cve-2021-22204.html, RCE
-- https://ctf.re//source-engine/exploitation/2021/05/01/source-engine-2/, RCE
 - https://web.archive.org/web/20210728030437/https://ritiksahni.me/open-source-bug-bounty-tutorial, CSRF
 - https://web.archive.org/web/20210620102348/https://ipanda.co.in/blog1.html, RCE
 - https://www.jomar.fr/posts/2021/basic_recon_to_rce/, Insecure-deserialization
@@ -3215,7 +3211,6 @@
 - https://medium.com/@DarkMatterMatt/breaking-a-discord-channel-with-a-single-message-5095eb7604f1, DoS
 - https://web.archive.org/web/20200505142429/https://medium.com/@godofdarkness.msf/reflected-xss-in-at-t-7f1bdd10d8f7, Reflected-XSS
 - https://medium.com/@evan.connelly/hunting-tesla-model-y-secrets-in-the-parts-catalog-2f453f853dd8, Authorization-flaw
-- https://medium.com/tenable-techblog/exploiting-jira-for-host-discovery-43be3cddf023, CSRF
 - https://spaceraccoon.dev/a-tale-of-two-formats-exploiting-insecure-xml-and-zip-file-parsers-to-create-a, XXE
 - https://medium.com/@adonkidz7/my-first-bounty-from-google-d9f1f3f5787a, Self-XSS
 - https://www.acunetix.com/blog/web-security-zone/xss-google-acunetix/, XSS
