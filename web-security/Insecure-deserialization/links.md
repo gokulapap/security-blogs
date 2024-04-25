@@ -11,3 +11,4 @@
 - https://www.vicarius.io/vsociety/blog/unauthenticated-rce-in-goanywhere
 - https://frycos.github.io/vulns4free/2023/02/06/goanywhere-forgotten.html
 - https://www.websec.ca/publication/Blog/CVE-2022-21404-Another-story-of-developers-fixing-vulnerabilities-unknowingly-because-of-CodeQL
+- https://labs.nettitude.com/blog/introducing-aladdin/

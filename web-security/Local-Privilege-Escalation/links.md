@@ -19,3 +19,4 @@
 - https://www.wiz.io/blog/omi-returns-lpe-technical-analysis
 - https://blog.viettelcybersecurity.com/deep-understand-aspx-file-handling-and-some-related-attack-vector/
 - https://www.microsoft.com/security/blog/2022/07/13/uncovering-a-macos-app-sandbox-escape-vulnerability-a-deep-dive-into-cve-2022-26706/
+- https://wojciechregula.blog/post/m1-macs-gatekeeper-bypass-aka-cve-2021-30658/

@@ -36,3 +36,4 @@
 - https://m7-arman.medium.com/zero-click-to-account-takeover-d764e12bee4b
 - https://blog.securitybreached.org/2020/01/22/user-account-takeover-via-signup-feature-bug-bounty-poc/
 - https://positive.security/blog/ransack-data-exfiltration
+- https://security.lauritz-holtmann.de/advisories/flickr-account-takeover/

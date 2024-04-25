@@ -94,3 +94,4 @@
 - https://takashi-suzuki.medium.com/apple-bug-bounty-xss-2021-78c2f4fc4106
 - https://omespino.com/write-up-google-bug-bounty-xss-to-cloud-shell-instance-takeover-rce-as-root-5000-usd/
 - https://shahjerry33.medium.com/xss-the-localstorage-robbery-d5fbf353c6b0
+- https://web.archive.org/web/20221212095559/https://medium.com/@seeu-inspace/automate-cross-site-scripting-xss-exploitation-with-unusal-events-and-burp-intruder-9dfed4369fff

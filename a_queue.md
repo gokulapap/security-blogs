@@ -638,7 +638,6 @@
 - https://fireshellsecurity.team/mining-takeovers-for-fun-and-profit/, Subdomain-takeover
 - https://medium.com/@kushjain0107/how-simple-idor-impacted-the-data-of-thousands-of-customers-of-an-indian-automotive-giant-fdbd2ef1c2c6, Account-takeover
 - https://medium.com/@snoopy101/web-cache-deception-attack-on-a-private-bug-bounty-program-52872cbdeedc, Web-cache-deception
-- https://labs.nettitude.com/blog/introducing-aladdin/, Insecure-deserialization
 - https://snyk.io/blog/gitpod-remote-code-execution-vulnerability-websockets/, RCE
 - https://redshark1802.com/blog/2023/03/01/abusing-hopy-by-hop-header-crlf-injection/, CRLF-injection
 - https://cristivlad.medium.com/exfiltrating-aws-credentials-via-pdf-rendering-of-unsanitized-input-63f39d60d963, SSRF
@@ -659,7 +658,6 @@
 - https://hacklido.com/blog/320-how-i-got-a-2000-bounty-with-rxss, Reflected-XSS
 - https://medium.com/@osamaavvan/unauthenticated-graphql-introspection-and-api-calls-92f1d9d86bcf, GraphQL
 - https://systemweakness.com/give-me-a-browser-ill-give-you-a-shell-de19811defa0, Local-Privilege-Escalation
-- https://www.horizon3.ai/from-cve-2022-33679-to-unauthenticated-kerberoasting/, Kerberos
 - https://www.synacktiv.com/sites/default/files/2023-02/Synacktiv-IBM-TWS-CVE-2022-38389.pdf, XXE
 - https://lude.rs/h4ck1ng/draw.io_cves.html, SSRF
 - https://starlabs.sg/blog/2023/02-microsoft-azure-account-takeover-via-dom-based-xss-in-cosmos-db-explorer/, Account-takeover
@@ -915,7 +913,6 @@
 - https://hopesamples.blogspot.com/2022/12/user-names-and-email-addresses-are.html, Information-disclosure
 - https://hopesamples.blogspot.com/2022/12/custom-role-details-are-exposed-in.html, Information-disclosure
 - https://medium.com/@mrd17x/scoring-for-a-very-simple-bug-you-dont-always-need-proxy-tools-872a832f83ea, IDOR
-- https://web.archive.org/web/20221212095559/https://medium.com/@seeu-inspace/automate-cross-site-scripting-xss-exploitation-with-unusal-events-and-burp-intruder-9dfed4369fff, XSS
 - https://research.nccgroup.com/2022/12/09/public-report-vpn-by-google-one-security-assessment/, Android
 - https://blog.viettelcybersecurity.com/the-first-step-to-pwn2own-but-a-sad-one/, Command-injection
 - https://medium.com/@kashyapherry147/privilege-escalation-to-remove-the-owner-from-the-organization-c029292a5d55, Privilege-escalation
@@ -1919,7 +1916,6 @@
 - https://parsiya.net/blog/2021-12-20-rce-in-visual-studio-codes-remote-wsl-for-fun-and-negative-profit/, RCE
 - https://amakki.me/stored-xss-by-bypassing-signature-61ebd83ece6, XSS
 - https://palant.info/2021/12/20/yes-fun-browser-extensions-can-have-vulnerabilities-too/, XSS
-- https://security.lauritz-holtmann.de/advisories/flickr-account-takeover/, Account-takeover
 - https://infosecwriteups.com/hacked-google-meet-40f364bb8368, Authorization-flaw
 - https://mearegtu.medium.com/broken-access-control-cc6cfd793b15, IDOR
 - https://securitylab.github.com/advisories/GHSL-2021-1053_Grafana/, Path-traversal
@@ -2283,7 +2279,6 @@
 - https://rohit-soni.medium.com/exploiting-file-upload-functionality-in-unique-way-6081b8f658dd, Unrestricted-file-upload
 - https://imranhudaa.medium.com/accessing-restricted-documentswith-extra-json-body-content-c59bc7224189, Mass-assignment
 - https://0xbadb00da.medium.com/account-takeover-via-stored-xss-with-arbitrary-file-upload-2774ec6cff51, Insecure-file-upload
-- https://wojciechregula.blog/post/m1-macs-gatekeeper-bypass-aka-cve-2021-30658/, Local-Privilege-Escalation
 - https://cyberxplore.medium.com/how-we-are-able-to-hack-any-company-by-sending-message-including-facebook-google-microsoft-b7773626e447, Universal-XSS
 - https://posts.specterops.io/certified-pre-owned-d95910965cd2, Active-Directory-Privilege-Escalation
 - https://blog.evanricafort.com/2021/06/html-injection-and-a-dream.html, HTML-injection

@@ -1,0 +1,1 @@
+- https://www.horizon3.ai/from-cve-2022-33679-to-unauthenticated-kerberoasting/
