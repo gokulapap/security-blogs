@@ -1262,7 +1262,6 @@
 - https://nokline.github.io/bugbounty/2022/09/02/Glassdoor-Cache-Poisoning.html, Web-cache-poisoning
 - https://feed.bugs.xdavidhu.me/bugs/0015, IDOR
 - https://mr23r0.medium.com/the-database-handover-a-dumb-mistake-critical-bug-f73c99e72e40, Information-disclosure
-- https://xthemo.medium.com/how-can-i-get-sql-injection-b8337c2c2bef, SQL-injection
 - https://www.legitsecurity.com/blog/github-privilege-escalation-vulnerability-0, Privilege-escalation
 - https://medium.com/@xJay/angularjs-client-side-template-injection-the-orderby-filter-20002ca2a0e8, CSTI
 - https://orca.security/resources/blog/synapse-local-privilege-escalation-vulnerability-spark/, Race-condition
@@ -2432,7 +2431,6 @@
 - https://infosecwriteups.com/weird-and-very-easy-authentication-bypass-found-with-google-dorking-c13230a038ed, Authentication-bypass
 - https://robertchen.cc/blog/2021/04/03/github-pages-xss, XSS
 - https://www.sjoerdlangkemper.nl/2021/04/04/remote-code-execution-through-unsafe-unserialize/, Insecure-deserialization
-- https://bendtheory.medium.com/journeys-in-quoteless-and-multi-reflection-xss-b1d67bb0c5dd, XSS
 - http://www.kamilonurozkaleli.com/posts/rce-on-starbucks-singapore-and-more/, RCE
 - https://nns.ee/blog/2021/04/03/modem-rce.html, OS-command-injection
 - https://blog.tyage.net/posts/2021-04-02-improper-access-control-github-workflow/, Broken-Access-Control
@@ -2488,7 +2486,6 @@
 - https://omespino.com/write-up-google-vrp-n-a-ssrf-bypass-with-quadzero-in-google-cloud-monitoring/, SSRF
 - https://blog.melbadry9.xyz/ddns-ec2-ips-current-state, Dangling-DNS-records
 - https://medium.com/@mehdi.alouache/partially-disable-cybereason-edr-as-low-privileges-user-on-windows-1405fd53e90e, EDR-bypass
-- https://ashketchum.medium.com/stored-xss-in-google-ads-android-application-3133-70-373f6c361ff3, Stored-XSS
 - https://cirius.medium.com/exploiting-a-hidden-and-forgotten-bug-49ce7ad4de39, SSRF
 - https://3bodymo.medium.com/the-easiest-2500-i-got-it-from-bug-bounty-program-8f47ea4aff22, Information-disclosure
 - https://lf.lc/vrp/181521559c/, Container-escape
@@ -3929,7 +3926,6 @@
 - https://dev.to/antogarand/pwned-together-hacking-devto-hkd, Stored-XSS
 - https://web.archive.org/web/20200929012934/https://www.mohamedharon.com/2018/08/mapboxxss.html, Reflected-XSS
 - https://medium.com/@D0rkerDevil/a-infinite-loop-story-f2bc05771a88, DoS
-- https://gauravnarwani.com/a-1000-bounty/, Information-disclosure
 - https://web.archive.org/web/20200929004149/https://www.mohamedharon.com/2018/08/wordpressXSS.html, Flash-XSS
 - https://medium.com/@D0rkerDevil/how-i-found-a-1500-worth-deserialization-vulnerability-9ce753416e0a, Misconfigured-JSF-ViewState
 - https://medium.com/@UpdateLap/idor-facebook-malicious-person-add-people-to-the-top-fans-4f1887aad85a, IDOR
@@ -4267,7 +4263,6 @@
 - https://seanmelia.files.wordpress.com/2017/06/django-privilege-escalation-e28093-zero-to-superuser.pdf, Privilege-escalation
 - https://www.rafaybaloch.com/2017/06/stored-xss-csrf-and-clickjacking.html, Stored-XSS
 - https://www.rafaybaloch.com/2017/06/a-tale-of-another-sop-bypass-in-android.html, SOP-bypass
-- https://www.rafaybaloch.com/2017/06/paypal-mobile-verification-and-payment.html, Logic-flaw
 - https://www.rafaybaloch.com/2017/06/nokia-asha-series-lock-screen-bypass.html, Authentication-bypass
 - https://www.rafaybaloch.com/2017/06/android-browser-all-versions-address.html, Address-Bar-Spoofing
 - https://sites.google.com/site/bugbountybughunter/home/stored-xss-in-google-image-search, Stored-XSS

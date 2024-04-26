@@ -31,3 +31,4 @@
 - https://translate.google.com/translate?hl=en&sl=zh-CN&u=https://www.leavesongs.com/PENETRATION/cachet-from-laravel-sqli-to-bug-bounty.html&prev=search&pto=aue
 - https://mahmoudsec.blogspot.com/2018/07/sql-injection-and-silly-waf.html
 - https://blog.parthmalhotra.com/pwning-child-company-to-get-access-to-parentcompanys-slack-team/
+- https://xthemo.medium.com/how-can-i-get-sql-injection-b8337c2c2bef
