@@ -85,3 +85,4 @@
 - https://bergee.it/blog/blind-command-injection/
 - https://web.archive.org/web/20200929023045/https://www.mohamedharon.com/2018/01/rce-vulnerabilite-in-yahoo-subdomain.html
 - https://ctf.re//source-engine/exploitation/2021/05/01/source-engine-2/
+- https://omar0x01.medium.com/orange-arbitrary-command-execution-75ba7f283d53

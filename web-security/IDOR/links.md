@@ -75,3 +75,4 @@
 - https://medium.com/@BgxDoc/bugbounty-how-i-was-able-to-hack-any-user-account-via-password-reset-9009d84d94ff
 - https://medium.com/a-bugz-life/the-bugs-are-out-there-hiding-in-plain-sight-12d056613ea3
 - https://crypt0g30rgy.github.io/post/TinderBug
+- https://medium.com/@JubaBaghdad/how-i-was-able-to-delete-any-image-in-facebook-community-question-forum-a03ea516e327

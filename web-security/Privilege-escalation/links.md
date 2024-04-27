@@ -9,3 +9,4 @@
 - https://www.netspi.com/blog/technical/cloud-penetration-testing/abusing-azure-hybrid-workers-for-privilege-escalation/
 - https://whitehatfamilyguy.blogspot.com/2019/06/google-adwordsprivilege-escalation-read.html
 - https://websec.nl/blog/606ecfec2f798a048269340e/dmcacom%20hack%20full%20disclosure%20with%20proof-of-concept
+- https://fortbridge.co.uk/research/multiple-vulnerabilities-in-concrete-cms-part2/

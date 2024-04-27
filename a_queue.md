@@ -1155,7 +1155,6 @@
 - https://www.imperva.com/blog/how-scanning-your-projects-for-security-issues-can-lead-to-remote-code-execution/, RCE
 - https://infosecwriteups.com/security-vs-compliance-cloudflare-password-policy-restriction-bypass-da07ca7df4f2, Client-side-enforcement-of-server-side-security
 - https://medium.com/@jacopotediosi/worldwide-server-side-cache-poisoning-on-all-akamai-edge-nodes-50k-bounty-earned-f97d80f3922b, Web-cache-poisoning
-- https://omar0x01.medium.com/orange-arbitrary-command-execution-75ba7f283d53, RCE
 - https://labs.ingredous.com/2022/09/29/ecdsa-nonce-reuse/, Cryptographic-issues
 - https://carvesystems.com/news/xss-through-dhcp-how-attackers-use-standards/, XSS
 - https://daturamater.medium.com/a-breach-on-patreon-and-their-elusive-bounty-program-5e7ea62dc738, Payment-bypass
@@ -1930,7 +1929,6 @@
 - https://ahmed8magdy.medium.com/file-upload-to-rce-538bb4128062, Unrestricted-file-upload
 - https://notifybugme.medium.com/exploiting-s3-bucket-with-path-folder-to-access-pii-info-of-a-bank-91d8563cb45, AWS-misconfiguration
 - https://www.r29k.com/articles/bb/priv-esc-via-stored-xss, Account-takeover
-- https://j0vsec.com/post/cve-2021-43798/, Path-traversal
 - https://rizwansiddiqu1.medium.com/another-admin-panel-e0489dc76678, HTTP-response-manipulation
 - https://web.archive.org/web/20220823110821/https://cybernews.com/security/microsoft-vancouver-leaking-website-credentials-via-overlooked-ds-store-file/, Information-disclosure
 - https://blog.agilehunt.com/blogs/security/privilege-escalation-in-microsoft-teams-2021, Privilege-escalation
@@ -1961,7 +1959,6 @@
 - https://vavkamil.cz/2021/11/25/wordpress-plugin-confusion-update-can-get-you-pwned/, Supply-chain-attack
 - https://securifyinc.com/disclosures/rocketchat-monitor-messages, Authorization-flaw
 - https://wahaz.medium.com/unauthenticated-sensitive-information-disclosure-at-redacted-2702224098c, Old-components-with-known-vulnerabilities
-- https://fortbridge.co.uk/research/multiple-vulnerabilities-in-concrete-cms-part2/, Privilege-escalation
 - https://web.archive.org/web/20220119155429/https://0xgodson.medium.com/account-takeover-in-million-company-report-rejected-whats-wrong-60041f1815fb, Account-takeover
 - https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/modsecurity-dos-vulnerability-in-json-parsing-cve-2021-42717/, DoS
 - https://zseano.medium.com/finding-xss-on-apple-com-and-building-a-proof-of-concept-to-leak-your-pii-information-d7bc93cff2df, XSS
@@ -3243,7 +3240,6 @@
 - https://web.archive.org/web/20200825001615/https://hazana.xyz/posts/escalating-reflected-xss-with-http-smuggling/, Reflected-XSS
 - https://www.amolbaikar.com/xss-on-facebook-instagram-cdn-server-bypassing-signature-protection/, XSS
 - https://www.amolbaikar.com/xss-on-facebooks-acquisition-oculus-cdn-server/, XSS
-- https://blog.securitybreached.org/2020/01/26/improper-input-validation-add-custom-text-and-urls-in-sms-send-by-snapchat-bug-bounty-poc/, Parameter-tampering
 - https://medium.com/bugbountywriteup/accidental-idor-that-deleted-admin-account-d51264292b66, IDOR
 - https://medium.com/bugbountywriteup/the-unexpected-bounty-a-story-of-zendesk-takeover-on-redacted-com-f2aa96ce2026, Subdomain-takeover
 - https://medium.com/nassec-cybersecurity-writeups/how-i-was-able-to-take-over-any-users-account-with-host-header-injection-546fff6d0f2, Host-header-injection
@@ -4099,7 +4095,6 @@
 - https://www.seekurity.com/blog/general/the-2-5mins-or-2-5k-hawk-eye-bug-a-facebook-pages-admins-disclosure-vulnerability/, Information-disclosure
 - https://infosecwriteups.com/how-i-hacked-into-a-bugcrowd-public-program-fcfdd4fb1b69, RCE
 - https://medium.com/bugbountywriteup/bugbounty-api-keys-leakage-source-code-disclosure-in-indias-largest-e-commerce-health-care-c75967392c7e, Path-traversal
-- https://medium.com/@JubaBaghdad/how-i-was-able-to-delete-any-image-in-facebook-community-question-forum-a03ea516e327, IDOR
 - https://medium.com/@joshuaregio/modifying-any-ad-space-and-placement-e22c7cec050f, IDOR
 - http://omespino.com/write-up-twitter-bug-bounty-my-1st-bugbounty-poodle-sslv3-bug-on-multiple-twitter-smtp-servers/, Cryptographic-issues
 - https://blog.evanricafort.com/2018/02/rce-remote-code-execution-in-wordpress.html, RCE
