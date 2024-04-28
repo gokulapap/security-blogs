@@ -37,3 +37,4 @@
 - https://blog.securitybreached.org/2020/01/22/user-account-takeover-via-signup-feature-bug-bounty-poc/
 - https://positive.security/blog/ransack-data-exfiltration
 - https://security.lauritz-holtmann.de/advisories/flickr-account-takeover/
+- https://medium.com/bugbountywriteup/chaining-vulnerabilities-lead-to-account-takeover-b583f0c10591

@@ -1,0 +1,1 @@
+- https://www.synacktiv.com/publications/pentesting-cisco-sd-wan-part-1-attacking-vmanage.html

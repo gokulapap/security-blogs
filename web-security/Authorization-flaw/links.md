@@ -44,3 +44,4 @@
 - https://web.archive.org/web/20191218054030/https://medium.com/@zk34911/yahoo-bug-bounty-unauthorized-access-to-unisphere-management-server-debugging-facility-on-448aeb6d0c94
 - https://medium.com/@zahidali_93675/bypassed-facebook-phone-number-security-9e2d34dc063b
 - https://medium.com/@rohitcoder/business-user-employees-can-add-edit-change-or-apply-block-list-to-a-business-account-7b3e8aae667e
+- https://medium.com/@YoKoKho/bypassing-the-current-password-protection-at-techsupport-portal-b9005ee17e64

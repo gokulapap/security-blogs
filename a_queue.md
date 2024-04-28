@@ -1664,7 +1664,6 @@
 - https://blog.aquasec.com/npm-supply-chain-attack, Information-disclosure
 - https://www.secureworks.com/research/azure-active-directory-exposes-internal-information, Information-disclosure
 - https://tarekbouali.com/posts/how-i-hacked-one-of-the-biggest-airlines-group-of-the-world/, IDOR
-- https://feed.bugs.xdavidhu.me/bugs/0014, IDOR
 - https://blog.viettelcybersecurity.com/moveit-transfer-cve/, SQL-injection
 - https://kuldeep.io/posts/nosql-injection-in-plain-sight/, NoSQL-injection
 - https://www.trendmicro.com/en_us/research/22/d/macos-suhelper-root-privilege-escalation-vulnerability-a-deep-di.html, Local-Privilege-Escalation
@@ -2679,7 +2678,6 @@
 - https://www.fortinet.com/blog/threat-research/leaking-browser-url-protocol-handlers, Information-disclosure
 - https://medium.com/the-volatile-triad/hacking-always-check-out-the-images-99217e6cea, Information-disclosure
 - https://googleprojectzero.blogspot.com/2020/12/an-ios-zero-click-radio-proximity.html, iOS
-- https://medium.com/bugbountywriteup/chaining-vulnerabilities-lead-to-account-takeover-b583f0c10591, Account-takeover
 - https://www.shawarkhan.com/2020/11/exploiting-blind-postgresql-injection.html, SQL-injection
 - https://zetc0de.github.io/post/authenticated-rce-ssrf-wondercms/, Blind-SSRF
 - https://ahmdhalabi.medium.com/chaining-multiple-requests-to-achieve-rate-limiting-vulnerabilities-96c1e8365c06, Rate-limiting-bypass
@@ -3145,7 +3143,6 @@
 - https://medium.com/@adnanmalikinfo110/i-want-that-cookie-8d2daab242ac, Logic-flaw
 - https://0xsha.io/posts/exploiting-magic-links-critical-bugs-are-one-line-away, Information-disclosure
 - https://web.archive.org/web/20200511145923/https://medium.com/@godofdarkness.msf/account-takeover-flow-in-mail-ru-s-ext-a-domain-150-8952e8078211, Logic-flaw
-- https://www.synacktiv.com/publications/pentesting-cisco-sd-wan-part-1-attacking-vmanage.html, Cypher-injection
 - https://protonvpn.com/blog/apple-ios-vulnerability-disclosure/, Privacy-issue
 - https://medium.com/@ch3ckm4te/self-xss-to-account-takeover-72c89775cf8f, Account-takeover
 - https://adnanmalik.info/blog/the-ticklish-xss%EF%BF%BC/, XSS
@@ -3637,7 +3634,6 @@
 - https://medium.com/h4x00r/my-very-first-bug-a-dreaded-dupe-and-then-an-idor-jackpot-d01b69f6fbae, IDOR
 - https://hackademic.co.in/youtube-bug/, CSRF
 - https://blog.usejournal.com/an-unusal-bug-on-braintree-paypal-b8d3ec662414, DoS
-- https://b3nac.com/posts/2019-02-16-How-to-hunt-for-Malvertising-ads-on-Android.html, Android
 - https://medium.com/@paulorcchoupina/a-real-xss-in-olx-7727ae89c640, Reflected-XSS
 - https://www.rodneybeede.com/security/slack-announcement-only-channel-post-restriction-bypass.html, Authorization-flaw
 - https://blog.assetnote.io/bug-bounty/2019/03/19/rce-on-mozilla-zero-day-webpagetest/, RCE
@@ -4056,7 +4052,6 @@
 - https://medium.com/@YoKoKho/turning-self-xss-into-non-self-stored-xss-via-authorization-issue-at-paypal-tech-support-and-brand-3046f52ac16b, Stored-XSS
 - https://medium.com/@prial261/story-of-a-stored-xss-bypass-26e6659f807b, Stored-XSS
 - https://medium.com/@logicbomb_1/bugbounty-journey-from-lfi-to-rce-how-a69afe5a0899, LFI
-- https://medium.com/@YoKoKho/bypassing-the-current-password-protection-at-techsupport-portal-b9005ee17e64, Authorization-flaw
 - https://medium.com/@newp_th/google-bug-posting-on-groups-as-any-users-behalf-c24e7f524be5, Email-spoofing
 - https://medium.com/@kankrale.rahul/whatsapp-users-ip-disclosure-with-link-preview-feature-39a477f54fba, Information-disclosure
 - https://medium.com/@YoKoKho/ribose-idor-with-simple-csrf-bypass-unrestricted-changes-and-deletion-to-other-photo-profile-e4393305274e, IDOR
