@@ -1,0 +1,1 @@
+- https://medium.com/@ddigvijay29/how-to-secure-aws-serverless-lambda-from-redos-regular-expression-denial-of-service-resultant-12f0401118cd

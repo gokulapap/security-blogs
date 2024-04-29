@@ -1523,7 +1523,6 @@
 - https://www.randorisec.fr/yet-another-bug-netfilter/, Memory-corruption
 - https://haxatron.gitbook.io/vulnerability-research/vr2, SSRF
 - https://infosecwriteups.com/how-i-found-a-critical-bug-in-instagram-and-got-49500-bounty-from-facebook-626ff2c6a853, IDOR
-- https://prajwoldhungana487.medium.com/same-bug-different-platform-4c648e91af6b, Logic-flaw
 - https://medium.com/@joshibeast/from-blind-ssrf-to-localhost-dirbusting-and-asset-enumeration-dc0179310038, SSRF
 - https://microsoftedge.github.io/edgevr/posts/a-story-of-a-bug-found-fuzzing/, Browser-hacking
 - https://github.com/MystenLabs/ed25519-unsafe-libs, Cryptographic-issues
@@ -2234,7 +2233,6 @@
 - https://krevetk0.medium.com/credential-stuffing-in-bug-bounty-hunting-7168dc1d3153, Credential-stuffing
 - https://aidilarf.medium.com/380-xss-stored-in-bigo-bug-bounty-program-a8b9529adcc4, XSS
 - https://rakesh-thodupunoori.medium.com/part-2-dive-into-zoom-applications-1b01091345c1, CSRF
-- https://medium.com/macoclock/apple-security-bounty-a-personal-experience-fe9a57a81943, Permission-bypass
 - https://tomorrowisnew.com/posts/broken-access-control-bug-bypassing-403-s-by-finding-another-endpoint-that-do-the-same-thing/, Broken-Access-Control
 - https://medium.com/@kalvik/pre-denial-of-service-set-up-2fa-on-unverified-account-8399af52ea2d, Application-level-DoS
 - https://infosecwriteups.com/critical-bug-bounty-reports-part-1-6fd9aef4b486, Account-takeover
@@ -2993,7 +2991,6 @@
 - https://www.ehpus.com/post/smtp-injection-in-gsuite, SMTP-injection
 - https://medium.com/bugbountywriteup/reflected-user-input-xss-c3e681710e74, Reflected-XSS
 - https://medium.com/bugbountywriteup/business-logic-flaw-in-invitation-system-allows-to-takeover-any-account-at-private-company-daaf898966b0, Account-takeover
-- https://medium.com/@ddigvijay29/how-to-secure-aws-serverless-lambda-from-redos-regular-expression-denial-of-service-resultant-12f0401118cd, ReDoS
 - https://ysamm.com/?p=460, Privilege-escalation
 - https://ysamm.com/?p=450, Information-disclosure
 - https://ysamm.com/?p=458, Information-disclosure
@@ -3234,7 +3231,6 @@
 - https://medium.com/@abhishake100/hyperlink-injection-easy-money-sometimes-cc1104655300, Hyperlink-injection
 - https://publish.whoisbinit.me/adding-anyone-including-non-friend-and-blocked-people-as-co-host-in-personal-event, IDOR
 - https://medium.com/@naveenroy008/tale-of-a-misconfiguration-in-password-reset-e8fb484a4661, Password-reset
-- https://web.archive.org/web/20200825001615/https://hazana.xyz/posts/escalating-reflected-xss-with-http-smuggling/, Reflected-XSS
 - https://www.amolbaikar.com/xss-on-facebook-instagram-cdn-server-bypassing-signature-protection/, XSS
 - https://www.amolbaikar.com/xss-on-facebooks-acquisition-oculus-cdn-server/, XSS
 - https://medium.com/bugbountywriteup/accidental-idor-that-deleted-admin-account-d51264292b66, IDOR
@@ -3390,7 +3386,6 @@
 - https://medium.com/oad-earth/bug-or-feature-github-adventure-001-eae9bea48ae8, OAuth
 - https://medium.com/@hariharan21/stored-xss-on-zendesk-via-macros-part-2-676cefee4616, Stored-XSS
 - https://philippeharewood.com/business-id-leak-via-creative-hub-redirect/, Open-redirect
-- https://gauravnarwani.com/admin-hijacked-by-sea-surf-pirates/, Stored-XSS
 - https://www.openbugbounty.org/blog/leonmugen/ssrf-reading-local-files-from-downnotifier-server/, SSRF
 - https://medium.com/@tungpun/client-not-client-aa448cfdedd2, LFI
 - https://medium.com/@jayateerthag/google-referer-leak-bug-434f6293ce66, Referer-leakage
