@@ -96,3 +96,4 @@
 - https://shahjerry33.medium.com/xss-the-localstorage-robbery-d5fbf353c6b0
 - https://web.archive.org/web/20221212095559/https://medium.com/@seeu-inspace/automate-cross-site-scripting-xss-exploitation-with-unusal-events-and-burp-intruder-9dfed4369fff
 - https://bendtheory.medium.com/journeys-in-quoteless-and-multi-reflection-xss-b1d67bb0c5dd
+- https://mrpentestguy.medium.com/how-i-was-able-to-find-100-xss-in-united-nations-bug-bounty-program-a675573c006d

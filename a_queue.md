@@ -113,7 +113,6 @@
 - https://medium.com/@ahmdhalabi/taking-over-employee-accounts-by-managers-with-zero-employee-interaction-b60784c3ad84, misc
 - https://medium.com/@burhanxd/my-first-nosql-injection-bug-e62bfe9950d9, sql-injection
 - https://medium.com/@justm0rph3u5/html-and-hyperlink-injection-via-share-option-in-microsoft-onenote-application-47e94d0e6478, injection
-- https://medium.com/@roberto.cyberkid/another-day-another-idor-vulnerability-5000-reddit-bug-bounty-22a75003d999, IDOR
 - https://medium.com/@cypherthethird/cross-site-scripting-xss-for-dummies-9a7717bbd002, XSS
 - https://medium.com/@tomnomnom/making-a-blind-sql-injection-a-little-less-blind-428dcb614ba8, sql-injection
 - https://medium.com/@Parag_Bagul/how-i-found-moodle-cross-site-scripting-459a1c9ad4d5, XSS
@@ -1834,7 +1833,6 @@
 - https://medium.com/@LIL__NIX/the-story-of-a-rce-on-a-java-web-application-2e400cddcd1e, RCE
 - https://sirleeroyjenkins.medium.com/bypassing-ssrf-protection-to-exfiltrate-aws-metadata-from-larksuite-bf99a3599462, SSRF
 - https://infosecwriteups.com/the-story-of-a-rce-on-a-java-web-application-2e400cddcd1e, Insecure-deserialization
-- https://www.signal-labs.com/blog/vmware-driver-0day-reversing, Windows-Driver-hacking
 - https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/cve-2020-0696-microsoft-outlook-security-feature-bypass-vulnerability/, URL-validation-bypass
 - https://perception-point.io/technical-analysis-of-cve-2022-22583-bypassing-macos-system-integrity-protection/, MacOS
 - https://blog.sorcery.ie/posts/adodb_auth_bypass/, Authentication-bypass
@@ -2092,7 +2090,6 @@
 - https://medium.com/hacking-info-sec/how-to-have-free-internet-wifi-on-united-airlines-flights-65ead4087bc9, Payment-tampering
 - https://medium.com/@sarveshblogs/a-small-tale-of-account-takeover-2eba07a6ef5f, IDOR
 - https://pwnsauc3.medium.com/weaponizing-reflected-xss-to-account-takeover-ae8aeea7aca3, XSS
-- https://mrpentestguy.medium.com/how-i-was-able-to-find-100-xss-in-united-nations-bug-bounty-program-a675573c006d, XSS
 - https://medium.com/@soufianehabti/this-is-why-you-shouldnt-trust-your-federated-identity-provider-62160f50d8b2, OAuth
 - https://iamsaugat.medium.com/a-facebook-bug-that-exposes-email-phone-number-to-your-friends-a980d24e5ea8, Information-disclosure
 - https://asterfiester.medium.com/how-i-was-able-to-send-sms-from-google-to-anyone-google-vulnerability-3277ea0cc9d1, Content-spoofing
@@ -2333,7 +2330,6 @@
 - https://n3t-hunt3r.medium.com/finding-my-first-critical-web-cache-poisoning-6f956799371c, Web-cache-poisoning
 - https://feed.bugs.xdavidhu.me/bugs/0006, Path-traversal
 - https://www.fortbridge.co.uk/research/drupal-insecure-default-leads-to-password-reset-poisoning/, Password-reset
-- https://feed.bugs.xdavidhu.me/bugs/0005, Clickjacking
 - https://nvk0x.medium.com/how-i-hijacked-12-subdomains-in-one-program-eea468bcd64f, Subdomain-takeover
 - https://www.pethuraj.com/blog/edmodo-bug-bounty-writeup/, XSS
 - https://omar0x01.medium.com/how-to-prevent-more-than-200-million-users-from-using-google-services-136b3b8e221f, Logic-flaw
@@ -3390,7 +3386,6 @@
 - https://medium.com/@tungpun/client-not-client-aa448cfdedd2, LFI
 - https://medium.com/@jayateerthag/google-referer-leak-bug-434f6293ce66, Referer-leakage
 - https://web.archive.org/web/20200820030055/https://pwnsec.ninja/2019/09/14/how-i-found-a-simple-and-weird-account-takeover-bug/, Account-takeover
-- https://kishanchoudhary.com/OTP/otp_manipulation.html, OTP-bypass
 - https://medium.com/bugbountywriteup/race-condition-that-could-result-to-rce-a-story-with-an-app-that-temporary-stored-an-uploaded-9a4065368ba3, Race-condition
 - https://hackernoon.com/how-i-could-have-hacked-all-uber-accounts-rtzl3z72, Information-disclosure
 - https://www.valbrux.it/blog/2019/09/13/how-two-dead-users-allowed-remote-crash-of-any-instagram-android-user/, DoS

@@ -1,0 +1,1 @@
+- https://www.signal-labs.com/blog/vmware-driver-0day-reversing

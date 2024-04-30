@@ -3,3 +3,4 @@
 - https://medium.com/@vishnu0002/how-i-managed-to-hack-into-a-billion-dollar-sport-platform-7cc667081229
 - https://medium.com/@talatmehmood1995/my-first-bug-bounty-2-factor-authentication-bypass-b034812c8243
 - https://www.varonis.com/blog/box-mfa-bypass-sms
+- https://kishanchoudhary.com/OTP/otp_manipulation.html
