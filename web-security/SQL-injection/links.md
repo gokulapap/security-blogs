@@ -32,3 +32,4 @@
 - https://mahmoudsec.blogspot.com/2018/07/sql-injection-and-silly-waf.html
 - https://blog.parthmalhotra.com/pwning-child-company-to-get-access-to-parentcompanys-slack-team/
 - https://xthemo.medium.com/how-can-i-get-sql-injection-b8337c2c2bef
+- https://0xgad.medium.com/sql-injection-in-graphql-2859c96547a8

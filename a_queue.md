@@ -37,7 +37,6 @@
 - https://medium.com/@moSec/how-i-hacked-thousand-of-subdomains-6aa43b92282c, STO
 - https://medium.com/@basakyilmaz82/log4j-vulnerability-485559065af6, CVE
 - https://medium.com/@thevillagehacker/account-take-over-due-to-no-rate-limitation-433bd7449aca, ATO
-- https://medium.com/@aswinthambipanik07/bug-bounty-recon-part-1-dad7f86d1b0f, recon
 - https://medium.com/@yan.zaripov/time-based-sql-injection-63a395434e97, sql-injection
 - https://medium.com/@codewithvamp/the-cost-of-neglect-html-injection-3c00e719fdef, html-injection
 - https://medium.com/@danielmakelley/4-tips-for-new-bug-bounty-hunters-b71c4c6ab5f9, tricks
@@ -500,7 +499,6 @@
 - https://blog.includesecurity.com/2023/04/impersonating-local-unity-players-with-udp-spoofing-in-mirror/, Game-hacking
 - https://infosecwriteups.com/break-the-logic-playing-with-product-ratings-on-a-shopping-site-600-c9a87fb66a73, Logic-flaw
 - https://www.pingsafe.com/blog/linkedin-vulnerability-delete-any-post, IDOR
-- https://medium.com/tinder/identifying-vulnerabilities-in-github-actions-aws-oidc-configurations-8067c400d5b8, CICD
 - https://www.ghostccamm.com/blog/multi_strapi_vulns/, Authentication-bypass
 - https://medium.com/@nanwinata/a-big-company-admin-panel-takeover-4500-9520a6c83430, Authentication-bypass
 - https://starlabs.sg/advisories/23/23-2017/, SSTI
@@ -1111,7 +1109,6 @@
 - https://medium.com/@iknowhatodo/fall-account-takeover-via-amazon-cognito-misconfiguration-ba5975b06c24, IDOR
 - https://www.horizon3.ai/fortios-fortiproxy-and-fortiswitchmanager-authentication-bypass-technical-deep-dive-cve-2022-40684, Authentication-bypass
 - https://mr23r0.medium.com/code-flaws-leads-to-org-admin-account-takeover-ad9515a96eab, Privilege-escalation
-- https://0xgad.medium.com/sql-injection-in-graphql-2859c96547a8, SQL-injection
 - https://hacksys.io/blogs/adobe-reader-xfa-ansi-unicode-confusion-information-leak, Memory-corruption
 - https://www.directdefense.com/compromising-a-backup-system-by-iscsi-interface-during-a-routine-penetration-test/, Missing-authentication
 - https://medium.com/@nireshpandian19/the-story-of-a-p5-that-lead-me-to-a-p3-find-3f8a5ea2c6e1, Pre-account-takeover
@@ -3917,7 +3914,6 @@
 - https://medium.com/@UpdateLap/privileged-escalation-in-facebook-messenger-rooms-e71cb7275101, Privilege-escalation
 - https://web.archive.org/web/20200829220607/https://medium.com/@adeshkolte/sql-injection-vulnerability-in-university-of-cambridge-b4c8d0381e1, SQL-injection
 - https://websecblog.com/vulns/stored-xss-in-webcomponents-org/, Stored-XSS
-- https://medium.com/@YumiSec/api-key-the-real-goldmine-84490a56b7c4, Information-disclosure
 - https://www.updatelap.com/2018/08/privileged-escalation-in-facebook-rooms.html, Authorization-flaw
 - https://medium.com/@Thuva11/user-credentials-are-sent-in-clear-text-fixed-facebook-bug-bounty-7f1e05ecedd9, Credentials-sent-over-unencrypted-channel
 - https://medium.com/@black_b/yahoo-idor-elimination-of-any-comment-e898f4f955f1, IDOR
@@ -4228,7 +4224,6 @@
 - https://web.archive.org/web/20190718104640/https://medium.com/@tbmnull/making-an-xss-triggered-by-csp-bypass-on-twitter-561f107be3e5, XSS
 - https://medium.com/@zahidali_93675/posting-on-groups-as-people-whenever-their-email-was-known-by-an-attacker-9dc8d7baf970, Authorization-flaw
 - https://buer.haus/2017/06/29/escalating-xss-in-phantomjs-image-rendering-to-ssrflocal-file-read/, XSS
-- https://www.seekurity.com/blog/general/reflected-xss-vulnerability-in-simplerisk, Reflected-XSS
 - https://ysx.me.uk/road-to-unauthenticated-recovery-downloading-github-saml-codes/, Authorization-flaw
 - https://www.arneswinnen.net/2017/06/authentication-bypass-on-ubers-sso-via-subdomain-takeover/, Subdomain-takeover
 - https://www.seekurity.com/blog/general/stored-xss-in-the-heart-of-the-russian-email-provider-giant-mail-ru/, Stored-XSS

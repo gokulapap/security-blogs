@@ -27,3 +27,4 @@
 - https://medium.com/@friendly_/reflective-xss-via-search-box-bypassing-cloudflare-waf-841ed420b7f
 - https://medium.com/@gguzelkokar.mdbf15/xss-on-sony-subdomain-feddaea8f5ac
 - https://web.archive.org/web/20200825001615/https://hazana.xyz/posts/escalating-reflected-xss-with-http-smuggling/
+- https://www.seekurity.com/blog/general/reflected-xss-vulnerability-in-simplerisk
