@@ -184,7 +184,6 @@
 - https://medium.com/@mrnikhilsri/xxe-in-public-transport-ticketing-mobile-app-81ae245c01a1, XXE
 - https://medium.com/@uttamgupta_/what-after-recon-bbaf43dbcb68, recon
 - https://medium.com/@jaadugar/sensitive-data-exposure-my-first-bug-in-h1-d4006a08d38f, info-disclosure
-- https://medium.com/@hawk101/story-of-a-miss-configuration-that-led-to-admins-account-takeover-895b28392a65, ATO
 - https://medium.com/@caesarevan23/the-journey-to-get-sql-injection-at-bluepay-blue-indonesia-bluepay-2019-7a23bbce4cb8, journey
 - https://medium.com/@akash0x0/p3-bug-in-just-2-minute-fc6bf1710757, journey
 - https://medium.com/@vflexo/full-account-takeover-via-open-redirection-41c167db46, ATO
@@ -845,7 +844,6 @@
 - https://medium.com/@nakah_/an-amazing-way-to-turn-a-xss-into-an-ato-40bc92772195, XSS
 - https://0xlittlespidy.medium.com/indias-aadhar-card-source-code-disclosure-via-exposed-svn-wc-db-c05519ea7761, Source-code-disclosure
 - https://medium.com/@querylab/bypass-premium-account-payment-getpocket-d813b249687c, Payment-bypass
-- https://medium.com/@coffeeaddict_exe/500-in-5-minutes-45977e89a337, Broken-link-hijacking
 - https://medium.com/@mohammed01550038865/hello-hackers-a229fb5c821b, Blind-XSS
 - https://sudhanshur705.medium.com/exploring-the-world-of-esi-injection-b86234e66f91, ESI-injection
 - https://hamzadzworm.medium.com/how-i-got-a-bug-that-leads-to-takeover-accounts-of-any-user-who-view-my-profile-913c8704f6cd, XSS
@@ -2177,7 +2175,6 @@
 - https://philippeharewood.com/view-the-country-of-a-private-instagram-user/, Information-disclosure
 - https://philippeharewood.com/access-to-crowdtangle-deletion-framework-api/, Information-disclosure
 - https://santoshdbobade.medium.com/how-i-got-reflected-cross-site-scripting-rxss-on-manchester-metropolitan-university-700b36cb4f53, XSS
-- https://research.checkpoint.com/2021/i-can-take-over-your-kindle/, Memory-corruption
 - https://gonzx.medium.com/how-i-found-open-redirect-on-hashnode-com-5f3e9ecb8dc6, Open-redirect
 - Youghourta Ghannei (@YoughartaG), XSS
 - https://yashswarup12.medium.com/how-the-use-of-hidden-form-fields-lead-to-email-verification-bypass-3c8d7c25bd31, Email-verification-bypass
@@ -3290,7 +3287,6 @@
 - https://medium.com/@ultranoob/weird-and-simple-2fa-bypass-without-any-test-b869e09ac261, MFA-bypass
 - https://blog.darabi.me/2019/12/instagram-delete-media-csrf.html, CSRF
 - https://github.com/Metnew/telegram-links-nsworkspace-open, RCE
-- https://blog.noob.ninja/spilling-local-files-via-xxe-when/, XXE
 - https://medium.com/swlh/reusing-cookies-23ed4691122b, Session-management-issue
 - https://blog.evanricafort.com/2019/12/html-injection-to-xss-bypass-in.html, Reflected-XSS
 - https://medium.com/@navne3t/150-xss-at-error-page-of-respository-code-4fc628892742, Reflected-XSS
@@ -3645,7 +3641,6 @@
 - https://medium.com/@addictrao20/fixed-brute-force-instagram-accounts-passwords-938471b6e9d4, Bruteforce
 - http://www.tomanthony.co.uk/blog/facebook-bug-confirm-user-identities/, Information-disclosure
 - https://www.smeegesec.com/2019/03/auditing-github-repo-wikis-for-fun-and.html, Misconfigured-Github-wiki
-- https://medium.com/@valakeyur/xss-in-edmodo-within-5-minute-my-first-bug-bounty-889e3da6167d, Reflected-XSS
 - https://staaldraad.github.io/post/2019-03-02-universal-rce-ruby-yaml-load/, Insecure-deserialization
 - https://licenciaparahackear.github.io/en/posts/bypassing-a-restrictive-js-sandbox/, JS-sandbox-breakout
 - https://medium.com/@pumudu88/yet-another-unexpected-hack-for-bounty-295cee0ecc24, Information-disclosure

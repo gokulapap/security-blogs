@@ -28,3 +28,4 @@
 - https://medium.com/@gguzelkokar.mdbf15/xss-on-sony-subdomain-feddaea8f5ac
 - https://web.archive.org/web/20200825001615/https://hazana.xyz/posts/escalating-reflected-xss-with-http-smuggling/
 - https://www.seekurity.com/blog/general/reflected-xss-vulnerability-in-simplerisk
+- https://medium.com/@valakeyur/xss-in-edmodo-within-5-minute-my-first-bug-bounty-889e3da6167d

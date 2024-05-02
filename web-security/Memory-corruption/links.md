@@ -21,3 +21,4 @@
 - https://blog.trailofbits.com/2022/10/25/sqlite-vulnerability-july-2022-library-api/
 - https://farlow.dev/2023/03/02/hacking-the-nintendo-dsi-browser
 - https://research.checkpoint.com/2021/now-patched-vulnerability-in-whatsapp-could-have-led-to-data-exposure-of-users/
+- https://research.checkpoint.com/2021/i-can-take-over-your-kindle/
