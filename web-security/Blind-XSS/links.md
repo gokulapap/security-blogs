@@ -8,3 +8,4 @@
 - https://web.archive.org/web/20191217223802/https://medium.com/@tahasmily2013m/how-i-found-blind-xss-in-apple-c890775e745a
 - https://akashc99.medium.com/blind-xss-to-ssrf-e2bc579976d
 - https://medium.com/@friendly_/self-xss-leads-to-blind-xss-and-reflected-xss-950b1dc24647
+- https://kailashbohara.com.np/blog/2021/05/13/Google-blind-XSS/

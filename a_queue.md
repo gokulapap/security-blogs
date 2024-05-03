@@ -1566,7 +1566,6 @@
 - https://blog.bitcrack.net/pwning-portals-error-based-sqli-using-websockets/, SQL-injection
 - https://medium.com/@mohamedtaha_42562/from-wayback-to-account-takeover-ea7e80600188, Information-disclosure
 - https://blog.ret2.io/2022/05/19/pwn2own-2021-parallels-desktop-exploit/, Memory-corruption
-- https://quip.com/Uks4AzL33oAu, IDOR
 - https://jspin.re/variant-cloud-analysis/, Default-credentials
 - https://evowizz.dev/blog/huawei-appgallery-vulnerability, Payment-bypass
 - https://blog.stazot.com/stealing-google-drive-oauth-tokens-from-dropbox/, CSRF
@@ -2330,7 +2329,6 @@
 - https://infosecwriteups.com/2fa-bypass-via-forced-browsing-9e511dfdb8df, MFA-bypass
 - https://galnagli.com/Mass_Assignment/, Mass-assignment
 - https://ysamm.com/?p=695, Reflected-XSS
-- https://kailashbohara.com.np/blog/2021/05/13/Google-blind-XSS/, Blind-XSS
 - https://filipaze.medium.com/how-i-find-my-first-stored-xss-c6f57155cc1a, Stored-XSS
 - https://tuhin1729.medium.com/story-of-my-hacking-dutch-government-46b7a3c8b75a, XSS
 - https://www.intezer.com/blog/cloud-security/cve-2021-27075-microsoft-azure-vulnerability-allows-privilege-escalation-and-leak-of-data/, Privilege-escalation
@@ -3454,7 +3452,6 @@
 - https://medium.com/@ronak_9889/solr-injection-by-abusing-local-parameters-on-zomato-com-a5cb7bef10d5, Solr-injection
 - https://web.archive.org/web/20200826192345/https://pwnsec.ninja/2019/07/26/facebook-bugbounty-tale-of-an-instagram-bug-disclosing-users-phone-number-via-checkpoint/, Information-disclosure
 - https://medium.com/@innocenthacker/how-i-found-the-most-critical-bug-in-live-bug-bounty-event-7a88b3aa97b3, Password-reset
-- https://blog.evanricafort.com/2019/07/html-injection-in-clause-email.html, HTML-injection
 - https://philippeharewood.com/subscribe-to-typing-notifications-for-any-instagram-user/, Authorization-flaw
 - https://blog.usejournal.com/shopping-products-for-free-parameter-tampering-vulnerability-8e09e1471596, Parameter-tampering
 - https://www.noob.ninja/2019/07/exploiting-tricky-blind-sql-injection.html, SQL-injection
@@ -3597,7 +3594,6 @@
 - https://medium.com/@mrnikhilsri/unauthenticated-account-takeover-through-http-leak-33386bb0ba0b, HTML-injection
 - https://medium.com/@jayateerthag/multiple-xss-in-skype-com-81d65919ed24, XSS
 - https://www.rcesecurity.com/2019/04/dell-kace-k1000-remote-code-execution-the-story-of-bug-k1-18652/, RCE
-- https://medium.com/@daniel.thatcher/obtaining-xss-using-moodle-features-and-minor-bugs-2035665989cc, Login-CSRF
 - https://ninadmathpati.com/how-i-got-a-trip-to-amsterdam-through-bug-bounty/, Bruteforce
 - https://ngailong.wordpress.com/2019/04/07/old-but-gold-dot-dot-slash-to-get-the-flag-uber-microservice/amp/, SSRF
 - https://medium.com/@jonathanbouman/email-content-spoofing-at-ikea-com-ea76c17605ee, Email-content-spoofing
@@ -4353,7 +4349,6 @@
 - https://josipfranjkovic.blogspot.com/2015/07/the-easiest-bug-bounties-i-have-ever-won.html, IDOR
 - https://blog.darabi.me/2015/03/facebook-bypass-ads-account-roles.html, Authorization-flaw
 - https://josipfranjkovic.blogspot.com/2015/04/race-conditions-on-facebook.html, Race-condition
-- https://blog.zimperium.com/telegram-hack/, Privacy-issue
 - https://buer.haus/2015/02/03/google-com-mobile-feedback-url-redirect-regexvalidation-flaw/, Open-redirect
 - https://buer.haus/2015/01/15/yahoo-root-access-sql-injection-tw-yahoo-com/, SQL-injection
 - https://quitten.github.io/Aliexpress/, XSS

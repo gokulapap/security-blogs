@@ -78,3 +78,4 @@
 - https://medium.com/@JubaBaghdad/how-i-was-able-to-delete-any-image-in-facebook-community-question-forum-a03ea516e327
 - https://feed.bugs.xdavidhu.me/bugs/0014
 - https://medium.com/@roberto.cyberkid/another-day-another-idor-vulnerability-5000-reddit-bug-bounty-22a75003d999
+- https://quip.com/Uks4AzL33oAu

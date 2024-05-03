@@ -6,3 +6,4 @@
 - https://saadahmedx.medium.com/exploiting-auto-save-functionality-to-steal-login-credentials-bf4c7e1594da
 - https://liman.io/blog/gitlab-security-vulnerability-jupyter-notebooks
 - https://justm0rph3u5.medium.com/injecting-punycode-url-within-the-arbitrary-text-via-comment-box-in-google-photos-sharing-option-8b424065deb3
+- https://blog.evanricafort.com/2019/07/html-injection-in-clause-email.html
