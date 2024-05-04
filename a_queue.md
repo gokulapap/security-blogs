@@ -293,7 +293,6 @@
 - https://medium.com/@M0X0101/how-i-was-able-to-get-account-takeover-via-insecure-data-storage-and-webview-with-exported-activity-5308a330ab80, Account-takeover
 - https://www.ghostccamm.com/blog/multi_cockpit_vulns/, CSRF
 - https://medium.themayor.tech/domain-takeover-without-domain-admin-permissions-28a7bd330501, Active-Directory-Privilege-Escalation
-- https://sudhanshukashyap123.medium.com/chaining-self-blind-xss-with-broken-access-control-to-make-it-non-self-blind-xss-626a70c8bbc7, Blind-XSS
 - https://www.ns-echo.com/posts/cve_2023_33298.html, Local-Privilege-Escalation
 - https://security.lauritz-holtmann.de/post/csti-xss-sso-gadget-chain/, CSTI
 - https://medium.com/@jonathanbouman/laravel-debug-mode-left-on-at-zouikwatzeggen-nl-948a7365409f, Debug-mode-enabled
@@ -774,7 +773,6 @@
 - https://www.akamai.com/blog/security-research/exploiting-critical-spoofing-vulnerability-microsoft-cryptoapi, Windows
 - https://swarm.ptsecurity.com/mybb-1-8-31-remote-code-execution-chain/, RCE
 - https://medium.com/@_deshine_/easy-2000-race-condition-b4d093c9bc3c, Race-condition
-- https://sanderwind.medium.com/unleashing-the-power-of-css-injection-the-access-key-to-an-internal-api-789b166d0527, CSS-injection
 - https://sensepost.com/blog/2023/jumping-into-socks/, Lateral-movement
 - https://blog.assetnote.io/2023/01/24/yellowfin-auth-bypass-to-rce/, RCE
 - https://frycos.github.io/vulns4free/2023/01/24/0days-united-nations.html, RCE
@@ -1260,7 +1258,6 @@
 - https://orca.security/resources/blog/synapse-local-privilege-escalation-vulnerability-spark/, Race-condition
 - https://portswigger.net/research/using-hackability-to-uncover-a-chrome-infoleak, SOP-bypass
 - https://snapsec.co/blog/Log4shell-on-agorapulse/, Log4shell
-- https://research.nccgroup.com/2022/09/01/settlers-of-netlink-exploiting-a-limited-uaf-in-nf_tables-cve-2022-32250/, Memory-corruption
 - https://c0nqr0r.medium.com/reading-robots-txt-got-me-4-xss-reports-9fd2234c635f, XSS
 - https://www.microsoft.com/security/blog/2022/08/31/vulnerability-in-tiktok-android-app-could-lead-to-one-click-account-hijacking/, Insecure-deeplink
 - https://med-mahmoudi26.medium.com/saving-more-than-100-000-website-from-a-watering-hole-attack-a22f63a37f94, Web-cache-poisoning
@@ -2189,7 +2186,6 @@
 - https://coffeejunkie.me/Multi-Domain-DOM-Cross-Site-Scripting/, DOM-XSS
 - https://medium.com/pentesternepal/the-journey-from-google-honorable-mention-to-hall-of-fame-f62d9d5882ea, Referer-leakage
 - https://philippeharewood.com/missing-permission-check-for-facebook-gaming-community-invites/, Information-disclosure
-- https://web.archive.org/web/20220303093431/https://securitygoat.medium.com/bug-bounty-stories-1-tale-of-csp-bypass-in-an-electron-app-f669f6ecefc9, CSP-bypass
 - https://medium.com/@mumeido/from-hobby-to-hacking-5d8befb3adde, Unrestricted-file-upload
 - https://gonzx.medium.com/how-i-escalate-my-self-stored-xss-to-account-takeover-with-the-help-of-idor-f20733ecdbe9, Self-XSS
 - https://medium.com/@muhammadsholikhin/facebook-vulnerability-expose-group-member-3000-cca809a53f6b, IDOR
@@ -2714,7 +2710,6 @@
 - https://aseemshrey.in/abusing-report-abuse/, Logic-flaw
 - https://a-constant.medium.com/beyond-the-wall-command-injection-still-alive-577a898df0b5, OS-command-injection
 - https://tbutler.org/2020/11/01/hinge-hackerone-writeup.html, Broken-Access-Control
-- https://ash-king.co.uk/blog/backdoor-android-facebook, Insecure-deeplink
 - https://secret.club/2020/10/30/alien-swarm-rce.html, RCE
 - https://0xt4144t.medium.com/rate-limit-bypassing-allowing-identity-spoofing-789b2fe2efa8, Rate-limiting-bypass
 - https://grumpinout.medium.com/manual-broken-link-monitoring-bcc064f5f5f2, Broken-link-hijacking

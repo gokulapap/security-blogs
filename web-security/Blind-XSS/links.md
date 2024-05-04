@@ -9,3 +9,4 @@
 - https://akashc99.medium.com/blind-xss-to-ssrf-e2bc579976d
 - https://medium.com/@friendly_/self-xss-leads-to-blind-xss-and-reflected-xss-950b1dc24647
 - https://kailashbohara.com.np/blog/2021/05/13/Google-blind-XSS/
+- https://sudhanshukashyap123.medium.com/chaining-self-blind-xss-with-broken-access-control-to-make-it-non-self-blind-xss-626a70c8bbc7

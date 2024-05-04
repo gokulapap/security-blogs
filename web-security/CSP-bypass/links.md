@@ -1,3 +1,4 @@
 - https://nirmaldahal.com.np/posts/2022/07/leveraging-the-sql-injection-to-execute-the-xss-by-evading-csp/
 - https://portswigger.net/research/ambushed-by-angularjs-a-hidden-csp-bypass-in-piwik-pro
 - https://medium.com/bugbountywriteup/bypass-csp-by-abusing-xss-filter-in-edge-43e9106a9754
+- https://web.archive.org/web/20220303093431/https://securitygoat.medium.com/bug-bounty-stories-1-tale-of-csp-bypass-in-an-electron-app-f669f6ecefc9
