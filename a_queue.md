@@ -604,7 +604,6 @@
 - https://mizu.re/post/ejs-server-side-prototype-pollution-gadgets-to-rce, Server-side-prototype-pollution
 - https://claroty.com/team82/research/the-silent-spy-among-us-modern-attacks-against-smart-intercoms, IoT
 - https://arben.sh/bugbounty/SelfXSS-To-Stored-Through-IDOR/, IDOR
-- https://medium.com/@omerkepenek/the-story-of-becoming-a-super-admin-ab32db7dd1b3, Hardcoded-credentials
 - https://www.shockwave.cloud/blog/subdomain-takeover-how-a-misconfigured-dns-record-could-lead-to-a-huge-supply-chain-attack, Subdomain-takeover
 - https://infosecwriteups.com/dont-send-a-message-to-anyone-before-reading-this-account-takeover-vulnerability-external-audit-cf584a0c983c, HTTP-response-manipulation
 - https://medium.com/tenable-techblog/wordpress-buddyforms-plugin-unauthenticated-insecure-deserialization-cve-2023-26326-3becb5575ed8, Insecure-deserialization
@@ -1251,7 +1250,6 @@
 - https://vvx7.io/posts/2022/09/your-amiibos-haunted/, Memory-corruption
 - https://medium.com/@0x0Asif/how-i-found-my-first-rce-8f8033883dc4, IDOR
 - https://nokline.github.io/bugbounty/2022/09/02/Glassdoor-Cache-Poisoning.html, Web-cache-poisoning
-- https://feed.bugs.xdavidhu.me/bugs/0015, IDOR
 - https://mr23r0.medium.com/the-database-handover-a-dumb-mistake-critical-bug-f73c99e72e40, Information-disclosure
 - https://www.legitsecurity.com/blog/github-privilege-escalation-vulnerability-0, Privilege-escalation
 - https://medium.com/@xJay/angularjs-client-side-template-injection-the-orderby-filter-20002ca2a0e8, CSTI
@@ -1337,7 +1335,6 @@
 - https://medium.com/@avinash_/email-confirmation-bypass-at-instagram-cc968f9a126, Email-verification-bypass
 - https://bugra.ninja/posts/cloudshell-command-injection/, OS-command-injection
 - https://krausefx.com/blog/ios-privacy-instagram-and-facebook-can-track-anything-you-do-on-any-website-in-their-in-app-browser, Privacy-issue
-- https://googleprojectzero.blogspot.com/2022/08/the-quantum-state-of-linux-kernel.html, Memory-corruption
 - https://onekey.com/blog/advisory-cisco-small-business-rv-series-routers-web-filter-database-update-command-injection-vulnerability/, OS-command-injection
 - https://srcincite.io/blog/2022/08/09/from-shared-dash-to-root-bash-pre-authenticated-rce-in-vmware-vrealize-operations-manager.html, Authentication-bypass
 - https://petrusviet.medium.com/dancing-on-the-architecture-of-vmware-workspace-one-access-eng-ad592ae1b6dd, Authentication-bypass
@@ -1683,7 +1680,6 @@
 - https://web.archive.org/web/20220329163747/https://pwnsec.ninja/2022/03/27/stealing-cookies-from-subdomain-leads-to-takeover-user-accounts-at-redacted-com/, Account-takeover
 - https://web.archive.org/web/20220405093345/https://pwnsec.ninja/2022/03/26/deleting-account-via-support-ticket/, IDOR
 - https://machevalia.blog/blog/broken-access-control-idor, IDOR
-- https://blogs.opera.com/security/2022/03/bug-bounty-adventures-a-nodebb-0-day/, CSRF
 - https://irsl.medium.com/clipboard-hazard-with-google-sheets-1c1f3d566907, Phishing
 - https://www.synacktiv.com/publications/pwn2own-austin-2021-defeating-the-netgear-r6700v3.html, RCE
 - https://cryptograph3r.blogspot.com/2022/03/how-token-misconfiguration-can-lead-to.html, Account-takeover
@@ -2675,7 +2671,6 @@
 - https://ozguralp.medium.com/turning-blind-error-based-sql-injection-into-an-exploitable-boolean-one-85d6be3ca23b, SQL-injection
 - https://daeken.svbtle.com/arbitrary-file-write-by-adb-pull, Arbitrary-file-write
 - https://0xgaurang.medium.com/out-of-band-xxe-in-an-e-commerce-ios-app-e22981f7b59b, XXE
-- https://kailashbohara.com.np/blog/2020/11/18/GraphQL-IDOR-in-Facebook-streamer-dashboard/, IDOR
 - https://shahjerry33.medium.com/server-side-misconfigurartion-a-funny-fix-63cc12b4c7fc, Information-disclosure
 - https://medium.com/@logicbomb_1/tale-of-3-vulnerabilities-to-account-takeover-44ba631a0304, SSRF
 - https://evait.medium.com/pentest-story-empirum-password-decryption-3a9e2530aba7, Weak-crypto

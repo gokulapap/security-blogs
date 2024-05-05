@@ -23,3 +23,4 @@
 - https://research.checkpoint.com/2021/now-patched-vulnerability-in-whatsapp-could-have-led-to-data-exposure-of-users/
 - https://research.checkpoint.com/2021/i-can-take-over-your-kindle/
 - https://research.nccgroup.com/2022/09/01/settlers-of-netlink-exploiting-a-limited-uaf-in-nf_tables-cve-2022-32250/
+- https://googleprojectzero.blogspot.com/2022/08/the-quantum-state-of-linux-kernel.html

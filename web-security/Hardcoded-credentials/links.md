@@ -2,3 +2,4 @@
 - https://medium.com/@YumiSec/from-an-error-message-to-db-diclosure-1af879c74474
 - https://ssd-disclosure.com/ssd-advisory-cisco-secure-manager-appliance-jwt_api_impl-hardcoded-jwt-secret-elevation-of-privilege/
 - https://redrays.io/cve-2020-6369-patch-bypass/
+- https://medium.com/@omerkepenek/the-story-of-becoming-a-super-admin-ab32db7dd1b3

@@ -37,3 +37,4 @@
 - https://medium.com/bugbountywriteup/refocusing-in-bug-hunting-bonus-an-interestingly-simple-to-test-csrf-bypass-8595b3312147
 - https://web.archive.org/web/20201128230506/https://medium.com/@adeshkolte/how-i-made-1000-at-t-bug-bounty-h1-14e68b284e2f
 - https://medium.com/tenable-techblog/exploiting-jira-for-host-discovery-43be3cddf023
+- https://blogs.opera.com/security/2022/03/bug-bounty-adventures-a-nodebb-0-day/

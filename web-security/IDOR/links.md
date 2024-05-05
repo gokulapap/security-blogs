@@ -79,3 +79,5 @@
 - https://feed.bugs.xdavidhu.me/bugs/0014
 - https://medium.com/@roberto.cyberkid/another-day-another-idor-vulnerability-5000-reddit-bug-bounty-22a75003d999
 - https://quip.com/Uks4AzL33oAu
+- https://feed.bugs.xdavidhu.me/bugs/0015
+- https://kailashbohara.com.np/blog/2020/11/18/GraphQL-IDOR-in-Facebook-streamer-dashboard/
