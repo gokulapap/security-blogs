@@ -4,3 +4,4 @@
 - https://zxsecurity.co.nz/research/advisories/race-condition-asp-net-core-signinmanager/
 - https://pandaonair.com/2020/06/11/race-conditions-exploring-the-possibilities.html
 - https://blog.agilehunt.com/blogs/security/race-condition-vulnerability-in-azure-video-indexer-allowed-trial-account-users-use-advance-premium-feature
+- https://thehemdeep.medium.com/breaking-business-logic-part-2-7-1-f19924b18783

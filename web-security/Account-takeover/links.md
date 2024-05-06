@@ -38,3 +38,5 @@
 - https://positive.security/blog/ransack-data-exfiltration
 - https://security.lauritz-holtmann.de/advisories/flickr-account-takeover/
 - https://medium.com/bugbountywriteup/chaining-vulnerabilities-lead-to-account-takeover-b583f0c10591
+- https://medium.com/bugbountywriteup/taking-down-the-sso-account-takeover-in-3-websites-of-kolesa-due-to-insecure-jsonp-call-facd79732e45
+- https://medium.com/@tushar.tilak.sharma/p5-to-p1-intresting-account-takeover-6e59b879494b

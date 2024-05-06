@@ -1138,7 +1138,6 @@
 - https://medium.com/@302Found/bugcrowd-tale-of-multiple-misconfigurations-cb5b98f09302, Account-takeover
 - https://medium.com/@nireshpandian19/my-first-and-second-bugs-are-2fa-bypass-1f6fd823b467, MFA-bypass
 - https://medium.com/@bug_vs_me/csrf-attack-0-click-account-delete-1st-write-up-3d67b267b931, CSRF
-- https://thehemdeep.medium.com/breaking-business-logic-part-2-7-1-f19924b18783, Race-condition
 - https://medium.com/@Cybervenom/tale-of-easy-p1-bugs-in-wild-1b7f5bf80eef, Forced-browsing
 - https://www.trenchesofit.com/2022/09/30/zoneminder-web-app-testing/, DoS
 - https://www.usenix.org/system/files/sec23summer_235-rohlmann-prepub.pdf, Signature-bypass
@@ -1867,7 +1866,6 @@
 - https://shahjerry33.medium.com/sql-injection-the-file-upload-playground-6580b089d013, Unrestricted-file-upload
 - https://servicenger.com/mobile/facebook-android-webview-vulnerability/, XSS
 - https://medium.com/cider-sec/npm-might-be-executing-malicious-code-in-your-ci-without-your-knowledge-e5e45bab2fed, RCE
-- https://medium.com/@tushar.tilak.sharma/p5-to-p1-intresting-account-takeover-6e59b879494b, Account-takeover
 - https://infosecwriteups.com/idor-leads-to-leak-private-details-866563365490, IDOR
 - https://trevorspiniolas.com/doorlock/doorlock.html, DoS
 - https://medium.com/pentesternepal/a-tale-of-zero-click-account-takeover-56b51fdbd7ae, Account-takeover
@@ -2752,7 +2750,6 @@
 - https://thinkloveshare.com/hacking/rce_on_spip_and_root_me/, RCE
 - https://medium.com/@pratyush1337/the-art-of-idor-7-idors-in-edm0d0-b86d683c8de9, IDOR
 - https://websecblog.com/vulns/public-google-cloud-blog-bucket/, GCP-bucket-misconfiguration
-- https://medium.com/bugbountywriteup/taking-down-the-sso-account-takeover-in-3-websites-of-kolesa-due-to-insecure-jsonp-call-facd79732e45, Account-takeover
 - https://johnjhacking.com/blog/p1-critical-discovering-and-foiling-a-threat-actor/, Information-disclosure
 - https://medium.com/@vasuyadav0786/5-ways-to-do-ato-in-a-single-website-cfe7e5da987e, Account-takeover
 - https://medium.com/@masonhck357/chains-on-chains-chaining-multiple-low-level-vulns-into-a-critical-8b88db29738e, Blind-XSS
@@ -3486,7 +3483,6 @@
 - https://www.f5.com/labs/articles/threat-intelligence/how-i-hacked-the-microsoft-outlook-android-app-and-found-cve-2019-1105, XSS
 - https://blog.lent.ink/post/klanteservice/, Logic-flaw
 - https://medium.com/@osamaavvan/1800-worth-clickjacking-1f92e79d0414, Clickjacking
-- https://www.rcesecurity.com/2019/06/about-a-sucuri-rce-and-how-not-to-handle-bug-bounty-reports/, RCE
 - https://medium.com/@saadahmedx/self-xss-to-evil-xss-bcf2494a82a4, XSS
 - https://medium.com/@dr.spitfire/a-fight-for-duplicate-marked-bug-story-of-bbc-hall-of-fame-16f9c8215315?sk=9269454dd3557dc8ea9c1ec26be033dd, XSS
 - https://hackademic.co.in/how-a-classical-xss-can-lead-to-persistent-ato-vulnerability/, XSS
@@ -3928,7 +3924,6 @@
 - https://medium.com/@thehackerish/how-i-could-access-your-internal-servers-steal-and-modify-your-image-repository-d477f79b329a, RCE
 - https://medium.com/@0xHyde/yahoo-two-xssi-vulnerabilities-chained-to-steal-user-information-750-bounty-e9bc6a41a40a, XSSI
 - https://www.youtube.com/watch?v=0oKHov6y6mw, Stored-XSS
-- https://medium.com/@codingkarma/how-i-found-xss-on-amazon-f62b50f1c336, XSS
 - https://medium.com/@d0nut/exfiltration-via-css-injection-4e999f63097d, CSS-injection
 - http://ha.cker.info/exploitation-of-server-side-template-injection-with-craft-cms-plguin-seomatic/, SSTI
 - https://blog.bentkowski.info/2018/07/vulnerability-in-hangouts-chat-aka-how.html, Open-redirect
