@@ -21,3 +21,4 @@
 - https://web.archive.org/web/20200929003949/https://www.mohamedharon.com/2019/02/subdomain-aws-s3-buckets-reader.html
 - https://medium.com/@aishwaryakendle/how-we-hijacked-26-subdomains-9c05c94c7049
 - https://monish-basaniwal.medium.com/how-i-found-my-first-subdomain-takeover-vulnerability-b7d5c17b61fd
+- https://ian.sh/markmonitor

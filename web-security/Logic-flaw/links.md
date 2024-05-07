@@ -58,3 +58,4 @@
 - https://medium.com/bugbountywriteup/bugbounty-how-i-was-able-to-compromise-any-user-account-via-reset-password-functionality-a11bb5f863b3
 - https://www.rafaybaloch.com/2017/06/paypal-mobile-verification-and-payment.html
 - https://prajwoldhungana487.medium.com/same-bug-different-platform-4c648e91af6b
+- https://checkmarx.com/blog/openai-allowed-unlimited-credit-on-new-accounts/

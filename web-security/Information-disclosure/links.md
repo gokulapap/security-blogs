@@ -75,3 +75,4 @@
 - https://fardeen-ahmed.medium.com/how-i-was-able-to-get-appreciation-from-the-organization-of-a-website-just-by-changing-a-sign-661042c97a98
 - https://gauravnarwani.com/a-1000-bounty/
 - https://medium.com/@YumiSec/api-key-the-real-goldmine-84490a56b7c4
+- https://www.secureworks.com/research/azure-active-directory-exposes-internal-information

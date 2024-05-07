@@ -444,7 +444,6 @@
 - https://blog.ankursundara.com/cookie-bugs/, Cookie-smuggling
 - https://ermetic.com/blog/azure/when-good-apis-go-bad-uncovering-3-azure-api-management-vulnerabilities/, SSRF
 - https://blog.stratumsecurity.com/2023/05/04/integration-fails/, Privilege-escalation
-- https://checkmarx.com/blog/openai-allowed-unlimited-credit-on-new-accounts/, Logic-flaw
 - https://danrevah.github.io/2023/05/03/CVE-2023-25394-VideoStream-LPE/, Local-Privilege-Escalation
 - https://www.trellix.com/en-us/about/newsroom/stories/research/the-art-of-information-disclosure.html, Out-of-bounds-Read
 - https://sumedh00.medium.com/accessing-admin-dashboard-in-5-seconds-acee737eacfb, Default-credentials
@@ -1617,7 +1616,6 @@
 - https://palisade.consulting/blog/rarible-vulnerability, XSS
 - https://systemweakness.com/stored-xss-to-other-users-via-messages-e033239821b5, Stored-XSS
 - https://medium.com/pentesternepal/sql-injection-in-harvards-subdomain-c3148f8be156, SQL-injection
-- https://medium.com/@hacxyk/how-we-spoofed-ens-domains-52acea2079f6, Homograph-attack
 - https://bloggerrando.blogspot.com/2022/04/15-1.html, Broken-Access-Control
 - https://medium.com/@_ip_/3-3-cache-poisoning-lateral-movement-gitlab-9c6288708576, Broken-Access-Control
 - https://mr23r0.medium.com/crazy-smiple-insecure-design-300-bounty-16a2b8e80522, IP-grabbing
@@ -1647,7 +1645,6 @@
 - https://crypt0g30rgy.github.io/post/PaymentBypassThree, Payment-bypass
 - https://haxatron.gitbook.io/vulnerability-research/vr1, Broken-Access-Control
 - https://blog.aquasec.com/npm-supply-chain-attack, Information-disclosure
-- https://www.secureworks.com/research/azure-active-directory-exposes-internal-information, Information-disclosure
 - https://tarekbouali.com/posts/how-i-hacked-one-of-the-biggest-airlines-group-of-the-world/, IDOR
 - https://blog.viettelcybersecurity.com/moveit-transfer-cve/, SQL-injection
 - https://kuldeep.io/posts/nosql-injection-in-plain-sight/, NoSQL-injection
@@ -2117,7 +2114,6 @@
 - https://www.zerodayinitiative.com/blog/2021/8/30/proxytoken-an-authentication-bypass-in-microsoft-exchange-server, Authentication-bypass
 - https://itsfading.github.io/posts/I-owe-your-Request-HTTP-Request-Smuggling-leads-to-Full-Accounts-takeover/, HTTP-Request-Smuggling
 - https://blog.usamav.dev/two-account-takeover-bugs-worth-4300-dollar-bounty, Account-takeover
-- https://ian.sh/markmonitor, Subdomain-takeover
 - https://medium.com/codex/hunting-for-xss-with-codeql-57f70763b938, XSS
 - https://medium.com/@iambroot/what-would-you-do-if-oracles-mailing-server-sent-you-this-bc275b1bf967, HTML-injection
 - https://riteshgohil-25.medium.com/ato-of-wordpress-website-4-digits-bounty-in-5-minute-cc888c4054c9, Exposed-registration-page
@@ -2134,7 +2130,6 @@
 - https://robertheaton.com/bumble-vulnerability/, Information-disclosure
 - https://medium.com/@amnotacat/how-companies-need-to-widen-there-scopes-75ba19ac50c7, RCE
 - https://medium.com/@noob.assassin/5k-misconfigured-reset-password-that-leads-to-account-takeover-no-user-interaction-ato-e6a36b8ef183, Account-takeover
-- https://web.archive.org/web/20210825045217/https://medium.com/@imunissar786/how-i-was-able-to-steal-private-files-of-any-user-on-larksuite-c0e2757429e2, IDOR
 - https://www.upguard.com/breaches/power-apps, Information-disclosure
 - https://medium.com/@gguzelkokar.mdbf15/huge-impact-server-side-request-forgery-in-production-app-20bf0cc5731, SSRF
 - https://medium.com/@nehpatel/story-of-unexpected-bugs-75734d51ac57, IDOR
