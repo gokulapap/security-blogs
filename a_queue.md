@@ -778,7 +778,6 @@
 - https://www.zerodayinitiative.com/blog/2023/1/23/activation-context-cache-poisoning-exploiting-csrss-for-privilege-escalation, Local-Privilege-Escalation
 - https://ph-hitachi.medium.com/how-i-hacked-scopely-using-sign-in-with-google-298a9c166ad, Account-takeover
 - https://johnjhacking.com/blog/cve-2023-24068-cve-2023-24069/, Thick-client
-- https://infosecwriteups.com/reflected-xss-leads-to-3-000-bug-bounty-rewards-from-microsoft-forms-efe34fc6b261, Reflected-XSS
 - https://sl4x0.medium.com/how-i-found-xss-on-admin-page-without-login-fe165a5f89c2, Reflected-XSS
 - https://www.ukusormus.com/bypassing-cloudflare-waf-xss-via-sql-injection/, Reflected-XSS
 - https://securityintelligence.com/posts/dissecting-exploiting-tcp-ip-rce-vulnerability-evilesp/?, Kernel-hacking
@@ -2355,7 +2354,6 @@
 - https://mrsinister1501.medium.com/how-i-found-cross-site-scripting-reflected-on-more-than-300-systems-81d8118d9de5, Reflected-XSS
 - https://infosecwriteups.com/rce-via-internal-access-to-adminer-database-management-critical-d3dc2a1d392a, RCE
 - https://notifybugme.medium.com/aws-internal-metadata-accessed-through-ssrf-by-chaining-an-open-redirect-bug-c4b0e4838dc, SSRF
-- https://baibhavjha.com.np/blogs/deactivateduserspageroles/, Logic-flaw
 - https://infosecwriteups.com/brave-stealing-your-cookies-remotely-1e09d1184675, Arbitrary-file-read
 - https://davtur19.medium.com/telegram-bug-bounties-xss-privacy-issues-official-bot-exploitation-and-more-5277fa78435, XSS
 - https://parthdeshani.medium.com/got-nice-catch-by-google-5e6a8211371c, OAuth
@@ -2491,7 +2489,6 @@
 - https://sprocketfox.io/xssfox/2021/02/18/pipeline/, RCE
 - https://thevillagehacker.medium.com/account-take-over-by-response-manipulation-e1293ee51e9a, Authentication-bypass
 - https://ysamm.com/?p=640, Information-disclosure
-- https://ysamm.com/?p=642, Information-disclosure
 - https://ysamm.com/?p=638, Information-disclosure
 - https://ysamm.com/?p=636, Information-disclosure
 - https://ysamm.com/?p=634, Information-disclosure
@@ -2609,7 +2606,6 @@
 - https://bhupendra1238.medium.com/how-i-got-my-first-bounty-hof-from-google-csrf-lead-to-account-delete-85f9906ba9ec, CSRF
 - https://blog.geekycat.in/google-vrp-hijacking-your-screenshots/, postMessage
 - https://blog.deesee.xyz/regex/security/2020/12/27/regular-expression-injection.html, ReDoS
-- https://theshubh77.medium.com/facebook-page-admin-disclosure-by-message-seller-button-bounty-1500-usd-caaa2eac4121, Information-disclosure
 - https://0x48piraj.medium.com/full-address-bar-spoofing-on-opera-mini-android-597fafa60627, Address-Bar-Spoofing
 - https://lutfumertceylan.com.tr/posts/acc-takeover-web-cache-xss/, Reflected-XSS
 - https://baibhavjha.com.np/blogs/hidingfromcustomlistfblite/, Logic-flaw
@@ -4203,7 +4199,6 @@
 - https://web.archive.org/web/20170620023433/https://medium.com/@know.0nix/how-i-hack-23-900-000-tumblr-domains-at-once-341edad6e7cc, IDOR
 - https://blog.witcoat.com/2018/05/30/xss-on-bugcrowd-and-so-many-other-websites-main-domain/, Reflected-XSS
 - https://www.seekurity.com/blog/general/metasploit-web-project-kill-all-running-tasks-csrf-cve-2017-5244/, CSRF
-- https://www.seekurity.com/blog/write-ups/godaddy-xss-affects-parked-domains-redirector-processor, Reflected-XSS
 - https://medium.com/bugbountywriteup/whatsapp-dos-vulnerability-in-ios-android-d896f76d3253, DoS
 - https://medium.com/bugbountywriteup/how-i-got-5500-from-yahoo-for-rce-92fffb7145e6, RCE
 - https://seanmelia.files.wordpress.com/2017/06/django-privilege-escalation-e28093-zero-to-superuser.pdf, Privilege-escalation

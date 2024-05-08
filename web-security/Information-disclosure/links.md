@@ -76,3 +76,5 @@
 - https://gauravnarwani.com/a-1000-bounty/
 - https://medium.com/@YumiSec/api-key-the-real-goldmine-84490a56b7c4
 - https://www.secureworks.com/research/azure-active-directory-exposes-internal-information
+- https://ysamm.com/?p=642
+- https://theshubh77.medium.com/facebook-page-admin-disclosure-by-message-seller-button-bounty-1500-usd-caaa2eac4121

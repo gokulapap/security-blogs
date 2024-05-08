@@ -59,3 +59,4 @@
 - https://www.rafaybaloch.com/2017/06/paypal-mobile-verification-and-payment.html
 - https://prajwoldhungana487.medium.com/same-bug-different-platform-4c648e91af6b
 - https://checkmarx.com/blog/openai-allowed-unlimited-credit-on-new-accounts/
+- https://baibhavjha.com.np/blogs/deactivateduserspageroles/
