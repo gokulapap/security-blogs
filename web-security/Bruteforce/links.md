@@ -3,3 +3,4 @@
 - https://medium.com/@lokeshdlk77/disable-any-unconfirmed-account-in-facebook-123aeba19426
 - https://bilalabdulmuqeet.medium.com/brute-forcing-otp-via-bypassing-rate-limit-c5ee6b25c2a8
 - https://medium.com/@noob_master/no-rate-limiting-on-otp-sending-39a3a9fc93f6
+- https://cyberhacks200.medium.com/an-unexpected-bug-9cab5072e009

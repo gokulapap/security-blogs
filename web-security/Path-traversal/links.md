@@ -11,3 +11,4 @@
 - https://www.immersivelabs.com/blog/we-discovered-major-vulnerabilities-in-control-web-panel-heres-how-we-found-them/
 - https://medium.com/bugbountywriteup/how-i-gained-access-to-sonys-database-f3ba08d0e035
 - https://j0vsec.com/post/cve-2021-43798/
+- https://samcurry.net/analysis-of-cve-2019-14994/

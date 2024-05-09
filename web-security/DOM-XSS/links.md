@@ -6,3 +6,4 @@
 - https://ysamm.com/?p=493
 - https://opnsec.com/2020/05/dom-xss-in-gmail-with-a-little-help-from-chrome
 - https://www.vpnmentor.com/blog/dom-xss-bug-affecting-tinder-shopify-yelp/
+- https://doyensec.com/resources/Doyensec_Advisory_AnnounceKit_Q12022.pdf

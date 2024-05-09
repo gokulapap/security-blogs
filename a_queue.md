@@ -1315,7 +1315,6 @@
 - https://sagarsajeev.medium.com/an-unusual-tale-of-email-verification-bypass-dcf884d544eb, Email-verification-bypass
 - https://medium.com/@bharatsingh070601/bypassing-unexpected-idor-e6a9da2e0498, IDOR
 - https://medium.com/@Bishoo97x/un-united-nations-host-header-injection-leads-to-any-full-account-takeover-ato-795bc9ebc670, Host-header-injection
-- https://doyensec.com/resources/Doyensec_Advisory_AnnounceKit_Q12022.pdf, DOM-XSS
 - https://www.synacktiv.com/en/publications/exploiting-cve-2022-24816-a-code-injection-in-the-jt-jiffle-extension-of-geoserver.html, RCE
 - https://medium.com/@fpatrik/how-i-found-an-xss-vulnerability-via-using-emojis-7ad72de49209, XSS
 - https://research.checkpoint.com/2022/researching-xiaomis-tee/, Payment-bypass
@@ -2063,7 +2062,6 @@
 - https://gccybermonks.com/posts/mxss/, XSS
 - https://medium.com/@varmaanu001/cookie-stealing-via-clickjacking-using-burp-collaborator-ff6f4ac1c18b, Clickjacking
 - https://codewhitesec.blogspot.com/2021/09/citrix-sharefile-rce-cve-2021-22941.html, RCE
-- https://infosecwriteups.com/unlimited-report-user-in-instagram-facebook-leads-to-abuse-risk-efcca325aada, Lack-of-rate-limiting
 - https://dewangpanchal98.medium.com/admin-access-799b50694965, Privilege-escalation
 - https://fardeen-ahmed.medium.com/a-small-change-and-things-go-in-your-hand-story-of-a-250-bounty-5ddc43c31463, Information-disclosure
 - https://u-itachi.medium.com/from-phpinfo-page-to-many-p1-bugs-and-rce-symfony-bce432605662, File-disclosure
@@ -2279,7 +2277,6 @@
 - https://infosecwriteups.com/admin-panel-pwned-89db333f3836, Information-disclosure
 - https://notifybugme.medium.com/escalating-ssrf-to-accessing-all-user-pii-information-by-aws-metadata-aabcfd5a3e0e, SSRF
 - https://justintaft.com/blog/2021/06/01/cve-2021-29084-synology-crlf-unauthenticated-file-downloads, CRLF-injection
-- https://infosecwriteups.com/facebook-page-admin-disclosure-7d8893a4a674, Information-disclosure
 - https://notifybugme.medium.com/escalating-ssrf-to-accessing-all-user-pii-information-by-aws-metadata-aabcfd5a3e0e, SSRF
 - https://github.com/champtar/blog/tree/main/runc-symlink-CVE-2021-30465, Kubernetes
 - https://github.com/champtar/blog/tree/main/Metadata_MITM_root_EKS_GKE, Kubernetes
@@ -2531,7 +2528,6 @@
 - https://amineaboud.medium.com/access-developer-tasks-list-of-any-of-facebook-application-graphql-idor-62307c5e5b34, IDOR
 - https://amineaboud.medium.com/disclose-the-fb-profile-of-facebook-employees-who-create-official-announcement-messages-bug-76554068caf7, Information-disclosure
 - https://avanishpathak46.medium.com/an-account-takeover-vulnerability-due-to-response-manipulation-e23fe629bd1, Authentication-bypass
-- https://cyberhacks200.medium.com/an-unexpected-bug-9cab5072e009, Bruteforce
 - https://avanishpathak46.medium.com/an-interesting-account-takeover-vulnerability-a1fbec0e01a, IDOR
 - https://medium.com/bugbountywriteup/how-i-chained-p4-to-p2-open-redirection-to-full-account-takeover-a28b09a94bf7, Open-redirect
 - https://web.archive.org/web/20210201180254/https://www.cysek.org/post/bac-sxss, Stored-XSS
@@ -3342,7 +3338,6 @@
 - https://web.archive.org/web/20200807155301/https://gh0st.cn/archives/2019-10-01/1, IDOR
 - https://web.archive.org/web/20191211081434/https://victoni.github.io/bug-hunting-xss-on-cookie-popup-warning/, Reflected-XSS
 - https://b3nac.com/posts/2019-09-02-Spear-Texting-Via-Parameter-Injection.html, Parameter-tampering
-- https://samcurry.net/analysis-of-cve-2019-14994/, Path-traversal
 - https://medium.com/bugbountywriteup/information-disclosure-at-paypal-and-xoom-paypal-acquisition-via-simple-google-dork-1-000-usd-b726fe628a05, Information-disclosure
 - https://tutorgeeks.blogspot.com/2019/09/broken-link-hijacking-s3-buckets.html, Broken-link-hijacking
 - https://medium.com/@0xgaurang/case-study-oauth-misconfiguration-leads-to-account-takeover-d3621fe8308b, OAuth
