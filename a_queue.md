@@ -1371,7 +1371,6 @@
 - https://www.synacktiv.com/publications/cve-2022-31813-forwarding-addresses-is-hard.html, Host-header-injection
 - https://www.sonarsource.com/blog/disclosing-information-with-a-side-channel-in-django/, Side-channel-attack
 - https://pentest.blog/advisory-roxy-wi-unauthenticated-remote-code-executions-cve-2022-31137/, RCE
-- https://jhftss.github.io/CVE-2022-26712-The-POC-For-SIP-Bypass-Is-Even-Tweetable/, MacOS
 - https://medium.com/@emirpolat/cve-2022-36446-webmin-1-997-7a9225af3165, RCE
 - https://adnanmalik.info/blog/digging-js-files-to-find-bugs/, IDOR
 - https://sagarsajeev.medium.com/dos-worth-650-interesting-right-144ff45ccf3b, DoS
@@ -1389,7 +1388,6 @@
 - https://sector7.computest.nl/post/2022-07-inductive-automation-ignition-rce/, RCE
 - https://infosecwriteups.com/i-mean-idor-is-not-only-about-others-id-2d26115072ba, IDOR
 - https://bxmbn.medium.com/how-i-test-for-web-cache-vulnerabilities-tips-and-tricks-9b138da08ff9, Web-cache-poisoning
-- https://starlabs.sg/blog/2022/07-gitlab-project-import-rce-analysis-cve-2022-2185/, RCE
 - https://www.vectra.ai/blogpost/abusing-the-replicator-silently-exfiltrating-data-with-the-aws-s3-replication-service, Security-Logging-and-Monitoring-Failure
 - https://www.randorisec.fr/crack-linux-firewall/, Memory-corruption
 - https://www.vulnano.com/2022/07/react-debugkeystore-key-was-trusted-by.html, Account-takeover
@@ -1451,7 +1449,6 @@
 - https://medium.com/@kashyapherry147/origin-ip-to-account-takeover-62d7a54abebf, WAF-bypass
 - https://janmuhammadzaidi.medium.com/vertical-privilege-escalation-the-user-can-takeover-an-admin-account-via-response-manipulation-9237c8b2fefa, Privilege-escalation
 - https://blog.fraktal.fi/two-faces-of-the-same-pdf-document-17e7a15522a0, PDF-parser-differential-attack
-- https://medium.com/@unurbayar1998/facebook-portals-business-logic-error-lead-to-500-708e91b4055f, Logic-flaw
 - https://blog.electrovolt.io/posts/vscode-rce/, RCE
 - https://portswigger.net/research/bypassing-firefoxs-html-sanitizer-api, XSS
 - https://www.horizon3.ai/red-team-blog-cve-2022-28219/, XXE
@@ -3173,7 +3170,6 @@
 - https://web.archive.org/web/20200305081812/https://0xatul.github.io/posts/2020/02/external-xml-entity-via-file-upload-svg/, XXE
 - https://www.amolbaikar.com/determine-users-with-detailed-role-model-on-behalf-of-any-facebook-application/, IDOR
 - https://web.archive.org/web/20200223073527/https://victoni.github.io/changing-userID-leads-to-data-leak/, IDOR
-- https://medium.com/bugbountywriteup/simple-remote-code-execution-vulnerability-examples-for-beginners-985867878311, RCE
 - https://web.archive.org/web/20200225040957/https://medium.com/@godofdarkness.msf/google-apis-clickjacking-1337-7a3a9f3eb8df, Clickjacking
 - https://fellchase.blogspot.com/2020/02/site-wide-csrf-on-popular-program.html, CSRF
 - https://www.contrastsecurity.com/security-influencers/i-made-600-with-contrast-ce-cve-2019-8442, Information-disclosure
@@ -3743,7 +3739,6 @@
 - https://slashcrypto.org/2018/11/28/eBay-source-code-leak/, git-folder-disclosure
 - https://medium.com/@vishnu0002/instagram-multi-factor-authentication-bypass-924d963325a1, MFA-bypass
 - https://www.amolbaikar.com/disclose-contact_email-of-any-facebook-application/, Information-disclosure
-- https://medium.com/@benjitobias/from-ctfs-to-bug-bounty-booty-81bab999b70d, Information-disclosure
 - https://www.hackerinside.me/2018/11/critical-stored-xss-vulnerability.html, Stored-XSS
 - https://medium.com/@pratheesh.p.narayanan/bypassing-scratch-cards-on-google-pay-8915d5423385, Logic-flaw
 - https://medium.com/@zain.sabahat/exploiting-ssrf-like-a-boss-c090dc63d326, SSRF

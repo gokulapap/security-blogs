@@ -60,3 +60,4 @@
 - https://prajwoldhungana487.medium.com/same-bug-different-platform-4c648e91af6b
 - https://checkmarx.com/blog/openai-allowed-unlimited-credit-on-new-accounts/
 - https://baibhavjha.com.np/blogs/deactivateduserspageroles/
+- https://medium.com/@unurbayar1998/facebook-portals-business-logic-error-lead-to-500-708e91b4055f

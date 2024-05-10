@@ -79,3 +79,4 @@
 - https://ysamm.com/?p=642
 - https://theshubh77.medium.com/facebook-page-admin-disclosure-by-message-seller-button-bounty-1500-usd-caaa2eac4121
 - https://infosecwriteups.com/facebook-page-admin-disclosure-7d8893a4a674
+- https://medium.com/@benjitobias/from-ctfs-to-bug-bounty-booty-81bab999b70d

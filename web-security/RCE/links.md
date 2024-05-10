@@ -87,3 +87,5 @@
 - https://ctf.re//source-engine/exploitation/2021/05/01/source-engine-2/
 - https://omar0x01.medium.com/orange-arbitrary-command-execution-75ba7f283d53
 - https://www.rcesecurity.com/2019/06/about-a-sucuri-rce-and-how-not-to-handle-bug-bounty-reports/
+- https://medium.com/bugbountywriteup/simple-remote-code-execution-vulnerability-examples-for-beginners-985867878311
+- https://starlabs.sg/blog/2022/07-gitlab-project-import-rce-analysis-cve-2022-2185/
