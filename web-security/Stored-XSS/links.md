@@ -36,3 +36,4 @@
 - https://www.synacktiv.com/sites/default/files/2023-04/Synacktiv-ZimbraConnect-CVE-2022-41348.pdf
 - https://ashketchum.medium.com/stored-xss-in-google-ads-android-application-3133-70-373f6c361ff3
 - https://gauravnarwani.com/admin-hijacked-by-sea-surf-pirates/
+- https://www.hackerinside.me/2018/11/critical-stored-xss-vulnerability.html

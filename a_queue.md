@@ -1108,7 +1108,6 @@
 - https://infosecwriteups.com/6000-with-microsoft-hall-of-fame-microsoft-firewall-bypass-crlf-to-xss-microsoft-bug-bounty-8f6615c47922, CRLF-injection
 - https://blog.aquasec.com/private-packages-disclosed-via-timing-attack-on-npm, Timing-attack
 - https://abdelhameedghazy.medium.com/broken-access-control-leads-to-full-team-takeover-and-privilege-escalation-6f50174f29ce, Broken-Access-Control
-- https://medium.com/@erik.wynter/pwning-manageengine-from-endpoint-to-exploit-bc5793836fd, Arbitrary-file-write
 - https://infosecwriteups.com/critical-idor-vulnerability-on-medium-f78346edbcb1, IDOR
 - https://cyberlix.io/breaking-parser-logic-gain-access-to-nginx-plus-api-read-write-upstreams/, Path-traversal
 - https://www.intruder.io/research/in-guid-we-trust, IDOR
@@ -1205,7 +1204,6 @@
 - https://tamirzb.com/attacking-android-kernel-using-qualcomm-trustzone, Memory-corruption
 - https://cturt.github.io/mast1c0re.html, Memory-corruption
 - https://arben.sh/bugbounty/Blind-XXE-CVE-2019-12154/, Blind-XXE
-- https://medium.com/@cyberali/blind-xss-and-time-based-sql-injection-to-admin-panel-control-and-database-takeover-9b7645a53748, Blind-XSS
 - https://blog.includesecurity.com/2021/06/hacking-unity-games-malicious-unity-game-objects/, Arbitrary-code-execution
 - https://www.vectra.ai/blogpost/undermining-microsoft-teams-security-by-mining-tokens, Insecure-storage-of-sensitive-information
 - https://arben.sh/research/LiveHelperChat-RCE/, RCE
@@ -2838,7 +2836,6 @@
 - https://www.computest.nl/en/knowledge-platform/blog/vulnerability-new-touchid-feature-iCloud-accounts-at-risk-breached/, OAuth
 - https://maordayanofficial.medium.com/look-at-what-i-found-in-comodo-57d62af2f263, Stored-XSS
 - https://vj0shii.github.io/multi-factor-auth-bypass-with-password-reset-function/, MFA-bypass
-- https://objective-see.org/blog/blog_0x4D.html, MacOS
 - https://rhynorater.github.io/CVE-2020-13379-Write-Up, SSRF
 - https://objective-see.com/blog/blog_0x4D.html, Local-Privilege-Escalation
 - https://a2nkf.github.io/unauthd_Logic_bugs_FTW/, Logic-flaw
@@ -3585,7 +3582,6 @@
 - https://www.rodneybeede.com/security/slack-announcement-only-channel-post-restriction-bypass.html, Authorization-flaw
 - https://blog.assetnote.io/bug-bounty/2019/03/19/rce-on-mozilla-zero-day-webpagetest/, RCE
 - https://medium.com/@80vul/from-http-domain-to-res-domain-xss-by-using-ie-adobes-pdf-activex-plugin-9f2a72a87aff, DOM-XSS
-- https://palant.info/2019/03/18/should-you-be-concerned-about-lastpass-uploading-your-passwords-to-its-server/, Information-disclosure
 - https://medium.com/@avinash_/disclosure-of-pending-roles-for-any-facebook-page-ab6e4e219f8e, IDOR
 - https://tech.target.com/2019/03/15/SharePoint-Cross-Site-Scripting.html, XSS
 - https://medium.com/@vis_hacker/how-i-was-able-to-pwned-30000-users-webhook-d26dc3420703, IDOR
@@ -3739,7 +3735,6 @@
 - https://slashcrypto.org/2018/11/28/eBay-source-code-leak/, git-folder-disclosure
 - https://medium.com/@vishnu0002/instagram-multi-factor-authentication-bypass-924d963325a1, MFA-bypass
 - https://www.amolbaikar.com/disclose-contact_email-of-any-facebook-application/, Information-disclosure
-- https://www.hackerinside.me/2018/11/critical-stored-xss-vulnerability.html, Stored-XSS
 - https://medium.com/@pratheesh.p.narayanan/bypassing-scratch-cards-on-google-pay-8915d5423385, Logic-flaw
 - https://medium.com/@zain.sabahat/exploiting-ssrf-like-a-boss-c090dc63d326, SSRF
 - https://medium.com/@vignesh4303/how-i-hacked-netflix-users-use-it-free-forever-9febb1427262, Cookie-injection
