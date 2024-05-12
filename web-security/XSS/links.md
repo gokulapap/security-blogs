@@ -98,3 +98,4 @@
 - https://bendtheory.medium.com/journeys-in-quoteless-and-multi-reflection-xss-b1d67bb0c5dd
 - https://mrpentestguy.medium.com/how-i-was-able-to-find-100-xss-in-united-nations-bug-bounty-program-a675573c006d
 - https://medium.com/@codingkarma/how-i-found-xss-on-amazon-f62b50f1c336
+- https://nmochea.medium.com/xiaomi-arbitrary-javascript-vulnerability-327a6f3a9b0e

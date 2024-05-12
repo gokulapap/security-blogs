@@ -1108,7 +1108,6 @@
 - https://infosecwriteups.com/6000-with-microsoft-hall-of-fame-microsoft-firewall-bypass-crlf-to-xss-microsoft-bug-bounty-8f6615c47922, CRLF-injection
 - https://blog.aquasec.com/private-packages-disclosed-via-timing-attack-on-npm, Timing-attack
 - https://abdelhameedghazy.medium.com/broken-access-control-leads-to-full-team-takeover-and-privilege-escalation-6f50174f29ce, Broken-Access-Control
-- https://infosecwriteups.com/critical-idor-vulnerability-on-medium-f78346edbcb1, IDOR
 - https://cyberlix.io/breaking-parser-logic-gain-access-to-nginx-plus-api-read-write-upstreams/, Path-traversal
 - https://www.intruder.io/research/in-guid-we-trust, IDOR
 - https://www.akamai.com/blog/security-research/cold-hard-cache-bypassing-rpc-with-cache-abuse, Privilege-escalation
@@ -1834,7 +1833,6 @@
 - https://0xkasper.com/articles/moodle-sql-injection-broken-access-control.html, SQL-injection
 - https://hulkvision.github.io/blog/post1/, RCE
 - https://systemweakness.com/xss-filter-evasion-idor-3d4624758ff0, XSS
-- https://nmochea.medium.com/xiaomi-arbitrary-javascript-vulnerability-327a6f3a9b0e, XSS
 - https://medium.com/@frycos/searching-for-deserialization-protection-bypasses-in-microsoft-exchange-cve-2022-21969-bfa38f63a62d, Insecure-deserialization
 - https://www.bitcrack.net/pwning-the-portal-from-database-dump-to-session-hijacking/, SQL-injection
 - https://medium.com/@veletisleri/how-i-downed-acronis-com-in-2-minutes-lucky-bug-write-up-a563bcdb563d, DoS
@@ -1869,7 +1867,6 @@
 - https://medium.com/@sam0-0/how-i-am-able-to-crash-anyones-mozilla-firefox-browser-by-sending-an-email-a12563cc8d79, DoS
 - https://ndevtk.github.io/writeups/2021/12/30/cloud-shell-xss/, XSS
 - https://servicenger.com/mobile/idor-add-or-remove-the-linked-publications-from-author-publisher-settings-facebook-bug-bounty/, IDOR
-- https://infosecwriteups.com/story-of-a-weird-csrf-bug-bde1129c106e, CSRF
 - https://amakki.me/full-account-takeover-vulnerability-in-minecraft-f56076c8287d, Account-takeover
 - https://medium.com/@taniyatesting11/bounty-evaluation-github-15-000-us-dollars-rate-limit-d6c07d73c948, Bruteforce
 - https://rezer0dai.github.io/biug-bounties/, RCE
@@ -3009,7 +3006,6 @@
 - https://healdb.tech/blog/teradici.html, Missing-authentication
 - https://servicenger.com/blog/mobile/facebook-for-ios-address-bar-spoofing/, Address-Bar-Spoofing
 - https://medium.com/csis-techblog/cve-2020-1088-yet-another-arbitrary-delete-eop-a00b97d8c3e2, Local-Privilege-Escalation
-- https://medium.com/hackcura/multiple-flaws-leads-to-account-takeover-within-an-application-9f64abfb1073, Account-takeover
 - https://medium.com/@0xh7ml.py/my-first-10k-bdt-bounty-from-an-e-commerce-site-cec9d58e1f55, IDOR
 - https://www.modzero.com/modlog/archives/2020/05/18/how_netgear_meshed_up_wifi_for_business/index.html, Weak-crypto
 - https://web.archive.org/web/20200616051351/https://hazana.xyz/posts/cors-blimey/, CORS-misconfiguration
@@ -3994,7 +3990,6 @@
 - https://medium.com/@kankrale.rahul/whatsapp-users-ip-disclosure-with-link-preview-feature-39a477f54fba, Information-disclosure
 - https://medium.com/@YoKoKho/ribose-idor-with-simple-csrf-bypass-unrestricted-changes-and-deletion-to-other-photo-profile-e4393305274e, IDOR
 - https://medium.com/@YoKoKho/idor-at-private-bug-bounty-program-that-could-leads-to-personal-data-leaks-d2536d026bf5, IDOR
-- http://firstsight.me/2018/04/idor-at-private-bug-bounty-program-that-could-leads-to-personal-data-leaks/, IDOR
 - https://medium.com/@vis_hacker/how-i-got-stored-xss-using-file-upload-5c33e19df51e, Stored-XSS
 - https://medium.com/bugbountywriteup/bypassing-captcha-like-a-boss-d0edcc3a1c1, Captcha-bypass
 - https://medium.com/bugbountywriteup/securitybreach-how-i-was-able-to-book-hotel-room-for-1-50-9b35f18e49e8, CORS-misconfiguration

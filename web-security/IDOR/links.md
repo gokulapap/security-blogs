@@ -82,3 +82,5 @@
 - https://feed.bugs.xdavidhu.me/bugs/0015
 - https://kailashbohara.com.np/blog/2020/11/18/GraphQL-IDOR-in-Facebook-streamer-dashboard/
 - https://web.archive.org/web/20210825045217/https://medium.com/@imunissar786/how-i-was-able-to-steal-private-files-of-any-user-on-larksuite-c0e2757429e2
+- http://firstsight.me/2018/04/idor-at-private-bug-bounty-program-that-could-leads-to-personal-data-leaks/
+- https://infosecwriteups.com/critical-idor-vulnerability-on-medium-f78346edbcb1

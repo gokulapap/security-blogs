@@ -38,3 +38,4 @@
 - https://web.archive.org/web/20201128230506/https://medium.com/@adeshkolte/how-i-made-1000-at-t-bug-bounty-h1-14e68b284e2f
 - https://medium.com/tenable-techblog/exploiting-jira-for-host-discovery-43be3cddf023
 - https://blogs.opera.com/security/2022/03/bug-bounty-adventures-a-nodebb-0-day/
+- https://infosecwriteups.com/story-of-a-weird-csrf-bug-bde1129c106e
