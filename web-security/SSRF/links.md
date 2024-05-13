@@ -50,3 +50,4 @@
 - https://blog.assetnote.io/2021/12/26/chained-ssrf-websphere/
 - https://gccybermonks.com/posts/ssrfvision/
 - https://vanshal.medium.com/pre-auth-ssrf-to-full-mailbox-access-microsoft-exchange-server-exploit-a62c8ac04b47
+- https://omespino.com/write-up-google-vrp-n-a-ssrf-bypass-with-quadzero-in-google-cloud-monitoring/

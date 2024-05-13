@@ -420,7 +420,6 @@
 - https://www.interruptlabs.co.uk/articles/linux-ipv6-route-of-death, DoS
 - https://www.sonarsource.com/blog/pimcore-one-click-two-security-vulnerabilities/, Path-traversal
 - https://neodyme.io/blog/csgo_from_zero_to_0day/, Game-hacking
-- https://www.mnemonic.io/resources/blog/container-security-infecting-images-to-establish-backdoors/, Container-security
 - https://www.synacktiv.com/en/publications/the-printer-goes-brrrrr-again.html, Printer-hacking
 - https://medium.com/@yashsancheti24/discovering-a-hidden-security-loophole-rent-luxury-cars-for-a-single-dollar-706b4a7bf101, Payment-tampering
 - https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/rendezvous-with-a-chatbot-chaining-contextual-risk-vulnerabilities/, Chatbot
@@ -1701,7 +1700,6 @@
 - https://xkurtph.medium.com/how-i-access-other-domains-in-infinityfree-net-using-directory-traversal-4625692d6a2d, Directory-traversal
 - https://medium.com/@tobydavenn/how-i-made-the-bbc-hall-of-fame-3-times-2c816fa515d7, Information-disclosure
 - https://palant.info/2022/03/14/party-time-injecting-code-into-teleparty-extension/, HTML-injection
-- https://melotover.medium.com/how-i-bypassed-disable-functions-in-php-to-get-a-remote-shell-48b827d54979, RCE
 - https://medium.com/@rifqihz/open-redirect-via-sendgrid-email-misconfiguration-cec4ccb07f9a, Open-redirect
 - https://medium.com/@tushar.tilak.sharma/a-tale-of-open-redirection-to-stored-xss-6ad426ae9d43, Stored-XSS
 - https://apth3hack3r.medium.com/xss-through-base64-encoded-json-4b0d96e5ccd4, XSS
@@ -2437,7 +2435,6 @@
 - https://infosecwriteups.com/chain-of-low-level-bugs-and-misconfigurations-leads-to-account-takeover-de248fc4e481, Reflected-XSS
 - https://notifybugme.medium.com/finding-basic-authtoken-in-javascript-file-by-full-automation-6188ca1b1f56, Information-disclosure
 - https://publish.whoisbinit.me/amazon-ec2-dangling-dns-records-on-surf-test-xwf-internet-org, Subdomain-takeover
-- https://omespino.com/write-up-google-vrp-n-a-ssrf-bypass-with-quadzero-in-google-cloud-monitoring/, SSRF
 - https://blog.melbadry9.xyz/ddns-ec2-ips-current-state, Dangling-DNS-records
 - https://medium.com/@mehdi.alouache/partially-disable-cybereason-edr-as-low-privileges-user-on-windows-1405fd53e90e, EDR-bypass
 - https://cirius.medium.com/exploiting-a-hidden-and-forgotten-bug-49ce7ad4de39, SSRF
@@ -3363,7 +3360,6 @@
 - https://ysamm.com/?p=280, RCE
 - https://www.loosebyte.com/google-cloud-vulnerability/, XSS
 - https://blog.usejournal.com/graphql-bug-to-steal-anyones-address-fc34f0374417, Information-disclosure
-- https://cyberzombie.in/my-first-lfi/, LFI
 - https://medium.com/@bathinivijaysimhareddy/shodan-is-your-friend-if-you-lose-him-you-will-lose-many-657d07472f75, SQL-injection
 - https://medium.com/@Skylinearafat/how-to-look-for-js-files-vulnerability-for-fun-and-profit-78bfdfbd6731, Information-disclosure
 - https://omespino.com/write-up-private-bug-bounty-usd-rce-as-root-on-marathon-instance/, RCE
@@ -3616,7 +3612,6 @@
 - https://web.archive.org/web/20201117123227/https://www.mohamedharon.com/2019/02/2-subdomains-takeover-via-unbounce-in.html, Subdomain-takeover
 - https://medium.com/@elberandre/1-000-ssrf-in-slack-7737935d3884, SSRF
 - https://ysamm.com/?p=240, Authorization-flaw
-- https://web.archive.org/web/20200929010534/https://www.mohamedharon.com/2019/02/subdomain-takeover-via-wufoo-service-in.html, Subdomain-takeover
 - https://medium.com/@abaykandotcom/open-redirect-in-slack-385eb34b7c5f, Open-redirect
 - https://web.archive.org/web/20200928234202/https://www.mohamedharon.com/2019/02/subdomain-takeover-via-hubspot.html, Subdomain-takeover
 - https://web.archive.org/web/20200929012457/https://www.mohamedharon.com/2019/02/souqcom-subdomain-takeover-via.html, Subdomain-takeover
