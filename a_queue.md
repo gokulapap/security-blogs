@@ -302,7 +302,6 @@
 - https://blog.assetnote.io/2023/06/29/binary-reversing-citrix-xss/, Reflected-XSS
 - https://medium.com/@ahmedelmorsy312/weakness-of-integration-bce1520ba672, Logic-flaw
 - https://www.zerodayinitiative.com/blog/2023/6/29/cve-2023-20864-remote-code-execution-in-vmware-aria-operations-for-logs, RCE
-- https://github.com/W0rty/libcurl-crlf, CRLF-injection
 - https://www.mdsec.co.uk/2023/06/cve-2023-26258-remote-code-execution-in-arcserve-udp-backup/, RCE
 - https://www.securityjoes.com/post/process-mockingjay-echoing-rwx-in-userland-to-achieve-code-execution, DLL-injection
 - https://bharat-singh.medium.com/how-bac-broken-access-control-got-me-a-pre-account-takeover-2481931b7b3a, Pre-account-takeover
@@ -694,7 +693,6 @@
 - https://medium.com/@tarang.parmar/xss-on-most-popular-entertaining-website-2fbf5a88df0f, XSS
 - https://faiyazhacks.medium.com/i-got-united-nations-hall-of-fame-with-this-simple-technique-3d9a021e4a5d, HTML-injection
 - https://wesecureapp-smm.medium.com/assumed-breach-assessment-case-study-uncovering-wesecureapps-approach-45a512c0bd63, Internal-pentest
-- https://github.com/haproxy/haproxy/commit/a8598a2eb11b6c989e81f0dbf10be361782e8d32, HTTP-header-attack
 - https://github.com/blackarrowsec/redteam-research/tree/master/LPE%20via%20StorSvc, Local-Privilege-Escalation
 - https://mahmoudsec.blogspot.com/2023/02/sql-injection-utilizing-xml-functions.html, SQL-injection
 - https://pullerjsecu.medium.com/bypassing-cors-configurations-to-produce-an-account-takeover-for-fun-and-profit-3e50c3f2a124, CORS-misconfiguration
@@ -1270,7 +1268,6 @@
 - https://blog.nietaanraken.nl/posts/github-pages-command-injection/, RCE
 - https://dphoeniixx.medium.com/chaining-telegram-bugs-to-steal-session-related-files-c90eac4749bd, Arbitrary-file-read
 - https://jfrog.com/blog/satisfying-our-way-into-remote-code-execution-in-the-opc-ua-industrial-stack/, Memory-corruption
-- https://jfrog.com/blog/crashing-industrial-control-systems-at-pwn2own-miami-2022/, DoS
 - https://medium.com/@bobbyrsec/gifshell-covert-attack-chain-and-c2-utilizing-microsoft-teams-gifs-1618c4e64ed7, Phishing
 - https://pierrekim.github.io/blog/2022-08-24-2-byte-dos-freebsd-netbsd-telnetd-netkit-telnetd-inetutils-telnetd-kerberos-telnetd.html, DoS
 - https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/oracle-sbc-multiple-security-vulnerabilities-leading-to-unauthorized-access-and-denial-of-service/, IDOR
@@ -2728,7 +2725,6 @@
 - https://websecblog.com/vulns/public-google-cloud-blog-bucket/, GCP-bucket-misconfiguration
 - https://johnjhacking.com/blog/p1-critical-discovering-and-foiling-a-threat-actor/, Information-disclosure
 - https://medium.com/@vasuyadav0786/5-ways-to-do-ato-in-a-single-website-cfe7e5da987e, Account-takeover
-- https://medium.com/@masonhck357/chains-on-chains-chaining-multiple-low-level-vulns-into-a-critical-8b88db29738e, Blind-XSS
 - https://medium.com/@suneets1ngh/parameter-tampering-ddd9b3de0da8, Parameter-tampering
 - https://vnhacker.blogspot.com/2020/09/advisory-security-issues-in-aws-kms-and.html, Cryptographic-issues
 - https://medium.com/bugbountywriteup/pii-leakage-via-idor-weak-passwordreset-full-account-takeover-58d159f88d73, IDOR
@@ -3085,7 +3081,6 @@
 - https://0x65.dev/blog/2020-03-30/cve-2019-17004-semi-universal-xss-affecting-firefox-for-ios.html, Universal-XSS
 - https://medium.com/@ranjitsinghnit/otp-bruteforce-account-takeover-faaac3d712a8, OTP-bruteforce
 - https://blog.redforce.io/attacking-helpdesks-part-1-rce-chain-on-deskpro-with-bitdefender-as-case-study/, RCE
-- https://payatu.com/blog/nikhil-mittal/executing-scripts-in-safari-reader-mode--to-csp-bypass, XSS
 - https://medium.com/@adnanmalikinfo110/i-want-that-cookie-8d2daab242ac, Logic-flaw
 - https://0xsha.io/posts/exploiting-magic-links-critical-bugs-are-one-line-away, Information-disclosure
 - https://web.archive.org/web/20200511145923/https://medium.com/@godofdarkness.msf/account-takeover-flow-in-mail-ru-s-ext-a-domain-150-8952e8078211, Logic-flaw
