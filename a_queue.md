@@ -856,7 +856,6 @@
 - https://medium.com/supakiad-s-m3ez/microsoft-bug-reports-lead-to-ranking-on-microsoft-msrc-quarterly-leaderboard-q3-2022-c6c9f70e2ccd, XSS
 - https://keerok.github.io/2022/12/22/Flickr-Stored-XSS/, Stored-XSS
 - https://github.com/PabloMK7/ENLBufferPwn, Buffer-Overflow
-- https://www.mnemonic.io/resources/blog/acsessed-cross-tenant-network-bypass-in-azure-cognitive-search/, Cloud
 - https://research.nccgroup.com/2022/12/22/puckungfu-a-netgear-wan-command-injection/, OS-command-injection
 - https://www.synacktiv.com/sites/default/files/2022-12/sage_xrt_multiple_sqli_1.pdf, Blind-SQL-injection
 - https://web.archive.org/web/20221224215757/https://rashahacks.com/how-race-condition-helped-me-break-business-logic/, Race-condition
@@ -1044,7 +1043,6 @@
 - https://0xm5awy.medium.com/how-i-was-able-to-get-free-money-via-sending-negative-tokens-1ed2e0e710e0, Logic-flaw
 - https://www.zscaler.com/blogs/security-research/technical-analysis-windows-clfs-zero-day-vulnerability-cve-2022-37969-part, Local-Privilege-Escalation
 - https://octagon.net/blog/2022/10/28/juniper-sslvpn-junos-rce-and-multiple-vulnerabilities/, RCE
-- https://jayateerthag.medium.com/blind-ssrf-in-skype-microsoft-6639f4961052, Blind-SSRF
 - https://medium.com/@nanwinata/rce-docker-api-but-11ff70825935, RCE
 - https://sensepost.com/blog/2022/abusing-windows-tokens-to-compromise-active-directory-without-touching-lsass/, Local-Privilege-Escalation
 - https://logicbomb.medium.com/a-bug-worth-1-75lacs-aws-ssrf-to-rce-8d43d5fda899, SSRF
@@ -2125,7 +2123,6 @@
 - https://blog.oversecured.com/Two-weeks-of-securing-Samsung-devices-Part-2/, Arbitrary-file-write
 - https://sick.codes/sick-2021-109/, Privacy-issue
 - https://tiszka.com/blog/CVE_2021_21225.html, Browser-hacking
-- https://infosecwriteups.com/why-u-should-use-burp-to-test-path-traversal-vulnerability-and-also-get-rxss-2743cbb16a3c, Path-traversal
 - https://ahmdhalabi.medium.com/taking-over-employee-accounts-by-managers-with-zero-employee-interaction-b60784c3ad84, Account-takeover
 - https://medium.com/@viralbhatt100/bypass-google-captcha-parameter-pollution-leads-to-send-email-to-any-user-on-behalf-of-9013aebbabae, HTTP-parameter-pollution
 - https://medium.com/bug-bounty-hunting/facebook-bug-invite-user-to-like-a-page-even-after-they-decline-the-page-like-invite-f83d9ec845b3, Logic-flaw
@@ -2239,7 +2236,6 @@
 - https://rakesh-thodupunoori.medium.com/part-1-dive-into-zoom-applications-d70f3de53ec5, CSRF
 - https://inakcf.medium.com/one-click-dos-via-response-manipulation-2f08da421104, Logic-flaw
 - https://infosecwriteups.com/authentication-bypass-easy-p1-in-10-minutes-54d5a2093e54, Authentication-bypass
-- https://blog.cyberxplore.com/how-we-are-able-to-hack-any-company-by-sending-message-20000-bounty-cve-2021-34506/, Universal-XSS
 - https://fartademayur.medium.com/this-is-how-i-was-able-to-see-private-archived-posts-stories-of-users-on-instagram-without-de70ca39165c, IDOR
 - https://infosecwriteups.com/importance-of-burp-history-analysis-to-bypass-403-afc7af6c08b, 403-bypass
 - https://ian.sh/airflow, Session-management-issue
@@ -3378,7 +3374,6 @@
 - https://medium.com/@madguyyy/bookmyshow-account-takeover-using-social-login-84178f116e42, OAuth
 - https://web.archive.org/web/20200722032242/https://kntx.xyz/Bypassing-Nickname-Feature/, Logic-flaw
 - https://medium.com/@04sabsas/bugbounty-writeup-take-attention-and-get-stored-xss-495dd6eab07e, Stored-XSS
-- https://gauravnarwani.com/how-i-xssed-admin-account/, Stored-XSS
 - https://websecblog.com/vulns/clickjacking-xss-on-google-org/, Clickjacking
 - https://medium.com/@valeriyshevchenko/two-easy-rce-in-atlassian-products-e8480eacdc7f, Credential-stuffing
 - https://blog.evanricafort.com/2019/08/read-other-user-support-tickets-in.html, IDOR

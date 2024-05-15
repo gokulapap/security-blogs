@@ -12,3 +12,4 @@
 - https://medium.com/bugbountywriteup/how-i-gained-access-to-sonys-database-f3ba08d0e035
 - https://j0vsec.com/post/cve-2021-43798/
 - https://samcurry.net/analysis-of-cve-2019-14994/
+- https://infosecwriteups.com/why-u-should-use-burp-to-test-path-traversal-vulnerability-and-also-get-rxss-2743cbb16a3c

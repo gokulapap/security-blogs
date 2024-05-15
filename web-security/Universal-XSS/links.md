@@ -1,2 +1,3 @@
 - https://samcurry.net/universal-xss-on-netlifys-next-js-library/
 - https://medium.com/@kunal94/indirect-uxss-issues-on-a-private-integrated-browser-219f6b809b6c
+- https://blog.cyberxplore.com/how-we-are-able-to-hack-any-company-by-sending-message-20000-bounty-cve-2021-34506/

@@ -5,3 +5,4 @@
 - https://divyanshu-mehta.gitbook.io/researchs/hijacking-cloud-ci-cd-systems-for-fun-and-profit#azure
 - https://www.rapid7.com/blog/post/2023/03/14/microsoft-defender-for-cloud-management-port-exposure-confusion/
 - https://securitylabs.datadoghq.com/articles/iamadmin-cloudtrail-bypass/
+- https://www.mnemonic.io/resources/blog/acsessed-cross-tenant-network-bypass-in-azure-cognitive-search/
