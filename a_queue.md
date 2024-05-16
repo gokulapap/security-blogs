@@ -1645,7 +1645,6 @@
 - https://akashhamal0x01.medium.com/design-flaw-a-tale-of-permanent-dos-a9ef05181083, DoS
 - https://omespino.com/write-up-finapi-open-banking-api-oauth-credentials-exposed-in-plain-text-in-android-app/, Hardcoded-credentials
 - https://medium.com/@terminatorLM/small-bugs-are-more-dangerous-than-you-think-9411618191ab, Self-XSS
-- https://blog.relyze.com/2022/04/pwning-cisco-rv340-with-4-bug-chain.html, Local-Privilege-Escalation
 - https://shenkaiwen.com/publication/2022-dkim/, Email-spoofing
 - https://blog.credshields.com/race-condition-in-tendermints-starport-7cebe176d935, Race-condition
 - https://abdilahrf.github.io/bugbounty/got-access-to-dota-2-admin-panel-by-exploiting-in-game-feature, XSS
@@ -2798,7 +2797,6 @@
 - https://medium.com/bugbountywriteup/false2true-match-and-replace-bug-hunting-a-cautionary-tale-fbe7020f02ad, Privilege-escalation
 - https://medium.com/bugbountywriteup/leaking-aws-metadata-f5bc8de03284, Information-disclosure
 - https://medium.com/@balapraneeth98/journey-to-my-first-bug-hunt-6dc5e4552128, CSRF
-- https://medium.com/@ashikbhaskar94/blind-os-command-injection-87910f0d2276, OS-command-injection
 - https://medium.com/bugbountywriteup/cache-poisoning-of-wget-94a4d70104b1, Web-cache-poisoning
 - https://medium.com/@singh.simran7838/how-i-made-2000-with-url-redirection-b1b5f4e7a678, Open-redirect
 - https://voidsec.com/cve-2020-1337-printdemon-is-dead-long-live-printdemon/, Local-Privilege-Escalation
@@ -3432,7 +3430,6 @@
 - https://medium.com/@nandwanajatin25/story-of-a-stored-xss-to-full-account-takeover-vulnerability-n-a-to-accepted-8478aa5e0d8e, Stored-XSS
 - https://medium.com/@schopath/yeah-i-got-p2-in-1-minute-stored-xss-via-markdown-editor-7872dba3f158, Stored-XSS
 - https://gauravnarwani.com/injecting-6200-to-1200/, SSTI
-- https://wwws.nightwatchcybersecurity.com/2019/07/02/another-download-protection-bypass-in-google-chrome-bin-files-in-mac-os/, Browser-hacking
 - https://medium.com/@kanchansinghyadav/one-more-parameter-manipulation-bug-7fa0551a6021, Parameter-tampering
 - https://medium.com/@reegun/nuget-squirrel-uncontrolled-endpoints-leads-to-arbitrary-code-execution-80c9df51cf12, RCE
 - https://medium.com/@androgaming1912/gain-adfly-smtp-access-with-ssrf-via-gopher-protocol-26a26d0ec2cb, SSRF
@@ -3468,7 +3465,6 @@
 - https://medium.com/@noob.assassin/dont-underestimates-the-errors-they-can-provide-good-bounty-d437ecca6596, Information-disclosure
 - https://web.archive.org/web/20200928091625/https://pwnsec.ninja/2019/06/06/how-i-was-able-to-get-private-ticket-response-panel-and-fortigate-web-panel-via-blind-xss/, Blind-XSS
 - https://payatu.com/microsoft-edge-extensions-host-permission-bypass-cve-2019-0678/, Browser-hacking
-- https://medium.com/bugbountywriteup/unicode-vs-waf-xss-waf-bypass-128cd9972a30, XSS
 - https://portswigger.net/blog/bypassing-csp-with-policy-injection, CSP-bypass
 - https://blog.nyangawa.me/security/GitLab-Local-File-Read/, Path-traversal
 - https://medium.com/@frostnull/hi-guys-again-here-bringing-an-experience-to-share-with-you-as-usual-i-will-overshadow-some-f85a1d5a8d8c, Path-traversal
@@ -4246,7 +4242,6 @@
 - https://www.josipfranjkovic.com/blog/hacking-facebook-csrf-device-login-flow, CSRF
 - https://www.josipfranjkovic.com/blog/race-conditions-on-web, Race-condition
 - https://www.seekurity.com/blog/general/topcoder-vulnerabilities-a-tail-of-site-wide-bugs-leads-to-accounts-compromise-payments-hijacking/, CSRF
-- https://medium.com/@r0t1v/uber-hacking-how-we-found-out-who-you-are-where-you-are-and-where-you-went-1e0769674535, Bruteforce
 - https://ahussam.me/Medium-full-account-takeover/, XSS
 - https://lab.wallarm.com/critical-linkedin-vulnerability-proactively-resolved-by-wallarm-xxe-in-application-server-239bba28e415, XXE
 - https://medium.com/bugbountywriteup/two-vulnerabilities-makes-an-exploit-xss-and-csrf-in-bing-cd4269da7b69, XSS

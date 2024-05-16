@@ -100,3 +100,4 @@
 - https://medium.com/@codingkarma/how-i-found-xss-on-amazon-f62b50f1c336
 - https://nmochea.medium.com/xiaomi-arbitrary-javascript-vulnerability-327a6f3a9b0e
 - https://payatu.com/blog/nikhil-mittal/executing-scripts-in-safari-reader-mode--to-csp-bypass
+- https://medium.com/bugbountywriteup/unicode-vs-waf-xss-waf-bypass-128cd9972a30

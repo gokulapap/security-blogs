@@ -5,3 +5,4 @@
 - http://www.pranav-venkat.com/2016/03/command-injection-which-got-me-6000.html
 - https://www.synacktiv.com/sites/default/files/2023-05/Synacktiv-Danfoss-Storeview-Multiple-Vulnerabilities.pdf
 - https://infosecwriteups.com/out-of-bond-remote-code-execution-rce-on-de-nederlandsche-bank-n-v-with-burp-suite-collaborator-2ce50260e2e4
+- https://medium.com/@ashikbhaskar94/blind-os-command-injection-87910f0d2276
