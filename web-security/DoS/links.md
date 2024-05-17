@@ -8,3 +8,4 @@
 - https://www.seekurity.com/blog/general/twitter-denial-of-service-bug-or-how-i-could-prevent-all-followers-from-reading-or-accessing-literally-any-tweets/
 - https://curl.se/docs/CVE-2022-32206.html
 - https://jfrog.com/blog/crashing-industrial-control-systems-at-pwn2own-miami-2022/
+- https://blog.teserakt.io/2019/07/18/how-to-lock-a-github-user-out-of-their-repos-bug-or-feature/

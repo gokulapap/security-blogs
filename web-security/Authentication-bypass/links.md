@@ -16,3 +16,4 @@
 - https://systemweakness.com/the-story-of-how-i-bypass-sso-login-6b93370196cf
 - https://ssd-disclosure.com/ssd-advisory-netgear-d7000-authentication-bypass/
 - https://ssd-disclosure.com/ssd-advisory-netgear-dgnd3700v2-preauth-root-access/
+- https://artkond.com/2018/10/10/symantec-authentication-bypass/

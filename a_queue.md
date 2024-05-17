@@ -1388,7 +1388,6 @@
 - https://www.rapid7.com/blog/post/2022/07/19/cve-2022-30526-fixed-zyxel-firewall-local-privilege-escalation/, Local-Privilege-Escalation
 - https://ssd-disclosure.com/ssd-advisory-microsoft-sharepoint-server-wizardconnecttodatastep4-deserialization-of-untrusted-data-rce/, Insecure-deserialization
 - https://medium.com/tenable-techblog/logging-passwords-in-plaintext-in-azure-arc-2f94cb046a, Information-disclosure
-- https://hunter-55.medium.com/how-i-was-able-to-bypass-open-redirect-3-times-on-same-program-d78f9d2443f6, Open-redirect
 - https://sector7.computest.nl/post/2022-07-opc-ua-net-standard-trusted-application-check-bypass/, Local-Privilege-Escalation
 - https://www.authomize.com/blog/authomize-discovers-password-stealing-and-impersonation-risks-to-in-okta/, Sensitive-data-sent-over-an-unencrypted-channel
 - https://0x1337.ninja/2022/07/19/mybb-0day-authenticated-remote-code-execution/, RCE
@@ -1616,7 +1615,6 @@
 - https://rhinosecuritylabs.com/aws/cve-2022-25165-aws-vpn-client/, Local-Privilege-Escalation
 - https://www.notgitbleed.com, Information-disclosure
 - https://blog.lightspin.io/aws-rds-critical-security-vulnerability, LFI
-- https://infosecwriteups.com/svg-ssrfs-and-saga-of-bypasses-777e035a17a7, SSRF
 - https://medium.com/@_ip_/1-3-brute-force-protection-bypass-gitlab-15a17909bb, Bruteforce
 - https://njmulsqb.engineer/2022/04/10/the-100daysofhacking-challenge.html, IDOR
 - https://medium.com/@RheyJuls/privacy-disclosure-on-facebook-lite-after-creating-a-post-b12a1cad8d8a, Privacy-issue
@@ -3404,7 +3402,6 @@
 - https://philippeharewood.com/get-page-inbox-notifications-for-any-facebook-page/, Authorization-flaw
 - https://burninatorsec.blogspot.com/2019/07/microsoft-id-open-redirect.html, Open-redirect
 - https://leucosite.com/Microsoft-Office-365-Outlook-XSS/, XSS
-- https://blog.teserakt.io/2019/07/18/how-to-lock-a-github-user-out-of-their-repos-bug-or-feature/, DoS
 - https://medium.com/@sumitcfe/account-takeover-vulnerability-7e6e039a4dd3, Password-reset
 - https://medium.com/@sudhanshur705/how-recon-helped-me-to-to-find-a-facebook-domain-takeover-58163de0e7d5, Subdomain-takeover
 - https://medium.com/@circleninja/facebook-informative-bug-from-triaged-76738e4d5938, Lack-of-rate-limiting
@@ -3651,7 +3648,6 @@
 - https://medium.com/@sadiqwest01/bugbounty-how-i-hack-billion-company-5529a3ebe999, Directory-listing
 - https://blog.assetnote.io/bug-bounty/2019/01/14/gaining-access-to-ubers-user-data-through-ampscript-evaluation/, AMPScript-injection
 - https://hacklad.github.io/blog/2019/01/13/Xss-it.html, Stored-XSS
-- https://medium.com/@evilboyajay/workplace-logo-id-to-workplace-owner-name-disclosurefacebook-bug-bounty-e745db59d0bd, IDOR
 - https://www.symbo1.com/articles/2019/01/11/fb-pageanalyst-could-add-oneself-as-moderator-on-group.html, Authorization-flaw
 - https://philippeharewood.com/view-the-contact-list-for-a-messenger-kid-as-a-parent-approved-contact/, Authorization-flaw
 - https://renaudmarti.net/posts/first-bug-bounty-submission/, XSS
@@ -3774,7 +3770,6 @@
 - https://medium.com/bugbountywriteup/add-description-to-instagram-posts-on-behalf-of-other-users-6500-7d55b4a24c5a, IDOR
 - https://leucosite.com/Microsoft-Edge-RCE/, RCE
 - https://medium.com/@yassergersy/access-to-staging-environment-via-user-agent-string-23470546577f, Authentication-bypass
-- https://artkond.com/2018/10/10/symantec-authentication-bypass/, Authentication-bypass
 - https://pratikyadav0.blogspot.com/2018/10/hello-everyone-took-some-time-from-my.html, Payment-bypass
 - https://philippeharewood.com/facebook-business-takeover/, Authorization-flaw
 - https://jonbottarini.com/2018/10/09/get-as-image-function-pulls-any-insights-nrql-data-from-any-new-relic-account-idor/, IDOR
