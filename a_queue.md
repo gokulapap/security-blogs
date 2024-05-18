@@ -703,7 +703,6 @@
 - https://medium.com/@ramkumarnadar47/zip-bomb-attack-88d84a98be9f, Zip-bomb
 - https://basu-banakar.medium.com/ssrf-that-allowed-us-to-access-whole-infra-web-services-and-many-more-3424f8efa0e4, SSRF
 - https://frycos.github.io/vulns4free/2023/02/12/install4j-xxe.html, XXE
-- https://yaseenzubair.medium.com/idor-leads-to-mass-account-takeover-7548a03f5672, IDOR
 - https://pvs-studio.com/en/blog/posts/csharp/0918/, XXE
 - https://infosecwriteups.com/a-tale-of-a-full-business-takeover-red-team-diaries-fe7a6a7acaef, MITM
 - https://blog.cyberxplore.com/we-hacked-github-for-a-month-heres-what-we-found/, Pre-account-takeover
@@ -777,7 +776,6 @@
 - https://johnjhacking.com/blog/cve-2023-24068-cve-2023-24069/, Thick-client
 - https://sl4x0.medium.com/how-i-found-xss-on-admin-page-without-login-fe165a5f89c2, Reflected-XSS
 - https://www.ukusormus.com/bypassing-cloudflare-waf-xss-via-sql-injection/, Reflected-XSS
-- https://securityintelligence.com/posts/dissecting-exploiting-tcp-ip-rce-vulnerability-evilesp/?, Kernel-hacking
 - https://www.synacktiv.com/sites/default/files/2023-01/advisory_manageengine_adss_2023.pdf, RCE
 - https://medium.com/@bag0zathev2/csrf-stored-xss-to-leading-to-full-account-takeover-39e9a79533e3, Stored-XSS
 - https://melotover.medium.com/bypassing-e2e-encryption-leads-to-multiple-high-vulnerabilities-65b708e5ad84, IDOR
@@ -1949,7 +1947,6 @@
 - https://thalium.github.io/blog/posts/fuzzing-microsoft-rdp-client-using-virtual-channels/, Memory-corruption
 - https://www.wiz.io/blog/chaosdb-explained-azures-cosmos-db-vulnerability-walkthrough, Cross-tenant-vulnerability
 - https://www.intruder.io/research/practical-http-header-smuggling, HTTP-Header-Smuggling
-- https://medium.com/@fcwdbrqmr/400-bounty-again-using-google-dorks-6dc8e438f017, Directory-listing
 - https://0x0021h.medium.com/bypass-chrome-ad-heavy-detection-mechanism-25c9e2e4a0c4, Browser-hacking
 - https://0xmahmoudjo0.medium.com/how-i-found-multiple-sql-injection-with-ffuf-and-sqlmap-in-a-few-minutes-9c3bb3780e8f, SQL-injection
 - https://infosecwriteups.com/sony-hunting-i-discovering-hidden-parameters-5x-swag-c3396c0064bc, Open-redirect
@@ -2711,7 +2708,6 @@
 - https://medium.com/@vedanttekale20/spend-more-time-doing-recon-youll-get-more-bugs-e7ffd5bf9202, Reflected-XSS
 - https://medium.com/@vasuyadav0786/exploiting-payment-gateways-97ce7af5a9cf, Payment-tampering
 - https://medium.com/@harshtya9i/journey-of-my-first-bug-bounty-nov-2018-af471c21efc0, Authentication-bypass
-- https://medium.com/@ricardoiramar/the-powerful-http-request-smuggling-af208fafa142, HTTP-Request-Smuggling
 - https://medium.com/@amineaboud/story-of-a-weird-vulnerability-i-found-on-facebook-fc0875eb5125, Authentication-bypass
 - https://thinkloveshare.com/hacking/rce_on_spip_and_root_me/, RCE
 - https://medium.com/@pratyush1337/the-art-of-idor-7-idors-in-edm0d0-b86d683c8de9, IDOR
@@ -3944,7 +3940,6 @@
 - https://blog.securitybreached.org/2018/05/18/get-subscription-of-120-year-for-free-bug-bounty-poc, Payment-bypass
 - https://medium.com/@pratheesh.p.narayanan/whatsapp-dos-vulnerability-on-android-ios-web-7628077d21d4, DoS
 - https://medium.com/bugbountywriteup/hsts-bypass-vulnerability-in-ie-preview-fa956161fa8, HSTS-bypass
-- https://medium.freecodecamp.org/discovering-the-hidden-mine-of-credentials-and-sensitive-information-8e5ccfef2724, Authorization-flaw
 - https://medium.com/@honcbb/internet-safety-for-kids-families-trend-micro-dom-xss-db34c9bbb120, DOM-XSS
 - https://web.archive.org/web/20200904133318/https://medium.com/bugbountywriteup/a-five-minute-sql-i-16ab75b20fe4, SQL-injection
 - https://medium.com/bugbountywriteup/how-i-got-paid-0-from-the-indias-largest-online-gifting-portal-bug-bounty-program-fd9e14f9ca20, Payment-tampering

@@ -2,3 +2,4 @@
 - https://u-itachi.medium.com/full-structure-takeover-to-many-brands-of-company-e0ca434890ee
 - https://clever-idi0t.com/2019/02/07/how-i-was-able-to-dump-sqldb-simple-bug/
 - https://medium.com/bugbountywriteup/hacking-oracle-in-5-minutes-b52107a6124c
+- https://medium.com/@fcwdbrqmr/400-bounty-again-using-google-dorks-6dc8e438f017

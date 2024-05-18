@@ -45,3 +45,4 @@
 - https://medium.com/@zahidali_93675/bypassed-facebook-phone-number-security-9e2d34dc063b
 - https://medium.com/@rohitcoder/business-user-employees-can-add-edit-change-or-apply-block-list-to-a-business-account-7b3e8aae667e
 - https://medium.com/@YoKoKho/bypassing-the-current-password-protection-at-techsupport-portal-b9005ee17e64
+- https://medium.freecodecamp.org/discovering-the-hidden-mine-of-credentials-and-sensitive-information-8e5ccfef2724

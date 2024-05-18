@@ -1,1 +1,2 @@
 - https://portswigger.net/research/browser-powered-desync-attacks
+- https://medium.com/@ricardoiramar/the-powerful-http-request-smuggling-af208fafa142
