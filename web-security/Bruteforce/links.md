@@ -5,3 +5,4 @@
 - https://medium.com/@noob_master/no-rate-limiting-on-otp-sending-39a3a9fc93f6
 - https://cyberhacks200.medium.com/an-unexpected-bug-9cab5072e009
 - https://medium.com/@r0t1v/uber-hacking-how-we-found-out-who-you-are-where-you-are-and-where-you-went-1e0769674535
+- https://medium.com/@_ip_/1-3-brute-force-protection-bypass-gitlab-15a17909bb

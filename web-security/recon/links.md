@@ -1,3 +1,4 @@
 - https://medium.com/@bugtest252/how-i-got-rewarded-300-euro-just-by-simple-google-dorking-under-2-mins-75c679f9da68
 - https://medium.com/@mrummanhasan/scanning-methodology-a-practical-guide-1b0b7686fb89
 - https://medium.com/@aswinthambipanik07/bug-bounty-recon-part-1-dad7f86d1b0f
+- https://medium.com/@vflexo/the-ultimate-recon-book-d201d722db64

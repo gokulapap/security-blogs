@@ -60,7 +60,6 @@
 - https://medium.com/@nav1n/how-i-got-owned-a-multi-billion-dollar-retailers-mysql-databases-using-simple-sql-injection-30f8b0dfd9ce, sql-injection
 - https://medium.com/@basu-banakar/exploiting-non-cloud-ssrf-for-more-fun-profit-3597934518c8, ssrf
 - https://medium.com/@vamshi-vemula/how-i-got-my-first-bounty-open-redirect-80832e5bf4e6, open-redirection
-- https://medium.com/@vflexo/the-ultimate-recon-book-d201d722db64, recon
 - https://medium.com/@clarkvoss/finding-hidden-gems-with-nuclei-templates-b3125950a5cd, automation
 - https://medium.com/@thanhdatt/bypass-authentication-1bfab09332fe, bypass
 - https://medium.com/@ananyaghosh1120/beginners-guide-to-automated-scanners-8ec880446421, automation
@@ -1526,7 +1525,6 @@
 - https://labs.ingredous.com/2022/05/25/hijacking-over-100k-godaddy-websites/, Subdomain-takeover
 - https://infosecwriteups.com/how-i-found-a-companys-internal-s3-bucket-with-41k-files-94b453e588b5, AWS-misconfiguration
 - https://www.blackhillsinfosec.com/spoofing-microsoft-365-like-its-1995/, Spoofing
-- https://www.rapid7.com/blog/post/2022/05/24/cve-2022-22977-vmware-guest-authentication-service-lpe-fixed/, Local-Privilege-Escalation
 - https://www.secjuice.cz0idsecom/breaking-parser-logic-gain-access-to-nginx-plus-api-read-write-upstreams/, Path-traversal
 - https://medium.com/@sharp488/2fa-bypass-on-private-bug-bounty-program-due-to-improper-caching-mechanism-212c5912bd00, MFA-bypass
 - https://medium.com/@sharp488/2fa-bypass-on-private-bug-bounty-program-due-to-csrf-token-misconfiguration-5a9c82151a1, MFA-bypass
@@ -1613,7 +1611,6 @@
 - https://rhinosecuritylabs.com/aws/cve-2022-25165-aws-vpn-client/, Local-Privilege-Escalation
 - https://www.notgitbleed.com, Information-disclosure
 - https://blog.lightspin.io/aws-rds-critical-security-vulnerability, LFI
-- https://medium.com/@_ip_/1-3-brute-force-protection-bypass-gitlab-15a17909bb, Bruteforce
 - https://njmulsqb.engineer/2022/04/10/the-100daysofhacking-challenge.html, IDOR
 - https://medium.com/@RheyJuls/privacy-disclosure-on-facebook-lite-after-creating-a-post-b12a1cad8d8a, Privacy-issue
 - https://medium.com/@Bishoo97x/xss-html-injection-and-file-upload-bypass-in-huawei-subdomain-64966ba4f4ac, XSS
@@ -3874,7 +3871,6 @@
 - https://medium.com/@mateusz.olejarka/finding-hidden-gems-vol-1-forging-oauth-tokens-using-discovered-client-id-and-client-secret-467f1cd21714, Information-disclosure
 - https://www.updatelap.com/2018/07/the-malicious-person-add-people-to-top.html, IDOR
 - https://medium.com/@prial261/unclaimed-medium-publication-takeover-in-wetransfer-c268cdb51e2f, Medium-publication-takeover
-- https://medium.com/bug-bounty-hunting/google-assistant-bug-worth-3133-7-830a03724a04, Reflected-XSS
 - https://opnsec.com/2018/07/into-the-borg-ssrf-inside-google-production-network/, SSRF
 - https://sites.google.com/securifyinc.com/secblogs/yahoo-luminate-rce, RCE
 - https://haiderm.com/how-i-was-able-to-delete-13k-microsoft-translator-projects/, CSRF
@@ -4043,7 +4039,6 @@
 - https://blog.securitybreached.org/2017/12/19/unrestricted-file-upload-to-rce-bug-bounty-poc/, RCE
 - https://nirmaldahal.com.np/posts/2017/12/lfi-to-10-servers-pwn/, LFI
 - https://corben.io/blog/17-12-17-hackertarget, SSRF
-- https://lightningsecurity.io/blog/host-header-injection/, Password-reset
 - https://blog.securitybreached.org/2017/12/10/how-i-was-able-to-takeover-facebook-account-bug-bounty-poc/, Authentication-bypass
 - https://medium.com/@uranium238/getting-a-rce-ctf-way-2fd612fb643f, RCE
 - https://medium.com/@Skylinearafat/xss-protection-bypass-made-my-quickest-bounty-ever-f4fd970c9116, XSS

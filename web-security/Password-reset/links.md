@@ -6,3 +6,4 @@
 - https://medium.com/@shahjerry33/password-reset-token-leak-via-referrer-2e622500c2c1
 - https://medium.com/@anjaneyulukanakatla1996/its-all-about-2fa-bypass-or-account-takeover-f9521f0a03b5
 - https://eaton-works.com/2023/06/06/honda-ecommerce-hack/
+- https://lightningsecurity.io/blog/host-header-injection/

@@ -21,3 +21,4 @@
 - https://www.microsoft.com/security/blog/2022/07/13/uncovering-a-macos-app-sandbox-escape-vulnerability-a-deep-dive-into-cve-2022-26706/
 - https://wojciechregula.blog/post/m1-macs-gatekeeper-bypass-aka-cve-2021-30658/
 - https://blog.relyze.com/2022/04/pwning-cisco-rv340-with-4-bug-chain.html
+- https://www.rapid7.com/blog/post/2022/05/24/cve-2022-22977-vmware-guest-authentication-service-lpe-fixed/

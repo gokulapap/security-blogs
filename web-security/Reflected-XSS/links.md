@@ -31,3 +31,4 @@
 - https://medium.com/@valakeyur/xss-in-edmodo-within-5-minute-my-first-bug-bounty-889e3da6167d
 - https://infosecwriteups.com/reflected-xss-leads-to-3-000-bug-bounty-rewards-from-microsoft-forms-efe34fc6b261
 - https://www.seekurity.com/blog/write-ups/godaddy-xss-affects-parked-domains-redirector-processor
+- https://medium.com/bug-bounty-hunting/google-assistant-bug-worth-3133-7-830a03724a04
