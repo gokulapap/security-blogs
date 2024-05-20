@@ -376,7 +376,6 @@
 - https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/hunting-for-password-reset-tokens-by-spraying-and-using-http-pipelining/, Password-reset
 - https://medium.com/@ajzead660/exploit-an-unexploitable-xss-via-an-open-redirect-a-real-life-scenario-from-a-hackers-mindset-32b71041c5fe, XSS
 - https://medium.com/@gokulsspace/the-30000-bounty-affair-3f025ee6b834, RCE
-- https://handbook.volkis.com.au/assets/doc/Volkis%20-%20Anonymous%20Client%20-%20Penetration%20Test%20May%202023.pdf, Internal-pentest
 - https://medium.com/@ibederov_en/find-out-the-ip-address-through-a-call-to-telegram-a899441b1bac, Privacy-issue
 - https://medium.com/@ar_hawk/utilizing-historical-urls-of-an-organization-to-successfully-execute-sql-queries-blind-sqli-3526d9c3863d, Blind-SQL-injection
 - https://occamsec.com/exploit-for-cve-2023-2825/, Path-traversal
@@ -1347,7 +1346,6 @@
 - https://y0ungdst.medium.com/my-second-cve-cve-2022-31855-6c071c4fb9d9, OS-command-injection
 - https://blog.electrovolt.io/posts/discord-rce/, RCE
 - https://sagarsajeev.medium.com/business-logic-vulnerabilities-b4db2af08aaf, Logic-flaw
-- https://mearegtu.medium.com/reading-message-from-microsofts-private-yammer-group-6be844639bca, Authorization-flaw
 - https://www.oxeye.io/blog/golang-parameter-smuggling-attack, HTTP-Parameter-Smuggling
 - https://swarm.ptsecurity.com/researching-open-source-apps-for-xss-to-rce-flaws/, XSS
 - https://www.nozominetworks.com/blog/vulnerability-in-dahua-s-onvif-implementation-threatens-ip-camera-security/, MiTM
@@ -1760,7 +1758,6 @@
 - https://tech-blog.cymetrics.io/en/posts/huli/how-i-hacked-glints-and-your-resume-en/, IDOR
 - https://blog.sonarsource.com/wordpress-object-injection-vulnerability, Object-injection
 - https://www.cyberark.com/resources/threat-research-blog/how-docker-made-me-more-capable-and-the-host-less-secure, Local-Privilege-Escalation
-- https://web.archive.org/web/20220214063345/https://7odamo.medium.com/sql-injection-reflected-xss-and-information-disclosure-in-one-subdomain-in-just-10-minutes-f2ce877b43d4, SQL-injection
 - https://www.cyberick.com/post/what-i-found-on-sony-vulnerability-disclosure-program, Information-disclosure
 - https://bloggerrando.blogspot.com/2022/02/how-can-i-access-members-only-video.html, Broken-Access-Control
 - https://wwws.nightwatchcybersecurity.com/2022/02/06/insecure-bootstrap-process-in-oracle-cloud-cli/, Supply-chain-attack
@@ -1774,7 +1771,6 @@
 - https://web.archive.org/web/20220612235502/https://bugs.0xdroopy.live/bugs/how-i-tracked-you-around-the-globe/, Information-disclosure
 - https://www.ash-king.co.uk/blog/abusing-Facebooks-call-to-action-to-launch-internal-deeplinks, CSRF
 - https://medium.com/@ladecruze/my-first-bounty-idor-self-xss-3000-cde89cbbc1b1, Self-XSS
-- https://logicbomb.medium.com/a-misconfigured-apache-airflow-to-aws-account-compromise-c905dc49998d, Outdated-component-with-a-known-vulnerability
 - https://sanyamchawla1999.medium.com/my-experience-of-hacking-the-dutch-government-8c219c61c795, XSS
 - https://medium.com/@damaidec/idor-vulnerability-on-invoice-and-weak-password-reset-leads-to-account-take-over-603b42143a8c, IDOR
 - https://www.zerodayinitiative.com/blog/2022/2/1/cve-2021-44142-details-on-a-samba-code-execution-bug-demonstrated-at-pwn2own-austin, Memory-corruption
@@ -2395,7 +2391,6 @@
 - https://3bodymo.medium.com/bypass-rate-limit-to-enumeration-users-through-google-drive-ed64e07c879c, Rate-limiting-bypass
 - https://dewcode.in/2021/03/24/Finding-and-exploiting-race-condition-vulnerability-on-facebook-server.html, Race-condition
 - https://sudhanshur705.medium.com/how-i-made-it-to-google-hof-f1cec85fdb1b, IDOR
-- https://thexssrat.medium.com/how-i-found-my-first-critical-vulnerability-in-bug-bounties-f890d420764b, Information-disclosure
 - https://shahjerry33.medium.com/cross-site-port-attack-a-strangers-call-c2467f93792f, XSPA
 - https://muhammad-aamir.medium.com/oauth-misconfiguration-found-in-small-time-window-of-attack-b585afcb94c6, OAuth
 - https://godiego.co/posts/STO-AWS/, Subdomain-takeover

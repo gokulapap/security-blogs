@@ -33,3 +33,4 @@
 - https://blog.parthmalhotra.com/pwning-child-company-to-get-access-to-parentcompanys-slack-team/
 - https://xthemo.medium.com/how-can-i-get-sql-injection-b8337c2c2bef
 - https://0xgad.medium.com/sql-injection-in-graphql-2859c96547a8
+- https://web.archive.org/web/20220214063345/https://7odamo.medium.com/sql-injection-reflected-xss-and-information-disclosure-in-one-subdomain-in-just-10-minutes-f2ce877b43d4
