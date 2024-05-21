@@ -2,3 +2,4 @@
 - https://medium.com/@severustalin/how-i-found-my-first-bug-in-android-41153093ba57
 - https://omespino.com/write-up-private-bug-bounty-firebase-database-exposed-by-misconfiguration-2000-usd/
 - https://b3nac.com/posts/2019-02-16-How-to-hunt-for-Malvertising-ads-on-Android.html
+- https://labs.f-secure.com/advisories/samsung-galaxy-any-app-can-install-any-app/

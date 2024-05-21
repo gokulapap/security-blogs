@@ -1281,7 +1281,6 @@
 - https://blog.orange.tw/2022/08/lets-dance-in-the-cache-destabilizing-hash-table-on-microsoft-iis.html, DoS
 - https://spaceraccoon.dev/exploiting-icalendar-properties-enterprise-applications/, XSS
 - https://bugcrowd.com/disclosures/f7ce8504-0152-483b-bbf3-fb9b759f9f89/critical-local-file-read-in-electron-desktop-app, LFI
-- https://thinkloveshare.com/hacking/rce_on_spip_and_root_me_v2/, RCE
 - https://medium.com/@Dhamuharker/monitoring-linux-host-metrics-with-the-node-exporter-information-disclosure-350-bab3baa75bdc, Information-disclosure
 - https://medium.com/@tobydavenn/dom-xss-on-a-gov-domain-bypassing-waf-93daec67fda9, DOM-XSS
 - https://medium.com/@ashlyn.lau_17206/2fa-bypass-do-re-mi-cfcfc3775d2e, MFA-bypass
@@ -1562,7 +1561,6 @@
 - https://medium.com/@z.x/how-we-hacked-bypassed-admin-panel-just-by-js-file-eaa773b5cdb4, Information-disclosure
 - https://blog.viettelcybersecurity.com/cve-2022-0540-authentication-bypass-in-seraph/, Authentication-bypass
 - https://systemweakness.com/chained-bug-xml-file-upload-to-xss-to-csrf-to-full-account-take-over-ato-156409c41b57, XSS
-- https://labs.f-secure.com/advisories/samsung-galaxy-any-app-can-install-any-app/, Android
 - https://labs.f-secure.com/advisories/samsung-flow-any-app-can-read-the-external-storage/, Android
 - https://shahjerry33.medium.com/business-logic-errors-art-of-testing-cards-4907cfb46a57, Payment-bypass
 - https://medium.com/@robert0/how-did-i-find-a-vulnerability-that-leads-to-access-any-users-sensitive-data-and-got-500-5cce1c21d86a, Information-disclosure
@@ -2366,7 +2364,6 @@
 - http://www.kamilonurozkaleli.com/posts/rce-on-starbucks-singapore-and-more/, RCE
 - https://nns.ee/blog/2021/04/03/modem-rce.html, OS-command-injection
 - https://blog.tyage.net/posts/2021-04-02-improper-access-control-github-workflow/, Broken-Access-Control
-- https://blog.melbadry9.xyz/fuzzing/nuclei-cache-poisoning, Web-cache-poisoning
 - https://www.paulosyibelo.com/2021/04/this-man-thought-opening-txt-file-is.html, MacOS
 - https://infosecwriteups.com/bragging-rights-lets-head-back-to-bug-bucket-88c94730b6fa, XSS
 - https://security.lauritz-holtmann.de/post/xss-parameter-guessing/, XSS
@@ -2557,7 +2554,6 @@
 - https://www.shawarkhan.com/2021/01/achieve-remote-code-execution-by.html, RCE
 - https://tmosh.medium.com/incident-response-during-christmas-33c7fabb1429, Subdomain-takeover
 - https://akshartank.medium.com/each-and-every-request-make-sense-4572b3205382, Privilege-escalation
-- https://parasarora06.medium.com/privilege-escalation-from-being-a-normal-user-to-admin-3f86896f1c93, Privilege-escalation
 - https://savebreach.com/facebook-page-admin-identity-disclosure-through-document-edit-history/, Information-disclosure
 - https://ysamm.com/?p=588, IDOR
 - https://ysamm.com/?p=510, Account-takeover
@@ -2575,7 +2571,6 @@
 - https://baibhavjha.com.np/blogs/hidingfromcustomlistfblite/, Logic-flaw
 - https://spaceraccoon.dev/supply-chain-pollution-hunting-a-16-million-download-week-npm-package, Prototype-pollution
 - https://blog.s1r1us.ninja/research/cookie-tossing-to-rce-on-google-cloud-jupyter-notebooks, Self-XSS
-- https://secureitmania.medium.com/hack-crypto-secrets-from-heap-memory-to-exploit-android-application-728097fcda3, Cryptographic-issues
 - https://www.ehpus.com/post/ssti-in-google-maps, SSTI
 - https://saugatpokharel.medium.com/this-is-how-i-was-able-to-view-anyones-private-email-and-birthday-on-instagram-1469f44b842b, Information-disclosure
 - https://vivekps143.medium.com/facebook-bug-bounty-finding-the-hidden-members-of-the-private-events-977dc1784ff9, Information-disclosure

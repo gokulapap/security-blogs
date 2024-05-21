@@ -4,3 +4,4 @@
 - https://www.tldr.engineering/how-i-found-and-fixed-a-vulnerability-in-python/
 - https://medium.com/@nahoragg/chaining-cache-poisoning-to-stored-xss-b910076bda4f
 - https://youst.in/posts/cache-poisoning-at-scale/
+- https://blog.melbadry9.xyz/fuzzing/nuclei-cache-poisoning

@@ -90,3 +90,4 @@
 - https://medium.com/bugbountywriteup/simple-remote-code-execution-vulnerability-examples-for-beginners-985867878311
 - https://starlabs.sg/blog/2022/07-gitlab-project-import-rce-analysis-cve-2022-2185/
 - https://melotover.medium.com/how-i-bypassed-disable-functions-in-php-to-get-a-remote-shell-48b827d54979
+- https://thinkloveshare.com/hacking/rce_on_spip_and_root_me_v2/
