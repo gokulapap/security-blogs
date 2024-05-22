@@ -38,3 +38,5 @@
 - https://gauravnarwani.com/admin-hijacked-by-sea-surf-pirates/
 - https://www.hackerinside.me/2018/11/critical-stored-xss-vulnerability.html
 - https://gauravnarwani.com/how-i-xssed-admin-account/
+- https://infosecwriteups.com/pwning-your-assignments-stored-xss-via-graphql-endpoint-6dd36c8a19d5
+- http://cybristerboy.blogspot.com/2018/05/how-i-found-5-store-xss-on-private.html

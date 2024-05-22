@@ -23,3 +23,4 @@
 - https://monish-basaniwal.medium.com/how-i-found-my-first-subdomain-takeover-vulnerability-b7d5c17b61fd
 - https://ian.sh/markmonitor
 - https://web.archive.org/web/20200929010534/https://www.mohamedharon.com/2019/02/subdomain-takeover-via-wufoo-service-in.html
+- https://0xpatrik.com/subdomain-takeover-starbucks-ii/

@@ -2333,7 +2333,6 @@
 - https://pharish4948.medium.com/blind-ssrf-to-port-scanning-through-response-time-d7336667299d, SSRF
 - https://notifybugme.medium.com/unauthorized-access-to-admin-setpassword-page-by-bypass-403-forbidden-f10bbb92ab35, Authorization-flaw
 - https://mase289.medium.com/exploiting-unrestricted-file-upload-to-achieve-remote-code-execution-on-a-bug-bounty-program-85661516712, Unrestricted-file-upload
-- https://infosecwriteups.com/pwning-your-assignments-stored-xss-via-graphql-endpoint-6dd36c8a19d5, Stored-XSS
 - https://0x2m.medium.com/misconfiguration-in-change-password-functionality-leads-to-account-takeover-1314b5507abf, IDOR
 - https://shahjerry33.medium.com/xss-via-exif-data-the-p2-elevator-d09e7b7fe9b9, Stored-XSS
 - https://0day.click/recipe/2021-04-18-discourse-themes/, RCE
@@ -2444,7 +2443,6 @@
 - https://web.archive.org/web/20210227092343/https://tommysuriel.medium.com/csrf-through-url-with-tag-parameter-c8ef585bded3, CSRF
 - https://web-in-security.blogspot.com/2021/02/security-and-privacy-of-social-logins-part2.html, DOM-XSS
 - https://johnjhacking.com/blog/cve-2021-23827/, Unencrypted-storage
-- https://secureitmania.medium.com/lets-know-how-i-have-explored-the-buried-secrets-in-xamarin-application-d6b8c5609c87, Hardcoded-API-keys
 - https://zdresearch.com/rce-on-a-laravel-private-program/, RCE
 - https://neroli.medium.com/is-math-random-safe-from-missing-rate-limit-to-bypass-2fa-and-possible-sqli-2a4ea66f82c5, Race-condition
 - https://ashutoshmishra00x0.medium.com/account-takeover-via-response-manipulation-worth-1800-ffb242cc55c9, Authentication-bypass
@@ -3174,7 +3172,6 @@
 - https://markus-krell.de/admin-capabilities-around-your-ears/, Local-Privilege-Escalation
 - https://footstep.ninja/posts/idor-via-http/, IDOR
 - https://medium.com/sourav-sahana/from-post-to-get-open-redirect-e91f4f4206a, Open-redirect
-- https://footstep.ninja/posts/exploiting-self-xss/, Self-XSS
 - https://medium.com/monetary/how-did-i-earn-3133-70-from-google-translator-9becf942dbdc, XSS
 - https://medium.com/bug-bounty-hunting/facebook-bug-bounty-story-x000-for-an-information-disclosure-bug-f0c0d19d7815, Information-disclosure
 - https://medium.com/@jbgrunewald/how-i-made-7500-from-my-first-bug-bounty-found-on-google-cloud-platform-1a5415d7569b, Logic-flaw
@@ -3835,7 +3832,6 @@
 - https://www.tutorgeeks.net/2018/08/misconfigured-jira-setting-apigee.html, Information-disclosure
 - https://web.archive.org/web/20191219011242/https://medium.com/@zk34911/twitter-bug-bounty-misconfigured-json-endpoint-on-ads-twitter-com-2771ec83a82, Authorization-flaw
 - https://portswigger.net/research/practical-web-cache-poisoning, Web-cache-poisoning
-- https://0xpatrik.com/subdomain-takeover-starbucks-ii/, Subdomain-takeover
 - https://medium.com/bugbountywriteup/from-tomcat-to-nt-authority-system-a79fa09c4abb, Default-credentials
 - https://web.archive.org/web/20201006184247/https://www.mohamedharon.com/2018/08/reverb-api.html, Information-disclosure
 - https://medium.com/@carlosdanielgiovanella/this-is-how-can-i-spoof-any-sentry-log-infinitely-and-create-fake-error-logs-74406367f4ba, Content-spoofing
@@ -3914,7 +3910,6 @@
 - https://web.archive.org/web/20200929003129/https://www.mohamedharon.com/2018/05/reflected-xss-in-hk-yahoo.html, Reflected-XSS
 - https://twitter.com/0x01alka/status/1001763583447969792, Path-traversal
 - https://blog.witcoat.com/2018/05/30/account-takeover-and-blind-xss-go-pro-get-bugs/, IDOR
-- http://cybristerboy.blogspot.com/2018/05/how-i-found-5-store-xss-on-private.html, Stored-XSS
 - https://medium.com/@emenalf/how-i-got-hall-of-fame-in-two-fortune-500-companies-an-rce-story-9c89cead81ff, RCE
 - http://cybristerboy.blogspot.com/2018/05/how-i-was-able-to-get-admin-panel-on.html, Weak-credentials
 - https://andresriancho.com/recaptcha-bypass-via-http-parameter-pollution, Captcha-bypass

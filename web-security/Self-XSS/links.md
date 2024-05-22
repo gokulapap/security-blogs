@@ -1,3 +1,4 @@
 - https://medium.com/@behnam.yazdanpanah/chaining-bugs-from-self-xss-to-account-takeover-82d572136bdf
 - https://medium.com/@protostar0/self-xss-to-stored-xss-think-out-the-box-44b094f113f9
 - https://medium.com/@abhishake100/how-i-turned-self-xss-to-stored-via-csrf-d12eaaf59f2e
+- https://footstep.ninja/posts/exploiting-self-xss/

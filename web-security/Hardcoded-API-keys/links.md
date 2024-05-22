@@ -2,3 +2,4 @@
 - https://shahjerry33.medium.com/api-misconfiguration-algolia-api-key-b3f4a9f04f0d
 - https://crypt0g30rgy.github.io/post/AuthBypass
 - https://abss.me/posts/fcm-takeover/
+- https://secureitmania.medium.com/lets-know-how-i-have-explored-the-buried-secrets-in-xamarin-application-d6b8c5609c87
