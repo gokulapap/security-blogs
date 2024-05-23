@@ -91,3 +91,5 @@
 - https://starlabs.sg/blog/2022/07-gitlab-project-import-rce-analysis-cve-2022-2185/
 - https://melotover.medium.com/how-i-bypassed-disable-functions-in-php-to-get-a-remote-shell-48b827d54979
 - https://thinkloveshare.com/hacking/rce_on_spip_and_root_me_v2/
+- https://blog.doyensec.com/2022/10/27/jupytervscode.html
+- https://www.rapid7.com/blog/post/2022/08/11/rapid7-discovered-vulnerabilities-in-cisco-asa-asdm-and-firepower-services-software/

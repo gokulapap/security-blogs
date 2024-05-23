@@ -773,7 +773,6 @@
 - https://ph-hitachi.medium.com/how-i-hacked-scopely-using-sign-in-with-google-298a9c166ad, Account-takeover
 - https://johnjhacking.com/blog/cve-2023-24068-cve-2023-24069/, Thick-client
 - https://sl4x0.medium.com/how-i-found-xss-on-admin-page-without-login-fe165a5f89c2, Reflected-XSS
-- https://www.ukusormus.com/bypassing-cloudflare-waf-xss-via-sql-injection/, Reflected-XSS
 - https://www.synacktiv.com/sites/default/files/2023-01/advisory_manageengine_adss_2023.pdf, RCE
 - https://medium.com/@bag0zathev2/csrf-stored-xss-to-leading-to-full-account-takeover-39e9a79533e3, Stored-XSS
 - https://melotover.medium.com/bypassing-e2e-encryption-leads-to-multiple-high-vulnerabilities-65b708e5ad84, IDOR
@@ -1042,7 +1041,6 @@
 - https://medium.com/@nanwinata/rce-docker-api-but-11ff70825935, RCE
 - https://sensepost.com/blog/2022/abusing-windows-tokens-to-compromise-active-directory-without-touching-lsass/, Local-Privilege-Escalation
 - https://logicbomb.medium.com/a-bug-worth-1-75lacs-aws-ssrf-to-rce-8d43d5fda899, SSRF
-- https://blog.doyensec.com/2022/10/27/jupytervscode.html, RCE
 - https://medium.com/@dsonbacker/a-250-css-injection-my-first-finding-on-hackerone-8863ad253560, CSS-injection
 - https://googleprojectzero.blogspot.com/2022/10/rc4-is-still-considered-harmful.html, Kerberos
 - https://blog.nietaanraken.nl/posts/aur-packages-expired-domains/, Subdomain-takeover
@@ -1310,7 +1308,6 @@
 - https://www.wiz.io/blog/the-cloud-has-an-isolation-problem-postgresql-vulnerabilities, Privilege-escalation
 - https://blog.quarkslab.com/attacking-titan-m-with-only-one-byte.html, Memory-corruption
 - https://gonzx.medium.com/my-experience-on-hacking-the-dutch-government-a2c5a5f43d83, XSS
-- https://www.rapid7.com/blog/post/2022/08/11/rapid7-discovered-vulnerabilities-in-cisco-asa-asdm-and-firepower-services-software/, RCE
 - https://www.usenix.org/conference/usenixsecurity22/presentation/zhang-lei, Android
 - https://www.usenix.org/conference/usenixsecurity22/presentation/mirheidari, Web-cache-deception
 - https://i.blackhat.com/USA-22/Wednesday/US-22-Doyhenard-Internal-Server-Error-wp.pdf, Memory-corruption
@@ -2503,7 +2500,6 @@
 - https://bugbountyhunter.medium.com/500-for-no-rate-limit-on-forgot-password-page-d534d1d750db, Lack-of-rate-limiting
 - https://notifybugme.medium.com/finding-ssrf-by-full-automation-7d2680091d68, SSRF
 - https://yeuchimse.com/leaking-issues-from-linked-jira-atlassian-confluence-server/, XS-Search
-- https://medium.com/bugbountywriteup/get-paid-by-smuggling-the-legal-way-c31805de3c59, HTTP-Request-Smuggling
 - https://github.com/tess-ss/writeups/blob/main/bug.md, Self-XSS
 - https://susanwagle123.medium.com/idor-revealing-images-cdn-links-6589e19bdbaf, IDOR
 - https://shaurya-sharma.medium.com/bypassing-waf-with-incorrect-proxy-settings-for-hunting-bugs-3449b7716f59, URL-validation-bypass
@@ -4070,7 +4066,6 @@
 - https://medium.com/@rojanrijal/luminate-internal-privilege-escalation-admin-to-owner-2ca28e575985, Authorization-flaw
 - https://medium.com/@rojanrijal/this-domain-is-my-domain-g-suite-a-record-vulnerability-b447a90a8de7, Domain-takeover
 - https://guptashubham.com/all-about-hackerone-private-program-terapeak/, IDOR
-- https://guptashubham.com/multiple-vulnerabilities-in-oracle-ebs/, SQL-injection
 - https://kciredor.com/first-bounty-time-to-step-up-my-game.html, Same-Origin-Method-Execution
 - https://medium.com/bugbountywriteup/chaining-self-xss-with-ui-redressing-is-leading-to-session-hijacking-pwn-users-like-a-boss-efb46249cd14, Self-XSS
 - http://manuel-sousa.blogspot.com/2017/09/url-whitelist-bypass-accounts-google.html, Open-redirect
