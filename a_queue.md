@@ -648,7 +648,6 @@
 - https://medium.com/@osamaavvan/unauthenticated-graphql-introspection-and-api-calls-92f1d9d86bcf, GraphQL
 - https://systemweakness.com/give-me-a-browser-ill-give-you-a-shell-de19811defa0, Local-Privilege-Escalation
 - https://www.synacktiv.com/sites/default/files/2023-02/Synacktiv-IBM-TWS-CVE-2022-38389.pdf, XXE
-- https://lude.rs/h4ck1ng/draw.io_cves.html, SSRF
 - https://starlabs.sg/blog/2023/02-microsoft-azure-account-takeover-via-dom-based-xss-in-cosmos-db-explorer/, Account-takeover
 - https://medium.com/@feribytex/blind-xss-fired-on-admin-panel-worth-2000-abe2c83279b5, Blind-XSS
 - https://blog.trailofbits.com/2023/02/23/escaping-well-configured-vscode-extensions-for-profit/, Electron
@@ -1398,7 +1397,6 @@
 - https://medium.com/@evilmango/this-is-what-i-call-mass-idor-20e6ec146c0e, Lack-of-rate-limiting
 - https://medium.com/@tobydavenn/how-i-got-my-first-cve-a157606cc86e, Application-level-DoS
 - https://medium.com/@shaunak007/how-i-spammed-a-google-meet-but-for-good-8bc5b328f1bb, DoS
-- https://swarm.ptsecurity.com/exploiting-arbitrary-object-instantiations/, RCE
 - https://www.gosecure.net/blog/2022/07/13/tableau-server-leaks-sensitive-information-from-reflected-xss/, Reflected-XSS
 - https://infosecwriteups.com/abusing-url-shortners-for-fun-and-profit-c83c67713916, Information-disclosure
 - https://www.zerodayinitiative.com/blog/2022/7/13/cve-2022-30136-microsoft-windows-network-file-system-v4-remote-code-execution-vulnerability, RCE
@@ -1487,7 +1485,6 @@
 - https://infosecwriteups.com/how-i-found-a-critical-bug-in-instagram-and-got-49500-bounty-from-facebook-626ff2c6a853, IDOR
 - https://medium.com/@joshibeast/from-blind-ssrf-to-localhost-dirbusting-and-asset-enumeration-dc0179310038, SSRF
 - https://microsoftedge.github.io/edgevr/posts/a-story-of-a-bug-found-fuzzing/, Browser-hacking
-- https://github.com/MystenLabs/ed25519-unsafe-libs, Cryptographic-issues
 - https://web.archive.org/web/20220611144030/https://medium.com/@pmmali/my-first-cve-2022-31289-4081c57e90fb, Authentication-bypass
 - https://blog.viettelcybersecurity.com/cve-2022-1040-sophos-xg-firewall-authentication-bypass/, Authentication-bypass
 - https://www.shielder.com/advisories/autodesk-fusion-import-svg-blind-xxe/, XXE
@@ -2453,7 +2450,6 @@
 - https://ysamm.com/?p=627, GraphQL
 - https://ysamm.com/?p=621, Authorization-flaw
 - https://ysamm.com/?p=625, Open-redirect
-- https://irsl.medium.com/dropping-a-shell-in-googles-cloud-sql-the-speckle-umbrella-story-f9375bd4960d, Configuration-file-injection
 - https://www.shielder.it/blog/2021/02/hunting-for-bugs-in-telegrams-animated-stickers-remote-attack-surface/, Memory-corruption
 - https://www.trendmicro.com/en_us/research/21/b/shareit-flaw-could-lead-to-remote-code-execution.html, Android
 - https://ysamm.com/?p=606, Authorization-flaw
@@ -2998,7 +2994,6 @@
 - https://medium.com/@impratikdabhi/reflected-xss-on-microsoft-com-via-angular-template-injection-2e26d80a7fd8, CSTI
 - https://web.archive.org/web/20210117211634/https://kurtikleiton.medium.com/blind-ssrf-on-coda-io-c7063f304455, SSRF
 - https://ysamm.com/?p=444, Information-disclosure
-- https://ysamm.com/?p=437, Information-disclosure
 - https://medium.com/@rooterkaustubh/the-story-of-blind-ssrf-leads-to-internal-host-discovery-ee65b9b91e23, SSRF
 - https://blog.sambal0x.com/2020/04/30/Hacking-razer-pay-ewallet-app.html, IDOR
 - https://medium.com/sud0root/bug-bounty-writeups-exploiting-sql-injection-vulnerability-20b019553716, SQL-injection

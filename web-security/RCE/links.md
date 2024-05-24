@@ -93,3 +93,4 @@
 - https://thinkloveshare.com/hacking/rce_on_spip_and_root_me_v2/
 - https://blog.doyensec.com/2022/10/27/jupytervscode.html
 - https://www.rapid7.com/blog/post/2022/08/11/rapid7-discovered-vulnerabilities-in-cisco-asa-asdm-and-firepower-services-software/
+- https://swarm.ptsecurity.com/exploiting-arbitrary-object-instantiations/

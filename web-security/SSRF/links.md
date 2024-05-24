@@ -52,3 +52,4 @@
 - https://vanshal.medium.com/pre-auth-ssrf-to-full-mailbox-access-microsoft-exchange-server-exploit-a62c8ac04b47
 - https://omespino.com/write-up-google-vrp-n-a-ssrf-bypass-with-quadzero-in-google-cloud-monitoring/
 - https://infosecwriteups.com/svg-ssrfs-and-saga-of-bypasses-777e035a17a7
+- https://lude.rs/h4ck1ng/draw.io_cves.html
