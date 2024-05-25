@@ -22,3 +22,4 @@
 - https://wojciechregula.blog/post/m1-macs-gatekeeper-bypass-aka-cve-2021-30658/
 - https://blog.relyze.com/2022/04/pwning-cisco-rv340-with-4-bug-chain.html
 - https://www.rapid7.com/blog/post/2022/05/24/cve-2022-22977-vmware-guest-authentication-service-lpe-fixed/
+- https://www.wiz.io/blog/omigod-critical-vulnerabilities-in-omi-azure

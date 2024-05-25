@@ -1125,7 +1125,6 @@
 - https://medium.com/@Cybervenom/tale-of-easy-p1-bugs-in-wild-1b7f5bf80eef, Forced-browsing
 - https://www.trenchesofit.com/2022/09/30/zoneminder-web-app-testing/, DoS
 - https://www.usenix.org/system/files/sec23summer_235-rohlmann-prepub.pdf, Signature-bypass
-- https://trenchant.io/two-lines-of-jscript-for-20000-pwn2own-miami-2022/, RCE
 - https://www.imperva.com/blog/how-scanning-your-projects-for-security-issues-can-lead-to-remote-code-execution/, RCE
 - https://infosecwriteups.com/security-vs-compliance-cloudflare-password-policy-restriction-bypass-da07ca7df4f2, Client-side-enforcement-of-server-side-security
 - https://medium.com/@jacopotediosi/worldwide-server-side-cache-poisoning-on-all-akamai-edge-nodes-50k-bounty-earned-f97d80f3922b, Web-cache-poisoning
@@ -1469,7 +1468,6 @@
 - https://fredericb.info/2022/06/breaking-secure-boot-on-google-nest-hub-2nd-gen-to-run-ubuntu.html, Hardware-hacking
 - https://www.securesystems.de/blog/privilege-escalation-in-aks-clusters/, Privilege-escalation
 - https://labs.taszk.io/articles/post/unziploc/, Memory-corruption
-- https://www.hertzbleed.com, Side-channel-attack
 - https://notifybugme.medium.com/automating-reflected-xss-with-burp-suite-intruder-a39b2f060db7, Reflected-XSS
 - https://medium.com/@sharp488/2fa-bypass-via-basic-authentication-on-private-bug-bounty-program-93bb457cd065, MFA-bypass
 - https://www.sonarsource.com/blog/zimbra-mail-stealing-clear-text-credentials-via-memcache-injection/, Memcache-injection
@@ -1808,7 +1806,6 @@
 - https://systemweakness.com/xss-filter-evasion-idor-3d4624758ff0, XSS
 - https://medium.com/@frycos/searching-for-deserialization-protection-bypasses-in-microsoft-exchange-cve-2022-21969-bfa38f63a62d, Insecure-deserialization
 - https://www.bitcrack.net/pwning-the-portal-from-database-dump-to-session-hijacking/, SQL-injection
-- https://medium.com/@veletisleri/how-i-downed-acronis-com-in-2-minutes-lucky-bug-write-up-a563bcdb563d, DoS
 - https://www.cyberark.com/resources/threat-research-blog/attacking-rdp-from-inside, RCE
 - https://sa1tama0.medium.com/cross-origin-resource-sharing-cors-misconfiguration-leads-to-users-pii-leaks-b31fd3246e64, CORS-misconfiguration
 - https://haxolot.com/posts/2022/moodle_pre_auth_shibboleth_rce_part2/, Session-hijacking
@@ -1940,7 +1937,6 @@
 - https://philippeharewood.com/bypass-video-capture-limit-on-ray-ban-stories/, Logic-flaw
 - https://medium.com/techiepedia/unauthenticated-access-to-cloud-portal-a-without-%EF%B8%8F-9f29c387b937, Authentication-bypass
 - https://fortbridge.co.uk/research/multiple-vulnerabilities-in-concrete-cms-part1-rce/, RCE
-- https://medium.com/@varmaanu001/hacktoberfest2k21-vulnerability-how-users-metadata-can-be-changed-via-auth-jwt-tokens-leaking-from-3028f8ad6991, IDOR
 - https://thinkermaruf.medium.com/fiverr-email-restriction-bypassed-36b797cb7e9, Logic-flaw
 - https://perception-point.io/a-technical-analysis-of-cve-2021-30864-bypassing-app-sandbox-restrictions/, Local-Privilege-Escalation
 - https://blog.assetnote.io/2021/11/02/sitecore-rce/, RCE
@@ -2037,7 +2033,6 @@
 - https://iamsaugat.medium.com/a-facebook-bug-that-exposes-email-phone-number-to-your-friends-a980d24e5ea8, Information-disclosure
 - https://asterfiester.medium.com/how-i-was-able-to-send-sms-from-google-to-anyone-google-vulnerability-3277ea0cc9d1, Content-spoofing
 - https://s3c.medium.com/how-i-hacked-world-wide-tiktok-users-24e794d310d2, IDOR
-- https://www.wiz.io/blog/omigod-critical-vulnerabilities-in-omi-azure, Local-Privilege-Escalation
 - https://infosecwriteups.com/10-golden-minutes-for-taking-over-a-chess-com-account-56e73f7c5f0d, Lack-of-rate-limiting
 - https://www.netspi.com/blog/technical/cloud-penetration-testing/escalating-azure-privileges-with-the-log-analystics-contributor-role/, Logic-flaw
 - https://asterfiester.medium.com/3133-70-google-dialogflow-idor-vulnerability-7a72771678dd, IDOR

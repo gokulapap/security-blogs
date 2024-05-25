@@ -94,3 +94,4 @@
 - https://blog.doyensec.com/2022/10/27/jupytervscode.html
 - https://www.rapid7.com/blog/post/2022/08/11/rapid7-discovered-vulnerabilities-in-cisco-asa-asdm-and-firepower-services-software/
 - https://swarm.ptsecurity.com/exploiting-arbitrary-object-instantiations/
+- https://trenchant.io/two-lines-of-jscript-for-20000-pwn2own-miami-2022/
