@@ -564,7 +564,6 @@
 - https://notifybugme.medium.com/how-i-got-access-to-essilor-international-company-customer-pii-info-by-aws-metadata-access-through-3da02f4c79f0, SSRF
 - https://securitylabs.datadoghq.com/articles/bypass-cloudtrail-aws-service-catalog-and-other/, Cloud
 - https://blog.impalabs.com/2303_advisory_parallels-desktop_toolgate.html, Path-traversal
-- https://www.pentagrid.ch/de/blog/viseca-expense-credit-card-statement-disclosure/, IDOR
 - https://cupc4k3.lol/ssti-leads-to-rce-on-pyrocms-7515be27c811, SSTI
 - https://www.da.vidbuchanan.co.uk/blog/exploiting-acropalypse.html, Privacy-issue
 - https://medium.com/@bag0zathev2/easy-via-api-params-manipulation-leading-to-bypassing-the-email-verification-block-a45dad2db60c, Mass-assignment
@@ -3151,7 +3150,6 @@
 - https://blog.redteam.pl/2020/04/google-chrome-display-locking-fuzzing.html, Use-After-Free
 - https://medium.com/@alex.birsan/the-bug-that-exposed-your-paypal-password-539fc2896da9, XSSI
 - https://medium.com/@jonathan.leitschuh/update-want-to-take-over-the-java-ecosystem-all-you-need-is-a-mitm-d069d253fe23, MiTM
-- https://medium.com/@pratiky054/html-injection-unique-exploitation-a5c3d4e6fed8, HTML-injection
 - https://medium.com/nassec-cybersecurity-writeups/an-interesting-story-of-privilege-escalation-1da021e7fd0, Privilege-escalation
 - https://xvnpw.github.io/posts/from-dot-in-regex-to-ssrf-part-1/, SSRF
 - https://keenlab.tencent.com/en/2020/01/02/exploiting-wifi-stack-on-tesla-model-s/, Wifi-hacking
@@ -3539,7 +3537,6 @@
 - https://www.vulnano.com/2019/03/facebook-messenger-server-random-memory.html, Information-disclosure
 - https://medium.com/@vladimirmetnew/3-xss-in-protonmail-for-ios-95f8e4b17054, XSS
 - https://medium.com/@addictrao20/fixed-register-any-email-address-on-facebook-account-c6d1c3eb810d, Authorization-flaw
-- https://medium.com/@addictrao20/fixed-brute-force-instagram-accounts-passwords-938471b6e9d4, Bruteforce
 - http://www.tomanthony.co.uk/blog/facebook-bug-confirm-user-identities/, Information-disclosure
 - https://www.smeegesec.com/2019/03/auditing-github-repo-wikis-for-fun-and.html, Misconfigured-Github-wiki
 - https://staaldraad.github.io/post/2019-03-02-universal-rce-ruby-yaml-load/, Insecure-deserialization
@@ -3902,7 +3899,6 @@
 - https://medium.com/@r99tiq/idor-how-i-was-able-to-see-any-private-album-passwrod-in-picturepush-264913f45e10, IDOR
 - https://poc-server.com/blog/2018/05/22/rce-by-uploading-a-web-config, RCE
 - https://medium.com/ymedialabs-innovation/an-aws-managed-policy-that-allowed-granting-root-admin-access-to-any-role-51b409ea7ff0, Authorization-flaw
-- https://medium.com/@renwa/self-xss-csrf-to-stored-xss-54f9f423a7f1, Self-XSS
 - https://sites.google.com/site/testsitehacking/-36k-google-app-engine-rce, RCE
 - https://blog.securitybreached.org/2018/05/18/get-subscription-of-120-year-for-free-bug-bounty-poc, Payment-bypass
 - https://medium.com/@pratheesh.p.narayanan/whatsapp-dos-vulnerability-on-android-ios-web-7628077d21d4, DoS
@@ -3983,7 +3979,6 @@
 - https://medium.freecodecamp.org/how-anyone-could-have-used-uber-to-ride-for-free-36cdee5ea854, Logic-flaw
 - https://medium.com/@saamux/full-account-takeover-through-cors-with-connection-sockets-179133384815, CORS-misconfiguration
 - http://blog.jr0ch17.com/2018/No-RCE-then-SSH-to-the-box/, LFI
-- https://medium.com/bugbountywriteup/bugbounty-linkedln-how-i-was-able-to-bypass-open-redirection-protection-2e143eb36941, Open-redirect
 - https://web.archive.org/web/20200926101239/https://medium.com/@adeshkolte/asus-web-application-vulnerabilities-by-adesh-n-kolte-4c14a1bb8739, Directory-listing
 - http://omespino.com/write-up-file-disclosure-via-ds_store-file-macos, Directory-listing
 - https://medium.com/@circleninja/internshala-bug-in-internshala-student-partner-33d7b66c1bd5, Bruteforce

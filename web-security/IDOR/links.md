@@ -87,3 +87,4 @@
 - https://medium.com/@evilboyajay/workplace-logo-id-to-workplace-owner-name-disclosurefacebook-bug-bounty-e745db59d0bd
 - https://yaseenzubair.medium.com/idor-leads-to-mass-account-takeover-7548a03f5672
 - https://medium.com/@varmaanu001/hacktoberfest2k21-vulnerability-how-users-metadata-can-be-changed-via-auth-jwt-tokens-leaking-from-3028f8ad6991
+- https://www.pentagrid.ch/de/blog/viseca-expense-credit-card-statement-disclosure/
