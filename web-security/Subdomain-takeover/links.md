@@ -24,3 +24,4 @@
 - https://ian.sh/markmonitor
 - https://web.archive.org/web/20200929010534/https://www.mohamedharon.com/2019/02/subdomain-takeover-via-wufoo-service-in.html
 - https://0xpatrik.com/subdomain-takeover-starbucks-ii/
+- https://web.archive.org/web/20201117123227/https://www.mohamedharon.com/2019/02/2-subdomains-takeover-via-unbounce-in.html

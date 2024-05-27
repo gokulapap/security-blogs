@@ -23,3 +23,4 @@
 - https://blog.relyze.com/2022/04/pwning-cisco-rv340-with-4-bug-chain.html
 - https://www.rapid7.com/blog/post/2022/05/24/cve-2022-22977-vmware-guest-authentication-service-lpe-fixed/
 - https://www.wiz.io/blog/omigod-critical-vulnerabilities-in-omi-azure
+- https://www.trellix.com/en-us/about/newsroom/stories/research/trellix-advanced-research-center-discovers-a-new-privilege-escalation-bug-class-on-macos-and-ios.html

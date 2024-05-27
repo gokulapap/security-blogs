@@ -602,7 +602,6 @@
 - https://infosecwriteups.com/dont-send-a-message-to-anyone-before-reading-this-account-takeover-vulnerability-external-audit-cf584a0c983c, HTTP-response-manipulation
 - https://medium.com/tenable-techblog/wordpress-buddyforms-plugin-unauthenticated-insecure-deserialization-cve-2023-26326-3becb5575ed8, Insecure-deserialization
 - https://www.securifera.com/blog/2023/03/06/attacking-net-web-services/, Security-code-review
-- https://mega-caveat.github.io, Cryptographic-issues
 - https://eprint.iacr.org/2023/331.pdf, Cryptographic-issues
 - https://blog.bitcrack.net/oracle-databases-remote-stealth-password-bruteforce/, Bruteforce
 - https://medium.com/@Ano_F_/manipulating-encrypted-traffic-using-pycript-b637612528bb, Client-side-encryption-bypass
@@ -663,7 +662,6 @@
 - https://medium.com/@fattselimi/information-disclosure-vulnerability-in-adobe-experience-manager-affecting-multiple-companies-2fb0558cd957, Information-disclosure
 - https://medium.com/@chenshiri/taking-over-google-cloud-shell-by-utilizing-capabilities-and-kubelet-fd5e2417f286, Container-escape
 - https://www.vaadata.com/blog/exploiting-an-html-injection-with-dangling-markup/, HTML-injection
-- https://www.trellix.com/en-us/about/newsroom/stories/research/trellix-advanced-research-center-discovers-a-new-privilege-escalation-bug-class-on-macos-and-ios.html, Local-Privilege-Escalation
 - https://bishopfox.com/blog/what-the-vuln-zimbra, Zip-Slip-attack
 - https://www.synacktiv.com/sites/default/files/2023-02/Synacktiv-Nokia-BTS-AirScale-Asika-Multiple-Vulnerabilities.pdf, Base-transceiver-station
 - https://jjainam16.medium.com/reflected-cross-site-scripting-on-reddit-website-bounty-awards-5000-99fa639cdd7, Reflected-XSS
@@ -1004,7 +1002,6 @@
 - https://medium.com/@umeryousuf26/sleep-sql-injection-on-name-parameter-while-updating-profile-2bbac9f47336, SQL-injection
 - https://blog.niksthehacker.com/chaining-path-traversal-with-ssrf-to-disclose-internal-git-repo-data-in-a-bank-asset-8af4de6f12e, SSRF
 - https://mu00d8.me/paper/bernhard22jitpicking.pdf, Browser-hacking
-- https://medium.com/@nireshpandian19/my-first-account-takeover-fd5570f09c0a, Account-takeover
 - https://hdwsec.fr/blog/20221109-netgear/, Memory-corruption
 - https://maordayanofficial.medium.com/comodo-from-git-to-takeover-803ffb8b57e3, git-folder-disclosure
 - https://breakdev.org/zip-motw-bug-analysis/, Local-Privilege-Escalation
@@ -2066,7 +2063,6 @@
 - https://cho0k.com/wp-content/uploads/2021/08/FullPoC.pdf, Privilege-escalation
 - https://theshubh77.medium.com/bypassing-2-factor-authentication-for-facebook-business-manager-bounty-1000-usd-c78c858459d6, MFA-bypass
 - https://v3d.medium.com/broken-access-control-leads-to-change-of-admin-details-a783e31729c4, Privilege-escalation
-- https://www.zerodayinitiative.com/blog/2021/8/30/proxytoken-an-authentication-bypass-in-microsoft-exchange-server, Authentication-bypass
 - https://itsfading.github.io/posts/I-owe-your-Request-HTTP-Request-Smuggling-leads-to-Full-Accounts-takeover/, HTTP-Request-Smuggling
 - https://blog.usamav.dev/two-account-takeover-bugs-worth-4300-dollar-bounty, Account-takeover
 - https://medium.com/codex/hunting-for-xss-with-codeql-57f70763b938, XSS
@@ -3555,7 +3551,6 @@
 - https://apapedulimu.click/multiple-stored-xss-on-tokopedia/, Stored-XSS
 - https://0x00sec.org/t/using-uri-to-pop-shells-via-the-discord-client/11673, URI-abuse
 - https://www.hackerinside.me/2019/02/dos-on-waf-protected-sites-by-abusing.html, DoS
-- https://web.archive.org/web/20201117123227/https://www.mohamedharon.com/2019/02/2-subdomains-takeover-via-unbounce-in.html, Subdomain-takeover
 - https://medium.com/@elberandre/1-000-ssrf-in-slack-7737935d3884, SSRF
 - https://ysamm.com/?p=240, Authorization-flaw
 - https://medium.com/@abaykandotcom/open-redirect-in-slack-385eb34b7c5f, Open-redirect
