@@ -47,3 +47,4 @@
 - https://medium.com/@YoKoKho/bypassing-the-current-password-protection-at-techsupport-portal-b9005ee17e64
 - https://medium.freecodecamp.org/discovering-the-hidden-mine-of-credentials-and-sensitive-information-8e5ccfef2724
 - https://mearegtu.medium.com/reading-message-from-microsofts-private-yammer-group-6be844639bca
+- https://medium.com/@timpaxerror/page-admin-disclosure-via-an-upgraded-page-post-57863fb02c50

@@ -10,3 +10,4 @@
 - https://jfrog.com/blog/crashing-industrial-control-systems-at-pwn2own-miami-2022/
 - https://blog.teserakt.io/2019/07/18/how-to-lock-a-github-user-out-of-their-repos-bug-or-feature/
 - https://medium.com/@veletisleri/how-i-downed-acronis-com-in-2-minutes-lucky-bug-write-up-a563bcdb563d
+- https://medium.com/@ronak_9889/denial-of-service-using-cookie-bombing-55c2d0ef808c

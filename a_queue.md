@@ -615,7 +615,6 @@
 - https://m7arm4n.medium.com/unauthorized-access-to-admin-panel-via-swagger-c242e8341045, Missing-authentication
 - https://bountyplz.xyz/bugbounty/2023/03/03/Bypassing-Safe-Redirect-in-Rails-7.0.html, Open-redirect
 - https://github.blog/2023-03-03-github-security-lab-audited-datahub-heres-what-they-found/, SSRF
-- https://github.com/AnkitCuriosity/Write-Ups/blob/main/Web%20Cache%20Poisoning%20-%20Capability%20to%20disable%E2%88%95deface%20the%20app.vulnerable.com%20(A%20tale%20of%20poisoning%20through%20the%20layers%20of%20caching).md, Web-cache-poisoning
 - https://starlabs.sg/blog/2023/03-cs-cart-pdf-plugin-unauthenticated-command-injection/, RCE
 - https://www.permasecure.io/2023/03/03/how-your-nfts-could-have-been-stolen-in-just-one-click/, postMessage
 - https://ibraradi.gitbook.io/write-up/upgrade-plan-from-free-to-paid-via-response-manipulation, Payment-bypass
@@ -1098,7 +1097,6 @@
 - https://blog.yeswehack.com/yeswerhackers/web-application-firewall-bypass/, WAF-bypass
 - https://www.oxeye.io/blog/vm2-sandbreak-vulnerability-cve-2022-36067, RCE
 - https://medium.com/@protostar0/hacking-banks-broken-access-control-vulnerability-in-banking-application-part-i-c442ed5ae170, Broken-Access-Control
-- https://talosintelligence.com/vulnerability_reports/TALOS-2022-1587, Insecure-deserialization
 - https://www.pentagrid.ch/de/blog/reflected-xss-vulnerability-in-crealogix-ebics-implementation/, Reflected-XSS
 - https://nmochea.medium.com/gcash-vulnerability-walkthrough-c7c938163dfb, Android
 - https://www.synacktiv.com/publications/persistent-php-payloads-in-pngs-how-to-inject-php-code-in-an-image-and-keep-it-there.html, Unrestricted-file-upload
@@ -2629,7 +2627,6 @@
 - https://security.lauritz-holtmann.de/advisories/cve-2020-13294/, Authentication-flaw
 - https://james-clee.com/2020/11/01/leaked-git-folder-leads-to-rce/, git-folder-disclosure
 - https://dragon-sec.medium.com/an-often-overlooked-oauth-misconfiguration-7d2d441eae1f, OAuth
-- https://medium.com/@noobieboy1337/how-i-got-7000-in-bug-bounty-for-my-critical-finding-99326d2cc1ce, Information-disclosure
 - https://aseemshrey.in/abusing-report-abuse/, Logic-flaw
 - https://a-constant.medium.com/beyond-the-wall-command-injection-still-alive-577a898df0b5, OS-command-injection
 - https://tbutler.org/2020/11/01/hinge-hackerone-writeup.html, Broken-Access-Control
@@ -3080,7 +3077,6 @@
 - https://medium.com/@DarkMatterMatt/discord-embed-spoofing-c6d07ab1decc, Phishing
 - https://alexbakker.me/post/mysterious-google-titan-m-bug-cve-2019-9465.html, Cryptographic-issues
 - https://medium.com/@bhaveshthakur2015/account-hijack-using-authorization-bypass-which-made-me-richer-by-ba9dace72682, Account-takeover
-- https://medium.com/@timpaxerror/page-admin-disclosure-via-an-upgraded-page-post-57863fb02c50, Authorization-flaw
 - https://smaranchand.com.np/2020/02/the-tricky-xss/, XSS
 - https://ysamm.com/?p=379, CSRF
 - https://medium.com/@abhishake100/rce-via-apache-struts2-still-out-there-b15ce205aa21, RCE
@@ -3465,7 +3461,6 @@
 - https://gauravnarwani.com/two-factor-authentication-bypass/, MFA-bypass
 - https://medium.com/@elberandre/broken-access-posting-to-google-private-groups-through-any-user-in-the-group-3becfa818894, Authorization-flaw
 - https://edoverflow.com/2019/ci-knew-there-would-be-bugs-here/, Information-disclosure
-- https://medium.com/@ronak_9889/denial-of-service-using-cookie-bombing-55c2d0ef808c, DoS
 - https://medium.com/@YumiSec/how-to-bypass-a-2fa-with-a-http-header-ce82f7927893, MFA-bypass
 - https://medium.com/@protostar0/sidefx-poc-user-enumeration-no-rate-limeted-in-send-message-function-953f1662d41, Username-enumeration
 - https://whitehatfamilyguy.blogspot.com/2019/04/missing-authorization-check-while.html, Authorization-flaw

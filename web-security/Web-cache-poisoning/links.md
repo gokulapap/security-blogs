@@ -5,3 +5,4 @@
 - https://medium.com/@nahoragg/chaining-cache-poisoning-to-stored-xss-b910076bda4f
 - https://youst.in/posts/cache-poisoning-at-scale/
 - https://blog.melbadry9.xyz/fuzzing/nuclei-cache-poisoning
+- https://github.com/AnkitCuriosity/Write-Ups/blob/main/Web%20Cache%20Poisoning%20-%20Capability%20to%20disable%E2%88%95deface%20the%20app.vulnerable.com%20(A%20tale%20of%20poisoning%20through%20the%20layers%20of%20caching).md

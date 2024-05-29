@@ -83,3 +83,4 @@
 - https://palant.info/2019/03/18/should-you-be-concerned-about-lastpass-uploading-your-passwords-to-its-server/
 - https://thexssrat.medium.com/how-i-found-my-first-critical-vulnerability-in-bug-bounties-f890d420764b
 - https://ysamm.com/?p=437
+- https://medium.com/@noobieboy1337/how-i-got-7000-in-bug-bounty-for-my-critical-finding-99326d2cc1ce
