@@ -767,7 +767,6 @@
 - https://www.zerodayinitiative.com/blog/2023/1/23/activation-context-cache-poisoning-exploiting-csrss-for-privilege-escalation, Local-Privilege-Escalation
 - https://ph-hitachi.medium.com/how-i-hacked-scopely-using-sign-in-with-google-298a9c166ad, Account-takeover
 - https://johnjhacking.com/blog/cve-2023-24068-cve-2023-24069/, Thick-client
-- https://sl4x0.medium.com/how-i-found-xss-on-admin-page-without-login-fe165a5f89c2, Reflected-XSS
 - https://www.synacktiv.com/sites/default/files/2023-01/advisory_manageengine_adss_2023.pdf, RCE
 - https://medium.com/@bag0zathev2/csrf-stored-xss-to-leading-to-full-account-takeover-39e9a79533e3, Stored-XSS
 - https://melotover.medium.com/bypassing-e2e-encryption-leads-to-multiple-high-vulnerabilities-65b708e5ad84, IDOR
@@ -895,7 +894,6 @@
 - https://infosecwriteups.com/stripe-live-key-exposed-bounty-1000-dc670f2c5d9c, Information-disclosure
 - https://claroty.com/team82/research/js-on-security-off-abusing-json-based-sql-to-bypass-waf, WAF-bypass
 - https://jowin922.medium.com/cors-misconfig-on-out-of-scope-domain-bug-bounty-writeup-300-usd-reward-8a9e420d21e0, CORS-misconfiguration
-- https://www.blackhat.com/eu-22/briefings/schedule/#databindingshell-novel-pathways-to-rce-web-frameworks-28583, RCE
 - https://tusharvaidya16.medium.com/a03-2021-injection-sql-injection-through-internal-directory-disclose-ecdef5230131, SQL-injection
 - https://medium.com/@shellyshubh/how-you-can-find-your-first-bug-using-google-c9327f82632e, Information-disclosure
 - https://www.synacktiv.com/publications/cool-vulns-dont-live-long-netgear-and-pwn2own.html, Code-injection
@@ -2242,7 +2240,6 @@
 - https://mikekitckchan.medium.com/cors-misconfig-that-worths-usd200-4696eda5ab4c, CORS-misconfiguration
 - https://shrirangdiwakar.medium.com/how-i-turned-0000-into-600-phone-verification-bypass-b1c0f6eb568e, OTP-bypass
 - https://dewangpanchal98.medium.com/403-forbidden-bypass-fc8b5df109b7, 403-bypass
-- https://skylightcyber.com/2021/05/20/13-nagios-vulnerabilities-7-will-shock-you/, RCE
 - https://ysamm.com/?p=697, SSO
 - https://keerok.github.io/2021/05/09/XSS-via-postMessage-in-chat-mozilla-org-CVE-2021-21320/, XSS
 - https://infosecwriteups.com/third-party-apps-were-still-getting-your-private-facebook-data-even-after-their-access-expiry-6e4be4880e6e, Logic-flaw
@@ -2307,7 +2304,6 @@
 - https://privatedrop.github.io, Privacy-issue
 - https://www.lutasecurity.com/post/new-clubhouse-security-vulnerabilities-could-happen-to-any-growing-unicorn, Logic-flaw
 - https://blog.ryotak.me/post/homebrew-security-incident-en/, RCE
-- https://secret.club/2021/04/20/source-engine-rce-invite.html, RCE
 - https://jmrcsnchz.medium.com/playing-with-iframes-bypassing-content-security-policy-987c2f0b8e8a, CSP-bypass
 - https://feed.bugs.xdavidhu.me/bugs/0002, Authentication-bypass
 - https://bloggerrando.blogspot.com/2021/04/idor-leads-to-how-many-likes-that-was.html, IDOR
@@ -3668,7 +3664,6 @@
 - https://quitten.github.io/Youtube/, Open-redirect
 - https://medium.com/bugbountywriteup/from-security-misconfiguration-to-gaining-access-of-smtp-server-ed833e757e6e, File-disclosure
 - https://web.archive.org/web/20200907110700/https://medium.com/@sameerphad72/edmodo-xss-bug-9c0fc9bdd0bf, XSS
-- https://medium.com/@gopalsingh/bypassing-how-i-hacked-googles-bug-tracking-system-itself-for-15-600-in-bounties-16134466ab15, Logic-flaw
 - https://www.askbuddie.com/blog/unauthorized-comments-on-facebook-live-stream/, Authorization-flaw
 - https://www.vulnerability-db.com/?q=articles/2018/11/16/microsoft-bingplaces-business-url-redirect-vulnerability, Open-redirect
 - https://portswigger.net/blog/xss-in-hidden-input-fields, XSS

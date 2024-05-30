@@ -61,3 +61,4 @@
 - https://checkmarx.com/blog/openai-allowed-unlimited-credit-on-new-accounts/
 - https://baibhavjha.com.np/blogs/deactivateduserspageroles/
 - https://medium.com/@unurbayar1998/facebook-portals-business-logic-error-lead-to-500-708e91b4055f
+- https://medium.com/@gopalsingh/bypassing-how-i-hacked-googles-bug-tracking-system-itself-for-15-600-in-bounties-16134466ab15

@@ -95,3 +95,6 @@
 - https://www.rapid7.com/blog/post/2022/08/11/rapid7-discovered-vulnerabilities-in-cisco-asa-asdm-and-firepower-services-software/
 - https://swarm.ptsecurity.com/exploiting-arbitrary-object-instantiations/
 - https://trenchant.io/two-lines-of-jscript-for-20000-pwn2own-miami-2022/
+- https://skylightcyber.com/2021/05/20/13-nagios-vulnerabilities-7-will-shock-you/
+- https://www.blackhat.com/eu-22/briefings/schedule/#databindingshell-novel-pathways-to-rce-web-frameworks-28583
+- https://secret.club/2021/04/20/source-engine-rce-invite.html
