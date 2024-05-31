@@ -53,3 +53,4 @@
 - https://omespino.com/write-up-google-vrp-n-a-ssrf-bypass-with-quadzero-in-google-cloud-monitoring/
 - https://infosecwriteups.com/svg-ssrfs-and-saga-of-bypasses-777e035a17a7
 - https://lude.rs/h4ck1ng/draw.io_cves.html
+- https://medium.com/@raymond-lind/ssrf-bug-leads-to-aws-metadata-exposure-f2ee7d43c6c3

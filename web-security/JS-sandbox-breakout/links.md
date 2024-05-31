@@ -1,0 +1,1 @@
+- https://licenciaparahackear.github.io/en/posts/bypassing-a-restrictive-js-sandbox/

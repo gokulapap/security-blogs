@@ -1,3 +1,4 @@
 - https://medium.com/@mares.viktor/p1-vulnerability-by-bypassing-the-membership-payment-page-3289e09262c1
 - https://blog.securitybreached.org/2022/02/27/hacking-subscription-plans-for-free-service/
 - https://webs3c.com/t/how-to-download-ebooks-from-google-play-store-without-paying-for-them/79
+- https://crypt0g30rgy.github.io/post/PaymentBypassTwo
