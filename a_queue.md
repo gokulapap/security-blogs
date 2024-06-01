@@ -922,7 +922,6 @@
 - https://medium.com/bored-engineer/xss-on-account-leagueoflegends-com-via-easyxdm-2016-75bcf9d582b5, XSS
 - https://hopesamples.blogspot.com/2022/11/the-space-creators-can-still-see.html, IDOR
 - https://www.synacktiv.com/sites/default/files/2022-11/trufusion_enterprise_unauthenticated_arbitrary_file_write.pdf, Unrestricted-file-upload
-- https://mc0wn.blogspot.com/2022/11/rce-on-apache-struts-2530.html, RCE
 - https://www.synacktiv.com/sites/default/files/2022-11/CodeIgniter3_XSS_2022.pdf, Reflected-XSS
 - https://letshack.xyz/offensive/general-research/discord-exe-improper-input-validation, Security-code-review
 - https://medium.com/@Hossam.Mesbah/broken-access-control-misconfiguration-beautiful-privilege-escalation-e4fdfd018efa, Broken-Access-Control
@@ -1207,7 +1206,6 @@
 - https://hopesamples.blogspot.com/2022/09/group-experts-pending-expertise-request.html, IDOR
 - https://hopesamples.blogspot.com/2022/09/details-about-future-collaboration.html, IDOR
 - https://taggart-tech.com/quasar-electron/, Local-Privilege-Escalation
-- https://portswigger.net/research/how-to-turn-security-research-into-profit, HTTP-request-smuggling
 - https://0xmahmoudjo0.medium.com/exploiting-out-of-band-xxe-in-the-wild-16fc6dad9ee2, XXE
 - https://blog.sonarsource.com/wordpress-core-unauthenticated-blind-ssrf/, SSRF
 - https://bergee.it/blog/turning-cookie-based-xss-into-account-takeover/, XSS
@@ -1370,7 +1368,6 @@
 - https://sector7.computest.nl/post/2022-07-opc-ua-net-standard-trusted-application-check-bypass/, Local-Privilege-Escalation
 - https://www.authomize.com/blog/authomize-discovers-password-stealing-and-impersonation-risks-to-in-okta/, Sensitive-data-sent-over-an-unencrypted-channel
 - https://0x1337.ninja/2022/07/19/mybb-0day-authenticated-remote-code-execution/, RCE
-- https://infosecwriteups.com/hacking-facebook-invoice-how-i-couldve-bought-anything-for-free-from-facebook-business-pages-42bcfaa73ec4, Payment-bypass
 - https://virtuvil.medium.com/hey-google-lets-submit-bug-from-victim-account-af6a25d390e1, IDOR
 - https://infosecwriteups.com/story-of-my-first-valid-critical-bug-22029115f8d7, Missing-authentication
 - https://infosecwriteups.com/ffuf-ing-recon-1ee4e79b3256, vHost-misconfiguration
@@ -1425,7 +1422,6 @@
 - https://medium.com/@erik.wynter/pwning-manageengine-from-poc-to-exploit-cfe5adb8c175, Path-traversal
 - https://blog.sonarsource.com/zimbra-pre-auth-rce-via-unrar-0day/, Path-traversal
 - https://unit42.paloaltonetworks.com/fabricscape-cve-2022-30137/, Container-escape
-- https://medium.com/pentesternepal/access-control-worth-2000-everyone-missed-this-idor-access-control-between-two-admins-9745eaf15d21, IDOR
 - https://www.rapid7.com/blog/post/2022/06/28/cve-2021-3779-ruby-mysql-gem-client-file-read-fixed/, Client-File-Read
 - https://jfrog.com/blog/cve-2022-30522-denial-of-service-dos-vulnerability-in-apache-httpd-mod_sed-filter/, DoS
 - https://infosecwriteups.com/html-and-hyperlink-injection-via-share-option-in-microsoft-onenote-application-47e94d0e6478, HTML-injection
@@ -3897,7 +3893,6 @@
 - https://medium.com/bugbountywriteup/how-we-got-lfi-in-apache-drill-recon-like-a-boss-6f739a79d87d, LFI
 - http://blog.mindedsecurity.com/2018/04/dom-based-cross-site-scripting-in.html, DOM-XSS
 - https://medium.com/@malcolmx0x/three-cases-three-open-redirect-bypasses-887bda60b38c, Open-redirect
-- https://medium.com/@YoKoKho/turning-self-xss-into-non-self-stored-xss-via-authorization-issue-at-paypal-tech-support-and-brand-3046f52ac16b, Stored-XSS
 - https://medium.com/@prial261/story-of-a-stored-xss-bypass-26e6659f807b, Stored-XSS
 - https://medium.com/@logicbomb_1/bugbounty-journey-from-lfi-to-rce-how-a69afe5a0899, LFI
 - https://medium.com/@newp_th/google-bug-posting-on-groups-as-any-users-behalf-c24e7f524be5, Email-spoofing

@@ -98,3 +98,4 @@
 - https://skylightcyber.com/2021/05/20/13-nagios-vulnerabilities-7-will-shock-you/
 - https://www.blackhat.com/eu-22/briefings/schedule/#databindingshell-novel-pathways-to-rce-web-frameworks-28583
 - https://secret.club/2021/04/20/source-engine-rce-invite.html
+- https://mc0wn.blogspot.com/2022/11/rce-on-apache-struts-2530.html

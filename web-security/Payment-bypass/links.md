@@ -2,3 +2,4 @@
 - https://blog.securitybreached.org/2022/02/27/hacking-subscription-plans-for-free-service/
 - https://webs3c.com/t/how-to-download-ebooks-from-google-play-store-without-paying-for-them/79
 - https://crypt0g30rgy.github.io/post/PaymentBypassTwo
+- https://infosecwriteups.com/hacking-facebook-invoice-how-i-couldve-bought-anything-for-free-from-facebook-business-pages-42bcfaa73ec4

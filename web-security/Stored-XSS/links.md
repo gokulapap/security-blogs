@@ -40,3 +40,4 @@
 - https://gauravnarwani.com/how-i-xssed-admin-account/
 - https://infosecwriteups.com/pwning-your-assignments-stored-xss-via-graphql-endpoint-6dd36c8a19d5
 - http://cybristerboy.blogspot.com/2018/05/how-i-found-5-store-xss-on-private.html
+- https://medium.com/@YoKoKho/turning-self-xss-into-non-self-stored-xss-via-authorization-issue-at-paypal-tech-support-and-brand-3046f52ac16b
