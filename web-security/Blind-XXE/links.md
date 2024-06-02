@@ -1,0 +1,1 @@
+- https://r00thunt.com/2018/10/05/blind-xml-external-entities-out-of-band-channel-vulnerability-paypal-case-study/

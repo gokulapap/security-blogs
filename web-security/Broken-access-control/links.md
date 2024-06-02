@@ -1,1 +1,2 @@
 - https://torbencapiau.be/?p=106
+- https://servicenger.com/blog/mobile/perform-substring-search-for-emails-even-if-workplace-admin-hides-email-profile-field/

@@ -1030,7 +1030,6 @@
 - https://octagon.net/blog/2022/10/28/juniper-sslvpn-junos-rce-and-multiple-vulnerabilities/, RCE
 - https://medium.com/@nanwinata/rce-docker-api-but-11ff70825935, RCE
 - https://sensepost.com/blog/2022/abusing-windows-tokens-to-compromise-active-directory-without-touching-lsass/, Local-Privilege-Escalation
-- https://logicbomb.medium.com/a-bug-worth-1-75lacs-aws-ssrf-to-rce-8d43d5fda899, SSRF
 - https://medium.com/@dsonbacker/a-250-css-injection-my-first-finding-on-hackerone-8863ad253560, CSS-injection
 - https://googleprojectzero.blogspot.com/2022/10/rc4-is-still-considered-harmful.html, Kerberos
 - https://blog.nietaanraken.nl/posts/aur-packages-expired-domains/, Subdomain-takeover
@@ -2130,7 +2129,6 @@
 - https://medium.com/pentesternepal/how-i-found-a-bug-in-apple-within-just-in-5min-d7357237d7a0, XSS
 - https://medium.com/@Kntjrld/not-valid-bug-that-leads-to-us-a-multiple-valid-report-in-facebook-25a3fb8cb51, Information-disclosure
 - https://blog.0xffff.info/2021/07/24/ebay-xss-demo-and-guide-to-spear-phishing/, XSS
-- https://orwaatyat.medium.com/how-i-found-multiple-bugs-on-facebook-in-1-month-and-a-part-for-my-methodology-tools-58a677a9040c, SSTI
 - https://imajk.medium.com/story-of-my-3rd-bounty-from-facebook-fef352853d1b, Logic-flaw
 - https://craighays.com/pre-account-takeover-by-reversing-a-weak-email-verification-token-algorithm/, Weak-crypto
 - https://www.r29k.com/articles/bb/self-xss-to-stored-xss, Self-XSS
@@ -2627,7 +2625,6 @@
 - https://ynoof.medium.com/error-based-sql-injection-on-a-wordpress-website-and-extract-more-than-150k-user-details-f65f987c2cc0, SQL-injection
 - https://medium.com/bugbountywriteup/the-youtube-bug-that-allowed-uploads-to-any-channel-3b41c7b7902a, IDOR
 - https://www.mysk.blog/2020/10/25/link-previews/, Information-disclosure
-- https://servicenger.com/blog/mobile/perform-substring-search-for-emails-even-if-workplace-admin-hides-email-profile-field/, Broken-access-control
 - https://medium.com/bugbountywriteup/my-first-bug-on-google-observation-wins-1a13d0ea54b0, IDOR
 - https://labs.f-secure.com/blog/samsung-s20-rce-via-samsung-galaxy-store-app/, RCE
 - https://medium.com/@seaman00o/300-p3-easy-bug-in-30-seconds-de65ea3d8f50, Missing-authentication
@@ -3717,12 +3714,10 @@
 - https://medium.com/@jonathanbouman/persistent-xss-unvalidated-open-graph-embed-at-linkedin-com-db6188acedd9, Stored-XSS
 - https://medium.com/@alicanact60/my-first-0day-exploit-csp-bypass-reflected-xss-bugbounty-c7efa4bed3d7, Reflected-XSS
 - https://portswigger.net/research/bypassing-web-cache-poisoning-countermeasures, Web-cache-poisoning
-- https://r00thunt.com/2018/10/05/blind-xml-external-entities-out-of-band-channel-vulnerability-paypal-case-study/, Blind-XXE
 - https://medium.com/@raushanraj_65039/clickjacking-in-google-docs-and-voice-typing-feature-c481d00b020a, Clickjacking
 - https://www.martinvigo.com/googlemeetroulette, Bruteforce
 - https://www.sec-down.com/wordpress/?p=809, CSRF
 - https://medium.com/@jonathanbouman/stored-xss-unvalidated-embed-at-medium-com-528b0d6d4982, Stored-XSS
-- http://10degres.net/aws-takeover-through-ssrf-in-javascript/, SSRF
 - https://medium.com/@saamux/applying-a-small-bypass-to-steal-facebook-session-tokens-in-uber-5b9638b7a18c, XSS
 - https://blog.securityevaluators.com/collecting-shells-by-the-sea-of-nas-vulnerabilities-155a0bd7c525, OS-command-injection
 - https://ls-la.fyi/2018/09/28/subway-xposed/, Logic-flaw

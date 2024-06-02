@@ -6,3 +6,4 @@
 - http://verneet.com/fuzzing-77-till-p1/
 - https://neupanemizzle.medium.com/server-side-template-injection-leading-to-rce-on-google-vrp-75f0a4bc6ebc
 - https://www.r29k.com/articles/bb/ssti
+- https://orwaatyat.medium.com/how-i-found-multiple-bugs-on-facebook-in-1-month-and-a-part-for-my-methodology-tools-58a677a9040c
