@@ -1488,7 +1488,6 @@
 - https://medium.com/@terminatorLM/abusing-facebooks-feature-for-a-permanent-account-confusion-logic-vulnerability-d7f5160f373a, MFA-bypass
 - https://medium.com/@ratnadip1998/how-to-find-access-admin-panel-by-digging-into-js-files-282d89391a2d, Weak-credentials
 - https://octagon.net/blog/2022/05/29/bypass-csp-using-wordpress-by-abusing-same-origin-method-execution/, CSP-bypass
-- https://xvnpw.github.io/posts/external_authentication_bypass_in_ingress_nginx/, Path-traversal
 - https://web.archive.org/web/20220529130635/https://pwnsec.ninja/2022/05/29/exploiting-ios-app-for-fun-and-profit/, Account-takeover
 - https://medium.com/@vaibhavatkale/weird-email-verification-bypass-96c793c36d7e, Email-verification-bypass
 - https://corben.io/blog/a-simple-sql-injection-in-an-air-force-website, SQL-injection
@@ -1621,7 +1620,6 @@
 - https://karmainsecurity.com/KIS-2022-05, Zip-Slip-attack
 - https://janmuhammadzaidi.medium.com/how-i-bypassed-403-forbidden-domain-using-a-simple-trick-c2d538de04b8, 403-bypass
 - https://www.mdsec.co.uk/2022/03/abc-code-execution-for-veeam/, Local-Privilege-Escalation
-- https://devco.re/blog/2022/03/28/your-NAS-is-not-your-NAS-en/, RCE
 - https://github.com/httpvoid/writeups/blob/main/Ruby-deserialization-gadget-on-rails.md, Insecure-deserialization
 - https://www.sentinelone.com/labs/pwning-microsoft-azure-defender-for-iot-multiple-flaws-allow-remote-code-execution-for-all/, RCE
 - https://web.archive.org/web/20220329163747/https://pwnsec.ninja/2022/03/27/stealing-cookies-from-subdomain-leads-to-takeover-user-accounts-at-redacted-com/, Account-takeover
@@ -1666,7 +1664,6 @@
 - https://bloggerrando.blogspot.com/2022/03/13-1.html, Broken-Access-Control
 - https://medium.com/@botami143/i-have-found-microsoft-subdomain-website-database-list-database-username-password-1dab07d0c8ea, Information-disclosure
 - https://canmustdie.medium.com/how-did-i-leak-5-2k-customer-data-from-a-large-company-via-broken-access-control-709eb4027409, Broken-Access-Control
-- https://www.trustedsec.com/blog/cve-2022-24696-glance-by-mirametrix-privilege-escalation/, Local-Privilege-Escalation
 - https://medium.com/@tobydavenn/how-i-was-able-to-takeover-any-users-account-on-a-major-telecoms-website-2cd5aa43e3d6, XSS
 - https://medium.com/@girishbo58/rate-limit-bypass-at-readme-com-35c4fb0c7f85, Lack-of-rate-limiting
 - https://medium.com/@tobydavenn/how-i-was-able-to-read-any-users-confidential-reports-on-a-public-level-domain-1e563857b0b9, IDOR
@@ -2342,7 +2339,6 @@
 - https://lf.lc/vrp/181521559d/, Container-escape
 - https://philippeharewood.com/download-facebook-internal-mobile-builds/, Information-disclosure
 - https://medium.com/@Kntjrld/my-first-bug-report-at-facebook-2021-bab2c2373ee3, Logic-flaw
-- https://nirajmodi51.medium.com/missing-cors-leads-to-complete-account-takeover-1ed4b53bf9f2, Missing-CORS
 - https://thexssrat.medium.com/i-felt-like-there-were-no-more-bugs-left-after-winning-2000-but-an-email-worth-750-changed-my-c7a507649060, Broken-Access-Control
 - https://infosecwriteups.com/a-weird-xss-77c13d135c9f, Reflected-XSS
 - https://medium.com/@ashrafharb997/csrf-to-full-account-takeover-5196cef9d166, CSRF
@@ -3287,7 +3283,6 @@
 - https://medium.com/@0xankush/readme-com-account-takeover-bugbounty-fulldisclosure-a36ddbe915be, Password-reset
 - https://corben.io/blog/19-9-04-jenkins-to-full-pwnage, RCE
 - https://medium.com/@tarekmohamed_20773/add-new-user-with-admin-permission-and-takeover-the-organization-6318ee10154a, Authorization-flaw
-- https://ysamm.com/?p=280, RCE
 - https://www.loosebyte.com/google-cloud-vulnerability/, XSS
 - https://blog.usejournal.com/graphql-bug-to-steal-anyones-address-fc34f0374417, Information-disclosure
 - https://medium.com/@bathinivijaysimhareddy/shodan-is-your-friend-if-you-lose-him-you-will-lose-many-657d07472f75, SQL-injection

@@ -99,3 +99,5 @@
 - https://www.blackhat.com/eu-22/briefings/schedule/#databindingshell-novel-pathways-to-rce-web-frameworks-28583
 - https://secret.club/2021/04/20/source-engine-rce-invite.html
 - https://mc0wn.blogspot.com/2022/11/rce-on-apache-struts-2530.html
+- https://devco.re/blog/2022/03/28/your-NAS-is-not-your-NAS-en/
+- https://ysamm.com/?p=280

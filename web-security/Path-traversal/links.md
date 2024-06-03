@@ -14,3 +14,4 @@
 - https://samcurry.net/analysis-of-cve-2019-14994/
 - https://infosecwriteups.com/why-u-should-use-burp-to-test-path-traversal-vulnerability-and-also-get-rxss-2743cbb16a3c
 - https://medium.com/@frostnull/hi-guys-again-here-bringing-an-experience-to-share-with-you-as-usual-i-will-overshadow-some-f85a1d5a8d8c
+- https://xvnpw.github.io/posts/external_authentication_bypass_in_ingress_nginx/
