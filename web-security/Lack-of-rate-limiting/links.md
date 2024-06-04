@@ -1,3 +1,4 @@
 - https://medium.com/@spazzyy/bug-bounty-101-always-check-the-source-code-1adaf3f59567
 - https://medium.com/@vedanttekale20/story-of-an-interesting-bug-de07fbef4017
 - https://infosecwriteups.com/unlimited-report-user-in-instagram-facebook-leads-to-abuse-risk-efcca325aada
+- https://medium.com/@shahjerry33/no-rate-limit-2k-bounty-642720ffba99

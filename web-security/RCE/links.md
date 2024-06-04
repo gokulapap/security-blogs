@@ -101,3 +101,4 @@
 - https://mc0wn.blogspot.com/2022/11/rce-on-apache-struts-2530.html
 - https://devco.re/blog/2022/03/28/your-NAS-is-not-your-NAS-en/
 - https://ysamm.com/?p=280
+- https://medium.com/@win3zz/remote-command-execution-in-a-bank-server-b213f9f42afe

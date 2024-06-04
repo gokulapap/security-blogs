@@ -5,3 +5,4 @@
 - https://hateshape.github.io/general/2018/06/07/CVE-2018-8819.html
 - https://medium.com/@ibm_ptc_security/xml-security-vulnerabilities-series-850a9c19faf9
 - https://blog.noob.ninja/spilling-local-files-via-xxe-when/
+- https://www.cyberick.com/post/xxe-in-saml-sso-writeup-bug-bounty

@@ -20,7 +20,6 @@
 - https://medium.com/@thexssrat/ultimate-xxe-beginner-guide-f3bd123b1f4a, XXE
 - https://medium.com/@sumedh00/accessing-admin-dashboard-in-5-seconds-acee737eacfb, journey
 - https://medium.com/@kunalkhubchandani/the-modern-day-android-application-pentesting-approach-for-bugbounties-assessments-b09154b522d, android
-- https://medium.com/@secureica/can-hackers-hijack-your-clicks-clickjacking-attacks-5dade6464bfe, clickjacking
 - https://medium.com/@whitehatcyber404/how-to-find-escalating-html-to-ssrf-i-instantly-got-the-hof-within-5minutes-805f173c34e4, ssrf
 - https://medium.com/@that-odd-introvert/django-security-xss-a7722cff2326, CVE
 - https://medium.com/@manikchopra31/welcome-to-the-bug-bounty-beginners-roadmap-your-ultimate-guide-to-success-7195f1dcd8c5, journey
@@ -965,7 +964,6 @@
 - https://dewcode.medium.com/how-i-found-29-stored-xss-in-modern-framework-1cfe60a107a0, Stored-XSS
 - https://splint3rsec.medium.com/russian-roulette-xss-bbba6afd2570, Blind-XSS
 - https://r29k.com/articles/bb/account-takeover, Account-takeover
-- https://medium.com/@win3zz/remote-command-execution-in-a-bank-server-b213f9f42afe, RCE
 - https://www.semperis.com/blog/syncjacking-azure-ad-account-takeover/, Account-takeover
 - https://0xm5awy.medium.com/how-i-found-8-vulnerabilities-in-24h-aad3bd5fd487, Logic-flaw
 - https://hacklido.com/d/87-reflected-xss-using-double-encoding, XSS
@@ -1782,7 +1780,6 @@
 - https://googleprojectzero.blogspot.com//2022/01/zooming-in-on-zero-click-exploits.html, Memory-corruption
 - https://medium.com/@p3rr0x22/critical-xss-in-chrome-extension-b55757a2074, XSS
 - https://medium.com/@robert0/how-i-found-broken-access-control-through-out-of-sync-setup-and-got-1000-9143fc5febdd, Broken-Access-Control
-- https://www.cyberick.com/post/xxe-in-saml-sso-writeup-bug-bounty, XXE
 - https://0xkasper.com/articles/moodle-sql-injection-broken-access-control.html, SQL-injection
 - https://hulkvision.github.io/blog/post1/, RCE
 - https://systemweakness.com/xss-filter-evasion-idor-3d4624758ff0, XSS
@@ -3119,7 +3116,6 @@
 - https://irsl.medium.com/the-trouble-with-microsofts-troubleshooters-6e32fc80b8bd, RCE
 - https://xvnpw.github.io/posts/from-dot-in-regex-to-ssrf-part-2/, SSRF
 - https://palant.info/2020/01/13/pwning-avast-secure-browser-for-fun-and-profit, RCE
-- https://medium.com/@shahjerry33/no-rate-limit-2k-bounty-642720ffba99, Lack-of-rate-limiting
 - https://medium.com/@abhishake100/my-first-rce-stressed-employee-gets-me-2x-bounty-c4879c277e37, Unrestricted-file-upload
 - https://medium.com/@know.0nix/hunting-good-bugs-with-only-html-d8fd40d17b38, Open-redirect
 - https://blog.redteam.pl/2020/04/google-chrome-display-locking-fuzzing.html, Use-After-Free
@@ -4169,7 +4165,6 @@
 - https://www.seekurity.com/blog/general/fiverr-com-full-accounts-takeover-vulnerability/, CSRF
 - https://www.seekurity.com/blog/general/firefox-find-my-device-service-clickjacking/, Clickjacking
 - https://thehackerblog.com/poisoning-the-well-compromising-godaddy-customer-support-with-blind-xss/index.html, Blind-XSS
-- https://www.seekurity.com/blog/general/facebook-movies-recommendation-bug/, Logic-flaw
 - https://www.seekurity.com/blog/general/whatsapp-clickjacking-vulnerability-yet-another-web-client-failure, Clickjacking
 - https://www.seekurity.com/blog/write-ups/facebook-clickjacking-how-we-put-a-new-dress-on-facebook-ui/, Clickjacking
 - https://medium.com/@albeckshahar/facebook-invitees-email-address-disclosure-25059ae93725, Information-disclosure
