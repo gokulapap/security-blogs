@@ -408,7 +408,6 @@
 - https://www.rezonate.io/blog/github-misconfigurations-put-gcp-aws-in-account-takeover-risk/, Account-takeover
 - https://medium.com/@levshmelevv/hardcore-rce-via-directory-name-for-3-000-225ed58b41a9, RCE
 - https://onekey.com/blog/security-advisory-wago-unauthenticated-remote-command-execution/, RCE
-- https://sternumiot.com/iot-blog/mini-smart-plug-v2-vulnerability-buffer-overflow/, IoT
 - https://web.archive.org/web/20230515045300/https://www.kaytaq.com/uncategorized/bypassing-open-redirect-protection-site-wide-on-web2py-applications/, Open-redirect
 - https://the-deniss.github.io/posts/avast-privileged-arbitrary-file-create-on-restore/, TOCTOU
 - https://claroty.com/team82/research/triple-threat-breaking-teltonika-routers-three-ways, IoT
@@ -2533,7 +2532,6 @@
 - https://www.ehpus.com/post/ssti-in-google-maps, SSTI
 - https://saugatpokharel.medium.com/this-is-how-i-was-able-to-view-anyones-private-email-and-birthday-on-instagram-1469f44b842b, Information-disclosure
 - https://vivekps143.medium.com/facebook-bug-bounty-finding-the-hidden-members-of-the-private-events-977dc1784ff9, Information-disclosure
-- https://web.archive.org/web/20210123173946/https://protector47.medium.com/worth-1-500-idor-access-unauthorize-data-52604aec99, IDOR
 - https://galnagli.com/Samsung_Exposure/, Information-disclosure
 - https://virdoexhunter.medium.com/misconfigured-s3-bucket-leads-to-sensitive-data-exposure-no-super-controls-f47e26b586c6, AWS-misconfiguration
 - https://marxchryz.medium.com/my-bug-bounty-journey-and-my-first-critical-bug-time-based-blind-sql-injection-aa91d8276e41, SQL-injection
@@ -2681,7 +2679,6 @@
 - https://dreamlab.net/en/blog/post/dropbox-escalation-of-privileges-to-system-on-windows-1/, Local-Privilege-Escalation
 - https://medium.com/@0x48piraj/res-block-extension-resources-block-attack-on-chromes-incognito-mode-3a5ae8131142, Browser-hacking
 - https://blog.long.lat/2020/09/16/exploiting-a-useless-cookie-based-xss-and-making-it-useful/, XSS
-- https://medium.com/bugbountywriteup/how-i-accidentally-got-my-first-bounty-from-facebook-facebook-bug-bounty-2020-c12bd2ad8575, Logic-flaw
 - https://initblog.com/2020/firefox-android/, Insecure-intent
 - https://medium.com/@bhavarth33/how-i-was-able-to-takeover-any-account-by-otp-bypass-bba698a725f, OTP-bypass
 - https://medium.com/@shahjerry33/sql-injection-remote-code-execution-double-p1-6038ca88a2ec, SQL-injection
@@ -3342,7 +3339,6 @@
 - https://medium.com/@lokeshdlk77/csrf-email-confirmation-vulnerability-for-gmail-g-suite-in-facebook-5ab551a0a526, CSRF
 - https://medium.com/@saadahmedx/bypass-csrf-with-clickjacking-worth-1250-6c70cc263f40, CSRF
 - https://medium.com/bugbountywriteup/what-do-netcat-smtp-and-self-xss-have-in-common-stored-xss-a05648b72002, Stored-XSS
-- https://medium.com/bugbountywriteup/wrong-swipe-tinder-29fe1eb0203c, Information-disclosure
 - https://medium.com/@0x01devansh/facebook-bug-sending-messages-as-a-page-with-jobmanager-permission-763dc0d8e32c, Authorization-flaw
 - https://thezerohack.com/hack-any-instagram, Race-condition
 - https://samcurry.net/cracking-my-windshield-and-earning-10000-on-the-tesla-bug-bounty-program/, Blind-XSS
@@ -3659,7 +3655,6 @@
 - https://mike-n1.github.io/Chain_XSS, DOM-XSS
 - http://blog.h4rsh4d.com/2018/03/olx-reflected-xss-on-resend-code-link.html, Reflected-XSS
 - https://apapedulimu.click/clickjacking-on-google-myaccount-worth-7500/, Clickjacking
-- https://blog.zimperium.com/cve-2018-9539-use-free-vulnerability-privileged-android-service/, Memory-corruption
 - https://medium.com/@rohitcoder/object-name-exposure-ing-bank-responsible-disclosure-program-1f8f808cc789, Information-disclosure
 - https://medium.com/bugbountywriteup/how-i-earned-5040-from-twitter-by-showing-a-way-to-harvest-other-users-ip-address-e9f43c931e9a, Information-disclosure
 - https://medium.com/@prial261/vine-users-private-information-disclosure-f1c55a3abbb6, IDOR

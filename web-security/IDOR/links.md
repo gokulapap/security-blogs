@@ -89,3 +89,4 @@
 - https://medium.com/@varmaanu001/hacktoberfest2k21-vulnerability-how-users-metadata-can-be-changed-via-auth-jwt-tokens-leaking-from-3028f8ad6991
 - https://www.pentagrid.ch/de/blog/viseca-expense-credit-card-statement-disclosure/
 - https://medium.com/pentesternepal/access-control-worth-2000-everyone-missed-this-idor-access-control-between-two-admins-9745eaf15d21
+- https://web.archive.org/web/20210123173946/https://protector47.medium.com/worth-1-500-idor-access-unauthorize-data-52604aec99

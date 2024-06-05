@@ -84,3 +84,4 @@
 - https://thexssrat.medium.com/how-i-found-my-first-critical-vulnerability-in-bug-bounties-f890d420764b
 - https://ysamm.com/?p=437
 - https://medium.com/@noobieboy1337/how-i-got-7000-in-bug-bounty-for-my-critical-finding-99326d2cc1ce
+- https://medium.com/bugbountywriteup/wrong-swipe-tinder-29fe1eb0203c

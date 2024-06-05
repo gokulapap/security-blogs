@@ -63,3 +63,4 @@
 - https://medium.com/@unurbayar1998/facebook-portals-business-logic-error-lead-to-500-708e91b4055f
 - https://medium.com/@gopalsingh/bypassing-how-i-hacked-googles-bug-tracking-system-itself-for-15-600-in-bounties-16134466ab15
 - https://www.seekurity.com/blog/general/facebook-movies-recommendation-bug/
+- https://medium.com/bugbountywriteup/how-i-accidentally-got-my-first-bounty-from-facebook-facebook-bug-bounty-2020-c12bd2ad8575

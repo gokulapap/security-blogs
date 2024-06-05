@@ -1,0 +1,1 @@
+- https://sternumiot.com/iot-blog/mini-smart-plug-v2-vulnerability-buffer-overflow/
