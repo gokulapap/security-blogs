@@ -2661,7 +2661,6 @@
 - https://medium.com/bugbountywriteup/pii-leakage-via-idor-weak-passwordreset-full-account-takeover-58d159f88d73, IDOR
 - https://medium.com/@mohamed.elbadry/dangling-dns-aws-ec2-e2d801701e8, Dangling-DNS-records
 - https://blog.khonggianmang.vn/vmware-workstation-attack-surface-through-virtual-printer/, Memory-corruption
-- https://medium.com/@haxor8595/bugbounty-how-i-was-able-to-see-other-users-payments-in-a-travel-application-idor-800-2060db62cbbe, IDOR
 - https://medium.com/bugbountywriteup/fun-with-header-and-forget-password-without-that-nasty-twist-cbf45e5cc8db, HTTP-header-injection
 - https://medium.com/bugbountywriteup/business-logic-flaw-in-google-acquisition-hall-of-fame-1a9af5d3ac04, Logic-flaw
 - https://vulnerable.af/posts/suphp-ghost-in-your-shell/, Local-Privilege-Escalation
@@ -3141,7 +3140,6 @@
 - https://web.archive.org/web/20200320111950/https://medium.com/@sainttobs/csrf-token-bypasss-a-tale-of-my-2k-bug-ff7f51166ea1, CSRF
 - https://www.hackerfactor.com/blog/index.php?/archives/862-reCAPTCHA-Exploits.html, Captcha-bypass
 - https://medium.com/bugbountywriteup/from-broken-link-to-sub-folder-takeover-on-bukalapak-3aa985e622c4, AWS-misconfiguration
-- https://medium.com/@vbharad/2-fa-bypass-via-csrf-attack-8f2f6a6e3871, MFA-bypass
 - https://medium.com/@vbharad/full-account-takeover-android-application-78fa922f78c5, Information-disclosure
 - https://medium.com/@abhishake100/bypassing-captcha-17c59d37f459, Captcha-bypass
 - https://medium.com/@nanda_kumar/bugbounty-how-snapdeal-indias-popular-e-commerce-website-kept-their-user-data-at-risk-3d02b4092d9c, Insecure-storage-of-sensitive-information
@@ -3280,7 +3278,6 @@
 - https://blog.usejournal.com/graphql-bug-to-steal-anyones-address-fc34f0374417, Information-disclosure
 - https://medium.com/@bathinivijaysimhareddy/shodan-is-your-friend-if-you-lose-him-you-will-lose-many-657d07472f75, SQL-injection
 - https://medium.com/@Skylinearafat/how-to-look-for-js-files-vulnerability-for-fun-and-profit-78bfdfbd6731, Information-disclosure
-- https://omespino.com/write-up-private-bug-bounty-usd-rce-as-root-on-marathon-instance/, RCE
 - https://robinverton.de/blog/2019/08/25/bug-bounty-bypassing-a-crappy-waf-to-exploit-a-blind-sql-injection/, Blind-SQL-injection
 - https://philippeharewood.com/create-living-room-polls-as-a-facebook-page-analyst/, Authorization-flaw
 - https://addictivehackers.blogspot.com/2019/08/from-github-recon-to-account-takeover.html, Information-disclosure
@@ -3813,7 +3810,6 @@
 - https://secreltyhiddenwriteups.blogspot.com/2018/07/gsuite-hangouts-chat-5k-idor.html, IDOR
 - https://medium.com/@jonathanbouman/persistent-xss-at-ah-nl-198fe7b4c781, Stored-XSS
 - https://medium.com/@logicbomb_1/bugbounty-compromising-user-account-how-i-was-able-to-compromise-user-account-via-http-4288068b901f, HTTP-parameter-pollution
-- https://www.linkedin.com/feed/update/urn:li:activity:6421357227923337216, SSRF
 - https://hateshape.github.io/general/2018/07/05/CVE-2016-3473.html, XXE
 - https://medium.com/bugbountywriteup/latex-to-rce-private-bug-bounty-program-6a0b5b33d26a, RCE
 - https://www.nahamsec.com/posts/chaining-multiple-vulnerabilities-to-gain-admin-access, IDOR
@@ -3991,7 +3987,6 @@
 - https://blog.intothesymmetry.com/2017/10/slack-saml-authentication-bypass.html, Authentication-bypass
 - https://medium.com/@th3g3nt3l/how-i-found-an-ssrf-in-yahoo-guesthouse-recon-wins-8722672e41d4, SSRF
 - https://kciredor.com/taking-over-every-ad-on-olx-automated-an-idor-story.html, IDOR
-- https://medium.com/@neerajedwards/how-i-hacked-all-the-redact-agents-accounts-ec165b7c514a, Default-credentials
 - https://medium.com/@neerajedwards/reading-internal-files-using-ssrf-vulnerability-703c5706eefb, SSRF
 - https://web.archive.org/web/20180704183048/http://stamone-bug-bounty.blogspot.com/2017/10/dom-xss-auth_14.html, DOM-XSS
 - https://medium.com/bugbountywriteup/how-i-was-able-to-see-someones-all-private-files-with-a-single-file-share-link-through-atom-feed-7cde46d7e84d, Information-disclosure

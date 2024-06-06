@@ -102,3 +102,4 @@
 - https://devco.re/blog/2022/03/28/your-NAS-is-not-your-NAS-en/
 - https://ysamm.com/?p=280
 - https://medium.com/@win3zz/remote-command-execution-in-a-bank-server-b213f9f42afe
+- https://omespino.com/write-up-private-bug-bounty-usd-rce-as-root-on-marathon-instance/

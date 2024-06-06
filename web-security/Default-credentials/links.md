@@ -6,3 +6,4 @@
 - https://infosecwriteups.com/domain-admin-compromise-in-3-hours-5778902604c9
 - https://www.synack.com/blog/default-credentials-still-a-problem-today/
 - https://medium.com/@heinthantzin/a-simple-post-auth-bypass-leads-to-unauthorized-web-server-access-483c053c110e
+- https://medium.com/@neerajedwards/how-i-hacked-all-the-redact-agents-accounts-ec165b7c514a
