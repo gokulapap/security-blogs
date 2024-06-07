@@ -91,3 +91,4 @@
 - https://medium.com/pentesternepal/access-control-worth-2000-everyone-missed-this-idor-access-control-between-two-admins-9745eaf15d21
 - https://web.archive.org/web/20210123173946/https://protector47.medium.com/worth-1-500-idor-access-unauthorize-data-52604aec99
 - https://medium.com/@haxor8595/bugbounty-how-i-was-able-to-see-other-users-payments-in-a-travel-application-idor-800-2060db62cbbe
+- https://medium.com/@vneelam609/a-simple-idor-which-should-not-be-missed-on-dating-site-c500cba8e6c3

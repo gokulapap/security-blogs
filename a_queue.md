@@ -171,7 +171,6 @@
 - https://medium.com/@ltsirkov/netflix-bypassing-multi-factor-authentication-mfa-53135c9d6d50, bypass
 - https://medium.com/@harish_nataraj/making-api-bug-bounties-a-breeze-bf6443db5b37, api
 - https://medium.com/@inforkgodara/xss-vulnerability-attacks-a3bfeb724be0, XSS
-- https://medium.com/@ryuukhagetsu/price-parameter-tampering-how-i-change-any-price-on-website-dec511c499cf, parameter
 - https://medium.com/@theredteamer/tesla-paid-me-10-000-because-of-directory-indexing-c1be06c77a3e, journey
 - https://medium.com/@renganathanofficial/business-logic-error-leads-to-watching-a-standup-comedy-show-for-free-4300aeb714dc, business-logic
 - https://medium.com/@evilox/testing-and-bypassing-technique-for-idor-9ee03f28f4e1, IDOR
@@ -754,7 +753,6 @@
 - https://medium.com/@sudipshah_66336/disclosing-facebook-page-admins-by-playing-a-game-2b0f4ed082e4, Logic-flaw
 - https://github.blog/2023-01-27-bypassing-ognl-sandboxes-for-fun-and-charities/, OGNL-injection
 - https://www.sonarsource.com/blog/openemr-remote-code-execution-in-your-healthcare-system/, RCE
-- https://www.rtcsec.com/article/kamailio-exec-module-considered-harmful/, OS-command-injection
 - https://www.akamai.com/blog/security-research/exploiting-critical-spoofing-vulnerability-microsoft-cryptoapi, Windows
 - https://swarm.ptsecurity.com/mybb-1-8-31-remote-code-execution-chain/, RCE
 - https://medium.com/@_deshine_/easy-2000-race-condition-b4d093c9bc3c, Race-condition
@@ -1817,7 +1815,6 @@
 - https://servicenger.com/mobile/idor-add-or-remove-the-linked-publications-from-author-publisher-settings-facebook-bug-bounty/, IDOR
 - https://amakki.me/full-account-takeover-vulnerability-in-minecraft-f56076c8287d, Account-takeover
 - https://medium.com/@taniyatesting11/bounty-evaluation-github-15-000-us-dollars-rate-limit-d6c07d73c948, Bruteforce
-- https://rezer0dai.github.io/biug-bounties/, RCE
 - https://sharmajijvs.medium.com/xss-via-file-upload-a2bcc1e5d7f7, XSS
 - https://infosecwriteups.com/how-i-bypassed-netflix-profile-lock-43901be1307c, Logic-flaw
 - https://3bodymo.medium.com/xss-through-image-proxy-using-svg-image-49cdf955cf4f, XSS
@@ -2773,7 +2770,6 @@
 - https://tolo7010note.blogspot.com/2020/07/an-unreproducable-bug-due-to-load.html, Open-redirect
 - https://shivangx01b.github.io/2fa_bypass/, MFA-bypass
 - https://medium.com/@airlanggamurthi/obtained-a-bunch-of-sensitive-data-in-just-few-steps-hacking-1a474200a8c2, AWS-misconfiguration
-- https://medium.com/@vneelam609/a-simple-idor-which-should-not-be-missed-on-dating-site-c500cba8e6c3, IDOR
 - https://medium.com/bugbountywriteup/dns-rebinding-the-treacherous-attack-it-can-be-b367c61b4372, DNS-rebinding
 - https://medium.com/@vneelam609/5000-account-takeover-bf7749746981, Account-takeover
 - https://medium.com/@shahjerry33/http-parameter-pollution-its-contaminated-85edc0805654, HTTP-parameter-pollution
@@ -2988,7 +2984,6 @@
 - https://medium.com/@afolicdaralee/hacking-a-telecommunication-company-mtn-c46696451fed, OTP-bypass
 - https://medium.com/bugbountywriteup/how-i-unlocked-the-blocked-accounts-545e9b7d7be1, Password-reset
 - https://blog.doyensec.com/2020/04/08/libressl-fuzzer.html, Memory-corruption
-- https://web.archive.org/web/20200601005729/https://vict0ni.me/unrestricted-file-upload-on-pdf/, Unrestricted-file-upload
 - https://medium.com/@D0rkerDevil/3k-bounty-for-elastic-search-takeover-70c0847d2e40, Elasticsearch-Takeover
 - https://www.rtcsec.com/2020/04/01-slack-webrtc-turn-compromise/, SSRF
 - https://web.archive.org/web/20200407121700/https://medium.com/nassec-cybersecurity-writeups/page-admin-disclosure-facebook-bug-bounty-2020-8a45cf911e24, Information-disclosure
