@@ -34,3 +34,4 @@
 - https://medium.com/bug-bounty-hunting/google-assistant-bug-worth-3133-7-830a03724a04
 - https://www.ukusormus.com/bypassing-cloudflare-waf-xss-via-sql-injection/
 - https://sl4x0.medium.com/how-i-found-xss-on-admin-page-without-login-fe165a5f89c2
+- https://ysamm.com/?p=343

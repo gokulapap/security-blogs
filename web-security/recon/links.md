@@ -2,3 +2,4 @@
 - https://medium.com/@mrummanhasan/scanning-methodology-a-practical-guide-1b0b7686fb89
 - https://medium.com/@aswinthambipanik07/bug-bounty-recon-part-1-dad7f86d1b0f
 - https://medium.com/@vflexo/the-ultimate-recon-book-d201d722db64
+- https://medium.com/@vamshivaran110/fuzzing-with-custom-wordlists-bb7a808d943f

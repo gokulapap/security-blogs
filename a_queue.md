@@ -52,7 +52,6 @@
 - https://medium.com/@techkalam/execute-mongo-shell-commands-in-javascript-file-862dcf45aad6, tricks
 - https://medium.com/@sandh0t/the-bad-twin-a-peculiar-case-of-jwt-exploitation-scenario-1efa03e891c0, JWT
 - https://medium.com/@sahandami/find-xss-in-wide-scope-with-kxss-91f9573883c4, XSS
-- https://medium.com/@vamshivaran110/fuzzing-with-custom-wordlists-bb7a808d943f, recon
 - https://medium.com/@sushantdhopat/how-i-able-to-perform-open-redirection-lead-to-full-account-takeover-6a624210c5e0, open-redirection
 - https://medium.com/@musab_alharany/10-ways-to-exploit-json-web-token-jwt-ac5f4efbc41b, JWT
 - https://medium.com/@0xm5awy/how-to-find-business-logics-and-broken-access-control-bugs-a31c1a03ced4, BAC
@@ -792,7 +791,6 @@
 - https://blog.geekycat.in/xss-using-postmessage-in-google-cloud-theia-notebooks/, XSS
 - https://blog.paradoxis.nl/yafpc-unauthenticated-remote-code-execution-755bf9e4d7c1, Authentication-bypass
 - https://infosecwriteups.com/how-browsers-save-as-feature-might-lead-to-code-execution-cve-2022-45415-ebaa8711692, RCE
-- https://medium.com/@cachemoney/exploiting-application-logic-to-phish-internal-mailing-lists-486b94fc2ef1, Phishing
 - https://googleprojectzero.blogspot.com/2023/01/der-entitlements-brief-return-of.html, iOS
 - https://blog.geekycat.in/client-side-ssrf-to-google-cloud-project-takeover/, SSRF
 - https://www.imperva.com/blog/google-chrome-symstealer-vulnerability/, Local-Privilege-Escalation
@@ -1138,7 +1136,6 @@
 - https://thinkloveshare.com/hacking/preauth_remote_code_execution_web_page_test/, RCE
 - https://terjanq.medium.com/waf-bypasses-via-0days-d4ef1f212ec, WAF-bypass
 - https://nmochea.medium.com/arbitrary-file-corruption-end-to-end-encrypted-messaging-application-674963dceef8, Insecure-intent
-- https://medium.com/@digant_15/my-first-valid-bug-bypass-the-admin-panel-e859e72a1b7d, Authentication-bypass
 - https://medium.com/@AvyuktSyrine/my-first-xss-d88ee864df82, Open-redirect
 - https://www.form3.tech/engineering/content/exploiting-distroless-images, Command-injection
 - https://frycos.github.io/vulns4free/2022/09/22/skype-audit-part1.html, Local-Privilege-Escalation
@@ -3165,7 +3162,6 @@
 - https://medium.com/bugbountywriteup/dank-writeup-on-broken-access-control-on-an-indian-startup-d29132a1ecd, Unrestricted-file-upload
 - https://rez0.blog/hacking/2019/11/29/rce-via-imagetragick.html, RCE
 - https://web.archive.org/web/20211106053748/https://eng.getwisdom.io/hacking-github-with-unicode-dotless-i/, Logic-flaw
-- https://ysamm.com/?p=343, Reflected-XSS
 - https://lf.lc/vrp/145304705/, Site-Isolation-bypass
 - https://pastebin.com/E6LMFm2w, HTTP-request-smuggling
 - https://medium.com/@tristanfarkas/finding-a-security-bug-in-discord-and-what-it-taught-me-516cda561295, OAuth
@@ -4116,7 +4112,6 @@
 - https://blog.zsec.uk/gif-time-pornhub/, XSS
 - https://blog.evanricafort.com/2016/09/xss-vulnerability-in-twitter.html, XSS
 - https://blog.zsec.uk/persisting-pornhub/, Stored-XSS
-- https://medium.com/@know.0nix/link-injection-manipulation-at-admin-google-com-6da3b15a2854, Hyperlink-injection
 - https://ahussam.me/Vine-Reauth-Bypass, Authentication-flaw
 - https://github.com/cymtrick/lol/blob/d17ed765129b26a1bf8060757e5aebd4e237c908/_posts/2016-09-20-Facebook-partners-CSRF.md, CSRF
 - http://blog.rakeshmane.com/2016/09/bug-bounty-account-takeover.html, OAuth

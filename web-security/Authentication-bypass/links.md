@@ -18,3 +18,4 @@
 - https://ssd-disclosure.com/ssd-advisory-netgear-dgnd3700v2-preauth-root-access/
 - https://artkond.com/2018/10/10/symantec-authentication-bypass/
 - https://www.zerodayinitiative.com/blog/2021/8/30/proxytoken-an-authentication-bypass-in-microsoft-exchange-server
+- https://medium.com/@digant_15/my-first-valid-bug-bypass-the-admin-panel-e859e72a1b7d

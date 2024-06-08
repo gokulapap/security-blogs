@@ -1,1 +1,2 @@
 - https://posts.specterops.io/less-smartscreen-more-caffeine-ab-using-clickonce-for-trusted-code-execution-1446ea8051c5
+- https://medium.com/@cachemoney/exploiting-application-logic-to-phish-internal-mailing-lists-486b94fc2ef1
