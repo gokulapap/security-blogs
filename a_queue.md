@@ -1079,7 +1079,6 @@
 - https://blog.aquasec.com/private-packages-disclosed-via-timing-attack-on-npm, Timing-attack
 - https://abdelhameedghazy.medium.com/broken-access-control-leads-to-full-team-takeover-and-privilege-escalation-6f50174f29ce, Broken-Access-Control
 - https://cyberlix.io/breaking-parser-logic-gain-access-to-nginx-plus-api-read-write-upstreams/, Path-traversal
-- https://www.intruder.io/research/in-guid-we-trust, IDOR
 - https://www.akamai.com/blog/security-research/cold-hard-cache-bypassing-rpc-with-cache-abuse, Privilege-escalation
 - https://blog.yeswehack.com/yeswerhackers/web-application-firewall-bypass/, WAF-bypass
 - https://www.oxeye.io/blog/vm2-sandbreak-vulnerability-cve-2022-36067, RCE
@@ -1207,7 +1206,6 @@
 - https://zolder.io/hacking-my-helium-crypto-miner/, Hardcoded-credentials
 - https://ssd-disclosure.com/ssd-advisory-linux-config_watch_queue-lpe/, Memory-corruption
 - https://blog.silentsignal.eu/2022/09/05/simple-ibm-i-as-400-hacking/, Local-Privilege-Escalation
-- https://vvx7.io/posts/2022/09/your-amiibos-haunted/, Memory-corruption
 - https://medium.com/@0x0Asif/how-i-found-my-first-rce-8f8033883dc4, IDOR
 - https://nokline.github.io/bugbounty/2022/09/02/Glassdoor-Cache-Poisoning.html, Web-cache-poisoning
 - https://mr23r0.medium.com/the-database-handover-a-dumb-mistake-critical-bug-f73c99e72e40, Information-disclosure
@@ -1739,7 +1737,6 @@
 - https://medium.com/@damaidec/idor-vulnerability-on-invoice-and-weak-password-reset-leads-to-account-take-over-603b42143a8c, IDOR
 - https://www.zerodayinitiative.com/blog/2022/2/1/cve-2021-44142-details-on-a-samba-code-execution-bug-demonstrated-at-pwn2own-austin, Memory-corruption
 - https://systemweakness.com/a-peculiar-case-of-xss-and-my-first-bug-19f2132390b6, XSS
-- https://medium.com/@emil.lerner/leaking-uninitialized-memory-from-fastly-83327bcbee1f, HTTP3
 - https://hetroublemakr.medium.com/how-i-approached-dependency-confusion-272b46f66907, Dependency-confusion
 - https://github.com/httpvoid/writeups/blob/main/Hacking-Google-Drive-Integrations.md, SSRF
 - https://www.offensive-security.com/offsec/microsoft-onedrive-macos-local-privesc/, Local-Privilege-Escalation
@@ -1809,7 +1806,6 @@
 - https://www.seblu.de/2021/12/iap-bypass.html, Authorization-flaw
 - https://medium.com/@sam0-0/how-i-am-able-to-crash-anyones-mozilla-firefox-browser-by-sending-an-email-a12563cc8d79, DoS
 - https://ndevtk.github.io/writeups/2021/12/30/cloud-shell-xss/, XSS
-- https://servicenger.com/mobile/idor-add-or-remove-the-linked-publications-from-author-publisher-settings-facebook-bug-bounty/, IDOR
 - https://amakki.me/full-account-takeover-vulnerability-in-minecraft-f56076c8287d, Account-takeover
 - https://medium.com/@taniyatesting11/bounty-evaluation-github-15-000-us-dollars-rate-limit-d6c07d73c948, Bruteforce
 - https://sharmajijvs.medium.com/xss-via-file-upload-a2bcc1e5d7f7, XSS
@@ -3130,7 +3126,6 @@
 - https://jinone.github.io/bugbounty-a-dom-xss/, DOM-XSS
 - https://medium.com/bugbountywriteup/graphql-idor-leads-to-information-disclosure-175eb560170d, IDOR
 - https://web.archive.org/web/20200320111950/https://medium.com/@sainttobs/csrf-token-bypasss-a-tale-of-my-2k-bug-ff7f51166ea1, CSRF
-- https://www.hackerfactor.com/blog/index.php?/archives/862-reCAPTCHA-Exploits.html, Captcha-bypass
 - https://medium.com/bugbountywriteup/from-broken-link-to-sub-folder-takeover-on-bukalapak-3aa985e622c4, AWS-misconfiguration
 - https://medium.com/@vbharad/full-account-takeover-android-application-78fa922f78c5, Information-disclosure
 - https://medium.com/@abhishake100/bypassing-captcha-17c59d37f459, Captcha-bypass
