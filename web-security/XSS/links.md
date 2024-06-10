@@ -101,3 +101,5 @@
 - https://nmochea.medium.com/xiaomi-arbitrary-javascript-vulnerability-327a6f3a9b0e
 - https://payatu.com/blog/nikhil-mittal/executing-scripts-in-safari-reader-mode--to-csp-bypass
 - https://medium.com/bugbountywriteup/unicode-vs-waf-xss-waf-bypass-128cd9972a30
+- https://omespino.com/write-up-xss-stored-in-files-slack-com-via-xml-svg-file-ios-1000-usd/
+- https://medium.com/@nakah_/an-amazing-way-to-turn-a-xss-into-an-ato-40bc92772195

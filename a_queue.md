@@ -816,7 +816,6 @@
 - https://servicenger.com/mobile/instagram-vulnerability-turn-off-message-requests-deeplink/, Insecure-deeplink
 - https://kailashbohara.com.np/blog/2023/01/02/exploiting-thousands-of-domains-for-XSS/, XSS
 - https://yaseenzubair.medium.com/web-cache-poisoning-worth-it-e7c6d88797b1, Web-cache-poisoning
-- https://medium.com/@nakah_/an-amazing-way-to-turn-a-xss-into-an-ato-40bc92772195, XSS
 - https://0xlittlespidy.medium.com/indias-aadhar-card-source-code-disclosure-via-exposed-svn-wc-db-c05519ea7761, Source-code-disclosure
 - https://medium.com/@querylab/bypass-premium-account-payment-getpocket-d813b249687c, Payment-bypass
 - https://medium.com/@mohammed01550038865/hello-hackers-a229fb5c821b, Blind-XSS
@@ -1309,7 +1308,6 @@
 - https://canmustdie.medium.com/multiple-bugs-in-one-program-leads-to-1500-c35fcde06bc7, Privilege-escalation
 - https://medium.com/@seeu-inspace/how-i-earned-500-by-uploading-a-file-write-up-of-one-of-my-first-bug-bounty-c174cf8ea553, Unrestricted-file-upload
 - https://medium.com/@the_null_kid/instagram-photo-was-present-in-data-backup-nearly-after-two-years-being-deleted-f0e4d6e108, Privacy-issue
-- https://infosecwriteups.com/stored-xss-to-account-takeover-going-beyond-document-cookie-970e42362f43, Stored-XSS
 - https://gowtham-naidu.medium.com/how-i-earned-10-000-within-the-last-7-months-17y-o-edition-f566651cef82, Authorization-flaw
 - https://www.zscaler.com/blogs/security-research/analysis-adobe-acrobat-reader-javascript-docprint-use-after-free, Memory-corruption
 - https://medium.com/@mohamedtarekq/how-i-get-full-account-takeover-via-stealing-actions-login-form-xss-9e50068c2b2d, XSS
@@ -1845,7 +1843,6 @@
 - https://pathleax.medium.com/this-is-how-i-was-able-to-see-and-delete-your-private-facebook-portal-photos-a93ed22f875b, IDOR
 - https://infosecwriteups.com/how-i-hacked-yandex-with-ssrf-vulnerability-e19af20ed4d, SSRF
 - https://pawanchhabria.medium.com/how-i-accessed-the-sensitive-document-which-i-had-already-deleted-adbc1e6fbb25, Privacy-issue
-- https://omespino.com/write-up-xss-stored-in-files-slack-com-via-xml-svg-file-ios-1000-usd/, XSS
 - https://www.yesnaveen.com/Instagram-ad-account-disclosure, Information-disclosure
 - https://www.varonis.com/blog/box-mfa-bypass-totp/, OTP-bypass
 - https://blog.lightspin.io/aws-sagemaker-notebook-takeover-vulnerability, Self-XSS
@@ -2675,7 +2672,6 @@
 - https://blog.orange.tw/2020/09/how-i-hacked-facebook-again-mobileiron-mdm-rce.html, RCE
 - https://alesandroortiz.com/articles/uxss-android-webview-cve-2020-6506/, Universal-XSS
 - https://www.ehpus.com/post/xss-fix-bypass-10000-bounty-in-google-maps, XSS
-- https://blog.dixitaditya.com/from-android-app-to-rce/, RCE
 - https://infosecwriteups.com/how-response-manipulation-got-me-a-little-but-sweet-bounty-38b515ca0910, MFA-bypass
 - https://medium.com/@smilehackerofficial/xss-that-can-pay-your-bills-9377eff1fd0d, Reflected-XSS
 - https://web.archive.org/web/20201125190336/https://tox7cv3nom.github.io/2020-08-05-how_i_was_able_to_pawned_website_via_escilating_webcache-deception-to-rce/, Web-cache-deception
@@ -2711,7 +2707,6 @@
 - https://web.archive.org/web/20200819113116/https://medium.com/@godofdarkness.msf/account-takeover-using-re-register-bug-bounty-bda8bb2106e6, Account-takeover
 - https://medium.com/witnet/witnet-network-acknowledged-dos-bug-f7d55b709051, DoS
 - https://web.archive.org/web/20200816192659/https://medium.com/@godofdarkness.msf/influxdb-access-at-redact-8x8-com-1b54976b137, Missing-authentication
-- https://vishwarajbhattrai.wordpress.com/2020/08/16/disclosing-wifi-password-via-content-provider-injection-in-xiaomi/, Content-provider-injection
 - https://medium.com/bugbountywriteup/how-i-was-able-to-send-authentic-emails-as-others-google-vrp-resolved-2af94295f326, Logic-flaw
 - https://medium.com/@vedanttekale20/how-recon-helped-me-to-find-an-interesting-bug-17a2d8cf1778, Open-redirect
 - https://spaceraccoon.dev/open-sesame-escalating-open-redirect-to-rce-with-electron-code-review, Open-redirect
