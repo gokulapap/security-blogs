@@ -105,3 +105,4 @@
 - https://omespino.com/write-up-private-bug-bounty-usd-rce-as-root-on-marathon-instance/
 - https://rezer0dai.github.io/biug-bounties/
 - https://blog.dixitaditya.com/from-android-app-to-rce/
+- https://shahjerry33.medium.com/rce-via-lfi-log-poisoning-the-death-potion-c0831cebc16d

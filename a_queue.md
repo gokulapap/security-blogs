@@ -1660,7 +1660,6 @@
 - https://unit42.paloaltonetworks.com/gke-autopilot-vulnerabilities/, Privilege-escalation
 - https://medium.com/@amnotacat/log4shell-in-google-1337-00-144684269bf8, Log4shell
 - https://medium.com/@mrempy/how-i-managed-to-make-a-ddos-attack-by-exploiting-a-companys-service-bug-bounty-bfd25a178b45, DoS
-- https://github.com/httpvoid/writeups/blob/main/Circumventing-Browser-Security-Mechanisms-For-SSRF.md, SSRF
 - https://orca.security/resources/blog/autowarp-microsoft-azure-automation-service-vulnerability/, Cross-tenant-vulnerability
 - https://medium.com/@sandh0t/the-bad-twin-a-peculiar-case-of-jwt-exploitation-scenario-1efa03e891c0, Account-takeover
 - https://infosecwriteups.com/some-critical-vulnerabilities-found-with-passive-analysis-on-bug-bounty-programs-explained-1da8b01c11ad, Information-disclosure
@@ -2183,7 +2182,6 @@
 - https://youst.in/posts/bypassing-2fa-using-openid-misconfiguration/, MFA-bypass
 - https://0xdekster.medium.com/second-order-race-condition-be8aaf774783, Race-condition
 - https://blog.evanricafort.com/2021/06/2usd-idor-bug-in-redacted.html, IDOR
-- https://www.ehpus.com/post/author-spoofing-in-google-colaboratory, Logic-flaw
 - https://infosecwriteups.com/how-i-was-able-to-bypass-parental-pin-of-showmax-e6d6ec3af92d, Authorization-flaw
 - https://vedanttekale20.medium.com/story-of-my-first-cash-bounty-on-hackerone-acad282ae962, SSRF
 - https://batee5a.medium.com/shopify-multipass-misconfiguration-2bc85e92ad1d, Authentication-flaw
@@ -2539,7 +2537,6 @@
 - https://github.com/oskarsve/ms-teams-rce, RCE
 - https://medium.com/@vedanttekale20/story-of-the-best-vulnerability-ive-found-so-far-5e3b0e02b47e, Self-XSS
 - https://blog.evanricafort.com/2020/12/cve-2019-17674-wordpress-stored-xss.html, Stored-XSS
-- https://shahjerry33.medium.com/rce-via-lfi-log-poisoning-the-death-potion-c0831cebc16d, RCE
 - https://nmochea.medium.com/this-post-is-about-an-reflected-xss-that-i-found-on-opera-browser-application-which-could-have-been-39823a22045d, XSS
 - https://amineaboud.medium.com/10000-facebook-ssrf-bug-bounty-402bd21e58e5, SSRF
 - https://komradz86.medium.com/leaking-credit-card-activity-in-logs-yes-sir-b988bb6c0c2, Information-disclosure
@@ -2663,7 +2660,6 @@
 - https://supras.io/reflected-xss-via-a-hidden-parameter-on-dutch-gov-website/, Reflected-XSS
 - https://medium.com/@novan.rmd/my-first-bug-bounty-from-bug-bounty-platform-redstorm-io-50958f6adc90, CSRF
 - https://dreamlab.net/en/blog/post/dropbox-escalation-of-privileges-to-system-on-windows-1/, Local-Privilege-Escalation
-- https://medium.com/@0x48piraj/res-block-extension-resources-block-attack-on-chromes-incognito-mode-3a5ae8131142, Browser-hacking
 - https://blog.long.lat/2020/09/16/exploiting-a-useless-cookie-based-xss-and-making-it-useful/, XSS
 - https://initblog.com/2020/firefox-android/, Insecure-intent
 - https://medium.com/@bhavarth33/how-i-was-able-to-takeover-any-account-by-otp-bypass-bba698a725f, OTP-bypass
@@ -3064,7 +3060,6 @@
 - https://web.archive.org/web/20200305081812/https://0xatul.github.io/posts/2020/02/external-xml-entity-via-file-upload-svg/, XXE
 - https://www.amolbaikar.com/determine-users-with-detailed-role-model-on-behalf-of-any-facebook-application/, IDOR
 - https://web.archive.org/web/20200223073527/https://victoni.github.io/changing-userID-leads-to-data-leak/, IDOR
-- https://web.archive.org/web/20200225040957/https://medium.com/@godofdarkness.msf/google-apis-clickjacking-1337-7a3a9f3eb8df, Clickjacking
 - https://fellchase.blogspot.com/2020/02/site-wide-csrf-on-popular-program.html, CSRF
 - https://www.contrastsecurity.com/security-influencers/i-made-600-with-contrast-ce-cve-2019-8442, Information-disclosure
 - https://flex0geek.blogspot.com/2020/02/using-csrf-i-got-weird-account-takeover.html, CSRF

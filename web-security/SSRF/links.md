@@ -57,3 +57,4 @@
 - http://10degres.net/aws-takeover-through-ssrf-in-javascript/
 - https://logicbomb.medium.com/a-bug-worth-1-75lacs-aws-ssrf-to-rce-8d43d5fda899
 - https://www.linkedin.com/feed/update/urn:li:activity:6421357227923337216
+- https://github.com/httpvoid/writeups/blob/main/Circumventing-Browser-Security-Mechanisms-For-SSRF.md
