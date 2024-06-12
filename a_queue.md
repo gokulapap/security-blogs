@@ -120,7 +120,6 @@
 - https://medium.com/@popalltheshells/domain-admin-compromise-in-3-hours-5778902604c9, misc
 - https://medium.com/@sivasimha/unrestricted-file-upload-cloud-fare-bypass-12867b65de3a, file-upload
 - https://medium.com/@adamjsturge/mx-takeovers-automated-subdomain-takeover-64e658fc4fb7, automation
-- https://medium.com/@corneacristian/top-25-rce-bug-bounty-reports-bc9555cca7bc, RCE
 - https://medium.com/@deepamkumar510/parameter-tampering-842ef9355943, parameter
 - https://medium.com/@pingsec/interesting-account-takeover-bugs-619df8466ca0, ATO
 - https://medium.com/@vickieli/are-csrfs-still-a-thing-7e16c09c951a, csrf
@@ -447,7 +446,6 @@
 - https://ssd-disclosure.com/ssd-advisory-keriocontrol-remote-code-execution/, RCE
 - https://www.cloudquery.io/blog/aws-priv-esc-identity-center, Privilege-escalation
 - https://ophionsecurity.com/blog/placeholder-for-dayzzz, SSTI
-- https://blog.scrt.ch/2023/05/01/solr-rce-from-exposed-administration-interface/, RCE
 - https://pulsesecurity.co.nz/advisories/Azure-Devops-Command-Injection, CICD
 - https://infosecwriteups.com/unauthorized-access-to-the-admin-panel-via-leaked-credentials-on-the-waybackmachine-55c3307141c6, Information-disclosure
 - https://medium.com/@lopseg/bug-bounty-writeup-stored-xss-vulnerability-waf-bypass-f38aae7ff9eb, Stored-XSS
@@ -1279,7 +1277,6 @@
 - https://sagarsajeev.medium.com/file-upload-bypass-to-rce-76991b47ad8f, Unrestricted-file-upload
 - https://medium.com/@iknowhatodo/amazon-cognito-misconfiguration-lead-to-account-takeover-20694243ca40, Account-takeover
 - https://bahruz.me/publications/11844, HTTP-Request-Smuggling
-- https://www.wiz.io/blog/the-cloud-has-an-isolation-problem-postgresql-vulnerabilities, Privilege-escalation
 - https://blog.quarkslab.com/attacking-titan-m-with-only-one-byte.html, Memory-corruption
 - https://gonzx.medium.com/my-experience-on-hacking-the-dutch-government-a2c5a5f43d83, XSS
 - https://www.usenix.org/conference/usenixsecurity22/presentation/zhang-lei, Android
@@ -2389,7 +2386,6 @@
 - https://blog.evanricafort.com/2021/02/hijacking-reset-password-link-in.html, Host-header-injection
 - https://web.archive.org/web/20210227092343/https://tommysuriel.medium.com/csrf-through-url-with-tag-parameter-c8ef585bded3, CSRF
 - https://web-in-security.blogspot.com/2021/02/security-and-privacy-of-social-logins-part2.html, DOM-XSS
-- https://johnjhacking.com/blog/cve-2021-23827/, Unencrypted-storage
 - https://zdresearch.com/rce-on-a-laravel-private-program/, RCE
 - https://neroli.medium.com/is-math-random-safe-from-missing-rate-limit-to-bypass-2fa-and-possible-sqli-2a4ea66f82c5, Race-condition
 - https://ashutoshmishra00x0.medium.com/account-takeover-via-response-manipulation-worth-1800-ffb242cc55c9, Authentication-bypass
@@ -3739,7 +3735,6 @@
 - https://web.archive.org/web/20220309092244/https://s0cket7.com/idor-account-takeover/, IDOR
 - https://sites.google.com/securifyinc.com/secblogs/uber-business-support-bug, Ticket-Trick
 - https://medium.com/@friendly_/xss-at-hubspot-and-xss-in-email-areas-674fa39d5248, XSS
-- https://medium.com/bugbountywriteup/idor-leads-to-getting-access-tokens-of-users-linked-to-google-drive-on-edmodo-3978017134bd, IDOR
 - https://medium.com/@justmorpheus/s3-bucket-misconfiguration-in-amazon-a7da6a6e02ea, AWS-misconfiguration
 - https://medium.com/bugbountywriteup/adminer-script-results-to-pwning-server-private-bug-bounty-program-fe6d8a43fe6f, Authentication-bypass
 - https://www.tutorgeeks.net/2018/08/misconfigured-jira-setting-apigee.html, Information-disclosure

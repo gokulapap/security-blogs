@@ -106,3 +106,5 @@
 - https://rezer0dai.github.io/biug-bounties/
 - https://blog.dixitaditya.com/from-android-app-to-rce/
 - https://shahjerry33.medium.com/rce-via-lfi-log-poisoning-the-death-potion-c0831cebc16d
+- https://medium.com/@corneacristian/top-25-rce-bug-bounty-reports-bc9555cca7bc
+- https://blog.scrt.ch/2023/05/01/solr-rce-from-exposed-administration-interface/

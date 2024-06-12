@@ -11,3 +11,4 @@
 - https://websec.nl/blog/606ecfec2f798a048269340e/dmcacom%20hack%20full%20disclosure%20with%20proof-of-concept
 - https://fortbridge.co.uk/research/multiple-vulnerabilities-in-concrete-cms-part2/
 - https://parasarora06.medium.com/privilege-escalation-from-being-a-normal-user-to-admin-3f86896f1c93
+- https://www.wiz.io/blog/the-cloud-has-an-isolation-problem-postgresql-vulnerabilities
