@@ -85,3 +85,4 @@
 - https://ysamm.com/?p=437
 - https://medium.com/@noobieboy1337/how-i-got-7000-in-bug-bounty-for-my-critical-finding-99326d2cc1ce
 - https://medium.com/bugbountywriteup/wrong-swipe-tinder-29fe1eb0203c
+- https://medium.com/@mohamedtaha_42562/from-wayback-to-account-takeover-ea7e80600188

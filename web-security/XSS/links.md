@@ -103,3 +103,4 @@
 - https://medium.com/bugbountywriteup/unicode-vs-waf-xss-waf-bypass-128cd9972a30
 - https://omespino.com/write-up-xss-stored-in-files-slack-com-via-xml-svg-file-ios-1000-usd/
 - https://medium.com/@nakah_/an-amazing-way-to-turn-a-xss-into-an-ato-40bc92772195
+- https://medium.com/@raymond-lind/finding-reflected-xss-in-a-strange-way-289a4f3fa630

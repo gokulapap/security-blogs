@@ -8,3 +8,4 @@
 - https://hateshape.github.io/general/2021/05/11/CVE-2020-35580.html
 - https://medium.com/@mantissts/arbitrary-file-read-in-one-of-the-largest-crms-658caa2f05d2
 - https://cyberzombie.in/my-first-lfi/
+- https://bugcrowd.com/disclosures/f7ce8504-0152-483b-bbf3-fb9b759f9f89/critical-local-file-read-in-electron-desktop-app

@@ -65,3 +65,4 @@
 - https://www.seekurity.com/blog/general/facebook-movies-recommendation-bug/
 - https://medium.com/bugbountywriteup/how-i-accidentally-got-my-first-bounty-from-facebook-facebook-bug-bounty-2020-c12bd2ad8575
 - https://www.ehpus.com/post/author-spoofing-in-google-colaboratory
+- https://medium.com/@pratheesh.p.narayanan/bypassing-scratch-cards-on-google-pay-8915d5423385

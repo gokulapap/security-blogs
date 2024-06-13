@@ -976,7 +976,6 @@
 - https://theevilbit.github.io/posts/cve-2022-32929/, Local-Privilege-Escalation
 - https://sec-consult.com/vulnerability-lab/advisory/path-traversal-vulnerability-in-payara-platform/, Path-traversal
 - https://medium.com/@jodyritonga/how-i-get-100-in-just-10-minutes-b018b28645ce, Race-condition
-- https://medium.com/@raymond-lind/finding-reflected-xss-in-a-strange-way-289a4f3fa630, XSS
 - https://www.usenix.org/system/files/sec23summer_198-gilsenan-prepub.pdf, Cryptographic-issues
 - https://varmaanu001.medium.com/from-shodan-dork-to-grafana-local-file-inclusion-e77dc4cfc264, LFI
 - https://blog.oversecured.com/Discovering-vendor-specific-vulnerabilities-in-Android/, Android
@@ -1250,7 +1249,6 @@
 - https://www.whiteoaksecurity.com/blog/fishbowl-disclosure-cve-2022-29805/, Insecure-deserialization
 - https://blog.orange.tw/2022/08/lets-dance-in-the-cache-destabilizing-hash-table-on-microsoft-iis.html, DoS
 - https://spaceraccoon.dev/exploiting-icalendar-properties-enterprise-applications/, XSS
-- https://bugcrowd.com/disclosures/f7ce8504-0152-483b-bbf3-fb9b759f9f89/critical-local-file-read-in-electron-desktop-app, LFI
 - https://medium.com/@Dhamuharker/monitoring-linux-host-metrics-with-the-node-exporter-information-disclosure-350-bab3baa75bdc, Information-disclosure
 - https://medium.com/@tobydavenn/dom-xss-on-a-gov-domain-bypassing-waf-93daec67fda9, DOM-XSS
 - https://medium.com/@ashlyn.lau_17206/2fa-bypass-do-re-mi-cfcfc3775d2e, MFA-bypass
@@ -1495,7 +1493,6 @@
 - https://breakpoint.sh/posts/snyk-code-broken-access-control, Path-traversal
 - https://cyllective.com/blog/post/research_audit_wordpress_plugins/, SQL-injection
 - https://blog.bitcrack.net/pwning-portals-error-based-sqli-using-websockets/, SQL-injection
-- https://medium.com/@mohamedtaha_42562/from-wayback-to-account-takeover-ea7e80600188, Information-disclosure
 - https://blog.ret2.io/2022/05/19/pwn2own-2021-parallels-desktop-exploit/, Memory-corruption
 - https://jspin.re/variant-cloud-analysis/, Default-credentials
 - https://evowizz.dev/blog/huawei-appgallery-vulnerability, Payment-bypass
@@ -3221,7 +3218,6 @@
 - https://medium.com/oad-earth/bug-or-feature-github-adventure-001-eae9bea48ae8, OAuth
 - https://medium.com/@hariharan21/stored-xss-on-zendesk-via-macros-part-2-676cefee4616, Stored-XSS
 - https://philippeharewood.com/business-id-leak-via-creative-hub-redirect/, Open-redirect
-- https://www.openbugbounty.org/blog/leonmugen/ssrf-reading-local-files-from-downnotifier-server/, SSRF
 - https://medium.com/@tungpun/client-not-client-aa448cfdedd2, LFI
 - https://medium.com/@jayateerthag/google-referer-leak-bug-434f6293ce66, Referer-leakage
 - https://web.archive.org/web/20200820030055/https://pwnsec.ninja/2019/09/14/how-i-found-a-simple-and-weird-account-takeover-bug/, Account-takeover
@@ -3601,7 +3597,6 @@
 - https://slashcrypto.org/2018/11/28/eBay-source-code-leak/, git-folder-disclosure
 - https://medium.com/@vishnu0002/instagram-multi-factor-authentication-bypass-924d963325a1, MFA-bypass
 - https://www.amolbaikar.com/disclose-contact_email-of-any-facebook-application/, Information-disclosure
-- https://medium.com/@pratheesh.p.narayanan/bypassing-scratch-cards-on-google-pay-8915d5423385, Logic-flaw
 - https://medium.com/@zain.sabahat/exploiting-ssrf-like-a-boss-c090dc63d326, SSRF
 - https://medium.com/@vignesh4303/how-i-hacked-netflix-users-use-it-free-forever-9febb1427262, Cookie-injection
 - https://medium.com/@luanherrera/xs-searching-googles-bug-tracker-to-find-out-vulnerable-source-code-50d8135b7549, XS-Search
