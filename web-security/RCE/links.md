@@ -108,3 +108,4 @@
 - https://shahjerry33.medium.com/rce-via-lfi-log-poisoning-the-death-potion-c0831cebc16d
 - https://medium.com/@corneacristian/top-25-rce-bug-bounty-reports-bc9555cca7bc
 - https://blog.scrt.ch/2023/05/01/solr-rce-from-exposed-administration-interface/
+- https://medium.com/@ahmdhalabi/rce-via-internal-access-to-adminer-database-management-critical-d3dc2a1d392a

@@ -48,3 +48,5 @@
 - https://medium.freecodecamp.org/discovering-the-hidden-mine-of-credentials-and-sensitive-information-8e5ccfef2724
 - https://mearegtu.medium.com/reading-message-from-microsofts-private-yammer-group-6be844639bca
 - https://medium.com/@timpaxerror/page-admin-disclosure-via-an-upgraded-page-post-57863fb02c50
+- https://whitehatfamilyguy.blogspot.com/2019/04/missing-authorization-check-while.html
+- https://medium.com/@zahidali_93675/posting-on-groups-as-people-whenever-their-email-was-known-by-an-attacker-9dc8d7baf970

@@ -9,3 +9,4 @@
 - https://medium.com/@abdulparkar9554/story-of-clickjacking-in-microsoft-leads-to-privilege-escalation-account-takeover-of-admin-a04453ed47fc
 - https://feed.bugs.xdavidhu.me/bugs/0005
 - https://web.archive.org/web/20200225040957/https://medium.com/@godofdarkness.msf/google-apis-clickjacking-1337-7a3a9f3eb8df
+- https://malfind.com/index.php/2018/12/21/how-i-accidentaly-found-clickjacking-in-facebook/

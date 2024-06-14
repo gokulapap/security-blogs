@@ -44,7 +44,6 @@
 - https://medium.com/@ryuukhagetsu/how-i-get-bounty-from-takeover-account-ed17cd838b2a, ATO
 - https://medium.com/@d4ly/an-interesting-rce-on-a-synack-red-team-target-516edb63fd04, RCE
 - https://medium.com/@janirudransh/privilege-escalation-to-view-sensitive-data-of-other-user-c4ad06c9472, privilege-escalation
-- https://medium.com/@ahmdhalabi/rce-via-internal-access-to-adminer-database-management-critical-d3dc2a1d392a, RCE
 - https://medium.com/@aob-89072/story-of-my-bugs-on-a-private-program-privilege-escalation-xss-sqli-idors-a5be4c6acbbd, journey
 - https://medium.com/@qaafqasim/discovering-login-panels-and-detecting-sql-injection-with-logsensor-42842e337244, sql-injection
 - https://medium.com/@jjainam16/otp-verification-bypass-15312498fe10, bypass
@@ -1672,7 +1671,6 @@
 - https://web.archive.org/web/20221128044142/https://wya.pl/2022/02/26/cve-2022-22947-spel-casting-and-evil-beans/, RCE
 - https://swarm.ptsecurity.com/catching-bugs-in-vmware-carbon-black-cloud-workload-appliance-and-vrealize-operations-manager/, Authentication-bypass
 - https://medium.com/@vflexo/a-weird-price-tampering-vulnerability-1251dfe8d2a1, Payment-tampering
-- https://medium.com/@Kntjrld/bypassing-default-visibility-for-newly-added-email-in-facebook-part-i-submitting-i-d-da78142f032d, Logic-flaw
 - https://philippeharewood.com/instagram-app-access-token/, Information-disclosure
 - https://kloudle.com/blog/piercing-the-cloud-armor-the-8kb-bypass-in-google-cloud-platform-waf, WAF-bypass
 - https://goktugkaya.medium.com/how-i-hacked-the-dutch-government-and-won-the-famous-t-shirt-b45cdf5dfaa1, SQL-injection
@@ -3400,7 +3398,6 @@
 - https://edoverflow.com/2019/ci-knew-there-would-be-bugs-here/, Information-disclosure
 - https://medium.com/@YumiSec/how-to-bypass-a-2fa-with-a-http-header-ce82f7927893, MFA-bypass
 - https://medium.com/@protostar0/sidefx-poc-user-enumeration-no-rate-limeted-in-send-message-function-953f1662d41, Username-enumeration
-- https://whitehatfamilyguy.blogspot.com/2019/04/missing-authorization-check-while.html, Authorization-flaw
 - https://medium.com/@logicbomb_1/the-journey-of-web-cache-firewall-bypass-to-ssrf-to-aws-credentials-compromise-b250fb40af82, LFI
 - https://medium.com/@iframe_h1/a-picture-that-steals-data-ff604ba1012, Information-disclosure
 - https://blog.assetnote.io/bug-bounty/2019/04/23/getting-access-zendesk-gcp/, Information-disclosure
@@ -3560,7 +3557,6 @@
 - https://medium.com/@ironfisto/tokopedia-account-takeover-bug-worth-8-million-idr-5474cb5b5cc9, Password-reset
 - https://medium.com/@putracraft.theworld/server-side-request-forgery-in-openid-support-defcc64d5e41, SSRF
 - http://blog.randorisec.fr/client-side-validation/, Client-side-enforcement-of-server-side-security
-- https://malfind.com/index.php/2018/12/21/how-i-accidentaly-found-clickjacking-in-facebook/, Clickjacking
 - https://medium.com/@tnirmalz/facebook-bugbounty-disclosing-page-members-1178595cc520, Information-disclosure
 - https://www.tnirmal.com.np/2018/12/facebook-bugbounty-disclosing.html, Information-disclosure
 - https://medium.com/@mustafakhan_89646/asuss-admin-panel-auth-bypass-af5062584ddf, Authentication-bypass
@@ -4017,7 +4013,6 @@
 - https://ahussam.me/Medium-content-spoofing-xss, Content-spoofing
 - https://infosecwriteups.com/whatsapp-dos-vulnerability-in-ios-android-d896f76d3253, DoS
 - https://web.archive.org/web/20190718104640/https://medium.com/@tbmnull/making-an-xss-triggered-by-csp-bypass-on-twitter-561f107be3e5, XSS
-- https://medium.com/@zahidali_93675/posting-on-groups-as-people-whenever-their-email-was-known-by-an-attacker-9dc8d7baf970, Authorization-flaw
 - https://buer.haus/2017/06/29/escalating-xss-in-phantomjs-image-rendering-to-ssrflocal-file-read/, XSS
 - https://ysx.me.uk/road-to-unauthenticated-recovery-downloading-github-saml-codes/, Authorization-flaw
 - https://www.arneswinnen.net/2017/06/authentication-bypass-on-ubers-sso-via-subdomain-takeover/, Subdomain-takeover
