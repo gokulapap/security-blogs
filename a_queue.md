@@ -336,7 +336,6 @@
 - https://infosecwriteups.com/sql-injection-in-the-http-custom-header-fd117ba1435e, SQL-injection
 - https://orca.security/resources/blog/examining-two-xss-vulnerabilities-in-azure-services/, XSS
 - https://starlabs.sg/blog/2023/06-the-old-the-new-and-the-bypass-one-clickopen-redirect-to-own-samsung-s22-at-pwn2own-2022/, Open-redirect
-- https://blog.assetnote.io/2023/06/07/moveit-transfer-patch-diff-adventure/, RCE
 - https://medium.com/@omarahmed_13016/idor-unpin-posts-for-fun-18f628eaef24, IDOR
 - https://medium.com/@0day_exploit/stored-xss-injection-permanent-open-redirection-e14ffa11573c, Reflected-XSS
 - https://summoning.team/blog/vmware-vrealize-network-insight-rce-cve-2023-20887/, RCE
@@ -608,7 +607,6 @@
 - https://m7arm4n.medium.com/unauthorized-access-to-admin-panel-via-swagger-c242e8341045, Missing-authentication
 - https://bountyplz.xyz/bugbounty/2023/03/03/Bypassing-Safe-Redirect-in-Rails-7.0.html, Open-redirect
 - https://github.blog/2023-03-03-github-security-lab-audited-datahub-heres-what-they-found/, SSRF
-- https://starlabs.sg/blog/2023/03-cs-cart-pdf-plugin-unauthenticated-command-injection/, RCE
 - https://www.permasecure.io/2023/03/03/how-your-nfts-could-have-been-stolen-in-just-one-click/, postMessage
 - https://ibraradi.gitbook.io/write-up/upgrade-plan-from-free-to-paid-via-response-manipulation, Payment-bypass
 - https://mshibilmp.medium.com/how-i-earned-for-excessive-data-exposure-through-directory-traversal-leads-to-product-price-4582e5371774, Path-traversal
@@ -1986,7 +1984,6 @@
 - https://medium.com/@sarveshblogs/a-small-tale-of-account-takeover-2eba07a6ef5f, IDOR
 - https://pwnsauc3.medium.com/weaponizing-reflected-xss-to-account-takeover-ae8aeea7aca3, XSS
 - https://medium.com/@soufianehabti/this-is-why-you-shouldnt-trust-your-federated-identity-provider-62160f50d8b2, OAuth
-- https://iamsaugat.medium.com/a-facebook-bug-that-exposes-email-phone-number-to-your-friends-a980d24e5ea8, Information-disclosure
 - https://asterfiester.medium.com/how-i-was-able-to-send-sms-from-google-to-anyone-google-vulnerability-3277ea0cc9d1, Content-spoofing
 - https://s3c.medium.com/how-i-hacked-world-wide-tiktok-users-24e794d310d2, IDOR
 - https://infosecwriteups.com/10-golden-minutes-for-taking-over-a-chess-com-account-56e73f7c5f0d, Lack-of-rate-limiting
@@ -3121,7 +3118,6 @@
 - https://fellchase.blogspot.com/2019/12/authorization-bug-that-every-bug-hunter-missed-on-a-popular-program.html, Authorization-flaw
 - https://medium.com/@dPhoeniixx/vimeo-upload-function-ssrf-7466d8630437, SSRF
 - https://medium.com/nassec-cybersecurity-writeups/this-is-how-i-got-xxxx-from-facebook-for-instagram-bug-aaff50342246, Logic-flaw
-- https://medium.com/@santoshbrl5/facebook-new-account-verification-bypass-c589017f2faf, Authentication-bypass
 - https://web.archive.org/web/20200530191901/https://vict0ni.me/multiple-header-injections-bug-hunting/, Host-header-injection
 - https://www.ezequiel.tech/p/500-getclass.html, Sandbox-bypass
 - https://medium.com/@navne3t/a-25-easy-bug-bdfcde4d1370, Session-management-issue
@@ -3859,7 +3855,6 @@
 - http://www.tomanthony.co.uk/blog/google-xml-sitemap-auth-bypass-black-hat-seo-bug-bounty/, Logic-flaw
 - https://medium.com/@logicbomb_1/bugbounty-rewarded-by-securing-vulnerabilities-in-bookmyshow-indias-largest-online-movie-bb81dba9b82, Host-header-injection
 - https://medium.com/@Alra3ees/google-adwords-3133-7-stored-xss-27bb083b8d27, Stored-XSS
-- https://blog.zimperium.com/cve-2017-13253-buffer-overflow-multiple-android-drm-services/, Memory-corruption
 - https://labs.detectify.com/2018/03/14/graphql-abuse/, GraphQL
 - https://medium.com/@nuraalamdipu/union-based-sql-injection-write-up-a-private-company-site-273f89a49ed9, SQL-injection
 - https://medium.com/@agrawalsmart7/how-i-hacked-74k-users-of-a-website-869e8a0b319, Authorization-flaw

@@ -19,3 +19,4 @@
 - https://artkond.com/2018/10/10/symantec-authentication-bypass/
 - https://www.zerodayinitiative.com/blog/2021/8/30/proxytoken-an-authentication-bypass-in-microsoft-exchange-server
 - https://medium.com/@digant_15/my-first-valid-bug-bypass-the-admin-panel-e859e72a1b7d
+- https://medium.com/@santoshbrl5/facebook-new-account-verification-bypass-c589017f2faf

@@ -109,3 +109,5 @@
 - https://medium.com/@corneacristian/top-25-rce-bug-bounty-reports-bc9555cca7bc
 - https://blog.scrt.ch/2023/05/01/solr-rce-from-exposed-administration-interface/
 - https://medium.com/@ahmdhalabi/rce-via-internal-access-to-adminer-database-management-critical-d3dc2a1d392a
+- https://blog.assetnote.io/2023/06/07/moveit-transfer-patch-diff-adventure/
+- https://starlabs.sg/blog/2023/03-cs-cart-pdf-plugin-unauthenticated-command-injection/

@@ -26,3 +26,4 @@
 - https://googleprojectzero.blogspot.com/2022/08/the-quantum-state-of-linux-kernel.html
 - https://blog.zimperium.com/cve-2018-9539-use-free-vulnerability-privileged-android-service/
 - https://vvx7.io/posts/2022/09/your-amiibos-haunted/
+- https://blog.zimperium.com/cve-2017-13253-buffer-overflow-multiple-android-drm-services/

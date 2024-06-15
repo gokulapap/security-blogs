@@ -86,3 +86,4 @@
 - https://medium.com/@noobieboy1337/how-i-got-7000-in-bug-bounty-for-my-critical-finding-99326d2cc1ce
 - https://medium.com/bugbountywriteup/wrong-swipe-tinder-29fe1eb0203c
 - https://medium.com/@mohamedtaha_42562/from-wayback-to-account-takeover-ea7e80600188
+- https://iamsaugat.medium.com/a-facebook-bug-that-exposes-email-phone-number-to-your-friends-a980d24e5ea8
