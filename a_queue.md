@@ -1189,7 +1189,6 @@
 - https://hopesamples.blogspot.com/2022/09/group-experts-pending-expertise-request.html, IDOR
 - https://hopesamples.blogspot.com/2022/09/details-about-future-collaboration.html, IDOR
 - https://taggart-tech.com/quasar-electron/, Local-Privilege-Escalation
-- https://0xmahmoudjo0.medium.com/exploiting-out-of-band-xxe-in-the-wild-16fc6dad9ee2, XXE
 - https://blog.sonarsource.com/wordpress-core-unauthenticated-blind-ssrf/, SSRF
 - https://bergee.it/blog/turning-cookie-based-xss-into-account-takeover/, XSS
 - https://srahulceh.medium.com/bug-bounty-how-i-found-an-ssrf-reconnaissance-7b1821a1b1fd, SSRF
@@ -3136,7 +3135,6 @@
 - https://web.archive.org/web/20211106053748/https://eng.getwisdom.io/hacking-github-with-unicode-dotless-i/, Logic-flaw
 - https://lf.lc/vrp/145304705/, Site-Isolation-bypass
 - https://pastebin.com/E6LMFm2w, HTTP-request-smuggling
-- https://medium.com/@tristanfarkas/finding-a-security-bug-in-discord-and-what-it-taught-me-516cda561295, OAuth
 - https://medium.com/@mashoud1122/cors-misconfiguration-account-takeover-out-of-scope-to-grab-items-in-scope-66d9d18c7a46, CORS-misconfiguration
 - https://web.archive.org/web/20200511012319/https://medium.com/@xhzeem/the-accounttakeover-killing-chain-6ba23f4c9d4, Account-takeover
 - https://blog.teddykatz.com/2019/11/23/json-padding-oracles.html, Padding-oracle-attack
@@ -3431,7 +3429,6 @@
 - http://archive.ingredous.com/notes/downnotifer-ssrf/, SSRF
 - https://medium.com/@ritishkumarsingh/https-medium-com-ritishkumarsingh-facebook-vulnerability-hiding-from-facebook-page-admin-in-hacked-workflow-86f366f183c6, Logic-flaw
 - https://medium.com/tenable-techblog/filezilla-untrusted-search-path-bc3a7b3ae51e, RCE
-- https://medium.com/@rajsek/how-i-was-able-to-get-your-facebook-private-friend-list-responsible-disclosure-91984606e682, Information-disclosure
 - https://medium.com/@pratyush1337/edm0d0-idor-vulnerabilities-95ca8600ee1c, IDOR
 - https://cryptograph3r.blogspot.com/2021/02/recon-in-2-minutes-and-got-250-easy.html, Missing-secure-flag
 - https://gauravnarwani.com/a-tale-of-3-xss/, XSS
@@ -3757,7 +3754,6 @@
 - https://haiderm.com/how-i-was-able-to-delete-13k-microsoft-translator-projects/, CSRF
 - https://pulsesecurity.co.nz/advisories/WebLogic-SAML-Vulnerabilities, SAML
 - https://medium.com/devanshwolf/hey-developer-give-me-your-api-keys-b8c99ab1c4f5, Information-disclosure
-- https://medium.com/bugbountywriteup/bypass-admin-approval-mute-member-and-posting-permissions-for-only-admins-in-facebook-groups-ef476cb3d524, Authorization-flaw
 - https://medium.com/@khaled.hassan/hacking-thousands-of-companies-through-their-helpdesk-8f180a8595ef, Account-takeover
 - https://www.ambionics.io/blog/prestashop-privilege-escalation, Privilege-escalation
 - http://omespino.com/write-up-telegram-bug-bounty-whatsapp-n-a-blind-xss-stored-ios-in-messengers-twins-who-really-care-about-your-security/, Blind-XSS
@@ -3912,7 +3908,6 @@
 - https://bhavukjain.com/blog/2017/12/20/facebook-google-login-misconfig/, Account-takeover
 - https://mike-n1.github.io/SSRF_P4toP2, Blind-SSRF
 - https://blog.securitybreached.org/2017/12/19/unrestricted-file-upload-to-rce-bug-bounty-poc/, RCE
-- https://nirmaldahal.com.np/posts/2017/12/lfi-to-10-servers-pwn/, LFI
 - https://corben.io/blog/17-12-17-hackertarget, SSRF
 - https://blog.securitybreached.org/2017/12/10/how-i-was-able-to-takeover-facebook-account-bug-bounty-poc/, Authentication-bypass
 - https://medium.com/@uranium238/getting-a-rce-ctf-way-2fd612fb643f, RCE

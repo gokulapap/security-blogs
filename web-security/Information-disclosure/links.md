@@ -87,3 +87,4 @@
 - https://medium.com/bugbountywriteup/wrong-swipe-tinder-29fe1eb0203c
 - https://medium.com/@mohamedtaha_42562/from-wayback-to-account-takeover-ea7e80600188
 - https://iamsaugat.medium.com/a-facebook-bug-that-exposes-email-phone-number-to-your-friends-a980d24e5ea8
+- https://medium.com/@rajsek/how-i-was-able-to-get-your-facebook-private-friend-list-responsible-disclosure-91984606e682
