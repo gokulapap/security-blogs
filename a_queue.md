@@ -780,7 +780,6 @@
 - https://blog.pksecurity.io/2023/01/16/2022-microsoft-teams-rce.html, RCE
 - https://blog.viettelcybersecurity.com/cve-2022-21587-oracle-e-business-suite-unauth-rce/, RCE
 - https://medium.com/@xerox0x1/full-account-take-over-by-very-simple-trick-b4025a53047c, Account-takeover
-- https://medium.com/@_deshine_/account-take-over-due-to-aws-cognito-misconfiguration-7b092c667ee3, Amazon-cognito-misconfiguration
 - https://blog.hckrt.com/blog/thisclosed_2/, SQL-injection
 - https://medium.com/@mares.viktor/critical-vulnerability-through-osint-only-56e56eb97516, Information-disclosure
 - https://blog.geekycat.in/xss-using-postmessage-in-google-cloud-theia-notebooks/, XSS
@@ -1165,7 +1164,6 @@
 - https://blog.includesecurity.com/2021/06/hacking-unity-games-malicious-unity-game-objects/, Arbitrary-code-execution
 - https://www.vectra.ai/blogpost/undermining-microsoft-teams-security-by-mining-tokens, Insecure-storage-of-sensitive-information
 - https://arben.sh/research/LiveHelperChat-RCE/, RCE
-- https://medium.com/@nynan/how-i-didnt-get-an-rce-in-a-200-billion-company-bug-bounty-377afb2fb4ec, RCE
 - https://hesec.de/posts/bbh-csrf/, CSRF
 - https://medium.com/@cyberali/contentful-access-token-disclosure-in-android-apk-ace5f7bdf98, Information-disclosure
 - https://medium.com/@Parag_Bagul/how-i-was-able-to-bypass-philips-authentication-c3bd3e1df9ff, Outdated-component-with-a-known-vulnerability
@@ -1293,7 +1291,6 @@
 - https://www.rapid7.com/blog/post/2022/08/05/cve-2022-31660-and-cve-2022-31661-fixed-vmware-workspace-one-access-identity-manager-and-vrealize-automation-lpe/, Local-Privilege-Escalation
 - https://ibraradi.gitbook.io/write-up/came-looking-for-ssrf-and-found-xss, XSS
 - https://albertpedersen.com/blog/hijacking-email-with-cloudflare-email-routing/, HTTP-response-manipulation
-- https://tamimhasan404.medium.com/elasticsearch-a-easy-win-for-bug-bounty-hunters-how-to-find-and-report-ddd900395bcb, Information-disclosure
 - https://www.adico.me/post/xss-in-gmail-s-amp4email, XSS
 - https://labs.jumpsec.com/zoho-manage-engine-desktop-central-sql-injection-arbitrary-file-write/, SQL-injection
 - https://canmustdie.medium.com/multiple-bugs-in-one-program-leads-to-1500-c35fcde06bc7, Privilege-escalation
@@ -1847,7 +1844,6 @@
 - https://marxchryz.medium.com/price-manipulation-bypass-using-integer-overflow-method-36ff23ebe91d, Payment-tampering
 - https://sh1yo.art/post/sec-596/, Reflected-XSS
 - https://medium.com/@thenighthawk0/how-i-got-my-first-bounty-on-financial-sector-gateway-site-by-using-previous-graphql-462cca7389ca, Information-disclosure
-- https://vavkamil.cz/2021/11/25/wordpress-plugin-confusion-update-can-get-you-pwned/, Supply-chain-attack
 - https://securifyinc.com/disclosures/rocketchat-monitor-messages, Authorization-flaw
 - https://wahaz.medium.com/unauthenticated-sensitive-information-disclosure-at-redacted-2702224098c, Old-components-with-known-vulnerabilities
 - https://web.archive.org/web/20220119155429/https://0xgodson.medium.com/account-takeover-in-million-company-report-rejected-whats-wrong-60041f1815fb, Account-takeover
@@ -1999,7 +1995,6 @@
 - https://medium.com/@gguzelkokar.mdbf15/xss-via-account-takeover-in-e-signature-feature-worth-2500-435f3f8325bf, XSS
 - https://rikeshbaniyaaa.medium.com/facebook-email-disclosure-and-account-takeover-ecdb44ee12e9, Information-disclosure
 - https://websecblog.com/vulns/google-threadit/, DOM-XSS
-- https://xhzeem.me/posts/SSRF-in-PDF-export-with-PhantomJs/read, SSRF
 - https://apapedulimu.click/story-of-idor-on-google-product/, IDOR
 - https://medium.com/@katikitala.sushmitha078/how-i-can-take-over-any-users-account-with-their-mobile-number-6d820a364cad, Account-takeover
 - https://web.archive.org/web/20211025081016/http://noahblog.360.cn/burp-suite-rce/, RCE
