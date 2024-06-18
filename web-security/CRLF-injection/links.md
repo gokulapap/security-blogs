@@ -1,3 +1,4 @@
 - http://blog.shashank.co/2017/11/crlf-injection-in-bockchaininfo.html
 - https://medium.com/@tomnomnom/crlf-injection-into-phps-curl-options-e2e0d7cfe545
 - https://github.com/W0rty/libcurl-crlf
+- https://infosecwriteups.com/6000-with-microsoft-hall-of-fame-microsoft-firewall-bypass-crlf-to-xss-microsoft-bug-bounty-8f6615c47922

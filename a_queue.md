@@ -200,7 +200,6 @@
 - https://medium.com/@whitedevil4276/otp-bypass-through-burpsuite-in-maruti-nexa-test-drive-e9d82db656b8, bypass
 - https://medium.com/@haythamkarouata/bug-bounty-hunting-101-js-files-diving-4b1753fefb3d, source-code-review
 - https://medium.com/@jonathanbouman/stored-xss-in-paytium-3-0-13-wordpress-plugin-3157ee37eb8f, XSS
-- https://medium.com/@ms-official5878/xss-through-file-upload-f3f4e55616ad, XSS
 - https://medium.com/@secureica/tricking-the-frontend-and-the-backend-http-request-smuggling-81adc9a61181, request-smuggling
 - https://medium.com/@Sm9l/what-i-learnt-from-reading-220-idor-bug-reports-6efbea44db7, IDOR
 - https://medium.com/@raymondlind/finding-reflected-xss-in-a-strange-way-289a4f3fa630, XSS
@@ -429,7 +428,6 @@
 - https://giraffesecurity.dev/posts/dependabot-confusion/, Dependency-confusion
 - https://castilho.onrender.com/, postMessage
 - https://infosecwriteups.com/mass-assignment-leads-to-the-victims-account-being-inaccessible-forever-52e48c6a8a4d, Mass-assignment
-- https://www.pentestpartners.com/security-blog/bullied-by-bugcrowd-over-kape-cyberghost-disclosure/, Local-Privilege-Escalation
 - https://blog.ankursundara.com/cookie-bugs/, Cookie-smuggling
 - https://ermetic.com/blog/azure/when-good-apis-go-bad-uncovering-3-azure-api-management-vulnerabilities/, SSRF
 - https://blog.stratumsecurity.com/2023/05/04/integration-fails/, Privilege-escalation
@@ -1067,7 +1065,6 @@
 - https://hacksys.io/blogs/adobe-reader-xfa-ansi-unicode-confusion-information-leak, Memory-corruption
 - https://www.directdefense.com/compromising-a-backup-system-by-iscsi-interface-during-a-routine-penetration-test/, Missing-authentication
 - https://medium.com/@nireshpandian19/the-story-of-a-p5-that-lead-me-to-a-p3-find-3f8a5ea2c6e1, Pre-account-takeover
-- https://infosecwriteups.com/6000-with-microsoft-hall-of-fame-microsoft-firewall-bypass-crlf-to-xss-microsoft-bug-bounty-8f6615c47922, CRLF-injection
 - https://blog.aquasec.com/private-packages-disclosed-via-timing-attack-on-npm, Timing-attack
 - https://abdelhameedghazy.medium.com/broken-access-control-leads-to-full-team-takeover-and-privilege-escalation-6f50174f29ce, Broken-Access-Control
 - https://cyberlix.io/breaking-parser-logic-gain-access-to-nginx-plus-api-read-write-upstreams/, Path-traversal
@@ -3448,7 +3445,6 @@
 - https://medium.com/@sharan.panegav/account-takeover-using-cross-site-websocket-hijacking-cswh-99cf9cea6c50, Cross-Site-WebSocket-Hijacking
 - https://www.imperva.com/blog/mapping-communication-between-facebook-accounts-using-a-browser-based-side-channel-attack/, Side-channel-attack
 - https://www.vulnano.com/2019/03/facebook-messenger-server-random-memory.html, Information-disclosure
-- https://medium.com/@vladimirmetnew/3-xss-in-protonmail-for-ios-95f8e4b17054, XSS
 - https://medium.com/@addictrao20/fixed-register-any-email-address-on-facebook-account-c6d1c3eb810d, Authorization-flaw
 - http://www.tomanthony.co.uk/blog/facebook-bug-confirm-user-identities/, Information-disclosure
 - https://www.smeegesec.com/2019/03/auditing-github-repo-wikis-for-fun-and.html, Misconfigured-Github-wiki
@@ -3977,7 +3973,6 @@
 - https://www.seekurity.com/blog/general/business-logic-vulnerabilities-series-how-i-became-invisible-and-immune-to-blocking-on-instagram/, Logic-flaw
 - https://medium.com/@valeriyshevchenko/massive-information-disclosure-of-1500-famous-people-b1b950fa657, Information-disclosure
 - https://medium.com/@arbazhussain/referer-based-xss-52aeff7b09e7, XSS
-- https://portswigger.net/research/cracking-the-lens-targeting-https-hidden-attack-surface, Reflected-XSS
 - https://labs.detectify.com/2017/07/27/how-we-invented-the-tesla-dom-doom-xss/, DOM-XSS
 - https://medium.com/@zahidali_93675/disabling-new-emails-from-facebook-without-email-owner-interaction-11c979778a68, Logic-flaw
 - https://www.seekurity.com/blog/general/rolling-around-and-bypassing-facebook-linkshim-protection-on-ios, Open-redirect

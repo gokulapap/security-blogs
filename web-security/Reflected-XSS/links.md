@@ -35,3 +35,4 @@
 - https://www.ukusormus.com/bypassing-cloudflare-waf-xss-via-sql-injection/
 - https://sl4x0.medium.com/how-i-found-xss-on-admin-page-without-login-fe165a5f89c2
 - https://ysamm.com/?p=343
+- https://portswigger.net/research/cracking-the-lens-targeting-https-hidden-attack-surface
