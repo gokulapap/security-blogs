@@ -106,3 +106,4 @@
 - https://medium.com/@raymond-lind/finding-reflected-xss-in-a-strange-way-289a4f3fa630
 - https://medium.com/@vladimirmetnew/3-xss-in-protonmail-for-ios-95f8e4b17054
 - https://medium.com/@ms-official5878/xss-through-file-upload-f3f4e55616ad
+- https://www.hackerinside.me/2019/09/xss-in-zoho-mail.html

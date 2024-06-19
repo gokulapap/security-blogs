@@ -2,3 +2,4 @@
 - https://medium.com/@mike-sheward/bug-bounties-tips-from-the-triager-7cb092efd22a
 - https://remonsec.com/posts/hacking-dutch-gov/
 - https://medium.com/@prashanth-pulisetti/my-first-bug-bounty-8ad7351d644a
+- https://medium.com/@abhishekmorla/how-i-got-20-points-on-a-bugcrowd-private-program-429bc41d7143

@@ -81,7 +81,6 @@
 - https://medium.com/@gokulsspace/the-30000-bounty-affair-3f025ee6b834, journey
 - https://medium.com/@terjanq/clobbering-the-clobbered-advanced-dom-clobbering-8443547ebe94, misc
 - https://medium.com/@0xinfosec/cloudfare-xss-bypass-improper-csrf-token-leads-to-account-takeover-of-victim-account-b795fa429fc3, XSS
-- https://medium.com/@abhishekmorla/how-i-got-20-points-on-a-bugcrowd-private-program-429bc41d7143, journey
 - https://medium.com/@joelmcg1993/stored-xss-with-two-different-parameters-d9243cae3e6a, XSS
 - https://medium.com/@notifybugme/how-i-was-able-find-mass-leaked-aws-s3-bucket-from-js-file-6064a5c247f8, info-disclosure
 - https://medium.com/@abdulparkar9554/how-i-found-stored-xss-html-injection-vulnerability-on-microsoft-6b8682c03680, html-injection
@@ -278,7 +277,6 @@
 - https://www.synacktiv.com/sites/default/files/2023-07/synacktiv-phplist-partial-file-read.pdf, Arbitrary-file-read
 - https://research.nccgroup.com/2023/07/03/technical-advisory-nullsoft-scriptable-installer-system-nsis-insecure-temporary-directory-usage/, Local-Privilege-Escalation
 - https://labs.hakaioffsec.com/nginx-alias-traversal/, Path-traversal
-- https://www.legitsecurity.com/blog/-how-we-found-another-github-action-environment-injection-vulnerability-in-a-google-project, CICD
 - https://blog.silentsignal.eu/2023/07/03/ibm-i-dde-vulnerability-cve-2023-30990/, RCE
 - https://blog.prodefense.io/how-abusing-aws-cloudformation-led-to-a-total-takeover-of-an-aws-environment-7f94cabd671d, Cloud
 - https://medium.com/@nguhuynh.148/how-did-i-get-200-with-wordpress-vulnerability-4ce80f106709, Information-disclosure
@@ -2305,7 +2303,6 @@
 - https://medium.com/@ashrafharb997/csrf-to-full-account-takeover-5196cef9d166, CSRF
 - https://www.pethuraj.com/blog/paypal-bug-bounty-writeup/, Open-redirect
 - https://jychp.medium.com/how-to-bypass-cloudflare-bot-protection-1f2c6c0c36fb, Logic-flaw
-- https://abhisek3122.medium.com/increasing-impact-of-information-disclosure-full-account-takeover-2f12d8963d5c, Information-disclosure
 - https://bloggerrando.blogspot.com/2021/03/bug-bounty-idor-in-youtube-bounty.html, Broken-Access-Control
 - https://shrirangdiwakar.medium.com/encrypted-payload-decrypted-execution-600-stored-xss-3e517cea8f13, Stored-XSS
 - https://thexssrat.medium.com/poc-the-easiest-125-euros-i-ever-made-4dc87f01e286, Logic-flaw
@@ -3218,7 +3215,6 @@
 - https://www.rcesecurity.com/2019/09/H1-4420-From-Quiz-to-Admin-Chaining-Two-0-Days-to-Compromise-an-Uber-Wordpress/, Stored-XSS
 - https://www.inputzero.io/2019/09/telegram-privacy-fails-again.html, Logic-flaw
 - https://medium.com/@karthiksoft007/oculus-identity-verification-bypass-through-brute-force-dbd0c0d3c37e, OTP-bypass
-- https://www.hackerinside.me/2019/09/xss-in-zoho-mail.html, XSS
 - https://medium.com/@osamaavvan/exploiting-jsonp-and-bypassing-referer-check-2d6e40dfa24, Information-disclosure
 - https://medium.com/@cc1h2e1/write-up-of-two-http-requests-smuggling-ff211656fe7d, HTTP-request-smuggling
 - https://hateshape.github.io/general/2019/09/06/SuperGlamorousReconwithIntendedFunctionalities.html, SSTI
@@ -3563,7 +3559,6 @@
 - https://www.betterhacker.com/2018/12/rce-in-hubspot-with-el-injection-in-hubl.html, RCE
 - https://blog.intothesymmetry.com/2018/12/billion-laugh-attack-in.html, Billion-laugh-attack
 - https://gauravnarwani.com/android-acc-takeover/, Account-takeover
-- https://medium.com/bugbountywriteup/taking-over-google-calendar-of-a-company-1c49071f6a9, Subdomain-takeover
 - https://www.secu.ninja/2018/12/04/how-to-accidentally-find-a-xss-in-protonmail-ios-app/, XSS
 - https://pwning.re/2018/12/04/github-desktop-rce/, RCE
 - https://dylankatz.com/digging-in-to-scp-command-injection/, OS-command-injection
