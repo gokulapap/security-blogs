@@ -1,0 +1,1 @@
+- https://k4m1ll0.com/ShiftF10Bypass-and-privesc.html

@@ -122,7 +122,6 @@
 - https://medium.com/@pingsec/interesting-account-takeover-bugs-619df8466ca0, ATO
 - https://medium.com/@vickieli/are-csrfs-still-a-thing-7e16c09c951a, csrf
 - https://medium.com/@rohit443/idor-on-password-change-to-full-account-takeover-4d96b9f7f9f0, IDOR
-- https://medium.com/@shahjerry33/information-disclosure-wordpress-cms-82133480b8b3, info-disclosure
 - https://medium.com/@thelinuxboy/bugging-out-my-experience-of-earning-300-for-reporting-an-unexpected-bug-ec9f9b0054bc, journey
 - https://medium.com/@gokulelango1040/privilege-escalation-attacks-28a9ef226abb, privilege-escalation
 - https://medium.com/@jjainam16/csrf-lead-to-account-deletion-critical-bounty-7500-58aa6b848e3a, csrf
@@ -699,7 +698,6 @@
 - https://www.zerodayinitiative.com/blog/2023/2/6/pwn2owning-two-hosts-at-the-same-time-abusing-inductive-automation-ignitions-custom-deserialization, Insecure-deserialization
 - https://jowin922.medium.com/reflected-xss-on-target-with-tough-waf-waf-bypass-3b7efd1ef2bc, Reflected-XSS
 - https://decoded.avast.io/janvojtesek/dota-2-under-attack-how-a-v8-bug-was-exploited-in-the-game/, V8-JavaScript-engine
-- https://arnavtripathy98.medium.com/bypassing-api-restrictions-for-fun-and-profit-c9ab746b67be, Payment-bypass
 - https://hesec.de/posts/cve-2023-22855/, RCE
 - https://medium.com/@mares.viktor/code-injection-via-python-sandbox-escape-how-i-got-a-shell-inside-a-network-c977c35a82de, Code-injection
 - https://blog.quarkslab.com/post-exploitation-abusing-the-keepass-plugin-cache.html, Local-Privilege-escalation
@@ -1116,7 +1114,6 @@
 - https://xthemo.medium.com/stored-xss-at-nvidia-via-angular-js-template-injection-3c9793218860, CSTI
 - https://sagarsajeev.medium.com/escalating-ssti-to-reflected-xss-using-curly-braces-825685bd93ec, SSTI
 - https://rohit443.medium.com/blind-xss-on-admin-portal-leads-to-information-disclosure-121d26b2a35a, Blind-XSS
-- https://k4m1ll0.com/ShiftF10Bypass-and-privesc.html, Local-privilege-escalation
 - https://infosecwriteups.com/complete-take-over-of-cisco-unified-communications-manager-due-consecutively-misconfigurations-2a1b5ce8bd9a, Security-misconfiguration
 - https://www.preludesecurity.com/blog/cve-2022-35256-http-request-smuggling-in-nodejs, HTTP-request-smuggling
 - https://thinkloveshare.com/hacking/preauth_remote_code_execution_web_page_test/, RCE
@@ -3227,7 +3224,6 @@
 - https://medium.com/@bathinivijaysimhareddy/shodan-is-your-friend-if-you-lose-him-you-will-lose-many-657d07472f75, SQL-injection
 - https://medium.com/@Skylinearafat/how-to-look-for-js-files-vulnerability-for-fun-and-profit-78bfdfbd6731, Information-disclosure
 - https://robinverton.de/blog/2019/08/25/bug-bounty-bypassing-a-crappy-waf-to-exploit-a-blind-sql-injection/, Blind-SQL-injection
-- https://philippeharewood.com/create-living-room-polls-as-a-facebook-page-analyst/, Authorization-flaw
 - https://addictivehackers.blogspot.com/2019/08/from-github-recon-to-account-takeover.html, Information-disclosure
 - https://gauravnarwani.com/cookie-worth-a-fortune/, Reflected-XSS
 - https://blog.doyensec.com/2019/08/22/modern-password-managers-flag-secure.html, Information-disclosure
@@ -3486,7 +3482,6 @@
 - https://medium.com/@rupika.luhach/how-i-was-able-to-extract-information-of-other-users-exploiting-idor-9f03aa72dd06, IDOR
 - https://offensi.com/2019/01/31/lfi-in-apigee-portals, LFI
 - https://medium.com/bugbountywriteup/how-i-found-a-simple-bug-in-facebook-without-any-test-3bc8cf5e2ca2, Authorization-flaw
-- https://medium.com/@0x48piraj/how-i-hacked-a-website-integrated-w-facebook-having-1-1-mil-users-under-45-seconds-e4adcfe8ccd6, Information-disclosure
 - https://medium.com/@kedrisec/publish-tweets-by-any-other-user-6c9d892708e3, IDOR
 - https://blog.detectify.com/2019/01/29/hacking-isnt-an-exact-science/, Authorization-flaw
 - https://medium.com/@ChandSingh/protonmail-xss-stored-b733031ac3b5, Stored-XSS

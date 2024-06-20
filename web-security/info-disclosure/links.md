@@ -1,1 +1,2 @@
 - https://medium.com/@shahjerry33/pii-leakage-revealing-secrets-8b617071bd1c
+- https://medium.com/@shahjerry33/information-disclosure-wordpress-cms-82133480b8b3

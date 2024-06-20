@@ -51,3 +51,4 @@
 - https://whitehatfamilyguy.blogspot.com/2019/04/missing-authorization-check-while.html
 - https://medium.com/@zahidali_93675/posting-on-groups-as-people-whenever-their-email-was-known-by-an-attacker-9dc8d7baf970
 - https://medium.com/bugbountywriteup/bypass-admin-approval-mute-member-and-posting-permissions-for-only-admins-in-facebook-groups-ef476cb3d524
+- https://philippeharewood.com/create-living-room-polls-as-a-facebook-page-analyst/

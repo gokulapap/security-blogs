@@ -3,3 +3,4 @@
 - https://webs3c.com/t/how-to-download-ebooks-from-google-play-store-without-paying-for-them/79
 - https://crypt0g30rgy.github.io/post/PaymentBypassTwo
 - https://infosecwriteups.com/hacking-facebook-invoice-how-i-couldve-bought-anything-for-free-from-facebook-business-pages-42bcfaa73ec4
+- https://arnavtripathy98.medium.com/bypassing-api-restrictions-for-fun-and-profit-c9ab746b67be
