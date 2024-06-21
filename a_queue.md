@@ -2,7 +2,6 @@
 - https://medium.com/@snoopy101/how-i-hacked-hackers-in-voorivex-hunt-event-9c572ce0005f, journey
 - https://medium.com/@nazeemarif/bug-bounty-how-i-was-able-to-purchased-premium-feature-just-for-1-pkr-by-parameter-2f6f7e5b8bf, parameter
 - https://medium.com/@redfishiaven/bypass-ssrf-via-protocol-change-redirect-a084dad9291e, ssrf
-- https://medium.com/@Az3m/register-vulnerability-checklist-20327eb250be, checklist
 - https://medium.com/@0x3zzat/how-to-find-sql-injection-using-a-simple-technique-bc7e8100a6f3, sql-injection
 - https://medium.com/@csal/dont-scan-my-website-i-exploiting-an-old-version-of-wappalyzer-14c001279434, journey
 - https://medium.com/@gandhim373/5-get-easy-bounty-how-to-exploit-xmlrpc-php-8e47f2604923, tricks
@@ -29,7 +28,6 @@
 - https://medium.com/@koroush.pub/10-practical-recon-vulnerability-scanners-for-bug-hunters-part-one-31460b4f642e, recon
 - https://medium.com/@vickieli/intro-to-ssrf-beb35857771f, ssrf
 - https://medium.com/@kotakbhavak/a-csrf-worth-the-wait-and-404c6b531789, csrf
-- https://medium.com/@unshoulder_supersedes/how-i-earned-47000-usd-as-a-high-school-student-a9a68896b3a3, journey
 - https://medium.com/@nanwinata/rce-docker-api-but-11ff70825935, Cloud
 - https://medium.com/@lazyhacker/ways-to-exploit-json-csrf-simple-explanation-5e77c403ede6, csrf
 - https://medium.com/@vflexo/xyz-of-xss-62603eb4cba, XSS
@@ -617,7 +615,6 @@
 - https://www.sonarsource.com/blog/empowering-weak-primitives-file-truncation-to-code-execution-with-git/, Argument-injection
 - https://www.zerodayinitiative.com/blog/2023/2/27/cve-2022-38108-rce-in-solarwinds-network-performance-monitor, Insecure-deserialization
 - https://saligrama.io/blog/post/gradescope-autograder-security/, RCE
-- https://blog.rehack.xyz/2023/02/tips-tricks-exfiltrating-users-data.html, CSV-injection
 - https://medium.com/@mehtashobhit98/my-first-un-expected-digit-bounty-for-an-un-expected-vulnerability-b44933d6ebda, Lack-of-rate-limiting
 - https://security.humanativaspa.it/abusing-mavens-pom-xml/, RCE
 - https://trenchant.io/vmware-workspace-one-access/, RCE
@@ -1072,7 +1069,6 @@
 - https://nmochea.medium.com/gcash-vulnerability-walkthrough-c7c938163dfb, Android
 - https://www.synacktiv.com/publications/persistent-php-payloads-in-pngs-how-to-inject-php-code-in-an-image-and-keep-it-there.html, Unrestricted-file-upload
 - https://debprasadbanerjee502.medium.com/the-easiest-bug-to-get-a-hall-of-fame-from-a-billion-dollar-company-8278fd7b3035, GraphQL
-- https://medium.com/@claudio_moranb/vulnerabilities-in-online-payment-systems-edd2d3c06905, Payment-bypass
 - https://mearegtu.medium.com/insecure-comments-73399193f804, IDOR
 - https://medium.com/stolabs/cve-2022-36635-a-sql-injection-in-zksecuritybio-to-rce-c5bde2962d47, SQL-injection
 - https://ahmadaabdulla.medium.com/mr-robot-self-xss-from-informative-to-high-1200-csrf-open-redirect-self-xss-to-stored-92f371ba3da1, Self-XSS
@@ -2335,7 +2331,6 @@
 - https://medium.com/@mehdi.alouache/partially-disable-cybereason-edr-as-low-privileges-user-on-windows-1405fd53e90e, EDR-bypass
 - https://cirius.medium.com/exploiting-a-hidden-and-forgotten-bug-49ce7ad4de39, SSRF
 - https://3bodymo.medium.com/the-easiest-2500-i-got-it-from-bug-bounty-program-8f47ea4aff22, Information-disclosure
-- https://lf.lc/vrp/181521559c/, Container-escape
 - https://lf.lc/vrp/181521559b/, Container-escape
 - https://infosecwriteups.com/leveraging-template-injection-to-takeover-an-account-1dba7c4ae315, CSTI
 - https://randyarios.medium.com/low-hanging-fruits-on-facebook-group-room-b8d17c7ea886, Logic-flaw

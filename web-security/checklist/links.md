@@ -1,0 +1,1 @@
+- https://medium.com/@Az3m/register-vulnerability-checklist-20327eb250be
