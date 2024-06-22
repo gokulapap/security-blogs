@@ -1,0 +1,1 @@
+- https://pwning.systems/posts/easy-apple-kernel-bug/

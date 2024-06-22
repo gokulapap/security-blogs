@@ -60,3 +60,4 @@
 - https://github.com/httpvoid/writeups/blob/main/Circumventing-Browser-Security-Mechanisms-For-SSRF.md
 - https://www.openbugbounty.org/blog/leonmugen/ssrf-reading-local-files-from-downnotifier-server/
 - https://xhzeem.me/posts/SSRF-in-PDF-export-with-PhantomJs/read
+- https://pharish4948.medium.com/blind-ssrf-to-port-scanning-through-response-time-d7336667299d

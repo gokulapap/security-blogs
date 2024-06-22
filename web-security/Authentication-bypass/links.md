@@ -20,3 +20,4 @@
 - https://www.zerodayinitiative.com/blog/2021/8/30/proxytoken-an-authentication-bypass-in-microsoft-exchange-server
 - https://medium.com/@digant_15/my-first-valid-bug-bypass-the-admin-panel-e859e72a1b7d
 - https://medium.com/@santoshbrl5/facebook-new-account-verification-bypass-c589017f2faf
+- https://medium.com/@sharp488/2fa-enabled-accounts-can-bypass-authentication-access-account-after-deactivation-8276a586be82

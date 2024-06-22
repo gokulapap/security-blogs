@@ -906,7 +906,6 @@
 - https://medium.com/@aa.pietruczuk/improper-error-handling-leads-to-exposing-internal-tokens-3355d6b43a32, Information-disclosure
 - https://ltidi.medium.com/the-untold-sendbird-misconfigurations-1496d252bc69, Broken-Access-Control
 - https://offsec.space/posts/airtel-vulnerabilities/, Arbitrary-Code-Execution
-- https://medium.com/@sharp488/2fa-enabled-accounts-can-bypass-authentication-access-account-after-deactivation-8276a586be82, Authentication-bypass
 - https://infosecwriteups.com/unique-rate-limit-bypass-worth-1800-6e2947c7d972, Rate-limiting-bypass
 - https://medium.com/@sharp488/access-any-owner-account-without-authentication-auth-bypass-2fa-bypass-94d0d3ef0d9c, Authentication-bypass
 - https://www.scrawledsecurityblog.com/2022/11/automating-unsolicited-richard-pics.html, IDOR
@@ -997,7 +996,6 @@
 - https://positive.security/blog/urlscan-data-leaks, Information-disclosure
 - https://portswigger.net/research/safari-is-hot-linking-images-to-semi-random-websites, Browser-hacking
 - https://medium.com/@jawadmahdi/blind-sql-injection-on-delete-request-486770af75a6, Blind-SQL-injection
-- https://pwning.systems/posts/easy-apple-kernel-bug/, Out-of-bounds-Read
 - https://akashhamal0x01.medium.com/2fa-bypass-due-to-information-disclosure-improper-access-control-f9a5a8a4e0af, DoS
 - https://medium.com/@nanwinata/old-rce-worth-3362-1af0cd70c459, RCE
 - https://blog.assetnote.io/2022/10/28/exploiting-static-site-generators/, SSRF
@@ -1158,7 +1156,6 @@
 - https://www.legitsecurity.com/blog/bypassing-github-required-reviewers-to-submit-malicious-code, Authorization-flaw
 - https://www.graplsecurity.com/post/attacking-firecracker, Memory-corruption
 - https://www.zerodayinitiative.com/blog/2022/9/7/riding-the-inforail-to-exploit-ivanti-avalanche-part-2, RCE
-- https://gist.github.com/karalabe/4d10a879e361bb5b85302d57c193f532, DoS
 - https://medium.com/@abbasheybati1/403-bypass-lyncdiscover-microsoft-com-db2778458c33, 403-bypass
 - https://bloggerrando.blogspot.com/2022/09/09-1.html, Information-disclosure
 - https://www.whiteoaksecurity.com/blog/fun-with-cors/, CORS-misconfiguration
@@ -2249,7 +2246,6 @@
 - https://feed.bugs.xdavidhu.me/bugs/0002, Authentication-bypass
 - https://bloggerrando.blogspot.com/2021/04/idor-leads-to-how-many-likes-that-was.html, IDOR
 - https://tij.me/blog/harvesting-active-directory-credentials-via-http-request-smuggling/, HTTP-request-smuggling
-- https://pharish4948.medium.com/blind-ssrf-to-port-scanning-through-response-time-d7336667299d, SSRF
 - https://notifybugme.medium.com/unauthorized-access-to-admin-setpassword-page-by-bypass-403-forbidden-f10bbb92ab35, Authorization-flaw
 - https://mase289.medium.com/exploiting-unrestricted-file-upload-to-achieve-remote-code-execution-on-a-bug-bounty-program-85661516712, Unrestricted-file-upload
 - https://0x2m.medium.com/misconfiguration-in-change-password-functionality-leads-to-account-takeover-1314b5507abf, IDOR
@@ -2620,7 +2616,6 @@
 - https://medium.com/bugbountywriteup/how-i-earned-500-from-google-flaw-in-authentication-a40018c05616, Authentication-flaw
 - https://medium.com/@alonnsoandres/25k-instagram-almost-xss-filter-link-facebook-bug-bounty-798b10c13b83, Stored-XSS
 - https://medium.com/@merry6607/how-i-by-pass-the-login-page-and-2fa-authentication-3f33b06838c, Authentication-bypass
-- https://www.pentestpartners.com/security-blog/you-cant-stop-me-ms-teams-session-hijacking-and-bypass/, Insecure-storage-of-sensitive-information
 - https://lf.lc/vrp/168987557/, RCE
 - https://medium.com/@Sheshasai/emoji-error-handling-ba11f1bdb8a6, SQL-injection
 - https://muirey03.blogspot.com/2020/09/cve-2020-9964-ios-infoleak.html, iOS
