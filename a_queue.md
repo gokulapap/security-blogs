@@ -407,7 +407,6 @@
 - https://www.synacktiv.com/en/publications/the-printer-goes-brrrrr-again.html, Printer-hacking
 - https://medium.com/@yashsancheti24/discovering-a-hidden-security-loophole-rent-luxury-cars-for-a-single-dollar-706b4a7bf101, Payment-tampering
 - https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/rendezvous-with-a-chatbot-chaining-contextual-risk-vulnerabilities/, Chatbot
-- https://medium.com/@icebre4ker/hacking-chess-com-my-journey-to-unlock-premium-bots-on-the-android-app-d8cac9d25094, Android
 - https://thinkloveshare.com/hacking/kong-konga-exploitation-and-hardening/, RCE
 - https://www.akamai.com/blog/security-research/important-outlook-vulnerability-bypass-windows-api, Privilege-escalation
 - https://chevonphillip.medium.com/rce-due-to-dependency-confusion-5000-bounty-fd1b294d645f, Dependency-confusion
@@ -488,7 +487,6 @@
 - https://blog.redteam-pentesting.de/2023/rooting-printer/, Printer-hacking
 - https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/cve-2023-29383-abusing-linux-chfn-to-misrepresent-etc-passwd/, Local-Privilege-Escalation
 - https://www.rcesecurity.com/2023/04/securepwn-part-2-leaking-remote-memory-contents-cve-2023-22897/, Memory-leak
-- https://abhishekgk.medium.com/how-chatgpt-helped-me-find-a-bug-b5a3795c722, XSS
 - https://www.reversemode.com/2023/04/losing-control-over-schneiders.html, RCE
 - https://codewhitesec.blogspot.com/2023/04/java-exploitation-restrictions-in.html, Insecure-deserialization
 - https://www.rcesecurity.com/2023/04/securepwn-part-1-bypassing-securepoint-utms-authentication-cve-2023-22620/, Authentication-bypass
@@ -2436,7 +2434,6 @@
 - https://slashcrypto.org/2021/01/15/CVE-2020-1456/, XSS
 - https://theshubh77.medium.com/irremovable-facebook-group-album-photos-and-entire-album-under-certain-circumstances-bounty-1000-b1b2a870b8e0, Logic-flaw
 - https://web.archive.org/web/20210730144815/https://www.cysek.org/post/sxss-by-cache-poison-attack, Web-cache-poisoning
-- https://pulsesecurity.co.nz/advisories/GOCD-Multiple-Vulnerabilities, RCE
 - https://srcincite.io/blog/2021/01/12/making-clouds-rain-rce-in-office-365.html, RCE
 - https://levelup.gitconnected.com/stealing-user-information-via-xss-via-parameter-pollution-7d99b3379e7d, Open-redirect
 - https://shahjerry33.medium.com/csrf-with-idor-a-deadly-combo-203e93967702, CSRF
@@ -2817,7 +2814,6 @@
 - https://medium.com/@mudassirsharief58/hunt-for-sql-injection-the-smart-way-db85243a4e90, SQL-injection
 - https://medium.com/@__mr_beast__/the-frustrating-xss-33607894a071, XSS
 - https://medium.com/@bachrudinashari/privilege-escalation-by-changing-http-response-admin-access-5e67c44713f6, Privilege-escalation
-- https://medium.com/@silentbronco/the-p5-link-injection-story-2632e61f62b7, Hyperlink-injection
 - https://medium.com/swlh/abusing-microsoft-teams-rate-limiting-for-ddos-a8238958376a, DoS
 - https://hackingiscool.pl/cmdhijack-command-argument-confusion-with-path-traversal-in-cmd-exe/, OS-command-injection
 - https://medium.com/@__mr_beast__/the-accidental-rce-7ceef9cee179, Unrestricted-file-upload
@@ -3955,7 +3951,6 @@
 - https://medium.com/@arbazhussain/referer-based-xss-52aeff7b09e7, XSS
 - https://labs.detectify.com/2017/07/27/how-we-invented-the-tesla-dom-doom-xss/, DOM-XSS
 - https://medium.com/@zahidali_93675/disabling-new-emails-from-facebook-without-email-owner-interaction-11c979778a68, Logic-flaw
-- https://www.seekurity.com/blog/general/rolling-around-and-bypassing-facebook-linkshim-protection-on-ios, Open-redirect
 - https://medium.com/@arbazhussain/stored-xss-on-rockstar-game-c008ec18d071, XSS
 - https://bugbaba.blogspot.com/2017/07/open-redirect-in-flock-my-first-swag.html, Open-redirect
 - https://www.seekurity.com/blog/general/business-logic-vulnerabilities-series-a-brief-on-abusing-invitation-systems/, Logic-flaw

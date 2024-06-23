@@ -25,3 +25,4 @@
 - https://web.archive.org/web/20201013141953/https://medium.com/@adeshkolte/multiple-intel-vulnerabilities-adesh-kolte-9f74372db34c
 - https://hunter-55.medium.com/how-i-was-able-to-bypass-open-redirect-3-times-on-same-program-d78f9d2443f6
 - https://medium.com/bugbountywriteup/bugbounty-linkedln-how-i-was-able-to-bypass-open-redirection-protection-2e143eb36941
+- https://www.seekurity.com/blog/general/rolling-around-and-bypassing-facebook-linkshim-protection-on-ios

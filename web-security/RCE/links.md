@@ -112,3 +112,4 @@
 - https://blog.assetnote.io/2023/06/07/moveit-transfer-patch-diff-adventure/
 - https://starlabs.sg/blog/2023/03-cs-cart-pdf-plugin-unauthenticated-command-injection/
 - https://medium.com/@nynan/how-i-didnt-get-an-rce-in-a-200-billion-company-bug-bounty-377afb2fb4ec
+- https://pulsesecurity.co.nz/advisories/GOCD-Multiple-Vulnerabilities

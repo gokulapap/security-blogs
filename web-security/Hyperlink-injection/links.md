@@ -1,2 +1,3 @@
 - https://medium.com/@deepmarketer/hyperlink-injection-on-irc-cloud-809e5243406f
 - https://medium.com/@know.0nix/link-injection-manipulation-at-admin-google-com-6da3b15a2854
+- https://medium.com/@silentbronco/the-p5-link-injection-story-2632e61f62b7
