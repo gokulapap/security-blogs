@@ -95,3 +95,4 @@
 - https://www.intruder.io/research/in-guid-we-trust
 - https://servicenger.com/mobile/idor-add-or-remove-the-linked-publications-from-author-publisher-settings-facebook-bug-bounty/
 - https://medium.com/bugbountywriteup/idor-leads-to-getting-access-tokens-of-users-linked-to-google-drive-on-edmodo-3978017134bd
+- https://medium.com/@mr_hacker/a-5000-idor-f4268fffcd2e

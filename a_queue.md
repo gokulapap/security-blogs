@@ -1537,7 +1537,6 @@
 - https://medium.com/@anjaneyulukanakatla1996/my-first-bug-in-hackerone-a68cf7b05510, Information-disclosure
 - https://medium.com/@_ip_/2-3-xss-through-the-front-door-gitlab-fc4b6799e743, XSS
 - https://falcnix.medium.com/threat-evasion-for-aws-multifactorauthpresent-condition-using-cloudshell-8296b34ecad4, MFA-bypass
-- https://www.sentinelone.com/labs/inside-the-black-box-how-we-fuzzed-microsoft-defender-for-iot-and-found-multiple-vulnerabilities/, DoS
 - https://rhinosecuritylabs.com/aws/cve-2022-25165-aws-vpn-client/, Local-Privilege-Escalation
 - https://www.notgitbleed.com, Information-disclosure
 - https://blog.lightspin.io/aws-rds-critical-security-vulnerability, LFI
@@ -2368,7 +2367,6 @@
 - https://www.shielder.it/blog/2021/02/hunting-for-bugs-in-telegrams-animated-stickers-remote-attack-surface/, Memory-corruption
 - https://www.trendmicro.com/en_us/research/21/b/shareit-flaw-could-lead-to-remote-code-execution.html, Android
 - https://ysamm.com/?p=606, Authorization-flaw
-- https://mokhansec.medium.com/full-account-takeover-worth-1000-think-out-of-the-box-808f0bdd8ac7, Account-takeover
 - https://ysamm.com/?p=609, Authorization-flaw
 - https://ysamm.com/?p=613, Information-disclosure
 - https://vbharad.medium.com/stored-xss-in-icloud-com-5000-998b8c4b2075, Stored-XSS
@@ -3148,7 +3146,6 @@
 - https://noobe.io/articles/2019-10/xss-to-account-takeover, XSS
 - https://flex0geek.blogspot.com/2019/10/leak-can-i-take-user-information-please.html, Information-disclosure
 - http://www.hydrogen18.com/blog/reddit-android-app-leaks-images.html, Information-disclosure
-- http://firstsight.me/2019/10/illegal-rendered-at-download-feature-in-several-apps-including-opera-mini-that-lead-to-extension-manipulation-with-rtlo/, RTLO
 - https://medium.com/@D0rkerDevil/how-i-tookover-a-ldap-server-703209161001, Misconfigured-LDAP-server
 - https://medium.com/@evilboyajay/session-expiration-bypass-in-facebook-creator-app-b4f65cc64ce4, Session-expiration-issue
 - https://portswigger.net/research/responsible-denial-of-service-with-web-cache-poisoning, DoS
@@ -3257,7 +3254,6 @@
 - https://philippeharewood.com/subscribe-to-typing-notifications-for-any-instagram-user/, Authorization-flaw
 - https://blog.usejournal.com/shopping-products-for-free-parameter-tampering-vulnerability-8e09e1471596, Parameter-tampering
 - https://www.noob.ninja/2019/07/exploiting-tricky-blind-sql-injection.html, SQL-injection
-- https://philippeharewood.com/get-page-inbox-notifications-for-any-facebook-page/, Authorization-flaw
 - https://burninatorsec.blogspot.com/2019/07/microsoft-id-open-redirect.html, Open-redirect
 - https://leucosite.com/Microsoft-Office-365-Outlook-XSS/, XSS
 - https://medium.com/@sumitcfe/account-takeover-vulnerability-7e6e039a4dd3, Password-reset
@@ -3376,7 +3372,6 @@
 - https://sites.google.com/securifyinc.com/secblogs/scary-tickets, Ticket-Trick
 - https://www.inputzero.io/2019/04/evernote-cve-2019-10038.html, RCE
 - https://medium.com/bugbountywriteup/banner-grabbing-to-dos-and-memory-corruption-2442b1c25bbb, DoS
-- https://medium.com/@mr_hacker/a-5000-idor-f4268fffcd2e, IDOR
 - https://medium.com/@ZishanAdThandar/just-5-minute-to-get-my-2nd-stored-xss-on-edmodo-com-fe2ee559e00d, Stored-XSS
 - https://medium.com/@valeriyshevchenko/how-i-hacked-vending-machine-5b5a80bd5ffe, Violation-of-secure-design-principles
 - https://medium.com/@daniel.marad/post-komodosec-google-groups-authorization-bypass-500-bounty-adb371d16ab6, Authorization-flaw

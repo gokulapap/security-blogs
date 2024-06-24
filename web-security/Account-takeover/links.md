@@ -43,3 +43,4 @@
 - https://medium.com/hackcura/multiple-flaws-leads-to-account-takeover-within-an-application-9f64abfb1073
 - https://medium.com/@nireshpandian19/my-first-account-takeover-fd5570f09c0a
 - https://medium.com/@saadahmedx/account-takeover-worth-900-cacbe10de58e
+- https://mokhansec.medium.com/full-account-takeover-worth-1000-think-out-of-the-box-808f0bdd8ac7

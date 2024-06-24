@@ -12,3 +12,4 @@
 - https://medium.com/@veletisleri/how-i-downed-acronis-com-in-2-minutes-lucky-bug-write-up-a563bcdb563d
 - https://medium.com/@ronak_9889/denial-of-service-using-cookie-bombing-55c2d0ef808c
 - https://gist.github.com/karalabe/4d10a879e361bb5b85302d57c193f532
+- https://www.sentinelone.com/labs/inside-the-black-box-how-we-fuzzed-microsoft-defender-for-iot-and-found-multiple-vulnerabilities/
