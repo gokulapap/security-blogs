@@ -316,7 +316,6 @@
 - https://blog.thalium.re/posts/leveraging-android-permissions/, Android
 - https://github.com/firsov/onlyoffice/blob/main/CVE-2023-34939-PoC.md, Path-traversal
 - https://0xa1mn.medium.com/how-i-unveiled-a-critical-vulnerability-exposing-all-buyers-invoices-pii-with-a-single-trick-691fd410fd7a, Information-disclosure
-- https://medium.com/@smukx/how-i-hacked-my-college-cloud-servers-and-find-dos-ato-google-authentication-priv-esc-676b2db98938, Authentication-bypass
 - https://securitycafe.ro/2023/06/19/dll-hijacking-finding-vulnerabilities-in-pestudio-9-52/, DLL-Hijacking
 - https://blog.coffinsec.com/0day/2023/05/31/minidlna-heap-overflow-rca.html, Memory-corruption
 - http://www.firstsight.me/2023/06/the-unexpected-0-master-id-for-account-data-manipulation/, IDOR
@@ -1175,7 +1174,6 @@
 - https://srahulceh.medium.com/bug-bounty-how-i-found-an-ssrf-reconnaissance-7b1821a1b1fd, SSRF
 - https://www.shielder.com/blog/2022/09/how-to-decrypt-manage-engine-pmp-passwords-for-fun-and-domain-admin-a-red-teaming-tale/, Cryptographic-issues
 - https://medium.com/@jedus0r/idor-insecure-direct-object-references-my-first-p1-in-bugbounty-fb01f50e25df, IDOR
-- https://daniel.haxx.se/blog/2022/09/05/a-bug-that-was-23-years-old-or-not/, DoS
 - https://zolder.io/hacking-my-helium-crypto-miner/, Hardcoded-credentials
 - https://ssd-disclosure.com/ssd-advisory-linux-config_watch_queue-lpe/, Memory-corruption
 - https://blog.silentsignal.eu/2022/09/05/simple-ibm-i-as-400-hacking/, Local-Privilege-Escalation
@@ -1852,7 +1850,6 @@
 - https://securityflow.io/impact-of-an-insecure-deep-link/, Insecure-deeplink
 - https://secureitmania.medium.com/never-leave-this-tip-while-you-hunting-broken-access-control-f63c00b1e96a, Broken-Access-Control
 - https://medium.com/@yashhunter772/how-i-got-200-in-30-seconds-3dd742f60186, Information-disclosure
-- https://tox7cv3nom.github.io/2021/11/12/chaining-of-csrf-token-misconfiguration-and-no-rate-limit-leads-to-mass-account-takeover.html, Account-takeover
 - https://hector0x.medium.com/from-url-dumps-digging-to-idor-bac-massive-phishing-in-udemy-6fa7f94ef256, Broken-Access-Control
 - https://coffeejunkie.me/Simple-SSRF/, SSRF
 - https://omespino.com/write-up-google-vrp-bug-bounty-etc-environment-local-variables-exfiltrated-on-linux-google-earth-pro-desktop-app-1337-usd/, XSS
@@ -3047,7 +3044,6 @@
 - https://irsl.medium.com/the-trouble-with-microsofts-troubleshooters-6e32fc80b8bd, RCE
 - https://xvnpw.github.io/posts/from-dot-in-regex-to-ssrf-part-2/, SSRF
 - https://palant.info/2020/01/13/pwning-avast-secure-browser-for-fun-and-profit, RCE
-- https://medium.com/@abhishake100/my-first-rce-stressed-employee-gets-me-2x-bounty-c4879c277e37, Unrestricted-file-upload
 - https://medium.com/@know.0nix/hunting-good-bugs-with-only-html-d8fd40d17b38, Open-redirect
 - https://blog.redteam.pl/2020/04/google-chrome-display-locking-fuzzing.html, Use-After-Free
 - https://medium.com/@alex.birsan/the-bug-that-exposed-your-paypal-password-539fc2896da9, XSSI
@@ -3140,7 +3136,6 @@
 - https://samcurry.net/filling-in-the-blanks-exploiting-null-byte-buffer-overflow-for-a-40000-bounty/, Null-byte-buffer-overflow
 - https://medium.com/@z0id/finding-open-redirects-like-a-pro-3b87fa474cfd, Open-redirect
 - https://medium.com/@naufalseptiadi/live-video-facebook-application-android-its-not-expired-when-log-out-the-device-on-4d4e0b67b362, Logic-flaw
-- https://medium.com/@R0X4R/graphql-introspection-leads-to-sensitive-data-disclosure-714f1d9d9d4a, Information-disclosure
 - https://medium.com/bugbountywriteup/5-000-usd-xss-issue-at-avast-desktop-antivirus-for-windows-yes-desktop-1e99375f0968, Reflected-XSS
 - https://medium.com/@Hossam.Mesbah/cross-site-request-forgery-critical-exploitable-in-infected-site-a271aedeed2f, CSRF
 - https://noobe.io/articles/2019-10/xss-to-account-takeover, XSS

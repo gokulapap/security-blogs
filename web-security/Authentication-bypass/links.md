@@ -21,3 +21,4 @@
 - https://medium.com/@digant_15/my-first-valid-bug-bypass-the-admin-panel-e859e72a1b7d
 - https://medium.com/@santoshbrl5/facebook-new-account-verification-bypass-c589017f2faf
 - https://medium.com/@sharp488/2fa-enabled-accounts-can-bypass-authentication-access-account-after-deactivation-8276a586be82
+- https://medium.com/@smukx/how-i-hacked-my-college-cloud-servers-and-find-dos-ato-google-authentication-priv-esc-676b2db98938

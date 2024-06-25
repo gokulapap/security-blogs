@@ -91,3 +91,4 @@
 - https://tamimhasan404.medium.com/elasticsearch-a-easy-win-for-bug-bounty-hunters-how-to-find-and-report-ddd900395bcb
 - https://abhisek3122.medium.com/increasing-impact-of-information-disclosure-full-account-takeover-2f12d8963d5c
 - https://medium.com/@0x48piraj/how-i-hacked-a-website-integrated-w-facebook-having-1-1-mil-users-under-45-seconds-e4adcfe8ccd6
+- https://medium.com/@R0X4R/graphql-introspection-leads-to-sensitive-data-disclosure-714f1d9d9d4a

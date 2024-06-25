@@ -13,3 +13,4 @@
 - https://medium.com/@ronak_9889/denial-of-service-using-cookie-bombing-55c2d0ef808c
 - https://gist.github.com/karalabe/4d10a879e361bb5b85302d57c193f532
 - https://www.sentinelone.com/labs/inside-the-black-box-how-we-fuzzed-microsoft-defender-for-iot-and-found-multiple-vulnerabilities/
+- https://daniel.haxx.se/blog/2022/09/05/a-bug-that-was-23-years-old-or-not/

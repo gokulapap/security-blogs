@@ -13,3 +13,4 @@
 - https://supras.io/exploitation-of-the-cve-2018-15961-unrestricted-file-upload-in-adobe-coldfusion/
 - https://www.synack.com/blog/guest-blog-from-file-upload-to-rce/
 - https://web.archive.org/web/20200601005729/https://vict0ni.me/unrestricted-file-upload-on-pdf/
+- https://medium.com/@abhishake100/my-first-rce-stressed-employee-gets-me-2x-bounty-c4879c277e37
