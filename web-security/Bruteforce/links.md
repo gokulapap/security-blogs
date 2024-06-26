@@ -7,3 +7,4 @@
 - https://medium.com/@r0t1v/uber-hacking-how-we-found-out-who-you-are-where-you-are-and-where-you-went-1e0769674535
 - https://medium.com/@_ip_/1-3-brute-force-protection-bypass-gitlab-15a17909bb
 - https://medium.com/@addictrao20/fixed-brute-force-instagram-accounts-passwords-938471b6e9d4
+- https://medium.com/@dortz/how-did-i-bypass-a-custom-brute-force-protection-and-why-that-solution-is-not-a-good-idea-4bec705004f9

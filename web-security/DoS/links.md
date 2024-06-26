@@ -14,3 +14,4 @@
 - https://gist.github.com/karalabe/4d10a879e361bb5b85302d57c193f532
 - https://www.sentinelone.com/labs/inside-the-black-box-how-we-fuzzed-microsoft-defender-for-iot-and-found-multiple-vulnerabilities/
 - https://daniel.haxx.se/blog/2022/09/05/a-bug-that-was-23-years-old-or-not/
+- https://gatolouco.medium.com/cookie-poisoning-leads-to-dos-and-privacy-violation-8aa773547c96

@@ -1598,7 +1598,6 @@
 - https://debprasadbanerjee502.medium.com/adobe-bug-bounty-using-idor-confidential-data-leaks-f6c55e5143d0, IDOR
 - https://mearegtu.medium.com/insecure-direct-object-reference-exposes-all-users-of-microsoft-azure-independent-software-vendors-bed3b45e509, IDOR
 - https://medium.com/@interc3pt3r/for-the-first-bounty-it-takes-a-few-challenging-months-but-only-a-few-days-for-the-second-7b53259b0199, Old-components-with-known-vulnerabilities
-- https://www.zerodayinitiative.com/blog/2022/3/16/abusing-arbitrary-file-deletes-to-escalate-privilege-and-other-great-tricks, Local-Privilege-Escalation
 - https://medium.com/@vamshivaran110/my-first-blind-sql-injection-7db4b5e5c66d, SQL-injection
 - https://shahjerry33.medium.com/parameter-pollution-zero-day-3feb86ee8a02, HTTP-parameter-pollution
 - https://github.com/justinsteven/advisories/blob/main/2022_git_buried_bare_repos_and_fsmonitor_various_abuses.md, RCE
@@ -1877,7 +1876,6 @@
 - https://www.microsoft.com/security/blog/2021/10/28/microsoft-finds-new-macos-vulnerability-shrootless-that-could-bypass-system-integrity-protection/, SIP-bypass
 - https://omespino.com/write-up-xss-stored-in-api-media-atlassian-com-via-doc-file-ios/, Stored-XSS
 - https://shubhamchaskar.com/xxe-to-ntlm/, XXE
-- https://medium.com/@vikramroot/unauthorized-access-to-any-users-account-600e8efe7de0, IDOR
 - https://blog.sonarsource.com/gocd-pre-auth-pipeline-takeover, Broken-authentication
 - https://web.archive.org/web/20211216032639/https://xelkomy.medium.com/easy-ssrf-from-wayback-machine-edf946486120, SSRF
 - https://darrenmartyn.ie/2021/10/27/zimbra-zmslapd-local-root-exploit/, Local-Privilege-Escalation
@@ -2258,7 +2256,6 @@
 - https://arben.sh/bugbounty/Local-File-Inclusion/, LFI
 - https://infosecwriteups.com/unauthenticated-account-takeover-through-forget-password-c120b4c1141d, Password-reset
 - https://monke.ie/duckduckgoxss/, Stored-XSS
-- https://gatolouco.medium.com/cookie-poisoning-leads-to-dos-and-privacy-violation-8aa773547c96, DoS
 - https://sites.google.com/securifyinc.com/vrp-writeups/hire-with-google/auth-issues, Authentication-flaw
 - https://gatolouco.medium.com/critical-blind-storage-xss-my-first-bug-bounty-d318f6ba570c/, Blind-XSS
 - https://mikey96.medium.com/what-if-you-could-deposit-money-into-your-betting-account-for-free-24f6690aff46, Logic-flaw
@@ -3306,7 +3303,6 @@
 - https://noobe.io/articles/2019-06/reflected-xss-on-error-page, Reflected-XSS
 - https://medium.com/bugbountywriteup/account-takeover-using-idor-and-the-misleading-case-of-error-403-cb42c96ea310, IDOR
 - https://medium.com/@hariharan21/idor-leads-to-project-takeover-548a1bfd4d66, IDOR
-- https://medium.com/@noob.assassin/dont-underestimates-the-errors-they-can-provide-good-bounty-d437ecca6596, Information-disclosure
 - https://web.archive.org/web/20200928091625/https://pwnsec.ninja/2019/06/06/how-i-was-able-to-get-private-ticket-response-panel-and-fortigate-web-panel-via-blind-xss/, Blind-XSS
 - https://payatu.com/microsoft-edge-extensions-host-permission-bypass-cve-2019-0678/, Browser-hacking
 - https://portswigger.net/blog/bypassing-csp-with-policy-injection, CSP-bypass
@@ -3317,7 +3313,6 @@
 - https://anotherhackerblog.com/exploiting-file-uploads-pt1/, Stored-XSS
 - https://medium.com/@matarpan33r/stored-xss-on-edmodo-67b244824fa5, Stored-XSS
 - https://smaranchand.com.np/2019/05/an-unexploited-cors-misconfiguration-reflecting-further-issues/, CORS-misconfiguration
-- https://medium.com/@dortz/how-did-i-bypass-a-custom-brute-force-protection-and-why-that-solution-is-not-a-good-idea-4bec705004f9, Bruteforce
 - https://ysamm.com/?p=272, Weak-encryption
 - https://medium.com/@mustafakhan_89646/multiple-api-issues-due-to-fixed-authorization-token-17365056f17a, Authorization-flaw
 - https://smaranchand.com.np/2019/05/how-i-acquired-xxx-bounty-by-investing-99-cents/, Logic-flaw
