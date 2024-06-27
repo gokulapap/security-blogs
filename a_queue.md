@@ -122,7 +122,6 @@
 - https://medium.com/@rohit443/idor-on-password-change-to-full-account-takeover-4d96b9f7f9f0, IDOR
 - https://medium.com/@thelinuxboy/bugging-out-my-experience-of-earning-300-for-reporting-an-unexpected-bug-ec9f9b0054bc, journey
 - https://medium.com/@gokulelango1040/privilege-escalation-attacks-28a9ef226abb, privilege-escalation
-- https://medium.com/@jjainam16/csrf-lead-to-account-deletion-critical-bounty-7500-58aa6b848e3a, csrf
 - https://medium.com/@hasharmujahid/bypassing-csrf-protection-i-bc014384d0aa, csrf
 - https://medium.com/@ashrafharb997/csrf-to-full-account-takeover-5196cef9d166, csrf
 - https://medium.com/@grahamzemel/1000-bac-the-complete-guide-to-exploiting-broken-access-control-966f1bd121e9, BAC
@@ -802,7 +801,6 @@
 - https://medium.com/@querylab/bypass-premium-account-payment-getpocket-d813b249687c, Payment-bypass
 - https://medium.com/@mohammed01550038865/hello-hackers-a229fb5c821b, Blind-XSS
 - https://sudhanshur705.medium.com/exploring-the-world-of-esi-injection-b86234e66f91, ESI-injection
-- https://hamzadzworm.medium.com/how-i-got-a-bug-that-leads-to-takeover-accounts-of-any-user-who-view-my-profile-913c8704f6cd, XSS
 - https://medium.com/@ashlyn.lau_17206/hooking-secret-key-to-building-custom-burp-extension-c6aeb6fd312a, SQL-injection
 - https://infosecwriteups.com/unauthorized-sign-up-on-subdomain-of-subdomain-leading-to-organization-takeover-worth-2000-a7199952d80b, Exposed-registration-page
 - https://tamimhasan404.medium.com/ldap-anonymous-login-story-of-my-3-simple-p3-findings-d5b4a991b345, LDAP-anonymous-login
@@ -2441,7 +2439,6 @@
 - https://niemand.com.ar/2021/01/08/exploiting-application-level-profile-semantics-apls-from-spring-data-rest/, APLS-misconfiguration
 - https://ashketchum.medium.com/blind-xss-in-google-analytics-admin-panel-3133-70-2185d1cce82a, Blind-XSS
 - https://orthonviper.medium.com/information-disclosure-through-signup-endpoint-86d2d66dfef1, Information-disclosure
-- https://devcraft.io/2021/01/07/universal-deserialisation-gadget-for-ruby-2-x-3-x.html, Insecure-deserialization
 - https://krevetk0.medium.com/10-000-for-a-vulnerability-that-doesnt-exist-9dbc63684e94, Path-traversal
 - https://emanuel-beni.medium.com/stored-xss-on-product-description-high-400-2f078fd70fd2, Stored-XSS
 - https://web.archive.org/web/20210106234354/https://medium.com/bugbountywriteup/subdomain-take-over-worth-100-ce822ed85ba0, Subdomain-takeover
@@ -2640,7 +2637,6 @@
 - https://blog.redteam.pl/2020/08/stealing-local-files-using-safari-web.html, Browser-hacking
 - https://medium.com/@ricardoiramar/account-takeover-for-the-win-e320ce83cdd9, Account-takeover
 - https://infosecwriteups.com/bounties-for-unauthenticated-file-read-in-cisco-asa-cve-2020-3452-9a0b9143370e, LFI
-- https://medium.com/@kirtanpatel9111998/how-i-was-able-to-find-easy-p1-just-by-doing-recon-fdef0c689362, LFI
 - https://medium.com/bugbountywriteup/upload-to-the-future-1fd38fd502bd, IDOR
 - https://medium.com/@0xnazmul/how-i-found-my-first-bug-stored-xss-and-earned-my-first-bounty-1000-33556678d1ed, Stored-XSS
 - https://apapedulimu.click/shopify-com-blind-stored-xss-via-staff-name/, Stored-XSS
@@ -4068,7 +4064,6 @@
 - https://bitquark.co.uk/blog/2016/02/09/how_i_got_access_to_millions_of_redacted_accounts, RFI
 - https://portswigger.net/research/xss-without-html-client-side-template-injection-with-angularjs, CSTI
 - https://whitton.io/articles/xss-on-facebook-via-png-content-types, XSS
-- https://medium.com/bugbountywriteup/broken-access-control-in-bingmapsportal-a012bffd2c43, Broken-Access-Control
 - https://medium.com/bugbountywriteup/how-i-got-listed-in-microsoft-hall-of-fame-8f96ca4535c2, IDOR
 - https://web.archive.org/web/20210511011807/https://blog.evanricafort.com/2015/12/local-file-xss-vulnerability-in.html, XSS
 - https://blog.evanricafort.com/2015/12/arbitary-file-upload-vulnerability-in.html, Unrestricted-file-upload

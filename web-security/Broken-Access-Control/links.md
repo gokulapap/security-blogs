@@ -10,3 +10,4 @@
 - https://medium.com/stolabs/cve-2022-35909-cve-2022-35910-incorrect-access-control-and-xss-stored-to-jellyfin-967359c91058
 - https://bloggerrando.blogspot.com/2021/03/bug-bounty-like-and-dislike-count.html
 - https://castilho.onrender.com/kanboard
+- https://medium.com/bugbountywriteup/broken-access-control-in-bingmapsportal-a012bffd2c43

@@ -1,2 +1,3 @@
 - https://medium.com/@muhammedfarish007/how-i-found-a-csrf-vulnerability-on-a-bugcrowd-program-8dd7dbb5d091
 - https://medium.com/@bdemir/a-pentesters-guide-to-cross-site-request-forgery-csrf-57adedbad4be
+- https://medium.com/@jjainam16/csrf-lead-to-account-deletion-critical-bounty-7500-58aa6b848e3a

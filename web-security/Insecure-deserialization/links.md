@@ -13,3 +13,4 @@
 - https://www.websec.ca/publication/Blog/CVE-2022-21404-Another-story-of-developers-fixing-vulnerabilities-unknowingly-because-of-CodeQL
 - https://labs.nettitude.com/blog/introducing-aladdin/
 - https://talosintelligence.com/vulnerability_reports/TALOS-2022-1587
+- https://devcraft.io/2021/01/07/universal-deserialisation-gadget-for-ruby-2-x-3-x.html
