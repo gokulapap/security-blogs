@@ -39,3 +39,4 @@
 - https://medium.com/tenable-techblog/exploiting-jira-for-host-discovery-43be3cddf023
 - https://blogs.opera.com/security/2022/03/bug-bounty-adventures-a-nodebb-0-day/
 - https://infosecwriteups.com/story-of-a-weird-csrf-bug-bde1129c106e
+- https://shahjerry33.medium.com/csrf-with-idor-a-deadly-combo-203e93967702

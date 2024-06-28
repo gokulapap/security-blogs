@@ -62,7 +62,6 @@
 - https://medium.com/@gtm0x01/two-factor-authentication-bypass-on-facebook-3f4ac3ea139c, bypass
 - https://medium.com/@ibm_ptc_security/exploiting-missing-hsts-54f8e23ed80b, misc
 - https://medium.com/@manavbankatwala29/unique-rate-limit-bypass-worth-1800-6e2947c7d972, bypass
-- https://medium.com/@sathvika03/reset-the-password-for-vulnerability-b0805f7adf9c, reset-password
 - https://medium.com/@ethr/how-to-install-nmap-and-use-it-for-vulnerability-scanning-60dd84e06a53, automation
 - https://medium.com/@dPhoeniixx/tiktok-for-android-1-click-rce-240266e78105, RCE
 - https://medium.com/@yashdharmani/a-bug-that-made-me-250-485df60f5b26, journey
@@ -1715,7 +1714,6 @@
 - https://blog.sorcery.ie/posts/adodb_auth_bypass/, Authentication-bypass
 - https://blog.ret2.me/post/2022-01-26-exploiting-xiongmai-dvrs/, Memory-corruption
 - https://www.willsroot.io/2022/01/cve-2022-0185.html, Container-escape
-- https://infosecwriteups.com/how-i-could-have-read-your-confidential-bug-reports-by-simple-mail-cfd2e4f8e25c, Information-disclosure
 - https://www.ryanpickren.com/safari-uxss, Universal-XSS
 - https://aidilarf.medium.com/first-valid-bug-finding-at-microsoft-and-i-got-the-acknowledgments-page-microsoft-a2c185c53074, XSS
 - https://www.zerodayinitiative.com/blog/2022/1/25/cve-2021-44790-code-execution-on-apache-via-an-integer-underflow, Memory-corruption
@@ -1733,7 +1731,6 @@
 - https://medium.com/@robert0/how-i-found-broken-access-control-through-out-of-sync-setup-and-got-1000-9143fc5febdd, Broken-Access-Control
 - https://0xkasper.com/articles/moodle-sql-injection-broken-access-control.html, SQL-injection
 - https://hulkvision.github.io/blog/post1/, RCE
-- https://systemweakness.com/xss-filter-evasion-idor-3d4624758ff0, XSS
 - https://medium.com/@frycos/searching-for-deserialization-protection-bypasses-in-microsoft-exchange-cve-2022-21969-bfa38f63a62d, Insecure-deserialization
 - https://www.bitcrack.net/pwning-the-portal-from-database-dump-to-session-hijacking/, SQL-injection
 - https://www.cyberark.com/resources/threat-research-blog/attacking-rdp-from-inside, RCE
@@ -2426,7 +2423,6 @@
 - https://web.archive.org/web/20210730144815/https://www.cysek.org/post/sxss-by-cache-poison-attack, Web-cache-poisoning
 - https://srcincite.io/blog/2021/01/12/making-clouds-rain-rce-in-office-365.html, RCE
 - https://levelup.gitconnected.com/stealing-user-information-via-xss-via-parameter-pollution-7d99b3379e7d, Open-redirect
-- https://shahjerry33.medium.com/csrf-with-idor-a-deadly-combo-203e93967702, CSRF
 - https://binamrapandey.medium.com/unrestricted-file-upload-e95e1c6fb80, Unrestricted-file-upload
 - https://blog.mozilla.org/attack-and-defense/2021/01/11/leaking-silhouettes-of-cross-origin-images/, Side-channel-information-leakage
 - https://bugs.xdavidhu.me/google/2021/01/11/stealing-your-private-videos-one-frame-at-a-time/, IDOR
@@ -3346,7 +3342,6 @@
 - https://medium.com/@protostar0/sidefx-poc-user-enumeration-no-rate-limeted-in-send-message-function-953f1662d41, Username-enumeration
 - https://medium.com/@logicbomb_1/the-journey-of-web-cache-firewall-bypass-to-ssrf-to-aws-credentials-compromise-b250fb40af82, LFI
 - https://medium.com/@iframe_h1/a-picture-that-steals-data-ff604ba1012, Information-disclosure
-- https://blog.assetnote.io/bug-bounty/2019/04/23/getting-access-zendesk-gcp/, Information-disclosure
 - https://medium.com/@heshamwatany/the-neglected-bug-that-can-infect-all-facebook-users-who-pay-for-leads-ads-8c374cd64d76, CSV-injection
 - https://soroush.secproject.com/blog/2019/04/yet-other-examples-of-abusing-csrf-in-logout/, CSRF
 - https://medium.com/bugbountywriteup/xss-reflected-xss-bypass-filter-de41d35239a3, Reflected-XSS

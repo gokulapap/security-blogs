@@ -93,3 +93,5 @@
 - https://medium.com/@0x48piraj/how-i-hacked-a-website-integrated-w-facebook-having-1-1-mil-users-under-45-seconds-e4adcfe8ccd6
 - https://medium.com/@R0X4R/graphql-introspection-leads-to-sensitive-data-disclosure-714f1d9d9d4a
 - https://medium.com/@noob.assassin/dont-underestimates-the-errors-they-can-provide-good-bounty-d437ecca6596
+- https://blog.assetnote.io/bug-bounty/2019/04/23/getting-access-zendesk-gcp/
+- https://infosecwriteups.com/how-i-could-have-read-your-confidential-bug-reports-by-simple-mail-cfd2e4f8e25c

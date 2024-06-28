@@ -109,3 +109,4 @@
 - https://www.hackerinside.me/2019/09/xss-in-zoho-mail.html
 - https://abhishekgk.medium.com/how-chatgpt-helped-me-find-a-bug-b5a3795c722
 - https://hamzadzworm.medium.com/how-i-got-a-bug-that-leads-to-takeover-accounts-of-any-user-who-view-my-profile-913c8704f6cd
+- https://systemweakness.com/xss-filter-evasion-idor-3d4624758ff0

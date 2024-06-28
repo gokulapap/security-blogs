@@ -1,0 +1,1 @@
+- https://medium.com/@sathvika03/reset-the-password-for-vulnerability-b0805f7adf9c
