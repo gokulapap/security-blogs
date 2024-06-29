@@ -67,3 +67,4 @@
 - https://www.ehpus.com/post/author-spoofing-in-google-colaboratory
 - https://medium.com/@pratheesh.p.narayanan/bypassing-scratch-cards-on-google-pay-8915d5423385
 - https://medium.com/@Kntjrld/bypassing-default-visibility-for-newly-added-email-in-facebook-part-i-submitting-i-d-da78142f032d
+- https://medium.com/@rajeevgyawali92/irremovable-guest-in-facebook-event-facebook-bug-bounty-e10e03c98cd5

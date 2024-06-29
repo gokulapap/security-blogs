@@ -26,3 +26,4 @@
 - https://hunter-55.medium.com/how-i-was-able-to-bypass-open-redirect-3-times-on-same-program-d78f9d2443f6
 - https://medium.com/bugbountywriteup/bugbounty-linkedln-how-i-was-able-to-bypass-open-redirection-protection-2e143eb36941
 - https://www.seekurity.com/blog/general/rolling-around-and-bypassing-facebook-linkshim-protection-on-ios
+- https://bugbaba.blogspot.com/2017/07/open-redirect-in-flock-my-first-swag.html

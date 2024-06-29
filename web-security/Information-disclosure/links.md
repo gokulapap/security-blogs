@@ -95,3 +95,4 @@
 - https://medium.com/@noob.assassin/dont-underestimates-the-errors-they-can-provide-good-bounty-d437ecca6596
 - https://blog.assetnote.io/bug-bounty/2019/04/23/getting-access-zendesk-gcp/
 - https://infosecwriteups.com/how-i-could-have-read-your-confidential-bug-reports-by-simple-mail-cfd2e4f8e25c
+- https://medium.com/@pumudu88/yet-another-unexpected-hack-for-bounty-295cee0ecc24

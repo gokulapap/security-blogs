@@ -1263,7 +1263,6 @@
 - https://alpinnnnnn13.medium.com/stored-xss-in-app-gitbook-com-6349f42661f7, Stored-XSS
 - https://medium.com/@sharp488/2fa-bypass-via-google-identity-oauth-login-6c991ac837af, MFA-bypass
 - https://vsrc.vng.com.vn/blog/liferay-revisited-a-tale-of-20k/, RCE
-- https://medium.com/@rajeevgyawali92/irremovable-guest-in-facebook-event-facebook-bug-bounty-e10e03c98cd5, Logic-flaw
 - https://ruia-ruia.github.io/2022/08/05/CVE-2022-29582-io-uring/, Memory-corruption
 - https://infosecwriteups.com/how-i-was-able-to-get-29-free-products-bug-bounty-845667ab4ad4, Race-condition
 - https://www.rapid7.com/blog/post/2022/08/05/cve-2022-31660-and-cve-2022-31661-fixed-vmware-workspace-one-access-identity-manager-and-vrealize-automation-lpe/, Local-Privilege-Escalation
@@ -1599,7 +1598,6 @@
 - https://shahjerry33.medium.com/parameter-pollution-zero-day-3feb86ee8a02, HTTP-parameter-pollution
 - https://github.com/justinsteven/advisories/blob/main/2022_git_buried_bare_repos_and_fsmonitor_various_abuses.md, RCE
 - https://infosecwriteups.com/how-i-was-able-to-find-50-cross-site-scripting-xss-security-vulnerabilities-on-bugcrowd-public-ba33db2b0ab1, XSS
-- https://ssd-disclosure.com/ssd-advisory-exchange-server-getwacinfo-information-disclosure-vulnerability/, XXE
 - https://blog.sonarsource.com/securing-developer-tools-git-integrations, Local-Privilege-Escalation
 - https://research.nccgroup.com/2022/03/15/technical-advisory-apple-macos-xar-arbitrary-file-write-cve-2022-22582/, Arbitrary-file-write
 - https://blog.haboob.sa/blog/adobe-reader-cjk-codecs-memory-disclosure-vulnerability, Memory-disclosure
@@ -3403,7 +3401,6 @@
 - http://www.tomanthony.co.uk/blog/facebook-bug-confirm-user-identities/, Information-disclosure
 - https://www.smeegesec.com/2019/03/auditing-github-repo-wikis-for-fun-and.html, Misconfigured-Github-wiki
 - https://staaldraad.github.io/post/2019-03-02-universal-rce-ruby-yaml-load/, Insecure-deserialization
-- https://medium.com/@pumudu88/yet-another-unexpected-hack-for-bounty-295cee0ecc24, Information-disclosure
 - https://spyclub.tech/2019/02/26/horizontal-privilege-escalation-on-quora/, Privilege-escalation
 - https://web.archive.org/web/20200929000850/https://www.mohamedharon.com/2019/02/still-work-redirect-yahoo-subdomain-xss.html, Reflected-XSS
 - https://medium.com/@kunal94/web-cache-deception-attack-leads-to-user-info-disclosure-805318f7bb29, Web-cache-deception
@@ -3909,7 +3906,6 @@
 - https://medium.com/@Alra3ees/my-write-up-about-uber-cross-site-scripting-by-help-of-knoxss-b1b56f8d090, Reflected-XSS
 - https://medium.com/@arbazhussain/stealing-0auth-token-mitm-3eeab46e96cf, OAuth
 - https://medium.com/@TheShahzada/reflected-xss-in-yahoo-6e2b6b177448, Reflected-XSS
-- http://zhchbin.github.io/2017/08/30/Uber-XSS-via-Cookie/, XSS
 - https://medium.com/@rojanrijal/developer-luminate-idor-42bd0d98e0c, IDOR
 - https://medium.com/@arbazhussain/improper-storage-of-protected-projects-files-9ece8e9a4743, IDOR
 - https://medium.com/@arbazhussain/bypassing-rate-limit-protection-by-spoofing-originating-ip-ff06adf34157, Bruteforce
@@ -3928,7 +3924,6 @@
 - https://labs.detectify.com/2017/07/27/how-we-invented-the-tesla-dom-doom-xss/, DOM-XSS
 - https://medium.com/@zahidali_93675/disabling-new-emails-from-facebook-without-email-owner-interaction-11c979778a68, Logic-flaw
 - https://medium.com/@arbazhussain/stored-xss-on-rockstar-game-c008ec18d071, XSS
-- https://bugbaba.blogspot.com/2017/07/open-redirect-in-flock-my-first-swag.html, Open-redirect
 - https://www.seekurity.com/blog/general/business-logic-vulnerabilities-series-a-brief-on-abusing-invitation-systems/, Logic-flaw
 - https://medium.com/@ciph3r7r0ll/that-escalated-quickly-from-partial-csrf-to-reflected-xss-to-complete-csrf-to-stored-xss-6ba8103069c2, CSRF
 - https://medium.com/@arbazhussain/exploiting-misconfigured-cors-on-popular-btc-site-2aedfff906f6, CORS-misconfiguration
