@@ -7,3 +7,4 @@
 - https://medium.com/@anjaneyulukanakatla1996/its-all-about-2fa-bypass-or-account-takeover-f9521f0a03b5
 - https://eaton-works.com/2023/06/06/honda-ecommerce-hack/
 - https://lightningsecurity.io/blog/host-header-injection/
+- https://medium.com/@sumitcfe/account-takeover-vulnerability-7e6e039a4dd3

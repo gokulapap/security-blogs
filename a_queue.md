@@ -1544,7 +1544,6 @@
 - https://ahmadaabdulla.medium.com/vulnerabilitymultiple-vulnerability-leading-to-account-takeover-in-tiktok-smb-subdomain-c99e4a50b377, IDOR
 - https://gokulap.medium.com/how-i-got-access-to-1600k-users-pii-data-64a27a540963, Information-disclosure
 - https://www.secureworks.com/research/azure-active-directory-exposes-internal-information, Cloud
-- https://crypt0g30rgy.github.io/post/PaymentBypassThree, Payment-bypass
 - https://haxatron.gitbook.io/vulnerability-research/vr1, Broken-Access-Control
 - https://blog.aquasec.com/npm-supply-chain-attack, Information-disclosure
 - https://tarekbouali.com/posts/how-i-hacked-one-of-the-biggest-airlines-group-of-the-world/, IDOR
@@ -2097,7 +2096,6 @@
 - https://github.com/irsl/gcp-dhcp-takeover-code-exec, DHCP-flood
 - https://vovohelo.medium.com/how-i-found-my-first-chrome-bug-cve-2021-21210-248a21272248, NAT-Slipstreaming
 - https://blog.tyage.net/posts/2021-06-27-dependabot-rce/, SSRF
-- https://medium.com/techiepedia/misconfigured-3-bucket-a-semi-opened-environment-9cfb9dee782d, AWS-misconfiguration
 - https://www.pethuraj.com/blog/escalating-xss-to-arbitrary-file-read/, XSS
 - https://ysamm.com/?p=702, CSRF
 - https://ysamm.com/?p=700, Information-disclosure
@@ -2924,7 +2922,6 @@
 - https://hackemall.live/index.php/2020/03/31/akamai-web-application-firewall-bypass-journey-exploiting-google-bigquery-sql-injection-vulnerability/, SQL-injection
 - https://medium.com/@abidafahd/hacking-makes-me-forget-my-pain-b04bf51d0407, SQL-injection
 - https://blog.mert.ninja/freemarker-ssti-on-lithium-cms/, SSTI
-- https://medium.com/@hariharan21/restriction-is-not-a-promise-privilege-escalation-on-google-2a35104ded5a, Privilege-escalation
 - https://0x65.dev/blog/2020-03-30/cve-2019-17004-semi-universal-xss-affecting-firefox-for-ios.html, Universal-XSS
 - https://medium.com/@ranjitsinghnit/otp-bruteforce-account-takeover-faaac3d712a8, OTP-bruteforce
 - https://blog.redforce.io/attacking-helpdesks-part-1-rce-chain-on-deskpro-with-bitdefender-as-case-study/, RCE
@@ -3238,7 +3235,6 @@
 - https://www.noob.ninja/2019/07/exploiting-tricky-blind-sql-injection.html, SQL-injection
 - https://burninatorsec.blogspot.com/2019/07/microsoft-id-open-redirect.html, Open-redirect
 - https://leucosite.com/Microsoft-Office-365-Outlook-XSS/, XSS
-- https://medium.com/@sumitcfe/account-takeover-vulnerability-7e6e039a4dd3, Password-reset
 - https://medium.com/@sudhanshur705/how-recon-helped-me-to-to-find-a-facebook-domain-takeover-58163de0e7d5, Subdomain-takeover
 - https://medium.com/@circleninja/facebook-informative-bug-from-triaged-76738e4d5938, Lack-of-rate-limiting
 - https://medium.com/@lokeshdlk77/csrf-email-confirmation-vulnerability-for-gmail-g-suite-in-facebook-5ab551a0a526, CSRF
@@ -4032,7 +4028,6 @@
 - https://ahussam.me/Medium-full-account-takeover/, XSS
 - https://lab.wallarm.com/critical-linkedin-vulnerability-proactively-resolved-by-wallarm-xxe-in-application-server-239bba28e415, XXE
 - https://medium.com/bugbountywriteup/two-vulnerabilities-makes-an-exploit-xss-and-csrf-in-bing-cd4269da7b69, XSS
-- https://blog.zsec.uk/pwning-pornhub, Information-disclosure
 - https://www.seekurity.com/blog/general/runkeeper-stores-xss-vulnerability/, Stored-XSS
 - https://www.arneswinnen.net/2016/05/instabrute-two-ways-to-brute-force-instagram-account-credentials/, Bruteforce
 - https://www.seekurity.com/blog/general/badoo-hotornot-privacy-disclosure-feature-not-a-bug, Information-disclosure

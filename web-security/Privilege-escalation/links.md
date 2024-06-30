@@ -12,3 +12,4 @@
 - https://fortbridge.co.uk/research/multiple-vulnerabilities-in-concrete-cms-part2/
 - https://parasarora06.medium.com/privilege-escalation-from-being-a-normal-user-to-admin-3f86896f1c93
 - https://www.wiz.io/blog/the-cloud-has-an-isolation-problem-postgresql-vulnerabilities
+- https://medium.com/@hariharan21/restriction-is-not-a-promise-privilege-escalation-on-google-2a35104ded5a
