@@ -662,7 +662,6 @@
 - https://posts.specterops.io/abusing-azure-app-service-managed-identity-assignments-c3adefccff95, Cloud
 - https://github.com/j00sean/CVE-2022-44666, RCE
 - https://medium.com/@tarang.parmar/xss-on-most-popular-entertaining-website-2fbf5a88df0f, XSS
-- https://faiyazhacks.medium.com/i-got-united-nations-hall-of-fame-with-this-simple-technique-3d9a021e4a5d, HTML-injection
 - https://wesecureapp-smm.medium.com/assumed-breach-assessment-case-study-uncovering-wesecureapps-approach-45a512c0bd63, Internal-pentest
 - https://github.com/blackarrowsec/redteam-research/tree/master/LPE%20via%20StorSvc, Local-Privilege-Escalation
 - https://mahmoudsec.blogspot.com/2023/02/sql-injection-utilizing-xml-functions.html, SQL-injection
@@ -1436,7 +1435,6 @@
 - https://www.zerodayinitiative.com/blog/2022/6/1/is-exploiting-a-null-pointer-deref-for-lpe-just-a-pipe-dream, Memory-corruption
 - https://medium.com/@ratnadip1998/how-i-mass-hunt-for-admin-panel-access-8c2ad145054, Default-credentials
 - https://hencohen10.medium.com/microsoft-dynamics-container-sandbox-rce-via-unauthenticated-docker-remote-api-20-000-bounty-7f726340a93b, RCE
-- https://medium.com/@mahitman1/how-i-found-a-goldmine-but-got-no-gold-e912a89fa522, Old-components-with-known-vulnerabilities
 - https://medium.com/@byq/from-open-redirect-to-rce-in-one-week-66a7f73fd082, Open-redirect
 - https://medium.com/@terminatorLM/abusing-facebooks-feature-for-a-permanent-account-confusion-logic-vulnerability-d7f5160f373a, MFA-bypass
 - https://medium.com/@ratnadip1998/how-to-find-access-admin-panel-by-digging-into-js-files-282d89391a2d, Weak-credentials
@@ -1894,7 +1892,6 @@
 - https://lf.lc/vrp/203177829/, RCE
 - https://omespino.com/write-up-google-vrp-n-a-arbitrary-local-file-read-macos-via-a-tag-and-null-byte-in-google-earth-pro-desktop-app/, Local-File-Read
 - https://gowtham-naidu.medium.com/500-bug-sensitive-data-exposure-to-broken-access-control-leads-how-i-able-to-take-over-any-33658f16e265, OTP-bypass
-- https://jub0bs.com/posts/2021-10-12-xsleak-stack/, XSLeaks
 - https://medium.com/@mehdi.alouache/eset-endpoint-security-credentials-theft-90082dfdf474, Credentials-sent-over-unencrypted-channel
 - https://medium.com/cider-sec/bypassing-required-reviews-using-github-actions-6e1b29135cc7, Privilege-escalation
 - https://joranhonig.nl/stealing-info-using-ipfs-fuse/, Web3-hacking
@@ -2420,7 +2417,6 @@
 - https://srcincite.io/blog/2021/01/12/making-clouds-rain-rce-in-office-365.html, RCE
 - https://levelup.gitconnected.com/stealing-user-information-via-xss-via-parameter-pollution-7d99b3379e7d, Open-redirect
 - https://binamrapandey.medium.com/unrestricted-file-upload-e95e1c6fb80, Unrestricted-file-upload
-- https://blog.mozilla.org/attack-and-defense/2021/01/11/leaking-silhouettes-of-cross-origin-images/, Side-channel-information-leakage
 - https://bugs.xdavidhu.me/google/2021/01/11/stealing-your-private-videos-one-frame-at-a-time/, IDOR
 - https://johnjhacking.com/blog/unep-breach/, Information-disclosure
 - https://blog.cybercastle.io/weblogic-remote-code-execution-exploiting-cve-2019-2725/, RCE
@@ -2481,7 +2477,6 @@
 - https://blog.evanricafort.com/2020/12/cve-2019-17674-wordpress-stored-xss.html, Stored-XSS
 - https://nmochea.medium.com/this-post-is-about-an-reflected-xss-that-i-found-on-opera-browser-application-which-could-have-been-39823a22045d, XSS
 - https://amineaboud.medium.com/10000-facebook-ssrf-bug-bounty-402bd21e58e5, SSRF
-- https://komradz86.medium.com/leaking-credit-card-activity-in-logs-yes-sir-b988bb6c0c2, Information-disclosure
 - https://securitytrooper.com/en/cross-site-scripting-xss-reflected-in-one-of-the-subdomains-of-general-motorsbugbounty, Reflected-XSS
 - https://blog.witcoat.com/2020/12/03/site-wide-csrf-on-glassdoor/, CSRF
 - https://www.fortinet.com/blog/threat-research/leaking-browser-url-protocol-handlers, Information-disclosure

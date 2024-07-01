@@ -8,3 +8,4 @@
 - https://justm0rph3u5.medium.com/injecting-punycode-url-within-the-arbitrary-text-via-comment-box-in-google-photos-sharing-option-8b424065deb3
 - https://blog.evanricafort.com/2019/07/html-injection-in-clause-email.html
 - https://medium.com/@pratiky054/html-injection-unique-exploitation-a5c3d4e6fed8
+- https://faiyazhacks.medium.com/i-got-united-nations-hall-of-fame-with-this-simple-technique-3d9a021e4a5d

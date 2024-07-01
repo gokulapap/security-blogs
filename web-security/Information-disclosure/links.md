@@ -97,3 +97,4 @@
 - https://infosecwriteups.com/how-i-could-have-read-your-confidential-bug-reports-by-simple-mail-cfd2e4f8e25c
 - https://medium.com/@pumudu88/yet-another-unexpected-hack-for-bounty-295cee0ecc24
 - https://blog.zsec.uk/pwning-pornhub
+- https://komradz86.medium.com/leaking-credit-card-activity-in-logs-yes-sir-b988bb6c0c2
