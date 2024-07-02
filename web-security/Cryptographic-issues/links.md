@@ -3,3 +3,4 @@
 - https://secureitmania.medium.com/hack-crypto-secrets-from-heap-memory-to-exploit-android-application-728097fcda3
 - https://github.com/MystenLabs/ed25519-unsafe-libs
 - https://mega-caveat.github.io
+- https://www.usenix.org/system/files/sec23summer_198-gilsenan-prepub.pdf

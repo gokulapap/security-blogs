@@ -8,3 +8,4 @@
 - https://www.cyberick.com/post/xxe-in-saml-sso-writeup-bug-bounty
 - https://0xmahmoudjo0.medium.com/exploiting-out-of-band-xxe-in-the-wild-16fc6dad9ee2
 - https://ssd-disclosure.com/ssd-advisory-exchange-server-getwacinfo-information-disclosure-vulnerability/
+- https://lab.wallarm.com/critical-linkedin-vulnerability-proactively-resolved-by-wallarm-xxe-in-application-server-239bba28e415

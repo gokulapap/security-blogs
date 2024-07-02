@@ -635,7 +635,6 @@
 - https://www.codean.io/blog/vulnerability-write-up---%22dangerous-assumptions%22, Prototype-pollution
 - https://medium.com/@rramgattie/exploiting-parameter-pollution-in-golang-web-apps-daca72b28ce2, Authorization-flaw
 - https://medium.com/@knassar702/with-a-single-request-you-can-kill-any-gitea-server-1275c5f3b226, Application-level-DoS
-- https://servicenger.com/mobile/android/access-twitter-blue-features-using-deeplink-without-a-paid-subscription/, Insecure-deeplink
 - https://medium.com/@fattselimi/information-disclosure-vulnerability-in-adobe-experience-manager-affecting-multiple-companies-2fb0558cd957, Information-disclosure
 - https://medium.com/@chenshiri/taking-over-google-cloud-shell-by-utilizing-capabilities-and-kubelet-fd5e2417f286, Container-escape
 - https://www.vaadata.com/blog/exploiting-an-html-injection-with-dangling-markup/, HTML-injection
@@ -764,7 +763,6 @@
 - https://onekey.com/blog/security-advisory-wago-unauthenticated-config-export-vulnerability/, Path-traversal
 - https://blog.pksecurity.io/2023/01/16/2022-microsoft-teams-rce.html, RCE
 - https://blog.viettelcybersecurity.com/cve-2022-21587-oracle-e-business-suite-unauth-rce/, RCE
-- https://medium.com/@xerox0x1/full-account-take-over-by-very-simple-trick-b4025a53047c, Account-takeover
 - https://blog.hckrt.com/blog/thisclosed_2/, SQL-injection
 - https://medium.com/@mares.viktor/critical-vulnerability-through-osint-only-56e56eb97516, Information-disclosure
 - https://blog.geekycat.in/xss-using-postmessage-in-google-cloud-theia-notebooks/, XSS
@@ -955,7 +953,6 @@
 - https://theevilbit.github.io/posts/cve-2022-32929/, Local-Privilege-Escalation
 - https://sec-consult.com/vulnerability-lab/advisory/path-traversal-vulnerability-in-payara-platform/, Path-traversal
 - https://medium.com/@jodyritonga/how-i-get-100-in-just-10-minutes-b018b28645ce, Race-condition
-- https://www.usenix.org/system/files/sec23summer_198-gilsenan-prepub.pdf, Cryptographic-issues
 - https://varmaanu001.medium.com/from-shodan-dork-to-grafana-local-file-inclusion-e77dc4cfc264, LFI
 - https://blog.oversecured.com/Discovering-vendor-specific-vulnerabilities-in-Android/, Android
 - https://unit42.paloaltonetworks.com/openlitespeed-vulnerabilities/, RCE
@@ -1487,7 +1484,6 @@
 - https://medium.com/@z.x/how-we-hacked-bypassed-admin-panel-just-by-js-file-eaa773b5cdb4, Information-disclosure
 - https://blog.viettelcybersecurity.com/cve-2022-0540-authentication-bypass-in-seraph/, Authentication-bypass
 - https://systemweakness.com/chained-bug-xml-file-upload-to-xss-to-csrf-to-full-account-take-over-ato-156409c41b57, XSS
-- https://labs.f-secure.com/advisories/samsung-flow-any-app-can-read-the-external-storage/, Android
 - https://shahjerry33.medium.com/business-logic-errors-art-of-testing-cards-4907cfb46a57, Payment-bypass
 - https://medium.com/@robert0/how-did-i-find-a-vulnerability-that-leads-to-access-any-users-sensitive-data-and-got-500-5cce1c21d86a, Information-disclosure
 - https://blog.assetnote.io/2022/05/03/hacking-a-bank-using-dotcms-rce/, Directory-traversal
@@ -4021,7 +4017,6 @@
 - https://www.josipfranjkovic.com/blog/race-conditions-on-web, Race-condition
 - https://www.seekurity.com/blog/general/topcoder-vulnerabilities-a-tail-of-site-wide-bugs-leads-to-accounts-compromise-payments-hijacking/, CSRF
 - https://ahussam.me/Medium-full-account-takeover/, XSS
-- https://lab.wallarm.com/critical-linkedin-vulnerability-proactively-resolved-by-wallarm-xxe-in-application-server-239bba28e415, XXE
 - https://medium.com/bugbountywriteup/two-vulnerabilities-makes-an-exploit-xss-and-csrf-in-bing-cd4269da7b69, XSS
 - https://www.seekurity.com/blog/general/runkeeper-stores-xss-vulnerability/, Stored-XSS
 - https://www.arneswinnen.net/2016/05/instabrute-two-ways-to-brute-force-instagram-account-credentials/, Bruteforce

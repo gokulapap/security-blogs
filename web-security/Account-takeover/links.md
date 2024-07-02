@@ -45,3 +45,4 @@
 - https://medium.com/@saadahmedx/account-takeover-worth-900-cacbe10de58e
 - https://mokhansec.medium.com/full-account-takeover-worth-1000-think-out-of-the-box-808f0bdd8ac7
 - https://tox7cv3nom.github.io/2021/11/12/chaining-of-csrf-token-misconfiguration-and-no-rate-limit-leads-to-mass-account-takeover.html
+- https://medium.com/@xerox0x1/full-account-take-over-by-very-simple-trick-b4025a53047c

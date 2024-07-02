@@ -1,3 +1,4 @@
 - https://www.ash-king.co.uk/blog/Shazlocate-abusing-CVE-2019-8791-CVE-2019-8792
 - https://infosecwriteups.com/how-i-leak-others-access-token-by-exploiting-evil-deeplink-flaw-a0a566677639
 - https://ash-king.co.uk/blog/backdoor-android-facebook
+- https://servicenger.com/mobile/android/access-twitter-blue-features-using-deeplink-without-a-paid-subscription/

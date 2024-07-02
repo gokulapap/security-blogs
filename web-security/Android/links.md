@@ -4,3 +4,4 @@
 - https://b3nac.com/posts/2019-02-16-How-to-hunt-for-Malvertising-ads-on-Android.html
 - https://labs.f-secure.com/advisories/samsung-galaxy-any-app-can-install-any-app/
 - https://medium.com/@icebre4ker/hacking-chess-com-my-journey-to-unlock-premium-bots-on-the-android-app-d8cac9d25094
+- https://labs.f-secure.com/advisories/samsung-flow-any-app-can-read-the-external-storage/
