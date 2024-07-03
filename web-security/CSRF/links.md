@@ -40,3 +40,5 @@
 - https://blogs.opera.com/security/2022/03/bug-bounty-adventures-a-nodebb-0-day/
 - https://infosecwriteups.com/story-of-a-weird-csrf-bug-bde1129c106e
 - https://shahjerry33.medium.com/csrf-with-idor-a-deadly-combo-203e93967702
+- https://medium.com/bugbountywriteup/critical-bypass-csrf-protection-on-ibm-313ffb68dd0c
+- https://dphoeniixx.medium.com/exploiting-request-forgery-on-mobile-applications-e1d196d187b3

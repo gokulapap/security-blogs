@@ -97,3 +97,4 @@
 - https://medium.com/bugbountywriteup/idor-leads-to-getting-access-tokens-of-users-linked-to-google-drive-on-edmodo-3978017134bd
 - https://medium.com/@mr_hacker/a-5000-idor-f4268fffcd2e
 - https://medium.com/@vikramroot/unauthorized-access-to-any-users-account-600e8efe7de0
+- https://njmulsqb.engineer/2022/04/10/the-100daysofhacking-challenge.html
