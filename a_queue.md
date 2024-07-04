@@ -1070,7 +1070,6 @@
 - https://medium.com/@302Found/bugcrowd-tale-of-multiple-misconfigurations-cb5b98f09302, Account-takeover
 - https://medium.com/@nireshpandian19/my-first-and-second-bugs-are-2fa-bypass-1f6fd823b467, MFA-bypass
 - https://medium.com/@bug_vs_me/csrf-attack-0-click-account-delete-1st-write-up-3d67b267b931, CSRF
-- https://medium.com/@Cybervenom/tale-of-easy-p1-bugs-in-wild-1b7f5bf80eef, Forced-browsing
 - https://www.trenchesofit.com/2022/09/30/zoneminder-web-app-testing/, DoS
 - https://www.usenix.org/system/files/sec23summer_235-rohlmann-prepub.pdf, Signature-bypass
 - https://www.imperva.com/blog/how-scanning-your-projects-for-security-issues-can-lead-to-remote-code-execution/, RCE
@@ -1334,7 +1333,6 @@
 - https://infosecwriteups.com/abusing-url-shortners-for-fun-and-profit-c83c67713916, Information-disclosure
 - https://www.zerodayinitiative.com/blog/2022/7/13/cve-2022-30136-microsoft-windows-network-file-system-v4-remote-code-execution-vulnerability, RCE
 - https://medium.com/@rodricbr/from-open-redirect-to-reflected-xss-manually-64e633a3d23f, Open-redirect
-- https://medium.com/@numanturle/microsoft-teams-stored-xss-bypass-csp-8b4a7f5fccbf, XSS
 - https://thinkermaruf.medium.com/hacking-on-a-private-program-salseforce-crm-12bfef43fcc7, RCE
 - https://voidzone.me/cve-2022-29885-apache-tomcat-cluster-service-dos/, DoS
 - https://bishopfox.com/blog/netwrix-auditor-advisory, Insecure-deserialization
@@ -1434,7 +1432,6 @@
 - https://medium.com/@byq/from-open-redirect-to-rce-in-one-week-66a7f73fd082, Open-redirect
 - https://medium.com/@terminatorLM/abusing-facebooks-feature-for-a-permanent-account-confusion-logic-vulnerability-d7f5160f373a, MFA-bypass
 - https://medium.com/@ratnadip1998/how-to-find-access-admin-panel-by-digging-into-js-files-282d89391a2d, Weak-credentials
-- https://octagon.net/blog/2022/05/29/bypass-csp-using-wordpress-by-abusing-same-origin-method-execution/, CSP-bypass
 - https://web.archive.org/web/20220529130635/https://pwnsec.ninja/2022/05/29/exploiting-ios-app-for-fun-and-profit/, Account-takeover
 - https://medium.com/@vaibhavatkale/weird-email-verification-bypass-96c793c36d7e, Email-verification-bypass
 - https://corben.io/blog/a-simple-sql-injection-in-an-air-force-website, SQL-injection
@@ -2849,7 +2846,6 @@
 - https://bugwriteups.tech/bug-bounty-write-up-lucky-vulnerability, SQL-injection
 - https://medium.com/@aniltom/magic-of-the-back-slash-d868e66b532a, Path-traversal
 - https://medium.com/@frycos/another-zoho-manageengine-story-7b472f1515f5, Authentication-bypass
-- https://tillsongalloway.com/finding-sensitive-information-on-github/index.html, Information-disclosure
 - https://www.synacktiv.com/en/publications/pentesting-cisco-sd-wan-part-2-breaking-routers.html, OS-command-injection
 - https://vinothkumar.me/20000-facebook-dom-xss/, DOM-XSS
 - https://chefsecure.com/blog/i-found-xss-security-flaws-in-rails-heres-what-happened, XSS
@@ -3368,7 +3364,6 @@
 - https://blog.assetnote.io/bug-bounty/2019/03/19/rce-on-mozilla-zero-day-webpagetest/, RCE
 - https://medium.com/@80vul/from-http-domain-to-res-domain-xss-by-using-ie-adobes-pdf-activex-plugin-9f2a72a87aff, DOM-XSS
 - https://medium.com/@avinash_/disclosure-of-pending-roles-for-any-facebook-page-ab6e4e219f8e, IDOR
-- https://tech.target.com/2019/03/15/SharePoint-Cross-Site-Scripting.html, XSS
 - https://medium.com/@vis_hacker/how-i-was-able-to-pwned-30000-users-webhook-d26dc3420703, IDOR
 - https://medium.com/@imranparray/privilege-escalation-on-private-program-a2a5548cde09, Privilege-escalation
 - https://medium.com/@rohitcoder/user-account-takeover-password-change-nice-catch-2293f4d272b2, Account-takeover

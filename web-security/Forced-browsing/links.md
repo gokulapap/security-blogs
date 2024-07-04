@@ -1,1 +1,2 @@
 - https://vijetareigns.medium.com/forced-browsing-to-access-admin-panel-214a7defa2a5
+- https://medium.com/@Cybervenom/tale-of-easy-p1-bugs-in-wild-1b7f5bf80eef

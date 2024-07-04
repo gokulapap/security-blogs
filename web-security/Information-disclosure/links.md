@@ -98,3 +98,4 @@
 - https://medium.com/@pumudu88/yet-another-unexpected-hack-for-bounty-295cee0ecc24
 - https://blog.zsec.uk/pwning-pornhub
 - https://komradz86.medium.com/leaking-credit-card-activity-in-logs-yes-sir-b988bb6c0c2
+- https://tillsongalloway.com/finding-sensitive-information-on-github/index.html

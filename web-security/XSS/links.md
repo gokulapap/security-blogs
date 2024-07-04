@@ -111,3 +111,5 @@
 - https://hamzadzworm.medium.com/how-i-got-a-bug-that-leads-to-takeover-accounts-of-any-user-who-view-my-profile-913c8704f6cd
 - https://systemweakness.com/xss-filter-evasion-idor-3d4624758ff0
 - http://zhchbin.github.io/2017/08/30/Uber-XSS-via-Cookie/
+- https://tech.target.com/2019/03/15/SharePoint-Cross-Site-Scripting.html
+- https://medium.com/@numanturle/microsoft-teams-stored-xss-bypass-csp-8b4a7f5fccbf
