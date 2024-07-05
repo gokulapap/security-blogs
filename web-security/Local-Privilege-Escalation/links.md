@@ -27,3 +27,4 @@
 - https://www.trustedsec.com/blog/cve-2022-24696-glance-by-mirametrix-privilege-escalation/
 - https://www.pentestpartners.com/security-blog/bullied-by-bugcrowd-over-kape-cyberghost-disclosure/
 - https://www.zerodayinitiative.com/blog/2022/3/16/abusing-arbitrary-file-deletes-to-escalate-privilege-and-other-great-tricks
+- https://ssd-disclosure.com/ssd-advisory-macos-mozilla-firefox-download-protections-were-bypassed-by-atloc-ftploc-files/

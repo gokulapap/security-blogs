@@ -42,3 +42,4 @@
 - http://cybristerboy.blogspot.com/2018/05/how-i-found-5-store-xss-on-private.html
 - https://medium.com/@YoKoKho/turning-self-xss-into-non-self-stored-xss-via-authorization-issue-at-paypal-tech-support-and-brand-3046f52ac16b
 - https://infosecwriteups.com/stored-xss-to-account-takeover-going-beyond-document-cookie-970e42362f43
+- https://sites.google.com/site/bugbountybughunter/home/stored-xss-in-google-image-search

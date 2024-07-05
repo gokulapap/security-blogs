@@ -508,7 +508,6 @@
 - https://mmmds.pl/cyberghostvpn-mitm-rce-lpe/, RCE
 - https://chevonphillip.medium.com/blind-xss-via-sms-support-chat-1100-bug-bounty-779a1e19cc51, Blind-XSS
 - https://vitorfalcao.com/posts/simple-bugs/password-changing-to-ato/, Account-takeover
-- https://frichetten.com/blog/minor-cross-tenant-vulns-app-runner/, Cross-tenant-vulnerability
 - https://rayhan0x01.github.io/ctf/2023/04/01/finding-rce-in-eta-cve-2022-25967.html, RCE
 - https://www.reversemode.com/2023/03/beware-of-javas-stringgetbytes.html, Hash-collision
 - https://sensepost.com/blog/2023/protected-users-you-thought-you-were-safe-uh/, Active-Directory
@@ -771,7 +770,6 @@
 - https://googleprojectzero.blogspot.com/2023/01/der-entitlements-brief-return-of.html, iOS
 - https://blog.geekycat.in/client-side-ssrf-to-google-cloud-project-takeover/, SSRF
 - https://www.imperva.com/blog/google-chrome-symstealer-vulnerability/, Local-Privilege-Escalation
-- https://ssd-disclosure.com/ssd-advisory-macos-mozilla-firefox-download-protections-were-bypassed-by-atloc-ftploc-files/, Local-Privilege-Escalation
 - https://andika-here.medium.com/how-i-earned-1000-from-business-logic-vulnerability-account-takeover-f03547950c82, Logic-flaw
 - https://erasec.be/blog/client-side-path-manipulation/, Client-side-Path-Traversal
 - https://dhakalbibek.medium.com/2022-a-year-of-fascinating-discoveries-d3277dfb006f, CSRF
@@ -1108,7 +1106,6 @@
 - https://www.trellix.com/en-us/about/newsroom/stories/research/tarfile-exploiting-the-world.html, Path-traversal
 - https://10degres.net/one-takeover-to-rule-them-all/, Subdomain-takeover
 - https://www.trellix.com/en-us/about/newsroom/stories/threat-labs/tarfile-exploiting-the-world.html, Path-traversal
-- https://doyensec.com/resources/Doyensec_Advisory_TypeORM_Q32022.pdf, DoS
 - https://medium.com/@cyberali/mass-assignment-leading-to-pre-account-takeover-13041280a0d9, Mass-assignment
 - https://www.cidersecurity.io/blog/research/how-we-abused-repository-webhooks-to-access-internal-ci-systems-at-scale/, CICD
 - https://blog.sonarsource.com/onedev-remote-code-execution/, RCE
@@ -3415,7 +3412,6 @@
 - https://medium.com/@albeckshahar/jumping-over-the-fence-ce0fe5f9a3a2, Open-redirect
 - https://medium.com/@goyalvartul/how-i-hacked-40-000-user-accounts-of-microsoft-using-2fa-bypass-outlook-live-com-13258785ec2f, MFA-bypass
 - https://dannewitz.ninja/posts/detecting-and-exploiting-mass-assignments, Mass-assignment
-- https://research.checkpoint.com/reverse-rdp-attack-code-execution-on-rdp-clients/, Path-traversal
 - https://medium.com/@rohanchavan/a-unique-xss-scenario-1000-bounty-347f8f92fcc6, Stored-XSS
 - https://medium.com/@rupika.luhach/how-i-was-able-to-extract-information-of-other-users-exploiting-idor-9f03aa72dd06, IDOR
 - https://offensi.com/2019/01/31/lfi-in-apigee-portals, LFI
@@ -3933,7 +3929,6 @@
 - https://www.rafaybaloch.com/2017/06/a-tale-of-another-sop-bypass-in-android.html, SOP-bypass
 - https://www.rafaybaloch.com/2017/06/nokia-asha-series-lock-screen-bypass.html, Authentication-bypass
 - https://www.rafaybaloch.com/2017/06/android-browser-all-versions-address.html, Address-Bar-Spoofing
-- https://sites.google.com/site/bugbountybughunter/home/stored-xss-in-google-image-search, Stored-XSS
 - http://www.kernelpicnic.net/2017/05/29/Pivoting-from-blind-SSRF-to-RCE-with-Hashicorp-Consul.html, Blind-XSS
 - https://ysx.me.uk/a-pair-of-plotly-bugs-stored-xss-and-aws-metadata-ssrf/, Stored-XSS
 - http://panchocosil.blogspot.com/2017/05/one-cloud-based-local-file-inclusion.html, Path-traversal
