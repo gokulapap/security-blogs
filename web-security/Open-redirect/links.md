@@ -27,3 +27,5 @@
 - https://medium.com/bugbountywriteup/bugbounty-linkedln-how-i-was-able-to-bypass-open-redirection-protection-2e143eb36941
 - https://www.seekurity.com/blog/general/rolling-around-and-bypassing-facebook-linkshim-protection-on-ios
 - https://bugbaba.blogspot.com/2017/07/open-redirect-in-flock-my-first-swag.html
+- https://medium.com/@abhishake100/strange-redirect-fixed-but-no-bounty-54425aea7f19
+- https://medium.com/@jacopotediosi/how-i-hacked-altervista-org-f23d011cdb96

@@ -4,3 +4,4 @@
 - https://research.nccgroup.com/2022/02/18/analyzing-a-pjl-directory-traversal-vulnerability-exploiting-the-lexmark-mc3224i-printer-part-2/
 - https://research.nccgroup.com/2021/10/28/technical-advisory-apple-xar-arbitrary-file-write-cve-2021-30833/
 - https://medium.com/@erik.wynter/pwning-manageengine-from-endpoint-to-exploit-bc5793836fd
+- https://blog.oversecured.com/Two-weeks-of-securing-Samsung-devices-Part-2/

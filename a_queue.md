@@ -703,7 +703,6 @@
 - https://molx32.github.io/blog/2023/Azure-access-panel-lack-of-access-control/, Azure-AD
 - https://www.flashback.sh/blog/weekend-destroyer-wd-pr4100-rce, RCE
 - https://medium.com/@bag0zathev2/discovering-5-xss-vulnerabilities-in-a-simple-way-with-xssor-go-a0a761631012, Reflected-XSS
-- https://medium.com/@_yldrm/host-header-injection-to-complete-organization-takeover-67a8a2ddb188, SSRF
 - https://shahjerry33.medium.com/idor-inside-the-session-storage-88af485fc899, IDOR
 - https://www.cyberark.com/resources/threat-research-blog/breaking-docker-named-pipes-systematically-docker-desktop-privilege-escalation-part-1, Local-Privilege-Escalation
 - https://www.flashback.sh/blog/weekend-destroyer-wd-pr4100-rce, RCE
@@ -1993,7 +1992,6 @@
 - https://tuhin1729.medium.com/account-takeover-via-access-token-leakage-687276953408, IDOR
 - https://zemnmez.medium.com/how-to-hack-apple-id-f3cc9b483a41, XSS
 - https://blog.melbadry9.xyz/dangling-dns/xyz-services/ddns-announcekit, Subdomain-takeover
-- https://blog.oversecured.com/Two-weeks-of-securing-Samsung-devices-Part-2/, Arbitrary-file-write
 - https://sick.codes/sick-2021-109/, Privacy-issue
 - https://tiszka.com/blog/CVE_2021_21225.html, Browser-hacking
 - https://ahmdhalabi.medium.com/taking-over-employee-accounts-by-managers-with-zero-employee-interaction-b60784c3ad84, Account-takeover
@@ -2879,7 +2877,6 @@
 - https://medium.com/@adam.adreleve/dom-based-open-redirect-to-the-leak-of-a-jwt-token-1b1dd2ced9a1, Open-redirect
 - https://blog.stazot.com/prestashop-csrf-to-rce-article/, RCE
 - https://medium.com/@np20121996/how-was-i-able-to-find-privilege-escalation-b13366b97706, IDOR
-- https://medium.com/@abhishake100/strange-redirect-fixed-but-no-bounty-54425aea7f19, Open-redirect
 - https://medium.com/@rat010/otp-verification-bypass-ee17d68f8425, OTP-bypass
 - https://blog.zimperium.com/multiple-kernel-vulnerabilities-affecting-all-qualcomm-devices/, Memory-corruption
 - https://medium.com/@kristian.balog/netflix-party-simple-xss-ec92ed1d7e18, XSS
@@ -3449,7 +3446,6 @@
 - https://medium.com/bugbountywriteup/when-cookie-hijacking-html-injection-become-dangerous-3c649f7f6c88, Cookie-hijacking
 - https://medium.com/@thejuskrishnan911/reflected-xss-on-asus-568ce0541171, Reflected-XSS
 - https://medium.com/@hariharan21/stored-xss-via-alternate-text-at-zendesk-support-8bfee68413e4, Stored-XSS
-- https://medium.com/@jacopotediosi/how-i-hacked-altervista-org-f23d011cdb96, Open-redirect
 - https://www.ash-king.co.uk/downloading-any-file-via-facebook-android.html, Authorization-flaw
 - http://infosecflash.com/2019/01/05/how-i-could-have-taken-over-any-pinterest-account/, CSRF
 - https://medium.com/@maxpasqua/stealing-side-channel-attack-tokens-in-facebook-account-switcher-90c5944e3b58, Token-leak
@@ -3623,7 +3619,6 @@
 - https://blog.hawkeyesecurity.com/2018/08/27/traversing-the-path-to-rce/, Path-traversal
 - https://medium.com/@nandwanajatin25/my-first-valid-xss-hackerone-f8ba0a7c647, XSS
 - https://blog.scrt.ch/2018/08/24/remote-code-execution-on-a-facebook-server/, RCE
-- https://medium.com/@UpdateLap/privileged-escalation-in-facebook-messenger-rooms-e71cb7275101, Privilege-escalation
 - https://web.archive.org/web/20200829220607/https://medium.com/@adeshkolte/sql-injection-vulnerability-in-university-of-cambridge-b4c8d0381e1, SQL-injection
 - https://websecblog.com/vulns/stored-xss-in-webcomponents-org/, Stored-XSS
 - https://www.updatelap.com/2018/08/privileged-escalation-in-facebook-rooms.html, Authorization-flaw
