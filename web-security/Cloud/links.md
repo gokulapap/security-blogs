@@ -6,3 +6,4 @@
 - https://www.rapid7.com/blog/post/2023/03/14/microsoft-defender-for-cloud-management-port-exposure-confusion/
 - https://securitylabs.datadoghq.com/articles/iamadmin-cloudtrail-bypass/
 - https://www.mnemonic.io/resources/blog/acsessed-cross-tenant-network-bypass-in-azure-cognitive-search/
+- https://ermetic.com/blog/aws/sometimes-what-sounds-benign-can-bite-you-an-unexpected-implication-of-lambda-privileges/

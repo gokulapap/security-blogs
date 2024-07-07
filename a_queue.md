@@ -62,7 +62,6 @@
 - https://medium.com/@gtm0x01/two-factor-authentication-bypass-on-facebook-3f4ac3ea139c, bypass
 - https://medium.com/@ibm_ptc_security/exploiting-missing-hsts-54f8e23ed80b, misc
 - https://medium.com/@manavbankatwala29/unique-rate-limit-bypass-worth-1800-6e2947c7d972, bypass
-- https://medium.com/@ethr/how-to-install-nmap-and-use-it-for-vulnerability-scanning-60dd84e06a53, automation
 - https://medium.com/@dPhoeniixx/tiktok-for-android-1-click-rce-240266e78105, RCE
 - https://medium.com/@yashdharmani/a-bug-that-made-me-250-485df60f5b26, journey
 - https://medium.com/@nynan/bug-bounty-fingerprinting-204506945ab, recon
@@ -165,7 +164,6 @@
 - https://medium.com/@theredteamer/tesla-paid-me-10-000-because-of-directory-indexing-c1be06c77a3e, journey
 - https://medium.com/@renganathanofficial/business-logic-error-leads-to-watching-a-standup-comedy-show-for-free-4300aeb714dc, business-logic
 - https://medium.com/@evilox/testing-and-bypassing-technique-for-idor-9ee03f28f4e1, IDOR
-- https://medium.com/@iam310335/finding-more-idors-tips-and-tricks-100-day-b08ff2a389af, IDOR
 - https://medium.com/@niraj1mahajan/a-hackers-tale-finding-10x-cves-in-wordpress-plugins-30f86bacf2c8, journey
 - https://medium.com/@ethicalkaps/behind-the-scene-http-parameter-pollution-534b4fa2449c, parameter
 - https://medium.com/@sudarshan-s/sql-injection-important-things-you-need-to-know-right-now-b173cdea0610, sql-injection
@@ -264,7 +262,6 @@
 - https://medium.com/@0utlawh4ck3r/story-of-my-first-rce-9d74373fbc11, RCE
 - https://hazemhussien99.wordpress.com/2023/07/05/recon-only-bugs-are-sweet/, Information-disclosure
 - https://www.klogixsecurity.com/scorpion-labs-blog/chaining-for-critical-unauthorized-to-cloud-administrator, SSRF
-- https://ermetic.com/blog/aws/sometimes-what-sounds-benign-can-bite-you-an-unexpected-implication-of-lambda-privileges/, Cloud
 - https://basu-banakar.medium.com/exploiting-non-cloud-ssrf-for-more-fun-profit-3597934518c8, SSRF
 - https://mizu.re/post/linux-local-electron-application-script-src-self-bypass#final_bypass, Electron
 - https://blog.assetnote.io/2023/07/04/citrix-sharefile-rce/, RCE
@@ -1141,7 +1138,6 @@
 - https://www.graplsecurity.com/post/attacking-firecracker, Memory-corruption
 - https://www.zerodayinitiative.com/blog/2022/9/7/riding-the-inforail-to-exploit-ivanti-avalanche-part-2, RCE
 - https://medium.com/@abbasheybati1/403-bypass-lyncdiscover-microsoft-com-db2778458c33, 403-bypass
-- https://bloggerrando.blogspot.com/2022/09/09-1.html, Information-disclosure
 - https://www.whiteoaksecurity.com/blog/fun-with-cors/, CORS-misconfiguration
 - https://labs.jumpsec.com/quest-kace-desktop-authority-pre-auth-remote-code-execution-cve-2021-44031/, RCE
 - https://www.rapid7.com/blog/post/2022/09/08/baxter-sigma-spectrum-infusion-pumps-multiple-vulnerabilities-fixed/, Hardcoded-credentials
@@ -2663,7 +2659,6 @@
 - https://medium.com/@ashokcpg/weird-behavior-of-facebook-page-faq-leading-to-bounty-from-facebook-b4984e623b38, Logic-flaw
 - https://medium.com/bugbountywriteup/exploiting-business-logic-wallet-money-6a7654f4e147, Payment-tampering
 - http://blog.redxorblue.com/2020/07/one-click-to-compromise-fun-with.html, NTLMv2-hash-disclosure
-- https://www.tomanthony.co.uk/blog/zoom-security-exploit-crack-private-meeting-passwords/, CSRF
 - https://medium.com/bugbountywriteup/my-first-bug-bounty-21d3203ffdb0, Information-disclosure
 - https://www.ehpus.com/post/authorization-bypass-in-google-s-ticketing-system, Authorization-flaw
 - https://hunter-55.medium.com/introduction-fae7c8b3d16c, Exposed-registration-page

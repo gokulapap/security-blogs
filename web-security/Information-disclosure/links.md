@@ -99,3 +99,4 @@
 - https://blog.zsec.uk/pwning-pornhub
 - https://komradz86.medium.com/leaking-credit-card-activity-in-logs-yes-sir-b988bb6c0c2
 - https://tillsongalloway.com/finding-sensitive-information-on-github/index.html
+- https://bloggerrando.blogspot.com/2022/09/09-1.html
