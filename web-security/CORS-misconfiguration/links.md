@@ -6,3 +6,5 @@
 - https://medium.com/@saadahmedx/bypassing-cors-13e46987a45b
 - https://trufflesecurity.com/blog/of-cors/index.html
 - https://medium.com/@sasaxxx777/cors-misconfiguration-leading-to-private-information-disclosure-3034cfcb4b93
+- https://notmarshmllow.medium.com/exploiting-cors-to-perform-an-idor-attack-leading-to-pii-information-disclosure-95ef21ecf8ee
+- https://medium.com/@nahoragg/a-simple-cors-misconfig-leaked-private-post-of-twitter-facebook-instagram-5f1a634feb9d

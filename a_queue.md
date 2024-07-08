@@ -1656,7 +1656,6 @@
 - https://onapsis.com/threat-report/icmad-sap-vulnerabilities, HTTP-request-smuggling
 - https://tech-blog.cymetrics.io/en/posts/huli/how-i-hacked-glints-and-your-resume-en/, IDOR
 - https://blog.sonarsource.com/wordpress-object-injection-vulnerability, Object-injection
-- https://www.cyberark.com/resources/threat-research-blog/how-docker-made-me-more-capable-and-the-host-less-secure, Local-Privilege-Escalation
 - https://www.cyberick.com/post/what-i-found-on-sony-vulnerability-disclosure-program, Information-disclosure
 - https://bloggerrando.blogspot.com/2022/02/how-can-i-access-members-only-video.html, Broken-Access-Control
 - https://wwws.nightwatchcybersecurity.com/2022/02/06/insecure-bootstrap-process-in-oracle-cloud-cli/, Supply-chain-attack
@@ -1705,7 +1704,6 @@
 - https://www.reversemode.com/2022/01/finding-vulnerabilities-in-swiss-posts.html, Insecure-deserialization
 - https://www.zerodayinitiative.com/blog/2022/1/18/cve-2021-21661-exposing-database-info-via-wordpress-sql-injection, SQL-injection
 - https://googleprojectzero.blogspot.com//2022/01/zooming-in-on-zero-click-exploits.html, Memory-corruption
-- https://medium.com/@p3rr0x22/critical-xss-in-chrome-extension-b55757a2074, XSS
 - https://medium.com/@robert0/how-i-found-broken-access-control-through-out-of-sync-setup-and-got-1000-9143fc5febdd, Broken-Access-Control
 - https://0xkasper.com/articles/moodle-sql-injection-broken-access-control.html, SQL-injection
 - https://hulkvision.github.io/blog/post1/, RCE
@@ -2295,7 +2293,6 @@
 - https://infosecwriteups.com/the-invincible-kid-7ac1ce2887c0, Logic-flaw
 - https://www.rafaybaloch.com/2021/02/Microsoft-Edge-Browser-For-IOS-Address-Bar-Spoofing-Vulnerability.html, Address-Bar-Spoofing
 - https://lf.lc/vrp/181521559a/, Container-escape
-- https://notmarshmllow.medium.com/exploiting-cors-to-perform-an-idor-attack-leading-to-pii-information-disclosure-95ef21ecf8ee, CORS-misconfiguration
 - https://securifyinc.com/disclosures/rocketchat-unauthenticated-access-to-messages, Authorization-flaw
 - https://zonduu.medium.com/ssrf-to-fetch-aws-credentials-with-full-access-to-various-services-18cd08194e91, SSRF
 - https://www.bugcrowd.com/blog/big-bugs-cve-2020-28914/, RCE
@@ -3427,7 +3424,6 @@
 - https://ysamm.com/?p=35, IDOR
 - https://ysamm.com/?p=12, XSS
 - https://medium.com/@sudhanshur705/reflected-xss-in-zomato-f892d6887147, Reflected-XSS
-- https://medium.com/@nahoragg/a-simple-cors-misconfig-leaked-private-post-of-twitter-facebook-instagram-5f1a634feb9d, CORS-misconfiguration
 - https://medium.com/@Jacksonkv22/oauth-misconfiguration-lead-to-complete-account-takeover-c8e4e89a96a, CSRF
 - https://blog.ibrahimdraidia.com/bypass-csp-framing-restriction-rule-olx/, CSP-bypass
 - https://medium.com/bugbountywriteup/command-injection-poc-72cc3743f10d, OS-command-injection
@@ -3707,7 +3703,6 @@
 - https://medium.com/@emenalf/how-i-got-hall-of-fame-in-two-fortune-500-companies-an-rce-story-9c89cead81ff, RCE
 - http://cybristerboy.blogspot.com/2018/05/how-i-was-able-to-get-admin-panel-on.html, Weak-credentials
 - https://andresriancho.com/recaptcha-bypass-via-http-parameter-pollution, Captcha-bypass
-- https://medium.com/@r99tiq/idor-how-i-was-able-to-see-any-private-album-passwrod-in-picturepush-264913f45e10, IDOR
 - https://poc-server.com/blog/2018/05/22/rce-by-uploading-a-web-config, RCE
 - https://medium.com/ymedialabs-innovation/an-aws-managed-policy-that-allowed-granting-root-admin-access-to-any-role-51b409ea7ff0, Authorization-flaw
 - https://sites.google.com/site/testsitehacking/-36k-google-app-engine-rce, RCE

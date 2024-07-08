@@ -99,3 +99,4 @@
 - https://medium.com/@vikramroot/unauthorized-access-to-any-users-account-600e8efe7de0
 - https://njmulsqb.engineer/2022/04/10/the-100daysofhacking-challenge.html
 - https://medium.com/@iam310335/finding-more-idors-tips-and-tricks-100-day-b08ff2a389af
+- https://medium.com/@r99tiq/idor-how-i-was-able-to-see-any-private-album-passwrod-in-picturepush-264913f45e10

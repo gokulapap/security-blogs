@@ -113,3 +113,4 @@
 - http://zhchbin.github.io/2017/08/30/Uber-XSS-via-Cookie/
 - https://tech.target.com/2019/03/15/SharePoint-Cross-Site-Scripting.html
 - https://medium.com/@numanturle/microsoft-teams-stored-xss-bypass-csp-8b4a7f5fccbf
+- https://medium.com/@p3rr0x22/critical-xss-in-chrome-extension-b55757a2074
