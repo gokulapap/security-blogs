@@ -53,3 +53,4 @@
 - https://medium.com/bugbountywriteup/bypass-admin-approval-mute-member-and-posting-permissions-for-only-admins-in-facebook-groups-ef476cb3d524
 - https://philippeharewood.com/create-living-room-polls-as-a-facebook-page-analyst/
 - https://philippeharewood.com/get-page-inbox-notifications-for-any-facebook-page/
+- https://medium.com/@raushanraj_65039/facebook-bug-bounty-reports-1c1b8b55c050

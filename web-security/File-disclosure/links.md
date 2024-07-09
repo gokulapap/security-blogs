@@ -1,2 +1,3 @@
 - https://medium.com/@D0rkerDevil/how-i-found-credential-enriched-redis-dump-2b9e808024c4
 - https://medium.com/@aroraminali21/how-i-could-download-the-source-code-of-an-indian-e-commerce-website-30cb8310b6e4
+- https://medium.com/bugbountywriteup/from-security-misconfiguration-to-gaining-access-of-smtp-server-ed833e757e6e

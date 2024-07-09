@@ -43,3 +43,4 @@
 - https://medium.com/bugbountywriteup/critical-bypass-csrf-protection-on-ibm-313ffb68dd0c
 - https://dphoeniixx.medium.com/exploiting-request-forgery-on-mobile-applications-e1d196d187b3
 - https://www.tomanthony.co.uk/blog/zoom-security-exploit-crack-private-meeting-passwords/
+- https://whitton.io/articles/obtaining-tokens-outlook-office-azure-account/
