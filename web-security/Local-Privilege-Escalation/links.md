@@ -29,3 +29,4 @@
 - https://www.zerodayinitiative.com/blog/2022/3/16/abusing-arbitrary-file-deletes-to-escalate-privilege-and-other-great-tricks
 - https://ssd-disclosure.com/ssd-advisory-macos-mozilla-firefox-download-protections-were-bypassed-by-atloc-ftploc-files/
 - https://www.cyberark.com/resources/threat-research-blog/how-docker-made-me-more-capable-and-the-host-less-secure
+- https://www.blackhillsinfosec.com/your-browser-is-not-a-safe-space/

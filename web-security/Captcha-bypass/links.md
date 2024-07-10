@@ -1,2 +1,3 @@
 - https://therealunicornsecurity.github.io/Aliexpress/
 - https://www.hackerfactor.com/blog/index.php?/archives/862-reCAPTCHA-Exploits.html
+- https://medium.com/@Cho0k/protobuffer-reutilization-new-way-to-security-test-googlecaptcha-b3e0fc6cf7c4

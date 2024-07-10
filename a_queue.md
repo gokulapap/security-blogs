@@ -324,7 +324,6 @@
 - https://infosecwriteups.com/sql-injection-in-the-http-custom-header-fd117ba1435e, SQL-injection
 - https://orca.security/resources/blog/examining-two-xss-vulnerabilities-in-azure-services/, XSS
 - https://starlabs.sg/blog/2023/06-the-old-the-new-and-the-bypass-one-clickopen-redirect-to-own-samsung-s22-at-pwn2own-2022/, Open-redirect
-- https://medium.com/@omarahmed_13016/idor-unpin-posts-for-fun-18f628eaef24, IDOR
 - https://medium.com/@0day_exploit/stored-xss-injection-permanent-open-redirection-e14ffa11573c, Reflected-XSS
 - https://summoning.team/blog/vmware-vrealize-network-insight-rce-cve-2023-20887/, RCE
 - https://research.nccgroup.com/2023/06/13/dynamic-linq-injection-remote-code-execution-vulnerability-cve-2023-32571/, RCE
@@ -560,7 +559,6 @@
 - https://blog.scrt.ch/2023/03/14/producing-a-poc-for-cve-2022-42475-fortinet-rce/, Memory-corruption
 - https://blog.quarkslab.com/vulnerabilities-in-the-tpm-20-reference-implementation-code.html, Memory-corruption
 - https://www.mdsec.co.uk/2023/03/exploiting-cve-2023-23397-microsoft-outlook-elevation-of-privilege-vulnerability/, Privilege-escalation
-- https://www.blackhillsinfosec.com/your-browser-is-not-a-safe-space/, Local-Privilege-Escalation
 - https://www.horizon3.ai/veeam-backup-and-replication-cve-2023-27532-deep-dive/, Local-Privilege-Escalation
 - https://www.tomanthony.co.uk/blog/googles-manual-actions-hack/, Broken-Access-Control
 - https://www.dsecbypass.com/en/dolibarr-pre-auth-contact-database-dump/, SQL-injection
@@ -1292,7 +1290,6 @@
 - https://medium.com/@IroquoisPliskin/how-i-was-able-to-take-over-a-support-chat-using-leaked-keys-d5c4922bb3d4, Information-disclosure
 - https://sector7.computest.nl/post/2022-07-inductive-automation-ignition-rce/, RCE
 - https://infosecwriteups.com/i-mean-idor-is-not-only-about-others-id-2d26115072ba, IDOR
-- https://bxmbn.medium.com/how-i-test-for-web-cache-vulnerabilities-tips-and-tricks-9b138da08ff9, Web-cache-poisoning
 - https://www.vectra.ai/blogpost/abusing-the-replicator-silently-exfiltrating-data-with-the-aws-s3-replication-service, Security-Logging-and-Monitoring-Failure
 - https://www.randorisec.fr/crack-linux-firewall/, Memory-corruption
 - https://www.vulnano.com/2022/07/react-debugkeystore-key-was-trusted-by.html, Account-takeover
@@ -1761,7 +1758,6 @@
 - https://infosecwriteups.com/a-story-about-a-not-so-direct-ssrf-b2b98e128af0, SSRF
 - https://shahjerry33.medium.com/open-redirection-qr-code-magic-18ace1a0170f, Open-redirect
 - https://thalium.github.io/blog/posts/leaking-aslr-through-rdp-printer-cache-registry/, Memory-corruption
-- https://medium.com/@Cho0k/protobuffer-reutilization-new-way-to-security-test-googlecaptcha-b3e0fc6cf7c4, Captcha-bypass
 - https://jonbottarini.com/2021/12/09/dont-reply-a-clever-phishing-method-in-apples-mail-app/, Phishing
 - https://outflank.nl/blog/2021/12/09/a-phishing-document-signed-by-microsoft/, Phishing
 - https://ahmed8magdy.medium.com/file-upload-to-rce-538bb4128062, Unrestricted-file-upload
@@ -2637,7 +2633,6 @@
 - https://blog.dixitaditya.com/exploiting-jwt-lack-of-signature-verification, Account-takeover
 - https://jameshfisher.com/2020/08/06/smear-phishing-how-to-scam-an-android-user/, Phishing
 - https://medium.com/@jonathanbouman/reflected-xss-at-fotoservice-hema-nl-af344ef63433, Reflected-XSS
-- https://medium.com/@jonathanbouman/blind-sql-injection-at-fasteditor-hema-com-6ac140c0d1a3, SQL-injection
 - https://medium.com/@tommysuriel/stored-xss-on-slack-bug-bounty-88fe167d75df, Stored-XSS
 - https://medium.com/@DK999/apache-example-servlet-leads-to-61a2720cac20, Clickjacking
 - https://enumerated.wordpress.com/2020/08/05/the-case-of-the-missing-cache-keys/, Web-cache-poisoning
