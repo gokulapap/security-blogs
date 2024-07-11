@@ -114,3 +114,4 @@
 - https://tech.target.com/2019/03/15/SharePoint-Cross-Site-Scripting.html
 - https://medium.com/@numanturle/microsoft-teams-stored-xss-bypass-csp-8b4a7f5fccbf
 - https://medium.com/@p3rr0x22/critical-xss-in-chrome-extension-b55757a2074
+- https://www.jonbottarini.com/2017/03/16/penetrating-pornhub-xss-vulns-galore-plus-a-cool-shirt

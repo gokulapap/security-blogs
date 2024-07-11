@@ -1078,7 +1078,6 @@
 - https://medium.com/@seeu-inspace/two-rces-are-better-than-one-write-up-of-an-interesting-lateral-movement-66a52d42e075, Local-Privilege-Escalation
 - https://webs3c.com/t/from-nothing-to-aws-credentials/220, SSRF
 - https://blog.champtar.fr/VLAN0_LLC_SNAP/, Layer-2-networking-vulnerability
-- https://blog.rehack.xyz/2022/09/tips-tricks-discovering-less-known.html, TockenChpoken
 - https://notmyplate.com/whitepaper/, Information-disclosure
 - https://frycos.github.io/vulns4free/2022/09/26/skype-audit-part2.html, SSRF
 - https://www.semperis.com/blog/new-attack-paths-as-requested-sts/, Local-Privilege-Escalation
@@ -2036,7 +2035,6 @@
 - https://www.r29k.com/articles/bb/self-xss-to-stored-xss, Self-XSS
 - https://web.archive.org/web/20210924032932/https://0xdln.ml/XSS-Through-Fuzzing-Default-IIS/, Reflected-XSS
 - https://notifybugme.medium.com/how-i-was-able-find-mass-leaked-aws-s3-bucket-from-js-file-6064a5c247f8, AWS-misconfiguration
-- https://tomcope.com/exploit/2021/07/19/ibm-hmc-exploit-cve-2021-29707.html, Local-Privilege-Escalation
 - https://blog.takemyhand.xyz/2021/07/hacking-on-xiaomis-android-apps.html, Android
 - https://melotover.medium.com/how-i-bypassed-a-tough-waf-to-steal-user-cookies-using-xss-da75f28108e4, XSS
 - https://shahjerry33.medium.com/rce-via-webdav-power-of-put-7e1c06c71e60, Default-credentials
@@ -2585,7 +2583,6 @@
 - https://weizman.github.io/2020/09/02/csp-vuln/, CSP-bypass
 - https://www.pentestpartners.com/security-blog/cloud-firewall-management-api-snafu-put-500k-sonicwall-customers-at-risk/, IDOR
 - https://medium.com/stolabs/denial-of-service-in-the-protection-service-provided-by-avast-security-premium-284dfd5ab40, DoS
-- https://medium.com/@rohitcoder/page-shops-with-a-hidden-product-in-featured-product-section-which-could-be-controlled-by-d0fd58c4cc8b, Logic-flaw
 - https://medium.com/bugbountywriteup/unhiding-the-hidden-2ef44192c10b, Client-side-enforcement-of-server-side-security
 - https://medium.com/bugbountywriteup/the-importance-of-keeping-up-to-date-or-how-i-found-an-interesting-bug-thanks-to-a-tweet-2ec6ba9a5e1e, Stored-XSS
 - https://blog.oversecured.com/Oversecured-automatically-discovers-persistent-code-execution-in-the-Google-Play-Core-Library/, Arbitrary-Code-Execution
@@ -3832,7 +3829,6 @@
 - https://medium.com/@neerajedwards/reading-internal-files-using-ssrf-vulnerability-703c5706eefb, SSRF
 - https://web.archive.org/web/20180704183048/http://stamone-bug-bounty.blogspot.com/2017/10/dom-xss-auth_14.html, DOM-XSS
 - https://medium.com/bugbountywriteup/how-i-was-able-to-see-someones-all-private-files-with-a-single-file-share-link-through-atom-feed-7cde46d7e84d, Information-disclosure
-- https://blog.securitybreached.org/2017/10/10/bugcrowds-domain-subdomain-takeover-vulnerability, Subdomain-takeover
 - https://blog.securitybreached.org/2017/10/10/exploiting-insecure-cross-origin-resource-sharing-cors-api-artsy-net, CORS-misconfiguration
 - https://blog.securitybreached.org/2017/10/10/subdomain-takeover-lamborghini-hacked/, Subdomain-takeover
 - https://philippeharewood.com/facebook-graphql-csrf/, CSRF
@@ -3917,7 +3913,6 @@
 - https://medium.com/bugbountywriteup/hundreds-of-hundreds-subdomains-hack3d-including-hacker0ne-ad3acd1c0a44, Subdomain-takeover
 - https://www.nc-lp.com/blog/critical-information-disclosure-on-wappalyzer-com, Information-disclosure
 - https://blog.ettic.ca/near-universal-xss-in-mcafee-web-gateway-cf8dfcbc8fc3, XSS
-- https://www.jonbottarini.com/2017/03/16/penetrating-pornhub-xss-vulns-galore-plus-a-cool-shirt, XSS
 - https://emtunc.org/blog/03/2017/bypassing-safe-links-exchange-online-advanced-threat-protection/, Open-redirect
 - https://buer.haus/2017/03/13/airbnb-ruby-on-rails-string-interpolation-led-to-remote-code-execution/, RCE
 - https://corben.io/blog/17-3-10-att-rce, RCE

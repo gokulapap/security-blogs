@@ -1,0 +1,1 @@
+- https://blog.rehack.xyz/2022/09/tips-tricks-discovering-less-known.html
