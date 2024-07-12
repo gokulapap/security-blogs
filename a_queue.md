@@ -31,7 +31,6 @@
 - https://medium.com/@nanwinata/rce-docker-api-but-11ff70825935, Cloud
 - https://medium.com/@lazyhacker/ways-to-exploit-json-csrf-simple-explanation-5e77c403ede6, csrf
 - https://medium.com/@vflexo/xyz-of-xss-62603eb4cba, XSS
-- https://medium.com/@moSec/how-i-hacked-thousand-of-subdomains-6aa43b92282c, STO
 - https://medium.com/@basakyilmaz82/log4j-vulnerability-485559065af6, CVE
 - https://medium.com/@thevillagehacker/account-take-over-due-to-no-rate-limitation-433bd7449aca, ATO
 - https://medium.com/@yan.zaripov/time-based-sql-injection-63a395434e97, sql-injection
@@ -859,7 +858,6 @@
 - https://www.synacktiv.com/publications/cool-vulns-dont-live-long-netgear-and-pwn2own.html, Code-injection
 - https://starlabs.sg/blog/2022/12-the-last-breath-of-our-netgear-rax30-bugs-a-tragic-tale-before-pwn2own-toronto-2022/, Command-injection
 - https://medium.com/@cybercitizen.tech/how-we-breached-zdfheute-live-on-television-7530509b91be, Information-disclosure
-- https://starlabs.sg/blog/2022/12-the-hole-new-world-how-a-small-leak-will-sink-a-great-browser-cve-2021-38003/, Memory-corruption
 - https://ag3n7.medium.com/otp-leaking-through-cookie-leads-to-account-takeover-4fb96f255e2f, Information-disclosure
 - https://blog.nietaanraken.nl/posts/gitub-popular-repository-namespace-retirement-bypass/, Repojacking
 - https://marvelmaniac.medium.com/the-most-underrated-injection-of-all-time-cypher-injection-fa2018ba0de8, Cypher-injection
@@ -1976,7 +1974,6 @@
 - https://medium.com/@gguzelkokar.mdbf15/huge-impact-server-side-request-forgery-in-production-app-20bf0cc5731, SSRF
 - https://medium.com/@nehpatel/story-of-unexpected-bugs-75734d51ac57, IDOR
 - https://web.archive.org/web/20210909040725/https://obsrva.org/2021/08/22/monkeytype-disclosure.html, Stored-XSS
-- https://www.yesnaveen.com/whatsapp-number-disclosure, Information-disclosure
 - https://tuhin1729.medium.com/account-takeover-via-access-token-leakage-687276953408, IDOR
 - https://zemnmez.medium.com/how-to-hack-apple-id-f3cc9b483a41, XSS
 - https://blog.melbadry9.xyz/dangling-dns/xyz-services/ddns-announcekit, Subdomain-takeover
@@ -3628,7 +3625,6 @@
 - https://blog.evanricafort.com/2018/08/blind-xss-in-chrome-experiments-google.html, Blind-XSS
 - https://medium.com/@logicbomb_1/bugbounty-paytm-customer-information-is-at-risk-indias-largest-digital-wallet-company-6f7116d4b2d5, IDOR
 - https://ioactive.com/discovering-and-exploiting-a-vulnerability-in-androids-personal-dictionary/, Privilege-escalation
-- https://web.archive.org/web/20201022195925/https://www.mohamedharon.com/2018/08/Shipttakeover.html, Subdomain-takeover
 - https://medium.com/@thehackerish/how-i-could-access-your-internal-servers-steal-and-modify-your-image-repository-d477f79b329a, RCE
 - https://medium.com/@0xHyde/yahoo-two-xssi-vulnerabilities-chained-to-steal-user-information-750-bounty-e9bc6a41a40a, XSSI
 - https://www.youtube.com/watch?v=0oKHov6y6mw, Stored-XSS
@@ -3838,7 +3834,6 @@
 - https://medium.com/@saamux/filter-bypass-to-reflected-xss-on-https-finance-yahoo-com-mobile-version-22b854327b27, Reflected-XSS
 - https://medium.com/bugbountywriteup/how-i-bypassed-practos-firewall-and-triggered-a-xss-b30164a8f1dc, XSS
 - https://medium.com/@rojanrijal/luminate-internal-privilege-escalation-admin-to-owner-2ca28e575985, Authorization-flaw
-- https://medium.com/@rojanrijal/this-domain-is-my-domain-g-suite-a-record-vulnerability-b447a90a8de7, Domain-takeover
 - https://guptashubham.com/all-about-hackerone-private-program-terapeak/, IDOR
 - https://kciredor.com/first-bounty-time-to-step-up-my-game.html, Same-Origin-Method-Execution
 - https://medium.com/bugbountywriteup/chaining-self-xss-with-ui-redressing-is-leading-to-session-hijacking-pwn-users-like-a-boss-efb46249cd14, Self-XSS

@@ -27,3 +27,4 @@
 - https://blog.zimperium.com/cve-2018-9539-use-free-vulnerability-privileged-android-service/
 - https://vvx7.io/posts/2022/09/your-amiibos-haunted/
 - https://blog.zimperium.com/cve-2017-13253-buffer-overflow-multiple-android-drm-services/
+- https://starlabs.sg/blog/2022/12-the-hole-new-world-how-a-small-leak-will-sink-a-great-browser-cve-2021-38003/

@@ -1,1 +1,2 @@
 - https://labs.detectify.com/2021/01/15/how-i-hijacked-the-top-level-domain-of-a-sovereign-state/
+- https://medium.com/@rojanrijal/this-domain-is-my-domain-g-suite-a-record-vulnerability-b447a90a8de7

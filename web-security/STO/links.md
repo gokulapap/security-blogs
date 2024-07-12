@@ -1,0 +1,1 @@
+- https://medium.com/@moSec/how-i-hacked-thousand-of-subdomains-6aa43b92282c

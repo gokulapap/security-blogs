@@ -27,3 +27,4 @@
 - https://web.archive.org/web/20201117123227/https://www.mohamedharon.com/2019/02/2-subdomains-takeover-via-unbounce-in.html
 - https://medium.com/bugbountywriteup/taking-over-google-calendar-of-a-company-1c49071f6a9
 - https://blog.securitybreached.org/2017/10/10/bugcrowds-domain-subdomain-takeover-vulnerability
+- https://web.archive.org/web/20201022195925/https://www.mohamedharon.com/2018/08/Shipttakeover.html

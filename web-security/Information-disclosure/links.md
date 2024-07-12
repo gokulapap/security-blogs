@@ -102,3 +102,4 @@
 - https://bloggerrando.blogspot.com/2022/09/09-1.html
 - https://medium.com/@spade.com/api-secret-key-leakage-leads-to-disclosure-of-employees-information-5ca4ce17e1ce
 - https://medium.com/@Dhamuharker/monitoring-linux-host-metrics-with-the-node-exporter-information-disclosure-350-bab3baa75bdc
+- https://www.yesnaveen.com/whatsapp-number-disclosure
