@@ -62,3 +62,5 @@
 - https://xhzeem.me/posts/SSRF-in-PDF-export-with-PhantomJs/read
 - https://pharish4948.medium.com/blind-ssrf-to-port-scanning-through-response-time-d7336667299d
 - https://medium.com/@_yldrm/host-header-injection-to-complete-organization-takeover-67a8a2ddb188
+- https://medium.com/@raymond-lind/ssrf-lfi-in-uploads-feature-a134aa467abf
+- https://ltsirkov.medium.com/gitlab-just-another-ssrf-issue-483bc040392b

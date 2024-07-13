@@ -2,3 +2,4 @@
 - https://medium.com/@mahmud0x/graphql-api-hacking-7cf6cd46ce4f
 - https://baibhavjha.com.np/blogs/facebookgroupmemberdisclosure/
 - https://0x1int.gitbook.io/blogs/insufficient-graphql-api-vulnerability-due-to-lack-of-validation-of-authorization-bearer-token
+- https://ysamm.com/?p=627

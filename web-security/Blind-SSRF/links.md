@@ -1,2 +1,3 @@
 - https://medium.com/bugbountywriteup/bug-bounty-fastmail-feeda67905f5
 - https://jayateerthag.medium.com/blind-ssrf-in-skype-microsoft-6639f4961052
+- https://medium.com/@shahjerry33/blind-ssrf-the-hide-seek-game-da9d0ecef2fb

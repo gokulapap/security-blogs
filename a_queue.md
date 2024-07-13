@@ -537,7 +537,6 @@
 - https://blog.doyensec.com//2023/03/21/windows-installer.html, Local-Privilege-Escalation
 - https://notifybugme.medium.com/how-i-got-access-to-essilor-international-company-customer-pii-info-by-aws-metadata-access-through-3da02f4c79f0, SSRF
 - https://securitylabs.datadoghq.com/articles/bypass-cloudtrail-aws-service-catalog-and-other/, Cloud
-- https://blog.impalabs.com/2303_advisory_parallels-desktop_toolgate.html, Path-traversal
 - https://cupc4k3.lol/ssti-leads-to-rce-on-pyrocms-7515be27c811, SSTI
 - https://www.da.vidbuchanan.co.uk/blog/exploiting-acropalypse.html, Privacy-issue
 - https://medium.com/@bag0zathev2/easy-via-api-params-manipulation-leading-to-bypassing-the-email-verification-block-a45dad2db60c, Mass-assignment
@@ -999,7 +998,6 @@
 - https://srcincite.io/blog/2022/10/25/eat-what-you-kill-pre-authenticated-rce-in-vmware-nsx-manager.html, RCE
 - https://www.varonis.com/blog/the-logging-dead-two-windows-event-log-vulnerabilities, DoS
 - https://hamzadzworm.medium.com/5000-for-apple-stored-xss-and-another-blind-xss-still-under-review-e9f6f5a76eb1, Blind-XSS
-- https://medium.com/@raymond-lind/ssrf-lfi-in-uploads-feature-a134aa467abf, SSRF
 - https://medium.com/@raymond-lind/how-i-found-a-simple-stored-xss-9a6b1c5e0afa, Stored-XSS
 - https://bishopfox.com/blog/jira-align-advisory, SSRF
 - https://www.redteam-pentesting.de/en/advisories/rt-sa-2021-003/-missing-authentication-in-zkteco-zem-zmm-web-interface, Missing-authentication
@@ -2311,7 +2309,6 @@
 - https://ysamm.com/?p=636, Information-disclosure
 - https://ysamm.com/?p=634, Information-disclosure
 - https://ysamm.com/?p=632, XSS
-- https://ysamm.com/?p=627, GraphQL
 - https://ysamm.com/?p=621, Authorization-flaw
 - https://ysamm.com/?p=625, Open-redirect
 - https://www.shielder.it/blog/2021/02/hunting-for-bugs-in-telegrams-animated-stickers-remote-attack-surface/, Memory-corruption
@@ -2324,7 +2321,6 @@
 - https://mokhansec.medium.com/idor-via-websockets-allow-me-to-takeover-any-users-account-23460dacdeab, IDOR
 - https://vbharad.medium.com/how-i-hacked-everyones-resume-cv-s-and-got-851aaa4d75d9, IDOR
 - https://blog.evanricafort.com/2021/02/idor-in-redacted.html, IDOR
-- https://ltsirkov.medium.com/gitlab-just-another-ssrf-issue-483bc040392b, SSRF
 - https://web.archive.org/web/20220519231807/https://wisdomfreak.com/how-i-was-able-to-get-extra-coins/, Logic-flaw
 - https://samcurry.net/hacking-chesscom/, Reflected-XSS
 - https://www.inputzero.io/2020/12/telegram-privacy-fails-again.html, Privacy-issue
@@ -2517,7 +2513,6 @@
 - https://devcraft.io/2020/10/18/github-rce-git-inject.html, RCE
 - https://mksben.l0.cm/2020/10/discord-desktop-rce.html, RCE
 - https://blog.yappare.com/2020/10/i-had-fun-with-this-xss.html, XSS
-- https://medium.com/@shahjerry33/blind-ssrf-the-hide-seek-game-da9d0ecef2fb, Blind-SSRF
 - https://medium.com/@merry6607/how-i-find-my-first-p1-level-bug-5a6dd9587203, XSS
 - https://medium.com/@mustafa0x2021/disclose-emails-phone-numbers-other-information-for-facebook-users-who-tried-to-add-funds-to-31aea5f973a5, Information-disclosure
 - https://blog.mozilla.org/attack-and-defense/2020/10/12/guest-blog-post-rollback-attack/, Local-Privilege-Escalation
