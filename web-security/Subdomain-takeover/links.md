@@ -28,3 +28,4 @@
 - https://medium.com/bugbountywriteup/taking-over-google-calendar-of-a-company-1c49071f6a9
 - https://blog.securitybreached.org/2017/10/10/bugcrowds-domain-subdomain-takeover-vulnerability
 - https://web.archive.org/web/20201022195925/https://www.mohamedharon.com/2018/08/Shipttakeover.html
+- https://web.archive.org/web/20210106234354/https://medium.com/bugbountywriteup/subdomain-take-over-worth-100-ce822ed85ba0

@@ -64,3 +64,4 @@
 - https://medium.com/@_yldrm/host-header-injection-to-complete-organization-takeover-67a8a2ddb188
 - https://medium.com/@raymond-lind/ssrf-lfi-in-uploads-feature-a134aa467abf
 - https://ltsirkov.medium.com/gitlab-just-another-ssrf-issue-483bc040392b
+- https://cirius.medium.com/exploiting-a-hidden-and-forgotten-bug-49ce7ad4de39

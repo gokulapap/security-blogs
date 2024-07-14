@@ -607,7 +607,6 @@
 - https://trenchant.io/vmware-workspace-one-access/, RCE
 - https://medium.com/@mullangisashank/the-vulnerability-that-exposed-an-un-website-to-remote-code-execution-dfe377b82049, Components-with-known-vulnerabilities
 - https://medium.com/@levshmelevv/10-000-bounty-for-exposed-git-to-rce-304c7e1f54, git-folder-disclosure
-- https://rollingpwn.github.io/BLE-Relay-Aattck/, Bluetooth
 - https://infosecwriteups.com/how-did-i-found-rce-on-shareit-which-rewarded-bounty-7d4196bf1b52, Log4shell
 - https://nishantjain.tech/#/blog, GraphQL
 - https://medium.com/@omidxrz/command-injection-by-changing-the-logo-2d730887ab6c, RCE
@@ -2172,7 +2171,6 @@
 - https://bughunter25.medium.com/a-tale-of-html-to-pdf-converter-ssrf-and-various-bypasses-4a3e11030c77, SSRF
 - https://feed.bugs.xdavidhu.me/bugs/0003, Privacy-issue
 - https://polarply.medium.com/the-false-oracle-azure-functions-padding-oracle-issue-2025e0e6b8a, Padding-oracle-attack
-- https://dewcode.medium.com/how-did-i-earn-by-breaking-the-back-end-logic-of-the-server-fd94882cbdf6, Logic-flaw
 - https://n45ht.or.id/post/reflected-dom-xss-on-domainesia/en, XSS
 - https://n45ht.or.id/post/exploiting-xss-via-markdown-on-xiaomi/en, XSS
 - https://blog.sonarsource.com/wordpress-xxe-security-vulnerability/, XXE
@@ -2271,7 +2269,6 @@
 - https://publish.whoisbinit.me/amazon-ec2-dangling-dns-records-on-surf-test-xwf-internet-org, Subdomain-takeover
 - https://blog.melbadry9.xyz/ddns-ec2-ips-current-state, Dangling-DNS-records
 - https://medium.com/@mehdi.alouache/partially-disable-cybereason-edr-as-low-privileges-user-on-windows-1405fd53e90e, EDR-bypass
-- https://cirius.medium.com/exploiting-a-hidden-and-forgotten-bug-49ce7ad4de39, SSRF
 - https://3bodymo.medium.com/the-easiest-2500-i-got-it-from-bug-bounty-program-8f47ea4aff22, Information-disclosure
 - https://lf.lc/vrp/181521559b/, Container-escape
 - https://infosecwriteups.com/leveraging-template-injection-to-takeover-an-account-1dba7c4ae315, CSTI
@@ -2393,7 +2390,6 @@
 - https://orthonviper.medium.com/information-disclosure-through-signup-endpoint-86d2d66dfef1, Information-disclosure
 - https://krevetk0.medium.com/10-000-for-a-vulnerability-that-doesnt-exist-9dbc63684e94, Path-traversal
 - https://emanuel-beni.medium.com/stored-xss-on-product-description-high-400-2f078fd70fd2, Stored-XSS
-- https://web.archive.org/web/20210106234354/https://medium.com/bugbountywriteup/subdomain-take-over-worth-100-ce822ed85ba0, Subdomain-takeover
 - https://medium.com/bugbountywriteup/finding-bugs-on-chess-com-739a71fbdb31, Lack-of-rate-limiting
 - https://njbooher.github.io/blog/cloudflare-workers-ip-spoofing, WAF-bypass
 - https://www.shawarkhan.com/2021/01/achieve-remote-code-execution-by.html, RCE
@@ -3906,7 +3902,6 @@
 - https://emtunc.org/blog/03/2017/bypassing-safe-links-exchange-online-advanced-threat-protection/, Open-redirect
 - https://buer.haus/2017/03/13/airbnb-ruby-on-rails-string-interpolation-led-to-remote-code-execution/, RCE
 - https://corben.io/blog/17-3-10-att-rce, RCE
-- https://medium.com/@marin_m/how-i-found-a-5-000-google-maps-xss-by-fiddling-with-protobuf-963ee0d9caff, XSS
 - https://buer.haus/2017/03/08/airbnb-when-bypassing-json-encoding-xss-filter-waf-csp-and-auditor-turns-into-eight-vulnerabilities/, XSS
 - https://www.rcesecurity.com/2017/03/ok-google-give-me-all-your-internal-dns-information/, SSRF
 - https://labs.detectify.com/2017/02/28/hacking-slack-using-postmessage-and-websocket-reconnect-to-steal-your-precious-token/, postMessage
