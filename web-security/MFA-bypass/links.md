@@ -8,3 +8,4 @@
 - https://web.archive.org/web/20200506144651/https://medium.com/@jeppe.b.weikop/2fa-bypass-via-logical-rate-limiting-bypass-25ae2a4e1835
 - https://medium.com/@rushikesh12gaikwad/cracking-the-2fa-215d24ccb29b
 - https://medium.com/@vbharad/2-fa-bypass-via-csrf-attack-8f2f6a6e3871
+- https://infosecwriteups.com/how-i-bypass-2fa-while-resetting-password-3f73bf665728

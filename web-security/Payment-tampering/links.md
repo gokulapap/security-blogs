@@ -2,3 +2,4 @@
 - https://medium.com/@androgaming1912/got-vps-hosting-domain-only-0-01-bug-bounty-edeea1a7d5e6
 - https://itsdeepceh.medium.com/a-business-logic-error-bug-worth-600-a0050720bfee
 - https://wesecureapp.com/blog/blockchain-network-is-secured-but-not-the-apps-and-their-integrations/
+- https://marxchryz.medium.com/price-manipulation-bypass-using-integer-overflow-method-36ff23ebe91d

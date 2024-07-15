@@ -1,0 +1,1 @@
+- https://johnjhacking.com/blog/cve-2023-24068-cve-2023-24069/

@@ -29,3 +29,4 @@
 - https://bugbaba.blogspot.com/2017/07/open-redirect-in-flock-my-first-swag.html
 - https://medium.com/@abhishake100/strange-redirect-fixed-but-no-bounty-54425aea7f19
 - https://medium.com/@jacopotediosi/how-i-hacked-altervista-org-f23d011cdb96
+- https://medium.com/@adam.adreleve/dom-based-open-redirect-to-the-leak-of-a-jwt-token-1b1dd2ced9a1

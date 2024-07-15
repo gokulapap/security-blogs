@@ -730,7 +730,6 @@
 - https://www.varonis.com/blog/okta-attack-vectors, Insecure-storage-of-sensitive-information
 - https://www.zerodayinitiative.com/blog/2023/1/23/activation-context-cache-poisoning-exploiting-csrss-for-privilege-escalation, Local-Privilege-Escalation
 - https://ph-hitachi.medium.com/how-i-hacked-scopely-using-sign-in-with-google-298a9c166ad, Account-takeover
-- https://johnjhacking.com/blog/cve-2023-24068-cve-2023-24069/, Thick-client
 - https://www.synacktiv.com/sites/default/files/2023-01/advisory_manageengine_adss_2023.pdf, RCE
 - https://medium.com/@bag0zathev2/csrf-stored-xss-to-leading-to-full-account-takeover-39e9a79533e3, Stored-XSS
 - https://melotover.medium.com/bypassing-e2e-encryption-leads-to-multiple-high-vulnerabilities-65b708e5ad84, IDOR
@@ -1481,7 +1480,6 @@
 - https://systemweakness.com/unlock-any-blur-text-picture-without-membership-subscription-on-scribd-com-by-neuchi-69237776e24, Payment-bypass
 - https://eslam.io/posts/ejs-server-side-template-injection-rce/, SSTI
 - https://shubhdeepp.medium.com/how-i-got-apple-hall-of-fame-3d86f858c05f, Content-injection
-- https://infosecwriteups.com/how-i-bypass-2fa-while-resetting-password-3f73bf665728, MFA-bypass
 - https://www.tnirmal.com.np/2022/04/adventures-into-meowcorp-bug-bounty.html, Information-disclosure
 - https://github.com/cloudflare/odoh-server-go/issues/30, SSRF
 - https://medium.com/@malwarejoe/smashing-the-modern-web-tech-stack-part-1-the-evolving-threat-landscape-in-2022-and-dom-based-324696684239, Open-redirect
@@ -1780,7 +1778,6 @@
 - https://github.com/l0ggg/VMware_vCenter, LFI
 - https://cyberguy0xd1.medium.com/my-write-up-in-hacking-ibms-administration-panel-and-getting-sqli-on-it-51404c7bee27, SQL-injection
 - https://blog.sonarsource.com/nodebb-remote-code-execution-with-one-shot, RCE
-- https://marxchryz.medium.com/price-manipulation-bypass-using-integer-overflow-method-36ff23ebe91d, Payment-tampering
 - https://sh1yo.art/post/sec-596/, Reflected-XSS
 - https://medium.com/@thenighthawk0/how-i-got-my-first-bounty-on-financial-sector-gateway-site-by-using-previous-graphql-462cca7389ca, Information-disclosure
 - https://securifyinc.com/disclosures/rocketchat-monitor-messages, Authorization-flaw
@@ -2514,7 +2511,6 @@
 - https://blog.mozilla.org/attack-and-defense/2020/10/12/guest-blog-post-rollback-attack/, Local-Privilege-Escalation
 - https://web.archive.org/web/20211020083928/https://medium.com/@rahulnaidu_92192/unauthorized-access-to-all-the-users-account-c087511fe42a, Account-takeover
 - https://blog.dixitaditya.com/leveraging-xss-to-read-internal-files/, XSS
-- https://medium.com/@sechunter/js-is-love-%EF%B8%8F-ca393a4849e9, Information-disclosure
 - https://medium.com/@parasarora06/cve-2018-5230-jira-cross-site-scripting-59ec96b3d75f, Reflected-XSS
 - https://medium.com/@sechunter/ato-via-host-header-poisoning-dc5c29d2fd0d, Host-header-injection
 - https://www.intezer.com/blog/cloud-security/kud-i-enter-your-server-new-vulnerabilities-in-microsoft-azure/, Privilege-escalation
@@ -2845,7 +2841,6 @@
 - https://web.archive.org/web/20200513210337/https://medium.com/bugbountywriteup/the-secret-sauce-of-bug-bounty-bdcc2e2d45af, CSTI
 - https://medium.com/@vincenz/exploiting-a-race-condition-vulnerability-3f2cb387a72, Race-condition
 - https://medium.com/@jayateerthag/cors-bug-on-googles-404-page-rewarded-2163d58d3c8b, CORS-misconfiguration
-- https://medium.com/@adam.adreleve/dom-based-open-redirect-to-the-leak-of-a-jwt-token-1b1dd2ced9a1, Open-redirect
 - https://blog.stazot.com/prestashop-csrf-to-rce-article/, RCE
 - https://medium.com/@np20121996/how-was-i-able-to-find-privilege-escalation-b13366b97706, IDOR
 - https://medium.com/@rat010/otp-verification-bypass-ee17d68f8425, OTP-bypass
