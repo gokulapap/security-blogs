@@ -1,3 +1,4 @@
 - https://portswigger.net/research/browser-powered-desync-attacks
 - https://medium.com/@ricardoiramar/the-powerful-http-request-smuggling-af208fafa142
 - https://medium.com/bugbountywriteup/get-paid-by-smuggling-the-legal-way-c31805de3c59
+- https://bahruz.me/publications/11847

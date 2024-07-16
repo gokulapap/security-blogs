@@ -1182,7 +1182,6 @@
 - https://jfrog.com/blog/satisfying-our-way-into-remote-code-execution-in-the-opc-ua-industrial-stack/, Memory-corruption
 - https://medium.com/@bobbyrsec/gifshell-covert-attack-chain-and-c2-utilizing-microsoft-teams-gifs-1618c4e64ed7, Phishing
 - https://pierrekim.github.io/blog/2022-08-24-2-byte-dos-freebsd-netbsd-telnetd-netkit-telnetd-inetutils-telnetd-kerberos-telnetd.html, DoS
-- https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/oracle-sbc-multiple-security-vulnerabilities-leading-to-unauthorized-access-and-denial-of-service/, IDOR
 - https://blog.sonarsource.com/securing-developer-tools-argument-injection-in-vscode/, Argument-injection
 - https://redrays.io/cve-2020-2733-jd-edwards/, Information-disclosure
 - https://whereisk0shl.top/post/break-me-out-of-sandbox-in-old-pipe-cve-2022-22715-windows-dirty-pipe, Local-Privilege-Escalation
@@ -1500,7 +1499,6 @@
 - https://infosecwriteups.com/bypass-rate-limit-a-blank-space-leads-to-this-random-encounter-e18e72fbf228, Password-reset
 - https://medium.com/@anjaneyulukanakatla1996/my-first-bug-in-hackerone-a68cf7b05510, Information-disclosure
 - https://medium.com/@_ip_/2-3-xss-through-the-front-door-gitlab-fc4b6799e743, XSS
-- https://falcnix.medium.com/threat-evasion-for-aws-multifactorauthpresent-condition-using-cloudshell-8296b34ecad4, MFA-bypass
 - https://rhinosecuritylabs.com/aws/cve-2022-25165-aws-vpn-client/, Local-Privilege-Escalation
 - https://www.notgitbleed.com, Information-disclosure
 - https://blog.lightspin.io/aws-rds-critical-security-vulnerability, LFI
@@ -1799,7 +1797,6 @@
 - https://www.oliviaohara.com/keybase, Information-disclosure
 - https://hector0x.medium.com/dos-attack-in-yahoo-how-i-was-able-to-deny-new-users-from-service-6b222e744e61, DoS
 - https://hector0x.medium.com/broken-authentication-through-referral-code-25cd0e8bccc2, Authentication-flaw
-- https://bahruz.me/publications/11847, HTTP-Request-Smuggling
 - https://hector0x.medium.com/dos-attack-in-yahoo-how-i-was-able-to-deny-new-users-from-service-6b222e744e61, DoS
 - https://piyushshuklabug.medium.com/how-i-found-p1-bug-due-to-sensitive-data-exposer-and-earn-99ebcb342bcd, Information-disclosure
 - https://threatnix.io/blog/exploiting-csp-in-webkit-to-break-authentication-authorization/, Information-disclosure
@@ -2731,7 +2728,6 @@
 - https://web.archive.org/web/20201123204430/https://www.mohamedharon.com/2020/06/all-intercomhelp-subdomains-vulnerable.html, Subdomain-takeover
 - https://www.ehpus.com/post/smtp-injection-in-gsuite, SMTP-injection
 - https://medium.com/bugbountywriteup/reflected-user-input-xss-c3e681710e74, Reflected-XSS
-- https://medium.com/bugbountywriteup/business-logic-flaw-in-invitation-system-allows-to-takeover-any-account-at-private-company-daaf898966b0, Account-takeover
 - https://ysamm.com/?p=460, Privilege-escalation
 - https://ysamm.com/?p=450, Information-disclosure
 - https://ysamm.com/?p=458, Information-disclosure
@@ -3988,7 +3984,6 @@
 - https://ahussam.me/Blind-sqli-Hootsuite/, Blind-SQL-injection
 - https://josipfranjkovic.blogspot.com/2015/07/the-easiest-bug-bounties-i-have-ever-won.html, IDOR
 - https://blog.darabi.me/2015/03/facebook-bypass-ads-account-roles.html, Authorization-flaw
-- https://josipfranjkovic.blogspot.com/2015/04/race-conditions-on-facebook.html, Race-condition
 - https://buer.haus/2015/02/03/google-com-mobile-feedback-url-redirect-regexvalidation-flaw/, Open-redirect
 - https://buer.haus/2015/01/15/yahoo-root-access-sql-injection-tw-yahoo-com/, SQL-injection
 - https://quitten.github.io/Aliexpress/, XSS

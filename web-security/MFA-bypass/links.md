@@ -9,3 +9,4 @@
 - https://medium.com/@rushikesh12gaikwad/cracking-the-2fa-215d24ccb29b
 - https://medium.com/@vbharad/2-fa-bypass-via-csrf-attack-8f2f6a6e3871
 - https://infosecwriteups.com/how-i-bypass-2fa-while-resetting-password-3f73bf665728
+- https://falcnix.medium.com/threat-evasion-for-aws-multifactorauthpresent-condition-using-cloudshell-8296b34ecad4

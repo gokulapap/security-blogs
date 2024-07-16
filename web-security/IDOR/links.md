@@ -101,3 +101,4 @@
 - https://medium.com/@iam310335/finding-more-idors-tips-and-tricks-100-day-b08ff2a389af
 - https://medium.com/@r99tiq/idor-how-i-was-able-to-see-any-private-album-passwrod-in-picturepush-264913f45e10
 - https://medium.com/@omarahmed_13016/idor-unpin-posts-for-fun-18f628eaef24
+- https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/oracle-sbc-multiple-security-vulnerabilities-leading-to-unauthorized-access-and-denial-of-service/
