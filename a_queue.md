@@ -109,7 +109,6 @@
 - https://medium.com/@rahulkumarmk/fuzzing-get-and-post-requests-a-comprehensive-guide-with-gobuster-ffuz-and-wfuzz-bde14769999e, automation
 - https://medium.com/@kaorrosi/content-discovery-automated-and-manual-9984ba8d1da6, recon
 - https://medium.com/@cyberweapons/reflected-xss-cloudflare-waf-bypass-cc60a7b565eb, XSS
-- https://medium.com/@grumpinout/intigritis-january-xss-challenge-4475265edaa7, ctf
 - https://medium.com/@popalltheshells/domain-admin-compromise-in-3-hours-5778902604c9, misc
 - https://medium.com/@sivasimha/unrestricted-file-upload-cloud-fare-bypass-12867b65de3a, file-upload
 - https://medium.com/@adamjsturge/mx-takeovers-automated-subdomain-takeover-64e658fc4fb7, automation
@@ -335,7 +334,6 @@
 - https://d3lb3.github.io/keepass_triggers_arent_dead/, Local-Privilege-Escalation
 - https://www.tarlogic.com/blog/linked-servers-adsi-passwords/, ADSI
 - https://www.trustedsec.com/blog/onedrive-to-enum-them-all/, Username-enumeration
-- https://medium.com/@M0X0101/how-i-was-able-to-get-account-takeover-via-idor-form-jwt-caaf7ea58aa, JWT
 - https://medium.com/@malekmahmed55/turning-a-50-tab-nabbing-vulnerability-into-a-1000-account-takeover-9c3f32cb2d84, Reverse-tabnabbing
 - https://ssd-disclosure.com/ssd-advisory-roundcube-markasjunk-rce/, RCE
 - https://jhftss.github.io/CVE-2022-32902-Patch-One-Issue-and-Introduce-Two/, TCC-bypass
@@ -657,7 +655,6 @@
 - https://mahmoudsec.blogspot.com/2023/02/sql-injection-utilizing-xml-functions.html, SQL-injection
 - https://pullerjsecu.medium.com/bypassing-cors-configurations-to-produce-an-account-takeover-for-fun-and-profit-3e50c3f2a124, CORS-misconfiguration
 - https://medium.com/@kartikhunt3r/blind-time-based-sql-injection-vulnerability-in-an-indian-government-website-6bf3bb7daf25, SQL-injection
-- https://medium.com/@deadoverflow/bypassing-samesite-lax-cookie-restrictions-to-preform-csrf-resulting-to-a-horizontal-privilege-1dfc8fb17b0a, CSRF
 - https://ophionsecurity.com/blog/hacking-our-way-into-an-internal-db, JWT
 - https://theevilbit.github.io/posts/cve-2022-22655/, MacoS
 - https://medium.com/@ramkumarnadar47/zip-bomb-attack-88d84a98be9f, Zip-bomb
@@ -1180,7 +1177,6 @@
 - https://blog.nietaanraken.nl/posts/github-pages-command-injection/, RCE
 - https://dphoeniixx.medium.com/chaining-telegram-bugs-to-steal-session-related-files-c90eac4749bd, Arbitrary-file-read
 - https://jfrog.com/blog/satisfying-our-way-into-remote-code-execution-in-the-opc-ua-industrial-stack/, Memory-corruption
-- https://medium.com/@bobbyrsec/gifshell-covert-attack-chain-and-c2-utilizing-microsoft-teams-gifs-1618c4e64ed7, Phishing
 - https://pierrekim.github.io/blog/2022-08-24-2-byte-dos-freebsd-netbsd-telnetd-netkit-telnetd-inetutils-telnetd-kerberos-telnetd.html, DoS
 - https://blog.sonarsource.com/securing-developer-tools-argument-injection-in-vscode/, Argument-injection
 - https://redrays.io/cve-2020-2733-jd-edwards/, Information-disclosure
@@ -2705,7 +2701,6 @@
 - https://medium.com/@hgreal/how-i-hacked-a-bank-their-application-using-it-for-hacking-another-bank-company-10-k-xss-b9cc801a675, XSS
 - https://medium.com/@fatnassifiras45/how-i-was-able-to-take-over-any-account-via-the-password-reset-functionality-ef1659f8b481, Password-reset
 - https://officialaimm.medium.com/an-attempt-to-escalate-a-low-impact-hidden-input-xss-9f4b9c88f19c, XSS
-- https://blog.stazot.com/boltcms-file-upload-bypass/, RCE
 - https://medium.com/@minometidji/how-i-bypassed-open-redirect-and-i-have-get-reward-from-yandex-5df5de836718, Open-redirect
 - https://web.archive.org/web/20200627125016/https://medium.com/@s3c/hacked-worldwide-zoom-users-fceb31868c2d, OAuth
 - https://web.archive.org/web/20200626065913/https://medium.com/@saugatpokharel/able-to-create-hidden-comment-by-blocking-an-admin-facebook-bug-bounty-2020-c62bd10712f, Logic-flaw

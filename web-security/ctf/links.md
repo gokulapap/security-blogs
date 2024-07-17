@@ -1,0 +1,1 @@
+- https://medium.com/@grumpinout/intigritis-january-xss-challenge-4475265edaa7
