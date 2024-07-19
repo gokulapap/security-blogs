@@ -8,3 +8,4 @@
 - https://eaton-works.com/2023/06/06/honda-ecommerce-hack/
 - https://lightningsecurity.io/blog/host-header-injection/
 - https://medium.com/@sumitcfe/account-takeover-vulnerability-7e6e039a4dd3
+- https://medium.com/@ironfisto/tokopedia-account-takeover-bug-worth-8-million-idr-5474cb5b5cc9

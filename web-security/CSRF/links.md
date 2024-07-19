@@ -45,3 +45,4 @@
 - https://www.tomanthony.co.uk/blog/zoom-security-exploit-crack-private-meeting-passwords/
 - https://whitton.io/articles/obtaining-tokens-outlook-office-azure-account/
 - https://medium.com/@deadoverflow/bypassing-samesite-lax-cookie-restrictions-to-preform-csrf-resulting-to-a-horizontal-privilege-1dfc8fb17b0a
+- http://infosecflash.com/2019/01/05/how-i-could-have-taken-over-any-pinterest-account/

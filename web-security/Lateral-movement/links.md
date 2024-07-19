@@ -1,0 +1,1 @@
+- https://sensepost.com/blog/2023/jumping-into-socks/

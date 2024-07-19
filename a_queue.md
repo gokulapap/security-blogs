@@ -721,7 +721,6 @@
 - https://www.akamai.com/blog/security-research/exploiting-critical-spoofing-vulnerability-microsoft-cryptoapi, Windows
 - https://swarm.ptsecurity.com/mybb-1-8-31-remote-code-execution-chain/, RCE
 - https://medium.com/@_deshine_/easy-2000-race-condition-b4d093c9bc3c, Race-condition
-- https://sensepost.com/blog/2023/jumping-into-socks/, Lateral-movement
 - https://blog.assetnote.io/2023/01/24/yellowfin-auth-bypass-to-rce/, RCE
 - https://frycos.github.io/vulns4free/2023/01/24/0days-united-nations.html, RCE
 - https://www.varonis.com/blog/okta-attack-vectors, Insecure-storage-of-sensitive-information
@@ -1380,7 +1379,6 @@
 - https://www.sonarsource.com/blog/zimbra-mail-stealing-clear-text-credentials-via-memcache-injection/, Memcache-injection
 - https://medium.com/@damaidec/403-bypass-on-a-fortune-100-financial-institution-p3-156d33bc6ed, Information-disclosure
 - https://github.com/andyperlitch/jsbn/issues/43, Cryptographic-issues
-- https://orca.security/resources/blog/synlapse-critical-azure-synapse-analytics-service-vulnerability/, Cross-tenant-vulnerability
 - https://portswigger.net/research/bypassing-csp-with-dangling-iframes, CSP-bypass
 - https://medium.com/@kashyapherry147/500-account-takeover-b008f1ccb4a2, Account-takeover
 - https://medium.com/@janijay007/how-i-was-able-to-see-likes-and-dislikes-count-which-is-hidden-by-victim-youtube-1-fa9cfe7cce7d, Logic-flaw
@@ -3167,7 +3165,6 @@
 - https://philippeharewood.com/subscribe-to-typing-notifications-for-any-instagram-user/, Authorization-flaw
 - https://blog.usejournal.com/shopping-products-for-free-parameter-tampering-vulnerability-8e09e1471596, Parameter-tampering
 - https://www.noob.ninja/2019/07/exploiting-tricky-blind-sql-injection.html, SQL-injection
-- https://burninatorsec.blogspot.com/2019/07/microsoft-id-open-redirect.html, Open-redirect
 - https://leucosite.com/Microsoft-Office-365-Outlook-XSS/, XSS
 - https://medium.com/@sudhanshur705/how-recon-helped-me-to-to-find-a-facebook-domain-takeover-58163de0e7d5, Subdomain-takeover
 - https://medium.com/@circleninja/facebook-informative-bug-from-triaged-76738e4d5938, Lack-of-rate-limiting
@@ -3402,7 +3399,6 @@
 - https://medium.com/@thejuskrishnan911/reflected-xss-on-asus-568ce0541171, Reflected-XSS
 - https://medium.com/@hariharan21/stored-xss-via-alternate-text-at-zendesk-support-8bfee68413e4, Stored-XSS
 - https://www.ash-king.co.uk/downloading-any-file-via-facebook-android.html, Authorization-flaw
-- http://infosecflash.com/2019/01/05/how-i-could-have-taken-over-any-pinterest-account/, CSRF
 - https://medium.com/@maxpasqua/stealing-side-channel-attack-tokens-in-facebook-account-switcher-90c5944e3b58, Token-leak
 - https://web.archive.org/web/20191217045127/https://medium.com/vulnerables/yes-i-can-see-your-otp-9334cd27f021, IDOR
 - https://www.hackerinside.me/2019/01/a-tricky-open-redirect.html, Open-redirect
@@ -3414,7 +3410,6 @@
 - https://medium.com/@sahruldotid/how-i-takeover-wordpress-admin-fiiipay-my-1bdede83635d, Account-takeover
 - https://medium.com/@aniltom/from-hunting-for-a-laptop-to-hunting-down-remote-code-execution-72cce2761846, RCE
 - https://medium.com/@sampanna/rce-in-nokia-com-59b308e4e882, RCE
-- https://medium.com/@ironfisto/tokopedia-account-takeover-bug-worth-8-million-idr-5474cb5b5cc9, Password-reset
 - https://medium.com/@putracraft.theworld/server-side-request-forgery-in-openid-support-defcc64d5e41, SSRF
 - http://blog.randorisec.fr/client-side-validation/, Client-side-enforcement-of-server-side-security
 - https://medium.com/@tnirmalz/facebook-bugbounty-disclosing-page-members-1178595cc520, Information-disclosure

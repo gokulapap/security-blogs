@@ -30,3 +30,4 @@
 - https://medium.com/@abhishake100/strange-redirect-fixed-but-no-bounty-54425aea7f19
 - https://medium.com/@jacopotediosi/how-i-hacked-altervista-org-f23d011cdb96
 - https://medium.com/@adam.adreleve/dom-based-open-redirect-to-the-leak-of-a-jwt-token-1b1dd2ced9a1
+- https://burninatorsec.blogspot.com/2019/07/microsoft-id-open-redirect.html
