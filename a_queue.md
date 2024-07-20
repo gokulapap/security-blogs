@@ -838,7 +838,6 @@
 - https://hopesamples.blogspot.com/2022/12/idor-allows-to-assign-deleted-tasks-to.html, IDOR
 - https://hopesamples.blogspot.com/2022/12/source-code-leakage-due-to-exposed.html, Source-code-disclosure
 - https://hopesamples.blogspot.com/2022/12/user-names-and-email-addresses-are.html, Information-disclosure
-- https://hopesamples.blogspot.com/2022/12/custom-role-details-are-exposed-in.html, Information-disclosure
 - https://medium.com/@mrd17x/scoring-for-a-very-simple-bug-you-dont-always-need-proxy-tools-872a832f83ea, IDOR
 - https://research.nccgroup.com/2022/12/09/public-report-vpn-by-google-one-security-assessment/, Android
 - https://blog.viettelcybersecurity.com/the-first-step-to-pwn2own-but-a-sad-one/, Command-injection
@@ -850,7 +849,6 @@
 - https://medium.com/@shellyshubh/how-you-can-find-your-first-bug-using-google-c9327f82632e, Information-disclosure
 - https://www.synacktiv.com/publications/cool-vulns-dont-live-long-netgear-and-pwn2own.html, Code-injection
 - https://starlabs.sg/blog/2022/12-the-last-breath-of-our-netgear-rax30-bugs-a-tragic-tale-before-pwn2own-toronto-2022/, Command-injection
-- https://medium.com/@cybercitizen.tech/how-we-breached-zdfheute-live-on-television-7530509b91be, Information-disclosure
 - https://ag3n7.medium.com/otp-leaking-through-cookie-leads-to-account-takeover-4fb96f255e2f, Information-disclosure
 - https://blog.nietaanraken.nl/posts/gitub-popular-repository-namespace-retirement-bypass/, Repojacking
 - https://marvelmaniac.medium.com/the-most-underrated-injection-of-all-time-cypher-injection-fa2018ba0de8, Cypher-injection
@@ -1641,7 +1639,6 @@
 - https://wwws.nightwatchcybersecurity.com/2022/02/06/insecure-bootstrap-process-in-oracle-cloud-cli/, Supply-chain-attack
 - https://feed.bugs.xdavidhu.me/bugs/0013, Authentication-bypass
 - https://medium.com/@yaala/facebook-oauth-bypass-446a073e687d, OAuth
-- https://edoverflow.com/2022/bypassing-razers-dom-based-xss-filter/, DOM-XSS
 - https://kailashbohara.com.np/blog/2022/02/04/bypassing-PHP-functions-to-read-system-file-copy/, Components-with-known-vulnerabilities
 - https://omespino.com/write-up-private-bug-bounty-rce-in-ec2-instance-via-ssh-with-private-key-exposed-on-public-github-repository-xx000-usd/, Information-disclosure
 - https://spaceraccoon.dev/solving-dom-xss-puzzles, DOM-XSS
@@ -2568,7 +2565,6 @@
 - https://www.malgregator.com/post/waze-how-i-tracked-your-mother/, Logic-flaw
 - https://blog.redteam.pl/2020/08/stealing-local-files-using-safari-web.html, Browser-hacking
 - https://medium.com/@ricardoiramar/account-takeover-for-the-win-e320ce83cdd9, Account-takeover
-- https://infosecwriteups.com/bounties-for-unauthenticated-file-read-in-cisco-asa-cve-2020-3452-9a0b9143370e, LFI
 - https://medium.com/bugbountywriteup/upload-to-the-future-1fd38fd502bd, IDOR
 - https://medium.com/@0xnazmul/how-i-found-my-first-bug-stored-xss-and-earned-my-first-bounty-1000-33556678d1ed, Stored-XSS
 - https://apapedulimu.click/shopify-com-blind-stored-xss-via-staff-name/, Stored-XSS
@@ -3403,7 +3399,6 @@
 - https://web.archive.org/web/20191217045127/https://medium.com/vulnerables/yes-i-can-see-your-otp-9334cd27f021, IDOR
 - https://www.hackerinside.me/2019/01/a-tricky-open-redirect.html, Open-redirect
 - https://bugbountypoc.com/how-i-was-able-to-harvest-other-vine-users-ip-address, IDOR
-- https://footstep.ninja/posts/password-reset/, Password-reset
 - https://medium.com/@pig.wig45/bypassing-access-control-in-a-program-on-hackerone-ef213ab34703, Authorization-flaw
 - https://medium.com/@yogeshtantak7788/how-i-was-able-to-delete-google-gallery-data-idor-53d2f303efff, IDOR
 - https://medium.com/@armaanpathan/abusing-acl-permissions-to-overwrite-other-users-uploaded-files-videos-on-s3-bucket-162c8877728, Unrestricted-file-upload

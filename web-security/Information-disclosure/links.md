@@ -104,3 +104,5 @@
 - https://medium.com/@Dhamuharker/monitoring-linux-host-metrics-with-the-node-exporter-information-disclosure-350-bab3baa75bdc
 - https://www.yesnaveen.com/whatsapp-number-disclosure
 - https://medium.com/@sechunter/js-is-love-%EF%B8%8F-ca393a4849e9
+- https://medium.com/@cybercitizen.tech/how-we-breached-zdfheute-live-on-television-7530509b91be
+- https://hopesamples.blogspot.com/2022/12/custom-role-details-are-exposed-in.html
