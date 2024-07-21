@@ -1,0 +1,1 @@
+- https://z-sec.co/hacking-admin-panel-getting-free-subscription

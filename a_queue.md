@@ -511,7 +511,6 @@
 - https://www.legitsecurity.com/blog/remote-code-execution-vulnerability-in-azure-pipelines-can-lead-to-software-supply-chain-attack, RCE
 - https://xelkomy.medium.com/found-ssrf-and-lfi-in-just-10-minutes-of-using-burp-492fddef3f3e, SSRF
 - https://www.netspi.com/blog/technical/vulnerability-research/azure-service-bus-power-platform/, RCE
-- https://z-sec.co/hacking-admin-panel-getting-free-subscription, Exposed-registration-API
 - https://www.sonarsource.com/blog/it-s-a-snmp-trap-gaining-code-execution-on-librenms/, RCE
 - https://www.wiz.io/blog/azure-active-directory-bing-misconfiguration, Account-takeover
 - https://posts.specterops.io/id-tap-that-pass-8f79fff839ac, Azure-AD
@@ -1566,7 +1565,6 @@
 - https://medium.com/@tobydavenn/how-i-made-the-bbc-hall-of-fame-3-times-2c816fa515d7, Information-disclosure
 - https://palant.info/2022/03/14/party-time-injecting-code-into-teleparty-extension/, HTML-injection
 - https://medium.com/@rifqihz/open-redirect-via-sendgrid-email-misconfiguration-cec4ccb07f9a, Open-redirect
-- https://medium.com/@tushar.tilak.sharma/a-tale-of-open-redirection-to-stored-xss-6ad426ae9d43, Stored-XSS
 - https://apth3hack3r.medium.com/xss-through-base64-encoded-json-4b0d96e5ccd4, XSS
 - https://bloggerrando.blogspot.com/2022/03/13-1.html, Broken-Access-Control
 - https://medium.com/@botami143/i-have-found-microsoft-subdomain-website-database-list-database-username-password-1dab07d0c8ea, Information-disclosure
@@ -1583,7 +1581,6 @@
 - https://medium.com/@sandh0t/the-bad-twin-a-peculiar-case-of-jwt-exploitation-scenario-1efa03e891c0, Account-takeover
 - https://infosecwriteups.com/some-critical-vulnerabilities-found-with-passive-analysis-on-bug-bounty-programs-explained-1da8b01c11ad, Information-disclosure
 - https://infosecwriteups.com/whatsapp-bug-bounty-bypassing-biometric-authentication-using-voip-87548ef7a0ba, Authentication-bypass
-- https://zoidsec.medium.com/how-i-hacked-a-crypto-company-and-could-steal-1-million-dollars-worth-of-bitcoin-3174434b382c, Path-traversal
 - https://ysamm.com/?p=742, Account-takeover
 - https://www.rapid7.com/blog/post/2022/03/03/cve-2021-4191-gitlab-graphql-api-user-enumeration-fixed/, Username-enumeration
 - https://medium.com/@nvmeeet/4300-instagram-idor-bug-2022-5386cf492cad, IDOR
@@ -2874,7 +2871,6 @@
 - http://carnal0wnage.attackresearch.com/2020/03/what-is-your-gcp-infra-worthabout-700.html, Information-disclosure
 - https://web.archive.org/web/20200511115634/https://medium.com/@godofdarkness.msf/users-email-disclosure-via-invalid-password-reset-link-250-c431ed46680e, Password-reset
 - https://philippeharewood.com/generate-valid-signatures-for-fbcdn-urls/, Logic-flaw
-- https://medium.com/@kaustubhk80/how-i-got-access-to-critical-data-of-a-company-in-no-time-6c396aee21c0, Information-disclosure
 - https://medium.com/@navne3t/bug-bounty-email-content-injection-544196d59e91, Email-content-injection
 - https://techkranti.com/how-i-reported-a-dos-vulnerability-to-aws/, DoS
 - https://ysamm.com/?p=404, Authorization-flaw
@@ -3944,7 +3940,6 @@
 - https://www.seekurity.com/blog/general/fiverr-com-full-accounts-takeover-vulnerability/, CSRF
 - https://thehackerblog.com/poisoning-the-well-compromising-godaddy-customer-support-with-blind-xss/index.html, Blind-XSS
 - https://www.seekurity.com/blog/general/whatsapp-clickjacking-vulnerability-yet-another-web-client-failure, Clickjacking
-- https://www.seekurity.com/blog/write-ups/facebook-clickjacking-how-we-put-a-new-dress-on-facebook-ui/, Clickjacking
 - https://medium.com/@albeckshahar/facebook-invitees-email-address-disclosure-25059ae93725, Information-disclosure
 - https://medium.com/swlh/watch-paint-dry-how-i-got-a-game-on-the-steam-store-without-anyone-from-valve-ever-looking-at-it-2e476858c753, Authorization-flaw
 - https://www.arneswinnen.net/2016/03/how-i-could-compromise-4-locked-instagram-accounts, IDOR

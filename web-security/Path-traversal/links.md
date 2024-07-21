@@ -17,3 +17,4 @@
 - https://xvnpw.github.io/posts/external_authentication_bypass_in_ingress_nginx/
 - https://research.checkpoint.com/reverse-rdp-attack-code-execution-on-rdp-clients/
 - https://blog.impalabs.com/2303_advisory_parallels-desktop_toolgate.html
+- https://zoidsec.medium.com/how-i-hacked-a-crypto-company-and-could-steal-1-million-dollars-worth-of-bitcoin-3174434b382c
