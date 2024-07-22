@@ -47,3 +47,5 @@
 - https://tox7cv3nom.github.io/2021/11/12/chaining-of-csrf-token-misconfiguration-and-no-rate-limit-leads-to-mass-account-takeover.html
 - https://medium.com/@xerox0x1/full-account-take-over-by-very-simple-trick-b4025a53047c
 - https://medium.com/bugbountywriteup/business-logic-flaw-in-invitation-system-allows-to-takeover-any-account-at-private-company-daaf898966b0
+- https://medium.com/@zahirtariq/zero-click-account-takeover-32e888d13e73
+- https://medium.com/@vasuyadav0786/5-ways-to-do-ato-in-a-single-website-cfe7e5da987e

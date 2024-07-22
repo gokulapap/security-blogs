@@ -28,3 +28,4 @@
 - https://vvx7.io/posts/2022/09/your-amiibos-haunted/
 - https://blog.zimperium.com/cve-2017-13253-buffer-overflow-multiple-android-drm-services/
 - https://starlabs.sg/blog/2022/12-the-hole-new-world-how-a-small-leak-will-sink-a-great-browser-cve-2021-38003/
+- https://www.zerodayinitiative.com/blog/2021/9/2/cve-2021-2429-a-heap-based-buffer-overflow-bug-in-the-mysql-innodb-memcached-plugin

@@ -14,3 +14,4 @@
 - https://www.wiz.io/blog/the-cloud-has-an-isolation-problem-postgresql-vulnerabilities
 - https://medium.com/@hariharan21/restriction-is-not-a-promise-privilege-escalation-on-google-2a35104ded5a
 - https://medium.com/@UpdateLap/privileged-escalation-in-facebook-messenger-rooms-e71cb7275101
+- https://wongmjane.com/blog/messenger-rooms-writeup

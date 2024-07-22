@@ -1927,7 +1927,6 @@
 - https://www.synacktiv.com/publications/your-vulnerability-is-in-another-oem.html, Memory-corruption
 - https://marxchryz.medium.com/how-i-found-multiple-xss-in-hidden-legacy-pages-a57a25d8ff1f, XSS
 - https://medium.com/pentesternepal/hacking-dutch-government-for-a-lousy-t-shirt-8e1fd1b56deb, IDOR
-- https://www.zerodayinitiative.com/blog/2021/9/2/cve-2021-2429-a-heap-based-buffer-overflow-bug-in-the-mysql-innodb-memcached-plugin, Memory-corruption
 - https://cho0k.com/wp-content/uploads/2021/08/FullPoC.pdf, Privilege-escalation
 - https://theshubh77.medium.com/bypassing-2-factor-authentication-for-facebook-business-manager-bounty-1000-usd-c78c858459d6, MFA-bypass
 - https://v3d.medium.com/broken-access-control-leads-to-change-of-admin-details-a783e31729c4, Privilege-escalation
@@ -2056,7 +2055,6 @@
 - https://ertugrull.medium.com/unprivileged-user-with-read-write-permission-to-user-access-can-escalate-their-role-to-admin-a217d2d280a8, Privilege-escalation
 - https://thezerohack.com/apple-vulnerability-bug-bounty, Account-takeover
 - https://pwn.vg/articles/2021-06/local-file-read-via-error-based-xxe, XXE
-- https://medium.com/@zahirtariq/zero-click-account-takeover-32e888d13e73, Account-takeover
 - https://rohit-soni.medium.com/exploiting-file-upload-functionality-in-unique-way-6081b8f658dd, Unrestricted-file-upload
 - https://imranhudaa.medium.com/accessing-restricted-documentswith-extra-json-body-content-c59bc7224189, Mass-assignment
 - https://0xbadb00da.medium.com/account-takeover-via-stored-xss-with-arbitrary-file-upload-2774ec6cff51, Insecure-file-upload
@@ -2516,7 +2514,6 @@
 - https://medium.com/@pratyush1337/the-art-of-idor-7-idors-in-edm0d0-b86d683c8de9, IDOR
 - https://websecblog.com/vulns/public-google-cloud-blog-bucket/, GCP-bucket-misconfiguration
 - https://johnjhacking.com/blog/p1-critical-discovering-and-foiling-a-threat-actor/, Information-disclosure
-- https://medium.com/@vasuyadav0786/5-ways-to-do-ato-in-a-single-website-cfe7e5da987e, Account-takeover
 - https://medium.com/@suneets1ngh/parameter-tampering-ddd9b3de0da8, Parameter-tampering
 - https://vnhacker.blogspot.com/2020/09/advisory-security-issues-in-aws-kms-and.html, Cryptographic-issues
 - https://medium.com/bugbountywriteup/pii-leakage-via-idor-weak-passwordreset-full-account-takeover-58d159f88d73, IDOR
@@ -2817,7 +2814,6 @@
 - https://blog.evanricafort.com/2020/04/xss-in-peerio-2-windows-application.html, XSS
 - https://web.archive.org/web/20200426140225/https://medium.com/@aungpyaehackeronetester/web-cache-poisoning-in-postmates-1500-a67eee4fc118, Web-cache-poisoning
 - https://medium.com/@aungpyaehackeronetester/two-factor-authentication-bypass-50-5b397e68cfed, MFA-bypass
-- https://wongmjane.com/blog/messenger-rooms-writeup, Privilege-escalation
 - https://baibhavjha.com.np/blogs/hidinginclosefriendlist/, Authorization-flaw
 - https://medium.com/@mohameddaher/from-p5-to-p5-to-p2-from-nothing-to-1000-bxss-4dd26bc30a82, Race-condition
 - https://web.archive.org/web/20200513210337/https://medium.com/bugbountywriteup/the-secret-sauce-of-bug-bounty-bdcc2e2d45af, CSTI
@@ -3073,7 +3069,6 @@
 - https://medium.com/@pranaybafna/graphql-introspection-leads-to-sensitive-data-disclosure-65b385452d7f, Information-disclosure
 - https://web.archive.org/web/20200807155301/https://gh0st.cn/archives/2019-10-01/1, IDOR
 - https://web.archive.org/web/20191211081434/https://victoni.github.io/bug-hunting-xss-on-cookie-popup-warning/, Reflected-XSS
-- https://b3nac.com/posts/2019-09-02-Spear-Texting-Via-Parameter-Injection.html, Parameter-tampering
 - https://medium.com/bugbountywriteup/information-disclosure-at-paypal-and-xoom-paypal-acquisition-via-simple-google-dork-1-000-usd-b726fe628a05, Information-disclosure
 - https://tutorgeeks.blogspot.com/2019/09/broken-link-hijacking-s3-buckets.html, Broken-link-hijacking
 - https://medium.com/@0xgaurang/case-study-oauth-misconfiguration-leads-to-account-takeover-d3621fe8308b, OAuth
