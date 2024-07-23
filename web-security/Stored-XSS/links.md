@@ -44,3 +44,4 @@
 - https://infosecwriteups.com/stored-xss-to-account-takeover-going-beyond-document-cookie-970e42362f43
 - https://sites.google.com/site/bugbountybughunter/home/stored-xss-in-google-image-search
 - https://medium.com/@tushar.tilak.sharma/a-tale-of-open-redirection-to-stored-xss-6ad426ae9d43
+- https://pentest.co.uk/labs/research/subtle-stored-xss-wordpress-core/

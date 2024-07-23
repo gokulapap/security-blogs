@@ -841,7 +841,6 @@
 - https://research.nccgroup.com/2022/12/09/public-report-vpn-by-google-one-security-assessment/, Android
 - https://blog.viettelcybersecurity.com/the-first-step-to-pwn2own-but-a-sad-one/, Command-injection
 - https://medium.com/@kashyapherry147/privilege-escalation-to-remove-the-owner-from-the-organization-c029292a5d55, Privilege-escalation
-- https://infosecwriteups.com/stripe-live-key-exposed-bounty-1000-dc670f2c5d9c, Information-disclosure
 - https://claroty.com/team82/research/js-on-security-off-abusing-json-based-sql-to-bypass-waf, WAF-bypass
 - https://jowin922.medium.com/cors-misconfig-on-out-of-scope-domain-bug-bounty-writeup-300-usd-reward-8a9e420d21e0, CORS-misconfiguration
 - https://tusharvaidya16.medium.com/a03-2021-injection-sql-injection-through-internal-directory-disclose-ecdef5230131, SQL-injection
@@ -1261,7 +1260,6 @@
 - https://medium.com/@emirpolat/cve-2022-36446-webmin-1-997-7a9225af3165, RCE
 - https://adnanmalik.info/blog/digging-js-files-to-find-bugs/, IDOR
 - https://sagarsajeev.medium.com/dos-worth-650-interesting-right-144ff45ccf3b, DoS
-- https://infosecwriteups.com/mail-server-misconfiguration-leads-to-sending-a-fax-from-anyones-account-on-hellofax-dropbox-bbp-aab3d97ab4e7, Email-spoofing
 - https://claroty.com/team82/blog/with-management-comes-risk-finding-flaws-in-filewave-mdm, Authentication-bypass
 - https://medium.com/@talhakarakumru/how-i-gained-access-to-a-finance-companys-accounts-session-hijacking-2c6c5d9d84bd, Session-fixation
 - https://medium.com/@720922/a-developers-nightmare-story-of-a-simple-idor-and-some-poor-fixes-worth-1125-5ead70b0a1de, IDOR
@@ -1555,7 +1553,6 @@
 - https://shahjerry33.medium.com/parameter-pollution-zero-day-3feb86ee8a02, HTTP-parameter-pollution
 - https://github.com/justinsteven/advisories/blob/main/2022_git_buried_bare_repos_and_fsmonitor_various_abuses.md, RCE
 - https://infosecwriteups.com/how-i-was-able-to-find-50-cross-site-scripting-xss-security-vulnerabilities-on-bugcrowd-public-ba33db2b0ab1, XSS
-- https://blog.sonarsource.com/securing-developer-tools-git-integrations, Local-Privilege-Escalation
 - https://research.nccgroup.com/2022/03/15/technical-advisory-apple-macos-xar-arbitrary-file-write-cve-2022-22582/, Arbitrary-file-write
 - https://blog.haboob.sa/blog/adobe-reader-cjk-codecs-memory-disclosure-vulnerability, Memory-disclosure
 - https://rambo.codes/posts/2022-03-15-how-a-macos-bug-could-have-allowed-for-a-serious-phishing-attack-against-users, MacOS
@@ -2579,7 +2576,6 @@
 - https://blog.detectify.com/2020/08/14/crowdsource-success-story-from-an-out-of-scope-open-redirect-to-cve-2020-1323/, Open-redirect
 - https://medium.com/nassec-cybersecurity-writeups/deleted-data-stored-permanently-on-instagram-facebook-bug-bounty-2020-26074c229955, Logic-flaw
 - https://medium.com/@vishalranjan00012/hi-folks-2f28dd8fdfe9, Logic-flaw
-- https://medium.com/bugbountywriteup/false2true-match-and-replace-bug-hunting-a-cautionary-tale-fbe7020f02ad, Privilege-escalation
 - https://medium.com/bugbountywriteup/leaking-aws-metadata-f5bc8de03284, Information-disclosure
 - https://medium.com/@balapraneeth98/journey-to-my-first-bug-hunt-6dc5e4552128, CSRF
 - https://medium.com/bugbountywriteup/cache-poisoning-of-wget-94a4d70104b1, Web-cache-poisoning
@@ -2703,7 +2699,6 @@
 - https://medium.com/@aseem.shrey/one-token-to-leak-them-all-the-story-of-a-8000-npm-token-79b13af182a3, Information-disclosure
 - https://web.archive.org/web/20200814031536/https://medium.com/@saugatpokharel/replying-on-livestream-leading-to-page-admin-disclosure-facebook-bug-bounty-b24792a19638, Information-disclosure
 - https://tylerbutler.io/hackerone-hinge/, Information-disclosure
-- https://pentest.co.uk/labs/research/subtle-stored-xss-wordpress-core/, Stored-XSS
 - https://www.rtcsec.com/2020/06/03-bug-bounty-bout-0x01-webrtc-edition/, Outdated-component-with-a-known-vulnerability
 - https://blog.it-securityguard.com/how-i-made-more-than-30k-with-jolokia-cves/, Reflected-XSS
 - https://medium.com/@abireena2002/how-i-managed-to-escalate-privilege-as-admin-94b8dc910d14, Lack-of-rate-limiting

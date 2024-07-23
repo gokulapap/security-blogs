@@ -15,3 +15,4 @@
 - https://medium.com/@hariharan21/restriction-is-not-a-promise-privilege-escalation-on-google-2a35104ded5a
 - https://medium.com/@UpdateLap/privileged-escalation-in-facebook-messenger-rooms-e71cb7275101
 - https://wongmjane.com/blog/messenger-rooms-writeup
+- https://medium.com/bugbountywriteup/false2true-match-and-replace-bug-hunting-a-cautionary-tale-fbe7020f02ad

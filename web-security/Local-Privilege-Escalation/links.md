@@ -31,3 +31,4 @@
 - https://www.cyberark.com/resources/threat-research-blog/how-docker-made-me-more-capable-and-the-host-less-secure
 - https://www.blackhillsinfosec.com/your-browser-is-not-a-safe-space/
 - https://tomcope.com/exploit/2021/07/19/ibm-hmc-exploit-cve-2021-29707.html
+- https://blog.sonarsource.com/securing-developer-tools-git-integrations
