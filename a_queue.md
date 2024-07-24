@@ -997,7 +997,6 @@
 - https://mouha.be/sha-3-buffer-overflow/, Buffer-Overflow
 - https://www.netspi.com/blog/technical/social-engineering/bypassing-mimecast-email-defenses/, Secure-Email-Gateway-bypass
 - https://medium.com/@h4x0r_dz/23000-for-authentication-bypass-file-upload-arbitrary-file-overwrite-2578b730a5f8, JWT
-- https://portswigger.net/research/http-3-connection-contamination, HTTP-connection-contamination
 - https://www.mdsec.co.uk/2022/10/microsoft-office-online-server-remote-code-execution/, SSRF
 - https://medium.com/@sas.kunz/scan-qr-code-and-got-hacked-cve-2021-43530-uxss-on-firefox-android-version-768b24b326fb, Universal-XSS
 - https://boschko.ca/tenda_ac1200_router/, OS-command-injection
@@ -1154,7 +1153,6 @@
 - https://c0nqr0r.medium.com/reading-robots-txt-got-me-4-xss-reports-9fd2234c635f, XSS
 - https://www.microsoft.com/security/blog/2022/08/31/vulnerability-in-tiktok-android-app-could-lead-to-one-click-account-hijacking/, Insecure-deeplink
 - https://med-mahmoudi26.medium.com/saving-more-than-100-000-website-from-a-watering-hole-attack-a22f63a37f94, Web-cache-poisoning
-- https://blog.riotsecurityteam.com/xsshtmli-crafting-better-pocs, XSS
 - https://rhinosecuritylabs.com/research/cve-2022-26113-forticlient-arbitrary-file-write-as-system/, Arbitrary-file-write
 - https://abdulsec.medium.com/mfa-bypass-in-private-program-the-abdulsec-way-f677fea209f7, MFA-bypass
 - https://eslam3kl.medium.com/idor-at-login-function-leads-to-leak-users-pii-data-d77e6613e9e0, IDOR
@@ -1383,7 +1381,6 @@
 - https://infosecwriteups.com/how-i-found-a-critical-bug-in-instagram-and-got-49500-bounty-from-facebook-626ff2c6a853, IDOR
 - https://medium.com/@joshibeast/from-blind-ssrf-to-localhost-dirbusting-and-asset-enumeration-dc0179310038, SSRF
 - https://microsoftedge.github.io/edgevr/posts/a-story-of-a-bug-found-fuzzing/, Browser-hacking
-- https://web.archive.org/web/20220611144030/https://medium.com/@pmmali/my-first-cve-2022-31289-4081c57e90fb, Authentication-bypass
 - https://blog.viettelcybersecurity.com/cve-2022-1040-sophos-xg-firewall-authentication-bypass/, Authentication-bypass
 - https://www.shielder.com/advisories/autodesk-fusion-import-svg-blind-xxe/, XXE
 - https://jfrog.com/blog/denial-of-service-vulnerability-in-envoy-proxy-cve-2022-29225/, Zip-bomb
@@ -1517,7 +1514,6 @@
 - https://omespino.com/write-up-finapi-open-banking-api-oauth-credentials-exposed-in-plain-text-in-android-app/, Hardcoded-credentials
 - https://medium.com/@terminatorLM/small-bugs-are-more-dangerous-than-you-think-9411618191ab, Self-XSS
 - https://shenkaiwen.com/publication/2022-dkim/, Email-spoofing
-- https://blog.credshields.com/race-condition-in-tendermints-starport-7cebe176d935, Race-condition
 - https://abdilahrf.github.io/bugbounty/got-access-to-dota-2-admin-panel-by-exploiting-in-game-feature, XSS
 - https://blog.relyze.com/2022/03/cve-2022-27643-netgear-r6700v3-upnpd.html, Memory-corruption
 - https://github.com/pedrib/PoC/blob/master/advisories/Cisco/DCNMPwn.md, Insecure-deserialization
@@ -2955,7 +2951,6 @@
 - https://medium.com/sourav-sahana/from-post-to-get-open-redirect-e91f4f4206a, Open-redirect
 - https://medium.com/monetary/how-did-i-earn-3133-70-from-google-translator-9becf942dbdc, XSS
 - https://medium.com/bug-bounty-hunting/facebook-bug-bounty-story-x000-for-an-information-disclosure-bug-f0c0d19d7815, Information-disclosure
-- https://medium.com/@jbgrunewald/how-i-made-7500-from-my-first-bug-bounty-found-on-google-cloud-platform-1a5415d7569b, Logic-flaw
 - https://sasi2103.blogspot.com/2019/12/drop-mic-no-drop-connection.html, DOM-XSS
 - https://medium.com/bugbountywriteup/effortlessly-finding-cross-site-script-inclusion-xssi-jsonp-for-bug-bounty-38ae0b9e5c8a, XSSI
 - https://medium.com/nassec-cybersecurity-writeups/bypassing-brand-collabs-manager-eligibility-7d26523da816, Authorization-flaw

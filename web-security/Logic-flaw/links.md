@@ -70,3 +70,4 @@
 - https://medium.com/@rajeevgyawali92/irremovable-guest-in-facebook-event-facebook-bug-bounty-e10e03c98cd5
 - https://medium.com/@rohitcoder/page-shops-with-a-hidden-product-in-featured-product-section-which-could-be-controlled-by-d0fd58c4cc8b
 - https://dewcode.medium.com/how-did-i-earn-by-breaking-the-back-end-logic-of-the-server-fd94882cbdf6
+- https://medium.com/@jbgrunewald/how-i-made-7500-from-my-first-bug-bounty-found-on-google-cloud-platform-1a5415d7569b
