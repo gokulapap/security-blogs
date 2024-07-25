@@ -117,3 +117,4 @@
 - https://www.jonbottarini.com/2017/03/16/penetrating-pornhub-xss-vulns-galore-plus-a-cool-shirt
 - https://medium.com/@marin_m/how-i-found-a-5-000-google-maps-xss-by-fiddling-with-protobuf-963ee0d9caff
 - https://blog.riotsecurityteam.com/xsshtmli-crafting-better-pocs
+- https://gauravnarwani.com/xssed-my-way-to-1000/

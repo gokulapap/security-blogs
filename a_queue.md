@@ -669,7 +669,6 @@
 - https://the-deniss.github.io/posts/2023/02/09/elevation-of-privileges-from-everyone-through-avast-av-sandbox-to-system-amppl.html, Local-Privilege-Escalation
 - https://skylightcyber.com/2023/02/09/a-salt-attacking-saltstack/, SSTI
 - https://www.elttam.com/blog/cracking-randomness-in-java/, Cryptographic-issues
-- https://p4n7h3rx.medium.com/how-i-got-bounty-within-5-mins-f1448f6db9b5, RCE
 - https://www.trustedsec.com/blog/azure-ad-kerberos-tickets-pivoting-to-the-cloud/, Active-Directory
 - https://www.blackhillsinfosec.com/exploit-development-a-sincere-form-of-flattery/, MS-RPC
 - https://www.zerodayinitiative.com/blog/2023/2/6/pwn2owning-two-hosts-at-the-same-time-abusing-inductive-automation-ignitions-custom-deserialization, Insecure-deserialization
@@ -1589,7 +1588,6 @@
 - https://medium.com/@vflexo/a-weird-price-tampering-vulnerability-1251dfe8d2a1, Payment-tampering
 - https://philippeharewood.com/instagram-app-access-token/, Information-disclosure
 - https://kloudle.com/blog/piercing-the-cloud-armor-the-8kb-bypass-in-google-cloud-platform-waf, WAF-bypass
-- https://goktugkaya.medium.com/how-i-hacked-the-dutch-government-and-won-the-famous-t-shirt-b45cdf5dfaa1, SQL-injection
 - https://blog.teddykatz.com/2022/02/23/ghosts-of-branches-past.html, Logic-flaw
 - https://octagon.net/blog/2022/01/22/cve-2021-45467-cwp-centos-web-panel-preauth-rce/, RCE
 - https://omespino.com/write-up-private-bug-bounty-bypass-redacted-android-application-screen-lock-via-local-brute-forcing/, Android
@@ -1835,7 +1833,6 @@
 - https://muhammad-aamir.medium.com/exploitation-of-files-download-parameters-to-create-potential-risk-of-malware-delivery-200-bug-e2bcce0e737, CSRF
 - https://lf.lc/vrp/203177829/, RCE
 - https://omespino.com/write-up-google-vrp-n-a-arbitrary-local-file-read-macos-via-a-tag-and-null-byte-in-google-earth-pro-desktop-app/, Local-File-Read
-- https://gowtham-naidu.medium.com/500-bug-sensitive-data-exposure-to-broken-access-control-leads-how-i-able-to-take-over-any-33658f16e265, OTP-bypass
 - https://medium.com/@mehdi.alouache/eset-endpoint-security-credentials-theft-90082dfdf474, Credentials-sent-over-unencrypted-channel
 - https://medium.com/cider-sec/bypassing-required-reviews-using-github-actions-6e1b29135cc7, Privilege-escalation
 - https://joranhonig.nl/stealing-info-using-ipfs-fuse/, Web3-hacking
@@ -2528,7 +2525,6 @@
 - https://dreamlab.net/en/blog/post/dropbox-escalation-of-privileges-to-system-on-windows-1/, Local-Privilege-Escalation
 - https://blog.long.lat/2020/09/16/exploiting-a-useless-cookie-based-xss-and-making-it-useful/, XSS
 - https://initblog.com/2020/firefox-android/, Insecure-intent
-- https://medium.com/@bhavarth33/how-i-was-able-to-takeover-any-account-by-otp-bypass-bba698a725f, OTP-bypass
 - https://medium.com/@shahjerry33/sql-injection-remote-code-execution-double-p1-6038ca88a2ec, SQL-injection
 - https://medium.com/bugbountywriteup/how-i-hacked-redbus-an-online-bus-ticketing-application-24ef5bb083cd, LFI
 - https://blog.orange.tw/2020/09/how-i-hacked-facebook-again-mobileiron-mdm-rce.html, RCE
@@ -3215,7 +3211,6 @@
 - https://omespino.com/write-up-google-bug-bounty-lfi-on-production-servers-in-redacted-google-com-13337-usd/, LFI
 - https://medium.com/@__rishabh__/open-redirect-to-account-takeover-e939006a9f24, Open-redirect
 - https://medium.com/@navne3t/a-base64-encoded-parameter-c6fb6b177d68, HTML-injection
-- https://gauravnarwani.com/xssed-my-way-to-1000/, XSS
 - https://medium.com/tenable-techblog/stealing-downloads-from-slack-users-be6829a55f63, CSRF
 - https://medium.com/@baibhavanandjha/bypassing-instagrams-stories-restriction-5936f8a4f079, Logic-flaw
 - https://medium.com/@fbotes2/try-harder-for-xss-7aa3657255a1, Reflected-XSS

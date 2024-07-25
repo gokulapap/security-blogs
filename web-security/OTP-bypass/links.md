@@ -4,3 +4,5 @@
 - https://medium.com/@talatmehmood1995/my-first-bug-bounty-2-factor-authentication-bypass-b034812c8243
 - https://www.varonis.com/blog/box-mfa-bypass-sms
 - https://kishanchoudhary.com/OTP/otp_manipulation.html
+- https://medium.com/@bhavarth33/how-i-was-able-to-takeover-any-account-by-otp-bypass-bba698a725f
+- https://gowtham-naidu.medium.com/500-bug-sensitive-data-exposure-to-broken-access-control-leads-how-i-able-to-take-over-any-33658f16e265
