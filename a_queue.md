@@ -67,7 +67,6 @@
 - https://medium.com/@86karthikkarthik/email-verification-bypass-d07b2db8dc4, bypass
 - https://medium.com/@ssalssa.1.12.2.1.2.1/hacking-wordpress-server-database-f6cc6c116057, cms
 - https://medium.com/@harishhacker3010/how-i-hacked-google-to-read-files-from-their-servers-for-free-e0486a674912, journey
-- https://medium.com/@patchthenet/host-header-injection-attacks-7160f9fcf63e, injection
 - https://medium.com/@s3c/how-i-hacked-world-wide-tiktok-users-24e794d310d2, journey
 - https://medium.com/@hakluke/interlace-a-productivity-tool-for-pentesters-and-bug-hunters-automate-and-multithread-your-d18c81371d3d, automation
 - https://medium.com/@idan_malihi/how-i-earned-200-in-bug-bounty-program-6d7225a7ff1a, journey
@@ -273,7 +272,6 @@
 - https://www.randorisec.fr/chamilo-1.11.18-multiple-vulnerabilities, OS-command-injection
 - https://medium.com/@M0X0101/how-i-was-able-to-get-account-takeover-via-insecure-data-storage-and-webview-with-exported-activity-5308a330ab80, Account-takeover
 - https://www.ghostccamm.com/blog/multi_cockpit_vulns/, CSRF
-- https://medium.themayor.tech/domain-takeover-without-domain-admin-permissions-28a7bd330501, Active-Directory-Privilege-Escalation
 - https://www.ns-echo.com/posts/cve_2023_33298.html, Local-Privilege-Escalation
 - https://security.lauritz-holtmann.de/post/csti-xss-sso-gadget-chain/, CSTI
 - https://medium.com/@jonathanbouman/laravel-debug-mode-left-on-at-zouikwatzeggen-nl-948a7365409f, Debug-mode-enabled
@@ -1787,7 +1785,6 @@
 - https://omespino.com/write-up-google-vrp-bug-bounty-etc-environment-local-variables-exfiltrated-on-linux-google-earth-pro-desktop-app-1337-usd/, XSS
 - https://itsfading.github.io/posts/Unrestricted-File-Upload-Leads-to-SSRF-and-RCE/, ImageTragick
 - https://thalium.github.io/blog/posts/fuzzing-microsoft-rdp-client-using-virtual-channels/, Memory-corruption
-- https://www.wiz.io/blog/chaosdb-explained-azures-cosmos-db-vulnerability-walkthrough, Cross-tenant-vulnerability
 - https://www.intruder.io/research/practical-http-header-smuggling, HTTP-Header-Smuggling
 - https://0x0021h.medium.com/bypass-chrome-ad-heavy-detection-mechanism-25c9e2e4a0c4, Browser-hacking
 - https://0xmahmoudjo0.medium.com/how-i-found-multiple-sql-injection-with-ffuf-and-sqlmap-in-a-few-minutes-9c3bb3780e8f, SQL-injection
@@ -2327,7 +2324,6 @@
 - https://shaurya-sharma.medium.com/bypassing-waf-with-incorrect-proxy-settings-for-hunting-bugs-3449b7716f59, URL-validation-bypass
 - https://kingkaran977.medium.com/10-000-for-automatic-email-confirmation-bug-in-microsofts-edge-browser-22f15ceccb4a, Logic-flaw
 - https://blog.shoebpatel.com/2021/01/23/The-Secret-Parameter-LFR-and-Potential-RCE-in-NodeJS-Apps/, Local-File-Read
-- https://yeuchimse.com/csrf-protection-bypass-in-atlassian-confluence-server/, CSRF
 - https://medium.com/realmodelabs/kindledrip-from-your-kindles-email-address-to-using-your-credit-card-bb93dbfb2a08, RCE
 - https://systemweakness.com/story-behind-sweet-ssrf-40c705f13053, SSRF
 - https://r4id3n.medium.com/ssrf-exploitation-in-spreedsheet-to-pdf-converter-2c7eacdac781, SSRF
@@ -2399,7 +2395,6 @@
 - https://ph-hitachi.medium.com/how-i-got-my-first-bug-bounty-in-intersting-target-lfi-to-sxss-58fa5c4f5882, LFI
 - https://baibhavjha.com.np/blogs/hidingcustomlist/, Logic-flaw
 - https://research.checkpoint.com/2020/game-on-finding-vulnerabilities-in-valves-steam-sockets/, Memory-corruption
-- https://medium.com/the-volatile-triad/hacking-tamper-with-the-url-parameters-especially-if-they-modify-the-page-7edf158c8db9, HTTP-parameter-pollution
 - https://pyrrhon.medium.com/how-i-was-able-to-take-over-one-of-dells-subdomains-7e06b8516e41, Subdomain-takeover
 - https://infosecwriteups.com/facebook-push-notification-linkshim-bypassed-385fe471516, Open-redirect
 - https://github.com/oskarsve/ms-teams-rce, RCE
