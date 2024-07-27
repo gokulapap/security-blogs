@@ -40,7 +40,6 @@
 - https://medium.com/@marxchryz/how-i-gain-access-to-the-server-administration-of-a-million-dollar-company-14da68c7a9dd, journey
 - https://medium.com/@ryuukhagetsu/how-i-get-bounty-from-takeover-account-ed17cd838b2a, ATO
 - https://medium.com/@d4ly/an-interesting-rce-on-a-synack-red-team-target-516edb63fd04, RCE
-- https://medium.com/@janirudransh/privilege-escalation-to-view-sensitive-data-of-other-user-c4ad06c9472, privilege-escalation
 - https://medium.com/@aob-89072/story-of-my-bugs-on-a-private-program-privilege-escalation-xss-sqli-idors-a5be4c6acbbd, journey
 - https://medium.com/@qaafqasim/discovering-login-panels-and-detecting-sql-injection-with-logsensor-42842e337244, sql-injection
 - https://medium.com/@jjainam16/otp-verification-bypass-15312498fe10, bypass
@@ -837,7 +836,6 @@
 - https://medium.com/@mrd17x/scoring-for-a-very-simple-bug-you-dont-always-need-proxy-tools-872a832f83ea, IDOR
 - https://research.nccgroup.com/2022/12/09/public-report-vpn-by-google-one-security-assessment/, Android
 - https://blog.viettelcybersecurity.com/the-first-step-to-pwn2own-but-a-sad-one/, Command-injection
-- https://medium.com/@kashyapherry147/privilege-escalation-to-remove-the-owner-from-the-organization-c029292a5d55, Privilege-escalation
 - https://claroty.com/team82/research/js-on-security-off-abusing-json-based-sql-to-bypass-waf, WAF-bypass
 - https://jowin922.medium.com/cors-misconfig-on-out-of-scope-domain-bug-bounty-writeup-300-usd-reward-8a9e420d21e0, CORS-misconfiguration
 - https://tusharvaidya16.medium.com/a03-2021-injection-sql-injection-through-internal-directory-disclose-ecdef5230131, SQL-injection
@@ -1744,7 +1742,6 @@
 - https://www.varonis.com/blog/box-mfa-bypass-totp/, OTP-bypass
 - https://blog.lightspin.io/aws-sagemaker-notebook-takeover-vulnerability, Self-XSS
 - https://security.googleblog.com/2021/12/exploring-container-security-storage.html, Race-condition
-- https://hector0x.medium.com/easy-sqli-in-amazon-subsidiary-using-sqlmap-ff469013671b, SQL-injection
 - https://googleprojectzero.blogspot.com/2021/12/this-shouldnt-have-happened.html, Memory-corruption
 - https://cyberguy0xd1.medium.com/how-i-was-able-to-bypass-cloudflare-waf-for-sqli-payload-b9e7a4260026, SQL-injection
 - https://web.archive.org/web/20211202081008/https://medium.com/@saurabhsankhwar3/p1-bug-in-apple-that-phase-old-is-gold-6eb99da5bbca, Logic-flaw
@@ -2169,7 +2166,6 @@
 - https://pharish4948.medium.com/how-i-earned-3200-in-4hours-through-stored-xss-38597877d3e1, Stored-XSS
 - https://positive.security/blog/url-open-rce, RCE
 - https://fernale.blogspot.com/2021/04/how-i-got-9000-usd-by-hacking-into.html, XSS
-- https://census-labs.com/news/2021/04/14/whatsapp-mitd-remote-exploitation-CVE-2021-24027/, Man-in-the-Disk-attack
 - https://blog.talosintelligence.com/2021/04/vuln-spotlight-azure-sphere-april-2021.html, RCE
 - https://servicenger.com/blog/mobile/google-photos-theft-of-database-arbitrary-files-android-vulnerability/, Improper-Export-of-Android-Application-Components
 - https://onekey.com/blog/advisory-cisco-rv34x-authentication-bypass-remote-command-execution/, Authentication-bypass
@@ -3372,7 +3368,6 @@
 - https://bugbountypoc.com/how-i-was-able-to-harvest-other-vine-users-ip-address, IDOR
 - https://medium.com/@pig.wig45/bypassing-access-control-in-a-program-on-hackerone-ef213ab34703, Authorization-flaw
 - https://medium.com/@yogeshtantak7788/how-i-was-able-to-delete-google-gallery-data-idor-53d2f303efff, IDOR
-- https://medium.com/@armaanpathan/abusing-acl-permissions-to-overwrite-other-users-uploaded-files-videos-on-s3-bucket-162c8877728, Unrestricted-file-upload
 - https://medium.com/@sahruldotid/how-i-takeover-wordpress-admin-fiiipay-my-1bdede83635d, Account-takeover
 - https://medium.com/@aniltom/from-hunting-for-a-laptop-to-hunting-down-remote-code-execution-72cce2761846, RCE
 - https://medium.com/@sampanna/rce-in-nokia-com-59b308e4e882, RCE

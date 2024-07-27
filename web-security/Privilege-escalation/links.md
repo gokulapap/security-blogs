@@ -16,3 +16,4 @@
 - https://medium.com/@UpdateLap/privileged-escalation-in-facebook-messenger-rooms-e71cb7275101
 - https://wongmjane.com/blog/messenger-rooms-writeup
 - https://medium.com/bugbountywriteup/false2true-match-and-replace-bug-hunting-a-cautionary-tale-fbe7020f02ad
+- https://medium.com/@kashyapherry147/privilege-escalation-to-remove-the-owner-from-the-organization-c029292a5d55
