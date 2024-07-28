@@ -17,3 +17,4 @@
 - https://wongmjane.com/blog/messenger-rooms-writeup
 - https://medium.com/bugbountywriteup/false2true-match-and-replace-bug-hunting-a-cautionary-tale-fbe7020f02ad
 - https://medium.com/@kashyapherry147/privilege-escalation-to-remove-the-owner-from-the-organization-c029292a5d55
+- https://www.securesystems.de/blog/privilege-escalation-in-aks-clusters/

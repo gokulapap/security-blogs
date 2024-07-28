@@ -295,7 +295,6 @@
 - https://github.com/pedrib/PoC/blob/master/advisories/ManageEngine/adselfpwnplus/adselfpwnplus.md, Authentication-bypass
 - https://medium.com/@0xnaeem/how-i-found-a-sql-injection-bug-in-using-my-cellphone-5b5193fdc314, SQL-injection
 - https://www.rapid7.com/blog/post/2023/06/22/multiple-vulnerabilities-in-fortra-globalscape-eft-administration-server-fixed/, Out-of-bounds-Read
-- https://www.vusec.net/projects/uncontained/, Kernel-hacking
 - https://octa-mihail.medium.com/my-first-bounty-on-synack-red-team-4ef53329c960, Stored-XSS
 - https://medium.com/@elsayedmohammed/how-i-hacked-nasa-and-get-8-bugs-e5cd397a6af9, Open-redirect
 - https://www.gosecure.net/blog/2023/06/21/aws-waf-clients-left-vulnerable-to-sql-injection-due-to-unorthodox-mssql-design-choice/, SQL-injection
@@ -1220,7 +1219,6 @@
 - https://medium.com/@the_harvester/bypassed-cloudflares-web-application-firewall-waf-44da57f3a1d3, XSS
 - http://blog.h4rsh4d.com/2022/08/open-redirect-bypass.html, Open-redirect
 - https://alpinnnnnn13.medium.com/stored-xss-in-app-gitbook-com-6349f42661f7, Stored-XSS
-- https://medium.com/@sharp488/2fa-bypass-via-google-identity-oauth-login-6c991ac837af, MFA-bypass
 - https://vsrc.vng.com.vn/blog/liferay-revisited-a-tale-of-20k/, RCE
 - https://ruia-ruia.github.io/2022/08/05/CVE-2022-29582-io-uring/, Memory-corruption
 - https://infosecwriteups.com/how-i-was-able-to-get-29-free-products-bug-bounty-845667ab4ad4, Race-condition
@@ -1360,7 +1358,6 @@
 - https://www.proofpoint.com/us/blog/cloud-security/proofpoint-discovers-potentially-dangerous-microsoft-office-365-functionality, Logic-flaw
 - https://www.zerodayinitiative.com/blog/2022/6/15/cve-2022-23088-exploiting-a-heap-overflow-in-the-freebsd-wi-fi-stack, Memory-corruption
 - https://fredericb.info/2022/06/breaking-secure-boot-on-google-nest-hub-2nd-gen-to-run-ubuntu.html, Hardware-hacking
-- https://www.securesystems.de/blog/privilege-escalation-in-aks-clusters/, Privilege-escalation
 - https://labs.taszk.io/articles/post/unziploc/, Memory-corruption
 - https://notifybugme.medium.com/automating-reflected-xss-with-burp-suite-intruder-a39b2f060db7, Reflected-XSS
 - https://medium.com/@sharp488/2fa-bypass-via-basic-authentication-on-private-bug-bounty-program-93bb457cd065, MFA-bypass
@@ -1651,7 +1648,6 @@
 - https://perception-point.io/technical-analysis-of-cve-2022-22583-bypassing-macos-system-integrity-protection/, MacOS
 - https://blog.sorcery.ie/posts/adodb_auth_bypass/, Authentication-bypass
 - https://blog.ret2.me/post/2022-01-26-exploiting-xiongmai-dvrs/, Memory-corruption
-- https://www.willsroot.io/2022/01/cve-2022-0185.html, Container-escape
 - https://www.ryanpickren.com/safari-uxss, Universal-XSS
 - https://aidilarf.medium.com/first-valid-bug-finding-at-microsoft-and-i-got-the-acknowledgments-page-microsoft-a2c185c53074, XSS
 - https://www.zerodayinitiative.com/blog/2022/1/25/cve-2021-44790-code-execution-on-apache-via-an-integer-underflow, Memory-corruption
@@ -2611,7 +2607,6 @@
 - https://medium.com/@mohamedayad_72488/dos-over-wep-application-c5176dc29035, DoS
 - https://web.archive.org/web/20201123204526/https://medium.com/@olisandip99/chaining-rate-limiting-for-account-lockout-6a2a7828dd24, Lack-of-rate-limiting
 - https://medium.com/@mohamedayad_72488/bypass-user-restriction-registration-cbfc4eb855, Logic-flaw
-- https://medium.com/bugbountywriteup/unique-case-for-price-manipulation-bugbounty-vapt-df57637769cd, Payment-tampering
 - https://medium.com/@balook/creative-android-pin-bypass-with-race-conditon-63a8bc3f0e31, Race-condition
 - https://medium.com/@balook/android-pin-bypass-with-rate-limiting-a3f5dd811715, Lack-of-rate-limiting
 - https://medium.com/@balook/idor-in-google-datastudio-google-com-f2fa51b763de, IDOR

@@ -3,3 +3,4 @@
 - https://itsdeepceh.medium.com/a-business-logic-error-bug-worth-600-a0050720bfee
 - https://wesecureapp.com/blog/blockchain-network-is-secured-but-not-the-apps-and-their-integrations/
 - https://marxchryz.medium.com/price-manipulation-bypass-using-integer-overflow-method-36ff23ebe91d
+- https://medium.com/bugbountywriteup/unique-case-for-price-manipulation-bugbounty-vapt-df57637769cd
