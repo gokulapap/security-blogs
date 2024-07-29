@@ -102,3 +102,5 @@
 - https://medium.com/@r99tiq/idor-how-i-was-able-to-see-any-private-album-passwrod-in-picturepush-264913f45e10
 - https://medium.com/@omarahmed_13016/idor-unpin-posts-for-fun-18f628eaef24
 - https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/oracle-sbc-multiple-security-vulnerabilities-leading-to-unauthorized-access-and-denial-of-service/
+- https://cupc4k3.lol/cve-2023-24625-idor-in-faveo-service-desk-37a63f53d896
+- https://bloggerrando.blogspot.com/2021/04/idor-leads-to-how-many-likes-that-was.html

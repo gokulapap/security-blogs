@@ -506,7 +506,6 @@
 - https://blog.trailofbits.com/2023/03/30/acropalypse-polytracker-blind-spots/, Privacy-issue
 - https://www.legitsecurity.com/blog/remote-code-execution-vulnerability-in-azure-pipelines-can-lead-to-software-supply-chain-attack, RCE
 - https://xelkomy.medium.com/found-ssrf-and-lfi-in-just-10-minutes-of-using-burp-492fddef3f3e, SSRF
-- https://www.netspi.com/blog/technical/vulnerability-research/azure-service-bus-power-platform/, RCE
 - https://www.sonarsource.com/blog/it-s-a-snmp-trap-gaining-code-execution-on-librenms/, RCE
 - https://www.wiz.io/blog/azure-active-directory-bing-misconfiguration, Account-takeover
 - https://posts.specterops.io/id-tap-that-pass-8f79fff839ac, Azure-AD
@@ -546,7 +545,6 @@
 - https://shahjerry33.medium.com/lfi-an-interesting-tweak-9c5638dbdd1b, LFI
 - https://www.sjoerdlangkemper.nl/2023/03/15/textcube-sql-injection-session-ip-spoofing/, SQL-injection
 - http://blog.sysdum.net/parameter-injection-to-rce, RCE
-- https://cupc4k3.lol/cve-2023-24625-idor-in-faveo-service-desk-37a63f53d896, IDOR
 - https://blog.scrt.ch/2023/03/14/producing-a-poc-for-cve-2022-42475-fortinet-rce/, Memory-corruption
 - https://blog.quarkslab.com/vulnerabilities-in-the-tpm-20-reference-implementation-code.html, Memory-corruption
 - https://www.mdsec.co.uk/2023/03/exploiting-cve-2023-23397-microsoft-outlook-elevation-of-privilege-vulnerability/, Privilege-escalation
@@ -635,7 +633,6 @@
 - https://medium.com/@niraj1mahajan/hacking-the-search-bar-the-story-of-discovering-and-reporting-an-xss-vulnerability-on-bing-com-cac2f241835, XSS
 - https://blog.trailofbits.com/2023/02/16/suid-logic-bug-linux-readline/, Local-Privilege-Escalation
 - https://medium.com/@win3zz/facebook-bug-a-journey-from-code-execution-to-s3-data-leak-698b7d2b02ef, RCE
-- https://medium.com/@rajauzairabdullah/the-inside-story-of-finding-a-reverse-transaction-vulnerability-in-a-financial-application-d73f9cd40f6f, Logic-flaw
 - https://blog.infiltrateops.io/hacking-apple-two-successful-exploits-and-positive-thoughts-on-their-bug-bounty-program-963efe7518f6, RCE
 - https://decoder.cloud/2023/02/16/eop-via-arbitrary-file-write-overwite-in-group-policy-client-gpsvc-cve-2022-37955/, Local-Privilege-Escalation
 - https://portswigger.net/research/server-side-prototype-pollution, Server-side-prototype-pollution
@@ -1246,7 +1243,6 @@
 - https://medium.com/tinder/exploiting-github-actions-on-open-source-projects-5d93936d189f, RCE
 - https://shahjerry33.medium.com/http-parameter-pollution-its-contaminated-again-95c75b0295e1, HTTP-parameter-pollution
 - https://www.synacktiv.com/publications/cve-2022-31813-forwarding-addresses-is-hard.html, Host-header-injection
-- https://www.sonarsource.com/blog/disclosing-information-with-a-side-channel-in-django/, Side-channel-attack
 - https://pentest.blog/advisory-roxy-wi-unauthenticated-remote-code-executions-cve-2022-31137/, RCE
 - https://medium.com/@emirpolat/cve-2022-36446-webmin-1-997-7a9225af3165, RCE
 - https://adnanmalik.info/blog/digging-js-files-to-find-bugs/, IDOR
@@ -2149,7 +2145,6 @@
 - https://blog.ryotak.me/post/homebrew-security-incident-en/, RCE
 - https://jmrcsnchz.medium.com/playing-with-iframes-bypassing-content-security-policy-987c2f0b8e8a, CSP-bypass
 - https://feed.bugs.xdavidhu.me/bugs/0002, Authentication-bypass
-- https://bloggerrando.blogspot.com/2021/04/idor-leads-to-how-many-likes-that-was.html, IDOR
 - https://tij.me/blog/harvesting-active-directory-credentials-via-http-request-smuggling/, HTTP-request-smuggling
 - https://notifybugme.medium.com/unauthorized-access-to-admin-setpassword-page-by-bypass-403-forbidden-f10bbb92ab35, Authorization-flaw
 - https://mase289.medium.com/exploiting-unrestricted-file-upload-to-achieve-remote-code-execution-on-a-bug-bounty-program-85661516712, Unrestricted-file-upload

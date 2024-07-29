@@ -1,1 +1,2 @@
 - https://www.hertzbleed.com
+- https://www.sonarsource.com/blog/disclosing-information-with-a-side-channel-in-django/

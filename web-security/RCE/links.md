@@ -115,3 +115,4 @@
 - https://pulsesecurity.co.nz/advisories/GOCD-Multiple-Vulnerabilities
 - https://blog.stazot.com/boltcms-file-upload-bypass/
 - https://p4n7h3rx.medium.com/how-i-got-bounty-within-5-mins-f1448f6db9b5
+- https://www.netspi.com/blog/technical/vulnerability-research/azure-service-bus-power-platform/
