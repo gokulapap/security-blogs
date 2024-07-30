@@ -108,3 +108,4 @@
 - https://hopesamples.blogspot.com/2022/12/custom-role-details-are-exposed-in.html
 - https://medium.com/@kaustubhk80/how-i-got-access-to-critical-data-of-a-company-in-no-time-6c396aee21c0
 - https://infosecwriteups.com/stripe-live-key-exposed-bounty-1000-dc670f2c5d9c
+- http://www.tomanthony.co.uk/blog/google-exploit-steal-login-email-addresses/

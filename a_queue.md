@@ -416,7 +416,6 @@
 - https://sumedh00.medium.com/accessing-admin-dashboard-in-5-seconds-acee737eacfb, Default-credentials
 - https://blog.onsec.io/when-youre-so-bored-you-start-debugging-someone-elses-code/, SSTI
 - https://www.revblock.dev/exploiting-misconfigured-google-cloud-service-accounts-from-github-actions/, OpenID-Connect
-- https://sec-consult.com/blog/detail/securing-databricks-cluster-init-scripts/, Privilege-escalation
 - https://aidilarf.medium.com/how-do-i-bypass-payment-when-a-subscription-ends-so-i-dont-have-to-pay-for-my-subscription-3889ab3f7484, Payment-bypass
 - https://www.zerodayinitiative.com/blog/2023/5/1/cve-2023-28231-rce-in-the-microsoft-windows-dhcpv6-service, RCE
 - https://ssd-disclosure.com/ssd-advisory-keriocontrol-remote-code-execution/, RCE
@@ -479,7 +478,6 @@
 - https://www.sonarsource.com/blog/pretalx-vulnerabilities-how-to-get-accepted-at-every-conference/, Arbitrary-file-read
 - https://offsec.almond.consulting/ghostscript-cve-2023-28879.html, Buffer-Overflow
 - https://orca.security/resources/blog/azure-shared-key-authorization-exploitation/, Cloud
-- https://weizman.github.io/2023/04/10/snyk-xss/, Stored-XSS
 - https://blog.nietaanraken.nl/posts/aur-packages-github-repo-jacking/, Repojacking
 - https://medium.com/@zhero_/a-successful-prototype-pollution-chained-to-a-dom-xss-9887087b56a4, Prototype-pollution
 - https://medium.com/@ch3tanbug/how-i-was-able-to-change-password-of-any-corporate-user-c68b9509840, Account-takeover
@@ -3171,7 +3169,6 @@
 - https://medium.com/@saadahmedx/idor-account-takeover-1ff5a2d03b8b, IDOR
 - https://medium.com/@ciph3r7r0ll/chaining-improper-authorization-to-race-condition-to-harvest-credit-card-details-a-bug-bounty-effe6e0f5076, Authorization-flaw
 - https://medium.com/@androgaming1912/redstrom-denial-of-service-write-up-d8fd97f18335, DoS
-- https://noobe.io/articles/2019-06/reflected-xss-on-error-page, Reflected-XSS
 - https://medium.com/bugbountywriteup/account-takeover-using-idor-and-the-misleading-case-of-error-403-cb42c96ea310, IDOR
 - https://medium.com/@hariharan21/idor-leads-to-project-takeover-548a1bfd4d66, IDOR
 - https://web.archive.org/web/20200928091625/https://pwnsec.ninja/2019/06/06/how-i-was-able-to-get-private-ticket-response-panel-and-fortigate-web-panel-via-blind-xss/, Blind-XSS
@@ -3884,7 +3881,6 @@
 - https://whitton.io/articles/messenger-site-wide-csrf/, CSRF
 - https://www.seekurity.com/blog/general/bmw-vulnerabilities-hijack-cars-connecteddrive-service/, Clickjacking
 - http://www.kernelpicnic.net/2016/07/24/Microsoft-signout.live.com-Remote-Code-Execution-Write-Up.html, RCE
-- https://web.archive.org/web/20220709205125/https://www.evonide.com/how-we-broke-php-hacked-pornhub-and-earned-20000-dollar/, RCE
 - https://avicoder.me/2016/07/22/Twitter-Vine-Source-code-dump/, Source-code-disclosure
 - https://mhmdiaa.com/blog/spotify-blind-xss/, Blind-XSS
 - https://www.josipfranjkovic.com/blog/hacking-facebook-csrf-device-login-flow, CSRF
@@ -3941,7 +3937,6 @@
 - https://www.rcesecurity.com/2014/04/magix-bug-bounty-magix-com-rce-sqli-and-xara-com-lfi-xss/, RCE
 - https://blog.it-securityguard.com/a-tale-of-7-vulnerabilities-paypal-bug-bounty/, Stored-XSS
 - https://buer.haus/2014/04/07/facebook-send-notifications-to-any-user-exploit/, Logic-flaw
-- http://www.tomanthony.co.uk/blog/google-exploit-steal-login-email-addresses/, Information-disclosure
 - https://bitquark.co.uk/blog/2014/02/23/tesla_motors_blind_sql_injection, SQL-injection
 - https://0day.click/recipe/2014-02-22-github/, RCE
 - https://blog.includesecurity.com/2014/02/how-i-was-able-to-track-the-location-of-any-tinder-user/, Information-disclosure
