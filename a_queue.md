@@ -805,7 +805,6 @@
 - https://www.rapid7.com/blog/post/2022/12/20/cengage-lti-session-management-leakage/, SSO
 - https://medium.com/@M0X0101/how-i-was-able-to-steal-users-credentials-via-swagger-ui-dom-xss-e84255eb8c96, DOM-XSS
 - https://infosecwriteups.com/directory-ttraversal-vulnerability-in-huawei-hg255s-products-dce941a1d015, Path-traversal
-- https://www.microsoft.com/en-us/security/blog/2022/12/19/gatekeepers-achilles-heel-unearthing-a-macos-vulnerability/, Local-Privilege-Escalation
 - https://0xraminfosec.medium.com/simple-cors-misconfig-leads-to-disclose-the-sensitive-token-worth-of-91433763f4d6, CORS-misconfiguration
 - https://omar0x01.medium.com/cve-2022-42710-a-journey-through-xxe-to-stored-xss-851d74dfe917, Stored-XSS
 - https://infosecwriteups.com/param-hunting-to-injections-4365da5447cf, HTML-injection
@@ -942,7 +941,6 @@
 - https://mr-medi.github.io/research/2022/11/04/practical-client-side-path-traversal-attacks.html, Path-traversal
 - https://medium.com/@omarbakrey90/csrf-leads-to-delete-user-account-fc362078be2f, CSRF
 - https://medium.com/@prathamrajgor/how-i-hacked-into-a-cambridges-server-and-got-appreciation-letter-d19a830756b2, Unrestricted-file-upload
-- https://caffeinevulns.com/rces-and-acpvs/, RCE
 - https://medium.com/@vflexo/invitation-hijacking-4d6467f418cc, Authorization-flaw
 - https://redsiege.com/blog/2022/11/the-power-of-adaptability-through-experience/, Lateral-movement
 - https://googleprojectzero.blogspot.com/2022/11/gregor-samsa-exploiting-java-xml.html, Integer-truncation
@@ -1072,7 +1070,6 @@
 - https://infosecwriteups.com/how-i-found-multiple-sql-injections-in-5-minutes-in-bug-bounty-40155964c498, SQL-injection
 - https://www.trellix.com/en-us/about/newsroom/stories/research/tarfile-exploiting-the-world.html, Path-traversal
 - https://10degres.net/one-takeover-to-rule-them-all/, Subdomain-takeover
-- https://www.trellix.com/en-us/about/newsroom/stories/threat-labs/tarfile-exploiting-the-world.html, Path-traversal
 - https://medium.com/@cyberali/mass-assignment-leading-to-pre-account-takeover-13041280a0d9, Mass-assignment
 - https://www.cidersecurity.io/blog/research/how-we-abused-repository-webhooks-to-access-internal-ci-systems-at-scale/, CICD
 - https://blog.sonarsource.com/onedev-remote-code-execution/, RCE
@@ -1243,7 +1240,6 @@
 - https://www.synacktiv.com/publications/cve-2022-31813-forwarding-addresses-is-hard.html, Host-header-injection
 - https://pentest.blog/advisory-roxy-wi-unauthenticated-remote-code-executions-cve-2022-31137/, RCE
 - https://medium.com/@emirpolat/cve-2022-36446-webmin-1-997-7a9225af3165, RCE
-- https://adnanmalik.info/blog/digging-js-files-to-find-bugs/, IDOR
 - https://sagarsajeev.medium.com/dos-worth-650-interesting-right-144ff45ccf3b, DoS
 - https://claroty.com/team82/blog/with-management-comes-risk-finding-flaws-in-filewave-mdm, Authentication-bypass
 - https://medium.com/@talhakarakumru/how-i-gained-access-to-a-finance-companys-accounts-session-hijacking-2c6c5d9d84bd, Session-fixation
@@ -2077,7 +2073,6 @@
 - https://medium.com/fraktal/content-spoofing-vulnerability-in-shibboleth-service-provider-a6619404eaf1, Content-spoofing
 - https://mikekitckchan.medium.com/cors-misconfig-that-worths-usd200-4696eda5ab4c, CORS-misconfiguration
 - https://shrirangdiwakar.medium.com/how-i-turned-0000-into-600-phone-verification-bypass-b1c0f6eb568e, OTP-bypass
-- https://dewangpanchal98.medium.com/403-forbidden-bypass-fc8b5df109b7, 403-bypass
 - https://ysamm.com/?p=697, SSO
 - https://keerok.github.io/2021/05/09/XSS-via-postMessage-in-chat-mozilla-org-CVE-2021-21320/, XSS
 - https://infosecwriteups.com/third-party-apps-were-still-getting-your-private-facebook-data-even-after-their-access-expiry-6e4be4880e6e, Logic-flaw

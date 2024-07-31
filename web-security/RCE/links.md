@@ -117,3 +117,4 @@
 - https://p4n7h3rx.medium.com/how-i-got-bounty-within-5-mins-f1448f6db9b5
 - https://www.netspi.com/blog/technical/vulnerability-research/azure-service-bus-power-platform/
 - https://web.archive.org/web/20220709205125/https://www.evonide.com/how-we-broke-php-hacked-pornhub-and-earned-20000-dollar/
+- https://caffeinevulns.com/rces-and-acpvs/

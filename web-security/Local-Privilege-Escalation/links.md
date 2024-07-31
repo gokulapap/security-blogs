@@ -32,3 +32,4 @@
 - https://www.blackhillsinfosec.com/your-browser-is-not-a-safe-space/
 - https://tomcope.com/exploit/2021/07/19/ibm-hmc-exploit-cve-2021-29707.html
 - https://blog.sonarsource.com/securing-developer-tools-git-integrations
+- https://www.microsoft.com/en-us/security/blog/2022/12/19/gatekeepers-achilles-heel-unearthing-a-macos-vulnerability/

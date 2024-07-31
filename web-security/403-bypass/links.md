@@ -1,2 +1,3 @@
 - https://medium.com/@engrdrayc/403-forbidden-bypass-leading-to-admin-endpoint-access-b696a36665ed
 - https://medium.com/@mares.viktor/unusual-403-bypass-to-a-full-website-takeover-external-pentest-4970c788c6bf
+- https://dewangpanchal98.medium.com/403-forbidden-bypass-fc8b5df109b7

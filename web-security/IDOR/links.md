@@ -104,3 +104,4 @@
 - https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/oracle-sbc-multiple-security-vulnerabilities-leading-to-unauthorized-access-and-denial-of-service/
 - https://cupc4k3.lol/cve-2023-24625-idor-in-faveo-service-desk-37a63f53d896
 - https://bloggerrando.blogspot.com/2021/04/idor-leads-to-how-many-likes-that-was.html
+- https://adnanmalik.info/blog/digging-js-files-to-find-bugs/
