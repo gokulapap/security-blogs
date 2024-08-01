@@ -47,3 +47,4 @@
 - https://medium.com/@deadoverflow/bypassing-samesite-lax-cookie-restrictions-to-preform-csrf-resulting-to-a-horizontal-privilege-1dfc8fb17b0a
 - http://infosecflash.com/2019/01/05/how-i-could-have-taken-over-any-pinterest-account/
 - https://yeuchimse.com/csrf-protection-bypass-in-atlassian-confluence-server/
+- https://medium.com/@zahidali_93675/cross-site-request-forgery-in-facebook-86087201d8c

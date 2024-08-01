@@ -37,3 +37,4 @@
 - https://ysamm.com/?p=343
 - https://portswigger.net/research/cracking-the-lens-targeting-https-hidden-attack-surface
 - https://noobe.io/articles/2019-06/reflected-xss-on-error-page
+- https://medium.com/@jonathanbouman/reflected-xss-at-philips-com-e48bf8f9cd3c

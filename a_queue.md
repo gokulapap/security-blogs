@@ -859,7 +859,6 @@
 - https://hopesamples.blogspot.com/2022/11/the-space-creators-can-still-see.html, IDOR
 - https://www.synacktiv.com/sites/default/files/2022-11/trufusion_enterprise_unauthenticated_arbitrary_file_write.pdf, Unrestricted-file-upload
 - https://www.synacktiv.com/sites/default/files/2022-11/CodeIgniter3_XSS_2022.pdf, Reflected-XSS
-- https://letshack.xyz/offensive/general-research/discord-exe-improper-input-validation, Security-code-review
 - https://medium.com/@Hossam.Mesbah/broken-access-control-misconfiguration-beautiful-privilege-escalation-e4fdfd018efa, Broken-Access-Control
 - https://medium.com/@aa.pietruczuk/improper-error-handling-leads-to-exposing-internal-tokens-3355d6b43a32, Information-disclosure
 - https://ltidi.medium.com/the-untold-sendbird-misconfigurations-1496d252bc69, Broken-Access-Control
@@ -2536,7 +2535,6 @@
 - https://www.activecyber.us/activelabs/windows-appx-deployment-service-local-privilege-escalation-cve-2020-1488, Local-Privilege-Escalation
 - https://web.archive.org/web/20200819113116/https://medium.com/@godofdarkness.msf/account-takeover-using-re-register-bug-bounty-bda8bb2106e6, Account-takeover
 - https://medium.com/witnet/witnet-network-acknowledged-dos-bug-f7d55b709051, DoS
-- https://web.archive.org/web/20200816192659/https://medium.com/@godofdarkness.msf/influxdb-access-at-redact-8x8-com-1b54976b137, Missing-authentication
 - https://medium.com/bugbountywriteup/how-i-was-able-to-send-authentic-emails-as-others-google-vrp-resolved-2af94295f326, Logic-flaw
 - https://medium.com/@vedanttekale20/how-recon-helped-me-to-find-an-interesting-bug-17a2d8cf1778, Open-redirect
 - https://spaceraccoon.dev/open-sesame-escalating-open-redirect-to-rce-with-electron-code-review, Open-redirect
@@ -2620,7 +2618,6 @@
 - https://medium.com/@pig.wig45/from-n-a-to-resolved-for-backblaze-android-app-hackerone-platform-bucket-takeover-f817692a590, Hardcoded-credentials
 - https://medium.com/@dheerajkmadhukar/journey-from-low-to-critical-bug-2ab98db2eec1, IDOR
 - https://medium.com/@b3twise/how-i-found-10-remote-code-execution-in-10-minutes-cve-2020-5902-3def1aa29e9b, RCE
-- https://mudit.blog/free-blockchain-storage-bug-substrate/, Blockchain
 - https://xvnpw.github.io/posts/from-dot-in-regex-to-ssrf-part-3/, SSRF
 - https://web.archive.org/web/20200821010435/https://medium.com/@Alone_Wwolf/how-i-was-able-to-bypass-email-confirm-p4-e17af66a4eb0, Information-disclosure
 - https://bugs.chromium.org/p/chromium/issues/detail?id=1040755, Universal-XSS
@@ -3476,7 +3473,6 @@
 - https://medium.com/@jonathanbouman/local-file-inclusion-at-ikea-com-e695ed64d82f, LFI
 - https://mohitdabas.wordpress.com/2018/09/18/bypassing-authentication-using-javascript-debugger/, Authentication-bypass
 - https://web.archive.org/web/20190320205543/https://medium.com/@0ktavandi/how-i-bypassed-akamai-kona-waf-xss-in-overstock-com-f205b0e71a0d, XSS
-- https://medium.com/@jonathanbouman/reflected-xss-at-philips-com-e48bf8f9cd3c, Reflected-XSS
 - https://randywestergren.com/xss-vulnerabilities-in-multiple-iframe-busters-affecting-top-tier-sites/, XSS
 - https://blog.securitybreached.org/2018/09/16/idor-account-takeover-using-facebook/, IDOR
 - https://web.archive.org/web/20200811013311/https://medium.com/@protector47/persistent-cross-site-scripting-on-redacted-worth-2-000-1e760617ccab, Stored-XSS
@@ -3839,7 +3835,6 @@
 - https://ysx.me.uk/lightweight-markup-a-trio-of-persistent-xss-in-gitlab/, Stored-XSS
 - https://medium.com/@zahidali_93675/conflict-account-recovery-form-in-facebook-2b6e7d203cfd, Logic-flaw
 - https://medium.com/@zahidali_93675/hijack-facebook-groups-721c08526326, Authorization-flaw
-- https://medium.com/@zahidali_93675/cross-site-request-forgery-in-facebook-86087201d8c, CSRF
 - https://web.archive.org/web/20170206221502/https://deadpool.sh/2017/RCE-Springs/, RCE
 - https://web.archive.org/web/20200822111544/https://whitehatnepal.tumblr.com/post/156707088037/i-got-emails-g-suite-vulnerability, Logic-flaw
 - https://medium.com/@prateek_0490/how-i-could-have-compromised-any-account-on-one-of-the-biggest-startup-based-in-california-3ebc8c6844b5, Account-takeover

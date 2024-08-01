@@ -1,0 +1,1 @@
+- https://letshack.xyz/offensive/general-research/discord-exe-improper-input-validation
