@@ -9,3 +9,4 @@
 - https://www.arneswinnen.net/2017/06/authentication-bypass-on-airbnb-via-oauth-tokens-theft/
 - https://shkspr.mobi/blog/2018/12/twitter-bug-bounty/
 - https://medium.com/@tristanfarkas/finding-a-security-bug-in-discord-and-what-it-taught-me-516cda561295
+- https://dragon-sec.medium.com/an-often-overlooked-oauth-misconfiguration-7d2d441eae1f

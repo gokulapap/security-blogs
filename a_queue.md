@@ -1,7 +1,6 @@
 - https://medium.com/@vineet08/story-of-a-reserved-cve-2022-23361-2c81d836c6fe, journey
 - https://medium.com/@snoopy101/how-i-hacked-hackers-in-voorivex-hunt-event-9c572ce0005f, journey
 - https://medium.com/@nazeemarif/bug-bounty-how-i-was-able-to-purchased-premium-feature-just-for-1-pkr-by-parameter-2f6f7e5b8bf, parameter
-- https://medium.com/@redfishiaven/bypass-ssrf-via-protocol-change-redirect-a084dad9291e, ssrf
 - https://medium.com/@0x3zzat/how-to-find-sql-injection-using-a-simple-technique-bc7e8100a6f3, sql-injection
 - https://medium.com/@csal/dont-scan-my-website-i-exploiting-an-old-version-of-wappalyzer-14c001279434, journey
 - https://medium.com/@gandhim373/5-get-easy-bounty-how-to-exploit-xmlrpc-php-8e47f2604923, tricks
@@ -1283,7 +1282,6 @@
 - https://infosecwriteups.com/abusing-url-shortners-for-fun-and-profit-c83c67713916, Information-disclosure
 - https://www.zerodayinitiative.com/blog/2022/7/13/cve-2022-30136-microsoft-windows-network-file-system-v4-remote-code-execution-vulnerability, RCE
 - https://medium.com/@rodricbr/from-open-redirect-to-reflected-xss-manually-64e633a3d23f, Open-redirect
-- https://thinkermaruf.medium.com/hacking-on-a-private-program-salseforce-crm-12bfef43fcc7, RCE
 - https://voidzone.me/cve-2022-29885-apache-tomcat-cluster-service-dos/, DoS
 - https://bishopfox.com/blog/netwrix-auditor-advisory, Insecure-deserialization
 - https://blog.aquasec.com/cve-2022-32223-dll-hijacking, DLL-Hijacking
@@ -2430,7 +2428,6 @@
 - https://lokeshdlk77.medium.com/reveal-the-page-admin-that-uploaded-a-video-on-the-page-in-comment-section-9760e4a31453, Information-disclosure
 - https://security.lauritz-holtmann.de/advisories/cve-2020-13294/, Authentication-flaw
 - https://james-clee.com/2020/11/01/leaked-git-folder-leads-to-rce/, git-folder-disclosure
-- https://dragon-sec.medium.com/an-often-overlooked-oauth-misconfiguration-7d2d441eae1f, OAuth
 - https://aseemshrey.in/abusing-report-abuse/, Logic-flaw
 - https://a-constant.medium.com/beyond-the-wall-command-injection-still-alive-577a898df0b5, OS-command-injection
 - https://tbutler.org/2020/11/01/hinge-hackerone-writeup.html, Broken-Access-Control
@@ -2881,7 +2878,6 @@
 - https://flex0geek.blogspot.com/2020/02/using-csrf-i-got-weird-account-takeover.html, CSRF
 - https://medium.com/@keshavaarav22/an-unexpected-bounty-email-bounce-issues-b9f24a35eb68, DoS
 - https://medium.com/@sushiwushi2/hijacking-shared-report-links-in-google-data-studio-75eab320c391, Authorization-flaw
-- https://medium.com/@ddigvijay29/how-i-dumped-millions-of-crypto-currencies-accounts-28d388053713, AWS-misconfiguration
 - https://web.archive.org/web/20200515015005/https://m0chan.github.io/2020/02/04/Arbitary-File-Upload-Too-Stored-XSS.html, Arbitrary-file-upload
 - https://www.perimeterx.com/tech-blog/2020/whatsapp-fs-read-vuln-disclosure/, Stored-XSS
 - https://jatindhankhar.in/blog/responsible-disclosure-breaking-out-of-a-sandboxed-editor-to-perform-rce/, RCE
@@ -3851,7 +3847,6 @@
 - https://foxglovesecurity.com/2016/10/14/hacking-jasperreports-the-hidden-shell-feature/, RCE
 - https://portswigger.net/research/exploiting-cors-misconfigurations-for-bitcoins-and-bounties, CORS-misconfiguration
 - https://blog.mert.ninja/twitter-hpp-vulnerability/, HTTP-parameter-pollution
-- https://medium.com/bugbountywriteup/open-redirect-scanner-c72cd60d0bf, Open-redirect
 - https://www.betterhacker.com/2016/10/command-injection-without-spaces.html, OS-command-injection
 - https://blog.zsec.uk/gif-time-pornhub/, XSS
 - https://blog.evanricafort.com/2016/09/xss-vulnerability-in-twitter.html, XSS
