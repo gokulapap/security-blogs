@@ -7,3 +7,4 @@
 - https://thehemdeep.medium.com/breaking-business-logic-part-2-7-1-f19924b18783
 - https://josipfranjkovic.blogspot.com/2015/04/race-conditions-on-facebook.html
 - https://blog.credshields.com/race-condition-in-tendermints-starport-7cebe176d935
+- https://web.archive.org/web/20221224215757/https://rashahacks.com/how-race-condition-helped-me-break-business-logic/

@@ -49,3 +49,4 @@
 - https://medium.com/bugbountywriteup/business-logic-flaw-in-invitation-system-allows-to-takeover-any-account-at-private-company-daaf898966b0
 - https://medium.com/@zahirtariq/zero-click-account-takeover-32e888d13e73
 - https://medium.com/@vasuyadav0786/5-ways-to-do-ato-in-a-single-website-cfe7e5da987e
+- https://cristivlad.medium.com/account-of-the-ceo-takeover-via-password-reset-7e55c0175425

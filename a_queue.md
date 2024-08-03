@@ -244,7 +244,6 @@
 - https://dimazarno.medium.com/unexpected-zero-in-mysql-injection-511f632714b0, SQL-injection
 - https://amjadali110.medium.com/unveiling-access-control-flaws-how-a-viewer-became-an-editor-b4aa83a5a0ec, Broken-Access-Control
 - https://web.archive.org/web/20230710001307/https://0xbartita.medium.com/how-i-got-two-rce-at-epam-bounty-program-389eb9fc7938, SAP
-- https://cristivlad.medium.com/account-of-the-ceo-takeover-via-password-reset-7e55c0175425, Account-takeover
 - https://code-white.com/blog/2023-07-from-blackbox-dotnet-remoting-to-rce/, RCE
 - https://shahjerry33.medium.com/idn-homograph-attack-and-response-manipulation-the-rarest-case-85f64c272a1c, IDN-homograph-attack
 - https://blog.projectdiscovery.io/moveit-transfer-sql-injection/, SQL-injection
@@ -788,7 +787,6 @@
 - https://github.com/PabloMK7/ENLBufferPwn, Buffer-Overflow
 - https://research.nccgroup.com/2022/12/22/puckungfu-a-netgear-wan-command-injection/, OS-command-injection
 - https://www.synacktiv.com/sites/default/files/2022-12/sage_xrt_multiple_sqli_1.pdf, Blind-SQL-injection
-- https://web.archive.org/web/20221224215757/https://rashahacks.com/how-race-condition-helped-me-break-business-logic/, Race-condition
 - https://posts.specterops.io/passwordless-persistence-and-privilege-escalation-in-azure-98a01310be3f, Privilege-escalation
 - https://medium.com/@yaala/account-takeover-and-two-factor-authentication-bypass-de56ed41d7f9, Authentication-bypass
 - https://medium.com/@vamshivaran110/rce-on-admin-panel-of-web3-website-2d0acf34d6ea, RCE
@@ -1064,7 +1062,6 @@
 - https://nmochea.medium.com/arbitrary-file-corruption-end-to-end-encrypted-messaging-application-674963dceef8, Insecure-intent
 - https://medium.com/@AvyuktSyrine/my-first-xss-d88ee864df82, Open-redirect
 - https://www.form3.tech/engineering/content/exploiting-distroless-images, Command-injection
-- https://frycos.github.io/vulns4free/2022/09/22/skype-audit-part1.html, Local-Privilege-Escalation
 - https://infosecwriteups.com/how-i-found-multiple-sql-injections-in-5-minutes-in-bug-bounty-40155964c498, SQL-injection
 - https://www.trellix.com/en-us/about/newsroom/stories/research/tarfile-exploiting-the-world.html, Path-traversal
 - https://10degres.net/one-takeover-to-rule-them-all/, Subdomain-takeover
@@ -1495,7 +1492,6 @@
 - https://shenkaiwen.com/publication/2022-dkim/, Email-spoofing
 - https://abdilahrf.github.io/bugbounty/got-access-to-dota-2-admin-panel-by-exploiting-in-game-feature, XSS
 - https://blog.relyze.com/2022/03/cve-2022-27643-netgear-r6700v3-upnpd.html, Memory-corruption
-- https://github.com/pedrib/PoC/blob/master/advisories/Cisco/DCNMPwn.md, Insecure-deserialization
 - https://scribesecurity.com/blog/github-cache-poisoning, Cache-poisoning-attack
 - https://pentera.io/blog/information-disclosure-in-vmware-vcenter/, Information-disclosure
 - https://karmainsecurity.com/KIS-2022-05, Zip-Slip-attack
@@ -2756,7 +2752,6 @@
 - https://medium.com/@impratikdabhi/reflected-xss-on-microsoft-com-via-angular-template-injection-2e26d80a7fd8, CSTI
 - https://web.archive.org/web/20210117211634/https://kurtikleiton.medium.com/blind-ssrf-on-coda-io-c7063f304455, SSRF
 - https://ysamm.com/?p=444, Information-disclosure
-- https://medium.com/@rooterkaustubh/the-story-of-blind-ssrf-leads-to-internal-host-discovery-ee65b9b91e23, SSRF
 - https://blog.sambal0x.com/2020/04/30/Hacking-razer-pay-ewallet-app.html, IDOR
 - https://medium.com/sud0root/bug-bounty-writeups-exploiting-sql-injection-vulnerability-20b019553716, SQL-injection
 - https://medium.com/@kishorehariram/account-taken-over-in-style-8a547342a5ad, Logic-flaw

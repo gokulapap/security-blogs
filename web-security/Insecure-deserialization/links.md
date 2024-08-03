@@ -14,3 +14,4 @@
 - https://labs.nettitude.com/blog/introducing-aladdin/
 - https://talosintelligence.com/vulnerability_reports/TALOS-2022-1587
 - https://devcraft.io/2021/01/07/universal-deserialisation-gadget-for-ruby-2-x-3-x.html
+- https://github.com/pedrib/PoC/blob/master/advisories/Cisco/DCNMPwn.md

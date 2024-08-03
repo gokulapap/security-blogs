@@ -33,3 +33,4 @@
 - https://tomcope.com/exploit/2021/07/19/ibm-hmc-exploit-cve-2021-29707.html
 - https://blog.sonarsource.com/securing-developer-tools-git-integrations
 - https://www.microsoft.com/en-us/security/blog/2022/12/19/gatekeepers-achilles-heel-unearthing-a-macos-vulnerability/
+- https://frycos.github.io/vulns4free/2022/09/22/skype-audit-part1.html
