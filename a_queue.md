@@ -479,7 +479,6 @@
 - https://blog.nietaanraken.nl/posts/aur-packages-github-repo-jacking/, Repojacking
 - https://medium.com/@zhero_/a-successful-prototype-pollution-chained-to-a-dom-xss-9887087b56a4, Prototype-pollution
 - https://medium.com/@ch3tanbug/how-i-was-able-to-change-password-of-any-corporate-user-c68b9509840, Account-takeover
-- https://0xwise.medium.com/are-clicking-links-safe-f7cfcae2e421, Android
 - https://shahjerry33.medium.com/sql-wildcard-dos-hang-till-death-adbae66d1f7b, DoS
 - https://testbnull.medium.com/phân-t%C3%ADch-lỗ-hổng-sharepoint-webpart-property-traversal-cve-2022-38053-cve-2023-21742-bc6931698a5f, Property-traversal
 - https://dev.to/mikesamuel/2008-silently-securing-jsonparse-5cbb, Parsing-issue
@@ -1598,7 +1597,6 @@
 - https://onapsis.com/threat-report/icmad-sap-vulnerabilities, HTTP-request-smuggling
 - https://tech-blog.cymetrics.io/en/posts/huli/how-i-hacked-glints-and-your-resume-en/, IDOR
 - https://blog.sonarsource.com/wordpress-object-injection-vulnerability, Object-injection
-- https://www.cyberick.com/post/what-i-found-on-sony-vulnerability-disclosure-program, Information-disclosure
 - https://bloggerrando.blogspot.com/2022/02/how-can-i-access-members-only-video.html, Broken-Access-Control
 - https://wwws.nightwatchcybersecurity.com/2022/02/06/insecure-bootstrap-process-in-oracle-cloud-cli/, Supply-chain-attack
 - https://feed.bugs.xdavidhu.me/bugs/0013, Authentication-bypass
@@ -2837,7 +2835,6 @@
 - https://medium.com/@rajeshranjan457/how-i-csrfd-my-first-bounty-a62b593d3f4d, CSRF
 - https://medium.com/@St00rm/sql-injection-via-stopping-the-redirection-to-a-login-page-52b0792d5592, SQL-injection
 - https://medium.com/@michan001/ssrf-on-pdf-generator-36b81e16d67b, SSRF
-- https://medium.com/@DarkMatterMatt/discord-embed-spoofing-c6d07ab1decc, Phishing
 - https://alexbakker.me/post/mysterious-google-titan-m-bug-cve-2019-9465.html, Cryptographic-issues
 - https://medium.com/@bhaveshthakur2015/account-hijack-using-authorization-bypass-which-made-me-richer-by-ba9dace72682, Account-takeover
 - https://smaranchand.com.np/2020/02/the-tricky-xss/, XSS
@@ -3551,7 +3548,6 @@
 - https://secreltyhiddenwriteups.blogspot.com/2018/07/gsuite-hangouts-chat-5k-idor.html, IDOR
 - https://medium.com/@jonathanbouman/persistent-xss-at-ah-nl-198fe7b4c781, Stored-XSS
 - https://medium.com/@logicbomb_1/bugbounty-compromising-user-account-how-i-was-able-to-compromise-user-account-via-http-4288068b901f, HTTP-parameter-pollution
-- https://hateshape.github.io/general/2018/07/05/CVE-2016-3473.html, XXE
 - https://medium.com/bugbountywriteup/latex-to-rce-private-bug-bounty-program-6a0b5b33d26a, RCE
 - https://www.nahamsec.com/posts/chaining-multiple-vulnerabilities-to-gain-admin-access, IDOR
 - https://leigh-annegalloway.com/tumblr/, Captcha-bypass
@@ -3940,7 +3936,6 @@
 - https://bitquark.co.uk/blog/2013/07/03/amazon_packaging_feedback_xss, XSS
 - https://whitton.io/articles/hijacking-a-facebook-account-with-sms/, Authorization-flaw
 - https://whitton.io/articles/overwriting-banner-images-on-etsy/, Authorization-flaw
-- https://www.rcesecurity.com/2013/04/paypal-bug-bounty-paypaltech-com-xss/, XSS
 - https://whitton.io/articles/stealing-facebook-access-tokens-with-a-double-submit/, CSRF
 - http://www.rafayhackingarticles.net/2013/02/dom-based-xss-in-avg.html, DOM-XSS
 - https://whitton.io/archive/framing-part-1-click-jacking-etsy, Clickjacking

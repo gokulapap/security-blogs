@@ -118,3 +118,4 @@
 - https://medium.com/@marin_m/how-i-found-a-5-000-google-maps-xss-by-fiddling-with-protobuf-963ee0d9caff
 - https://blog.riotsecurityteam.com/xsshtmli-crafting-better-pocs
 - https://gauravnarwani.com/xssed-my-way-to-1000/
+- https://www.rcesecurity.com/2013/04/paypal-bug-bounty-paypaltech-com-xss/

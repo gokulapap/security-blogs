@@ -5,3 +5,4 @@
 - https://labs.f-secure.com/advisories/samsung-galaxy-any-app-can-install-any-app/
 - https://medium.com/@icebre4ker/hacking-chess-com-my-journey-to-unlock-premium-bots-on-the-android-app-d8cac9d25094
 - https://labs.f-secure.com/advisories/samsung-flow-any-app-can-read-the-external-storage/
+- https://0xwise.medium.com/are-clicking-links-safe-f7cfcae2e421
