@@ -119,3 +119,4 @@
 - https://blog.riotsecurityteam.com/xsshtmli-crafting-better-pocs
 - https://gauravnarwani.com/xssed-my-way-to-1000/
 - https://www.rcesecurity.com/2013/04/paypal-bug-bounty-paypaltech-com-xss/
+- https://medium.com/@elsayedmohammed/how-do-i-get-cross-site-scripting-xss-in-nokia-3041c942b923

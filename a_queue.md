@@ -463,7 +463,6 @@
 - https://medium.com/@nanwinata/a-big-company-admin-panel-takeover-4500-9520a6c83430, Authentication-bypass
 - https://starlabs.sg/advisories/23/23-2017/, SSTI
 - https://infosecwriteups.com/from-payload-to-300-bounty-a-story-of-crlf-injection-and-responsible-disclosure-on-hackerone-eeff74aff422, CRLF-injection
-- https://medium.com/@elsayedmohammed/how-do-i-get-cross-site-scripting-xss-in-nokia-3041c942b923, XSS
 - https://www.offensity.com/en/blog/user-impersonation-via-stolen-uuid-code-in-keycloak-cve-2023-0264/, OAuth
 - https://giraffesecurity.dev/posts/google-remote-code-execution/, Dependency-confusion
 - https://char49.com/articles/topdesk-vulnerable-to-xml-signature-wrapping-attacks, XML-Signature-Wrapping
@@ -907,7 +906,6 @@
 - https://www.rapid7.com/blog/post/2022/11/16/cve-2022-41622-and-cve-2022-41800-fixed-f5-big-ip-and-icontrol-rest-vulnerabilities-and-exposures/, CSRF
 - https://www.zerodayinitiative.com/blog/2022/11/14/control-your-types-or-get-pwned-remote-code-execution-in-exchange-powershell-backend, RCE
 - https://www.oxeye.io/blog/remote-code-execution-in-spotifys-backstage, RCE
-- https://portswigger.net/research/stealing-passwords-from-infosec-mastodon-without-bypassing-csp, HTML-injection
 - https://blog.sonarsource.com/checkmk-rce-chain-1/, RCE
 - https://medium.com/@haroonhameed_76621/winning-qr-with-dom-based-xss-bug-bounty-poc-4b4048cf285d, DOM-XSS
 - https://saligrama.io/blog/post/firebase-insecure-by-default/, Hardcoded-API-keys
@@ -1480,7 +1478,6 @@
 - https://www.trendmicro.com/en_us/research/22/d/macos-suhelper-root-privilege-escalation-vulnerability-a-deep-di.html, Local-Privilege-Escalation
 - https://amit-lt.medium.com/hacked-nokia-with-reflected-cross-site-scripting-vulnerability-327daa8e62fb, Reflected-XSS
 - https://medium.com/stolabs/cloud-ssrf-exploitation-1f256bdc145f, SSRF
-- https://www.legitsecurity.com/blog/github-privilege-escalation-vulnerability, Privilege-escalation
 - https://amit-lt.medium.com/hacked-instagram-handle-of-samsung-cb1a35990a90, Broken-link-hijacking
 - https://blog.dbouman.nl/2022/04/02/How-The-Tables-Have-Turned-CVE-2022-1015-1016/, Memory-corruption
 - https://ph-hitachi.medium.com/view-friends-list-of-any-users-using-view-as-facebook-bug-bounty-edeb6af5640b, Logic-flaw
@@ -2540,7 +2537,6 @@
 - https://medium.com/nassec-cybersecurity-writeups/how-i-was-able-to-find-page-personal-account-disclosure-on-instagram-d9607de4883f, Information-disclosure
 - https://honoki.net/2020/08/10/cve-2020-11518-how-i-bruteforced-my-way-into-your-active-directory/, RCE
 - https://www.perimeterx.com/tech-blog/2020/csp-bypass-vuln-disclosure/, CSP-bypass
-- https://medium.com/@sudipshah_66336/my-2nd-4digit-bug-bounty-from-facebook-99baa727ed02, Logic-flaw
 - https://mazinahmed.net/blog/hacking-zoom/, Information-disclosure
 - https://blog.dixitaditya.com/bypassing-google-maps-api-key-restrictions/, Logic-flaw
 - https://medium.com/@zseano/the-feature-works-as-intended-but-whats-in-the-source-d29f9401bcf6, Information-disclosure
@@ -3400,7 +3396,6 @@
 - https://medium.com/bugbountywriteup/how-i-earned-5040-from-twitter-by-showing-a-way-to-harvest-other-users-ip-address-e9f43c931e9a, Information-disclosure
 - https://medium.com/@prial261/vine-users-private-information-disclosure-f1c55a3abbb6, IDOR
 - https://medium.com/@tim.kent/xss-in-dynamics-365-25c800aac473, XSS
-- https://paper.seebug.org/737/, Stored-XSS
 - https://medium.com/bugbountywriteup/duplicate-but-still-cool-236835685075, IDOR
 - http://codegrazer.com/blog/rsftp-to-command-injection.html, Path-traversal
 - https://medium.com/@Skylinearafat/how-outdated-jira-instances-suffers-from-multiple-security-vulnerabilities-6a88c45e9ec6, XSS
