@@ -317,7 +317,6 @@
 - https://orca.security/resources/blog/examining-two-xss-vulnerabilities-in-azure-services/, XSS
 - https://starlabs.sg/blog/2023/06-the-old-the-new-and-the-bypass-one-clickopen-redirect-to-own-samsung-s22-at-pwn2own-2022/, Open-redirect
 - https://medium.com/@0day_exploit/stored-xss-injection-permanent-open-redirection-e14ffa11573c, Reflected-XSS
-- https://summoning.team/blog/vmware-vrealize-network-insight-rce-cve-2023-20887/, RCE
 - https://research.nccgroup.com/2023/06/13/dynamic-linq-injection-remote-code-execution-vulnerability-cve-2023-32571/, RCE
 - https://hackcompute.com/hacking-epp-servers/, XXE
 - https://hacktus.tech/taking-over-an-entire-organization, Broken-Access-Control
@@ -2663,7 +2662,6 @@
 - https://medium.com/@vishnu0002/account-takeover-via-otp-bruteforce-apigee-api-9b5481c642df, OTP-bypass
 - https://medium.com/@NinadMishra/dos-and-bugbounties-a-series-of-dos-attacks-on-hackerone-9c8316e192c9, DoS
 - https://medium.com/@mudassirsharief58/hunt-for-sql-injection-the-smart-way-db85243a4e90, SQL-injection
-- https://medium.com/@__mr_beast__/the-frustrating-xss-33607894a071, XSS
 - https://medium.com/@bachrudinashari/privilege-escalation-by-changing-http-response-admin-access-5e67c44713f6, Privilege-escalation
 - https://medium.com/swlh/abusing-microsoft-teams-rate-limiting-for-ddos-a8238958376a, DoS
 - https://hackingiscool.pl/cmdhijack-command-argument-confusion-with-path-traversal-in-cmd-exe/, OS-command-injection
@@ -3285,7 +3283,6 @@
 - https://outpost24.com/blog/X-forwarded-for-SQL-injection, SQL-injection
 - https://medium.freecodecamp.org/cache-deception-how-i-discovered-a-vulnerability-in-medium-and-helped-them-fix-it-31cec2a3938b, Web-cache-deception
 - https://posts.specterops.io/remote-code-execution-via-path-traversal-in-the-device-metadata-authoring-wizard-a0d5839fc54f, Path-traversal
-- https://medium.com/@albeckshahar/jumping-over-the-fence-ce0fe5f9a3a2, Open-redirect
 - https://medium.com/@goyalvartul/how-i-hacked-40-000-user-accounts-of-microsoft-using-2fa-bypass-outlook-live-com-13258785ec2f, MFA-bypass
 - https://dannewitz.ninja/posts/detecting-and-exploiting-mass-assignments, Mass-assignment
 - https://medium.com/@rohanchavan/a-unique-xss-scenario-1000-bounty-347f8f92fcc6, Stored-XSS
@@ -3734,7 +3731,6 @@
 - https://medium.com/intigriti/how-i-hacked-hundreds-of-companies-through-their-helpdesk-b7680ddc2d4c, Ticket-Trick
 - https://medium.com/@0xHyde/exploiting-history-back-3ec789c124dd, Open-redirect
 - https://medium.com/@SyntaxError4/reflective-xss-and-open-redirect-on-indeed-com-subdomain-b4ab40e40c83, Reflected-XSS
-- https://medium.com/@SyntaxError4/how-i-found-reflective-xss-in-yahoo-subdomain-3ad4831b386e, Reflected-XSS
 - https://medium.com/japzdivino/idor-on-hackerone-hacker-review-what-program-say-885ce3989a6f, IDOR
 - https://medium.com/@armaanpathan/dont-just-alert-1-because-xss-is-for-fun-f88cfb88d5b9, XSS
 - https://medium.com/@Alra3ees/my-write-up-about-uber-cross-site-scripting-by-help-of-knoxss-b1b56f8d090, Reflected-XSS
@@ -3788,7 +3784,6 @@
 - https://www.rafaybaloch.com/2017/06/stored-xss-csrf-and-clickjacking.html, Stored-XSS
 - https://www.rafaybaloch.com/2017/06/a-tale-of-another-sop-bypass-in-android.html, SOP-bypass
 - https://www.rafaybaloch.com/2017/06/nokia-asha-series-lock-screen-bypass.html, Authentication-bypass
-- https://www.rafaybaloch.com/2017/06/android-browser-all-versions-address.html, Address-Bar-Spoofing
 - http://www.kernelpicnic.net/2017/05/29/Pivoting-from-blind-SSRF-to-RCE-with-Hashicorp-Consul.html, Blind-XSS
 - https://ysx.me.uk/a-pair-of-plotly-bugs-stored-xss-and-aws-metadata-ssrf/, Stored-XSS
 - http://panchocosil.blogspot.com/2017/05/one-cloud-based-local-file-inclusion.html, Path-traversal

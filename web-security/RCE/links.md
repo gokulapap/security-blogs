@@ -119,3 +119,4 @@
 - https://web.archive.org/web/20220709205125/https://www.evonide.com/how-we-broke-php-hacked-pornhub-and-earned-20000-dollar/
 - https://caffeinevulns.com/rces-and-acpvs/
 - https://thinkermaruf.medium.com/hacking-on-a-private-program-salseforce-crm-12bfef43fcc7
+- https://summoning.team/blog/vmware-vrealize-network-insight-rce-cve-2023-20887/

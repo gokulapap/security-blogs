@@ -1,2 +1,3 @@
 - https://servicenger.com/blog/mobile/facebook-ios-address-bar-spoofing/
 - https://blog.0x48piraj.com/address-bar-spoofing-in-firefox-lite-for-android-and-the-idiocy-that-followed/
+- https://www.rafaybaloch.com/2017/06/android-browser-all-versions-address.html
