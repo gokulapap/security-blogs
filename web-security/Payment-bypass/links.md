@@ -6,3 +6,4 @@
 - https://arnavtripathy98.medium.com/bypassing-api-restrictions-for-fun-and-profit-c9ab746b67be
 - https://medium.com/@claudio_moranb/vulnerabilities-in-online-payment-systems-edd2d3c06905
 - https://crypt0g30rgy.github.io/post/PaymentBypassThree
+- https://gatolouco.medium.com/exploiting-amazon-active-vulnerability-d2554c8c7ffd

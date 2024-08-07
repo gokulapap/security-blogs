@@ -3,3 +3,4 @@
 - https://baibhavjha.com.np/blogs/facebookgroupmemberdisclosure/
 - https://0x1int.gitbook.io/blogs/insufficient-graphql-api-vulnerability-due-to-lack-of-validation-of-authorization-bearer-token
 - https://ysamm.com/?p=627
+- https://feed.bugs.xdavidhu.me/bugs/0017

@@ -34,3 +34,4 @@
 - https://blog.sonarsource.com/securing-developer-tools-git-integrations
 - https://www.microsoft.com/en-us/security/blog/2022/12/19/gatekeepers-achilles-heel-unearthing-a-macos-vulnerability/
 - https://frycos.github.io/vulns4free/2022/09/22/skype-audit-part1.html
+- https://blog.mozilla.org/attack-and-defense/2020/10/12/guest-blog-post-rollback-attack/

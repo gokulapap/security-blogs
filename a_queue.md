@@ -720,7 +720,6 @@
 - https://ermetic.com/blog/azure/emojideploy-smile-your-azure-web-service-just-got-rced/, RCE
 - https://shahjerry33.medium.com/api-misconfiguration-no-swag-of-swaggerui-9b43135346be, Security-misconfiguration
 - https://www.secureworks.com/research/azure-active-directory-flaw-allowed-saml-persistence, Azure-AD
-- https://security.humanativaspa.it/nothing-new-under-the-sun/, Printer-hacking
 - https://medium.com/@Parag_Bagul/how-i-identified-and-reported-vulnerabilities-in-oracle-and-the-rewards-of-responsible-43ee5fea457f, Information-disclosure
 - https://www.synacktiv.com/sites/default/files/2023-01/sudo-CVE-2023-22809.pdf, Local-Privilege-Escalation
 - https://medium.com/@mohanad.hussam23/from-error-log-file-p4-to-company-account-takeover-p1-and-unauthorized-actions-on-api-35e45e43273a, Information-disclosure
@@ -885,7 +884,6 @@
 - https://ssd-disclosure.com/ssd-advisory-netgear-r7800-afpd-preauth/, Memory-corruption
 - https://github.com/0xacb/recollapse/blob/main/till_recollapse_fuzzing_the_web_for_mysterious_bugs.pdf, Regex
 - https://securitylabs.datadoghq.com/articles/appsync-vulnerability-disclosure/, Confused-deputy
-- https://feed.bugs.xdavidhu.me/bugs/0017, GraphQL
 - https://medium.com/@valluvarsploit/fastly-subdomain-takeover-2000-217bb180730f, Subdomain-takeover
 - https://medium.com/@mrd17x/my-account-takeover-writeup-5000-6895492aa549, Lack-of-rate-limiting
 - https://cybervelia.com/?p=1380, IoT
@@ -1359,7 +1357,6 @@
 - https://www.reversemode.com/2022/06/de-anonymization-attacks-against-proton.html, Privacy-issue
 - https://www.cyberark.com/resources/threat-research-blog/extracting-clear-text-credentials-directly-from-chromium-s-memory, Browser-hacking
 - https://www.r29k.com/articles/bb/account-takeover-via-idors, IDOR
-- https://gatolouco.medium.com/exploiting-amazon-active-vulnerability-d2554c8c7ffd, Payment-bypass
 - https://www.zerodayinitiative.com/blog/2022/6/7/cve-2022-26937-microsoft-windows-network-file-system-nlm-portmap-stack-buffer-overflow, Buffer-Overflow
 - https://security.humanativaspa.it/multiple-vulnerabilities-in-zyxel-zysh/, OS-command-injection
 - https://machevalia.blog/blog/ivanti-epm-remote-code-execution, RCE
@@ -2442,7 +2439,6 @@
 - https://blog.yappare.com/2020/10/i-had-fun-with-this-xss.html, XSS
 - https://medium.com/@merry6607/how-i-find-my-first-p1-level-bug-5a6dd9587203, XSS
 - https://medium.com/@mustafa0x2021/disclose-emails-phone-numbers-other-information-for-facebook-users-who-tried-to-add-funds-to-31aea5f973a5, Information-disclosure
-- https://blog.mozilla.org/attack-and-defense/2020/10/12/guest-blog-post-rollback-attack/, Local-Privilege-Escalation
 - https://web.archive.org/web/20211020083928/https://medium.com/@rahulnaidu_92192/unauthorized-access-to-all-the-users-account-c087511fe42a, Account-takeover
 - https://blog.dixitaditya.com/leveraging-xss-to-read-internal-files/, XSS
 - https://medium.com/@parasarora06/cve-2018-5230-jira-cross-site-scripting-59ec96b3d75f, Reflected-XSS
@@ -2580,7 +2576,6 @@
 - https://web.archive.org/web/20201123204526/https://medium.com/@olisandip99/chaining-rate-limiting-for-account-lockout-6a2a7828dd24, Lack-of-rate-limiting
 - https://medium.com/@mohamedayad_72488/bypass-user-restriction-registration-cbfc4eb855, Logic-flaw
 - https://medium.com/@balook/creative-android-pin-bypass-with-race-conditon-63a8bc3f0e31, Race-condition
-- https://medium.com/@balook/android-pin-bypass-with-rate-limiting-a3f5dd811715, Lack-of-rate-limiting
 - https://medium.com/@balook/idor-in-google-datastudio-google-com-f2fa51b763de, IDOR
 - https://medium.com/bugbountywriteup/how-i-lost-my-followers-on-medium-9fe10e9862aa, GraphQL
 - https://medium.com/@sudipshah_66336/the-story-of-my-first-4-digit-bounty-from-facebook-3a29830e03cd, Logic-flaw
