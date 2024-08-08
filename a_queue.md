@@ -372,7 +372,6 @@
 - https://shahjerry33.medium.com/stored-iframe-injection-permanent-open-redirection-zero-day-ce7cd15903ac, HTML-injection
 - https://blog.pretera.com/how-misconfigured-and-vulnerable-devices-could-expose-your-company-to-physical-and-cyber-threats-37d0e0d8d158, IoT
 - https://corben.io/blog/hacking-kucoin, Information-disclosure
-- https://bleekseeks.com/blog/keepass-master-password-exploit-cve-2023-32784-poc, Plaintext-Storage-of-a-Password
 - https://www.synacktiv.com/sites/default/files/2023-05/Synacktiv-Webflow-Arbitrary-Email-Forgery.pdf, Email-spoofing
 - https://nasbench.medium.com/lolbined-finding-lolbins-in-av-uninstallers-bf29427d3cd8, Local-Privilege-Escalation
 - https://medium.com/@zhero_/dos-via-cache-poisoning-38f3a87f997c, Web-cache-deception
@@ -839,7 +838,6 @@
 - https://github.com/Wh04m1001/SysmonEoP, Local-Privilege-Escalation
 - https://frycos.github.io/vulns4free/2022/12/02/rce-in-20-minutes.html, Security-code-review
 - https://sensepost.com/blog/2022/certpotato-using-adcs-to-privesc-from-virtual-and-network-service-accounts-to-local-system/, Local-Privilege-Escalation
-- https://starlabs.sg/blog/2022/12-multiple-vulnerabilites-in-proxmox-ve--proxmox-mail-gateway/, XSS
 - https://theshubh77.medium.com/write-up-irremovable-comments-on-fb-lite-app-a-story-of-a-simple-fb-lite-bug-that-i-found-just-125aaa826dd8, Logic-flaw
 - https://medium.com/@sathvika03/interesting-find-on-the-invite-link-17cf5a46d747, Logic-flaw
 - https://onekey.com/blog/security-advisory-asus-m25-nas-vulnerability/, OS-command-injection
@@ -1114,7 +1112,6 @@
 - https://srahulceh.medium.com/bug-bounty-how-i-found-an-ssrf-reconnaissance-7b1821a1b1fd, SSRF
 - https://www.shielder.com/blog/2022/09/how-to-decrypt-manage-engine-pmp-passwords-for-fun-and-domain-admin-a-red-teaming-tale/, Cryptographic-issues
 - https://medium.com/@jedus0r/idor-insecure-direct-object-references-my-first-p1-in-bugbounty-fb01f50e25df, IDOR
-- https://zolder.io/hacking-my-helium-crypto-miner/, Hardcoded-credentials
 - https://ssd-disclosure.com/ssd-advisory-linux-config_watch_queue-lpe/, Memory-corruption
 - https://blog.silentsignal.eu/2022/09/05/simple-ibm-i-as-400-hacking/, Local-Privilege-Escalation
 - https://medium.com/@0x0Asif/how-i-found-my-first-rce-8f8033883dc4, IDOR
@@ -1535,7 +1532,6 @@
 - https://prajwoldhungana487.medium.com/demographic-misconfiguration-9359910c6fcf, Logic-flaw
 - https://testbnull.medium.com/oracle-access-manager-pre-auth-rce-cve-2021-35587-analysis-1302a4542316, RCE
 - https://unit42.paloaltonetworks.com/gke-autopilot-vulnerabilities/, Privilege-escalation
-- https://medium.com/@amnotacat/log4shell-in-google-1337-00-144684269bf8, Log4shell
 - https://medium.com/@mrempy/how-i-managed-to-make-a-ddos-attack-by-exploiting-a-companys-service-bug-bounty-bfd25a178b45, DoS
 - https://orca.security/resources/blog/autowarp-microsoft-azure-automation-service-vulnerability/, Cross-tenant-vulnerability
 - https://medium.com/@sandh0t/the-bad-twin-a-peculiar-case-of-jwt-exploitation-scenario-1efa03e891c0, Account-takeover
@@ -3303,7 +3299,6 @@
 - https://ysamm.com/?p=35, IDOR
 - https://ysamm.com/?p=12, XSS
 - https://medium.com/@sudhanshur705/reflected-xss-in-zomato-f892d6887147, Reflected-XSS
-- https://medium.com/@Jacksonkv22/oauth-misconfiguration-lead-to-complete-account-takeover-c8e4e89a96a, CSRF
 - https://blog.ibrahimdraidia.com/bypass-csp-framing-restriction-rule-olx/, CSP-bypass
 - https://medium.com/bugbountywriteup/command-injection-poc-72cc3743f10d, OS-command-injection
 - https://medium.com/@ritishkumarsingh/facebook-vulnerability-unremovable-facebook-group-admin-2cbf4faf55c1, Logic-flaw

@@ -1,1 +1,2 @@
 - https://snapsec.co/blog/Hacking-Agorapulse/
+- https://medium.com/@amnotacat/log4shell-in-google-1337-00-144684269bf8

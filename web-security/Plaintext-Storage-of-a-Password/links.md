@@ -1,0 +1,1 @@
+- https://bleekseeks.com/blog/keepass-master-password-exploit-cve-2023-32784-poc

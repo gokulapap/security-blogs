@@ -48,3 +48,4 @@
 - http://infosecflash.com/2019/01/05/how-i-could-have-taken-over-any-pinterest-account/
 - https://yeuchimse.com/csrf-protection-bypass-in-atlassian-confluence-server/
 - https://medium.com/@zahidali_93675/cross-site-request-forgery-in-facebook-86087201d8c
+- https://medium.com/@Jacksonkv22/oauth-misconfiguration-lead-to-complete-account-takeover-c8e4e89a96a
