@@ -264,7 +264,6 @@
 - https://research.nccgroup.com/2023/07/03/technical-advisory-nullsoft-scriptable-installer-system-nsis-insecure-temporary-directory-usage/, Local-Privilege-Escalation
 - https://labs.hakaioffsec.com/nginx-alias-traversal/, Path-traversal
 - https://blog.silentsignal.eu/2023/07/03/ibm-i-dde-vulnerability-cve-2023-30990/, RCE
-- https://blog.prodefense.io/how-abusing-aws-cloudformation-led-to-a-total-takeover-of-an-aws-environment-7f94cabd671d, Cloud
 - https://medium.com/@nguhuynh.148/how-did-i-get-200-with-wordpress-vulnerability-4ce80f106709, Information-disclosure
 - https://www.randorisec.fr/chamilo-1.11.18-multiple-vulnerabilities, OS-command-injection
 - https://medium.com/@M0X0101/how-i-was-able-to-get-account-takeover-via-insecure-data-storage-and-webview-with-exported-activity-5308a330ab80, Account-takeover
@@ -508,7 +507,6 @@
 - https://www.praetorian.com/blog/dynamic-linking-injection/, DLL-Hijacking
 - https://medium.com/@bughuntar/my-first-bug-open-redirect-at-epic-games-500-bounty-d0c03de60fa7, Open-redirect
 - https://frichetten.com/blog/undocumented-amplify-api-leak-account-id/, Cloud
-- https://medium.com/@rajdipdeysarkar7/my-journey-to-nokia-hall-of-fame-in-just-10-minutes-4869c78c37e7, DOM-XSS
 - https://infosecwriteups.com/cve-2023-1410-stored-xss-in-the-graphite-function-description-tooltip-165bdc32154c, Stored-XSS
 - https://protectai.com/blog/hacking-ai-system-takeover-exploit-in-mlflow, LFI
 - https://portswigger.net/research/exploiting-prototype-pollution-in-node-without-the-filesystem, Server-side-prototype-pollution
@@ -769,7 +767,6 @@
 - https://www.yassineaboukir.com//blog/hunting-for-amazon-cognito-security-misconfigurations/, Amazon-cognito-misconfiguration
 - https://danaepp.com/hacking-a-net-api-in-the-real-world, LFI
 - https://mtechghost.medium.com/stored-xss-vulnerability-in-microsoft-booking-e593de3344e0, Stored-XSS
-- https://blog.viettelcybersecurity.com/tabshell-owassrf/, SSRF
 - https://downrightnifty.me/blog/2022/12/26/hacking-google-home.html, IoT
 - https://bergee.it/blog/how-i-found-multiple-critical-bugs-in-red-bull/, Authentication-bypass
 - https://cems.fun/2022/12/26/CVE-2017-8758.html, XSS
@@ -1107,7 +1104,6 @@
 - https://hopesamples.blogspot.com/2022/09/group-experts-pending-expertise-request.html, IDOR
 - https://hopesamples.blogspot.com/2022/09/details-about-future-collaboration.html, IDOR
 - https://taggart-tech.com/quasar-electron/, Local-Privilege-Escalation
-- https://blog.sonarsource.com/wordpress-core-unauthenticated-blind-ssrf/, SSRF
 - https://bergee.it/blog/turning-cookie-based-xss-into-account-takeover/, XSS
 - https://srahulceh.medium.com/bug-bounty-how-i-found-an-ssrf-reconnaissance-7b1821a1b1fd, SSRF
 - https://www.shielder.com/blog/2022/09/how-to-decrypt-manage-engine-pmp-passwords-for-fun-and-domain-admin-a-red-teaming-tale/, Cryptographic-issues
@@ -1305,7 +1301,6 @@
 - https://unit42.paloaltonetworks.com/fabricscape-cve-2022-30137/, Container-escape
 - https://www.rapid7.com/blog/post/2022/06/28/cve-2021-3779-ruby-mysql-gem-client-file-read-fixed/, Client-File-Read
 - https://jfrog.com/blog/cve-2022-30522-denial-of-service-dos-vulnerability-in-apache-httpd-mod_sed-filter/, DoS
-- https://infosecwriteups.com/html-and-hyperlink-injection-via-share-option-in-microsoft-onenote-application-47e94d0e6478, HTML-injection
 - https://curl.se/docs/CVE-2022-32208.html, MiTM
 - https://curl.se/docs/CVE-2022-32207.html, Improper-Preservation-of-Permissions
 - https://curl.se/docs/CVE-2022-32205.html, DoS

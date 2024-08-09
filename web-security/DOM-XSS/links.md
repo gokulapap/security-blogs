@@ -8,3 +8,4 @@
 - https://www.vpnmentor.com/blog/dom-xss-bug-affecting-tinder-shopify-yelp/
 - https://doyensec.com/resources/Doyensec_Advisory_AnnounceKit_Q12022.pdf
 - https://edoverflow.com/2022/bypassing-razers-dom-based-xss-filter/
+- https://medium.com/@rajdipdeysarkar7/my-journey-to-nokia-hall-of-fame-in-just-10-minutes-4869c78c37e7
