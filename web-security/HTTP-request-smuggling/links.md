@@ -3,3 +3,4 @@
 - https://medium.com/@StealthyBugs/http-request-smuggling-on-business-apple-com-and-others-2c43e81bcc52
 - https://hipotermia.pw/bb/http-desync-account-takeover
 - https://portswigger.net/research/how-to-turn-security-research-into-profit
+- https://tij.me/blog/harvesting-active-directory-credentials-via-http-request-smuggling/

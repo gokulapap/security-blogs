@@ -625,7 +625,6 @@
 - https://medium.com/@win3zz/facebook-bug-a-journey-from-code-execution-to-s3-data-leak-698b7d2b02ef, RCE
 - https://blog.infiltrateops.io/hacking-apple-two-successful-exploits-and-positive-thoughts-on-their-bug-bounty-program-963efe7518f6, RCE
 - https://decoder.cloud/2023/02/16/eop-via-arbitrary-file-write-overwite-in-group-policy-client-gpsvc-cve-2022-37955/, Local-Privilege-Escalation
-- https://portswigger.net/research/server-side-prototype-pollution, Server-side-prototype-pollution
 - https://blog.yeswehack.com/talent-development/server-side-prototype-pollution-how-to-detect-and-exploit/, Server-side-prototype-pollution
 - https://www.intruder.io/research/server-side-prototype-pollution, Server-side-prototype-pollution
 - https://www.praetorian.com/blog/azure-b2c-crypto-misuse-and-account-compromise/, Cryptographic-issues
@@ -1264,7 +1263,6 @@
 - https://medium.com/@shaunak007/how-i-spammed-a-google-meet-but-for-good-8bc5b328f1bb, DoS
 - https://www.gosecure.net/blog/2022/07/13/tableau-server-leaks-sensitive-information-from-reflected-xss/, Reflected-XSS
 - https://infosecwriteups.com/abusing-url-shortners-for-fun-and-profit-c83c67713916, Information-disclosure
-- https://www.zerodayinitiative.com/blog/2022/7/13/cve-2022-30136-microsoft-windows-network-file-system-v4-remote-code-execution-vulnerability, RCE
 - https://medium.com/@rodricbr/from-open-redirect-to-reflected-xss-manually-64e633a3d23f, Open-redirect
 - https://voidzone.me/cve-2022-29885-apache-tomcat-cluster-service-dos/, DoS
 - https://bishopfox.com/blog/netwrix-auditor-advisory, Insecure-deserialization
@@ -1285,7 +1283,6 @@
 - https://labs.detectify.com/2022/07/06/account-hijacking-using-dirty-dancing-in-sign-in-oauth-flows/, OAuth
 - https://medium.com/@ittipatjitrada_72022/how-i-found-open-redirect-on-bug-crowd-public-program-in-2-day-a217cfb70f3, Open-redirect
 - https://infosecwriteups.com/exposing-millions-of-voter-id-card-users-details-8a993c9a5d35, IDOR
-- https://www.signal-labs.com/blog/rediscovering-epic-games-0-days, Local-Privilege-Escalation
 - https://web.archive.org/web/20220716152713/https://snapsec.co/blog/hacking-larksuite/, XSS
 - https://bhashit.in/?p=71, Firebase
 - https://medium.com/@kashyapherry147/origin-ip-to-account-takeover-62d7a54abebf, WAF-bypass
@@ -2113,7 +2110,6 @@
 - https://blog.ryotak.me/post/homebrew-security-incident-en/, RCE
 - https://jmrcsnchz.medium.com/playing-with-iframes-bypassing-content-security-policy-987c2f0b8e8a, CSP-bypass
 - https://feed.bugs.xdavidhu.me/bugs/0002, Authentication-bypass
-- https://tij.me/blog/harvesting-active-directory-credentials-via-http-request-smuggling/, HTTP-request-smuggling
 - https://notifybugme.medium.com/unauthorized-access-to-admin-setpassword-page-by-bypass-403-forbidden-f10bbb92ab35, Authorization-flaw
 - https://mase289.medium.com/exploiting-unrestricted-file-upload-to-achieve-remote-code-execution-on-a-bug-bounty-program-85661516712, Unrestricted-file-upload
 - https://0x2m.medium.com/misconfiguration-in-change-password-functionality-leads-to-account-takeover-1314b5507abf, IDOR
@@ -2139,7 +2135,6 @@
 - https://0xra.github.io/posts/apple-tv-code-execution/, RCE
 - https://mikey96.medium.com/cloud-based-storage-misconfigurations-critical-bounties-361647f78a29, Cloud-storage-misconfiguration
 - https://infosecwriteups.com/weird-and-very-easy-authentication-bypass-found-with-google-dorking-c13230a038ed, Authentication-bypass
-- https://robertchen.cc/blog/2021/04/03/github-pages-xss, XSS
 - https://www.sjoerdlangkemper.nl/2021/04/04/remote-code-execution-through-unsafe-unserialize/, Insecure-deserialization
 - http://www.kamilonurozkaleli.com/posts/rce-on-starbucks-singapore-and-more/, RCE
 - https://nns.ee/blog/2021/04/03/modem-rce.html, OS-command-injection

@@ -120,3 +120,4 @@
 - https://caffeinevulns.com/rces-and-acpvs/
 - https://thinkermaruf.medium.com/hacking-on-a-private-program-salseforce-crm-12bfef43fcc7
 - https://summoning.team/blog/vmware-vrealize-network-insight-rce-cve-2023-20887/
+- https://www.zerodayinitiative.com/blog/2022/7/13/cve-2022-30136-microsoft-windows-network-file-system-v4-remote-code-execution-vulnerability
