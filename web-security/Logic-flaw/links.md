@@ -73,3 +73,4 @@
 - https://medium.com/@jbgrunewald/how-i-made-7500-from-my-first-bug-bounty-found-on-google-cloud-platform-1a5415d7569b
 - https://medium.com/@rajauzairabdullah/the-inside-story-of-finding-a-reverse-transaction-vulnerability-in-a-financial-application-d73f9cd40f6f
 - https://medium.com/@sudipshah_66336/my-2nd-4digit-bug-bounty-from-facebook-99baa727ed02
+- https://www.pantaprakash.com.np/posts/categories/bugbounty-writeup/2.html

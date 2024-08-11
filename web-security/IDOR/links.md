@@ -105,3 +105,5 @@
 - https://cupc4k3.lol/cve-2023-24625-idor-in-faveo-service-desk-37a63f53d896
 - https://bloggerrando.blogspot.com/2021/04/idor-leads-to-how-many-likes-that-was.html
 - https://adnanmalik.info/blog/digging-js-files-to-find-bugs/
+- https://publish.whoisbinit.me/adding-anyone-including-non-friend-and-blocked-people-as-co-host-in-personal-event
+- https://medium.com/@Sm9l/what-i-learnt-from-reading-220-idor-bug-reports-6efbea44db7
