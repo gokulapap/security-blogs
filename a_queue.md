@@ -31,7 +31,6 @@
 - https://medium.com/@lazyhacker/ways-to-exploit-json-csrf-simple-explanation-5e77c403ede6, csrf
 - https://medium.com/@vflexo/xyz-of-xss-62603eb4cba, XSS
 - https://medium.com/@basakyilmaz82/log4j-vulnerability-485559065af6, CVE
-- https://medium.com/@thevillagehacker/account-take-over-due-to-no-rate-limitation-433bd7449aca, ATO
 - https://medium.com/@yan.zaripov/time-based-sql-injection-63a395434e97, sql-injection
 - https://medium.com/@codewithvamp/the-cost-of-neglect-html-injection-3c00e719fdef, html-injection
 - https://medium.com/@danielmakelley/4-tips-for-new-bug-bounty-hunters-b71c4c6ab5f9, tricks
@@ -761,7 +760,6 @@
 - https://sudhanshur705.medium.com/exploring-the-world-of-esi-injection-b86234e66f91, ESI-injection
 - https://medium.com/@ashlyn.lau_17206/hooking-secret-key-to-building-custom-burp-extension-c6aeb6fd312a, SQL-injection
 - https://infosecwriteups.com/unauthorized-sign-up-on-subdomain-of-subdomain-leading-to-organization-takeover-worth-2000-a7199952d80b, Exposed-registration-page
-- https://tamimhasan404.medium.com/ldap-anonymous-login-story-of-my-3-simple-p3-findings-d5b4a991b345, LDAP-anonymous-login
 - https://www.yassineaboukir.com//blog/hunting-for-amazon-cognito-security-misconfigurations/, Amazon-cognito-misconfiguration
 - https://danaepp.com/hacking-a-net-api-in-the-real-world, LFI
 - https://mtechghost.medium.com/stored-xss-vulnerability-in-microsoft-booking-e593de3344e0, Stored-XSS
@@ -1190,7 +1188,6 @@
 - https://petrusviet.medium.com/dancing-on-the-architecture-of-vmware-workspace-one-access-eng-ad592ae1b6dd, Authentication-bypass
 - https://medium.com/@the_harvester/bypassed-cloudflares-web-application-firewall-waf-44da57f3a1d3, XSS
 - http://blog.h4rsh4d.com/2022/08/open-redirect-bypass.html, Open-redirect
-- https://alpinnnnnn13.medium.com/stored-xss-in-app-gitbook-com-6349f42661f7, Stored-XSS
 - https://vsrc.vng.com.vn/blog/liferay-revisited-a-tale-of-20k/, RCE
 - https://ruia-ruia.github.io/2022/08/05/CVE-2022-29582-io-uring/, Memory-corruption
 - https://infosecwriteups.com/how-i-was-able-to-get-29-free-products-bug-bounty-845667ab4ad4, Race-condition
@@ -2739,7 +2736,6 @@
 - https://medium.com/@vincenz/exploiting-a-race-condition-vulnerability-3f2cb387a72, Race-condition
 - https://medium.com/@jayateerthag/cors-bug-on-googles-404-page-rewarded-2163d58d3c8b, CORS-misconfiguration
 - https://blog.stazot.com/prestashop-csrf-to-rce-article/, RCE
-- https://medium.com/@np20121996/how-was-i-able-to-find-privilege-escalation-b13366b97706, IDOR
 - https://medium.com/@rat010/otp-verification-bypass-ee17d68f8425, OTP-bypass
 - https://blog.zimperium.com/multiple-kernel-vulnerabilities-affecting-all-qualcomm-devices/, Memory-corruption
 - https://medium.com/@kristian.balog/netflix-party-simple-xss-ec92ed1d7e18, XSS
@@ -3704,7 +3700,6 @@
 - https://medium.com/bugbountywriteup/chaining-self-xss-with-ui-redressing-is-leading-to-session-hijacking-pwn-users-like-a-boss-efb46249cd14, Self-XSS
 - http://manuel-sousa.blogspot.com/2017/09/url-whitelist-bypass-accounts-google.html, Open-redirect
 - https://medium.com/intigriti/how-i-hacked-hundreds-of-companies-through-their-helpdesk-b7680ddc2d4c, Ticket-Trick
-- https://medium.com/@0xHyde/exploiting-history-back-3ec789c124dd, Open-redirect
 - https://medium.com/@SyntaxError4/reflective-xss-and-open-redirect-on-indeed-com-subdomain-b4ab40e40c83, Reflected-XSS
 - https://medium.com/japzdivino/idor-on-hackerone-hacker-review-what-program-say-885ce3989a6f, IDOR
 - https://medium.com/@armaanpathan/dont-just-alert-1-because-xss-is-for-fun-f88cfb88d5b9, XSS

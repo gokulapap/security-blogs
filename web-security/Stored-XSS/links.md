@@ -47,3 +47,4 @@
 - https://pentest.co.uk/labs/research/subtle-stored-xss-wordpress-core/
 - https://weizman.github.io/2023/04/10/snyk-xss/
 - https://paper.seebug.org/737/
+- https://alpinnnnnn13.medium.com/stored-xss-in-app-gitbook-com-6349f42661f7
