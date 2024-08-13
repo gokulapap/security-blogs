@@ -34,3 +34,4 @@
 - https://medium.com/bugbountywriteup/open-redirect-scanner-c72cd60d0bf
 - https://medium.com/@albeckshahar/jumping-over-the-fence-ce0fe5f9a3a2
 - https://medium.com/@0xHyde/exploiting-history-back-3ec789c124dd
+- https://blog.scrt.ch/2021/02/25/stealing-user-passwords-through-a-vpns-sso/

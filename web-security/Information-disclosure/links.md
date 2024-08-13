@@ -110,3 +110,4 @@
 - https://infosecwriteups.com/stripe-live-key-exposed-bounty-1000-dc670f2c5d9c
 - http://www.tomanthony.co.uk/blog/google-exploit-steal-login-email-addresses/
 - https://www.cyberick.com/post/what-i-found-on-sony-vulnerability-disclosure-program
+- https://medium.com/@intideceukelaire/this-popular-facebook-app-publicly-exposed-your-data-for-years-12483418eff8
