@@ -4,3 +4,4 @@
 - https://proviesec.medium.com/broken-link-hijacking-404-google-play-store-xxx-bounty-96e79a8dfd71
 - https://web.archive.org/web/20210711090831/https://palisade.consulting/blog/link-hijacking-binances-shortlinks-through-appsflyer
 - https://medium.com/@coffeeaddict_exe/500-in-5-minutes-45977e89a337
+- https://medium.com/@bathinivijaysimhareddy/how-i-takeover-the-companys-linkedin-page-790c9ed2b04d

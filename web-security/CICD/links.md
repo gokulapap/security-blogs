@@ -1,2 +1,3 @@
 - https://medium.com/tinder/identifying-vulnerabilities-in-github-actions-aws-oidc-configurations-8067c400d5b8
 - https://www.legitsecurity.com/blog/-how-we-found-another-github-action-environment-injection-vulnerability-in-a-google-project
+- https://marcyoung.us/post/zuckerpunch/

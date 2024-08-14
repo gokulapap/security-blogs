@@ -1095,7 +1095,6 @@
 - https://mogwailabs.de/en/blog/2022/08/exploiting-laravel-based-applications-with-leaked-app_keys-and-queues/, RCE
 - https://security.humanativaspa.it/groovy-template-engine-exploitation-notes-from-a-real-case-scenario/, RCE
 - https://medium.com/@Parag_Bagul/how-i-found-moodle-cross-site-scripting-459a1c9ad4d5, XSS
-- https://marcyoung.us/post/zuckerpunch/, CICD
 - https://hopesamples.blogspot.com/2022/09/group-experts-pending-expertise-request.html, IDOR
 - https://hopesamples.blogspot.com/2022/09/details-about-future-collaboration.html, IDOR
 - https://taggart-tech.com/quasar-electron/, Local-Privilege-Escalation
@@ -1965,7 +1964,6 @@
 - https://feed.bugs.xdavidhu.me/bugs/0009, IDOR
 - https://adnanmalik.info/blog/lets-cancel-the-subscription/, Logic-flaw
 - https://donjon.ledger.com/kaspersky-password-manager/, Weak-crypto
-- https://gevakun.medium.com/view-other-user-private-livestream-data-e30a0acb5972, IDOR
 - https://philippeharewood.com/bulletin-com-email-address-leak/, Information-disclosure
 - https://sankalpa02.medium.com/testing-cookies-worth-500-8fc2310e6d7e, Account-takeover
 - https://portswigger.net/research/finding-dom-polyglot-xss-in-paypal-the-easy-way, DOM-XSS
@@ -2444,12 +2442,10 @@
 - https://blog.khonggianmang.vn/vmware-workstation-attack-surface-through-virtual-printer/, Memory-corruption
 - https://medium.com/bugbountywriteup/fun-with-header-and-forget-password-without-that-nasty-twist-cbf45e5cc8db, HTTP-header-injection
 - https://medium.com/bugbountywriteup/business-logic-flaw-in-google-acquisition-hall-of-fame-1a9af5d3ac04, Logic-flaw
-- https://vulnerable.af/posts/suphp-ghost-in-your-shell/, Local-Privilege-Escalation
 - https://blog.securelayer7.net/unauthenticated-file-upload-vulnerability-on-synology-sub-domain/, Unrestricted-file-upload
 - https://medium.com/bugbountywriteup/how-i-earned-500-from-google-flaw-in-authentication-a40018c05616, Authentication-flaw
 - https://medium.com/@alonnsoandres/25k-instagram-almost-xss-filter-link-facebook-bug-bounty-798b10c13b83, Stored-XSS
 - https://medium.com/@merry6607/how-i-by-pass-the-login-page-and-2fa-authentication-3f33b06838c, Authentication-bypass
-- https://lf.lc/vrp/168987557/, RCE
 - https://medium.com/@Sheshasai/emoji-error-handling-ba11f1bdb8a6, SQL-injection
 - https://muirey03.blogspot.com/2020/09/cve-2020-9964-ios-infoleak.html, iOS
 - https://medium.com/bugbountywriteup/privilege-escalation-via-account-takeover-on-nodebb-forum-software-512-a593a7b1b4a4, IDOR
@@ -2841,7 +2837,6 @@
 - https://medium.com/@navne3t/csrf-csrf-csrf-f203e6452a9c, CSRF
 - https://www.amolbaikar.com/disclose-full-admin-list-of-any-facebook-applications/, IDOR
 - https://techblog.mediaservice.net/2020/01/ok-google-bypass-the-authentication/, Authentication-bypass
-- https://medium.com/@bathinivijaysimhareddy/how-i-takeover-the-companys-linkedin-page-790c9ed2b04d, Broken-link-hijacking
 - https://medium.com/@abhishake100/hyperlink-injection-easy-money-sometimes-cc1104655300, Hyperlink-injection
 - https://medium.com/@naveenroy008/tale-of-a-misconfiguration-in-password-reset-e8fb484a4661, Password-reset
 - https://www.amolbaikar.com/xss-on-facebook-instagram-cdn-server-bypassing-signature-protection/, XSS

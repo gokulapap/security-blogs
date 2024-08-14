@@ -108,3 +108,4 @@
 - https://publish.whoisbinit.me/adding-anyone-including-non-friend-and-blocked-people-as-co-host-in-personal-event
 - https://medium.com/@Sm9l/what-i-learnt-from-reading-220-idor-bug-reports-6efbea44db7
 - https://medium.com/@np20121996/how-was-i-able-to-find-privilege-escalation-b13366b97706
+- https://gevakun.medium.com/view-other-user-private-livestream-data-e30a0acb5972
