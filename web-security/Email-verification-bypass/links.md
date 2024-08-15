@@ -1,3 +1,4 @@
 - https://medium.com/@N0_M3ga_Hacks/a-curious-case-from-little-to-complete-email-verification-bypass-2c7570040e7e
 - https://medium.com/@satboy.fb/a-short-tale-of-account-verification-bypass-22045b38a8b1
 - https://yajdesu.medium.com/bypass-confirmation-to-add-payment-method-df2772a36561
+- https://sagarsajeev.medium.com/an-unusual-tale-of-email-verification-bypass-dcf884d544eb

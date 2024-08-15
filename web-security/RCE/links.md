@@ -123,3 +123,5 @@
 - https://www.zerodayinitiative.com/blog/2022/7/13/cve-2022-30136-microsoft-windows-network-file-system-v4-remote-code-execution-vulnerability
 - https://thinkloveshare.com/hacking/preauth_remote_code_execution_web_page_test/
 - https://lf.lc/vrp/168987557/
+- https://blog.orange.tw/2020/09/how-i-hacked-facebook-again-mobileiron-mdm-rce.html
+- https://github.com/j00sean/CVE-2022-44666

@@ -68,3 +68,4 @@
 - https://medium.com/@rooterkaustubh/the-story-of-blind-ssrf-leads-to-internal-host-discovery-ee65b9b91e23
 - https://blog.viettelcybersecurity.com/tabshell-owassrf/
 - https://blog.sonarsource.com/wordpress-core-unauthenticated-blind-ssrf/
+- https://jinone.github.io/bugbounty-a-simple-ssrf/

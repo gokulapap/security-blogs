@@ -1,0 +1,1 @@
+- https://blog.sonarsource.com/wordpress-object-injection-vulnerability
