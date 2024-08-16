@@ -48,3 +48,4 @@
 - https://weizman.github.io/2023/04/10/snyk-xss/
 - https://paper.seebug.org/737/
 - https://alpinnnnnn13.medium.com/stored-xss-in-app-gitbook-com-6349f42661f7
+- https://medium.com/@reiss.r/writing-my-medium-blog-to-complete-account-takeover-e65d455c16b

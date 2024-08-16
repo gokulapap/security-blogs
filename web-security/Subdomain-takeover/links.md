@@ -29,3 +29,4 @@
 - https://blog.securitybreached.org/2017/10/10/bugcrowds-domain-subdomain-takeover-vulnerability
 - https://web.archive.org/web/20201022195925/https://www.mohamedharon.com/2018/08/Shipttakeover.html
 - https://web.archive.org/web/20210106234354/https://medium.com/bugbountywriteup/subdomain-take-over-worth-100-ce822ed85ba0
+- https://web.archive.org/web/20200822010745/https://whitehatnepal.tumblr.com/post/149985438982/reading-ubers-internal-emails-uber-bug-bounty

@@ -253,7 +253,6 @@
 - https://offsec.almond.consulting/windows-msiexec-eop-cve-2020-0911.html, Local-Privilege-Escalation
 - https://medium.com/@0utlawh4ck3r/story-of-my-first-rce-9d74373fbc11, RCE
 - https://hazemhussien99.wordpress.com/2023/07/05/recon-only-bugs-are-sweet/, Information-disclosure
-- https://www.klogixsecurity.com/scorpion-labs-blog/chaining-for-critical-unauthorized-to-cloud-administrator, SSRF
 - https://basu-banakar.medium.com/exploiting-non-cloud-ssrf-for-more-fun-profit-3597934518c8, SSRF
 - https://mizu.re/post/linux-local-electron-application-script-src-self-bypass#final_bypass, Electron
 - https://blog.assetnote.io/2023/07/04/citrix-sharefile-rce/, RCE
@@ -1187,7 +1186,6 @@
 - https://vsrc.vng.com.vn/blog/liferay-revisited-a-tale-of-20k/, RCE
 - https://ruia-ruia.github.io/2022/08/05/CVE-2022-29582-io-uring/, Memory-corruption
 - https://infosecwriteups.com/how-i-was-able-to-get-29-free-products-bug-bounty-845667ab4ad4, Race-condition
-- https://www.rapid7.com/blog/post/2022/08/05/cve-2022-31660-and-cve-2022-31661-fixed-vmware-workspace-one-access-identity-manager-and-vrealize-automation-lpe/, Local-Privilege-Escalation
 - https://ibraradi.gitbook.io/write-up/came-looking-for-ssrf-and-found-xss, XSS
 - https://albertpedersen.com/blog/hijacking-email-with-cloudflare-email-routing/, HTTP-response-manipulation
 - https://www.adico.me/post/xss-in-gmail-s-amp4email, XSS
@@ -3024,7 +3022,6 @@
 - https://medium.com/@valeriyshevchenko/two-easy-rce-in-atlassian-products-e8480eacdc7f, Credential-stuffing
 - https://blog.evanricafort.com/2019/08/read-other-user-support-tickets-in.html, IDOR
 - https://medium.com/@ronak_9889/privilege-escalation-using-api-endpoint-fce841caaff3, Privilege-escalation
-- https://medium.com/@reiss.r/writing-my-medium-blog-to-complete-account-takeover-e65d455c16b, Stored-XSS
 - https://initblog.com/2019/switcheroo/, SSRF
 - https://medium.com/@protostar0/break-and-bypass-verification-email-ac3359041272, Open-redirect
 - https://medium.com/@protostar0/crlf-injection-allow-cookie-injection-in-root-domain-xss-812cd807ba5b, CRLF-injection
@@ -3034,7 +3031,6 @@
 - https://blog.usejournal.com/how-i-found-xss-by-searching-in-shodan-6943b799e648, Reflected-XSS
 - https://smaranchand.com.np/2019/08/no-rate-limiting-eligible-for-bounty, Lack-of-rate-limiting
 - https://medium.com/@aniltom/https-medium-com-aniltom-from-sub-domain-takeover-to-open-redirect-b5be4906e1a4, Subdomain-takeover
-- https://medium.com/@logicbomb_1/one-misconfig-jira-to-leak-them-all-including-nasa-and-hundreds-of-fortune-500-companies-a70957ef03c7, Information-disclosure
 - https://ysamm.com/?p=291, IDOR
 - https://ysamm.com/?p=321, Internal-path-disclosure
 - https://ysamm.com/?p=314, IDOR
@@ -3791,7 +3787,6 @@
 - https://github.com/cymtrick/lol/blob/d17ed765129b26a1bf8060757e5aebd4e237c908/_posts/2016-09-20-Facebook-partners-CSRF.md, CSRF
 - http://blog.rakeshmane.com/2016/09/bug-bounty-account-takeover.html, OAuth
 - https://web.archive.org/web/20200817171403/https://whitehatnepal.tumblr.com/post/150381068912/how-i-snooped-into-your-private-slack-messages, Subdomain-takeover
-- https://web.archive.org/web/20200822010745/https://whitehatnepal.tumblr.com/post/149985438982/reading-ubers-internal-emails-uber-bug-bounty, Subdomain-takeover
 - https://web.archive.org/web/20200819161533/https://whitehatnepal.tumblr.com/post/149937173467/pornhub-email-confirmation-bypass, Email-verification-bypass
 - https://httpsonly.blogspot.com/2016/08/turning-self-xss-into-good-xss-v2.html, XSS
 - https://thehackerblog.com/floating-domains-taking-over-20k-digitalocean-domains-via-a-lax-domain-import-system/, Subdomain-takeover

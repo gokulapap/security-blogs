@@ -111,3 +111,4 @@
 - http://www.tomanthony.co.uk/blog/google-exploit-steal-login-email-addresses/
 - https://www.cyberick.com/post/what-i-found-on-sony-vulnerability-disclosure-program
 - https://medium.com/@intideceukelaire/this-popular-facebook-app-publicly-exposed-your-data-for-years-12483418eff8
+- https://medium.com/@logicbomb_1/one-misconfig-jira-to-leak-them-all-including-nasa-and-hundreds-of-fortune-500-companies-a70957ef03c7
