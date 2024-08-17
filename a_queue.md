@@ -1584,11 +1584,9 @@
 - https://github.com/httpvoid/writeups/blob/main/Hacking-Google-Drive-Integrations.md, SSRF
 - https://www.offensive-security.com/offsec/microsoft-onedrive-macos-local-privesc/, Local-Privilege-Escalation
 - https://machevalia.blog/blog/stored-cross-site-scripting-in-mediawiki, Stored-XSS
-- https://web.archive.org/web/20221228134225/https://machevalia.blog/access-control-violation-wiki-page-creation/, Authorization-flaw
 - https://medium.com/@abhijeetbiswas_/xss-cross-site-scripting-via-x-forwarded-host-header-20be114d4254, XSS
 - https://bxmbn.medium.com/how-i-made-15-000-by-hacking-caching-servers-part-1-5541712a61c3, Web-cache-poisoning
 - https://lohigowda.medium.com/paytm-broken-link-hijacking-11624e4e9eef, Broken-link-hijacking
-- https://infosecwriteups.com/multiple-http-redirects-to-bypass-ssrf-protections-45c894e5d41c, SSRF
 - https://docs.google.com/document/d/1-TTCS6fS6kvFUkoJmX4Udr-czQ79lSUVXiWsiAED_bs/edit, RCE
 - https://medium.com/@LIL__NIX/the-story-of-a-rce-on-a-java-web-application-2e400cddcd1e, RCE
 - https://sirleeroyjenkins.medium.com/bypassing-ssrf-protection-to-exfiltrate-aws-metadata-from-larksuite-bf99a3599462, SSRF
@@ -1770,7 +1768,6 @@
 - https://irsl.medium.com/the-speckle-umbrella-story-part-2-fcc0193614ea, Information-disclosure
 - https://infosecwriteups.com/how-i-escalated-a-time-based-sql-injection-to-rce-bbf0d68cb398, SQL-injection
 - https://muhammad-aamir.medium.com/exploitation-of-files-download-parameters-to-create-potential-risk-of-malware-delivery-200-bug-e2bcce0e737, CSRF
-- https://lf.lc/vrp/203177829/, RCE
 - https://omespino.com/write-up-google-vrp-n-a-arbitrary-local-file-read-macos-via-a-tag-and-null-byte-in-google-earth-pro-desktop-app/, Local-File-Read
 - https://medium.com/@mehdi.alouache/eset-endpoint-security-credentials-theft-90082dfdf474, Credentials-sent-over-unencrypted-channel
 - https://medium.com/cider-sec/bypassing-required-reviews-using-github-actions-6e1b29135cc7, Privilege-escalation
@@ -2006,7 +2003,6 @@
 - https://infosecwriteups.com/how-i-was-able-to-bypass-parental-pin-of-showmax-e6d6ec3af92d, Authorization-flaw
 - https://vedanttekale20.medium.com/story-of-my-first-cash-bounty-on-hackerone-acad282ae962, SSRF
 - https://batee5a.medium.com/shopify-multipass-misconfiguration-2bc85e92ad1d, Authentication-flaw
-- https://infosecwriteups.com/executing-csrf-with-phone-validation-103c525dd310, CSRF
 - https://bloggerrando.blogspot.com/2021/06/how-many-likes-and-dislikes-that-was.html, Broken-Access-Control
 - https://blog.oversecured.com/Android-Exploring-vulnerabilities-in-WebResourceResponse/, Arbitrary-file-read
 - https://shahjerry33.medium.com/server-side-request-forgery-a-forged-document-6359ef25058d, SSRF
@@ -3405,7 +3401,6 @@
 - https://websecblog.com/vulns/bypassing-firebase-authorization-to-create-custom-goo-gl-subdomains/, Logic-flaw
 - https://medium.com/@jonathanbouman/local-file-inclusion-at-ikea-com-e695ed64d82f, LFI
 - https://mohitdabas.wordpress.com/2018/09/18/bypassing-authentication-using-javascript-debugger/, Authentication-bypass
-- https://web.archive.org/web/20190320205543/https://medium.com/@0ktavandi/how-i-bypassed-akamai-kona-waf-xss-in-overstock-com-f205b0e71a0d, XSS
 - https://randywestergren.com/xss-vulnerabilities-in-multiple-iframe-busters-affecting-top-tier-sites/, XSS
 - https://blog.securitybreached.org/2018/09/16/idor-account-takeover-using-facebook/, IDOR
 - https://web.archive.org/web/20200811013311/https://medium.com/@protector47/persistent-cross-site-scripting-on-redacted-worth-2-000-1e760617ccab, Stored-XSS

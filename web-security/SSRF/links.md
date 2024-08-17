@@ -70,3 +70,4 @@
 - https://blog.sonarsource.com/wordpress-core-unauthenticated-blind-ssrf/
 - https://jinone.github.io/bugbounty-a-simple-ssrf/
 - https://www.klogixsecurity.com/scorpion-labs-blog/chaining-for-critical-unauthorized-to-cloud-administrator
+- https://infosecwriteups.com/multiple-http-redirects-to-bypass-ssrf-protections-45c894e5d41c
