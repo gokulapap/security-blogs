@@ -49,3 +49,4 @@
 - https://paper.seebug.org/737/
 - https://alpinnnnnn13.medium.com/stored-xss-in-app-gitbook-com-6349f42661f7
 - https://medium.com/@reiss.r/writing-my-medium-blog-to-complete-account-takeover-e65d455c16b
+- https://omar0x01.medium.com/cve-2022-42710-a-journey-through-xxe-to-stored-xss-851d74dfe917

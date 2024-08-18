@@ -575,7 +575,6 @@
 - https://medium.com/@snoopy101/web-cache-deception-attack-on-a-private-bug-bounty-program-52872cbdeedc, Web-cache-deception
 - https://snyk.io/blog/gitpod-remote-code-execution-vulnerability-websockets/, RCE
 - https://redshark1802.com/blog/2023/03/01/abusing-hopy-by-hop-header-crlf-injection/, CRLF-injection
-- https://cristivlad.medium.com/exfiltrating-aws-credentials-via-pdf-rendering-of-unsanitized-input-63f39d60d963, SSRF
 - https://blog.doyensec.com/2023/02/28/new-vector-for-dirty-arbitrary-file-write-2-rce.html, Arbitrary-file-write
 - https://www.sonarsource.com/blog/empowering-weak-primitives-file-truncation-to-code-execution-with-git/, Argument-injection
 - https://www.zerodayinitiative.com/blog/2023/2/27/cve-2022-38108-rce-in-solarwinds-network-performance-monitor, Insecure-deserialization
@@ -737,7 +736,6 @@
 - https://krevetk0.medium.com/hacking-hackers-for-fun-and-profit-784e6c7897e8, Self-XSS
 - https://www.vulnano.com/2023/01/meta-quest-attacker-could-make-any.html, IDOR
 - https://ymohagheghi.medium.com/uploading-the-webshell-using-filename-of-content-disposition-header-story-59ba87752311, Unrestricted-file-upload
-- https://engrinside.medium.com/bug-hunting-open-access-to-s3-bucket-79f262a86a78, AWS-misconfiguration
 - https://crypt0g30rgy.github.io/post/SSRFtoDos, SSRF
 - https://crypt0g30rgy.github.io/post/PaymentBypassOne, Payment-bypass
 - https://medium.com/@LogicalHunter/identity-aware-proxy-misconfiguration-google-cloud-vulnerability-813d2a07a4ed, CORS-misconfiguration
@@ -789,7 +787,6 @@
 - https://medium.com/@M0X0101/how-i-was-able-to-steal-users-credentials-via-swagger-ui-dom-xss-e84255eb8c96, DOM-XSS
 - https://infosecwriteups.com/directory-ttraversal-vulnerability-in-huawei-hg255s-products-dce941a1d015, Path-traversal
 - https://0xraminfosec.medium.com/simple-cors-misconfig-leads-to-disclose-the-sensitive-token-worth-of-91433763f4d6, CORS-misconfiguration
-- https://omar0x01.medium.com/cve-2022-42710-a-journey-through-xxe-to-stored-xss-851d74dfe917, Stored-XSS
 - https://infosecwriteups.com/param-hunting-to-injections-4365da5447cf, HTML-injection
 - https://hacksys.io/blogs/foxit-reader-uaf-rce-jit-spraying-cve-2022-28672, Memory-corruption
 - https://salt.security/blog/missing-bricks-finding-security-holes-in-lego-apis, XSS
@@ -1446,11 +1443,9 @@
 - https://haxatron.gitbook.io/vulnerability-research/vr1, Broken-Access-Control
 - https://blog.aquasec.com/npm-supply-chain-attack, Information-disclosure
 - https://tarekbouali.com/posts/how-i-hacked-one-of-the-biggest-airlines-group-of-the-world/, IDOR
-- https://blog.viettelcybersecurity.com/moveit-transfer-cve/, SQL-injection
 - https://kuldeep.io/posts/nosql-injection-in-plain-sight/, NoSQL-injection
 - https://www.trendmicro.com/en_us/research/22/d/macos-suhelper-root-privilege-escalation-vulnerability-a-deep-di.html, Local-Privilege-Escalation
 - https://amit-lt.medium.com/hacked-nokia-with-reflected-cross-site-scripting-vulnerability-327daa8e62fb, Reflected-XSS
-- https://medium.com/stolabs/cloud-ssrf-exploitation-1f256bdc145f, SSRF
 - https://amit-lt.medium.com/hacked-instagram-handle-of-samsung-cb1a35990a90, Broken-link-hijacking
 - https://blog.dbouman.nl/2022/04/02/How-The-Tables-Have-Turned-CVE-2022-1015-1016/, Memory-corruption
 - https://ph-hitachi.medium.com/view-friends-list-of-any-users-using-view-as-facebook-bug-bounty-edeb6af5640b, Logic-flaw
