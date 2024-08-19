@@ -820,7 +820,6 @@
 - https://marvelmaniac.medium.com/the-most-underrated-injection-of-all-time-cypher-injection-fa2018ba0de8, Cypher-injection
 - https://marxchryz.medium.com/url-validation-bypass-using-browser-uri-normalization-cf545d33d13f, URL-validation-bypass
 - https://karmainsecurity.com/KIS-2022-06, Zip-Slip-attack
-- https://blog.dixitaditya.com/manipulating-aes-traffic-using-a-chain-of-proxies-and-hardcoded-keys, Android
 - https://medium.com/@haroonhameed_76621/a-775-worth-of-cookies-reflected-dom-based-xss-bug-bounty-poc-3e7720c78fbe, DOM-XSS
 - https://medium.com/@swapmaurya20/3-step-idor-in-hackerresume-a365f2632996, IDOR
 - https://github.com/Wh04m1001/SysmonEoP, Local-Privilege-Escalation
@@ -1646,7 +1645,6 @@
 - https://infosecwriteups.com/massive-users-account-takeovers-chaining-vulnerabilities-to-idor-ea4e1b6407d2, Authentication-bypass
 - https://medium.com/@mamunwhh/information-disclosure-leads-to-sensitive-credential-35e779f6f4db, Information-disclosure
 - https://janmuhammadzaidi.medium.com/how-i-was-able-to-bypass-waf-and-find-the-origin-ip-and-a-few-sensitive-files-fc445180adb7, WAF-bypass
-- https://www.wiz.io/blog/azure-app-service-source-code-leak, Security-misconfiguration
 - https://medium.com/@yoshimlutfi/how-i-found-p2-broken-authentication-with-zero-skill-of-hacking-c40b5643fe4a, Authentication-bypass
 - https://ssd-disclosure.com/ssd-advisory-rocket-chat-client-side-remote-code-execution/, RCE
 - https://parsiya.net/blog/2021-12-20-rce-in-visual-studio-codes-remote-wsl-for-fun-and-negative-profit/, RCE
@@ -1744,7 +1742,6 @@
 - https://blog.sonarsource.com/gocd-pre-auth-pipeline-takeover, Broken-authentication
 - https://web.archive.org/web/20211216032639/https://xelkomy.medium.com/easy-ssrf-from-wayback-machine-edf946486120, SSRF
 - https://darrenmartyn.ie/2021/10/27/zimbra-zmslapd-local-root-exploit/, Local-Privilege-Escalation
-- https://renganathanofficial.medium.com/an-effective-5-min-recon-leads-to-a-hall-of-fame-ae7f20e5cf1a, Information-disclosure
 - https://darrenmartyn.ie/2021/10/25/zimbra-nginx-local-root-exploit/, Local-Privilege-Escalation
 - https://r0ckinxj3.wordpress.com/2021/10/24/a-7500-google-sites-idor/, IDOR
 - https://gauravnarwani.com/account-takeover-via-improper-input-validation/, OAuth
@@ -1845,7 +1842,6 @@
 - https://wojciechregula.blog/post/play-the-music-and-bypass-tcc-aka-cve-2020-29621/, Privacy-issue
 - https://4bdoz.medium.com/rce-by-code-injection-perl-reverse-shell-a2e90181b10, RCE
 - https://halove23.blogspot.com/2021/09/zdi-21-1053-bypassing-windows-lock.html, Authentication-bypass
-- https://www.synacktiv.com/publications/your-vulnerability-is-in-another-oem.html, Memory-corruption
 - https://marxchryz.medium.com/how-i-found-multiple-xss-in-hidden-legacy-pages-a57a25d8ff1f, XSS
 - https://medium.com/pentesternepal/hacking-dutch-government-for-a-lousy-t-shirt-8e1fd1b56deb, IDOR
 - https://cho0k.com/wp-content/uploads/2021/08/FullPoC.pdf, Privilege-escalation
@@ -2759,7 +2755,6 @@
 - http://carnal0wnage.attackresearch.com/2020/03/what-is-your-gcp-infra-worthabout-700.html, Information-disclosure
 - https://web.archive.org/web/20200511115634/https://medium.com/@godofdarkness.msf/users-email-disclosure-via-invalid-password-reset-link-250-c431ed46680e, Password-reset
 - https://philippeharewood.com/generate-valid-signatures-for-fbcdn-urls/, Logic-flaw
-- https://medium.com/@navne3t/bug-bounty-email-content-injection-544196d59e91, Email-content-injection
 - https://techkranti.com/how-i-reported-a-dos-vulnerability-to-aws/, DoS
 - https://ysamm.com/?p=404, Authorization-flaw
 - https://ysamm.com/?p=396, Lack-of-rate-limiting

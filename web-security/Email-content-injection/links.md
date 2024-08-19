@@ -1,1 +1,2 @@
 - https://akshayravic09yc47.medium.com/improper-input-validation-leads-to-email-spamming-5d1a53b2a579
+- https://medium.com/@navne3t/bug-bounty-email-content-injection-544196d59e91

@@ -1,3 +1,4 @@
 - https://medium.com/@intideceukelaire/hundreds-of-internal-servicedesks-exposed-due-to-covid-19-ecd0baec87bd
 - https://www.alevsk.com/2022/11/system-misconfiguration-is-the-number-one-vulnerability-at-least-for-mastodon/
 - https://medium.com/@damaidec/firebase-exploit-bug-bounty-be63f4dc1e4a
+- https://www.wiz.io/blog/azure-app-service-source-code-leak
