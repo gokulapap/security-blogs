@@ -124,3 +124,5 @@
 - https://starlabs.sg/blog/2022/12-multiple-vulnerabilites-in-proxmox-ve--proxmox-mail-gateway/
 - https://robertchen.cc/blog/2021/04/03/github-pages-xss
 - https://web.archive.org/web/20190320205543/https://medium.com/@0ktavandi/how-i-bypassed-akamai-kona-waf-xss-in-overstock-com-f205b0e71a0d
+- https://www.pethuraj.com/blog/escalating-xss-to-arbitrary-file-read/
+- https://medium.com/@abhijeetbiswas_/xss-cross-site-scripting-via-x-forwarded-host-header-20be114d4254

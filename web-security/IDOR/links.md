@@ -109,3 +109,4 @@
 - https://medium.com/@Sm9l/what-i-learnt-from-reading-220-idor-bug-reports-6efbea44db7
 - https://medium.com/@np20121996/how-was-i-able-to-find-privilege-escalation-b13366b97706
 - https://gevakun.medium.com/view-other-user-private-livestream-data-e30a0acb5972
+- https://medium.com/@shellyshubh/idor-on-unsubscribe-emails-to-200-bounty-ae16fb783b01

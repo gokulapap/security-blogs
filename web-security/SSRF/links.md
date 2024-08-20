@@ -73,3 +73,4 @@
 - https://infosecwriteups.com/multiple-http-redirects-to-bypass-ssrf-protections-45c894e5d41c
 - https://cristivlad.medium.com/exfiltrating-aws-credentials-via-pdf-rendering-of-unsanitized-input-63f39d60d963
 - https://medium.com/stolabs/cloud-ssrf-exploitation-1f256bdc145f
+- https://ngailong.wordpress.com/2019/04/07/old-but-gold-dot-dot-slash-to-get-the-flag-uber-microservice/amp/

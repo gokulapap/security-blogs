@@ -908,7 +908,6 @@
 - https://maordayanofficial.medium.com/comodo-from-git-to-takeover-803ffb8b57e3, git-folder-disclosure
 - https://breakdev.org/zip-motw-bug-analysis/, Local-Privilege-Escalation
 - https://medium.com/@mehdi.alouache/stormshield-sns-cleartext-password-leak-b436ef312fe9, Use-of-GET-request-Method-With-sensitive-query-strings
-- https://medium.com/@shellyshubh/idor-on-unsubscribe-emails-to-200-bounty-ae16fb783b01, IDOR
 - https://0xm5awy.medium.com/exploit-feature-to-get-high-bug-impact-1d3ae6517680, Logic-flaw
 - https://srd.cx/cve-2022-26730/, MacOS
 - https://infosecwriteups.com/story-of-a-1k-bounty-ssrf-d5c4868680f5, SSRF
@@ -1578,7 +1577,6 @@
 - https://github.com/httpvoid/writeups/blob/main/Hacking-Google-Drive-Integrations.md, SSRF
 - https://www.offensive-security.com/offsec/microsoft-onedrive-macos-local-privesc/, Local-Privilege-Escalation
 - https://machevalia.blog/blog/stored-cross-site-scripting-in-mediawiki, Stored-XSS
-- https://medium.com/@abhijeetbiswas_/xss-cross-site-scripting-via-x-forwarded-host-header-20be114d4254, XSS
 - https://bxmbn.medium.com/how-i-made-15-000-by-hacking-caching-servers-part-1-5541712a61c3, Web-cache-poisoning
 - https://lohigowda.medium.com/paytm-broken-link-hijacking-11624e4e9eef, Broken-link-hijacking
 - https://docs.google.com/document/d/1-TTCS6fS6kvFUkoJmX4Udr-czQ79lSUVXiWsiAED_bs/edit, RCE
@@ -1955,7 +1953,6 @@
 - https://github.com/irsl/gcp-dhcp-takeover-code-exec, DHCP-flood
 - https://vovohelo.medium.com/how-i-found-my-first-chrome-bug-cve-2021-21210-248a21272248, NAT-Slipstreaming
 - https://blog.tyage.net/posts/2021-06-27-dependabot-rce/, SSRF
-- https://www.pethuraj.com/blog/escalating-xss-to-arbitrary-file-read/, XSS
 - https://ysamm.com/?p=702, CSRF
 - https://ysamm.com/?p=700, Information-disclosure
 - https://16521092.medium.com/some-ways-to-find-more-idor-da16c93954e5, IDOR
@@ -3152,8 +3149,6 @@
 - https://medium.com/@mrnikhilsri/unauthenticated-account-takeover-through-http-leak-33386bb0ba0b, HTML-injection
 - https://medium.com/@jayateerthag/multiple-xss-in-skype-com-81d65919ed24, XSS
 - https://www.rcesecurity.com/2019/04/dell-kace-k1000-remote-code-execution-the-story-of-bug-k1-18652/, RCE
-- https://ninadmathpati.com/how-i-got-a-trip-to-amsterdam-through-bug-bounty/, Bruteforce
-- https://ngailong.wordpress.com/2019/04/07/old-but-gold-dot-dot-slash-to-get-the-flag-uber-microservice/amp/, SSRF
 - https://medium.com/@jonathanbouman/email-content-spoofing-at-ikea-com-ea76c17605ee, Email-content-spoofing
 - https://medium.com/@rohan_x3/edmodo-idor-to-view-private-files-of-any-class-2280676c84b8, IDOR
 - https://medium.com/@armaanpathan/scary-bug-in-burp-suite-upstream-proxy-allows-hackers-to-hack-hackers-e6fc9a8d60a, MiTM
