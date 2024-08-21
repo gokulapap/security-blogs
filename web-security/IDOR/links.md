@@ -110,3 +110,4 @@
 - https://medium.com/@np20121996/how-was-i-able-to-find-privilege-escalation-b13366b97706
 - https://gevakun.medium.com/view-other-user-private-livestream-data-e30a0acb5972
 - https://medium.com/@shellyshubh/idor-on-unsubscribe-emails-to-200-bounty-ae16fb783b01
+- https://medium.com/@sahruldotid/antihack-idor-on-create-submission-ddb3cf40c26b

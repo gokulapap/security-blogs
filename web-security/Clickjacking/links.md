@@ -12,3 +12,4 @@
 - https://malfind.com/index.php/2018/12/21/how-i-accidentaly-found-clickjacking-in-facebook/
 - https://www.seekurity.com/blog/general/firefox-find-my-device-service-clickjacking/
 - https://www.seekurity.com/blog/write-ups/facebook-clickjacking-how-we-put-a-new-dress-on-facebook-ui/
+- https://santuysec.com/2020/03/06/google-bug-bounty-clickjacking-on-google-payment-1337/

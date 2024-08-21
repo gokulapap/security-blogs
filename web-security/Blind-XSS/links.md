@@ -12,3 +12,4 @@
 - https://sudhanshukashyap123.medium.com/chaining-self-blind-xss-with-broken-access-control-to-make-it-non-self-blind-xss-626a70c8bbc7
 - https://medium.com/@cyberali/blind-xss-and-time-based-sql-injection-to-admin-panel-control-and-database-takeover-9b7645a53748
 - https://medium.com/@masonhck357/chains-on-chains-chaining-multiple-low-level-vulns-into-a-critical-8b88db29738e
+- https://blog.saycure.io/2019/01/24/antihack-xss-2-php-upload/
