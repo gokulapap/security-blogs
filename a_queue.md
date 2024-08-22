@@ -55,7 +55,6 @@
 - https://medium.com/@thanhdatt/bypass-authentication-1bfab09332fe, bypass
 - https://medium.com/@ananyaghosh1120/beginners-guide-to-automated-scanners-8ec880446421, automation
 - https://medium.com/@hunter-55/how-i-was-able-to-bypass-open-redirect-3-times-on-same-program-d78f9d2443f6, open-redirection
-- https://medium.com/@gtm0x01/two-factor-authentication-bypass-on-facebook-3f4ac3ea139c, bypass
 - https://medium.com/@ibm_ptc_security/exploiting-missing-hsts-54f8e23ed80b, misc
 - https://medium.com/@manavbankatwala29/unique-rate-limit-bypass-worth-1800-6e2947c7d972, bypass
 - https://medium.com/@dPhoeniixx/tiktok-for-android-1-click-rce-240266e78105, RCE
@@ -1601,7 +1600,6 @@
 - https://medium.com/@robert0/how-i-found-broken-access-control-through-out-of-sync-setup-and-got-1000-9143fc5febdd, Broken-Access-Control
 - https://0xkasper.com/articles/moodle-sql-injection-broken-access-control.html, SQL-injection
 - https://hulkvision.github.io/blog/post1/, RCE
-- https://medium.com/@frycos/searching-for-deserialization-protection-bypasses-in-microsoft-exchange-cve-2022-21969-bfa38f63a62d, Insecure-deserialization
 - https://www.bitcrack.net/pwning-the-portal-from-database-dump-to-session-hijacking/, SQL-injection
 - https://www.cyberark.com/resources/threat-research-blog/attacking-rdp-from-inside, RCE
 - https://sa1tama0.medium.com/cross-origin-resource-sharing-cors-misconfiguration-leads-to-users-pii-leaks-b31fd3246e64, CORS-misconfiguration
@@ -1812,7 +1810,6 @@
 - https://medium.com/@soufianehabti/this-is-why-you-shouldnt-trust-your-federated-identity-provider-62160f50d8b2, OAuth
 - https://asterfiester.medium.com/how-i-was-able-to-send-sms-from-google-to-anyone-google-vulnerability-3277ea0cc9d1, Content-spoofing
 - https://s3c.medium.com/how-i-hacked-world-wide-tiktok-users-24e794d310d2, IDOR
-- https://infosecwriteups.com/10-golden-minutes-for-taking-over-a-chess-com-account-56e73f7c5f0d, Lack-of-rate-limiting
 - https://www.netspi.com/blog/technical/cloud-penetration-testing/escalating-azure-privileges-with-the-log-analystics-contributor-role/, Logic-flaw
 - https://asterfiester.medium.com/3133-70-google-dialogflow-idor-vulnerability-7a72771678dd, IDOR
 - https://infosecwriteups.com/exposing-millions-of-irctc-passengers-ticket-details-53338280fb9e, IDOR
@@ -2588,7 +2585,6 @@
 - https://alaa.blog/2020/06/how-did-i-found-information-disclosure-on-facebook-writeup/, Information-disclosure
 - https://samcurry.net/hacking-starbucks/, Path-traversal
 - http://www.firstsight.me/2020/06/from-recon-to-bypassing-mfa-implementation-in-owa-by-using-ews-misconfiguration/, Information-disclosure
-- https://medium.com/@aseem.shrey/one-token-to-leak-them-all-the-story-of-a-8000-npm-token-79b13af182a3, Information-disclosure
 - https://web.archive.org/web/20200814031536/https://medium.com/@saugatpokharel/replying-on-livestream-leading-to-page-admin-disclosure-facebook-bug-bounty-b24792a19638, Information-disclosure
 - https://tylerbutler.io/hackerone-hinge/, Information-disclosure
 - https://www.rtcsec.com/2020/06/03-bug-bounty-bout-0x01-webrtc-edition/, Outdated-component-with-a-known-vulnerability
@@ -3503,7 +3499,6 @@
 - https://twitter.com/0x01alka/status/1001763583447969792, Path-traversal
 - https://blog.witcoat.com/2018/05/30/account-takeover-and-blind-xss-go-pro-get-bugs/, IDOR
 - https://medium.com/@emenalf/how-i-got-hall-of-fame-in-two-fortune-500-companies-an-rce-story-9c89cead81ff, RCE
-- http://cybristerboy.blogspot.com/2018/05/how-i-was-able-to-get-admin-panel-on.html, Weak-credentials
 - https://andresriancho.com/recaptcha-bypass-via-http-parameter-pollution, Captcha-bypass
 - https://poc-server.com/blog/2018/05/22/rce-by-uploading-a-web-config, RCE
 - https://medium.com/ymedialabs-innovation/an-aws-managed-policy-that-allowed-granting-root-admin-access-to-any-role-51b409ea7ff0, Authorization-flaw

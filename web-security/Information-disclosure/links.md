@@ -113,3 +113,4 @@
 - https://medium.com/@intideceukelaire/this-popular-facebook-app-publicly-exposed-your-data-for-years-12483418eff8
 - https://medium.com/@logicbomb_1/one-misconfig-jira-to-leak-them-all-including-nasa-and-hundreds-of-fortune-500-companies-a70957ef03c7
 - https://renganathanofficial.medium.com/an-effective-5-min-recon-leads-to-a-hall-of-fame-ae7f20e5cf1a
+- https://medium.com/@aseem.shrey/one-token-to-leak-them-all-the-story-of-a-8000-npm-token-79b13af182a3

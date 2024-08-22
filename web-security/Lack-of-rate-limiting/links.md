@@ -3,3 +3,4 @@
 - https://infosecwriteups.com/unlimited-report-user-in-instagram-facebook-leads-to-abuse-risk-efcca325aada
 - https://medium.com/@shahjerry33/no-rate-limit-2k-bounty-642720ffba99
 - https://medium.com/@balook/android-pin-bypass-with-rate-limiting-a3f5dd811715
+- https://infosecwriteups.com/10-golden-minutes-for-taking-over-a-chess-com-account-56e73f7c5f0d
