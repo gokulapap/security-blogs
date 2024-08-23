@@ -9,3 +9,4 @@
 - https://medium.com/@addictrao20/fixed-brute-force-instagram-accounts-passwords-938471b6e9d4
 - https://medium.com/@dortz/how-did-i-bypass-a-custom-brute-force-protection-and-why-that-solution-is-not-a-good-idea-4bec705004f9
 - https://ninadmathpati.com/how-i-got-a-trip-to-amsterdam-through-bug-bounty/
+- https://blog.prodefense.io/sorting-your-way-to-stolen-passwords-43ff5cfeeabd

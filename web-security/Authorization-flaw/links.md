@@ -55,3 +55,5 @@
 - https://philippeharewood.com/get-page-inbox-notifications-for-any-facebook-page/
 - https://medium.com/@raushanraj_65039/facebook-bug-bounty-reports-1c1b8b55c050
 - https://web.archive.org/web/20221228134225/https://machevalia.blog/access-control-violation-wiki-page-creation/
+- https://philippeharewood.com/facebook-business-takeover/
+- https://securifyinc.com/disclosures/rocketchat-unauthenticated-access-to-messages

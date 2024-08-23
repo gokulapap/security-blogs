@@ -391,7 +391,6 @@
 - https://www.elttam.com/blog/pwnassistant/, Authentication-bypass
 - https://www.synopsys.com/blogs/software-security/a-deep-dive-on-pluck-cms-vulnerability-cve-2023-25828/, Unrestricted-file-upload
 - https://pwn.win/2023/05/08/parallels-escape.html, Local-Privilege-Escalation
-- https://blog.prodefense.io/sorting-your-way-to-stolen-passwords-43ff5cfeeabd, Bruteforce
 - http://blog.evanricafort.com/2023/05/ipv6-dns-takeover-via-mitm6-write-up.html, MiTM
 - https://medium.com/@ar_hawk/how-a-simple-directory-listing-leads-to-pii-data-leakage-remote-code-execution-and-many-more-104b09e644f4, RCE
 - https://medium.com/@mohammed01550038865/how-i-discovred-xss-via-url-encode-3-times-86ccd5354081, XSS
@@ -1554,7 +1553,6 @@
 - https://www.zerodayinitiative.com/blog/2022/2/10/mindshare-when-mysql-cluster-encounters-taint-analysis, Memory-corruption
 - https://medium.com/@harishhacker3010/how-i-hacked-google-to-read-files-from-their-servers-for-free-e0486a674912, Arbitrary-file-read
 - https://onapsis.com/threat-report/icmad-sap-vulnerabilities, HTTP-request-smuggling
-- https://tech-blog.cymetrics.io/en/posts/huli/how-i-hacked-glints-and-your-resume-en/, IDOR
 - https://bloggerrando.blogspot.com/2022/02/how-can-i-access-members-only-video.html, Broken-Access-Control
 - https://wwws.nightwatchcybersecurity.com/2022/02/06/insecure-bootstrap-process-in-oracle-cloud-cli/, Supply-chain-attack
 - https://feed.bugs.xdavidhu.me/bugs/0013, Authentication-bypass
@@ -2159,7 +2157,6 @@
 - https://infosecwriteups.com/the-invincible-kid-7ac1ce2887c0, Logic-flaw
 - https://www.rafaybaloch.com/2021/02/Microsoft-Edge-Browser-For-IOS-Address-Bar-Spoofing-Vulnerability.html, Address-Bar-Spoofing
 - https://lf.lc/vrp/181521559a/, Container-escape
-- https://securifyinc.com/disclosures/rocketchat-unauthenticated-access-to-messages, Authorization-flaw
 - https://zonduu.medium.com/ssrf-to-fetch-aws-credentials-with-full-access-to-various-services-18cd08194e91, SSRF
 - https://www.bugcrowd.com/blog/big-bugs-cve-2020-28914/, RCE
 - https://medium.com/@ratnadip1998/admin-panel-accessed-via-sql-injection-ezy-boooom-57dc60c2815f, SQL-injection
@@ -2271,7 +2268,6 @@
 - https://emanuel-beni.medium.com/stored-xss-on-product-description-high-400-2f078fd70fd2, Stored-XSS
 - https://medium.com/bugbountywriteup/finding-bugs-on-chess-com-739a71fbdb31, Lack-of-rate-limiting
 - https://njbooher.github.io/blog/cloudflare-workers-ip-spoofing, WAF-bypass
-- https://www.shawarkhan.com/2021/01/achieve-remote-code-execution-by.html, RCE
 - https://tmosh.medium.com/incident-response-during-christmas-33c7fabb1429, Subdomain-takeover
 - https://akshartank.medium.com/each-and-every-request-make-sense-4572b3205382, Privilege-escalation
 - https://savebreach.com/facebook-page-admin-identity-disclosure-through-document-edit-history/, Information-disclosure
@@ -3351,7 +3347,6 @@
 - https://leucosite.com/Microsoft-Edge-RCE/, RCE
 - https://medium.com/@yassergersy/access-to-staging-environment-via-user-agent-string-23470546577f, Authentication-bypass
 - https://pratikyadav0.blogspot.com/2018/10/hello-everyone-took-some-time-from-my.html, Payment-bypass
-- https://philippeharewood.com/facebook-business-takeover/, Authorization-flaw
 - https://jonbottarini.com/2018/10/09/get-as-image-function-pulls-any-insights-nrql-data-from-any-new-relic-account-idor/, IDOR
 - https://medium.com/bugbountywriteup/make-any-unit-in-facebook-groups-undeletable-efb68e26adb9, Logic-flaw
 - https://medium.com/@jonathanbouman/persistent-xss-unvalidated-open-graph-embed-at-linkedin-com-db6188acedd9, Stored-XSS
