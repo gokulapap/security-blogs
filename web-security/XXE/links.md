@@ -10,3 +10,4 @@
 - https://ssd-disclosure.com/ssd-advisory-exchange-server-getwacinfo-information-disclosure-vulnerability/
 - https://lab.wallarm.com/critical-linkedin-vulnerability-proactively-resolved-by-wallarm-xxe-in-application-server-239bba28e415
 - https://hateshape.github.io/general/2018/07/05/CVE-2016-3473.html
+- https://medium.com/@mrnikhilsri/soap-based-unauthenticated-out-of-band-xml-external-entity-oob-xxe-in-a-help-desk-software-c27a6abf182a

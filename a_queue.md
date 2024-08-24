@@ -1421,7 +1421,6 @@
 - https://firefart.at/post/multiple_vulnerabilities_cisco_expressway/, Memory-leak
 - https://debprasadbanerjee502.medium.com/united-nations-bug-bounty-writeup-4bcfdefbb8d3, Information-disclosure
 - https://www.netspi.com/blog/technical/cloud-penetration-testing/abusing-azure-hybrid-workers-part-2/, Privilege-escalation
-- https://infosecwriteups.com/bypass-rate-limit-a-blank-space-leads-to-this-random-encounter-e18e72fbf228, Password-reset
 - https://medium.com/@anjaneyulukanakatla1996/my-first-bug-in-hackerone-a68cf7b05510, Information-disclosure
 - https://medium.com/@_ip_/2-3-xss-through-the-front-door-gitlab-fc4b6799e743, XSS
 - https://rhinosecuritylabs.com/aws/cve-2022-25165-aws-vpn-client/, Local-Privilege-Escalation
@@ -2387,7 +2386,6 @@
 - https://blog.dixitaditya.com/leveraging-xss-to-read-internal-files/, XSS
 - https://medium.com/@parasarora06/cve-2018-5230-jira-cross-site-scripting-59ec96b3d75f, Reflected-XSS
 - https://medium.com/@sechunter/ato-via-host-header-poisoning-dc5c29d2fd0d, Host-header-injection
-- https://www.intezer.com/blog/cloud-security/kud-i-enter-your-server-new-vulnerabilities-in-microsoft-azure/, Privilege-escalation
 - https://samcurry.net/hacking-apple/, RCE
 - https://servicenger.com/blog/mobile/sve-2020-18025-unauthorised-access-to-samsung-secure-folder-files/, Authorization-flaw
 - http://www.missoumsai.com/google-csrfs.html, CSRF
@@ -2681,7 +2679,6 @@
 - https://ysamm.com/?p=444, Information-disclosure
 - https://blog.sambal0x.com/2020/04/30/Hacking-razer-pay-ewallet-app.html, IDOR
 - https://medium.com/sud0root/bug-bounty-writeups-exploiting-sql-injection-vulnerability-20b019553716, SQL-injection
-- https://medium.com/@kishorehariram/account-taken-over-in-style-8a547342a5ad, Logic-flaw
 - https://hethical.io/stealing-the-trello-token-by-abusing-a-cross-iframe-xss-on-the-butler-plugin/, XSS
 - https://medium.com/@hbothra22/recon-to-sensitive-information-disclosure-in-minutes-503fc7ccdf0b, Information-disclosure
 - https://medium.com/@d0nut/piercing-the-veal-short-stories-to-read-with-friends-4aa86d606fc5, SSRF
@@ -2823,7 +2820,6 @@
 - https://medium.com/@jonathan.leitschuh/update-want-to-take-over-the-java-ecosystem-all-you-need-is-a-mitm-d069d253fe23, MiTM
 - https://medium.com/nassec-cybersecurity-writeups/an-interesting-story-of-privilege-escalation-1da021e7fd0, Privilege-escalation
 - https://xvnpw.github.io/posts/from-dot-in-regex-to-ssrf-part-1/, SSRF
-- https://keenlab.tencent.com/en/2020/01/02/exploiting-wifi-stack-on-tesla-model-s/, Wifi-hacking
 - https://markus-krell.de/admin-capabilities-around-your-ears/, Local-Privilege-Escalation
 - https://footstep.ninja/posts/idor-via-http/, IDOR
 - https://medium.com/sourav-sahana/from-post-to-get-open-redirect-e91f4f4206a, Open-redirect
@@ -3332,7 +3328,6 @@
 - https://medium.com/@Skylinearafat/how-misconfigured-api-leaked-user-private-information-e3e8c13e52e4, IDOR
 - https://medium.com/@prial261/subdomain-takeover-dew-to-missconfigured-project-settings-for-custom-domain-46e90e702969, Subdomain-takeover
 - https://medium.com/@kankrale.rahul/dos-on-facebook-android-app-using-65530-characters-of-zero-width-no-break-space-db41ca8ded89, DoS
-- https://medium.com/@mrnikhilsri/soap-based-unauthenticated-out-of-band-xml-external-entity-oob-xxe-in-a-help-desk-software-c27a6abf182a, XXE
 - https://medium.com/@egeken/facebook-hidden-redirection-vulnerability-aeaaac0b9d73, Open-redirect
 - https://medium.com/@ariffadhlullah2310/xss-deface-with-html-and-how-to-convert-the-html-into-charcode-f0c62dd5ef3f, XSS
 - https://medium.com/@raushanraj_65039/google-sites-and-exploiting-same-origin-policy-d400bf569964, SOP-bypass

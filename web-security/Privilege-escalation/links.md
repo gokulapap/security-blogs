@@ -20,3 +20,4 @@
 - https://www.securesystems.de/blog/privilege-escalation-in-aks-clusters/
 - https://sec-consult.com/blog/detail/securing-databricks-cluster-init-scripts/
 - https://www.legitsecurity.com/blog/github-privilege-escalation-vulnerability
+- https://www.intezer.com/blog/cloud-security/kud-i-enter-your-server-new-vulnerabilities-in-microsoft-azure/
