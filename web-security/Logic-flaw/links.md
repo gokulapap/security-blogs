@@ -75,3 +75,4 @@
 - https://medium.com/@sudipshah_66336/my-2nd-4digit-bug-bounty-from-facebook-99baa727ed02
 - https://www.pantaprakash.com.np/posts/categories/bugbounty-writeup/2.html
 - https://medium.com/@kishorehariram/account-taken-over-in-style-8a547342a5ad
+- https://opsecx.com/index.php/2018/09/07/bypassing-hotstar-premium-with-dom-manipulation-and-some-javascript/

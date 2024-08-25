@@ -114,3 +114,4 @@
 - https://medium.com/@logicbomb_1/one-misconfig-jira-to-leak-them-all-including-nasa-and-hundreds-of-fortune-500-companies-a70957ef03c7
 - https://renganathanofficial.medium.com/an-effective-5-min-recon-leads-to-a-hall-of-fame-ae7f20e5cf1a
 - https://medium.com/@aseem.shrey/one-token-to-leak-them-all-the-story-of-a-8000-npm-token-79b13af182a3
+- https://medium.com/bugbountywriteup/senstive-information-disclose-lead-to-join-any-organisation-40ab549011

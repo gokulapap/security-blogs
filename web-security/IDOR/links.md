@@ -112,3 +112,4 @@
 - https://medium.com/@shellyshubh/idor-on-unsubscribe-emails-to-200-bounty-ae16fb783b01
 - https://medium.com/@sahruldotid/antihack-idor-on-create-submission-ddb3cf40c26b
 - https://tech-blog.cymetrics.io/en/posts/huli/how-i-hacked-glints-and-your-resume-en/
+- http://www.kamilonurozkaleli.com/posts/starbucks-singapore-account-takeover/

@@ -344,7 +344,6 @@
 - https://medium.com/@gokulsspace/the-30000-bounty-affair-3f025ee6b834, RCE
 - https://medium.com/@ibederov_en/find-out-the-ip-address-through-a-call-to-telegram-a899441b1bac, Privacy-issue
 - https://medium.com/@ar_hawk/utilizing-historical-urls-of-an-organization-to-successfully-execute-sql-queries-blind-sqli-3526d9c3863d, Blind-SQL-injection
-- https://occamsec.com/exploit-for-cve-2023-2825/, Path-traversal
 - https://www.zerodayinitiative.com/blog/2023/5/24/exploiting-the-sonos-one-speaker-three-different-ways-a-pwn2own-toronto-highlight, Memory-corruption
 - https://checkmarx.com/blog/ericsson-sensitive-data-exposure-via-trace-axd/, Information-disclosure
 - https://medium.com/@A0g/xss-via-qr-code-8022a1a0309f, XSS
@@ -938,7 +937,6 @@
 - https://bpandasec.medium.com/client-side-desync-attack-cl-0-request-smuggling-bounty-of-150-327d3aeaeea6, HTTP-Request-Smuggling
 - https://rambo.codes/posts/2022-10-25-sirispy-ios-bug-allowed-apps-to-eavesdrop, iOS
 - https://checkmarx.com/blog/attacking-the-software-supply-chain-with-a-simple-rename/, Repojacking
-- https://ssd-disclosure.com/ssd-advisory-galaxy-store-applications-installation-launching-without-user-interaction/, XSS
 - https://medium.com/@raymond-lind/stored-xss-to-cookie-exfiltration-2cbca6a8c7f0, Stored-XSS
 - https://boschko.ca/glinet-router/, OS-command-injection
 - https://starlabs.sg/blog/2022/10-sharepoint-post-authenticated-ssrf-vulnerability/, SSRF
@@ -2389,7 +2387,6 @@
 - https://samcurry.net/hacking-apple/, RCE
 - https://servicenger.com/blog/mobile/sve-2020-18025-unauthorised-access-to-samsung-secure-folder-files/, Authorization-flaw
 - http://www.missoumsai.com/google-csrfs.html, CSRF
-- http://www.kamilonurozkaleli.com/posts/starbucks-singapore-account-takeover/, IDOR
 - https://praseudo.com/sensitive-info-leak-in-curve-app-bug-bounty/, Information-disclosure
 - https://www.mcafee.com/blogs/other-blogs/mcafee-labs/our-experiences-participating-in-microsofts-azure-sphere-bounty-program/, Local-privilege-escalation
 - https://blog.talosintelligence.com/2020/10/Azure-Sphere-Challenge.html, Local-privilege-escalation
@@ -3386,7 +3383,6 @@
 - https://www.hackerinside.me/2018/09/stored-xss-vulnerability-in-tumblr.html, Stored-XSS
 - https://websecblog.com/vulns/reflected-xss-in-google-code-jam/, Reflected-XSS
 - https://blog.securitybreached.org/2018/09/08/sqli-bootcampnutanix-com-bug-bounty-poc/, SQL-injection
-- https://opsecx.com/index.php/2018/09/07/bypassing-hotstar-premium-with-dom-manipulation-and-some-javascript/, Logic-flaw
 - https://blog.securitybreached.org/2018/09/07/rce-jenkins-instance-dosomething-org-bug-bounty-poc/, RCE
 - http://omespino.com/write-up-lovestory-from-closed-as-informative-to-xx00-usd-in-yahoo-ios-mail-app/, Stored-XSS
 - https://medium.com/@ciph3r7r0ll/simple-login-brute-force-current-password-requirement-bypass-e8f58931e257, IDOR
@@ -3618,7 +3614,6 @@
 - https://medium.com/@tungpun/from-ssrf-to-local-file-disclosure-58962cdc589f, SSRF
 - https://web.archive.org/web/20200819161548/https://medium.com/@adeshkolte/non-persistent-xss-at-microsoft-adesh-kolte-ad36b1b4a325, Reflected-XSS
 - https://blog.securitybreached.org/2017/11/04/access-localhost-via-virtual-host-virtual-host-enumeration/, vHost-misconfiguration
-- https://medium.com/bugbountywriteup/senstive-information-disclose-lead-to-join-any-organisation-40ab549011, Information-disclosure
 - https://ysx.me.uk/app-maker-and-colaboratory-a-stored-google-xss-double-bill/, Stored-XSS
 - https://medium.freecodecamp.org/messing-with-the-google-buganizer-system-for-15-600-in-bounties-58f86cc9f9a5, Logic-flaw
 - https://blog.intothesymmetry.com/2017/10/slack-saml-authentication-bypass.html, Authentication-bypass

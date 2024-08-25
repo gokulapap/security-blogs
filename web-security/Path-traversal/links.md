@@ -19,3 +19,4 @@
 - https://blog.impalabs.com/2303_advisory_parallels-desktop_toolgate.html
 - https://zoidsec.medium.com/how-i-hacked-a-crypto-company-and-could-steal-1-million-dollars-worth-of-bitcoin-3174434b382c
 - https://www.trellix.com/en-us/about/newsroom/stories/threat-labs/tarfile-exploiting-the-world.html
+- https://occamsec.com/exploit-for-cve-2023-2825/
