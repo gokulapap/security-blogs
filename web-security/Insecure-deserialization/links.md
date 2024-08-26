@@ -16,3 +16,4 @@
 - https://devcraft.io/2021/01/07/universal-deserialisation-gadget-for-ruby-2-x-3-x.html
 - https://github.com/pedrib/PoC/blob/master/advisories/Cisco/DCNMPwn.md
 - https://medium.com/@frycos/searching-for-deserialization-protection-bypasses-in-microsoft-exchange-cve-2022-21969-bfa38f63a62d
+- https://www.synacktiv.com/sites/default/files/2022-11/h2o_multiple_vulnerabilities.pdf

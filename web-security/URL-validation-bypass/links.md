@@ -1,2 +1,3 @@
 - https://ndevtk.github.io/writeups/2023/06/11/googlesource/
 - https://huntingreads.com/abusing-uri-parsers-for-fun-and-profit/
+- https://zerocode-ph.medium.com/bypassing-link-sharing-protection-in-messenger-kids-parents-control-feature-meta-bug-bounty-e53f2d148bd9

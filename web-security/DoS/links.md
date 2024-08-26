@@ -16,3 +16,4 @@
 - https://daniel.haxx.se/blog/2022/09/05/a-bug-that-was-23-years-old-or-not/
 - https://gatolouco.medium.com/cookie-poisoning-leads-to-dos-and-privacy-violation-8aa773547c96
 - https://doyensec.com/resources/Doyensec_Advisory_TypeORM_Q32022.pdf
+- https://www.varonis.com/blog/the-logging-dead-two-windows-event-log-vulnerabilities

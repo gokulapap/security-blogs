@@ -35,3 +35,4 @@
 - https://medium.com/@albeckshahar/jumping-over-the-fence-ce0fe5f9a3a2
 - https://medium.com/@0xHyde/exploiting-history-back-3ec789c124dd
 - https://blog.scrt.ch/2021/02/25/stealing-user-passwords-through-a-vpns-sso/
+- https://web.archive.org/web/20200904145527/https://medium.com/@protector47/how-i-find-open-redirect-vulnerability-in-redacted-com-one-of-the-top-payment-gateway-e9b92afdc114

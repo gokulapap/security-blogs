@@ -160,7 +160,6 @@
 - https://medium.com/@niraj1mahajan/a-hackers-tale-finding-10x-cves-in-wordpress-plugins-30f86bacf2c8, journey
 - https://medium.com/@ethicalkaps/behind-the-scene-http-parameter-pollution-534b4fa2449c, parameter
 - https://medium.com/@sudarshan-s/sql-injection-important-things-you-need-to-know-right-now-b173cdea0610, sql-injection
-- https://medium.com/@mrnikhilsri/xxe-in-public-transport-ticketing-mobile-app-81ae245c01a1, XXE
 - https://medium.com/@uttamgupta_/what-after-recon-bbaf43dbcb68, recon
 - https://medium.com/@jaadugar/sensitive-data-exposure-my-first-bug-in-h1-d4006a08d38f, info-disclosure
 - https://medium.com/@caesarevan23/the-journey-to-get-sql-injection-at-bluepay-blue-indonesia-bluepay-2019-7a23bbce4cb8, journey
@@ -435,7 +434,6 @@
 - https://www.anvilsecure.com/blog/compromising-garmins-sport-watches-a-deep-dive-into-garminos-and-its-monkeyc-virtual-machine.html, IoT
 - https://infosecwriteups.com/xs-leak-deanonymize-microsoft-skype-users-by-any-3rd-party-website-69849e4501a8, XSLeaks
 - https://jhftss.github.io/CVE-2023-23525-Get-Root-via-A-Fake-Installer/, Local-Privilege-Escalation
-- https://zerocode-ph.medium.com/bypassing-link-sharing-protection-in-messenger-kids-parents-control-feature-meta-bug-bounty-e53f2d148bd9, URL-validation-bypass
 - https://blog.thalium.re/posts/fuzzing-samsung-system-services/, Android
 - https://medium.com/bugbountywriteup/uncovering-a-critical-vulnerability-my-journey-of-discovering-cve-2021-31589-a-reflected-xss-in-1e13c0aa41b0, Components-with-known-vulnerabilities
 - https://medium.com/@snoopy101/how-i-hacked-hackers-in-voorivex-hunt-event-9c572ce0005f, Cloudflare-bypass
@@ -852,7 +850,6 @@
 - https://rashahacks.com/directory-enumeration-guide/, 40x-bypass
 - https://letshack.xyz/offensive/web-application/legally-hacking-a-government-satellite, Missing-authentication
 - https://www.contrastsecurity.com/security-influencers/localhost-attack-against-quarkus-developers-contrast-security, Drive-by-attack
-- https://www.synacktiv.com/sites/default/files/2022-11/h2o_multiple_vulnerabilities.pdf, Insecure-deserialization
 - https://www.rcesecurity.com/2022/11/from-zero-to-hero-part-1-bypassing-intel-dcms-authentication-cve-2022-33942/, Authentication-bypass
 - https://saligrama.io/blog/post/dodging-oauth-origin-restrictions/, OAuth
 - https://www.zerodayinitiative.com/blog/2022/11/22/cve-2022-40300-sql-injection-in-manageengine-privileged-access-management, SQL-injection
@@ -943,7 +940,6 @@
 - https://web.archive.org/web/20221025185418/https://bergee.it/blog/chaining-multiple-vulnerabilities-for-credential-stealing/, CSRF
 - https://mechboy.medium.com/support-supports-a-hacker-be9931104923, Social-engineering
 - https://srcincite.io/blog/2022/10/25/eat-what-you-kill-pre-authenticated-rce-in-vmware-nsx-manager.html, RCE
-- https://www.varonis.com/blog/the-logging-dead-two-windows-event-log-vulnerabilities, DoS
 - https://hamzadzworm.medium.com/5000-for-apple-stored-xss-and-another-blind-xss-still-under-review-e9f6f5a76eb1, Blind-XSS
 - https://medium.com/@raymond-lind/how-i-found-a-simple-stored-xss-9a6b1c5e0afa, Stored-XSS
 - https://bishopfox.com/blog/jira-align-advisory, SSRF
@@ -3379,7 +3375,6 @@
 - https://www.rafaybaloch.com/2018/09/apple-safari-microsoft-edge-browser.html, Address-Bar-Spoofing
 - https://www.hackerinside.me/2018/09/stored-xss-vulnerability-in-h1c-private.html, Stored-XSS
 - https://blog.securitybreached.org/2018/09/09/zol-zimbabwe-authbypass-sqli-xss/, XSS
-- https://web.archive.org/web/20200904145527/https://medium.com/@protector47/how-i-find-open-redirect-vulnerability-in-redacted-com-one-of-the-top-payment-gateway-e9b92afdc114, Open-redirect
 - https://www.hackerinside.me/2018/09/stored-xss-vulnerability-in-tumblr.html, Stored-XSS
 - https://websecblog.com/vulns/reflected-xss-in-google-code-jam/, Reflected-XSS
 - https://blog.securitybreached.org/2018/09/08/sqli-bootcampnutanix-com-bug-bounty-poc/, SQL-injection
