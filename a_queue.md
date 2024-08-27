@@ -107,7 +107,6 @@
 - https://medium.com/@popalltheshells/domain-admin-compromise-in-3-hours-5778902604c9, misc
 - https://medium.com/@sivasimha/unrestricted-file-upload-cloud-fare-bypass-12867b65de3a, file-upload
 - https://medium.com/@adamjsturge/mx-takeovers-automated-subdomain-takeover-64e658fc4fb7, automation
-- https://medium.com/@deepamkumar510/parameter-tampering-842ef9355943, parameter
 - https://medium.com/@pingsec/interesting-account-takeover-bugs-619df8466ca0, ATO
 - https://medium.com/@vickieli/are-csrfs-still-a-thing-7e16c09c951a, csrf
 - https://medium.com/@rohit443/idor-on-password-change-to-full-account-takeover-4d96b9f7f9f0, IDOR
@@ -404,7 +403,6 @@
 - https://sumedh00.medium.com/accessing-admin-dashboard-in-5-seconds-acee737eacfb, Default-credentials
 - https://blog.onsec.io/when-youre-so-bored-you-start-debugging-someone-elses-code/, SSTI
 - https://www.revblock.dev/exploiting-misconfigured-google-cloud-service-accounts-from-github-actions/, OpenID-Connect
-- https://aidilarf.medium.com/how-do-i-bypass-payment-when-a-subscription-ends-so-i-dont-have-to-pay-for-my-subscription-3889ab3f7484, Payment-bypass
 - https://www.zerodayinitiative.com/blog/2023/5/1/cve-2023-28231-rce-in-the-microsoft-windows-dhcpv6-service, RCE
 - https://ssd-disclosure.com/ssd-advisory-keriocontrol-remote-code-execution/, RCE
 - https://www.cloudquery.io/blog/aws-priv-esc-identity-center, Privilege-escalation
@@ -1325,7 +1323,6 @@
 - https://www.zerodayinitiative.com/blog/2022/6/7/cve-2022-26937-microsoft-windows-network-file-system-nlm-portmap-stack-buffer-overflow, Buffer-Overflow
 - https://security.humanativaspa.it/multiple-vulnerabilities-in-zyxel-zysh/, OS-command-injection
 - https://machevalia.blog/blog/ivanti-epm-remote-code-execution, RCE
-- https://medium.com/@shakti.gtp/if-its-a-feature-let-s-abuse-it-for-750-19cfb9848d4b, CSRF
 - https://www.zerodayinitiative.com/blog/2022/6/1/is-exploiting-a-null-pointer-deref-for-lpe-just-a-pipe-dream, Memory-corruption
 - https://medium.com/@ratnadip1998/how-i-mass-hunt-for-admin-panel-access-8c2ad145054, Default-credentials
 - https://hencohen10.medium.com/microsoft-dynamics-container-sandbox-rce-via-unauthenticated-docker-remote-api-20-000-bounty-7f726340a93b, RCE
@@ -3307,7 +3304,6 @@
 - http://codegrazer.com/blog/rsftp-to-command-injection.html, Path-traversal
 - https://medium.com/@Skylinearafat/how-outdated-jira-instances-suffers-from-multiple-security-vulnerabilities-6a88c45e9ec6, XSS
 - https://medium.com/@kunal94/imagemagick-gif-coder-vulnerability-leads-to-memory-disclosure-hackerone-e9975a6a560e, Memory-leak
-- https://medium.com/@mateusz.olejarka/finding-hidden-gems-vol-3-quick-win-with-sh-file-722e58636ded, Information-disclosure
 - https://blog.securitybreached.org/2018/11/03/p1-like-a-boss-information-disclosure-via-github-leads-to-employee-account-takeover/, Information-disclosure
 - https://medium.com/bugbountywriteup/stored-xss-in-bug-bounty-13c08e6f5636, Stored-XSS
 - https://medium.com/japzdivino/bypass-hackerone-2fa-requirement-and-reporter-blacklist-46d7959f1ee5, Logic-flaw
@@ -3449,7 +3445,6 @@
 - https://www.nahamsec.com/posts/chaining-multiple-vulnerabilities-to-gain-admin-access, IDOR
 - https://leigh-annegalloway.com/tumblr/, Captcha-bypass
 - https://www.cyberonesecurity.com/blog/unauthenticated-command-injection-vulnerability-in-vmware-nsx-sd-wan-by-velocloud, OS-command-injection
-- https://ahussam.me/Take-Advantage-of-Out-of-Scope-Domains-in-Bug-Bounty/, XSS
 - https://zseano.medium.com/how-re-signing-up-for-an-account-lead-to-account-takeover-3a63a628fd9f, Logic-flaw
 - https://0xpatrik.com/subdomain-takeover-starbucks/, Subdomain-takeover
 - https://medium.com/@yassergersy/account-take-over-via-reset-password-f2e9d887bce1, Password-reset

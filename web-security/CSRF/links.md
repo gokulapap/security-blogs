@@ -50,3 +50,4 @@
 - https://medium.com/@zahidali_93675/cross-site-request-forgery-in-facebook-86087201d8c
 - https://medium.com/@Jacksonkv22/oauth-misconfiguration-lead-to-complete-account-takeover-c8e4e89a96a
 - https://infosecwriteups.com/executing-csrf-with-phone-validation-103c525dd310
+- https://medium.com/@shakti.gtp/if-its-a-feature-let-s-abuse-it-for-750-19cfb9848d4b

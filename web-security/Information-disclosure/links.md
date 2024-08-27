@@ -115,3 +115,4 @@
 - https://renganathanofficial.medium.com/an-effective-5-min-recon-leads-to-a-hall-of-fame-ae7f20e5cf1a
 - https://medium.com/@aseem.shrey/one-token-to-leak-them-all-the-story-of-a-8000-npm-token-79b13af182a3
 - https://medium.com/bugbountywriteup/senstive-information-disclose-lead-to-join-any-organisation-40ab549011
+- https://medium.com/@mateusz.olejarka/finding-hidden-gems-vol-3-quick-win-with-sh-file-722e58636ded
