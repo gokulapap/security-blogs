@@ -129,3 +129,5 @@
 - https://infosecwriteups.com/how-i-was-able-to-find-50-cross-site-scripting-xss-security-vulnerabilities-on-bugcrowd-public-ba33db2b0ab1
 - https://ssd-disclosure.com/ssd-advisory-galaxy-store-applications-installation-launching-without-user-interaction/
 - https://ahussam.me/Take-Advantage-of-Out-of-Scope-Domains-in-Bug-Bounty/
+- https://ibraradi.gitbook.io/write-up/came-looking-for-ssrf-and-found-xss
+- https://systemweakness.com/a-peculiar-case-of-xss-and-my-first-bug-19f2132390b6

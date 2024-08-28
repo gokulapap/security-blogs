@@ -426,7 +426,6 @@
 - https://www.sonarsource.com/blog/odoo-get-your-content-type-right-or-else/, XSS
 - https://www.securifera.com/blog/2023/04/24/vocera_report_server_pwnage/, RCE
 - https://medium.com/cyesec/no-portals-needed-79995d8f7e62, MFA-bypass
-- https://github.com/Sudistark/advisories/blob/main/vscode-extension/Discord-Rich-Presence-LeonardSSH.vscord.md, Information-disclosure
 - https://medium.com/@mmaulanaabdullah/how-careless-default-credentials-impact-to-massive-account-takeover-be6bfc85119a, Authentication-bypass
 - https://blog.ryotak.net/post/github-actions-staff-access-token-en/, CICD
 - https://www.anvilsecure.com/blog/compromising-garmins-sport-watches-a-deep-dive-into-garminos-and-its-monkeyc-virtual-machine.html, IoT
@@ -1159,7 +1158,6 @@
 - https://gonzx.medium.com/my-experience-on-hacking-the-dutch-government-a2c5a5f43d83, XSS
 - https://www.usenix.org/conference/usenixsecurity22/presentation/zhang-lei, Android
 - https://www.usenix.org/conference/usenixsecurity22/presentation/mirheidari, Web-cache-deception
-- https://i.blackhat.com/USA-22/Wednesday/US-22-Doyhenard-Internal-Server-Error-wp.pdf, Memory-corruption
 - https://medium.com/@avinash_/email-confirmation-bypass-at-instagram-cc968f9a126, Email-verification-bypass
 - https://bugra.ninja/posts/cloudshell-command-injection/, OS-command-injection
 - https://krausefx.com/blog/ios-privacy-instagram-and-facebook-can-track-anything-you-do-on-any-website-in-their-in-app-browser, Privacy-issue
@@ -1171,7 +1169,6 @@
 - https://vsrc.vng.com.vn/blog/liferay-revisited-a-tale-of-20k/, RCE
 - https://ruia-ruia.github.io/2022/08/05/CVE-2022-29582-io-uring/, Memory-corruption
 - https://infosecwriteups.com/how-i-was-able-to-get-29-free-products-bug-bounty-845667ab4ad4, Race-condition
-- https://ibraradi.gitbook.io/write-up/came-looking-for-ssrf-and-found-xss, XSS
 - https://albertpedersen.com/blog/hijacking-email-with-cloudflare-email-routing/, HTTP-response-manipulation
 - https://www.adico.me/post/xss-in-gmail-s-amp4email, XSS
 - https://labs.jumpsec.com/zoho-manage-engine-desktop-central-sql-injection-arbitrary-file-write/, SQL-injection
@@ -1557,7 +1554,6 @@
 - https://sanyamchawla1999.medium.com/my-experience-of-hacking-the-dutch-government-8c219c61c795, XSS
 - https://medium.com/@damaidec/idor-vulnerability-on-invoice-and-weak-password-reset-leads-to-account-take-over-603b42143a8c, IDOR
 - https://www.zerodayinitiative.com/blog/2022/2/1/cve-2021-44142-details-on-a-samba-code-execution-bug-demonstrated-at-pwn2own-austin, Memory-corruption
-- https://systemweakness.com/a-peculiar-case-of-xss-and-my-first-bug-19f2132390b6, XSS
 - https://hetroublemakr.medium.com/how-i-approached-dependency-confusion-272b46f66907, Dependency-confusion
 - https://github.com/httpvoid/writeups/blob/main/Hacking-Google-Drive-Integrations.md, SSRF
 - https://www.offensive-security.com/offsec/microsoft-onedrive-macos-local-privesc/, Local-Privilege-Escalation
@@ -2840,7 +2836,6 @@
 - https://offensi.com/2019/12/16/4-google-cloud-shell-bugs-explained-introduction/, RCE
 - https://fellchase.blogspot.com/2019/12/authorization-bug-that-every-bug-hunter-missed-on-a-popular-program.html, Authorization-flaw
 - https://medium.com/@dPhoeniixx/vimeo-upload-function-ssrf-7466d8630437, SSRF
-- https://medium.com/nassec-cybersecurity-writeups/this-is-how-i-got-xxxx-from-facebook-for-instagram-bug-aaff50342246, Logic-flaw
 - https://web.archive.org/web/20200530191901/https://vict0ni.me/multiple-header-injections-bug-hunting/, Host-header-injection
 - https://www.ezequiel.tech/p/500-getclass.html, Sandbox-bypass
 - https://medium.com/@navne3t/a-25-easy-bug-bdfcde4d1370, Session-management-issue
