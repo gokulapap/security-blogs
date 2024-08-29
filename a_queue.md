@@ -815,7 +815,6 @@
 - https://medium.com/@haroonhameed_76621/a-775-worth-of-cookies-reflected-dom-based-xss-bug-bounty-poc-3e7720c78fbe, DOM-XSS
 - https://medium.com/@swapmaurya20/3-step-idor-in-hackerresume-a365f2632996, IDOR
 - https://github.com/Wh04m1001/SysmonEoP, Local-Privilege-Escalation
-- https://frycos.github.io/vulns4free/2022/12/02/rce-in-20-minutes.html, Security-code-review
 - https://sensepost.com/blog/2022/certpotato-using-adcs-to-privesc-from-virtual-and-network-service-accounts-to-local-system/, Local-Privilege-Escalation
 - https://theshubh77.medium.com/write-up-irremovable-comments-on-fb-lite-app-a-story-of-a-simple-fb-lite-bug-that-i-found-just-125aaa826dd8, Logic-flaw
 - https://medium.com/@sathvika03/interesting-find-on-the-invite-link-17cf5a46d747, Logic-flaw
@@ -1472,7 +1471,6 @@
 - https://github.com/justinsteven/advisories/blob/main/2022_git_buried_bare_repos_and_fsmonitor_various_abuses.md, RCE
 - https://research.nccgroup.com/2022/03/15/technical-advisory-apple-macos-xar-arbitrary-file-write-cve-2022-22582/, Arbitrary-file-write
 - https://blog.haboob.sa/blog/adobe-reader-cjk-codecs-memory-disclosure-vulnerability, Memory-disclosure
-- https://rambo.codes/posts/2022-03-15-how-a-macos-bug-could-have-allowed-for-a-serious-phishing-attack-against-users, MacOS
 - http://www.firstsight.me/2022/03/from-recon-via-censys-and-dnsdumpster-to-getting-p1-by-login-using-weak-password-password/, WAF-bypass
 - https://web.archive.org/web/20220315141258/https://eslam3kl.medium.com/sql-injection-at-spotify-d19e0861ddf0, SQL-injection
 - https://medium.com/@tobydavenn/how-i-made-the-bbc-hall-of-fame-3-times-2c816fa515d7, Information-disclosure
@@ -1514,7 +1512,6 @@
 - https://servicenger.com/mobile/facebook-android-vulnerability-launching-internal-tighten-deeplink-onbehalf-of-user/, Android
 - https://ninetyn1ne.github.io/2022-02-21-oauth-postmessage-misconfig/, OAuth
 - https://flattsecurity.medium.com/finding-an-unseen-sql-injection-by-bypassing-escape-functions-in-mysqljs-mysql-90b27f6542b4, SQL-injection
-- https://systemweakness.com/what-an-injection-into-jquery-selector-can-lead-to-1fcaabfd51e5, CSRF
 - https://f4t7.medium.com/xss-in-hidden-input-field-1b98a5fece26, XSS
 - https://infosecwriteups.com/send-a-email-to-me-and-get-kicked-out-of-google-groups-29b5c2c60e95, Logic-flaw
 - https://gitlab.com/kop316/vvm-disclosure, Voicemail-hacking
@@ -1838,7 +1835,6 @@
 - https://sunilyedla.medium.com/websocket-hijacking-to-steal-session-id-of-victim-users-bca84243830, Cross-Site-WebSocket-Hijacking
 - https://srcincite.io/blog/2021/08/25/pwn2own-vancouver-2021-microsoft-exchange-server-remote-code-execution.html, RCE
 - https://maxwelldulin.com/BlogPost?post=7676291072, Logic-flaw
-- https://web.archive.org/web/20210826141443/https://medium.com/@navnz/retrieve-archived-stories-of-any-public-instagram-account-b3f5a26851f5, IDOR
 - https://robertheaton.com/bumble-vulnerability/, Information-disclosure
 - https://medium.com/@amnotacat/how-companies-need-to-widen-there-scopes-75ba19ac50c7, RCE
 - https://medium.com/@noob.assassin/5k-misconfigured-reset-password-that-leads-to-account-takeover-no-user-interaction-ato-e6a36b8ef183, Account-takeover
@@ -2357,7 +2353,6 @@
 - https://www.mysk.blog/2020/10/25/link-previews/, Information-disclosure
 - https://medium.com/bugbountywriteup/my-first-bug-on-google-observation-wins-1a13d0ea54b0, IDOR
 - https://labs.f-secure.com/blog/samsung-s20-rce-via-samsung-galaxy-store-app/, RCE
-- https://medium.com/@seaman00o/300-p3-easy-bug-in-30-seconds-de65ea3d8f50, Missing-authentication
 - https://servicenger.com/blog/mobile/perform-substring-search-for-emails-even-if-workplace-admin-hides-email-profile-field/, Authorization-flaw
 - https://devcraft.io/2020/10/20/github-pages-multiple-rces-via-kramdown-config.html, RCE
 - https://medium.com/@saneklarek22/back-to-2019-disclosure-employers-pii-and-credentials-bb7f344dcb08, Information-disclosure

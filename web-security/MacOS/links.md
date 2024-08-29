@@ -3,3 +3,4 @@
 - https://wojciechregula.blog/post/macos-sandbox-escape-via-terminal/
 - https://jhftss.github.io/CVE-2022-26712-The-POC-For-SIP-Bypass-Is-Even-Tweetable/
 - https://objective-see.org/blog/blog_0x4D.html
+- https://rambo.codes/posts/2022-03-15-how-a-macos-bug-could-have-allowed-for-a-serious-phishing-attack-against-users

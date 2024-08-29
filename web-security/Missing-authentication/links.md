@@ -5,3 +5,4 @@
 - https://medium.com/@th3g3nt3l/multiple-information-exposed-due-to-misconfigured-service-now-itsm-instances-de7a303ebd56
 - https://notifybugme.medium.com/unauthorized-access-to-django-admin-dashboard-by-endpoint-leaked-on-github-5336969ddbbc
 - https://web.archive.org/web/20200816192659/https://medium.com/@godofdarkness.msf/influxdb-access-at-redact-8x8-com-1b54976b137
+- https://medium.com/@seaman00o/300-p3-easy-bug-in-30-seconds-de65ea3d8f50

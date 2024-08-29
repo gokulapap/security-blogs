@@ -1,1 +1,2 @@
 - https://letshack.xyz/offensive/general-research/discord-exe-improper-input-validation
+- https://frycos.github.io/vulns4free/2022/12/02/rce-in-20-minutes.html
