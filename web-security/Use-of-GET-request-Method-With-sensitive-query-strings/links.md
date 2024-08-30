@@ -1,0 +1,1 @@
+- https://medium.com/@mehdi.alouache/stormshield-sns-cleartext-password-leak-b436ef312fe9
