@@ -23,3 +23,4 @@
 - https://medium.com/@sharp488/2fa-enabled-accounts-can-bypass-authentication-access-account-after-deactivation-8276a586be82
 - https://medium.com/@smukx/how-i-hacked-my-college-cloud-servers-and-find-dos-ato-google-authentication-priv-esc-676b2db98938
 - https://web.archive.org/web/20220611144030/https://medium.com/@pmmali/my-first-cve-2022-31289-4081c57e90fb
+- https://blog.securitybreached.org/2017/12/10/how-i-was-able-to-takeover-facebook-account-bug-bounty-poc/

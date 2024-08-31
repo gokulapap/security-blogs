@@ -128,3 +128,4 @@
 - https://lf.lc/vrp/203177829/
 - https://www.shawarkhan.com/2021/01/achieve-remote-code-execution-by.html
 - https://blog.electrovolt.io/posts/discord-rce/
+- https://web.archive.org/web/20220922223136/https://ipanda.co.in/blog0.html

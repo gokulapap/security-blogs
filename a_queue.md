@@ -1782,7 +1782,6 @@
 - https://fardeen-ahmed.medium.com/a-small-change-and-things-go-in-your-hand-story-of-a-250-bounty-5ddc43c31463, Information-disclosure
 - https://u-itachi.medium.com/from-phpinfo-page-to-many-p1-bugs-and-rce-symfony-bce432605662, File-disclosure
 - https://mikekitckchan.medium.com/from-google-dorking-to-information-disclosure-5da4f1d771e5, Information-disclosure
-- https://medium.com/hacking-info-sec/how-to-have-free-internet-wifi-on-united-airlines-flights-65ead4087bc9, Payment-tampering
 - https://medium.com/@sarveshblogs/a-small-tale-of-account-takeover-2eba07a6ef5f, IDOR
 - https://pwnsauc3.medium.com/weaponizing-reflected-xss-to-account-takeover-ae8aeea7aca3, XSS
 - https://medium.com/@soufianehabti/this-is-why-you-shouldnt-trust-your-federated-identity-provider-62160f50d8b2, OAuth
@@ -2024,7 +2023,6 @@
 - https://www.jomar.fr/posts/2021/basic_recon_to_rce/, Insecure-deserialization
 - https://notifybugme.medium.com/chaining-csrf-with-xss-to-deactivate-mass-user-accounts-by-single-click-b463c0d26587, CSRF
 - https://www.jomar.fr/posts/2021/ssrf_through_pdf_generation/, SSRF
-- https://web.archive.org/web/20220922223136/https://ipanda.co.in/blog0.html, RCE
 - https://www.pentagrid.ch/de/blog/password-reset-code-brute-force-vulnerability-in-AWS-Cognito/, Password-reset
 - https://ysamm.com/?p=667, OAuth
 - https://www.jomar.fr/posts/2021/my_first_oob_xxe_exploitation/, XXE
@@ -3024,7 +3022,6 @@
 - https://blog.lent.ink/post/klanteservice/, Logic-flaw
 - https://medium.com/@osamaavvan/1800-worth-clickjacking-1f92e79d0414, Clickjacking
 - https://medium.com/@saadahmedx/self-xss-to-evil-xss-bcf2494a82a4, XSS
-- https://medium.com/@dr.spitfire/a-fight-for-duplicate-marked-bug-story-of-bbc-hall-of-fame-16f9c8215315?sk=9269454dd3557dc8ea9c1ec26be033dd, XSS
 - https://hackademic.co.in/how-a-classical-xss-can-lead-to-persistent-ato-vulnerability/, XSS
 - https://medium.com/@ritishkumarsingh/facebook-vulnerability-unremovable-co-host-in-facebook-group-events-13a9ea28b302, Logic-flaw
 - https://medium.com/@osamaavvan/account-taker-with-clickjacking-ace744842ec3, Clickjacking
@@ -3565,7 +3562,6 @@
 - https://mike-n1.github.io/SSRF_P4toP2, Blind-SSRF
 - https://blog.securitybreached.org/2017/12/19/unrestricted-file-upload-to-rce-bug-bounty-poc/, RCE
 - https://corben.io/blog/17-12-17-hackertarget, SSRF
-- https://blog.securitybreached.org/2017/12/10/how-i-was-able-to-takeover-facebook-account-bug-bounty-poc/, Authentication-bypass
 - https://medium.com/@uranium238/getting-a-rce-ctf-way-2fd612fb643f, RCE
 - https://medium.com/@Skylinearafat/xss-protection-bypass-made-my-quickest-bounty-ever-f4fd970c9116, XSS
 - https://medium.com/@maxon3/lfi-to-command-execution-deutche-telekom-bug-bounty-6fe0de7df7a6, LFI
@@ -3804,7 +3800,6 @@
 - https://josipfranjkovic.blogspot.com/2013/07/how-i-found-my-way-into-instagrams.html, Reflected-XSS
 - https://bitquark.co.uk/blog/2013/07/19/admob_creative_image_xss, XSS
 - https://bitquark.co.uk/blog/2013/07/03/amazon_packaging_feedback_xss, XSS
-- https://whitton.io/articles/hijacking-a-facebook-account-with-sms/, Authorization-flaw
 - https://whitton.io/articles/overwriting-banner-images-on-etsy/, Authorization-flaw
 - https://whitton.io/articles/stealing-facebook-access-tokens-with-a-double-submit/, CSRF
 - http://www.rafayhackingarticles.net/2013/02/dom-based-xss-in-avg.html, DOM-XSS

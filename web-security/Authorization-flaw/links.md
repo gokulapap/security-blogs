@@ -57,3 +57,4 @@
 - https://web.archive.org/web/20221228134225/https://machevalia.blog/access-control-violation-wiki-page-creation/
 - https://philippeharewood.com/facebook-business-takeover/
 - https://securifyinc.com/disclosures/rocketchat-unauthenticated-access-to-messages
+- https://whitton.io/articles/hijacking-a-facebook-account-with-sms/
