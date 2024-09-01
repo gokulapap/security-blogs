@@ -162,7 +162,6 @@
 - https://medium.com/@uttamgupta_/what-after-recon-bbaf43dbcb68, recon
 - https://medium.com/@jaadugar/sensitive-data-exposure-my-first-bug-in-h1-d4006a08d38f, info-disclosure
 - https://medium.com/@caesarevan23/the-journey-to-get-sql-injection-at-bluepay-blue-indonesia-bluepay-2019-7a23bbce4cb8, journey
-- https://medium.com/@akash0x0/p3-bug-in-just-2-minute-fc6bf1710757, journey
 - https://medium.com/@vflexo/full-account-takeover-via-open-redirection-41c167db46, ATO
 - https://medium.com/@renwa/the-underrated-bugs-clickjacking-css-injection-drag-drop-xss-cookie-bomb-login-logout-csrf-84307a98fffa, low-hangings
 - https://medium.com/@huang-h-kevin/from-retargeting-to-rce-my-journey-from-advertising-to-cybersecurity-4c6149a25c58, journey
@@ -510,7 +509,6 @@
 - https://cupc4k3.lol/ssti-leads-to-rce-on-pyrocms-7515be27c811, SSTI
 - https://www.da.vidbuchanan.co.uk/blog/exploiting-acropalypse.html, Privacy-issue
 - https://medium.com/@bag0zathev2/easy-via-api-params-manipulation-leading-to-bypassing-the-email-verification-block-a45dad2db60c, Mass-assignment
-- https://medium.com/@shamimahamed666070/account-takeover-with-rate-limit-bypass-f28c5089a1eb, Rate-limiting-bypass
 - https://www.synacktiv.com/sites/default/files/2023-03/Synacktiv-BIRTViewer-CVE-2023-0100_1.pdf, RCE
 - https://blog.scrt.ch/2023/03/17/bypassing-ppl-in-userland-again/, Kernel-hacking
 - https://medium.com/@hritkmjth/directory-traversal-and-lfi-worth-400-c4422785d3bd, Path-traversal
@@ -1270,7 +1268,6 @@
 - https://curl.se/docs/CVE-2022-32205.html, DoS
 - https://blog.assetnote.io/2022/06/26/exploiting-ssrf-in-jira/, SSRF
 - https://bugs.php.net/bug.php?id=81719, Buffer-Overflow
-- https://tomorrowisnew.com/posts/moderation-filter-bypass/, Logic-flaw
 - https://medium.com/@shakti.gtp/an-out-of-scope-domain-leads-to-a-critical-bug-1500-f228d2c7db4b, Authorization-flaw
 - https://peterjson.medium.com/miracle-one-vulnerability-to-rule-them-all-c3aed9edeea2, Insecure-deserialization
 - https://blog.viettelcybersecurity.com/pwn2own-2021-microsoft-exchange-exploit-chain/, SSRF
@@ -1377,7 +1374,6 @@
 - https://maxva.medium.com/how-i-got-a-lousyt-shirt-from-the-dutch-goverment-2a0d13fe7675, Old-components-with-known-vulnerabilities
 - https://www.legitsecurity.com/blog/github-actions-that-open-the-door-to-cicd-pipeline-attacks, Privilege-escalation
 - https://shreyaskoli.medium.com/ato-without-any-interaction-aws-cognito-misconfiguration-d690f4b3da11, Account-takeover
-- https://zerocode-ph.medium.com/page-admin-disclosure-when-posting-a-reel-1bfac9bd7f71, Spoofing
 - https://medium.com/system-weakness/sensitive-data-exfiltration-through-xss-450-409162eced3a, Token-leak
 - https://lokeshdlk77.medium.com/contact-point-deanonymization-vulnerability-in-meta-90d575c4d8ef, Information-disclosure
 - https://www.wiz.io/blog/wiz-research-discovers-extrareplica-cross-account-database-vulnerability-in-azure-postgresql/, Cross-tenant-vulnerability
@@ -2255,7 +2251,6 @@
 - https://www.pantaprakash.com.np/posts/categories/bugbounty-writeup/3.html, Logic-flaw
 - https://iustin24.github.io/Cache-Key-Normalization-Denial-of-Service/, Web-cache-poisoning
 - https://bhupendra1238.medium.com/how-i-got-my-first-bounty-hof-from-google-csrf-lead-to-account-delete-85f9906ba9ec, CSRF
-- https://blog.geekycat.in/google-vrp-hijacking-your-screenshots/, postMessage
 - https://blog.deesee.xyz/regex/security/2020/12/27/regular-expression-injection.html, ReDoS
 - https://0x48piraj.medium.com/full-address-bar-spoofing-on-opera-mini-android-597fafa60627, Address-Bar-Spoofing
 - https://lutfumertceylan.com.tr/posts/acc-takeover-web-cache-xss/, Reflected-XSS

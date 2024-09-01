@@ -4,3 +4,4 @@
 - https://medium.com/@prashanth-pulisetti/my-first-bug-bounty-8ad7351d644a
 - https://medium.com/@abhishekmorla/how-i-got-20-points-on-a-bugcrowd-private-program-429bc41d7143
 - https://medium.com/@unshoulder_supersedes/how-i-earned-47000-usd-as-a-high-school-student-a9a68896b3a3
+- https://medium.com/@akash0x0/p3-bug-in-just-2-minute-fc6bf1710757

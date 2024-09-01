@@ -78,3 +78,4 @@
 - https://opsecx.com/index.php/2018/09/07/bypassing-hotstar-premium-with-dom-manipulation-and-some-javascript/
 - https://medium.com/nassec-cybersecurity-writeups/this-is-how-i-got-xxxx-from-facebook-for-instagram-bug-aaff50342246
 - https://baibhavjha.com.np/blogs/hidingcustomlist/
+- https://tomorrowisnew.com/posts/moderation-filter-bypass/

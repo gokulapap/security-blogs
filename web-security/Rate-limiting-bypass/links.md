@@ -2,3 +2,4 @@
 - https://medium.com/bugbountywriteup/bypassing-rate-limit-abusing-misconfiguration-rules-dcd38e4e1028
 - https://zeroxuf.medium.com/rate-limit-bypass-leads-to-0-click-ato-9f1b29daec42
 - https://lokeshdlk77.medium.com/confirming-any-new-email-address-bug-in-facebook-part-4-70cfe1b4dca5
+- https://medium.com/@shamimahamed666070/account-takeover-with-rate-limit-bypass-f28c5089a1eb
