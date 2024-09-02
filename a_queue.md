@@ -1635,7 +1635,6 @@
 - https://rizwansiddiqu1.medium.com/another-admin-panel-e0489dc76678, HTTP-response-manipulation
 - https://web.archive.org/web/20220823110821/https://cybernews.com/security/microsoft-vancouver-leaking-website-credentials-via-overlooked-ds-store-file/, Information-disclosure
 - https://blog.agilehunt.com/blogs/security/privilege-escalation-in-microsoft-teams-2021, Privilege-escalation
-- https://www.appsecure.security/blog/dubsmash-bola-security-vulnerability, IDOR
 - https://medium.com/@7azimo/hacking-into-admin-panel-of-u-s-federal-government-system-c-a-r-s-without-credentials-9117b865ba58, Client-side-enforcement-of-server-side-security
 - https://www.y-security.de/news-en/microsoft-azure-portal-csv-injection/index.html, CSV-injection
 - https://www.p1boom.com/2021/12/accidental-idor-in-elearnsecurity-to.html, IDOR
@@ -1761,7 +1760,6 @@
 - https://deepsurface.com/deepsurface-security-advisory-lpe-in-firefox-on-windows/, Local-Privilege-Escalation
 - https://medium.com/@dheerajkmadhukar/bypass-of-biometrics-password-security-functionality-for-android-8e0174ac7cac, Authentication-bypass
 - https://sick.codes/sick-2021-111/, Verbose-logging
-- https://sheshasai.medium.com/improper-phone-number-validation-to-account-takeover-f8b78b08ed05, Logic-flaw
 - https://parsiya.net/blog/2021-09-26-attack-surface-analysis-part-3-resurrected-code-execution/, RCE
 - https://hack5.dev/telegram/bug/2021/09/24/telegram-sessions-bug.html, Session-expiration-issue
 - https://www.shielder.it/advisories/remote-command-execution-in-visual-studio-code-remote-development-extension/, RCE
@@ -2046,7 +2044,6 @@
 - https://jmrcsnchz.medium.com/playing-with-iframes-bypassing-content-security-policy-987c2f0b8e8a, CSP-bypass
 - https://feed.bugs.xdavidhu.me/bugs/0002, Authentication-bypass
 - https://notifybugme.medium.com/unauthorized-access-to-admin-setpassword-page-by-bypass-403-forbidden-f10bbb92ab35, Authorization-flaw
-- https://mase289.medium.com/exploiting-unrestricted-file-upload-to-achieve-remote-code-execution-on-a-bug-bounty-program-85661516712, Unrestricted-file-upload
 - https://0x2m.medium.com/misconfiguration-in-change-password-functionality-leads-to-account-takeover-1314b5507abf, IDOR
 - https://shahjerry33.medium.com/xss-via-exif-data-the-p2-elevator-d09e7b7fe9b9, Stored-XSS
 - https://0day.click/recipe/2021-04-18-discourse-themes/, RCE
@@ -2120,7 +2117,6 @@
 - https://notifybugme.medium.com/finding-basic-authtoken-in-javascript-file-by-full-automation-6188ca1b1f56, Information-disclosure
 - https://publish.whoisbinit.me/amazon-ec2-dangling-dns-records-on-surf-test-xwf-internet-org, Subdomain-takeover
 - https://blog.melbadry9.xyz/ddns-ec2-ips-current-state, Dangling-DNS-records
-- https://medium.com/@mehdi.alouache/partially-disable-cybereason-edr-as-low-privileges-user-on-windows-1405fd53e90e, EDR-bypass
 - https://3bodymo.medium.com/the-easiest-2500-i-got-it-from-bug-bounty-program-8f47ea4aff22, Information-disclosure
 - https://lf.lc/vrp/181521559b/, Container-escape
 - https://infosecwriteups.com/leveraging-template-injection-to-takeover-an-account-1dba7c4ae315, CSTI
@@ -2137,7 +2133,6 @@
 - https://n0ur5sec.medium.com/somebody-call-the-plumber-graphql-is-leaking-again-654bf1a38d26, Information-disclosure
 - https://shubhamchaskar.com/ato-through-pe/, Privilege-escalation
 - https://github.com/champtar/blog/tree/main/K8S_MITM_LoadBalancer_ExternalIPs, MiTM
-- https://github.com/champtar/blog/tree/main/IPv6_RA_MITM, MiTM
 - https://infosecwriteups.com/somebody-call-the-plumber-graphql-is-leaking-again-654bf1a38d26, Information-disclosure
 - https://priyankn.github.io/2021-02-26-CVE-2020-13956/, Blind-SSRF
 - https://web.archive.org/web/20210226210519/https://savirsuda.github.io/IDOR-to-view-personal-email-addresses-of-more-than-50k-users/, IDOR

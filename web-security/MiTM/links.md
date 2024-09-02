@@ -2,3 +2,4 @@
 - https://feed.bugs.xdavidhu.me/bugs/0010
 - https://sysrant.com/500-bounty-man-in-the-middle-on-slack/
 - https://www.evilsocket.net/2016/08/17/Samsung-Galaxy-Apps-MITM-Vulnerabilities/
+- https://github.com/champtar/blog/tree/main/IPv6_RA_MITM

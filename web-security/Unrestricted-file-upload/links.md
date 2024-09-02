@@ -15,3 +15,4 @@
 - https://web.archive.org/web/20200601005729/https://vict0ni.me/unrestricted-file-upload-on-pdf/
 - https://medium.com/@abhishake100/my-first-rce-stressed-employee-gets-me-2x-bounty-c4879c277e37
 - https://medium.com/@armaanpathan/abusing-acl-permissions-to-overwrite-other-users-uploaded-files-videos-on-s3-bucket-162c8877728
+- https://mase289.medium.com/exploiting-unrestricted-file-upload-to-achieve-remote-code-execution-on-a-bug-bounty-program-85661516712

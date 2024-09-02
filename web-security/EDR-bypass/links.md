@@ -1,0 +1,1 @@
+- https://medium.com/@mehdi.alouache/partially-disable-cybereason-edr-as-low-privileges-user-on-windows-1405fd53e90e

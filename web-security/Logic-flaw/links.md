@@ -79,3 +79,4 @@
 - https://medium.com/nassec-cybersecurity-writeups/this-is-how-i-got-xxxx-from-facebook-for-instagram-bug-aaff50342246
 - https://baibhavjha.com.np/blogs/hidingcustomlist/
 - https://tomorrowisnew.com/posts/moderation-filter-bypass/
+- https://sheshasai.medium.com/improper-phone-number-validation-to-account-takeover-f8b78b08ed05
