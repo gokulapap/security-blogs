@@ -4,3 +4,4 @@
 - https://github.com/MystenLabs/ed25519-unsafe-libs
 - https://mega-caveat.github.io
 - https://www.usenix.org/system/files/sec23summer_198-gilsenan-prepub.pdf
+- https://labs.ingredous.com/2022/09/29/ecdsa-nonce-reuse/
