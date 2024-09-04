@@ -129,3 +129,4 @@
 - https://www.shawarkhan.com/2021/01/achieve-remote-code-execution-by.html
 - https://blog.electrovolt.io/posts/discord-rce/
 - https://web.archive.org/web/20220922223136/https://ipanda.co.in/blog0.html
+- https://medium.com/@amnotacat/how-companies-need-to-widen-there-scopes-75ba19ac50c7

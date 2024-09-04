@@ -134,3 +134,4 @@
 - https://medium.com/@dr.spitfire/a-fight-for-duplicate-marked-bug-story-of-bbc-hall-of-fame-16f9c8215315?sk=9269454dd3557dc8ea9c1ec26be033dd
 - https://marxchryz.medium.com/how-i-found-multiple-xss-in-hidden-legacy-pages-a57a25d8ff1f
 - https://santoshdbobade.medium.com/how-i-got-reflected-cross-site-scripting-rxss-on-manchester-metropolitan-university-700b36cb4f53
+- https://medium.com/@mrhavit/breaking-tiktok-our-journey-to-finding-an-account-takeover-vulnerability-b0646aba1c4b

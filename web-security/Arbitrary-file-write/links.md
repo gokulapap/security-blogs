@@ -5,3 +5,4 @@
 - https://research.nccgroup.com/2021/10/28/technical-advisory-apple-xar-arbitrary-file-write-cve-2021-30833/
 - https://medium.com/@erik.wynter/pwning-manageengine-from-endpoint-to-exploit-bc5793836fd
 - https://blog.oversecured.com/Two-weeks-of-securing-Samsung-devices-Part-2/
+- https://blog.doyensec.com/2023/02/28/new-vector-for-dirty-arbitrary-file-write-2-rce.html

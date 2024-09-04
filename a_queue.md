@@ -324,7 +324,6 @@
 - https://blog.redteam-pentesting.de/2023/storing-passwords/, Pass-the-Hash
 - https://portswigger.net/research/bypassing-csp-via-dom-clobbering, DOM-Clobbering
 - https://infosecwriteups.com/send-email-from-anyone-to-any-user-outlook-microsoft-69fce333066d, Open-mail-relay
-- https://medium.com/@mrhavit/breaking-tiktok-our-journey-to-finding-an-account-takeover-vulnerability-b0646aba1c4b, XSS
 - https://medium.com/@chenshiri/aws-chain-attack-thousands-of-vulnerable-eks-clusters-701cbd963907, AWS-Kubernetes
 - https://github.com/Sudistark/BB-Writeups/blob/main/2023/prototype-pollution-akamai.md, Client-side-prototype-pollution
 - https://0day.click/recipe/pash/, RCE
@@ -564,7 +563,6 @@
 - https://medium.com/@snoopy101/web-cache-deception-attack-on-a-private-bug-bounty-program-52872cbdeedc, Web-cache-deception
 - https://snyk.io/blog/gitpod-remote-code-execution-vulnerability-websockets/, RCE
 - https://redshark1802.com/blog/2023/03/01/abusing-hopy-by-hop-header-crlf-injection/, CRLF-injection
-- https://blog.doyensec.com/2023/02/28/new-vector-for-dirty-arbitrary-file-write-2-rce.html, Arbitrary-file-write
 - https://www.sonarsource.com/blog/empowering-weak-primitives-file-truncation-to-code-execution-with-git/, Argument-injection
 - https://www.zerodayinitiative.com/blog/2023/2/27/cve-2022-38108-rce-in-solarwinds-network-performance-monitor, Insecure-deserialization
 - https://saligrama.io/blog/post/gradescope-autograder-security/, RCE
@@ -1823,7 +1821,6 @@
 - https://srcincite.io/blog/2021/08/25/pwn2own-vancouver-2021-microsoft-exchange-server-remote-code-execution.html, RCE
 - https://maxwelldulin.com/BlogPost?post=7676291072, Logic-flaw
 - https://robertheaton.com/bumble-vulnerability/, Information-disclosure
-- https://medium.com/@amnotacat/how-companies-need-to-widen-there-scopes-75ba19ac50c7, RCE
 - https://medium.com/@noob.assassin/5k-misconfigured-reset-password-that-leads-to-account-takeover-no-user-interaction-ato-e6a36b8ef183, Account-takeover
 - https://www.upguard.com/breaches/power-apps, Information-disclosure
 - https://medium.com/@gguzelkokar.mdbf15/huge-impact-server-side-request-forgery-in-production-app-20bf0cc5731, SSRF
@@ -2130,7 +2127,6 @@
 - https://shubhamchaskar.com/ato-through-pe/, Privilege-escalation
 - https://github.com/champtar/blog/tree/main/K8S_MITM_LoadBalancer_ExternalIPs, MiTM
 - https://infosecwriteups.com/somebody-call-the-plumber-graphql-is-leaking-again-654bf1a38d26, Information-disclosure
-- https://priyankn.github.io/2021-02-26-CVE-2020-13956/, Blind-SSRF
 - https://web.archive.org/web/20210226210519/https://savirsuda.github.io/IDOR-to-view-personal-email-addresses-of-more-than-50k-users/, IDOR
 - https://saajan.bhujel.cyou/blog/web/2021-02-26-password-reset-token-leak-via-x-forwarded-host, Host-header-injection
 - https://blog.evanricafort.com/2021/02/hijacking-reset-password-link-in.html, Host-header-injection
@@ -3305,7 +3301,6 @@
 - https://medium.com/@alicanact60/my-first-0day-exploit-csp-bypass-reflected-xss-bugbounty-c7efa4bed3d7, Reflected-XSS
 - https://portswigger.net/research/bypassing-web-cache-poisoning-countermeasures, Web-cache-poisoning
 - https://medium.com/@raushanraj_65039/clickjacking-in-google-docs-and-voice-typing-feature-c481d00b020a, Clickjacking
-- https://www.martinvigo.com/googlemeetroulette, Bruteforce
 - https://www.sec-down.com/wordpress/?p=809, CSRF
 - https://medium.com/@jonathanbouman/stored-xss-unvalidated-embed-at-medium-com-528b0d6d4982, Stored-XSS
 - https://medium.com/@saamux/applying-a-small-bypass-to-steal-facebook-session-tokens-in-uber-5b9638b7a18c, XSS

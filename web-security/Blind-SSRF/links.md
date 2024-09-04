@@ -2,3 +2,4 @@
 - https://jayateerthag.medium.com/blind-ssrf-in-skype-microsoft-6639f4961052
 - https://medium.com/@shahjerry33/blind-ssrf-the-hide-seek-game-da9d0ecef2fb
 - https://yasshk.medium.com/blind-ssrf-in-url-validator-93cbe7521c68
+- https://priyankn.github.io/2021-02-26-CVE-2020-13956/
