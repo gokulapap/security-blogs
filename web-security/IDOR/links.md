@@ -115,3 +115,4 @@
 - http://www.kamilonurozkaleli.com/posts/starbucks-singapore-account-takeover/
 - https://web.archive.org/web/20210826141443/https://medium.com/@navnz/retrieve-archived-stories-of-any-public-instagram-account-b3f5a26851f5
 - https://www.appsecure.security/blog/dubsmash-bola-security-vulnerability
+- https://edmundaa222.medium.com/poc-update-business-fyi-message-as-facebook-page-analyst-d36170fdede2

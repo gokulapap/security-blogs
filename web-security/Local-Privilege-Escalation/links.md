@@ -39,3 +39,4 @@
 - https://vulnerable.af/posts/suphp-ghost-in-your-shell/
 - https://www.rapid7.com/blog/post/2022/08/05/cve-2022-31660-and-cve-2022-31661-fixed-vmware-workspace-one-access-identity-manager-and-vrealize-automation-lpe/
 - https://blog.compass-security.com/2023/07/lenovo-update-your-privileges/
+- https://mrd0x.com/discovering-mcafee-products-zero-day-vulnerabilities/

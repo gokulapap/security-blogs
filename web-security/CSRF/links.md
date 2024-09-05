@@ -52,3 +52,4 @@
 - https://infosecwriteups.com/executing-csrf-with-phone-validation-103c525dd310
 - https://medium.com/@shakti.gtp/if-its-a-feature-let-s-abuse-it-for-750-19cfb9848d4b
 - https://systemweakness.com/what-an-injection-into-jquery-selector-can-lead-to-1fcaabfd51e5
+- http://www.missoumsai.com/google-csrfs.html

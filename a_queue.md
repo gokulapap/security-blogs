@@ -1899,7 +1899,6 @@
 - https://infosecwriteups.com/reflected-xss-through-insecure-dynamic-loading-dbf4d33611e0, XSS
 - https://infosecwriteups.com/account-takeovers-believe-the-unbelievable-bb98a0c251a4, Account-takeover
 - https://medium.com/pentesternepal/facebook-email-phone-disclosure-using-binary-search-d50430758c54, Password-reset
-- https://mrd0x.com/discovering-mcafee-products-zero-day-vulnerabilities/, Local-Privilege-Escalation
 - https://feed.bugs.xdavidhu.me/bugs/0009, IDOR
 - https://adnanmalik.info/blog/lets-cancel-the-subscription/, Logic-flaw
 - https://donjon.ledger.com/kaspersky-password-manager/, Weak-crypto
@@ -2042,7 +2041,6 @@
 - https://0day.click/recipe/2021-04-18-discourse-themes/, RCE
 - https://edmundaa222.medium.com/poc-remove-any-facebooks-live-video-14-000-bounty-70c8135b7b4c, Logic-flaw
 - https://aseemshrey.in/lets-learn-english-hacking-10M-Users/, AWS-misconfiguration
-- https://edmundaa222.medium.com/poc-update-business-fyi-message-as-facebook-page-analyst-d36170fdede2, IDOR
 - https://pharish4948.medium.com/how-i-earned-3200-in-4hours-through-stored-xss-38597877d3e1, Stored-XSS
 - https://positive.security/blog/url-open-rce, RCE
 - https://fernale.blogspot.com/2021/04/how-i-got-9000-usd-by-hacking-into.html, XSS
@@ -2070,7 +2068,6 @@
 - https://sriram-offcl.medium.com/play-a-game-get-subscribed-to-my-channel-youtube-clickjacking-bug-googlevrp-6ce1d15542d3, Clickjacking
 - https://ysamm.com/?p=654, Account-takeover
 - https://ysamm.com/?p=646, Account-takeover
-- https://lf.lc/vrp/181521559d/, Container-escape
 - https://philippeharewood.com/download-facebook-internal-mobile-builds/, Information-disclosure
 - https://medium.com/@Kntjrld/my-first-bug-report-at-facebook-2021-bab2c2373ee3, Logic-flaw
 - https://thexssrat.medium.com/i-felt-like-there-were-no-more-bugs-left-after-winning-2000-but-an-email-worth-750-changed-my-c7a507649060, Broken-Access-Control
@@ -2345,7 +2342,6 @@
 - https://medium.com/@sechunter/ato-via-host-header-poisoning-dc5c29d2fd0d, Host-header-injection
 - https://samcurry.net/hacking-apple/, RCE
 - https://servicenger.com/blog/mobile/sve-2020-18025-unauthorised-access-to-samsung-secure-folder-files/, Authorization-flaw
-- http://www.missoumsai.com/google-csrfs.html, CSRF
 - https://praseudo.com/sensitive-info-leak-in-curve-app-bug-bounty/, Information-disclosure
 - https://www.mcafee.com/blogs/other-blogs/mcafee-labs/our-experiences-participating-in-microsofts-azure-sphere-bounty-program/, Local-privilege-escalation
 - https://blog.talosintelligence.com/2020/10/Azure-Sphere-Challenge.html, Local-privilege-escalation
@@ -2861,7 +2857,6 @@
 - https://medium.com/bugbountywriteup/5-000-usd-xss-issue-at-avast-desktop-antivirus-for-windows-yes-desktop-1e99375f0968, Reflected-XSS
 - https://medium.com/@Hossam.Mesbah/cross-site-request-forgery-critical-exploitable-in-infected-site-a271aedeed2f, CSRF
 - https://noobe.io/articles/2019-10/xss-to-account-takeover, XSS
-- https://flex0geek.blogspot.com/2019/10/leak-can-i-take-user-information-please.html, Information-disclosure
 - http://www.hydrogen18.com/blog/reddit-android-app-leaks-images.html, Information-disclosure
 - https://medium.com/@D0rkerDevil/how-i-tookover-a-ldap-server-703209161001, Misconfigured-LDAP-server
 - https://medium.com/@evilboyajay/session-expiration-bypass-in-facebook-creator-app-b4f65cc64ce4, Session-expiration-issue

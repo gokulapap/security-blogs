@@ -117,3 +117,4 @@
 - https://medium.com/bugbountywriteup/senstive-information-disclose-lead-to-join-any-organisation-40ab549011
 - https://medium.com/@mateusz.olejarka/finding-hidden-gems-vol-3-quick-win-with-sh-file-722e58636ded
 - https://github.com/Sudistark/advisories/blob/main/vscode-extension/Discord-Rich-Presence-LeonardSSH.vscord.md
+- https://flex0geek.blogspot.com/2019/10/leak-can-i-take-user-information-please.html
