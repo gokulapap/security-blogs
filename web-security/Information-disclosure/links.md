@@ -118,3 +118,4 @@
 - https://medium.com/@mateusz.olejarka/finding-hidden-gems-vol-3-quick-win-with-sh-file-722e58636ded
 - https://github.com/Sudistark/advisories/blob/main/vscode-extension/Discord-Rich-Presence-LeonardSSH.vscord.md
 - https://flex0geek.blogspot.com/2019/10/leak-can-i-take-user-information-please.html
+- https://infosecwriteups.com/exposing-icloud-users-name-phone-numbers-and-email-addresses-d1f4a3786092

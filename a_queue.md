@@ -91,7 +91,6 @@
 - https://medium.com/@Dhamuharker/unsubscribe-any-users-e-mail-notifications-via-idor-7de76e2b036b, IDOR
 - https://medium.com/@h4krg33k/open-redirects-for-bug-bounties-bf4b58313842, open-redirection
 - https://medium.com/@securitygoat/bug-bounty-bootcamp-ch07-open-redirects-b11d2fe134d5, open-redirection
-- https://medium.com/@krishArse/open-map-of-sql-complete-sqlmap-quide-1088909959da, sql-injection
 - https://medium.com/@dewangpanchal98/tell-of-my-first-bounty-d3c5a85e18c9, journey
 - https://medium.com/@xcheater/recon-methodology-for-bug-hunting-e623120a7ca6, recon
 - https://medium.com/@ahmdhalabi/taking-over-employee-accounts-by-managers-with-zero-employee-interaction-b60784c3ad84, misc
@@ -195,7 +194,6 @@
 - https://research.aurainfosec.io/pentest/hook-line-and-phishlet/, Phishing
 - https://mr-medi.github.io/research/2023/07/31/exploring-cross-site-frame-counting-attacks.html, Cross-Site-Frame-Counting
 - https://hazanasec.github.io/2023-07-30-Samesite-bypass-method-override.md/, Samesite-cookie-bypass
-- https://bountyplz.xyz/bugbounty/2023/07/30/HTML-Over-The-Wire.html, CSRF
 - https://infosecwriteups.com/bypassing-email-verification-of-high-profile-tech-company-e592cc4a89ce, Email-verification-bypass
 - https://medium.com/@abhishek.karle92/access-of-android-protected-components-via-embedded-intent-android-app-pentesting-5618ae3cc9b2, Android
 - https://www.mcnulty.blog/posts/dap-csrf, CSRF
@@ -354,7 +352,6 @@
 - https://medium.com/@sharp488/2fa-bypass-using-custom-cookie-parameter-cb270c8557d2, MFA-bypass
 - https://realm3ter.medium.com/aem-bug-in-adobe-416763d3ad04, AEM
 - https://nav1n.medium.com/exploiting-sql-error-sqlstate-42000-to-own-mariadb-of-a-large-eu-based-online-media-and-cf7396c43bbf, SQL-injection
-- https://infosecwriteups.com/exposing-icloud-users-name-phone-numbers-and-email-addresses-d1f4a3786092, Information-disclosure
 - https://medium.com/@lukinha05farias/dns-recursion-leads-to-dos-attack-vivo-play-iptv-cve-2023-31893-b5ac45f38f, DoS
 - https://strike.sh/blog/official-extension-attacks, Extension-spoofing
 - https://www.zerodayinitiative.com/blog/2023/5/17/cve-2023-2086920870-exploiting-vmware-workstation-at-pwn2own-vancouver, Memory-corruption
@@ -558,7 +555,6 @@
 - https://mshibilmp.medium.com/how-i-earned-for-excessive-data-exposure-through-directory-traversal-leads-to-product-price-4582e5371774, Path-traversal
 - https://vijetareigns.medium.com/email-verification-bypass-worth-cbb65a68a34f, Email-verification-bypass
 - https://salt.security/blog/traveling-with-oauth-account-takeover-on-booking-com, OAuth
-- https://fireshellsecurity.team/mining-takeovers-for-fun-and-profit/, Subdomain-takeover
 - https://medium.com/@kushjain0107/how-simple-idor-impacted-the-data-of-thousands-of-customers-of-an-indian-automotive-giant-fdbd2ef1c2c6, Account-takeover
 - https://medium.com/@snoopy101/web-cache-deception-attack-on-a-private-bug-bounty-program-52872cbdeedc, Web-cache-deception
 - https://snyk.io/blog/gitpod-remote-code-execution-vulnerability-websockets/, RCE
@@ -747,7 +743,6 @@
 - https://danaepp.com/hacking-a-net-api-in-the-real-world, LFI
 - https://mtechghost.medium.com/stored-xss-vulnerability-in-microsoft-booking-e593de3344e0, Stored-XSS
 - https://downrightnifty.me/blog/2022/12/26/hacking-google-home.html, IoT
-- https://bergee.it/blog/how-i-found-multiple-critical-bugs-in-red-bull/, Authentication-bypass
 - https://cems.fun/2022/12/26/CVE-2017-8758.html, XSS
 - https://sharanthehunter.medium.com/authentication-bypass-in-nexus-manager-version-3-37-3-02-712f0bdb2fb4, Components-with-known-vulnerabilities
 - https://medium.com/@tobydavenn/bypassing-ssrf-protections-45e5e3ac31e9, SSRF

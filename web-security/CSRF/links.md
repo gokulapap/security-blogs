@@ -53,3 +53,4 @@
 - https://medium.com/@shakti.gtp/if-its-a-feature-let-s-abuse-it-for-750-19cfb9848d4b
 - https://systemweakness.com/what-an-injection-into-jquery-selector-can-lead-to-1fcaabfd51e5
 - http://www.missoumsai.com/google-csrfs.html
+- https://bountyplz.xyz/bugbounty/2023/07/30/HTML-Over-The-Wire.html
