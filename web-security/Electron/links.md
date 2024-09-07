@@ -1,0 +1,1 @@
+- https://blog.trailofbits.com/2023/02/23/escaping-well-configured-vscode-extensions-for-profit/

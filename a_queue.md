@@ -576,7 +576,6 @@
 - https://www.synacktiv.com/sites/default/files/2023-02/Synacktiv-IBM-TWS-CVE-2022-38389.pdf, XXE
 - https://starlabs.sg/blog/2023/02-microsoft-azure-account-takeover-via-dom-based-xss-in-cosmos-db-explorer/, Account-takeover
 - https://medium.com/@feribytex/blind-xss-fired-on-admin-panel-worth-2000-abe2c83279b5, Blind-XSS
-- https://blog.trailofbits.com/2023/02/23/escaping-well-configured-vscode-extensions-for-profit/, Electron
 - https://m3ez.medium.com/how-i-found-dom-based-xss-on-microsoft-msrc-and-how-they-fixed-it-8b71a6020c82, DOM-XSS
 - https://parkerzanta.medium.com/how-do-i-take-over-another-user-subdomain-name-worth-c66bb0c3f2f7, Subdomain-takeover
 - https://www.whiteoaksecurity.com/blog/logicaldoc-vulnerability-disclosure/, XXE
@@ -1278,7 +1277,6 @@
 - https://www.praetorian.com/blog/stsgetsessiontoken-role-chaining-in-aws/, Privilege-escalation
 - https://github.blog/2022-06-16-the-android-kernel-mitigations-obstacle-race/, Memory-corruption
 - https://aidilarf.medium.com/xss-blind-stored-at-asset-domain-android-apps-tiktok-ae2f4c2dbc07, Stored-XSS
-- https://www.proofpoint.com/us/blog/cloud-security/proofpoint-discovers-potentially-dangerous-microsoft-office-365-functionality, Logic-flaw
 - https://www.zerodayinitiative.com/blog/2022/6/15/cve-2022-23088-exploiting-a-heap-overflow-in-the-freebsd-wi-fi-stack, Memory-corruption
 - https://fredericb.info/2022/06/breaking-secure-boot-on-google-nest-hub-2nd-gen-to-run-ubuntu.html, Hardware-hacking
 - https://labs.taszk.io/articles/post/unziploc/, Memory-corruption
@@ -2174,7 +2172,6 @@
 - https://0xfabiof.github.io/stored-xss-tw/, Stored-XSS
 - https://www.shawarkhan.com/2021/01/analysing-crash-messages-to-achieve.html, OS-command-injection
 - https://logicbomb.medium.com/otp-bypass-account-takeover-to-admin-panel-ft-header-injection-16f2982a0136, OTP-bypass
-- https://www.intezer.com/blog/research/how-we-escaped-docker-in-azure-functions/, Privilege-escalation
 - https://medium.com/bugbountywriteup/bragging-rights-part-1-short-story-of-a-bug-wave-dbb88f48b604, IDOR
 - https://santuysec.com/2021/01/27/hijacking-google-drive-files-documents-photo-video-through-google-docs-sharing/, Clickjacking
 - https://bugbountyhunter.medium.com/500-for-no-rate-limit-on-forgot-password-page-d534d1d750db, Lack-of-rate-limiting
@@ -2868,7 +2865,6 @@
 - https://medium.com/@manralhemant10/how-i-bypassed-2-factor-authentication-899750421331, MFA-bypass
 - https://medium.com/@frycos/finding-sql-injections-fast-with-white-box-analysis-a-recent-bug-example-ca449bce6c76, SQL-injection
 - https://medium.com/@rohitcoder/whitehat-test-accounts-can-act-as-hidden-admin-with-business-manager-ad-accounts-ce75ead5ffff, Authorization-flaw
-- https://medium.com/@Master_SEC/bypass-uppercase-filters-like-a-pro-xss-advanced-methods-daf7a82673ce, XSS
 - https://medium.com/@r99tiq/how-i-hacked-basf-company-3b75ef39c74f, Missing-authentication
 - https://medium.com/@souravnewatia/exif-geolocation-data-not-stripped-from-uploaded-images-794d20d2fa7d, Information-disclosure
 - https://spidersec.ninja/Youtube-X-frame-options-Bypass-Vulnerability, Clickjacking
@@ -3291,7 +3287,6 @@
 - https://medium.com/@alicanact60/my-first-0day-exploit-csp-bypass-reflected-xss-bugbounty-c7efa4bed3d7, Reflected-XSS
 - https://portswigger.net/research/bypassing-web-cache-poisoning-countermeasures, Web-cache-poisoning
 - https://medium.com/@raushanraj_65039/clickjacking-in-google-docs-and-voice-typing-feature-c481d00b020a, Clickjacking
-- https://www.sec-down.com/wordpress/?p=809, CSRF
 - https://medium.com/@jonathanbouman/stored-xss-unvalidated-embed-at-medium-com-528b0d6d4982, Stored-XSS
 - https://medium.com/@saamux/applying-a-small-bypass-to-steal-facebook-session-tokens-in-uber-5b9638b7a18c, XSS
 - https://blog.securityevaluators.com/collecting-shells-by-the-sea-of-nas-vulnerabilities-155a0bd7c525, OS-command-injection

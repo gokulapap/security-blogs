@@ -21,3 +21,4 @@
 - https://sec-consult.com/blog/detail/securing-databricks-cluster-init-scripts/
 - https://www.legitsecurity.com/blog/github-privilege-escalation-vulnerability
 - https://www.intezer.com/blog/cloud-security/kud-i-enter-your-server-new-vulnerabilities-in-microsoft-azure/
+- https://www.intezer.com/blog/research/how-we-escaped-docker-in-azure-functions/

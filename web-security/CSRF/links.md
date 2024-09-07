@@ -54,3 +54,4 @@
 - https://systemweakness.com/what-an-injection-into-jquery-selector-can-lead-to-1fcaabfd51e5
 - http://www.missoumsai.com/google-csrfs.html
 - https://bountyplz.xyz/bugbounty/2023/07/30/HTML-Over-The-Wire.html
+- https://www.sec-down.com/wordpress/?p=809
