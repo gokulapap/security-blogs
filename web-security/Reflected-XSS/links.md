@@ -39,3 +39,4 @@
 - https://noobe.io/articles/2019-06/reflected-xss-on-error-page
 - https://medium.com/@jonathanbouman/reflected-xss-at-philips-com-e48bf8f9cd3c
 - https://medium.com/@SyntaxError4/how-i-found-reflective-xss-in-yahoo-subdomain-3ad4831b386e
+- https://medium.com/@bag0zathev2/discovering-5-xss-vulnerabilities-in-a-simple-way-with-xssor-go-a0a761631012

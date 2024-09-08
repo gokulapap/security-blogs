@@ -399,7 +399,6 @@
 - https://www.revblock.dev/exploiting-misconfigured-google-cloud-service-accounts-from-github-actions/, OpenID-Connect
 - https://www.zerodayinitiative.com/blog/2023/5/1/cve-2023-28231-rce-in-the-microsoft-windows-dhcpv6-service, RCE
 - https://ssd-disclosure.com/ssd-advisory-keriocontrol-remote-code-execution/, RCE
-- https://www.cloudquery.io/blog/aws-priv-esc-identity-center, Privilege-escalation
 - https://ophionsecurity.com/blog/placeholder-for-dayzzz, SSTI
 - https://pulsesecurity.co.nz/advisories/Azure-Devops-Command-Injection, CICD
 - https://infosecwriteups.com/unauthorized-access-to-the-admin-panel-via-leaked-credentials-on-the-waybackmachine-55c3307141c6, Information-disclosure
@@ -648,7 +647,6 @@
 - https://medium.com/@rezaduty/play-with-google-twitter-apple-dell-a90777faa779, XSS
 - https://molx32.github.io/blog/2023/Azure-access-panel-lack-of-access-control/, Azure-AD
 - https://www.flashback.sh/blog/weekend-destroyer-wd-pr4100-rce, RCE
-- https://medium.com/@bag0zathev2/discovering-5-xss-vulnerabilities-in-a-simple-way-with-xssor-go-a0a761631012, Reflected-XSS
 - https://shahjerry33.medium.com/idor-inside-the-session-storage-88af485fc899, IDOR
 - https://www.cyberark.com/resources/threat-research-blog/breaking-docker-named-pipes-systematically-docker-desktop-privilege-escalation-part-1, Local-Privilege-Escalation
 - https://www.flashback.sh/blog/weekend-destroyer-wd-pr4100-rce, RCE
@@ -737,7 +735,6 @@
 - https://medium.com/@mohammed01550038865/hello-hackers-a229fb5c821b, Blind-XSS
 - https://sudhanshur705.medium.com/exploring-the-world-of-esi-injection-b86234e66f91, ESI-injection
 - https://medium.com/@ashlyn.lau_17206/hooking-secret-key-to-building-custom-burp-extension-c6aeb6fd312a, SQL-injection
-- https://infosecwriteups.com/unauthorized-sign-up-on-subdomain-of-subdomain-leading-to-organization-takeover-worth-2000-a7199952d80b, Exposed-registration-page
 - https://www.yassineaboukir.com//blog/hunting-for-amazon-cognito-security-misconfigurations/, Amazon-cognito-misconfiguration
 - https://danaepp.com/hacking-a-net-api-in-the-real-world, LFI
 - https://mtechghost.medium.com/stored-xss-vulnerability-in-microsoft-booking-e593de3344e0, Stored-XSS
@@ -1581,7 +1578,6 @@
 - https://blog.hckrt.com/blog/thisclosed_1/, IDOR
 - https://shahjerry33.medium.com/sql-injection-the-file-upload-playground-6580b089d013, Unrestricted-file-upload
 - https://servicenger.com/mobile/facebook-android-webview-vulnerability/, XSS
-- https://medium.com/cider-sec/npm-might-be-executing-malicious-code-in-your-ci-without-your-knowledge-e5e45bab2fed, RCE
 - https://infosecwriteups.com/idor-leads-to-leak-private-details-866563365490, IDOR
 - https://trevorspiniolas.com/doorlock/doorlock.html, DoS
 - https://medium.com/pentesternepal/a-tale-of-zero-click-account-takeover-56b51fdbd7ae, Account-takeover
@@ -2110,7 +2106,6 @@
 - https://lf.lc/vrp/181521559a/, Container-escape
 - https://zonduu.medium.com/ssrf-to-fetch-aws-credentials-with-full-access-to-various-services-18cd08194e91, SSRF
 - https://www.bugcrowd.com/blog/big-bugs-cve-2020-28914/, RCE
-- https://medium.com/@ratnadip1998/admin-panel-accessed-via-sql-injection-ezy-boooom-57dc60c2815f, SQL-injection
 - https://infosecwriteups.com/bragging-rights-killing-file-uploads-softly-fba35a4e485a, Unrestricted-file-upload
 - https://jayateerthag.medium.com/jira-authenticated-dashboard-access-in-google-acquisition-apigee-ff20cfe11d99, Authentication-bypass
 - https://n0ur5sec.medium.com/somebody-call-the-plumber-graphql-is-leaking-again-654bf1a38d26, Information-disclosure
