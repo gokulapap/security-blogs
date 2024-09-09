@@ -2,3 +2,4 @@
 - https://infosecwriteups.com/how-i-leak-others-access-token-by-exploiting-evil-deeplink-flaw-a0a566677639
 - https://ash-king.co.uk/blog/backdoor-android-facebook
 - https://servicenger.com/mobile/android/access-twitter-blue-features-using-deeplink-without-a-paid-subscription/
+- https://nmochea.medium.com/shopping-app-deeplink-arbitrary-urls-91a143a45c11

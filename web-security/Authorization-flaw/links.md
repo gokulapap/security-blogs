@@ -59,3 +59,4 @@
 - https://securifyinc.com/disclosures/rocketchat-unauthenticated-access-to-messages
 - https://whitton.io/articles/hijacking-a-facebook-account-with-sms/
 - https://medium.com/@agrawalsmart7/how-i-hacked-74k-users-of-a-website-869e8a0b319
+- https://blog.darabi.me/2015/03/facebook-bypass-ads-account-roles.html

@@ -7,3 +7,4 @@
 - https://www.synack.com/blog/default-credentials-still-a-problem-today/
 - https://medium.com/@heinthantzin/a-simple-post-auth-bypass-leads-to-unauthorized-web-server-access-483c053c110e
 - https://medium.com/@neerajedwards/how-i-hacked-all-the-redact-agents-accounts-ec165b7c514a
+- https://0xjin.medium.com/bug-bounty-my-remote-code-execution-da7bbd00925a

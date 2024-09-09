@@ -136,3 +136,4 @@
 - https://santoshdbobade.medium.com/how-i-got-reflected-cross-site-scripting-rxss-on-manchester-metropolitan-university-700b36cb4f53
 - https://medium.com/@mrhavit/breaking-tiktok-our-journey-to-finding-an-account-takeover-vulnerability-b0646aba1c4b
 - https://medium.com/@Master_SEC/bypass-uppercase-filters-like-a-pro-xss-advanced-methods-daf7a82673ce
+- https://medium.com/@m4shahab1/magic-xss-with-two-parameters-463559b03949

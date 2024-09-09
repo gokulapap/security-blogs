@@ -1001,7 +1001,6 @@
 - https://www.semperis.com/blog/new-attack-paths-as-requested-sts/, Local-Privilege-Escalation
 - https://bergee.it/blog/blind-account-takeover/, Account-takeover
 - https://blog.infiltrateops.io/tesla-paid-me-10-000-because-of-directory-indexing-c1be06c77a3e, Directory-listing
-- https://nmochea.medium.com/shopping-app-deeplink-arbitrary-urls-91a143a45c11, Insecure-deeplink
 - https://xthemo.medium.com/stored-xss-at-nvidia-via-angular-js-template-injection-3c9793218860, CSTI
 - https://sagarsajeev.medium.com/escalating-ssti-to-reflected-xss-using-curly-braces-825685bd93ec, SSTI
 - https://rohit443.medium.com/blind-xss-on-admin-portal-leads-to-information-disclosure-121d26b2a35a, Blind-XSS
@@ -1801,7 +1800,6 @@
 - https://medium.com/@iambroot/what-would-you-do-if-oracles-mailing-server-sent-you-this-bc275b1bf967, HTML-injection
 - https://riteshgohil-25.medium.com/ato-of-wordpress-website-4-digits-bounty-in-5-minute-cc888c4054c9, Exposed-registration-page
 - https://rizwansiddiqu1.medium.com/information-disclosure-via-api-misconfiguration-c05ed327f9d2, Information-disclosure
-- https://0xjin.medium.com/bug-bounty-my-remote-code-execution-da7bbd00925a, Default-credentials
 - https://caesarevan23.medium.com/ssrf-external-service-interaction-for-find-real-ip-cloudflare-and-leads-to-sql-injection-c22c02243299, WAF-bypass
 - https://medium.com/@hackrider/exploiting-devops-get-source-code-d4f5825eb373, Information-disclosure
 - https://infosecwriteups.com/how-did-i-earned-6000-from-tokens-and-scopes-in-one-day-12f95c6bf8aa, Authorization-flaw
@@ -2924,7 +2922,6 @@
 - https://medium.com/@04sabsas/bugbounty-writeup-take-attention-and-get-stored-xss-495dd6eab07e, Stored-XSS
 - https://websecblog.com/vulns/clickjacking-xss-on-google-org/, Clickjacking
 - https://medium.com/@valeriyshevchenko/two-easy-rce-in-atlassian-products-e8480eacdc7f, Credential-stuffing
-- https://blog.evanricafort.com/2019/08/read-other-user-support-tickets-in.html, IDOR
 - https://medium.com/@ronak_9889/privilege-escalation-using-api-endpoint-fce841caaff3, Privilege-escalation
 - https://initblog.com/2019/switcheroo/, SSRF
 - https://medium.com/@protostar0/break-and-bypass-verification-email-ac3359041272, Open-redirect
@@ -3271,7 +3268,6 @@
 - https://medium.com/japzdivino/security-teams-internal-attachments-can-be-exported-via-export-as-zip-feature-on-hackerone-35ca6ec2bf8b, Logic-flaw
 - https://blog.harshjaiswal.com/path-traversal-while-uploading-results-in-rce, Path-traversal
 - https://web.archive.org/web/20200825165404/https://medium.com/@adeshkolte/how-i-got-500-from-microsoft-for-csrf-vulnerability-700accaf48b9, CSRF
-- https://medium.com/@m4shahab1/magic-xss-with-two-parameters-463559b03949, XSS
 - https://medium.com/bugbountywriteup/add-description-to-instagram-posts-on-behalf-of-other-users-6500-7d55b4a24c5a, IDOR
 - https://leucosite.com/Microsoft-Edge-RCE/, RCE
 - https://medium.com/@yassergersy/access-to-staging-environment-via-user-agent-string-23470546577f, Authentication-bypass
@@ -3721,7 +3717,6 @@
 - https://ahussam.me/One-payload-to-xss-them/, Flash-XSS
 - https://ahussam.me/Blind-sqli-Hootsuite/, Blind-SQL-injection
 - https://josipfranjkovic.blogspot.com/2015/07/the-easiest-bug-bounties-i-have-ever-won.html, IDOR
-- https://blog.darabi.me/2015/03/facebook-bypass-ads-account-roles.html, Authorization-flaw
 - https://buer.haus/2015/02/03/google-com-mobile-feedback-url-redirect-regexvalidation-flaw/, Open-redirect
 - https://buer.haus/2015/01/15/yahoo-root-access-sql-injection-tw-yahoo-com/, SQL-injection
 - https://quitten.github.io/Aliexpress/, XSS
