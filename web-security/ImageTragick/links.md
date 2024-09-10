@@ -1,0 +1,1 @@
+- https://web.archive.org/web/20210116171139/https://strynx.org/imagemagick-rce/

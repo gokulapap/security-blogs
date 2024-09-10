@@ -1005,7 +1005,6 @@
 - https://sagarsajeev.medium.com/escalating-ssti-to-reflected-xss-using-curly-braces-825685bd93ec, SSTI
 - https://rohit443.medium.com/blind-xss-on-admin-portal-leads-to-information-disclosure-121d26b2a35a, Blind-XSS
 - https://infosecwriteups.com/complete-take-over-of-cisco-unified-communications-manager-due-consecutively-misconfigurations-2a1b5ce8bd9a, Security-misconfiguration
-- https://www.preludesecurity.com/blog/cve-2022-35256-http-request-smuggling-in-nodejs, HTTP-request-smuggling
 - https://terjanq.medium.com/waf-bypasses-via-0days-d4ef1f212ec, WAF-bypass
 - https://nmochea.medium.com/arbitrary-file-corruption-end-to-end-encrypted-messaging-application-674963dceef8, Insecure-intent
 - https://medium.com/@AvyuktSyrine/my-first-xss-d88ee864df82, Open-redirect
@@ -1319,7 +1318,6 @@
 - https://medium.com/@sharp488/2fa-bypass-on-private-bug-bounty-program-due-to-improper-caching-mechanism-212c5912bd00, MFA-bypass
 - https://medium.com/@sharp488/2fa-bypass-on-private-bug-bounty-program-due-to-csrf-token-misconfiguration-5a9c82151a1, MFA-bypass
 - https://medium.com/@h4x0r_dz/vulnerability-in-paypal-worth-200000-bounty-attacker-can-steal-your-balance-by-one-click-2b358c1607cc, Clickjacking
-- https://mokhansec.medium.com/a-business-logic-issue-worth-1500-a0f1a0b76570, Logic-flaw
 - https://medium.com/@harshbanshpal/how-i-was-able-to-down-a-service-of-microsoft-denial-of-service-dos-attack-on-microsoft-ec9d599ab3f8, DoS
 - https://medium.com/@h4x0r_dz/paypal-idor-via-billing-agreement-token-closed-informative-payment-fraud-3245202fab38, IDOR
 - https://systemweakness.com/i-obtained-admin-access-via-account-activation-link-in-30-seconds-dd7f115ae1d2, Privilege-escalation
@@ -1679,7 +1677,6 @@
 - https://medium.com/techiepedia/unauthenticated-access-to-cloud-portal-a-without-%EF%B8%8F-9f29c387b937, Authentication-bypass
 - https://fortbridge.co.uk/research/multiple-vulnerabilities-in-concrete-cms-part1-rce/, RCE
 - https://thinkermaruf.medium.com/fiverr-email-restriction-bypassed-36b797cb7e9, Logic-flaw
-- https://perception-point.io/a-technical-analysis-of-cve-2021-30864-bypassing-app-sandbox-restrictions/, Local-Privilege-Escalation
 - https://blog.assetnote.io/2021/11/02/sitecore-rce/, RCE
 - https://nassimchami.medium.com/stored-xss-to-account-take-over-45a7e09116a7, XSS
 - https://medium.com/@bababounty99/never-give-up-story-of-hacking-dutch-government-and-earning-that-swag-b518cca81c78, IDOR
@@ -2505,7 +2502,6 @@
 - https://medium.com/@hgreal/how-i-hacked-a-bank-their-application-using-it-for-hacking-another-bank-company-10-k-xss-b9cc801a675, XSS
 - https://medium.com/@fatnassifiras45/how-i-was-able-to-take-over-any-account-via-the-password-reset-functionality-ef1659f8b481, Password-reset
 - https://officialaimm.medium.com/an-attempt-to-escalate-a-low-impact-hidden-input-xss-9f4b9c88f19c, XSS
-- https://medium.com/@minometidji/how-i-bypassed-open-redirect-and-i-have-get-reward-from-yandex-5df5de836718, Open-redirect
 - https://web.archive.org/web/20200627125016/https://medium.com/@s3c/hacked-worldwide-zoom-users-fceb31868c2d, OAuth
 - https://web.archive.org/web/20200626065913/https://medium.com/@saugatpokharel/able-to-create-hidden-comment-by-blocking-an-admin-facebook-bug-bounty-2020-c62bd10712f, Logic-flaw
 - https://medium.com/bugbountywriteup/all-about-getting-first-bounty-with-idor-849db2828c8, IDOR
@@ -2768,7 +2764,6 @@
 - https://smaranchand.com.np/2019/12/subdomain-takeover-via-pantheon/, Subdomain-takeover
 - https://jinone.github.io/bugbounty-a-dom-xss/, DOM-XSS
 - https://leucosite.com/Edge-Chromium-EoP-RCE/, XSS
-- https://web.archive.org/web/20210116171139/https://strynx.org/imagemagick-rce/, ImageTragick
 - https://web.archive.org/web/20210116173906/https://strynx.org/insecure-crypto-code-execution/, SQL-injection
 - https://www.indoappsec.in/2019/12/airbnb-steal-earning-of-airbnb-hosts-by.html, IDOR
 - https://jinone.github.io/bugbounty-a-dom-xss/, DOM-XSS

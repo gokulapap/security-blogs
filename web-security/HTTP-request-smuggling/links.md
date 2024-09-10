@@ -4,3 +4,4 @@
 - https://hipotermia.pw/bb/http-desync-account-takeover
 - https://portswigger.net/research/how-to-turn-security-research-into-profit
 - https://tij.me/blog/harvesting-active-directory-credentials-via-http-request-smuggling/
+- https://www.preludesecurity.com/blog/cve-2022-35256-http-request-smuggling-in-nodejs

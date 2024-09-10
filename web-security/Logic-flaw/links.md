@@ -81,3 +81,4 @@
 - https://tomorrowisnew.com/posts/moderation-filter-bypass/
 - https://sheshasai.medium.com/improper-phone-number-validation-to-account-takeover-f8b78b08ed05
 - https://www.proofpoint.com/us/blog/cloud-security/proofpoint-discovers-potentially-dangerous-microsoft-office-365-functionality
+- https://mokhansec.medium.com/a-business-logic-issue-worth-1500-a0f1a0b76570
