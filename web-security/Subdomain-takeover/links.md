@@ -31,3 +31,4 @@
 - https://web.archive.org/web/20210106234354/https://medium.com/bugbountywriteup/subdomain-take-over-worth-100-ce822ed85ba0
 - https://web.archive.org/web/20200822010745/https://whitehatnepal.tumblr.com/post/149985438982/reading-ubers-internal-emails-uber-bug-bounty
 - https://fireshellsecurity.team/mining-takeovers-for-fun-and-profit/
+- https://medium.com/@alirazzaq/subdomain-takeover-worth-200-ed73f0a58ffe

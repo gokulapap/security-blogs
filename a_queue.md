@@ -2315,7 +2315,6 @@
 - https://devcraft.io/2020/10/19/github-gist-account-takeover.html, Open-redirect
 - https://devcraft.io/2020/10/18/github-rce-git-inject.html, RCE
 - https://mksben.l0.cm/2020/10/discord-desktop-rce.html, RCE
-- https://blog.yappare.com/2020/10/i-had-fun-with-this-xss.html, XSS
 - https://medium.com/@merry6607/how-i-find-my-first-p1-level-bug-5a6dd9587203, XSS
 - https://medium.com/@mustafa0x2021/disclose-emails-phone-numbers-other-information-for-facebook-users-who-tried-to-add-funds-to-31aea5f973a5, Information-disclosure
 - https://web.archive.org/web/20211020083928/https://medium.com/@rahulnaidu_92192/unauthorized-access-to-all-the-users-account-c087511fe42a, Account-takeover
@@ -2683,7 +2682,6 @@
 - https://bugs.xdavidhu.me/google/2020/03/08/the-unexpected-google-wide-domain-check-bypass/, Logic-flaw
 - https://medium.com/ctf-writeups/breaking-the-competition-bug-bounty-write-up-ca7cb7bc53f5, Race-condition
 - https://medium.com/@adonkidz7/google-ads-self-xss-html-injection-5000-52280da76c80, Self-XSS
-- https://medium.com/cyberverse/got-bounty-with-account-takeover-ato-unicode-case-mapping-collision-d23a7785e1be, Account-takeover
 - https://posts.specterops.io/abusing-slack-for-offensive-operations-2343237b9282, Logic-flaw
 - https://medium.com/a-bugz-life/exploiting-an-ssrf-trials-and-tribulations-14c5d8dbd69a, SSRF
 - https://medium.com/@ducanhbui/manageengine-servicedesk-plus-arbitrary-file-upload-4bab0bd00425, Arbitrary-file-upload
@@ -3295,7 +3293,6 @@
 - https://web.archive.org/web/20200811013311/https://medium.com/@protector47/persistent-cross-site-scripting-on-redacted-worth-2-000-1e760617ccab, Stored-XSS
 - https://medium.com/intigriti/how-i-hijacked-your-account-when-you-opened-my-cat-picture-9a0a0acca9e8, Logout-CSRF
 - https://medium.com/@Mthirup/hacking-your-own-antivirus-for-fun-and-profit-safe-browsing-gone-wrong-365db9d1d3f7, Reflected-XSS
-- https://medium.com/@alirazzaq/subdomain-takeover-worth-200-ed73f0a58ffe, Subdomain-takeover
 - https://medium.com/@maxon3/reflected-dom-xss-and-clickjacking-on-https-silvergoldbull-de-bt-html-daa36bdf7bf0, DOM-XSS
 - https://medium.com/@aniltom/open-redirect-vulnerability-in-udacity-com-7cba7abcfd48, Open-redirect
 - https://medium.com/@mahitman1/hacking-a-crypto-debit-card-service-730f287aaee7, SQL-injection
@@ -3388,7 +3385,6 @@
 - https://pulsesecurity.co.nz/advisories/ManageEngine-OpManager-RCE, RCE
 - https://medium.com/bugbountywriteup/responsible-disclosure-how-i-could-have-booked-movie-tickets-through-other-user-accounts-2db26a037b4c, Password-reset
 - https://medium.com/@jonathanbouman/reflected-client-xss-amazon-com-7b0d3cec787, Reflected-XSS
-- https://web.archive.org/web/20191219011308/https://medium.com/@tahasmily2013m/i-have-found-vulnerability-in-360totalsecurity-is-reflected-xss-in-3a6bd602bb5a, Reflected-XSS
 - https://medium.com/@khaled.hassan/the-2-5-btc-stored-xss-f2f9393417f2, Stored-XSS
 - https://medium.com/@black_b/vulnerability-netflix-cross-site-scripting-xss-d44010142e2c, Reflected-XSS
 - https://medium.com/@jonathanbouman/unvalidated-open-redirect-bol-com-b270151380e6, Open-redirect
@@ -3423,7 +3419,6 @@
 - https://medium.com/bugbountywriteup/disclose-private-video-thumbnail-from-facebook-workplace-52b6ec4d73b7, IDOR
 - https://medium.com/@evilboyajay/stealing-money-from-one-account-to-another-account-d7c5ee68922b, Logic-flaw
 - https://sysdream.com/news/lab/2018-04-30-multiple-security-vulnerabilities-in-domains-belonging-to-google/, Broken-Access-Control
-- https://medium.com/@logicbomb_1/bugbounty-how-i-was-able-to-bypass-firewall-to-get-rce-and-then-went-from-server-shell-to-get-783f71131b94, RCE
 - https://medium.com/@mdisrail2468/bypassing-the-confirmation-email-for-newsletter-bof-nl-682c05cb927f, Authorization-flaw
 - https://medium.com/@sivakrishnasamireddi/how-i-earned-60k-from-private-program-71bd51554490, Open-redirect
 - https://medium.com/@nuraalamdipu/xss-403-forbidden-bypass-write-up-e070de52bc06, XSS

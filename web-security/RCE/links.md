@@ -131,3 +131,4 @@
 - https://web.archive.org/web/20220922223136/https://ipanda.co.in/blog0.html
 - https://medium.com/@amnotacat/how-companies-need-to-widen-there-scopes-75ba19ac50c7
 - https://medium.com/cider-sec/npm-might-be-executing-malicious-code-in-your-ci-without-your-knowledge-e5e45bab2fed
+- https://medium.com/@logicbomb_1/bugbounty-how-i-was-able-to-bypass-firewall-to-get-rce-and-then-went-from-server-shell-to-get-783f71131b94

@@ -50,3 +50,4 @@
 - https://medium.com/@zahirtariq/zero-click-account-takeover-32e888d13e73
 - https://medium.com/@vasuyadav0786/5-ways-to-do-ato-in-a-single-website-cfe7e5da987e
 - https://cristivlad.medium.com/account-of-the-ceo-takeover-via-password-reset-7e55c0175425
+- https://medium.com/cyberverse/got-bounty-with-account-takeover-ato-unicode-case-mapping-collision-d23a7785e1be
