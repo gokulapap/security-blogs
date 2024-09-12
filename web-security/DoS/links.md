@@ -17,3 +17,4 @@
 - https://gatolouco.medium.com/cookie-poisoning-leads-to-dos-and-privacy-violation-8aa773547c96
 - https://doyensec.com/resources/Doyensec_Advisory_TypeORM_Q32022.pdf
 - https://www.varonis.com/blog/the-logging-dead-two-windows-event-log-vulnerabilities
+- https://medium.com/swlh/abusing-microsoft-teams-rate-limiting-for-ddos-a8238958376a

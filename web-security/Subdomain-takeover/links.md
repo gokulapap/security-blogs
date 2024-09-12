@@ -32,3 +32,4 @@
 - https://web.archive.org/web/20200822010745/https://whitehatnepal.tumblr.com/post/149985438982/reading-ubers-internal-emails-uber-bug-bounty
 - https://fireshellsecurity.team/mining-takeovers-for-fun-and-profit/
 - https://medium.com/@alirazzaq/subdomain-takeover-worth-200-ed73f0a58ffe
+- https://web.archive.org/web/20201123204430/https://www.mohamedharon.com/2020/06/all-intercomhelp-subdomains-vulnerable.html

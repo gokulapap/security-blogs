@@ -732,7 +732,6 @@
 - https://yaseenzubair.medium.com/web-cache-poisoning-worth-it-e7c6d88797b1, Web-cache-poisoning
 - https://0xlittlespidy.medium.com/indias-aadhar-card-source-code-disclosure-via-exposed-svn-wc-db-c05519ea7761, Source-code-disclosure
 - https://medium.com/@querylab/bypass-premium-account-payment-getpocket-d813b249687c, Payment-bypass
-- https://medium.com/@mohammed01550038865/hello-hackers-a229fb5c821b, Blind-XSS
 - https://sudhanshur705.medium.com/exploring-the-world-of-esi-injection-b86234e66f91, ESI-injection
 - https://medium.com/@ashlyn.lau_17206/hooking-secret-key-to-building-custom-burp-extension-c6aeb6fd312a, SQL-injection
 - https://www.yassineaboukir.com//blog/hunting-for-amazon-cognito-security-misconfigurations/, Amazon-cognito-misconfiguration
@@ -936,7 +935,6 @@
 - https://boschko.ca/tenda_ac1200_router/, OS-command-injection
 - https://blog.blacklanternsecurity.com/p/yet-another-telerik-ui-revisit, Cryptographic-issues
 - https://blog.doyensec.com/2022/10/18/cloudsectidbit-dataimport.html, Cloud
-- https://www.synacktiv.com/en/publications/php-filters-chain-what-is-it-and-how-to-use-it.html, Insecure-deserialization
 - https://securityintelligence.com/posts/analysis-rce-vulnerability-cobalt-strike/, RCE
 - https://sector7.computest.nl/post/2022-10-iconics-genesis64/, RCE
 - https://lokeshdlk77.medium.com/facebook-sms-captcha-was-vulnerable-to-csrf-attack-8db537b1e980, CSRF
@@ -1767,7 +1765,6 @@
 - https://infosecwriteups.com/exposing-millions-of-irctc-passengers-ticket-details-53338280fb9e, IDOR
 - https://asterfiester.medium.com/5000-google-idor-vulnerability-writeup-c7b45926abe9, IDOR
 - https://vedanttekale20.medium.com/how-i-found-my-first-aem-related-bug-5ea901aad3f4, LFR
-- https://kattraxler.github.io/gcp/hacking/2021/09/10/gcp-org-policy-bypass-ai-notebooks.html, Authorization-flaw
 - https://sank-dahal.medium.com/how-i-was-able-to-delete-any-facebook-story-where-am-i-mentioned-or-tagged-10c38a50e55c, Logic-flaw
 - https://wojciechregula.blog/post/change-home-directory-and-bypass-tcc-aka-cve-2020-27937/, Privacy-issue
 - https://github.com/justinsteven/advisories/blob/master/2021_github_actions_checkspelling_token_leak_via_advice_symlink.md, Logic-flaw
@@ -2517,7 +2514,6 @@
 - https://blog.it-securityguard.com/how-i-made-more-than-30k-with-jolokia-cves/, Reflected-XSS
 - https://medium.com/@abireena2002/how-i-managed-to-escalate-privilege-as-admin-94b8dc910d14, Lack-of-rate-limiting
 - https://medium.com/@muztahidultanim/how-i-was-able-to-buy-t-shirt-for-1-payment-price-manipulation-36b4d6a30034, Payment-tampering
-- https://web.archive.org/web/20201123204430/https://www.mohamedharon.com/2020/06/all-intercomhelp-subdomains-vulnerable.html, Subdomain-takeover
 - https://www.ehpus.com/post/smtp-injection-in-gsuite, SMTP-injection
 - https://medium.com/bugbountywriteup/reflected-user-input-xss-c3e681710e74, Reflected-XSS
 - https://ysamm.com/?p=460, Privilege-escalation
@@ -2528,7 +2524,6 @@
 - https://medium.com/@NinadMishra/dos-and-bugbounties-a-series-of-dos-attacks-on-hackerone-9c8316e192c9, DoS
 - https://medium.com/@mudassirsharief58/hunt-for-sql-injection-the-smart-way-db85243a4e90, SQL-injection
 - https://medium.com/@bachrudinashari/privilege-escalation-by-changing-http-response-admin-access-5e67c44713f6, Privilege-escalation
-- https://medium.com/swlh/abusing-microsoft-teams-rate-limiting-for-ddos-a8238958376a, DoS
 - https://hackingiscool.pl/cmdhijack-command-argument-confusion-with-path-traversal-in-cmd-exe/, OS-command-injection
 - https://medium.com/@__mr_beast__/the-accidental-rce-7ceef9cee179, Unrestricted-file-upload
 - https://www.cyberonesecurity.com/blog/local-privilege-escalation-discovered-in-vmware-fusion, Local-Privilege-Escalation
