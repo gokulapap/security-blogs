@@ -117,3 +117,4 @@
 - https://www.appsecure.security/blog/dubsmash-bola-security-vulnerability
 - https://edmundaa222.medium.com/poc-update-business-fyi-message-as-facebook-page-analyst-d36170fdede2
 - https://blog.evanricafort.com/2019/08/read-other-user-support-tickets-in.html
+- https://www.scrawledsecurityblog.com/2022/11/automating-unsolicited-richard-pics.html

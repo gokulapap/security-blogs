@@ -40,3 +40,4 @@
 - https://hector0x.medium.com/easy-sqli-in-amazon-subsidiary-using-sqlmap-ff469013671b
 - https://blog.viettelcybersecurity.com/moveit-transfer-cve/
 - https://medium.com/@ratnadip1998/admin-panel-accessed-via-sql-injection-ezy-boooom-57dc60c2815f
+- https://akashroxstarz.medium.com/hey-waf-better-luck-next-time-a1df7f444863

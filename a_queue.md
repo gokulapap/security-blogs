@@ -819,7 +819,6 @@
 - https://offsec.space/posts/airtel-vulnerabilities/, Arbitrary-Code-Execution
 - https://infosecwriteups.com/unique-rate-limit-bypass-worth-1800-6e2947c7d972, Rate-limiting-bypass
 - https://medium.com/@sharp488/access-any-owner-account-without-authentication-auth-bypass-2fa-bypass-94d0d3ef0d9c, Authentication-bypass
-- https://www.scrawledsecurityblog.com/2022/11/automating-unsolicited-richard-pics.html, IDOR
 - https://bhashit.in/?p=117, OS-command-injection
 - https://medium.com/@protostar0/hacking-bank-the-second-story-of-finding-critical-vulnerabilities-on-banking-application-ac20cd8f3dad, Android
 - https://infosecwriteups.com/a-great-weekend-hack-worth-8k-9bfda8ab65b9, SQL-injection
@@ -1576,7 +1575,6 @@
 - https://infosecwriteups.com/idor-leads-to-leak-private-details-866563365490, IDOR
 - https://trevorspiniolas.com/doorlock/doorlock.html, DoS
 - https://medium.com/pentesternepal/a-tale-of-zero-click-account-takeover-56b51fdbd7ae, Account-takeover
-- https://snapsec.co/blog/Abusing-Business-logic-of-an-application-to-create-backdoor-in-APP/, Logic-flaw
 - https://m7-arman.medium.com/one-click-to-account-takeover-1f78c6003eba, Mass-assignment
 - https://bugs.xdavidhu.me/google/2021/12/31/fixing-the-unfixable-story-of-a-google-cloud-ssrf/, SSRF
 - https://infosecwriteups.com/bug-hunting-journey-of-2021-1fa60b28d949, Stored-XSS
@@ -1944,7 +1942,6 @@
 - https://github.com/xbforce/Blog/blob/main/writeup/account-takeover-via-iframe-injection.md, Iframe-injection
 - https://master-sec.medium.com/the-beauty-of-chaining-client-side-bugs-759e1091eabf, CRLF-injection
 - https://web.archive.org/web/20210621221618/https://savirsuda.github.io/Github-The-Goldmine-for-P1s-and-P2s-Sensitive-Information-Exposure-via-Github-by-a-Company-Employee/, Information-disclosure
-- https://akashroxstarz.medium.com/hey-waf-better-luck-next-time-a1df7f444863, SQL-injection
 - https://cirius.medium.com/how-i-hacked-a-target-again-and-again-6db2e462221f, OAuth
 - https://feed.bugs.xdavidhu.me/bugs/0007, Browser-hacking
 - https://ledz1996.gitlab.io/blog/writeups/CVE-2021-22203-gitlab-arbitrary-file-read-write-through-kroki, Arbitrary-file-read
@@ -2718,7 +2715,6 @@
 - https://flex0geek.blogspot.com/2020/02/using-csrf-i-got-weird-account-takeover.html, CSRF
 - https://medium.com/@keshavaarav22/an-unexpected-bounty-email-bounce-issues-b9f24a35eb68, DoS
 - https://medium.com/@sushiwushi2/hijacking-shared-report-links-in-google-data-studio-75eab320c391, Authorization-flaw
-- https://web.archive.org/web/20200515015005/https://m0chan.github.io/2020/02/04/Arbitary-File-Upload-Too-Stored-XSS.html, Arbitrary-file-upload
 - https://www.perimeterx.com/tech-blog/2020/whatsapp-fs-read-vuln-disclosure/, Stored-XSS
 - https://jatindhankhar.in/blog/responsible-disclosure-breaking-out-of-a-sandboxed-editor-to-perform-rce/, RCE
 - https://blog.securitybreached.org/2020/02/04/exploiting-insecure-firebase-database-bugbounty/, Insecure-Firebase-database
@@ -3146,7 +3142,6 @@
 - https://ysamm.com/?p=35, IDOR
 - https://ysamm.com/?p=12, XSS
 - https://medium.com/@sudhanshur705/reflected-xss-in-zomato-f892d6887147, Reflected-XSS
-- https://blog.ibrahimdraidia.com/bypass-csp-framing-restriction-rule-olx/, CSP-bypass
 - https://medium.com/bugbountywriteup/command-injection-poc-72cc3743f10d, OS-command-injection
 - https://medium.com/@ritishkumarsingh/facebook-vulnerability-unremovable-facebook-group-admin-2cbf4faf55c1, Logic-flaw
 - https://medium.com/@sadiqwest01/bugbounty-how-i-hack-billion-company-5529a3ebe999, Directory-listing

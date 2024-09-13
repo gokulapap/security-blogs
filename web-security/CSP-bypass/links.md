@@ -3,3 +3,4 @@
 - https://medium.com/bugbountywriteup/bypass-csp-by-abusing-xss-filter-in-edge-43e9106a9754
 - https://web.archive.org/web/20220303093431/https://securitygoat.medium.com/bug-bounty-stories-1-tale-of-csp-bypass-in-an-electron-app-f669f6ecefc9
 - https://octagon.net/blog/2022/05/29/bypass-csp-using-wordpress-by-abusing-same-origin-method-execution/
+- https://blog.ibrahimdraidia.com/bypass-csp-framing-restriction-rule-olx/
