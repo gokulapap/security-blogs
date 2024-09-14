@@ -512,7 +512,6 @@
 - https://blog.doyensec.com/2023/03/16/ssrf-remediation-bypass.html, SSRF
 - https://medium.com/@abdulparkar9554/facebook-creator-studio-misconfiguration-348b0ee38c31, Session-expiration-issue
 - https://medium.com/@minometidji/oauth-authentication-misconfiguration-cb43c3b3ec24, OAuth
-- https://infosecwriteups.com/bypassing-character-limit-xss-using-spanned-payload-7301ffac226e, XSS
 - https://shahjerry33.medium.com/lfi-an-interesting-tweak-9c5638dbdd1b, LFI
 - https://www.sjoerdlangkemper.nl/2023/03/15/textcube-sql-injection-session-ip-spoofing/, SQL-injection
 - http://blog.sysdum.net/parameter-injection-to-rce, RCE
@@ -712,7 +711,6 @@
 - https://www.imperva.com/blog/google-chrome-symstealer-vulnerability/, Local-Privilege-Escalation
 - https://andika-here.medium.com/how-i-earned-1000-from-business-logic-vulnerability-account-takeover-f03547950c82, Logic-flaw
 - https://erasec.be/blog/client-side-path-manipulation/, Client-side-Path-Traversal
-- https://dhakalbibek.medium.com/2022-a-year-of-fascinating-discoveries-d3277dfb006f, CSRF
 - https://krevetk0.medium.com/hacking-hackers-for-fun-and-profit-784e6c7897e8, Self-XSS
 - https://www.vulnano.com/2023/01/meta-quest-attacker-could-make-any.html, IDOR
 - https://ymohagheghi.medium.com/uploading-the-webshell-using-filename-of-content-disposition-header-story-59ba87752311, Unrestricted-file-upload
@@ -1531,7 +1529,6 @@
 - https://bxmbn.medium.com/how-i-made-15-000-by-hacking-caching-servers-part-1-5541712a61c3, Web-cache-poisoning
 - https://lohigowda.medium.com/paytm-broken-link-hijacking-11624e4e9eef, Broken-link-hijacking
 - https://docs.google.com/document/d/1-TTCS6fS6kvFUkoJmX4Udr-czQ79lSUVXiWsiAED_bs/edit, RCE
-- https://medium.com/@LIL__NIX/the-story-of-a-rce-on-a-java-web-application-2e400cddcd1e, RCE
 - https://sirleeroyjenkins.medium.com/bypassing-ssrf-protection-to-exfiltrate-aws-metadata-from-larksuite-bf99a3599462, SSRF
 - https://infosecwriteups.com/the-story-of-a-rce-on-a-java-web-application-2e400cddcd1e, Insecure-deserialization
 - https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/cve-2020-0696-microsoft-outlook-security-feature-bypass-vulnerability/, URL-validation-bypass
@@ -2101,7 +2098,6 @@
 - https://shubhamchaskar.com/ato-through-pe/, Privilege-escalation
 - https://github.com/champtar/blog/tree/main/K8S_MITM_LoadBalancer_ExternalIPs, MiTM
 - https://infosecwriteups.com/somebody-call-the-plumber-graphql-is-leaking-again-654bf1a38d26, Information-disclosure
-- https://web.archive.org/web/20210226210519/https://savirsuda.github.io/IDOR-to-view-personal-email-addresses-of-more-than-50k-users/, IDOR
 - https://saajan.bhujel.cyou/blog/web/2021-02-26-password-reset-token-leak-via-x-forwarded-host, Host-header-injection
 - https://blog.evanricafort.com/2021/02/hijacking-reset-password-link-in.html, Host-header-injection
 - https://web.archive.org/web/20210227092343/https://tommysuriel.medium.com/csrf-through-url-with-tag-parameter-c8ef585bded3, CSRF
@@ -2612,7 +2608,6 @@
 - https://blog.evanricafort.com/2020/04/xss-in-peerio-2-windows-application.html, XSS
 - https://web.archive.org/web/20200426140225/https://medium.com/@aungpyaehackeronetester/web-cache-poisoning-in-postmates-1500-a67eee4fc118, Web-cache-poisoning
 - https://medium.com/@aungpyaehackeronetester/two-factor-authentication-bypass-50-5b397e68cfed, MFA-bypass
-- https://baibhavjha.com.np/blogs/hidinginclosefriendlist/, Authorization-flaw
 - https://medium.com/@mohameddaher/from-p5-to-p5-to-p2-from-nothing-to-1000-bxss-4dd26bc30a82, Race-condition
 - https://web.archive.org/web/20200513210337/https://medium.com/bugbountywriteup/the-secret-sauce-of-bug-bounty-bdcc2e2d45af, CSTI
 - https://medium.com/@vincenz/exploiting-a-race-condition-vulnerability-3f2cb387a72, Race-condition

@@ -61,3 +61,4 @@
 - https://medium.com/@agrawalsmart7/how-i-hacked-74k-users-of-a-website-869e8a0b319
 - https://blog.darabi.me/2015/03/facebook-bypass-ads-account-roles.html
 - https://kattraxler.github.io/gcp/hacking/2021/09/10/gcp-org-policy-bypass-ai-notebooks.html
+- https://baibhavjha.com.np/blogs/hidinginclosefriendlist/
