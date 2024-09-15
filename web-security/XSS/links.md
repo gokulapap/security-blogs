@@ -139,3 +139,4 @@
 - https://medium.com/@m4shahab1/magic-xss-with-two-parameters-463559b03949
 - https://blog.yappare.com/2020/10/i-had-fun-with-this-xss.html
 - https://infosecwriteups.com/bypassing-character-limit-xss-using-spanned-payload-7301ffac226e
+- https://medium.com/@A0g/xss-via-qr-code-8022a1a0309f
