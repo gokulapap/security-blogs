@@ -1,1 +1,2 @@
 - https://medium.com/@shakti.gtp/utilizing-lockdown-blind-sqli-leads-to-account-takeover-data-extraction-3705ce8bdb62
+- https://ahussam.me/Blind-sqli-Hootsuite/

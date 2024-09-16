@@ -25,3 +25,4 @@
 - https://web.archive.org/web/20220611144030/https://medium.com/@pmmali/my-first-cve-2022-31289-4081c57e90fb
 - https://blog.securitybreached.org/2017/12/10/how-i-was-able-to-takeover-facebook-account-bug-bounty-poc/
 - https://bergee.it/blog/how-i-found-multiple-critical-bugs-in-red-bull/
+- https://web.archive.org/web/20200928015008/https://pwnsec.ninja/2020/03/04/bug-bounty-catches-part-1/
