@@ -2,3 +2,4 @@
 - https://medium.com/@imunissar786/awesome-host-header-injection-worth-2k-a7e5be1dbb1d
 - https://b3nac.github.io/bugs/2018/09/01/How-I-could-have-launched-a-spear-phishing-campaign-with-Starbucks-newsletter-signup.html
 - https://www.pethuraj.com/blog/how-i-earned-800-for-host-header-injection-vulnerability/
+- https://web.archive.org/web/20200530191901/https://vict0ni.me/multiple-header-injections-bug-hunting/

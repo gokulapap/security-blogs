@@ -119,3 +119,4 @@
 - https://blog.evanricafort.com/2019/08/read-other-user-support-tickets-in.html
 - https://www.scrawledsecurityblog.com/2022/11/automating-unsolicited-richard-pics.html
 - https://web.archive.org/web/20210226210519/https://savirsuda.github.io/IDOR-to-view-personal-email-addresses-of-more-than-50k-users/
+- https://apapedulimu.click/tag-myself-in-your-favorite-tiktok-artist-video-idor/

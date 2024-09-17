@@ -1,0 +1,1 @@
+- https://www.gosecure.net/blog/2023/04/26/never-connect-to-rdp-servers-over-untrusted-networks/

@@ -62,3 +62,4 @@
 - https://blog.darabi.me/2015/03/facebook-bypass-ads-account-roles.html
 - https://kattraxler.github.io/gcp/hacking/2021/09/10/gcp-org-policy-bypass-ai-notebooks.html
 - https://baibhavjha.com.np/blogs/hidinginclosefriendlist/
+- https://medium.com/@tarekmohamed_20773/add-new-user-with-admin-permission-and-takeover-the-organization-6318ee10154a
