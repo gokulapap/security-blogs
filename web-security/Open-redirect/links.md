@@ -37,3 +37,4 @@
 - https://blog.scrt.ch/2021/02/25/stealing-user-passwords-through-a-vpns-sso/
 - https://web.archive.org/web/20200904145527/https://medium.com/@protector47/how-i-find-open-redirect-vulnerability-in-redacted-com-one-of-the-top-payment-gateway-e9b92afdc114
 - https://medium.com/@minometidji/how-i-bypassed-open-redirect-and-i-have-get-reward-from-yandex-5df5de836718
+- https://shahjerry33.medium.com/open-redirection-qr-code-magic-18ace1a0170f

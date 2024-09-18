@@ -596,7 +596,6 @@
 - https://vengeance.medium.com/found-an-url-in-the-android-application-source-code-which-lead-to-an-idor-1b8768708756, Android
 - https://medium.com/@niraj1mahajan/hacking-the-search-bar-the-story-of-discovering-and-reporting-an-xss-vulnerability-on-bing-com-cac2f241835, XSS
 - https://blog.trailofbits.com/2023/02/16/suid-logic-bug-linux-readline/, Local-Privilege-Escalation
-- https://medium.com/@win3zz/facebook-bug-a-journey-from-code-execution-to-s3-data-leak-698b7d2b02ef, RCE
 - https://blog.infiltrateops.io/hacking-apple-two-successful-exploits-and-positive-thoughts-on-their-bug-bounty-program-963efe7518f6, RCE
 - https://decoder.cloud/2023/02/16/eop-via-arbitrary-file-write-overwite-in-group-policy-client-gpsvc-cve-2022-37955/, Local-Privilege-Escalation
 - https://blog.yeswehack.com/talent-development/server-side-prototype-pollution-how-to-detect-and-exploit/, Server-side-prototype-pollution
@@ -1133,7 +1132,6 @@
 - https://bugra.ninja/posts/cloudshell-command-injection/, OS-command-injection
 - https://krausefx.com/blog/ios-privacy-instagram-and-facebook-can-track-anything-you-do-on-any-website-in-their-in-app-browser, Privacy-issue
 - https://onekey.com/blog/advisory-cisco-small-business-rv-series-routers-web-filter-database-update-command-injection-vulnerability/, OS-command-injection
-- https://srcincite.io/blog/2022/08/09/from-shared-dash-to-root-bash-pre-authenticated-rce-in-vmware-vrealize-operations-manager.html, Authentication-bypass
 - https://petrusviet.medium.com/dancing-on-the-architecture-of-vmware-workspace-one-access-eng-ad592ae1b6dd, Authentication-bypass
 - https://medium.com/@the_harvester/bypassed-cloudflares-web-application-firewall-waf-44da57f3a1d3, XSS
 - http://blog.h4rsh4d.com/2022/08/open-redirect-bypass.html, Open-redirect
@@ -1594,7 +1592,6 @@
 - https://medium.com/@mohamedtaha_42562/how-i-found-xss-vulnerability-in-amazon-in-5-minutes-using-shodan-50b583655297, XSS
 - https://prashantbhatkal2000.medium.com/svg-based-stored-xss-ee6e9b240dee, Stored-XSS
 - https://infosecwriteups.com/a-story-about-a-not-so-direct-ssrf-b2b98e128af0, SSRF
-- https://shahjerry33.medium.com/open-redirection-qr-code-magic-18ace1a0170f, Open-redirect
 - https://thalium.github.io/blog/posts/leaking-aslr-through-rdp-printer-cache-registry/, Memory-corruption
 - https://jonbottarini.com/2021/12/09/dont-reply-a-clever-phishing-method-in-apples-mail-app/, Phishing
 - https://outflank.nl/blog/2021/12/09/a-phishing-document-signed-by-microsoft/, Phishing
@@ -2177,7 +2174,6 @@
 - https://johnjhacking.com/blog/unep-breach/, Information-disclosure
 - https://blog.cybercastle.io/weblogic-remote-code-execution-exploiting-cve-2019-2725/, RCE
 - https://medium.com/bugbountywriteup/unauthorized-access-to-odata-entities-2k-bounty-from-microsoft-e070b2ef88c2, Authorization-flaw
-- https://rajeshranjan457.medium.com/how-i-was-able-to-regain-access-to-account-deleted-by-admin-leading-to-a2c29025f8cd, Logic-flaw
 - https://parsiya.net/blog/2021-01-08-a-novel-way-to-bypass-executable-signature-checks-with-electron/, Local-Privilege-Escalation
 - https://www.darabi.me/2020/12/create-invisible-post-on-any-facebook.html, IDOR
 - https://niemand.com.ar/2021/01/08/exploiting-application-level-profile-semantics-apls-from-spring-data-rest/, APLS-misconfiguration
@@ -2215,7 +2211,6 @@
 - https://medium.com/@3bodymo/how-i-hacked-ibm-and-got-full-access-on-many-services-ecf1dab4a054, Information-disclosure
 - https://security.lauritz-holtmann.de, CSRF
 - https://jayateerthag.medium.com/download-filename-manipulation-due-to-improper-rendering-of-rtlo-characters-69e2751a8f28, RTLO
-- https://baibhavjha.com.np/blogs/fblitegroupmemberdisclosure/, Authorization-flaw
 - https://medium.com/@yaala/confirm-an-email-address-belonging-to-a-specific-user-fe9c305e0af, Information-disclosure
 - https://infosecwriteups.com/how-i-hacked-facebook-part-one-282bbb125a5d, Missing-authentication
 - https://ph-hitachi.medium.com/how-i-got-my-first-bug-bounty-in-intersting-target-lfi-to-sxss-58fa5c4f5882, LFI

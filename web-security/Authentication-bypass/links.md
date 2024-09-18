@@ -26,3 +26,4 @@
 - https://blog.securitybreached.org/2017/12/10/how-i-was-able-to-takeover-facebook-account-bug-bounty-poc/
 - https://bergee.it/blog/how-i-found-multiple-critical-bugs-in-red-bull/
 - https://web.archive.org/web/20200928015008/https://pwnsec.ninja/2020/03/04/bug-bounty-catches-part-1/
+- https://srcincite.io/blog/2022/08/09/from-shared-dash-to-root-bash-pre-authenticated-rce-in-vmware-vrealize-operations-manager.html
