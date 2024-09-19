@@ -1,0 +1,1 @@
+- https://portswigger.net/research/bypassing-csp-via-dom-clobbering

@@ -1,2 +1,3 @@
 - https://www.seekurity.com/blog/general/openproject-session-management-security-vulnerability/
 - https://fadhilthomas.github.io/post/facebook-white-hat-01/
+- https://medium.com/swlh/reusing-cookies-23ed4691122b

@@ -320,7 +320,6 @@
 - https://ssd-disclosure.com/ssd-advisory-roundcube-markasjunk-rce/, RCE
 - https://jhftss.github.io/CVE-2022-32902-Patch-One-Issue-and-Introduce-Two/, TCC-bypass
 - https://blog.redteam-pentesting.de/2023/storing-passwords/, Pass-the-Hash
-- https://portswigger.net/research/bypassing-csp-via-dom-clobbering, DOM-Clobbering
 - https://infosecwriteups.com/send-email-from-anyone-to-any-user-outlook-microsoft-69fce333066d, Open-mail-relay
 - https://medium.com/@chenshiri/aws-chain-attack-thousands-of-vulnerable-eks-clusters-701cbd963907, AWS-Kubernetes
 - https://github.com/Sudistark/BB-Writeups/blob/main/2023/prototype-pollution-akamai.md, Client-side-prototype-pollution
@@ -738,7 +737,6 @@
 - https://infosecwriteups.com/bypass-apples-redirection-process-with-the-dot-character-c47d40537202, Open-redirect
 - https://infosecwriteups.com/crlf-injection-xxx-how-was-it-possible-for-me-to-earn-a-bounty-with-the-cloudflare-waf-f581506f97f5, CRLF-injection
 - https://medium.com/supakiad-s-m3ez/microsoft-bug-reports-lead-to-ranking-on-microsoft-msrc-quarterly-leaderboard-q3-2022-c6c9f70e2ccd, XSS
-- https://keerok.github.io/2022/12/22/Flickr-Stored-XSS/, Stored-XSS
 - https://github.com/PabloMK7/ENLBufferPwn, Buffer-Overflow
 - https://research.nccgroup.com/2022/12/22/puckungfu-a-netgear-wan-command-injection/, OS-command-injection
 - https://www.synacktiv.com/sites/default/files/2022-12/sage_xrt_multiple_sqli_1.pdf, Blind-SQL-injection
@@ -2757,7 +2755,6 @@
 - https://medium.com/@ultranoob/weird-and-simple-2fa-bypass-without-any-test-b869e09ac261, MFA-bypass
 - https://blog.darabi.me/2019/12/instagram-delete-media-csrf.html, CSRF
 - https://github.com/Metnew/telegram-links-nsworkspace-open, RCE
-- https://medium.com/swlh/reusing-cookies-23ed4691122b, Session-management-issue
 - https://blog.evanricafort.com/2019/12/html-injection-to-xss-bypass-in.html, Reflected-XSS
 - https://medium.com/@navne3t/150-xss-at-error-page-of-respository-code-4fc628892742, Reflected-XSS
 - https://hipotermia.pw/bb/http-desync-idor, HTTP-request-smuggling
@@ -3461,7 +3458,6 @@
 - https://www.josipfranjkovic.com/blog/hacking-facebook-oculus-integration-csrf, CSRF
 - https://medium.com/bugbountywriteup/bugbounty-how-i-was-able-to-delete-anyones-account-in-an-online-car-rental-company-8a4022cc611, CSRF
 - https://corben.io/blog/18-1-11-chaining-yahoo-bugs, CORS-misconfiguration
-- https://medium.com/bugbountywriteup/bugbounty-how-i-was-able-to-read-chat-of-users-in-an-online-travel-portal-c55a1787f999, IDOR
 - https://blog.securitybreached.org/2018/02/04/hunting-insecure-direct-object-reference-vulnerabilities-for-fun-and-profit-part-1/, IDOR
 - https://research.digitalinterruption.com/2018/01/04/toytalk-bug-bounty-writeup/, Authentication-bypass
 - https://wwws.nightwatchcybersecurity.com/2018/01/04/rce-in-duolingos-tinycards-app-for-android-cve-2017-16905/, Content-injection
@@ -3605,7 +3601,6 @@
 - https://web.archive.org/web/20200822111544/https://whitehatnepal.tumblr.com/post/156707088037/i-got-emails-g-suite-vulnerability, Logic-flaw
 - https://medium.com/@prateek_0490/how-i-could-have-compromised-any-account-on-one-of-the-biggest-startup-based-in-california-3ebc8c6844b5, Account-takeover
 - https://httpsonly.blogspot.com/2017/01/0day-writeup-xxe-in-ubercom.html, XXE
-- https://tij.me/blog/xss-on-hema-one-of-the-largest-dutch-franchisors/, DOM-XSS
 - http://www.pranav-venkat.com/2016/12/idor-in-facebooks-acquisition-parse.html, IDOR
 - https://thehackerblog.com/the-orphaned-internet-taking-over-120k-domains-via-a-dns-vulnerability-in-aws-google-cloud-rackspace-and-digital-ocean/index.html, Domain-takeover
 - https://evilpacket.net/2016/atom-io-misconfiguration-allowed-code-execution-on-untrusted-networks/, RCE
