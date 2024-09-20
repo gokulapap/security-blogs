@@ -136,3 +136,5 @@
 - https://www.imperva.com/blog/how-scanning-your-projects-for-security-issues-can-lead-to-remote-code-execution/
 - https://medium.com/realmodelabs/sd-pwn-part-2-citrix-sd-wan-center-another-network-takeover-a9c950a1a27c
 - https://medium.com/@win3zz/facebook-bug-a-journey-from-code-execution-to-s3-data-leak-698b7d2b02ef
+- https://blog.bricked.tech/posts/exiftool/
+- https://blog.nyangawa.me/security/CVE-2018-18649-Gitlab-RCE/

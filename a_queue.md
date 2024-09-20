@@ -356,7 +356,6 @@
 - https://shahjerry33.medium.com/stored-iframe-injection-permanent-open-redirection-zero-day-ce7cd15903ac, HTML-injection
 - https://blog.pretera.com/how-misconfigured-and-vulnerable-devices-could-expose-your-company-to-physical-and-cyber-threats-37d0e0d8d158, IoT
 - https://corben.io/blog/hacking-kucoin, Information-disclosure
-- https://www.synacktiv.com/sites/default/files/2023-05/Synacktiv-Webflow-Arbitrary-Email-Forgery.pdf, Email-spoofing
 - https://nasbench.medium.com/lolbined-finding-lolbins-in-av-uninstallers-bf29427d3cd8, Local-Privilege-Escalation
 - https://medium.com/@zhero_/dos-via-cache-poisoning-38f3a87f997c, Web-cache-deception
 - https://posts.specterops.io/from-da-to-ea-with-esc5-f9f045aa105c, Active-Directory-Privilege-Escalation
@@ -964,7 +963,6 @@
 - https://c0nqr0r.medium.com/error-based-sql-injection-with-waf-bypass-manual-exploit-100-bab36b769005, SQL-injection
 - https://itnext.io/a-deep-dive-of-cve-2022-33987-got-allows-a-redirect-to-a-unix-socket-cdeed53944f7, SSRF
 - https://pseudorandom.resistant.tech/disclosing-security-and-privacy-issues-in-thunderbird.html, Privacy-issue
-- https://medium.com/@amithc38/how-i-found-a-p1-bug-a9873819a2d0, Authentication-bypass
 - https://blog.bricked.tech/posts/tmnf/part1/, RCE
 - https://blog.sonarsource.com/securing-developer-tools-a-new-supply-chain-attack-on-php/, Argument-injection
 - https://medium.com/@302Found/bugcrowd-tale-of-multiple-misconfigurations-cb5b98f09302, Account-takeover
@@ -1981,7 +1979,6 @@
 - https://n45ht.or.id/post/reflected-dom-xss-on-domainesia/en, XSS
 - https://n45ht.or.id/post/exploiting-xss-via-markdown-on-xiaomi/en, XSS
 - https://blog.sonarsource.com/wordpress-xxe-security-vulnerability/, XXE
-- https://blog.bricked.tech/posts/exiftool/, RCE
 - https://n45ht.or.id/post/reflected-xss-on-microsoft/en, Reflected-XSS
 - https://r29k.com/articles/bb/ato, Open-redirect
 - https://wwws.nightwatchcybersecurity.com/2021/04/25/supply-chain-attacks-via-github-com-releases/, Logic-flaw
@@ -2128,7 +2125,6 @@
 - https://pullerjsecu.medium.com/how-i-was-able-to-turn-a-xss-into-a-account-takeover-ae0c478640e7, Web-cache-poisoning
 - https://sunilyedla.medium.com/stealing-chat-session-id-with-cors-and-execute-csrf-attack-f9f7ea229db1, CSRF
 - https://web.archive.org/web/20210204093332/https://nhiephon1337.medium.com/1st-facebook-bug-bounty-disclose-pages-admin-to-mod-admin-of-group-c3161c22c858, Information-disclosure
-- https://mrd0x.com/spoofing-and-attacking-with-skype/, Spoofing
 - https://amineaboud.medium.com/access-developer-tasks-list-of-any-of-facebook-application-graphql-idor-62307c5e5b34, IDOR
 - https://amineaboud.medium.com/disclose-the-fb-profile-of-facebook-employees-who-create-official-announcement-messages-bug-76554068caf7, Information-disclosure
 - https://avanishpathak46.medium.com/an-account-takeover-vulnerability-due-to-response-manipulation-e23fe629bd1, Authentication-bypass
@@ -3149,7 +3145,6 @@
 - https://medium.com/@maxpasqua/unremovable-tags-in-facebook-page-reviews-656e095e69aa, Logic-flaw
 - https://mohemiv.com/all/exploiting-xxe-with-local-dtd-files/, XXE
 - https://medium.com/bugbountywriteup/open-redirect-developers-are-lazy-or-maybe-busy-6c51718b10e4, Open-redirect
-- https://blog.nyangawa.me/security/CVE-2018-18649-Gitlab-RCE/, RCE
 - https://honoki.net/2018/12/from-blind-xxe-to-root-level-file-read-access/, Blind-XXE
 - https://medium.com/bugbountywriteup/how-i-was-able-to-generate-access-tokens-for-any-facebook-user-6b84392d0342, IDOR
 - https://medium.com/bugbountywriteup/token-brute-force-to-account-take-over-to-privilege-escalation-to-organization-take-over-650d14c7ce7f, Account-takeover

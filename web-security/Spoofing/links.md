@@ -1,3 +1,4 @@
 - https://blog.syss.com/posts/abusing-ms-teams-direct-routing/
 - https://zerocode-ph.medium.com/spoof-as-another-facebook-user-to-report-an-impostor-account-f2dd6683744d
 - https://zerocode-ph.medium.com/page-admin-disclosure-when-posting-a-reel-1bfac9bd7f71
+- https://mrd0x.com/spoofing-and-attacking-with-skype/

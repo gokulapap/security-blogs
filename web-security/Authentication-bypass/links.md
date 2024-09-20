@@ -27,3 +27,4 @@
 - https://bergee.it/blog/how-i-found-multiple-critical-bugs-in-red-bull/
 - https://web.archive.org/web/20200928015008/https://pwnsec.ninja/2020/03/04/bug-bounty-catches-part-1/
 - https://srcincite.io/blog/2022/08/09/from-shared-dash-to-root-bash-pre-authenticated-rce-in-vmware-vrealize-operations-manager.html
+- https://medium.com/@amithc38/how-i-found-a-p1-bug-a9873819a2d0
