@@ -2,3 +2,4 @@
 - https://wwws.nightwatchcybersecurity.com/2021/12/30/whatsapp-for-android-retains-deleted-contacts-locally/
 - https://rashahacks.com/privacy-violation-in-chat-system/
 - https://blog.zimperium.com/telegram-hack/
+- https://www.reversemode.com/2022/06/de-anonymization-attacks-against-proton.html

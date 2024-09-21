@@ -2,3 +2,4 @@
 - https://blog.evanricafort.com/2019/08/application-level-denial-of-service-dos.html
 - https://ltsirkov.medium.com/gitlab-denial-of-service-via-login-panel-functionality-684c8583706c
 - https://medium.com/@lokesh.leads13/disallow-any-hackerone-user-permanent-access-to-his-her-own-hackerone-account-using-vulnerability-147ce9957692
+- https://medium.com/@tobydavenn/how-i-got-my-first-cve-a157606cc86e

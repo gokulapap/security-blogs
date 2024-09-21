@@ -1194,7 +1194,6 @@
 - https://medium.com/@bhatiagaurav1211/ability-to-login-as-google-staff-in-google-cloud-community-57c45809de05, Privilege-escalation
 - https://medium.com/@milanjain7906/good-recon-leads-to-senssitive-accounts-a8abb6c21333, Information-disclosure
 - https://medium.com/@evilmango/this-is-what-i-call-mass-idor-20e6ec146c0e, Lack-of-rate-limiting
-- https://medium.com/@tobydavenn/how-i-got-my-first-cve-a157606cc86e, Application-level-DoS
 - https://medium.com/@shaunak007/how-i-spammed-a-google-meet-but-for-good-8bc5b328f1bb, DoS
 - https://www.gosecure.net/blog/2022/07/13/tableau-server-leaks-sensitive-information-from-reflected-xss/, Reflected-XSS
 - https://infosecwriteups.com/abusing-url-shortners-for-fun-and-profit-c83c67713916, Information-disclosure
@@ -1276,7 +1275,6 @@
 - https://blog.viettelcybersecurity.com/cve-2022-1040-sophos-xg-firewall-authentication-bypass/, Authentication-bypass
 - https://www.shielder.com/advisories/autodesk-fusion-import-svg-blind-xxe/, XXE
 - https://jfrog.com/blog/denial-of-service-vulnerability-in-envoy-proxy-cve-2022-29225/, Zip-bomb
-- https://www.reversemode.com/2022/06/de-anonymization-attacks-against-proton.html, Privacy-issue
 - https://www.cyberark.com/resources/threat-research-blog/extracting-clear-text-credentials-directly-from-chromium-s-memory, Browser-hacking
 - https://www.r29k.com/articles/bb/account-takeover-via-idors, IDOR
 - https://www.zerodayinitiative.com/blog/2022/6/7/cve-2022-26937-microsoft-windows-network-file-system-nlm-portmap-stack-buffer-overflow, Buffer-Overflow
@@ -1576,7 +1574,6 @@
 - https://infosecwriteups.com/massive-users-account-takeovers-chaining-vulnerabilities-to-idor-ea4e1b6407d2, Authentication-bypass
 - https://medium.com/@mamunwhh/information-disclosure-leads-to-sensitive-credential-35e779f6f4db, Information-disclosure
 - https://janmuhammadzaidi.medium.com/how-i-was-able-to-bypass-waf-and-find-the-origin-ip-and-a-few-sensitive-files-fc445180adb7, WAF-bypass
-- https://medium.com/@yoshimlutfi/how-i-found-p2-broken-authentication-with-zero-skill-of-hacking-c40b5643fe4a, Authentication-bypass
 - https://ssd-disclosure.com/ssd-advisory-rocket-chat-client-side-remote-code-execution/, RCE
 - https://parsiya.net/blog/2021-12-20-rce-in-visual-studio-codes-remote-wsl-for-fun-and-negative-profit/, RCE
 - https://amakki.me/stored-xss-by-bypassing-signature-61ebd83ece6, XSS
@@ -1603,7 +1600,6 @@
 - https://pathleax.medium.com/this-is-how-i-was-able-to-see-and-delete-your-private-facebook-portal-photos-a93ed22f875b, IDOR
 - https://infosecwriteups.com/how-i-hacked-yandex-with-ssrf-vulnerability-e19af20ed4d, SSRF
 - https://pawanchhabria.medium.com/how-i-accessed-the-sensitive-document-which-i-had-already-deleted-adbc1e6fbb25, Privacy-issue
-- https://www.yesnaveen.com/Instagram-ad-account-disclosure, Information-disclosure
 - https://www.varonis.com/blog/box-mfa-bypass-totp/, OTP-bypass
 - https://blog.lightspin.io/aws-sagemaker-notebook-takeover-vulnerability, Self-XSS
 - https://security.googleblog.com/2021/12/exploring-container-security-storage.html, Race-condition
@@ -1920,7 +1916,6 @@
 - https://justintaft.com/blog/2021/06/01/cve-2021-29084-synology-crlf-unauthenticated-file-downloads, CRLF-injection
 - https://notifybugme.medium.com/escalating-ssrf-to-accessing-all-user-pii-information-by-aws-metadata-aabcfd5a3e0e, SSRF
 - https://github.com/champtar/blog/tree/main/runc-symlink-CVE-2021-30465, Kubernetes
-- https://github.com/champtar/blog/tree/main/Metadata_MITM_root_EKS_GKE, Kubernetes
 - https://github.com/xbforce/Blog/blob/main/writeup/account-takeover-via-iframe-injection.md, Iframe-injection
 - https://master-sec.medium.com/the-beauty-of-chaining-client-side-bugs-759e1091eabf, CRLF-injection
 - https://web.archive.org/web/20210621221618/https://savirsuda.github.io/Github-The-Goldmine-for-P1s-and-P2s-Sensitive-Information-Exposure-via-Github-by-a-Company-Employee/, Information-disclosure

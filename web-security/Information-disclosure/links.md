@@ -120,3 +120,4 @@
 - https://flex0geek.blogspot.com/2019/10/leak-can-i-take-user-information-please.html
 - https://infosecwriteups.com/exposing-icloud-users-name-phone-numbers-and-email-addresses-d1f4a3786092
 - https://rizwansiddiqu1.medium.com/information-disclosure-via-api-misconfiguration-c05ed327f9d2
+- https://www.yesnaveen.com/Instagram-ad-account-disclosure
