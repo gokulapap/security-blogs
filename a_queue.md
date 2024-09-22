@@ -612,7 +612,6 @@
 - https://basu-banakar.medium.com/ssrf-that-allowed-us-to-access-whole-infra-web-services-and-many-more-3424f8efa0e4, SSRF
 - https://frycos.github.io/vulns4free/2023/02/12/install4j-xxe.html, XXE
 - https://pvs-studio.com/en/blog/posts/csharp/0918/, XXE
-- https://infosecwriteups.com/a-tale-of-a-full-business-takeover-red-team-diaries-fe7a6a7acaef, MITM
 - https://blog.cyberxplore.com/we-hacked-github-for-a-month-heres-what-we-found/, Pre-account-takeover
 - https://omar0x01.medium.com/hubspot-full-account-takeover-in-bug-bounty-4e2047914ab5, Account-takeover
 - https://infosecwriteups.com/disabling-js-for-the-win-9d13c606f910, Unrestricted-file-upload
@@ -1063,7 +1062,6 @@
 - https://c0nqr0r.medium.com/reading-robots-txt-got-me-4-xss-reports-9fd2234c635f, XSS
 - https://www.microsoft.com/security/blog/2022/08/31/vulnerability-in-tiktok-android-app-could-lead-to-one-click-account-hijacking/, Insecure-deeplink
 - https://med-mahmoudi26.medium.com/saving-more-than-100-000-website-from-a-watering-hole-attack-a22f63a37f94, Web-cache-poisoning
-- https://rhinosecuritylabs.com/research/cve-2022-26113-forticlient-arbitrary-file-write-as-system/, Arbitrary-file-write
 - https://abdulsec.medium.com/mfa-bypass-in-private-program-the-abdulsec-way-f677fea209f7, MFA-bypass
 - https://eslam3kl.medium.com/idor-at-login-function-leads-to-leak-users-pii-data-d77e6613e9e0, IDOR
 - https://falcon319.medium.com/my-findings-on-hack-u-s-program-43b692a5c057, Missing-authentication
@@ -1460,7 +1458,6 @@
 - https://research.nccgroup.com/2022/02/28/brokenprint-a-netgear-stack-overflow/, Memory-corruption
 - https://web.archive.org/web/20221128044142/https://wya.pl/2022/02/26/cve-2022-22947-spel-casting-and-evil-beans/, RCE
 - https://swarm.ptsecurity.com/catching-bugs-in-vmware-carbon-black-cloud-workload-appliance-and-vrealize-operations-manager/, Authentication-bypass
-- https://medium.com/@vflexo/a-weird-price-tampering-vulnerability-1251dfe8d2a1, Payment-tampering
 - https://philippeharewood.com/instagram-app-access-token/, Information-disclosure
 - https://kloudle.com/blog/piercing-the-cloud-armor-the-8kb-bypass-in-google-cloud-platform-waf, WAF-bypass
 - https://blog.teddykatz.com/2022/02/23/ghosts-of-branches-past.html, Logic-flaw
@@ -2765,7 +2762,6 @@
 - https://portswigger.net/research/cracking-recaptcha-turbo-intruder-style, Captcha-bypass
 - https://medium.com/@mohameddaher/how-i-paid-2-for-1054-xss-bug-20-chars-blind-xss-payloads-12d32760897b, XSS
 - https://web.archive.org/web/20200929013918/https://www.mohamedharon.com/2019/11/subdomain-takeover-via.html, Subdomain-takeover
-- https://medium.com/@rajasudhakar/how-i-could-delete-facebook-ask-for-recommendations-posts-place-objects-in-comments-b7c9bcdf1c92, IDOR
 - https://medium.com/@0xBarakat/broken-session-permanent-access-to-facebook-users-cfed68684113, Authentication-bypass
 - https://philippeharewood.com/disclose-the-owner-of-a-recruiting-manager-in-jobs-beta/, Information-disclosure
 - https://research.securitum.com/xss-in-amp4email-dom-clobbering/, XSS
@@ -3180,7 +3176,6 @@
 - https://xlab.tencent.com/en/2018/11/13/cve-2018-4277/, Browser-hacking
 - https://medium.com/@mrnikhilsri/oob-xxe-in-prizmdoc-cve-2018-15805-dfb1e474345c, OOB-XXE
 - https://medium.com/bugbountywriteup/dom-based-xss-or-why-you-should-not-rely-on-cloudflare-too-much-a1aa9f0ead7d, DOM-XSS
-- https://www.imperva.com/blog/facebook-privacy-bug, CSRF
 - https://mike-n1.github.io/Chain_XSS, DOM-XSS
 - http://blog.h4rsh4d.com/2018/03/olx-reflected-xss-on-resend-code-link.html, Reflected-XSS
 - https://apapedulimu.click/clickjacking-on-google-myaccount-worth-7500/, Clickjacking

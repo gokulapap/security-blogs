@@ -56,3 +56,4 @@
 - https://bountyplz.xyz/bugbounty/2023/07/30/HTML-Over-The-Wire.html
 - https://www.sec-down.com/wordpress/?p=809
 - https://dhakalbibek.medium.com/2022-a-year-of-fascinating-discoveries-d3277dfb006f
+- https://www.imperva.com/blog/facebook-privacy-bug

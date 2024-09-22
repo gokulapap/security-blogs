@@ -1,0 +1,1 @@
+- https://infosecwriteups.com/a-tale-of-a-full-business-takeover-red-team-diaries-fe7a6a7acaef
