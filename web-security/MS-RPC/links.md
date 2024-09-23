@@ -1,0 +1,1 @@
+- https://www.blackhillsinfosec.com/exploit-development-a-sincere-form-of-flattery/

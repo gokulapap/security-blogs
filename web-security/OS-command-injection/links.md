@@ -7,3 +7,4 @@
 - https://infosecwriteups.com/out-of-bond-remote-code-execution-rce-on-de-nederlandsche-bank-n-v-with-burp-suite-collaborator-2ce50260e2e4
 - https://medium.com/@ashikbhaskar94/blind-os-command-injection-87910f0d2276
 - https://www.rtcsec.com/article/kamailio-exec-module-considered-harmful/
+- https://hackingiscool.pl/cmdhijack-command-argument-confusion-with-path-traversal-in-cmd-exe/

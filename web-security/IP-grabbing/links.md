@@ -1,0 +1,1 @@
+- https://mr23r0.medium.com/crazy-smiple-insecure-design-300-bounty-16a2b8e80522

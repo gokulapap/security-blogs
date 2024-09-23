@@ -621,7 +621,6 @@
 - https://skylightcyber.com/2023/02/09/a-salt-attacking-saltstack/, SSTI
 - https://www.elttam.com/blog/cracking-randomness-in-java/, Cryptographic-issues
 - https://www.trustedsec.com/blog/azure-ad-kerberos-tickets-pivoting-to-the-cloud/, Active-Directory
-- https://www.blackhillsinfosec.com/exploit-development-a-sincere-form-of-flattery/, MS-RPC
 - https://www.zerodayinitiative.com/blog/2023/2/6/pwn2owning-two-hosts-at-the-same-time-abusing-inductive-automation-ignitions-custom-deserialization, Insecure-deserialization
 - https://jowin922.medium.com/reflected-xss-on-target-with-tough-waf-waf-bypass-3b7efd1ef2bc, Reflected-XSS
 - https://decoded.avast.io/janvojtesek/dota-2-under-attack-how-a-v8-bug-was-exploited-in-the-game/, V8-JavaScript-engine
@@ -1030,7 +1029,6 @@
 - https://medium.com/@Parag_Bagul/how-i-was-able-to-bypass-philips-authentication-c3bd3e1df9ff, Outdated-component-with-a-known-vulnerability
 - https://www.legitsecurity.com/blog/bypassing-github-required-reviewers-to-submit-malicious-code, Authorization-flaw
 - https://www.graplsecurity.com/post/attacking-firecracker, Memory-corruption
-- https://www.zerodayinitiative.com/blog/2022/9/7/riding-the-inforail-to-exploit-ivanti-avalanche-part-2, RCE
 - https://medium.com/@abbasheybati1/403-bypass-lyncdiscover-microsoft-com-db2778458c33, 403-bypass
 - https://www.whiteoaksecurity.com/blog/fun-with-cors/, CORS-misconfiguration
 - https://labs.jumpsec.com/quest-kace-desktop-authority-pre-auth-remote-code-execution-cve-2021-44031/, RCE
@@ -1360,7 +1358,6 @@
 - https://medium.com/pentesternepal/sql-injection-in-harvards-subdomain-c3148f8be156, SQL-injection
 - https://bloggerrando.blogspot.com/2022/04/15-1.html, Broken-Access-Control
 - https://medium.com/@_ip_/3-3-cache-poisoning-lateral-movement-gitlab-9c6288708576, Broken-Access-Control
-- https://mr23r0.medium.com/crazy-smiple-insecure-design-300-bounty-16a2b8e80522, IP-grabbing
 - https://firefart.at/post/multiple_vulnerabilities_cisco_expressway/, Memory-leak
 - https://debprasadbanerjee502.medium.com/united-nations-bug-bounty-writeup-4bcfdefbb8d3, Information-disclosure
 - https://www.netspi.com/blog/technical/cloud-penetration-testing/abusing-azure-hybrid-workers-part-2/, Privilege-escalation
@@ -1612,7 +1609,6 @@
 - https://medium.com/@thenighthawk0/how-i-got-my-first-bounty-on-financial-sector-gateway-site-by-using-previous-graphql-462cca7389ca, Information-disclosure
 - https://securifyinc.com/disclosures/rocketchat-monitor-messages, Authorization-flaw
 - https://wahaz.medium.com/unauthenticated-sensitive-information-disclosure-at-redacted-2702224098c, Old-components-with-known-vulnerabilities
-- https://web.archive.org/web/20220119155429/https://0xgodson.medium.com/account-takeover-in-million-company-report-rejected-whats-wrong-60041f1815fb, Account-takeover
 - https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/modsecurity-dos-vulnerability-in-json-parsing-cve-2021-42717/, DoS
 - https://zseano.medium.com/finding-xss-on-apple-com-and-building-a-proof-of-concept-to-leak-your-pii-information-d7bc93cff2df, XSS
 - https://r0.haxors.org/posts?id=26, SQL-injection
@@ -2488,7 +2484,6 @@
 - https://medium.com/@NinadMishra/dos-and-bugbounties-a-series-of-dos-attacks-on-hackerone-9c8316e192c9, DoS
 - https://medium.com/@mudassirsharief58/hunt-for-sql-injection-the-smart-way-db85243a4e90, SQL-injection
 - https://medium.com/@bachrudinashari/privilege-escalation-by-changing-http-response-admin-access-5e67c44713f6, Privilege-escalation
-- https://hackingiscool.pl/cmdhijack-command-argument-confusion-with-path-traversal-in-cmd-exe/, OS-command-injection
 - https://medium.com/@__mr_beast__/the-accidental-rce-7ceef9cee179, Unrestricted-file-upload
 - https://www.cyberonesecurity.com/blog/local-privilege-escalation-discovered-in-vmware-fusion, Local-Privilege-Escalation
 - https://medium.com/@ricardoiramar/this-is-fine-6e032f497b8f, Information-disclosure

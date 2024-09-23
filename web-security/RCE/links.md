@@ -138,3 +138,4 @@
 - https://medium.com/@win3zz/facebook-bug-a-journey-from-code-execution-to-s3-data-leak-698b7d2b02ef
 - https://blog.bricked.tech/posts/exiftool/
 - https://blog.nyangawa.me/security/CVE-2018-18649-Gitlab-RCE/
+- https://www.zerodayinitiative.com/blog/2022/9/7/riding-the-inforail-to-exploit-ivanti-avalanche-part-2
