@@ -140,3 +140,4 @@
 - https://blog.yappare.com/2020/10/i-had-fun-with-this-xss.html
 - https://infosecwriteups.com/bypassing-character-limit-xss-using-spanned-payload-7301ffac226e
 - https://medium.com/@A0g/xss-via-qr-code-8022a1a0309f
+- https://medium.com/techiepedia/the-tale-of-cve-2021-34479-vscode-xss-b336ba6cf3d6

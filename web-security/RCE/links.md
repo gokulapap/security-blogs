@@ -139,3 +139,4 @@
 - https://blog.bricked.tech/posts/exiftool/
 - https://blog.nyangawa.me/security/CVE-2018-18649-Gitlab-RCE/
 - https://www.zerodayinitiative.com/blog/2022/9/7/riding-the-inforail-to-exploit-ivanti-avalanche-part-2
+- https://medium.com/@d4ly/an-interesting-rce-on-a-synack-red-team-target-516edb63fd04

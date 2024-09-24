@@ -37,7 +37,6 @@
 - https://medium.com/@thexssrat/xss-made-easy-for-testers-developers-and-managers-b404f744ec6b, XSS
 - https://medium.com/@marxchryz/how-i-gain-access-to-the-server-administration-of-a-million-dollar-company-14da68c7a9dd, journey
 - https://medium.com/@ryuukhagetsu/how-i-get-bounty-from-takeover-account-ed17cd838b2a, ATO
-- https://medium.com/@d4ly/an-interesting-rce-on-a-synack-red-team-target-516edb63fd04, RCE
 - https://medium.com/@aob-89072/story-of-my-bugs-on-a-private-program-privilege-escalation-xss-sqli-idors-a5be4c6acbbd, journey
 - https://medium.com/@qaafqasim/discovering-login-panels-and-detecting-sql-injection-with-logsensor-42842e337244, sql-injection
 - https://medium.com/@jjainam16/otp-verification-bypass-15312498fe10, bypass
@@ -1621,7 +1620,6 @@
 - https://feed.bugs.xdavidhu.me/bugs/0008, Privilege-escalation
 - https://www.netspi.com/blog/technical/cloud-penetration-testing/azure-cloud-vulnerability-credmanifest/, Information-disclosure
 - https://omespino.com/write-up-apple-bug-bounty-n-a-arbitrary-local-file-read-via-zip-file-and-symlinks-usd/, Arbitrary-file-read
-- https://medium.com/techiepedia/the-tale-of-cve-2021-34479-vscode-xss-b336ba6cf3d6, XSS
 - https://www.oliviaohara.com/keybase, Information-disclosure
 - https://hector0x.medium.com/dos-attack-in-yahoo-how-i-was-able-to-deny-new-users-from-service-6b222e744e61, DoS
 - https://hector0x.medium.com/broken-authentication-through-referral-code-25cd0e8bccc2, Authentication-flaw
@@ -2158,7 +2156,6 @@
 - https://medium.com/bugbountywriteup/unauthorized-access-to-odata-entities-2k-bounty-from-microsoft-e070b2ef88c2, Authorization-flaw
 - https://parsiya.net/blog/2021-01-08-a-novel-way-to-bypass-executable-signature-checks-with-electron/, Local-Privilege-Escalation
 - https://www.darabi.me/2020/12/create-invisible-post-on-any-facebook.html, IDOR
-- https://niemand.com.ar/2021/01/08/exploiting-application-level-profile-semantics-apls-from-spring-data-rest/, APLS-misconfiguration
 - https://ashketchum.medium.com/blind-xss-in-google-analytics-admin-panel-3133-70-2185d1cce82a, Blind-XSS
 - https://orthonviper.medium.com/information-disclosure-through-signup-endpoint-86d2d66dfef1, Information-disclosure
 - https://krevetk0.medium.com/10-000-for-a-vulnerability-that-doesnt-exist-9dbc63684e94, Path-traversal
@@ -2279,7 +2276,6 @@
 - https://medium.com/@parasarora06/cve-2018-5230-jira-cross-site-scripting-59ec96b3d75f, Reflected-XSS
 - https://medium.com/@sechunter/ato-via-host-header-poisoning-dc5c29d2fd0d, Host-header-injection
 - https://samcurry.net/hacking-apple/, RCE
-- https://servicenger.com/blog/mobile/sve-2020-18025-unauthorised-access-to-samsung-secure-folder-files/, Authorization-flaw
 - https://praseudo.com/sensitive-info-leak-in-curve-app-bug-bounty/, Information-disclosure
 - https://www.mcafee.com/blogs/other-blogs/mcafee-labs/our-experiences-participating-in-microsofts-azure-sphere-bounty-program/, Local-privilege-escalation
 - https://blog.talosintelligence.com/2020/10/Azure-Sphere-Challenge.html, Local-privilege-escalation
@@ -3336,7 +3332,6 @@
 - https://blog.ayoubaitelmokhtar.com/2018/06/paypal-bbp-i-couldve-deleted-all-smc.html, CSRF
 - https://medium.com/@adrien_jeanneau/how-i-was-able-to-list-some-internal-information-from-paypal-bugbounty-ca8d217a397c, Expression-Language-Injection
 - https://medium.com/@logicbomb_1/bugbounty-database-hacked-of-indias-popular-sports-company-bypassing-host-header-to-sql-7b9af997c610, SQL-injection
-- https://www.imperva.com/blog/2018/06/how-i-impersonated-someone-else-using-auth0/, Logic-flaw
 - https://www.nc-lp.com/blog/searching-for-xss-found-ldap-injection, LDAP-injection
 - https://medium.com/@khaled.hassan/are-you-sure-this-is-a-trusted-email-291121028320, Open-mail-relay
 - https://thehackerblog.com/reading-your-emails-with-a-readwrite-chrome-extension-same-origin-policy-bypass-8-million-users-affected/index.html, SOP-bypass
