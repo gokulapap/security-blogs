@@ -18,3 +18,4 @@
 - https://doyensec.com/resources/Doyensec_Advisory_TypeORM_Q32022.pdf
 - https://www.varonis.com/blog/the-logging-dead-two-windows-event-log-vulnerabilities
 - https://medium.com/swlh/abusing-microsoft-teams-rate-limiting-for-ddos-a8238958376a
+- https://sagarsajeev.medium.com/dos-worth-650-interesting-right-144ff45ccf3b

@@ -579,7 +579,6 @@
 - https://medium.com/@rramgattie/exploiting-parameter-pollution-in-golang-web-apps-daca72b28ce2, Authorization-flaw
 - https://medium.com/@knassar702/with-a-single-request-you-can-kill-any-gitea-server-1275c5f3b226, Application-level-DoS
 - https://medium.com/@fattselimi/information-disclosure-vulnerability-in-adobe-experience-manager-affecting-multiple-companies-2fb0558cd957, Information-disclosure
-- https://medium.com/@chenshiri/taking-over-google-cloud-shell-by-utilizing-capabilities-and-kubelet-fd5e2417f286, Container-escape
 - https://www.vaadata.com/blog/exploiting-an-html-injection-with-dangling-markup/, HTML-injection
 - https://bishopfox.com/blog/what-the-vuln-zimbra, Zip-Slip-attack
 - https://www.synacktiv.com/sites/default/files/2023-02/Synacktiv-Nokia-BTS-AirScale-Asika-Multiple-Vulnerabilities.pdf, Base-transceiver-station
@@ -1152,7 +1151,6 @@
 - https://www.synacktiv.com/publications/cve-2022-31813-forwarding-addresses-is-hard.html, Host-header-injection
 - https://pentest.blog/advisory-roxy-wi-unauthenticated-remote-code-executions-cve-2022-31137/, RCE
 - https://medium.com/@emirpolat/cve-2022-36446-webmin-1-997-7a9225af3165, RCE
-- https://sagarsajeev.medium.com/dos-worth-650-interesting-right-144ff45ccf3b, DoS
 - https://claroty.com/team82/blog/with-management-comes-risk-finding-flaws-in-filewave-mdm, Authentication-bypass
 - https://medium.com/@talhakarakumru/how-i-gained-access-to-a-finance-companys-accounts-session-hijacking-2c6c5d9d84bd, Session-fixation
 - https://medium.com/@720922/a-developers-nightmare-story-of-a-simple-idor-and-some-poor-fixes-worth-1125-5ead70b0a1de, IDOR
@@ -2846,7 +2844,6 @@
 - https://medium.com/@baibhavanandjha/sending-message-as-page-being-an-analyst-advertiser-eb0317376f43, Authorization-flaw
 - https://medium.com/@aayushpokhrel/how-i-made-my-first-from-finding-a-bug-in-facebook-da3b11e550f0, Authorization-flaw
 - https://medium.com/@iframe_h1/how-i-upgraded-my-privileges-to-the-administrator-of-odnoklassnikis-url-shortener-2c58f996d02c, Privilege-escalation
-- https://palant.info/2019/08/19/kaspersky-in-the-middle--what-could-possibly-go-wrong/, Clickjacking
 - https://medium.com/@ar_arvind/facebook-bug-bounty-reading-whatsapp-contacts-list-without-unlocking-the-device-a40e9c660a42, Authorization-flaw
 - https://aaronesau.com/blog/posts/5, Information-disclosure
 - https://philippeharewood.com/add-users-to-roles-on-facebook-pages-without-an-invitation-consent-revisited/, Logic-flaw
@@ -2877,7 +2874,6 @@
 - https://web.archive.org/web/20210124152317/https://whitehathaji.blogspot.com/2019/07/paypal-bug-10k-all-secondary-users.html, IDOR
 - https://web.archive.org/web/20200928234656/https://www.mohamedharon.com/2019/07/sql-injection-in-private-sitecomloginphp.html, SQL-injection
 - https://medium.com/@ronak_9889/solr-injection-by-abusing-local-parameters-on-zomato-com-a5cb7bef10d5, Solr-injection
-- https://web.archive.org/web/20200826192345/https://pwnsec.ninja/2019/07/26/facebook-bugbounty-tale-of-an-instagram-bug-disclosing-users-phone-number-via-checkpoint/, Information-disclosure
 - https://medium.com/@innocenthacker/how-i-found-the-most-critical-bug-in-live-bug-bounty-event-7a88b3aa97b3, Password-reset
 - https://philippeharewood.com/subscribe-to-typing-notifications-for-any-instagram-user/, Authorization-flaw
 - https://blog.usejournal.com/shopping-products-for-free-parameter-tampering-vulnerability-8e09e1471596, Parameter-tampering
@@ -2950,7 +2946,6 @@
 - https://smaranchand.com.np/2019/05/how-i-acquired-xxx-bounty-by-investing-99-cents/, Logic-flaw
 - https://philippeharewood.com/determine-a-user-from-an-email-address/, Information-disclosure
 - https://medium.com/@zseano/leaking-openid-tokens-with-the-bug-right-infront-of-you-95c1fb4a86e9, OpenID-Connect
-- https://omespino.com/write-up-google-bug-bounty-lfi-on-production-servers-in-redacted-google-com-13337-usd/, LFI
 - https://medium.com/@__rishabh__/open-redirect-to-account-takeover-e939006a9f24, Open-redirect
 - https://medium.com/@navne3t/a-base64-encoded-parameter-c6fb6b177d68, HTML-injection
 - https://medium.com/tenable-techblog/stealing-downloads-from-slack-users-be6829a55f63, CSRF

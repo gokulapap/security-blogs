@@ -121,3 +121,4 @@
 - https://infosecwriteups.com/exposing-icloud-users-name-phone-numbers-and-email-addresses-d1f4a3786092
 - https://rizwansiddiqu1.medium.com/information-disclosure-via-api-misconfiguration-c05ed327f9d2
 - https://www.yesnaveen.com/Instagram-ad-account-disclosure
+- https://web.archive.org/web/20200826192345/https://pwnsec.ninja/2019/07/26/facebook-bugbounty-tale-of-an-instagram-bug-disclosing-users-phone-number-via-checkpoint/

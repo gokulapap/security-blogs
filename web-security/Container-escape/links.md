@@ -2,3 +2,4 @@
 - https://lf.lc/vrp/181521559c/
 - https://www.willsroot.io/2022/01/cve-2022-0185.html
 - https://lf.lc/vrp/181521559d/
+- https://medium.com/@chenshiri/taking-over-google-cloud-shell-by-utilizing-capabilities-and-kubelet-fd5e2417f286
