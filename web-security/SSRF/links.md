@@ -74,3 +74,4 @@
 - https://cristivlad.medium.com/exfiltrating-aws-credentials-via-pdf-rendering-of-unsanitized-input-63f39d60d963
 - https://medium.com/stolabs/cloud-ssrf-exploitation-1f256bdc145f
 - https://ngailong.wordpress.com/2019/04/07/old-but-gold-dot-dot-slash-to-get-the-flag-uber-microservice/amp/
+- https://goziem.medium.com/my-first-case-of-ssrf-using-dirsearch-b916f0f1e94b

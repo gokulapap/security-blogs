@@ -428,7 +428,6 @@
 - https://github.com/gobysec/Weblogic/blob/main/Research%20on%20WebLogic%20After-Deserialization.md, Insecure-deserialization
 - https://www.wiz.io/blog/brokensesame-accidental-write-permissions-to-private-registry-allowed-potential-r, Cloud
 - https://material.security/blog/how-material-security-uncovered-a-vulnerability-in-gmail-api, Broken-Access-Control
-- https://goziem.medium.com/my-first-case-of-ssrf-using-dirsearch-b916f0f1e94b, SSRF
 - https://skylightcyber.com/2023/04/18/popping-tags/, Reflected-XSS
 - https://blog.includesecurity.com/2023/04/impersonating-local-unity-players-with-udp-spoofing-in-mirror/, Game-hacking
 - https://infosecwriteups.com/break-the-logic-playing-with-product-ratings-on-a-shopping-site-600-c9a87fb66a73, Logic-flaw
@@ -1822,7 +1821,6 @@
 - https://sapt.medium.com/apple-hall-of-fame-for-a-small-misconfiguration-unauth-cache-purging-faf81b19419b, Unauthenticated-cache-purge
 - https://medium.com/@shubhayumajumdar/bug-chain-leads-to-mass-account-takeover-25dc76205f5d, Information-disclosure
 - https://medium.com/pentesternepal/how-i-found-a-bug-in-apple-within-just-in-5min-d7357237d7a0, XSS
-- https://medium.com/@Kntjrld/not-valid-bug-that-leads-to-us-a-multiple-valid-report-in-facebook-25a3fb8cb51, Information-disclosure
 - https://blog.0xffff.info/2021/07/24/ebay-xss-demo-and-guide-to-spear-phishing/, XSS
 - https://imajk.medium.com/story-of-my-3rd-bounty-from-facebook-fef352853d1b, Logic-flaw
 - https://craighays.com/pre-account-takeover-by-reversing-a-weak-email-verification-token-algorithm/, Weak-crypto
@@ -2148,7 +2146,6 @@
 - https://srcincite.io/blog/2021/01/12/making-clouds-rain-rce-in-office-365.html, RCE
 - https://levelup.gitconnected.com/stealing-user-information-via-xss-via-parameter-pollution-7d99b3379e7d, Open-redirect
 - https://binamrapandey.medium.com/unrestricted-file-upload-e95e1c6fb80, Unrestricted-file-upload
-- https://bugs.xdavidhu.me/google/2021/01/11/stealing-your-private-videos-one-frame-at-a-time/, IDOR
 - https://johnjhacking.com/blog/unep-breach/, Information-disclosure
 - https://blog.cybercastle.io/weblogic-remote-code-execution-exploiting-cve-2019-2725/, RCE
 - https://medium.com/bugbountywriteup/unauthorized-access-to-odata-entities-2k-bounty-from-microsoft-e070b2ef88c2, Authorization-flaw
@@ -2869,7 +2866,6 @@
 - https://ysamm.com/?p=321, Internal-path-disclosure
 - https://ysamm.com/?p=314, IDOR
 - https://ysamm.com/?p=281, Authorization-flaw
-- https://web.archive.org/web/20191219015349/https://rhys.io/post/rce-in-ruby-using-mustache-templates, RCE
 - https://medium.com/@dekeeu/reposted-2019-hacking-youtube-for-fun-and-profit-8685dd475e30, Authorization-flaw
 - https://web.archive.org/web/20210124152317/https://whitehathaji.blogspot.com/2019/07/paypal-bug-10k-all-secondary-users.html, IDOR
 - https://web.archive.org/web/20200928234656/https://www.mohamedharon.com/2019/07/sql-injection-in-private-sitecomloginphp.html, SQL-injection
@@ -2961,7 +2957,6 @@
 - https://medium.com/@friendly_/subdomain-takeover-awarded-200-8296f4abe1b0, Subdomain-takeover
 - https://medium.com/@w_hat_boy/server-side-request-forgery-ssrf-port-issue-hidden-approch-f4e67bd8cc86, SSRF
 - https://www.gosecure.net/blog/2019/05/02/esi-injection-part-2-abusing-specific-implementations/, ESI-injection
-- https://www.virtuesecurity.com/tale-of-a-wormable-twitter-xss/, XSS
 - https://utkusen.com/blog/why-you-shouldnt-use-password-manager-for-linode.html, Account-takeover
 - http://www.tomanthony.co.uk/blog/xss-attacks-googlebot-index-manipulation/, Logic-flaw
 - https://medium.com/@mattharr0ey/remote-code-execution-on-microsoft-edge-url-protocol-a67d0f96b32d, RCE

@@ -141,3 +141,4 @@
 - https://infosecwriteups.com/bypassing-character-limit-xss-using-spanned-payload-7301ffac226e
 - https://medium.com/@A0g/xss-via-qr-code-8022a1a0309f
 - https://medium.com/techiepedia/the-tale-of-cve-2021-34479-vscode-xss-b336ba6cf3d6
+- https://www.virtuesecurity.com/tale-of-a-wormable-twitter-xss/

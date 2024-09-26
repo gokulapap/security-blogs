@@ -122,3 +122,4 @@
 - https://apapedulimu.click/tag-myself-in-your-favorite-tiktok-artist-video-idor/
 - https://medium.com/bugbountywriteup/bugbounty-how-i-was-able-to-read-chat-of-users-in-an-online-travel-portal-c55a1787f999
 - https://medium.com/@rajasudhakar/how-i-could-delete-facebook-ask-for-recommendations-posts-place-objects-in-comments-b7c9bcdf1c92
+- https://bugs.xdavidhu.me/google/2021/01/11/stealing-your-private-videos-one-frame-at-a-time/
