@@ -123,3 +123,4 @@
 - https://www.yesnaveen.com/Instagram-ad-account-disclosure
 - https://web.archive.org/web/20200826192345/https://pwnsec.ninja/2019/07/26/facebook-bugbounty-tale-of-an-instagram-bug-disclosing-users-phone-number-via-checkpoint/
 - https://medium.com/@Kntjrld/not-valid-bug-that-leads-to-us-a-multiple-valid-report-in-facebook-25a3fb8cb51
+- https://hackernoon.com/how-i-could-have-hacked-all-uber-accounts-rtzl3z72

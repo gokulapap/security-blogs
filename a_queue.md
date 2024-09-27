@@ -423,7 +423,6 @@
 - https://medium.com/bugbountywriteup/uncovering-a-critical-vulnerability-my-journey-of-discovering-cve-2021-31589-a-reflected-xss-in-1e13c0aa41b0, Components-with-known-vulnerabilities
 - https://medium.com/@snoopy101/how-i-hacked-hackers-in-voorivex-hunt-event-9c572ce0005f, Cloudflare-bypass
 - https://mogwailabs.de/en/blog/2023/04/vulnerability-spotlight-cve-2023-0264/, OpenID-Connect
-- https://blog.securitybreached.org/2023/04/19/how-i-manipulated-my-rank-on-the-bugcrowd-platform/, Logic-flaw
 - https://www.cyberark.com/resources/threat-research-blog/breaking-docker-named-pipes-systematically-docker-desktop-privilege-escalation-part-2, Local-Privilege-Escalation
 - https://github.com/gobysec/Weblogic/blob/main/Research%20on%20WebLogic%20After-Deserialization.md, Insecure-deserialization
 - https://www.wiz.io/blog/brokensesame-accidental-write-permissions-to-private-registry-allowed-potential-r, Cloud
@@ -528,7 +527,6 @@
 - https://www.shockwave.cloud/blog/subdomain-takeover-how-a-misconfigured-dns-record-could-lead-to-a-huge-supply-chain-attack, Subdomain-takeover
 - https://infosecwriteups.com/dont-send-a-message-to-anyone-before-reading-this-account-takeover-vulnerability-external-audit-cf584a0c983c, HTTP-response-manipulation
 - https://medium.com/tenable-techblog/wordpress-buddyforms-plugin-unauthenticated-insecure-deserialization-cve-2023-26326-3becb5575ed8, Insecure-deserialization
-- https://www.securifera.com/blog/2023/03/06/attacking-net-web-services/, Security-code-review
 - https://eprint.iacr.org/2023/331.pdf, Cryptographic-issues
 - https://blog.bitcrack.net/oracle-databases-remote-stealth-password-bruteforce/, Bruteforce
 - https://medium.com/@Ano_F_/manipulating-encrypted-traffic-using-pycript-b637612528bb, Client-side-encryption-bypass
@@ -1315,7 +1313,6 @@
 - https://medium.com/@renwa/the-underrated-bugs-clickjacking-css-injection-drag-drop-xss-cookie-bomb-login-logout-csrf-84307a98fffa, CSS-injection
 - https://systemweakness.com/resolveuri-rxss-imperva-waf-bypass-c834ca573bd4, XSS
 - https://systemweakness.com/rce-via-dependency-confusion-e0ed2a127013, Dependency-confusion
-- https://mokhansec.medium.com/account-verification-code-bypass-lead-to-a-4000-bounty-b31dda6f3011, OTP-bypass
 - https://melotover.medium.com/can-analyzing-javascript-files-lead-to-remote-code-execution-f24112f1aa1f, Unrestricted-file-upload
 - https://web.archive.org/web/20220516024454/https://medium.com/@tobydavenn/how-i-paid-for-my-holiday-with-bug-bounty-668f1f59e6e5, XSS
 - https://medium.com/@masonhck357/the-16-000-dev-mistake-13e516e86be6, Information-disclosure
@@ -1987,7 +1984,6 @@
 - https://blog.talosintelligence.com/2021/04/vuln-spotlight-azure-sphere-april-2021.html, RCE
 - https://servicenger.com/blog/mobile/google-photos-theft-of-database-arbitrary-files-android-vulnerability/, Improper-Export-of-Android-Application-Components
 - https://onekey.com/blog/advisory-cisco-rv34x-authentication-bypass-remote-command-execution/, Authentication-bypass
-- https://arben.sh/bugbounty/Local-File-Inclusion/, LFI
 - https://infosecwriteups.com/unauthenticated-account-takeover-through-forget-password-c120b4c1141d, Password-reset
 - https://monke.ie/duckduckgoxss/, Stored-XSS
 - https://sites.google.com/securifyinc.com/vrp-writeups/hire-with-google/auth-issues, Authentication-flaw
@@ -2810,7 +2806,6 @@
 - https://medium.com/@jayateerthag/google-referer-leak-bug-434f6293ce66, Referer-leakage
 - https://web.archive.org/web/20200820030055/https://pwnsec.ninja/2019/09/14/how-i-found-a-simple-and-weird-account-takeover-bug/, Account-takeover
 - https://medium.com/bugbountywriteup/race-condition-that-could-result-to-rce-a-story-with-an-app-that-temporary-stored-an-uploaded-9a4065368ba3, Race-condition
-- https://hackernoon.com/how-i-could-have-hacked-all-uber-accounts-rtzl3z72, Information-disclosure
 - https://www.valbrux.it/blog/2019/09/13/how-two-dead-users-allowed-remote-crash-of-any-instagram-android-user/, DoS
 - https://medium.com/@cc1h2e1/unauthorized-access-to-all-user-information-leaks-5db95746aecf, Information-disclosure
 - https://memn0ps.github.io/http-request-smuggling-cl-te/, HTTP-request-smuggling

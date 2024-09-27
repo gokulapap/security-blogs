@@ -13,3 +13,4 @@
 - https://medium.com/@kirtanpatel9111998/how-i-was-able-to-find-easy-p1-just-by-doing-recon-fdef0c689362
 - https://infosecwriteups.com/bounties-for-unauthenticated-file-read-in-cisco-asa-cve-2020-3452-9a0b9143370e
 - https://omespino.com/write-up-google-bug-bounty-lfi-on-production-servers-in-redacted-google-com-13337-usd/
+- https://arben.sh/bugbounty/Local-File-Inclusion/
