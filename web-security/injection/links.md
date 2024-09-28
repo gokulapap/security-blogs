@@ -1,2 +1,3 @@
 - https://medium.com/@aravindha1234u/os-command-injection-beginners-guide-637e1eed1fde
 - https://medium.com/@patchthenet/host-header-injection-attacks-7160f9fcf63e
+- https://medium.com/@s_novoselov/ssti-csti-dont-waste-your-time-c6e9fbb20743

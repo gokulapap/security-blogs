@@ -3,3 +3,4 @@
 - https://medium.com/@m.m.n.c.marasinghe04/nikto-a-practical-website-vulnerability-scanner-b2005f496a7b
 - https://medium.com/@hacksheets/dom-invader-burp-suite-tool-to-find-dom-based-xss-easily-3cb09adf4d44
 - https://medium.com/@ethr/how-to-install-nmap-and-use-it-for-vulnerability-scanning-60dd84e06a53
+- https://medium.com/@gpiechnik/afrog-explained-for-bug-hunters-ed1497d5aaf5

@@ -124,3 +124,5 @@
 - https://web.archive.org/web/20200826192345/https://pwnsec.ninja/2019/07/26/facebook-bugbounty-tale-of-an-instagram-bug-disclosing-users-phone-number-via-checkpoint/
 - https://medium.com/@Kntjrld/not-valid-bug-that-leads-to-us-a-multiple-valid-report-in-facebook-25a3fb8cb51
 - https://hackernoon.com/how-i-could-have-hacked-all-uber-accounts-rtzl3z72
+- https://medium.com/@shellyshubh/how-you-can-find-your-first-bug-using-google-c9327f82632e
+- https://medium.com/@yaala/confirm-an-email-address-belonging-to-a-specific-user-fe9c305e0af

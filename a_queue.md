@@ -119,7 +119,6 @@
 - https://medium.com/@sushantdhopat/how-i-able-to-steal-lot-of-user-sensitive-information-pii-throw-idor-insecure-direct-object-e41e08e88a06, info-disclosure
 - https://medium.com/@sathvika03/finding-exif-geo-location-of-images-4ea35e9d10e7, low-hangings
 - https://medium.com/@grahamzemel/a-500-open-redirect-bounty-in-under-10-minutes-fbb1cce063e5, open-redirection
-- https://medium.com/@s_novoselov/ssti-csti-dont-waste-your-time-c6e9fbb20743, injection
 - https://medium.com/@K9ightFr3ak/exploiting-broken-access-control-vulnerability-4d16f72c7983, BAC
 - https://medium.com/@ramAnon/bug-bounty-hunting-methodology-toolkit-tips-tricks-blogs-eb142034d5a5, tricks
 - https://medium.com/@akshayravic09yc47/crlf-injection-leads-to-xss-f92a07db9848, crlf
@@ -146,7 +145,6 @@
 - https://medium.com/@sagarsajeev/escalating-open-redirect-to-xss-d2b9355e5f05, open-redirection
 - https://medium.com/@dcube.merlin/basic-web-security-testing-apis-58f37e01a730, api
 - https://medium.com/@pyrrhon/how-i-was-able-to-take-over-one-of-dells-subdomains-7e06b8516e41, STO
-- https://medium.com/@gpiechnik/afrog-explained-for-bug-hunters-ed1497d5aaf5, automation
 - https://medium.com/@stopvvar/sql-injection-with-insert-statement-bdcf4d47d178, sql-injection
 - https://medium.com/@ltsirkov/netflix-bypassing-multi-factor-authentication-mfa-53135c9d6d50, bypass
 - https://medium.com/@harish_nataraj/making-api-bug-bounties-a-breeze-bf6443db5b37, api
@@ -773,7 +771,6 @@
 - https://claroty.com/team82/research/js-on-security-off-abusing-json-based-sql-to-bypass-waf, WAF-bypass
 - https://jowin922.medium.com/cors-misconfig-on-out-of-scope-domain-bug-bounty-writeup-300-usd-reward-8a9e420d21e0, CORS-misconfiguration
 - https://tusharvaidya16.medium.com/a03-2021-injection-sql-injection-through-internal-directory-disclose-ecdef5230131, SQL-injection
-- https://medium.com/@shellyshubh/how-you-can-find-your-first-bug-using-google-c9327f82632e, Information-disclosure
 - https://www.synacktiv.com/publications/cool-vulns-dont-live-long-netgear-and-pwn2own.html, Code-injection
 - https://starlabs.sg/blog/2022/12-the-last-breath-of-our-netgear-rax30-bugs-a-tragic-tale-before-pwn2own-toronto-2022/, Command-injection
 - https://ag3n7.medium.com/otp-leaking-through-cookie-leads-to-account-takeover-4fb96f255e2f, Information-disclosure
@@ -1556,7 +1553,6 @@
 - https://amakki.me/full-account-takeover-vulnerability-in-minecraft-f56076c8287d, Account-takeover
 - https://medium.com/@taniyatesting11/bounty-evaluation-github-15-000-us-dollars-rate-limit-d6c07d73c948, Bruteforce
 - https://sharmajijvs.medium.com/xss-via-file-upload-a2bcc1e5d7f7, XSS
-- https://infosecwriteups.com/how-i-bypassed-netflix-profile-lock-43901be1307c, Logic-flaw
 - https://3bodymo.medium.com/xss-through-image-proxy-using-svg-image-49cdf955cf4f, XSS
 - https://infosecwriteups.com/massive-users-account-takeovers-chaining-vulnerabilities-to-idor-ea4e1b6407d2, Authentication-bypass
 - https://medium.com/@mamunwhh/information-disclosure-leads-to-sensitive-credential-35e779f6f4db, Information-disclosure
@@ -2181,7 +2177,6 @@
 - https://medium.com/@3bodymo/how-i-hacked-ibm-and-got-full-access-on-many-services-ecf1dab4a054, Information-disclosure
 - https://security.lauritz-holtmann.de, CSRF
 - https://jayateerthag.medium.com/download-filename-manipulation-due-to-improper-rendering-of-rtlo-characters-69e2751a8f28, RTLO
-- https://medium.com/@yaala/confirm-an-email-address-belonging-to-a-specific-user-fe9c305e0af, Information-disclosure
 - https://infosecwriteups.com/how-i-hacked-facebook-part-one-282bbb125a5d, Missing-authentication
 - https://ph-hitachi.medium.com/how-i-got-my-first-bug-bounty-in-intersting-target-lfi-to-sxss-58fa5c4f5882, LFI
 - https://research.checkpoint.com/2020/game-on-finding-vulnerabilities-in-valves-steam-sockets/, Memory-corruption
