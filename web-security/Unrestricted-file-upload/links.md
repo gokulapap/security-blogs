@@ -16,3 +16,4 @@
 - https://medium.com/@abhishake100/my-first-rce-stressed-employee-gets-me-2x-bounty-c4879c277e37
 - https://medium.com/@armaanpathan/abusing-acl-permissions-to-overwrite-other-users-uploaded-files-videos-on-s3-bucket-162c8877728
 - https://mase289.medium.com/exploiting-unrestricted-file-upload-to-achieve-remote-code-execution-on-a-bug-bounty-program-85661516712
+- https://rohit-soni.medium.com/exploiting-file-upload-functionality-in-unique-way-6081b8f658dd

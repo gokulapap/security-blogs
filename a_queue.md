@@ -20,7 +20,6 @@
 - https://medium.com/@kunalkhubchandani/the-modern-day-android-application-pentesting-approach-for-bugbounties-assessments-b09154b522d, android
 - https://medium.com/@whitehatcyber404/how-to-find-escalating-html-to-ssrf-i-instantly-got-the-hof-within-5minutes-805f173c34e4, ssrf
 - https://medium.com/@that-odd-introvert/django-security-xss-a7722cff2326, CVE
-- https://medium.com/@manikchopra31/welcome-to-the-bug-bounty-beginners-roadmap-your-ultimate-guide-to-success-7195f1dcd8c5, journey
 - https://medium.com/@vickieli/scanning-for-secrets-in-source-code-9fcb486f8c0e, source-code-review
 - https://medium.com/@notifybugme/chaining-an-blind-ssrf-bug-to-get-an-rce-92c09de3c0ba, ssrf
 - https://medium.com/@aidilarf/idor-vulnerability-in-graphql-api-on-website-bc45e050d1d3, graphql
@@ -552,7 +551,6 @@
 - https://saligrama.io/blog/post/gradescope-autograder-security/, RCE
 - https://medium.com/@mehtashobhit98/my-first-un-expected-digit-bounty-for-an-un-expected-vulnerability-b44933d6ebda, Lack-of-rate-limiting
 - https://security.humanativaspa.it/abusing-mavens-pom-xml/, RCE
-- https://trenchant.io/vmware-workspace-one-access/, RCE
 - https://medium.com/@mullangisashank/the-vulnerability-that-exposed-an-un-website-to-remote-code-execution-dfe377b82049, Components-with-known-vulnerabilities
 - https://medium.com/@levshmelevv/10-000-bounty-for-exposed-git-to-rce-304c7e1f54, git-folder-disclosure
 - https://infosecwriteups.com/how-did-i-found-rce-on-shareit-which-rewarded-bounty-7d4196bf1b52, Log4shell
@@ -1055,7 +1053,6 @@
 - https://abdulsec.medium.com/mfa-bypass-in-private-program-the-abdulsec-way-f677fea209f7, MFA-bypass
 - https://eslam3kl.medium.com/idor-at-login-function-leads-to-leak-users-pii-data-d77e6613e9e0, IDOR
 - https://falcon319.medium.com/my-findings-on-hack-u-s-program-43b692a5c057, Missing-authentication
-- https://mehedishakeel.medium.com/found-sql-injection-vulnerability-on-government-organization-website-3eb33c0c49a4, SQL-injection
 - https://jfrog.com/blog/cve-2021-38297-analysis-of-a-go-web-assembly-vulnerability/, Memory-corruption
 - https://s0md3v.github.io/blog/modsecurity-rce-bypass, WAF-bypass
 - https://www.ambionics.io/blog/hacking-watchguard-firewalls, XPath-injection
@@ -1861,7 +1858,6 @@
 - https://ertugrull.medium.com/unprivileged-user-with-read-write-permission-to-user-access-can-escalate-their-role-to-admin-a217d2d280a8, Privilege-escalation
 - https://thezerohack.com/apple-vulnerability-bug-bounty, Account-takeover
 - https://pwn.vg/articles/2021-06/local-file-read-via-error-based-xxe, XXE
-- https://rohit-soni.medium.com/exploiting-file-upload-functionality-in-unique-way-6081b8f658dd, Unrestricted-file-upload
 - https://imranhudaa.medium.com/accessing-restricted-documentswith-extra-json-body-content-c59bc7224189, Mass-assignment
 - https://0xbadb00da.medium.com/account-takeover-via-stored-xss-with-arbitrary-file-upload-2774ec6cff51, Insecure-file-upload
 - https://cyberxplore.medium.com/how-we-are-able-to-hack-any-company-by-sending-message-including-facebook-google-microsoft-b7773626e447, Universal-XSS
@@ -2999,7 +2995,6 @@
 - https://blog.usejournal.com/an-unusal-bug-on-braintree-paypal-b8d3ec662414, DoS
 - https://medium.com/@paulorcchoupina/a-real-xss-in-olx-7727ae89c640, Reflected-XSS
 - https://www.rodneybeede.com/security/slack-announcement-only-channel-post-restriction-bypass.html, Authorization-flaw
-- https://blog.assetnote.io/bug-bounty/2019/03/19/rce-on-mozilla-zero-day-webpagetest/, RCE
 - https://medium.com/@80vul/from-http-domain-to-res-domain-xss-by-using-ie-adobes-pdf-activex-plugin-9f2a72a87aff, DOM-XSS
 - https://medium.com/@avinash_/disclosure-of-pending-roles-for-any-facebook-page-ab6e4e219f8e, IDOR
 - https://medium.com/@vis_hacker/how-i-was-able-to-pwned-30000-users-webhook-d26dc3420703, IDOR
