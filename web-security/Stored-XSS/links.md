@@ -51,3 +51,4 @@
 - https://medium.com/@reiss.r/writing-my-medium-blog-to-complete-account-takeover-e65d455c16b
 - https://omar0x01.medium.com/cve-2022-42710-a-journey-through-xxe-to-stored-xss-851d74dfe917
 - https://keerok.github.io/2022/12/22/Flickr-Stored-XSS/
+- https://elmahdi.tistory.com/m/2

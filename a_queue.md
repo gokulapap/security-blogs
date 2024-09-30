@@ -335,7 +335,6 @@
 - https://www.zerodayinitiative.com/blog/2023/5/24/exploiting-the-sonos-one-speaker-three-different-ways-a-pwn2own-toronto-highlight, Memory-corruption
 - https://checkmarx.com/blog/ericsson-sensitive-data-exposure-via-trace-axd/, Information-disclosure
 - https://kuenzi.dev/toothbrush/, IoT
-- https://medium.com/@ajzead660/how-i-found-a-tricky-xss-1adf25850d33, XSS
 - https://www.dig.security/post/gcp-cloudsql-vulnerability-leads-to-internal-container-access-and-data-exposure, Cloud
 - https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/from-response-to-request-adding-your-own-variables-inside-of-graphql-queries-for-account-take-over/, GraphQL
 - https://www.secureworks.com/research/tampering-with-conditional-access-policies-using-azure-ad-graph-api, Cloud
@@ -1380,7 +1379,6 @@
 - https://blog.relyze.com/2022/03/cve-2022-27643-netgear-r6700v3-upnpd.html, Memory-corruption
 - https://scribesecurity.com/blog/github-cache-poisoning, Cache-poisoning-attack
 - https://pentera.io/blog/information-disclosure-in-vmware-vcenter/, Information-disclosure
-- https://karmainsecurity.com/KIS-2022-05, Zip-Slip-attack
 - https://janmuhammadzaidi.medium.com/how-i-bypassed-403-forbidden-domain-using-a-simple-trick-c2d538de04b8, 403-bypass
 - https://www.mdsec.co.uk/2022/03/abc-code-execution-for-veeam/, Local-Privilege-Escalation
 - https://github.com/httpvoid/writeups/blob/main/Ruby-deserialization-gadget-on-rails.md, Insecure-deserialization
@@ -2491,7 +2489,6 @@
 - https://www.nahamsec.com/posts/my-expense-report-resulted-in-a-server-side-request-forgery-ssrf-on-lyft, SSRF
 - https://zonduu.medium.com/idor-in-session-cookie-leading-to-mass-account-takeover-d815ff3732d5, IDOR
 - https://research.nccgroup.com/2020/05/05/exploring-macos-calendar-alerts-part-1-attempting-to-execute-code/, Information-disclosure
-- https://elmahdi.tistory.com/m/2, Stored-XSS
 - https://medium.com/bugbountywriteup/bypassing-waf-to-perform-xss-2d2f5a4367f3, XSS
 - https://medium.com/@kishoretk/how-i-was-able-to-see-identity-of-a-private-video-up-loader-via-rights-manager-responsible-39d996517b6e, Information-disclosure
 - https://shibinbshaji.space/bug-bounty/oppo-bugbounty-writeup/, Login-screen-bypass
@@ -3139,7 +3136,6 @@
 - https://philippeharewood.com/disclose-page-admins-via-gaming-dashboard-bans/, Information-disclosure
 - https://medium.com/@ritishkumarsingh/facebook-vulnerability-hiding-from-the-view-of-business-admin-in-the-business-manager-a04515fee9dd, Logic-flaw
 - https://medium.com/@maxpasqua/breaking-appointments-and-job-interview-schedules-with-malformed-times-edef103e46ba, DoS
-- https://xlab.tencent.com/en/2018/11/13/cve-2018-4277/, Browser-hacking
 - https://medium.com/@mrnikhilsri/oob-xxe-in-prizmdoc-cve-2018-15805-dfb1e474345c, OOB-XXE
 - https://medium.com/bugbountywriteup/dom-based-xss-or-why-you-should-not-rely-on-cloudflare-too-much-a1aa9f0ead7d, DOM-XSS
 - https://mike-n1.github.io/Chain_XSS, DOM-XSS
@@ -3514,7 +3510,6 @@
 - https://blog.witcoat.com/2018/05/30/xss-on-bugcrowd-and-so-many-other-websites-main-domain/, Reflected-XSS
 - https://www.seekurity.com/blog/general/metasploit-web-project-kill-all-running-tasks-csrf-cve-2017-5244/, CSRF
 - https://medium.com/bugbountywriteup/whatsapp-dos-vulnerability-in-ios-android-d896f76d3253, DoS
-- https://medium.com/bugbountywriteup/how-i-got-5500-from-yahoo-for-rce-92fffb7145e6, RCE
 - https://seanmelia.files.wordpress.com/2017/06/django-privilege-escalation-e28093-zero-to-superuser.pdf, Privilege-escalation
 - https://www.rafaybaloch.com/2017/06/stored-xss-csrf-and-clickjacking.html, Stored-XSS
 - https://www.rafaybaloch.com/2017/06/a-tale-of-another-sop-bypass-in-android.html, SOP-bypass

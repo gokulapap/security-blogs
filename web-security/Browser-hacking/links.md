@@ -10,3 +10,4 @@
 - https://ssd-disclosure.com/ssd-advisory-chrome-ad-heavy-bypass-via-history-back/
 - https://wwws.nightwatchcybersecurity.com/2019/07/02/another-download-protection-bypass-in-google-chrome-bin-files-in-mac-os/
 - https://medium.com/@0x48piraj/res-block-extension-resources-block-attack-on-chromes-incognito-mode-3a5ae8131142
+- https://xlab.tencent.com/en/2018/11/13/cve-2018-4277/

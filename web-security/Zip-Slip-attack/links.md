@@ -1,0 +1,1 @@
+- https://karmainsecurity.com/KIS-2022-05
