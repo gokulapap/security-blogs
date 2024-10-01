@@ -5,3 +5,4 @@
 - https://web.archive.org/web/20210711090831/https://palisade.consulting/blog/link-hijacking-binances-shortlinks-through-appsflyer
 - https://medium.com/@coffeeaddict_exe/500-in-5-minutes-45977e89a337
 - https://medium.com/@bathinivijaysimhareddy/how-i-takeover-the-companys-linkedin-page-790c9ed2b04d
+- https://infosecwriteups.com/abusing-broken-link-in-fitbit-google-acquisition-to-collect-bugbounty-reports-on-behalf-of-google-5885a556eb7c

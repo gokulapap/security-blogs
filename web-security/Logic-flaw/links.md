@@ -87,3 +87,4 @@
 - https://www.imperva.com/blog/2018/06/how-i-impersonated-someone-else-using-auth0/
 - https://blog.securitybreached.org/2023/04/19/how-i-manipulated-my-rank-on-the-bugcrowd-platform/
 - https://infosecwriteups.com/how-i-bypassed-netflix-profile-lock-43901be1307c
+- https://clarkvoss.medium.com/how-to-harpon-big-blue-c163722638d8

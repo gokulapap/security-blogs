@@ -2,3 +2,4 @@
 - https://rohit443.medium.com/using-default-credential-to-admin-account-takeover-677e782ff2f2
 - https://infosecwriteups.com/accessing-grofers-grafana-instance-using-shodan-52c585ada797
 - http://cybristerboy.blogspot.com/2018/05/how-i-was-able-to-get-admin-panel-on.html
+- https://medium.com/@ratnadip1998/how-to-find-access-admin-panel-by-digging-into-js-files-282d89391a2d
