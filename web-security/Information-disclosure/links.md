@@ -126,3 +126,4 @@
 - https://hackernoon.com/how-i-could-have-hacked-all-uber-accounts-rtzl3z72
 - https://medium.com/@shellyshubh/how-you-can-find-your-first-bug-using-google-c9327f82632e
 - https://medium.com/@yaala/confirm-an-email-address-belonging-to-a-specific-user-fe9c305e0af
+- https://medium.com/@saurabh5392/one-misconfiguration-to-rule-them-all-b45f50fd3df4
