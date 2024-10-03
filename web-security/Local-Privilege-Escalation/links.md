@@ -41,3 +41,4 @@
 - https://blog.compass-security.com/2023/07/lenovo-update-your-privileges/
 - https://mrd0x.com/discovering-mcafee-products-zero-day-vulnerabilities/
 - https://perception-point.io/a-technical-analysis-of-cve-2021-30864-bypassing-app-sandbox-restrictions/
+- https://www.cyberonesecurity.com/blog/local-privilege-escalation-vulnerability-discovered-in-vmware-fusion

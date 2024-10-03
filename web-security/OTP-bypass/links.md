@@ -7,3 +7,4 @@
 - https://medium.com/@bhavarth33/how-i-was-able-to-takeover-any-account-by-otp-bypass-bba698a725f
 - https://gowtham-naidu.medium.com/500-bug-sensitive-data-exposure-to-broken-access-control-leads-how-i-able-to-take-over-any-33658f16e265
 - https://mokhansec.medium.com/account-verification-code-bypass-lead-to-a-4000-bounty-b31dda6f3011
+- https://medium.com/@karthiksoft007/oculus-identity-verification-bypass-through-brute-force-dbd0c0d3c37e

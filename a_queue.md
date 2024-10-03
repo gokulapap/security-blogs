@@ -577,7 +577,6 @@
 - https://jjainam16.medium.com/reflected-cross-site-scripting-on-reddit-website-bounty-awards-5000-99fa639cdd7, Reflected-XSS
 - https://blog.trailofbits.com/2023/02/21/vscode-extension-escape-vulnerability/, Path-traversal
 - https://www.praetorian.com/blog/using-crlf-injection-to-bypass-akamai-web-app-firewall/, WAF-bypass
-- https://aidilarf.medium.com/bypassing-sso-authentication-from-the-login-without-password-feature-lead-to-account-takeover-d2322a33a208, Account-takeover
 - https://blog.robinjust.in/gov-in/2023/02/Exposing-Indian-Citizens-Sensitive-PII-and-more/, Broken-Access-Control
 - https://jjainam16.medium.com/reflected-cross-site-scripting-awards-3500-bounty-c8a619f129a1, Reflected-XSS
 - https://www.archcloudlabs.com/projects/disabling-clamav-as-unprivileged-user/, Local-Privilege-Escalation
@@ -789,7 +788,6 @@
 - https://www.legitsecurity.com/blog/artifact-poisoning-vulnerability-discovered-in-rust, Supply-chain-attack
 - https://medium.com/bored-engineer/xss-on-account-leagueoflegends-com-via-easyxdm-2016-75bcf9d582b5, XSS
 - https://hopesamples.blogspot.com/2022/11/the-space-creators-can-still-see.html, IDOR
-- https://www.synacktiv.com/sites/default/files/2022-11/trufusion_enterprise_unauthenticated_arbitrary_file_write.pdf, Unrestricted-file-upload
 - https://www.synacktiv.com/sites/default/files/2022-11/CodeIgniter3_XSS_2022.pdf, Reflected-XSS
 - https://medium.com/@Hossam.Mesbah/broken-access-control-misconfiguration-beautiful-privilege-escalation-e4fdfd018efa, Broken-Access-Control
 - https://medium.com/@aa.pietruczuk/improper-error-handling-leads-to-exposing-internal-tokens-3355d6b43a32, Information-disclosure
@@ -2209,7 +2207,6 @@
 - https://samiparyal.medium.com/commenting-on-a-post-by-opening-it-via-pages-news-feed-goes-from-a-wrong-actor-i-e-56fab4cf5a91, Information-disclosure
 - https://medium.com/bugbountywriteup/evading-filters-to-perform-the-arbitrary-url-redirection-attack-cce628b9b6a0, Open-redirect
 - https://blog.oversecured.com/Evernote-Universal-XSS-theft-of-all-cookies-from-all-sites-and-more/, Universal-XSS
-- https://www.cyberonesecurity.com/blog/local-privilege-escalation-vulnerability-discovered-in-vmware-fusion, Local-Privilege-Escalation
 - https://pulsesecurity.co.nz/advisories/Atlassian-ID-Username-Enumeration, Username-enumeration
 - https://nechudav.blogspot.com/2020/11/31k-ssrf-in-google-cloud-monitoring.html, SSRF
 - https://medium.com/bugbountywriteup/chaining-password-reset-link-poisoning-idor-account-information-leakage-to-achieve-account-bb5e0e400745, HTTP-header-injection
@@ -2573,7 +2570,6 @@
 - https://0x65.dev/blog/2020-03-30/cve-2019-17004-semi-universal-xss-affecting-firefox-for-ios.html, Universal-XSS
 - https://medium.com/@ranjitsinghnit/otp-bruteforce-account-takeover-faaac3d712a8, OTP-bruteforce
 - https://blog.redforce.io/attacking-helpdesks-part-1-rce-chain-on-deskpro-with-bitdefender-as-case-study/, RCE
-- https://medium.com/@adnanmalikinfo110/i-want-that-cookie-8d2daab242ac, Logic-flaw
 - https://0xsha.io/posts/exploiting-magic-links-critical-bugs-are-one-line-away, Information-disclosure
 - https://web.archive.org/web/20200511145923/https://medium.com/@godofdarkness.msf/account-takeover-flow-in-mail-ru-s-ext-a-domain-150-8952e8078211, Logic-flaw
 - https://protonvpn.com/blog/apple-ios-vulnerability-disclosure/, Privacy-issue
@@ -2798,7 +2794,6 @@
 - https://philippeharewood.com/subscribe-to-the-list-of-requesters-to-join-a-facebook-live-video-using-mqtt/, Authorization-flaw
 - https://www.rcesecurity.com/2019/09/H1-4420-From-Quiz-to-Admin-Chaining-Two-0-Days-to-Compromise-an-Uber-Wordpress/, Stored-XSS
 - https://www.inputzero.io/2019/09/telegram-privacy-fails-again.html, Logic-flaw
-- https://medium.com/@karthiksoft007/oculus-identity-verification-bypass-through-brute-force-dbd0c0d3c37e, OTP-bypass
 - https://medium.com/@osamaavvan/exploiting-jsonp-and-bypassing-referer-check-2d6e40dfa24, Information-disclosure
 - https://medium.com/@cc1h2e1/write-up-of-two-http-requests-smuggling-ff211656fe7d, HTTP-request-smuggling
 - https://hateshape.github.io/general/2019/09/06/SuperGlamorousReconwithIntendedFunctionalities.html, SSTI

@@ -53,3 +53,4 @@
 - https://medium.com/cyberverse/got-bounty-with-account-takeover-ato-unicode-case-mapping-collision-d23a7785e1be
 - https://infosecwriteups.com/account-takeovers-believe-the-unbelievable-bb98a0c251a4
 - https://web.archive.org/web/20220119155429/https://0xgodson.medium.com/account-takeover-in-million-company-report-rejected-whats-wrong-60041f1815fb
+- https://aidilarf.medium.com/bypassing-sso-authentication-from-the-login-without-password-feature-lead-to-account-takeover-d2322a33a208
