@@ -42,3 +42,4 @@
 - https://medium.com/@bag0zathev2/discovering-5-xss-vulnerabilities-in-a-simple-way-with-xssor-go-a0a761631012
 - https://web.archive.org/web/20191219011308/https://medium.com/@tahasmily2013m/i-have-found-vulnerability-in-360totalsecurity-is-reflected-xss-in-3a6bd602bb5a
 - https://medium.com/@sid0krypt/vue-js-reflected-xss-fae04c9872d2
+- https://blog.deteact.com/bitrix-waf-bypass/

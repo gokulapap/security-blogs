@@ -1,1 +1,2 @@
 - https://www.gosecure.net/blog/2018/04/03/beyond-xss-edge-side-include-injection/
+- https://sudhanshur705.medium.com/exploring-the-world-of-esi-injection-b86234e66f91

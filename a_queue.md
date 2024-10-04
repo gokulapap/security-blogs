@@ -711,7 +711,6 @@
 - https://yaseenzubair.medium.com/web-cache-poisoning-worth-it-e7c6d88797b1, Web-cache-poisoning
 - https://0xlittlespidy.medium.com/indias-aadhar-card-source-code-disclosure-via-exposed-svn-wc-db-c05519ea7761, Source-code-disclosure
 - https://medium.com/@querylab/bypass-premium-account-payment-getpocket-d813b249687c, Payment-bypass
-- https://sudhanshur705.medium.com/exploring-the-world-of-esi-injection-b86234e66f91, ESI-injection
 - https://medium.com/@ashlyn.lau_17206/hooking-secret-key-to-building-custom-burp-extension-c6aeb6fd312a, SQL-injection
 - https://www.yassineaboukir.com//blog/hunting-for-amazon-cognito-security-misconfigurations/, Amazon-cognito-misconfiguration
 - https://danaepp.com/hacking-a-net-api-in-the-real-world, LFI
@@ -2048,7 +2047,6 @@
 - https://zdresearch.com/rce-on-a-laravel-private-program/, RCE
 - https://neroli.medium.com/is-math-random-safe-from-missing-rate-limit-to-bypass-2fa-and-possible-sqli-2a4ea66f82c5, Race-condition
 - https://ashutoshmishra00x0.medium.com/account-takeover-via-response-manipulation-worth-1800-ffb242cc55c9, Authentication-bypass
-- https://sprocketfox.io/xssfox/2021/02/18/pipeline/, RCE
 - https://thevillagehacker.medium.com/account-take-over-by-response-manipulation-e1293ee51e9a, Authentication-bypass
 - https://ysamm.com/?p=640, Information-disclosure
 - https://ysamm.com/?p=638, Information-disclosure
@@ -2207,7 +2205,6 @@
 - https://samiparyal.medium.com/commenting-on-a-post-by-opening-it-via-pages-news-feed-goes-from-a-wrong-actor-i-e-56fab4cf5a91, Information-disclosure
 - https://medium.com/bugbountywriteup/evading-filters-to-perform-the-arbitrary-url-redirection-attack-cce628b9b6a0, Open-redirect
 - https://blog.oversecured.com/Evernote-Universal-XSS-theft-of-all-cookies-from-all-sites-and-more/, Universal-XSS
-- https://pulsesecurity.co.nz/advisories/Atlassian-ID-Username-Enumeration, Username-enumeration
 - https://nechudav.blogspot.com/2020/11/31k-ssrf-in-google-cloud-monitoring.html, SSRF
 - https://medium.com/bugbountywriteup/chaining-password-reset-link-poisoning-idor-account-information-leakage-to-achieve-account-bb5e0e400745, HTTP-header-injection
 - https://blog.mozilla.org/attack-and-defense/2020/11/10/firefox-for-android-lan-based-intent-triggering/, Insecure-intent
@@ -2535,7 +2532,6 @@
 - https://medium.com/@hbothra22/recon-to-sensitive-information-disclosure-in-minutes-503fc7ccdf0b, Information-disclosure
 - https://medium.com/@d0nut/piercing-the-veal-short-stories-to-read-with-friends-4aa86d606fc5, SSRF
 - https://www.cyberark.com/threat-research-blog/beware-of-the-gif-account-takeover-vulnerability-in-microsoft-teams/, Account-takeover
-- https://blog.deteact.com/bitrix-waf-bypass/, Reflected-XSS
 - https://www.shielder.it/blog/1-click-rce-on-keybase/, RCE
 - https://blog.evanricafort.com/2020/04/xss-in-peerio-2-windows-application.html, XSS
 - https://web.archive.org/web/20200426140225/https://medium.com/@aungpyaehackeronetester/web-cache-poisoning-in-postmates-1500-a67eee4fc118, Web-cache-poisoning
@@ -2984,7 +2980,6 @@
 - https://medium.com/@80vul/from-http-domain-to-res-domain-xss-by-using-ie-adobes-pdf-activex-plugin-9f2a72a87aff, DOM-XSS
 - https://medium.com/@avinash_/disclosure-of-pending-roles-for-any-facebook-page-ab6e4e219f8e, IDOR
 - https://medium.com/@vis_hacker/how-i-was-able-to-pwned-30000-users-webhook-d26dc3420703, IDOR
-- https://medium.com/@imranparray/privilege-escalation-on-private-program-a2a5548cde09, Privilege-escalation
 - https://medium.com/@rohitcoder/user-account-takeover-password-change-nice-catch-2293f4d272b2, Account-takeover
 - https://blog.ripstech.com/2019/wordpress-csrf-to-rce/, CSRF
 - https://medium.com/@GeneralEG/hack-your-form-new-vector-for-blind-xss-b7a50b808016, Blind-XSS

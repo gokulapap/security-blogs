@@ -145,3 +145,4 @@
 - https://blog.assetnote.io/bug-bounty/2019/03/19/rce-on-mozilla-zero-day-webpagetest/
 - https://medium.com/bugbountywriteup/how-i-got-5500-from-yahoo-for-rce-92fffb7145e6
 - https://blog.evanricafort.com/2018/02/rce-remote-code-execution-in-wordpress.html
+- https://sprocketfox.io/xssfox/2021/02/18/pipeline/
