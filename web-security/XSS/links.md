@@ -144,3 +144,4 @@
 - https://www.virtuesecurity.com/tale-of-a-wormable-twitter-xss/
 - https://medium.com/@ajzead660/how-i-found-a-tricky-xss-1adf25850d33
 - https://medium.com/@satboy.fb/how-i-caught-multiple-vulnerabilities-in-udemy-com-14012a8a1421
+- https://leucosite.com/Microsoft-Office-365-Outlook-XSS/

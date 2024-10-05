@@ -8,7 +8,6 @@
 - https://medium.com/@jenishpanchal514/account-takeover-via-response-manipulation-otp-brute-force-b965fc1b7a37, ATO
 - https://medium.com/@diegotellaroli05/account-takeover-in-chatgpt-e134ed11654d, ATO
 - https://medium.com/@Bishoo97x/google-unrestricted-file-upload-xss-and-html-injection-f6ba3c2cddbf, XSS
-- https://medium.com/@javizgodoy/how-i-use-obsidian-as-a-second-brain-11945456dc69, 
 - https://medium.com/@_deshine_/easy-2000-race-condition-b4d093c9bc3c, race-condition
 - https://medium.com/@vickieli/learn-about-command-injection-attacks-1cd0d178fe65, injection
 - https://medium.com/@amit-lt/scenario-of-reflected-cross-site-scripting-vulnerability-a3ee189dd822, XSS
@@ -554,7 +553,6 @@
 - https://medium.com/@levshmelevv/10-000-bounty-for-exposed-git-to-rce-304c7e1f54, git-folder-disclosure
 - https://infosecwriteups.com/how-did-i-found-rce-on-shareit-which-rewarded-bounty-7d4196bf1b52, Log4shell
 - https://nishantjain.tech/#/blog, GraphQL
-- https://medium.com/@omidxrz/command-injection-by-changing-the-logo-2d730887ab6c, RCE
 - https://hacklido.com/blog/320-how-i-got-a-2000-bounty-with-rxss, Reflected-XSS
 - https://medium.com/@osamaavvan/unauthenticated-graphql-introspection-and-api-calls-92f1d9d86bcf, GraphQL
 - https://systemweakness.com/give-me-a-browser-ill-give-you-a-shell-de19811defa0, Local-Privilege-Escalation
@@ -919,7 +917,6 @@
 - https://medium.com/@Cybervenom/story-about-escalation-of-html-injection-to-ec2-instance-credentials-leak-e2cbd7343a83, SSRF
 - https://blog.infiltrateops.io/the-castles-latrine-10f9c16548bd, SQL-injection
 - https://labs.withsecure.com/advisories/microsoft-office-365-message-encryption-insecure-mode-of-operation, Weak-crypto
-- https://payatu.com/blog/p3n7a90n/wp-all-export-pro, SQL-injection
 - https://infosecwriteups.com/its-the-little-things-breaking-an-ai-40c30ae85f37, Path-traversal
 - https://checkmarx.com/blog/some-vulnerabilities-dont-have-a-name/, ReDoS
 - https://medium.com/@iknowhatodo/fall-account-takeover-via-amazon-cognito-misconfiguration-ba5975b06c24, IDOR
@@ -1338,7 +1335,6 @@
 - https://systemweakness.com/stored-xss-to-other-users-via-messages-e033239821b5, Stored-XSS
 - https://medium.com/pentesternepal/sql-injection-in-harvards-subdomain-c3148f8be156, SQL-injection
 - https://bloggerrando.blogspot.com/2022/04/15-1.html, Broken-Access-Control
-- https://medium.com/@_ip_/3-3-cache-poisoning-lateral-movement-gitlab-9c6288708576, Broken-Access-Control
 - https://firefart.at/post/multiple_vulnerabilities_cisco_expressway/, Memory-leak
 - https://debprasadbanerjee502.medium.com/united-nations-bug-bounty-writeup-4bcfdefbb8d3, Information-disclosure
 - https://www.netspi.com/blog/technical/cloud-penetration-testing/abusing-azure-hybrid-workers-part-2/, Privilege-escalation
@@ -2842,7 +2838,6 @@
 - https://philippeharewood.com/subscribe-to-typing-notifications-for-any-instagram-user/, Authorization-flaw
 - https://blog.usejournal.com/shopping-products-for-free-parameter-tampering-vulnerability-8e09e1471596, Parameter-tampering
 - https://www.noob.ninja/2019/07/exploiting-tricky-blind-sql-injection.html, SQL-injection
-- https://leucosite.com/Microsoft-Office-365-Outlook-XSS/, XSS
 - https://medium.com/@sudhanshur705/how-recon-helped-me-to-to-find-a-facebook-domain-takeover-58163de0e7d5, Subdomain-takeover
 - https://medium.com/@circleninja/facebook-informative-bug-from-triaged-76738e4d5938, Lack-of-rate-limiting
 - https://medium.com/@lokeshdlk77/csrf-email-confirmation-vulnerability-for-gmail-g-suite-in-facebook-5ab551a0a526, CSRF

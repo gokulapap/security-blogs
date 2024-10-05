@@ -42,3 +42,4 @@
 - https://medium.com/@ratnadip1998/admin-panel-accessed-via-sql-injection-ezy-boooom-57dc60c2815f
 - https://akashroxstarz.medium.com/hey-waf-better-luck-next-time-a1df7f444863
 - https://mehedishakeel.medium.com/found-sql-injection-vulnerability-on-government-organization-website-3eb33c0c49a4
+- https://payatu.com/blog/p3n7a90n/wp-all-export-pro
