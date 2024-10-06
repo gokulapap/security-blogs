@@ -75,3 +75,4 @@
 - https://medium.com/stolabs/cloud-ssrf-exploitation-1f256bdc145f
 - https://ngailong.wordpress.com/2019/04/07/old-but-gold-dot-dot-slash-to-get-the-flag-uber-microservice/amp/
 - https://goziem.medium.com/my-first-case-of-ssrf-using-dirsearch-b916f0f1e94b
+- https://medium.com/@Cybervenom/story-about-escalation-of-html-injection-to-ec2-instance-credentials-leak-e2cbd7343a83

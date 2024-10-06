@@ -1,2 +1,3 @@
 - https://medium.com/@shakti.gtp/utilizing-lockdown-blind-sqli-leads-to-account-takeover-data-extraction-3705ce8bdb62
 - https://ahussam.me/Blind-sqli-Hootsuite/
+- https://robinverton.de/blog/2019/08/25/bug-bounty-bypassing-a-crappy-waf-to-exploit-a-blind-sql-injection/

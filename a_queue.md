@@ -914,7 +914,6 @@
 - https://web.archive.org/web/20221017025828/https://medium.com/@EX_097/my-first-critical-bug-in-hackerone-platform-2ce9adcb39a6, HTTP-request-smuggling
 - https://blog.kylebot.net/2022/10/16/CVE-2022-1786/, Use-After-Free
 - https://0x4kd.medium.com/google-sso-misconfiguration-leading-to-account-takeover-cf9bcf63e76e, Authentication-bypass
-- https://medium.com/@Cybervenom/story-about-escalation-of-html-injection-to-ec2-instance-credentials-leak-e2cbd7343a83, SSRF
 - https://blog.infiltrateops.io/the-castles-latrine-10f9c16548bd, SQL-injection
 - https://labs.withsecure.com/advisories/microsoft-office-365-message-encryption-insecure-mode-of-operation, Weak-crypto
 - https://infosecwriteups.com/its-the-little-things-breaking-an-ai-40c30ae85f37, Path-traversal
@@ -1131,7 +1130,6 @@
 - https://medium.com/@xpertwhitehat/reflected-cross-site-scripting-on-user-agent-dependent-response-b44258a3d978, Reflected-XSS
 - https://medium.com/tinder/exploiting-github-actions-on-open-source-projects-5d93936d189f, RCE
 - https://shahjerry33.medium.com/http-parameter-pollution-its-contaminated-again-95c75b0295e1, HTTP-parameter-pollution
-- https://www.synacktiv.com/publications/cve-2022-31813-forwarding-addresses-is-hard.html, Host-header-injection
 - https://pentest.blog/advisory-roxy-wi-unauthenticated-remote-code-executions-cve-2022-31137/, RCE
 - https://medium.com/@emirpolat/cve-2022-36446-webmin-1-997-7a9225af3165, RCE
 - https://claroty.com/team82/blog/with-management-comes-risk-finding-flaws-in-filewave-mdm, Authentication-bypass
@@ -1768,7 +1766,6 @@
 - https://infosecwriteups.com/what-is-bola-3-digit-bounty-from-topcoder-a25e7fae0d64, IDOR
 - https://bohops.com/2021/08/07/cve-2021-0090-intel-driver-support-assistant-dsa-elevation-of-privilege-eop/, Local-Privilege-Escalation
 - https://valsamaras.medium.com/size-matters-cve-2021-0485-cfa0a291f903, Local-Privilege-Escalation
-- https://philippeharewood.com/access-to-crowdtangle-deletion-framework-api/, Authorization-flaw
 - https://philippeharewood.com/view-the-country-of-a-private-instagram-user/, Information-disclosure
 - https://philippeharewood.com/access-to-crowdtangle-deletion-framework-api/, Information-disclosure
 - https://gonzx.medium.com/how-i-found-open-redirect-on-hashnode-com-5f3e9ecb8dc6, Open-redirect
@@ -1998,7 +1995,6 @@
 - https://dewcode.in/2021/03/24/Finding-and-exploiting-race-condition-vulnerability-on-facebook-server.html, Race-condition
 - https://sudhanshur705.medium.com/how-i-made-it-to-google-hof-f1cec85fdb1b, IDOR
 - https://shahjerry33.medium.com/cross-site-port-attack-a-strangers-call-c2467f93792f, XSPA
-- https://muhammad-aamir.medium.com/oauth-misconfiguration-found-in-small-time-window-of-attack-b585afcb94c6, OAuth
 - https://godiego.co/posts/STO-AWS/, Subdomain-takeover
 - https://gccybermonks.com/posts/xss-mozilla/, XSS
 - https://infosecwriteups.com/how-i-hacked-facebook-part-two-ffab96d57b19, SSRF
@@ -2796,7 +2792,6 @@
 - https://blog.usejournal.com/graphql-bug-to-steal-anyones-address-fc34f0374417, Information-disclosure
 - https://medium.com/@bathinivijaysimhareddy/shodan-is-your-friend-if-you-lose-him-you-will-lose-many-657d07472f75, SQL-injection
 - https://medium.com/@Skylinearafat/how-to-look-for-js-files-vulnerability-for-fun-and-profit-78bfdfbd6731, Information-disclosure
-- https://robinverton.de/blog/2019/08/25/bug-bounty-bypassing-a-crappy-waf-to-exploit-a-blind-sql-injection/, Blind-SQL-injection
 - https://addictivehackers.blogspot.com/2019/08/from-github-recon-to-account-takeover.html, Information-disclosure
 - https://gauravnarwani.com/cookie-worth-a-fortune/, Reflected-XSS
 - https://blog.doyensec.com/2019/08/22/modern-password-managers-flag-secure.html, Information-disclosure

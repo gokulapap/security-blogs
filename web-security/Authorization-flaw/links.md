@@ -65,3 +65,4 @@
 - https://medium.com/@tarekmohamed_20773/add-new-user-with-admin-permission-and-takeover-the-organization-6318ee10154a
 - https://baibhavjha.com.np/blogs/fblitegroupmemberdisclosure/
 - https://servicenger.com/blog/mobile/sve-2020-18025-unauthorised-access-to-samsung-secure-folder-files/
+- https://philippeharewood.com/access-to-crowdtangle-deletion-framework-api/
