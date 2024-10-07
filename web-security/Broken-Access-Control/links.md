@@ -12,3 +12,4 @@
 - https://castilho.onrender.com/kanboard
 - https://medium.com/bugbountywriteup/broken-access-control-in-bingmapsportal-a012bffd2c43
 - https://medium.com/@_ip_/3-3-cache-poisoning-lateral-movement-gitlab-9c6288708576
+- https://www.tomanthony.co.uk/blog/googles-manual-actions-hack/

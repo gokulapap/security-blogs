@@ -256,7 +256,6 @@
 - https://www.ns-echo.com/posts/cve_2023_33298.html, Local-Privilege-Escalation
 - https://security.lauritz-holtmann.de/post/csti-xss-sso-gadget-chain/, CSTI
 - https://medium.com/@jonathanbouman/laravel-debug-mode-left-on-at-zouikwatzeggen-nl-948a7365409f, Debug-mode-enabled
-- https://medium.com/@amolbhavar/how-i-get-1000-bounty-for-discovering-account-takeover-in-android-application-3c4f54fbde39, Account-takeover
 - https://www.interruptlabs.co.uk/articles/pwn2own-2022-hp-printer, Printer-hacking
 - https://www.pmnh.site/post/witeup_lhe_graphql_stored_xss/, Stored-XSS
 - https://blog.assetnote.io/2023/06/29/binary-reversing-citrix-xss/, Reflected-XSS
@@ -507,7 +506,6 @@
 - https://blog.quarkslab.com/vulnerabilities-in-the-tpm-20-reference-implementation-code.html, Memory-corruption
 - https://www.mdsec.co.uk/2023/03/exploiting-cve-2023-23397-microsoft-outlook-elevation-of-privilege-vulnerability/, Privilege-escalation
 - https://www.horizon3.ai/veeam-backup-and-replication-cve-2023-27532-deep-dive/, Local-Privilege-Escalation
-- https://www.tomanthony.co.uk/blog/googles-manual-actions-hack/, Broken-Access-Control
 - https://www.dsecbypass.com/en/dolibarr-pre-auth-contact-database-dump/, SQL-injection
 - https://ltsirkov.medium.com/netflix-smart-tv-chaining-self-xss-with-session-poisoning-3eb7c78c7914, Self-XSS
 - https://infosecwriteups.com/account-takeover-an-epic-bug-bounty-story-dd5468d5773d, Account-takeover
@@ -1169,7 +1167,6 @@
 - https://medium.com/@milanjain7906/good-recon-leads-to-senssitive-accounts-a8abb6c21333, Information-disclosure
 - https://medium.com/@evilmango/this-is-what-i-call-mass-idor-20e6ec146c0e, Lack-of-rate-limiting
 - https://medium.com/@shaunak007/how-i-spammed-a-google-meet-but-for-good-8bc5b328f1bb, DoS
-- https://www.gosecure.net/blog/2022/07/13/tableau-server-leaks-sensitive-information-from-reflected-xss/, Reflected-XSS
 - https://infosecwriteups.com/abusing-url-shortners-for-fun-and-profit-c83c67713916, Information-disclosure
 - https://medium.com/@rodricbr/from-open-redirect-to-reflected-xss-manually-64e633a3d23f, Open-redirect
 - https://voidzone.me/cve-2022-29885-apache-tomcat-cluster-service-dos/, DoS
@@ -2140,7 +2137,6 @@
 - https://0x48piraj.medium.com/full-address-bar-spoofing-on-opera-mini-android-597fafa60627, Address-Bar-Spoofing
 - https://lutfumertceylan.com.tr/posts/acc-takeover-web-cache-xss/, Reflected-XSS
 - https://baibhavjha.com.np/blogs/hidingfromcustomlistfblite/, Logic-flaw
-- https://spaceraccoon.dev/supply-chain-pollution-hunting-a-16-million-download-week-npm-package, Prototype-pollution
 - https://blog.s1r1us.ninja/research/cookie-tossing-to-rce-on-google-cloud-jupyter-notebooks, Self-XSS
 - https://www.ehpus.com/post/ssti-in-google-maps, SSTI
 - https://saugatpokharel.medium.com/this-is-how-i-was-able-to-view-anyones-private-email-and-birthday-on-instagram-1469f44b842b, Information-disclosure
@@ -3627,5 +3623,4 @@
 - https://whitton.io/archive/persistent-xss-on-myworld-ebay-com/, XSS
 - https://josipfranjkovic.blogspot.com/2013/01/googlecom-cross-site-scripting-and.html, Stored-XSS
 - https://whitton.io/archive/my-experience-with-the-paypal-bug-bounty-programme/, CSRF
-- https://maustin.net/articles/2011-08/FBML_dom_traversal, Information-disclosure
 - https://maustin.net/articles/2010-07/facebook_fbml_xss, XSS
