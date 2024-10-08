@@ -145,3 +145,5 @@
 - https://medium.com/@ajzead660/how-i-found-a-tricky-xss-1adf25850d33
 - https://medium.com/@satboy.fb/how-i-caught-multiple-vulnerabilities-in-udemy-com-14012a8a1421
 - https://leucosite.com/Microsoft-Office-365-Outlook-XSS/
+- https://adnanmalik.info/blog/the-ticklish-xss%EF%BF%BC/
+- https://infosecwriteups.com/reflected-xss-through-insecure-dynamic-loading-dbf4d33611e0

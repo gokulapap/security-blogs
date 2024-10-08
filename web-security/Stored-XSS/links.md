@@ -52,3 +52,4 @@
 - https://omar0x01.medium.com/cve-2022-42710-a-journey-through-xxe-to-stored-xss-851d74dfe917
 - https://keerok.github.io/2022/12/22/Flickr-Stored-XSS/
 - https://elmahdi.tistory.com/m/2
+- https://medium.com/@schopath/yeah-i-got-p2-in-1-minute-stored-xss-via-markdown-editor-7872dba3f158

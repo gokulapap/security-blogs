@@ -31,3 +31,4 @@
 - https://www.zerodayinitiative.com/blog/2021/9/2/cve-2021-2429-a-heap-based-buffer-overflow-bug-in-the-mysql-innodb-memcached-plugin
 - https://www.synacktiv.com/publications/your-vulnerability-is-in-another-oem.html
 - https://i.blackhat.com/USA-22/Wednesday/US-22-Doyhenard-Internal-Server-Error-wp.pdf
+- https://blog.ret2.me/post/2022-01-26-exploiting-xiongmai-dvrs/

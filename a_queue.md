@@ -634,7 +634,6 @@
 - https://blog.assetnote.io/2023/02/01/rce-in-avaya-aura/, RCE
 - https://webresearcher007.medium.com/broken-function-level-authorization-leads-to-disclosing-pii-information-of-all-company-users-35aee60b287b, Broken-Function-Level-Authorization
 - https://z-sec.co/mass-account-takeover, MFA-bypass
-- https://eta.st/2023/01/31/rail-tickets.html, Reverse-engineering
 - https://onekey.com/blog/security-advisory-remote-command-execution-in-binwalk/, RCE
 - https://www.akamai.com/blog/security-research/cant-wait-to-shut-you-down-msrpc-wininit, DoS
 - https://www.ambionics.io/blog/vbulletin-unserializable-but-unreachable, RCE
@@ -1485,7 +1484,6 @@
 - https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/cve-2020-0696-microsoft-outlook-security-feature-bypass-vulnerability/, URL-validation-bypass
 - https://perception-point.io/technical-analysis-of-cve-2022-22583-bypassing-macos-system-integrity-protection/, MacOS
 - https://blog.sorcery.ie/posts/adodb_auth_bypass/, Authentication-bypass
-- https://blog.ret2.me/post/2022-01-26-exploiting-xiongmai-dvrs/, Memory-corruption
 - https://www.ryanpickren.com/safari-uxss, Universal-XSS
 - https://aidilarf.medium.com/first-valid-bug-finding-at-microsoft-and-i-got-the-acknowledgments-page-microsoft-a2c185c53074, XSS
 - https://www.zerodayinitiative.com/blog/2022/1/25/cve-2021-44790-code-execution-on-apache-via-an-integer-underflow, Memory-corruption
@@ -1812,7 +1810,6 @@
 - https://tomorrowisnew.com/posts/broken-access-control-bug-bypassing-403-s-by-finding-another-endpoint-that-do-the-same-thing/, Broken-Access-Control
 - https://medium.com/@kalvik/pre-denial-of-service-set-up-2fa-on-unverified-account-8399af52ea2d, Application-level-DoS
 - https://infosecwriteups.com/critical-bug-bounty-reports-part-1-6fd9aef4b486, Account-takeover
-- https://infosecwriteups.com/reflected-xss-through-insecure-dynamic-loading-dbf4d33611e0, XSS
 - https://medium.com/pentesternepal/facebook-email-phone-disclosure-using-binary-search-d50430758c54, Password-reset
 - https://feed.bugs.xdavidhu.me/bugs/0009, IDOR
 - https://adnanmalik.info/blog/lets-cancel-the-subscription/, Logic-flaw
@@ -2558,7 +2555,6 @@
 - https://web.archive.org/web/20200511145923/https://medium.com/@godofdarkness.msf/account-takeover-flow-in-mail-ru-s-ext-a-domain-150-8952e8078211, Logic-flaw
 - https://protonvpn.com/blog/apple-ios-vulnerability-disclosure/, Privacy-issue
 - https://medium.com/@ch3ckm4te/self-xss-to-account-takeover-72c89775cf8f, Account-takeover
-- https://adnanmalik.info/blog/the-ticklish-xss%EF%BF%BC/, XSS
 - https://web.archive.org/web/20201004092711/https://sametsahin.net/posts/administrator-level-privilege-escalation-story/, Privilege-escalation
 - https://medium.com/bugbountywriteup/reflected-xss-on-microsoft-com-subdomains-4bdfc2c716df, Reflected-XSS
 - https://honoki.net/2020/03/18/xxe-scape-through-the-front-door-circumventing-the-firewall-with-http-request-smuggling/, XXE
@@ -2850,7 +2846,6 @@
 - https://medium.com/@saugatpokharel/this-is-how-i-managed-to-win-2000-through-facebook-bug-bounty-a7d531d5097e, Logic-flaw
 - https://medium.com/@shub66452/account-takeover-using-csrf-json-based-a0e6efd1bffc, CSRF
 - https://medium.com/@nandwanajatin25/story-of-a-stored-xss-to-full-account-takeover-vulnerability-n-a-to-accepted-8478aa5e0d8e, Stored-XSS
-- https://medium.com/@schopath/yeah-i-got-p2-in-1-minute-stored-xss-via-markdown-editor-7872dba3f158, Stored-XSS
 - https://gauravnarwani.com/injecting-6200-to-1200/, SSTI
 - https://medium.com/@kanchansinghyadav/one-more-parameter-manipulation-bug-7fa0551a6021, Parameter-tampering
 - https://medium.com/@reegun/nuget-squirrel-uncontrolled-endpoints-leads-to-arbitrary-code-execution-80c9df51cf12, RCE
