@@ -371,7 +371,6 @@
 - https://crnkovic.dev/testing-converso/, Android
 - https://www.elttam.com/blog/pwnassistant/, Authentication-bypass
 - https://www.synopsys.com/blogs/software-security/a-deep-dive-on-pluck-cms-vulnerability-cve-2023-25828/, Unrestricted-file-upload
-- https://pwn.win/2023/05/08/parallels-escape.html, Local-Privilege-Escalation
 - http://blog.evanricafort.com/2023/05/ipv6-dns-takeover-via-mitm6-write-up.html, MiTM
 - https://medium.com/@ar_hawk/how-a-simple-directory-listing-leads-to-pii-data-leakage-remote-code-execution-and-many-more-104b09e644f4, RCE
 - https://medium.com/@mohammed01550038865/how-i-discovred-xss-via-url-encode-3-times-86ccd5354081, XSS
@@ -2095,7 +2094,6 @@
 - https://sunilyedla.medium.com/simple-sweet-bypassing-email-update-restriction-to-change-emails-of-team-members-6ce5770e7929, Logic-flaw
 - https://bugs.xdavidhu.me/google/2021/01/18/the-embedded-youtube-player-told-me-what-you-were-watching-and-more/, Information-disclosure
 - https://kunalkhubchandani.medium.com/how-i-was-rewarded-a-1000-bounty-after-abusing-file-upload-functionality-to-stored-xss-945a40ac6f94, Unrestricted-file-upload
-- https://secureitmania.medium.com/lets-know-how-i-have-explored-the-buried-secrets-in-react-native-application-6236728198f7, Information-disclosure
 - https://jwlss.pw/mathjs/, RCE
 - https://takester.medium.com/my-first-and-last-crit-of-2020-on-hackerone-702a694781b0, Lack-of-rate-limiting
 - https://github.com/httpvoid/writeups/blob/main/Apple-RCE.md, RCE
@@ -3037,7 +3035,6 @@
 - https://hacklad.github.io/blog/2019/01/13/Xss-it.html, Stored-XSS
 - https://www.symbo1.com/articles/2019/01/11/fb-pageanalyst-could-add-oneself-as-moderator-on-group.html, Authorization-flaw
 - https://philippeharewood.com/view-the-contact-list-for-a-messenger-kid-as-a-parent-approved-contact/, Authorization-flaw
-- https://renaudmarti.net/posts/first-bug-bounty-submission/, XSS
 - https://medium.com/bugbountywriteup/when-cookie-hijacking-html-injection-become-dangerous-3c649f7f6c88, Cookie-hijacking
 - https://medium.com/@thejuskrishnan911/reflected-xss-on-asus-568ce0541171, Reflected-XSS
 - https://medium.com/@hariharan21/stored-xss-via-alternate-text-at-zendesk-support-8bfee68413e4, Stored-XSS
@@ -3129,7 +3126,6 @@
 - https://medium.com/@kankrale.rahul/dos-on-facebook-android-app-using-65530-characters-of-zero-width-no-break-space-db41ca8ded89, DoS
 - https://medium.com/@egeken/facebook-hidden-redirection-vulnerability-aeaaac0b9d73, Open-redirect
 - https://medium.com/@ariffadhlullah2310/xss-deface-with-html-and-how-to-convert-the-html-into-charcode-f0c62dd5ef3f, XSS
-- https://medium.com/@raushanraj_65039/google-sites-and-exploiting-same-origin-policy-d400bf569964, SOP-bypass
 - https://medium.com/japzdivino/harvesting-all-private-invites-using-leave-program-fast-tracked-invitation-and-security-email-a01c8b3ce76f, Logic-flaw
 - https://medium.com/@notsoshant/a-possibility-of-account-takeover-in-medium-8d950e547639, Account-takeover
 - https://medium.com/bugbountywriteup/add-comment-on-a-private-oculus-developer-bug-report-93f35bc80b2c, IDOR
@@ -3611,7 +3607,6 @@
 - https://josipfranjkovic.blogspot.com/2013/07/how-i-found-my-way-into-instagrams.html, Reflected-XSS
 - https://bitquark.co.uk/blog/2013/07/19/admob_creative_image_xss, XSS
 - https://bitquark.co.uk/blog/2013/07/03/amazon_packaging_feedback_xss, XSS
-- https://whitton.io/articles/overwriting-banner-images-on-etsy/, Authorization-flaw
 - https://whitton.io/articles/stealing-facebook-access-tokens-with-a-double-submit/, CSRF
 - http://www.rafayhackingarticles.net/2013/02/dom-based-xss-in-avg.html, DOM-XSS
 - https://whitton.io/archive/framing-part-1-click-jacking-etsy, Clickjacking

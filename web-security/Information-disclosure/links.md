@@ -128,3 +128,4 @@
 - https://medium.com/@yaala/confirm-an-email-address-belonging-to-a-specific-user-fe9c305e0af
 - https://medium.com/@saurabh5392/one-misconfiguration-to-rule-them-all-b45f50fd3df4
 - https://maustin.net/articles/2011-08/FBML_dom_traversal
+- https://secureitmania.medium.com/lets-know-how-i-have-explored-the-buried-secrets-in-react-native-application-6236728198f7

@@ -66,3 +66,4 @@
 - https://baibhavjha.com.np/blogs/fblitegroupmemberdisclosure/
 - https://servicenger.com/blog/mobile/sve-2020-18025-unauthorised-access-to-samsung-secure-folder-files/
 - https://philippeharewood.com/access-to-crowdtangle-deletion-framework-api/
+- https://whitton.io/articles/overwriting-banner-images-on-etsy/

@@ -147,3 +147,4 @@
 - https://leucosite.com/Microsoft-Office-365-Outlook-XSS/
 - https://adnanmalik.info/blog/the-ticklish-xss%EF%BF%BC/
 - https://infosecwriteups.com/reflected-xss-through-insecure-dynamic-loading-dbf4d33611e0
+- https://renaudmarti.net/posts/first-bug-bounty-submission/
