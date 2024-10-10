@@ -11,3 +11,4 @@
 - https://medium.com/@ironfisto/tokopedia-account-takeover-bug-worth-8-million-idr-5474cb5b5cc9
 - https://footstep.ninja/posts/password-reset/
 - https://infosecwriteups.com/bypass-rate-limit-a-blank-space-leads-to-this-random-encounter-e18e72fbf228
+- https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/hunting-for-password-reset-tokens-by-spraying-and-using-http-pipelining/

@@ -147,3 +147,4 @@
 - https://blog.evanricafort.com/2018/02/rce-remote-code-execution-in-wordpress.html
 - https://sprocketfox.io/xssfox/2021/02/18/pipeline/
 - https://medium.com/@omidxrz/command-injection-by-changing-the-logo-2d730887ab6c
+- https://sector7.computest.nl/post/2022-07-inductive-automation-ignition-rce/
