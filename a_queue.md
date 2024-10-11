@@ -1027,7 +1027,6 @@
 - https://medium.com/@0x0Asif/how-i-found-my-first-rce-8f8033883dc4, IDOR
 - https://nokline.github.io/bugbounty/2022/09/02/Glassdoor-Cache-Poisoning.html, Web-cache-poisoning
 - https://mr23r0.medium.com/the-database-handover-a-dumb-mistake-critical-bug-f73c99e72e40, Information-disclosure
-- https://www.legitsecurity.com/blog/github-privilege-escalation-vulnerability-0, Privilege-escalation
 - https://medium.com/@xJay/angularjs-client-side-template-injection-the-orderby-filter-20002ca2a0e8, CSTI
 - https://orca.security/resources/blog/synapse-local-privilege-escalation-vulnerability-spark/, Race-condition
 - https://portswigger.net/research/using-hackability-to-uncover-a-chrome-infoleak, SOP-bypass
@@ -1202,7 +1201,6 @@
 - https://curl.se/docs/CVE-2022-32207.html, Improper-Preservation-of-Permissions
 - https://curl.se/docs/CVE-2022-32205.html, DoS
 - https://blog.assetnote.io/2022/06/26/exploiting-ssrf-in-jira/, SSRF
-- https://bugs.php.net/bug.php?id=81719, Buffer-Overflow
 - https://medium.com/@shakti.gtp/an-out-of-scope-domain-leads-to-a-critical-bug-1500-f228d2c7db4b, Authorization-flaw
 - https://peterjson.medium.com/miracle-one-vulnerability-to-rule-them-all-c3aed9edeea2, Insecure-deserialization
 - https://blog.viettelcybersecurity.com/pwn2own-2021-microsoft-exchange-exploit-chain/, SSRF
@@ -3173,7 +3171,6 @@
 - https://websecblog.com/vulns/reflected-xss-in-google-code-jam/, Reflected-XSS
 - https://blog.securitybreached.org/2018/09/08/sqli-bootcampnutanix-com-bug-bounty-poc/, SQL-injection
 - https://blog.securitybreached.org/2018/09/07/rce-jenkins-instance-dosomething-org-bug-bounty-poc/, RCE
-- http://omespino.com/write-up-lovestory-from-closed-as-informative-to-xx00-usd-in-yahoo-ios-mail-app/, Stored-XSS
 - https://medium.com/@ciph3r7r0ll/simple-login-brute-force-current-password-requirement-bypass-e8f58931e257, IDOR
 - https://blog.sagarvd.me/2018/09/youtube-csrf.html, CSRF
 - https://medium.com/@mahitman1/i-own-your-customers-22e965761abd, Information-disclosure
@@ -3240,7 +3237,6 @@
 - https://medium.com/@jonathanbouman/persistent-xss-at-ah-nl-198fe7b4c781, Stored-XSS
 - https://medium.com/@logicbomb_1/bugbounty-compromising-user-account-how-i-was-able-to-compromise-user-account-via-http-4288068b901f, HTTP-parameter-pollution
 - https://medium.com/bugbountywriteup/latex-to-rce-private-bug-bounty-program-6a0b5b33d26a, RCE
-- https://www.nahamsec.com/posts/chaining-multiple-vulnerabilities-to-gain-admin-access, IDOR
 - https://leigh-annegalloway.com/tumblr/, Captcha-bypass
 - https://www.cyberonesecurity.com/blog/unauthenticated-command-injection-vulnerability-in-vmware-nsx-sd-wan-by-velocloud, OS-command-injection
 - https://zseano.medium.com/how-re-signing-up-for-an-account-lead-to-account-takeover-3a63a628fd9f, Logic-flaw
@@ -3451,7 +3447,6 @@
 - https://shahmeeramir.com/how-a-simple-idor-become-a-4k-user-impersonation-vulnerability-705291b55c0d, IDOR
 - https://web.archive.org/web/20180827025910/http://www.paulosyibelo.com/2017/07/coinbase-angularjs-dom-xss-via-kiteworks.html, DOM-XSS
 - https://ahussam.me/Medium-content-spoofing-xss, Content-spoofing
-- https://infosecwriteups.com/whatsapp-dos-vulnerability-in-ios-android-d896f76d3253, DoS
 - https://web.archive.org/web/20190718104640/https://medium.com/@tbmnull/making-an-xss-triggered-by-csp-bypass-on-twitter-561f107be3e5, XSS
 - https://buer.haus/2017/06/29/escalating-xss-in-phantomjs-image-rendering-to-ssrflocal-file-read/, XSS
 - https://ysx.me.uk/road-to-unauthenticated-recovery-downloading-github-saml-codes/, Authorization-flaw

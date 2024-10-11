@@ -53,3 +53,4 @@
 - https://keerok.github.io/2022/12/22/Flickr-Stored-XSS/
 - https://elmahdi.tistory.com/m/2
 - https://medium.com/@schopath/yeah-i-got-p2-in-1-minute-stored-xss-via-markdown-editor-7872dba3f158
+- http://omespino.com/write-up-lovestory-from-closed-as-informative-to-xx00-usd-in-yahoo-ios-mail-app/

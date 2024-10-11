@@ -24,3 +24,4 @@
 - https://www.intezer.com/blog/research/how-we-escaped-docker-in-azure-functions/
 - https://www.cloudquery.io/blog/aws-priv-esc-identity-center
 - https://medium.com/@imranparray/privilege-escalation-on-private-program-a2a5548cde09
+- https://www.legitsecurity.com/blog/github-privilege-escalation-vulnerability-0
