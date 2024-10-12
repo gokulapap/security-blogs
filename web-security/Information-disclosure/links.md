@@ -129,3 +129,4 @@
 - https://medium.com/@saurabh5392/one-misconfiguration-to-rule-them-all-b45f50fd3df4
 - https://maustin.net/articles/2011-08/FBML_dom_traversal
 - https://secureitmania.medium.com/lets-know-how-i-have-explored-the-buried-secrets-in-react-native-application-6236728198f7
+- http://www.firstsight.me/2020/06/from-recon-to-bypassing-mfa-implementation-in-owa-by-using-ews-misconfiguration/

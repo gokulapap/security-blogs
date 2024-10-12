@@ -148,3 +148,4 @@
 - https://sprocketfox.io/xssfox/2021/02/18/pipeline/
 - https://medium.com/@omidxrz/command-injection-by-changing-the-logo-2d730887ab6c
 - https://sector7.computest.nl/post/2022-07-inductive-automation-ignition-rce/
+- https://testbnull.medium.com/oracle-access-manager-pre-auth-rce-cve-2021-35587-analysis-1302a4542316

@@ -44,3 +44,4 @@
 - https://medium.com/@sid0krypt/vue-js-reflected-xss-fae04c9872d2
 - https://blog.deteact.com/bitrix-waf-bypass/
 - https://www.gosecure.net/blog/2022/07/13/tableau-server-leaks-sensitive-information-from-reflected-xss/
+- https://web.archive.org/web/20200929003129/https://www.mohamedharon.com/2018/05/reflected-xss-in-hk-yahoo.html
