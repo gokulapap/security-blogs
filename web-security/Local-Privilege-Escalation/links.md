@@ -43,3 +43,4 @@
 - https://perception-point.io/a-technical-analysis-of-cve-2021-30864-bypassing-app-sandbox-restrictions/
 - https://www.cyberonesecurity.com/blog/local-privilege-escalation-vulnerability-discovered-in-vmware-fusion
 - https://pwn.win/2023/05/08/parallels-escape.html
+- https://breakdev.org/zip-motw-bug-analysis/

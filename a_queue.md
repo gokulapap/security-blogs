@@ -479,7 +479,6 @@
 - https://portswigger.net/research/exploiting-prototype-pollution-in-node-without-the-filesystem, Server-side-prototype-pollution
 - https://www.netspi.com/blog/technical/cloud-penetration-testing/azure-function-apps/, Privilege-escalation
 - https://medium.com/@warrenbutterworth/finding-initial-access-on-a-real-life-penetration-test-86ed5503ae48, Old-components-with-known-vulnerabilities
-- https://medium.com/@ambushneupane4/story-of-a-beautiful-account-takeover-869ef61ac6c8, Account-takeover
 - https://occamsec.com/getting-root-a-technical-walkthrough/, Information-disclosure
 - https://www.code-intelligence.com/blog/expression-dos-spring, DoS
 - https://www.synacktiv.com/sites/default/files/2023-03/Synacktiv-Grails-Spring-Security-CVE-2022-41923.pdf, Privilege-escalation
@@ -848,7 +847,6 @@
 - https://mu00d8.me/paper/bernhard22jitpicking.pdf, Browser-hacking
 - https://hdwsec.fr/blog/20221109-netgear/, Memory-corruption
 - https://maordayanofficial.medium.com/comodo-from-git-to-takeover-803ffb8b57e3, git-folder-disclosure
-- https://breakdev.org/zip-motw-bug-analysis/, Local-Privilege-Escalation
 - https://0xm5awy.medium.com/exploit-feature-to-get-high-bug-impact-1d3ae6517680, Logic-flaw
 - https://srd.cx/cve-2022-26730/, MacOS
 - https://infosecwriteups.com/story-of-a-1k-bounty-ssrf-d5c4868680f5, SSRF
@@ -1702,7 +1700,6 @@
 - https://websecblog.com/vulns/google-threadit/, DOM-XSS
 - https://apapedulimu.click/story-of-idor-on-google-product/, IDOR
 - https://medium.com/@katikitala.sushmitha078/how-i-can-take-over-any-users-account-with-their-mobile-number-6d820a364cad, Account-takeover
-- https://web.archive.org/web/20211025081016/http://noahblog.360.cn/burp-suite-rce/, RCE
 - https://infosecwriteups.com/eye-for-an-eye-unusual-single-click-jwt-token-takeover-2e58f88cf44d, Open-redirect
 - https://shahjerry33.medium.com/business-logic-errors-must-vote-68f642b60fb7, Logic-flaw
 - https://infosecwriteups.com/bypassed-and-uploaded-a-sweet-reverse-shell-d15e1bbf5836, Unrestricted-file-upload
@@ -2723,7 +2720,6 @@
 - https://medium.com/@saurabh5392/how-i-earned-by-finding-confidential-customer-data-including-plain-text-passwords-f93c4ce2631, Directory-listing
 - https://wwws.nightwatchcybersecurity.com/2019/10/24/nfc-beaming-bypasses-security-controls-in-android-cve-2019-2114/, NFC
 - https://cpdos.org, DoS
-- https://medium.com/@edmundaa222/poc-disclose-members-in-any-closed-facebook-group-259783fa4bf, Information-disclosure
 - https://medium.com/@danangtriatmaja/bug-bounty-flaw-in-authentication-get-hall-of-fame-google-6196726ee5b9, Authentication-flaw
 - https://gauravnarwani.com/escalating-privileges-like-a-pro/, Privilege-escalation
 - https://buer.haus/2019/10/18/a-tale-of-exploitation-in-spreadsheet-file-conversions/, Local-file-disclosure
@@ -3363,7 +3359,6 @@
 - https://medium.com/@uranium238/getting-a-rce-ctf-way-2fd612fb643f, RCE
 - https://medium.com/@Skylinearafat/xss-protection-bypass-made-my-quickest-bounty-ever-f4fd970c9116, XSS
 - https://medium.com/@maxon3/lfi-to-command-execution-deutche-telekom-bug-bounty-6fe0de7df7a6, LFI
-- https://corben.io/blog/17-11-30-asus-sqli, SQL-injection
 - https://corben.io/blog/17-11-27-tricky-CORS, CORS-misconfiguration
 - https://blog.darabi.me/2017/11/image-removal-vulnerability-in-facebook.html, IDOR
 - https://medium.com/@malcolmx0x/story-of-bypassing-referer-header-to-make-open-redirect-94f938b9d032, Open-redirect

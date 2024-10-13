@@ -149,3 +149,4 @@
 - https://medium.com/@omidxrz/command-injection-by-changing-the-logo-2d730887ab6c
 - https://sector7.computest.nl/post/2022-07-inductive-automation-ignition-rce/
 - https://testbnull.medium.com/oracle-access-manager-pre-auth-rce-cve-2021-35587-analysis-1302a4542316
+- https://web.archive.org/web/20211025081016/http://noahblog.360.cn/burp-suite-rce/
