@@ -582,7 +582,6 @@
 - https://www.intruder.io/research/server-side-prototype-pollution, Server-side-prototype-pollution
 - https://www.praetorian.com/blog/azure-b2c-crypto-misuse-and-account-compromise/, Cryptographic-issues
 - https://posts.specterops.io/abusing-azure-app-service-managed-identity-assignments-c3adefccff95, Cloud
-- https://medium.com/@tarang.parmar/xss-on-most-popular-entertaining-website-2fbf5a88df0f, XSS
 - https://wesecureapp-smm.medium.com/assumed-breach-assessment-case-study-uncovering-wesecureapps-approach-45a512c0bd63, Internal-pentest
 - https://github.com/blackarrowsec/redteam-research/tree/master/LPE%20via%20StorSvc, Local-Privilege-Escalation
 - https://mahmoudsec.blogspot.com/2023/02/sql-injection-utilizing-xml-functions.html, SQL-injection
@@ -1243,7 +1242,6 @@
 - https://www.zerodayinitiative.com/blog/2022/6/1/is-exploiting-a-null-pointer-deref-for-lpe-just-a-pipe-dream, Memory-corruption
 - https://medium.com/@ratnadip1998/how-i-mass-hunt-for-admin-panel-access-8c2ad145054, Default-credentials
 - https://hencohen10.medium.com/microsoft-dynamics-container-sandbox-rce-via-unauthenticated-docker-remote-api-20-000-bounty-7f726340a93b, RCE
-- https://medium.com/@byq/from-open-redirect-to-rce-in-one-week-66a7f73fd082, Open-redirect
 - https://medium.com/@terminatorLM/abusing-facebooks-feature-for-a-permanent-account-confusion-logic-vulnerability-d7f5160f373a, MFA-bypass
 - https://web.archive.org/web/20220529130635/https://pwnsec.ninja/2022/05/29/exploiting-ios-app-for-fun-and-profit/, Account-takeover
 - https://medium.com/@vaibhavatkale/weird-email-verification-bypass-96c793c36d7e, Email-verification-bypass
@@ -1624,7 +1622,6 @@
 - https://infosecwriteups.com/a-story-of-another-awesome-old-school-hacking-that-lead-to-a-cool-p1-bug-f88da04b1ecf, 403-bypass
 - https://r0.haxors.org/posts?id=20, Stored-XSS
 - https://spaceraccoon.dev/all-your-d-base-are-belong-to-us-part-2-code-execution-in-microsoft-office, RCE
-- https://www.appsecure.security/blog/unauthorized-access-to-facebook-draft-profile-picture-frames, IDOR
 - https://pyn3rd.github.io/2021/10/22/mysql-jdbc-xxe/, XXE
 - https://med-mahmoudi26.medium.com/from-staging-to-0-click-account-takeover-528a5ecaa3eb, Account-takeover
 - https://www.gosecure.net/blog/2021/10/19/a-scientific-notation-bug-in-mysql-left-aws-waf-clients-vulnerable-to-sql-injection/, SQL-injection
@@ -1986,7 +1983,6 @@
 - https://secureitmania.medium.com/an-unknown-linux-secret-that-turned-ssrf-to-os-command-injection-6fe2f4edc202, SSRF
 - https://mayank-01.medium.com/an-interesting-account-takeover-3a33f42d609d, IDOR
 - https://www.pantaprakash.com.np/posts/categories/bugbounty-writeup/5.html, Information-disclosure
-- https://noobx.in/blogs/API-Misconfiguration-which-leads-to-unauthorized-access-to-servicedesk-tickets, Information-disclosure
 - https://spongebhav.medium.com/facebook-group-members-disclosure-e53eb83df39e, Information-disclosure
 - https://rahulvarale.medium.com/idor-vulenebility-with-empty-response-still-exposing-sensitive-details-of-customers-bdce0a6a1b07, IDOR
 - https://ashutoshmishra00x0.medium.com/account-takeover-via-reset-password-worth-2000-de085851d81d, Password-reset
@@ -2415,7 +2411,6 @@
 - https://ysamm.com/?p=458, Information-disclosure
 - https://medium.com/@pravinponnusamy/race-condition-vulnerability-found-in-bug-bounty-program-573260454c43, Race-condition
 - https://medium.com/@vishnu0002/account-takeover-via-otp-bruteforce-apigee-api-9b5481c642df, OTP-bypass
-- https://medium.com/@NinadMishra/dos-and-bugbounties-a-series-of-dos-attacks-on-hackerone-9c8316e192c9, DoS
 - https://medium.com/@mudassirsharief58/hunt-for-sql-injection-the-smart-way-db85243a4e90, SQL-injection
 - https://medium.com/@bachrudinashari/privilege-escalation-by-changing-http-response-admin-access-5e67c44713f6, Privilege-escalation
 - https://medium.com/@__mr_beast__/the-accidental-rce-7ceef9cee179, Unrestricted-file-upload

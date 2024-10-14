@@ -124,3 +124,4 @@
 - https://medium.com/@rajasudhakar/how-i-could-delete-facebook-ask-for-recommendations-posts-place-objects-in-comments-b7c9bcdf1c92
 - https://bugs.xdavidhu.me/google/2021/01/11/stealing-your-private-videos-one-frame-at-a-time/
 - https://www.nahamsec.com/posts/chaining-multiple-vulnerabilities-to-gain-admin-access
+- https://www.appsecure.security/blog/unauthorized-access-to-facebook-draft-profile-picture-frames
