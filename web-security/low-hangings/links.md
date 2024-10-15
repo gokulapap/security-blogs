@@ -1,1 +1,2 @@
 - https://medium.com/@shahjerry33/exif-data-exposure-9bdd6c2c4f2a
+- https://medium.com/@videopourtoujour/brokenlinkhijacking-43ab80a4a717

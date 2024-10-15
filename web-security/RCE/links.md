@@ -150,3 +150,4 @@
 - https://sector7.computest.nl/post/2022-07-inductive-automation-ignition-rce/
 - https://testbnull.medium.com/oracle-access-manager-pre-auth-rce-cve-2021-35587-analysis-1302a4542316
 - https://web.archive.org/web/20211025081016/http://noahblog.360.cn/burp-suite-rce/
+- https://www.shielder.it/blog/1-click-rce-on-keybase/
