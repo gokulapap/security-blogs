@@ -132,3 +132,4 @@
 - http://www.firstsight.me/2020/06/from-recon-to-bypassing-mfa-implementation-in-owa-by-using-ews-misconfiguration/
 - https://medium.com/@edmundaa222/poc-disclose-members-in-any-closed-facebook-group-259783fa4bf
 - https://noobx.in/blogs/API-Misconfiguration-which-leads-to-unauthorized-access-to-servicedesk-tickets
+- http://www.hydrogen18.com/blog/reddit-android-app-leaks-images.html

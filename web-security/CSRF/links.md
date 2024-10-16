@@ -57,3 +57,4 @@
 - https://www.sec-down.com/wordpress/?p=809
 - https://dhakalbibek.medium.com/2022-a-year-of-fascinating-discoveries-d3277dfb006f
 - https://www.imperva.com/blog/facebook-privacy-bug
+- https://medium.com/@ciph3r7r0ll/that-escalated-quickly-from-partial-csrf-to-reflected-xss-to-complete-csrf-to-stored-xss-6ba8103069c2
