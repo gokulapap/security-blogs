@@ -6,3 +6,4 @@
 - https://medium.com/bugbountywriteup/unique-case-for-price-manipulation-bugbounty-vapt-df57637769cd
 - https://medium.com/hacking-info-sec/how-to-have-free-internet-wifi-on-united-airlines-flights-65ead4087bc9
 - https://medium.com/@vflexo/a-weird-price-tampering-vulnerability-1251dfe8d2a1
+- https://vj0shii.github.io/improper-bakend-checks-food-order-site/

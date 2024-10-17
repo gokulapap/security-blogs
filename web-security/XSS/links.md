@@ -150,3 +150,4 @@
 - https://renaudmarti.net/posts/first-bug-bounty-submission/
 - https://medium.com/@tarang.parmar/xss-on-most-popular-entertaining-website-2fbf5a88df0f
 - https://maustin.net/2015/11/12/hipchat_rce.html
+- https://research.securitum.com/art-of-bug-bounty-a-way-from-js-file-analysis-to-xss/

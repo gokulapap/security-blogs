@@ -171,7 +171,6 @@
 - https://medium.com/@aswinchandran274/crlfsuite-crlf-injection-scanner-54a29f7ff86a, crlf
 - https://medium.com/@shubhangivashist/how-to-exploit-directory-traversal-vulnerabilities-176eeb7f2655, directory-traversal
 - https://medium.com/@krishnadevpmelevila/i-received-a-bounty-of-60-for-finding-a-critical-bug-in-the-patient-management-system-560446c534e, critical-bugs
-- https://medium.com/@milanjain7906/no-rate-limit-in-just-5-min-222abde54004, no-rate-limit
 - https://medium.com/@whitedevil4276/otp-bypass-through-burpsuite-in-maruti-nexa-test-drive-e9d82db656b8, bypass
 - https://medium.com/@haythamkarouata/bug-bounty-hunting-101-js-files-diving-4b1753fefb3d, source-code-review
 - https://medium.com/@jonathanbouman/stored-xss-in-paytium-3-0-13-wordpress-plugin-3157ee37eb8f, XSS
@@ -239,7 +238,6 @@
 - https://offsec.almond.consulting/windows-msiexec-eop-cve-2020-0911.html, Local-Privilege-Escalation
 - https://medium.com/@0utlawh4ck3r/story-of-my-first-rce-9d74373fbc11, RCE
 - https://hazemhussien99.wordpress.com/2023/07/05/recon-only-bugs-are-sweet/, Information-disclosure
-- https://basu-banakar.medium.com/exploiting-non-cloud-ssrf-for-more-fun-profit-3597934518c8, SSRF
 - https://mizu.re/post/linux-local-electron-application-script-src-self-bypass#final_bypass, Electron
 - https://blog.assetnote.io/2023/07/04/citrix-sharefile-rce/, RCE
 - https://medium.com/pinoywhitehat/getting-email-address-of-any-hackerone-user-worth-7-500-afb8076ee395, Information-disclosure
@@ -1762,7 +1760,6 @@
 - https://medium.com/@mumeido/from-hobby-to-hacking-5d8befb3adde, Unrestricted-file-upload
 - https://medium.com/@muhammadsholikhin/facebook-vulnerability-expose-group-member-3000-cca809a53f6b, IDOR
 - https://blog.niksthehacker.com/xxe-in-public-transport-ticketing-mobile-app-81ae245c01a1, XXE
-- https://medium.com/@vikramroot/account-takeover-via-stored-xss-b774f7a2a3ab, Stored-XSS
 - https://medium.com/@sebastien.kaul/gaining-access-to-gcp-of-google-stadia-500-bounty-22f76ecc8e60, Information-disclosure
 - https://3bodymo.medium.com/how-i-earned-by-amazon-s3-bucket-misconfigurations-29d51ee510de, AWS-misconfiguration
 - https://haxolot.com/posts/2021/moodle_pre_auth_shibboleth_rce_part1/, RCE
@@ -2368,12 +2365,10 @@
 - https://thehackerish.com/bug-bounty-write-up-from-ssrf-to-4000/, SSRF
 - https://fadhilthomas.github.io/post/bug-bounty-tokopedia-03/, IDOR
 - https://medium.com/@ifediri/breaking-business-logic-via-coupons-the-story-of-my-1st-valid-bug-bounty-89c30ff214dc, Payment-tampering
-- https://vj0shii.github.io/improper-bakend-checks-food-order-site/, Payment-tampering
 - https://ysamm.com/?p=479, Information-disclosure
 - https://infosecwriteups.com/story-of-a-2-5k-bounty-ssrf-on-zimbra-led-to-dump-all-credentials-in-clear-text-6fe826005ccc, SSRF
 - https://medium.com/bugbountywriteup/s3-bucket-misconfigured-access-controls-to-critical-vulnerability-6b535e3df9a5, AWS-misconfiguration
 - https://embracethered.com/blog/posts/2020/aws-xss-cross-site-scripting-vulnerability/, DOM-XSS
-- https://research.securitum.com/art-of-bug-bounty-a-way-from-js-file-analysis-to-xss/, XSS
 - https://0xsha.io/posts/zombievpn-breaking-that-internet-security, RCE
 - https://lutfumertceylan.com.tr/posts/stored-xss-with-password-recovery-page/, Stored-XSS
 - https://certik.io/blog/technology/vulnerability-electron-based-application-malicious-code-execution, XSS

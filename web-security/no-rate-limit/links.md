@@ -1,0 +1,1 @@
+- https://medium.com/@milanjain7906/no-rate-limit-in-just-5-min-222abde54004
