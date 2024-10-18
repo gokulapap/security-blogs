@@ -11,3 +11,4 @@
 - https://medium.com/@tristanfarkas/finding-a-security-bug-in-discord-and-what-it-taught-me-516cda561295
 - https://dragon-sec.medium.com/an-often-overlooked-oauth-misconfiguration-7d2d441eae1f
 - https://muhammad-aamir.medium.com/oauth-misconfiguration-found-in-small-time-window-of-attack-b585afcb94c6
+- https://medium.com/@minometidji/oauth-authentication-misconfiguration-cb43c3b3ec24

@@ -39,3 +39,4 @@
 - https://medium.com/@minometidji/how-i-bypassed-open-redirect-and-i-have-get-reward-from-yandex-5df5de836718
 - https://shahjerry33.medium.com/open-redirection-qr-code-magic-18ace1a0170f
 - https://medium.com/@byq/from-open-redirect-to-rce-in-one-week-66a7f73fd082
+- https://medium.com/@abaykandotcom/open-redirect-in-slack-385eb34b7c5f

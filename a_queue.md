@@ -490,7 +490,6 @@
 - https://princej-76.medium.com/how-i-chained-multiple-high-impact-vulnearbilities-to-create-a-critical-one-476950a3bb9f, Account-takeover
 - https://blog.doyensec.com/2023/03/16/ssrf-remediation-bypass.html, SSRF
 - https://medium.com/@abdulparkar9554/facebook-creator-studio-misconfiguration-348b0ee38c31, Session-expiration-issue
-- https://medium.com/@minometidji/oauth-authentication-misconfiguration-cb43c3b3ec24, OAuth
 - https://shahjerry33.medium.com/lfi-an-interesting-tweak-9c5638dbdd1b, LFI
 - https://www.sjoerdlangkemper.nl/2023/03/15/textcube-sql-injection-session-ip-spoofing/, SQL-injection
 - http://blog.sysdum.net/parameter-injection-to-rce, RCE
@@ -1431,7 +1430,6 @@
 - https://www.zerodayinitiative.com/blog/2022/2/14/static-taint-analysis-using-binary-ninja-a-case-study-of-mysql-cluster-vulnerabilities, Memory-corruption
 - https://www.iot-inspector.com/blog/advisory-western-digital-my-cloud-pro-series-pr4100-rce/, RCE
 - https://ozguralp.medium.com/bigquery-sql-injection-cheat-sheet-65ad70e11eac, SQL-injection
-- https://amakki.me/how-i-made-15k-from-remote-code-execution-vulnerability-2e1b14b3902a, Code-injection
 - https://infosecwriteups.com/a-tale-of-0-click-account-takeover-and-2fa-bypass-b369cd70e42f, Account-takeover
 - https://thehackerblog.com/zero-days-without-incident-compromising-angular-via-expired-npm-publisher-email-domains-7kZplW4x/, Supply-chain-attack
 - https://twitter.com/FlashbackPwn/status/1492074441450397698, Memory-corruption
@@ -1981,7 +1979,6 @@
 - https://apapedulimu.click/google-vrp-how-i-get-blind-xss-at-google-with-dork-first-bounty-and-hof/, Blind-XSS
 - https://blog.teddykatz.com/2021/03/10/fork-collab-abuse.html, Broken-Access-Control
 - https://infosecwriteups.com/business-logic-error-on-registration-leads-to-sms-validation-bypass-80380b3ff629, MFA-bypass
-- https://infosecwriteups.com/chain-of-low-level-bugs-and-misconfigurations-leads-to-account-takeover-de248fc4e481, Reflected-XSS
 - https://notifybugme.medium.com/finding-basic-authtoken-in-javascript-file-by-full-automation-6188ca1b1f56, Information-disclosure
 - https://publish.whoisbinit.me/amazon-ec2-dangling-dns-records-on-surf-test-xwf-internet-org, Subdomain-takeover
 - https://blog.melbadry9.xyz/ddns-ec2-ips-current-state, Dangling-DNS-records
@@ -2957,7 +2954,6 @@
 - https://www.hackerinside.me/2019/02/dos-on-waf-protected-sites-by-abusing.html, DoS
 - https://medium.com/@elberandre/1-000-ssrf-in-slack-7737935d3884, SSRF
 - https://ysamm.com/?p=240, Authorization-flaw
-- https://medium.com/@abaykandotcom/open-redirect-in-slack-385eb34b7c5f, Open-redirect
 - https://web.archive.org/web/20200928234202/https://www.mohamedharon.com/2019/02/subdomain-takeover-via-hubspot.html, Subdomain-takeover
 - https://web.archive.org/web/20200929012457/https://www.mohamedharon.com/2019/02/souqcom-subdomain-takeover-via.html, Subdomain-takeover
 - https://gauravnarwani.com/never-stop-at-banner-grabbing/, Information-disclosure
@@ -3294,7 +3290,6 @@
 - https://www.seekurity.com/blog/general/the-2-5mins-or-2-5k-hawk-eye-bug-a-facebook-pages-admins-disclosure-vulnerability/, Information-disclosure
 - https://infosecwriteups.com/how-i-hacked-into-a-bugcrowd-public-program-fcfdd4fb1b69, RCE
 - https://medium.com/bugbountywriteup/bugbounty-api-keys-leakage-source-code-disclosure-in-indias-largest-e-commerce-health-care-c75967392c7e, Path-traversal
-- https://medium.com/@joshuaregio/modifying-any-ad-space-and-placement-e22c7cec050f, IDOR
 - http://omespino.com/write-up-twitter-bug-bounty-my-1st-bugbounty-poodle-sslv3-bug-on-multiple-twitter-smtp-servers/, Cryptographic-issues
 - https://bugbaba.blogspot.com/2018/02/exploiting-cors-miss-configuration.html, CORS-misconfiguration
 - https://medium.com/bugbountywriteup/bugbounty-exploiting-crlf-injection-can-lands-into-a-nice-bounty-159525a9cb62, CRLF-injection
