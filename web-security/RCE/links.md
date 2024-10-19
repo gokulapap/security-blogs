@@ -151,3 +151,5 @@
 - https://testbnull.medium.com/oracle-access-manager-pre-auth-rce-cve-2021-35587-analysis-1302a4542316
 - https://web.archive.org/web/20211025081016/http://noahblog.360.cn/burp-suite-rce/
 - https://www.shielder.it/blog/1-click-rce-on-keybase/
+- https://medium.com/@0utlawh4ck3r/story-of-my-first-rce-9d74373fbc11
+- https://www.synack.com/blog/exploits-explained-java-jmxs-exploitation-problems-and-resolutions/
