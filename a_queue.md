@@ -369,7 +369,6 @@
 - https://medium.com/@ar_hawk/how-a-simple-directory-listing-leads-to-pii-data-leakage-remote-code-execution-and-many-more-104b09e644f4, RCE
 - https://medium.com/@mohammed01550038865/how-i-discovred-xss-via-url-encode-3-times-86ccd5354081, XSS
 - https://www.secforce.com/blog/size-matters-when-capital-letters-introduce-vulnerabilities/, XSS
-- https://castilho.onrender.com/, postMessage
 - https://infosecwriteups.com/mass-assignment-leads-to-the-victims-account-being-inaccessible-forever-52e48c6a8a4d, Mass-assignment
 - https://blog.ankursundara.com/cookie-bugs/, Cookie-smuggling
 - https://ermetic.com/blog/azure/when-good-apis-go-bad-uncovering-3-azure-api-management-vulnerabilities/, SSRF
@@ -836,7 +835,6 @@
 - https://blog.niksthehacker.com/chaining-path-traversal-with-ssrf-to-disclose-internal-git-repo-data-in-a-bank-asset-8af4de6f12e, SSRF
 - https://mu00d8.me/paper/bernhard22jitpicking.pdf, Browser-hacking
 - https://hdwsec.fr/blog/20221109-netgear/, Memory-corruption
-- https://maordayanofficial.medium.com/comodo-from-git-to-takeover-803ffb8b57e3, git-folder-disclosure
 - https://0xm5awy.medium.com/exploit-feature-to-get-high-bug-impact-1d3ae6517680, Logic-flaw
 - https://srd.cx/cve-2022-26730/, MacOS
 - https://infosecwriteups.com/story-of-a-1k-bounty-ssrf-d5c4868680f5, SSRF
@@ -1341,7 +1339,6 @@
 - https://abdilahrf.github.io/bugbounty/got-access-to-dota-2-admin-panel-by-exploiting-in-game-feature, XSS
 - https://blog.relyze.com/2022/03/cve-2022-27643-netgear-r6700v3-upnpd.html, Memory-corruption
 - https://scribesecurity.com/blog/github-cache-poisoning, Cache-poisoning-attack
-- https://pentera.io/blog/information-disclosure-in-vmware-vcenter/, Information-disclosure
 - https://janmuhammadzaidi.medium.com/how-i-bypassed-403-forbidden-domain-using-a-simple-trick-c2d538de04b8, 403-bypass
 - https://www.mdsec.co.uk/2022/03/abc-code-execution-for-veeam/, Local-Privilege-Escalation
 - https://github.com/httpvoid/writeups/blob/main/Ruby-deserialization-gadget-on-rails.md, Insecure-deserialization
@@ -1564,7 +1561,6 @@
 - https://feed.bugs.xdavidhu.me/bugs/0008, Privilege-escalation
 - https://www.netspi.com/blog/technical/cloud-penetration-testing/azure-cloud-vulnerability-credmanifest/, Information-disclosure
 - https://omespino.com/write-up-apple-bug-bounty-n-a-arbitrary-local-file-read-via-zip-file-and-symlinks-usd/, Arbitrary-file-read
-- https://www.oliviaohara.com/keybase, Information-disclosure
 - https://hector0x.medium.com/dos-attack-in-yahoo-how-i-was-able-to-deny-new-users-from-service-6b222e744e61, DoS
 - https://hector0x.medium.com/broken-authentication-through-referral-code-25cd0e8bccc2, Authentication-flaw
 - https://hector0x.medium.com/dos-attack-in-yahoo-how-i-was-able-to-deny-new-users-from-service-6b222e744e61, DoS
@@ -2583,7 +2579,6 @@
 - https://medium.com/@sushiwushi2/hijacking-shared-report-links-in-google-data-studio-75eab320c391, Authorization-flaw
 - https://www.perimeterx.com/tech-blog/2020/whatsapp-fs-read-vuln-disclosure/, Stored-XSS
 - https://jatindhankhar.in/blog/responsible-disclosure-breaking-out-of-a-sandboxed-editor-to-perform-rce/, RCE
-- https://blog.securitybreached.org/2020/02/04/exploiting-insecure-firebase-database-bugbounty/, Insecure-Firebase-database
 - https://medium.com/@zseano/easily-leaking-passenger-information-on-an-airline-18f99b22cf95, IDOR
 - https://medium.com/@navne3t/csrf-csrf-csrf-f203e6452a9c, CSRF
 - https://www.amolbaikar.com/disclose-full-admin-list-of-any-facebook-applications/, IDOR

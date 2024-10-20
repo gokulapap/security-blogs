@@ -2,3 +2,4 @@
 - https://jub0bs.com/posts/2023-05-05-smorgasbord-of-a-bug-chain/
 - https://web.archive.org/web/20211016075506/https://insight.claranet.co.uk/technical-blogs/hunting-postmessage-vulnerabilities
 - https://blog.geekycat.in/google-vrp-hijacking-your-screenshots/
+- https://castilho.onrender.com/

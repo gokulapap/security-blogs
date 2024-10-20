@@ -1,2 +1,3 @@
 - https://medium.com/@armandjasharaj/pii-nacles-of-discovery-deep-recon-fourth-level-subdomains-and-abusing-exposed-git-repositories-7e282442bd02
 - https://medium.com/@prakashchand72/lenovo-database-of-root-user-credentials-exposed-22aab5382c
+- https://maordayanofficial.medium.com/comodo-from-git-to-takeover-803ffb8b57e3

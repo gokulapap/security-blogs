@@ -1,0 +1,1 @@
+- https://blog.securitybreached.org/2020/02/04/exploiting-insecure-firebase-database-bugbounty/
