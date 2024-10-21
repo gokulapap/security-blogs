@@ -153,3 +153,4 @@
 - https://www.shielder.it/blog/1-click-rce-on-keybase/
 - https://medium.com/@0utlawh4ck3r/story-of-my-first-rce-9d74373fbc11
 - https://www.synack.com/blog/exploits-explained-java-jmxs-exploitation-problems-and-resolutions/
+- https://octagon.net/blog/2022/01/22/cve-2021-45467-cwp-centos-web-panel-preauth-rce/

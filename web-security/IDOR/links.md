@@ -126,3 +126,4 @@
 - https://www.nahamsec.com/posts/chaining-multiple-vulnerabilities-to-gain-admin-access
 - https://www.appsecure.security/blog/unauthorized-access-to-facebook-draft-profile-picture-frames
 - https://medium.com/@joshuaregio/modifying-any-ad-space-and-placement-e22c7cec050f
+- https://medium.com/@0xh7ml.py/my-first-10k-bdt-bounty-from-an-e-commerce-site-cec9d58e1f55

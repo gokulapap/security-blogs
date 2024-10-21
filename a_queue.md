@@ -404,7 +404,6 @@
 - https://www.anvilsecure.com/blog/compromising-garmins-sport-watches-a-deep-dive-into-garminos-and-its-monkeyc-virtual-machine.html, IoT
 - https://infosecwriteups.com/xs-leak-deanonymize-microsoft-skype-users-by-any-3rd-party-website-69849e4501a8, XSLeaks
 - https://jhftss.github.io/CVE-2023-23525-Get-Root-via-A-Fake-Installer/, Local-Privilege-Escalation
-- https://blog.thalium.re/posts/fuzzing-samsung-system-services/, Android
 - https://medium.com/bugbountywriteup/uncovering-a-critical-vulnerability-my-journey-of-discovering-cve-2021-31589-a-reflected-xss-in-1e13c0aa41b0, Components-with-known-vulnerabilities
 - https://medium.com/@snoopy101/how-i-hacked-hackers-in-voorivex-hunt-event-9c572ce0005f, Cloudflare-bypass
 - https://mogwailabs.de/en/blog/2023/04/vulnerability-spotlight-cve-2023-0264/, OpenID-Connect
@@ -1401,7 +1400,6 @@
 - https://philippeharewood.com/instagram-app-access-token/, Information-disclosure
 - https://kloudle.com/blog/piercing-the-cloud-armor-the-8kb-bypass-in-google-cloud-platform-waf, WAF-bypass
 - https://blog.teddykatz.com/2022/02/23/ghosts-of-branches-past.html, Logic-flaw
-- https://octagon.net/blog/2022/01/22/cve-2021-45467-cwp-centos-web-panel-preauth-rce/, RCE
 - https://omespino.com/write-up-private-bug-bounty-bypass-redacted-android-application-screen-lock-via-local-brute-forcing/, Android
 - https://servicenger.com/mobile/facebook-android-vulnerability-launching-internal-tighten-deeplink-onbehalf-of-user/, Android
 - https://ninetyn1ne.github.io/2022-02-21-oauth-postmessage-misconfig/, OAuth
@@ -2343,7 +2341,6 @@
 - https://web.archive.org/web/20200821010435/https://medium.com/@Alone_Wwolf/how-i-was-able-to-bypass-email-confirm-p4-e17af66a4eb0, Information-disclosure
 - https://bugs.chromium.org/p/chromium/issues/detail?id=1040755, Universal-XSS
 - https://medium.com/@yaala/make-featured-product-in-any-video-ec2bd4816ae4, IDOR
-- https://medium.com/@swaysthinking/my-first-bug-blind-ssrf-through-profile-picture-upload-72f00fd27bc6, SSRF
 - https://medium.com/@alyanwar/taking-over-files-in-a-chat-idor-in-microsoft-teams-e5289c2efd0, IDOR
 - https://medium.com/@daoud_youssef/from-host-header-injection-to-sql-injection-e7c61a61b575, Host-header-injection
 - https://medium.com/@hgreal/why-i-paid-3-5k-to-become-a-tld-registrar-reseller-when-doing-bug-bounty-d9d407911dce, XXE
@@ -2440,7 +2437,6 @@
 - https://healdb.tech/blog/teradici.html, Missing-authentication
 - https://servicenger.com/blog/mobile/facebook-for-ios-address-bar-spoofing/, Address-Bar-Spoofing
 - https://medium.com/csis-techblog/cve-2020-1088-yet-another-arbitrary-delete-eop-a00b97d8c3e2, Local-Privilege-Escalation
-- https://medium.com/@0xh7ml.py/my-first-10k-bdt-bounty-from-an-e-commerce-site-cec9d58e1f55, IDOR
 - https://www.modzero.com/modlog/archives/2020/05/18/how_netgear_meshed_up_wifi_for_business/index.html, Weak-crypto
 - https://web.archive.org/web/20200616051351/https://hazana.xyz/posts/cors-blimey/, CORS-misconfiguration
 - https://medium.com/@bathinivijaysimhareddy/tale-of-account-takeovers-part-2-9abf62de4ca3, Account-takeover
@@ -2759,7 +2755,6 @@
 - https://medium.com/@valeriyshevchenko/two-easy-rce-in-atlassian-products-e8480eacdc7f, Credential-stuffing
 - https://medium.com/@ronak_9889/privilege-escalation-using-api-endpoint-fce841caaff3, Privilege-escalation
 - https://initblog.com/2019/switcheroo/, SSRF
-- https://medium.com/@protostar0/break-and-bypass-verification-email-ac3359041272, Open-redirect
 - https://medium.com/@protostar0/crlf-injection-allow-cookie-injection-in-root-domain-xss-812cd807ba5b, CRLF-injection
 - http://mahmoudsec.blogspot.com/2019/08/exploiting-out-of-band-xxe-using.html, XXE
 - https://medium.com/@04sabsas/bugbounty-writeup-creative-thinking-is-our-everything-race-condition-business-logic-error-2f3e82b9aa17, Race-condition
