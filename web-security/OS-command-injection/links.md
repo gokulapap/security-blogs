@@ -8,3 +8,4 @@
 - https://medium.com/@ashikbhaskar94/blind-os-command-injection-87910f0d2276
 - https://www.rtcsec.com/article/kamailio-exec-module-considered-harmful/
 - https://hackingiscool.pl/cmdhijack-command-argument-confusion-with-path-traversal-in-cmd-exe/
+- https://sushant-kamble.medium.com/how-i-found-command-injection-via-obsolete-phpthumb-p1-vulnerability-e4811248ce12

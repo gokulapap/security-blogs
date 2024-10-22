@@ -2,3 +2,4 @@
 - https://medium.com/@veshraj77/first-bug-bounty-ever-sql-injection-da4e64e30851
 - https://medium.com/@sapt/sqli-on-a-bugcrowd-private-program-17858b57ec61
 - https://medium.com/@krishArse/open-map-of-sql-complete-sqlmap-quide-1088909959da
+- https://medium.com/@0x3zzat/how-to-find-sql-injection-using-a-simple-technique-bc7e8100a6f3

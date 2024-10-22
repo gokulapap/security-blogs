@@ -1,7 +1,6 @@
 - https://medium.com/@vineet08/story-of-a-reserved-cve-2022-23361-2c81d836c6fe, journey
 - https://medium.com/@snoopy101/how-i-hacked-hackers-in-voorivex-hunt-event-9c572ce0005f, journey
 - https://medium.com/@nazeemarif/bug-bounty-how-i-was-able-to-purchased-premium-feature-just-for-1-pkr-by-parameter-2f6f7e5b8bf, parameter
-- https://medium.com/@0x3zzat/how-to-find-sql-injection-using-a-simple-technique-bc7e8100a6f3, sql-injection
 - https://medium.com/@csal/dont-scan-my-website-i-exploiting-an-old-version-of-wappalyzer-14c001279434, journey
 - https://medium.com/@gandhim373/5-get-easy-bounty-how-to-exploit-xmlrpc-php-8e47f2604923, tricks
 - https://medium.com/@gupta-bless/basics-of-source-code-review-4c263652202, source-code-review
@@ -315,7 +314,6 @@
 - https://0day.click/recipe/pash/, RCE
 - https://blog.stratumsecurity.com/2023/06/01/sqli-the-road-to-bypassing-an-industry-leading-waf/, SQL-injection
 - https://www.zerodayinitiative.com/blog/2023/5/31/cve-2023-24941-microsoft-network-file-system-remote-code-execution, RCE
-- https://www.klogixsecurity.com/scorpion-labs-blog/anatomy-of-an-iot-exploit-from-hands-on-to-rce, IoT
 - https://research.nccgroup.com/2023/05/31/reverse-engineering-coin-hunt-worlds-binary-protocol/, Reverse-engineering
 - https://sensepost.com/blog/2023/an-offensive-look-at-docker-desktop-extensions/, OS-command-injection
 - https://mc0wn.blogspot.com/2023/05/vulnerabilities-in-apache-commons-text.html, Path-traversal
@@ -1586,7 +1584,6 @@
 - https://nassimchami.medium.com/stored-xss-to-account-take-over-45a7e09116a7, XSS
 - https://medium.com/@bababounty99/never-give-up-story-of-hacking-dutch-government-and-earning-that-swag-b518cca81c78, IDOR
 - https://pathleax.medium.com/this-is-how-i-was-able-to-permanently-crash-all-mapillary-users-within-minutes-c7276def5a94, Application-level-DoS
-- https://sushant-kamble.medium.com/how-i-found-command-injection-via-obsolete-phpthumb-p1-vulnerability-e4811248ce12, OS-command-injection
 - https://pawanchhabria.medium.com/how-i-was-able-to-access-a-properly-configured-s3-bucket-a0e949446341, Leaked-AWS-keys
 - https://www.microsoft.com/security/blog/2021/10/28/microsoft-finds-new-macos-vulnerability-shrootless-that-could-bypass-system-integrity-protection/, SIP-bypass
 - https://omespino.com/write-up-xss-stored-in-api-media-atlassian-com-via-doc-file-ios/, Stored-XSS
@@ -2707,7 +2704,6 @@
 - https://medium.com/@0xgaurang/case-study-oauth-misconfiguration-leads-to-account-takeover-d3621fe8308b, OAuth
 - https://medium.com/bugbountywriteup/facebook-workplace-privilege-escalation-vulnerability-to-change-the-post-privacy-as-public-634f1c995780, Privilege-escalation
 - https://web.archive.org/web/20191214144210/https://medium.com/bugbountywriteup/a-simple-bypass-of-registration-activation-that-lead-to-many-bug-a-story-about-how-my-friend-5df0889f1062, Information-disclosure
-- https://medium.com/oad-earth/bug-or-feature-github-adventure-001-eae9bea48ae8, OAuth
 - https://medium.com/@hariharan21/stored-xss-on-zendesk-via-macros-part-2-676cefee4616, Stored-XSS
 - https://philippeharewood.com/business-id-leak-via-creative-hub-redirect/, Open-redirect
 - https://medium.com/@tungpun/client-not-client-aa448cfdedd2, LFI
@@ -3191,7 +3187,6 @@
 - https://secreltyhiddenwriteups.blogspot.com/2018/07/gsuite-hangouts-chat-5k-idor.html, IDOR
 - https://medium.com/@jonathanbouman/persistent-xss-at-ah-nl-198fe7b4c781, Stored-XSS
 - https://medium.com/@logicbomb_1/bugbounty-compromising-user-account-how-i-was-able-to-compromise-user-account-via-http-4288068b901f, HTTP-parameter-pollution
-- https://medium.com/bugbountywriteup/latex-to-rce-private-bug-bounty-program-6a0b5b33d26a, RCE
 - https://leigh-annegalloway.com/tumblr/, Captcha-bypass
 - https://www.cyberonesecurity.com/blog/unauthenticated-command-injection-vulnerability-in-vmware-nsx-sd-wan-by-velocloud, OS-command-injection
 - https://zseano.medium.com/how-re-signing-up-for-an-account-lead-to-account-takeover-3a63a628fd9f, Logic-flaw
