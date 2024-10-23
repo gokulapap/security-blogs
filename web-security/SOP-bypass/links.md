@@ -5,3 +5,4 @@
 - https://www.netsparker.com/blog/web-security/stealing-local-files-with-simple-html-file/
 - https://www.rafaybaloch.com/2017/06/android-browser-same-origin-policy.html
 - https://medium.com/@raushanraj_65039/google-sites-and-exploiting-same-origin-policy-d400bf569964
+- https://research.aurainfosec.io/same-origin-policy/

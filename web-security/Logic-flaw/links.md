@@ -90,3 +90,4 @@
 - https://clarkvoss.medium.com/how-to-harpon-big-blue-c163722638d8
 - https://medium.com/@adnanmalikinfo110/i-want-that-cookie-8d2daab242ac
 - https://medium.com/@Kntjrld/my-first-bug-report-at-facebook-2021-bab2c2373ee3
+- https://web.archive.org/web/20200722032242/https://kntx.xyz/Bypassing-Nickname-Feature/

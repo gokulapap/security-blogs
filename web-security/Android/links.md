@@ -8,3 +8,4 @@
 - https://0xwise.medium.com/are-clicking-links-safe-f7cfcae2e421
 - https://blog.dixitaditya.com/manipulating-aes-traffic-using-a-chain-of-proxies-and-hardcoded-keys
 - https://blog.thalium.re/posts/fuzzing-samsung-system-services/
+- https://blog.oversecured.com/Discovering-vendor-specific-vulnerabilities-in-Android/

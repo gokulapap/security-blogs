@@ -273,7 +273,6 @@
 - https://octa-mihail.medium.com/my-first-bounty-on-synack-red-team-4ef53329c960, Stored-XSS
 - https://medium.com/@elsayedmohammed/how-i-hacked-nasa-and-get-8-bugs-e5cd397a6af9, Open-redirect
 - https://www.gosecure.net/blog/2023/06/21/aws-waf-clients-left-vulnerable-to-sql-injection-due-to-unorthodox-mssql-design-choice/, SQL-injection
-- https://labs.jumpsec.com/advisory-idor-in-microsoft-teams-allows-for-external-tenants-to-introduce-malware/, IDOR
 - https://httptoolkit.com/blog/bunny-cdn-caching-vulnerability/, Web-cache-poisoning
 - https://rashahacks.com/bypassing-okta-sso-https-http/, SSO
 - https://www.descope.com/blog/post/noauth, OAuth
@@ -823,7 +822,6 @@
 - https://sec-consult.com/vulnerability-lab/advisory/path-traversal-vulnerability-in-payara-platform/, Path-traversal
 - https://medium.com/@jodyritonga/how-i-get-100-in-just-10-minutes-b018b28645ce, Race-condition
 - https://varmaanu001.medium.com/from-shodan-dork-to-grafana-local-file-inclusion-e77dc4cfc264, LFI
-- https://blog.oversecured.com/Discovering-vendor-specific-vulnerabilities-in-Android/, Android
 - https://unit42.paloaltonetworks.com/openlitespeed-vulnerabilities/, RCE
 - https://blog.sigstore.dev/how-sigstore-quickly-patched-an-upstream-vulnerability-76ba84ef1122, OAuth
 - https://bugs.xdavidhu.me/google/2022/11/10/accidental-70k-google-pixel-lock-screen-bypass/, Lock-screen-bypass
@@ -1710,7 +1708,6 @@
 - https://tuhin1729.medium.com/account-takeover-via-access-token-leakage-687276953408, IDOR
 - https://zemnmez.medium.com/how-to-hack-apple-id-f3cc9b483a41, XSS
 - https://blog.melbadry9.xyz/dangling-dns/xyz-services/ddns-announcekit, Subdomain-takeover
-- https://sick.codes/sick-2021-109/, Privacy-issue
 - https://tiszka.com/blog/CVE_2021_21225.html, Browser-hacking
 - https://ahmdhalabi.medium.com/taking-over-employee-accounts-by-managers-with-zero-employee-interaction-b60784c3ad84, Account-takeover
 - https://medium.com/@viralbhatt100/bypass-google-captcha-parameter-pollution-leads-to-send-email-to-any-user-on-behalf-of-9013aebbabae, HTTP-parameter-pollution
@@ -2745,7 +2742,6 @@
 - https://medium.com/@rohitcoder/bypassing-fix-of-domain-blocking-feature-in-business-manager-41949a18460c, Authorization-flaw
 - https://medium.com/@renwa/facebook-messenger-disclosing-deleted-messages-that-has-been-deleted-by-remove-for-everyone-1fb5a52cc7df, Logic-flaw
 - https://medium.com/@madguyyy/bookmyshow-account-takeover-using-social-login-84178f116e42, OAuth
-- https://web.archive.org/web/20200722032242/https://kntx.xyz/Bypassing-Nickname-Feature/, Logic-flaw
 - https://medium.com/@04sabsas/bugbounty-writeup-take-attention-and-get-stored-xss-495dd6eab07e, Stored-XSS
 - https://websecblog.com/vulns/clickjacking-xss-on-google-org/, Clickjacking
 - https://medium.com/@valeriyshevchenko/two-easy-rce-in-atlassian-products-e8480eacdc7f, Credential-stuffing
@@ -2888,7 +2884,6 @@
 - https://medium.com/@jonathanbouman/email-content-spoofing-at-ikea-com-ea76c17605ee, Email-content-spoofing
 - https://medium.com/@rohan_x3/edmodo-idor-to-view-private-files-of-any-class-2280676c84b8, IDOR
 - https://medium.com/@armaanpathan/scary-bug-in-burp-suite-upstream-proxy-allows-hackers-to-hack-hackers-e6fc9a8d60a, MiTM
-- https://research.aurainfosec.io/same-origin-policy/, SOP-bypass
 - https://www.valbrux.it/blog/2019/04/04/google-ads-information-disclosure-via-null-pointer-exception/, Information-disclosure
 - https://mahmoudsec.blogspot.com/2019/04/handlebars-template-injection-and-rce.html, SSTI
 - https://medium.com/@jonathanbouman/leaked-salesforce-api-access-token-at-ikea-com-132eea3844e0, Information-disclosure
