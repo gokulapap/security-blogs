@@ -302,7 +302,6 @@
 - https://medium.com/pentesternepal/how-i-hacked-100k-godaddy-users-and-help-to-secure-for-free-65f172bd726a, git-folder-disclosure
 - https://d3lb3.github.io/keepass_triggers_arent_dead/, Local-Privilege-Escalation
 - https://www.tarlogic.com/blog/linked-servers-adsi-passwords/, ADSI
-- https://www.trustedsec.com/blog/onedrive-to-enum-them-all/, Username-enumeration
 - https://medium.com/@malekmahmed55/turning-a-50-tab-nabbing-vulnerability-into-a-1000-account-takeover-9c3f32cb2d84, Reverse-tabnabbing
 - https://ssd-disclosure.com/ssd-advisory-roundcube-markasjunk-rce/, RCE
 - https://jhftss.github.io/CVE-2022-32902-Patch-One-Issue-and-Introduce-Two/, TCC-bypass
@@ -501,7 +500,6 @@
 - https://vijetareigns.medium.com/wait-time-bypass-for-fun-and-profit-c3837e6bb8ed, Rate-limiting-bypass
 - https://mizu.re/post/ejs-server-side-prototype-pollution-gadgets-to-rce, Server-side-prototype-pollution
 - https://claroty.com/team82/research/the-silent-spy-among-us-modern-attacks-against-smart-intercoms, IoT
-- https://arben.sh/bugbounty/SelfXSS-To-Stored-Through-IDOR/, IDOR
 - https://www.shockwave.cloud/blog/subdomain-takeover-how-a-misconfigured-dns-record-could-lead-to-a-huge-supply-chain-attack, Subdomain-takeover
 - https://infosecwriteups.com/dont-send-a-message-to-anyone-before-reading-this-account-takeover-vulnerability-external-audit-cf584a0c983c, HTTP-response-manipulation
 - https://medium.com/tenable-techblog/wordpress-buddyforms-plugin-unauthenticated-insecure-deserialization-cve-2023-26326-3becb5575ed8, Insecure-deserialization
@@ -1441,7 +1439,6 @@
 - https://hetroublemakr.medium.com/how-i-approached-dependency-confusion-272b46f66907, Dependency-confusion
 - https://github.com/httpvoid/writeups/blob/main/Hacking-Google-Drive-Integrations.md, SSRF
 - https://www.offensive-security.com/offsec/microsoft-onedrive-macos-local-privesc/, Local-Privilege-Escalation
-- https://machevalia.blog/blog/stored-cross-site-scripting-in-mediawiki, Stored-XSS
 - https://bxmbn.medium.com/how-i-made-15-000-by-hacking-caching-servers-part-1-5541712a61c3, Web-cache-poisoning
 - https://lohigowda.medium.com/paytm-broken-link-hijacking-11624e4e9eef, Broken-link-hijacking
 - https://docs.google.com/document/d/1-TTCS6fS6kvFUkoJmX4Udr-czQ79lSUVXiWsiAED_bs/edit, RCE
@@ -2616,7 +2613,6 @@
 - https://ngailong.wordpress.com/2019/12/19/google-vrp-ssrf-in-google-cloud-platform-stackdriver/, SSRF
 - https://weizman.github.io/2019/12/18/js-anti-debug-1/, Browser-hacking
 - https://medium.com/@rootxharsh_90844/abusing-feature-to-steal-your-tokens-f15f78cebf74, OAuth
-- https://research.checkpoint.com/2019/breakingapp-whatsapp-crash-data-loss-bug/, DoS
 - https://medium.com/@irounakdhadiwal999/stored-iframe-injection-csrf-account-takeover-42c93ad13f5d, HTML-injection
 - https://m0chan.github.io/2019/12/16/Subdomain-Takeover-Azure-CDN.html, Subdomain-takeover
 - https://offensi.com/2019/12/16/4-google-cloud-shell-bugs-explained-introduction/, RCE
@@ -2795,7 +2791,6 @@
 - https://medium.com/@osamaavvan/cors-to-csrf-attack-c33a595d441, CORS-misconfiguration
 - https://philippeharewood.com/toggle-group-rules-agreement-as-a-non-member/, Authorization-flaw
 - https://medium.com/@dr.spitfire/sensitive-information-disclosure-web-cache-deception-attack-bcac6cb9cd86?sk=a2557f0c557ff38876141c2d94b296dd, Information-disclosure
-- https://web.archive.org/web/20201001064738/https://medium.com/@protector47/password-reset-vulnerability-full-account-takeover-insecure-direct-object-reference-c4a9a3ea8268, Password-reset
 - https://www.f5.com/labs/articles/threat-intelligence/how-i-hacked-the-microsoft-outlook-android-app-and-found-cve-2019-1105, XSS
 - https://blog.lent.ink/post/klanteservice/, Logic-flaw
 - https://medium.com/@osamaavvan/1800-worth-clickjacking-1f92e79d0414, Clickjacking

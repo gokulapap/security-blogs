@@ -55,3 +55,4 @@
 - https://medium.com/@schopath/yeah-i-got-p2-in-1-minute-stored-xss-via-markdown-editor-7872dba3f158
 - http://omespino.com/write-up-lovestory-from-closed-as-informative-to-xx00-usd-in-yahoo-ios-mail-app/
 - https://medium.com/@vikramroot/account-takeover-via-stored-xss-b774f7a2a3ab
+- https://machevalia.blog/blog/stored-cross-site-scripting-in-mediawiki

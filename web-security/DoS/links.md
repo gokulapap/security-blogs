@@ -21,3 +21,4 @@
 - https://sagarsajeev.medium.com/dos-worth-650-interesting-right-144ff45ccf3b
 - https://infosecwriteups.com/whatsapp-dos-vulnerability-in-ios-android-d896f76d3253
 - https://medium.com/@NinadMishra/dos-and-bugbounties-a-series-of-dos-attacks-on-hackerone-9c8316e192c9
+- https://research.checkpoint.com/2019/breakingapp-whatsapp-crash-data-loss-bug/

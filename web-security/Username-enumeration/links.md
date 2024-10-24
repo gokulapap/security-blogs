@@ -2,3 +2,4 @@
 - https://medium.com/@snoopy101/250-for-email-account-enumeration-using-nametomail-tool-cce02a17ade8
 - https://medium.com/@protostar0/sidefx-poc-user-enumeration-no-rate-limeted-in-send-message-function-953f1662d41
 - https://pulsesecurity.co.nz/advisories/Atlassian-ID-Username-Enumeration
+- https://www.trustedsec.com/blog/onedrive-to-enum-them-all/
