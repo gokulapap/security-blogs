@@ -279,7 +279,6 @@
 - https://blog.thalium.re/posts/leveraging-android-permissions/, Android
 - https://github.com/firsov/onlyoffice/blob/main/CVE-2023-34939-PoC.md, Path-traversal
 - https://0xa1mn.medium.com/how-i-unveiled-a-critical-vulnerability-exposing-all-buyers-invoices-pii-with-a-single-trick-691fd410fd7a, Information-disclosure
-- https://securitycafe.ro/2023/06/19/dll-hijacking-finding-vulnerabilities-in-pestudio-9-52/, DLL-Hijacking
 - https://blog.coffinsec.com/0day/2023/05/31/minidlna-heap-overflow-rca.html, Memory-corruption
 - http://www.firstsight.me/2023/06/the-unexpected-0-master-id-for-account-data-manipulation/, IDOR
 - https://zerforschung.org/posts/freundschaftspass-en/, Subdomain-takeover
@@ -370,7 +369,6 @@
 - https://ermetic.com/blog/azure/when-good-apis-go-bad-uncovering-3-azure-api-management-vulnerabilities/, SSRF
 - https://blog.stratumsecurity.com/2023/05/04/integration-fails/, Privilege-escalation
 - https://danrevah.github.io/2023/05/03/CVE-2023-25394-VideoStream-LPE/, Local-Privilege-Escalation
-- https://www.trellix.com/en-us/about/newsroom/stories/research/the-art-of-information-disclosure.html, Out-of-bounds-Read
 - https://sumedh00.medium.com/accessing-admin-dashboard-in-5-seconds-acee737eacfb, Default-credentials
 - https://blog.onsec.io/when-youre-so-bored-you-start-debugging-someone-elses-code/, SSTI
 - https://www.revblock.dev/exploiting-misconfigured-google-cloud-service-accounts-from-github-actions/, OpenID-Connect
@@ -2230,7 +2228,6 @@
 - https://payatu.com/blog/nikhil-mittal/my-hacking-adventures-with-safari-reader-mode, CSP-bypass
 - https://medium.com/bugbountywriteup/accessing-the-website-directly-through-its-ip-address-a-case-of-a-poorly-hidden-sql-injection-82833defbbc3, SQL-injection
 - https://www.ezequiel.tech/2020/08/leaking-google-cloud-projects.html, Authentication-bypass
-- https://medium.com/@leviwof/bug-bounty-failsx101-4-b601616fbe9f, MFA-bypass
 - https://www.malgregator.com/post/waze-how-i-tracked-your-mother/, Logic-flaw
 - https://blog.redteam.pl/2020/08/stealing-local-files-using-safari-web.html, Browser-hacking
 - https://medium.com/@ricardoiramar/account-takeover-for-the-win-e320ce83cdd9, Account-takeover
@@ -3016,7 +3013,6 @@
 - https://medium.com/@sudhanshur705/story-about-my-first-bug-bounty-9fe710be8241, XSS
 - https://medium.com/@yassergersy/exploiting-post-message-to-steal-users-cookies-7df43a00289a, postMessage
 - https://web.archive.org/web/20191221105442/https://medium.com/bugbountywriteup/broken-authentication-bug-bounty-5c941a4a5f48, Session-management-issue
-- https://medium.com/@logicbomb_1/irctc-millions-of-passenger-details-left-at-huge-risk-18c5ecc09d7f, Information-disclosure
 - https://slashcrypto.org/2018/11/28/eBay-source-code-leak/, git-folder-disclosure
 - https://medium.com/@vishnu0002/instagram-multi-factor-authentication-bypass-924d963325a1, MFA-bypass
 - https://www.amolbaikar.com/disclose-contact_email-of-any-facebook-application/, Information-disclosure
@@ -3425,7 +3421,6 @@
 - http://mahmoudsec.blogspot.com/2017/02/sql-injection-in-update-query-bug.html, SQL-injection
 - https://ysx.me.uk/lightweight-markup-a-trio-of-persistent-xss-in-gitlab/, Stored-XSS
 - https://medium.com/@zahidali_93675/conflict-account-recovery-form-in-facebook-2b6e7d203cfd, Logic-flaw
-- https://medium.com/@zahidali_93675/hijack-facebook-groups-721c08526326, Authorization-flaw
 - https://web.archive.org/web/20170206221502/https://deadpool.sh/2017/RCE-Springs/, RCE
 - https://web.archive.org/web/20200822111544/https://whitehatnepal.tumblr.com/post/156707088037/i-got-emails-g-suite-vulnerability, Logic-flaw
 - https://medium.com/@prateek_0490/how-i-could-have-compromised-any-account-on-one-of-the-biggest-startup-based-in-california-3ebc8c6844b5, Account-takeover

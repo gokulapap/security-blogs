@@ -1,1 +1,2 @@
 - https://pwning.systems/posts/easy-apple-kernel-bug/
+- https://www.trellix.com/en-us/about/newsroom/stories/research/the-art-of-information-disclosure.html

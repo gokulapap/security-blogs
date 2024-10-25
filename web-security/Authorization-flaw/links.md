@@ -68,3 +68,4 @@
 - https://philippeharewood.com/access-to-crowdtangle-deletion-framework-api/
 - https://whitton.io/articles/overwriting-banner-images-on-etsy/
 - https://sites.google.com/securifyinc.com/vrp-writeups/google-meet/authorization-bugs
+- https://medium.com/@zahidali_93675/hijack-facebook-groups-721c08526326

@@ -136,3 +136,4 @@
 - https://infosecwriteups.com/some-critical-vulnerabilities-found-with-passive-analysis-on-bug-bounty-programs-explained-1da8b01c11ad
 - https://pentera.io/blog/information-disclosure-in-vmware-vcenter/
 - https://www.oliviaohara.com/keybase
+- https://medium.com/@logicbomb_1/irctc-millions-of-passenger-details-left-at-huge-risk-18c5ecc09d7f
