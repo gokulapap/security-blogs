@@ -307,7 +307,6 @@
 - https://blog.redteam-pentesting.de/2023/storing-passwords/, Pass-the-Hash
 - https://infosecwriteups.com/send-email-from-anyone-to-any-user-outlook-microsoft-69fce333066d, Open-mail-relay
 - https://medium.com/@chenshiri/aws-chain-attack-thousands-of-vulnerable-eks-clusters-701cbd963907, AWS-Kubernetes
-- https://github.com/Sudistark/BB-Writeups/blob/main/2023/prototype-pollution-akamai.md, Client-side-prototype-pollution
 - https://0day.click/recipe/pash/, RCE
 - https://blog.stratumsecurity.com/2023/06/01/sqli-the-road-to-bypassing-an-industry-leading-waf/, SQL-injection
 - https://www.zerodayinitiative.com/blog/2023/5/31/cve-2023-24941-microsoft-network-file-system-remote-code-execution, RCE
@@ -2233,7 +2232,6 @@
 - https://medium.com/@ricardoiramar/account-takeover-for-the-win-e320ce83cdd9, Account-takeover
 - https://medium.com/bugbountywriteup/upload-to-the-future-1fd38fd502bd, IDOR
 - https://medium.com/@0xnazmul/how-i-found-my-first-bug-stored-xss-and-earned-my-first-bounty-1000-33556678d1ed, Stored-XSS
-- https://apapedulimu.click/shopify-com-blind-stored-xss-via-staff-name/, Stored-XSS
 - https://medium.com/@mateusz.olejarka/a-perfect-duplicate-or-how-to-send-an-email-with-a-spoofed-invoices-content-66cf369bbaa3, Email-spoofing
 - https://medium.com/@syedabuthahir/django-debug-mode-to-rce-in-microsoft-acquisition-189d27d08971, Information-disclosure
 - https://blog.shashank.co/2020/08/escalating-github-leak-to-takeover.html, Information-disclosure
@@ -2675,7 +2673,6 @@
 - https://cpdos.org, DoS
 - https://medium.com/@danangtriatmaja/bug-bounty-flaw-in-authentication-get-hall-of-fame-google-6196726ee5b9, Authentication-flaw
 - https://gauravnarwani.com/escalating-privileges-like-a-pro/, Privilege-escalation
-- https://buer.haus/2019/10/18/a-tale-of-exploitation-in-spreadsheet-file-conversions/, Local-file-disclosure
 - https://philippeharewood.com/1-800-flowers-credentials-and-message-log-leak-via-facebook-com-facebook/, AWS-misconfiguration
 - https://medium.com/bugbountywriteup/how-i-was-able-to-bypass-otp-token-requirement-in-razer-the-story-of-a-critical-bug-fc63a94ad572, OTP-bypass
 - https://medium.com/@manralhemant10/how-i-bypassed-2-factor-authentication-899750421331, MFA-bypass
@@ -2777,7 +2774,6 @@
 - https://medium.com/@pratyush1337/information-disclosure-via-misconfigured-aws-to-aws-bucket-takeover-6a6a66470d0e, AWS-misconfiguration
 - https://medium.com/@ruvlol/cleartext-password-in-localstorage-writeup-245294762829, Violation-of-secure-design-principles
 - https://jspin.re/fileupload-blind-sqli/, SQL-injection
-- https://medium.com/@saugatpokharel/this-is-how-i-managed-to-win-2000-through-facebook-bug-bounty-a7d531d5097e, Logic-flaw
 - https://medium.com/@shub66452/account-takeover-using-csrf-json-based-a0e6efd1bffc, CSRF
 - https://medium.com/@nandwanajatin25/story-of-a-stored-xss-to-full-account-takeover-vulnerability-n-a-to-accepted-8478aa5e0d8e, Stored-XSS
 - https://gauravnarwani.com/injecting-6200-to-1200/, SSTI
@@ -3101,7 +3097,6 @@
 - https://medium.com/@mahitman1/hacking-a-crypto-debit-card-service-730f287aaee7, SQL-injection
 - https://medium.com/@jonathanbouman/xxe-at-bol-com-7d331186de54, XXE
 - https://medium.com/@thebuckhacker/how-to-do-55-000-subdomain-takeover-in-a-blink-of-an-eye-a94954c3fc75, Subdomain-takeover
-- https://blog.securitybreached.org/2018/09/10/sqli-login-bypass-autotraders/, SQL-injection
 - https://www.rafaybaloch.com/2018/09/apple-safari-microsoft-edge-browser.html, Address-Bar-Spoofing
 - https://www.hackerinside.me/2018/09/stored-xss-vulnerability-in-h1c-private.html, Stored-XSS
 - https://blog.securitybreached.org/2018/09/09/zol-zimbabwe-authbypass-sqli-xss/, XSS

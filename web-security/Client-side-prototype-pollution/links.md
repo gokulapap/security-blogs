@@ -1,0 +1,1 @@
+- https://github.com/Sudistark/BB-Writeups/blob/main/2023/prototype-pollution-akamai.md

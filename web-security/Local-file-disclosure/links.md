@@ -1,0 +1,1 @@
+- https://buer.haus/2019/10/18/a-tale-of-exploitation-in-spreadsheet-file-conversions/
