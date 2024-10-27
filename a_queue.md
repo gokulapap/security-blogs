@@ -1021,7 +1021,6 @@
 - https://joshuaarulsamy.medium.com/my-hall-of-fame-at-united-nations-success-story-97675232aed7, XSS
 - https://blog.nietaanraken.nl/posts/github-pages-command-injection/, RCE
 - https://dphoeniixx.medium.com/chaining-telegram-bugs-to-steal-session-related-files-c90eac4749bd, Arbitrary-file-read
-- https://jfrog.com/blog/satisfying-our-way-into-remote-code-execution-in-the-opc-ua-industrial-stack/, Memory-corruption
 - https://pierrekim.github.io/blog/2022-08-24-2-byte-dos-freebsd-netbsd-telnetd-netkit-telnetd-inetutils-telnetd-kerberos-telnetd.html, DoS
 - https://blog.sonarsource.com/securing-developer-tools-argument-injection-in-vscode/, Argument-injection
 - https://redrays.io/cve-2020-2733-jd-edwards/, Information-disclosure
@@ -1319,7 +1318,6 @@
 - https://www.trendmicro.com/en_us/research/22/d/macos-suhelper-root-privilege-escalation-vulnerability-a-deep-di.html, Local-Privilege-Escalation
 - https://amit-lt.medium.com/hacked-nokia-with-reflected-cross-site-scripting-vulnerability-327daa8e62fb, Reflected-XSS
 - https://amit-lt.medium.com/hacked-instagram-handle-of-samsung-cb1a35990a90, Broken-link-hijacking
-- https://blog.dbouman.nl/2022/04/02/How-The-Tables-Have-Turned-CVE-2022-1015-1016/, Memory-corruption
 - https://ph-hitachi.medium.com/view-friends-list-of-any-users-using-view-as-facebook-bug-bounty-edeb6af5640b, Logic-flaw
 - https://amit-lt.medium.com/multiple-times-i-hacked-duke-university-with-rxss-vulnerability-7e291aad043a, Reflected-XSS
 - https://akashhamal0x01.medium.com/design-flaw-a-tale-of-permanent-dos-a9ef05181083, DoS
@@ -1855,7 +1853,6 @@
 - https://sndpgiriz.medium.com/simple-logical-bug-turned-into-a-bounty-a3d7ac214606, Logic-flaw
 - https://mrcyberwarrior.medium.com/exploiting-activity-in-medium-android-app-e2e6f3553eef, Insecure-intent
 - https://dewangpanchal98.medium.com/microsoft-bug-bounty-writeup-5ee4a7264dbf, Information-disclosure
-- https://mvinni.medium.com/workplace-by-facebook-unauthorized-access-to-companies-environment-27-5k-a593a57092f1, Authorization-flaw
 - https://www.offensive-security.com/offsec/macos-preferences-priv-escalation/, Local-Privilege-Escalation
 - https://blog.polybdenum.com/2021/05/05/how-i-hacked-google-app-engine-anatomy-of-a-java-bytecode-exploit.html, RCE
 - https://ysamm.com/?p=684, OAuth
@@ -1991,7 +1988,6 @@
 - https://ysamm.com/?p=621, Authorization-flaw
 - https://ysamm.com/?p=625, Open-redirect
 - https://www.shielder.it/blog/2021/02/hunting-for-bugs-in-telegrams-animated-stickers-remote-attack-surface/, Memory-corruption
-- https://www.trendmicro.com/en_us/research/21/b/shareit-flaw-could-lead-to-remote-code-execution.html, Android
 - https://ysamm.com/?p=606, Authorization-flaw
 - https://ysamm.com/?p=609, Authorization-flaw
 - https://ysamm.com/?p=613, Information-disclosure
@@ -3037,7 +3033,6 @@
 - https://medium.com/@tim.kent/xss-in-dynamics-365-25c800aac473, XSS
 - https://medium.com/bugbountywriteup/duplicate-but-still-cool-236835685075, IDOR
 - http://codegrazer.com/blog/rsftp-to-command-injection.html, Path-traversal
-- https://medium.com/@Skylinearafat/how-outdated-jira-instances-suffers-from-multiple-security-vulnerabilities-6a88c45e9ec6, XSS
 - https://medium.com/@kunal94/imagemagick-gif-coder-vulnerability-leads-to-memory-disclosure-hackerone-e9975a6a560e, Memory-leak
 - https://blog.securitybreached.org/2018/11/03/p1-like-a-boss-information-disclosure-via-github-leads-to-employee-account-takeover/, Information-disclosure
 - https://medium.com/bugbountywriteup/stored-xss-in-bug-bounty-13c08e6f5636, Stored-XSS

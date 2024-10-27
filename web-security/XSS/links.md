@@ -152,3 +152,4 @@
 - https://maustin.net/2015/11/12/hipchat_rce.html
 - https://research.securitum.com/art-of-bug-bounty-a-way-from-js-file-analysis-to-xss/
 - https://infosecwriteups.com/how-i-was-able-to-bypass-cloudflare-for-xss-e94cd827a5d6
+- https://medium.com/@Skylinearafat/how-outdated-jira-instances-suffers-from-multiple-security-vulnerabilities-6a88c45e9ec6
