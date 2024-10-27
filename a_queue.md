@@ -742,7 +742,6 @@
 - https://starlabs.sg/blog/2022/12-the-last-breath-of-our-netgear-rax30-bugs-a-tragic-tale-before-pwn2own-toronto-2022/, Command-injection
 - https://ag3n7.medium.com/otp-leaking-through-cookie-leads-to-account-takeover-4fb96f255e2f, Information-disclosure
 - https://blog.nietaanraken.nl/posts/gitub-popular-repository-namespace-retirement-bypass/, Repojacking
-- https://marvelmaniac.medium.com/the-most-underrated-injection-of-all-time-cypher-injection-fa2018ba0de8, Cypher-injection
 - https://marxchryz.medium.com/url-validation-bypass-using-browser-uri-normalization-cf545d33d13f, URL-validation-bypass
 - https://karmainsecurity.com/KIS-2022-06, Zip-Slip-attack
 - https://medium.com/@haroonhameed_76621/a-775-worth-of-cookies-reflected-dom-based-xss-bug-bounty-poc-3e7720c78fbe, DOM-XSS
@@ -1208,7 +1207,6 @@
 - https://infosecwriteups.com/how-i-found-a-critical-bug-in-instagram-and-got-49500-bounty-from-facebook-626ff2c6a853, IDOR
 - https://medium.com/@joshibeast/from-blind-ssrf-to-localhost-dirbusting-and-asset-enumeration-dc0179310038, SSRF
 - https://microsoftedge.github.io/edgevr/posts/a-story-of-a-bug-found-fuzzing/, Browser-hacking
-- https://blog.viettelcybersecurity.com/cve-2022-1040-sophos-xg-firewall-authentication-bypass/, Authentication-bypass
 - https://www.shielder.com/advisories/autodesk-fusion-import-svg-blind-xxe/, XXE
 - https://jfrog.com/blog/denial-of-service-vulnerability-in-envoy-proxy-cve-2022-29225/, Zip-bomb
 - https://www.cyberark.com/resources/threat-research-blog/extracting-clear-text-credentials-directly-from-chromium-s-memory, Browser-hacking
@@ -2952,7 +2950,6 @@
 - https://ysamm.com/?p=38, Bruteforce
 - https://ysamm.com/?p=35, IDOR
 - https://ysamm.com/?p=12, XSS
-- https://medium.com/@sudhanshur705/reflected-xss-in-zomato-f892d6887147, Reflected-XSS
 - https://medium.com/bugbountywriteup/command-injection-poc-72cc3743f10d, OS-command-injection
 - https://medium.com/@ritishkumarsingh/facebook-vulnerability-unremovable-facebook-group-admin-2cbf4faf55c1, Logic-flaw
 - https://medium.com/@sadiqwest01/bugbounty-how-i-hack-billion-company-5529a3ebe999, Directory-listing
@@ -3213,7 +3210,6 @@
 - https://medium.com/@malcolmx0x/three-cases-three-open-redirect-bypasses-887bda60b38c, Open-redirect
 - https://medium.com/@prial261/story-of-a-stored-xss-bypass-26e6659f807b, Stored-XSS
 - https://medium.com/@logicbomb_1/bugbounty-journey-from-lfi-to-rce-how-a69afe5a0899, LFI
-- https://medium.com/@newp_th/google-bug-posting-on-groups-as-any-users-behalf-c24e7f524be5, Email-spoofing
 - https://medium.com/@kankrale.rahul/whatsapp-users-ip-disclosure-with-link-preview-feature-39a477f54fba, Information-disclosure
 - https://medium.com/@YoKoKho/ribose-idor-with-simple-csrf-bypass-unrestricted-changes-and-deletion-to-other-photo-profile-e4393305274e, IDOR
 - https://medium.com/@YoKoKho/idor-at-private-bug-bounty-program-that-could-leads-to-personal-data-leaks-d2536d026bf5, IDOR
@@ -3517,7 +3513,6 @@
 - https://josipfranjkovic.blogspot.com/2013/07/how-i-found-my-way-into-instagrams.html, Reflected-XSS
 - https://bitquark.co.uk/blog/2013/07/19/admob_creative_image_xss, XSS
 - https://bitquark.co.uk/blog/2013/07/03/amazon_packaging_feedback_xss, XSS
-- https://whitton.io/articles/stealing-facebook-access-tokens-with-a-double-submit/, CSRF
 - http://www.rafayhackingarticles.net/2013/02/dom-based-xss-in-avg.html, DOM-XSS
 - https://whitton.io/archive/framing-part-1-click-jacking-etsy, Clickjacking
 - https://whitton.io/archive/persistent-xss-on-myworld-ebay-com/, XSS

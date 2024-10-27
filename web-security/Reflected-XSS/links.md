@@ -46,3 +46,4 @@
 - https://www.gosecure.net/blog/2022/07/13/tableau-server-leaks-sensitive-information-from-reflected-xss/
 - https://web.archive.org/web/20200929003129/https://www.mohamedharon.com/2018/05/reflected-xss-in-hk-yahoo.html
 - https://infosecwriteups.com/chain-of-low-level-bugs-and-misconfigurations-leads-to-account-takeover-de248fc4e481
+- https://medium.com/@sudhanshur705/reflected-xss-in-zomato-f892d6887147

@@ -1,1 +1,2 @@
 - https://www.synacktiv.com/publications/pentesting-cisco-sd-wan-part-1-attacking-vmanage.html
+- https://marvelmaniac.medium.com/the-most-underrated-injection-of-all-time-cypher-injection-fa2018ba0de8
