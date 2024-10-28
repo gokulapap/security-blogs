@@ -1,1 +1,2 @@
 - https://medium.com/@sathvika03/reset-the-password-for-vulnerability-b0805f7adf9c
+- https://medium.com/@hogarth45/password-reset-to-admin-access-3b2a649bdc3

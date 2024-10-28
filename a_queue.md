@@ -110,7 +110,6 @@
 - https://medium.com/@ashrafharb997/csrf-to-full-account-takeover-5196cef9d166, csrf
 - https://medium.com/@grahamzemel/1000-bac-the-complete-guide-to-exploiting-broken-access-control-966f1bd121e9, BAC
 - https://medium.com/@friendly_/reflective-xss-via-search-box-bypassing-cloudflare-waf-841ed420b7f, XSS
-- https://medium.com/@hogarth45/password-reset-to-admin-access-3b2a649bdc3, reset-password
 - https://medium.com/@pawanchhabria/how-i-escalated-default-credentials-to-remote-code-execution-1c34504be7a5, RCE
 - https://medium.com/@sushantdhopat/how-i-able-to-steal-lot-of-user-sensitive-information-pii-throw-idor-insecure-direct-object-e41e08e88a06, info-disclosure
 - https://medium.com/@sathvika03/finding-exif-geo-location-of-images-4ea35e9d10e7, low-hangings
@@ -952,7 +951,6 @@
 - https://www.wiz.io/blog/attachme-oracle-cloud-vulnerability-allows-unauthorized-cross-tenant-volume-access, Cloud
 - https://apapedulimu.click/idor-on-apple/, IDOR
 - https://x-vector.medium.com/privilege-escalation-leads-to-making-authenticated-actions-payment-processing-creating-invoices-2cf808d517ed, Privilege-escalation
-- https://www.x86matthew.com/view_post?id=windows_seagate_lpe, Local-Privilege-Escalation
 - https://ssd-disclosure.com/ssd-advisory-linux-clock_thread_cputime_id-lpe/, Memory-corruption
 - https://github.com/StackOverflowExcept1on/how-to-hack-github-actions, CICD
 - https://medium.com/@cyberali/android-application-forgot-password-token-leakage-leading-to-account-takeover-8a0b28296531, Information-disclosure
@@ -1078,7 +1076,6 @@
 - https://www.adico.me/post/xss-in-gmail-s-amp4email, XSS
 - https://labs.jumpsec.com/zoho-manage-engine-desktop-central-sql-injection-arbitrary-file-write/, SQL-injection
 - https://canmustdie.medium.com/multiple-bugs-in-one-program-leads-to-1500-c35fcde06bc7, Privilege-escalation
-- https://medium.com/@seeu-inspace/how-i-earned-500-by-uploading-a-file-write-up-of-one-of-my-first-bug-bounty-c174cf8ea553, Unrestricted-file-upload
 - https://medium.com/@the_null_kid/instagram-photo-was-present-in-data-backup-nearly-after-two-years-being-deleted-f0e4d6e108, Privacy-issue
 - https://gowtham-naidu.medium.com/how-i-earned-10-000-within-the-last-7-months-17y-o-edition-f566651cef82, Authorization-flaw
 - https://www.zscaler.com/blogs/security-research/analysis-adobe-acrobat-reader-javascript-docprint-use-after-free, Memory-corruption
@@ -2635,7 +2632,6 @@
 - https://web.archive.org/web/20200929013918/https://www.mohamedharon.com/2019/11/subdomain-takeover-via.html, Subdomain-takeover
 - https://medium.com/@0xBarakat/broken-session-permanent-access-to-facebook-users-cfed68684113, Authentication-bypass
 - https://philippeharewood.com/disclose-the-owner-of-a-recruiting-manager-in-jobs-beta/, Information-disclosure
-- https://research.securitum.com/xss-in-amp4email-dom-clobbering/, XSS
 - https://medium.com/@abidafahd/how-i-was-able-to-hunt-a-rare-bug-in-a-private-program-caec0ebaef7f, Missing-authentication
 - https://medium.com/@abhishake100/my-first-bug-500-9222998e6249, No-valid-SPF-records
 - https://medium.com/bugbountywriteup/bypassing-the-fix-of-my-previous-instagram-bug-49ece4ea7e1d, Authorization-flaw
@@ -2660,7 +2656,6 @@
 - https://medium.com/@Hossam.Mesbah/cross-site-request-forgery-critical-exploitable-in-infected-site-a271aedeed2f, CSRF
 - https://noobe.io/articles/2019-10/xss-to-account-takeover, XSS
 - https://medium.com/@D0rkerDevil/how-i-tookover-a-ldap-server-703209161001, Misconfigured-LDAP-server
-- https://medium.com/@evilboyajay/session-expiration-bypass-in-facebook-creator-app-b4f65cc64ce4, Session-expiration-issue
 - https://portswigger.net/research/responsible-denial-of-service-with-web-cache-poisoning, DoS
 - https://medium.com/@saurabh5392/how-i-earned-by-finding-confidential-customer-data-including-plain-text-passwords-f93c4ce2631, Directory-listing
 - https://wwws.nightwatchcybersecurity.com/2019/10/24/nfc-beaming-bypasses-security-controls-in-android-cve-2019-2114/, NFC

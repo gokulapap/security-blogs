@@ -44,3 +44,4 @@
 - https://www.cyberonesecurity.com/blog/local-privilege-escalation-vulnerability-discovered-in-vmware-fusion
 - https://pwn.win/2023/05/08/parallels-escape.html
 - https://breakdev.org/zip-motw-bug-analysis/
+- https://www.x86matthew.com/view_post?id=windows_seagate_lpe
