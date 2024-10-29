@@ -209,7 +209,6 @@
 - https://infosecwriteups.com/the-buffer-curse-3591efb4a724, CSP-bypass
 - https://badoption.eu/blog/2023/07/15/divideconqer.html, AMSI-bypass
 - https://infosecwriteups.com/lets-go-for-whole-company-d2e24bcfb5ef, Default-credentials
-- https://fingerprint.com/blog/apple-macos-mdns-brute-force/, Privacy-issue
 - https://www.trustedsec.com/blog/modeling-malicious-code-hacking-in-3d/, Phishing
 - https://blog.talosintelligence.com/weaknesses-mac-os-vmware-msrpc/, Kernel-hacking
 - https://posts.specterops.io/performance-diagnostics-and-wmi-21f3e01790d3, Lateral-movement
@@ -739,7 +738,6 @@
 - https://tusharvaidya16.medium.com/a03-2021-injection-sql-injection-through-internal-directory-disclose-ecdef5230131, SQL-injection
 - https://www.synacktiv.com/publications/cool-vulns-dont-live-long-netgear-and-pwn2own.html, Code-injection
 - https://starlabs.sg/blog/2022/12-the-last-breath-of-our-netgear-rax30-bugs-a-tragic-tale-before-pwn2own-toronto-2022/, Command-injection
-- https://ag3n7.medium.com/otp-leaking-through-cookie-leads-to-account-takeover-4fb96f255e2f, Information-disclosure
 - https://blog.nietaanraken.nl/posts/gitub-popular-repository-namespace-retirement-bypass/, Repojacking
 - https://marxchryz.medium.com/url-validation-bypass-using-browser-uri-normalization-cf545d33d13f, URL-validation-bypass
 - https://karmainsecurity.com/KIS-2022-06, Zip-Slip-attack
@@ -920,7 +918,6 @@
 - https://medium.com/@jacopotediosi/worldwide-server-side-cache-poisoning-on-all-akamai-edge-nodes-50k-bounty-earned-f97d80f3922b, Web-cache-poisoning
 - https://carvesystems.com/news/xss-through-dhcp-how-attackers-use-standards/, XSS
 - https://daturamater.medium.com/a-breach-on-patreon-and-their-elusive-bounty-program-5e7ea62dc738, Payment-bypass
-- https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/cve-2022-37461-two-reflected-xss-vulnerabilities-in-canon-medicals-vitrea-view/, Reflected-XSS
 - https://starlabs.sg/blog/2022/09-apple-coretext-an-unexpected-journey-to-learn-about-failure/, Memory-corruption
 - https://consensys.net/diligence/blog/2022/09/the-forgotten-ipfs-vulnerabilities/, Web3-hacking
 - https://nebuchadnezzar-megolm.github.io, Cryptographic-issues
@@ -1014,7 +1011,6 @@
 - https://moustadif.medium.com/how-i-bypassed-reflected-xss-in-well-known-platform-274c07f97674, XSS
 - https://notifybugme.medium.com/how-i-found-reflected-xss-on-idfc-bank-with-burp-suite-intruder-7c53275daf02, Reflected-XSS
 - https://sagarsajeev.medium.com/unsubscribe-any-users-e-mail-notifications-via-idor-2c2e05b79dac, IDOR
-- https://monish-basaniwal.medium.com/the-million-dollar-hack-8163892bfe2f, IDOR
 - https://joshuaarulsamy.medium.com/my-hall-of-fame-at-united-nations-success-story-97675232aed7, XSS
 - https://blog.nietaanraken.nl/posts/github-pages-command-injection/, RCE
 - https://dphoeniixx.medium.com/chaining-telegram-bugs-to-steal-session-related-files-c90eac4749bd, Arbitrary-file-read
@@ -1929,7 +1925,6 @@
 - https://melotover.medium.com/how-i-leveraged-xss-to-make-privilege-escalation-to-be-super-admin-e120b6090451, XSS
 - https://www.ehpus.com/post/multiple-authorization-bypass-issues-in-google-s-richmedia-studio, Authorization-flaw
 - https://3bodymo.medium.com/bypass-rate-limit-to-enumeration-users-through-google-drive-ed64e07c879c, Rate-limiting-bypass
-- https://dewcode.in/2021/03/24/Finding-and-exploiting-race-condition-vulnerability-on-facebook-server.html, Race-condition
 - https://sudhanshur705.medium.com/how-i-made-it-to-google-hof-f1cec85fdb1b, IDOR
 - https://shahjerry33.medium.com/cross-site-port-attack-a-strangers-call-c2467f93792f, XSPA
 - https://godiego.co/posts/STO-AWS/, Subdomain-takeover

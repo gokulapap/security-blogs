@@ -137,3 +137,4 @@
 - https://pentera.io/blog/information-disclosure-in-vmware-vcenter/
 - https://www.oliviaohara.com/keybase
 - https://medium.com/@logicbomb_1/irctc-millions-of-passenger-details-left-at-huge-risk-18c5ecc09d7f
+- https://ag3n7.medium.com/otp-leaking-through-cookie-leads-to-account-takeover-4fb96f255e2f

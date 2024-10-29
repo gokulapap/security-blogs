@@ -47,3 +47,4 @@
 - https://web.archive.org/web/20200929003129/https://www.mohamedharon.com/2018/05/reflected-xss-in-hk-yahoo.html
 - https://infosecwriteups.com/chain-of-low-level-bugs-and-misconfigurations-leads-to-account-takeover-de248fc4e481
 - https://medium.com/@sudhanshur705/reflected-xss-in-zomato-f892d6887147
+- https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/cve-2022-37461-two-reflected-xss-vulnerabilities-in-canon-medicals-vitrea-view/

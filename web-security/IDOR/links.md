@@ -129,3 +129,4 @@
 - https://medium.com/@0xh7ml.py/my-first-10k-bdt-bounty-from-an-e-commerce-site-cec9d58e1f55
 - https://labs.jumpsec.com/advisory-idor-in-microsoft-teams-allows-for-external-tenants-to-introduce-malware/
 - https://arben.sh/bugbounty/SelfXSS-To-Stored-Through-IDOR/
+- https://monish-basaniwal.medium.com/the-million-dollar-hack-8163892bfe2f

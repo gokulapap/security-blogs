@@ -4,3 +4,4 @@
 - https://blog.zimperium.com/telegram-hack/
 - https://www.reversemode.com/2022/06/de-anonymization-attacks-against-proton.html
 - https://sick.codes/sick-2021-109/
+- https://fingerprint.com/blog/apple-macos-mdns-brute-force/
