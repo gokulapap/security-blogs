@@ -11,3 +11,4 @@
 - https://medium.com/techiepedia/misconfigured-3-bucket-a-semi-opened-environment-9cfb9dee782d
 - https://medium.com/@ddigvijay29/how-i-dumped-millions-of-crypto-currencies-accounts-28d388053713
 - https://engrinside.medium.com/bug-hunting-open-access-to-s3-bucket-79f262a86a78
+- https://aseemshrey.in/lets-learn-english-hacking-10M-Users/

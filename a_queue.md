@@ -249,7 +249,6 @@
 - https://security.lauritz-holtmann.de/post/csti-xss-sso-gadget-chain/, CSTI
 - https://medium.com/@jonathanbouman/laravel-debug-mode-left-on-at-zouikwatzeggen-nl-948a7365409f, Debug-mode-enabled
 - https://www.interruptlabs.co.uk/articles/pwn2own-2022-hp-printer, Printer-hacking
-- https://www.pmnh.site/post/witeup_lhe_graphql_stored_xss/, Stored-XSS
 - https://blog.assetnote.io/2023/06/29/binary-reversing-citrix-xss/, Reflected-XSS
 - https://medium.com/@ahmedelmorsy312/weakness-of-integration-bce1520ba672, Logic-flaw
 - https://www.zerodayinitiative.com/blog/2023/6/29/cve-2023-20864-remote-code-execution-in-vmware-aria-operations-for-logs, RCE
@@ -1748,7 +1747,6 @@
 - https://medium.com/@jawadmahdi/how-i-found-blind-sql-injection-just-by-browsing-and-getting-a-unique-url-ed87fa1f35ed, SQL-injection
 - https://krevetk0.medium.com/credential-stuffing-in-bug-bounty-hunting-7168dc1d3153, Credential-stuffing
 - https://aidilarf.medium.com/380-xss-stored-in-bigo-bug-bounty-program-a8b9529adcc4, XSS
-- https://rakesh-thodupunoori.medium.com/part-2-dive-into-zoom-applications-1b01091345c1, CSRF
 - https://tomorrowisnew.com/posts/broken-access-control-bug-bypassing-403-s-by-finding-another-endpoint-that-do-the-same-thing/, Broken-Access-Control
 - https://medium.com/@kalvik/pre-denial-of-service-set-up-2fa-on-unverified-account-8399af52ea2d, Application-level-DoS
 - https://infosecwriteups.com/critical-bug-bounty-reports-part-1-6fd9aef4b486, Account-takeover
@@ -1886,7 +1884,6 @@
 - https://shahjerry33.medium.com/xss-via-exif-data-the-p2-elevator-d09e7b7fe9b9, Stored-XSS
 - https://0day.click/recipe/2021-04-18-discourse-themes/, RCE
 - https://edmundaa222.medium.com/poc-remove-any-facebooks-live-video-14-000-bounty-70c8135b7b4c, Logic-flaw
-- https://aseemshrey.in/lets-learn-english-hacking-10M-Users/, AWS-misconfiguration
 - https://pharish4948.medium.com/how-i-earned-3200-in-4hours-through-stored-xss-38597877d3e1, Stored-XSS
 - https://positive.security/blog/url-open-rce, RCE
 - https://fernale.blogspot.com/2021/04/how-i-got-9000-usd-by-hacking-into.html, XSS
@@ -2204,7 +2201,6 @@
 - https://web.archive.org/web/20201125190336/https://tox7cv3nom.github.io/2020-08-05-how_i_was_able_to_pawned_website_via_escilating_webcache-deception-to-rce/, Web-cache-deception
 - https://blog.deteact.com/account-takeover-via-idor/, IDOR
 - https://medium.com/@soufianehabti/my-story-with-xss-ed017bdc44c4, XSS
-- https://weizman.github.io/2020/09/02/csp-vuln/, CSP-bypass
 - https://www.pentestpartners.com/security-blog/cloud-firewall-management-api-snafu-put-500k-sonicwall-customers-at-risk/, IDOR
 - https://medium.com/stolabs/denial-of-service-in-the-protection-service-provided-by-avast-security-premium-284dfd5ab40, DoS
 - https://medium.com/bugbountywriteup/unhiding-the-hidden-2ef44192c10b, Client-side-enforcement-of-server-side-security
@@ -3448,7 +3444,6 @@
 - https://medium.com/swlh/watch-paint-dry-how-i-got-a-game-on-the-steam-store-without-anyone-from-valve-ever-looking-at-it-2e476858c753, Authorization-flaw
 - https://www.arneswinnen.net/2016/03/how-i-could-compromise-4-locked-instagram-accounts, IDOR
 - https://whitton.io/articles/uber-turning-self-xss-into-good-xss/, XSS
-- https://www.rcesecurity.com/2016/02/ubiquiti-bug-bounty-unifi-v3-2-10-generic-csrf-protection-bypass/, CSRF
 - https://ahussam.me/how-i-hacked-oculus-oauth-ebay-ibm/, Unrestricted-file-upload
 - https://www.seekurity.com/blog/write-ups/eset-broken-authentication-vulnerability/, Authentication-flaw
 - https://bitquark.co.uk/blog/2016/02/09/how_i_got_access_to_millions_of_redacted_accounts, RFI

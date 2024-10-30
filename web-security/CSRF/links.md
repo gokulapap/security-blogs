@@ -59,3 +59,5 @@
 - https://www.imperva.com/blog/facebook-privacy-bug
 - https://medium.com/@ciph3r7r0ll/that-escalated-quickly-from-partial-csrf-to-reflected-xss-to-complete-csrf-to-stored-xss-6ba8103069c2
 - https://whitton.io/articles/stealing-facebook-access-tokens-with-a-double-submit/
+- https://www.rcesecurity.com/2016/02/ubiquiti-bug-bounty-unifi-v3-2-10-generic-csrf-protection-bypass/
+- https://rakesh-thodupunoori.medium.com/part-2-dive-into-zoom-applications-1b01091345c1

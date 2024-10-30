@@ -57,3 +57,4 @@
 - https://medium.com/@vikramroot/account-takeover-via-stored-xss-b774f7a2a3ab
 - https://machevalia.blog/blog/stored-cross-site-scripting-in-mediawiki
 - https://apapedulimu.click/shopify-com-blind-stored-xss-via-staff-name/
+- https://www.pmnh.site/post/witeup_lhe_graphql_stored_xss/
