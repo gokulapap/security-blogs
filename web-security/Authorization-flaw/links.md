@@ -70,3 +70,4 @@
 - https://sites.google.com/securifyinc.com/vrp-writeups/google-meet/authorization-bugs
 - https://medium.com/@zahidali_93675/hijack-facebook-groups-721c08526326
 - https://mvinni.medium.com/workplace-by-facebook-unauthorized-access-to-companies-environment-27-5k-a593a57092f1
+- https://medium.com/@evan.connelly/hunting-tesla-model-y-secrets-in-the-parts-catalog-2f453f853dd8

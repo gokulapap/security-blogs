@@ -715,7 +715,6 @@
 - https://salt.security/blog/missing-bricks-finding-security-holes-in-lego-apis, XSS
 - https://bishopfox.com/blog/flowscreencomponents-advisory, XSS
 - https://medium.com/@jonathanbouman/unprotected-api-endpoint-at-hawebsso-nl-5f1951e212fe, SSO
-- https://labs.nettitude.com/blog/exploiting-onlyoffice-web-sockets-for-unauthenticated-remote-code-execution/, Websockets
 - https://spyclub.tech/2022/12/14/unusual-cache-poisoning-akamai-s3/, Web-cache-poisoning
 - https://labs.nettitude.com/blog/exploiting-onlyoffice-web-sockets-for-unauthenticated-remote-code-execution/, Websockets
 - https://www.akamai.com/blog/security-research/msrpc-lsm-cve-disturbing-hosts-rest, Windows
@@ -1889,7 +1888,6 @@
 - https://fernale.blogspot.com/2021/04/how-i-got-9000-usd-by-hacking-into.html, XSS
 - https://blog.talosintelligence.com/2021/04/vuln-spotlight-azure-sphere-april-2021.html, RCE
 - https://servicenger.com/blog/mobile/google-photos-theft-of-database-arbitrary-files-android-vulnerability/, Improper-Export-of-Android-Application-Components
-- https://onekey.com/blog/advisory-cisco-rv34x-authentication-bypass-remote-command-execution/, Authentication-bypass
 - https://infosecwriteups.com/unauthenticated-account-takeover-through-forget-password-c120b4c1141d, Password-reset
 - https://monke.ie/duckduckgoxss/, Stored-XSS
 - https://sites.google.com/securifyinc.com/vrp-writeups/hire-with-google/auth-issues, Authentication-flaw
@@ -1913,7 +1911,6 @@
 - https://philippeharewood.com/download-facebook-internal-mobile-builds/, Information-disclosure
 - https://thexssrat.medium.com/i-felt-like-there-were-no-more-bugs-left-after-winning-2000-but-an-email-worth-750-changed-my-c7a507649060, Broken-Access-Control
 - https://infosecwriteups.com/a-weird-xss-77c13d135c9f, Reflected-XSS
-- https://medium.com/@ashrafharb997/csrf-to-full-account-takeover-5196cef9d166, CSRF
 - https://www.pethuraj.com/blog/paypal-bug-bounty-writeup/, Open-redirect
 - https://jychp.medium.com/how-to-bypass-cloudflare-bot-protection-1f2c6c0c36fb, Logic-flaw
 - https://bloggerrando.blogspot.com/2021/03/bug-bounty-idor-in-youtube-bounty.html, Broken-Access-Control
@@ -2518,7 +2515,6 @@
 - https://web.archive.org/web/20200513211717/https://mrss4nd0x.000webhostapp.com/Stored-XSS-on-groups-google-com.php, Stored-XSS
 - https://medium.com/@DarkMatterMatt/breaking-a-discord-channel-with-a-single-message-5095eb7604f1, DoS
 - https://web.archive.org/web/20200505142429/https://medium.com/@godofdarkness.msf/reflected-xss-in-at-t-7f1bdd10d8f7, Reflected-XSS
-- https://medium.com/@evan.connelly/hunting-tesla-model-y-secrets-in-the-parts-catalog-2f453f853dd8, Authorization-flaw
 - https://spaceraccoon.dev/a-tale-of-two-formats-exploiting-insecure-xml-and-zip-file-parsers-to-create-a, XXE
 - https://medium.com/@adonkidz7/my-first-bounty-from-google-d9f1f3f5787a, Self-XSS
 - https://www.acunetix.com/blog/web-security-zone/xss-google-acunetix/, XSS
@@ -3364,7 +3360,6 @@
 - https://medium.com/bugbountywriteup/whatsapp-dos-vulnerability-in-ios-android-d896f76d3253, DoS
 - https://seanmelia.files.wordpress.com/2017/06/django-privilege-escalation-e28093-zero-to-superuser.pdf, Privilege-escalation
 - https://www.rafaybaloch.com/2017/06/stored-xss-csrf-and-clickjacking.html, Stored-XSS
-- https://www.rafaybaloch.com/2017/06/a-tale-of-another-sop-bypass-in-android.html, SOP-bypass
 - https://www.rafaybaloch.com/2017/06/nokia-asha-series-lock-screen-bypass.html, Authentication-bypass
 - http://www.kernelpicnic.net/2017/05/29/Pivoting-from-blind-SSRF-to-RCE-with-Hashicorp-Consul.html, Blind-XSS
 - https://ysx.me.uk/a-pair-of-plotly-bugs-stored-xss-and-aws-metadata-ssrf/, Stored-XSS
