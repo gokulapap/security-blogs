@@ -34,3 +34,4 @@
 - https://blog.ret2.me/post/2022-01-26-exploiting-xiongmai-dvrs/
 - https://blog.dbouman.nl/2022/04/02/How-The-Tables-Have-Turned-CVE-2022-1015-1016/
 - https://jfrog.com/blog/satisfying-our-way-into-remote-code-execution-in-the-opc-ua-industrial-stack/
+- https://ssd-disclosure.com/ssd-advisory-netgear-r7800-afpd-preauth/

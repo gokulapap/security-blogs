@@ -314,7 +314,6 @@
 - https://medium.com/@ajzead660/exploit-an-unexploitable-xss-via-an-open-redirect-a-real-life-scenario-from-a-hackers-mindset-32b71041c5fe, XSS
 - https://medium.com/@gokulsspace/the-30000-bounty-affair-3f025ee6b834, RCE
 - https://medium.com/@ibederov_en/find-out-the-ip-address-through-a-call-to-telegram-a899441b1bac, Privacy-issue
-- https://medium.com/@ar_hawk/utilizing-historical-urls-of-an-organization-to-successfully-execute-sql-queries-blind-sqli-3526d9c3863d, Blind-SQL-injection
 - https://www.zerodayinitiative.com/blog/2023/5/24/exploiting-the-sonos-one-speaker-three-different-ways-a-pwn2own-toronto-highlight, Memory-corruption
 - https://checkmarx.com/blog/ericsson-sensitive-data-exposure-via-trace-axd/, Information-disclosure
 - https://kuenzi.dev/toothbrush/, IoT
@@ -455,7 +454,6 @@
 - https://portswigger.net/research/the-curl-quirk-that-exposed-burp-suite-amp-google-chrome, LFI
 - https://www.praetorian.com/blog/dynamic-linking-injection/, DLL-Hijacking
 - https://medium.com/@bughuntar/my-first-bug-open-redirect-at-epic-games-500-bounty-d0c03de60fa7, Open-redirect
-- https://frichetten.com/blog/undocumented-amplify-api-leak-account-id/, Cloud
 - https://infosecwriteups.com/cve-2023-1410-stored-xss-in-the-graphite-function-description-tooltip-165bdc32154c, Stored-XSS
 - https://protectai.com/blog/hacking-ai-system-takeover-exploit-in-mlflow, LFI
 - https://portswigger.net/research/exploiting-prototype-pollution-in-node-without-the-filesystem, Server-side-prototype-pollution
@@ -781,7 +779,6 @@
 - https://hacklido.com/d/90-cve-2021-40662-chamilo-lms-11114-rce, Stored-XSS
 - https://emily.id.au/tailscale, RCE
 - https://basu-banakar.medium.com/ssrf-via-dns-rebinding-cve-2022-4096-b7bf75928bb2, SSRF
-- https://ssd-disclosure.com/ssd-advisory-netgear-r7800-afpd-preauth/, Memory-corruption
 - https://github.com/0xacb/recollapse/blob/main/till_recollapse_fuzzing_the_web_for_mysterious_bugs.pdf, Regex
 - https://securitylabs.datadoghq.com/articles/appsync-vulnerability-disclosure/, Confused-deputy
 - https://medium.com/@valluvarsploit/fastly-subdomain-takeover-2000-217bb180730f, Subdomain-takeover
@@ -1734,7 +1731,6 @@
 - https://blog.0xffff.info/2021/07/24/ebay-xss-demo-and-guide-to-spear-phishing/, XSS
 - https://imajk.medium.com/story-of-my-3rd-bounty-from-facebook-fef352853d1b, Logic-flaw
 - https://craighays.com/pre-account-takeover-by-reversing-a-weak-email-verification-token-algorithm/, Weak-crypto
-- https://www.r29k.com/articles/bb/self-xss-to-stored-xss, Self-XSS
 - https://web.archive.org/web/20210924032932/https://0xdln.ml/XSS-Through-Fuzzing-Default-IIS/, Reflected-XSS
 - https://notifybugme.medium.com/how-i-was-able-find-mass-leaked-aws-s3-bucket-from-js-file-6064a5c247f8, AWS-misconfiguration
 - https://blog.takemyhand.xyz/2021/07/hacking-on-xiaomis-android-apps.html, Android
@@ -2423,7 +2419,6 @@
 - https://medium.com/@youssefla/dom-xss-walkthrough-4d60c45ffb21, DOM-XSS
 - https://medium.com/@TnMch/google-acquisition-xss-apigee-5479d7b5dc4, XSS
 - https://sites.google.com/securifyinc.com/vrp-writeups/waze/waze-xss, XSS
-- https://sites.google.com/securifyinc.com/vrp-writeups/hire-with-google/xsses, Stored-XSS
 - https://sites.google.com/securifyinc.com/vrp-writeups/gsuite/bookmark-xss-device-management, XSS
 - https://medium.com/@sandeepkumarsingh1902/bugbounty-adding-money-using-response-modification-334448d34251, Payment-tampering
 - https://medium.com/@rohitcoder/private-dashboards-were-accessible-by-other-admins-in-analytics-dashboard-558010a379ab, Authorization-flaw

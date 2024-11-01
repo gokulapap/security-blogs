@@ -4,3 +4,4 @@
 - https://footstep.ninja/posts/exploiting-self-xss/
 - https://medium.com/@renwa/self-xss-csrf-to-stored-xss-54f9f423a7f1
 - https://gonzx.medium.com/how-i-escalate-my-self-stored-xss-to-account-takeover-with-the-help-of-idor-f20733ecdbe9
+- https://www.r29k.com/articles/bb/self-xss-to-stored-xss

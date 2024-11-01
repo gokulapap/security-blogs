@@ -8,3 +8,4 @@
 - https://www.mnemonic.io/resources/blog/acsessed-cross-tenant-network-bypass-in-azure-cognitive-search/
 - https://ermetic.com/blog/aws/sometimes-what-sounds-benign-can-bite-you-an-unexpected-implication-of-lambda-privileges/
 - https://blog.prodefense.io/how-abusing-aws-cloudformation-led-to-a-total-takeover-of-an-aws-environment-7f94cabd671d
+- https://frichetten.com/blog/undocumented-amplify-api-leak-account-id/

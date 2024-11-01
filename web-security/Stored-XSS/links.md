@@ -58,3 +58,4 @@
 - https://machevalia.blog/blog/stored-cross-site-scripting-in-mediawiki
 - https://apapedulimu.click/shopify-com-blind-stored-xss-via-staff-name/
 - https://www.pmnh.site/post/witeup_lhe_graphql_stored_xss/
+- https://sites.google.com/securifyinc.com/vrp-writeups/hire-with-google/xsses
