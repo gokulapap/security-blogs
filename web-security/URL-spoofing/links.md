@@ -1,2 +1,3 @@
 - https://priyankraval.medium.com/microsoft-teams-unpatched-url-spoofing-vulnerability-c58f5949fac8
 - https://www.varonis.com/blog/url-spoofing
+- https://ssd-disclosure.com/ssd-advisory-apple-safari-idn-url-spoofing/

@@ -78,3 +78,4 @@
 - https://medium.com/@Cybervenom/story-about-escalation-of-html-injection-to-ec2-instance-credentials-leak-e2cbd7343a83
 - https://basu-banakar.medium.com/exploiting-non-cloud-ssrf-for-more-fun-profit-3597934518c8
 - https://medium.com/@swaysthinking/my-first-bug-blind-ssrf-through-profile-picture-upload-72f00fd27bc6
+- https://medium.com/@joshibeast/from-blind-ssrf-to-localhost-dirbusting-and-asset-enumeration-dc0179310038

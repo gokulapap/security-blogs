@@ -45,3 +45,4 @@
 - https://payatu.com/blog/p3n7a90n/wp-all-export-pro
 - https://corben.io/blog/17-11-30-asus-sqli
 - https://blog.securitybreached.org/2018/09/10/sqli-login-bypass-autotraders/
+- https://medium.com/bugbountywriteup/from-sql-injection-to-hall-of-fame-96a08c869acd

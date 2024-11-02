@@ -56,3 +56,4 @@
 - https://aidilarf.medium.com/bypassing-sso-authentication-from-the-login-without-password-feature-lead-to-account-takeover-d2322a33a208
 - https://medium.com/@amolbhavar/how-i-get-1000-bounty-for-discovering-account-takeover-in-android-application-3c4f54fbde39
 - https://medium.com/@ambushneupane4/story-of-a-beautiful-account-takeover-869ef61ac6c8
+- https://omar0x01.medium.com/hubspot-full-account-takeover-in-bug-bounty-4e2047914ab5

@@ -572,7 +572,6 @@
 - https://frycos.github.io/vulns4free/2023/02/12/install4j-xxe.html, XXE
 - https://pvs-studio.com/en/blog/posts/csharp/0918/, XXE
 - https://blog.cyberxplore.com/we-hacked-github-for-a-month-heres-what-we-found/, Pre-account-takeover
-- https://omar0x01.medium.com/hubspot-full-account-takeover-in-bug-bounty-4e2047914ab5, Account-takeover
 - https://infosecwriteups.com/disabling-js-for-the-win-9d13c606f910, Unrestricted-file-upload
 - https://decoder.cloud/2023/02/13/localpotato-when-swapping-the-context-leads-you-to-system/, Windows
 - https://medium.com/@lukeberner/information-disclosure-to-gdpr-breach-a-google-tale-f9e99fd5d648, Privacy-issue
@@ -1078,7 +1077,6 @@
 - https://swarm.ptsecurity.com/researching-open-source-apps-for-xss-to-rce-flaws/, XSS
 - https://www.nozominetworks.com/blog/vulnerability-in-dahua-s-onvif-implementation-threatens-ip-camera-security/, MiTM
 - https://github.blog/2022-07-27-corrupting-memory-without-memory-corruption/, Memory-corruption
-- https://ssd-disclosure.com/ssd-advisory-apple-safari-idn-url-spoofing/, URL-spoofing
 - https://medium.com/@xpertwhitehat/reflected-cross-site-scripting-on-user-agent-dependent-response-b44258a3d978, Reflected-XSS
 - https://medium.com/tinder/exploiting-github-actions-on-open-source-projects-5d93936d189f, RCE
 - https://shahjerry33.medium.com/http-parameter-pollution-its-contaminated-again-95c75b0295e1, HTTP-parameter-pollution
@@ -1122,7 +1120,6 @@
 - https://medium.com/@shaunak007/how-i-spammed-a-google-meet-but-for-good-8bc5b328f1bb, DoS
 - https://infosecwriteups.com/abusing-url-shortners-for-fun-and-profit-c83c67713916, Information-disclosure
 - https://medium.com/@rodricbr/from-open-redirect-to-reflected-xss-manually-64e633a3d23f, Open-redirect
-- https://voidzone.me/cve-2022-29885-apache-tomcat-cluster-service-dos/, DoS
 - https://bishopfox.com/blog/netwrix-auditor-advisory, Insecure-deserialization
 - https://blog.aquasec.com/cve-2022-32223-dll-hijacking, DLL-Hijacking
 - https://medium.com/tenable-techblog/microsoft-azure-site-recovery-dll-hijacking-cd8cc34ef80c, DLL-Hijacking
@@ -1193,7 +1190,6 @@
 - https://www.randorisec.fr/yet-another-bug-netfilter/, Memory-corruption
 - https://haxatron.gitbook.io/vulnerability-research/vr2, SSRF
 - https://infosecwriteups.com/how-i-found-a-critical-bug-in-instagram-and-got-49500-bounty-from-facebook-626ff2c6a853, IDOR
-- https://medium.com/@joshibeast/from-blind-ssrf-to-localhost-dirbusting-and-asset-enumeration-dc0179310038, SSRF
 - https://microsoftedge.github.io/edgevr/posts/a-story-of-a-bug-found-fuzzing/, Browser-hacking
 - https://www.shielder.com/advisories/autodesk-fusion-import-svg-blind-xxe/, XXE
 - https://jfrog.com/blog/denial-of-service-vulnerability-in-envoy-proxy-cve-2022-29225/, Zip-bomb
@@ -2213,7 +2209,6 @@
 - https://medium.com/bugbountywriteup/fun-with-header-and-forget-password-with-a-twist-af095b426fb2, Password-reset
 - https://offensi.com/2020/08/18/how-to-contact-google-sre-dropping-a-shell-in-cloud-sql/, SQL-injection
 - https://medium.com/bugbountywriteup/how-could-i-tag-photo-to-any-users-scrapbook-on-facebook-23ab15e6e4b4, Authorization-flaw
-- https://medium.com/bugbountywriteup/from-sql-injection-to-hall-of-fame-96a08c869acd, SQL-injection
 - https://www.activecyber.us/activelabs/windows-appx-deployment-service-local-privilege-escalation-cve-2020-1488, Local-Privilege-Escalation
 - https://web.archive.org/web/20200819113116/https://medium.com/@godofdarkness.msf/account-takeover-using-re-register-bug-bounty-bda8bb2106e6, Account-takeover
 - https://medium.com/witnet/witnet-network-acknowledged-dos-bug-f7d55b709051, DoS
