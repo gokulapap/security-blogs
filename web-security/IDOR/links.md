@@ -130,3 +130,4 @@
 - https://labs.jumpsec.com/advisory-idor-in-microsoft-teams-allows-for-external-tenants-to-introduce-malware/
 - https://arben.sh/bugbounty/SelfXSS-To-Stored-Through-IDOR/
 - https://monish-basaniwal.medium.com/the-million-dollar-hack-8163892bfe2f
+- https://www.pentestpartners.com/security-blog/cloud-firewall-management-api-snafu-put-500k-sonicwall-customers-at-risk/

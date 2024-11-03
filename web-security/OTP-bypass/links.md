@@ -8,3 +8,4 @@
 - https://gowtham-naidu.medium.com/500-bug-sensitive-data-exposure-to-broken-access-control-leads-how-i-able-to-take-over-any-33658f16e265
 - https://mokhansec.medium.com/account-verification-code-bypass-lead-to-a-4000-bounty-b31dda6f3011
 - https://medium.com/@karthiksoft007/oculus-identity-verification-bypass-through-brute-force-dbd0c0d3c37e
+- https://medium.com/bugbountywriteup/bugbounty-how-i-could-book-cab-using-your-wallet-money-in-indias-largest-auto-transportation-e0c4252ca1a3

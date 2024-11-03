@@ -1654,7 +1654,6 @@
 - https://cyberguy0xd1.medium.com/how-i-hacked-bbc-mail-servers-e61bb6faed2d, Information-disclosure
 - https://ysamm.com/?p=708, Account-takeover
 - https://irsl.medium.com/google-cloud-build-under-the-hood-bc00c68ad9de, gRPC
-- https://wojciechregula.blog/post/play-the-music-and-bypass-tcc-aka-cve-2020-29621/, Privacy-issue
 - https://4bdoz.medium.com/rce-by-code-injection-perl-reverse-shell-a2e90181b10, RCE
 - https://halove23.blogspot.com/2021/09/zdi-21-1053-bypassing-windows-lock.html, Authentication-bypass
 - https://medium.com/pentesternepal/hacking-dutch-government-for-a-lousy-t-shirt-8e1fd1b56deb, IDOR
@@ -2190,7 +2189,6 @@
 - https://web.archive.org/web/20201125190336/https://tox7cv3nom.github.io/2020-08-05-how_i_was_able_to_pawned_website_via_escilating_webcache-deception-to-rce/, Web-cache-deception
 - https://blog.deteact.com/account-takeover-via-idor/, IDOR
 - https://medium.com/@soufianehabti/my-story-with-xss-ed017bdc44c4, XSS
-- https://www.pentestpartners.com/security-blog/cloud-firewall-management-api-snafu-put-500k-sonicwall-customers-at-risk/, IDOR
 - https://medium.com/stolabs/denial-of-service-in-the-protection-service-provided-by-avast-security-premium-284dfd5ab40, DoS
 - https://medium.com/bugbountywriteup/unhiding-the-hidden-2ef44192c10b, Client-side-enforcement-of-server-side-security
 - https://medium.com/bugbountywriteup/the-importance-of-keeping-up-to-date-or-how-i-found-an-interesting-bug-thanks-to-a-tweet-2ec6ba9a5e1e, Stored-XSS
@@ -2210,7 +2208,6 @@
 - https://offensi.com/2020/08/18/how-to-contact-google-sre-dropping-a-shell-in-cloud-sql/, SQL-injection
 - https://medium.com/bugbountywriteup/how-could-i-tag-photo-to-any-users-scrapbook-on-facebook-23ab15e6e4b4, Authorization-flaw
 - https://www.activecyber.us/activelabs/windows-appx-deployment-service-local-privilege-escalation-cve-2020-1488, Local-Privilege-Escalation
-- https://web.archive.org/web/20200819113116/https://medium.com/@godofdarkness.msf/account-takeover-using-re-register-bug-bounty-bda8bb2106e6, Account-takeover
 - https://medium.com/witnet/witnet-network-acknowledged-dos-bug-f7d55b709051, DoS
 - https://medium.com/bugbountywriteup/how-i-was-able-to-send-authentic-emails-as-others-google-vrp-resolved-2af94295f326, Logic-flaw
 - https://medium.com/@vedanttekale20/how-recon-helped-me-to-find-an-interesting-bug-17a2d8cf1778, Open-redirect
@@ -2468,7 +2465,6 @@
 - https://honoki.net/2020/03/18/xxe-scape-through-the-front-door-circumventing-the-firewall-with-http-request-smuggling/, XXE
 - https://medium.com/@parasarora06/how-i-was-able-to-verify-any-contact-number-for-my-account-57c939dab202, OTP-bypass
 - https://web.archive.org/web/20200317103909/https://medium.com/sourav-sahana/razer-mobile-pin-verification-bypass-1k-bug-2eb1485796b3, OTP-bypass
-- https://medium.com/@ashketchum/how-i-earned-1750-at-shopify-bug-bounty-program-ca7821990d08, XSS
 - https://medium.com/@manasjha7965/weak-session-validation-bug-let-you-login-even-after-changing-the-session-ids-and-logging-out-from-4bb3ee29a598, Logic-flaw
 - https://medium.com/@ozguralp/using-vulnerability-analytics-feature-like-a-boss-655fc1f1543b, SSRF
 - https://medium.com/@omaidfaizyar/my-weirdest-bug-bounty-getting-pii-from-o365-b4477f4739e, Subdomain-takeover
@@ -3209,7 +3205,6 @@
 - https://medium.com/@nuraalamdipu/union-based-sql-injection-write-up-a-private-company-site-273f89a49ed9, SQL-injection
 - https://www.josipfranjkovic.com/blog/facebook-friendlist-paymentcard-leak, Information-disclosure
 - https://s1gnalcha0s.github.io/dspl/2018/03/07/Stored-XSS-and-SSRF-Google.html, Stored-XSS
-- https://medium.com/bugbountywriteup/bugbounty-how-i-could-book-cab-using-your-wallet-money-in-indias-largest-auto-transportation-e0c4252ca1a3, OTP-bypass
 - https://medium.com/bug-bounty-hunting/how-i-found-a-surprising-xss-vulnerability-on-oracle-netsuite-2d48b7fcf0c8, XSS
 - https://www.seekurity.com/blog/general/the-2-5mins-or-2-5k-hawk-eye-bug-a-facebook-pages-admins-disclosure-vulnerability/, Information-disclosure
 - https://infosecwriteups.com/how-i-hacked-into-a-bugcrowd-public-program-fcfdd4fb1b69, RCE

@@ -154,3 +154,4 @@
 - https://infosecwriteups.com/how-i-was-able-to-bypass-cloudflare-for-xss-e94cd827a5d6
 - https://medium.com/@Skylinearafat/how-outdated-jira-instances-suffers-from-multiple-security-vulnerabilities-6a88c45e9ec6
 - https://research.securitum.com/xss-in-amp4email-dom-clobbering/
+- https://medium.com/@ashketchum/how-i-earned-1750-at-shopify-bug-bounty-program-ca7821990d08

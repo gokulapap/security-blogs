@@ -5,3 +5,4 @@
 - https://www.reversemode.com/2022/06/de-anonymization-attacks-against-proton.html
 - https://sick.codes/sick-2021-109/
 - https://fingerprint.com/blog/apple-macos-mdns-brute-force/
+- https://wojciechregula.blog/post/play-the-music-and-bypass-tcc-aka-cve-2020-29621/
