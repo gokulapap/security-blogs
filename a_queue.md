@@ -837,7 +837,6 @@
 - https://medium.com/@nanwinata/old-rce-worth-3362-1af0cd70c459, RCE
 - https://blog.assetnote.io/2022/10/28/exploiting-static-site-generators/, SSRF
 - https://0xm5awy.medium.com/how-i-was-able-to-get-free-money-via-sending-negative-tokens-1ed2e0e710e0, Logic-flaw
-- https://www.zscaler.com/blogs/security-research/technical-analysis-windows-clfs-zero-day-vulnerability-cve-2022-37969-part, Local-Privilege-Escalation
 - https://octagon.net/blog/2022/10/28/juniper-sslvpn-junos-rce-and-multiple-vulnerabilities/, RCE
 - https://medium.com/@nanwinata/rce-docker-api-but-11ff70825935, RCE
 - https://sensepost.com/blog/2022/abusing-windows-tokens-to-compromise-active-directory-without-touching-lsass/, Local-Privilege-Escalation
@@ -1012,7 +1011,6 @@
 - https://blog.sonarsource.com/securing-developer-tools-argument-injection-in-vscode/, Argument-injection
 - https://redrays.io/cve-2020-2733-jd-edwards/, Information-disclosure
 - https://whereisk0shl.top/post/break-me-out-of-sandbox-in-old-pipe-cve-2022-22715-windows-dirty-pipe, Local-Privilege-Escalation
-- https://www.benthamsgaze.org/2022/08/22/vulnerability-in-linux-containers-investigation-and-mitigation/, Local-Privilege-Escalation
 - https://medium.com/@mullangisashank/how-a-port-scan-got-me-nokia-hall-of-fame-6f9b65e920e3, Missing-authentication
 - https://hackingguy.medium.com/failed-coding-assessment-to-remote-code-execution-a-case-study-part-1-1778934b3b34, RCE
 - https://www.michaelhorowitz.com/VPNs.on.iOS.are.scam.php, Privacy-issue
@@ -1352,7 +1350,6 @@
 - https://medium.com/@tobydavenn/how-i-was-able-to-read-any-users-confidential-reports-on-a-public-level-domain-1e563857b0b9, IDOR
 - https://prajwoldhungana487.medium.com/demographic-misconfiguration-9359910c6fcf, Logic-flaw
 - https://unit42.paloaltonetworks.com/gke-autopilot-vulnerabilities/, Privilege-escalation
-- https://medium.com/@mrempy/how-i-managed-to-make-a-ddos-attack-by-exploiting-a-companys-service-bug-bounty-bfd25a178b45, DoS
 - https://orca.security/resources/blog/autowarp-microsoft-azure-automation-service-vulnerability/, Cross-tenant-vulnerability
 - https://medium.com/@sandh0t/the-bad-twin-a-peculiar-case-of-jwt-exploitation-scenario-1efa03e891c0, Account-takeover
 - https://infosecwriteups.com/whatsapp-bug-bounty-bypassing-biometric-authentication-using-voip-87548ef7a0ba, Authentication-bypass
@@ -1501,7 +1498,6 @@
 - https://www.p1boom.com/2021/12/accidental-idor-in-elearnsecurity-to.html, IDOR
 - https://pathleax.medium.com/this-is-how-i-was-able-to-see-and-delete-your-private-facebook-portal-photos-a93ed22f875b, IDOR
 - https://infosecwriteups.com/how-i-hacked-yandex-with-ssrf-vulnerability-e19af20ed4d, SSRF
-- https://pawanchhabria.medium.com/how-i-accessed-the-sensitive-document-which-i-had-already-deleted-adbc1e6fbb25, Privacy-issue
 - https://www.varonis.com/blog/box-mfa-bypass-totp/, OTP-bypass
 - https://blog.lightspin.io/aws-sagemaker-notebook-takeover-vulnerability, Self-XSS
 - https://security.googleblog.com/2021/12/exploring-container-security-storage.html, Race-condition
@@ -2115,7 +2111,6 @@
 - https://galnagli.com/DoD_IDOR/, IDOR
 - https://blog.blazeinfosec.com/attack-of-the-clones-github-desktop-remote-code-execution/, RCE
 - https://dhakal0kushal.medium.com/story-of-a-pre-account-takeover-33e3d5b4c33f, Account-takeover
-- https://ruvlol.medium.com/1000-for-open-redirect-via-unknown-technique-675f5815e38a, Open-redirect
 - https://community.disclose.io/t/how-i-found-a-tor-vulnerability-in-brave-browser-reported-it-watched-it-get-patched-got-a-cve-cve-2020-8276-and-a-small-bounty-all-in-one-working-day/65, Information-disclosure
 - https://lokeshdlk77.medium.com/delete-any-photos-in-facebook-832dbe81cdc4, Authorization-flaw
 - https://lokeshdlk77.medium.com/reveal-the-page-admin-that-uploaded-a-video-on-the-page-in-comment-section-9760e4a31453, Information-disclosure

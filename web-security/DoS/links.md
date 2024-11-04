@@ -23,3 +23,4 @@
 - https://medium.com/@NinadMishra/dos-and-bugbounties-a-series-of-dos-attacks-on-hackerone-9c8316e192c9
 - https://research.checkpoint.com/2019/breakingapp-whatsapp-crash-data-loss-bug/
 - https://voidzone.me/cve-2022-29885-apache-tomcat-cluster-service-dos/
+- https://medium.com/@mrempy/how-i-managed-to-make-a-ddos-attack-by-exploiting-a-companys-service-bug-bounty-bfd25a178b45

@@ -41,3 +41,4 @@
 - https://medium.com/@byq/from-open-redirect-to-rce-in-one-week-66a7f73fd082
 - https://medium.com/@abaykandotcom/open-redirect-in-slack-385eb34b7c5f
 - https://medium.com/@protostar0/break-and-bypass-verification-email-ac3359041272
+- https://ruvlol.medium.com/1000-for-open-redirect-via-unknown-technique-675f5815e38a

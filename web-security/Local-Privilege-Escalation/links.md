@@ -45,3 +45,5 @@
 - https://pwn.win/2023/05/08/parallels-escape.html
 - https://breakdev.org/zip-motw-bug-analysis/
 - https://www.x86matthew.com/view_post?id=windows_seagate_lpe
+- https://www.zscaler.com/blogs/security-research/technical-analysis-windows-clfs-zero-day-vulnerability-cve-2022-37969-part
+- https://www.benthamsgaze.org/2022/08/22/vulnerability-in-linux-containers-investigation-and-mitigation/
