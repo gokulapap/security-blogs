@@ -46,3 +46,4 @@
 - https://corben.io/blog/17-11-30-asus-sqli
 - https://blog.securitybreached.org/2018/09/10/sqli-login-bypass-autotraders/
 - https://medium.com/bugbountywriteup/from-sql-injection-to-hall-of-fame-96a08c869acd
+- https://medium.com/@vamshivaran110/my-first-blind-sql-injection-7db4b5e5c66d

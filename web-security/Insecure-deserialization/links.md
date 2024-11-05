@@ -18,3 +18,4 @@
 - https://medium.com/@frycos/searching-for-deserialization-protection-bypasses-in-microsoft-exchange-cve-2022-21969-bfa38f63a62d
 - https://www.synacktiv.com/sites/default/files/2022-11/h2o_multiple_vulnerabilities.pdf
 - https://www.synacktiv.com/en/publications/php-filters-chain-what-is-it-and-how-to-use-it.html
+- https://github.com/httpvoid/writeups/blob/main/Ruby-deserialization-gadget-on-rails.md
