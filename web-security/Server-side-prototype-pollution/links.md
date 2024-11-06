@@ -1,1 +1,2 @@
 - https://portswigger.net/research/server-side-prototype-pollution
+- https://www.intruder.io/research/server-side-prototype-pollution

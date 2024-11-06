@@ -1,0 +1,1 @@
+- https://blog.mozilla.org/attack-and-defense/2020/11/10/firefox-for-android-lan-based-intent-triggering/

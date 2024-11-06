@@ -13,3 +13,4 @@
 - https://muhammad-aamir.medium.com/oauth-misconfiguration-found-in-small-time-window-of-attack-b585afcb94c6
 - https://medium.com/@minometidji/oauth-authentication-misconfiguration-cb43c3b3ec24
 - https://medium.com/oad-earth/bug-or-feature-github-adventure-001-eae9bea48ae8
+- https://medium.com/@soufianehabti/this-is-why-you-shouldnt-trust-your-federated-identity-provider-62160f50d8b2

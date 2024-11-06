@@ -556,7 +556,6 @@
 - https://blog.infiltrateops.io/hacking-apple-two-successful-exploits-and-positive-thoughts-on-their-bug-bounty-program-963efe7518f6, RCE
 - https://decoder.cloud/2023/02/16/eop-via-arbitrary-file-write-overwite-in-group-policy-client-gpsvc-cve-2022-37955/, Local-Privilege-Escalation
 - https://blog.yeswehack.com/talent-development/server-side-prototype-pollution-how-to-detect-and-exploit/, Server-side-prototype-pollution
-- https://www.intruder.io/research/server-side-prototype-pollution, Server-side-prototype-pollution
 - https://www.praetorian.com/blog/azure-b2c-crypto-misuse-and-account-compromise/, Cryptographic-issues
 - https://posts.specterops.io/abusing-azure-app-service-managed-identity-assignments-c3adefccff95, Cloud
 - https://wesecureapp-smm.medium.com/assumed-breach-assessment-case-study-uncovering-wesecureapps-approach-45a512c0bd63, Internal-pentest
@@ -1623,7 +1622,6 @@
 - https://mikekitckchan.medium.com/from-google-dorking-to-information-disclosure-5da4f1d771e5, Information-disclosure
 - https://medium.com/@sarveshblogs/a-small-tale-of-account-takeover-2eba07a6ef5f, IDOR
 - https://pwnsauc3.medium.com/weaponizing-reflected-xss-to-account-takeover-ae8aeea7aca3, XSS
-- https://medium.com/@soufianehabti/this-is-why-you-shouldnt-trust-your-federated-identity-provider-62160f50d8b2, OAuth
 - https://asterfiester.medium.com/how-i-was-able-to-send-sms-from-google-to-anyone-google-vulnerability-3277ea0cc9d1, Content-spoofing
 - https://s3c.medium.com/how-i-hacked-world-wide-tiktok-users-24e794d310d2, IDOR
 - https://www.netspi.com/blog/technical/cloud-penetration-testing/escalating-azure-privileges-with-the-log-analystics-contributor-role/, Logic-flaw
@@ -1944,7 +1942,6 @@
 - https://web.archive.org/web/20210227092343/https://tommysuriel.medium.com/csrf-through-url-with-tag-parameter-c8ef585bded3, CSRF
 - https://web-in-security.blogspot.com/2021/02/security-and-privacy-of-social-logins-part2.html, DOM-XSS
 - https://zdresearch.com/rce-on-a-laravel-private-program/, RCE
-- https://neroli.medium.com/is-math-random-safe-from-missing-rate-limit-to-bypass-2fa-and-possible-sqli-2a4ea66f82c5, Race-condition
 - https://ashutoshmishra00x0.medium.com/account-takeover-via-response-manipulation-worth-1800-ffb242cc55c9, Authentication-bypass
 - https://thevillagehacker.medium.com/account-take-over-by-response-manipulation-e1293ee51e9a, Authentication-bypass
 - https://ysamm.com/?p=640, Information-disclosure
@@ -2103,7 +2100,6 @@
 - https://blog.oversecured.com/Evernote-Universal-XSS-theft-of-all-cookies-from-all-sites-and-more/, Universal-XSS
 - https://nechudav.blogspot.com/2020/11/31k-ssrf-in-google-cloud-monitoring.html, SSRF
 - https://medium.com/bugbountywriteup/chaining-password-reset-link-poisoning-idor-account-information-leakage-to-achieve-account-bb5e0e400745, HTTP-header-injection
-- https://blog.mozilla.org/attack-and-defense/2020/11/10/firefox-for-android-lan-based-intent-triggering/, Insecure-intent
 - https://galnagli.com/DoD_IDOR/, IDOR
 - https://blog.blazeinfosec.com/attack-of-the-clones-github-desktop-remote-code-execution/, RCE
 - https://dhakal0kushal.medium.com/story-of-a-pre-account-takeover-33e3d5b4c33f, Account-takeover
@@ -2596,7 +2592,6 @@
 - https://medium.com/@0xBarakat/broken-session-permanent-access-to-facebook-users-cfed68684113, Authentication-bypass
 - https://philippeharewood.com/disclose-the-owner-of-a-recruiting-manager-in-jobs-beta/, Information-disclosure
 - https://medium.com/@abidafahd/how-i-was-able-to-hunt-a-rare-bug-in-a-private-program-caec0ebaef7f, Missing-authentication
-- https://medium.com/@abhishake100/my-first-bug-500-9222998e6249, No-valid-SPF-records
 - https://medium.com/bugbountywriteup/bypassing-the-fix-of-my-previous-instagram-bug-49ece4ea7e1d, Authorization-flaw
 - https://medium.com/@Rising_Hunter/privilege-escalation-with-simple-recon-da4e50fea9e5, Privilege-escalation
 - https://medium.com/@himanshu_pdy/ldap-admin-account-bypassed-2cc8b264d66e, LDAP-injection
