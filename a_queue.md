@@ -721,7 +721,6 @@
 - https://0xmayankgarg.medium.com/pii-data-exfiltration-within-minutes-f06d4587d201, Information-disclosure
 - https://medium.com/@Iam5345/how-i-hacked-the-dutch-government-and-got-the-lousy-t-shirt-81fd0a0dd84d, XSS
 - https://hopesamples.blogspot.com/2022/12/idor-allows-to-assign-deleted-tasks-to.html, IDOR
-- https://hopesamples.blogspot.com/2022/12/source-code-leakage-due-to-exposed.html, Source-code-disclosure
 - https://hopesamples.blogspot.com/2022/12/user-names-and-email-addresses-are.html, Information-disclosure
 - https://medium.com/@mrd17x/scoring-for-a-very-simple-bug-you-dont-always-need-proxy-tools-872a832f83ea, IDOR
 - https://research.nccgroup.com/2022/12/09/public-report-vpn-by-google-one-security-assessment/, Android
@@ -1331,7 +1330,6 @@
 - https://github.com/justinsteven/advisories/blob/main/2022_git_buried_bare_repos_and_fsmonitor_various_abuses.md, RCE
 - https://research.nccgroup.com/2022/03/15/technical-advisory-apple-macos-xar-arbitrary-file-write-cve-2022-22582/, Arbitrary-file-write
 - https://blog.haboob.sa/blog/adobe-reader-cjk-codecs-memory-disclosure-vulnerability, Memory-disclosure
-- http://www.firstsight.me/2022/03/from-recon-via-censys-and-dnsdumpster-to-getting-p1-by-login-using-weak-password-password/, WAF-bypass
 - https://web.archive.org/web/20220315141258/https://eslam3kl.medium.com/sql-injection-at-spotify-d19e0861ddf0, SQL-injection
 - https://medium.com/@tobydavenn/how-i-made-the-bbc-hall-of-fame-3-times-2c816fa515d7, Information-disclosure
 - https://palant.info/2022/03/14/party-time-injecting-code-into-teleparty-extension/, HTML-injection
@@ -1348,7 +1346,6 @@
 - https://orca.security/resources/blog/autowarp-microsoft-azure-automation-service-vulnerability/, Cross-tenant-vulnerability
 - https://medium.com/@sandh0t/the-bad-twin-a-peculiar-case-of-jwt-exploitation-scenario-1efa03e891c0, Account-takeover
 - https://infosecwriteups.com/whatsapp-bug-bounty-bypassing-biometric-authentication-using-voip-87548ef7a0ba, Authentication-bypass
-- https://ysamm.com/?p=742, Account-takeover
 - https://www.rapid7.com/blog/post/2022/03/03/cve-2021-4191-gitlab-graphql-api-user-enumeration-fixed/, Username-enumeration
 - https://medium.com/@nvmeeet/4300-instagram-idor-bug-2022-5386cf492cad, IDOR
 - https://muffsec.com/blog/moodle-2nd-order-sqli/, SQL-injection
@@ -1513,7 +1510,6 @@
 - https://r0.haxors.org/posts?id=26, SQL-injection
 - https://lethanhphuc-pk.medium.com/bugbounty-xss-with-markdown-exploit-fix-on-opensource-1baecebe9645, XSS
 - https://cirius.medium.com/peeping-through-a-web-socket-936ed55a2c31, Cross-Site-Websocket-Hijacking
-- https://monish-basaniwal.medium.com/open-redirect-vulnerability-on-zapier-an-accidental-find-4cbbf029956c, Open-redirect
 - https://hackrzvijay.medium.com/hacking-apple-security-report-system-db84850002fb, Logic-flaw
 - https://blog.dixitaditya.com/2021/11/19/account-takeover-chain.html, Account-takeover
 - https://www.p1boom.com/2021/11/a-story-of-epic-blind-remote-code.html, RCE
@@ -1854,7 +1850,6 @@
 - https://infosecwriteups.com/brave-stealing-your-cookies-remotely-1e09d1184675, Arbitrary-file-read
 - https://davtur19.medium.com/telegram-bug-bounties-xss-privacy-issues-official-bot-exploitation-and-more-5277fa78435, XSS
 - https://parthdeshani.medium.com/got-nice-catch-by-google-5e6a8211371c, OAuth
-- https://privatedrop.github.io, Privacy-issue
 - https://www.lutasecurity.com/post/new-clubhouse-security-vulnerabilities-could-happen-to-any-growing-unicorn, Logic-flaw
 - https://blog.ryotak.me/post/homebrew-security-incident-en/, RCE
 - https://jmrcsnchz.medium.com/playing-with-iframes-bypassing-content-security-policy-987c2f0b8e8a, CSP-bypass

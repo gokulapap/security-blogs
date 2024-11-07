@@ -42,3 +42,4 @@
 - https://medium.com/@abaykandotcom/open-redirect-in-slack-385eb34b7c5f
 - https://medium.com/@protostar0/break-and-bypass-verification-email-ac3359041272
 - https://ruvlol.medium.com/1000-for-open-redirect-via-unknown-technique-675f5815e38a
+- https://monish-basaniwal.medium.com/open-redirect-vulnerability-on-zapier-an-accidental-find-4cbbf029956c

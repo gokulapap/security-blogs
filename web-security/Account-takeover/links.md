@@ -58,3 +58,4 @@
 - https://medium.com/@ambushneupane4/story-of-a-beautiful-account-takeover-869ef61ac6c8
 - https://omar0x01.medium.com/hubspot-full-account-takeover-in-bug-bounty-4e2047914ab5
 - https://web.archive.org/web/20200819113116/https://medium.com/@godofdarkness.msf/account-takeover-using-re-register-bug-bounty-bda8bb2106e6
+- https://ysamm.com/?p=742
