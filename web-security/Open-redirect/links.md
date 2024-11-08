@@ -43,3 +43,4 @@
 - https://medium.com/@protostar0/break-and-bypass-verification-email-ac3359041272
 - https://ruvlol.medium.com/1000-for-open-redirect-via-unknown-technique-675f5815e38a
 - https://monish-basaniwal.medium.com/open-redirect-vulnerability-on-zapier-an-accidental-find-4cbbf029956c
+- https://medium.com/@AvyuktSyrine/my-first-xss-d88ee864df82

@@ -879,7 +879,6 @@
 - https://hacksys.io/blogs/adobe-reader-xfa-ansi-unicode-confusion-information-leak, Memory-corruption
 - https://www.directdefense.com/compromising-a-backup-system-by-iscsi-interface-during-a-routine-penetration-test/, Missing-authentication
 - https://medium.com/@nireshpandian19/the-story-of-a-p5-that-lead-me-to-a-p3-find-3f8a5ea2c6e1, Pre-account-takeover
-- https://blog.aquasec.com/private-packages-disclosed-via-timing-attack-on-npm, Timing-attack
 - https://abdelhameedghazy.medium.com/broken-access-control-leads-to-full-team-takeover-and-privilege-escalation-6f50174f29ce, Broken-Access-Control
 - https://cyberlix.io/breaking-parser-logic-gain-access-to-nginx-plus-api-read-write-upstreams/, Path-traversal
 - https://www.akamai.com/blog/security-research/cold-hard-cache-bypassing-rpc-with-cache-abuse, Privilege-escalation
@@ -911,7 +910,6 @@
 - https://consensys.net/diligence/blog/2022/09/the-forgotten-ipfs-vulnerabilities/, Web3-hacking
 - https://nebuchadnezzar-megolm.github.io, Cryptographic-issues
 - https://www.synack.com/blog/exploits-explained-5-unusual-authentication-bypass-techniques/, Authentication-bypass
-- https://medium.com/@seeu-inspace/two-rces-are-better-than-one-write-up-of-an-interesting-lateral-movement-66a52d42e075, Local-Privilege-Escalation
 - https://webs3c.com/t/from-nothing-to-aws-credentials/220, SSRF
 - https://blog.champtar.fr/VLAN0_LLC_SNAP/, Layer-2-networking-vulnerability
 - https://notmyplate.com/whitepaper/, Information-disclosure
@@ -925,7 +923,6 @@
 - https://infosecwriteups.com/complete-take-over-of-cisco-unified-communications-manager-due-consecutively-misconfigurations-2a1b5ce8bd9a, Security-misconfiguration
 - https://terjanq.medium.com/waf-bypasses-via-0days-d4ef1f212ec, WAF-bypass
 - https://nmochea.medium.com/arbitrary-file-corruption-end-to-end-encrypted-messaging-application-674963dceef8, Insecure-intent
-- https://medium.com/@AvyuktSyrine/my-first-xss-d88ee864df82, Open-redirect
 - https://www.form3.tech/engineering/content/exploiting-distroless-images, Command-injection
 - https://infosecwriteups.com/how-i-found-multiple-sql-injections-in-5-minutes-in-bug-bounty-40155964c498, SQL-injection
 - https://www.trellix.com/en-us/about/newsroom/stories/research/tarfile-exploiting-the-world.html, Path-traversal
@@ -1588,7 +1585,6 @@
 - https://sapt.medium.com/bypassing-403-protection-to-get-pagespeed-admin-access-822fab64c0b3, 403-bypass
 - https://encodedguy.medium.com/600-for-idor-file-or-folder-download-243166452dad, IDOR
 - https://rishuranjanofficial.medium.com/html-injection-in-itunesconnect-apple-com-3f8a898f21ee, HTML-injection
-- https://rohit443.medium.com/privilege-escalation-to-stored-xss-dff01314bc7e, Privilege-escalation
 - https://pentera.io/blog/vscalation-cve-2021-22015-local-privilege-escalation-in-vmware-vcenter-pentera-labs/, Local-Privilege-Escalation
 - https://blog.tint0.com/2021/09/pinging-xmlsec.html, XSLT
 - https://sinsinology.medium.com/expect-the-unexpected-discovering-fresh-zeroday-for-bounty-d074f3175847, Logic-flaw
@@ -1639,7 +1635,6 @@
 - https://infosecwriteups.com/bypassed-and-uploaded-a-sweet-reverse-shell-d15e1bbf5836, Unrestricted-file-upload
 - https://cyberguy0xd1.medium.com/how-i-hacked-bbc-mail-servers-e61bb6faed2d, Information-disclosure
 - https://ysamm.com/?p=708, Account-takeover
-- https://irsl.medium.com/google-cloud-build-under-the-hood-bc00c68ad9de, gRPC
 - https://4bdoz.medium.com/rce-by-code-injection-perl-reverse-shell-a2e90181b10, RCE
 - https://halove23.blogspot.com/2021/09/zdi-21-1053-bypassing-windows-lock.html, Authentication-bypass
 - https://medium.com/pentesternepal/hacking-dutch-government-for-a-lousy-t-shirt-8e1fd1b56deb, IDOR
