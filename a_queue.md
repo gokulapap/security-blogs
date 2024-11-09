@@ -473,7 +473,6 @@
 - https://infosecwriteups.com/anatomy-of-a-reflected-xss-my-discovery-on-a-microsofts-subdomain-7a237aba4392, Reflected-XSS
 - https://princej-76.medium.com/how-i-chained-multiple-high-impact-vulnearbilities-to-create-a-critical-one-476950a3bb9f, Account-takeover
 - https://blog.doyensec.com/2023/03/16/ssrf-remediation-bypass.html, SSRF
-- https://medium.com/@abdulparkar9554/facebook-creator-studio-misconfiguration-348b0ee38c31, Session-expiration-issue
 - https://shahjerry33.medium.com/lfi-an-interesting-tweak-9c5638dbdd1b, LFI
 - https://www.sjoerdlangkemper.nl/2023/03/15/textcube-sql-injection-session-ip-spoofing/, SQL-injection
 - http://blog.sysdum.net/parameter-injection-to-rce, RCE
@@ -576,7 +575,6 @@
 - https://the-deniss.github.io/posts/2023/02/09/elevation-of-privileges-from-everyone-through-avast-av-sandbox-to-system-amppl.html, Local-Privilege-Escalation
 - https://skylightcyber.com/2023/02/09/a-salt-attacking-saltstack/, SSTI
 - https://www.elttam.com/blog/cracking-randomness-in-java/, Cryptographic-issues
-- https://www.trustedsec.com/blog/azure-ad-kerberos-tickets-pivoting-to-the-cloud/, Active-Directory
 - https://www.zerodayinitiative.com/blog/2023/2/6/pwn2owning-two-hosts-at-the-same-time-abusing-inductive-automation-ignitions-custom-deserialization, Insecure-deserialization
 - https://jowin922.medium.com/reflected-xss-on-target-with-tough-waf-waf-bypass-3b7efd1ef2bc, Reflected-XSS
 - https://decoded.avast.io/janvojtesek/dota-2-under-attack-how-a-v8-bug-was-exploited-in-the-game/, V8-JavaScript-engine
@@ -2231,7 +2229,6 @@
 - https://www.r29k.com/articles/bb/csrf, CSRF
 - https://medium.com/@metnew/exploiting-popular-macos-apps-with-a-single-terminal-file-f6c2efdfedaa, MacOS
 - https://tolo7010note.blogspot.com/2020/07/an-unreproducable-bug-due-to-load.html, Open-redirect
-- https://shivangx01b.github.io/2fa_bypass/, MFA-bypass
 - https://medium.com/@airlanggamurthi/obtained-a-bunch-of-sensitive-data-in-just-few-steps-hacking-1a474200a8c2, AWS-misconfiguration
 - https://medium.com/bugbountywriteup/dns-rebinding-the-treacherous-attack-it-can-be-b367c61b4372, DNS-rebinding
 - https://medium.com/@vneelam609/5000-account-takeover-bf7749746981, Account-takeover
@@ -2535,7 +2532,6 @@
 - https://medium.com/nassec-cybersecurity-writeups/bypassing-brand-collabs-manager-eligibility-7d26523da816, Authorization-flaw
 - https://smaranchand.com.np/2019/12/subdomain-takeover-via-pantheon/, Subdomain-takeover
 - https://jinone.github.io/bugbounty-a-dom-xss/, DOM-XSS
-- https://leucosite.com/Edge-Chromium-EoP-RCE/, XSS
 - https://web.archive.org/web/20210116173906/https://strynx.org/insecure-crypto-code-execution/, SQL-injection
 - https://www.indoappsec.in/2019/12/airbnb-steal-earning-of-airbnb-hosts-by.html, IDOR
 - https://jinone.github.io/bugbounty-a-dom-xss/, DOM-XSS
@@ -2609,7 +2605,6 @@
 - https://wwws.nightwatchcybersecurity.com/2019/10/24/nfc-beaming-bypasses-security-controls-in-android-cve-2019-2114/, NFC
 - https://cpdos.org, DoS
 - https://medium.com/@danangtriatmaja/bug-bounty-flaw-in-authentication-get-hall-of-fame-google-6196726ee5b9, Authentication-flaw
-- https://gauravnarwani.com/escalating-privileges-like-a-pro/, Privilege-escalation
 - https://philippeharewood.com/1-800-flowers-credentials-and-message-log-leak-via-facebook-com-facebook/, AWS-misconfiguration
 - https://medium.com/bugbountywriteup/how-i-was-able-to-bypass-otp-token-requirement-in-razer-the-story-of-a-critical-bug-fc63a94ad572, OTP-bypass
 - https://medium.com/@manralhemant10/how-i-bypassed-2-factor-authentication-899750421331, MFA-bypass

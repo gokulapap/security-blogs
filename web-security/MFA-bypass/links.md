@@ -12,3 +12,4 @@
 - https://falcnix.medium.com/threat-evasion-for-aws-multifactorauthpresent-condition-using-cloudshell-8296b34ecad4
 - https://medium.com/@sharp488/2fa-bypass-via-google-identity-oauth-login-6c991ac837af
 - https://medium.com/@leviwof/bug-bounty-failsx101-4-b601616fbe9f
+- https://shivangx01b.github.io/2fa_bypass/

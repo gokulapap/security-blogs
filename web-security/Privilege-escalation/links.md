@@ -26,3 +26,4 @@
 - https://medium.com/@imranparray/privilege-escalation-on-private-program-a2a5548cde09
 - https://www.legitsecurity.com/blog/github-privilege-escalation-vulnerability-0
 - https://rohit443.medium.com/privilege-escalation-to-stored-xss-dff01314bc7e
+- https://gauravnarwani.com/escalating-privileges-like-a-pro/

@@ -156,3 +156,4 @@
 - https://research.securitum.com/xss-in-amp4email-dom-clobbering/
 - https://medium.com/@ashketchum/how-i-earned-1750-at-shopify-bug-bounty-program-ca7821990d08
 - https://hacklido.com/d/87-reflected-xss-using-double-encoding
+- https://leucosite.com/Edge-Chromium-EoP-RCE/

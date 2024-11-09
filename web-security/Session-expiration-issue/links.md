@@ -1,3 +1,4 @@
 - https://medium.com/@thedarkwayg/bypass-authentication-1bfab09332fe
 - https://medium.com/@zer0d/how-i-found-3-bug-bounties-in-a-day-c82fe023716e
 - https://medium.com/@evilboyajay/session-expiration-bypass-in-facebook-creator-app-b4f65cc64ce4
+- https://medium.com/@abdulparkar9554/facebook-creator-studio-misconfiguration-348b0ee38c31
