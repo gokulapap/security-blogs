@@ -157,3 +157,4 @@
 - https://medium.com/@ashketchum/how-i-earned-1750-at-shopify-bug-bounty-program-ca7821990d08
 - https://hacklido.com/d/87-reflected-xss-using-double-encoding
 - https://leucosite.com/Edge-Chromium-EoP-RCE/
+- https://moustadif.medium.com/how-i-bypassed-reflected-xss-in-well-known-platform-274c07f97674

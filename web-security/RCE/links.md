@@ -155,3 +155,5 @@
 - https://www.synack.com/blog/exploits-explained-java-jmxs-exploitation-problems-and-resolutions/
 - https://octagon.net/blog/2022/01/22/cve-2021-45467-cwp-centos-web-panel-preauth-rce/
 - https://medium.com/bugbountywriteup/latex-to-rce-private-bug-bounty-program-6a0b5b33d26a
+- https://leucosite.com/Microsoft-Edge-RCE/
+- https://thinkloveshare.com/hacking/rce_on_spip_and_root_me/
