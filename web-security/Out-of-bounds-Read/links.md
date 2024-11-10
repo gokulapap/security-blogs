@@ -1,2 +1,3 @@
 - https://pwning.systems/posts/easy-apple-kernel-bug/
 - https://www.trellix.com/en-us/about/newsroom/stories/research/the-art-of-information-disclosure.html
+- https://www.rapid7.com/blog/post/2023/06/22/multiple-vulnerabilities-in-fortra-globalscape-eft-administration-server-fixed/

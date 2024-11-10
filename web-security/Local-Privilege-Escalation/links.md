@@ -49,3 +49,4 @@
 - https://www.benthamsgaze.org/2022/08/22/vulnerability-in-linux-containers-investigation-and-mitigation/
 - https://medium.com/@seeu-inspace/two-rces-are-better-than-one-write-up-of-an-interesting-lateral-movement-66a52d42e075
 - https://jhftss.github.io/CVE-2023-23525-Get-Root-via-A-Fake-Installer/
+- https://darrenmartyn.ie/2021/10/25/zimbra-nginx-local-root-exploit/

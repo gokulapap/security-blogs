@@ -266,7 +266,6 @@
 - https://medium.com/@kushjain0107/one-mistake-three-bugs-comprehensive-android-pentesting-a8fc68e36af5, Android
 - https://github.com/pedrib/PoC/blob/master/advisories/ManageEngine/adselfpwnplus/adselfpwnplus.md, Authentication-bypass
 - https://medium.com/@0xnaeem/how-i-found-a-sql-injection-bug-in-using-my-cellphone-5b5193fdc314, SQL-injection
-- https://www.rapid7.com/blog/post/2023/06/22/multiple-vulnerabilities-in-fortra-globalscape-eft-administration-server-fixed/, Out-of-bounds-Read
 - https://octa-mihail.medium.com/my-first-bounty-on-synack-red-team-4ef53329c960, Stored-XSS
 - https://medium.com/@elsayedmohammed/how-i-hacked-nasa-and-get-8-bugs-e5cd397a6af9, Open-redirect
 - https://www.gosecure.net/blog/2023/06/21/aws-waf-clients-left-vulnerable-to-sql-injection-due-to-unorthodox-mssql-design-choice/, SQL-injection
@@ -1543,7 +1542,6 @@
 - https://blog.sonarsource.com/gocd-pre-auth-pipeline-takeover, Broken-authentication
 - https://web.archive.org/web/20211216032639/https://xelkomy.medium.com/easy-ssrf-from-wayback-machine-edf946486120, SSRF
 - https://darrenmartyn.ie/2021/10/27/zimbra-zmslapd-local-root-exploit/, Local-Privilege-Escalation
-- https://darrenmartyn.ie/2021/10/25/zimbra-nginx-local-root-exploit/, Local-Privilege-Escalation
 - https://r0ckinxj3.wordpress.com/2021/10/24/a-7500-google-sites-idor/, IDOR
 - https://gauravnarwani.com/account-takeover-via-improper-input-validation/, OAuth
 - https://dhiyaneshgeek.github.io/web/security/2021/10/23/how-i-was-able-to-revoke-your-instagram-2fa/, Bruteforce
@@ -1836,7 +1834,6 @@
 - https://r29k.com/articles/bb/ato, Open-redirect
 - https://wwws.nightwatchcybersecurity.com/2021/04/25/supply-chain-attacks-via-github-com-releases/, Logic-flaw
 - https://mrsinister1501.medium.com/how-i-found-cross-site-scripting-reflected-on-more-than-300-systems-81d8118d9de5, Reflected-XSS
-- https://infosecwriteups.com/rce-via-internal-access-to-adminer-database-management-critical-d3dc2a1d392a, RCE
 - https://notifybugme.medium.com/aws-internal-metadata-accessed-through-ssrf-by-chaining-an-open-redirect-bug-c4b0e4838dc, SSRF
 - https://infosecwriteups.com/brave-stealing-your-cookies-remotely-1e09d1184675, Arbitrary-file-read
 - https://davtur19.medium.com/telegram-bug-bounties-xss-privacy-issues-official-bot-exploitation-and-more-5277fa78435, XSS
@@ -2119,7 +2116,6 @@
 - https://web.archive.org/web/20211020083928/https://medium.com/@rahulnaidu_92192/unauthorized-access-to-all-the-users-account-c087511fe42a, Account-takeover
 - https://blog.dixitaditya.com/leveraging-xss-to-read-internal-files/, XSS
 - https://medium.com/@parasarora06/cve-2018-5230-jira-cross-site-scripting-59ec96b3d75f, Reflected-XSS
-- https://medium.com/@sechunter/ato-via-host-header-poisoning-dc5c29d2fd0d, Host-header-injection
 - https://samcurry.net/hacking-apple/, RCE
 - https://praseudo.com/sensitive-info-leak-in-curve-app-bug-bounty/, Information-disclosure
 - https://www.mcafee.com/blogs/other-blogs/mcafee-labs/our-experiences-participating-in-microsofts-azure-sphere-bounty-program/, Local-privilege-escalation
@@ -3244,7 +3240,6 @@
 - https://blog.intothesymmetry.com/2017/10/slack-saml-authentication-bypass.html, Authentication-bypass
 - https://medium.com/@th3g3nt3l/how-i-found-an-ssrf-in-yahoo-guesthouse-recon-wins-8722672e41d4, SSRF
 - https://kciredor.com/taking-over-every-ad-on-olx-automated-an-idor-story.html, IDOR
-- https://medium.com/@neerajedwards/reading-internal-files-using-ssrf-vulnerability-703c5706eefb, SSRF
 - https://web.archive.org/web/20180704183048/http://stamone-bug-bounty.blogspot.com/2017/10/dom-xss-auth_14.html, DOM-XSS
 - https://medium.com/bugbountywriteup/how-i-was-able-to-see-someones-all-private-files-with-a-single-file-share-link-through-atom-feed-7cde46d7e84d, Information-disclosure
 - https://blog.securitybreached.org/2017/10/10/exploiting-insecure-cross-origin-resource-sharing-cors-api-artsy-net, CORS-misconfiguration
