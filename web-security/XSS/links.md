@@ -158,3 +158,5 @@
 - https://hacklido.com/d/87-reflected-xss-using-double-encoding
 - https://leucosite.com/Edge-Chromium-EoP-RCE/
 - https://moustadif.medium.com/how-i-bypassed-reflected-xss-in-well-known-platform-274c07f97674
+- https://www.kumar.ninja/2018/09/xss-surveydropboxcom.html
+- https://www.sonarsource.com/blog/odoo-get-your-content-type-right-or-else/
