@@ -252,7 +252,6 @@
 - https://blog.assetnote.io/2023/06/29/binary-reversing-citrix-xss/, Reflected-XSS
 - https://medium.com/@ahmedelmorsy312/weakness-of-integration-bce1520ba672, Logic-flaw
 - https://www.zerodayinitiative.com/blog/2023/6/29/cve-2023-20864-remote-code-execution-in-vmware-aria-operations-for-logs, RCE
-- https://www.mdsec.co.uk/2023/06/cve-2023-26258-remote-code-execution-in-arcserve-udp-backup/, RCE
 - https://www.securityjoes.com/post/process-mockingjay-echoing-rwx-in-userland-to-achieve-code-execution, DLL-injection
 - https://bharat-singh.medium.com/how-bac-broken-access-control-got-me-a-pre-account-takeover-2481931b7b3a, Pre-account-takeover
 - https://www.sonarsource.com/blog/why-orms-and-prepared-statements-cant-always-win/, SQL-injection
@@ -585,7 +584,6 @@
 - https://medium.com/@2os5/easy-account-takeover-on-dell-subdomain-6297460741fd, Password-reset
 - https://bloggerrando.blogspot.com/2023/02/06-2.html, Logic-flaw
 - https://security.lauritz-holtmann.de/post/xss-ato-gadgets/, SSO
-- https://medium.com/@jawadmahdi/a-weird-bug-that-leaked-pii-9e2e91a8b8c8, Information-disclosure
 - https://www.synacktiv.com/sites/default/files/2023-02/Synacktiv-Advisory-Izanami-CVE-2023-22495.pdf, Authentication-bypass
 - https://medium.com/@rezaduty/play-with-google-twitter-apple-dell-a90777faa779, XSS
 - https://molx32.github.io/blog/2023/Azure-access-panel-lack-of-access-control/, Azure-AD
@@ -1622,7 +1620,6 @@
 - https://websecblog.com/vulns/google-threadit/, DOM-XSS
 - https://apapedulimu.click/story-of-idor-on-google-product/, IDOR
 - https://medium.com/@katikitala.sushmitha078/how-i-can-take-over-any-users-account-with-their-mobile-number-6d820a364cad, Account-takeover
-- https://infosecwriteups.com/eye-for-an-eye-unusual-single-click-jwt-token-takeover-2e58f88cf44d, Open-redirect
 - https://shahjerry33.medium.com/business-logic-errors-must-vote-68f642b60fb7, Logic-flaw
 - https://infosecwriteups.com/bypassed-and-uploaded-a-sweet-reverse-shell-d15e1bbf5836, Unrestricted-file-upload
 - https://cyberguy0xd1.medium.com/how-i-hacked-bbc-mail-servers-e61bb6faed2d, Information-disclosure
@@ -3096,7 +3093,6 @@
 - https://pulsesecurity.co.nz/advisories/ManageEngine-OpManager-RCE, RCE
 - https://medium.com/bugbountywriteup/responsible-disclosure-how-i-could-have-booked-movie-tickets-through-other-user-accounts-2db26a037b4c, Password-reset
 - https://medium.com/@jonathanbouman/reflected-client-xss-amazon-com-7b0d3cec787, Reflected-XSS
-- https://medium.com/@khaled.hassan/the-2-5-btc-stored-xss-f2f9393417f2, Stored-XSS
 - https://medium.com/@black_b/vulnerability-netflix-cross-site-scripting-xss-d44010142e2c, Reflected-XSS
 - https://medium.com/@jonathanbouman/unvalidated-open-redirect-bol-com-b270151380e6, Open-redirect
 - https://medium.com/@khaled.hassan/full-account-takeover-via-reset-password-function-8b6ef15f346f, IDOR
@@ -3214,7 +3210,6 @@
 - https://corben.io/blog/17-11-27-tricky-CORS, CORS-misconfiguration
 - https://blog.darabi.me/2017/11/image-removal-vulnerability-in-facebook.html, IDOR
 - https://medium.com/@malcolmx0x/story-of-bypassing-referer-header-to-make-open-redirect-94f938b9d032, Open-redirect
-- https://blog.securitybreached.org/2017/11/20/uber-wildcard-subdomain-takeover, Subdomain-takeover
 - https://medium.com/@honcbb/amazon-bypass-open-redirect-12609c879dff, Open-redirect
 - https://medium.com/@honcbb/vmware-official-vcdx-reflected-xss-90e69a3c35e1, Reflected-XSS
 - https://medium.com/bugbountywriteup/account-take-over-vulnerability-in-google-acquisition-famebit-e93b1a0a7af9, CSRF

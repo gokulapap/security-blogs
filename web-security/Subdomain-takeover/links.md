@@ -33,3 +33,4 @@
 - https://fireshellsecurity.team/mining-takeovers-for-fun-and-profit/
 - https://medium.com/@alirazzaq/subdomain-takeover-worth-200-ed73f0a58ffe
 - https://web.archive.org/web/20201123204430/https://www.mohamedharon.com/2020/06/all-intercomhelp-subdomains-vulnerable.html
+- https://blog.securitybreached.org/2017/11/20/uber-wildcard-subdomain-takeover

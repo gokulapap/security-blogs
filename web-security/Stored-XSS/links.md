@@ -59,3 +59,4 @@
 - https://apapedulimu.click/shopify-com-blind-stored-xss-via-staff-name/
 - https://www.pmnh.site/post/witeup_lhe_graphql_stored_xss/
 - https://sites.google.com/securifyinc.com/vrp-writeups/hire-with-google/xsses
+- https://medium.com/@khaled.hassan/the-2-5-btc-stored-xss-f2f9393417f2

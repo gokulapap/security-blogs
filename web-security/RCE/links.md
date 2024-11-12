@@ -158,3 +158,4 @@
 - https://leucosite.com/Microsoft-Edge-RCE/
 - https://thinkloveshare.com/hacking/rce_on_spip_and_root_me/
 - https://infosecwriteups.com/rce-via-internal-access-to-adminer-database-management-critical-d3dc2a1d392a
+- https://www.mdsec.co.uk/2023/06/cve-2023-26258-remote-code-execution-in-arcserve-udp-backup/
