@@ -1,0 +1,1 @@
+- https://medium.com/@darshanstanislaus/account-takeover-by-html-injection-d02bbfb43845

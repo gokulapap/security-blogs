@@ -162,7 +162,6 @@
 - https://medium.com/@zaidanr/exploiting-exposed-git-directory-without-gittools-7d3764dd3af6, misconfig
 - https://medium.com/@nmblog2135/you-can-earn-more-than-1000-if-you-know-this-vulnerability-open-redirect-vulnerabilities-b9170e88adba, open-redirection
 - https://medium.com/@Rend_/sqli-next-level-5b1145b83c79, sql-injection
-- https://medium.com/@darshanstanislaus/account-takeover-by-html-injection-d02bbfb43845, html-injection
 - https://medium.com/@sghosh2402/demystifying-insecure-deserialization-in-php-684cab9c4d24, deserialization
 - https://medium.com/@v3d/full-account-takeover-via-password-reset-flaw-my-first-blog-10d6e11df2e0, reset-password
 - https://medium.com/@skarbala.martin/graphql-101-challenge-e65e2c773ac4, graphql
@@ -382,7 +381,6 @@
 - https://strike.sh/blog/business-bugs-approach, Logic-flaw
 - https://www.bitsight.com/blog/new-high-severity-vulnerability-cve-2023-29552-discovered-service-location-protocol-slp, DoS
 - https://www.horizon3.ai/cve-2023-27524-insecure-default-configuration-in-apache-superset-leads-to-remote-code-execution/, RCE
-- https://www.securifera.com/blog/2023/04/24/vocera_report_server_pwnage/, RCE
 - https://medium.com/cyesec/no-portals-needed-79995d8f7e62, MFA-bypass
 - https://medium.com/@mmaulanaabdullah/how-careless-default-credentials-impact-to-massive-account-takeover-be6bfc85119a, Authentication-bypass
 - https://blog.ryotak.net/post/github-actions-staff-access-token-en/, CICD
@@ -1509,7 +1507,6 @@
 - https://hector0x.medium.com/dos-attack-in-yahoo-how-i-was-able-to-deny-new-users-from-service-6b222e744e61, DoS
 - https://piyushshuklabug.medium.com/how-i-found-p1-bug-due-to-sensitive-data-exposer-and-earn-99ebcb342bcd, Information-disclosure
 - https://threatnix.io/blog/exploiting-csp-in-webkit-to-break-authentication-authorization/, Information-disclosure
-- https://securityflow.io/impact-of-an-insecure-deep-link/, Insecure-deeplink
 - https://secureitmania.medium.com/never-leave-this-tip-while-you-hunting-broken-access-control-f63c00b1e96a, Broken-Access-Control
 - https://medium.com/@yashhunter772/how-i-got-200-in-30-seconds-3dd742f60186, Information-disclosure
 - https://hector0x.medium.com/from-url-dumps-digging-to-idor-bac-massive-phishing-in-udemy-6fa7f94ef256, Broken-Access-Control
@@ -1978,7 +1975,6 @@
 - https://medium.com/realmodelabs/kindledrip-from-your-kindles-email-address-to-using-your-credit-card-bb93dbfb2a08, RCE
 - https://systemweakness.com/story-behind-sweet-ssrf-40c705f13053, SSRF
 - https://r4id3n.medium.com/ssrf-exploitation-in-spreedsheet-to-pdf-converter-2c7eacdac781, SSRF
-- https://inakcf.medium.com/open-redirect-in-email-c658c248eec1, Open-redirect
 - https://sunilyedla.medium.com/simple-sweet-bypassing-email-update-restriction-to-change-emails-of-team-members-6ce5770e7929, Logic-flaw
 - https://bugs.xdavidhu.me/google/2021/01/18/the-embedded-youtube-player-told-me-what-you-were-watching-and-more/, Information-disclosure
 - https://kunalkhubchandani.medium.com/how-i-was-rewarded-a-1000-bounty-after-abusing-file-upload-functionality-to-stored-xss-945a40ac6f94, Unrestricted-file-upload
@@ -2446,7 +2442,6 @@
 - https://medium.com/a-bugz-life/exploiting-an-ssrf-trials-and-tribulations-14c5d8dbd69a, SSRF
 - https://medium.com/@ducanhbui/manageengine-servicedesk-plus-arbitrary-file-upload-4bab0bd00425, Arbitrary-file-upload
 - https://medium.com/@rajeshranjan457/how-i-csrfd-my-first-bounty-a62b593d3f4d, CSRF
-- https://medium.com/@St00rm/sql-injection-via-stopping-the-redirection-to-a-login-page-52b0792d5592, SQL-injection
 - https://medium.com/@michan001/ssrf-on-pdf-generator-36b81e16d67b, SSRF
 - https://alexbakker.me/post/mysterious-google-titan-m-bug-cve-2019-9465.html, Cryptographic-issues
 - https://medium.com/@bhaveshthakur2015/account-hijack-using-authorization-bypass-which-made-me-richer-by-ba9dace72682, Account-takeover

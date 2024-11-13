@@ -3,3 +3,4 @@
 - https://ash-king.co.uk/blog/backdoor-android-facebook
 - https://servicenger.com/mobile/android/access-twitter-blue-features-using-deeplink-without-a-paid-subscription/
 - https://nmochea.medium.com/shopping-app-deeplink-arbitrary-urls-91a143a45c11
+- https://securityflow.io/impact-of-an-insecure-deep-link/

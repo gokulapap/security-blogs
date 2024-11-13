@@ -47,3 +47,4 @@
 - https://blog.securitybreached.org/2018/09/10/sqli-login-bypass-autotraders/
 - https://medium.com/bugbountywriteup/from-sql-injection-to-hall-of-fame-96a08c869acd
 - https://medium.com/@vamshivaran110/my-first-blind-sql-injection-7db4b5e5c66d
+- https://medium.com/@St00rm/sql-injection-via-stopping-the-redirection-to-a-login-page-52b0792d5592

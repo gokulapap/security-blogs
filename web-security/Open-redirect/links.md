@@ -45,3 +45,4 @@
 - https://monish-basaniwal.medium.com/open-redirect-vulnerability-on-zapier-an-accidental-find-4cbbf029956c
 - https://medium.com/@AvyuktSyrine/my-first-xss-d88ee864df82
 - https://infosecwriteups.com/eye-for-an-eye-unusual-single-click-jwt-token-takeover-2e58f88cf44d
+- https://inakcf.medium.com/open-redirect-in-email-c658c248eec1
