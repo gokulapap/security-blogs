@@ -1416,7 +1416,6 @@
 - https://medium.com/@robert0/how-i-found-broken-access-control-through-out-of-sync-setup-and-got-1000-9143fc5febdd, Broken-Access-Control
 - https://0xkasper.com/articles/moodle-sql-injection-broken-access-control.html, SQL-injection
 - https://hulkvision.github.io/blog/post1/, RCE
-- https://www.bitcrack.net/pwning-the-portal-from-database-dump-to-session-hijacking/, SQL-injection
 - https://www.cyberark.com/resources/threat-research-blog/attacking-rdp-from-inside, RCE
 - https://sa1tama0.medium.com/cross-origin-resource-sharing-cors-misconfiguration-leads-to-users-pii-leaks-b31fd3246e64, CORS-misconfiguration
 - https://haxolot.com/posts/2022/moodle_pre_auth_shibboleth_rce_part2/, Session-hijacking
@@ -1505,7 +1504,6 @@
 - https://hector0x.medium.com/dos-attack-in-yahoo-how-i-was-able-to-deny-new-users-from-service-6b222e744e61, DoS
 - https://hector0x.medium.com/broken-authentication-through-referral-code-25cd0e8bccc2, Authentication-flaw
 - https://hector0x.medium.com/dos-attack-in-yahoo-how-i-was-able-to-deny-new-users-from-service-6b222e744e61, DoS
-- https://piyushshuklabug.medium.com/how-i-found-p1-bug-due-to-sensitive-data-exposer-and-earn-99ebcb342bcd, Information-disclosure
 - https://threatnix.io/blog/exploiting-csp-in-webkit-to-break-authentication-authorization/, Information-disclosure
 - https://secureitmania.medium.com/never-leave-this-tip-while-you-hunting-broken-access-control-f63c00b1e96a, Broken-Access-Control
 - https://medium.com/@yashhunter772/how-i-got-200-in-30-seconds-3dd742f60186, Information-disclosure
@@ -1678,7 +1676,6 @@
 - https://coffeejunkie.me/Blind-XXE-Port-Scanning/, XXE
 - https://coffeejunkie.me/Multi-Domain-DOM-Cross-Site-Scripting/, DOM-XSS
 - https://medium.com/pentesternepal/the-journey-from-google-honorable-mention-to-hall-of-fame-f62d9d5882ea, Referer-leakage
-- https://philippeharewood.com/missing-permission-check-for-facebook-gaming-community-invites/, Information-disclosure
 - https://medium.com/@mumeido/from-hobby-to-hacking-5d8befb3adde, Unrestricted-file-upload
 - https://medium.com/@muhammadsholikhin/facebook-vulnerability-expose-group-member-3000-cca809a53f6b, IDOR
 - https://blog.niksthehacker.com/xxe-in-public-transport-ticketing-mobile-app-81ae245c01a1, XXE
@@ -3322,11 +3319,9 @@
 - https://web.archive.org/web/20200822111544/https://whitehatnepal.tumblr.com/post/156707088037/i-got-emails-g-suite-vulnerability, Logic-flaw
 - https://medium.com/@prateek_0490/how-i-could-have-compromised-any-account-on-one-of-the-biggest-startup-based-in-california-3ebc8c6844b5, Account-takeover
 - https://httpsonly.blogspot.com/2017/01/0day-writeup-xxe-in-ubercom.html, XXE
-- http://www.pranav-venkat.com/2016/12/idor-in-facebooks-acquisition-parse.html, IDOR
 - https://thehackerblog.com/the-orphaned-internet-taking-over-120k-domains-via-a-dns-vulnerability-in-aws-google-cloud-rackspace-and-digital-ocean/index.html, Domain-takeover
 - https://evilpacket.net/2016/atom-io-misconfiguration-allowed-code-execution-on-untrusted-networks/, RCE
 - https://www.arneswinnen.net/2016/11/authentication-bypass-on-sso-ubnt-com-via-subdomain-takeover-of-ping-ubnt-com/, Subdomain-takeover
-- https://medium.com/pentesternepal/bypassing-ebay-xss-protection-8cf73466ba0f, Reflected-XSS
 - https://guptashubham.com/svg-xss-in-unifi-v5-0-2/, Stored-XSS
 - https://portswigger.net/research/backslash-powered-scanning-hunting-unknown-vulnerability-classes, misc
 - https://ahussam.me/leak-private-videos-vimeo/, Logic-flaw

@@ -132,3 +132,4 @@
 - https://monish-basaniwal.medium.com/the-million-dollar-hack-8163892bfe2f
 - https://www.pentestpartners.com/security-blog/cloud-firewall-management-api-snafu-put-500k-sonicwall-customers-at-risk/
 - https://zonduu.medium.com/idor-in-session-cookie-leading-to-mass-account-takeover-d815ff3732d5
+- http://www.pranav-venkat.com/2016/12/idor-in-facebooks-acquisition-parse.html
