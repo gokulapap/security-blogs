@@ -62,3 +62,4 @@
 - https://www.rcesecurity.com/2016/02/ubiquiti-bug-bounty-unifi-v3-2-10-generic-csrf-protection-bypass/
 - https://rakesh-thodupunoori.medium.com/part-2-dive-into-zoom-applications-1b01091345c1
 - https://medium.com/@ashrafharb997/csrf-to-full-account-takeover-5196cef9d166
+- https://medium.com/@mr_hacker/csrf-bypass-using-cross-frame-scripting-c349d6f33eb6

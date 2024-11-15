@@ -11,3 +11,4 @@
 - https://medium.com/@jayateerthag/cors-bug-on-googles-404-page-rewarded-2163d58d3c8b
 - https://mikekitckchan.medium.com/cors-misconfig-that-worths-usd200-4696eda5ab4c
 - https://portswigger.net/research/exploiting-cors-misconfigurations-for-bitcoins-and-bounties
+- https://bugbaba.blogspot.com/2018/02/exploiting-cors-miss-configuration.html
