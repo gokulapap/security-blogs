@@ -2008,7 +2008,6 @@
 - https://iustin24.github.io/Cache-Key-Normalization-Denial-of-Service/, Web-cache-poisoning
 - https://bhupendra1238.medium.com/how-i-got-my-first-bounty-hof-from-google-csrf-lead-to-account-delete-85f9906ba9ec, CSRF
 - https://blog.deesee.xyz/regex/security/2020/12/27/regular-expression-injection.html, ReDoS
-- https://0x48piraj.medium.com/full-address-bar-spoofing-on-opera-mini-android-597fafa60627, Address-Bar-Spoofing
 - https://lutfumertceylan.com.tr/posts/acc-takeover-web-cache-xss/, Reflected-XSS
 - https://baibhavjha.com.np/blogs/hidingfromcustomlistfblite/, Logic-flaw
 - https://blog.s1r1us.ninja/research/cookie-tossing-to-rce-on-google-cloud-jupyter-notebooks, Self-XSS
@@ -2165,7 +2164,6 @@
 - https://medium.com/witnet/witnet-network-acknowledged-dos-bug-f7d55b709051, DoS
 - https://medium.com/bugbountywriteup/how-i-was-able-to-send-authentic-emails-as-others-google-vrp-resolved-2af94295f326, Logic-flaw
 - https://medium.com/@vedanttekale20/how-recon-helped-me-to-find-an-interesting-bug-17a2d8cf1778, Open-redirect
-- https://spaceraccoon.dev/open-sesame-escalating-open-redirect-to-rce-with-electron-code-review, Open-redirect
 - https://blog.detectify.com/2020/08/14/crowdsource-success-story-from-an-out-of-scope-open-redirect-to-cve-2020-1323/, Open-redirect
 - https://medium.com/nassec-cybersecurity-writeups/deleted-data-stored-permanently-on-instagram-facebook-bug-bounty-2020-26074c229955, Logic-flaw
 - https://medium.com/@vishalranjan00012/hi-folks-2f28dd8fdfe9, Logic-flaw
@@ -2507,7 +2505,6 @@
 - https://medium.com/bugbountywriteup/effortlessly-finding-cross-site-script-inclusion-xssi-jsonp-for-bug-bounty-38ae0b9e5c8a, XSSI
 - https://medium.com/nassec-cybersecurity-writeups/bypassing-brand-collabs-manager-eligibility-7d26523da816, Authorization-flaw
 - https://smaranchand.com.np/2019/12/subdomain-takeover-via-pantheon/, Subdomain-takeover
-- https://jinone.github.io/bugbounty-a-dom-xss/, DOM-XSS
 - https://web.archive.org/web/20210116173906/https://strynx.org/insecure-crypto-code-execution/, SQL-injection
 - https://www.indoappsec.in/2019/12/airbnb-steal-earning-of-airbnb-hosts-by.html, IDOR
 - https://jinone.github.io/bugbounty-a-dom-xss/, DOM-XSS
@@ -2958,7 +2955,6 @@
 - https://medium.com/@kankrale.rahul/dos-on-facebook-android-app-using-65530-characters-of-zero-width-no-break-space-db41ca8ded89, DoS
 - https://medium.com/@egeken/facebook-hidden-redirection-vulnerability-aeaaac0b9d73, Open-redirect
 - https://medium.com/@ariffadhlullah2310/xss-deface-with-html-and-how-to-convert-the-html-into-charcode-f0c62dd5ef3f, XSS
-- https://medium.com/japzdivino/harvesting-all-private-invites-using-leave-program-fast-tracked-invitation-and-security-email-a01c8b3ce76f, Logic-flaw
 - https://medium.com/@notsoshant/a-possibility-of-account-takeover-in-medium-8d950e547639, Account-takeover
 - https://medium.com/bugbountywriteup/add-comment-on-a-private-oculus-developer-bug-report-93f35bc80b2c, IDOR
 - https://medium.com/japzdivino/security-teams-internal-attachments-can-be-exported-via-export-as-zip-feature-on-hackerone-35ca6ec2bf8b, Logic-flaw
@@ -3195,7 +3191,6 @@
 - https://medium.com/@Skylinearafat/xss-protection-bypass-made-my-quickest-bounty-ever-f4fd970c9116, XSS
 - https://medium.com/@maxon3/lfi-to-command-execution-deutche-telekom-bug-bounty-6fe0de7df7a6, LFI
 - https://corben.io/blog/17-11-27-tricky-CORS, CORS-misconfiguration
-- https://blog.darabi.me/2017/11/image-removal-vulnerability-in-facebook.html, IDOR
 - https://medium.com/@malcolmx0x/story-of-bypassing-referer-header-to-make-open-redirect-94f938b9d032, Open-redirect
 - https://medium.com/@honcbb/amazon-bypass-open-redirect-12609c879dff, Open-redirect
 - https://medium.com/@honcbb/vmware-official-vcdx-reflected-xss-90e69a3c35e1, Reflected-XSS

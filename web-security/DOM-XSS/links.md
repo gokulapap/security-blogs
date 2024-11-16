@@ -11,3 +11,4 @@
 - https://medium.com/@rajdipdeysarkar7/my-journey-to-nokia-hall-of-fame-in-just-10-minutes-4869c78c37e7
 - https://tij.me/blog/xss-on-hema-one-of-the-largest-dutch-franchisors/
 - http://blog.mindedsecurity.com/2018/04/dom-based-cross-site-scripting-in.html
+- https://jinone.github.io/bugbounty-a-dom-xss/

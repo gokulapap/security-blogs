@@ -2,3 +2,4 @@
 - https://blog.0x48piraj.com/address-bar-spoofing-in-firefox-lite-for-android-and-the-idiocy-that-followed/
 - https://www.rafaybaloch.com/2017/06/android-browser-all-versions-address.html
 - https://www.rafaybaloch.com/2021/02/Microsoft-Edge-Browser-For-IOS-Address-Bar-Spoofing-Vulnerability.html
+- https://0x48piraj.medium.com/full-address-bar-spoofing-on-opera-mini-android-597fafa60627

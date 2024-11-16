@@ -92,3 +92,4 @@
 - https://medium.com/@Kntjrld/my-first-bug-report-at-facebook-2021-bab2c2373ee3
 - https://web.archive.org/web/20200722032242/https://kntx.xyz/Bypassing-Nickname-Feature/
 - https://medium.com/@saugatpokharel/this-is-how-i-managed-to-win-2000-through-facebook-bug-bounty-a7d531d5097e
+- https://medium.com/japzdivino/harvesting-all-private-invites-using-leave-program-fast-tracked-invitation-and-security-email-a01c8b3ce76f

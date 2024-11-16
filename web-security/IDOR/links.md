@@ -133,3 +133,4 @@
 - https://www.pentestpartners.com/security-blog/cloud-firewall-management-api-snafu-put-500k-sonicwall-customers-at-risk/
 - https://zonduu.medium.com/idor-in-session-cookie-leading-to-mass-account-takeover-d815ff3732d5
 - http://www.pranav-venkat.com/2016/12/idor-in-facebooks-acquisition-parse.html
+- https://blog.darabi.me/2017/11/image-removal-vulnerability-in-facebook.html
