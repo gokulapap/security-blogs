@@ -917,7 +917,6 @@
 - https://www.form3.tech/engineering/content/exploiting-distroless-images, Command-injection
 - https://infosecwriteups.com/how-i-found-multiple-sql-injections-in-5-minutes-in-bug-bounty-40155964c498, SQL-injection
 - https://www.trellix.com/en-us/about/newsroom/stories/research/tarfile-exploiting-the-world.html, Path-traversal
-- https://10degres.net/one-takeover-to-rule-them-all/, Subdomain-takeover
 - https://medium.com/@cyberali/mass-assignment-leading-to-pre-account-takeover-13041280a0d9, Mass-assignment
 - https://www.cidersecurity.io/blog/research/how-we-abused-repository-webhooks-to-access-internal-ci-systems-at-scale/, CICD
 - https://blog.sonarsource.com/onedev-remote-code-execution/, RCE
@@ -1160,7 +1159,6 @@
 - https://fredericb.info/2022/06/breaking-secure-boot-on-google-nest-hub-2nd-gen-to-run-ubuntu.html, Hardware-hacking
 - https://labs.taszk.io/articles/post/unziploc/, Memory-corruption
 - https://notifybugme.medium.com/automating-reflected-xss-with-burp-suite-intruder-a39b2f060db7, Reflected-XSS
-- https://medium.com/@sharp488/2fa-bypass-via-basic-authentication-on-private-bug-bounty-program-93bb457cd065, MFA-bypass
 - https://www.sonarsource.com/blog/zimbra-mail-stealing-clear-text-credentials-via-memcache-injection/, Memcache-injection
 - https://medium.com/@damaidec/403-bypass-on-a-fortune-100-financial-institution-p3-156d33bc6ed, Information-disclosure
 - https://github.com/andyperlitch/jsbn/issues/43, Cryptographic-issues
@@ -1699,7 +1697,6 @@
 - https://infosecwriteups.com/logical-flaw-resulting-path-hijacking-dd4d1e1e832f, Namespace-attack
 - https://medium.com/@jawadmahdi/how-i-found-blind-sql-injection-just-by-browsing-and-getting-a-unique-url-ed87fa1f35ed, SQL-injection
 - https://krevetk0.medium.com/credential-stuffing-in-bug-bounty-hunting-7168dc1d3153, Credential-stuffing
-- https://aidilarf.medium.com/380-xss-stored-in-bigo-bug-bounty-program-a8b9529adcc4, XSS
 - https://tomorrowisnew.com/posts/broken-access-control-bug-bypassing-403-s-by-finding-another-endpoint-that-do-the-same-thing/, Broken-Access-Control
 - https://medium.com/@kalvik/pre-denial-of-service-set-up-2fa-on-unverified-account-8399af52ea2d, Application-level-DoS
 - https://infosecwriteups.com/critical-bug-bounty-reports-part-1-6fd9aef4b486, Account-takeover
@@ -2093,7 +2090,6 @@
 - https://medium.com/@saneklarek22/back-to-2019-disclosure-employers-pii-and-credentials-bb7f344dcb08, Information-disclosure
 - https://www.rafaybaloch.com/2020/10/multiple-address-bar-spoofing-vulnerabilities.html, Address-Bar-Spoofing
 - https://www.rafaybaloch.com/2020/10/multiple-address-bar-spoofing-vulnerabilities.html, Authentication-bypass
-- https://devcraft.io/2020/10/19/github-gist-account-takeover.html, Open-redirect
 - https://devcraft.io/2020/10/18/github-rce-git-inject.html, RCE
 - https://mksben.l0.cm/2020/10/discord-desktop-rce.html, RCE
 - https://medium.com/@merry6607/how-i-find-my-first-p1-level-bug-5a6dd9587203, XSS
@@ -2389,7 +2385,6 @@
 - https://medium.com/@D0rkerDevil/3k-bounty-for-elastic-search-takeover-70c0847d2e40, Elasticsearch-Takeover
 - https://www.rtcsec.com/2020/04/01-slack-webrtc-turn-compromise/, SSRF
 - https://web.archive.org/web/20200407121700/https://medium.com/nassec-cybersecurity-writeups/page-admin-disclosure-facebook-bug-bounty-2020-8a45cf911e24, Information-disclosure
-- https://web.archive.org/web/20200405123820/https://medium.com/@saugatpokharel/cannot-delete-post-on-facebook-group-facebook-bug-bounty-4f2661655c3a, Logic-flaw
 - https://blog.securitybreached.org/2020/04/04/playing-with-json-web-tokens-for-fun-and-profit/, Password-reset
 - https://medium.com/@pig.wig45/touch-id-authentication-bypass-on-evernote-and-dropbox-ios-apps-7985219767b2, Authentication-bypass
 - https://medium.com/@nnez/always-escalate-from-self-xss-to-persistent-xss-on-login-portal-54265b0adfd0, Self-XSS

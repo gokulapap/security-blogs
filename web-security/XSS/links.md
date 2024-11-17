@@ -160,3 +160,4 @@
 - https://moustadif.medium.com/how-i-bypassed-reflected-xss-in-well-known-platform-274c07f97674
 - https://www.kumar.ninja/2018/09/xss-surveydropboxcom.html
 - https://www.sonarsource.com/blog/odoo-get-your-content-type-right-or-else/
+- https://aidilarf.medium.com/380-xss-stored-in-bigo-bug-bounty-program-a8b9529adcc4

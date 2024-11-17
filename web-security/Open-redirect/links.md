@@ -47,3 +47,4 @@
 - https://infosecwriteups.com/eye-for-an-eye-unusual-single-click-jwt-token-takeover-2e58f88cf44d
 - https://inakcf.medium.com/open-redirect-in-email-c658c248eec1
 - https://spaceraccoon.dev/open-sesame-escalating-open-redirect-to-rce-with-electron-code-review
+- https://devcraft.io/2020/10/19/github-gist-account-takeover.html
