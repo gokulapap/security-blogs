@@ -207,7 +207,6 @@
 - https://kair0s3.medium.com/blind-sql-injection-with-a-little-waf-871e69d06e2c, Blind-SQL-injection
 - https://infosecwriteups.com/the-buffer-curse-3591efb4a724, CSP-bypass
 - https://badoption.eu/blog/2023/07/15/divideconqer.html, AMSI-bypass
-- https://infosecwriteups.com/lets-go-for-whole-company-d2e24bcfb5ef, Default-credentials
 - https://www.trustedsec.com/blog/modeling-malicious-code-hacking-in-3d/, Phishing
 - https://blog.talosintelligence.com/weaknesses-mac-os-vmware-msrpc/, Kernel-hacking
 - https://posts.specterops.io/performance-diagnostics-and-wmi-21f3e01790d3, Lateral-movement
@@ -608,7 +607,6 @@
 - https://hacksys.io/blogs/adobe-reader-resetform-cagg-rce-cve-2023-21608, Memory-corruption
 - https://blog.projectdiscovery.io/php-http-server-source-disclosure/, Source-code-disclosure
 - https://medium.com/@sudipshah_66336/disclosing-facebook-page-admins-by-playing-a-game-2b0f4ed082e4, Logic-flaw
-- https://github.blog/2023-01-27-bypassing-ognl-sandboxes-for-fun-and-charities/, OGNL-injection
 - https://www.sonarsource.com/blog/openemr-remote-code-execution-in-your-healthcare-system/, RCE
 - https://www.akamai.com/blog/security-research/exploiting-critical-spoofing-vulnerability-microsoft-cryptoapi, Windows
 - https://swarm.ptsecurity.com/mybb-1-8-31-remote-code-execution-chain/, RCE
@@ -1414,7 +1412,6 @@
 - https://medium.com/@robert0/how-i-found-broken-access-control-through-out-of-sync-setup-and-got-1000-9143fc5febdd, Broken-Access-Control
 - https://0xkasper.com/articles/moodle-sql-injection-broken-access-control.html, SQL-injection
 - https://hulkvision.github.io/blog/post1/, RCE
-- https://www.cyberark.com/resources/threat-research-blog/attacking-rdp-from-inside, RCE
 - https://sa1tama0.medium.com/cross-origin-resource-sharing-cors-misconfiguration-leads-to-users-pii-leaks-b31fd3246e64, CORS-misconfiguration
 - https://haxolot.com/posts/2022/moodle_pre_auth_shibboleth_rce_part2/, Session-hijacking
 - https://www.microsoft.com/security/blog/2022/01/10/new-macos-vulnerability-powerdir-could-lead-to-unauthorized-user-data-access/, Privacy-issue
@@ -1438,7 +1435,6 @@
 - https://bugs.xdavidhu.me/google/2021/12/31/fixing-the-unfixable-story-of-a-google-cloud-ssrf/, SSRF
 - https://infosecwriteups.com/bug-hunting-journey-of-2021-1fa60b28d949, Stored-XSS
 - https://rv09.medium.com/my-first-google-hof-b66c54f6acfd, Broken-Access-Control
-- https://faizanwrites.medium.com/heres-how-i-could-read-anyone-s-iphone-metrics-remotely-28459943b898, Information-disclosure
 - https://www.seblu.de/2021/12/iap-bypass.html, Authorization-flaw
 - https://medium.com/@sam0-0/how-i-am-able-to-crash-anyones-mozilla-firefox-browser-by-sending-an-email-a12563cc8d79, DoS
 - https://ndevtk.github.io/writeups/2021/12/30/cloud-shell-xss/, XSS
@@ -2062,7 +2058,6 @@
 - https://medium.com/@guhanraja/how-i-found-the-facebook-messenger-leaking-access-token-of-million-users-8ee4b3f1e5e3, Information-disclosure
 - https://samiparyal.medium.com/commenting-on-a-post-by-opening-it-via-pages-news-feed-goes-from-a-wrong-actor-i-e-56fab4cf5a91, Information-disclosure
 - https://medium.com/bugbountywriteup/evading-filters-to-perform-the-arbitrary-url-redirection-attack-cce628b9b6a0, Open-redirect
-- https://blog.oversecured.com/Evernote-Universal-XSS-theft-of-all-cookies-from-all-sites-and-more/, Universal-XSS
 - https://nechudav.blogspot.com/2020/11/31k-ssrf-in-google-cloud-monitoring.html, SSRF
 - https://medium.com/bugbountywriteup/chaining-password-reset-link-poisoning-idor-account-information-leakage-to-achieve-account-bb5e0e400745, HTTP-header-injection
 - https://galnagli.com/DoD_IDOR/, IDOR

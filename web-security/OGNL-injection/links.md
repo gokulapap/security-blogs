@@ -1,1 +1,2 @@
 - https://infosecwriteups.com/unleashing-the-power-of-recon-how-i-earned-2500-in-5-minutes-cve-2017-5638-ognl-injection-23ece4811f14
+- https://github.blog/2023-01-27-bypassing-ognl-sandboxes-for-fun-and-charities/

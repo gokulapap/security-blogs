@@ -142,3 +142,4 @@
 - https://piyushshuklabug.medium.com/how-i-found-p1-bug-due-to-sensitive-data-exposer-and-earn-99ebcb342bcd
 - https://philippeharewood.com/missing-permission-check-for-facebook-gaming-community-invites/
 - https://medium.com/@zseano/its-all-in-the-detail-email-leak-account-takeover-thanks-to-waybackmachine-extensive-4be365580dd7
+- https://faizanwrites.medium.com/heres-how-i-could-read-anyone-s-iphone-metrics-remotely-28459943b898
