@@ -161,3 +161,4 @@
 - https://www.mdsec.co.uk/2023/06/cve-2023-26258-remote-code-execution-in-arcserve-udp-backup/
 - https://www.securifera.com/blog/2023/04/24/vocera_report_server_pwnage/
 - https://www.cyberark.com/resources/threat-research-blog/attacking-rdp-from-inside
+- https://blog.assetnote.io/2023/01/24/yellowfin-auth-bypass-to-rce/

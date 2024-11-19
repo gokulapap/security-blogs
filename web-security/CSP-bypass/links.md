@@ -5,3 +5,4 @@
 - https://octagon.net/blog/2022/05/29/bypass-csp-using-wordpress-by-abusing-same-origin-method-execution/
 - https://blog.ibrahimdraidia.com/bypass-csp-framing-restriction-rule-olx/
 - https://weizman.github.io/2020/09/02/csp-vuln/
+- https://jmrcsnchz.medium.com/playing-with-iframes-bypassing-content-security-policy-987c2f0b8e8a

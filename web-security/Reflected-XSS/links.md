@@ -51,3 +51,4 @@
 - https://medium.com/bugbountywriteup/xss-to-database-credential-leakage-database-access-story-of-total-luck-77c990be8ab2
 - https://web.archive.org/web/20200818084242/https://medium.com/@adeshkolte/oracle-cross-site-scripting-vulnerability-adesh-kolte-ddc5d9f279be
 - https://medium.com/pentesternepal/bypassing-ebay-xss-protection-8cf73466ba0f
+- https://pethuraj.com/blog/google-bug-bounty-writeup/

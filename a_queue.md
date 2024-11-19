@@ -611,7 +611,6 @@
 - https://www.akamai.com/blog/security-research/exploiting-critical-spoofing-vulnerability-microsoft-cryptoapi, Windows
 - https://swarm.ptsecurity.com/mybb-1-8-31-remote-code-execution-chain/, RCE
 - https://medium.com/@_deshine_/easy-2000-race-condition-b4d093c9bc3c, Race-condition
-- https://blog.assetnote.io/2023/01/24/yellowfin-auth-bypass-to-rce/, RCE
 - https://frycos.github.io/vulns4free/2023/01/24/0days-united-nations.html, RCE
 - https://www.varonis.com/blog/okta-attack-vectors, Insecure-storage-of-sensitive-information
 - https://www.zerodayinitiative.com/blog/2023/1/23/activation-context-cache-poisoning-exploiting-csrss-for-privilege-escalation, Local-Privilege-Escalation
@@ -848,7 +847,6 @@
 - https://medium.com/@h4x0r_dz/23000-for-authentication-bypass-file-upload-arbitrary-file-overwrite-2578b730a5f8, JWT
 - https://www.mdsec.co.uk/2022/10/microsoft-office-online-server-remote-code-execution/, SSRF
 - https://medium.com/@sas.kunz/scan-qr-code-and-got-hacked-cve-2021-43530-uxss-on-firefox-android-version-768b24b326fb, Universal-XSS
-- https://boschko.ca/tenda_ac1200_router/, OS-command-injection
 - https://blog.blacklanternsecurity.com/p/yet-another-telerik-ui-revisit, Cryptographic-issues
 - https://blog.doyensec.com/2022/10/18/cloudsectidbit-dataimport.html, Cloud
 - https://securityintelligence.com/posts/analysis-rce-vulnerability-cobalt-strike/, RCE
@@ -1821,7 +1819,6 @@
 - https://parthdeshani.medium.com/got-nice-catch-by-google-5e6a8211371c, OAuth
 - https://www.lutasecurity.com/post/new-clubhouse-security-vulnerabilities-could-happen-to-any-growing-unicorn, Logic-flaw
 - https://blog.ryotak.me/post/homebrew-security-incident-en/, RCE
-- https://jmrcsnchz.medium.com/playing-with-iframes-bypassing-content-security-policy-987c2f0b8e8a, CSP-bypass
 - https://feed.bugs.xdavidhu.me/bugs/0002, Authentication-bypass
 - https://notifybugme.medium.com/unauthorized-access-to-admin-setpassword-page-by-bypass-403-forbidden-f10bbb92ab35, Authorization-flaw
 - https://0x2m.medium.com/misconfiguration-in-change-password-functionality-leads-to-account-takeover-1314b5507abf, IDOR
@@ -2386,7 +2383,6 @@
 - https://medium.com/@ravillabharath123/account-take-over-without-user-interaction-f4ed2bf977de, Password-reset
 - https://medium.com/@shahjerry33/privilege-escalation-hello-admin-a53ac14fd388, Privilege-escalation
 - https://medium.com/@ashokcpg/the-story-of-my-first-ever-1500-bounty-from-facebook-49eb64d26160, Logic-flaw
-- https://pethuraj.com/blog/google-bug-bounty-writeup/, Reflected-XSS
 - https://blog.securitybreached.org/2020/03/31/microsoft-rce-bugbounty/, RCE
 - https://hackemall.live/index.php/2020/03/31/akamai-web-application-firewall-bypass-journey-exploiting-google-bigquery-sql-injection-vulnerability/, SQL-injection
 - https://medium.com/@abidafahd/hacking-makes-me-forget-my-pain-b04bf51d0407, SQL-injection
@@ -2783,7 +2779,6 @@
 - https://www.rodneybeede.com/security/slack-announcement-only-channel-post-restriction-bypass.html, Authorization-flaw
 - https://medium.com/@80vul/from-http-domain-to-res-domain-xss-by-using-ie-adobes-pdf-activex-plugin-9f2a72a87aff, DOM-XSS
 - https://medium.com/@avinash_/disclosure-of-pending-roles-for-any-facebook-page-ab6e4e219f8e, IDOR
-- https://medium.com/@vis_hacker/how-i-was-able-to-pwned-30000-users-webhook-d26dc3420703, IDOR
 - https://medium.com/@rohitcoder/user-account-takeover-password-change-nice-catch-2293f4d272b2, Account-takeover
 - https://blog.ripstech.com/2019/wordpress-csrf-to-rce/, CSRF
 - https://medium.com/@GeneralEG/hack-your-form-new-vector-for-blind-xss-b7a50b808016, Blind-XSS

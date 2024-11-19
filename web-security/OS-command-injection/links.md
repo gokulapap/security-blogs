@@ -9,3 +9,4 @@
 - https://www.rtcsec.com/article/kamailio-exec-module-considered-harmful/
 - https://hackingiscool.pl/cmdhijack-command-argument-confusion-with-path-traversal-in-cmd-exe/
 - https://sushant-kamble.medium.com/how-i-found-command-injection-via-obsolete-phpthumb-p1-vulnerability-e4811248ce12
+- https://boschko.ca/tenda_ac1200_router/
