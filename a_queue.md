@@ -1419,7 +1419,6 @@
 - https://infosecwriteups.com/a-tale-of-5250-how-i-accessed-millions-of-users-data-including-their-national-id-s-fd48ca7ca0bf, AWS-misconfiguration
 - https://outflank.nl/blog/2022/01/07/a-phishing-document-signed-by-microsoft-part-2/, Phishing
 - https://ian.sh/redash, Privilege-escalation
-- https://medium.com/@nvmeeet/how-i-was-able-to-spoof-any-instagram-username-on-instagram-shop-b4d6abdb474a, IDOR
 - https://infosecwriteups.com/authorization-bypass-gmail-2949af041fb, Spoofing
 - https://systemweakness.com/accessing-godaddy-internal-instance-through-an-email-logic-bug-fdbea7b23542, Logic-flaw
 - https://zoidsec.medium.com/breaking-parse-logic-gain-access-to-nginx-api-read-write-upstreams-1cb062aa44ca, Path-traversal
@@ -2015,7 +2014,6 @@
 - https://infosecwriteups.com/how-i-hacked-facebook-part-one-282bbb125a5d, Missing-authentication
 - https://ph-hitachi.medium.com/how-i-got-my-first-bug-bounty-in-intersting-target-lfi-to-sxss-58fa5c4f5882, LFI
 - https://research.checkpoint.com/2020/game-on-finding-vulnerabilities-in-valves-steam-sockets/, Memory-corruption
-- https://pyrrhon.medium.com/how-i-was-able-to-take-over-one-of-dells-subdomains-7e06b8516e41, Subdomain-takeover
 - https://infosecwriteups.com/facebook-push-notification-linkshim-bypassed-385fe471516, Open-redirect
 - https://github.com/oskarsve/ms-teams-rce, RCE
 - https://medium.com/@vedanttekale20/story-of-the-best-vulnerability-ive-found-so-far-5e3b0e02b47e, Self-XSS
@@ -2288,7 +2286,6 @@
 - https://medium.com/@amyrahm786/story-of-blind-sql-with-a-typo-error-43a21913c8d, SQL-injection
 - https://medium.com/@rohitcoder/idor-delete-saved-credit-cards-from-any-business-manager-account-f28c773982eb, IDOR
 - https://medium.com/heck-the-packet/how-i-got-my-first-big-bounty-payout-with-tesla-8d28b520162d, Information-disclosure
-- https://medium.com/@valeriyshevchenko/from-crlf-to-account-takeover-a94d7aa0d74e, CRLF-injection
 - https://kb.cert.org/vuls/id/636397, DoS
 - https://research.securitum.com/the-curious-case-of-copy-paste/, XSS
 - https://web.archive.org/web/20200807155244/https://vict0ni.me/double-url-encoding-xss/, Reflected-XSS
@@ -2679,7 +2676,6 @@
 - https://blog.lent.ink/post/klanteservice/, Logic-flaw
 - https://medium.com/@osamaavvan/1800-worth-clickjacking-1f92e79d0414, Clickjacking
 - https://medium.com/@saadahmedx/self-xss-to-evil-xss-bcf2494a82a4, XSS
-- https://hackademic.co.in/how-a-classical-xss-can-lead-to-persistent-ato-vulnerability/, XSS
 - https://medium.com/@ritishkumarsingh/facebook-vulnerability-unremovable-co-host-in-facebook-group-events-13a9ea28b302, Logic-flaw
 - https://medium.com/@osamaavvan/account-taker-with-clickjacking-ace744842ec3, Clickjacking
 - https://m0z.co/XSS-Filter-Evasion/, XSS
@@ -2693,7 +2689,6 @@
 - https://medium.com/bug-bounty-hunting/fullscreen-api-attacks-revisited-and-the-fb-na-story-cbea3ca383c5, Phishing
 - https://medium.com/@saadahmedx/idor-account-takeover-1ff5a2d03b8b, IDOR
 - https://medium.com/@ciph3r7r0ll/chaining-improper-authorization-to-race-condition-to-harvest-credit-card-details-a-bug-bounty-effe6e0f5076, Authorization-flaw
-- https://medium.com/@androgaming1912/redstrom-denial-of-service-write-up-d8fd97f18335, DoS
 - https://medium.com/bugbountywriteup/account-takeover-using-idor-and-the-misleading-case-of-error-403-cb42c96ea310, IDOR
 - https://medium.com/@hariharan21/idor-leads-to-project-takeover-548a1bfd4d66, IDOR
 - https://web.archive.org/web/20200928091625/https://pwnsec.ninja/2019/06/06/how-i-was-able-to-get-private-ticket-response-panel-and-fortigate-web-panel-via-blind-xss/, Blind-XSS

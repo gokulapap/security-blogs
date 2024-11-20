@@ -35,3 +35,4 @@
 - https://web.archive.org/web/20201123204430/https://www.mohamedharon.com/2020/06/all-intercomhelp-subdomains-vulnerable.html
 - https://blog.securitybreached.org/2017/11/20/uber-wildcard-subdomain-takeover
 - https://10degres.net/one-takeover-to-rule-them-all/
+- https://pyrrhon.medium.com/how-i-was-able-to-take-over-one-of-dells-subdomains-7e06b8516e41

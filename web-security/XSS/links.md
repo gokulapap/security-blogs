@@ -161,3 +161,4 @@
 - https://www.kumar.ninja/2018/09/xss-surveydropboxcom.html
 - https://www.sonarsource.com/blog/odoo-get-your-content-type-right-or-else/
 - https://aidilarf.medium.com/380-xss-stored-in-bigo-bug-bounty-program-a8b9529adcc4
+- https://hackademic.co.in/how-a-classical-xss-can-lead-to-persistent-ato-vulnerability/

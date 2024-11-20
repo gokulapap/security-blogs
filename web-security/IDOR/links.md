@@ -135,3 +135,4 @@
 - http://www.pranav-venkat.com/2016/12/idor-in-facebooks-acquisition-parse.html
 - https://blog.darabi.me/2017/11/image-removal-vulnerability-in-facebook.html
 - https://medium.com/@vis_hacker/how-i-was-able-to-pwned-30000-users-webhook-d26dc3420703
+- https://medium.com/@nvmeeet/how-i-was-able-to-spoof-any-instagram-username-on-instagram-shop-b4d6abdb474a
