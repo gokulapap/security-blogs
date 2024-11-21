@@ -868,7 +868,6 @@
 - https://medium.com/@nireshpandian19/the-story-of-a-p5-that-lead-me-to-a-p3-find-3f8a5ea2c6e1, Pre-account-takeover
 - https://abdelhameedghazy.medium.com/broken-access-control-leads-to-full-team-takeover-and-privilege-escalation-6f50174f29ce, Broken-Access-Control
 - https://cyberlix.io/breaking-parser-logic-gain-access-to-nginx-plus-api-read-write-upstreams/, Path-traversal
-- https://www.akamai.com/blog/security-research/cold-hard-cache-bypassing-rpc-with-cache-abuse, Privilege-escalation
 - https://blog.yeswehack.com/yeswerhackers/web-application-firewall-bypass/, WAF-bypass
 - https://www.oxeye.io/blog/vm2-sandbreak-vulnerability-cve-2022-36067, RCE
 - https://medium.com/@protostar0/hacking-banks-broken-access-control-vulnerability-in-banking-application-part-i-c442ed5ae170, Broken-Access-Control
@@ -1692,7 +1691,6 @@
 - https://krevetk0.medium.com/credential-stuffing-in-bug-bounty-hunting-7168dc1d3153, Credential-stuffing
 - https://tomorrowisnew.com/posts/broken-access-control-bug-bypassing-403-s-by-finding-another-endpoint-that-do-the-same-thing/, Broken-Access-Control
 - https://medium.com/@kalvik/pre-denial-of-service-set-up-2fa-on-unverified-account-8399af52ea2d, Application-level-DoS
-- https://infosecwriteups.com/critical-bug-bounty-reports-part-1-6fd9aef4b486, Account-takeover
 - https://medium.com/pentesternepal/facebook-email-phone-disclosure-using-binary-search-d50430758c54, Password-reset
 - https://feed.bugs.xdavidhu.me/bugs/0009, IDOR
 - https://adnanmalik.info/blog/lets-cancel-the-subscription/, Logic-flaw
@@ -1749,7 +1747,6 @@
 - https://frichetten.com/blog/xss_in_aws_console/, XSS
 - https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/huawei-lte-usb-stick-e3372-file-overwrite-to-code-execution/, Local-Privilege-Escalation
 - https://infosecwriteups.com/admin-panel-pwned-89db333f3836, Information-disclosure
-- https://notifybugme.medium.com/escalating-ssrf-to-accessing-all-user-pii-information-by-aws-metadata-aabcfd5a3e0e, SSRF
 - https://justintaft.com/blog/2021/06/01/cve-2021-29084-synology-crlf-unauthenticated-file-downloads, CRLF-injection
 - https://notifybugme.medium.com/escalating-ssrf-to-accessing-all-user-pii-information-by-aws-metadata-aabcfd5a3e0e, SSRF
 - https://github.com/champtar/blog/tree/main/runc-symlink-CVE-2021-30465, Kubernetes
@@ -1773,7 +1770,6 @@
 - https://www.fortbridge.co.uk/research/drupal-insecure-default-leads-to-password-reset-poisoning/, Password-reset
 - https://nvk0x.medium.com/how-i-hijacked-12-subdomains-in-one-program-eea468bcd64f, Subdomain-takeover
 - https://www.pethuraj.com/blog/edmodo-bug-bounty-writeup/, XSS
-- https://omar0x01.medium.com/how-to-prevent-more-than-200-million-users-from-using-google-services-136b3b8e221f, Logic-flaw
 - https://infosecwriteups.com/2fa-bypass-via-forced-browsing-9e511dfdb8df, MFA-bypass
 - https://galnagli.com/Mass_Assignment/, Mass-assignment
 - https://ysamm.com/?p=695, Reflected-XSS
@@ -3160,7 +3156,6 @@
 - https://wwws.nightwatchcybersecurity.com/2018/01/04/rce-in-duolingos-tinycards-app-for-android-cve-2017-16905/, Content-injection
 - https://voidzone.me/facebook-chat-dashboard-content-injection, Content-injection
 - https://blog.witcoat.com/2018/05/30/stealing-10000-yahoo-cookies/, CORS-misconfiguration
-- https://w00troot.blogspot.com/2017/12/how-i-found-ssrf-on-thefacebookcom.html, SSRF
 - https://medium.com/bugbountywriteup/jumping-to-the-hell-with-10-attempts-to-bypass-devils-waf-4275bfe679dd, XSS
 - https://web.archive.org/web/20200920204426/https://medium.com/@adeshkolte/microsoft-sharepoints-follow-feature-xss-cve-2017-8514-adesh-kolte-d78d701cd064, XSS
 - https://bhavukjain.com/blog/2017/12/20/facebook-google-login-misconfig/, Account-takeover

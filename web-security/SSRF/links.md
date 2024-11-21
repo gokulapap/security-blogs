@@ -81,3 +81,5 @@
 - https://medium.com/@joshibeast/from-blind-ssrf-to-localhost-dirbusting-and-asset-enumeration-dc0179310038
 - https://medium.com/@neerajedwards/reading-internal-files-using-ssrf-vulnerability-703c5706eefb
 - https://infosecwriteups.com/a-story-about-a-not-so-direct-ssrf-b2b98e128af0
+- https://notifybugme.medium.com/escalating-ssrf-to-accessing-all-user-pii-information-by-aws-metadata-aabcfd5a3e0e
+- https://w00troot.blogspot.com/2017/12/how-i-found-ssrf-on-thefacebookcom.html

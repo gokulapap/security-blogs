@@ -59,3 +59,4 @@
 - https://omar0x01.medium.com/hubspot-full-account-takeover-in-bug-bounty-4e2047914ab5
 - https://web.archive.org/web/20200819113116/https://medium.com/@godofdarkness.msf/account-takeover-using-re-register-bug-bounty-bda8bb2106e6
 - https://ysamm.com/?p=742
+- https://infosecwriteups.com/critical-bug-bounty-reports-part-1-6fd9aef4b486

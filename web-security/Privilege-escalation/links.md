@@ -27,3 +27,4 @@
 - https://www.legitsecurity.com/blog/github-privilege-escalation-vulnerability-0
 - https://rohit443.medium.com/privilege-escalation-to-stored-xss-dff01314bc7e
 - https://gauravnarwani.com/escalating-privileges-like-a-pro/
+- https://www.akamai.com/blog/security-research/cold-hard-cache-bypassing-rpc-with-cache-abuse

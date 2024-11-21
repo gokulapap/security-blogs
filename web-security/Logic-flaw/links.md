@@ -94,3 +94,4 @@
 - https://medium.com/@saugatpokharel/this-is-how-i-managed-to-win-2000-through-facebook-bug-bounty-a7d531d5097e
 - https://medium.com/japzdivino/harvesting-all-private-invites-using-leave-program-fast-tracked-invitation-and-security-email-a01c8b3ce76f
 - https://web.archive.org/web/20200405123820/https://medium.com/@saugatpokharel/cannot-delete-post-on-facebook-group-facebook-bug-bounty-4f2661655c3a
+- https://omar0x01.medium.com/how-to-prevent-more-than-200-million-users-from-using-google-services-136b3b8e221f
