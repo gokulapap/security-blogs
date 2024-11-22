@@ -1,3 +1,4 @@
 - https://medium.com/bugbountywriteup/bypass-cloudflare-waf-to-pwned-application-2c9e4f862319
 - https://kloudle.com/blog/the-infamous-8kb-aws-waf-request-body-inspection-limitation
 - http://www.firstsight.me/2022/03/from-recon-via-censys-and-dnsdumpster-to-getting-p1-by-login-using-weak-password-password/
+- https://divyanshsharma2401.medium.com/bypassing-waf-for-2222-f99b80cfdb9b

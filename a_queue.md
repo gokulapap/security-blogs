@@ -1024,7 +1024,6 @@
 - https://medium.com/@iknowhatodo/amazon-cognito-misconfiguration-lead-to-account-takeover-20694243ca40, Account-takeover
 - https://bahruz.me/publications/11844, HTTP-Request-Smuggling
 - https://blog.quarkslab.com/attacking-titan-m-with-only-one-byte.html, Memory-corruption
-- https://gonzx.medium.com/my-experience-on-hacking-the-dutch-government-a2c5a5f43d83, XSS
 - https://www.usenix.org/conference/usenixsecurity22/presentation/zhang-lei, Android
 - https://www.usenix.org/conference/usenixsecurity22/presentation/mirheidari, Web-cache-deception
 - https://medium.com/@avinash_/email-confirmation-bypass-at-instagram-cc968f9a126, Email-verification-bypass
@@ -1117,7 +1116,6 @@
 - https://bhashit.in/?p=71, Firebase
 - https://medium.com/@kashyapherry147/origin-ip-to-account-takeover-62d7a54abebf, WAF-bypass
 - https://janmuhammadzaidi.medium.com/vertical-privilege-escalation-the-user-can-takeover-an-admin-account-via-response-manipulation-9237c8b2fefa, Privilege-escalation
-- https://blog.fraktal.fi/two-faces-of-the-same-pdf-document-17e7a15522a0, PDF-parser-differential-attack
 - https://blog.electrovolt.io/posts/vscode-rce/, RCE
 - https://portswigger.net/research/bypassing-firefoxs-html-sanitizer-api, XSS
 - https://www.horizon3.ai/red-team-blog-cve-2022-28219/, XXE
@@ -1216,7 +1214,6 @@
 - https://melotover.medium.com/can-analyzing-javascript-files-lead-to-remote-code-execution-f24112f1aa1f, Unrestricted-file-upload
 - https://web.archive.org/web/20220516024454/https://medium.com/@tobydavenn/how-i-paid-for-my-holiday-with-bug-bounty-668f1f59e6e5, XSS
 - https://medium.com/@masonhck357/the-16-000-dev-mistake-13e516e86be6, Information-disclosure
-- https://blog.assetnote.io/2022/05/06/cloudflare-pages-pt1/, Command-injection
 - https://www.pmnh.site/post/advanced-sqlmap-case-study-1/, SQL-injection
 - https://medium.com/@z.x/how-we-hacked-bypassed-admin-panel-just-by-js-file-eaa773b5cdb4, Information-disclosure
 - https://blog.viettelcybersecurity.com/cve-2022-0540-authentication-bypass-in-seraph/, Authentication-bypass
@@ -1232,7 +1229,6 @@
 - https://lokeshdlk77.medium.com/contact-point-deanonymization-vulnerability-in-meta-90d575c4d8ef, Information-disclosure
 - https://www.wiz.io/blog/wiz-research-discovers-extrareplica-cross-account-database-vulnerability-in-azure-postgresql/, Cross-tenant-vulnerability
 - https://blog.assetnote.io/2022/04/27/vmware-workspace-one-uem-ssrf/, SSRF
-- https://divyanshsharma2401.medium.com/bypassing-waf-for-2222-f99b80cfdb9b, WAF-bypass
 - https://securecloud.blog/2022/04/27/azure-monitor-malicious-kql-query/, Privilege-escalation
 - https://blog.aquasec.com/npm-package-planting, Logic-flaw
 - https://medium.com/@abdalrahman.alshammas/fuzzing-and-credentials-leakage-nice-bug-hunting-writeup-38b2e774b300, Hardcoded-credentials
@@ -2008,7 +2004,6 @@
 - https://security.lauritz-holtmann.de, CSRF
 - https://jayateerthag.medium.com/download-filename-manipulation-due-to-improper-rendering-of-rtlo-characters-69e2751a8f28, RTLO
 - https://infosecwriteups.com/how-i-hacked-facebook-part-one-282bbb125a5d, Missing-authentication
-- https://ph-hitachi.medium.com/how-i-got-my-first-bug-bounty-in-intersting-target-lfi-to-sxss-58fa5c4f5882, LFI
 - https://research.checkpoint.com/2020/game-on-finding-vulnerabilities-in-valves-steam-sockets/, Memory-corruption
 - https://infosecwriteups.com/facebook-push-notification-linkshim-bypassed-385fe471516, Open-redirect
 - https://github.com/oskarsve/ms-teams-rce, RCE

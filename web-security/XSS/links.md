@@ -162,3 +162,4 @@
 - https://www.sonarsource.com/blog/odoo-get-your-content-type-right-or-else/
 - https://aidilarf.medium.com/380-xss-stored-in-bigo-bug-bounty-program-a8b9529adcc4
 - https://hackademic.co.in/how-a-classical-xss-can-lead-to-persistent-ato-vulnerability/
+- https://gonzx.medium.com/my-experience-on-hacking-the-dutch-government-a2c5a5f43d83

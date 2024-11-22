@@ -1,0 +1,1 @@
+- https://blog.fraktal.fi/two-faces-of-the-same-pdf-document-17e7a15522a0

@@ -1,1 +1,2 @@
 - https://shahjerry33.medium.com/blind-command-injection-it-hurts-9f396c1f63f2
+- https://blog.assetnote.io/2022/05/06/cloudflare-pages-pt1/
