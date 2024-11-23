@@ -67,7 +67,6 @@
 - https://medium.com/@gokulsspace/the-30000-bounty-affair-3f025ee6b834, journey
 - https://medium.com/@terjanq/clobbering-the-clobbered-advanced-dom-clobbering-8443547ebe94, misc
 - https://medium.com/@0xinfosec/cloudfare-xss-bypass-improper-csrf-token-leads-to-account-takeover-of-victim-account-b795fa429fc3, XSS
-- https://medium.com/@joelmcg1993/stored-xss-with-two-different-parameters-d9243cae3e6a, XSS
 - https://medium.com/@notifybugme/how-i-was-able-find-mass-leaked-aws-s3-bucket-from-js-file-6064a5c247f8, info-disclosure
 - https://medium.com/@abdulparkar9554/how-i-found-stored-xss-html-injection-vulnerability-on-microsoft-6b8682c03680, html-injection
 - https://medium.com/@toxglot/hacking-a-company-from-a-phone-478bbfed04c8, journey
@@ -1362,7 +1361,6 @@
 - https://twitter.com/FlashbackPwn/status/1492074441450397698, Memory-corruption
 - https://twitter.com/m7mdharon/status/1492204287295897600, Subdomain-takeover
 - https://www.zerodayinitiative.com/blog/2022/2/10/mindshare-when-mysql-cluster-encounters-taint-analysis, Memory-corruption
-- https://medium.com/@harishhacker3010/how-i-hacked-google-to-read-files-from-their-servers-for-free-e0486a674912, Arbitrary-file-read
 - https://onapsis.com/threat-report/icmad-sap-vulnerabilities, HTTP-request-smuggling
 - https://bloggerrando.blogspot.com/2022/02/how-can-i-access-members-only-video.html, Broken-Access-Control
 - https://wwws.nightwatchcybersecurity.com/2022/02/06/insecure-bootstrap-process-in-oracle-cloud-cli/, Supply-chain-attack
@@ -2026,7 +2024,6 @@
 - https://medium.com/realmodelabs/sd-pwn-part-3-cisco-vmanage-another-day-another-network-takeover-15731a4d75b7, RCE
 - https://security.love/blog/gcp/2020/11/22/lateral-movement-and-privesc-in-GCP.html, Privilege-escalation
 - https://cirius.medium.com/escalating-xss-to-account-takeover-ffde08624937, Reflected-XSS
-- https://komradz86.medium.com/weird-im-possible-xss-on-error-page-a0b943ead41, Reflected-XSS
 - https://mostafa-mano.medium.com/2-reflected-xss-in-razer-74783ae5ee53, Reflected-XSS
 - https://ozguralp.medium.com/turning-blind-error-based-sql-injection-into-an-exploitable-boolean-one-85d6be3ca23b, SQL-injection
 - https://daeken.svbtle.com/arbitrary-file-write-by-adb-pull, Arbitrary-file-write
@@ -2509,7 +2506,6 @@
 - https://www.hackerinside.me/2019/12/xss-like-pro.html, XSS
 - https://medium.com/bugbountywriteup/dank-writeup-on-broken-access-control-on-an-indian-startup-d29132a1ecd, Unrestricted-file-upload
 - https://rez0.blog/hacking/2019/11/29/rce-via-imagetragick.html, RCE
-- https://web.archive.org/web/20211106053748/https://eng.getwisdom.io/hacking-github-with-unicode-dotless-i/, Logic-flaw
 - https://lf.lc/vrp/145304705/, Site-Isolation-bypass
 - https://pastebin.com/E6LMFm2w, HTTP-request-smuggling
 - https://medium.com/@mashoud1122/cors-misconfiguration-account-takeover-out-of-scope-to-grab-items-in-scope-66d9d18c7a46, CORS-misconfiguration
@@ -3110,7 +3106,6 @@
 - https://medium.com/@logicbomb_1/bugbounty-rewarded-by-securing-vulnerabilities-in-bookmyshow-indias-largest-online-movie-bb81dba9b82, Host-header-injection
 - https://medium.com/@Alra3ees/google-adwords-3133-7-stored-xss-27bb083b8d27, Stored-XSS
 - https://labs.detectify.com/2018/03/14/graphql-abuse/, GraphQL
-- https://medium.com/@nuraalamdipu/union-based-sql-injection-write-up-a-private-company-site-273f89a49ed9, SQL-injection
 - https://www.josipfranjkovic.com/blog/facebook-friendlist-paymentcard-leak, Information-disclosure
 - https://s1gnalcha0s.github.io/dspl/2018/03/07/Stored-XSS-and-SSRF-Google.html, Stored-XSS
 - https://medium.com/bug-bounty-hunting/how-i-found-a-surprising-xss-vulnerability-on-oracle-netsuite-2d48b7fcf0c8, XSS

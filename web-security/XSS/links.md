@@ -163,3 +163,4 @@
 - https://aidilarf.medium.com/380-xss-stored-in-bigo-bug-bounty-program-a8b9529adcc4
 - https://hackademic.co.in/how-a-classical-xss-can-lead-to-persistent-ato-vulnerability/
 - https://gonzx.medium.com/my-experience-on-hacking-the-dutch-government-a2c5a5f43d83
+- https://medium.com/@joelmcg1993/stored-xss-with-two-different-parameters-d9243cae3e6a

@@ -52,3 +52,4 @@
 - https://web.archive.org/web/20200818084242/https://medium.com/@adeshkolte/oracle-cross-site-scripting-vulnerability-adesh-kolte-ddc5d9f279be
 - https://medium.com/pentesternepal/bypassing-ebay-xss-protection-8cf73466ba0f
 - https://pethuraj.com/blog/google-bug-bounty-writeup/
+- https://komradz86.medium.com/weird-im-possible-xss-on-error-page-a0b943ead41

@@ -49,3 +49,4 @@
 - https://medium.com/@vamshivaran110/my-first-blind-sql-injection-7db4b5e5c66d
 - https://medium.com/@St00rm/sql-injection-via-stopping-the-redirection-to-a-login-page-52b0792d5592
 - https://www.bitcrack.net/pwning-the-portal-from-database-dump-to-session-hijacking/
+- https://medium.com/@nuraalamdipu/union-based-sql-injection-write-up-a-private-company-site-273f89a49ed9
