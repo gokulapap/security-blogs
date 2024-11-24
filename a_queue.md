@@ -76,7 +76,6 @@
 - https://medium.com/@deepamkumar510/remote-code-execution-rce-through-file-upload-functionality-1809bd504805, RCE
 - https://medium.com/@nynan/what-i-learnt-from-reading-217-subdomain-takeover-bug-reports-c0b94eda4366, STO
 - https://medium.com/@sharanthehunter/g-map-api-key-exploitation-6fdf60fbb263, misc
-- https://medium.com/@andrea0/understanding-and-exploiting-http-for-bug-bounty-46286fcdd870, misc
 - https://medium.com/@zycc2727/ssrf-cross-site-scripting-a54422d0753e, ssrf
 - https://medium.com/@inakcf/open-redirect-in-email-c658c248eec1, open-redirection
 - https://medium.com/@vikramroot/account-takeover-via-stored-xss-b774f7a2a3ab, ATO
@@ -1078,7 +1077,6 @@
 - https://www.authomize.com/blog/authomize-discovers-password-stealing-and-impersonation-risks-to-in-okta/, Sensitive-data-sent-over-an-unencrypted-channel
 - https://0x1337.ninja/2022/07/19/mybb-0day-authenticated-remote-code-execution/, RCE
 - https://virtuvil.medium.com/hey-google-lets-submit-bug-from-victim-account-af6a25d390e1, IDOR
-- https://infosecwriteups.com/story-of-my-first-valid-critical-bug-22029115f8d7, Missing-authentication
 - https://infosecwriteups.com/ffuf-ing-recon-1ee4e79b3256, vHost-misconfiguration
 - https://medium.com/@rajqureshi07/a-story-of-my-first-bug-bounty-dda320db78d9, Information-disclosure
 - https://securityflow.io/going-beyond-alert-with-xss/, XSS
@@ -2226,7 +2224,6 @@
 - https://lutfumertceylan.com.tr/posts/ato-and-data-leakage-via-cors-misc/, CORS-misconfiguration
 - https://thehackerish.com/bug-bounty-write-up-from-ssrf-to-4000/, SSRF
 - https://fadhilthomas.github.io/post/bug-bounty-tokopedia-03/, IDOR
-- https://medium.com/@ifediri/breaking-business-logic-via-coupons-the-story-of-my-1st-valid-bug-bounty-89c30ff214dc, Payment-tampering
 - https://ysamm.com/?p=479, Information-disclosure
 - https://infosecwriteups.com/story-of-a-2-5k-bounty-ssrf-on-zimbra-led-to-dump-all-credentials-in-clear-text-6fe826005ccc, SSRF
 - https://medium.com/bugbountywriteup/s3-bucket-misconfigured-access-controls-to-critical-vulnerability-6b535e3df9a5, AWS-misconfiguration
@@ -3262,7 +3259,6 @@
 - https://www.rcesecurity.com/2017/03/ok-google-give-me-all-your-internal-dns-information/, SSRF
 - https://labs.detectify.com/2017/02/28/hacking-slack-using-postmessage-and-websocket-reconnect-to-steal-your-precious-token/, postMessage
 - https://timeofcheck.com/time-based-blind-sqli-on-news-starbucks-com/, Blind-SQL-injection
-- https://medium.com/@sean.roesner/one-company-262-bugs-100-acceptance-2-57-priority-300million-user-details-saved-dd88ecb10f6f, Stored-XSS
 - https://medium.com/intigriti/how-i-got-your-phone-number-through-facebook-223b769cccf1, Logic-flaw
 - https://hackernoon.com/how-i-bypassed-state-bank-of-india-otp-f145469a9f1d, OTP-bypass
 - https://medium.com/bugbountywriteup/how-i-was-able-to-remove-your-instagram-phone-number-d346515e79c3, Bruteforce
@@ -3325,7 +3321,6 @@
 - https://portswigger.net/research/xss-without-html-client-side-template-injection-with-angularjs, CSTI
 - https://whitton.io/articles/xss-on-facebook-via-png-content-types, XSS
 - https://medium.com/bugbountywriteup/how-i-got-listed-in-microsoft-hall-of-fame-8f96ca4535c2, IDOR
-- https://web.archive.org/web/20210511011807/https://blog.evanricafort.com/2015/12/local-file-xss-vulnerability-in.html, XSS
 - https://blog.evanricafort.com/2015/12/arbitary-file-upload-vulnerability-in.html, Unrestricted-file-upload
 - https://web.archive.org/web/20180322133921/http://codel10n.com/how-to-hack-payu-buy-10x-more-same-price/, RCE
 - https://medium.com/@r0t1v/open-redirect-in-linkedin-and-yahoo-a3ffd2a9cc48, Open-redirect

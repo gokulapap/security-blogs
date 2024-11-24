@@ -8,3 +8,4 @@
 - https://medium.com/@vflexo/a-weird-price-tampering-vulnerability-1251dfe8d2a1
 - https://vj0shii.github.io/improper-bakend-checks-food-order-site/
 - https://medium.com/bugbountywriteup/exploiting-business-logic-wallet-money-6a7654f4e147
+- https://medium.com/@ifediri/breaking-business-logic-via-coupons-the-story-of-my-1st-valid-bug-bounty-89c30ff214dc

@@ -2,3 +2,4 @@
 - https://medium.com/@omerxx/hacking-your-application-may-be-easier-than-you-think-c822d77ec58b
 - https://medium.com/@nynan/bug-bounty-wordlists-please-do-them-properly-2110babcf482
 - https://medium.com/@sunilyedla/exploiting-max-character-limitation-cde982545019
+- https://medium.com/@andrea0/understanding-and-exploiting-http-for-bug-bounty-46286fcdd870

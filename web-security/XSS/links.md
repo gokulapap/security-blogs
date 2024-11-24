@@ -164,3 +164,4 @@
 - https://hackademic.co.in/how-a-classical-xss-can-lead-to-persistent-ato-vulnerability/
 - https://gonzx.medium.com/my-experience-on-hacking-the-dutch-government-a2c5a5f43d83
 - https://medium.com/@joelmcg1993/stored-xss-with-two-different-parameters-d9243cae3e6a
+- https://web.archive.org/web/20210511011807/https://blog.evanricafort.com/2015/12/local-file-xss-vulnerability-in.html

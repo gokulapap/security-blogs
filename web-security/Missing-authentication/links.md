@@ -6,3 +6,4 @@
 - https://notifybugme.medium.com/unauthorized-access-to-django-admin-dashboard-by-endpoint-leaked-on-github-5336969ddbbc
 - https://web.archive.org/web/20200816192659/https://medium.com/@godofdarkness.msf/influxdb-access-at-redact-8x8-com-1b54976b137
 - https://medium.com/@seaman00o/300-p3-easy-bug-in-30-seconds-de65ea3d8f50
+- https://infosecwriteups.com/story-of-my-first-valid-critical-bug-22029115f8d7
