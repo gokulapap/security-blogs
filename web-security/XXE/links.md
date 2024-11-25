@@ -12,3 +12,4 @@
 - https://hateshape.github.io/general/2018/07/05/CVE-2016-3473.html
 - https://medium.com/@mrnikhilsri/soap-based-unauthenticated-out-of-band-xml-external-entity-oob-xxe-in-a-help-desk-software-c27a6abf182a
 - https://medium.com/@mrnikhilsri/xxe-in-public-transport-ticketing-mobile-app-81ae245c01a1
+- https://www.jomar.fr/posts/2021/my_first_oob_xxe_exploitation/

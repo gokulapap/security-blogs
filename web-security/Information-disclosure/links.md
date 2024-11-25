@@ -143,3 +143,4 @@
 - https://philippeharewood.com/missing-permission-check-for-facebook-gaming-community-invites/
 - https://medium.com/@zseano/its-all-in-the-detail-email-leak-account-takeover-thanks-to-waybackmachine-extensive-4be365580dd7
 - https://faizanwrites.medium.com/heres-how-i-could-read-anyone-s-iphone-metrics-remotely-28459943b898
+- https://community.disclose.io/t/how-i-found-a-tor-vulnerability-in-brave-browser-reported-it-watched-it-get-patched-got-a-cve-cve-2020-8276-and-a-small-bounty-all-in-one-working-day/65

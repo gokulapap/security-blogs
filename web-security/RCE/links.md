@@ -162,3 +162,4 @@
 - https://www.securifera.com/blog/2023/04/24/vocera_report_server_pwnage/
 - https://www.cyberark.com/resources/threat-research-blog/attacking-rdp-from-inside
 - https://blog.assetnote.io/2023/01/24/yellowfin-auth-bypass-to-rce/
+- https://www.redtimmy.com/web-application-hacking/how-to-hack-a-company-by-circumventing-its-waf-through-the-abuse-of-a-different-security-appliance-and-win-bug-bounties/

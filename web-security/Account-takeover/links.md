@@ -60,3 +60,4 @@
 - https://web.archive.org/web/20200819113116/https://medium.com/@godofdarkness.msf/account-takeover-using-re-register-bug-bounty-bda8bb2106e6
 - https://ysamm.com/?p=742
 - https://infosecwriteups.com/critical-bug-bounty-reports-part-1-6fd9aef4b486
+- https://medium.com/pentesternepal/a-tale-of-zero-click-account-takeover-56b51fdbd7ae

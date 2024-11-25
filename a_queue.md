@@ -1418,7 +1418,6 @@
 - https://servicenger.com/mobile/facebook-android-webview-vulnerability/, XSS
 - https://infosecwriteups.com/idor-leads-to-leak-private-details-866563365490, IDOR
 - https://trevorspiniolas.com/doorlock/doorlock.html, DoS
-- https://medium.com/pentesternepal/a-tale-of-zero-click-account-takeover-56b51fdbd7ae, Account-takeover
 - https://m7-arman.medium.com/one-click-to-account-takeover-1f78c6003eba, Mass-assignment
 - https://bugs.xdavidhu.me/google/2021/12/31/fixing-the-unfixable-story-of-a-google-cloud-ssrf/, SSRF
 - https://infosecwriteups.com/bug-hunting-journey-of-2021-1fa60b28d949, Stored-XSS
@@ -1648,7 +1647,6 @@
 - https://yashswarup12.medium.com/how-the-use-of-hidden-form-fields-lead-to-email-verification-bypass-3c8d7c25bd31, Email-verification-bypass
 - https://infosecwriteups.com/how-i-scored-1k-bounty-using-waybackurls-717d9673ca52, Information-disclosure
 - https://blog.gypsyengineer.com/en/security/detecting-jackson-deserialization-vulnerabilities-with-codeql.html, Insecure-deserialization
-- https://servicenger.com/blog/mobile/android/facebook-messenger-for-android-indirect-thread-deletion/, Insecure-deeplink
 - https://blog.azuki.vip/csrf/, CSRF
 - https://ja1sharma.medium.com/bugbounty-idor-how-i-was-able-to-exfiltrate-any-users-credit-coupons-49631d9f3bc8, IDOR
 - https://medium.com/@abhinda1996/privilege-escalation-private-program-bugcrowd-831a7eb58b6c, IDOR
@@ -1787,7 +1785,6 @@
 - https://www.jomar.fr/posts/2021/ssrf_through_pdf_generation/, SSRF
 - https://www.pentagrid.ch/de/blog/password-reset-code-brute-force-vulnerability-in-AWS-Cognito/, Password-reset
 - https://ysamm.com/?p=667, OAuth
-- https://www.jomar.fr/posts/2021/my_first_oob_xxe_exploitation/, XXE
 - https://web.archive.org/web/20210621213025/https://savirsuda.github.io/How-I-was-able-to-Retrieve-your-Personal-Documents-using-the-Wayback-Machine/, Privacy-issue
 - https://blog.sonarsource.com/php-supply-chain-attack-on-composer/, Argument-injection
 - https://bughunter25.medium.com/a-tale-of-html-to-pdf-converter-ssrf-and-various-bypasses-4a3e11030c77, SSRF
@@ -2044,7 +2041,6 @@
 - https://galnagli.com/DoD_IDOR/, IDOR
 - https://blog.blazeinfosec.com/attack-of-the-clones-github-desktop-remote-code-execution/, RCE
 - https://dhakal0kushal.medium.com/story-of-a-pre-account-takeover-33e3d5b4c33f, Account-takeover
-- https://community.disclose.io/t/how-i-found-a-tor-vulnerability-in-brave-browser-reported-it-watched-it-get-patched-got-a-cve-cve-2020-8276-and-a-small-bounty-all-in-one-working-day/65, Information-disclosure
 - https://lokeshdlk77.medium.com/delete-any-photos-in-facebook-832dbe81cdc4, Authorization-flaw
 - https://lokeshdlk77.medium.com/reveal-the-page-admin-that-uploaded-a-video-on-the-page-in-comment-section-9760e4a31453, Information-disclosure
 - https://security.lauritz-holtmann.de/advisories/cve-2020-13294/, Authentication-flaw
@@ -2423,7 +2419,6 @@
 - https://medium.com/@osamaavvan/exploiting-websocket-application-wide-xss-csrf-66e9e2ac8dfa, XSS
 - https://medium.com/@shayboy123/how-i-gain-unrestricted-file-upload-remote-code-execution-bug-bounty-381d0aab0dad, Unrestricted-file-upload
 - https://medium.com/@mohdaltaf163/uploading-backdoor-for-fun-and-profit-rce-db-cred-p1-2cdaa00e2125, Unrestricted-file-upload
-- https://www.redtimmy.com/web-application-hacking/how-to-hack-a-company-by-circumventing-its-waf-through-the-abuse-of-a-different-security-appliance-and-win-bug-bounties/, RCE
 - https://medium.com/@dwi.siswanto98/open-redirect-on-facebook-bypass-linkshim-4050f680d45c, Open-redirect
 - https://hailstorm1422.com/linkedin-blind-idor/, IDOR
 - https://weizman.github.io/2020/02/14/whatsapp-vuln/, RCE
