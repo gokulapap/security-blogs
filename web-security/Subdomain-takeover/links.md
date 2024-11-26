@@ -36,3 +36,4 @@
 - https://blog.securitybreached.org/2017/11/20/uber-wildcard-subdomain-takeover
 - https://10degres.net/one-takeover-to-rule-them-all/
 - https://pyrrhon.medium.com/how-i-was-able-to-take-over-one-of-dells-subdomains-7e06b8516e41
+- https://www.shockwave.cloud/blog/subdomain-takeover-how-a-misconfigured-dns-record-could-lead-to-a-huge-supply-chain-attack

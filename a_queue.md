@@ -481,7 +481,6 @@
 - https://vijetareigns.medium.com/wait-time-bypass-for-fun-and-profit-c3837e6bb8ed, Rate-limiting-bypass
 - https://mizu.re/post/ejs-server-side-prototype-pollution-gadgets-to-rce, Server-side-prototype-pollution
 - https://claroty.com/team82/research/the-silent-spy-among-us-modern-attacks-against-smart-intercoms, IoT
-- https://www.shockwave.cloud/blog/subdomain-takeover-how-a-misconfigured-dns-record-could-lead-to-a-huge-supply-chain-attack, Subdomain-takeover
 - https://infosecwriteups.com/dont-send-a-message-to-anyone-before-reading-this-account-takeover-vulnerability-external-audit-cf584a0c983c, HTTP-response-manipulation
 - https://medium.com/tenable-techblog/wordpress-buddyforms-plugin-unauthenticated-insecure-deserialization-cve-2023-26326-3becb5575ed8, Insecure-deserialization
 - https://eprint.iacr.org/2023/331.pdf, Cryptographic-issues
@@ -1554,7 +1553,6 @@
 - https://pentera.io/blog/vscalation-cve-2021-22015-local-privilege-escalation-in-vmware-vcenter-pentera-labs/, Local-Privilege-Escalation
 - https://blog.tint0.com/2021/09/pinging-xmlsec.html, XSLT
 - https://sinsinology.medium.com/expect-the-unexpected-discovering-fresh-zeroday-for-bounty-d074f3175847, Logic-flaw
-- https://medium.com/@anuragbhoir06/hello-everyone-this-is-anurag-bhoir-and-its-my-first-writeup-d8904d539ad2, OTP-bypass
 - https://ysamm.com/?p=729, Account-takeover
 - https://dewcode.medium.com/force-browsing-bug-at-facebook-business-plan-500-bounty-73d1bb4883af, Authorization-flaw
 - https://habr.com/en/post/580582/, Privacy-issue
@@ -2278,7 +2276,6 @@
 - https://medium.com/@secureITmania/weird-subdomain-take-over-pattern-of-amazon-s3-75165ab2e883, Subdomain-takeover
 - https://medium.com/@sudipshah_66336/the-story-of-my-first-xxx-bug-bounty-from-facebook-565a212c94ad, Logic-flaw
 - https://medium.com/@kassihmouhssine/cross-site-scripting-the-power-of-the-hidden-parameters-259a4d2c4c09, Reflected-XSS
-- https://bhavukjain.com/blog/2020/05/30/zeroday-signin-with-apple/, Account-takeover
 - https://ezqelusia.blogspot.com/2020/05/microsofts-first-bug.html, Memory-corruption
 - https://medium.com/bugbountywriteup/weak-cryptography-leads-to-open-redirect-3fe052c12995, Open-redirect
 - https://blog.raphael.karger.is/articles/2020-05/CVE-2020-13693, Privilege-escalation
@@ -2443,14 +2440,12 @@
 - https://medium.com/@naveenroy008/tale-of-a-misconfiguration-in-password-reset-e8fb484a4661, Password-reset
 - https://www.amolbaikar.com/xss-on-facebook-instagram-cdn-server-bypassing-signature-protection/, XSS
 - https://www.amolbaikar.com/xss-on-facebooks-acquisition-oculus-cdn-server/, XSS
-- https://medium.com/bugbountywriteup/accidental-idor-that-deleted-admin-account-d51264292b66, IDOR
 - https://medium.com/bugbountywriteup/the-unexpected-bounty-a-story-of-zendesk-takeover-on-redacted-com-f2aa96ce2026, Subdomain-takeover
 - https://medium.com/nassec-cybersecurity-writeups/how-i-was-able-to-take-over-any-users-account-with-host-header-injection-546fff6d0f2, Host-header-injection
 - https://medium.com/@ozguralp/a-less-known-attack-vector-second-order-idor-attacks-14468009781a, IDOR
 - https://medium.com/bugbountywriteup/how-i-bought-my-way-to-subdomain-takeover-on-tokopedia-8c6697c85b4d, Subdomain-takeover
 - https://medium.com/@milanmagyar/ggvulnz-how-i-hacked-hundreds-of-companies-through-google-groups-b69c658c8924, Logic-flaw
 - https://noobe.io/articles/2020-01/how-i-found-bug-google-search-console, Logic-flaw
-- https://irsl.medium.com/the-trouble-with-microsofts-troubleshooters-6e32fc80b8bd, RCE
 - https://xvnpw.github.io/posts/from-dot-in-regex-to-ssrf-part-2/, SSRF
 - https://palant.info/2020/01/13/pwning-avast-secure-browser-for-fun-and-profit, RCE
 - https://medium.com/@know.0nix/hunting-good-bugs-with-only-html-d8fd40d17b38, Open-redirect

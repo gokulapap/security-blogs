@@ -163,3 +163,4 @@
 - https://www.cyberark.com/resources/threat-research-blog/attacking-rdp-from-inside
 - https://blog.assetnote.io/2023/01/24/yellowfin-auth-bypass-to-rce/
 - https://www.redtimmy.com/web-application-hacking/how-to-hack-a-company-by-circumventing-its-waf-through-the-abuse-of-a-different-security-appliance-and-win-bug-bounties/
+- https://irsl.medium.com/the-trouble-with-microsofts-troubleshooters-6e32fc80b8bd

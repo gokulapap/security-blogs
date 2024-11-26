@@ -136,3 +136,4 @@
 - https://blog.darabi.me/2017/11/image-removal-vulnerability-in-facebook.html
 - https://medium.com/@vis_hacker/how-i-was-able-to-pwned-30000-users-webhook-d26dc3420703
 - https://medium.com/@nvmeeet/how-i-was-able-to-spoof-any-instagram-username-on-instagram-shop-b4d6abdb474a
+- https://medium.com/bugbountywriteup/accidental-idor-that-deleted-admin-account-d51264292b66
