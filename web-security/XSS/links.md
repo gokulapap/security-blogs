@@ -165,3 +165,4 @@
 - https://gonzx.medium.com/my-experience-on-hacking-the-dutch-government-a2c5a5f43d83
 - https://medium.com/@joelmcg1993/stored-xss-with-two-different-parameters-d9243cae3e6a
 - https://web.archive.org/web/20210511011807/https://blog.evanricafort.com/2015/12/local-file-xss-vulnerability-in.html
+- https://web.archive.org/web/20191219015356/https://medium.com/@adeshkolte/proof-of-concept-nokia-cross-site-scripting-5bb47c3b9529

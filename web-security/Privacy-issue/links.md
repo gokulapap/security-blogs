@@ -8,3 +8,4 @@
 - https://wojciechregula.blog/post/play-the-music-and-bypass-tcc-aka-cve-2020-29621/
 - https://pawanchhabria.medium.com/how-i-accessed-the-sensitive-document-which-i-had-already-deleted-adbc1e6fbb25
 - https://privatedrop.github.io
+- https://breakpoint.sh/posts/turning-your-computer-into-a-gps-tracker-with-apple-maps

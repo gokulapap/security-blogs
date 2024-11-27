@@ -8,3 +8,4 @@
 - https://www.r29k.com/articles/bb/ssti
 - https://orwaatyat.medium.com/how-i-found-multiple-bugs-on-facebook-in-1-month-and-a-part-for-my-methodology-tools-58a677a9040c
 - https://eslam.io/posts/ejs-server-side-template-injection-rce/
+- https://cyc10n3.medium.com/rce-via-server-side-template-injection-ad46f8e0c2ae

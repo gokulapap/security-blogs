@@ -681,7 +681,6 @@
 - https://medium.com/@EX_097/my-first-bug-in-bugcrowd-76decc1f9901, Race-condition
 - https://www.trendmicro.com/en_us/research/22/l/a-technical-analysis-of-cve-2022-22583-and-cve-2022-32800.html, MacOS
 - https://crypt0g30rgy.github.io/post/AWSTakeover, Information-disclosure
-- https://www.trendmicro.com/en_us/research/22/l/diving-into-an-old-exploit-chain-and-discovering-3-new-sip-bypas.html, MacOS
 - https://dappsec.substack.com/p/an-advisory-for-cve-2019-16891-from, RCE
 - https://rv09.medium.com/in-this-article-ill-tell-you-how-i-got-a-4-digits-bounty-from-an-indian-company-38e39a29f99e, Broken-link-hijacking
 - https://infosecwriteups.com/graphql-idor-leaking-credit-card-information-of-1000s-of-users-d07eec732979, IDOR
@@ -919,7 +918,6 @@
 - https://ssd-disclosure.com/ssd-advisory-linux-clock_thread_cputime_id-lpe/, Memory-corruption
 - https://github.com/StackOverflowExcept1on/how-to-hack-github-actions, CICD
 - https://medium.com/@cyberali/android-application-forgot-password-token-leakage-leading-to-account-takeover-8a0b28296531, Information-disclosure
-- https://breakpoint.sh/posts/turning-your-computer-into-a-gps-tracker-with-apple-maps, Privacy-issue
 - https://srahulceh.medium.com/bug-bounty-how-i-found-an-sensitive-information-disclosure-reconnaissance-542daf10dd19, Information-disclosure
 - https://medium.com/@Parag_Bagul/ssrf-attack-leading-to-aws-metadata-e95155fa6c6f, SSRF
 - https://medium.com/@yashshirke7806/how-i-found-unauthorized-bypass-rce-3591a86425a9, RCE
@@ -2024,7 +2022,6 @@
 - https://shahjerry33.medium.com/server-side-misconfigurartion-a-funny-fix-63cc12b4c7fc, Information-disclosure
 - https://medium.com/@logicbomb_1/tale-of-3-vulnerabilities-to-account-takeover-44ba631a0304, SSRF
 - https://evait.medium.com/pentest-story-empirum-password-decryption-3a9e2530aba7, Weak-crypto
-- https://cyc10n3.medium.com/rce-via-server-side-template-injection-ad46f8e0c2ae, SSTI
 - http://www.firstsight.me/2020/11/optimizing-hunting-results-in-vdp-for-use-in-bug-bounty-programs-from-sensitive-information-disclosure-to-accessing-hidden-apis-which-can-be-used-to-retrieve-customer-data/, Information-disclosure
 - https://www.pethuraj.com/blog/microsoft-bug-bounty-writeup-stored-xss-vulnerability/, Stored-XSS
 - https://rafi-ahamed.medium.com/exploiting-api-with-authtoken-3bea7b1fb6a9, Token-leak
@@ -2852,7 +2849,6 @@
 - https://medium.com/bugbountywriteup/token-brute-force-to-account-take-over-to-privilege-escalation-to-organization-take-over-650d14c7ce7f, Account-takeover
 - https://medium.com/@sampanna/self-xss-in-indeed-com-e0c99c104cba, XSS
 - https://medium.com/@rupika.luhach/change-anyones-profile-picture-exploiting-idor-41369f5acf75, IDOR
-- https://web.archive.org/web/20191219015356/https://medium.com/@adeshkolte/proof-of-concept-nokia-cross-site-scripting-5bb47c3b9529, XSS
 - https://blog.securitybreached.org/2018/12/08/how-i-was-able-to-bypass-email-verification/, Information-disclosure
 - https://www.betterhacker.com/2018/12/rce-in-hubspot-with-el-injection-in-hubl.html, RCE
 - https://blog.intothesymmetry.com/2018/12/billion-laugh-attack-in.html, Billion-laugh-attack
@@ -3287,7 +3283,6 @@
 - https://www.seekurity.com/blog/general/bmw-vulnerabilities-hijack-cars-connecteddrive-service/, Clickjacking
 - http://www.kernelpicnic.net/2016/07/24/Microsoft-signout.live.com-Remote-Code-Execution-Write-Up.html, RCE
 - https://avicoder.me/2016/07/22/Twitter-Vine-Source-code-dump/, Source-code-disclosure
-- https://mhmdiaa.com/blog/spotify-blind-xss/, Blind-XSS
 - https://www.josipfranjkovic.com/blog/hacking-facebook-csrf-device-login-flow, CSRF
 - https://www.josipfranjkovic.com/blog/race-conditions-on-web, Race-condition
 - https://www.seekurity.com/blog/general/topcoder-vulnerabilities-a-tail-of-site-wide-bugs-leads-to-accounts-compromise-payments-hijacking/, CSRF
