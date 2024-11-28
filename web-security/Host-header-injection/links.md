@@ -5,3 +5,4 @@
 - https://web.archive.org/web/20200530191901/https://vict0ni.me/multiple-header-injections-bug-hunting/
 - https://www.synacktiv.com/publications/cve-2022-31813-forwarding-addresses-is-hard.html
 - https://medium.com/@sechunter/ato-via-host-header-poisoning-dc5c29d2fd0d
+- https://medium.com/nassec-cybersecurity-writeups/how-i-was-able-to-take-over-any-users-account-with-host-header-injection-546fff6d0f2

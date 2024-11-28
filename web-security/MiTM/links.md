@@ -3,3 +3,4 @@
 - https://sysrant.com/500-bounty-man-in-the-middle-on-slack/
 - https://www.evilsocket.net/2016/08/17/Samsung-Galaxy-Apps-MITM-Vulnerabilities/
 - https://github.com/champtar/blog/tree/main/IPv6_RA_MITM
+- https://www.nozominetworks.com/blog/vulnerability-in-dahua-s-onvif-implementation-threatens-ip-camera-security/
