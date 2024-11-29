@@ -12,3 +12,4 @@
 - https://tij.me/blog/xss-on-hema-one-of-the-largest-dutch-franchisors/
 - http://blog.mindedsecurity.com/2018/04/dom-based-cross-site-scripting-in.html
 - https://jinone.github.io/bugbounty-a-dom-xss/
+- https://medium.com/@haroonhameed_76621/winning-qr-with-dom-based-xss-bug-bounty-poc-4b4048cf285d

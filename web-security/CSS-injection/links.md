@@ -1,3 +1,4 @@
 - https://medium.com/@rdzsp/getting-paid-with-just-picking-color-bug-bounty-d3dbbac277fa
 - https://buer.haus/2016/04/18/yahoo-login-protection-seal-stored-css-injection/
 - https://sanderwind.medium.com/unleashing-the-power-of-css-injection-the-access-key-to-an-internal-api-789b166d0527
+- https://medium.com/@renwa/the-underrated-bugs-clickjacking-css-injection-drag-drop-xss-cookie-bomb-login-logout-csrf-84307a98fffa

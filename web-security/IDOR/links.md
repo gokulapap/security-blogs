@@ -138,3 +138,4 @@
 - https://medium.com/@nvmeeet/how-i-was-able-to-spoof-any-instagram-username-on-instagram-shop-b4d6abdb474a
 - https://medium.com/bugbountywriteup/accidental-idor-that-deleted-admin-account-d51264292b66
 - https://fadhilthomas.github.io/post/bug-bounty-tokopedia-01-en/
+- https://medium.com/bugbountywriteup/the-youtube-bug-that-allowed-uploads-to-any-channel-3b41c7b7902a
