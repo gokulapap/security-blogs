@@ -213,7 +213,6 @@
 - https://www.kroll.com/en/insights/publications/cyber/ghostscript-cve-2023-36664-remote-code-execution-vulnerability, RCE
 - https://medium.com/workday-engineering/exploiting-jmeter-via-rmi-e8e12392bba8, Insecure-deserialization
 - https://insinuator.net/2023/07/all-your-parcel-are-belong-to-us-talk-at-troopers-2023/, Privacy-issue
-- https://portswigger.net/research/exploiting-xss-in-hidden-inputs-and-meta-tags, XSS
 - https://d4ly.medium.com/an-interesting-rce-on-a-synack-red-team-target-516edb63fd04, RCE
 - https://herolab.usd.de/en/critical-foswiki-vulnerablities-a-logic-error-turned-remote-code-execution/, RCE
 - https://www.rapid7.com/blog/post/2023/07/11/cve-2023-29298-adobe-coldfusion-access-control-bypass/, Broken-Access-Control
@@ -355,7 +354,6 @@
 - https://infosecwriteups.com/mass-assignment-leads-to-the-victims-account-being-inaccessible-forever-52e48c6a8a4d, Mass-assignment
 - https://blog.ankursundara.com/cookie-bugs/, Cookie-smuggling
 - https://ermetic.com/blog/azure/when-good-apis-go-bad-uncovering-3-azure-api-management-vulnerabilities/, SSRF
-- https://blog.stratumsecurity.com/2023/05/04/integration-fails/, Privilege-escalation
 - https://danrevah.github.io/2023/05/03/CVE-2023-25394-VideoStream-LPE/, Local-Privilege-Escalation
 - https://sumedh00.medium.com/accessing-admin-dashboard-in-5-seconds-acee737eacfb, Default-credentials
 - https://blog.onsec.io/when-youre-so-bored-you-start-debugging-someone-elses-code/, SSTI
@@ -1303,7 +1301,6 @@
 - https://bloggerrando.blogspot.com/2022/03/13-1.html, Broken-Access-Control
 - https://medium.com/@botami143/i-have-found-microsoft-subdomain-website-database-list-database-username-password-1dab07d0c8ea, Information-disclosure
 - https://canmustdie.medium.com/how-did-i-leak-5-2k-customer-data-from-a-large-company-via-broken-access-control-709eb4027409, Broken-Access-Control
-- https://medium.com/@tobydavenn/how-i-was-able-to-takeover-any-users-account-on-a-major-telecoms-website-2cd5aa43e3d6, XSS
 - https://medium.com/@girishbo58/rate-limit-bypass-at-readme-com-35c4fb0c7f85, Lack-of-rate-limiting
 - https://medium.com/@tobydavenn/how-i-was-able-to-read-any-users-confidential-reports-on-a-public-level-domain-1e563857b0b9, IDOR
 - https://prajwoldhungana487.medium.com/demographic-misconfiguration-9359910c6fcf, Logic-flaw
@@ -2551,7 +2548,6 @@
 - https://medium.com/@cc1h2e1/unauthorized-access-to-all-user-information-leaks-5db95746aecf, Information-disclosure
 - https://memn0ps.github.io/http-request-smuggling-cl-te/, HTTP-request-smuggling
 - https://anotherhackerblog.com/exploiting-file-uploads-pt-2/, Unrestricted-file-upload
-- https://philippeharewood.com/facebook-employee-internal-tool-and-conversations-and-leaked-in-facebook-video/, Information-disclosure
 - https://medium.com/@heinthantzin/how-does-my-recon-win-250-in-15-minutes-a1992508b911, Open-redirect
 - https://philippeharewood.com/add-users-to-roles-on-facebook-pages-without-an-invitation-consent/, Authorization-flaw
 - https://philippeharewood.com/subscribe-to-the-list-of-requesters-to-join-a-facebook-live-video-using-mqtt/, Authorization-flaw
@@ -2852,7 +2848,6 @@
 - https://medium.com/@sudhanshur705/story-about-my-first-bug-bounty-9fe710be8241, XSS
 - https://medium.com/@yassergersy/exploiting-post-message-to-steal-users-cookies-7df43a00289a, postMessage
 - https://web.archive.org/web/20191221105442/https://medium.com/bugbountywriteup/broken-authentication-bug-bounty-5c941a4a5f48, Session-management-issue
-- https://slashcrypto.org/2018/11/28/eBay-source-code-leak/, git-folder-disclosure
 - https://medium.com/@vishnu0002/instagram-multi-factor-authentication-bypass-924d963325a1, MFA-bypass
 - https://www.amolbaikar.com/disclose-contact_email-of-any-facebook-application/, Information-disclosure
 - https://medium.com/@zain.sabahat/exploiting-ssrf-like-a-boss-c090dc63d326, SSRF

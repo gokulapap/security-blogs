@@ -167,3 +167,5 @@
 - https://web.archive.org/web/20210511011807/https://blog.evanricafort.com/2015/12/local-file-xss-vulnerability-in.html
 - https://web.archive.org/web/20191219015356/https://medium.com/@adeshkolte/proof-of-concept-nokia-cross-site-scripting-5bb47c3b9529
 - https://read.martiandefense.llc/a-zero-day-for-demo-servers-and-internal-government-networks-96acda9e83ed
+- https://portswigger.net/research/exploiting-xss-in-hidden-inputs-and-meta-tags
+- https://medium.com/@tobydavenn/how-i-was-able-to-takeover-any-users-account-on-a-major-telecoms-website-2cd5aa43e3d6
