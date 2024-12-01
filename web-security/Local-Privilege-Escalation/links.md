@@ -51,3 +51,4 @@
 - https://jhftss.github.io/CVE-2023-23525-Get-Root-via-A-Fake-Installer/
 - https://darrenmartyn.ie/2021/10/25/zimbra-nginx-local-root-exploit/
 - https://parsiya.net/blog/2021-01-08-a-novel-way-to-bypass-executable-signature-checks-with-electron/
+- https://www.trendmicro.com/en_us/research/22/d/macos-suhelper-root-privilege-escalation-vulnerability-a-deep-di.html

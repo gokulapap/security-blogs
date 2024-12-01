@@ -20,3 +20,4 @@
 - https://zoidsec.medium.com/how-i-hacked-a-crypto-company-and-could-steal-1-million-dollars-worth-of-bitcoin-3174434b382c
 - https://www.trellix.com/en-us/about/newsroom/stories/threat-labs/tarfile-exploiting-the-world.html
 - https://occamsec.com/exploit-for-cve-2023-2825/
+- https://cyberlix.io/breaking-parser-logic-gain-access-to-nginx-plus-api-read-write-upstreams/
