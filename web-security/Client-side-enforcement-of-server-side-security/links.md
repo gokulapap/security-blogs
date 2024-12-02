@@ -1,3 +1,4 @@
 - https://www.jonbottarini.com/2019/06/17/using-burp-suite-match-and-replace-settings-to-escalate-your-user-privileges-and-find-hidden-features/
 - https://medium.com/@hetroublemakr/how-inspect-element-got-me-a-bounty-58d3a9946225
 - https://infosecwriteups.com/break-the-logic-5-different-perspectives-in-single-page-1500-5aa09da0fe7a
+- https://blog.securitybreached.org/2020/06/30/using-inspect-element-to-bypass-security-restrictions-bug-bounty-poc/

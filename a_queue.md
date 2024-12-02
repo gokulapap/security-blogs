@@ -930,7 +930,6 @@
 - https://medium.com/@cyberali/contentful-access-token-disclosure-in-android-apk-ace5f7bdf98, Information-disclosure
 - https://medium.com/@Parag_Bagul/how-i-was-able-to-bypass-philips-authentication-c3bd3e1df9ff, Outdated-component-with-a-known-vulnerability
 - https://www.legitsecurity.com/blog/bypassing-github-required-reviewers-to-submit-malicious-code, Authorization-flaw
-- https://www.graplsecurity.com/post/attacking-firecracker, Memory-corruption
 - https://medium.com/@abbasheybati1/403-bypass-lyncdiscover-microsoft-com-db2778458c33, 403-bypass
 - https://www.whiteoaksecurity.com/blog/fun-with-cors/, CORS-misconfiguration
 - https://labs.jumpsec.com/quest-kace-desktop-authority-pre-auth-remote-code-execution-cve-2021-44031/, RCE
@@ -1817,7 +1816,6 @@
 - https://infosecwriteups.com/bragging-rights-lets-head-back-to-bug-bucket-88c94730b6fa, XSS
 - https://security.lauritz-holtmann.de/post/xss-parameter-guessing/, XSS
 - https://sriram-offcl.medium.com/play-a-game-get-subscribed-to-my-channel-youtube-clickjacking-bug-googlevrp-6ce1d15542d3, Clickjacking
-- https://ysamm.com/?p=654, Account-takeover
 - https://ysamm.com/?p=646, Account-takeover
 - https://philippeharewood.com/download-facebook-internal-mobile-builds/, Information-disclosure
 - https://thexssrat.medium.com/i-felt-like-there-were-no-more-bugs-left-after-winning-2000-but-an-email-worth-750-changed-my-c7a507649060, Broken-Access-Control
@@ -2210,7 +2208,6 @@
 - https://lutfumertceylan.com.tr/posts/stored-xss-with-password-recovery-page/, Stored-XSS
 - https://certik.io/blog/technology/vulnerability-electron-based-application-malicious-code-execution, XSS
 - https://medium.com/kminthein/story-of-stealing-mail-conversation-contacts-in-mail-ru-and-mymail-ios-applications-via-xss-1e49c4ed560, Stored-XSS
-- https://blog.securitybreached.org/2020/06/30/using-inspect-element-to-bypass-security-restrictions-bug-bounty-poc/, Client-side-enforcement-of-server-side-security
 - https://web.archive.org/web/20200629033551/https://blogs.ad3sh.com/2020/06/api-endpoint-leads-to-account-takeover.html, Exposed-token-generation-endpoint
 - https://blog.assetnote.io/2020/06/29/subdomain-takeover-to-account-takeover/, Subdomain-takeover
 - https://medium.com/@hgreal/how-i-hacked-a-bank-their-application-using-it-for-hacking-another-bank-company-10-k-xss-b9cc801a675, XSS
@@ -2447,7 +2444,6 @@
 - https://smaranchand.com.np/2019/12/subdomain-takeover-via-pantheon/, Subdomain-takeover
 - https://web.archive.org/web/20210116173906/https://strynx.org/insecure-crypto-code-execution/, SQL-injection
 - https://www.indoappsec.in/2019/12/airbnb-steal-earning-of-airbnb-hosts-by.html, IDOR
-- https://jinone.github.io/bugbounty-a-dom-xss/, DOM-XSS
 - https://medium.com/bugbountywriteup/graphql-idor-leads-to-information-disclosure-175eb560170d, IDOR
 - https://web.archive.org/web/20200320111950/https://medium.com/@sainttobs/csrf-token-bypasss-a-tale-of-my-2k-bug-ff7f51166ea1, CSRF
 - https://medium.com/bugbountywriteup/from-broken-link-to-sub-folder-takeover-on-bukalapak-3aa985e622c4, AWS-misconfiguration
@@ -2581,7 +2577,6 @@
 - https://initblog.com/2019/switcheroo/, SSRF
 - https://medium.com/@protostar0/crlf-injection-allow-cookie-injection-in-root-domain-xss-812cd807ba5b, CRLF-injection
 - http://mahmoudsec.blogspot.com/2019/08/exploiting-out-of-band-xxe-using.html, XXE
-- https://medium.com/@04sabsas/bugbounty-writeup-creative-thinking-is-our-everything-race-condition-business-logic-error-2f3e82b9aa17, Race-condition
 - https://learn.hackersid.com/2019/08/stored-xss-on-laporbugid.html, Stored-XSS
 - https://blog.usejournal.com/how-i-found-xss-by-searching-in-shodan-6943b799e648, Reflected-XSS
 - https://smaranchand.com.np/2019/08/no-rate-limiting-eligible-for-bounty, Lack-of-rate-limiting
