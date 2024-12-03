@@ -61,3 +61,4 @@
 - https://sites.google.com/securifyinc.com/vrp-writeups/hire-with-google/xsses
 - https://medium.com/@khaled.hassan/the-2-5-btc-stored-xss-f2f9393417f2
 - https://medium.com/@sean.roesner/one-company-262-bugs-100-acceptance-2-57-priority-300million-user-details-saved-dd88ecb10f6f
+- https://hacklad.github.io/blog/2019/01/13/Xss-it.html

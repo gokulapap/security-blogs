@@ -169,3 +169,4 @@
 - https://read.martiandefense.llc/a-zero-day-for-demo-servers-and-internal-government-networks-96acda9e83ed
 - https://portswigger.net/research/exploiting-xss-in-hidden-inputs-and-meta-tags
 - https://medium.com/@tobydavenn/how-i-was-able-to-takeover-any-users-account-on-a-major-telecoms-website-2cd5aa43e3d6
+- https://medium.com/@cyberweapons/reflected-xss-cloudflare-waf-bypass-cc60a7b565eb

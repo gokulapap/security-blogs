@@ -95,7 +95,6 @@
 - https://medium.com/@geekboyranjeet/strange-admin-panel-bypass-story-bug-bounty-5e618099baaf, bypass
 - https://medium.com/@rahulkumarmk/fuzzing-get-and-post-requests-a-comprehensive-guide-with-gobuster-ffuz-and-wfuzz-bde14769999e, automation
 - https://medium.com/@kaorrosi/content-discovery-automated-and-manual-9984ba8d1da6, recon
-- https://medium.com/@cyberweapons/reflected-xss-cloudflare-waf-bypass-cc60a7b565eb, XSS
 - https://medium.com/@popalltheshells/domain-admin-compromise-in-3-hours-5778902604c9, misc
 - https://medium.com/@sivasimha/unrestricted-file-upload-cloud-fare-bypass-12867b65de3a, file-upload
 - https://medium.com/@adamjsturge/mx-takeovers-automated-subdomain-takeover-64e658fc4fb7, automation
@@ -501,7 +500,6 @@
 - https://salt.security/blog/traveling-with-oauth-account-takeover-on-booking-com, OAuth
 - https://medium.com/@kushjain0107/how-simple-idor-impacted-the-data-of-thousands-of-customers-of-an-indian-automotive-giant-fdbd2ef1c2c6, Account-takeover
 - https://medium.com/@snoopy101/web-cache-deception-attack-on-a-private-bug-bounty-program-52872cbdeedc, Web-cache-deception
-- https://snyk.io/blog/gitpod-remote-code-execution-vulnerability-websockets/, RCE
 - https://redshark1802.com/blog/2023/03/01/abusing-hopy-by-hop-header-crlf-injection/, CRLF-injection
 - https://www.sonarsource.com/blog/empowering-weak-primitives-file-truncation-to-code-execution-with-git/, Argument-injection
 - https://www.zerodayinitiative.com/blog/2023/2/27/cve-2022-38108-rce-in-solarwinds-network-performance-monitor, Insecure-deserialization
@@ -1255,7 +1253,6 @@
 - https://amit-lt.medium.com/hacked-instagram-handle-of-samsung-cb1a35990a90, Broken-link-hijacking
 - https://ph-hitachi.medium.com/view-friends-list-of-any-users-using-view-as-facebook-bug-bounty-edeb6af5640b, Logic-flaw
 - https://amit-lt.medium.com/multiple-times-i-hacked-duke-university-with-rxss-vulnerability-7e291aad043a, Reflected-XSS
-- https://akashhamal0x01.medium.com/design-flaw-a-tale-of-permanent-dos-a9ef05181083, DoS
 - https://omespino.com/write-up-finapi-open-banking-api-oauth-credentials-exposed-in-plain-text-in-android-app/, Hardcoded-credentials
 - https://medium.com/@terminatorLM/small-bugs-are-more-dangerous-than-you-think-9411618191ab, Self-XSS
 - https://shenkaiwen.com/publication/2022-dkim/, Email-spoofing
@@ -1699,7 +1696,6 @@
 - https://infosecwriteups.com/crashing-your-linkedin-app-with-a-connection-request-257f9b484550, Application-level-DoS
 - https://blog.oversecured.com/Why-dynamic-code-loading-could-be-dangerous-for-your-apps-a-Google-example/, Arbitrary-file-write
 - https://rakesh-thodupunoori.medium.com/part-1-dive-into-zoom-applications-d70f3de53ec5, CSRF
-- https://inakcf.medium.com/one-click-dos-via-response-manipulation-2f08da421104, Logic-flaw
 - https://infosecwriteups.com/authentication-bypass-easy-p1-in-10-minutes-54d5a2093e54, Authentication-bypass
 - https://fartademayur.medium.com/this-is-how-i-was-able-to-see-private-archived-posts-stories-of-users-on-instagram-without-de70ca39165c, IDOR
 - https://infosecwriteups.com/importance-of-burp-history-analysis-to-bypass-403-afc7af6c08b, 403-bypass
@@ -2791,7 +2787,6 @@
 - https://medium.com/@ritishkumarsingh/facebook-vulnerability-unremovable-facebook-group-admin-2cbf4faf55c1, Logic-flaw
 - https://medium.com/@sadiqwest01/bugbounty-how-i-hack-billion-company-5529a3ebe999, Directory-listing
 - https://blog.assetnote.io/bug-bounty/2019/01/14/gaining-access-to-ubers-user-data-through-ampscript-evaluation/, AMPScript-injection
-- https://hacklad.github.io/blog/2019/01/13/Xss-it.html, Stored-XSS
 - https://www.symbo1.com/articles/2019/01/11/fb-pageanalyst-could-add-oneself-as-moderator-on-group.html, Authorization-flaw
 - https://philippeharewood.com/view-the-contact-list-for-a-messenger-kid-as-a-parent-approved-contact/, Authorization-flaw
 - https://medium.com/bugbountywriteup/when-cookie-hijacking-html-injection-become-dangerous-3c649f7f6c88, Cookie-hijacking

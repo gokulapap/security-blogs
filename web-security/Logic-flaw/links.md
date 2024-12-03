@@ -96,3 +96,4 @@
 - https://web.archive.org/web/20200405123820/https://medium.com/@saugatpokharel/cannot-delete-post-on-facebook-group-facebook-bug-bounty-4f2661655c3a
 - https://omar0x01.medium.com/how-to-prevent-more-than-200-million-users-from-using-google-services-136b3b8e221f
 - https://web.archive.org/web/20211106053748/https://eng.getwisdom.io/hacking-github-with-unicode-dotless-i/
+- https://inakcf.medium.com/one-click-dos-via-response-manipulation-2f08da421104
