@@ -1,0 +1,1 @@
+- https://testbnull.medium.com/phân-t%C3%ADch-lỗ-hổng-sharepoint-webpart-property-traversal-cve-2022-38053-cve-2023-21742-bc6931698a5f

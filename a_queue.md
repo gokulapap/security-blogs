@@ -53,7 +53,6 @@
 - https://medium.com/@hunter-55/how-i-was-able-to-bypass-open-redirect-3-times-on-same-program-d78f9d2443f6, open-redirection
 - https://medium.com/@ibm_ptc_security/exploiting-missing-hsts-54f8e23ed80b, misc
 - https://medium.com/@manavbankatwala29/unique-rate-limit-bypass-worth-1800-6e2947c7d972, bypass
-- https://medium.com/@dPhoeniixx/tiktok-for-android-1-click-rce-240266e78105, RCE
 - https://medium.com/@yashdharmani/a-bug-that-made-me-250-485df60f5b26, journey
 - https://medium.com/@nynan/bug-bounty-fingerprinting-204506945ab, recon
 - https://medium.com/@86karthikkarthik/email-verification-bypass-d07b2db8dc4, bypass
@@ -286,7 +285,6 @@
 - https://infosecwriteups.com/kubernetes-pentest-bypassing-load-balancer-9bcfae2ce84a, Security-code-review
 - https://www.whiteoaksecurity.com/blog/sony-bravia-remote-code-execution-disclosure/, RCE
 - https://redmaple.tech/blogs/2023/extract-bitwarden-vault-passwords/, Information-disclosure
-- https://medium.com/pentesternepal/how-i-hacked-100k-godaddy-users-and-help-to-secure-for-free-65f172bd726a, git-folder-disclosure
 - https://d3lb3.github.io/keepass_triggers_arent_dead/, Local-Privilege-Escalation
 - https://www.tarlogic.com/blog/linked-servers-adsi-passwords/, ADSI
 - https://medium.com/@malekmahmed55/turning-a-50-tab-nabbing-vulnerability-into-a-1000-account-takeover-9c3f32cb2d84, Reverse-tabnabbing
@@ -411,7 +409,6 @@
 - https://medium.com/@zhero_/a-successful-prototype-pollution-chained-to-a-dom-xss-9887087b56a4, Prototype-pollution
 - https://medium.com/@ch3tanbug/how-i-was-able-to-change-password-of-any-corporate-user-c68b9509840, Account-takeover
 - https://shahjerry33.medium.com/sql-wildcard-dos-hang-till-death-adbae66d1f7b, DoS
-- https://testbnull.medium.com/phân-t%C3%ADch-lỗ-hổng-sharepoint-webpart-property-traversal-cve-2022-38053-cve-2023-21742-bc6931698a5f, Property-traversal
 - https://dev.to/mikesamuel/2008-silently-securing-jsonparse-5cbb, Parsing-issue
 - https://blog.exodusintel.com/2023/04/06/escaping-adobe-sandbox-exploiting-an-integer-overflow-in-microsoft-windows/, Integer-overflow
 - https://vitorfalcao.com/posts/simple-bugs/overwritting-files/, Normalization
@@ -1441,7 +1438,6 @@
 - https://www.varonis.com/blog/box-mfa-bypass-totp/, OTP-bypass
 - https://blog.lightspin.io/aws-sagemaker-notebook-takeover-vulnerability, Self-XSS
 - https://security.googleblog.com/2021/12/exploring-container-security-storage.html, Race-condition
-- https://googleprojectzero.blogspot.com/2021/12/this-shouldnt-have-happened.html, Memory-corruption
 - https://cyberguy0xd1.medium.com/how-i-was-able-to-bypass-cloudflare-waf-for-sqli-payload-b9e7a4260026, SQL-injection
 - https://web.archive.org/web/20211202081008/https://medium.com/@saurabhsankhwar3/p1-bug-in-apple-that-phase-old-is-gold-6eb99da5bbca, Logic-flaw
 - https://www.y-security.de/news-en/microsoft-teams-csv-injection/index.html, CSV-injection
@@ -3301,7 +3297,6 @@
 - https://maustin.net/google_docs, Clickjacking
 - https://www.rcesecurity.com/2014/04/magix-bug-bounty-magix-com-rce-sqli-and-xara-com-lfi-xss/, RCE
 - https://blog.it-securityguard.com/a-tale-of-7-vulnerabilities-paypal-bug-bounty/, Stored-XSS
-- https://buer.haus/2014/04/07/facebook-send-notifications-to-any-user-exploit/, Logic-flaw
 - https://bitquark.co.uk/blog/2014/02/23/tesla_motors_blind_sql_injection, SQL-injection
 - https://0day.click/recipe/2014-02-22-github/, RCE
 - https://blog.includesecurity.com/2014/02/how-i-was-able-to-track-the-location-of-any-tinder-user/, Information-disclosure

@@ -166,3 +166,4 @@
 - https://irsl.medium.com/the-trouble-with-microsofts-troubleshooters-6e32fc80b8bd
 - https://hesec.de/posts/cve-2023-22855/
 - https://snyk.io/blog/gitpod-remote-code-execution-vulnerability-websockets/
+- https://medium.com/@dPhoeniixx/tiktok-for-android-1-click-rce-240266e78105

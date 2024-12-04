@@ -2,3 +2,4 @@
 - https://medium.com/@prakashchand72/lenovo-database-of-root-user-credentials-exposed-22aab5382c
 - https://maordayanofficial.medium.com/comodo-from-git-to-takeover-803ffb8b57e3
 - https://slashcrypto.org/2018/11/28/eBay-source-code-leak/
+- https://medium.com/pentesternepal/how-i-hacked-100k-godaddy-users-and-help-to-secure-for-free-65f172bd726a

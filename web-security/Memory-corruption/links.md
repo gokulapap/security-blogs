@@ -36,3 +36,4 @@
 - https://jfrog.com/blog/satisfying-our-way-into-remote-code-execution-in-the-opc-ua-industrial-stack/
 - https://ssd-disclosure.com/ssd-advisory-netgear-r7800-afpd-preauth/
 - https://www.graplsecurity.com/post/attacking-firecracker
+- https://googleprojectzero.blogspot.com/2021/12/this-shouldnt-have-happened.html
