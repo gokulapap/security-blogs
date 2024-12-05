@@ -98,3 +98,4 @@
 - https://web.archive.org/web/20211106053748/https://eng.getwisdom.io/hacking-github-with-unicode-dotless-i/
 - https://inakcf.medium.com/one-click-dos-via-response-manipulation-2f08da421104
 - https://buer.haus/2014/04/07/facebook-send-notifications-to-any-user-exploit/
+- https://0xm5awy.medium.com/exploit-feature-to-get-high-bug-impact-1d3ae6517680

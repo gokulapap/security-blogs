@@ -53,7 +53,6 @@
 - https://medium.com/@hunter-55/how-i-was-able-to-bypass-open-redirect-3-times-on-same-program-d78f9d2443f6, open-redirection
 - https://medium.com/@ibm_ptc_security/exploiting-missing-hsts-54f8e23ed80b, misc
 - https://medium.com/@manavbankatwala29/unique-rate-limit-bypass-worth-1800-6e2947c7d972, bypass
-- https://medium.com/@yashdharmani/a-bug-that-made-me-250-485df60f5b26, journey
 - https://medium.com/@nynan/bug-bounty-fingerprinting-204506945ab, recon
 - https://medium.com/@86karthikkarthik/email-verification-bypass-d07b2db8dc4, bypass
 - https://medium.com/@ssalssa.1.12.2.1.2.1/hacking-wordpress-server-database-f6cc6c116057, cms
@@ -322,7 +321,6 @@
 - https://shahjerry33.medium.com/stored-iframe-injection-permanent-open-redirection-zero-day-ce7cd15903ac, HTML-injection
 - https://blog.pretera.com/how-misconfigured-and-vulnerable-devices-could-expose-your-company-to-physical-and-cyber-threats-37d0e0d8d158, IoT
 - https://corben.io/blog/hacking-kucoin, Information-disclosure
-- https://nasbench.medium.com/lolbined-finding-lolbins-in-av-uninstallers-bf29427d3cd8, Local-Privilege-Escalation
 - https://medium.com/@zhero_/dos-via-cache-poisoning-38f3a87f997c, Web-cache-deception
 - https://posts.specterops.io/from-da-to-ea-with-esc5-f9f045aa105c, Active-Directory-Privilege-Escalation
 - https://www.rezonate.io/blog/github-misconfigurations-put-gcp-aws-in-account-takeover-risk/, Account-takeover
@@ -689,7 +687,6 @@
 - https://labs.nettitude.com/blog/exploiting-onlyoffice-web-sockets-for-unauthenticated-remote-code-execution/, Websockets
 - https://www.akamai.com/blog/security-research/msrpc-lsm-cve-disturbing-hosts-rest, Windows
 - https://aidenpearce369.github.io/offsec/My-First-RedTeam-Engagement/, SQL-injection
-- https://medium.com/@jazdprince/doing-it-the-researchers-way-how-i-managed-to-get-ssti-server-side-template-injection-which-66b239ca0104, SSTI
 - https://blog.lightspin.io/aws-ecr-public-vulnerability, Cloud
 - https://www.secforce.com/blog/cve-2022-20942-its-not-old-functionality-its-vintage/, Information-disclosure
 - https://karol-mazurek95.medium.com/not-usual-csp-bypass-case-b538263e09d6, Unrestricted-file-upload
@@ -784,7 +781,6 @@
 - https://blog.niksthehacker.com/chaining-path-traversal-with-ssrf-to-disclose-internal-git-repo-data-in-a-bank-asset-8af4de6f12e, SSRF
 - https://mu00d8.me/paper/bernhard22jitpicking.pdf, Browser-hacking
 - https://hdwsec.fr/blog/20221109-netgear/, Memory-corruption
-- https://0xm5awy.medium.com/exploit-feature-to-get-high-bug-impact-1d3ae6517680, Logic-flaw
 - https://srd.cx/cve-2022-26730/, MacOS
 - https://infosecwriteups.com/story-of-a-1k-bounty-ssrf-d5c4868680f5, SSRF
 - https://medium.com/@armandjasharaj/pentest-tales-exif-data-manipulation-b36beb291229, Unrestricted-file-upload
@@ -2345,7 +2341,6 @@
 - https://web.archive.org/web/20201004092711/https://sametsahin.net/posts/administrator-level-privilege-escalation-story/, Privilege-escalation
 - https://medium.com/bugbountywriteup/reflected-xss-on-microsoft-com-subdomains-4bdfc2c716df, Reflected-XSS
 - https://honoki.net/2020/03/18/xxe-scape-through-the-front-door-circumventing-the-firewall-with-http-request-smuggling/, XXE
-- https://medium.com/@parasarora06/how-i-was-able-to-verify-any-contact-number-for-my-account-57c939dab202, OTP-bypass
 - https://web.archive.org/web/20200317103909/https://medium.com/sourav-sahana/razer-mobile-pin-verification-bypass-1k-bug-2eb1485796b3, OTP-bypass
 - https://medium.com/@manasjha7965/weak-session-validation-bug-let-you-login-even-after-changing-the-session-ids-and-logging-out-from-4bb3ee29a598, Logic-flaw
 - https://medium.com/@ozguralp/using-vulnerability-analytics-feature-like-a-boss-655fc1f1543b, SSRF

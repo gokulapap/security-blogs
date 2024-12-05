@@ -10,3 +10,4 @@
 - https://medium.com/@karthiksoft007/oculus-identity-verification-bypass-through-brute-force-dbd0c0d3c37e
 - https://medium.com/bugbountywriteup/bugbounty-how-i-could-book-cab-using-your-wallet-money-in-indias-largest-auto-transportation-e0c4252ca1a3
 - https://medium.com/@anuragbhoir06/hello-everyone-this-is-anurag-bhoir-and-its-my-first-writeup-d8904d539ad2
+- https://medium.com/@parasarora06/how-i-was-able-to-verify-any-contact-number-for-my-account-57c939dab202
