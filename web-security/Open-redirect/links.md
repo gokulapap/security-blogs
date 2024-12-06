@@ -48,3 +48,4 @@
 - https://inakcf.medium.com/open-redirect-in-email-c658c248eec1
 - https://spaceraccoon.dev/open-sesame-escalating-open-redirect-to-rce-with-electron-code-review
 - https://devcraft.io/2020/10/19/github-gist-account-takeover.html
+- https://medium.com/@malcolmx0x/three-cases-three-open-redirect-bypasses-887bda60b38c

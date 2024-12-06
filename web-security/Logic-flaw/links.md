@@ -99,3 +99,4 @@
 - https://inakcf.medium.com/one-click-dos-via-response-manipulation-2f08da421104
 - https://buer.haus/2014/04/07/facebook-send-notifications-to-any-user-exploit/
 - https://0xm5awy.medium.com/exploit-feature-to-get-high-bug-impact-1d3ae6517680
+- https://mikey96.medium.com/what-if-you-could-deposit-money-into-your-betting-account-for-free-24f6690aff46
