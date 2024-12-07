@@ -19,3 +19,4 @@
 - https://rohit-soni.medium.com/exploiting-file-upload-functionality-in-unique-way-6081b8f658dd
 - https://www.synacktiv.com/sites/default/files/2022-11/trufusion_enterprise_unauthenticated_arbitrary_file_write.pdf
 - https://medium.com/@seeu-inspace/how-i-earned-500-by-uploading-a-file-write-up-of-one-of-my-first-bug-bounty-c174cf8ea553
+- https://shahjerry33.medium.com/sql-injection-the-file-upload-playground-6580b089d013

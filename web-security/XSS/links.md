@@ -170,3 +170,6 @@
 - https://portswigger.net/research/exploiting-xss-in-hidden-inputs-and-meta-tags
 - https://medium.com/@tobydavenn/how-i-was-able-to-takeover-any-users-account-on-a-major-telecoms-website-2cd5aa43e3d6
 - https://medium.com/@cyberweapons/reflected-xss-cloudflare-waf-bypass-cc60a7b565eb
+- https://f4t7.medium.com/xss-in-hidden-input-field-1b98a5fece26
+- https://medium.com/codex/hunting-for-xss-with-codeql-57f70763b938
+- https://m0z.co/XSS-Filter-Evasion/

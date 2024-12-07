@@ -282,7 +282,6 @@
 - https://hackcompute.com/hacking-epp-servers/, XXE
 - https://hacktus.tech/taking-over-an-entire-organization, Broken-Access-Control
 - https://infosecwriteups.com/kubernetes-pentest-bypassing-load-balancer-9bcfae2ce84a, Security-code-review
-- https://www.whiteoaksecurity.com/blog/sony-bravia-remote-code-execution-disclosure/, RCE
 - https://redmaple.tech/blogs/2023/extract-bitwarden-vault-passwords/, Information-disclosure
 - https://d3lb3.github.io/keepass_triggers_arent_dead/, Local-Privilege-Escalation
 - https://www.tarlogic.com/blog/linked-servers-adsi-passwords/, ADSI
@@ -1311,7 +1310,6 @@
 - https://servicenger.com/mobile/facebook-android-vulnerability-launching-internal-tighten-deeplink-onbehalf-of-user/, Android
 - https://ninetyn1ne.github.io/2022-02-21-oauth-postmessage-misconfig/, OAuth
 - https://flattsecurity.medium.com/finding-an-unseen-sql-injection-by-bypassing-escape-functions-in-mysqljs-mysql-90b27f6542b4, SQL-injection
-- https://f4t7.medium.com/xss-in-hidden-input-field-1b98a5fece26, XSS
 - https://infosecwriteups.com/send-a-email-to-me-and-get-kicked-out-of-google-groups-29b5c2c60e95, Logic-flaw
 - https://gitlab.com/kop316/vvm-disclosure, Voicemail-hacking
 - https://remonsec.com/posts/getting-first-swag-SIDN/, Directory-listing
@@ -1388,7 +1386,6 @@
 - https://systemweakness.com/accessing-godaddy-internal-instance-through-an-email-logic-bug-fdbea7b23542, Logic-flaw
 - https://zoidsec.medium.com/breaking-parse-logic-gain-access-to-nginx-api-read-write-upstreams-1cb062aa44ca, Path-traversal
 - https://blog.hckrt.com/blog/thisclosed_1/, IDOR
-- https://shahjerry33.medium.com/sql-injection-the-file-upload-playground-6580b089d013, Unrestricted-file-upload
 - https://servicenger.com/mobile/facebook-android-webview-vulnerability/, XSS
 - https://infosecwriteups.com/idor-leads-to-leak-private-details-866563365490, IDOR
 - https://trevorspiniolas.com/doorlock/doorlock.html, DoS
@@ -1579,7 +1576,6 @@
 - https://v3d.medium.com/broken-access-control-leads-to-change-of-admin-details-a783e31729c4, Privilege-escalation
 - https://itsfading.github.io/posts/I-owe-your-Request-HTTP-Request-Smuggling-leads-to-Full-Accounts-takeover/, HTTP-Request-Smuggling
 - https://blog.usamav.dev/two-account-takeover-bugs-worth-4300-dollar-bounty, Account-takeover
-- https://medium.com/codex/hunting-for-xss-with-codeql-57f70763b938, XSS
 - https://medium.com/@iambroot/what-would-you-do-if-oracles-mailing-server-sent-you-this-bc275b1bf967, HTML-injection
 - https://riteshgohil-25.medium.com/ato-of-wordpress-website-4-digits-bounty-in-5-minute-cc888c4054c9, Exposed-registration-page
 - https://caesarevan23.medium.com/ssrf-external-service-interaction-for-find-real-ip-cloudflare-and-leads-to-sql-injection-c22c02243299, WAF-bypass
@@ -2611,7 +2607,6 @@
 - https://medium.com/@saadahmedx/self-xss-to-evil-xss-bcf2494a82a4, XSS
 - https://medium.com/@ritishkumarsingh/facebook-vulnerability-unremovable-co-host-in-facebook-group-events-13a9ea28b302, Logic-flaw
 - https://medium.com/@osamaavvan/account-taker-with-clickjacking-ace744842ec3, Clickjacking
-- https://m0z.co/XSS-Filter-Evasion/, XSS
 - https://visat.me/security/reflected-xss-in-tokopedia-train-ticket/, Reflected-XSS
 - https://smaranchand.com.np/2019/06/parameter-pollution-issue-in-api-resulting-xxx/, HTTP-parameter-pollution
 - https://medium.com/@saadahmedx/sql-injection-c87a390afdd3, SQL-injection
