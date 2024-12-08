@@ -173,3 +173,4 @@
 - https://f4t7.medium.com/xss-in-hidden-input-field-1b98a5fece26
 - https://medium.com/codex/hunting-for-xss-with-codeql-57f70763b938
 - https://m0z.co/XSS-Filter-Evasion/
+- https://blog.securitybreached.org/2018/01/27/how-i-was-able-to-download-any-file-from-web-server/

@@ -146,3 +146,4 @@
 - https://community.disclose.io/t/how-i-found-a-tor-vulnerability-in-brave-browser-reported-it-watched-it-get-patched-got-a-cve-cve-2020-8276-and-a-small-bounty-all-in-one-working-day/65
 - https://philippeharewood.com/facebook-employee-internal-tool-and-conversations-and-leaked-in-facebook-video/
 - https://www.contrastsecurity.com/security-influencers/i-made-600-with-contrast-ce-cve-2019-8442
+- https://blog.securitybreached.org/2018/11/03/p1-like-a-boss-information-disclosure-via-github-leads-to-employee-account-takeover/

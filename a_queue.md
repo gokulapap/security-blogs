@@ -199,7 +199,6 @@
 - https://medium.com/@aditya043k/shodan-recon-to-1000-bounty-in-2-mins-b168ced3bfb0, Missing-authentication
 - https://orca.security/resources/blog/bad-build-google-cloud-build-potential-supply-chain-attack-vulnerability/, Cloud
 - https://www.elttam.com/blog/amazon-vpc-cni/, Kubernetes
-- https://kair0s3.medium.com/blind-sql-injection-with-a-little-waf-871e69d06e2c, Blind-SQL-injection
 - https://infosecwriteups.com/the-buffer-curse-3591efb4a724, CSP-bypass
 - https://badoption.eu/blog/2023/07/15/divideconqer.html, AMSI-bypass
 - https://www.trustedsec.com/blog/modeling-malicious-code-hacking-in-3d/, Phishing
@@ -1616,7 +1615,6 @@
 - https://infosecwriteups.com/how-i-scored-1k-bounty-using-waybackurls-717d9673ca52, Information-disclosure
 - https://blog.gypsyengineer.com/en/security/detecting-jackson-deserialization-vulnerabilities-with-codeql.html, Insecure-deserialization
 - https://blog.azuki.vip/csrf/, CSRF
-- https://ja1sharma.medium.com/bugbounty-idor-how-i-was-able-to-exfiltrate-any-users-credit-coupons-49631d9f3bc8, IDOR
 - https://medium.com/@abhinda1996/privilege-escalation-private-program-bugcrowd-831a7eb58b6c, IDOR
 - https://medium.com/@sicks3c/tale-of-xss-in-angular-c5c057a56156, Reflected-XSS
 - https://molx32.github.io/blog/2021/Bug-bounty-00/, Information-disclosure
@@ -2047,7 +2045,6 @@
 - https://medium.com/@suneets1ngh/parameter-tampering-ddd9b3de0da8, Parameter-tampering
 - https://vnhacker.blogspot.com/2020/09/advisory-security-issues-in-aws-kms-and.html, Cryptographic-issues
 - https://medium.com/bugbountywriteup/pii-leakage-via-idor-weak-passwordreset-full-account-takeover-58d159f88d73, IDOR
-- https://medium.com/@mohamed.elbadry/dangling-dns-aws-ec2-e2d801701e8, Dangling-DNS-records
 - https://blog.khonggianmang.vn/vmware-workstation-attack-surface-through-virtual-printer/, Memory-corruption
 - https://medium.com/bugbountywriteup/fun-with-header-and-forget-password-without-that-nasty-twist-cbf45e5cc8db, HTTP-header-injection
 - https://medium.com/bugbountywriteup/business-logic-flaw-in-google-acquisition-hall-of-fame-1a9af5d3ac04, Logic-flaw
@@ -2844,7 +2841,6 @@
 - https://medium.com/bugbountywriteup/duplicate-but-still-cool-236835685075, IDOR
 - http://codegrazer.com/blog/rsftp-to-command-injection.html, Path-traversal
 - https://medium.com/@kunal94/imagemagick-gif-coder-vulnerability-leads-to-memory-disclosure-hackerone-e9975a6a560e, Memory-leak
-- https://blog.securitybreached.org/2018/11/03/p1-like-a-boss-information-disclosure-via-github-leads-to-employee-account-takeover/, Information-disclosure
 - https://medium.com/bugbountywriteup/stored-xss-in-bug-bounty-13c08e6f5636, Stored-XSS
 - https://medium.com/japzdivino/bypass-hackerone-2fa-requirement-and-reporter-blacklist-46d7959f1ee5, Logic-flaw
 - https://web.archive.org/web/20181030103042/https://zseano.com/blogs/4.html, CSRF
@@ -3058,7 +3054,6 @@
 - https://blog.securitybreached.org/2018/02/05/how-i-found-idor-on-twitters-acquisition-mopub-com/, IDOR
 - https://medium.com/bugbountywriteup/bugbounty-i-dont-need-your-current-password-to-login-into-your-account-how-could-i-e51a945b083d, Authentication-bypass
 - https://blog.securitybreached.org/2018/02/02/how-i-was-able-to-bypass-xss-protection-on-hackerones-private-program/, XSS
-- https://blog.securitybreached.org/2018/01/27/how-i-was-able-to-download-any-file-from-web-server/, XSS
 - https://web.archive.org/web/20210122102751/https://www.guptashubham.com/how-i-got-22000-worth-ethereum/, Blind-XSS
 - https://medium.com/@pig.wig45/json-csrf-attack-on-a-social-networking-site-hackerone-platform-3d7aed3239b0, CSRF
 - https://medium.freecodecamp.org/how-anyone-could-have-used-uber-to-ride-for-free-36cdee5ea854, Logic-flaw
