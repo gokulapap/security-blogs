@@ -37,3 +37,4 @@
 - https://10degres.net/one-takeover-to-rule-them-all/
 - https://pyrrhon.medium.com/how-i-was-able-to-take-over-one-of-dells-subdomains-7e06b8516e41
 - https://www.shockwave.cloud/blog/subdomain-takeover-how-a-misconfigured-dns-record-could-lead-to-a-huge-supply-chain-attack
+- https://medium.com/@valluvarsploit/fastly-subdomain-takeover-2000-217bb180730f

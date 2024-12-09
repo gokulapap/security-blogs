@@ -746,7 +746,6 @@
 - https://basu-banakar.medium.com/ssrf-via-dns-rebinding-cve-2022-4096-b7bf75928bb2, SSRF
 - https://github.com/0xacb/recollapse/blob/main/till_recollapse_fuzzing_the_web_for_mysterious_bugs.pdf, Regex
 - https://securitylabs.datadoghq.com/articles/appsync-vulnerability-disclosure/, Confused-deputy
-- https://medium.com/@valluvarsploit/fastly-subdomain-takeover-2000-217bb180730f, Subdomain-takeover
 - https://medium.com/@mrd17x/my-account-takeover-writeup-5000-6895492aa549, Lack-of-rate-limiting
 - https://cybervelia.com/?p=1380, IoT
 - https://trufflesecurity.com/blog/email-graffiti/index.html, Broken-link-hijacking
@@ -1454,7 +1453,6 @@
 - https://hector0x.medium.com/dos-attack-in-yahoo-how-i-was-able-to-deny-new-users-from-service-6b222e744e61, DoS
 - https://hector0x.medium.com/broken-authentication-through-referral-code-25cd0e8bccc2, Authentication-flaw
 - https://hector0x.medium.com/dos-attack-in-yahoo-how-i-was-able-to-deny-new-users-from-service-6b222e744e61, DoS
-- https://threatnix.io/blog/exploiting-csp-in-webkit-to-break-authentication-authorization/, Information-disclosure
 - https://secureitmania.medium.com/never-leave-this-tip-while-you-hunting-broken-access-control-f63c00b1e96a, Broken-Access-Control
 - https://medium.com/@yashhunter772/how-i-got-200-in-30-seconds-3dd742f60186, Information-disclosure
 - https://hector0x.medium.com/from-url-dumps-digging-to-idor-bac-massive-phishing-in-udemy-6fa7f94ef256, Broken-Access-Control
@@ -1759,7 +1757,6 @@
 - https://n45ht.or.id/post/exploiting-xss-via-markdown-on-xiaomi/en, XSS
 - https://blog.sonarsource.com/wordpress-xxe-security-vulnerability/, XXE
 - https://n45ht.or.id/post/reflected-xss-on-microsoft/en, Reflected-XSS
-- https://r29k.com/articles/bb/ato, Open-redirect
 - https://wwws.nightwatchcybersecurity.com/2021/04/25/supply-chain-attacks-via-github-com-releases/, Logic-flaw
 - https://mrsinister1501.medium.com/how-i-found-cross-site-scripting-reflected-on-more-than-300-systems-81d8118d9de5, Reflected-XSS
 - https://notifybugme.medium.com/aws-internal-metadata-accessed-through-ssrf-by-chaining-an-open-redirect-bug-c4b0e4838dc, SSRF
@@ -1832,7 +1829,6 @@
 - https://3bodymo.medium.com/the-easiest-2500-i-got-it-from-bug-bounty-program-8f47ea4aff22, Information-disclosure
 - https://lf.lc/vrp/181521559b/, Container-escape
 - https://infosecwriteups.com/leveraging-template-injection-to-takeover-an-account-1dba7c4ae315, CSTI
-- https://randyarios.medium.com/low-hanging-fruits-on-facebook-group-room-b8d17c7ea886, Logic-flaw
 - https://maordayanofficial.medium.com/stored-xss-at-trello-com-ef2e3d1ed24b, Stored-XSS
 - https://wwws.nightwatchcybersecurity.com/2021/03/03/content-injection-rce-in-yandex-browser-for-android-2018/, MiTM
 - https://infosecwriteups.com/the-invincible-kid-7ac1ce2887c0, Logic-flaw
@@ -1880,7 +1876,6 @@
 - https://thevillagehacker.medium.com/reflected-xss-on-a-public-program-e8c0416daca1, Reflected-XSS
 - https://sanderwind.medium.com/escalating-ssrf-to-rce-7c0147371c40, SSRF
 - http://almadj.us/infosec/xxe-to-aws-metadata-disclosure/, XXE
-- https://medium.com/bugbountywriteup/page-admin-disclosed-in-groups-due-to-bad-session-handling-in-facebook-web-184514fafff9, Information-disclosure
 - https://muhammad-aamir.medium.com/open-redirect-vulnerability-found-using-link-parameter-5fc43e2ea8fd, Open-redirect
 - https://raxis.com/blog/rd-web-access-vulnerability, Timing-attack
 - https://pullerjsecu.medium.com/how-i-was-able-to-turn-a-xss-into-a-account-takeover-ae0c478640e7, Web-cache-poisoning
