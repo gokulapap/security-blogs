@@ -315,7 +315,6 @@
 - https://nav1n.medium.com/exploiting-sql-error-sqlstate-42000-to-own-mariadb-of-a-large-eu-based-online-media-and-cf7396c43bbf, SQL-injection
 - https://medium.com/@lukinha05farias/dns-recursion-leads-to-dos-attack-vivo-play-iptv-cve-2023-31893-b5ac45f38f, DoS
 - https://strike.sh/blog/official-extension-attacks, Extension-spoofing
-- https://www.zerodayinitiative.com/blog/2023/5/17/cve-2023-2086920870-exploiting-vmware-workstation-at-pwn2own-vancouver, Memory-corruption
 - https://shahjerry33.medium.com/stored-iframe-injection-permanent-open-redirection-zero-day-ce7cd15903ac, HTML-injection
 - https://blog.pretera.com/how-misconfigured-and-vulnerable-devices-could-expose-your-company-to-physical-and-cyber-threats-37d0e0d8d158, IoT
 - https://corben.io/blog/hacking-kucoin, Information-disclosure
@@ -701,7 +700,6 @@
 - https://www.synacktiv.com/publications/cool-vulns-dont-live-long-netgear-and-pwn2own.html, Code-injection
 - https://starlabs.sg/blog/2022/12-the-last-breath-of-our-netgear-rax30-bugs-a-tragic-tale-before-pwn2own-toronto-2022/, Command-injection
 - https://blog.nietaanraken.nl/posts/gitub-popular-repository-namespace-retirement-bypass/, Repojacking
-- https://marxchryz.medium.com/url-validation-bypass-using-browser-uri-normalization-cf545d33d13f, URL-validation-bypass
 - https://karmainsecurity.com/KIS-2022-06, Zip-Slip-attack
 - https://medium.com/@haroonhameed_76621/a-775-worth-of-cookies-reflected-dom-based-xss-bug-bounty-poc-3e7720c78fbe, DOM-XSS
 - https://medium.com/@swapmaurya20/3-step-idor-in-hackerresume-a365f2632996, IDOR
@@ -802,7 +800,6 @@
 - https://medium.com/@nanwinata/rce-docker-api-but-11ff70825935, RCE
 - https://sensepost.com/blog/2022/abusing-windows-tokens-to-compromise-active-directory-without-touching-lsass/, Local-Privilege-Escalation
 - https://medium.com/@dsonbacker/a-250-css-injection-my-first-finding-on-hackerone-8863ad253560, CSS-injection
-- https://googleprojectzero.blogspot.com/2022/10/rc4-is-still-considered-harmful.html, Kerberos
 - https://blog.nietaanraken.nl/posts/aur-packages-expired-domains/, Subdomain-takeover
 - https://bpandasec.medium.com/client-side-desync-attack-cl-0-request-smuggling-bounty-of-150-327d3aeaeea6, HTTP-Request-Smuggling
 - https://rambo.codes/posts/2022-10-25-sirispy-ios-bug-allowed-apps-to-eavesdrop, iOS
@@ -2532,7 +2529,6 @@
 - https://blog.doyensec.com/2019/08/22/modern-password-managers-flag-secure.html, Information-disclosure
 - https://www.updatelap.com/2019/08/Rights-Manager-Graph-API-Disclosure-of-business-employee-to-non-business-employee.html, Information-disclosure
 - https://bugbountypoc.com/instagram-account-is-reactivated-without-entering-2fa/, MFA-bypass
-- https://medium.com/@baibhavanandjha/sending-message-as-page-being-an-analyst-advertiser-eb0317376f43, Authorization-flaw
 - https://medium.com/@aayushpokhrel/how-i-made-my-first-from-finding-a-bug-in-facebook-da3b11e550f0, Authorization-flaw
 - https://medium.com/@iframe_h1/how-i-upgraded-my-privileges-to-the-administrator-of-odnoklassnikis-url-shortener-2c58f996d02c, Privilege-escalation
 - https://medium.com/@ar_arvind/facebook-bug-bounty-reading-whatsapp-contacts-list-without-unlocking-the-device-a40e9c660a42, Authorization-flaw
@@ -2953,7 +2949,6 @@
 - https://medium.com/@khaled.hassan/hacking-thousands-of-companies-through-their-helpdesk-8f180a8595ef, Account-takeover
 - https://www.ambionics.io/blog/prestashop-privilege-escalation, Privilege-escalation
 - http://omespino.com/write-up-telegram-bug-bounty-whatsapp-n-a-blind-xss-stored-ios-in-messengers-twins-who-really-care-about-your-security/, Blind-XSS
-- https://medium.com/@vishnu0002/attacking-postgresql-database-834a9a3471bc, Bruteforce
 - https://medium.com/@SQLiBasic/bug-bounty-at-bangladeshi-site-21da8b7eb687, SQL-injection
 - https://sites.google.com/securifyinc.com/secblogs/finding-leaked-sensitive-data, Information-disclosure
 - https://medium.com/@sudhanshur705/xss-in-microsoft-subdomain-81c4e46d6631, XSS

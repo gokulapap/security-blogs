@@ -37,3 +37,4 @@
 - https://ssd-disclosure.com/ssd-advisory-netgear-r7800-afpd-preauth/
 - https://www.graplsecurity.com/post/attacking-firecracker
 - https://googleprojectzero.blogspot.com/2021/12/this-shouldnt-have-happened.html
+- https://www.zerodayinitiative.com/blog/2023/5/17/cve-2023-2086920870-exploiting-vmware-workstation-at-pwn2own-vancouver

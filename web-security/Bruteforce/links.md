@@ -11,3 +11,4 @@
 - https://ninadmathpati.com/how-i-got-a-trip-to-amsterdam-through-bug-bounty/
 - https://blog.prodefense.io/sorting-your-way-to-stolen-passwords-43ff5cfeeabd
 - https://www.martinvigo.com/googlemeetroulette
+- https://medium.com/@vishnu0002/attacking-postgresql-database-834a9a3471bc

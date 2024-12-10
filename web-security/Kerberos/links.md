@@ -1,1 +1,2 @@
 - https://www.horizon3.ai/from-cve-2022-33679-to-unauthenticated-kerberoasting/
+- https://googleprojectzero.blogspot.com/2022/10/rc4-is-still-considered-harmful.html
