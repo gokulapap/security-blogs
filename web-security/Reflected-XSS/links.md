@@ -53,3 +53,4 @@
 - https://medium.com/pentesternepal/bypassing-ebay-xss-protection-8cf73466ba0f
 - https://pethuraj.com/blog/google-bug-bounty-writeup/
 - https://komradz86.medium.com/weird-im-possible-xss-on-error-page-a0b943ead41
+- http://blog.h4rsh4d.com/2018/03/olx-reflected-xss-on-resend-code-link.html

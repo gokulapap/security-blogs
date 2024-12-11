@@ -1,0 +1,1 @@
+- https://blog.redteam-pentesting.de/2023/storing-passwords/

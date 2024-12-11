@@ -62,3 +62,4 @@
 - https://medium.com/@khaled.hassan/the-2-5-btc-stored-xss-f2f9393417f2
 - https://medium.com/@sean.roesner/one-company-262-bugs-100-acceptance-2-57-priority-300million-user-details-saved-dd88ecb10f6f
 - https://hacklad.github.io/blog/2019/01/13/Xss-it.html
+- https://medium.com/@rohanchavan/a-unique-xss-scenario-1000-bounty-347f8f92fcc6

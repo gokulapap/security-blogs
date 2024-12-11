@@ -287,7 +287,6 @@
 - https://medium.com/@malekmahmed55/turning-a-50-tab-nabbing-vulnerability-into-a-1000-account-takeover-9c3f32cb2d84, Reverse-tabnabbing
 - https://ssd-disclosure.com/ssd-advisory-roundcube-markasjunk-rce/, RCE
 - https://jhftss.github.io/CVE-2022-32902-Patch-One-Issue-and-Introduce-Two/, TCC-bypass
-- https://blog.redteam-pentesting.de/2023/storing-passwords/, Pass-the-Hash
 - https://infosecwriteups.com/send-email-from-anyone-to-any-user-outlook-microsoft-69fce333066d, Open-mail-relay
 - https://medium.com/@chenshiri/aws-chain-attack-thousands-of-vulnerable-eks-clusters-701cbd963907, AWS-Kubernetes
 - https://0day.click/recipe/pash/, RCE
@@ -468,7 +467,6 @@
 - https://m7arm4n.medium.com/default-credentials-on-sony-swag-time-8e35681ad39e, Hardcoded-credentials
 - https://nav1n.medium.com/i-earned-3500-and-40-points-for-a-graphql-blind-sql-injection-vulnerability-5b7e428c477d, SQL-injection
 - https://vijetareigns.medium.com/wait-time-bypass-for-fun-and-profit-c3837e6bb8ed, Rate-limiting-bypass
-- https://mizu.re/post/ejs-server-side-prototype-pollution-gadgets-to-rce, Server-side-prototype-pollution
 - https://claroty.com/team82/research/the-silent-spy-among-us-modern-attacks-against-smart-intercoms, IoT
 - https://infosecwriteups.com/dont-send-a-message-to-anyone-before-reading-this-account-takeover-vulnerability-external-audit-cf584a0c983c, HTTP-response-manipulation
 - https://medium.com/tenable-techblog/wordpress-buddyforms-plugin-unauthenticated-insecure-deserialization-cve-2023-26326-3becb5575ed8, Insecure-deserialization
@@ -1067,7 +1065,6 @@
 - https://blog.aquasec.com/cve-2022-32223-dll-hijacking, DLL-Hijacking
 - https://medium.com/tenable-techblog/microsoft-azure-site-recovery-dll-hijacking-cd8cc34ef80c, DLL-Hijacking
 - https://medium.com/@soufianehabti/write-up-1-hellosign-integration-full-read-ssrf-df5e1a5bc627, SSRF
-- https://blog.sonarsource.com/blitzjs-prototype-pollution/, Prototype-pollution
 - https://h3k.ro/2022/07/11/bsqli/, SQL-injection
 - https://blog.lightspin.io/exploiting-eks-authentication-vulnerability-in-aws-iam-authenticator, Authentication-flaw
 - https://medium.com/@idan_malihi/how-i-earned-200-in-bug-bounty-program-6d7225a7ff1a, Information-disclosure
@@ -2735,7 +2732,6 @@
 - https://posts.specterops.io/remote-code-execution-via-path-traversal-in-the-device-metadata-authoring-wizard-a0d5839fc54f, Path-traversal
 - https://medium.com/@goyalvartul/how-i-hacked-40-000-user-accounts-of-microsoft-using-2fa-bypass-outlook-live-com-13258785ec2f, MFA-bypass
 - https://dannewitz.ninja/posts/detecting-and-exploiting-mass-assignments, Mass-assignment
-- https://medium.com/@rohanchavan/a-unique-xss-scenario-1000-bounty-347f8f92fcc6, Stored-XSS
 - https://medium.com/@rupika.luhach/how-i-was-able-to-extract-information-of-other-users-exploiting-idor-9f03aa72dd06, IDOR
 - https://offensi.com/2019/01/31/lfi-in-apigee-portals, LFI
 - https://medium.com/bugbountywriteup/how-i-found-a-simple-bug-in-facebook-without-any-test-3bc8cf5e2ca2, Authorization-flaw
@@ -2823,7 +2819,6 @@
 - https://medium.com/@mrnikhilsri/oob-xxe-in-prizmdoc-cve-2018-15805-dfb1e474345c, OOB-XXE
 - https://medium.com/bugbountywriteup/dom-based-xss-or-why-you-should-not-rely-on-cloudflare-too-much-a1aa9f0ead7d, DOM-XSS
 - https://mike-n1.github.io/Chain_XSS, DOM-XSS
-- http://blog.h4rsh4d.com/2018/03/olx-reflected-xss-on-resend-code-link.html, Reflected-XSS
 - https://apapedulimu.click/clickjacking-on-google-myaccount-worth-7500/, Clickjacking
 - https://medium.com/@rohitcoder/object-name-exposure-ing-bank-responsible-disclosure-program-1f8f808cc789, Information-disclosure
 - https://medium.com/bugbountywriteup/how-i-earned-5040-from-twitter-by-showing-a-way-to-harvest-other-users-ip-address-e9f43c931e9a, Information-disclosure
