@@ -199,7 +199,6 @@
 - https://medium.com/@aditya043k/shodan-recon-to-1000-bounty-in-2-mins-b168ced3bfb0, Missing-authentication
 - https://orca.security/resources/blog/bad-build-google-cloud-build-potential-supply-chain-attack-vulnerability/, Cloud
 - https://www.elttam.com/blog/amazon-vpc-cni/, Kubernetes
-- https://infosecwriteups.com/the-buffer-curse-3591efb4a724, CSP-bypass
 - https://badoption.eu/blog/2023/07/15/divideconqer.html, AMSI-bypass
 - https://www.trustedsec.com/blog/modeling-malicious-code-hacking-in-3d/, Phishing
 - https://blog.talosintelligence.com/weaknesses-mac-os-vmware-msrpc/, Kernel-hacking
@@ -227,7 +226,6 @@
 - https://hazemhussien99.wordpress.com/2023/07/05/recon-only-bugs-are-sweet/, Information-disclosure
 - https://mizu.re/post/linux-local-electron-application-script-src-self-bypass#final_bypass, Electron
 - https://blog.assetnote.io/2023/07/04/citrix-sharefile-rce/, RCE
-- https://medium.com/pinoywhitehat/getting-email-address-of-any-hackerone-user-worth-7-500-afb8076ee395, Information-disclosure
 - https://www.synacktiv.com/sites/default/files/2023-07/synacktiv-phplist-partial-file-read.pdf, Arbitrary-file-read
 - https://research.nccgroup.com/2023/07/03/technical-advisory-nullsoft-scriptable-installer-system-nsis-insecure-temporary-directory-usage/, Local-Privilege-Escalation
 - https://labs.hakaioffsec.com/nginx-alias-traversal/, Path-traversal
@@ -2771,7 +2769,6 @@
 - https://medium.com/@sampanna/rce-in-nokia-com-59b308e4e882, RCE
 - https://medium.com/@putracraft.theworld/server-side-request-forgery-in-openid-support-defcc64d5e41, SSRF
 - http://blog.randorisec.fr/client-side-validation/, Client-side-enforcement-of-server-side-security
-- https://medium.com/@tnirmalz/facebook-bugbounty-disclosing-page-members-1178595cc520, Information-disclosure
 - https://www.tnirmal.com.np/2018/12/facebook-bugbounty-disclosing.html, Information-disclosure
 - https://medium.com/@mustafakhan_89646/asuss-admin-panel-auth-bypass-af5062584ddf, Authentication-bypass
 - https://medium.com/bugbountywriteup/subdomain-takeover-new-level-43f88b55e0b2, Subdomain-takeover
@@ -2937,7 +2934,6 @@
 - https://www.updatelap.com/2018/07/the-malicious-person-add-people-to-top.html, IDOR
 - https://medium.com/@prial261/unclaimed-medium-publication-takeover-in-wetransfer-c268cdb51e2f, Medium-publication-takeover
 - https://opnsec.com/2018/07/into-the-borg-ssrf-inside-google-production-network/, SSRF
-- https://sites.google.com/securifyinc.com/secblogs/yahoo-luminate-rce, RCE
 - https://haiderm.com/how-i-was-able-to-delete-13k-microsoft-translator-projects/, CSRF
 - https://pulsesecurity.co.nz/advisories/WebLogic-SAML-Vulnerabilities, SAML
 - https://medium.com/devanshwolf/hey-developer-give-me-your-api-keys-b8c99ab1c4f5, Information-disclosure
@@ -2982,7 +2978,6 @@
 - https://poc-server.com/blog/2018/05/22/rce-by-uploading-a-web-config, RCE
 - https://medium.com/ymedialabs-innovation/an-aws-managed-policy-that-allowed-granting-root-admin-access-to-any-role-51b409ea7ff0, Authorization-flaw
 - https://sites.google.com/site/testsitehacking/-36k-google-app-engine-rce, RCE
-- https://blog.securitybreached.org/2018/05/18/get-subscription-of-120-year-for-free-bug-bounty-poc, Payment-bypass
 - https://medium.com/@pratheesh.p.narayanan/whatsapp-dos-vulnerability-on-android-ios-web-7628077d21d4, DoS
 - https://medium.com/bugbountywriteup/hsts-bypass-vulnerability-in-ie-preview-fa956161fa8, HSTS-bypass
 - https://medium.com/@honcbb/internet-safety-for-kids-families-trend-micro-dom-xss-db34c9bbb120, DOM-XSS

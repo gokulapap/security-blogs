@@ -149,3 +149,5 @@
 - https://blog.securitybreached.org/2018/11/03/p1-like-a-boss-information-disclosure-via-github-leads-to-employee-account-takeover/
 - https://threatnix.io/blog/exploiting-csp-in-webkit-to-break-authentication-authorization/
 - https://medium.com/bugbountywriteup/page-admin-disclosed-in-groups-due-to-bad-session-handling-in-facebook-web-184514fafff9
+- https://medium.com/@tnirmalz/facebook-bugbounty-disclosing-page-members-1178595cc520
+- https://medium.com/pinoywhitehat/getting-email-address-of-any-hackerone-user-worth-7-500-afb8076ee395

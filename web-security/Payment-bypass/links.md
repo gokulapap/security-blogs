@@ -8,3 +8,4 @@
 - https://crypt0g30rgy.github.io/post/PaymentBypassThree
 - https://gatolouco.medium.com/exploiting-amazon-active-vulnerability-d2554c8c7ffd
 - https://aidilarf.medium.com/how-do-i-bypass-payment-when-a-subscription-ends-so-i-dont-have-to-pay-for-my-subscription-3889ab3f7484
+- https://blog.securitybreached.org/2018/05/18/get-subscription-of-120-year-for-free-bug-bounty-poc

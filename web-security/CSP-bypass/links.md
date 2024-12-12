@@ -6,3 +6,4 @@
 - https://blog.ibrahimdraidia.com/bypass-csp-framing-restriction-rule-olx/
 - https://weizman.github.io/2020/09/02/csp-vuln/
 - https://jmrcsnchz.medium.com/playing-with-iframes-bypassing-content-security-policy-987c2f0b8e8a
+- https://infosecwriteups.com/the-buffer-curse-3591efb4a724
