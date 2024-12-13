@@ -83,3 +83,4 @@
 - https://infosecwriteups.com/a-story-about-a-not-so-direct-ssrf-b2b98e128af0
 - https://notifybugme.medium.com/escalating-ssrf-to-accessing-all-user-pii-information-by-aws-metadata-aabcfd5a3e0e
 - https://w00troot.blogspot.com/2017/12/how-i-found-ssrf-on-thefacebookcom.html
+- https://srahulceh.medium.com/bug-bounty-how-i-found-an-ssrf-reconnaissance-7b1821a1b1fd

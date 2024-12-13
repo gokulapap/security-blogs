@@ -63,3 +63,4 @@
 - https://medium.com/pentesternepal/a-tale-of-zero-click-account-takeover-56b51fdbd7ae
 - https://bhavukjain.com/blog/2020/05/30/zeroday-signin-with-apple/
 - https://ysamm.com/?p=654
+- https://ysamm.com/?p=510

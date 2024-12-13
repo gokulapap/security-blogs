@@ -138,7 +138,6 @@
 - https://medium.com/@stopvvar/sql-injection-with-insert-statement-bdcf4d47d178, sql-injection
 - https://medium.com/@ltsirkov/netflix-bypassing-multi-factor-authentication-mfa-53135c9d6d50, bypass
 - https://medium.com/@harish_nataraj/making-api-bug-bounties-a-breeze-bf6443db5b37, api
-- https://medium.com/@inforkgodara/xss-vulnerability-attacks-a3bfeb724be0, XSS
 - https://medium.com/@theredteamer/tesla-paid-me-10-000-because-of-directory-indexing-c1be06c77a3e, journey
 - https://medium.com/@renganathanofficial/business-logic-error-leads-to-watching-a-standup-comedy-show-for-free-4300aeb714dc, business-logic
 - https://medium.com/@evilox/testing-and-bypassing-technique-for-idor-9ee03f28f4e1, IDOR
@@ -925,7 +924,6 @@
 - https://hopesamples.blogspot.com/2022/09/details-about-future-collaboration.html, IDOR
 - https://taggart-tech.com/quasar-electron/, Local-Privilege-Escalation
 - https://bergee.it/blog/turning-cookie-based-xss-into-account-takeover/, XSS
-- https://srahulceh.medium.com/bug-bounty-how-i-found-an-ssrf-reconnaissance-7b1821a1b1fd, SSRF
 - https://medium.com/@jedus0r/idor-insecure-direct-object-references-my-first-p1-in-bugbounty-fb01f50e25df, IDOR
 - https://ssd-disclosure.com/ssd-advisory-linux-config_watch_queue-lpe/, Memory-corruption
 - https://blog.silentsignal.eu/2022/09/05/simple-ibm-i-as-400-hacking/, Local-Privilege-Escalation
@@ -1924,7 +1922,6 @@
 - https://akshartank.medium.com/each-and-every-request-make-sense-4572b3205382, Privilege-escalation
 - https://savebreach.com/facebook-page-admin-identity-disclosure-through-document-edit-history/, Information-disclosure
 - https://ysamm.com/?p=588, IDOR
-- https://ysamm.com/?p=510, Account-takeover
 - https://medium.com/bugbountywriteup/facebook-bug-bounty-500-usd-a-blocked-fundraiser-organizer-would-be-unable-to-view-or-remove-5da9f86d2fa0, DoS
 - https://mohsinalibukc.medium.com/cross-domain-referrer-leakage-7873ada102ad, Cross-Domain-Referrer-Leakage
 - https://www.pantaprakash.com.np/posts/categories/bugbounty-writeup/1.html, Information-disclosure
@@ -2009,7 +2006,6 @@
 - https://medium.com/@saneklarek22/back-to-2019-disclosure-employers-pii-and-credentials-bb7f344dcb08, Information-disclosure
 - https://www.rafaybaloch.com/2020/10/multiple-address-bar-spoofing-vulnerabilities.html, Address-Bar-Spoofing
 - https://www.rafaybaloch.com/2020/10/multiple-address-bar-spoofing-vulnerabilities.html, Authentication-bypass
-- https://devcraft.io/2020/10/18/github-rce-git-inject.html, RCE
 - https://mksben.l0.cm/2020/10/discord-desktop-rce.html, RCE
 - https://medium.com/@merry6607/how-i-find-my-first-p1-level-bug-5a6dd9587203, XSS
 - https://medium.com/@mustafa0x2021/disclose-emails-phone-numbers-other-information-for-facebook-users-who-tried-to-add-funds-to-31aea5f973a5, Information-disclosure
@@ -3248,7 +3244,6 @@
 - https://www.rcesecurity.com/2014/11/google-bug-bounty-nice-catch-on-google-cloud-platform-live, Reflected-XSS
 - https://blog.it-securityguard.com/bugbounty-reflected-cross-site-scripting-billmelater/, Reflected-XSS
 - https://blog.it-securityguard.com/bugbounty-paypal-stored-xss-security-bypass/, Stored-XSS
-- https://blog.it-securityguard.com/bugbounty-paypal-dom-xss-main-domain/, DOM-XSS
 - https://blog.it-securityguard.com/bugbounty-the-5000-google-xss, XSS
 - https://blog.it-securityguard.com/bugbounty-yahoo-phpinfo-php-disclosure-2/, Information-disclosure
 - https://josipfranjkovic.blogspot.com/2014/09/step-by-step-exploiting-sql-injection.html, SQL-injection

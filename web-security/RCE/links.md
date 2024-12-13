@@ -169,3 +169,4 @@
 - https://medium.com/@dPhoeniixx/tiktok-for-android-1-click-rce-240266e78105
 - https://www.whiteoaksecurity.com/blog/sony-bravia-remote-code-execution-disclosure/
 - https://sites.google.com/securifyinc.com/secblogs/yahoo-luminate-rce
+- https://devcraft.io/2020/10/18/github-rce-git-inject.html
