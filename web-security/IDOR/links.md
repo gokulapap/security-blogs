@@ -141,3 +141,4 @@
 - https://medium.com/bugbountywriteup/the-youtube-bug-that-allowed-uploads-to-any-channel-3b41c7b7902a
 - https://hopesamples.blogspot.com/2022/11/the-space-creators-can-still-see.html
 - https://ja1sharma.medium.com/bugbounty-idor-how-i-was-able-to-exfiltrate-any-users-credit-coupons-49631d9f3bc8
+- https://www.indoappsec.in/2019/12/airbnb-steal-earning-of-airbnb-hosts-by.html

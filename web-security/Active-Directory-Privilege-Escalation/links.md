@@ -1,2 +1,3 @@
 - https://www.semperis.com/blog/ad-security-research-breaking-trust-transitivity/
 - https://medium.themayor.tech/domain-takeover-without-domain-admin-permissions-28a7bd330501
+- https://posts.specterops.io/from-da-to-ea-with-esc5-f9f045aa105c

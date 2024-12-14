@@ -315,7 +315,6 @@
 - https://blog.pretera.com/how-misconfigured-and-vulnerable-devices-could-expose-your-company-to-physical-and-cyber-threats-37d0e0d8d158, IoT
 - https://corben.io/blog/hacking-kucoin, Information-disclosure
 - https://medium.com/@zhero_/dos-via-cache-poisoning-38f3a87f997c, Web-cache-deception
-- https://posts.specterops.io/from-da-to-ea-with-esc5-f9f045aa105c, Active-Directory-Privilege-Escalation
 - https://www.rezonate.io/blog/github-misconfigurations-put-gcp-aws-in-account-takeover-risk/, Account-takeover
 - https://medium.com/@levshmelevv/hardcore-rce-via-directory-name-for-3-000-225ed58b41a9, RCE
 - https://onekey.com/blog/security-advisory-wago-unauthenticated-remote-command-execution/, RCE
@@ -701,7 +700,6 @@
 - https://github.com/Wh04m1001/SysmonEoP, Local-Privilege-Escalation
 - https://sensepost.com/blog/2022/certpotato-using-adcs-to-privesc-from-virtual-and-network-service-accounts-to-local-system/, Local-Privilege-Escalation
 - https://theshubh77.medium.com/write-up-irremovable-comments-on-fb-lite-app-a-story-of-a-simple-fb-lite-bug-that-i-found-just-125aaa826dd8, Logic-flaw
-- https://medium.com/@sathvika03/interesting-find-on-the-invite-link-17cf5a46d747, Logic-flaw
 - https://onekey.com/blog/security-advisory-asus-m25-nas-vulnerability/, OS-command-injection
 - https://www.rcesecurity.com/2022/12/from-zero-to-hero-part-2-intel-dcm-sql-injection-to-rce-cve-2022-21225/, SQL-injection
 - https://hacklido.com/d/101-how-i-found-my-first-rce, RCE
@@ -1047,7 +1045,6 @@
 - https://medium.com/@rajqureshi07/a-story-of-my-first-bug-bounty-dda320db78d9, Information-disclosure
 - https://securityflow.io/going-beyond-alert-with-xss/, XSS
 - https://medium.com/@moSec/crlf-to-account-takeover-chaining-bugs-21a25dfa1cdf, CRLF-injection
-- https://medium.com/@the_null_kid/subdomain-takeover-and-text-injection-on-a-404-error-page-100-bounty-e47ccf359e6b, Subdomain-takeover
 - https://medium.com/@anjaneyulukanakatla1996/business-logic-error-6922ba75cad8, Logic-flaw
 - https://medium.com/@faique/first-bug-bounty-from-dos-taking-the-service-down-30f9ad4e0246, DoS
 - https://vengeance.medium.com/authorization-token-leak-from-verifying-email-endpoint-f28803476680, Account-takeover
@@ -2001,7 +1998,6 @@
 - https://www.mysk.blog/2020/10/25/link-previews/, Information-disclosure
 - https://medium.com/bugbountywriteup/my-first-bug-on-google-observation-wins-1a13d0ea54b0, IDOR
 - https://labs.f-secure.com/blog/samsung-s20-rce-via-samsung-galaxy-store-app/, RCE
-- https://servicenger.com/blog/mobile/perform-substring-search-for-emails-even-if-workplace-admin-hides-email-profile-field/, Authorization-flaw
 - https://devcraft.io/2020/10/20/github-pages-multiple-rces-via-kramdown-config.html, RCE
 - https://medium.com/@saneklarek22/back-to-2019-disclosure-employers-pii-and-credentials-bb7f344dcb08, Information-disclosure
 - https://www.rafaybaloch.com/2020/10/multiple-address-bar-spoofing-vulnerabilities.html, Address-Bar-Spoofing
@@ -2404,7 +2400,6 @@
 - https://medium.com/nassec-cybersecurity-writeups/bypassing-brand-collabs-manager-eligibility-7d26523da816, Authorization-flaw
 - https://smaranchand.com.np/2019/12/subdomain-takeover-via-pantheon/, Subdomain-takeover
 - https://web.archive.org/web/20210116173906/https://strynx.org/insecure-crypto-code-execution/, SQL-injection
-- https://www.indoappsec.in/2019/12/airbnb-steal-earning-of-airbnb-hosts-by.html, IDOR
 - https://medium.com/bugbountywriteup/graphql-idor-leads-to-information-disclosure-175eb560170d, IDOR
 - https://web.archive.org/web/20200320111950/https://medium.com/@sainttobs/csrf-token-bypasss-a-tale-of-my-2k-bug-ff7f51166ea1, CSRF
 - https://medium.com/bugbountywriteup/from-broken-link-to-sub-folder-takeover-on-bukalapak-3aa985e622c4, AWS-misconfiguration
