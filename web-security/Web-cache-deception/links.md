@@ -1,0 +1,1 @@
+- https://web.archive.org/web/20201125190336/https://tox7cv3nom.github.io/2020-08-05-how_i_was_able_to_pawned_website_via_escilating_webcache-deception-to-rce/

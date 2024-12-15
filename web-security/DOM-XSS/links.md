@@ -15,3 +15,4 @@
 - https://medium.com/@haroonhameed_76621/winning-qr-with-dom-based-xss-bug-bounty-poc-4b4048cf285d
 - https://jinone.github.io/bugbounty-a-dom-xss/
 - https://blog.it-securityguard.com/bugbounty-paypal-dom-xss-main-domain/
+- https://medium.com/@M0X0101/how-i-was-able-to-steal-users-credentials-via-swagger-ui-dom-xss-e84255eb8c96

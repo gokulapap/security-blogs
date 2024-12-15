@@ -142,3 +142,4 @@
 - https://hopesamples.blogspot.com/2022/11/the-space-creators-can-still-see.html
 - https://ja1sharma.medium.com/bugbounty-idor-how-i-was-able-to-exfiltrate-any-users-credit-coupons-49631d9f3bc8
 - https://www.indoappsec.in/2019/12/airbnb-steal-earning-of-airbnb-hosts-by.html
+- https://medium.com/@hariharan21/idor-leads-to-project-takeover-548a1bfd4d66

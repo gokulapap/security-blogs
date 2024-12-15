@@ -449,7 +449,6 @@
 - https://princej-76.medium.com/how-i-chained-multiple-high-impact-vulnearbilities-to-create-a-critical-one-476950a3bb9f, Account-takeover
 - https://blog.doyensec.com/2023/03/16/ssrf-remediation-bypass.html, SSRF
 - https://shahjerry33.medium.com/lfi-an-interesting-tweak-9c5638dbdd1b, LFI
-- https://www.sjoerdlangkemper.nl/2023/03/15/textcube-sql-injection-session-ip-spoofing/, SQL-injection
 - http://blog.sysdum.net/parameter-injection-to-rce, RCE
 - https://blog.scrt.ch/2023/03/14/producing-a-poc-for-cve-2022-42475-fortinet-rce/, Memory-corruption
 - https://blog.quarkslab.com/vulnerabilities-in-the-tpm-20-reference-implementation-code.html, Memory-corruption
@@ -666,7 +665,6 @@
 - https://infosecwriteups.com/graphql-idor-leaking-credit-card-information-of-1000s-of-users-d07eec732979, IDOR
 - https://kingcoolvikas.medium.com/how-i-found-my-first-xss-on-a-bug-bounty-program-c41107617ce1, XSS
 - https://www.rapid7.com/blog/post/2022/12/20/cengage-lti-session-management-leakage/, SSO
-- https://medium.com/@M0X0101/how-i-was-able-to-steal-users-credentials-via-swagger-ui-dom-xss-e84255eb8c96, DOM-XSS
 - https://infosecwriteups.com/directory-ttraversal-vulnerability-in-huawei-hg255s-products-dce941a1d015, Path-traversal
 - https://0xraminfosec.medium.com/simple-cors-misconfig-leads-to-disclose-the-sensitive-token-worth-of-91433763f4d6, CORS-misconfiguration
 - https://infosecwriteups.com/param-hunting-to-injections-4365da5447cf, HTML-injection
@@ -2045,7 +2043,6 @@
 - https://www.ehpus.com/post/xss-fix-bypass-10000-bounty-in-google-maps, XSS
 - https://infosecwriteups.com/how-response-manipulation-got-me-a-little-but-sweet-bounty-38b515ca0910, MFA-bypass
 - https://medium.com/@smilehackerofficial/xss-that-can-pay-your-bills-9377eff1fd0d, Reflected-XSS
-- https://web.archive.org/web/20201125190336/https://tox7cv3nom.github.io/2020-08-05-how_i_was_able_to_pawned_website_via_escilating_webcache-deception-to-rce/, Web-cache-deception
 - https://blog.deteact.com/account-takeover-via-idor/, IDOR
 - https://medium.com/@soufianehabti/my-story-with-xss-ed017bdc44c4, XSS
 - https://medium.com/stolabs/denial-of-service-in-the-protection-service-provided-by-avast-security-premium-284dfd5ab40, DoS
@@ -2170,7 +2167,6 @@
 - https://blog.assetnote.io/2020/06/29/subdomain-takeover-to-account-takeover/, Subdomain-takeover
 - https://medium.com/@hgreal/how-i-hacked-a-bank-their-application-using-it-for-hacking-another-bank-company-10-k-xss-b9cc801a675, XSS
 - https://medium.com/@fatnassifiras45/how-i-was-able-to-take-over-any-account-via-the-password-reset-functionality-ef1659f8b481, Password-reset
-- https://officialaimm.medium.com/an-attempt-to-escalate-a-low-impact-hidden-input-xss-9f4b9c88f19c, XSS
 - https://web.archive.org/web/20200627125016/https://medium.com/@s3c/hacked-worldwide-zoom-users-fceb31868c2d, OAuth
 - https://web.archive.org/web/20200626065913/https://medium.com/@saugatpokharel/able-to-create-hidden-comment-by-blocking-an-admin-facebook-bug-bounty-2020-c62bd10712f, Logic-flaw
 - https://medium.com/bugbountywriteup/all-about-getting-first-bounty-with-idor-849db2828c8, IDOR
@@ -2592,7 +2588,6 @@
 - https://medium.com/@saadahmedx/idor-account-takeover-1ff5a2d03b8b, IDOR
 - https://medium.com/@ciph3r7r0ll/chaining-improper-authorization-to-race-condition-to-harvest-credit-card-details-a-bug-bounty-effe6e0f5076, Authorization-flaw
 - https://medium.com/bugbountywriteup/account-takeover-using-idor-and-the-misleading-case-of-error-403-cb42c96ea310, IDOR
-- https://medium.com/@hariharan21/idor-leads-to-project-takeover-548a1bfd4d66, IDOR
 - https://web.archive.org/web/20200928091625/https://pwnsec.ninja/2019/06/06/how-i-was-able-to-get-private-ticket-response-panel-and-fortigate-web-panel-via-blind-xss/, Blind-XSS
 - https://payatu.com/microsoft-edge-extensions-host-permission-bypass-cve-2019-0678/, Browser-hacking
 - https://portswigger.net/blog/bypassing-csp-with-policy-injection, CSP-bypass
