@@ -306,7 +306,6 @@
 - https://mr-r3bot.github.io/red/team/2023/05/22/From-RCE-to-owning-entire-cloud-infrastructure.html, RCE
 - https://medium.com/@husein.ayoub/azure-dns-takeover-swisscom-7c6aacb38e8, DNS-takeover
 - https://nav1n.medium.com/i-helped-a-top-indian-health-benefits-management-platform-from-major-pii-leak-by-hacking-their-sql-b42caeca9729, SQL-injection
-- https://medium.com/@sharp488/2fa-bypass-using-custom-cookie-parameter-cb270c8557d2, MFA-bypass
 - https://realm3ter.medium.com/aem-bug-in-adobe-416763d3ad04, AEM
 - https://nav1n.medium.com/exploiting-sql-error-sqlstate-42000-to-own-mariadb-of-a-large-eu-based-online-media-and-cf7396c43bbf, SQL-injection
 - https://medium.com/@lukinha05farias/dns-recursion-leads-to-dos-attack-vivo-play-iptv-cve-2023-31893-b5ac45f38f, DoS
@@ -734,7 +733,6 @@
 - https://emily.id.au/tailscale, RCE
 - https://basu-banakar.medium.com/ssrf-via-dns-rebinding-cve-2022-4096-b7bf75928bb2, SSRF
 - https://github.com/0xacb/recollapse/blob/main/till_recollapse_fuzzing_the_web_for_mysterious_bugs.pdf, Regex
-- https://securitylabs.datadoghq.com/articles/appsync-vulnerability-disclosure/, Confused-deputy
 - https://medium.com/@mrd17x/my-account-takeover-writeup-5000-6895492aa549, Lack-of-rate-limiting
 - https://cybervelia.com/?p=1380, IoT
 - https://trufflesecurity.com/blog/email-graffiti/index.html, Broken-link-hijacking
@@ -1621,7 +1619,6 @@
 - https://web.archive.org/web/20210924032932/https://0xdln.ml/XSS-Through-Fuzzing-Default-IIS/, Reflected-XSS
 - https://notifybugme.medium.com/how-i-was-able-find-mass-leaked-aws-s3-bucket-from-js-file-6064a5c247f8, AWS-misconfiguration
 - https://blog.takemyhand.xyz/2021/07/hacking-on-xiaomis-android-apps.html, Android
-- https://melotover.medium.com/how-i-bypassed-a-tough-waf-to-steal-user-cookies-using-xss-da75f28108e4, XSS
 - https://shahjerry33.medium.com/rce-via-webdav-power-of-put-7e1c06c71e60, Default-credentials
 - https://web.archive.org/web/20211017061704/https://0xdln.ml/IIS-Default-Page-to-Information-Disclosure/, Information-disclosure
 - https://blog.ryotak.me/post/cdnjs-remote-code-execution-en/, RCE
@@ -2518,7 +2515,6 @@
 - https://philippeharewood.com/add-users-to-roles-on-facebook-pages-without-an-invitation-consent-revisited/, Logic-flaw
 - https://ninadmathpati.com/how-i-was-able-to-earn-1000-with-just-10-minutes-of-bug-bounty/, Password-reset
 - https://medium.com/@rohitcoder/bypassing-fix-of-domain-blocking-feature-in-business-manager-41949a18460c, Authorization-flaw
-- https://medium.com/@renwa/facebook-messenger-disclosing-deleted-messages-that-has-been-deleted-by-remove-for-everyone-1fb5a52cc7df, Logic-flaw
 - https://medium.com/@madguyyy/bookmyshow-account-takeover-using-social-login-84178f116e42, OAuth
 - https://medium.com/@04sabsas/bugbounty-writeup-take-attention-and-get-stored-xss-495dd6eab07e, Stored-XSS
 - https://websecblog.com/vulns/clickjacking-xss-on-google-org/, Clickjacking
@@ -2573,7 +2569,6 @@
 - https://medium.com/@dr.spitfire/sensitive-information-disclosure-web-cache-deception-attack-bcac6cb9cd86?sk=a2557f0c557ff38876141c2d94b296dd, Information-disclosure
 - https://www.f5.com/labs/articles/threat-intelligence/how-i-hacked-the-microsoft-outlook-android-app-and-found-cve-2019-1105, XSS
 - https://blog.lent.ink/post/klanteservice/, Logic-flaw
-- https://medium.com/@osamaavvan/1800-worth-clickjacking-1f92e79d0414, Clickjacking
 - https://medium.com/@saadahmedx/self-xss-to-evil-xss-bcf2494a82a4, XSS
 - https://medium.com/@ritishkumarsingh/facebook-vulnerability-unremovable-co-host-in-facebook-group-events-13a9ea28b302, Logic-flaw
 - https://medium.com/@osamaavvan/account-taker-with-clickjacking-ace744842ec3, Clickjacking

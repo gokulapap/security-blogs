@@ -14,3 +14,4 @@
 - https://www.seekurity.com/blog/write-ups/facebook-clickjacking-how-we-put-a-new-dress-on-facebook-ui/
 - https://santuysec.com/2020/03/06/google-bug-bounty-clickjacking-on-google-payment-1337/
 - https://palant.info/2019/08/19/kaspersky-in-the-middle--what-could-possibly-go-wrong/
+- https://medium.com/@osamaavvan/1800-worth-clickjacking-1f92e79d0414

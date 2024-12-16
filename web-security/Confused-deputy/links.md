@@ -1,1 +1,2 @@
 - https://albertpedersen.com/blog/cloudflare-casb-confused-deputy/
+- https://securitylabs.datadoghq.com/articles/appsync-vulnerability-disclosure/

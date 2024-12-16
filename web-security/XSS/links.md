@@ -176,3 +176,4 @@
 - https://blog.securitybreached.org/2018/01/27/how-i-was-able-to-download-any-file-from-web-server/
 - https://medium.com/@inforkgodara/xss-vulnerability-attacks-a3bfeb724be0
 - https://officialaimm.medium.com/an-attempt-to-escalate-a-low-impact-hidden-input-xss-9f4b9c88f19c
+- https://melotover.medium.com/how-i-bypassed-a-tough-waf-to-steal-user-cookies-using-xss-da75f28108e4

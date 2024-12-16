@@ -102,3 +102,4 @@
 - https://mikey96.medium.com/what-if-you-could-deposit-money-into-your-betting-account-for-free-24f6690aff46
 - https://randyarios.medium.com/low-hanging-fruits-on-facebook-group-room-b8d17c7ea886
 - https://medium.com/@sathvika03/interesting-find-on-the-invite-link-17cf5a46d747
+- https://medium.com/@renwa/facebook-messenger-disclosing-deleted-messages-that-has-been-deleted-by-remove-for-everyone-1fb5a52cc7df
