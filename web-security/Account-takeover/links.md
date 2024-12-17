@@ -64,3 +64,4 @@
 - https://bhavukjain.com/blog/2020/05/30/zeroday-signin-with-apple/
 - https://ysamm.com/?p=654
 - https://ysamm.com/?p=510
+- https://sankalpa02.medium.com/testing-cookies-worth-500-8fc2310e6d7e

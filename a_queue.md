@@ -139,7 +139,6 @@
 - https://medium.com/@ltsirkov/netflix-bypassing-multi-factor-authentication-mfa-53135c9d6d50, bypass
 - https://medium.com/@harish_nataraj/making-api-bug-bounties-a-breeze-bf6443db5b37, api
 - https://medium.com/@theredteamer/tesla-paid-me-10-000-because-of-directory-indexing-c1be06c77a3e, journey
-- https://medium.com/@renganathanofficial/business-logic-error-leads-to-watching-a-standup-comedy-show-for-free-4300aeb714dc, business-logic
 - https://medium.com/@evilox/testing-and-bypassing-technique-for-idor-9ee03f28f4e1, IDOR
 - https://medium.com/@niraj1mahajan/a-hackers-tale-finding-10x-cves-in-wordpress-plugins-30f86bacf2c8, journey
 - https://medium.com/@ethicalkaps/behind-the-scene-http-parameter-pollution-534b4fa2449c, parameter
@@ -1285,7 +1284,6 @@
 - https://web.archive.org/web/20221128044142/https://wya.pl/2022/02/26/cve-2022-22947-spel-casting-and-evil-beans/, RCE
 - https://swarm.ptsecurity.com/catching-bugs-in-vmware-carbon-black-cloud-workload-appliance-and-vrealize-operations-manager/, Authentication-bypass
 - https://philippeharewood.com/instagram-app-access-token/, Information-disclosure
-- https://kloudle.com/blog/piercing-the-cloud-armor-the-8kb-bypass-in-google-cloud-platform-waf, WAF-bypass
 - https://blog.teddykatz.com/2022/02/23/ghosts-of-branches-past.html, Logic-flaw
 - https://omespino.com/write-up-private-bug-bounty-bypass-redacted-android-application-screen-lock-via-local-brute-forcing/, Android
 - https://servicenger.com/mobile/facebook-android-vulnerability-launching-internal-tighten-deeplink-onbehalf-of-user/, Android
@@ -1632,7 +1630,6 @@
 - https://adnanmalik.info/blog/lets-cancel-the-subscription/, Logic-flaw
 - https://donjon.ledger.com/kaspersky-password-manager/, Weak-crypto
 - https://philippeharewood.com/bulletin-com-email-address-leak/, Information-disclosure
-- https://sankalpa02.medium.com/testing-cookies-worth-500-8fc2310e6d7e, Account-takeover
 - https://portswigger.net/research/finding-dom-polyglot-xss-in-paypal-the-easy-way, DOM-XSS
 - https://portswigger.net/research/pre-auth-rce-in-forgerock-openam-cve-2021-35464, RCE
 - https://medium.com/techiepedia/how-i-was-able-to-takeover-any-account-on-foxit-com-7a08efa0144f, Password-reset
@@ -1982,7 +1979,6 @@
 - https://lokeshdlk77.medium.com/reveal-the-page-admin-that-uploaded-a-video-on-the-page-in-comment-section-9760e4a31453, Information-disclosure
 - https://security.lauritz-holtmann.de/advisories/cve-2020-13294/, Authentication-flaw
 - https://james-clee.com/2020/11/01/leaked-git-folder-leads-to-rce/, git-folder-disclosure
-- https://aseemshrey.in/abusing-report-abuse/, Logic-flaw
 - https://a-constant.medium.com/beyond-the-wall-command-injection-still-alive-577a898df0b5, OS-command-injection
 - https://tbutler.org/2020/11/01/hinge-hackerone-writeup.html, Broken-Access-Control
 - https://secret.club/2020/10/30/alien-swarm-rce.html, RCE
@@ -2478,7 +2474,6 @@
 - https://medium.com/@0xgaurang/case-study-oauth-misconfiguration-leads-to-account-takeover-d3621fe8308b, OAuth
 - https://medium.com/bugbountywriteup/facebook-workplace-privilege-escalation-vulnerability-to-change-the-post-privacy-as-public-634f1c995780, Privilege-escalation
 - https://web.archive.org/web/20191214144210/https://medium.com/bugbountywriteup/a-simple-bypass-of-registration-activation-that-lead-to-many-bug-a-story-about-how-my-friend-5df0889f1062, Information-disclosure
-- https://medium.com/@hariharan21/stored-xss-on-zendesk-via-macros-part-2-676cefee4616, Stored-XSS
 - https://philippeharewood.com/business-id-leak-via-creative-hub-redirect/, Open-redirect
 - https://medium.com/@tungpun/client-not-client-aa448cfdedd2, LFI
 - https://medium.com/@jayateerthag/google-referer-leak-bug-434f6293ce66, Referer-leakage
