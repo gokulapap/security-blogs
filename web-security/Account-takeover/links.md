@@ -65,3 +65,4 @@
 - https://ysamm.com/?p=654
 - https://ysamm.com/?p=510
 - https://sankalpa02.medium.com/testing-cookies-worth-500-8fc2310e6d7e
+- https://medium.com/@prateek_0490/how-i-could-have-compromised-any-account-on-one-of-the-biggest-startup-based-in-california-3ebc8c6844b5

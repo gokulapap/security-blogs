@@ -51,3 +51,4 @@
 - https://www.bitcrack.net/pwning-the-portal-from-database-dump-to-session-hijacking/
 - https://medium.com/@nuraalamdipu/union-based-sql-injection-write-up-a-private-company-site-273f89a49ed9
 - https://www.sjoerdlangkemper.nl/2023/03/15/textcube-sql-injection-session-ip-spoofing/
+- https://outpost24.com/blog/X-forwarded-for-SQL-injection

@@ -1135,7 +1135,6 @@
 - https://hogarth45.medium.com/social-media-take-over-easy-money-aa6274b4b70d, Broken-link-hijacking
 - https://infosecwriteups.com/how-an-open-redirection-leads-to-an-account-takeover-73ea883055d1, Open-redirect
 - https://mc0wn.blogspot.com/2022/05/2nd-rce-and-xss-in-apache-struts-before-2530.html, RCE
-- https://labs.ingredous.com/2022/05/25/hijacking-over-100k-godaddy-websites/, Subdomain-takeover
 - https://infosecwriteups.com/how-i-found-a-companys-internal-s3-bucket-with-41k-files-94b453e588b5, AWS-misconfiguration
 - https://www.blackhillsinfosec.com/spoofing-microsoft-365-like-its-1995/, Spoofing
 - https://www.secjuice.cz0idsecom/breaking-parser-logic-gain-access-to-nginx-plus-api-read-write-upstreams/, Path-traversal
@@ -1936,7 +1935,6 @@
 - https://infosecwriteups.com/facebook-push-notification-linkshim-bypassed-385fe471516, Open-redirect
 - https://github.com/oskarsve/ms-teams-rce, RCE
 - https://medium.com/@vedanttekale20/story-of-the-best-vulnerability-ive-found-so-far-5e3b0e02b47e, Self-XSS
-- https://blog.evanricafort.com/2020/12/cve-2019-17674-wordpress-stored-xss.html, Stored-XSS
 - https://nmochea.medium.com/this-post-is-about-an-reflected-xss-that-i-found-on-opera-browser-application-which-could-have-been-39823a22045d, XSS
 - https://amineaboud.medium.com/10000-facebook-ssrf-bug-bounty-402bd21e58e5, SSRF
 - https://securitytrooper.com/en/cross-site-scripting-xss-reflected-in-one-of-the-subdomains-of-general-motorsbugbounty, Reflected-XSS
@@ -2701,7 +2699,6 @@
 - https://medium.com/@pig.wig45/setting-up-gitrob-and-using-it-to-find-leaking-repository-of-an-employee-in-a-hackerone-private-e4c40da1bc85, Information-disclosure
 - https://ysamm.com/?p=158, Information-disclosure
 - https://ysamm.com/?p=171, IDOR
-- https://outpost24.com/blog/X-forwarded-for-SQL-injection, SQL-injection
 - https://medium.freecodecamp.org/cache-deception-how-i-discovered-a-vulnerability-in-medium-and-helped-them-fix-it-31cec2a3938b, Web-cache-deception
 - https://posts.specterops.io/remote-code-execution-via-path-traversal-in-the-device-metadata-authoring-wizard-a0d5839fc54f, Path-traversal
 - https://medium.com/@goyalvartul/how-i-hacked-40-000-user-accounts-of-microsoft-using-2fa-bypass-outlook-live-com-13258785ec2f, MFA-bypass
@@ -2764,7 +2761,6 @@
 - https://www.betterhacker.com/2018/12/rce-in-hubspot-with-el-injection-in-hubl.html, RCE
 - https://blog.intothesymmetry.com/2018/12/billion-laugh-attack-in.html, Billion-laugh-attack
 - https://gauravnarwani.com/android-acc-takeover/, Account-takeover
-- https://www.secu.ninja/2018/12/04/how-to-accidentally-find-a-xss-in-protonmail-ios-app/, XSS
 - https://pwning.re/2018/12/04/github-desktop-rce/, RCE
 - https://dylankatz.com/digging-in-to-scp-command-injection/, OS-command-injection
 - http://zhchbin.github.io/2018/12/03/Hijack-the-JS-File-of-Uber-s-Website/, JS-file-hijacking
@@ -3156,7 +3152,6 @@
 - https://medium.com/@zahidali_93675/conflict-account-recovery-form-in-facebook-2b6e7d203cfd, Logic-flaw
 - https://web.archive.org/web/20170206221502/https://deadpool.sh/2017/RCE-Springs/, RCE
 - https://web.archive.org/web/20200822111544/https://whitehatnepal.tumblr.com/post/156707088037/i-got-emails-g-suite-vulnerability, Logic-flaw
-- https://medium.com/@prateek_0490/how-i-could-have-compromised-any-account-on-one-of-the-biggest-startup-based-in-california-3ebc8c6844b5, Account-takeover
 - https://httpsonly.blogspot.com/2017/01/0day-writeup-xxe-in-ubercom.html, XXE
 - https://thehackerblog.com/the-orphaned-internet-taking-over-120k-domains-via-a-dns-vulnerability-in-aws-google-cloud-rackspace-and-digital-ocean/index.html, Domain-takeover
 - https://evilpacket.net/2016/atom-io-misconfiguration-allowed-code-execution-on-untrusted-networks/, RCE

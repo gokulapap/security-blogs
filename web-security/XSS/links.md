@@ -177,3 +177,4 @@
 - https://medium.com/@inforkgodara/xss-vulnerability-attacks-a3bfeb724be0
 - https://officialaimm.medium.com/an-attempt-to-escalate-a-low-impact-hidden-input-xss-9f4b9c88f19c
 - https://melotover.medium.com/how-i-bypassed-a-tough-waf-to-steal-user-cookies-using-xss-da75f28108e4
+- https://www.secu.ninja/2018/12/04/how-to-accidentally-find-a-xss-in-protonmail-ios-app/
