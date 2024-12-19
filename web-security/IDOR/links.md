@@ -143,3 +143,5 @@
 - https://ja1sharma.medium.com/bugbounty-idor-how-i-was-able-to-exfiltrate-any-users-credit-coupons-49631d9f3bc8
 - https://www.indoappsec.in/2019/12/airbnb-steal-earning-of-airbnb-hosts-by.html
 - https://medium.com/@hariharan21/idor-leads-to-project-takeover-548a1bfd4d66
+- https://ysamm.com/?p=314
+- https://ysamm.com/?p=56

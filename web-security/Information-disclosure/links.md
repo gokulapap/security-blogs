@@ -151,3 +151,4 @@
 - https://medium.com/bugbountywriteup/page-admin-disclosed-in-groups-due-to-bad-session-handling-in-facebook-web-184514fafff9
 - https://medium.com/@tnirmalz/facebook-bugbounty-disclosing-page-members-1178595cc520
 - https://medium.com/pinoywhitehat/getting-email-address-of-any-hackerone-user-worth-7-500-afb8076ee395
+- https://addictivehackers.blogspot.com/2019/08/from-github-recon-to-account-takeover.html

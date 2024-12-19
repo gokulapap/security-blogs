@@ -291,7 +291,6 @@
 - https://research.nccgroup.com/2023/05/31/reverse-engineering-coin-hunt-worlds-binary-protocol/, Reverse-engineering
 - https://sensepost.com/blog/2023/an-offensive-look-at-docker-desktop-extensions/, OS-command-injection
 - https://mc0wn.blogspot.com/2023/05/vulnerabilities-in-apache-commons-text.html, Path-traversal
-- https://www.microsoft.com/en-us/security/blog/2023/05/30/new-macos-vulnerability-migraine-could-bypass-system-integrity-protection/, SIP-bypass
 - https://medium.com/@ajzead660/exploit-an-unexploitable-xss-via-an-open-redirect-a-real-life-scenario-from-a-hackers-mindset-32b71041c5fe, XSS
 - https://medium.com/@gokulsspace/the-30000-bounty-affair-3f025ee6b834, RCE
 - https://medium.com/@ibederov_en/find-out-the-ip-address-through-a-call-to-telegram-a899441b1bac, Privacy-issue
@@ -2496,7 +2495,6 @@
 - https://blog.usejournal.com/graphql-bug-to-steal-anyones-address-fc34f0374417, Information-disclosure
 - https://medium.com/@bathinivijaysimhareddy/shodan-is-your-friend-if-you-lose-him-you-will-lose-many-657d07472f75, SQL-injection
 - https://medium.com/@Skylinearafat/how-to-look-for-js-files-vulnerability-for-fun-and-profit-78bfdfbd6731, Information-disclosure
-- https://addictivehackers.blogspot.com/2019/08/from-github-recon-to-account-takeover.html, Information-disclosure
 - https://gauravnarwani.com/cookie-worth-a-fortune/, Reflected-XSS
 - https://blog.doyensec.com/2019/08/22/modern-password-managers-flag-secure.html, Information-disclosure
 - https://www.updatelap.com/2019/08/Rights-Manager-Graph-API-Disclosure-of-business-employee-to-non-business-employee.html, Information-disclosure
@@ -2522,7 +2520,6 @@
 - https://medium.com/@aniltom/https-medium-com-aniltom-from-sub-domain-takeover-to-open-redirect-b5be4906e1a4, Subdomain-takeover
 - https://ysamm.com/?p=291, IDOR
 - https://ysamm.com/?p=321, Internal-path-disclosure
-- https://ysamm.com/?p=314, IDOR
 - https://ysamm.com/?p=281, Authorization-flaw
 - https://medium.com/@dekeeu/reposted-2019-hacking-youtube-for-fun-and-profit-8685dd475e30, Authorization-flaw
 - https://web.archive.org/web/20210124152317/https://whitehathaji.blogspot.com/2019/07/paypal-bug-10k-all-secondary-users.html, IDOR
@@ -2644,7 +2641,6 @@
 - https://medium.com/@rohan_x3/edmodo-idor-to-view-private-files-of-any-class-2280676c84b8, IDOR
 - https://medium.com/@armaanpathan/scary-bug-in-burp-suite-upstream-proxy-allows-hackers-to-hack-hackers-e6fc9a8d60a, MiTM
 - https://www.valbrux.it/blog/2019/04/04/google-ads-information-disclosure-via-null-pointer-exception/, Information-disclosure
-- https://mahmoudsec.blogspot.com/2019/04/handlebars-template-injection-and-rce.html, SSTI
 - https://medium.com/@jonathanbouman/leaked-salesforce-api-access-token-at-ikea-com-132eea3844e0, Information-disclosure
 - http://archive.ingredous.com/notes/downnotifer-ssrf/, SSRF
 - https://medium.com/@ritishkumarsingh/https-medium-com-ritishkumarsingh-facebook-vulnerability-hiding-from-facebook-page-admin-in-hacked-workflow-86f366f183c6, Logic-flaw
@@ -2716,7 +2712,6 @@
 - https://medium.com/bugbountywriteup/frapp%C3%A9-technologies-erpnext-server-side-template-injection-74e1c95ec872, SSTI
 - https://ysamm.com/?p=68, Logic-flaw
 - https://ysamm.com/?p=60, IDOR
-- https://ysamm.com/?p=56, IDOR
 - https://ysamm.com/?p=50, Logic-flaw
 - https://ysamm.com/?p=45, IDOR
 - https://ysamm.com/?p=38, Bruteforce
