@@ -31,3 +31,4 @@
 - https://medium.com/@yoshimlutfi/how-i-found-p2-broken-authentication-with-zero-skill-of-hacking-c40b5643fe4a
 - https://blog.viettelcybersecurity.com/cve-2022-1040-sophos-xg-firewall-authentication-bypass/
 - https://onekey.com/blog/advisory-cisco-rv34x-authentication-bypass-remote-command-execution/
+- https://www.ezequiel.tech/2020/08/leaking-google-cloud-projects.html

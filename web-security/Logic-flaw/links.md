@@ -104,3 +104,5 @@
 - https://medium.com/@sathvika03/interesting-find-on-the-invite-link-17cf5a46d747
 - https://medium.com/@renwa/facebook-messenger-disclosing-deleted-messages-that-has-been-deleted-by-remove-for-everyone-1fb5a52cc7df
 - https://aseemshrey.in/abusing-report-abuse/
+- https://wwws.nightwatchcybersecurity.com/2021/04/25/supply-chain-attacks-via-github-com-releases/
+- https://www.seekurity.com/blog/general/business-logic-vulnerabilities-series-a-brief-on-abusing-invitation-systems/

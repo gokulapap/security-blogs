@@ -152,3 +152,4 @@
 - https://medium.com/@tnirmalz/facebook-bugbounty-disclosing-page-members-1178595cc520
 - https://medium.com/pinoywhitehat/getting-email-address-of-any-hackerone-user-worth-7-500-afb8076ee395
 - https://addictivehackers.blogspot.com/2019/08/from-github-recon-to-account-takeover.html
+- https://medium.com/nassec-cybersecurity-writeups/how-i-was-able-to-find-page-personal-account-disclosure-on-instagram-d9607de4883f
