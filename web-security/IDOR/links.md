@@ -145,3 +145,4 @@
 - https://medium.com/@hariharan21/idor-leads-to-project-takeover-548a1bfd4d66
 - https://ysamm.com/?p=314
 - https://ysamm.com/?p=56
+- https://apapedulimu.click/story-of-idor-on-google-product/

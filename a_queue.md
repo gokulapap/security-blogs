@@ -836,7 +836,6 @@
 - https://medium.com/stolabs/cve-2022-36635-a-sql-injection-in-zksecuritybio-to-rce-c5bde2962d47, SQL-injection
 - https://ahmadaabdulla.medium.com/mr-robot-self-xss-from-informative-to-high-1200-csrf-open-redirect-self-xss-to-stored-92f371ba3da1, Self-XSS
 - https://tantosec.com/blog/cve-2022-41343/, RCE
-- https://sec-consult.com/blog/detail/melting-the-dns-iceberg-taking-over-your-infrastructure-kaminsky-style/, DNS-cache-poisoning
 - https://c0nqr0r.medium.com/error-based-sql-injection-with-waf-bypass-manual-exploit-100-bab36b769005, SQL-injection
 - https://itnext.io/a-deep-dive-of-cve-2022-33987-got-allows-a-redirect-to-a-unix-socket-cdeed53944f7, SSRF
 - https://pseudorandom.resistant.tech/disclosing-security-and-privacy-issues-in-thunderbird.html, Privacy-issue
@@ -1157,7 +1156,6 @@
 - https://basyounii.medium.com/forging-oauth-tokens-using-discovered-client-id-and-client-secret-d224e4e7892a, Information-disclosure
 - https://web.archive.org/web/20220513145411/https://pwnsec.ninja/2022/05/12/takeover-seller-accounts-worth-billions-millions/, IDOR
 - https://www.trustedsec.com/blog/diving-into-pre-created-computer-accounts/, Active-Directory
-- https://research.ifcr.dk/certifried-active-directory-domain-privilege-escalation-cve-2022-26923-9e098fe298f4, Active-Directory-Privilege-Escalation
 - https://systemweakness.com/resolveuri-rxss-imperva-waf-bypass-c834ca573bd4, XSS
 - https://systemweakness.com/rce-via-dependency-confusion-e0ed2a127013, Dependency-confusion
 - https://melotover.medium.com/can-analyzing-javascript-files-lead-to-remote-code-execution-f24112f1aa1f, Unrestricted-file-upload
@@ -1394,7 +1392,6 @@
 - https://notifybugme.medium.com/exploiting-s3-bucket-with-path-folder-to-access-pii-info-of-a-bank-91d8563cb45, AWS-misconfiguration
 - https://www.r29k.com/articles/bb/priv-esc-via-stored-xss, Account-takeover
 - https://rizwansiddiqu1.medium.com/another-admin-panel-e0489dc76678, HTTP-response-manipulation
-- https://web.archive.org/web/20220823110821/https://cybernews.com/security/microsoft-vancouver-leaking-website-credentials-via-overlooked-ds-store-file/, Information-disclosure
 - https://blog.agilehunt.com/blogs/security/privilege-escalation-in-microsoft-teams-2021, Privilege-escalation
 - https://medium.com/@7azimo/hacking-into-admin-panel-of-u-s-federal-government-system-c-a-r-s-without-credentials-9117b865ba58, Client-side-enforcement-of-server-side-security
 - https://www.y-security.de/news-en/microsoft-azure-portal-csv-injection/index.html, CSV-injection
@@ -1535,7 +1532,6 @@
 - https://medium.com/@gguzelkokar.mdbf15/xss-via-account-takeover-in-e-signature-feature-worth-2500-435f3f8325bf, XSS
 - https://rikeshbaniyaaa.medium.com/facebook-email-disclosure-and-account-takeover-ecdb44ee12e9, Information-disclosure
 - https://websecblog.com/vulns/google-threadit/, DOM-XSS
-- https://apapedulimu.click/story-of-idor-on-google-product/, IDOR
 - https://medium.com/@katikitala.sushmitha078/how-i-can-take-over-any-users-account-with-their-mobile-number-6d820a364cad, Account-takeover
 - https://shahjerry33.medium.com/business-logic-errors-must-vote-68f642b60fb7, Logic-flaw
 - https://infosecwriteups.com/bypassed-and-uploaded-a-sweet-reverse-shell-d15e1bbf5836, Unrestricted-file-upload
@@ -1801,7 +1797,6 @@
 - https://blog.melbadry9.xyz/ddns-ec2-ips-current-state, Dangling-DNS-records
 - https://3bodymo.medium.com/the-easiest-2500-i-got-it-from-bug-bounty-program-8f47ea4aff22, Information-disclosure
 - https://lf.lc/vrp/181521559b/, Container-escape
-- https://infosecwriteups.com/leveraging-template-injection-to-takeover-an-account-1dba7c4ae315, CSTI
 - https://maordayanofficial.medium.com/stored-xss-at-trello-com-ef2e3d1ed24b, Stored-XSS
 - https://wwws.nightwatchcybersecurity.com/2021/03/03/content-injection-rce-in-yandex-browser-for-android-2018/, MiTM
 - https://infosecwriteups.com/the-invincible-kid-7ac1ce2887c0, Logic-flaw

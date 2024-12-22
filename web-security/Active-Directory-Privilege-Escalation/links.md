@@ -1,3 +1,4 @@
 - https://www.semperis.com/blog/ad-security-research-breaking-trust-transitivity/
 - https://medium.themayor.tech/domain-takeover-without-domain-admin-permissions-28a7bd330501
 - https://posts.specterops.io/from-da-to-ea-with-esc5-f9f045aa105c
+- https://research.ifcr.dk/certifried-active-directory-domain-privilege-escalation-cve-2022-26923-9e098fe298f4

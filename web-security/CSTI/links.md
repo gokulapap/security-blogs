@@ -2,3 +2,4 @@
 - https://medium.com/manomano-tech/finding-zero-day-vulnerabilities-in-the-supply-chain-28afa43b0f6e
 - https://medium.com/@ao64400225/an-unusual-way-to-find-xss-injection-in-one-minute-9ed2c7e2a848
 - https://systemweakness.com/c-s-t-i-lead-to-account-takeover-f21ea07d9141
+- https://infosecwriteups.com/leveraging-template-injection-to-takeover-an-account-1dba7c4ae315
