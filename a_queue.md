@@ -860,7 +860,6 @@
 - https://www.semperis.com/blog/new-attack-paths-as-requested-sts/, Local-Privilege-Escalation
 - https://bergee.it/blog/blind-account-takeover/, Account-takeover
 - https://blog.infiltrateops.io/tesla-paid-me-10-000-because-of-directory-indexing-c1be06c77a3e, Directory-listing
-- https://xthemo.medium.com/stored-xss-at-nvidia-via-angular-js-template-injection-3c9793218860, CSTI
 - https://sagarsajeev.medium.com/escalating-ssti-to-reflected-xss-using-curly-braces-825685bd93ec, SSTI
 - https://rohit443.medium.com/blind-xss-on-admin-portal-leads-to-information-disclosure-121d26b2a35a, Blind-XSS
 - https://infosecwriteups.com/complete-take-over-of-cisco-unified-communications-manager-due-consecutively-misconfigurations-2a1b5ce8bd9a, Security-misconfiguration
@@ -1031,7 +1030,6 @@
 - https://sector7.computest.nl/post/2022-07-opc-ua-net-standard-trusted-application-check-bypass/, Local-Privilege-Escalation
 - https://www.authomize.com/blog/authomize-discovers-password-stealing-and-impersonation-risks-to-in-okta/, Sensitive-data-sent-over-an-unencrypted-channel
 - https://0x1337.ninja/2022/07/19/mybb-0day-authenticated-remote-code-execution/, RCE
-- https://virtuvil.medium.com/hey-google-lets-submit-bug-from-victim-account-af6a25d390e1, IDOR
 - https://infosecwriteups.com/ffuf-ing-recon-1ee4e79b3256, vHost-misconfiguration
 - https://medium.com/@rajqureshi07/a-story-of-my-first-bug-bounty-dda320db78d9, Information-disclosure
 - https://securityflow.io/going-beyond-alert-with-xss/, XSS
@@ -1968,7 +1966,6 @@
 - https://james-clee.com/2020/11/01/leaked-git-folder-leads-to-rce/, git-folder-disclosure
 - https://a-constant.medium.com/beyond-the-wall-command-injection-still-alive-577a898df0b5, OS-command-injection
 - https://tbutler.org/2020/11/01/hinge-hackerone-writeup.html, Broken-Access-Control
-- https://secret.club/2020/10/30/alien-swarm-rce.html, RCE
 - https://0xt4144t.medium.com/rate-limit-bypassing-allowing-identity-spoofing-789b2fe2efa8, Rate-limiting-bypass
 - https://grumpinout.medium.com/manual-broken-link-monitoring-bcc064f5f5f2, Broken-link-hijacking
 - https://testbnull.medium.com/weblogic-rce-by-only-one-get-request-cve-2020-14882-analysis-6e4b09981dbf, RCE
@@ -2694,7 +2691,6 @@
 - https://medium.com/@ChandSingh/protonmail-xss-stored-b733031ac3b5, Stored-XSS
 - https://websecblog.com/vulns/leoexpress-personal-data/, Authorization-flaw
 - https://www.shawarkhan.com/2019/01/hijacking-accounts-by-retrieving-jwt.html, Open-redirect
-- https://medium.com/@lukeberner/how-i-abused-2fa-to-maintain-persistence-after-a-password-change-google-microsoft-instagram-7e3f455b71a1, Logic-flaw
 - https://gauravnarwani.com/priv-esc-highest-admin/, IDOR
 - https://medium.com/bugbountywriteup/frapp%C3%A9-technologies-erpnext-server-side-template-injection-74e1c95ec872, SSTI
 - https://ysamm.com/?p=68, Logic-flaw
@@ -3118,7 +3114,6 @@
 - https://www.nc-lp.com/blog/critical-information-disclosure-on-wappalyzer-com, Information-disclosure
 - https://blog.ettic.ca/near-universal-xss-in-mcafee-web-gateway-cf8dfcbc8fc3, XSS
 - https://emtunc.org/blog/03/2017/bypassing-safe-links-exchange-online-advanced-threat-protection/, Open-redirect
-- https://buer.haus/2017/03/13/airbnb-ruby-on-rails-string-interpolation-led-to-remote-code-execution/, RCE
 - https://corben.io/blog/17-3-10-att-rce, RCE
 - https://buer.haus/2017/03/08/airbnb-when-bypassing-json-encoding-xss-filter-waf-csp-and-auditor-turns-into-eight-vulnerabilities/, XSS
 - https://www.rcesecurity.com/2017/03/ok-google-give-me-all-your-internal-dns-information/, SSRF

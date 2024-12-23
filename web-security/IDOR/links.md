@@ -146,3 +146,4 @@
 - https://ysamm.com/?p=314
 - https://ysamm.com/?p=56
 - https://apapedulimu.click/story-of-idor-on-google-product/
+- https://virtuvil.medium.com/hey-google-lets-submit-bug-from-victim-account-af6a25d390e1
