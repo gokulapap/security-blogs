@@ -154,3 +154,4 @@
 - https://addictivehackers.blogspot.com/2019/08/from-github-recon-to-account-takeover.html
 - https://medium.com/nassec-cybersecurity-writeups/how-i-was-able-to-find-page-personal-account-disclosure-on-instagram-d9607de4883f
 - https://web.archive.org/web/20220823110821/https://cybernews.com/security/microsoft-vancouver-leaking-website-credentials-via-overlooked-ds-store-file/
+- https://www.secforce.com/blog/cve-2022-20942-its-not-old-functionality-its-vintage/

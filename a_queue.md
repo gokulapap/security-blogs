@@ -334,7 +334,6 @@
 - http://blog.evanricafort.com/2023/05/ipv6-dns-takeover-via-mitm6-write-up.html, MiTM
 - https://medium.com/@ar_hawk/how-a-simple-directory-listing-leads-to-pii-data-leakage-remote-code-execution-and-many-more-104b09e644f4, RCE
 - https://medium.com/@mohammed01550038865/how-i-discovred-xss-via-url-encode-3-times-86ccd5354081, XSS
-- https://www.secforce.com/blog/size-matters-when-capital-letters-introduce-vulnerabilities/, XSS
 - https://infosecwriteups.com/mass-assignment-leads-to-the-victims-account-being-inaccessible-forever-52e48c6a8a4d, Mass-assignment
 - https://blog.ankursundara.com/cookie-bugs/, Cookie-smuggling
 - https://ermetic.com/blog/azure/when-good-apis-go-bad-uncovering-3-azure-api-management-vulnerabilities/, SSRF
@@ -672,7 +671,6 @@
 - https://www.akamai.com/blog/security-research/msrpc-lsm-cve-disturbing-hosts-rest, Windows
 - https://aidenpearce369.github.io/offsec/My-First-RedTeam-Engagement/, SQL-injection
 - https://blog.lightspin.io/aws-ecr-public-vulnerability, Cloud
-- https://www.secforce.com/blog/cve-2022-20942-its-not-old-functionality-its-vintage/, Information-disclosure
 - https://karol-mazurek95.medium.com/not-usual-csp-bypass-case-b538263e09d6, Unrestricted-file-upload
 - https://0xmayankgarg.medium.com/pii-data-exfiltration-within-minutes-f06d4587d201, Information-disclosure
 - https://medium.com/@Iam5345/how-i-hacked-the-dutch-government-and-got-the-lousy-t-shirt-81fd0a0dd84d, XSS
@@ -937,7 +935,6 @@
 - https://joshuaarulsamy.medium.com/my-hall-of-fame-at-united-nations-success-story-97675232aed7, XSS
 - https://blog.nietaanraken.nl/posts/github-pages-command-injection/, RCE
 - https://dphoeniixx.medium.com/chaining-telegram-bugs-to-steal-session-related-files-c90eac4749bd, Arbitrary-file-read
-- https://pierrekim.github.io/blog/2022-08-24-2-byte-dos-freebsd-netbsd-telnetd-netkit-telnetd-inetutils-telnetd-kerberos-telnetd.html, DoS
 - https://blog.sonarsource.com/securing-developer-tools-argument-injection-in-vscode/, Argument-injection
 - https://redrays.io/cve-2020-2733-jd-edwards/, Information-disclosure
 - https://whereisk0shl.top/post/break-me-out-of-sandbox-in-old-pipe-cve-2022-22715-windows-dirty-pipe, Local-Privilege-Escalation
@@ -1555,7 +1552,6 @@
 - https://robertheaton.com/bumble-vulnerability/, Information-disclosure
 - https://medium.com/@noob.assassin/5k-misconfigured-reset-password-that-leads-to-account-takeover-no-user-interaction-ato-e6a36b8ef183, Account-takeover
 - https://www.upguard.com/breaches/power-apps, Information-disclosure
-- https://medium.com/@gguzelkokar.mdbf15/huge-impact-server-side-request-forgery-in-production-app-20bf0cc5731, SSRF
 - https://medium.com/@nehpatel/story-of-unexpected-bugs-75734d51ac57, IDOR
 - https://web.archive.org/web/20210909040725/https://obsrva.org/2021/08/22/monkeytype-disclosure.html, Stored-XSS
 - https://tuhin1729.medium.com/account-takeover-via-access-token-leakage-687276953408, IDOR
@@ -3049,7 +3045,6 @@
 - https://medium.com/@rojanrijal/luminate-internal-privilege-escalation-admin-to-owner-2ca28e575985, Authorization-flaw
 - https://guptashubham.com/all-about-hackerone-private-program-terapeak/, IDOR
 - https://kciredor.com/first-bounty-time-to-step-up-my-game.html, Same-Origin-Method-Execution
-- https://medium.com/bugbountywriteup/chaining-self-xss-with-ui-redressing-is-leading-to-session-hijacking-pwn-users-like-a-boss-efb46249cd14, Self-XSS
 - http://manuel-sousa.blogspot.com/2017/09/url-whitelist-bypass-accounts-google.html, Open-redirect
 - https://medium.com/intigriti/how-i-hacked-hundreds-of-companies-through-their-helpdesk-b7680ddc2d4c, Ticket-Trick
 - https://medium.com/@SyntaxError4/reflective-xss-and-open-redirect-on-indeed-com-subdomain-b4ab40e40c83, Reflected-XSS

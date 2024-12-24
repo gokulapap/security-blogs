@@ -179,3 +179,4 @@
 - https://melotover.medium.com/how-i-bypassed-a-tough-waf-to-steal-user-cookies-using-xss-da75f28108e4
 - https://www.secu.ninja/2018/12/04/how-to-accidentally-find-a-xss-in-protonmail-ios-app/
 - https://ahussam.me/Medium-full-account-takeover/
+- https://www.secforce.com/blog/size-matters-when-capital-letters-introduce-vulnerabilities/
