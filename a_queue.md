@@ -26,7 +26,6 @@
 - https://medium.com/@kotakbhavak/a-csrf-worth-the-wait-and-404c6b531789, csrf
 - https://medium.com/@nanwinata/rce-docker-api-but-11ff70825935, Cloud
 - https://medium.com/@lazyhacker/ways-to-exploit-json-csrf-simple-explanation-5e77c403ede6, csrf
-- https://medium.com/@vflexo/xyz-of-xss-62603eb4cba, XSS
 - https://medium.com/@basakyilmaz82/log4j-vulnerability-485559065af6, CVE
 - https://medium.com/@yan.zaripov/time-based-sql-injection-63a395434e97, sql-injection
 - https://medium.com/@codewithvamp/the-cost-of-neglect-html-injection-3c00e719fdef, html-injection
@@ -177,7 +176,6 @@
 - https://research.aurainfosec.io/pentest/hook-line-and-phishlet/, Phishing
 - https://mr-medi.github.io/research/2023/07/31/exploring-cross-site-frame-counting-attacks.html, Cross-Site-Frame-Counting
 - https://hazanasec.github.io/2023-07-30-Samesite-bypass-method-override.md/, Samesite-cookie-bypass
-- https://infosecwriteups.com/bypassing-email-verification-of-high-profile-tech-company-e592cc4a89ce, Email-verification-bypass
 - https://medium.com/@abhishek.karle92/access-of-android-protected-components-via-embedded-intent-android-app-pentesting-5618ae3cc9b2, Android
 - https://www.mcnulty.blog/posts/dap-csrf, CSRF
 - https://securitylabs.datadoghq.com/articles/exploring-github-to-aws-keyless-authentication-flaws/, OpenID-Connect
@@ -1898,7 +1896,6 @@
 - https://www.pantaprakash.com.np/posts/categories/bugbounty-writeup/1.html, Information-disclosure
 - https://www.pantaprakash.com.np/posts/categories/bugbounty-writeup/3.html, Logic-flaw
 - https://iustin24.github.io/Cache-Key-Normalization-Denial-of-Service/, Web-cache-poisoning
-- https://bhupendra1238.medium.com/how-i-got-my-first-bounty-hof-from-google-csrf-lead-to-account-delete-85f9906ba9ec, CSRF
 - https://blog.deesee.xyz/regex/security/2020/12/27/regular-expression-injection.html, ReDoS
 - https://lutfumertceylan.com.tr/posts/acc-takeover-web-cache-xss/, Reflected-XSS
 - https://baibhavjha.com.np/blogs/hidingfromcustomlistfblite/, Logic-flaw
@@ -1929,7 +1926,6 @@
 - https://zetc0de.github.io/post/authenticated-rce-ssrf-wondercms/, Blind-SSRF
 - https://ahmdhalabi.medium.com/chaining-multiple-requests-to-achieve-rate-limiting-vulnerabilities-96c1e8365c06, Rate-limiting-bypass
 - https://shellbr3ak.medium.com/the-story-of-my-first-critical-bug-93a5920d6c43, SQL-injection
-- https://rafipiun.medium.com/how-i-got-easy-for-sql-injection-bug-7ff622236e4c, SQL-injection
 - https://vijetareigns.medium.com/pre-account-takeover-using-oauth-misconfiguration-ebd32b80f3d3, OAuth
 - https://fuomag9.medium.com/how-images-on-github-will-leak-your-private-information-88f3b563e7d9, Information-disclosure
 - https://medium.com/realmodelabs/sd-pwn-part-3-cisco-vmanage-another-day-another-network-takeover-15731a4d75b7, RCE
@@ -2076,7 +2072,6 @@
 - https://hunter-55.medium.com/introduction-fae7c8b3d16c, Exposed-registration-page
 - https://tox7cv3nom.github.io/2020/07/28/authentication-token-bypass-leads-too-idor.html, Authentication-bypass
 - https://medium.com/@akshanshjaiswal/pre-access-to-victims-account-via-facebook-signup-60219e9e381d, OAuth
-- https://www.r29k.com/articles/bb/csrf, CSRF
 - https://medium.com/@metnew/exploiting-popular-macos-apps-with-a-single-terminal-file-f6c2efdfedaa, MacOS
 - https://tolo7010note.blogspot.com/2020/07/an-unreproducable-bug-due-to-load.html, Open-redirect
 - https://medium.com/@airlanggamurthi/obtained-a-bunch-of-sensitive-data-in-just-few-steps-hacking-1a474200a8c2, AWS-misconfiguration

@@ -180,3 +180,4 @@
 - https://www.secu.ninja/2018/12/04/how-to-accidentally-find-a-xss-in-protonmail-ios-app/
 - https://ahussam.me/Medium-full-account-takeover/
 - https://www.secforce.com/blog/size-matters-when-capital-letters-introduce-vulnerabilities/
+- https://medium.com/@vflexo/xyz-of-xss-62603eb4cba

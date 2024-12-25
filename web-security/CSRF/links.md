@@ -63,3 +63,5 @@
 - https://rakesh-thodupunoori.medium.com/part-2-dive-into-zoom-applications-1b01091345c1
 - https://medium.com/@ashrafharb997/csrf-to-full-account-takeover-5196cef9d166
 - https://medium.com/@mr_hacker/csrf-bypass-using-cross-frame-scripting-c349d6f33eb6
+- https://www.r29k.com/articles/bb/csrf
+- https://bhupendra1238.medium.com/how-i-got-my-first-bounty-hof-from-google-csrf-lead-to-account-delete-85f9906ba9ec

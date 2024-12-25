@@ -2,3 +2,4 @@
 - https://medium.com/@satboy.fb/a-short-tale-of-account-verification-bypass-22045b38a8b1
 - https://yajdesu.medium.com/bypass-confirmation-to-add-payment-method-df2772a36561
 - https://sagarsajeev.medium.com/an-unusual-tale-of-email-verification-bypass-dcf884d544eb
+- https://infosecwriteups.com/bypassing-email-verification-of-high-profile-tech-company-e592cc4a89ce

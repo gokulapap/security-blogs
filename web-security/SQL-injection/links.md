@@ -53,3 +53,4 @@
 - https://www.sjoerdlangkemper.nl/2023/03/15/textcube-sql-injection-session-ip-spoofing/
 - https://outpost24.com/blog/X-forwarded-for-SQL-injection
 - https://flattsecurity.medium.com/finding-an-unseen-sql-injection-by-bypassing-escape-functions-in-mysqljs-mysql-90b27f6542b4
+- https://rafipiun.medium.com/how-i-got-easy-for-sql-injection-bug-7ff622236e4c
