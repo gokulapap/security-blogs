@@ -628,7 +628,6 @@
 - https://samcurry.net/web-hackers-vs-the-auto-industry/, Account-takeover
 - https://acut3.github.io/bug-bounty/2023/01/03/fetch-diversion.html, DOM-XSS
 - https://servicenger.com/mobile/instagram-vulnerability-turn-off-message-requests-deeplink/, Insecure-deeplink
-- https://kailashbohara.com.np/blog/2023/01/02/exploiting-thousands-of-domains-for-XSS/, XSS
 - https://yaseenzubair.medium.com/web-cache-poisoning-worth-it-e7c6d88797b1, Web-cache-poisoning
 - https://0xlittlespidy.medium.com/indias-aadhar-card-source-code-disclosure-via-exposed-svn-wc-db-c05519ea7761, Source-code-disclosure
 - https://medium.com/@querylab/bypass-premium-account-payment-getpocket-d813b249687c, Payment-bypass
@@ -1763,7 +1762,6 @@
 - https://bloggerrando.blogspot.com/2021/03/bug-bounty-idor-in-youtube-bounty.html, Broken-Access-Control
 - https://shrirangdiwakar.medium.com/encrypted-payload-decrypted-execution-600-stored-xss-3e517cea8f13, Stored-XSS
 - https://thexssrat.medium.com/poc-the-easiest-125-euros-i-ever-made-4dc87f01e286, Logic-flaw
-- https://melotover.medium.com/how-i-leveraged-xss-to-make-privilege-escalation-to-be-super-admin-e120b6090451, XSS
 - https://www.ehpus.com/post/multiple-authorization-bypass-issues-in-google-s-richmedia-studio, Authorization-flaw
 - https://3bodymo.medium.com/bypass-rate-limit-to-enumeration-users-through-google-drive-ed64e07c879c, Rate-limiting-bypass
 - https://sudhanshur705.medium.com/how-i-made-it-to-google-hof-f1cec85fdb1b, IDOR
@@ -1831,7 +1829,6 @@
 - https://servicenger.com/blog/mobile/sending-ephemeral-message-to-any-facebook-user/, IDOR
 - https://medium.com/bugbountywriteup/a-tale-of-2nd-xxx-bounty-ability-to-gain-persistence-on-facebook-events-as-an-unremovable-9408338ccf8f, Logic-flaw
 - https://enfinlay.github.io//xss/selfxss/upload/bugbounty/2021/02/09/selfxss-to-rxss-via-file-name.html, Self-XSS
-- https://shahjerry33.medium.com/duplicate-registration-the-twinning-twins-883dfee59eaf, Account-takeover
 - https://infosecwriteups.com/bigbasket-bug-bounty-writeup-9fedc490b814, Insecure-data-storage
 - https://thevillagehacker.medium.com/reflected-xss-on-a-public-program-e8c0416daca1, Reflected-XSS
 - https://sanderwind.medium.com/escalating-ssrf-to-rce-7c0147371c40, SSRF
@@ -2198,7 +2195,6 @@
 - https://medium.com/@ciph3r7r0ll/parsing-the-dom-elements-of-other-pages-via-xss-bug-bounty-story-46d517e6711d, XSS
 - https://www.ezequiel.tech/2020/05/rce-in-cloud-dm.html, SSRF
 - https://philippeharewood.com/change-any-link-at-https-fbwat-ch/, Authorization-flaw
-- http://hack4bounty.com/how-i-got-200-in-5-minutes-%f0%9f%98%9c-sensitive-data-leak-%f0%9f%98%9c/, Information-disclosure
 - https://healdb.tech/blog/teradici.html, Missing-authentication
 - https://servicenger.com/blog/mobile/facebook-for-ios-address-bar-spoofing/, Address-Bar-Spoofing
 - https://medium.com/csis-techblog/cve-2020-1088-yet-another-arbitrary-delete-eop-a00b97d8c3e2, Local-Privilege-Escalation
@@ -2367,7 +2363,6 @@
 - https://medium.com/bugbountywriteup/from-broken-link-to-sub-folder-takeover-on-bukalapak-3aa985e622c4, AWS-misconfiguration
 - https://medium.com/@vbharad/full-account-takeover-android-application-78fa922f78c5, Information-disclosure
 - https://medium.com/@abhishake100/bypassing-captcha-17c59d37f459, Captcha-bypass
-- https://medium.com/@nanda_kumar/bugbounty-how-snapdeal-indias-popular-e-commerce-website-kept-their-user-data-at-risk-3d02b4092d9c, Insecure-storage-of-sensitive-information
 - https://ngailong.wordpress.com/2019/12/19/google-vrp-ssrf-in-google-cloud-platform-stackdriver/, SSRF
 - https://weizman.github.io/2019/12/18/js-anti-debug-1/, Browser-hacking
 - https://medium.com/@irounakdhadiwal999/stored-iframe-injection-csrf-account-takeover-42c93ad13f5d, HTML-injection
