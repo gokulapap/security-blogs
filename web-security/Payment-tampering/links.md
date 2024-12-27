@@ -9,3 +9,4 @@
 - https://vj0shii.github.io/improper-bakend-checks-food-order-site/
 - https://medium.com/bugbountywriteup/exploiting-business-logic-wallet-money-6a7654f4e147
 - https://medium.com/@ifediri/breaking-business-logic-via-coupons-the-story-of-my-1st-valid-bug-bounty-89c30ff214dc
+- https://medium.com/@muztahidultanim/how-i-was-able-to-buy-t-shirt-for-1-payment-price-manipulation-36b4d6a30034

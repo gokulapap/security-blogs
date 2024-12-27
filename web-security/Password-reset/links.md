@@ -13,3 +13,4 @@
 - https://infosecwriteups.com/bypass-rate-limit-a-blank-space-leads-to-this-random-encounter-e18e72fbf228
 - https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/hunting-for-password-reset-tokens-by-spraying-and-using-http-pipelining/
 - https://web.archive.org/web/20201001064738/https://medium.com/@protector47/password-reset-vulnerability-full-account-takeover-insecure-direct-object-reference-c4a9a3ea8268
+- https://medium.com/@0xankush/readme-com-account-takeover-bugbounty-fulldisclosure-a36ddbe915be

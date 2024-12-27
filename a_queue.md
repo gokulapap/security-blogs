@@ -589,7 +589,6 @@
 - https://research.nccgroup.com/2023/01/20/technical-advisory-multiple-vulnerabilities-in-the-galaxy-app-store-cve-2023-21433-cve-2023-21434/, Android
 - https://medium.com/pentesternepal/two-factor-authentication-bypass-on-facebook-3f4ac3ea139c, MFA-bypass
 - https://www.zerodayinitiative.com/blog/2023/1/18/cve-2022-35690-unauthenticated-rce-in-adobe-coldfusion, RCE
-- https://medium.com/@siratsami71/the-easiest-way-i-used-to-bypass-an-admin-panel-93d4297ed4a6, HTTP-request-smuggling
 - https://ermetic.com/blog/azure/emojideploy-smile-your-azure-web-service-just-got-rced/, RCE
 - https://shahjerry33.medium.com/api-misconfiguration-no-swag-of-swaggerui-9b43135346be, Security-misconfiguration
 - https://www.secureworks.com/research/azure-active-directory-flaw-allowed-saml-persistence, Azure-AD
@@ -1245,7 +1244,6 @@
 - https://blog.haboob.sa/blog/adobe-reader-cjk-codecs-memory-disclosure-vulnerability, Memory-disclosure
 - https://web.archive.org/web/20220315141258/https://eslam3kl.medium.com/sql-injection-at-spotify-d19e0861ddf0, SQL-injection
 - https://medium.com/@tobydavenn/how-i-made-the-bbc-hall-of-fame-3-times-2c816fa515d7, Information-disclosure
-- https://palant.info/2022/03/14/party-time-injecting-code-into-teleparty-extension/, HTML-injection
 - https://medium.com/@rifqihz/open-redirect-via-sendgrid-email-misconfiguration-cec4ccb07f9a, Open-redirect
 - https://apth3hack3r.medium.com/xss-through-base64-encoded-json-4b0d96e5ccd4, XSS
 - https://bloggerrando.blogspot.com/2022/03/13-1.html, Broken-Access-Control
@@ -1744,7 +1742,6 @@
 - https://bugs.xdavidhu.me/google/2021/04/05/i-built-a-tv-that-plays-all-of-your-private-youtube-videos/, CSRF
 - https://0xra.github.io/posts/apple-tv-code-execution/, RCE
 - https://mikey96.medium.com/cloud-based-storage-misconfigurations-critical-bounties-361647f78a29, Cloud-storage-misconfiguration
-- https://infosecwriteups.com/weird-and-very-easy-authentication-bypass-found-with-google-dorking-c13230a038ed, Authentication-bypass
 - https://www.sjoerdlangkemper.nl/2021/04/04/remote-code-execution-through-unsafe-unserialize/, Insecure-deserialization
 - http://www.kamilonurozkaleli.com/posts/rce-on-starbucks-singapore-and-more/, RCE
 - https://nns.ee/blog/2021/04/03/modem-rce.html, OS-command-injection
@@ -2144,7 +2141,6 @@
 - https://www.rtcsec.com/2020/06/03-bug-bounty-bout-0x01-webrtc-edition/, Outdated-component-with-a-known-vulnerability
 - https://blog.it-securityguard.com/how-i-made-more-than-30k-with-jolokia-cves/, Reflected-XSS
 - https://medium.com/@abireena2002/how-i-managed-to-escalate-privilege-as-admin-94b8dc910d14, Lack-of-rate-limiting
-- https://medium.com/@muztahidultanim/how-i-was-able-to-buy-t-shirt-for-1-payment-price-manipulation-36b4d6a30034, Payment-tampering
 - https://www.ehpus.com/post/smtp-injection-in-gsuite, SMTP-injection
 - https://medium.com/bugbountywriteup/reflected-user-input-xss-c3e681710e74, Reflected-XSS
 - https://ysamm.com/?p=460, Privilege-escalation
@@ -2459,7 +2455,6 @@
 - https://medium.com/@cc1h2e1/write-up-of-two-http-requests-smuggling-ff211656fe7d, HTTP-request-smuggling
 - https://hateshape.github.io/general/2019/09/06/SuperGlamorousReconwithIntendedFunctionalities.html, SSTI
 - https://web.archive.org/web/20201222140349/https://www.mohamedharon.com/2019/09/dom-based-xss-in-private-program.html, DOM-XSS
-- https://medium.com/@0xankush/readme-com-account-takeover-bugbounty-fulldisclosure-a36ddbe915be, Password-reset
 - https://corben.io/blog/19-9-04-jenkins-to-full-pwnage, RCE
 - https://www.loosebyte.com/google-cloud-vulnerability/, XSS
 - https://blog.usejournal.com/graphql-bug-to-steal-anyones-address-fc34f0374417, Information-disclosure
