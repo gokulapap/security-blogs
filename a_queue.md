@@ -1062,7 +1062,6 @@
 - https://www.horizon3.ai/red-team-blog-cve-2022-28219/, XXE
 - https://aidilarf.medium.com/xss-blind-stored-at-2-assets-tiktok-f32829f11e58, XSS
 - https://medium.com/@aravindb26/my-first-apple-bug-and-my-first-writeup-8a833e8e953c, IDOR
-- https://medium.com/@erik.wynter/pwning-manageengine-from-poc-to-exploit-cfe5adb8c175, Path-traversal
 - https://blog.sonarsource.com/zimbra-pre-auth-rce-via-unrar-0day/, Path-traversal
 - https://unit42.paloaltonetworks.com/fabricscape-cve-2022-30137/, Container-escape
 - https://www.rapid7.com/blog/post/2022/06/28/cve-2021-3779-ruby-mysql-gem-client-file-read-fixed/, Client-File-Read
@@ -1640,7 +1639,6 @@
 - https://rakesh-thodupunoori.medium.com/part-1-dive-into-zoom-applications-d70f3de53ec5, CSRF
 - https://infosecwriteups.com/authentication-bypass-easy-p1-in-10-minutes-54d5a2093e54, Authentication-bypass
 - https://fartademayur.medium.com/this-is-how-i-was-able-to-see-private-archived-posts-stories-of-users-on-instagram-without-de70ca39165c, IDOR
-- https://infosecwriteups.com/importance-of-burp-history-analysis-to-bypass-403-afc7af6c08b, 403-bypass
 - https://ian.sh/airflow, Session-management-issue
 - https://medium.com/tenable-techblog/stealing-tokens-emails-files-and-more-in-microsoft-teams-through-malicious-tabs-a7e5ff07b138, postMessage
 - https://0x01alka.medium.com/google-vrp-privilege-escalation-on-https-dialogflow-cloud-google-com-599af6c4516d, Authorization-flaw
@@ -2187,7 +2185,6 @@
 - https://jub0bs.com/posts/2020-05-26-idor/, IDOR
 - https://andrei-abakumov.medium.com/how-dangerous-is-request-splitting-a-vulnerability-in-golang-or-how-we-found-the-rce-in-portainer-7339ba24c871, HTTP-request-splitting
 - https://medium.com/@pallabjyoti218/story-about-otp-bypass-to-stored-xss-81bfd735c709, OTP-bypass
-- http://hack4bounty.com/how-source-code-reading-helped-me-find-an-idor/, IDOR
 - https://medium.com/@ciph3r7r0ll/parsing-the-dom-elements-of-other-pages-via-xss-bug-bounty-story-46d517e6711d, XSS
 - https://www.ezequiel.tech/2020/05/rce-in-cloud-dm.html, SSRF
 - https://philippeharewood.com/change-any-link-at-https-fbwat-ch/, Authorization-flaw
@@ -2375,7 +2372,6 @@
 - https://github.com/Metnew/telegram-links-nsworkspace-open, RCE
 - https://blog.evanricafort.com/2019/12/html-injection-to-xss-bypass-in.html, Reflected-XSS
 - https://medium.com/@navne3t/150-xss-at-error-page-of-respository-code-4fc628892742, Reflected-XSS
-- https://hipotermia.pw/bb/http-desync-idor, HTTP-request-smuggling
 - https://www.hackerinside.me/2019/12/xss-like-pro.html, XSS
 - https://medium.com/bugbountywriteup/dank-writeup-on-broken-access-control-on-an-indian-startup-d29132a1ecd, Unrestricted-file-upload
 - https://rez0.blog/hacking/2019/11/29/rce-via-imagetragick.html, RCE
@@ -2696,7 +2692,6 @@
 - https://bugbountypoc.com/how-i-was-able-to-harvest-other-vine-users-ip-address, IDOR
 - https://medium.com/@pig.wig45/bypassing-access-control-in-a-program-on-hackerone-ef213ab34703, Authorization-flaw
 - https://medium.com/@yogeshtantak7788/how-i-was-able-to-delete-google-gallery-data-idor-53d2f303efff, IDOR
-- https://medium.com/@sahruldotid/how-i-takeover-wordpress-admin-fiiipay-my-1bdede83635d, Account-takeover
 - https://medium.com/@aniltom/from-hunting-for-a-laptop-to-hunting-down-remote-code-execution-72cce2761846, RCE
 - https://medium.com/@sampanna/rce-in-nokia-com-59b308e4e882, RCE
 - https://medium.com/@putracraft.theworld/server-side-request-forgery-in-openid-support-defcc64d5e41, SSRF

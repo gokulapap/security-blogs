@@ -147,3 +147,4 @@
 - https://ysamm.com/?p=56
 - https://apapedulimu.click/story-of-idor-on-google-product/
 - https://virtuvil.medium.com/hey-google-lets-submit-bug-from-victim-account-af6a25d390e1
+- http://hack4bounty.com/how-source-code-reading-helped-me-find-an-idor/
