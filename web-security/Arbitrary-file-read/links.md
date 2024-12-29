@@ -2,3 +2,4 @@
 - https://medium.com/@kanytu/firefox-and-how-a-website-could-steal-all-of-your-cookies-581fe4648e8d
 - https://medium.com/@renwa/facebook-messenger-desktop-app-arbitrary-file-read-db2374550f6d
 - https://medium.com/@harishhacker3010/how-i-hacked-google-to-read-files-from-their-servers-for-free-e0486a674912
+- https://infosecwriteups.com/brave-stealing-your-cookies-remotely-1e09d1184675

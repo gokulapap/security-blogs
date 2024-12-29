@@ -589,7 +589,6 @@
 - https://research.nccgroup.com/2023/01/20/technical-advisory-multiple-vulnerabilities-in-the-galaxy-app-store-cve-2023-21433-cve-2023-21434/, Android
 - https://medium.com/pentesternepal/two-factor-authentication-bypass-on-facebook-3f4ac3ea139c, MFA-bypass
 - https://www.zerodayinitiative.com/blog/2023/1/18/cve-2022-35690-unauthenticated-rce-in-adobe-coldfusion, RCE
-- https://ermetic.com/blog/azure/emojideploy-smile-your-azure-web-service-just-got-rced/, RCE
 - https://shahjerry33.medium.com/api-misconfiguration-no-swag-of-swaggerui-9b43135346be, Security-misconfiguration
 - https://www.secureworks.com/research/azure-active-directory-flaw-allowed-saml-persistence, Azure-AD
 - https://medium.com/@Parag_Bagul/how-i-identified-and-reported-vulnerabilities-in-oracle-and-the-rewards-of-responsible-43ee5fea457f, Information-disclosure
@@ -918,7 +917,6 @@
 - https://snapsec.co/blog/Log4shell-on-agorapulse/, Log4shell
 - https://c0nqr0r.medium.com/reading-robots-txt-got-me-4-xss-reports-9fd2234c635f, XSS
 - https://www.microsoft.com/security/blog/2022/08/31/vulnerability-in-tiktok-android-app-could-lead-to-one-click-account-hijacking/, Insecure-deeplink
-- https://med-mahmoudi26.medium.com/saving-more-than-100-000-website-from-a-watering-hole-attack-a22f63a37f94, Web-cache-poisoning
 - https://abdulsec.medium.com/mfa-bypass-in-private-program-the-abdulsec-way-f677fea209f7, MFA-bypass
 - https://eslam3kl.medium.com/idor-at-login-function-leads-to-leak-users-pii-data-d77e6613e9e0, IDOR
 - https://falcon319.medium.com/my-findings-on-hack-u-s-program-43b692a5c057, Missing-authentication
@@ -1716,7 +1714,6 @@
 - https://n45ht.or.id/post/reflected-xss-on-microsoft/en, Reflected-XSS
 - https://mrsinister1501.medium.com/how-i-found-cross-site-scripting-reflected-on-more-than-300-systems-81d8118d9de5, Reflected-XSS
 - https://notifybugme.medium.com/aws-internal-metadata-accessed-through-ssrf-by-chaining-an-open-redirect-bug-c4b0e4838dc, SSRF
-- https://infosecwriteups.com/brave-stealing-your-cookies-remotely-1e09d1184675, Arbitrary-file-read
 - https://davtur19.medium.com/telegram-bug-bounties-xss-privacy-issues-official-bot-exploitation-and-more-5277fa78435, XSS
 - https://parthdeshani.medium.com/got-nice-catch-by-google-5e6a8211371c, OAuth
 - https://www.lutasecurity.com/post/new-clubhouse-security-vulnerabilities-could-happen-to-any-growing-unicorn, Logic-flaw
@@ -2803,7 +2800,6 @@
 - https://medium.com/@mahitman1/hacking-a-crypto-debit-card-service-730f287aaee7, SQL-injection
 - https://medium.com/@jonathanbouman/xxe-at-bol-com-7d331186de54, XXE
 - https://medium.com/@thebuckhacker/how-to-do-55-000-subdomain-takeover-in-a-blink-of-an-eye-a94954c3fc75, Subdomain-takeover
-- https://www.rafaybaloch.com/2018/09/apple-safari-microsoft-edge-browser.html, Address-Bar-Spoofing
 - https://www.hackerinside.me/2018/09/stored-xss-vulnerability-in-h1c-private.html, Stored-XSS
 - https://blog.securitybreached.org/2018/09/09/zol-zimbabwe-authbypass-sqli-xss/, XSS
 - https://www.hackerinside.me/2018/09/stored-xss-vulnerability-in-tumblr.html, Stored-XSS
@@ -2943,7 +2939,6 @@
 - https://medium.com/@logicbomb_1/bugbounty-rewarded-by-securing-vulnerabilities-in-bookmyshow-indias-largest-online-movie-bb81dba9b82, Host-header-injection
 - https://medium.com/@Alra3ees/google-adwords-3133-7-stored-xss-27bb083b8d27, Stored-XSS
 - https://labs.detectify.com/2018/03/14/graphql-abuse/, GraphQL
-- https://www.josipfranjkovic.com/blog/facebook-friendlist-paymentcard-leak, Information-disclosure
 - https://s1gnalcha0s.github.io/dspl/2018/03/07/Stored-XSS-and-SSRF-Google.html, Stored-XSS
 - https://medium.com/bug-bounty-hunting/how-i-found-a-surprising-xss-vulnerability-on-oracle-netsuite-2d48b7fcf0c8, XSS
 - https://www.seekurity.com/blog/general/the-2-5mins-or-2-5k-hawk-eye-bug-a-facebook-pages-admins-disclosure-vulnerability/, Information-disclosure

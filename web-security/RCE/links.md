@@ -172,3 +172,4 @@
 - https://devcraft.io/2020/10/18/github-rce-git-inject.html
 - https://secret.club/2020/10/30/alien-swarm-rce.html
 - https://buer.haus/2017/03/13/airbnb-ruby-on-rails-string-interpolation-led-to-remote-code-execution/
+- https://ermetic.com/blog/azure/emojideploy-smile-your-azure-web-service-just-got-rced/

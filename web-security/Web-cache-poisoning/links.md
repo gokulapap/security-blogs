@@ -8,3 +8,4 @@
 - https://github.com/AnkitCuriosity/Write-Ups/blob/main/Web%20Cache%20Poisoning%20-%20Capability%20to%20disable%E2%88%95deface%20the%20app.vulnerable.com%20(A%20tale%20of%20poisoning%20through%20the%20layers%20of%20caching).md
 - https://bxmbn.medium.com/how-i-test-for-web-cache-vulnerabilities-tips-and-tricks-9b138da08ff9
 - https://httptoolkit.com/blog/bunny-cdn-caching-vulnerability/
+- https://med-mahmoudi26.medium.com/saving-more-than-100-000-website-from-a-watering-hole-attack-a22f63a37f94

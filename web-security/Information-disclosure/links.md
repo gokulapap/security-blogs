@@ -156,3 +156,4 @@
 - https://web.archive.org/web/20220823110821/https://cybernews.com/security/microsoft-vancouver-leaking-website-credentials-via-overlooked-ds-store-file/
 - https://www.secforce.com/blog/cve-2022-20942-its-not-old-functionality-its-vintage/
 - http://hack4bounty.com/how-i-got-200-in-5-minutes-%f0%9f%98%9c-sensitive-data-leak-%f0%9f%98%9c/
+- https://www.josipfranjkovic.com/blog/facebook-friendlist-paymentcard-leak
