@@ -13,3 +13,4 @@
 - https://medium.com/@mrnikhilsri/soap-based-unauthenticated-out-of-band-xml-external-entity-oob-xxe-in-a-help-desk-software-c27a6abf182a
 - https://medium.com/@mrnikhilsri/xxe-in-public-transport-ticketing-mobile-app-81ae245c01a1
 - https://www.jomar.fr/posts/2021/my_first_oob_xxe_exploitation/
+- https://httpsonly.blogspot.com/2017/01/0day-writeup-xxe-in-ubercom.html

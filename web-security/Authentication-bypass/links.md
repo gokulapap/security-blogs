@@ -33,3 +33,4 @@
 - https://onekey.com/blog/advisory-cisco-rv34x-authentication-bypass-remote-command-execution/
 - https://www.ezequiel.tech/2020/08/leaking-google-cloud-projects.html
 - https://infosecwriteups.com/weird-and-very-easy-authentication-bypass-found-with-google-dorking-c13230a038ed
+- https://medium.com/@sayim0x3105/admin-panel-bypass-without-the-credentials-e867eee7c81b
