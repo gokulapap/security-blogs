@@ -652,7 +652,6 @@
 - https://rv09.medium.com/in-this-article-ill-tell-you-how-i-got-a-4-digits-bounty-from-an-indian-company-38e39a29f99e, Broken-link-hijacking
 - https://infosecwriteups.com/graphql-idor-leaking-credit-card-information-of-1000s-of-users-d07eec732979, IDOR
 - https://kingcoolvikas.medium.com/how-i-found-my-first-xss-on-a-bug-bounty-program-c41107617ce1, XSS
-- https://www.rapid7.com/blog/post/2022/12/20/cengage-lti-session-management-leakage/, SSO
 - https://infosecwriteups.com/directory-ttraversal-vulnerability-in-huawei-hg255s-products-dce941a1d015, Path-traversal
 - https://0xraminfosec.medium.com/simple-cors-misconfig-leads-to-disclose-the-sensitive-token-worth-of-91433763f4d6, CORS-misconfiguration
 - https://infosecwriteups.com/param-hunting-to-injections-4365da5447cf, HTML-injection
@@ -731,7 +730,6 @@
 - https://0xm5awy.medium.com/how-i-found-8-vulnerabilities-in-24h-aad3bd5fd487, Logic-flaw
 - https://nirmaldahal.com.np/posts/2022/11/megas-unlimited-cloud-storage-vulnerability/, Logic-flaw
 - https://ian.sh/etugra, Default-credentials
-- https://mehedishakeel.medium.com/information-exposure-my-fourth-finding-on-hackerone-4fc4461920c4, Directory-listing
 - https://gonzxph.medium.com/account-takeover-worth-of-2500-e643661f94e9, Account-takeover
 - https://medium.com/@hf6452/a-story-of-a-strange-stored-idor-b6f2769bb6cb, IDOR
 - https://www.rapid7.com/blog/post/2022/11/16/cve-2022-41622-and-cve-2022-41800-fixed-f5-big-ip-and-icontrol-rest-vulnerabilities-and-exposures/, CSRF
@@ -1374,7 +1372,6 @@
 - https://thalium.github.io/blog/posts/leaking-aslr-through-rdp-printer-cache-registry/, Memory-corruption
 - https://jonbottarini.com/2021/12/09/dont-reply-a-clever-phishing-method-in-apples-mail-app/, Phishing
 - https://outflank.nl/blog/2021/12/09/a-phishing-document-signed-by-microsoft/, Phishing
-- https://ahmed8magdy.medium.com/file-upload-to-rce-538bb4128062, Unrestricted-file-upload
 - https://notifybugme.medium.com/exploiting-s3-bucket-with-path-folder-to-access-pii-info-of-a-bank-91d8563cb45, AWS-misconfiguration
 - https://www.r29k.com/articles/bb/priv-esc-via-stored-xss, Account-takeover
 - https://rizwansiddiqu1.medium.com/another-admin-panel-e0489dc76678, HTTP-response-manipulation
@@ -1851,7 +1848,6 @@
 - https://sunilyedla.medium.com/simple-sweet-bypassing-email-update-restriction-to-change-emails-of-team-members-6ce5770e7929, Logic-flaw
 - https://bugs.xdavidhu.me/google/2021/01/18/the-embedded-youtube-player-told-me-what-you-were-watching-and-more/, Information-disclosure
 - https://jwlss.pw/mathjs/, RCE
-- https://takester.medium.com/my-first-and-last-crit-of-2020-on-hackerone-702a694781b0, Lack-of-rate-limiting
 - https://github.com/httpvoid/writeups/blob/main/Apple-RCE.md, RCE
 - https://warandcode.com/post/apify-mass-bug-bounty/, Akamai-ARL-attack
 - https://warandcode.com/post/akamai-arl-hack/, Akamai-ARL-attack
@@ -3009,7 +3005,6 @@
 - https://blog.securitybreached.org/2017/10/10/subdomain-takeover-lamborghini-hacked/, Subdomain-takeover
 - https://philippeharewood.com/facebook-graphql-csrf/, CSRF
 - https://medium.com/secjuice/how-i-was-able-to-view-private-tweets-of-any-private-twitter-account-86a9d2640ded, IDOR
-- https://ret2got.wordpress.com/2017/10/05/how-i-could-have-mass-uploaded-from-every-flickr-account/, Bruteforce
 - https://markus-krell.de/craft-cms-why-case-matters/, Reflected-XSS
 - https://medium.com/@saamux/filter-bypass-to-reflected-xss-on-https-finance-yahoo-com-mobile-version-22b854327b27, Reflected-XSS
 - https://medium.com/bugbountywriteup/how-i-bypassed-practos-firewall-and-triggered-a-xss-b30164a8f1dc, XSS

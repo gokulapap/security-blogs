@@ -12,3 +12,4 @@
 - https://blog.prodefense.io/sorting-your-way-to-stolen-passwords-43ff5cfeeabd
 - https://www.martinvigo.com/googlemeetroulette
 - https://medium.com/@vishnu0002/attacking-postgresql-database-834a9a3471bc
+- https://ret2got.wordpress.com/2017/10/05/how-i-could-have-mass-uploaded-from-every-flickr-account/

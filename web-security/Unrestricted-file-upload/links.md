@@ -21,3 +21,4 @@
 - https://medium.com/@seeu-inspace/how-i-earned-500-by-uploading-a-file-write-up-of-one-of-my-first-bug-bounty-c174cf8ea553
 - https://shahjerry33.medium.com/sql-injection-the-file-upload-playground-6580b089d013
 - https://kunalkhubchandani.medium.com/how-i-was-rewarded-a-1000-bounty-after-abusing-file-upload-functionality-to-stored-xss-945a40ac6f94
+- https://ahmed8magdy.medium.com/file-upload-to-rce-538bb4128062

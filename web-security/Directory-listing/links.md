@@ -4,3 +4,4 @@
 - https://medium.com/bugbountywriteup/hacking-oracle-in-5-minutes-b52107a6124c
 - https://medium.com/@fcwdbrqmr/400-bounty-again-using-google-dorks-6dc8e438f017
 - https://web.archive.org/web/20200926101239/https://medium.com/@adeshkolte/asus-web-application-vulnerabilities-by-adesh-n-kolte-4c14a1bb8739
+- https://mehedishakeel.medium.com/information-exposure-my-fourth-finding-on-hackerone-4fc4461920c4
