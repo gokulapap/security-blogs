@@ -65,3 +65,5 @@
 - https://medium.com/@mr_hacker/csrf-bypass-using-cross-frame-scripting-c349d6f33eb6
 - https://www.r29k.com/articles/bb/csrf
 - https://bhupendra1238.medium.com/how-i-got-my-first-bounty-hof-from-google-csrf-lead-to-account-delete-85f9906ba9ec
+- https://www.seekurity.com/blog/general/topcoder-vulnerabilities-a-tail-of-site-wide-bugs-leads-to-accounts-compromise-payments-hijacking/
+- https://www.josipfranjkovic.com/blog/facebook-csrf-full-account-takeover

@@ -11,3 +11,4 @@
 - https://dewcode.in/2021/03/24/Finding-and-exploiting-race-condition-vulnerability-on-facebook-server.html
 - https://neroli.medium.com/is-math-random-safe-from-missing-rate-limit-to-bypass-2fa-and-possible-sqli-2a4ea66f82c5
 - https://medium.com/@04sabsas/bugbounty-writeup-creative-thinking-is-our-everything-race-condition-business-logic-error-2f3e82b9aa17
+- https://medium.com/ctf-writeups/breaking-the-competition-bug-bounty-write-up-ca7cb7bc53f5

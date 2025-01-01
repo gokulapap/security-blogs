@@ -410,7 +410,6 @@
 - https://crypt0g30rgy.github.io/post/Journey2pII, Information-disclosure
 - https://www.mannulinux.org/2023/03/exploiting-hibernate-injection-in-order.html, HQL-injection
 - https://blog.trailofbits.com/2023/03/30/acropalypse-polytracker-blind-spots/, Privacy-issue
-- https://www.legitsecurity.com/blog/remote-code-execution-vulnerability-in-azure-pipelines-can-lead-to-software-supply-chain-attack, RCE
 - https://xelkomy.medium.com/found-ssrf-and-lfi-in-just-10-minutes-of-using-burp-492fddef3f3e, SSRF
 - https://www.sonarsource.com/blog/it-s-a-snmp-trap-gaining-code-execution-on-librenms/, RCE
 - https://www.wiz.io/blog/azure-active-directory-bing-misconfiguration, Account-takeover
@@ -867,7 +866,6 @@
 - https://x-vector.medium.com/privilege-escalation-leads-to-making-authenticated-actions-payment-processing-creating-invoices-2cf808d517ed, Privilege-escalation
 - https://ssd-disclosure.com/ssd-advisory-linux-clock_thread_cputime_id-lpe/, Memory-corruption
 - https://github.com/StackOverflowExcept1on/how-to-hack-github-actions, CICD
-- https://medium.com/@cyberali/android-application-forgot-password-token-leakage-leading-to-account-takeover-8a0b28296531, Information-disclosure
 - https://srahulceh.medium.com/bug-bounty-how-i-found-an-sensitive-information-disclosure-reconnaissance-542daf10dd19, Information-disclosure
 - https://medium.com/@Parag_Bagul/ssrf-attack-leading-to-aws-metadata-e95155fa6c6f, SSRF
 - https://medium.com/@yashshirke7806/how-i-found-unauthorized-bypass-rce-3591a86425a9, RCE
@@ -2268,7 +2266,6 @@
 - https://medium.com/bugbountywriteup/vulnerable-design-leads-to-personal-data-leakage-yet-another-case-of-an-inter-application-8a9d7e2d0f1a, Logic-flaw
 - https://medium.com/bugbountywriteup/broke-limited-scope-with-a-chain-of-bugs-ef734ac430f5, CORS-misconfiguration
 - https://bugs.xdavidhu.me/google/2020/03/08/the-unexpected-google-wide-domain-check-bypass/, Logic-flaw
-- https://medium.com/ctf-writeups/breaking-the-competition-bug-bounty-write-up-ca7cb7bc53f5, Race-condition
 - https://medium.com/@adonkidz7/google-ads-self-xss-html-injection-5000-52280da76c80, Self-XSS
 - https://posts.specterops.io/abusing-slack-for-offensive-operations-2343237b9282, Logic-flaw
 - https://medium.com/a-bugz-life/exploiting-an-ssrf-trials-and-tribulations-14c5d8dbd69a, SSRF
@@ -3118,7 +3115,6 @@
 - https://avicoder.me/2016/07/22/Twitter-Vine-Source-code-dump/, Source-code-disclosure
 - https://www.josipfranjkovic.com/blog/hacking-facebook-csrf-device-login-flow, CSRF
 - https://www.josipfranjkovic.com/blog/race-conditions-on-web, Race-condition
-- https://www.seekurity.com/blog/general/topcoder-vulnerabilities-a-tail-of-site-wide-bugs-leads-to-accounts-compromise-payments-hijacking/, CSRF
 - https://medium.com/bugbountywriteup/two-vulnerabilities-makes-an-exploit-xss-and-csrf-in-bing-cd4269da7b69, XSS
 - https://www.seekurity.com/blog/general/runkeeper-stores-xss-vulnerability/, Stored-XSS
 - https://www.arneswinnen.net/2016/05/instabrute-two-ways-to-brute-force-instagram-account-credentials/, Bruteforce
@@ -3175,7 +3171,6 @@
 - http://blog.shashank.co/2013/11/oracle-xss.html, XSS
 - http://blog.shashank.co/2013/10/lfi-in-nokia-maps.html, LFI
 - https://josipfranjkovic.blogspot.com/2013/11/facebook-bug-bounty-secondary-damage.html, CSRF
-- https://www.josipfranjkovic.com/blog/facebook-csrf-full-account-takeover, CSRF
 - https://www.rcesecurity.com/2013/09/paypal-bug-bounty-paypaltech-com-e-mail-injection/, Email-injection
 - https://arulkumar.in/delete-any-photo-from-facebook-by-exploiting-support-dashboard, IDOR
 - https://arulkumar.in/multiple-open-url-redirection-vulnerability-in-facebook-worth-1500/, Open-redirect
