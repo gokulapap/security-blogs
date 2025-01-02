@@ -7,3 +7,4 @@
 - https://medium.com/@akash0x0/p3-bug-in-just-2-minute-fc6bf1710757
 - https://medium.com/@manikchopra31/welcome-to-the-bug-bounty-beginners-roadmap-your-ultimate-guide-to-success-7195f1dcd8c5
 - https://medium.com/@yashdharmani/a-bug-that-made-me-250-485df60f5b26
+- https://medium.com/@rammk01/how-can-i-takeover-any-account-using-only-their-email-or-mobile-number-deca71a05a4b

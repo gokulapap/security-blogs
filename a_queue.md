@@ -113,7 +113,6 @@
 - https://medium.com/@akshayravic09yc47/crlf-injection-leads-to-xss-f92a07db9848, crlf
 - https://medium.com/@omarahmed_13016/idor-unpin-posts-for-fun-18f628eaef24, IDOR
 - https://medium.com/@joshuaarulsamy/mindset-that-made-me-one-among-top-15-security-researchers-in-india-for-3-consecutive-times-febb06e8af61, journey
-- https://medium.com/@akashtesla/how-to-automate-your-initial-recon-and-extend-asm-using-sub-scout-a52de14a2b6a, automation
 - https://medium.com/@taksec/tips-for-bac-and-idor-vulnerabilities-8a3e58f79d95, BAC
 - https://medium.com/@thexssrat/miniseries-xss-to-the-core-pt-1-4a979b9e5139, XSS
 - https://medium.com/@theshubh77/facebook-page-admin-disclosure-by-create-doc-button-bounty-5000-usd-2fd1ff615bf8, misc
@@ -169,7 +168,6 @@
 - https://medium.com/@cyberguy0xd1/how-i-was-able-to-bypass-cloudflare-waf-for-sqli-payload-b9e7a4260026, sql-injection
 - https://medium.com/@fh4ntke/davincictf-web-challenges-writeup-517e77d6fa39, ctf
 - https://medium.com/@Sm9l/what-i-learnt-from-reading-126-information-disclosure-writeups-d896c5d5a2a4, info-disclosure
-- https://medium.com/@rammk01/how-can-i-takeover-any-account-using-only-their-email-or-mobile-number-deca71a05a4b, journey
 - https://ophionsecurity.com/blog/phishing-the-anti-phishers, Phishing
 - https://medium.com/@snoopy101/1000-for-a-simple-stored-xss-8be7083a7c2d, Stored-XSS
 - https://samcurry.net/points-com/, Path-traversal
@@ -1649,7 +1647,6 @@
 - https://justintaft.com/blog/2021/06/01/cve-2021-29084-synology-crlf-unauthenticated-file-downloads, CRLF-injection
 - https://notifybugme.medium.com/escalating-ssrf-to-accessing-all-user-pii-information-by-aws-metadata-aabcfd5a3e0e, SSRF
 - https://github.com/champtar/blog/tree/main/runc-symlink-CVE-2021-30465, Kubernetes
-- https://github.com/xbforce/Blog/blob/main/writeup/account-takeover-via-iframe-injection.md, Iframe-injection
 - https://master-sec.medium.com/the-beauty-of-chaining-client-side-bugs-759e1091eabf, CRLF-injection
 - https://web.archive.org/web/20210621221618/https://savirsuda.github.io/Github-The-Goldmine-for-P1s-and-P2s-Sensitive-Information-Exposure-via-Github-by-a-Company-Employee/, Information-disclosure
 - https://cirius.medium.com/how-i-hacked-a-target-again-and-again-6db2e462221f, OAuth
@@ -2249,7 +2246,6 @@
 - https://web.archive.org/web/20201004092711/https://sametsahin.net/posts/administrator-level-privilege-escalation-story/, Privilege-escalation
 - https://medium.com/bugbountywriteup/reflected-xss-on-microsoft-com-subdomains-4bdfc2c716df, Reflected-XSS
 - https://honoki.net/2020/03/18/xxe-scape-through-the-front-door-circumventing-the-firewall-with-http-request-smuggling/, XXE
-- https://web.archive.org/web/20200317103909/https://medium.com/sourav-sahana/razer-mobile-pin-verification-bypass-1k-bug-2eb1485796b3, OTP-bypass
 - https://medium.com/@manasjha7965/weak-session-validation-bug-let-you-login-even-after-changing-the-session-ids-and-logging-out-from-4bb3ee29a598, Logic-flaw
 - https://medium.com/@ozguralp/using-vulnerability-analytics-feature-like-a-boss-655fc1f1543b, SSRF
 - https://medium.com/@omaidfaizyar/my-weirdest-bug-bounty-getting-pii-from-o365-b4477f4739e, Subdomain-takeover
@@ -2787,7 +2783,6 @@
 - https://medium.com/@maxon3/reflected-dom-xss-and-clickjacking-on-https-silvergoldbull-de-bt-html-daa36bdf7bf0, DOM-XSS
 - https://medium.com/@aniltom/open-redirect-vulnerability-in-udacity-com-7cba7abcfd48, Open-redirect
 - https://medium.com/@mahitman1/hacking-a-crypto-debit-card-service-730f287aaee7, SQL-injection
-- https://medium.com/@jonathanbouman/xxe-at-bol-com-7d331186de54, XXE
 - https://medium.com/@thebuckhacker/how-to-do-55-000-subdomain-takeover-in-a-blink-of-an-eye-a94954c3fc75, Subdomain-takeover
 - https://www.hackerinside.me/2018/09/stored-xss-vulnerability-in-h1c-private.html, Stored-XSS
 - https://blog.securitybreached.org/2018/09/09/zol-zimbabwe-authbypass-sqli-xss/, XSS

@@ -1,0 +1,1 @@
+- https://github.com/xbforce/Blog/blob/main/writeup/account-takeover-via-iframe-injection.md

@@ -4,3 +4,4 @@
 - https://medium.com/@hacksheets/dom-invader-burp-suite-tool-to-find-dom-based-xss-easily-3cb09adf4d44
 - https://medium.com/@ethr/how-to-install-nmap-and-use-it-for-vulnerability-scanning-60dd84e06a53
 - https://medium.com/@gpiechnik/afrog-explained-for-bug-hunters-ed1497d5aaf5
+- https://medium.com/@akashtesla/how-to-automate-your-initial-recon-and-extend-asm-using-sub-scout-a52de14a2b6a

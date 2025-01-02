@@ -14,3 +14,4 @@
 - https://medium.com/@mrnikhilsri/xxe-in-public-transport-ticketing-mobile-app-81ae245c01a1
 - https://www.jomar.fr/posts/2021/my_first_oob_xxe_exploitation/
 - https://httpsonly.blogspot.com/2017/01/0day-writeup-xxe-in-ubercom.html
+- https://medium.com/@jonathanbouman/xxe-at-bol-com-7d331186de54
