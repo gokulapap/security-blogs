@@ -50,3 +50,4 @@
 - https://devcraft.io/2020/10/19/github-gist-account-takeover.html
 - https://medium.com/@malcolmx0x/three-cases-three-open-redirect-bypasses-887bda60b38c
 - https://r29k.com/articles/bb/ato
+- https://medium.com/@bughuntar/my-first-bug-open-redirect-at-epic-games-500-bounty-d0c03de60fa7

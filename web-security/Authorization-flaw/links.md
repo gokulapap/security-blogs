@@ -73,3 +73,4 @@
 - https://medium.com/@evan.connelly/hunting-tesla-model-y-secrets-in-the-parts-catalog-2f453f853dd8
 - https://medium.com/@baibhavanandjha/sending-message-as-page-being-an-analyst-advertiser-eb0317376f43
 - https://servicenger.com/blog/mobile/perform-substring-search-for-emails-even-if-workplace-admin-hides-email-profile-field/
+- https://medium.com/@vflexo/invitation-hijacking-4d6467f418cc

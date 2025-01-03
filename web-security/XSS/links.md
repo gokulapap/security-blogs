@@ -183,3 +183,4 @@
 - https://medium.com/@vflexo/xyz-of-xss-62603eb4cba
 - https://melotover.medium.com/how-i-leveraged-xss-to-make-privilege-escalation-to-be-super-admin-e120b6090451
 - https://kailashbohara.com.np/blog/2023/01/02/exploiting-thousands-of-domains-for-XSS/
+- https://bitquark.co.uk/blog/2013/07/03/amazon_packaging_feedback_xss
