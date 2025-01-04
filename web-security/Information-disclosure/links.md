@@ -158,3 +158,4 @@
 - http://hack4bounty.com/how-i-got-200-in-5-minutes-%f0%9f%98%9c-sensitive-data-leak-%f0%9f%98%9c/
 - https://www.josipfranjkovic.com/blog/facebook-friendlist-paymentcard-leak
 - https://medium.com/@cyberali/android-application-forgot-password-token-leakage-leading-to-account-takeover-8a0b28296531
+- https://ysamm.com/?p=487

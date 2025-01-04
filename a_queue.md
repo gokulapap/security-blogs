@@ -1077,7 +1077,6 @@
 - https://www.praetorian.com/blog/stsgetsessiontoken-role-chaining-in-aws/, Privilege-escalation
 - https://github.blog/2022-06-16-the-android-kernel-mitigations-obstacle-race/, Memory-corruption
 - https://aidilarf.medium.com/xss-blind-stored-at-asset-domain-android-apps-tiktok-ae2f4c2dbc07, Stored-XSS
-- https://www.zerodayinitiative.com/blog/2022/6/15/cve-2022-23088-exploiting-a-heap-overflow-in-the-freebsd-wi-fi-stack, Memory-corruption
 - https://fredericb.info/2022/06/breaking-secure-boot-on-google-nest-hub-2nd-gen-to-run-ubuntu.html, Hardware-hacking
 - https://labs.taszk.io/articles/post/unziploc/, Memory-corruption
 - https://notifybugme.medium.com/automating-reflected-xss-with-burp-suite-intruder-a39b2f060db7, Reflected-XSS
@@ -1932,7 +1931,6 @@
 - https://a-constant.medium.com/beyond-the-wall-command-injection-still-alive-577a898df0b5, OS-command-injection
 - https://tbutler.org/2020/11/01/hinge-hackerone-writeup.html, Broken-Access-Control
 - https://0xt4144t.medium.com/rate-limit-bypassing-allowing-identity-spoofing-789b2fe2efa8, Rate-limiting-bypass
-- https://grumpinout.medium.com/manual-broken-link-monitoring-bcc064f5f5f2, Broken-link-hijacking
 - https://testbnull.medium.com/weblogic-rce-by-only-one-get-request-cve-2020-14882-analysis-6e4b09981dbf, RCE
 - https://ynoof.medium.com/error-based-sql-injection-on-a-wordpress-website-and-extract-more-than-150k-user-details-f65f987c2cc0, SQL-injection
 - https://www.mysk.blog/2020/10/25/link-previews/, Information-disclosure
@@ -2051,7 +2049,6 @@
 - https://medium.com/bugbountywriteup/dns-rebinding-the-treacherous-attack-it-can-be-b367c61b4372, DNS-rebinding
 - https://medium.com/@vneelam609/5000-account-takeover-bf7749746981, Account-takeover
 - https://medium.com/@shahjerry33/http-parameter-pollution-its-contaminated-85edc0805654, HTTP-parameter-pollution
-- https://ysamm.com/?p=487, Information-disclosure
 - https://medium.com/@totmukesh/hack-till-your-last-breath-3e58f4fb1738, IDOR
 - https://web.archive.org/web/20220519224811/http://wisdomfreak.com/increasing-reward-points-n-number-of-time/, Logic-flaw
 - https://medium.com/@ashikbhaskar94/denial-of-service-dos-by-regex-205536c8dcd0, DoS
@@ -2578,7 +2575,6 @@
 - https://medium.com/@jayateerthag/multiple-xss-in-skype-com-81d65919ed24, XSS
 - https://www.rcesecurity.com/2019/04/dell-kace-k1000-remote-code-execution-the-story-of-bug-k1-18652/, RCE
 - https://medium.com/@jonathanbouman/email-content-spoofing-at-ikea-com-ea76c17605ee, Email-content-spoofing
-- https://medium.com/@rohan_x3/edmodo-idor-to-view-private-files-of-any-class-2280676c84b8, IDOR
 - https://medium.com/@armaanpathan/scary-bug-in-burp-suite-upstream-proxy-allows-hackers-to-hack-hackers-e6fc9a8d60a, MiTM
 - https://www.valbrux.it/blog/2019/04/04/google-ads-information-disclosure-via-null-pointer-exception/, Information-disclosure
 - https://medium.com/@jonathanbouman/leaked-salesforce-api-access-token-at-ikea-com-132eea3844e0, Information-disclosure
@@ -3160,7 +3156,6 @@
 - https://whitton.io/articles/abusing-cors-for-an-xss-on-flickr/, XSS
 - http://blog.shashank.co/2013/12/heroku-directory-transversal.html, Path-traversal
 - http://blog.shashank.co/2013/11/oracle-xss.html, XSS
-- http://blog.shashank.co/2013/10/lfi-in-nokia-maps.html, LFI
 - https://josipfranjkovic.blogspot.com/2013/11/facebook-bug-bounty-secondary-damage.html, CSRF
 - https://www.rcesecurity.com/2013/09/paypal-bug-bounty-paypaltech-com-e-mail-injection/, Email-injection
 - https://arulkumar.in/delete-any-photo-from-facebook-by-exploiting-support-dashboard, IDOR

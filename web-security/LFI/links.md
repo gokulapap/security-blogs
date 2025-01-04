@@ -15,3 +15,4 @@
 - https://omespino.com/write-up-google-bug-bounty-lfi-on-production-servers-in-redacted-google-com-13337-usd/
 - https://arben.sh/bugbounty/Local-File-Inclusion/
 - https://ph-hitachi.medium.com/how-i-got-my-first-bug-bounty-in-intersting-target-lfi-to-sxss-58fa5c4f5882
+- http://blog.shashank.co/2013/10/lfi-in-nokia-maps.html
