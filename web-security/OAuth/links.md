@@ -15,3 +15,4 @@
 - https://medium.com/oad-earth/bug-or-feature-github-adventure-001-eae9bea48ae8
 - https://medium.com/@soufianehabti/this-is-why-you-shouldnt-trust-your-federated-identity-provider-62160f50d8b2
 - https://medium.com/@rootxharsh_90844/abusing-feature-to-steal-your-tokens-f15f78cebf74
+- https://ysamm.com/?p=684

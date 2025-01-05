@@ -130,7 +130,6 @@
 - https://medium.com/@rupachandrans/how-i-was-able-to-buy-tickets-for-1-rupee-payment-price-tampering-e9e93fe59cbf, parameter
 - https://medium.com/@arrheniuspaelongan09/critical-vulnerability-when-applying-for-a-job-otp-bypass-via-response-manipulation-69b7182a8606, critical-bugs
 - https://medium.com/@vuk.ivanovic9000/salesforce-bug-hunting-to-critical-bug-b5da44789d3, critical-bugs
-- https://medium.com/@sagarsajeev/escalating-open-redirect-to-xss-d2b9355e5f05, open-redirection
 - https://medium.com/@dcube.merlin/basic-web-security-testing-apis-58f37e01a730, api
 - https://medium.com/@pyrrhon/how-i-was-able-to-take-over-one-of-dells-subdomains-7e06b8516e41, STO
 - https://medium.com/@stopvvar/sql-injection-with-insert-statement-bdcf4d47d178, sql-injection
@@ -808,7 +807,6 @@
 - https://www.horizon3.ai/fortios-fortiproxy-and-fortiswitchmanager-authentication-bypass-technical-deep-dive-cve-2022-40684, Authentication-bypass
 - https://mr23r0.medium.com/code-flaws-leads-to-org-admin-account-takeover-ad9515a96eab, Privilege-escalation
 - https://hacksys.io/blogs/adobe-reader-xfa-ansi-unicode-confusion-information-leak, Memory-corruption
-- https://www.directdefense.com/compromising-a-backup-system-by-iscsi-interface-during-a-routine-penetration-test/, Missing-authentication
 - https://medium.com/@nireshpandian19/the-story-of-a-p5-that-lead-me-to-a-p3-find-3f8a5ea2c6e1, Pre-account-takeover
 - https://abdelhameedghazy.medium.com/broken-access-control-leads-to-full-team-takeover-and-privilege-escalation-6f50174f29ce, Broken-Access-Control
 - https://blog.yeswehack.com/yeswerhackers/web-application-firewall-bypass/, WAF-bypass
@@ -1675,7 +1673,6 @@
 - https://dewangpanchal98.medium.com/microsoft-bug-bounty-writeup-5ee4a7264dbf, Information-disclosure
 - https://www.offensive-security.com/offsec/macos-preferences-priv-escalation/, Local-Privilege-Escalation
 - https://blog.polybdenum.com/2021/05/05/how-i-hacked-google-app-engine-anatomy-of-a-java-bytecode-exploit.html, RCE
-- https://ysamm.com/?p=684, OAuth
 - https://ahmadaabdulla.medium.com/how-i-found-sql-injection-on-intensedebate-com-h1-in-5-minute-350-a36c2890882d, SQL-injection
 - https://infosecwriteups.com/xss-through-parameter-pollution-9a55da150ab2, Open-redirect
 - https://saajan.bhujel.cyou/blog/web/2021-05-05-xss-through-parameter-pollution, XSS
@@ -2155,7 +2152,6 @@
 - https://medium.com/@kishoretk/how-i-was-able-to-see-identity-of-a-private-video-up-loader-via-rights-manager-responsible-39d996517b6e, Information-disclosure
 - https://shibinbshaji.space/bug-bounty/oppo-bugbounty-writeup/, Login-screen-bypass
 - https://medium.com/@abhishake100/clickjacking-to-account-takeover-97e286f26b95, Clickjacking
-- https://medium.com/@kminthein/ios-outlook-stored-xss-write-up-ce34d7da192b, XSS
 - https://medium.com/@kminthein/stored-xss-in-microsoft-outlook-ebce9ff9e45b, Stored-XSS
 - https://medium.com/@kminthein/stored-xss-in-yahoo-mail-ios-app-3500-6b40e86358b9, Stored-XSS
 - https://servicenger.com/blog/mobile/android-sop-bypass-to-steal-system-files/, SOP-bypass
@@ -2701,7 +2697,6 @@
 - https://medium.com/@vishnu0002/instagram-multi-factor-authentication-bypass-924d963325a1, MFA-bypass
 - https://www.amolbaikar.com/disclose-contact_email-of-any-facebook-application/, Information-disclosure
 - https://medium.com/@zain.sabahat/exploiting-ssrf-like-a-boss-c090dc63d326, SSRF
-- https://medium.com/@vignesh4303/how-i-hacked-netflix-users-use-it-free-forever-9febb1427262, Cookie-injection
 - https://medium.com/@luanherrera/xs-searching-googles-bug-tracker-to-find-out-vulnerable-source-code-50d8135b7549, XS-Search
 - https://quitten.github.io/Youtube/, Open-redirect
 - https://web.archive.org/web/20200907110700/https://medium.com/@sameerphad72/edmodo-xss-bug-9c0fc9bdd0bf, XSS
