@@ -54,3 +54,6 @@
 - https://outpost24.com/blog/X-forwarded-for-SQL-injection
 - https://flattsecurity.medium.com/finding-an-unseen-sql-injection-by-bypassing-escape-functions-in-mysqljs-mysql-90b27f6542b4
 - https://rafipiun.medium.com/how-i-got-easy-for-sql-injection-bug-7ff622236e4c
+- https://www.gosecure.net/blog/2023/06/21/aws-waf-clients-left-vulnerable-to-sql-injection-due-to-unorthodox-mssql-design-choice/
+- https://0xmahmoudjo0.medium.com/how-i-found-multiple-sql-injection-with-ffuf-and-sqlmap-in-a-few-minutes-9c3bb3780e8f
+- https://blog.bitcrack.net/pwning-portals-error-based-sqli-using-websockets/

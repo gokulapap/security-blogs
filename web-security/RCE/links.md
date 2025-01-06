@@ -175,3 +175,4 @@
 - https://ermetic.com/blog/azure/emojideploy-smile-your-azure-web-service-just-got-rced/
 - https://www.legitsecurity.com/blog/remote-code-execution-vulnerability-in-azure-pipelines-can-lead-to-software-supply-chain-attack
 - https://www.iot-inspector.com/blog/advisory-cisco-rv340-dual-wan-gigabit-vpn-router-rce-over-lan/
+- https://blog.ryotak.me/post/homebrew-security-incident-en/
