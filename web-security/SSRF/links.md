@@ -85,3 +85,4 @@
 - https://w00troot.blogspot.com/2017/12/how-i-found-ssrf-on-thefacebookcom.html
 - https://srahulceh.medium.com/bug-bounty-how-i-found-an-ssrf-reconnaissance-7b1821a1b1fd
 - https://medium.com/@gguzelkokar.mdbf15/huge-impact-server-side-request-forgery-in-production-app-20bf0cc5731
+- https://blog.geekycat.in/client-side-ssrf-to-google-cloud-project-takeover/

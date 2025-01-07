@@ -1,1 +1,2 @@
 - https://medium.com/@vishwaraj101/finding-backup-vulnerabilities-in-android-apps-6b87330f97b3
+- https://medium.com/@kunalkhubchandani/the-modern-day-android-application-pentesting-approach-for-bugbounties-assessments-b09154b522d
