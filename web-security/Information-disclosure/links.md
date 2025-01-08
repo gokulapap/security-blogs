@@ -159,3 +159,4 @@
 - https://www.josipfranjkovic.com/blog/facebook-friendlist-paymentcard-leak
 - https://medium.com/@cyberali/android-application-forgot-password-token-leakage-leading-to-account-takeover-8a0b28296531
 - https://ysamm.com/?p=487
+- https://medium.com/@sebastien.kaul/gaining-access-to-gcp-of-google-stadia-500-bounty-22f76ecc8e60

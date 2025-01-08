@@ -1,0 +1,1 @@
+- https://websecblog.com/vulns/public-google-cloud-blog-bucket/

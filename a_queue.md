@@ -311,7 +311,6 @@
 - https://the-deniss.github.io/posts/avast-privileged-arbitrary-file-create-on-restore/, TOCTOU
 - https://claroty.com/team82/research/triple-threat-breaking-teltonika-routers-three-ways, IoT
 - https://redcanary.com/blog/gatekeeper-bypass-vulnerabilities/, GateKeeper-bypass
-- https://www.interruptlabs.co.uk/articles/linux-ipv6-route-of-death, DoS
 - https://www.sonarsource.com/blog/pimcore-one-click-two-security-vulnerabilities/, Path-traversal
 - https://neodyme.io/blog/csgo_from_zero_to_0day/, Game-hacking
 - https://www.synacktiv.com/en/publications/the-printer-goes-brrrrr-again.html, Printer-hacking
@@ -651,7 +650,6 @@
 - https://bishopfox.com/blog/flowscreencomponents-advisory, XSS
 - https://medium.com/@jonathanbouman/unprotected-api-endpoint-at-hawebsso-nl-5f1951e212fe, SSO
 - https://spyclub.tech/2022/12/14/unusual-cache-poisoning-akamai-s3/, Web-cache-poisoning
-- https://labs.nettitude.com/blog/exploiting-onlyoffice-web-sockets-for-unauthenticated-remote-code-execution/, Websockets
 - https://www.akamai.com/blog/security-research/msrpc-lsm-cve-disturbing-hosts-rest, Windows
 - https://aidenpearce369.github.io/offsec/My-First-RedTeam-Engagement/, SQL-injection
 - https://blog.lightspin.io/aws-ecr-public-vulnerability, Cloud
@@ -1556,7 +1554,6 @@
 - https://medium.com/@mumeido/from-hobby-to-hacking-5d8befb3adde, Unrestricted-file-upload
 - https://medium.com/@muhammadsholikhin/facebook-vulnerability-expose-group-member-3000-cca809a53f6b, IDOR
 - https://blog.niksthehacker.com/xxe-in-public-transport-ticketing-mobile-app-81ae245c01a1, XXE
-- https://medium.com/@sebastien.kaul/gaining-access-to-gcp-of-google-stadia-500-bounty-22f76ecc8e60, Information-disclosure
 - https://3bodymo.medium.com/how-i-earned-by-amazon-s3-bucket-misconfigurations-29d51ee510de, AWS-misconfiguration
 - https://haxolot.com/posts/2021/moodle_pre_auth_shibboleth_rce_part1/, RCE
 - https://web.archive.org/web/20210927021132/https://0xdln.ml/XSS-Special-Cases/, XSS
@@ -1945,7 +1942,6 @@
 - https://medium.com/@harshtya9i/journey-of-my-first-bug-bounty-nov-2018-af471c21efc0, Authentication-bypass
 - https://medium.com/@amineaboud/story-of-a-weird-vulnerability-i-found-on-facebook-fc0875eb5125, Authentication-bypass
 - https://medium.com/@pratyush1337/the-art-of-idor-7-idors-in-edm0d0-b86d683c8de9, IDOR
-- https://websecblog.com/vulns/public-google-cloud-blog-bucket/, GCP-bucket-misconfiguration
 - https://johnjhacking.com/blog/p1-critical-discovering-and-foiling-a-threat-actor/, Information-disclosure
 - https://medium.com/@suneets1ngh/parameter-tampering-ddd9b3de0da8, Parameter-tampering
 - https://vnhacker.blogspot.com/2020/09/advisory-security-issues-in-aws-kms-and.html, Cryptographic-issues
@@ -2408,7 +2404,6 @@
 - https://medium.com/@heinthantzin/how-does-my-recon-win-250-in-15-minutes-a1992508b911, Open-redirect
 - https://philippeharewood.com/add-users-to-roles-on-facebook-pages-without-an-invitation-consent/, Authorization-flaw
 - https://philippeharewood.com/subscribe-to-the-list-of-requesters-to-join-a-facebook-live-video-using-mqtt/, Authorization-flaw
-- https://www.rcesecurity.com/2019/09/H1-4420-From-Quiz-to-Admin-Chaining-Two-0-Days-to-Compromise-an-Uber-Wordpress/, Stored-XSS
 - https://www.inputzero.io/2019/09/telegram-privacy-fails-again.html, Logic-flaw
 - https://medium.com/@osamaavvan/exploiting-jsonp-and-bypassing-referer-check-2d6e40dfa24, Information-disclosure
 - https://medium.com/@cc1h2e1/write-up-of-two-http-requests-smuggling-ff211656fe7d, HTTP-request-smuggling

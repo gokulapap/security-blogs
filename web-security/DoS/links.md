@@ -29,3 +29,4 @@
 - https://www.valbrux.it/blog/2019/09/13/how-two-dead-users-allowed-remote-crash-of-any-instagram-android-user/
 - https://pierrekim.github.io/blog/2022-08-24-2-byte-dos-freebsd-netbsd-telnetd-netkit-telnetd-inetutils-telnetd-kerberos-telnetd.html
 - https://blog.riotsecurityteam.com/dos-and-stored-html-injection-bug-bounty-writeup
+- https://www.interruptlabs.co.uk/articles/linux-ipv6-route-of-death
