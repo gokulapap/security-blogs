@@ -1,2 +1,3 @@
 - https://medium.com/@hawk101/story-of-a-miss-configuration-that-led-to-admins-account-takeover-895b28392a65
 - https://medium.com/@thevillagehacker/account-take-over-due-to-no-rate-limitation-433bd7449aca
+- https://medium.com/@sapt/breaking-reset-password-logic-to-get-account-takeover-without-user-interaction-f241fefe12e7

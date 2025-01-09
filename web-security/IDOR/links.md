@@ -149,3 +149,4 @@
 - https://virtuvil.medium.com/hey-google-lets-submit-bug-from-victim-account-af6a25d390e1
 - http://hack4bounty.com/how-source-code-reading-helped-me-find-an-idor/
 - https://medium.com/@rohan_x3/edmodo-idor-to-view-private-files-of-any-class-2280676c84b8
+- https://medium.com/@tobydavenn/how-i-was-able-to-takeover-any-account-on-one-of-europes-largest-media-companies-e8d25e59c08

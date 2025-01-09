@@ -86,3 +86,4 @@
 - https://srahulceh.medium.com/bug-bounty-how-i-found-an-ssrf-reconnaissance-7b1821a1b1fd
 - https://medium.com/@gguzelkokar.mdbf15/huge-impact-server-side-request-forgery-in-production-app-20bf0cc5731
 - https://blog.geekycat.in/client-side-ssrf-to-google-cloud-project-takeover/
+- https://medium.com/@michan001/ssrf-on-pdf-generator-36b81e16d67b
