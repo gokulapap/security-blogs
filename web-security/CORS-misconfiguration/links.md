@@ -12,3 +12,4 @@
 - https://mikekitckchan.medium.com/cors-misconfig-that-worths-usd200-4696eda5ab4c
 - https://portswigger.net/research/exploiting-cors-misconfigurations-for-bitcoins-and-bounties
 - https://bugbaba.blogspot.com/2018/02/exploiting-cors-miss-configuration.html
+- https://medium.com/bugbountywriteup/broke-limited-scope-with-a-chain-of-bugs-ef734ac430f5

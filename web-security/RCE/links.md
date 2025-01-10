@@ -177,3 +177,5 @@
 - https://www.iot-inspector.com/blog/advisory-cisco-rv340-dual-wan-gigabit-vpn-router-rce-over-lan/
 - https://blog.ryotak.me/post/homebrew-security-incident-en/
 - https://ssd-disclosure.com/ssd-advisory-keriocontrol-remote-code-execution/
+- https://medium.com/@yashshirke7806/how-i-found-unauthorized-bypass-rce-3591a86425a9
+- https://www.rcesecurity.com/2014/04/magix-bug-bounty-magix-com-rce-sqli-and-xara-com-lfi-xss/

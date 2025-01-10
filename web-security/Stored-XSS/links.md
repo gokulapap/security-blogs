@@ -67,3 +67,4 @@
 - https://blog.evanricafort.com/2020/12/cve-2019-17674-wordpress-stored-xss.html
 - https://www.seekurity.com/blog/general/stored-xss-in-the-heart-of-the-russian-email-provider-giant-mail-ru/
 - https://www.rcesecurity.com/2019/09/H1-4420-From-Quiz-to-Admin-Chaining-Two-0-Days-to-Compromise-an-Uber-Wordpress/
+- https://karansh491.medium.com/my-first-bounty-stored-xss-96dea41fd9cf
