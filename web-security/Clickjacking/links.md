@@ -15,3 +15,4 @@
 - https://santuysec.com/2020/03/06/google-bug-bounty-clickjacking-on-google-payment-1337/
 - https://palant.info/2019/08/19/kaspersky-in-the-middle--what-could-possibly-go-wrong/
 - https://medium.com/@osamaavvan/1800-worth-clickjacking-1f92e79d0414
+- https://santuysec.com/2021/01/27/hijacking-google-drive-files-documents-photo-video-through-google-docs-sharing/

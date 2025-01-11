@@ -135,7 +135,6 @@
 - https://medium.com/@harish_nataraj/making-api-bug-bounties-a-breeze-bf6443db5b37, api
 - https://medium.com/@theredteamer/tesla-paid-me-10-000-because-of-directory-indexing-c1be06c77a3e, journey
 - https://medium.com/@evilox/testing-and-bypassing-technique-for-idor-9ee03f28f4e1, IDOR
-- https://medium.com/@niraj1mahajan/a-hackers-tale-finding-10x-cves-in-wordpress-plugins-30f86bacf2c8, journey
 - https://medium.com/@ethicalkaps/behind-the-scene-http-parameter-pollution-534b4fa2449c, parameter
 - https://medium.com/@sudarshan-s/sql-injection-important-things-you-need-to-know-right-now-b173cdea0610, sql-injection
 - https://medium.com/@uttamgupta_/what-after-recon-bbaf43dbcb68, recon
@@ -616,7 +615,6 @@
 - https://yaseenzubair.medium.com/web-cache-poisoning-worth-it-e7c6d88797b1, Web-cache-poisoning
 - https://0xlittlespidy.medium.com/indias-aadhar-card-source-code-disclosure-via-exposed-svn-wc-db-c05519ea7761, Source-code-disclosure
 - https://medium.com/@querylab/bypass-premium-account-payment-getpocket-d813b249687c, Payment-bypass
-- https://medium.com/@ashlyn.lau_17206/hooking-secret-key-to-building-custom-burp-extension-c6aeb6fd312a, SQL-injection
 - https://www.yassineaboukir.com//blog/hunting-for-amazon-cognito-security-misconfigurations/, Amazon-cognito-misconfiguration
 - https://danaepp.com/hacking-a-net-api-in-the-real-world, LFI
 - https://mtechghost.medium.com/stored-xss-vulnerability-in-microsoft-booking-e593de3344e0, Stored-XSS
@@ -1062,7 +1060,6 @@
 - https://medium.com/@janijay007/how-i-was-able-to-see-likes-and-dislikes-count-which-is-hidden-by-victim-youtube-2-721d8e4686a5, Logic-flaw
 - https://www.cyberark.com/resources/threat-research-blog/that-pipe-is-still-leaking-revisiting-the-rdp-named-pipe-vulnerability, RCE
 - https://webs3c.com/t/csrf-leads-to-account-takeover-in-yahoo/93, CSRF
-- https://www.praetorian.com/blog/stsgetsessiontoken-role-chaining-in-aws/, Privilege-escalation
 - https://github.blog/2022-06-16-the-android-kernel-mitigations-obstacle-race/, Memory-corruption
 - https://aidilarf.medium.com/xss-blind-stored-at-asset-domain-android-apps-tiktok-ae2f4c2dbc07, Stored-XSS
 - https://fredericb.info/2022/06/breaking-secure-boot-on-google-nest-hub-2nd-gen-to-run-ubuntu.html, Hardware-hacking
@@ -1621,7 +1618,6 @@
 - https://shahjerry33.medium.com/server-side-request-forgery-a-forged-document-6359ef25058d, SSRF
 - https://medium.com/@abhishake21/bypassing-lfi-local-file-inclusion-ebf4274e7027, LFI
 - https://frichetten.com/blog/xss_in_aws_console/, XSS
-- https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/huawei-lte-usb-stick-e3372-file-overwrite-to-code-execution/, Local-Privilege-Escalation
 - https://infosecwriteups.com/admin-panel-pwned-89db333f3836, Information-disclosure
 - https://justintaft.com/blog/2021/06/01/cve-2021-29084-synology-crlf-unauthenticated-file-downloads, CRLF-injection
 - https://notifybugme.medium.com/escalating-ssrf-to-accessing-all-user-pii-information-by-aws-metadata-aabcfd5a3e0e, SSRF
@@ -1803,7 +1799,6 @@
 - https://www.shawarkhan.com/2021/01/analysing-crash-messages-to-achieve.html, OS-command-injection
 - https://logicbomb.medium.com/otp-bypass-account-takeover-to-admin-panel-ft-header-injection-16f2982a0136, OTP-bypass
 - https://medium.com/bugbountywriteup/bragging-rights-part-1-short-story-of-a-bug-wave-dbb88f48b604, IDOR
-- https://santuysec.com/2021/01/27/hijacking-google-drive-files-documents-photo-video-through-google-docs-sharing/, Clickjacking
 - https://bugbountyhunter.medium.com/500-for-no-rate-limit-on-forgot-password-page-d534d1d750db, Lack-of-rate-limiting
 - https://notifybugme.medium.com/finding-ssrf-by-full-automation-7d2680091d68, SSRF
 - https://yeuchimse.com/leaking-issues-from-linked-jira-atlassian-confluence-server/, XS-Search
