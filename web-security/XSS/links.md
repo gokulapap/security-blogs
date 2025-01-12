@@ -185,3 +185,4 @@
 - https://kailashbohara.com.np/blog/2023/01/02/exploiting-thousands-of-domains-for-XSS/
 - https://bitquark.co.uk/blog/2013/07/03/amazon_packaging_feedback_xss
 - https://medium.com/@kminthein/ios-outlook-stored-xss-write-up-ce34d7da192b
+- https://medium.com/@merry6607/how-i-find-my-first-p1-level-bug-5a6dd9587203

@@ -542,7 +542,6 @@
 - https://www.flashback.sh/blog/weekend-destroyer-wd-pr4100-rce, RCE
 - https://shahjerry33.medium.com/idor-inside-the-session-storage-88af485fc899, IDOR
 - https://www.cyberark.com/resources/threat-research-blog/breaking-docker-named-pipes-systematically-docker-desktop-privilege-escalation-part-1, Local-Privilege-Escalation
-- https://www.flashback.sh/blog/weekend-destroyer-wd-pr4100-rce, RCE
 - https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/vulnerability-causing-deletion-of-all-users-in-crushftp-admin-area/, Application-level-DoS
 - https://www.metabaseq.com/imagemagick-zero-days/, Application-level-DoS
 - https://infosecwriteups.com/an-idor-vulnerability-often-hides-many-others-2893ddd0a0d7, IDOR
@@ -688,7 +687,6 @@
 - https://infosecwriteups.com/a-great-weekend-hack-worth-8k-9bfda8ab65b9, SQL-injection
 - https://shafouz.medium.com/webview-xss-account-takeover-349c1d69606e, Webview-XSS
 - https://attackshipsonfi.re/p/exploiting-cors-misconfigurations, CORS-misconfiguration
-- https://iamgk808.medium.com/how-i-hacked-into-a-government-e-learning-website-ce8da8fb4ccc, IDOR
 - https://v1dr4x.medium.com/hacking-dutch-government-broken-authentication-to-full-website-takeover-p1-9af477604d54, Exposed-registration-page
 - https://petrusviet.medium.com/cve-2022-43781-32bc29de8960, OS-command-injection
 - https://rashahacks.com/directory-enumeration-guide/, 40x-bypass
@@ -872,7 +870,6 @@
 - https://www.whiteoaksecurity.com/blog/fun-with-cors/, CORS-misconfiguration
 - https://labs.jumpsec.com/quest-kace-desktop-authority-pre-auth-remote-code-execution-cve-2021-44031/, RCE
 - https://www.rapid7.com/blog/post/2022/09/08/baxter-sigma-spectrum-infusion-pumps-multiple-vulnerabilities-fixed/, Hardcoded-credentials
-- https://www.binarly.io/posts/Binarly_Finds_Six_High_Severity_Firmware_Vulnerabilities_in_HP_Enterprise_Devices/index.html, Memory-corruption
 - https://starlabs.sg/blog/2022/09-step-by-step-walkthrough-of-cve-2022-32792/, Memory-corruption
 - https://security.humanativaspa.it/groovy-template-engine-exploitation-notes-from-a-real-case-scenario/, RCE
 - https://shinchina.in/blog/2022-09-07/$900-blind-xss.html, Blind-XSS
@@ -1099,7 +1096,6 @@
 - https://www.secjuice.cz0idsecom/breaking-parser-logic-gain-access-to-nginx-plus-api-read-write-upstreams/, Path-traversal
 - https://medium.com/@sharp488/2fa-bypass-on-private-bug-bounty-program-due-to-improper-caching-mechanism-212c5912bd00, MFA-bypass
 - https://medium.com/@sharp488/2fa-bypass-on-private-bug-bounty-program-due-to-csrf-token-misconfiguration-5a9c82151a1, MFA-bypass
-- https://medium.com/@h4x0r_dz/vulnerability-in-paypal-worth-200000-bounty-attacker-can-steal-your-balance-by-one-click-2b358c1607cc, Clickjacking
 - https://medium.com/@harshbanshpal/how-i-was-able-to-down-a-service-of-microsoft-denial-of-service-dos-attack-on-microsoft-ec9d599ab3f8, DoS
 - https://medium.com/@h4x0r_dz/paypal-idor-via-billing-agreement-token-closed-informative-payment-fraud-3245202fab38, IDOR
 - https://systemweakness.com/i-obtained-admin-access-via-account-activation-link-in-30-seconds-dd7f115ae1d2, Privilege-escalation
@@ -1915,7 +1911,6 @@
 - https://www.rafaybaloch.com/2020/10/multiple-address-bar-spoofing-vulnerabilities.html, Address-Bar-Spoofing
 - https://www.rafaybaloch.com/2020/10/multiple-address-bar-spoofing-vulnerabilities.html, Authentication-bypass
 - https://mksben.l0.cm/2020/10/discord-desktop-rce.html, RCE
-- https://medium.com/@merry6607/how-i-find-my-first-p1-level-bug-5a6dd9587203, XSS
 - https://medium.com/@mustafa0x2021/disclose-emails-phone-numbers-other-information-for-facebook-users-who-tried-to-add-funds-to-31aea5f973a5, Information-disclosure
 - https://web.archive.org/web/20211020083928/https://medium.com/@rahulnaidu_92192/unauthorized-access-to-all-the-users-account-c087511fe42a, Account-takeover
 - https://blog.dixitaditya.com/leveraging-xss-to-read-internal-files/, XSS

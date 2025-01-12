@@ -16,3 +16,4 @@
 - https://palant.info/2019/08/19/kaspersky-in-the-middle--what-could-possibly-go-wrong/
 - https://medium.com/@osamaavvan/1800-worth-clickjacking-1f92e79d0414
 - https://santuysec.com/2021/01/27/hijacking-google-drive-files-documents-photo-video-through-google-docs-sharing/
+- https://medium.com/@h4x0r_dz/vulnerability-in-paypal-worth-200000-bounty-attacker-can-steal-your-balance-by-one-click-2b358c1607cc
