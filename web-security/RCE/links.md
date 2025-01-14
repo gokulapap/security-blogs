@@ -180,3 +180,4 @@
 - https://medium.com/@yashshirke7806/how-i-found-unauthorized-bypass-rce-3591a86425a9
 - https://www.rcesecurity.com/2014/04/magix-bug-bounty-magix-com-rce-sqli-and-xara-com-lfi-xss/
 - https://www.flashback.sh/blog/weekend-destroyer-wd-pr4100-rce
+- https://sector7.computest.nl/post/2022-10-iconics-genesis64/

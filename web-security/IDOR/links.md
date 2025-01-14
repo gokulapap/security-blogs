@@ -151,3 +151,4 @@
 - https://medium.com/@rohan_x3/edmodo-idor-to-view-private-files-of-any-class-2280676c84b8
 - https://medium.com/@tobydavenn/how-i-was-able-to-takeover-any-account-on-one-of-europes-largest-media-companies-e8d25e59c08
 - https://iamgk808.medium.com/how-i-hacked-into-a-government-e-learning-website-ce8da8fb4ccc
+- https://machevalia.blog/blog/broken-access-control-idor

@@ -318,7 +318,6 @@
 - https://www.akamai.com/blog/security-research/important-outlook-vulnerability-bypass-windows-api, Privilege-escalation
 - https://chevonphillip.medium.com/rce-due-to-dependency-confusion-5000-bounty-fd1b294d645f, Dependency-confusion
 - https://crnkovic.dev/testing-converso/, Android
-- https://www.elttam.com/blog/pwnassistant/, Authentication-bypass
 - https://www.synopsys.com/blogs/software-security/a-deep-dive-on-pluck-cms-vulnerability-cve-2023-25828/, Unrestricted-file-upload
 - http://blog.evanricafort.com/2023/05/ipv6-dns-takeover-via-mitm6-write-up.html, MiTM
 - https://medium.com/@ar_hawk/how-a-simple-directory-listing-leads-to-pii-data-leakage-remote-code-execution-and-many-more-104b09e644f4, RCE
@@ -781,7 +780,6 @@
 - https://blog.blacklanternsecurity.com/p/yet-another-telerik-ui-revisit, Cryptographic-issues
 - https://blog.doyensec.com/2022/10/18/cloudsectidbit-dataimport.html, Cloud
 - https://securityintelligence.com/posts/analysis-rce-vulnerability-cobalt-strike/, RCE
-- https://sector7.computest.nl/post/2022-10-iconics-genesis64/, RCE
 - https://lokeshdlk77.medium.com/facebook-sms-captcha-was-vulnerable-to-csrf-attack-8db537b1e980, CSRF
 - https://saajan.bhujel.cyou/blog/web/2022-10-16-how-i-got-10000-from-github-for-bypassing-filtration-of-html-tags, XSS
 - https://web.archive.org/web/20221017025828/https://medium.com/@EX_097/my-first-critical-bug-in-hackerone-platform-2ce9adcb39a6, HTTP-request-smuggling
@@ -1187,7 +1185,6 @@
 - https://www.sentinelone.com/labs/pwning-microsoft-azure-defender-for-iot-multiple-flaws-allow-remote-code-execution-for-all/, RCE
 - https://web.archive.org/web/20220329163747/https://pwnsec.ninja/2022/03/27/stealing-cookies-from-subdomain-leads-to-takeover-user-accounts-at-redacted-com/, Account-takeover
 - https://web.archive.org/web/20220405093345/https://pwnsec.ninja/2022/03/26/deleting-account-via-support-ticket/, IDOR
-- https://machevalia.blog/blog/broken-access-control-idor, IDOR
 - https://irsl.medium.com/clipboard-hazard-with-google-sheets-1c1f3d566907, Phishing
 - https://www.synacktiv.com/publications/pwn2own-austin-2021-defeating-the-netgear-r6700v3.html, RCE
 - https://cryptograph3r.blogspot.com/2022/03/how-token-misconfiguration-can-lead-to.html, Account-takeover
@@ -1616,7 +1613,6 @@
 - https://frichetten.com/blog/xss_in_aws_console/, XSS
 - https://infosecwriteups.com/admin-panel-pwned-89db333f3836, Information-disclosure
 - https://justintaft.com/blog/2021/06/01/cve-2021-29084-synology-crlf-unauthenticated-file-downloads, CRLF-injection
-- https://notifybugme.medium.com/escalating-ssrf-to-accessing-all-user-pii-information-by-aws-metadata-aabcfd5a3e0e, SSRF
 - https://github.com/champtar/blog/tree/main/runc-symlink-CVE-2021-30465, Kubernetes
 - https://master-sec.medium.com/the-beauty-of-chaining-client-side-bugs-759e1091eabf, CRLF-injection
 - https://web.archive.org/web/20210621221618/https://savirsuda.github.io/Github-The-Goldmine-for-P1s-and-P2s-Sensitive-Information-Exposure-via-Github-by-a-Company-Employee/, Information-disclosure
@@ -3086,7 +3082,6 @@
 - https://web.archive.org/web/20180322133921/http://codel10n.com/how-to-hack-payu-buy-10x-more-same-price/, RCE
 - https://medium.com/@r0t1v/open-redirect-in-linkedin-and-yahoo-a3ffd2a9cc48, Open-redirect
 - http://mahmoudsec.blogspot.com/2015/09/how-i-found-xss-vulnerability-in-google.html, XSS
-- https://matatall.com/xss/rce/bugbounty/2015/09/08/xss-to-rce.html, XSS
 - https://www.rcesecurity.com/2015/09/cve-2014-7216-a-journey-through-yahoos-bug-bounty-program/, Buffer-Overflow
 - https://thezerohack.com/hacking-facebook-pages, Authorization-flaw
 - https://ahussam.me/One-payload-to-xss-them/, Flash-XSS
