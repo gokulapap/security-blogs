@@ -56,3 +56,4 @@
 - http://blog.h4rsh4d.com/2018/03/olx-reflected-xss-on-resend-code-link.html
 - https://jjainam16.medium.com/reflected-cross-site-scripting-on-reddit-website-bounty-awards-5000-99fa639cdd7
 - https://medium.com/@sicks3c/tale-of-xss-in-angular-c5c057a56156
+- https://medium.com/@Alra3ees/my-write-up-about-uber-cross-site-scripting-by-help-of-knoxss-b1b56f8d090

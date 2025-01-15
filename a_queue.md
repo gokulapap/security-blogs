@@ -82,7 +82,6 @@
 - https://medium.com/@dewangpanchal98/tell-of-my-first-bounty-d3c5a85e18c9, journey
 - https://medium.com/@xcheater/recon-methodology-for-bug-hunting-e623120a7ca6, recon
 - https://medium.com/@ahmdhalabi/taking-over-employee-accounts-by-managers-with-zero-employee-interaction-b60784c3ad84, misc
-- https://medium.com/@burhanxd/my-first-nosql-injection-bug-e62bfe9950d9, sql-injection
 - https://medium.com/@justm0rph3u5/html-and-hyperlink-injection-via-share-option-in-microsoft-onenote-application-47e94d0e6478, injection
 - https://medium.com/@cypherthethird/cross-site-scripting-xss-for-dummies-9a7717bbd002, XSS
 - https://medium.com/@tomnomnom/making-a-blind-sql-injection-a-little-less-blind-428dcb614ba8, sql-injection
@@ -1145,7 +1144,6 @@
 - https://systemweakness.com/exploiting-a-file-upload-vulnerability-a-directory-traversal-attack-419308cdb059, Unrestricted-file-upload
 - https://unit42.paloaltonetworks.com/aws-log4shell-hot-patch-vulnerabilities/, Privilege-escalation
 - https://palant.info/2022/04/19/adobe-acrobat-hollowing-out-same-origin-policy/, XSS
-- https://palisade.consulting/blog/rarible-vulnerability, XSS
 - https://systemweakness.com/stored-xss-to-other-users-via-messages-e033239821b5, Stored-XSS
 - https://medium.com/pentesternepal/sql-injection-in-harvards-subdomain-c3148f8be156, SQL-injection
 - https://bloggerrando.blogspot.com/2022/04/15-1.html, Broken-Access-Control
@@ -1340,7 +1338,6 @@
 - https://thalium.github.io/blog/posts/leaking-aslr-through-rdp-printer-cache-registry/, Memory-corruption
 - https://jonbottarini.com/2021/12/09/dont-reply-a-clever-phishing-method-in-apples-mail-app/, Phishing
 - https://outflank.nl/blog/2021/12/09/a-phishing-document-signed-by-microsoft/, Phishing
-- https://notifybugme.medium.com/exploiting-s3-bucket-with-path-folder-to-access-pii-info-of-a-bank-91d8563cb45, AWS-misconfiguration
 - https://www.r29k.com/articles/bb/priv-esc-via-stored-xss, Account-takeover
 - https://rizwansiddiqu1.medium.com/another-admin-panel-e0489dc76678, HTTP-response-manipulation
 - https://blog.agilehunt.com/blogs/security/privilege-escalation-in-microsoft-teams-2021, Privilege-escalation
@@ -2960,7 +2957,6 @@
 - https://medium.com/@SyntaxError4/reflective-xss-and-open-redirect-on-indeed-com-subdomain-b4ab40e40c83, Reflected-XSS
 - https://medium.com/japzdivino/idor-on-hackerone-hacker-review-what-program-say-885ce3989a6f, IDOR
 - https://medium.com/@armaanpathan/dont-just-alert-1-because-xss-is-for-fun-f88cfb88d5b9, XSS
-- https://medium.com/@Alra3ees/my-write-up-about-uber-cross-site-scripting-by-help-of-knoxss-b1b56f8d090, Reflected-XSS
 - https://medium.com/@arbazhussain/stealing-0auth-token-mitm-3eeab46e96cf, OAuth
 - https://medium.com/@TheShahzada/reflected-xss-in-yahoo-6e2b6b177448, Reflected-XSS
 - https://medium.com/@rojanrijal/developer-luminate-idor-42bd0d98e0c, IDOR
@@ -3087,7 +3083,6 @@
 - https://ahussam.me/One-payload-to-xss-them/, Flash-XSS
 - https://josipfranjkovic.blogspot.com/2015/07/the-easiest-bug-bounties-i-have-ever-won.html, IDOR
 - https://buer.haus/2015/02/03/google-com-mobile-feedback-url-redirect-regexvalidation-flaw/, Open-redirect
-- https://buer.haus/2015/01/15/yahoo-root-access-sql-injection-tw-yahoo-com/, SQL-injection
 - https://quitten.github.io/Aliexpress/, XSS
 - https://josipfranjkovic.blogspot.com/2014/12/reading-local-files-from-facebooks.html, LFI
 - https://www.rcesecurity.com/2014/11/google-bug-bounty-nice-catch-on-google-cloud-platform-live, Reflected-XSS

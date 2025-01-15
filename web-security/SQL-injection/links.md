@@ -58,3 +58,4 @@
 - https://0xmahmoudjo0.medium.com/how-i-found-multiple-sql-injection-with-ffuf-and-sqlmap-in-a-few-minutes-9c3bb3780e8f
 - https://blog.bitcrack.net/pwning-portals-error-based-sqli-using-websockets/
 - https://medium.com/@ashlyn.lau_17206/hooking-secret-key-to-building-custom-burp-extension-c6aeb6fd312a
+- https://buer.haus/2015/01/15/yahoo-root-access-sql-injection-tw-yahoo-com/
