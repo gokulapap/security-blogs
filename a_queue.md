@@ -472,7 +472,6 @@
 - https://medium.com/@mullangisashank/the-vulnerability-that-exposed-an-un-website-to-remote-code-execution-dfe377b82049, Components-with-known-vulnerabilities
 - https://medium.com/@levshmelevv/10-000-bounty-for-exposed-git-to-rce-304c7e1f54, git-folder-disclosure
 - https://infosecwriteups.com/how-did-i-found-rce-on-shareit-which-rewarded-bounty-7d4196bf1b52, Log4shell
-- https://nishantjain.tech/#/blog, GraphQL
 - https://hacklido.com/blog/320-how-i-got-a-2000-bounty-with-rxss, Reflected-XSS
 - https://medium.com/@osamaavvan/unauthenticated-graphql-introspection-and-api-calls-92f1d9d86bcf, GraphQL
 - https://systemweakness.com/give-me-a-browser-ill-give-you-a-shell-de19811defa0, Local-Privilege-Escalation
@@ -1566,7 +1565,6 @@
 - https://portswigger.net/research/pre-auth-rce-in-forgerock-openam-cve-2021-35464, RCE
 - https://medium.com/techiepedia/how-i-was-able-to-takeover-any-account-on-foxit-com-7a08efa0144f, Password-reset
 - https://github.com/irsl/gcp-dhcp-takeover-code-exec, DHCP-flood
-- https://vovohelo.medium.com/how-i-found-my-first-chrome-bug-cve-2021-21210-248a21272248, NAT-Slipstreaming
 - https://blog.tyage.net/posts/2021-06-27-dependabot-rce/, SSRF
 - https://ysamm.com/?p=702, CSRF
 - https://ysamm.com/?p=700, Information-disclosure
@@ -2516,7 +2514,6 @@
 - https://ysamm.com/?p=256, Authorization-flaw
 - https://medium.com/@pratiky054/ssrf-to-read-local-files-and-abusing-the-aws-metadata-8621a4bf382, SSRF
 - https://medium.com/@navne3t/confirmation-bypass-ab57c29ae413, Email-verification-bypass
-- https://terjanq.github.io/Bug-Bounty/Twitter/protected-tweets-exposure-efvju8i785y1/, Information-disclosure
 - https://rpadovani.com/gitlab-responsible-disclosure, Authorization-flaw
 - https://sites.google.com/securifyinc.com/secblogs/scary-tickets, Ticket-Trick
 - https://www.inputzero.io/2019/04/evernote-cve-2019-10038.html, RCE
@@ -2525,7 +2522,6 @@
 - https://medium.com/@valeriyshevchenko/how-i-hacked-vending-machine-5b5a80bd5ffe, Violation-of-secure-design-principles
 - https://medium.com/@daniel.marad/post-komodosec-google-groups-authorization-bypass-500-bounty-adb371d16ab6, Authorization-flaw
 - https://blog.ettic.ca/the-outlook-winner-is-dash-ac15dbc4098d, Authorization-flaw
-- https://blog.usejournal.com/how-i-gained-access-to-revenue-and-traffic-data-of-thousands-of-shopify-stores-b6fe360cc369, IDOR
 - https://medium.com/@kunal94/web-cache-deception-to-api-endpoint-attack-using-cached-token-header-b01a604a5ccd, Web-cache-deception
 - https://web.archive.org/web/20200929013706/https://www.mohamedharon.com/2019/04/apache-strust-rce.html, RCE
 - https://medium.com/@mrnikhilsri/unauthenticated-account-takeover-through-http-leak-33386bb0ba0b, HTML-injection
@@ -2740,7 +2736,6 @@
 - https://blog.securitybreached.org/2018/09/08/sqli-bootcampnutanix-com-bug-bounty-poc/, SQL-injection
 - https://blog.securitybreached.org/2018/09/07/rce-jenkins-instance-dosomething-org-bug-bounty-poc/, RCE
 - https://medium.com/@ciph3r7r0ll/simple-login-brute-force-current-password-requirement-bypass-e8f58931e257, IDOR
-- https://blog.sagarvd.me/2018/09/youtube-csrf.html, CSRF
 - https://medium.com/@mahitman1/i-own-your-customers-22e965761abd, Information-disclosure
 - https://dev.to/antogarand/pwned-together-hacking-devto-hkd, Stored-XSS
 - https://web.archive.org/web/20200929012934/https://www.mohamedharon.com/2018/08/mapboxxss.html, Reflected-XSS

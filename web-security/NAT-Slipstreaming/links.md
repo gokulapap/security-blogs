@@ -1,0 +1,1 @@
+- https://vovohelo.medium.com/how-i-found-my-first-chrome-bug-cve-2021-21210-248a21272248

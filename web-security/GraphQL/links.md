@@ -5,3 +5,4 @@
 - https://ysamm.com/?p=627
 - https://feed.bugs.xdavidhu.me/bugs/0017
 - https://debprasadbanerjee502.medium.com/the-easiest-bug-to-get-a-hall-of-fame-from-a-billion-dollar-company-8278fd7b3035
+- https://nishantjain.tech/#/blog
