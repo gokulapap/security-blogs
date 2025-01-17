@@ -59,3 +59,4 @@
 - https://blog.bitcrack.net/pwning-portals-error-based-sqli-using-websockets/
 - https://medium.com/@ashlyn.lau_17206/hooking-secret-key-to-building-custom-burp-extension-c6aeb6fd312a
 - https://buer.haus/2015/01/15/yahoo-root-access-sql-injection-tw-yahoo-com/
+- https://web.archive.org/web/20200928234656/https://www.mohamedharon.com/2019/07/sql-injection-in-private-sitecomloginphp.html

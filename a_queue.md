@@ -525,7 +525,6 @@
 - https://www.zerodayinitiative.com/blog/2023/2/6/pwn2owning-two-hosts-at-the-same-time-abusing-inductive-automation-ignitions-custom-deserialization, Insecure-deserialization
 - https://jowin922.medium.com/reflected-xss-on-target-with-tough-waf-waf-bypass-3b7efd1ef2bc, Reflected-XSS
 - https://decoded.avast.io/janvojtesek/dota-2-under-attack-how-a-v8-bug-was-exploited-in-the-game/, V8-JavaScript-engine
-- https://medium.com/@mares.viktor/code-injection-via-python-sandbox-escape-how-i-got-a-shell-inside-a-network-c977c35a82de, Code-injection
 - https://blog.quarkslab.com/post-exploitation-abusing-the-keepass-plugin-cache.html, Local-Privilege-escalation
 - https://eaton-works.com/2023/02/06/toyota-gspims-hack/, Authentication-bypass
 - https://securitylabs.datadoghq.com/articles/aws-console-rate-limit-bypass/, Rate-limiting-bypass
@@ -1626,7 +1625,6 @@
 - https://feed.bugs.xdavidhu.me/bugs/0006, Path-traversal
 - https://www.fortbridge.co.uk/research/drupal-insecure-default-leads-to-password-reset-poisoning/, Password-reset
 - https://nvk0x.medium.com/how-i-hijacked-12-subdomains-in-one-program-eea468bcd64f, Subdomain-takeover
-- https://www.pethuraj.com/blog/edmodo-bug-bounty-writeup/, XSS
 - https://infosecwriteups.com/2fa-bypass-via-forced-browsing-9e511dfdb8df, MFA-bypass
 - https://galnagli.com/Mass_Assignment/, Mass-assignment
 - https://ysamm.com/?p=695, Reflected-XSS
@@ -2415,14 +2413,12 @@
 - https://ysamm.com/?p=281, Authorization-flaw
 - https://medium.com/@dekeeu/reposted-2019-hacking-youtube-for-fun-and-profit-8685dd475e30, Authorization-flaw
 - https://web.archive.org/web/20210124152317/https://whitehathaji.blogspot.com/2019/07/paypal-bug-10k-all-secondary-users.html, IDOR
-- https://web.archive.org/web/20200928234656/https://www.mohamedharon.com/2019/07/sql-injection-in-private-sitecomloginphp.html, SQL-injection
 - https://medium.com/@ronak_9889/solr-injection-by-abusing-local-parameters-on-zomato-com-a5cb7bef10d5, Solr-injection
 - https://medium.com/@innocenthacker/how-i-found-the-most-critical-bug-in-live-bug-bounty-event-7a88b3aa97b3, Password-reset
 - https://philippeharewood.com/subscribe-to-typing-notifications-for-any-instagram-user/, Authorization-flaw
 - https://blog.usejournal.com/shopping-products-for-free-parameter-tampering-vulnerability-8e09e1471596, Parameter-tampering
 - https://www.noob.ninja/2019/07/exploiting-tricky-blind-sql-injection.html, SQL-injection
 - https://medium.com/@sudhanshur705/how-recon-helped-me-to-to-find-a-facebook-domain-takeover-58163de0e7d5, Subdomain-takeover
-- https://medium.com/@circleninja/facebook-informative-bug-from-triaged-76738e4d5938, Lack-of-rate-limiting
 - https://medium.com/@lokeshdlk77/csrf-email-confirmation-vulnerability-for-gmail-g-suite-in-facebook-5ab551a0a526, CSRF
 - https://medium.com/@saadahmedx/bypass-csrf-with-clickjacking-worth-1250-6c70cc263f40, CSRF
 - https://medium.com/bugbountywriteup/what-do-netcat-smtp-and-self-xss-have-in-common-stored-xss-a05648b72002, Stored-XSS
@@ -2943,7 +2939,6 @@
 - https://medium.com/secjuice/how-i-was-able-to-view-private-tweets-of-any-private-twitter-account-86a9d2640ded, IDOR
 - https://markus-krell.de/craft-cms-why-case-matters/, Reflected-XSS
 - https://medium.com/@saamux/filter-bypass-to-reflected-xss-on-https-finance-yahoo-com-mobile-version-22b854327b27, Reflected-XSS
-- https://medium.com/bugbountywriteup/how-i-bypassed-practos-firewall-and-triggered-a-xss-b30164a8f1dc, XSS
 - https://medium.com/@rojanrijal/luminate-internal-privilege-escalation-admin-to-owner-2ca28e575985, Authorization-flaw
 - https://guptashubham.com/all-about-hackerone-private-program-terapeak/, IDOR
 - https://kciredor.com/first-bounty-time-to-step-up-my-game.html, Same-Origin-Method-Execution
