@@ -1,1 +1,2 @@
 - https://medium.com/@omfacu/methods-for-exploiting-file-upload-vulnerabilities-c046f9946b62
+- https://medium.com/@sivasimha/unrestricted-file-upload-cloud-fare-bypass-12867b65de3a

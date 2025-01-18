@@ -1,1 +1,2 @@
 - https://johnjhacking.com/blog/cve-2023-24068-cve-2023-24069/
+- https://medium.com/@mantissts/thick-client-attacking-databases-the-fun-easy-way-6e31162b1335

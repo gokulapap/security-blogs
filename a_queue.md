@@ -90,7 +90,6 @@
 - https://medium.com/@rahulkumarmk/fuzzing-get-and-post-requests-a-comprehensive-guide-with-gobuster-ffuz-and-wfuzz-bde14769999e, automation
 - https://medium.com/@kaorrosi/content-discovery-automated-and-manual-9984ba8d1da6, recon
 - https://medium.com/@popalltheshells/domain-admin-compromise-in-3-hours-5778902604c9, misc
-- https://medium.com/@sivasimha/unrestricted-file-upload-cloud-fare-bypass-12867b65de3a, file-upload
 - https://medium.com/@adamjsturge/mx-takeovers-automated-subdomain-takeover-64e658fc4fb7, automation
 - https://medium.com/@pingsec/interesting-account-takeover-bugs-619df8466ca0, ATO
 - https://medium.com/@vickieli/are-csrfs-still-a-thing-7e16c09c951a, csrf
@@ -652,7 +651,6 @@
 - https://medium.com/@mrd17x/scoring-for-a-very-simple-bug-you-dont-always-need-proxy-tools-872a832f83ea, IDOR
 - https://research.nccgroup.com/2022/12/09/public-report-vpn-by-google-one-security-assessment/, Android
 - https://blog.viettelcybersecurity.com/the-first-step-to-pwn2own-but-a-sad-one/, Command-injection
-- https://claroty.com/team82/research/js-on-security-off-abusing-json-based-sql-to-bypass-waf, WAF-bypass
 - https://jowin922.medium.com/cors-misconfig-on-out-of-scope-domain-bug-bounty-writeup-300-usd-reward-8a9e420d21e0, CORS-misconfiguration
 - https://tusharvaidya16.medium.com/a03-2021-injection-sql-injection-through-internal-directory-disclose-ecdef5230131, SQL-injection
 - https://www.synacktiv.com/publications/cool-vulns-dont-live-long-netgear-and-pwn2own.html, Code-injection
@@ -2332,7 +2330,6 @@
 - https://fletchto99.dev/2019/november/slack-vulnerability/, CSS-injection
 - https://geleta.eu/2019/my-first-ssrf-using-dns-rebinfing/, SSRF
 - https://web.archive.org/web/20200604001225/https://hackking.net/threads/how-i-hacked-dutch-government-in-5-minutes-twitter-account-takeover.20/, Broken-link-hijacking
-- https://jinone.github.io/bugbounty-a-simple-ssrf/, SSRF
 - https://medium.com/@04sabsas/xss-will-never-die-eb3584081a5f, XSS
 - https://samcurry.net/filling-in-the-blanks-exploiting-null-byte-buffer-overflow-for-a-40000-bounty/, Null-byte-buffer-overflow
 - https://medium.com/@z0id/finding-open-redirects-like-a-pro-3b87fa474cfd, Open-redirect
@@ -2428,7 +2425,6 @@
 - https://medium.com/@sansyrox/hacking-tinders-premium-model-43f9f699d44, Authorization-flaw
 - https://medium.com/@princechaddha/account-takeover-on-airbnb-acquisition-an-unusual-bug-part-2-45fab11dc407, IDOR
 - https://medium.com/@yusuffurkan/facebook-bug-bounty-page-admin-disclose-bug-facebook-android-app-c0fa50459177, Information-disclosure
-- https://thesecurityexperts.wordpress.com/2019/07/11/xss-on-google-custom-search-engine/, XSS
 - https://medium.com/@janijay007/story-of-my-biggest-bounty-evecommand-execution-on-jenkin-a73f5242b1e2, RCE
 - https://xp.ht/oauth-authentication-bypass-on-airbnb-acquisition-using-weird-1-char-open-redirect/, Open-redirect
 - https://medium.com/@hazzaazi31/a-malicious-editor-of-a-page-can-support-to-a-community-action-which-cant-be-unsupported-by-the-f568c3762042, Authorization-flaw
@@ -2707,7 +2703,6 @@
 - https://medium.com/@justmorpheus/idor-content-spoofing-and-url-redirection-via-unsubscribe-email-in-confluent-1fa7398cfe7a, IDOR
 - https://medium.com/@sivakrishnasamireddi/just-another-tale-of-severe-bugs-on-a-private-program-405870b03532, Open-redirect
 - https://medium.com/@logicbomb_1/bugbounty-from-finding-jenkins-instance-to-command-execution-secure-your-jenkins-instance-9bd1e75c2288, RCE
-- https://medium.com/@mantissts/thick-client-attacking-databases-the-fun-easy-way-6e31162b1335, Thick-client
 - https://medium.com/@ratnadip1998/how-i-got-4000-from-visma-for-rce-d541e6042086, RCE
 - https://medium.com/@rahulraveendran06/weaponizing-xss-attacking-internal-domains-d8ba1cbd106d, Blind-XSS
 - https://blog.securitybreached.org/2018/09/24/subdomain-takeover-via-unsecured-s3-bucket/, Subdomain-takeover

@@ -88,3 +88,4 @@
 - https://blog.geekycat.in/client-side-ssrf-to-google-cloud-project-takeover/
 - https://medium.com/@michan001/ssrf-on-pdf-generator-36b81e16d67b
 - https://notifybugme.medium.com/escalating-ssrf-to-accessing-all-user-pii-information-by-aws-metadata-aabcfd5a3e0e
+- https://jinone.github.io/bugbounty-a-simple-ssrf/
