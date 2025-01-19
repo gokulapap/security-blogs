@@ -1,1 +1,2 @@
 - https://sensepost.com/blog/2023/jumping-into-socks/
+- https://posts.specterops.io/performance-diagnostics-and-wmi-21f3e01790d3

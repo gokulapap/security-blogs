@@ -1,2 +1,3 @@
 - https://pulsesecurity.co.nz/advisories/aspnetboilerplate-jwt
 - https://medium.com/@rival.rvdt/secstory-how-i-found-multiple-p1-vulnerabilities-without-recon-c9f3a19cad45
+- https://security.lauritz-holtmann.de/advisories/cve-2020-13294/

@@ -190,7 +190,6 @@
 - https://badoption.eu/blog/2023/07/15/divideconqer.html, AMSI-bypass
 - https://www.trustedsec.com/blog/modeling-malicious-code-hacking-in-3d/, Phishing
 - https://blog.talosintelligence.com/weaknesses-mac-os-vmware-msrpc/, Kernel-hacking
-- https://posts.specterops.io/performance-diagnostics-and-wmi-21f3e01790d3, Lateral-movement
 - https://research.securitum.com/how-private-cache-can-lead-to-mass-account-takeover-pentest-case/, Account-takeover
 - https://labs.withsecure.com/publications/executing-arbitrary-code-executables-in-read-only-filesystems, Kubernetes
 - https://www.kroll.com/en/insights/publications/cyber/ghostscript-cve-2023-36664-remote-code-execution-vulnerability, RCE
@@ -985,7 +984,6 @@
 - https://www.rapid7.com/blog/post/2022/07/19/cve-2022-30526-fixed-zyxel-firewall-local-privilege-escalation/, Local-Privilege-Escalation
 - https://ssd-disclosure.com/ssd-advisory-microsoft-sharepoint-server-wizardconnecttodatastep4-deserialization-of-untrusted-data-rce/, Insecure-deserialization
 - https://medium.com/tenable-techblog/logging-passwords-in-plaintext-in-azure-arc-2f94cb046a, Information-disclosure
-- https://sector7.computest.nl/post/2022-07-opc-ua-net-standard-trusted-application-check-bypass/, Local-Privilege-Escalation
 - https://www.authomize.com/blog/authomize-discovers-password-stealing-and-impersonation-risks-to-in-okta/, Sensitive-data-sent-over-an-unencrypted-channel
 - https://0x1337.ninja/2022/07/19/mybb-0day-authenticated-remote-code-execution/, RCE
 - https://infosecwriteups.com/ffuf-ing-recon-1ee4e79b3256, vHost-misconfiguration
@@ -1276,7 +1274,6 @@
 - https://perception-point.io/technical-analysis-of-cve-2022-22583-bypassing-macos-system-integrity-protection/, MacOS
 - https://blog.sorcery.ie/posts/adodb_auth_bypass/, Authentication-bypass
 - https://www.ryanpickren.com/safari-uxss, Universal-XSS
-- https://aidilarf.medium.com/first-valid-bug-finding-at-microsoft-and-i-got-the-acknowledgments-page-microsoft-a2c185c53074, XSS
 - https://www.zerodayinitiative.com/blog/2022/1/25/cve-2021-44790-code-execution-on-apache-via-an-integer-underflow, Memory-corruption
 - https://kuldeep.io/posts/path-traversal-paradise/, Path-traversal
 - https://infosecwriteups.com/how-i-was-able-to-find-multiple-vulnerabilities-of-a-symfony-web-framework-web-application-2b82cd5de144, Debug-mode-enabled
@@ -1441,7 +1438,6 @@
 - https://medium.com/@bobbyrsec/zero-day-hijacking-icloud-credentials-with-apple-airtags-stored-xss-6997da43a216, Stored-XSS
 - https://deepsurface.com/deepsurface-security-advisory-lpe-in-firefox-on-windows/, Local-Privilege-Escalation
 - https://medium.com/@dheerajkmadhukar/bypass-of-biometrics-password-security-functionality-for-android-8e0174ac7cac, Authentication-bypass
-- https://sick.codes/sick-2021-111/, Verbose-logging
 - https://parsiya.net/blog/2021-09-26-attack-surface-analysis-part-3-resurrected-code-execution/, RCE
 - https://www.shielder.it/advisories/remote-command-execution-in-visual-studio-code-remote-development-extension/, RCE
 - https://habr.com/en/post/579714/, Information-disclosure
@@ -1883,7 +1879,6 @@
 - https://dhakal0kushal.medium.com/story-of-a-pre-account-takeover-33e3d5b4c33f, Account-takeover
 - https://lokeshdlk77.medium.com/delete-any-photos-in-facebook-832dbe81cdc4, Authorization-flaw
 - https://lokeshdlk77.medium.com/reveal-the-page-admin-that-uploaded-a-video-on-the-page-in-comment-section-9760e4a31453, Information-disclosure
-- https://security.lauritz-holtmann.de/advisories/cve-2020-13294/, Authentication-flaw
 - https://james-clee.com/2020/11/01/leaked-git-folder-leads-to-rce/, git-folder-disclosure
 - https://a-constant.medium.com/beyond-the-wall-command-injection-still-alive-577a898df0b5, OS-command-injection
 - https://tbutler.org/2020/11/01/hinge-hackerone-writeup.html, Broken-Access-Control
