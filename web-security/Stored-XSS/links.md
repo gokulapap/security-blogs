@@ -68,3 +68,4 @@
 - https://www.seekurity.com/blog/general/stored-xss-in-the-heart-of-the-russian-email-provider-giant-mail-ru/
 - https://www.rcesecurity.com/2019/09/H1-4420-From-Quiz-to-Admin-Chaining-Two-0-Days-to-Compromise-an-Uber-Wordpress/
 - https://karansh491.medium.com/my-first-bounty-stored-xss-96dea41fd9cf
+- https://shahjerry33.medium.com/xss-via-exif-data-the-p2-elevator-d09e7b7fe9b9

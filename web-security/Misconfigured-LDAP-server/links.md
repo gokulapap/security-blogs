@@ -1,0 +1,1 @@
+- https://medium.com/@D0rkerDevil/how-i-tookover-a-ldap-server-703209161001
