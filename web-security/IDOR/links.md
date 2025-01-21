@@ -153,3 +153,5 @@
 - https://iamgk808.medium.com/how-i-hacked-into-a-government-e-learning-website-ce8da8fb4ccc
 - https://machevalia.blog/blog/broken-access-control-idor
 - https://blog.usejournal.com/how-i-gained-access-to-revenue-and-traffic-data-of-thousands-of-shopify-stores-b6fe360cc369
+- https://medium.com/@aravindb26/my-first-apple-bug-and-my-first-writeup-8a833e8e953c
+- https://infosecwriteups.com/i-mean-idor-is-not-only-about-others-id-2d26115072ba

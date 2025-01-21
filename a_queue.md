@@ -972,7 +972,6 @@
 - https://www.rcesecurity.com/2022/07/WordPress-Transposh-Exploiting-a-Blind-SQL-Injection-via-XSS/, SQL-injection
 - https://www.yesnaveen.com/2022/07/permanently-crash-instagram-followers.html, DoS
 - https://medium.com/@IroquoisPliskin/how-i-was-able-to-take-over-a-support-chat-using-leaked-keys-d5c4922bb3d4, Information-disclosure
-- https://infosecwriteups.com/i-mean-idor-is-not-only-about-others-id-2d26115072ba, IDOR
 - https://www.vectra.ai/blogpost/abusing-the-replicator-silently-exfiltrating-data-with-the-aws-s3-replication-service, Security-Logging-and-Monitoring-Failure
 - https://www.randorisec.fr/crack-linux-firewall/, Memory-corruption
 - https://www.vulnano.com/2022/07/react-debugkeystore-key-was-trusted-by.html, Account-takeover
@@ -1022,7 +1021,6 @@
 - https://portswigger.net/research/bypassing-firefoxs-html-sanitizer-api, XSS
 - https://www.horizon3.ai/red-team-blog-cve-2022-28219/, XXE
 - https://aidilarf.medium.com/xss-blind-stored-at-2-assets-tiktok-f32829f11e58, XSS
-- https://medium.com/@aravindb26/my-first-apple-bug-and-my-first-writeup-8a833e8e953c, IDOR
 - https://blog.sonarsource.com/zimbra-pre-auth-rce-via-unrar-0day/, Path-traversal
 - https://unit42.paloaltonetworks.com/fabricscape-cve-2022-30137/, Container-escape
 - https://www.rapid7.com/blog/post/2022/06/28/cve-2021-3779-ruby-mysql-gem-client-file-read-fixed/, Client-File-Read
@@ -1680,7 +1678,6 @@
 - https://www.paulosyibelo.com/2021/04/this-man-thought-opening-txt-file-is.html, MacOS
 - https://infosecwriteups.com/bragging-rights-lets-head-back-to-bug-bucket-88c94730b6fa, XSS
 - https://security.lauritz-holtmann.de/post/xss-parameter-guessing/, XSS
-- https://sriram-offcl.medium.com/play-a-game-get-subscribed-to-my-channel-youtube-clickjacking-bug-googlevrp-6ce1d15542d3, Clickjacking
 - https://ysamm.com/?p=646, Account-takeover
 - https://philippeharewood.com/download-facebook-internal-mobile-builds/, Information-disclosure
 - https://thexssrat.medium.com/i-felt-like-there-were-no-more-bugs-left-after-winning-2000-but-an-email-worth-750-changed-my-c7a507649060, Broken-Access-Control
@@ -2881,7 +2878,6 @@
 - https://medium.com/bugbountywriteup/bugbounty-how-i-was-able-to-delete-anyones-account-in-an-online-car-rental-company-8a4022cc611, CSRF
 - https://corben.io/blog/18-1-11-chaining-yahoo-bugs, CORS-misconfiguration
 - https://blog.securitybreached.org/2018/02/04/hunting-insecure-direct-object-reference-vulnerabilities-for-fun-and-profit-part-1/, IDOR
-- https://research.digitalinterruption.com/2018/01/04/toytalk-bug-bounty-writeup/, Authentication-bypass
 - https://wwws.nightwatchcybersecurity.com/2018/01/04/rce-in-duolingos-tinycards-app-for-android-cve-2017-16905/, Content-injection
 - https://voidzone.me/facebook-chat-dashboard-content-injection, Content-injection
 - https://blog.witcoat.com/2018/05/30/stealing-10000-yahoo-cookies/, CORS-misconfiguration
@@ -3058,7 +3054,6 @@
 - https://ahussam.me/One-payload-to-xss-them/, Flash-XSS
 - https://josipfranjkovic.blogspot.com/2015/07/the-easiest-bug-bounties-i-have-ever-won.html, IDOR
 - https://buer.haus/2015/02/03/google-com-mobile-feedback-url-redirect-regexvalidation-flaw/, Open-redirect
-- https://quitten.github.io/Aliexpress/, XSS
 - https://josipfranjkovic.blogspot.com/2014/12/reading-local-files-from-facebooks.html, LFI
 - https://www.rcesecurity.com/2014/11/google-bug-bounty-nice-catch-on-google-cloud-platform-live, Reflected-XSS
 - https://blog.it-securityguard.com/bugbounty-reflected-cross-site-scripting-billmelater/, Reflected-XSS

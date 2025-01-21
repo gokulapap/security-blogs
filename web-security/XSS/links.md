@@ -192,3 +192,4 @@
 - https://www.pethuraj.com/blog/edmodo-bug-bounty-writeup/
 - https://thesecurityexperts.wordpress.com/2019/07/11/xss-on-google-custom-search-engine/
 - https://aidilarf.medium.com/first-valid-bug-finding-at-microsoft-and-i-got-the-acknowledgments-page-microsoft-a2c185c53074
+- https://quitten.github.io/Aliexpress/

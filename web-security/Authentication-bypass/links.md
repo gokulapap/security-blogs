@@ -35,3 +35,4 @@
 - https://infosecwriteups.com/weird-and-very-easy-authentication-bypass-found-with-google-dorking-c13230a038ed
 - https://medium.com/@sayim0x3105/admin-panel-bypass-without-the-credentials-e867eee7c81b
 - https://www.elttam.com/blog/pwnassistant/
+- https://research.digitalinterruption.com/2018/01/04/toytalk-bug-bounty-writeup/
