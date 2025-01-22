@@ -181,3 +181,4 @@
 - https://www.rcesecurity.com/2014/04/magix-bug-bounty-magix-com-rce-sqli-and-xara-com-lfi-xss/
 - https://www.flashback.sh/blog/weekend-destroyer-wd-pr4100-rce
 - https://sector7.computest.nl/post/2022-10-iconics-genesis64/
+- https://blog.redforce.io/attacking-helpdesks-part-1-rce-chain-on-deskpro-with-bitdefender-as-case-study/

@@ -30,3 +30,4 @@
 - https://www.akamai.com/blog/security-research/cold-hard-cache-bypassing-rpc-with-cache-abuse
 - https://blog.stratumsecurity.com/2023/05/04/integration-fails/
 - https://www.praetorian.com/blog/stsgetsessiontoken-role-chaining-in-aws/
+- https://ioactive.com/discovering-and-exploiting-a-vulnerability-in-androids-personal-dictionary/

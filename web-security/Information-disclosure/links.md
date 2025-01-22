@@ -163,3 +163,4 @@
 - https://www.netspi.com/blog/technical/cloud-penetration-testing/azure-cloud-vulnerability-credmanifest/
 - https://terjanq.github.io/Bug-Bounty/Twitter/protected-tweets-exposure-efvju8i785y1/
 - https://medium.com/@vesirin/how-i-gained-commit-access-to-homebrew-in-30-minutes-2ae314df03ab
+- https://web.archive.org/web/20201006184247/https://www.mohamedharon.com/2018/08/reverb-api.html
