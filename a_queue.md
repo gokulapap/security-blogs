@@ -423,7 +423,6 @@
 - https://infosecwriteups.com/anatomy-of-a-reflected-xss-my-discovery-on-a-microsofts-subdomain-7a237aba4392, Reflected-XSS
 - https://princej-76.medium.com/how-i-chained-multiple-high-impact-vulnearbilities-to-create-a-critical-one-476950a3bb9f, Account-takeover
 - https://blog.doyensec.com/2023/03/16/ssrf-remediation-bypass.html, SSRF
-- https://shahjerry33.medium.com/lfi-an-interesting-tweak-9c5638dbdd1b, LFI
 - http://blog.sysdum.net/parameter-injection-to-rce, RCE
 - https://blog.scrt.ch/2023/03/14/producing-a-poc-for-cve-2022-42475-fortinet-rce/, Memory-corruption
 - https://blog.quarkslab.com/vulnerabilities-in-the-tpm-20-reference-implementation-code.html, Memory-corruption
@@ -517,7 +516,6 @@
 - https://medium.com/@lukeberner/information-disclosure-to-gdpr-breach-a-google-tale-f9e99fd5d648, Privacy-issue
 - https://the-deniss.github.io/posts/2023/02/09/elevation-of-privileges-from-everyone-through-avast-av-sandbox-to-system-amppl.html, Local-Privilege-Escalation
 - https://skylightcyber.com/2023/02/09/a-salt-attacking-saltstack/, SSTI
-- https://www.elttam.com/blog/cracking-randomness-in-java/, Cryptographic-issues
 - https://www.zerodayinitiative.com/blog/2023/2/6/pwn2owning-two-hosts-at-the-same-time-abusing-inductive-automation-ignitions-custom-deserialization, Insecure-deserialization
 - https://jowin922.medium.com/reflected-xss-on-target-with-tough-waf-waf-bypass-3b7efd1ef2bc, Reflected-XSS
 - https://decoded.avast.io/janvojtesek/dota-2-under-attack-how-a-v8-bug-was-exploited-in-the-game/, V8-JavaScript-engine
@@ -614,7 +612,6 @@
 - https://sharanthehunter.medium.com/authentication-bypass-in-nexus-manager-version-3-37-3-02-712f0bdb2fb4, Components-with-known-vulnerabilities
 - https://medium.com/@tobydavenn/bypassing-ssrf-protections-45e5e3ac31e9, SSRF
 - https://infosecwriteups.com/bypass-apples-redirection-process-with-the-dot-character-c47d40537202, Open-redirect
-- https://medium.com/supakiad-s-m3ez/microsoft-bug-reports-lead-to-ranking-on-microsoft-msrc-quarterly-leaderboard-q3-2022-c6c9f70e2ccd, XSS
 - https://github.com/PabloMK7/ENLBufferPwn, Buffer-Overflow
 - https://research.nccgroup.com/2022/12/22/puckungfu-a-netgear-wan-command-injection/, OS-command-injection
 - https://www.synacktiv.com/sites/default/files/2022-12/sage_xrt_multiple_sqli_1.pdf, Blind-SQL-injection
@@ -706,7 +703,6 @@
 - https://ian.sh/etugra, Default-credentials
 - https://gonzxph.medium.com/account-takeover-worth-of-2500-e643661f94e9, Account-takeover
 - https://medium.com/@hf6452/a-story-of-a-strange-stored-idor-b6f2769bb6cb, IDOR
-- https://www.rapid7.com/blog/post/2022/11/16/cve-2022-41622-and-cve-2022-41800-fixed-f5-big-ip-and-icontrol-rest-vulnerabilities-and-exposures/, CSRF
 - https://www.zerodayinitiative.com/blog/2022/11/14/control-your-types-or-get-pwned-remote-code-execution-in-exchange-powershell-backend, RCE
 - https://www.oxeye.io/blog/remote-code-execution-in-spotifys-backstage, RCE
 - https://blog.sonarsource.com/checkmk-rce-chain-1/, RCE
@@ -2649,7 +2645,6 @@
 - https://apapedulimu.click/clickjacking-on-google-myaccount-worth-7500/, Clickjacking
 - https://medium.com/@rohitcoder/object-name-exposure-ing-bank-responsible-disclosure-program-1f8f808cc789, Information-disclosure
 - https://medium.com/bugbountywriteup/how-i-earned-5040-from-twitter-by-showing-a-way-to-harvest-other-users-ip-address-e9f43c931e9a, Information-disclosure
-- https://medium.com/@prial261/vine-users-private-information-disclosure-f1c55a3abbb6, IDOR
 - https://medium.com/@tim.kent/xss-in-dynamics-365-25c800aac473, XSS
 - https://medium.com/bugbountywriteup/duplicate-but-still-cool-236835685075, IDOR
 - http://codegrazer.com/blog/rsftp-to-command-injection.html, Path-traversal

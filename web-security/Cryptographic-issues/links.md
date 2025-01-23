@@ -7,3 +7,4 @@
 - https://labs.ingredous.com/2022/09/29/ecdsa-nonce-reuse/
 - https://www.shielder.com/blog/2022/09/how-to-decrypt-manage-engine-pmp-passwords-for-fun-and-domain-admin-a-red-teaming-tale/
 - http://omespino.com/write-up-twitter-bug-bounty-my-1st-bugbounty-poodle-sslv3-bug-on-multiple-twitter-smtp-servers/
+- https://www.elttam.com/blog/cracking-randomness-in-java/

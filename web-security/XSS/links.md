@@ -193,3 +193,4 @@
 - https://thesecurityexperts.wordpress.com/2019/07/11/xss-on-google-custom-search-engine/
 - https://aidilarf.medium.com/first-valid-bug-finding-at-microsoft-and-i-got-the-acknowledgments-page-microsoft-a2c185c53074
 - https://quitten.github.io/Aliexpress/
+- https://medium.com/supakiad-s-m3ez/microsoft-bug-reports-lead-to-ranking-on-microsoft-msrc-quarterly-leaderboard-q3-2022-c6c9f70e2ccd

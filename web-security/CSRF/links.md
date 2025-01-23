@@ -68,3 +68,4 @@
 - https://www.seekurity.com/blog/general/topcoder-vulnerabilities-a-tail-of-site-wide-bugs-leads-to-accounts-compromise-payments-hijacking/
 - https://www.josipfranjkovic.com/blog/facebook-csrf-full-account-takeover
 - https://blog.sagarvd.me/2018/09/youtube-csrf.html
+- https://www.rapid7.com/blog/post/2022/11/16/cve-2022-41622-and-cve-2022-41800-fixed-f5-big-ip-and-icontrol-rest-vulnerabilities-and-exposures/
