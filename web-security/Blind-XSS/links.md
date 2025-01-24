@@ -15,3 +15,4 @@
 - https://blog.saycure.io/2019/01/24/antihack-xss-2-php-upload/
 - https://medium.com/@mohammed01550038865/hello-hackers-a229fb5c821b
 - https://mhmdiaa.com/blog/spotify-blind-xss/
+- https://yaseenzubair.medium.com/blind-xss-in-email-field-1000-bounty-b19b25a23236

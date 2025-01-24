@@ -2,3 +2,4 @@
 - https://medium.com/@kunal94/indirect-uxss-issues-on-a-private-integrated-browser-219f6b809b6c
 - https://blog.cyberxplore.com/how-we-are-able-to-hack-any-company-by-sending-message-20000-bounty-cve-2021-34506/
 - https://blog.oversecured.com/Evernote-Universal-XSS-theft-of-all-cookies-from-all-sites-and-more/
+- https://bugs.chromium.org/p/chromium/issues/detail?id=1040755

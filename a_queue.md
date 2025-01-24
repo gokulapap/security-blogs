@@ -253,7 +253,6 @@
 - https://frycos.github.io/vulns4free/2023/06/18/fortinac.html, RCE
 - https://hunter-55.medium.com/from-bug-bounty-hunter-to-risk-analyst-my-cybersecurity-journey-at-deloitte-56e7835619e4, Account-takeover
 - https://medium.com/@MalFuzzer/one-electron-to-rule-them-all-dc2e9b263daf, Electron
-- https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/brute-forcing-butterflymx-virtual-keys-and-hacking-time-limits/, Bruteforce
 - https://medium.com/@ferferof/pii-data-leakage-and-us-1500-bounty-af676350fb76, Information-disclosure
 - https://infosecwriteups.com/sql-injection-in-the-http-custom-header-fd117ba1435e, SQL-injection
 - https://orca.security/resources/blog/examining-two-xss-vulnerabilities-in-azure-services/, XSS
@@ -594,7 +593,6 @@
 - https://crypt0g30rgy.github.io/post/PaymentBypassOne, Payment-bypass
 - https://medium.com/@LogicalHunter/identity-aware-proxy-misconfiguration-google-cloud-vulnerability-813d2a07a4ed, CORS-misconfiguration
 - https://3sjay.github.io/2023/01/06/pandoraFMS-Pre-Auth-RCE.html, RCE
-- https://yaseenzubair.medium.com/blind-xss-in-email-field-1000-bounty-b19b25a23236, Blind-XSS
 - https://blog.abdulrah33m.com/prototype-pollution-in-python/, Prototype-pollution
 - https://labs.nettitude.com/blog/cve-2022-25026-cve-2022-25027-vulnerabilities-in-rocket-trufusion-enterprise/, Authentication-bypass
 - https://www.sonarsource.com/blog/cacti-unauthenticated-remote-code-execution/, RCE
@@ -1818,7 +1816,6 @@
 - https://saugatpokharel.medium.com/this-is-how-i-was-able-to-view-anyones-private-email-and-birthday-on-instagram-1469f44b842b, Information-disclosure
 - https://vivekps143.medium.com/facebook-bug-bounty-finding-the-hidden-members-of-the-private-events-977dc1784ff9, Information-disclosure
 - https://galnagli.com/Samsung_Exposure/, Information-disclosure
-- https://virdoexhunter.medium.com/misconfigured-s3-bucket-leads-to-sensitive-data-exposure-no-super-controls-f47e26b586c6, AWS-misconfiguration
 - https://marxchryz.medium.com/my-bug-bounty-journey-and-my-first-critical-bug-time-based-blind-sql-injection-aa91d8276e41, SQL-injection
 - https://lf.lc/vrp/175896812/, RCE
 - https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/d-link-multiple-security-vulnerabilities-leading-to-rce/, RCE
@@ -2020,7 +2017,6 @@
 - https://medium.com/@b3twise/how-i-found-10-remote-code-execution-in-10-minutes-cve-2020-5902-3def1aa29e9b, RCE
 - https://xvnpw.github.io/posts/from-dot-in-regex-to-ssrf-part-3/, SSRF
 - https://web.archive.org/web/20200821010435/https://medium.com/@Alone_Wwolf/how-i-was-able-to-bypass-email-confirm-p4-e17af66a4eb0, Information-disclosure
-- https://bugs.chromium.org/p/chromium/issues/detail?id=1040755, Universal-XSS
 - https://medium.com/@yaala/make-featured-product-in-any-video-ec2bd4816ae4, IDOR
 - https://medium.com/@alyanwar/taking-over-files-in-a-chat-idor-in-microsoft-teams-e5289c2efd0, IDOR
 - https://medium.com/@daoud_youssef/from-host-header-injection-to-sql-injection-e7c61a61b575, Host-header-injection
@@ -2306,7 +2302,6 @@
 - https://web.archive.org/web/20220826045457/https://blog.bi.tk/chrome-cors/, Caching-issue
 - https://medium.com/@masonhck357/chains-on-chains-chaining-several-idors-into-account-takeover-part-one-373627f2910f, IDOR
 - https://blog.sagarvd.me/2019/11/taking-over-facebook-page-tabs.html, Broken-link-hijacking
-- https://web.archive.org/web/20200908050502/https://kntx.xyz/Blind-SSRF-due-to-Sentry-Misconfiguration/, SSRF
 - https://terjanq.github.io/Bug-Bounty/Google/cache-attack-06jd2d2mz2r0/index.html, XS-Search
 - https://blog.teddykatz.com/2019/11/12/github-actions-dos.html, DoS
 - https://fletchto99.dev/2019/november/slack-vulnerability/, CSS-injection
