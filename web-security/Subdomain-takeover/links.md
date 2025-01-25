@@ -41,3 +41,4 @@
 - https://medium.com/@the_null_kid/subdomain-takeover-and-text-injection-on-a-404-error-page-100-bounty-e47ccf359e6b
 - https://labs.ingredous.com/2022/05/25/hijacking-over-100k-godaddy-websites/
 - https://www.arneswinnen.net/2016/11/authentication-bypass-on-sso-ubnt-com-via-subdomain-takeover-of-ping-ubnt-com/
+- https://nvk0x.medium.com/how-i-hijacked-12-subdomains-in-one-program-eea468bcd64f

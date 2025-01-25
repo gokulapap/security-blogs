@@ -1,0 +1,1 @@
+- https://www.nc-lp.com/blog/searching-for-xss-found-ldap-injection

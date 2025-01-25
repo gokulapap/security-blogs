@@ -36,7 +36,6 @@
 - https://medium.com/@jjainam16/otp-verification-bypass-15312498fe10, bypass
 - https://medium.com/@noob3xploiter/hacking-into-school-management-systems-reflected-xss-to-rce-74880c423024, XSS
 - https://medium.com/@techkalam/execute-mongo-shell-commands-in-javascript-file-862dcf45aad6, tricks
-- https://medium.com/@sandh0t/the-bad-twin-a-peculiar-case-of-jwt-exploitation-scenario-1efa03e891c0, JWT
 - https://medium.com/@sahandami/find-xss-in-wide-scope-with-kxss-91f9573883c4, XSS
 - https://medium.com/@sushantdhopat/how-i-able-to-perform-open-redirection-lead-to-full-account-takeover-6a624210c5e0, open-redirection
 - https://medium.com/@musab_alharany/10-ways-to-exploit-json-web-token-jwt-ac5f4efbc41b, JWT
@@ -1608,7 +1607,6 @@
 - https://n3t-hunt3r.medium.com/finding-my-first-critical-web-cache-poisoning-6f956799371c, Web-cache-poisoning
 - https://feed.bugs.xdavidhu.me/bugs/0006, Path-traversal
 - https://www.fortbridge.co.uk/research/drupal-insecure-default-leads-to-password-reset-poisoning/, Password-reset
-- https://nvk0x.medium.com/how-i-hijacked-12-subdomains-in-one-program-eea468bcd64f, Subdomain-takeover
 - https://infosecwriteups.com/2fa-bypass-via-forced-browsing-9e511dfdb8df, MFA-bypass
 - https://galnagli.com/Mass_Assignment/, Mass-assignment
 - https://ysamm.com/?p=695, Reflected-XSS
@@ -2489,7 +2487,6 @@
 - https://medium.com/@ZishanAdThandar/just-5-minute-to-get-my-2nd-stored-xss-on-edmodo-com-fe2ee559e00d, Stored-XSS
 - https://medium.com/@valeriyshevchenko/how-i-hacked-vending-machine-5b5a80bd5ffe, Violation-of-secure-design-principles
 - https://medium.com/@daniel.marad/post-komodosec-google-groups-authorization-bypass-500-bounty-adb371d16ab6, Authorization-flaw
-- https://blog.ettic.ca/the-outlook-winner-is-dash-ac15dbc4098d, Authorization-flaw
 - https://medium.com/@kunal94/web-cache-deception-to-api-endpoint-attack-using-cached-token-header-b01a604a5ccd, Web-cache-deception
 - https://web.archive.org/web/20200929013706/https://www.mohamedharon.com/2019/04/apache-strust-rce.html, RCE
 - https://medium.com/@mrnikhilsri/unauthenticated-account-takeover-through-http-leak-33386bb0ba0b, HTML-injection
@@ -2570,7 +2567,6 @@
 - https://ysamm.com/?p=60, IDOR
 - https://ysamm.com/?p=50, Logic-flaw
 - https://ysamm.com/?p=45, IDOR
-- https://ysamm.com/?p=38, Bruteforce
 - https://ysamm.com/?p=35, IDOR
 - https://ysamm.com/?p=12, XSS
 - https://medium.com/@ritishkumarsingh/facebook-vulnerability-unremovable-facebook-group-admin-2cbf4faf55c1, Logic-flaw
@@ -2777,7 +2773,6 @@
 - https://blog.ayoubaitelmokhtar.com/2018/06/paypal-bbp-i-couldve-deleted-all-smc.html, CSRF
 - https://medium.com/@adrien_jeanneau/how-i-was-able-to-list-some-internal-information-from-paypal-bugbounty-ca8d217a397c, Expression-Language-Injection
 - https://medium.com/@logicbomb_1/bugbounty-database-hacked-of-indias-popular-sports-company-bypassing-host-header-to-sql-7b9af997c610, SQL-injection
-- https://www.nc-lp.com/blog/searching-for-xss-found-ldap-injection, LDAP-injection
 - https://medium.com/@khaled.hassan/are-you-sure-this-is-a-trusted-email-291121028320, Open-mail-relay
 - https://thehackerblog.com/reading-your-emails-with-a-readwrite-chrome-extension-same-origin-policy-bypass-8-million-users-affected/index.html, SOP-bypass
 - http://www.shawarkhan.com/2018/06/getting-php-code-execution-and-leverage.html, Code-injection

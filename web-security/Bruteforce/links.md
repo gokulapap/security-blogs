@@ -14,3 +14,4 @@
 - https://medium.com/@vishnu0002/attacking-postgresql-database-834a9a3471bc
 - https://ret2got.wordpress.com/2017/10/05/how-i-could-have-mass-uploaded-from-every-flickr-account/
 - https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/brute-forcing-butterflymx-virtual-keys-and-hacking-time-limits/
+- https://ysamm.com/?p=38

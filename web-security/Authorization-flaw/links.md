@@ -74,3 +74,4 @@
 - https://medium.com/@baibhavanandjha/sending-message-as-page-being-an-analyst-advertiser-eb0317376f43
 - https://servicenger.com/blog/mobile/perform-substring-search-for-emails-even-if-workplace-admin-hides-email-profile-field/
 - https://medium.com/@vflexo/invitation-hijacking-4d6467f418cc
+- https://blog.ettic.ca/the-outlook-winner-is-dash-ac15dbc4098d
