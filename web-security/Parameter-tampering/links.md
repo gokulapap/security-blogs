@@ -2,3 +2,4 @@
 - https://avatao.com/blog-how-i-could-have-stolen-your-photos-from-google-my-first-3-bug-bounty-writeups/
 - https://blog.securitybreached.org/2020/01/26/improper-input-validation-add-custom-text-and-urls-in-sms-send-by-snapchat-bug-bounty-poc/
 - https://b3nac.com/posts/2019-09-02-Spear-Texting-Via-Parameter-Injection.html
+- https://medium.com/@suneets1ngh/parameter-tampering-ddd9b3de0da8

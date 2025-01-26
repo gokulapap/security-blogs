@@ -55,3 +55,4 @@
 - https://nasbench.medium.com/lolbined-finding-lolbins-in-av-uninstallers-bf29427d3cd8
 - https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/huawei-lte-usb-stick-e3372-file-overwrite-to-code-execution/
 - https://sector7.computest.nl/post/2022-07-opc-ua-net-standard-trusted-application-check-bypass/
+- https://pentera.io/blog/vscalation-cve-2021-22015-local-privilege-escalation-in-vmware-vcenter-pentera-labs/

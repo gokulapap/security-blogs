@@ -1083,7 +1083,6 @@
 - https://breakpoint.sh/posts/snyk-code-broken-access-control, Path-traversal
 - https://cyllective.com/blog/post/research_audit_wordpress_plugins/, SQL-injection
 - https://blog.ret2.io/2022/05/19/pwn2own-2021-parallels-desktop-exploit/, Memory-corruption
-- https://jspin.re/variant-cloud-analysis/, Default-credentials
 - https://evowizz.dev/blog/huawei-appgallery-vulnerability, Payment-bypass
 - https://blog.stazot.com/stealing-google-drive-oauth-tokens-from-dropbox/, CSRF
 - https://infosecwriteups.com/bypassing-waf-to-weaponize-a-stored-xss-ff9963c421ee, Stored-XSS
@@ -1418,7 +1417,6 @@
 - https://sapt.medium.com/bypassing-403-protection-to-get-pagespeed-admin-access-822fab64c0b3, 403-bypass
 - https://encodedguy.medium.com/600-for-idor-file-or-folder-download-243166452dad, IDOR
 - https://rishuranjanofficial.medium.com/html-injection-in-itunesconnect-apple-com-3f8a898f21ee, HTML-injection
-- https://pentera.io/blog/vscalation-cve-2021-22015-local-privilege-escalation-in-vmware-vcenter-pentera-labs/, Local-Privilege-Escalation
 - https://blog.tint0.com/2021/09/pinging-xmlsec.html, XSLT
 - https://sinsinology.medium.com/expect-the-unexpected-discovering-fresh-zeroday-for-bounty-d074f3175847, Logic-flaw
 - https://ysamm.com/?p=729, Account-takeover
@@ -1893,7 +1891,6 @@
 - https://medium.com/@amineaboud/story-of-a-weird-vulnerability-i-found-on-facebook-fc0875eb5125, Authentication-bypass
 - https://medium.com/@pratyush1337/the-art-of-idor-7-idors-in-edm0d0-b86d683c8de9, IDOR
 - https://johnjhacking.com/blog/p1-critical-discovering-and-foiling-a-threat-actor/, Information-disclosure
-- https://medium.com/@suneets1ngh/parameter-tampering-ddd9b3de0da8, Parameter-tampering
 - https://vnhacker.blogspot.com/2020/09/advisory-security-issues-in-aws-kms-and.html, Cryptographic-issues
 - https://medium.com/bugbountywriteup/pii-leakage-via-idor-weak-passwordreset-full-account-takeover-58d159f88d73, IDOR
 - https://blog.khonggianmang.vn/vmware-workstation-attack-surface-through-virtual-printer/, Memory-corruption
@@ -2501,7 +2498,6 @@
 - https://medium.com/tenable-techblog/filezilla-untrusted-search-path-bc3a7b3ae51e, RCE
 - https://medium.com/@pratyush1337/edm0d0-idor-vulnerabilities-95ca8600ee1c, IDOR
 - https://cryptograph3r.blogspot.com/2021/02/recon-in-2-minutes-and-got-250-easy.html, Missing-secure-flag
-- https://gauravnarwani.com/a-tale-of-3-xss/, XSS
 - https://medium.com/h4x00r/my-very-first-bug-a-dreaded-dupe-and-then-an-idor-jackpot-d01b69f6fbae, IDOR
 - https://hackademic.co.in/youtube-bug/, CSRF
 - https://blog.usejournal.com/an-unusal-bug-on-braintree-paypal-b8d3ec662414, DoS
@@ -3027,7 +3023,6 @@
 - https://medium.com/bugbountywriteup/how-i-got-listed-in-microsoft-hall-of-fame-8f96ca4535c2, IDOR
 - https://blog.evanricafort.com/2015/12/arbitary-file-upload-vulnerability-in.html, Unrestricted-file-upload
 - https://web.archive.org/web/20180322133921/http://codel10n.com/how-to-hack-payu-buy-10x-more-same-price/, RCE
-- https://medium.com/@r0t1v/open-redirect-in-linkedin-and-yahoo-a3ffd2a9cc48, Open-redirect
 - http://mahmoudsec.blogspot.com/2015/09/how-i-found-xss-vulnerability-in-google.html, XSS
 - https://www.rcesecurity.com/2015/09/cve-2014-7216-a-journey-through-yahoos-bug-bounty-program/, Buffer-Overflow
 - https://thezerohack.com/hacking-facebook-pages, Authorization-flaw
