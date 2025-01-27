@@ -182,3 +182,4 @@
 - https://www.flashback.sh/blog/weekend-destroyer-wd-pr4100-rce
 - https://sector7.computest.nl/post/2022-10-iconics-genesis64/
 - https://blog.redforce.io/attacking-helpdesks-part-1-rce-chain-on-deskpro-with-bitdefender-as-case-study/
+- https://medium.com/@emirpolat/cve-2022-36446-webmin-1-997-7a9225af3165

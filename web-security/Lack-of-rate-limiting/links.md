@@ -6,3 +6,4 @@
 - https://infosecwriteups.com/10-golden-minutes-for-taking-over-a-chess-com-account-56e73f7c5f0d
 - https://takester.medium.com/my-first-and-last-crit-of-2020-on-hackerone-702a694781b0
 - https://medium.com/@circleninja/facebook-informative-bug-from-triaged-76738e4d5938
+- https://medium.com/@girishbo58/rate-limit-bypass-at-readme-com-35c4fb0c7f85

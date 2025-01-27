@@ -1,2 +1,3 @@
 - https://ysamm.com/?p=363
 - https://sh1yo.art/post/websocket_hijacking/
+- https://cirius.medium.com/peeping-through-a-web-socket-936ed55a2c31
