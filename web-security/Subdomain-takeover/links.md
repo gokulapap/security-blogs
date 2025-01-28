@@ -42,3 +42,5 @@
 - https://labs.ingredous.com/2022/05/25/hijacking-over-100k-godaddy-websites/
 - https://www.arneswinnen.net/2016/11/authentication-bypass-on-sso-ubnt-com-via-subdomain-takeover-of-ping-ubnt-com/
 - https://nvk0x.medium.com/how-i-hijacked-12-subdomains-in-one-program-eea468bcd64f
+- https://blog.securitybreached.org/2018/09/24/subdomain-takeover-via-unsecured-s3-bucket/
+- https://medium.com/@omaidfaizyar/my-weirdest-bug-bounty-getting-pii-from-o365-b4477f4739e

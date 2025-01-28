@@ -1,0 +1,1 @@
+- https://blog.sonarsource.com/gocd-pre-auth-pipeline-takeover

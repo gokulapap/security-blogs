@@ -1372,7 +1372,6 @@
 - https://www.microsoft.com/security/blog/2021/10/28/microsoft-finds-new-macos-vulnerability-shrootless-that-could-bypass-system-integrity-protection/, SIP-bypass
 - https://omespino.com/write-up-xss-stored-in-api-media-atlassian-com-via-doc-file-ios/, Stored-XSS
 - https://shubhamchaskar.com/xxe-to-ntlm/, XXE
-- https://blog.sonarsource.com/gocd-pre-auth-pipeline-takeover, Broken-authentication
 - https://web.archive.org/web/20211216032639/https://xelkomy.medium.com/easy-ssrf-from-wayback-machine-edf946486120, SSRF
 - https://darrenmartyn.ie/2021/10/27/zimbra-zmslapd-local-root-exploit/, Local-Privilege-Escalation
 - https://r0ckinxj3.wordpress.com/2021/10/24/a-7500-google-sites-idor/, IDOR
@@ -2165,7 +2164,6 @@
 - https://honoki.net/2020/03/18/xxe-scape-through-the-front-door-circumventing-the-firewall-with-http-request-smuggling/, XXE
 - https://medium.com/@manasjha7965/weak-session-validation-bug-let-you-login-even-after-changing-the-session-ids-and-logging-out-from-4bb3ee29a598, Logic-flaw
 - https://medium.com/@ozguralp/using-vulnerability-analytics-feature-like-a-boss-655fc1f1543b, SSRF
-- https://medium.com/@omaidfaizyar/my-weirdest-bug-bounty-getting-pii-from-o365-b4477f4739e, Subdomain-takeover
 - https://medium.com/bugbountywriteup/blocked-user-can-send-notification-due-to-logical-bug-in-instagram-first-instagram-bug-2bd09aa52f14, Logic-flaw
 - http://carnal0wnage.attackresearch.com/2020/03/what-is-your-gcp-infra-worthabout-700.html, Information-disclosure
 - https://web.archive.org/web/20200511115634/https://medium.com/@godofdarkness.msf/users-email-disclosure-via-invalid-password-reset-link-250-c431ed46680e, Password-reset
@@ -2246,7 +2244,6 @@
 - https://medium.com/bugbountywriteup/effortlessly-finding-cross-site-script-inclusion-xssi-jsonp-for-bug-bounty-38ae0b9e5c8a, XSSI
 - https://medium.com/nassec-cybersecurity-writeups/bypassing-brand-collabs-manager-eligibility-7d26523da816, Authorization-flaw
 - https://smaranchand.com.np/2019/12/subdomain-takeover-via-pantheon/, Subdomain-takeover
-- https://web.archive.org/web/20210116173906/https://strynx.org/insecure-crypto-code-execution/, SQL-injection
 - https://medium.com/bugbountywriteup/graphql-idor-leads-to-information-disclosure-175eb560170d, IDOR
 - https://web.archive.org/web/20200320111950/https://medium.com/@sainttobs/csrf-token-bypasss-a-tale-of-my-2k-bug-ff7f51166ea1, CSRF
 - https://medium.com/bugbountywriteup/from-broken-link-to-sub-folder-takeover-on-bukalapak-3aa985e622c4, AWS-misconfiguration
@@ -2667,7 +2664,6 @@
 - https://medium.com/@logicbomb_1/bugbounty-from-finding-jenkins-instance-to-command-execution-secure-your-jenkins-instance-9bd1e75c2288, RCE
 - https://medium.com/@ratnadip1998/how-i-got-4000-from-visma-for-rce-d541e6042086, RCE
 - https://medium.com/@rahulraveendran06/weaponizing-xss-attacking-internal-domains-d8ba1cbd106d, Blind-XSS
-- https://blog.securitybreached.org/2018/09/24/subdomain-takeover-via-unsecured-s3-bucket/, Subdomain-takeover
 - https://medium.com/@efkan162/how-i-xssed-uber-and-bypassed-csp-9ae52404f4c5, Reflected-XSS
 - https://nirmaldahal.com.np/posts/2019/11/r-xss-leading-csrf-bypass-to-account-takeover/, Reflected-XSS
 - https://websecblog.com/vulns/bypassing-firebase-authorization-to-create-custom-goo-gl-subdomains/, Logic-flaw
@@ -2981,7 +2977,6 @@
 - https://blog.evanricafort.com/2016/09/xss-vulnerability-in-twitter.html, XSS
 - https://blog.zsec.uk/persisting-pornhub/, Stored-XSS
 - https://ahussam.me/Vine-Reauth-Bypass, Authentication-flaw
-- https://github.com/cymtrick/lol/blob/d17ed765129b26a1bf8060757e5aebd4e237c908/_posts/2016-09-20-Facebook-partners-CSRF.md, CSRF
 - http://blog.rakeshmane.com/2016/09/bug-bounty-account-takeover.html, OAuth
 - https://web.archive.org/web/20200817171403/https://whitehatnepal.tumblr.com/post/150381068912/how-i-snooped-into-your-private-slack-messages, Subdomain-takeover
 - https://web.archive.org/web/20200819161533/https://whitehatnepal.tumblr.com/post/149937173467/pornhub-email-confirmation-bypass, Email-verification-bypass
