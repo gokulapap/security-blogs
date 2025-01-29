@@ -156,3 +156,4 @@
 - https://medium.com/@aravindb26/my-first-apple-bug-and-my-first-writeup-8a833e8e953c
 - https://infosecwriteups.com/i-mean-idor-is-not-only-about-others-id-2d26115072ba
 - https://medium.com/@prial261/vine-users-private-information-disclosure-f1c55a3abbb6
+- https://tuhin1729.medium.com/account-takeover-via-access-token-leakage-687276953408

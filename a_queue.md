@@ -543,7 +543,6 @@
 - https://medium.com/@abhisekr/discovered-a-critical-idor-and-earned-900-for-my-first-p1-vulnerability-57c1e72f42c1, IDOR
 - https://www.jhaddix.com/post/the-100-million-person-data-disclosure, IDOR
 - https://medium.com/@DrakenKun/how-i-was-able-to-find-4-cross-site-scripting-xss-on-vulnerability-disclosure-program-e2f39199ae16, XSS
-- https://ysamm.com/?p=779, DOM-XSS
 - https://ysamm.com/?p=777, Account-takeover
 - https://akashc99.medium.com/bypassing-account-lockout-through-password-reset-functionality-8ff5c256f380, Rate-limiting-bypass
 - https://hacksys.io/blogs/adobe-reader-resetform-cagg-rce-cve-2023-21608, Memory-corruption
@@ -952,7 +951,6 @@
 - https://swarm.ptsecurity.com/researching-open-source-apps-for-xss-to-rce-flaws/, XSS
 - https://github.blog/2022-07-27-corrupting-memory-without-memory-corruption/, Memory-corruption
 - https://medium.com/tinder/exploiting-github-actions-on-open-source-projects-5d93936d189f, RCE
-- https://shahjerry33.medium.com/http-parameter-pollution-its-contaminated-again-95c75b0295e1, HTTP-parameter-pollution
 - https://pentest.blog/advisory-roxy-wi-unauthenticated-remote-code-executions-cve-2022-31137/, RCE
 - https://claroty.com/team82/blog/with-management-comes-risk-finding-flaws-in-filewave-mdm, Authentication-bypass
 - https://medium.com/@talhakarakumru/how-i-gained-access-to-a-finance-companys-accounts-session-hijacking-2c6c5d9d84bd, Session-fixation
@@ -1477,7 +1475,6 @@
 - https://www.upguard.com/breaches/power-apps, Information-disclosure
 - https://medium.com/@nehpatel/story-of-unexpected-bugs-75734d51ac57, IDOR
 - https://web.archive.org/web/20210909040725/https://obsrva.org/2021/08/22/monkeytype-disclosure.html, Stored-XSS
-- https://tuhin1729.medium.com/account-takeover-via-access-token-leakage-687276953408, IDOR
 - https://zemnmez.medium.com/how-to-hack-apple-id-f3cc9b483a41, XSS
 - https://blog.melbadry9.xyz/dangling-dns/xyz-services/ddns-announcekit, Subdomain-takeover
 - https://tiszka.com/blog/CVE_2021_21225.html, Browser-hacking
@@ -2164,7 +2161,6 @@
 - https://honoki.net/2020/03/18/xxe-scape-through-the-front-door-circumventing-the-firewall-with-http-request-smuggling/, XXE
 - https://medium.com/@manasjha7965/weak-session-validation-bug-let-you-login-even-after-changing-the-session-ids-and-logging-out-from-4bb3ee29a598, Logic-flaw
 - https://medium.com/@ozguralp/using-vulnerability-analytics-feature-like-a-boss-655fc1f1543b, SSRF
-- https://medium.com/bugbountywriteup/blocked-user-can-send-notification-due-to-logical-bug-in-instagram-first-instagram-bug-2bd09aa52f14, Logic-flaw
 - http://carnal0wnage.attackresearch.com/2020/03/what-is-your-gcp-infra-worthabout-700.html, Information-disclosure
 - https://web.archive.org/web/20200511115634/https://medium.com/@godofdarkness.msf/users-email-disclosure-via-invalid-password-reset-link-250-c431ed46680e, Password-reset
 - https://philippeharewood.com/generate-valid-signatures-for-fbcdn-urls/, Logic-flaw
@@ -2242,7 +2238,6 @@
 - https://medium.com/bug-bounty-hunting/facebook-bug-bounty-story-x000-for-an-information-disclosure-bug-f0c0d19d7815, Information-disclosure
 - https://sasi2103.blogspot.com/2019/12/drop-mic-no-drop-connection.html, DOM-XSS
 - https://medium.com/bugbountywriteup/effortlessly-finding-cross-site-script-inclusion-xssi-jsonp-for-bug-bounty-38ae0b9e5c8a, XSSI
-- https://medium.com/nassec-cybersecurity-writeups/bypassing-brand-collabs-manager-eligibility-7d26523da816, Authorization-flaw
 - https://smaranchand.com.np/2019/12/subdomain-takeover-via-pantheon/, Subdomain-takeover
 - https://medium.com/bugbountywriteup/graphql-idor-leads-to-information-disclosure-175eb560170d, IDOR
 - https://web.archive.org/web/20200320111950/https://medium.com/@sainttobs/csrf-token-bypasss-a-tale-of-my-2k-bug-ff7f51166ea1, CSRF

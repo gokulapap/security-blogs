@@ -108,3 +108,4 @@
 - https://www.seekurity.com/blog/general/business-logic-vulnerabilities-series-a-brief-on-abusing-invitation-systems/
 - https://medium.com/@lukeberner/how-i-abused-2fa-to-maintain-persistence-after-a-password-change-google-microsoft-instagram-7e3f455b71a1
 - https://medium.com/bug-bounty-hunting/facebook-bug-invite-user-to-like-a-page-even-after-they-decline-the-page-like-invite-f83d9ec845b3
+- https://medium.com/bugbountywriteup/blocked-user-can-send-notification-due-to-logical-bug-in-instagram-first-instagram-bug-2bd09aa52f14

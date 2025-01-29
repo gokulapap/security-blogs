@@ -1,1 +1,2 @@
 - https://medium.com/the-volatile-triad/hacking-tamper-with-the-url-parameters-especially-if-they-modify-the-page-7edf158c8db9
+- https://shahjerry33.medium.com/http-parameter-pollution-its-contaminated-again-95c75b0295e1
