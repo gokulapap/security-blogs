@@ -1,2 +1,3 @@
 - https://sternumiot.com/iot-blog/mini-smart-plug-v2-vulnerability-buffer-overflow/
 - https://www.klogixsecurity.com/scorpion-labs-blog/anatomy-of-an-iot-exploit-from-hands-on-to-rce
+- https://claroty.com/team82/research/triple-threat-breaking-teltonika-routers-three-ways

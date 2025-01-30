@@ -76,3 +76,5 @@
 - https://medium.com/@vflexo/invitation-hijacking-4d6467f418cc
 - https://blog.ettic.ca/the-outlook-winner-is-dash-ac15dbc4098d
 - https://medium.com/nassec-cybersecurity-writeups/bypassing-brand-collabs-manager-eligibility-7d26523da816
+- https://medium.com/bugbountywriteup/how-i-found-a-simple-bug-in-facebook-without-any-test-3bc8cf5e2ca2
+- https://www.vulnano.com/2020/07/global-grant-uri-in-android-80-90-2018.html

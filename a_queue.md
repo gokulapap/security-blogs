@@ -300,7 +300,6 @@
 - https://onekey.com/blog/security-advisory-wago-unauthenticated-remote-command-execution/, RCE
 - https://web.archive.org/web/20230515045300/https://www.kaytaq.com/uncategorized/bypassing-open-redirect-protection-site-wide-on-web2py-applications/, Open-redirect
 - https://the-deniss.github.io/posts/avast-privileged-arbitrary-file-create-on-restore/, TOCTOU
-- https://claroty.com/team82/research/triple-threat-breaking-teltonika-routers-three-ways, IoT
 - https://redcanary.com/blog/gatekeeper-bypass-vulnerabilities/, GateKeeper-bypass
 - https://www.sonarsource.com/blog/pimcore-one-click-two-security-vulnerabilities/, Path-traversal
 - https://neodyme.io/blog/csgo_from_zero_to_0day/, Game-hacking
@@ -1997,7 +1996,6 @@
 - https://philippeharewood.com/see-whether-a-hackercup-facebook-participant-allows-recruitment-contact/, Information-disclosure
 - https://medium.com/@danlyt74/remote-denial-of-service-with-chrome-82638507a87f, DoS
 - https://vj0shii.github.io/exploiting-application-logic-to-referral-code-disclosure/, Logic-flaw
-- https://www.vulnano.com/2020/07/global-grant-uri-in-android-80-90-2018.html, Authorization-flaw
 - https://medium.com/@pig.wig45/from-n-a-to-resolved-for-backblaze-android-app-hackerone-platform-bucket-takeover-f817692a590, Hardcoded-credentials
 - https://medium.com/@dheerajkmadhukar/journey-from-low-to-critical-bug-2ab98db2eec1, IDOR
 - https://medium.com/@b3twise/how-i-found-10-remote-code-execution-in-10-minutes-cve-2020-5902-3def1aa29e9b, RCE
@@ -2405,7 +2403,6 @@
 - https://medium.com/@ritishkumarsingh/facebook-vulnerability-unremovable-co-host-in-facebook-group-events-13a9ea28b302, Logic-flaw
 - https://medium.com/@osamaavvan/account-taker-with-clickjacking-ace744842ec3, Clickjacking
 - https://visat.me/security/reflected-xss-in-tokopedia-train-ticket/, Reflected-XSS
-- https://smaranchand.com.np/2019/06/parameter-pollution-issue-in-api-resulting-xxx/, HTTP-parameter-pollution
 - https://medium.com/@saadahmedx/sql-injection-c87a390afdd3, SQL-injection
 - https://medium.com/@osamaavvan/bypassing-xss-filter-and-stealing-user-credit-card-data-100f247ed5eb, XSS
 - https://medium.com/@Vibhurushi_Chotaliya/password-bypass-and-something-else-cded0847c9df, Authentication-bypass
@@ -2538,7 +2535,6 @@
 - https://dannewitz.ninja/posts/detecting-and-exploiting-mass-assignments, Mass-assignment
 - https://medium.com/@rupika.luhach/how-i-was-able-to-extract-information-of-other-users-exploiting-idor-9f03aa72dd06, IDOR
 - https://offensi.com/2019/01/31/lfi-in-apigee-portals, LFI
-- https://medium.com/bugbountywriteup/how-i-found-a-simple-bug-in-facebook-without-any-test-3bc8cf5e2ca2, Authorization-flaw
 - https://medium.com/@kedrisec/publish-tweets-by-any-other-user-6c9d892708e3, IDOR
 - https://blog.detectify.com/2019/01/29/hacking-isnt-an-exact-science/, Authorization-flaw
 - https://medium.com/@ChandSingh/protonmail-xss-stored-b733031ac3b5, Stored-XSS
@@ -2806,7 +2802,6 @@
 - http://www.tomanthony.co.uk/blog/google-xml-sitemap-auth-bypass-black-hat-seo-bug-bounty/, Logic-flaw
 - https://medium.com/@logicbomb_1/bugbounty-rewarded-by-securing-vulnerabilities-in-bookmyshow-indias-largest-online-movie-bb81dba9b82, Host-header-injection
 - https://medium.com/@Alra3ees/google-adwords-3133-7-stored-xss-27bb083b8d27, Stored-XSS
-- https://labs.detectify.com/2018/03/14/graphql-abuse/, GraphQL
 - https://s1gnalcha0s.github.io/dspl/2018/03/07/Stored-XSS-and-SSRF-Google.html, Stored-XSS
 - https://medium.com/bug-bounty-hunting/how-i-found-a-surprising-xss-vulnerability-on-oracle-netsuite-2d48b7fcf0c8, XSS
 - https://www.seekurity.com/blog/general/the-2-5mins-or-2-5k-hawk-eye-bug-a-facebook-pages-admins-disclosure-vulnerability/, Information-disclosure
