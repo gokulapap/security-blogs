@@ -1217,7 +1217,6 @@
 - https://medium.com/@vishnurajr/403-forbidden-bypass-accessing-config-files-using-a-header-4bd172c25ff1, 403-bypass
 - https://web.archive.org/web/20220217212342/https://castilho101.github.io/posts/cve-2022-0478-woocommerce-event-manager-plugin-sql-injection/, SQL-injection
 - https://infosecwriteups.com/my-first-reflected-xss-bug-bounty-google-dork-xxx-92ac1180e0d0, Reflected-XSS
-- https://medium.com/@chander.romesh/hacked-dutch-government-website-all-i-got-was-this-l̶o̶u̶s̶y̶-cool-t-shirt-4fd62ed3e734, Information-disclosure
 - https://swarm.ptsecurity.com/hunting-for-bugs-in-vmware-view-planner-and-vrealize-business-for-cloud/, RCE
 - https://medium.com/@yaala/trim-private-live-videos-and-access-them-a331447cc82a, IDOR
 - https://www.zerodayinitiative.com/blog/2022/2/14/static-taint-analysis-using-binary-ninja-a-case-study-of-mysql-cluster-vulnerabilities, Memory-corruption
@@ -1231,7 +1230,6 @@
 - https://onapsis.com/threat-report/icmad-sap-vulnerabilities, HTTP-request-smuggling
 - https://bloggerrando.blogspot.com/2022/02/how-can-i-access-members-only-video.html, Broken-Access-Control
 - https://wwws.nightwatchcybersecurity.com/2022/02/06/insecure-bootstrap-process-in-oracle-cloud-cli/, Supply-chain-attack
-- https://feed.bugs.xdavidhu.me/bugs/0013, Authentication-bypass
 - https://medium.com/@yaala/facebook-oauth-bypass-446a073e687d, OAuth
 - https://kailashbohara.com.np/blog/2022/02/04/bypassing-PHP-functions-to-read-system-file-copy/, Components-with-known-vulnerabilities
 - https://omespino.com/write-up-private-bug-bounty-rce-in-ec2-instance-via-ssh-with-private-key-exposed-on-public-github-repository-xx000-usd/, Information-disclosure
@@ -1491,7 +1489,6 @@
 - https://valsamaras.medium.com/size-matters-cve-2021-0485-cfa0a291f903, Local-Privilege-Escalation
 - https://philippeharewood.com/view-the-country-of-a-private-instagram-user/, Information-disclosure
 - https://philippeharewood.com/access-to-crowdtangle-deletion-framework-api/, Information-disclosure
-- https://gonzx.medium.com/how-i-found-open-redirect-on-hashnode-com-5f3e9ecb8dc6, Open-redirect
 - Youghourta Ghannei (@YoughartaG), XSS
 - https://yashswarup12.medium.com/how-the-use-of-hidden-form-fields-lead-to-email-verification-bypass-3c8d7c25bd31, Email-verification-bypass
 - https://infosecwriteups.com/how-i-scored-1k-bounty-using-waybackurls-717d9673ca52, Information-disclosure
@@ -1648,7 +1645,6 @@
 - https://sites.google.com/securifyinc.com/vrp-writeups/hire-with-google/auth-issues, Authentication-flaw
 - https://gatolouco.medium.com/critical-blind-storage-xss-my-first-bug-bounty-d318f6ba570c/, Blind-XSS
 - https://notifybugme.medium.com/chaining-an-blind-ssrf-bug-to-get-an-rce-92c09de3c0ba, Blind-SSRF
-- https://bugs.xdavidhu.me/google/2021/04/05/i-built-a-tv-that-plays-all-of-your-private-youtube-videos/, CSRF
 - https://0xra.github.io/posts/apple-tv-code-execution/, RCE
 - https://mikey96.medium.com/cloud-based-storage-misconfigurations-critical-bounties-361647f78a29, Cloud-storage-misconfiguration
 - https://www.sjoerdlangkemper.nl/2021/04/04/remote-code-execution-through-unsafe-unserialize/, Insecure-deserialization
@@ -2330,7 +2326,6 @@
 - https://philippeharewood.com/subscribe-to-the-list-of-requesters-to-join-a-facebook-live-video-using-mqtt/, Authorization-flaw
 - https://www.inputzero.io/2019/09/telegram-privacy-fails-again.html, Logic-flaw
 - https://medium.com/@osamaavvan/exploiting-jsonp-and-bypassing-referer-check-2d6e40dfa24, Information-disclosure
-- https://medium.com/@cc1h2e1/write-up-of-two-http-requests-smuggling-ff211656fe7d, HTTP-request-smuggling
 - https://hateshape.github.io/general/2019/09/06/SuperGlamorousReconwithIntendedFunctionalities.html, SSTI
 - https://web.archive.org/web/20201222140349/https://www.mohamedharon.com/2019/09/dom-based-xss-in-private-program.html, DOM-XSS
 - https://corben.io/blog/19-9-04-jenkins-to-full-pwnage, RCE

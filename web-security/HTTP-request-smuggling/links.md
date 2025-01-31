@@ -7,3 +7,4 @@
 - https://www.preludesecurity.com/blog/cve-2022-35256-http-request-smuggling-in-nodejs
 - https://medium.com/@siratsami71/the-easiest-way-i-used-to-bypass-an-admin-panel-93d4297ed4a6
 - https://hipotermia.pw/bb/http-desync-idor
+- https://medium.com/@cc1h2e1/write-up-of-two-http-requests-smuggling-ff211656fe7d
