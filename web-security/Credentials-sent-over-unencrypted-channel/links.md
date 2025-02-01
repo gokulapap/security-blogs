@@ -1,0 +1,1 @@
+- https://medium.com/@Thuva11/user-credentials-are-sent-in-clear-text-fixed-facebook-bug-bounty-7f1e05ecedd9

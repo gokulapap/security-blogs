@@ -1,1 +1,2 @@
 - https://dirkjanm.io/obtaining-domain-admin-from-azure-ad-via-cloud-kerberos-trust/
+- https://www.secureworks.com/research/azure-active-directory-flaw-allowed-saml-persistence

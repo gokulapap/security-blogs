@@ -1,1 +1,2 @@
 - https://k4m1ll0.com/ShiftF10Bypass-and-privesc.html
+- https://www.mcafee.com/blogs/other-blogs/mcafee-labs/our-experiences-participating-in-microsofts-azure-sphere-bounty-program/
