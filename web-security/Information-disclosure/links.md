@@ -165,3 +165,4 @@
 - https://medium.com/@vesirin/how-i-gained-commit-access-to-homebrew-in-30-minutes-2ae314df03ab
 - https://web.archive.org/web/20201006184247/https://www.mohamedharon.com/2018/08/reverb-api.html
 - https://medium.com/@chander.romesh/hacked-dutch-government-website-all-i-got-was-this-l̶o̶u̶s̶y̶-cool-t-shirt-4fd62ed3e734
+- https://www.upguard.com/breaches/power-apps

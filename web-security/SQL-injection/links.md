@@ -63,3 +63,4 @@
 - https://blog.stratumsecurity.com/2023/06/01/sqli-the-road-to-bypassing-an-industry-leading-waf/
 - https://ynoof.medium.com/error-based-sql-injection-on-a-wordpress-website-and-extract-more-than-150k-user-details-f65f987c2cc0
 - https://web.archive.org/web/20210116173906/https://strynx.org/insecure-crypto-code-execution/
+- https://medium.com/@kartikhunt3r/blind-time-based-sql-injection-vulnerability-in-an-indian-government-website-6bf3bb7daf25

@@ -499,7 +499,6 @@
 - https://github.com/blackarrowsec/redteam-research/tree/master/LPE%20via%20StorSvc, Local-Privilege-Escalation
 - https://mahmoudsec.blogspot.com/2023/02/sql-injection-utilizing-xml-functions.html, SQL-injection
 - https://pullerjsecu.medium.com/bypassing-cors-configurations-to-produce-an-account-takeover-for-fun-and-profit-3e50c3f2a124, CORS-misconfiguration
-- https://medium.com/@kartikhunt3r/blind-time-based-sql-injection-vulnerability-in-an-indian-government-website-6bf3bb7daf25, SQL-injection
 - https://ophionsecurity.com/blog/hacking-our-way-into-an-internal-db, JWT
 - https://theevilbit.github.io/posts/cve-2022-22655/, MacoS
 - https://medium.com/@ramkumarnadar47/zip-bomb-attack-88d84a98be9f, Zip-bomb
@@ -656,7 +655,6 @@
 - https://www.wiz.io/blog/hells-keychain-supply-chain-attack-in-ibm-cloud-databases-for-postgresql, Cloud
 - https://www.legitsecurity.com/blog/artifact-poisoning-vulnerability-discovered-in-rust, Supply-chain-attack
 - https://medium.com/bored-engineer/xss-on-account-leagueoflegends-com-via-easyxdm-2016-75bcf9d582b5, XSS
-- https://www.synacktiv.com/sites/default/files/2022-11/CodeIgniter3_XSS_2022.pdf, Reflected-XSS
 - https://medium.com/@Hossam.Mesbah/broken-access-control-misconfiguration-beautiful-privilege-escalation-e4fdfd018efa, Broken-Access-Control
 - https://medium.com/@aa.pietruczuk/improper-error-handling-leads-to-exposing-internal-tokens-3355d6b43a32, Information-disclosure
 - https://ltidi.medium.com/the-untold-sendbird-misconfigurations-1496d252bc69, Broken-Access-Control
@@ -867,7 +865,6 @@
 - https://mr23r0.medium.com/the-database-handover-a-dumb-mistake-critical-bug-f73c99e72e40, Information-disclosure
 - https://medium.com/@xJay/angularjs-client-side-template-injection-the-orderby-filter-20002ca2a0e8, CSTI
 - https://orca.security/resources/blog/synapse-local-privilege-escalation-vulnerability-spark/, Race-condition
-- https://portswigger.net/research/using-hackability-to-uncover-a-chrome-infoleak, SOP-bypass
 - https://snapsec.co/blog/Log4shell-on-agorapulse/, Log4shell
 - https://c0nqr0r.medium.com/reading-robots-txt-got-me-4-xss-reports-9fd2234c635f, XSS
 - https://www.microsoft.com/security/blog/2022/08/31/vulnerability-in-tiktok-android-app-could-lead-to-one-click-account-hijacking/, Insecure-deeplink
@@ -1049,7 +1046,6 @@
 - https://jfrog.com/blog/denial-of-service-vulnerability-in-envoy-proxy-cve-2022-29225/, Zip-bomb
 - https://www.cyberark.com/resources/threat-research-blog/extracting-clear-text-credentials-directly-from-chromium-s-memory, Browser-hacking
 - https://www.r29k.com/articles/bb/account-takeover-via-idors, IDOR
-- https://www.zerodayinitiative.com/blog/2022/6/7/cve-2022-26937-microsoft-windows-network-file-system-nlm-portmap-stack-buffer-overflow, Buffer-Overflow
 - https://security.humanativaspa.it/multiple-vulnerabilities-in-zyxel-zysh/, OS-command-injection
 - https://machevalia.blog/blog/ivanti-epm-remote-code-execution, RCE
 - https://www.zerodayinitiative.com/blog/2022/6/1/is-exploiting-a-null-pointer-deref-for-lpe-just-a-pipe-dream, Memory-corruption
@@ -1467,7 +1463,6 @@
 - https://maxwelldulin.com/BlogPost?post=7676291072, Logic-flaw
 - https://robertheaton.com/bumble-vulnerability/, Information-disclosure
 - https://medium.com/@noob.assassin/5k-misconfigured-reset-password-that-leads-to-account-takeover-no-user-interaction-ato-e6a36b8ef183, Account-takeover
-- https://www.upguard.com/breaches/power-apps, Information-disclosure
 - https://medium.com/@nehpatel/story-of-unexpected-bugs-75734d51ac57, IDOR
 - https://web.archive.org/web/20210909040725/https://obsrva.org/2021/08/22/monkeytype-disclosure.html, Stored-XSS
 - https://zemnmez.medium.com/how-to-hack-apple-id-f3cc9b483a41, XSS
