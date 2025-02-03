@@ -31,3 +31,4 @@
 - https://blog.stratumsecurity.com/2023/05/04/integration-fails/
 - https://www.praetorian.com/blog/stsgetsessiontoken-role-chaining-in-aws/
 - https://ioactive.com/discovering-and-exploiting-a-vulnerability-in-androids-personal-dictionary/
+- https://seanmelia.files.wordpress.com/2017/06/django-privilege-escalation-e28093-zero-to-superuser.pdf

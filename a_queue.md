@@ -209,7 +209,6 @@
 - http://blog.takemyhand.xyz/2023/07/remote-code-execution-in-gitlabs-cli.html, RCE
 - https://offsec.almond.consulting/windows-msiexec-eop-cve-2020-0911.html, Local-Privilege-Escalation
 - https://hazemhussien99.wordpress.com/2023/07/05/recon-only-bugs-are-sweet/, Information-disclosure
-- https://mizu.re/post/linux-local-electron-application-script-src-self-bypass#final_bypass, Electron
 - https://blog.assetnote.io/2023/07/04/citrix-sharefile-rce/, RCE
 - https://www.synacktiv.com/sites/default/files/2023-07/synacktiv-phplist-partial-file-read.pdf, Arbitrary-file-read
 - https://research.nccgroup.com/2023/07/03/technical-advisory-nullsoft-scriptable-installer-system-nsis-insecure-temporary-directory-usage/, Local-Privilege-Escalation
@@ -2124,7 +2123,6 @@
 - https://blog.doyensec.com/2020/04/08/libressl-fuzzer.html, Memory-corruption
 - https://medium.com/@D0rkerDevil/3k-bounty-for-elastic-search-takeover-70c0847d2e40, Elasticsearch-Takeover
 - https://www.rtcsec.com/2020/04/01-slack-webrtc-turn-compromise/, SSRF
-- https://web.archive.org/web/20200407121700/https://medium.com/nassec-cybersecurity-writeups/page-admin-disclosure-facebook-bug-bounty-2020-8a45cf911e24, Information-disclosure
 - https://blog.securitybreached.org/2020/04/04/playing-with-json-web-tokens-for-fun-and-profit/, Password-reset
 - https://medium.com/@pig.wig45/touch-id-authentication-bypass-on-evernote-and-dropbox-ios-apps-7985219767b2, Authentication-bypass
 - https://medium.com/@nnez/always-escalate-from-self-xss-to-persistent-xss-on-login-portal-54265b0adfd0, Self-XSS
@@ -2601,12 +2599,10 @@
 - https://apapedulimu.click/clickjacking-on-google-myaccount-worth-7500/, Clickjacking
 - https://medium.com/@rohitcoder/object-name-exposure-ing-bank-responsible-disclosure-program-1f8f808cc789, Information-disclosure
 - https://medium.com/bugbountywriteup/how-i-earned-5040-from-twitter-by-showing-a-way-to-harvest-other-users-ip-address-e9f43c931e9a, Information-disclosure
-- https://medium.com/@tim.kent/xss-in-dynamics-365-25c800aac473, XSS
 - https://medium.com/bugbountywriteup/duplicate-but-still-cool-236835685075, IDOR
 - http://codegrazer.com/blog/rsftp-to-command-injection.html, Path-traversal
 - https://medium.com/@kunal94/imagemagick-gif-coder-vulnerability-leads-to-memory-disclosure-hackerone-e9975a6a560e, Memory-leak
 - https://medium.com/bugbountywriteup/stored-xss-in-bug-bounty-13c08e6f5636, Stored-XSS
-- https://medium.com/japzdivino/bypass-hackerone-2fa-requirement-and-reporter-blacklist-46d7959f1ee5, Logic-flaw
 - https://web.archive.org/web/20181030103042/https://zseano.com/blogs/4.html, CSRF
 - https://medium.com/@plenumlab/idor-in-jwt-and-the-shortest-token-you-will-ever-see-uid-1234567890-4e02377ea03a, IDOR
 - https://blog.zimperium.com/cve-2018-9411-new-critical-vulnerability-multiple-high-privileged-android-services/, Memory-corruption
@@ -2911,7 +2907,6 @@
 - https://blog.witcoat.com/2018/05/30/xss-on-bugcrowd-and-so-many-other-websites-main-domain/, Reflected-XSS
 - https://www.seekurity.com/blog/general/metasploit-web-project-kill-all-running-tasks-csrf-cve-2017-5244/, CSRF
 - https://medium.com/bugbountywriteup/whatsapp-dos-vulnerability-in-ios-android-d896f76d3253, DoS
-- https://seanmelia.files.wordpress.com/2017/06/django-privilege-escalation-e28093-zero-to-superuser.pdf, Privilege-escalation
 - https://www.rafaybaloch.com/2017/06/stored-xss-csrf-and-clickjacking.html, Stored-XSS
 - https://www.rafaybaloch.com/2017/06/nokia-asha-series-lock-screen-bypass.html, Authentication-bypass
 - http://www.kernelpicnic.net/2017/05/29/Pivoting-from-blind-SSRF-to-RCE-with-Hashicorp-Consul.html, Blind-XSS

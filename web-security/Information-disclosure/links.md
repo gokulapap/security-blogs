@@ -166,3 +166,4 @@
 - https://web.archive.org/web/20201006184247/https://www.mohamedharon.com/2018/08/reverb-api.html
 - https://medium.com/@chander.romesh/hacked-dutch-government-website-all-i-got-was-this-l̶o̶u̶s̶y̶-cool-t-shirt-4fd62ed3e734
 - https://www.upguard.com/breaches/power-apps
+- https://web.archive.org/web/20200407121700/https://medium.com/nassec-cybersecurity-writeups/page-admin-disclosure-facebook-bug-bounty-2020-8a45cf911e24
