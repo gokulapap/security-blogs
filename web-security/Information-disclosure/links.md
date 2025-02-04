@@ -167,3 +167,4 @@
 - https://medium.com/@chander.romesh/hacked-dutch-government-website-all-i-got-was-this-l̶o̶u̶s̶y̶-cool-t-shirt-4fd62ed3e734
 - https://www.upguard.com/breaches/power-apps
 - https://web.archive.org/web/20200407121700/https://medium.com/nassec-cybersecurity-writeups/page-admin-disclosure-facebook-bug-bounty-2020-8a45cf911e24
+- https://medium.com/@valeriyshevchenko/massive-information-disclosure-of-1500-famous-people-b1b950fa657

@@ -1,0 +1,1 @@
+- https://medium.com/@zaidanr/exploiting-exposed-git-directory-without-gittools-7d3764dd3af6

@@ -142,7 +142,6 @@
 - https://medium.com/@neroli/how-we-was-able-to-takeover-whole-organization-via-privilege-escalation-4f74b31a84a6, privilege-escalation
 - https://medium.com/@AhmedMhesham/easiest-way-to-get-subdomain-takeover-76f444c8ee6f, STO
 - https://medium.com/@nidhipanchal719/open-redirect-to-xss-in-united-nation-website-f4394aa6ed04, XSS
-- https://medium.com/@zaidanr/exploiting-exposed-git-directory-without-gittools-7d3764dd3af6, misconfig
 - https://medium.com/@nmblog2135/you-can-earn-more-than-1000-if-you-know-this-vulnerability-open-redirect-vulnerabilities-b9170e88adba, open-redirection
 - https://medium.com/@Rend_/sqli-next-level-5b1145b83c79, sql-injection
 - https://medium.com/@sghosh2402/demystifying-insecure-deserialization-in-php-684cab9c4d24, deserialization
@@ -1026,7 +1025,6 @@
 - https://medium.com/@janijay007/how-i-was-able-to-see-likes-and-dislikes-count-which-is-hidden-by-victim-youtube-2-721d8e4686a5, Logic-flaw
 - https://www.cyberark.com/resources/threat-research-blog/that-pipe-is-still-leaking-revisiting-the-rdp-named-pipe-vulnerability, RCE
 - https://webs3c.com/t/csrf-leads-to-account-takeover-in-yahoo/93, CSRF
-- https://github.blog/2022-06-16-the-android-kernel-mitigations-obstacle-race/, Memory-corruption
 - https://aidilarf.medium.com/xss-blind-stored-at-asset-domain-android-apps-tiktok-ae2f4c2dbc07, Stored-XSS
 - https://fredericb.info/2022/06/breaking-secure-boot-on-google-nest-hub-2nd-gen-to-run-ubuntu.html, Hardware-hacking
 - https://labs.taszk.io/articles/post/unziploc/, Memory-corruption
@@ -1332,7 +1330,6 @@
 - https://blog.dixitaditya.com/2021/11/19/account-takeover-chain.html, Account-takeover
 - https://www.p1boom.com/2021/11/a-story-of-epic-blind-remote-code.html, RCE
 - https://feed.bugs.xdavidhu.me/bugs/0008, Privilege-escalation
-- https://omespino.com/write-up-apple-bug-bounty-n-a-arbitrary-local-file-read-via-zip-file-and-symlinks-usd/, Arbitrary-file-read
 - https://hector0x.medium.com/dos-attack-in-yahoo-how-i-was-able-to-deny-new-users-from-service-6b222e744e61, DoS
 - https://hector0x.medium.com/broken-authentication-through-referral-code-25cd0e8bccc2, Authentication-flaw
 - https://hector0x.medium.com/dos-attack-in-yahoo-how-i-was-able-to-deny-new-users-from-service-6b222e744e61, DoS
@@ -1448,7 +1445,6 @@
 - https://medium.com/pentesternepal/hacking-dutch-government-for-a-lousy-t-shirt-8e1fd1b56deb, IDOR
 - https://cho0k.com/wp-content/uploads/2021/08/FullPoC.pdf, Privilege-escalation
 - https://theshubh77.medium.com/bypassing-2-factor-authentication-for-facebook-business-manager-bounty-1000-usd-c78c858459d6, MFA-bypass
-- https://v3d.medium.com/broken-access-control-leads-to-change-of-admin-details-a783e31729c4, Privilege-escalation
 - https://itsfading.github.io/posts/I-owe-your-Request-HTTP-Request-Smuggling-leads-to-Full-Accounts-takeover/, HTTP-Request-Smuggling
 - https://blog.usamav.dev/two-account-takeover-bugs-worth-4300-dollar-bounty, Account-takeover
 - https://medium.com/@iambroot/what-would-you-do-if-oracles-mailing-server-sent-you-this-bc275b1bf967, HTML-injection
@@ -2881,7 +2877,6 @@
 - https://medium.com/securityescape/getting-access-to-25k-employees-details-c085d18b73f0, Exposed-registration-page
 - https://sites.google.com/site/testsitehacking/10k-host-header, Authorization-flaw
 - https://www.seekurity.com/blog/general/business-logic-vulnerabilities-series-how-i-became-invisible-and-immune-to-blocking-on-instagram/, Logic-flaw
-- https://medium.com/@valeriyshevchenko/massive-information-disclosure-of-1500-famous-people-b1b950fa657, Information-disclosure
 - https://medium.com/@arbazhussain/referer-based-xss-52aeff7b09e7, XSS
 - https://labs.detectify.com/2017/07/27/how-we-invented-the-tesla-dom-doom-xss/, DOM-XSS
 - https://medium.com/@zahidali_93675/disabling-new-emails-from-facebook-without-email-owner-interaction-11c979778a68, Logic-flaw
