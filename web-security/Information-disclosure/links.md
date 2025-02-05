@@ -168,3 +168,5 @@
 - https://www.upguard.com/breaches/power-apps
 - https://web.archive.org/web/20200407121700/https://medium.com/nassec-cybersecurity-writeups/page-admin-disclosure-facebook-bug-bounty-2020-8a45cf911e24
 - https://medium.com/@valeriyshevchenko/massive-information-disclosure-of-1500-famous-people-b1b950fa657
+- https://medium.com/@idan_malihi/how-i-earned-200-in-bug-bounty-program-6d7225a7ff1a
+- https://medium.com/@SkiMask0/hashing-the-favicon-ico-a498fc3d665b

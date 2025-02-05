@@ -183,3 +183,4 @@
 - https://sector7.computest.nl/post/2022-10-iconics-genesis64/
 - https://blog.redforce.io/attacking-helpdesks-part-1-rce-chain-on-deskpro-with-bitdefender-as-case-study/
 - https://medium.com/@emirpolat/cve-2022-36446-webmin-1-997-7a9225af3165
+- https://infosecwriteups.com/how-i-hacked-into-a-telecom-network-part-1-getting-the-rce-167c2bb320e6

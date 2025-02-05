@@ -1,1 +1,2 @@
 - https://blog.aquasec.com/private-packages-disclosed-via-timing-attack-on-npm
+- https://raxis.com/blog/rd-web-access-vulnerability

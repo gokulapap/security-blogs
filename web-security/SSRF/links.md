@@ -91,3 +91,4 @@
 - https://jinone.github.io/bugbounty-a-simple-ssrf/
 - https://xvnpw.github.io/posts/from-dot-in-regex-to-ssrf-part-2/
 - https://web.archive.org/web/20200908050502/https://kntx.xyz/Blind-SSRF-due-to-Sentry-Misconfiguration/
+- https://initblog.com/2019/switcheroo/

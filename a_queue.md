@@ -983,7 +983,6 @@
 - https://medium.com/@soufianehabti/write-up-1-hellosign-integration-full-read-ssrf-df5e1a5bc627, SSRF
 - https://h3k.ro/2022/07/11/bsqli/, SQL-injection
 - https://blog.lightspin.io/exploiting-eks-authentication-vulnerability-in-aws-iam-authenticator, Authentication-flaw
-- https://medium.com/@idan_malihi/how-i-earned-200-in-bug-bounty-program-6d7225a7ff1a, Information-disclosure
 - https://www.techncyber.com/2022/07/sql-injection-at-authorization-token.html, SQL-injection
 - https://hamzadzworm.medium.com/an-interesting-idor-that-allowed-me-to-see-all-projects-bounty-8cd74b5edf72, IDOR
 - https://bloggerrando.blogspot.com/2022/07/09-1.html, XSS
@@ -1249,7 +1248,6 @@
 - https://infosecwriteups.com/how-i-was-able-to-find-multiple-vulnerabilities-of-a-symfony-web-framework-web-application-2b82cd5de144, Debug-mode-enabled
 - https://coffeejunkie.me//120-Days-Of-Frequent-Hacking/, SSRF
 - https://medium.com/@quelperlado/facebook-room-deep-linking-vulnerability-allow-malicious-user-to-know-the-code-for-anyones-4761b93481f1, Insecure-deeplink
-- https://medium.com/@SkiMask0/hashing-the-favicon-ico-a498fc3d665b, Information-disclosure
 - https://srcincite.io/blog/2022/01/20/zohowned-a-critical-authentication-bypass-on-zoho-manageengine-desktop-central.html, Authentication-bypass
 - https://medium.com/@himmat1005/how-i-messed-up-my-own-profile-data-94a4b09cb54c, Authorization-flaw
 - https://www.reversemode.com/2022/01/finding-vulnerabilities-in-swiss-posts.html, Insecure-deserialization
@@ -1722,7 +1720,6 @@
 - https://sanderwind.medium.com/escalating-ssrf-to-rce-7c0147371c40, SSRF
 - http://almadj.us/infosec/xxe-to-aws-metadata-disclosure/, XXE
 - https://muhammad-aamir.medium.com/open-redirect-vulnerability-found-using-link-parameter-5fc43e2ea8fd, Open-redirect
-- https://raxis.com/blog/rd-web-access-vulnerability, Timing-attack
 - https://pullerjsecu.medium.com/how-i-was-able-to-turn-a-xss-into-a-account-takeover-ae0c478640e7, Web-cache-poisoning
 - https://sunilyedla.medium.com/stealing-chat-session-id-with-cors-and-execute-csrf-attack-f9f7ea229db1, CSRF
 - https://web.archive.org/web/20210204093332/https://nhiephon1337.medium.com/1st-facebook-bug-bounty-disclose-pages-admin-to-mod-admin-of-group-c3161c22c858, Information-disclosure
@@ -1971,7 +1968,6 @@
 - https://medium.com/@nandwanajatin25/self-stored-xss-to-full-account-takeover-fe8e71471795, XSS
 - https://medium.com/@letssimplysecure/bug-bounty-experience-unvalidated-redirection-vulnerability-eed40d91da27, Open-redirect
 - https://medium.com/bugbountywriteup/how-i-was-able-to-change-victims-password-using-idn-homograph-attack-587111843aff, IDN-homograph-attack
-- https://infosecwriteups.com/how-i-hacked-into-a-telecom-network-part-1-getting-the-rce-167c2bb320e6, RCE
 - https://medium.com/@sp2417487/a-tale-of-critical-account-take-over-e1b7c180917c, Account-takeover
 - https://medium.com/@ben.aymen.182/phone-number-validation-bypass-through-url-path-manipulation-c03721cf3676, OTP-bypass
 - https://medium.com/bugbountywriteup/dont-stop-at-one-bug-d3c56806b5, Open-redirect
@@ -2334,7 +2330,6 @@
 - https://websecblog.com/vulns/clickjacking-xss-on-google-org/, Clickjacking
 - https://medium.com/@valeriyshevchenko/two-easy-rce-in-atlassian-products-e8480eacdc7f, Credential-stuffing
 - https://medium.com/@ronak_9889/privilege-escalation-using-api-endpoint-fce841caaff3, Privilege-escalation
-- https://initblog.com/2019/switcheroo/, SSRF
 - https://medium.com/@protostar0/crlf-injection-allow-cookie-injection-in-root-domain-xss-812cd807ba5b, CRLF-injection
 - http://mahmoudsec.blogspot.com/2019/08/exploiting-out-of-band-xxe-using.html, XXE
 - https://learn.hackersid.com/2019/08/stored-xss-on-laporbugid.html, Stored-XSS
