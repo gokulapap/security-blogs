@@ -4,3 +4,4 @@
 - https://redrays.io/cve-2020-6369-patch-bypass/
 - https://medium.com/@omerkepenek/the-story-of-becoming-a-super-admin-ab32db7dd1b3
 - https://zolder.io/hacking-my-helium-crypto-miner/
+- https://medium.com/@pig.wig45/from-n-a-to-resolved-for-backblaze-android-app-hackerone-platform-bucket-takeover-f817692a590

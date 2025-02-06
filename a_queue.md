@@ -482,7 +482,6 @@
 - https://www.synacktiv.com/sites/default/files/2023-02/Synacktiv-Nokia-BTS-AirScale-Asika-Multiple-Vulnerabilities.pdf, Base-transceiver-station
 - https://blog.trailofbits.com/2023/02/21/vscode-extension-escape-vulnerability/, Path-traversal
 - https://www.praetorian.com/blog/using-crlf-injection-to-bypass-akamai-web-app-firewall/, WAF-bypass
-- https://blog.robinjust.in/gov-in/2023/02/Exposing-Indian-Citizens-Sensitive-PII-and-more/, Broken-Access-Control
 - https://jjainam16.medium.com/reflected-cross-site-scripting-awards-3500-bounty-c8a619f129a1, Reflected-XSS
 - https://www.archcloudlabs.com/projects/disabling-clamav-as-unprivileged-user/, Local-Privilege-Escalation
 - https://vengeance.medium.com/found-an-url-in-the-android-application-source-code-which-lead-to-an-idor-1b8768708756, Android
@@ -933,7 +932,6 @@
 - https://labs.jumpsec.com/zoho-manage-engine-desktop-central-sql-injection-arbitrary-file-write/, SQL-injection
 - https://canmustdie.medium.com/multiple-bugs-in-one-program-leads-to-1500-c35fcde06bc7, Privilege-escalation
 - https://medium.com/@the_null_kid/instagram-photo-was-present-in-data-backup-nearly-after-two-years-being-deleted-f0e4d6e108, Privacy-issue
-- https://gowtham-naidu.medium.com/how-i-earned-10-000-within-the-last-7-months-17y-o-edition-f566651cef82, Authorization-flaw
 - https://www.zscaler.com/blogs/security-research/analysis-adobe-acrobat-reader-javascript-docprint-use-after-free, Memory-corruption
 - https://medium.com/@mohamedtarekq/how-i-get-full-account-takeover-via-stealing-actions-login-form-xss-9e50068c2b2d, XSS
 - https://medium.com/@whitehatcyber404/how-i-earned-150-in-2-minutes-html-injection-in-email-3f26f27d3822, HTML-injection
@@ -1561,7 +1559,6 @@
 - https://frichetten.com/blog/xss_in_aws_console/, XSS
 - https://infosecwriteups.com/admin-panel-pwned-89db333f3836, Information-disclosure
 - https://justintaft.com/blog/2021/06/01/cve-2021-29084-synology-crlf-unauthenticated-file-downloads, CRLF-injection
-- https://github.com/champtar/blog/tree/main/runc-symlink-CVE-2021-30465, Kubernetes
 - https://master-sec.medium.com/the-beauty-of-chaining-client-side-bugs-759e1091eabf, CRLF-injection
 - https://web.archive.org/web/20210621221618/https://savirsuda.github.io/Github-The-Goldmine-for-P1s-and-P2s-Sensitive-Information-Exposure-via-Github-by-a-Company-Employee/, Information-disclosure
 - https://cirius.medium.com/how-i-hacked-a-target-again-and-again-6db2e462221f, OAuth
@@ -1628,7 +1625,6 @@
 - https://servicenger.com/blog/mobile/google-photos-theft-of-database-arbitrary-files-android-vulnerability/, Improper-Export-of-Android-Application-Components
 - https://infosecwriteups.com/unauthenticated-account-takeover-through-forget-password-c120b4c1141d, Password-reset
 - https://monke.ie/duckduckgoxss/, Stored-XSS
-- https://sites.google.com/securifyinc.com/vrp-writeups/hire-with-google/auth-issues, Authentication-flaw
 - https://gatolouco.medium.com/critical-blind-storage-xss-my-first-bug-bounty-d318f6ba570c/, Blind-XSS
 - https://notifybugme.medium.com/chaining-an-blind-ssrf-bug-to-get-an-rce-92c09de3c0ba, Blind-SSRF
 - https://0xra.github.io/posts/apple-tv-code-execution/, RCE
@@ -1975,7 +1971,6 @@
 - https://philippeharewood.com/see-whether-a-hackercup-facebook-participant-allows-recruitment-contact/, Information-disclosure
 - https://medium.com/@danlyt74/remote-denial-of-service-with-chrome-82638507a87f, DoS
 - https://vj0shii.github.io/exploiting-application-logic-to-referral-code-disclosure/, Logic-flaw
-- https://medium.com/@pig.wig45/from-n-a-to-resolved-for-backblaze-android-app-hackerone-platform-bucket-takeover-f817692a590, Hardcoded-credentials
 - https://medium.com/@dheerajkmadhukar/journey-from-low-to-critical-bug-2ab98db2eec1, IDOR
 - https://medium.com/@b3twise/how-i-found-10-remote-code-execution-in-10-minutes-cve-2020-5902-3def1aa29e9b, RCE
 - https://xvnpw.github.io/posts/from-dot-in-regex-to-ssrf-part-3/, SSRF
