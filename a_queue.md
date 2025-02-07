@@ -153,7 +153,6 @@
 - https://medium.com/@whitedevil4276/otp-bypass-through-burpsuite-in-maruti-nexa-test-drive-e9d82db656b8, bypass
 - https://medium.com/@haythamkarouata/bug-bounty-hunting-101-js-files-diving-4b1753fefb3d, source-code-review
 - https://medium.com/@jonathanbouman/stored-xss-in-paytium-3-0-13-wordpress-plugin-3157ee37eb8f, XSS
-- https://medium.com/@secureica/tricking-the-frontend-and-the-backend-http-request-smuggling-81adc9a61181, request-smuggling
 - https://medium.com/@raymondlind/finding-reflected-xss-in-a-strange-way-289a4f3fa630, XSS
 - https://medium.com/@grahamzemel/the-best-vulnerability-disclosure-programs-less-competitive-bounties-a166acbbbd1b, tricks
 - https://medium.com/@cyberguy0xd1/how-i-was-able-to-bypass-cloudflare-waf-for-sqli-payload-b9e7a4260026, sql-injection
@@ -181,7 +180,6 @@
 - https://www.mandiant.com/resources/blog/privileges-third-party-windows-installers, Local-Privilege-Escalation
 - https://www.sonarsource.com/blog/a-twist-in-the-code-openmeetings-vulnerabilities-through-unexpected-application-state/, Account-takeover
 - https://www.rapid7.com/blog/post/2023/07/19/cve-2023-38205-adobe-coldfusion-access-control-bypass-fixed/, Broken-Access-Control
-- https://medium.com/@aditya043k/shodan-recon-to-1000-bounty-in-2-mins-b168ced3bfb0, Missing-authentication
 - https://orca.security/resources/blog/bad-build-google-cloud-build-potential-supply-chain-attack-vulnerability/, Cloud
 - https://www.elttam.com/blog/amazon-vpc-cni/, Kubernetes
 - https://badoption.eu/blog/2023/07/15/divideconqer.html, AMSI-bypass
@@ -856,7 +854,6 @@
 - https://bergee.it/blog/turning-cookie-based-xss-into-account-takeover/, XSS
 - https://medium.com/@jedus0r/idor-insecure-direct-object-references-my-first-p1-in-bugbounty-fb01f50e25df, IDOR
 - https://ssd-disclosure.com/ssd-advisory-linux-config_watch_queue-lpe/, Memory-corruption
-- https://blog.silentsignal.eu/2022/09/05/simple-ibm-i-as-400-hacking/, Local-Privilege-Escalation
 - https://medium.com/@0x0Asif/how-i-found-my-first-rce-8f8033883dc4, IDOR
 - https://nokline.github.io/bugbounty/2022/09/02/Glassdoor-Cache-Poisoning.html, Web-cache-poisoning
 - https://mr23r0.medium.com/the-database-handover-a-dumb-mistake-critical-bug-f73c99e72e40, Information-disclosure
@@ -1793,7 +1790,6 @@
 - https://nmochea.medium.com/this-post-is-about-an-reflected-xss-that-i-found-on-opera-browser-application-which-could-have-been-39823a22045d, XSS
 - https://amineaboud.medium.com/10000-facebook-ssrf-bug-bounty-402bd21e58e5, SSRF
 - https://securitytrooper.com/en/cross-site-scripting-xss-reflected-in-one-of-the-subdomains-of-general-motorsbugbounty, Reflected-XSS
-- https://blog.witcoat.com/2020/12/03/site-wide-csrf-on-glassdoor/, CSRF
 - https://www.fortinet.com/blog/threat-research/leaking-browser-url-protocol-handlers, Information-disclosure
 - https://medium.com/the-volatile-triad/hacking-always-check-out-the-images-99217e6cea, Information-disclosure
 - https://googleprojectzero.blogspot.com/2020/12/an-ios-zero-click-radio-proximity.html, iOS
@@ -1971,7 +1967,6 @@
 - https://philippeharewood.com/see-whether-a-hackercup-facebook-participant-allows-recruitment-contact/, Information-disclosure
 - https://medium.com/@danlyt74/remote-denial-of-service-with-chrome-82638507a87f, DoS
 - https://vj0shii.github.io/exploiting-application-logic-to-referral-code-disclosure/, Logic-flaw
-- https://medium.com/@dheerajkmadhukar/journey-from-low-to-critical-bug-2ab98db2eec1, IDOR
 - https://medium.com/@b3twise/how-i-found-10-remote-code-execution-in-10-minutes-cve-2020-5902-3def1aa29e9b, RCE
 - https://xvnpw.github.io/posts/from-dot-in-regex-to-ssrf-part-3/, SSRF
 - https://web.archive.org/web/20200821010435/https://medium.com/@Alone_Wwolf/how-i-was-able-to-bypass-email-confirm-p4-e17af66a4eb0, Information-disclosure

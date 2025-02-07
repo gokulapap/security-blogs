@@ -1,0 +1,1 @@
+- https://medium.com/@secureica/tricking-the-frontend-and-the-backend-http-request-smuggling-81adc9a61181

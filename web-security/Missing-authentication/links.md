@@ -8,3 +8,4 @@
 - https://medium.com/@seaman00o/300-p3-easy-bug-in-30-seconds-de65ea3d8f50
 - https://infosecwriteups.com/story-of-my-first-valid-critical-bug-22029115f8d7
 - https://www.directdefense.com/compromising-a-backup-system-by-iscsi-interface-during-a-routine-penetration-test/
+- https://medium.com/@aditya043k/shodan-recon-to-1000-bounty-in-2-mins-b168ced3bfb0
