@@ -30,3 +30,4 @@
 - https://pierrekim.github.io/blog/2022-08-24-2-byte-dos-freebsd-netbsd-telnetd-netkit-telnetd-inetutils-telnetd-kerberos-telnetd.html
 - https://blog.riotsecurityteam.com/dos-and-stored-html-injection-bug-bounty-writeup
 - https://www.interruptlabs.co.uk/articles/linux-ipv6-route-of-death
+- https://medium.com/@faique/first-bug-bounty-from-dos-taking-the-service-down-30f9ad4e0246

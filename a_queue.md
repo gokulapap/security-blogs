@@ -684,7 +684,6 @@
 - https://splint3rsec.medium.com/russian-roulette-xss-bbba6afd2570, Blind-XSS
 - https://r29k.com/articles/bb/account-takeover, Account-takeover
 - https://www.semperis.com/blog/syncjacking-azure-ad-account-takeover/, Account-takeover
-- https://0xm5awy.medium.com/how-i-found-8-vulnerabilities-in-24h-aad3bd5fd487, Logic-flaw
 - https://nirmaldahal.com.np/posts/2022/11/megas-unlimited-cloud-storage-vulnerability/, Logic-flaw
 - https://ian.sh/etugra, Default-credentials
 - https://gonzxph.medium.com/account-takeover-worth-of-2500-e643661f94e9, Account-takeover
@@ -964,7 +963,6 @@
 - https://securityflow.io/going-beyond-alert-with-xss/, XSS
 - https://medium.com/@moSec/crlf-to-account-takeover-chaining-bugs-21a25dfa1cdf, CRLF-injection
 - https://medium.com/@anjaneyulukanakatla1996/business-logic-error-6922ba75cad8, Logic-flaw
-- https://medium.com/@faique/first-bug-bounty-from-dos-taking-the-service-down-30f9ad4e0246, DoS
 - https://vengeance.medium.com/authorization-token-leak-from-verifying-email-endpoint-f28803476680, Account-takeover
 - https://medium.com/@bhatiagaurav1211/ability-to-login-as-google-staff-in-google-cloud-community-57c45809de05, Privilege-escalation
 - https://medium.com/@milanjain7906/good-recon-leads-to-senssitive-accounts-a8abb6c21333, Information-disclosure
@@ -1115,7 +1113,6 @@
 - https://medium.com/@_ip_/2-3-xss-through-the-front-door-gitlab-fc4b6799e743, XSS
 - https://rhinosecuritylabs.com/aws/cve-2022-25165-aws-vpn-client/, Local-Privilege-Escalation
 - https://www.notgitbleed.com, Information-disclosure
-- https://blog.lightspin.io/aws-rds-critical-security-vulnerability, LFI
 - https://medium.com/@RheyJuls/privacy-disclosure-on-facebook-lite-after-creating-a-post-b12a1cad8d8a, Privacy-issue
 - https://medium.com/@Bishoo97x/xss-html-injection-and-file-upload-bypass-in-huawei-subdomain-64966ba4f4ac, XSS
 - https://opencirt.com/hacking/securing-easy-appointments-cve-2022-0482/, Broken-Access-Control
@@ -1169,7 +1166,6 @@
 - https://medium.com/@rifqihz/open-redirect-via-sendgrid-email-misconfiguration-cec4ccb07f9a, Open-redirect
 - https://apth3hack3r.medium.com/xss-through-base64-encoded-json-4b0d96e5ccd4, XSS
 - https://bloggerrando.blogspot.com/2022/03/13-1.html, Broken-Access-Control
-- https://medium.com/@botami143/i-have-found-microsoft-subdomain-website-database-list-database-username-password-1dab07d0c8ea, Information-disclosure
 - https://canmustdie.medium.com/how-did-i-leak-5-2k-customer-data-from-a-large-company-via-broken-access-control-709eb4027409, Broken-Access-Control
 - https://medium.com/@tobydavenn/how-i-was-able-to-read-any-users-confidential-reports-on-a-public-level-domain-1e563857b0b9, IDOR
 - https://prajwoldhungana487.medium.com/demographic-misconfiguration-9359910c6fcf, Logic-flaw
@@ -1425,7 +1421,6 @@
 - https://wojciechregula.blog/post/change-home-directory-and-bypass-tcc-aka-cve-2020-27937/, Privacy-issue
 - https://github.com/justinsteven/advisories/blob/master/2021_github_actions_checkspelling_token_leak_via_advice_symlink.md, Logic-flaw
 - https://www.spookjs.com, Browser-hacking
-- https://medium.com/@gguzelkokar.mdbf15/xss-via-account-takeover-in-e-signature-feature-worth-2500-435f3f8325bf, XSS
 - https://rikeshbaniyaaa.medium.com/facebook-email-disclosure-and-account-takeover-ecdb44ee12e9, Information-disclosure
 - https://websecblog.com/vulns/google-threadit/, DOM-XSS
 - https://medium.com/@katikitala.sushmitha078/how-i-can-take-over-any-users-account-with-their-mobile-number-6d820a364cad, Account-takeover

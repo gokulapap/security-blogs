@@ -110,3 +110,4 @@
 - https://medium.com/bug-bounty-hunting/facebook-bug-invite-user-to-like-a-page-even-after-they-decline-the-page-like-invite-f83d9ec845b3
 - https://medium.com/bugbountywriteup/blocked-user-can-send-notification-due-to-logical-bug-in-instagram-first-instagram-bug-2bd09aa52f14
 - https://medium.com/japzdivino/bypass-hackerone-2fa-requirement-and-reporter-blacklist-46d7959f1ee5
+- https://0xm5awy.medium.com/how-i-found-8-vulnerabilities-in-24h-aad3bd5fd487

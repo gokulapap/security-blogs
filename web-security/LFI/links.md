@@ -17,3 +17,4 @@
 - https://ph-hitachi.medium.com/how-i-got-my-first-bug-bounty-in-intersting-target-lfi-to-sxss-58fa5c4f5882
 - http://blog.shashank.co/2013/10/lfi-in-nokia-maps.html
 - https://shahjerry33.medium.com/lfi-an-interesting-tweak-9c5638dbdd1b
+- https://blog.lightspin.io/aws-rds-critical-security-vulnerability

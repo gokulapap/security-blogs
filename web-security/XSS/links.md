@@ -196,3 +196,4 @@
 - https://medium.com/supakiad-s-m3ez/microsoft-bug-reports-lead-to-ranking-on-microsoft-msrc-quarterly-leaderboard-q3-2022-c6c9f70e2ccd
 - https://gauravnarwani.com/a-tale-of-3-xss/
 - https://medium.com/@tim.kent/xss-in-dynamics-365-25c800aac473
+- https://medium.com/@gguzelkokar.mdbf15/xss-via-account-takeover-in-e-signature-feature-worth-2500-435f3f8325bf
