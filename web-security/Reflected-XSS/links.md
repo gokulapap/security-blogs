@@ -59,3 +59,4 @@
 - https://medium.com/@Alra3ees/my-write-up-about-uber-cross-site-scripting-by-help-of-knoxss-b1b56f8d090
 - https://medium.com/@xpertwhitehat/reflected-cross-site-scripting-on-user-agent-dependent-response-b44258a3d978
 - https://www.synacktiv.com/sites/default/files/2022-11/CodeIgniter3_XSS_2022.pdf
+- https://skylightcyber.com/2023/04/18/popping-tags/

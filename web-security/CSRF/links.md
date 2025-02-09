@@ -72,3 +72,4 @@
 - https://github.com/cymtrick/lol/blob/d17ed765129b26a1bf8060757e5aebd4e237c908/_posts/2016-09-20-Facebook-partners-CSRF.md
 - https://bugs.xdavidhu.me/google/2021/04/05/i-built-a-tv-that-plays-all-of-your-private-youtube-videos/
 - https://blog.witcoat.com/2020/12/03/site-wide-csrf-on-glassdoor/
+- https://rakesh-thodupunoori.medium.com/part-1-dive-into-zoom-applications-d70f3de53ec5

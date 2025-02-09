@@ -14,3 +14,4 @@
 - https://medium.com/@_ip_/3-3-cache-poisoning-lateral-movement-gitlab-9c6288708576
 - https://www.tomanthony.co.uk/blog/googles-manual-actions-hack/
 - https://blog.robinjust.in/gov-in/2023/02/Exposing-Indian-Citizens-Sensitive-PII-and-more/
+- https://bloggerrando.blogspot.com/2021/03/bug-bounty-idor-in-youtube-bounty.html

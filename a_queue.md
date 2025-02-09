@@ -345,7 +345,6 @@
 - https://github.com/gobysec/Weblogic/blob/main/Research%20on%20WebLogic%20After-Deserialization.md, Insecure-deserialization
 - https://www.wiz.io/blog/brokensesame-accidental-write-permissions-to-private-registry-allowed-potential-r, Cloud
 - https://material.security/blog/how-material-security-uncovered-a-vulnerability-in-gmail-api, Broken-Access-Control
-- https://skylightcyber.com/2023/04/18/popping-tags/, Reflected-XSS
 - https://blog.includesecurity.com/2023/04/impersonating-local-unity-players-with-udp-spoofing-in-mirror/, Game-hacking
 - https://infosecwriteups.com/break-the-logic-playing-with-product-ratings-on-a-shopping-site-600-c9a87fb66a73, Logic-flaw
 - https://www.pingsafe.com/blog/linkedin-vulnerability-delete-any-post, IDOR
@@ -1348,7 +1347,6 @@
 - https://shubhamchaskar.com/xxe-to-ntlm/, XXE
 - https://web.archive.org/web/20211216032639/https://xelkomy.medium.com/easy-ssrf-from-wayback-machine-edf946486120, SSRF
 - https://darrenmartyn.ie/2021/10/27/zimbra-zmslapd-local-root-exploit/, Local-Privilege-Escalation
-- https://r0ckinxj3.wordpress.com/2021/10/24/a-7500-google-sites-idor/, IDOR
 - https://gauravnarwani.com/account-takeover-via-improper-input-validation/, OAuth
 - https://dhiyaneshgeek.github.io/web/security/2021/10/23/how-i-was-able-to-revoke-your-instagram-2fa/, Bruteforce
 - https://securityforeveryone.com/blog/google-chrome-zero-day-vulnerability-cve-2021-30573, Memory-corruption
@@ -1530,7 +1528,6 @@
 - https://blog.evanricafort.com/2021/06/html-injection-and-a-dream.html, HTML-injection
 - https://infosecwriteups.com/crashing-your-linkedin-app-with-a-connection-request-257f9b484550, Application-level-DoS
 - https://blog.oversecured.com/Why-dynamic-code-loading-could-be-dangerous-for-your-apps-a-Google-example/, Arbitrary-file-write
-- https://rakesh-thodupunoori.medium.com/part-1-dive-into-zoom-applications-d70f3de53ec5, CSRF
 - https://infosecwriteups.com/authentication-bypass-easy-p1-in-10-minutes-54d5a2093e54, Authentication-bypass
 - https://fartademayur.medium.com/this-is-how-i-was-able-to-see-private-archived-posts-stories-of-users-on-instagram-without-de70ca39165c, IDOR
 - https://ian.sh/airflow, Session-management-issue
@@ -1634,7 +1631,6 @@
 - https://infosecwriteups.com/a-weird-xss-77c13d135c9f, Reflected-XSS
 - https://www.pethuraj.com/blog/paypal-bug-bounty-writeup/, Open-redirect
 - https://jychp.medium.com/how-to-bypass-cloudflare-bot-protection-1f2c6c0c36fb, Logic-flaw
-- https://bloggerrando.blogspot.com/2021/03/bug-bounty-idor-in-youtube-bounty.html, Broken-Access-Control
 - https://shrirangdiwakar.medium.com/encrypted-payload-decrypted-execution-600-stored-xss-3e517cea8f13, Stored-XSS
 - https://thexssrat.medium.com/poc-the-easiest-125-euros-i-ever-made-4dc87f01e286, Logic-flaw
 - https://www.ehpus.com/post/multiple-authorization-bypass-issues-in-google-s-richmedia-studio, Authorization-flaw
@@ -2862,7 +2858,6 @@
 - https://medium.com/@zahidali_93675/disabling-new-emails-from-facebook-without-email-owner-interaction-11c979778a68, Logic-flaw
 - https://medium.com/@arbazhussain/stored-xss-on-rockstar-game-c008ec18d071, XSS
 - https://medium.com/@arbazhussain/exploiting-misconfigured-cors-on-popular-btc-site-2aedfff906f6, CORS-misconfiguration
-- https://medium.com/@arbazhussain/stealing-access-token-of-one-drive-integration-by-chaining-csrf-vulnerability-779f999624a7, OAuth
 - https://medium.com/@arbazhussain/idor-while-connecting-social-account-in-hackster-io-2296b316b7a7, IDOR
 - https://medium.com/@arbazhussain/ctrl-d5ffc7b0640e, Clickjacking
 - https://hackernoon.com/how-to-find-internal-subdomains-yql-yahoo-and-bug-bounty-d7730b374d77, Information-disclosure

@@ -158,3 +158,4 @@
 - https://medium.com/@prial261/vine-users-private-information-disclosure-f1c55a3abbb6
 - https://tuhin1729.medium.com/account-takeover-via-access-token-leakage-687276953408
 - https://medium.com/@dheerajkmadhukar/journey-from-low-to-critical-bug-2ab98db2eec1
+- https://r0ckinxj3.wordpress.com/2021/10/24/a-7500-google-sites-idor/
