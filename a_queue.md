@@ -139,7 +139,6 @@
 - https://medium.com/@vflexo/full-account-takeover-via-open-redirection-41c167db46, ATO
 - https://medium.com/@renwa/the-underrated-bugs-clickjacking-css-injection-drag-drop-xss-cookie-bomb-login-logout-csrf-84307a98fffa, low-hangings
 - https://medium.com/@huang-h-kevin/from-retargeting-to-rce-my-journey-from-advertising-to-cybersecurity-4c6149a25c58, journey
-- https://medium.com/@neroli/how-we-was-able-to-takeover-whole-organization-via-privilege-escalation-4f74b31a84a6, privilege-escalation
 - https://medium.com/@AhmedMhesham/easiest-way-to-get-subdomain-takeover-76f444c8ee6f, STO
 - https://medium.com/@nidhipanchal719/open-redirect-to-xss-in-united-nation-website-f4394aa6ed04, XSS
 - https://medium.com/@nmblog2135/you-can-earn-more-than-1000-if-you-know-this-vulnerability-open-redirect-vulnerabilities-b9170e88adba, open-redirection
@@ -978,7 +977,6 @@
 - https://www.techncyber.com/2022/07/sql-injection-at-authorization-token.html, SQL-injection
 - https://hamzadzworm.medium.com/an-interesting-idor-that-allowed-me-to-see-all-projects-bounty-8cd74b5edf72, IDOR
 - https://bloggerrando.blogspot.com/2022/07/09-1.html, XSS
-- https://pentest.blog/advisory-glpi-service-management-software-sql-injection-remote-code-execution-and-local-file-inclusion/, SQL-injection
 - https://medium.com/@Bishoo97x/stored-xss-and-stored-html-injection-in-united-nations-website-db87d445e41, XSS
 - https://monke.ie/case-study-part-2/, SSRF
 - https://ivreznap.medium.com/interesting-privilege-escalation-in-an-old-private-program-225d27253e13, Privilege-escalation
@@ -1505,7 +1503,6 @@
 - https://portswigger.net/research/finding-dom-polyglot-xss-in-paypal-the-easy-way, DOM-XSS
 - https://portswigger.net/research/pre-auth-rce-in-forgerock-openam-cve-2021-35464, RCE
 - https://medium.com/techiepedia/how-i-was-able-to-takeover-any-account-on-foxit-com-7a08efa0144f, Password-reset
-- https://github.com/irsl/gcp-dhcp-takeover-code-exec, DHCP-flood
 - https://blog.tyage.net/posts/2021-06-27-dependabot-rce/, SSRF
 - https://ysamm.com/?p=702, CSRF
 - https://ysamm.com/?p=700, Information-disclosure
@@ -1824,7 +1821,6 @@
 - https://www.mysk.blog/2020/10/25/link-previews/, Information-disclosure
 - https://medium.com/bugbountywriteup/my-first-bug-on-google-observation-wins-1a13d0ea54b0, IDOR
 - https://labs.f-secure.com/blog/samsung-s20-rce-via-samsung-galaxy-store-app/, RCE
-- https://devcraft.io/2020/10/20/github-pages-multiple-rces-via-kramdown-config.html, RCE
 - https://medium.com/@saneklarek22/back-to-2019-disclosure-employers-pii-and-credentials-bb7f344dcb08, Information-disclosure
 - https://www.rafaybaloch.com/2020/10/multiple-address-bar-spoofing-vulnerabilities.html, Address-Bar-Spoofing
 - https://www.rafaybaloch.com/2020/10/multiple-address-bar-spoofing-vulnerabilities.html, Authentication-bypass
@@ -2798,7 +2794,6 @@
 - https://blog.securitybreached.org/2017/12/19/unrestricted-file-upload-to-rce-bug-bounty-poc/, RCE
 - https://corben.io/blog/17-12-17-hackertarget, SSRF
 - https://medium.com/@uranium238/getting-a-rce-ctf-way-2fd612fb643f, RCE
-- https://medium.com/@Skylinearafat/xss-protection-bypass-made-my-quickest-bounty-ever-f4fd970c9116, XSS
 - https://medium.com/@maxon3/lfi-to-command-execution-deutche-telekom-bug-bounty-6fe0de7df7a6, LFI
 - https://corben.io/blog/17-11-27-tricky-CORS, CORS-misconfiguration
 - https://medium.com/@malcolmx0x/story-of-bypassing-referer-header-to-make-open-redirect-94f938b9d032, Open-redirect
