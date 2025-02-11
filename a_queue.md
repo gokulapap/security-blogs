@@ -1206,7 +1206,6 @@
 - https://twitter.com/m7mdharon/status/1492204287295897600, Subdomain-takeover
 - https://www.zerodayinitiative.com/blog/2022/2/10/mindshare-when-mysql-cluster-encounters-taint-analysis, Memory-corruption
 - https://onapsis.com/threat-report/icmad-sap-vulnerabilities, HTTP-request-smuggling
-- https://bloggerrando.blogspot.com/2022/02/how-can-i-access-members-only-video.html, Broken-Access-Control
 - https://wwws.nightwatchcybersecurity.com/2022/02/06/insecure-bootstrap-process-in-oracle-cloud-cli/, Supply-chain-attack
 - https://medium.com/@yaala/facebook-oauth-bypass-446a073e687d, OAuth
 - https://kailashbohara.com.np/blog/2022/02/04/bypassing-PHP-functions-to-read-system-file-copy/, Components-with-known-vulnerabilities
@@ -1457,7 +1456,6 @@
 - https://www.fortbridge.co.uk/research/multiple-vulnerabilities-in-cpanel-whm/, XXE
 - https://medium.com/@gonzalocarrascosec/fuzzing-idor-admin-takeover-5343bb8f436e, IDOR
 - https://infosecwriteups.com/what-is-bola-3-digit-bounty-from-topcoder-a25e7fae0d64, IDOR
-- https://bohops.com/2021/08/07/cve-2021-0090-intel-driver-support-assistant-dsa-elevation-of-privilege-eop/, Local-Privilege-Escalation
 - https://valsamaras.medium.com/size-matters-cve-2021-0485-cfa0a291f903, Local-Privilege-Escalation
 - https://philippeharewood.com/view-the-country-of-a-private-instagram-user/, Information-disclosure
 - https://philippeharewood.com/access-to-crowdtangle-deletion-framework-api/, Information-disclosure
@@ -1922,7 +1920,6 @@
 - https://www.ehpus.com/post/authorization-bypass-in-google-s-ticketing-system, Authorization-flaw
 - https://hunter-55.medium.com/introduction-fae7c8b3d16c, Exposed-registration-page
 - https://tox7cv3nom.github.io/2020/07/28/authentication-token-bypass-leads-too-idor.html, Authentication-bypass
-- https://medium.com/@akshanshjaiswal/pre-access-to-victims-account-via-facebook-signup-60219e9e381d, OAuth
 - https://medium.com/@metnew/exploiting-popular-macos-apps-with-a-single-terminal-file-f6c2efdfedaa, MacOS
 - https://tolo7010note.blogspot.com/2020/07/an-unreproducable-bug-due-to-load.html, Open-redirect
 - https://medium.com/@airlanggamurthi/obtained-a-bunch-of-sensitive-data-in-just-few-steps-hacking-1a474200a8c2, AWS-misconfiguration
@@ -2076,7 +2073,6 @@
 - https://medium.com/@hbothra22/recon-to-sensitive-information-disclosure-in-minutes-503fc7ccdf0b, Information-disclosure
 - https://medium.com/@d0nut/piercing-the-veal-short-stories-to-read-with-friends-4aa86d606fc5, SSRF
 - https://www.cyberark.com/threat-research-blog/beware-of-the-gif-account-takeover-vulnerability-in-microsoft-teams/, Account-takeover
-- https://blog.evanricafort.com/2020/04/xss-in-peerio-2-windows-application.html, XSS
 - https://medium.com/@aungpyaehackeronetester/two-factor-authentication-bypass-50-5b397e68cfed, MFA-bypass
 - https://medium.com/@mohameddaher/from-p5-to-p5-to-p2-from-nothing-to-1000-bxss-4dd26bc30a82, Race-condition
 - https://web.archive.org/web/20200513210337/https://medium.com/bugbountywriteup/the-secret-sauce-of-bug-bounty-bdcc2e2d45af, CSTI
@@ -2781,7 +2777,6 @@
 - https://medium.com/bugbountywriteup/bugbounty-aws-s3-added-to-my-bucket-list-f68dd7d0d1ce, AWS-misconfiguration
 - https://philippeharewood.com/view-the-bug-subscriptions-for-any-oculus-user/, IDOR
 - https://www.josipfranjkovic.com/blog/hacking-facebook-oculus-integration-csrf, CSRF
-- https://medium.com/bugbountywriteup/bugbounty-how-i-was-able-to-delete-anyones-account-in-an-online-car-rental-company-8a4022cc611, CSRF
 - https://corben.io/blog/18-1-11-chaining-yahoo-bugs, CORS-misconfiguration
 - https://blog.securitybreached.org/2018/02/04/hunting-insecure-direct-object-reference-vulnerabilities-for-fun-and-profit-part-1/, IDOR
 - https://wwws.nightwatchcybersecurity.com/2018/01/04/rce-in-duolingos-tinycards-app-for-android-cve-2017-16905/, Content-injection

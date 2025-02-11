@@ -57,3 +57,4 @@
 - https://sector7.computest.nl/post/2022-07-opc-ua-net-standard-trusted-application-check-bypass/
 - https://pentera.io/blog/vscalation-cve-2021-22015-local-privilege-escalation-in-vmware-vcenter-pentera-labs/
 - https://blog.silentsignal.eu/2022/09/05/simple-ibm-i-as-400-hacking/
+- https://bohops.com/2021/08/07/cve-2021-0090-intel-driver-support-assistant-dsa-elevation-of-privilege-eop/
