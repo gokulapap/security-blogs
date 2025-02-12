@@ -159,3 +159,4 @@
 - https://tuhin1729.medium.com/account-takeover-via-access-token-leakage-687276953408
 - https://medium.com/@dheerajkmadhukar/journey-from-low-to-critical-bug-2ab98db2eec1
 - https://r0ckinxj3.wordpress.com/2021/10/24/a-7500-google-sites-idor/
+- https://shahmeeramir.com/how-a-simple-idor-become-a-4k-user-impersonation-vulnerability-705291b55c0d
