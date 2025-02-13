@@ -1,0 +1,1 @@
+- https://medium.com/@taksec/tips-for-bac-and-idor-vulnerabilities-8a3e58f79d95
