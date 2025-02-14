@@ -3,3 +3,4 @@
 - https://infosecwriteups.com/story-of-google-hall-of-fame-and-private-program-bounty-worth-53559a95c468
 - https://medium.com/@odayalhalbe1/from-android-app-to-access-admin-dashboard-a8f825e8e806
 - https://infosecwriteups.com/unauthorized-sign-up-on-subdomain-of-subdomain-leading-to-organization-takeover-worth-2000-a7199952d80b
+- https://v1dr4x.medium.com/hacking-dutch-government-broken-authentication-to-full-website-takeover-p1-9af477604d54

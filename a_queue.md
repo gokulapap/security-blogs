@@ -657,7 +657,6 @@
 - https://infosecwriteups.com/a-great-weekend-hack-worth-8k-9bfda8ab65b9, SQL-injection
 - https://shafouz.medium.com/webview-xss-account-takeover-349c1d69606e, Webview-XSS
 - https://attackshipsonfi.re/p/exploiting-cors-misconfigurations, CORS-misconfiguration
-- https://v1dr4x.medium.com/hacking-dutch-government-broken-authentication-to-full-website-takeover-p1-9af477604d54, Exposed-registration-page
 - https://petrusviet.medium.com/cve-2022-43781-32bc29de8960, OS-command-injection
 - https://rashahacks.com/directory-enumeration-guide/, 40x-bypass
 - https://letshack.xyz/offensive/web-application/legally-hacking-a-government-satellite, Missing-authentication
@@ -1131,7 +1130,6 @@
 - https://blog.relyze.com/2022/03/cve-2022-27643-netgear-r6700v3-upnpd.html, Memory-corruption
 - https://scribesecurity.com/blog/github-cache-poisoning, Cache-poisoning-attack
 - https://janmuhammadzaidi.medium.com/how-i-bypassed-403-forbidden-domain-using-a-simple-trick-c2d538de04b8, 403-bypass
-- https://www.mdsec.co.uk/2022/03/abc-code-execution-for-veeam/, Local-Privilege-Escalation
 - https://www.sentinelone.com/labs/pwning-microsoft-azure-defender-for-iot-multiple-flaws-allow-remote-code-execution-for-all/, RCE
 - https://web.archive.org/web/20220329163747/https://pwnsec.ninja/2022/03/27/stealing-cookies-from-subdomain-leads-to-takeover-user-accounts-at-redacted-com/, Account-takeover
 - https://web.archive.org/web/20220405093345/https://pwnsec.ninja/2022/03/26/deleting-account-via-support-ticket/, IDOR
@@ -1169,7 +1167,6 @@
 - https://www.rapid7.com/blog/post/2022/03/03/cve-2021-4191-gitlab-graphql-api-user-enumeration-fixed/, Username-enumeration
 - https://medium.com/@nvmeeet/4300-instagram-idor-bug-2022-5386cf492cad, IDOR
 - https://muffsec.com/blog/moodle-2nd-order-sqli/, SQL-injection
-- https://octagon.net/blog/2022/03/02/apache-jspwiki-preauth-xss-to-ato/, Stored-XSS
 - https://blog.recurity-labs.com/2022-03-02/webOS_Pt2.html, Local-Privilege-Escalation
 - https://web.archive.org/web/20220306040035/https://medium.com/@1337Fenrir/how-did-i-find-directory-traversal-attack-using-github-9b051ed749ca, Information-disclosure
 - https://medium.com/techiepedia/password-reset-to-admin-access-3b2a649bdc3, Account-takeover
@@ -1387,7 +1384,6 @@
 - https://www.shielder.it/advisories/remote-command-execution-in-visual-studio-code-remote-development-extension/, RCE
 - https://habr.com/en/post/579714/, Information-disclosure
 - https://medium.com/@the.white.soul.0/bug-bounty-fastmail-topicbox-com-privileges-escalation-organization-takeover-815466876ad4, Privilege-escalation
-- https://www.vulnano.com/2021/09/facebook-messenger-for-macos-contained.html, Hardcoded-credentials
 - https://trenchant.io/pwn2own-2021-parallels-desktop-guest-to-host-escape/, VM-escape
 - https://rizwansiddiqu1.medium.com/super-admin-panel-without-credentials-c2022a23bb35, Authentication-bypass
 - https://www.akamai.com/blog/security/autodiscovering-the-great-leak, Domain-name-collision
@@ -2105,7 +2101,6 @@
 - https://medium.com/@ozguralp/using-vulnerability-analytics-feature-like-a-boss-655fc1f1543b, SSRF
 - http://carnal0wnage.attackresearch.com/2020/03/what-is-your-gcp-infra-worthabout-700.html, Information-disclosure
 - https://web.archive.org/web/20200511115634/https://medium.com/@godofdarkness.msf/users-email-disclosure-via-invalid-password-reset-link-250-c431ed46680e, Password-reset
-- https://philippeharewood.com/generate-valid-signatures-for-fbcdn-urls/, Logic-flaw
 - https://techkranti.com/how-i-reported-a-dos-vulnerability-to-aws/, DoS
 - https://ysamm.com/?p=404, Authorization-flaw
 - https://ysamm.com/?p=396, Lack-of-rate-limiting
