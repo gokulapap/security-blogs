@@ -54,3 +54,4 @@
 - https://medium.com/@r0t1v/open-redirect-in-linkedin-and-yahoo-a3ffd2a9cc48
 - https://gonzx.medium.com/how-i-found-open-redirect-on-hashnode-com-5f3e9ecb8dc6
 - https://medium.com/@rifqihz/open-redirect-via-sendgrid-email-misconfiguration-cec4ccb07f9a
+- https://sagarsajeev.medium.com/escalating-open-redirect-to-xss-d2b9355e5f05

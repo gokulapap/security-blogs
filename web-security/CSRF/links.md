@@ -74,3 +74,4 @@
 - https://blog.witcoat.com/2020/12/03/site-wide-csrf-on-glassdoor/
 - https://rakesh-thodupunoori.medium.com/part-1-dive-into-zoom-applications-d70f3de53ec5
 - https://medium.com/bugbountywriteup/bugbounty-how-i-was-able-to-delete-anyones-account-in-an-online-car-rental-company-8a4022cc611
+- https://josipfranjkovic.blogspot.com/2013/11/facebook-bug-bounty-secondary-damage.html

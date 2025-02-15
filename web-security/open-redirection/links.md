@@ -2,3 +2,4 @@
 - https://medium.com/@proviesec/a-swag-for-a-open-redirect-google-dork-bug-bounty-2143b943f34e
 - https://medium.com/@evilox/testing-and-bypassing-technique-for-open-redirection-vulnerability-ca1bc6c851c5
 - https://medium.com/@sagarsajeev/escalating-open-redirect-to-xss-d2b9355e5f05
+- https://medium.com/@securitygoat/bug-bounty-bootcamp-ch07-open-redirects-b11d2fe134d5

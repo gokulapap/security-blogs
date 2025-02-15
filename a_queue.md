@@ -76,7 +76,6 @@
 - https://medium.com/@spideynati/how-i-was-able-to-get-free-for-months-because-of-this-bug-31b1396c563f, journey
 - https://medium.com/@Dhamuharker/unsubscribe-any-users-e-mail-notifications-via-idor-7de76e2b036b, IDOR
 - https://medium.com/@h4krg33k/open-redirects-for-bug-bounties-bf4b58313842, open-redirection
-- https://medium.com/@securitygoat/bug-bounty-bootcamp-ch07-open-redirects-b11d2fe134d5, open-redirection
 - https://medium.com/@dewangpanchal98/tell-of-my-first-bounty-d3c5a85e18c9, journey
 - https://medium.com/@xcheater/recon-methodology-for-bug-hunting-e623120a7ca6, recon
 - https://medium.com/@ahmdhalabi/taking-over-employee-accounts-by-managers-with-zero-employee-interaction-b60784c3ad84, misc
@@ -450,7 +449,6 @@
 - https://redshark1802.com/blog/2023/03/01/abusing-hopy-by-hop-header-crlf-injection/, CRLF-injection
 - https://www.sonarsource.com/blog/empowering-weak-primitives-file-truncation-to-code-execution-with-git/, Argument-injection
 - https://www.zerodayinitiative.com/blog/2023/2/27/cve-2022-38108-rce-in-solarwinds-network-performance-monitor, Insecure-deserialization
-- https://saligrama.io/blog/post/gradescope-autograder-security/, RCE
 - https://medium.com/@mehtashobhit98/my-first-un-expected-digit-bounty-for-an-un-expected-vulnerability-b44933d6ebda, Lack-of-rate-limiting
 - https://security.humanativaspa.it/abusing-mavens-pom-xml/, RCE
 - https://medium.com/@mullangisashank/the-vulnerability-that-exposed-an-un-website-to-remote-code-execution-dfe377b82049, Components-with-known-vulnerabilities
@@ -896,7 +894,6 @@
 - https://blog.electrovolt.io/posts/element-rce/, RCE
 - https://medium.com/@lovely.goyal1998/story-of-5000-bounty-for-grafana-panel-access-in-apple-89c93ab4486f, Missing-authentication
 - https://www.akamai.com/blog/security/authentication-coercion-windows-server-service, Off-by-one-Error
-- https://sagarsajeev.medium.com/escalating-open-redirect-to-xss-d2b9355e5f05, Open-redirect
 - https://medium.com/@bharatsingh070601/bypassing-unexpected-idor-e6a9da2e0498, IDOR
 - https://medium.com/@Bishoo97x/un-united-nations-host-header-injection-leads-to-any-full-account-takeover-ato-795bc9ebc670, Host-header-injection
 - https://www.synacktiv.com/en/publications/exploiting-cve-2022-24816-a-code-injection-in-the-jt-jiffle-extension-of-geoserver.html, RCE
@@ -1431,7 +1428,6 @@
 - https://srcincite.io/blog/2021/08/25/pwn2own-vancouver-2021-microsoft-exchange-server-remote-code-execution.html, RCE
 - https://maxwelldulin.com/BlogPost?post=7676291072, Logic-flaw
 - https://robertheaton.com/bumble-vulnerability/, Information-disclosure
-- https://medium.com/@noob.assassin/5k-misconfigured-reset-password-that-leads-to-account-takeover-no-user-interaction-ato-e6a36b8ef183, Account-takeover
 - https://medium.com/@nehpatel/story-of-unexpected-bugs-75734d51ac57, IDOR
 - https://web.archive.org/web/20210909040725/https://obsrva.org/2021/08/22/monkeytype-disclosure.html, Stored-XSS
 - https://zemnmez.medium.com/how-to-hack-apple-id-f3cc9b483a41, XSS
@@ -2956,7 +2952,6 @@
 - https://whitton.io/articles/abusing-cors-for-an-xss-on-flickr/, XSS
 - http://blog.shashank.co/2013/12/heroku-directory-transversal.html, Path-traversal
 - http://blog.shashank.co/2013/11/oracle-xss.html, XSS
-- https://josipfranjkovic.blogspot.com/2013/11/facebook-bug-bounty-secondary-damage.html, CSRF
 - https://www.rcesecurity.com/2013/09/paypal-bug-bounty-paypaltech-com-e-mail-injection/, Email-injection
 - https://arulkumar.in/delete-any-photo-from-facebook-by-exploiting-support-dashboard, IDOR
 - https://arulkumar.in/multiple-open-url-redirection-vulnerability-in-facebook-worth-1500/, Open-redirect

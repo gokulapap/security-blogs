@@ -68,3 +68,4 @@
 - https://medium.com/@prateek_0490/how-i-could-have-compromised-any-account-on-one-of-the-biggest-startup-based-in-california-3ebc8c6844b5
 - https://shahjerry33.medium.com/duplicate-registration-the-twinning-twins-883dfee59eaf
 - https://medium.com/@sahruldotid/how-i-takeover-wordpress-admin-fiiipay-my-1bdede83635d
+- https://medium.com/@noob.assassin/5k-misconfigured-reset-password-that-leads-to-account-takeover-no-user-interaction-ato-e6a36b8ef183
