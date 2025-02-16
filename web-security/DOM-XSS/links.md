@@ -17,3 +17,4 @@
 - https://blog.it-securityguard.com/bugbounty-paypal-dom-xss-main-domain/
 - https://medium.com/@M0X0101/how-i-was-able-to-steal-users-credentials-via-swagger-ui-dom-xss-e84255eb8c96
 - https://ysamm.com/?p=779
+- https://medium.com/@maxon3/reflected-dom-xss-and-clickjacking-on-https-silvergoldbull-de-bt-html-daa36bdf7bf0

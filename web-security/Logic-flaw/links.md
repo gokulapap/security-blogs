@@ -112,3 +112,4 @@
 - https://medium.com/japzdivino/bypass-hackerone-2fa-requirement-and-reporter-blacklist-46d7959f1ee5
 - https://0xm5awy.medium.com/how-i-found-8-vulnerabilities-in-24h-aad3bd5fd487
 - https://philippeharewood.com/generate-valid-signatures-for-fbcdn-urls/
+- https://a2nkf.github.io/unauthd_Logic_bugs_FTW/

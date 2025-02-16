@@ -551,7 +551,6 @@
 - https://shahjerry33.medium.com/api-misconfiguration-no-swag-of-swaggerui-9b43135346be, Security-misconfiguration
 - https://medium.com/@Parag_Bagul/how-i-identified-and-reported-vulnerabilities-in-oracle-and-the-rewards-of-responsible-43ee5fea457f, Information-disclosure
 - https://www.synacktiv.com/sites/default/files/2023-01/sudo-CVE-2023-22809.pdf, Local-Privilege-Escalation
-- https://medium.com/@mohanad.hussam23/from-error-log-file-p4-to-company-account-takeover-p1-and-unauthorized-actions-on-api-35e45e43273a, Information-disclosure
 - https://x41-dsec.de/security/research/news/2023/01/17/git-security-audit-ostif/, Memory-corruption
 - https://semgrep.dev/blog/2022/xml-security-in-java, XXE
 - https://www.dsecbypass.com/en/centreon-map-vulnerability/, Authentication-bypass
@@ -961,7 +960,6 @@
 - https://medium.com/@shaunak007/how-i-spammed-a-google-meet-but-for-good-8bc5b328f1bb, DoS
 - https://infosecwriteups.com/abusing-url-shortners-for-fun-and-profit-c83c67713916, Information-disclosure
 - https://medium.com/@rodricbr/from-open-redirect-to-reflected-xss-manually-64e633a3d23f, Open-redirect
-- https://bishopfox.com/blog/netwrix-auditor-advisory, Insecure-deserialization
 - https://blog.aquasec.com/cve-2022-32223-dll-hijacking, DLL-Hijacking
 - https://medium.com/tenable-techblog/microsoft-azure-site-recovery-dll-hijacking-cd8cc34ef80c, DLL-Hijacking
 - https://medium.com/@soufianehabti/write-up-1-hellosign-integration-full-read-ssrf-df5e1a5bc627, SSRF
@@ -1455,7 +1453,6 @@
 - https://molx32.github.io/blog/2021/Bug-bounty-00/, Information-disclosure
 - https://coffeejunkie.me/Blind-XXE-Port-Scanning/, XXE
 - https://coffeejunkie.me/Multi-Domain-DOM-Cross-Site-Scripting/, DOM-XSS
-- https://medium.com/pentesternepal/the-journey-from-google-honorable-mention-to-hall-of-fame-f62d9d5882ea, Referer-leakage
 - https://medium.com/@mumeido/from-hobby-to-hacking-5d8befb3adde, Unrestricted-file-upload
 - https://medium.com/@muhammadsholikhin/facebook-vulnerability-expose-group-member-3000-cca809a53f6b, IDOR
 - https://blog.niksthehacker.com/xxe-in-public-transport-ticketing-mobile-app-81ae245c01a1, XXE
@@ -1898,7 +1895,6 @@
 - https://vj0shii.github.io/multi-factor-auth-bypass-with-password-reset-function/, MFA-bypass
 - https://rhynorater.github.io/CVE-2020-13379-Write-Up, SSRF
 - https://objective-see.com/blog/blog_0x4D.html, Local-Privilege-Escalation
-- https://a2nkf.github.io/unauthd_Logic_bugs_FTW/, Logic-flaw
 - https://medium.com/bugbountywriteup/bypassing-otp-via-reset-password-f004a29020c, OTP-bypass
 - https://medium.com/@zseano/new-features-means-new-bugs-ece4d10cdf9d, Logic-flaw
 - https://medium.com/@ashokcpg/weird-behavior-of-facebook-page-faq-leading-to-bounty-from-facebook-b4984e623b38, Logic-flaw
@@ -2594,7 +2590,6 @@
 - https://web.archive.org/web/20200811013311/https://medium.com/@protector47/persistent-cross-site-scripting-on-redacted-worth-2-000-1e760617ccab, Stored-XSS
 - https://medium.com/intigriti/how-i-hijacked-your-account-when-you-opened-my-cat-picture-9a0a0acca9e8, Logout-CSRF
 - https://medium.com/@Mthirup/hacking-your-own-antivirus-for-fun-and-profit-safe-browsing-gone-wrong-365db9d1d3f7, Reflected-XSS
-- https://medium.com/@maxon3/reflected-dom-xss-and-clickjacking-on-https-silvergoldbull-de-bt-html-daa36bdf7bf0, DOM-XSS
 - https://medium.com/@aniltom/open-redirect-vulnerability-in-udacity-com-7cba7abcfd48, Open-redirect
 - https://medium.com/@mahitman1/hacking-a-crypto-debit-card-service-730f287aaee7, SQL-injection
 - https://medium.com/@thebuckhacker/how-to-do-55-000-subdomain-takeover-in-a-blink-of-an-eye-a94954c3fc75, Subdomain-takeover
