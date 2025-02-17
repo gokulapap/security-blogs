@@ -219,7 +219,6 @@
 - https://blog.assetnote.io/2023/06/29/binary-reversing-citrix-xss/, Reflected-XSS
 - https://medium.com/@ahmedelmorsy312/weakness-of-integration-bce1520ba672, Logic-flaw
 - https://www.zerodayinitiative.com/blog/2023/6/29/cve-2023-20864-remote-code-execution-in-vmware-aria-operations-for-logs, RCE
-- https://www.securityjoes.com/post/process-mockingjay-echoing-rwx-in-userland-to-achieve-code-execution, DLL-injection
 - https://bharat-singh.medium.com/how-bac-broken-access-control-got-me-a-pre-account-takeover-2481931b7b3a, Pre-account-takeover
 - https://www.sonarsource.com/blog/why-orms-and-prepared-statements-cant-always-win/, SQL-injection
 - https://www.synacktiv.com/sites/default/files/2023-06/synacktiv-ucopia-multiple-vulnerabilities-2022.pdf, Security-misconfiguration
@@ -386,7 +385,6 @@
 - https://xelkomy.medium.com/found-ssrf-and-lfi-in-just-10-minutes-of-using-burp-492fddef3f3e, SSRF
 - https://www.sonarsource.com/blog/it-s-a-snmp-trap-gaining-code-execution-on-librenms/, RCE
 - https://www.wiz.io/blog/azure-active-directory-bing-misconfiguration, Account-takeover
-- https://posts.specterops.io/id-tap-that-pass-8f79fff839ac, Azure-AD
 - https://blog.scrt.ch/2023/03/29/attacking-android-antivirus-applications/, Android
 - https://medium.com/@bughuntar/a-short-tell-of-lfi-from-pdf-link-professor-the-hunter-43a8be853e, LFI
 - https://blog.nintechnet.com/high-severity-vulnerability-fixed-in-wordpress-elementor-pro-plugin/, Broken-Access-Control
@@ -954,7 +952,6 @@
 - https://medium.com/@moSec/crlf-to-account-takeover-chaining-bugs-21a25dfa1cdf, CRLF-injection
 - https://medium.com/@anjaneyulukanakatla1996/business-logic-error-6922ba75cad8, Logic-flaw
 - https://vengeance.medium.com/authorization-token-leak-from-verifying-email-endpoint-f28803476680, Account-takeover
-- https://medium.com/@bhatiagaurav1211/ability-to-login-as-google-staff-in-google-cloud-community-57c45809de05, Privilege-escalation
 - https://medium.com/@milanjain7906/good-recon-leads-to-senssitive-accounts-a8abb6c21333, Information-disclosure
 - https://medium.com/@evilmango/this-is-what-i-call-mass-idor-20e6ec146c0e, Lack-of-rate-limiting
 - https://medium.com/@shaunak007/how-i-spammed-a-google-meet-but-for-good-8bc5b328f1bb, DoS
@@ -2573,7 +2570,6 @@
 - https://medium.com/@raushanraj_65039/clickjacking-in-google-docs-and-voice-typing-feature-c481d00b020a, Clickjacking
 - https://medium.com/@jonathanbouman/stored-xss-unvalidated-embed-at-medium-com-528b0d6d4982, Stored-XSS
 - https://medium.com/@saamux/applying-a-small-bypass-to-steal-facebook-session-tokens-in-uber-5b9638b7a18c, XSS
-- https://blog.securityevaluators.com/collecting-shells-by-the-sea-of-nas-vulnerabilities-155a0bd7c525, OS-command-injection
 - https://ls-la.fyi/2018/09/28/subway-xposed/, Logic-flaw
 - https://medium.com/@justmorpheus/idor-content-spoofing-and-url-redirection-via-unsubscribe-email-in-confluent-1fa7398cfe7a, IDOR
 - https://medium.com/@sivakrishnasamireddi/just-another-tale-of-severe-bugs-on-a-private-program-405870b03532, Open-redirect
@@ -2864,7 +2860,6 @@
 - https://labs.detectify.com/2017/02/28/hacking-slack-using-postmessage-and-websocket-reconnect-to-steal-your-precious-token/, postMessage
 - https://timeofcheck.com/time-based-blind-sqli-on-news-starbucks-com/, Blind-SQL-injection
 - https://medium.com/intigriti/how-i-got-your-phone-number-through-facebook-223b769cccf1, Logic-flaw
-- https://medium.com/bugbountywriteup/how-i-was-able-to-remove-your-instagram-phone-number-d346515e79c3, Bruteforce
 - https://ysx.me.uk/from-rss-to-xxe-feed-parsing-on-hootsuite/, XSS
 - http://mahmoudsec.blogspot.com/2017/02/sql-injection-in-update-query-bug.html, SQL-injection
 - https://ysx.me.uk/lightweight-markup-a-trio-of-persistent-xss-in-gitlab/, Stored-XSS

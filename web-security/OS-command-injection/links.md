@@ -11,3 +11,4 @@
 - https://sushant-kamble.medium.com/how-i-found-command-injection-via-obsolete-phpthumb-p1-vulnerability-e4811248ce12
 - https://boschko.ca/tenda_ac1200_router/
 - https://medium.com/bugbountywriteup/command-injection-poc-72cc3743f10d
+- https://blog.securityevaluators.com/collecting-shells-by-the-sea-of-nas-vulnerabilities-155a0bd7c525

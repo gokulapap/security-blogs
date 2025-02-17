@@ -33,3 +33,4 @@
 - https://ioactive.com/discovering-and-exploiting-a-vulnerability-in-androids-personal-dictionary/
 - https://seanmelia.files.wordpress.com/2017/06/django-privilege-escalation-e28093-zero-to-superuser.pdf
 - https://v3d.medium.com/broken-access-control-leads-to-change-of-admin-details-a783e31729c4
+- https://medium.com/@bhatiagaurav1211/ability-to-login-as-google-staff-in-google-cloud-community-57c45809de05
