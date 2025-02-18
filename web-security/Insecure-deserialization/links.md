@@ -20,3 +20,4 @@
 - https://www.synacktiv.com/en/publications/php-filters-chain-what-is-it-and-how-to-use-it.html
 - https://github.com/httpvoid/writeups/blob/main/Ruby-deserialization-gadget-on-rails.md
 - https://bishopfox.com/blog/netwrix-auditor-advisory
+- https://www.reversemode.com/2022/01/finding-vulnerabilities-in-swiss-posts.html

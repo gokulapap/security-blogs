@@ -37,3 +37,5 @@
 - https://www.elttam.com/blog/pwnassistant/
 - https://research.digitalinterruption.com/2018/01/04/toytalk-bug-bounty-writeup/
 - https://feed.bugs.xdavidhu.me/bugs/0013
+- https://ashutoshmishra00x0.medium.com/account-takeover-via-response-manipulation-worth-1800-ffb242cc55c9
+- https://halove23.blogspot.com/2021/09/zdi-21-1053-bypassing-windows-lock.html

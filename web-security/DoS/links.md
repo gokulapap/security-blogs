@@ -32,3 +32,4 @@
 - https://www.interruptlabs.co.uk/articles/linux-ipv6-route-of-death
 - https://medium.com/@faique/first-bug-bounty-from-dos-taking-the-service-down-30f9ad4e0246
 - https://portswigger.net/research/responsible-denial-of-service-with-web-cache-poisoning
+- https://www.code-intelligence.com/blog/expression-dos-spring

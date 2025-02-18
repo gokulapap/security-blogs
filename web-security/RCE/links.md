@@ -186,3 +186,4 @@
 - https://infosecwriteups.com/how-i-hacked-into-a-telecom-network-part-1-getting-the-rce-167c2bb320e6
 - https://devcraft.io/2020/10/20/github-pages-multiple-rces-via-kramdown-config.html
 - https://saligrama.io/blog/post/gradescope-autograder-security/
+- https://spaceraccoon.dev/all-your-d-base-are-belong-to-us-part-2-code-execution-in-microsoft-office

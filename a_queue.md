@@ -396,7 +396,6 @@
 - https://www.netspi.com/blog/technical/cloud-penetration-testing/azure-function-apps/, Privilege-escalation
 - https://medium.com/@warrenbutterworth/finding-initial-access-on-a-real-life-penetration-test-86ed5503ae48, Old-components-with-known-vulnerabilities
 - https://occamsec.com/getting-root-a-technical-walkthrough/, Information-disclosure
-- https://www.code-intelligence.com/blog/expression-dos-spring, DoS
 - https://www.synacktiv.com/sites/default/files/2023-03/Synacktiv-Grails-Spring-Security-CVE-2022-41923.pdf, Privilege-escalation
 - https://blog.doyensec.com//2023/03/21/windows-installer.html, Local-Privilege-Escalation
 - https://notifybugme.medium.com/how-i-got-access-to-essilor-international-company-customer-pii-info-by-aws-metadata-access-through-3da02f4c79f0, SSRF
@@ -1221,7 +1220,6 @@
 - https://medium.com/@quelperlado/facebook-room-deep-linking-vulnerability-allow-malicious-user-to-know-the-code-for-anyones-4761b93481f1, Insecure-deeplink
 - https://srcincite.io/blog/2022/01/20/zohowned-a-critical-authentication-bypass-on-zoho-manageengine-desktop-central.html, Authentication-bypass
 - https://medium.com/@himmat1005/how-i-messed-up-my-own-profile-data-94a4b09cb54c, Authorization-flaw
-- https://www.reversemode.com/2022/01/finding-vulnerabilities-in-swiss-posts.html, Insecure-deserialization
 - https://www.zerodayinitiative.com/blog/2022/1/18/cve-2021-21661-exposing-database-info-via-wordpress-sql-injection, SQL-injection
 - https://googleprojectzero.blogspot.com//2022/01/zooming-in-on-zero-click-exploits.html, Memory-corruption
 - https://medium.com/@robert0/how-i-found-broken-access-control-through-out-of-sync-setup-and-got-1000-9143fc5febdd, Broken-Access-Control
@@ -1335,7 +1333,6 @@
 - https://xdev05.github.io/How-i-Got-3-SQLI-in-just-10-minutes/, SQL-injection
 - https://infosecwriteups.com/a-story-of-another-awesome-old-school-hacking-that-lead-to-a-cool-p1-bug-f88da04b1ecf, 403-bypass
 - https://r0.haxors.org/posts?id=20, Stored-XSS
-- https://spaceraccoon.dev/all-your-d-base-are-belong-to-us-part-2-code-execution-in-microsoft-office, RCE
 - https://pyn3rd.github.io/2021/10/22/mysql-jdbc-xxe/, XXE
 - https://med-mahmoudi26.medium.com/from-staging-to-0-click-account-takeover-528a5ecaa3eb, Account-takeover
 - https://www.gosecure.net/blog/2021/10/19/a-scientific-notation-bug-in-mysql-left-aws-waf-clients-vulnerable-to-sql-injection/, SQL-injection
@@ -1407,7 +1404,6 @@
 - https://cyberguy0xd1.medium.com/how-i-hacked-bbc-mail-servers-e61bb6faed2d, Information-disclosure
 - https://ysamm.com/?p=708, Account-takeover
 - https://4bdoz.medium.com/rce-by-code-injection-perl-reverse-shell-a2e90181b10, RCE
-- https://halove23.blogspot.com/2021/09/zdi-21-1053-bypassing-windows-lock.html, Authentication-bypass
 - https://medium.com/pentesternepal/hacking-dutch-government-for-a-lousy-t-shirt-8e1fd1b56deb, IDOR
 - https://cho0k.com/wp-content/uploads/2021/08/FullPoC.pdf, Privilege-escalation
 - https://theshubh77.medium.com/bypassing-2-factor-authentication-for-facebook-business-manager-bounty-1000-usd-c78c858459d6, MFA-bypass
@@ -1651,7 +1647,6 @@
 - https://web.archive.org/web/20210227092343/https://tommysuriel.medium.com/csrf-through-url-with-tag-parameter-c8ef585bded3, CSRF
 - https://web-in-security.blogspot.com/2021/02/security-and-privacy-of-social-logins-part2.html, DOM-XSS
 - https://zdresearch.com/rce-on-a-laravel-private-program/, RCE
-- https://ashutoshmishra00x0.medium.com/account-takeover-via-response-manipulation-worth-1800-ffb242cc55c9, Authentication-bypass
 - https://thevillagehacker.medium.com/account-take-over-by-response-manipulation-e1293ee51e9a, Authentication-bypass
 - https://ysamm.com/?p=640, Information-disclosure
 - https://ysamm.com/?p=638, Information-disclosure
