@@ -566,7 +566,6 @@
 - https://andika-here.medium.com/how-i-earned-1000-from-business-logic-vulnerability-account-takeover-f03547950c82, Logic-flaw
 - https://erasec.be/blog/client-side-path-manipulation/, Client-side-Path-Traversal
 - https://krevetk0.medium.com/hacking-hackers-for-fun-and-profit-784e6c7897e8, Self-XSS
-- https://www.vulnano.com/2023/01/meta-quest-attacker-could-make-any.html, IDOR
 - https://ymohagheghi.medium.com/uploading-the-webshell-using-filename-of-content-disposition-header-story-59ba87752311, Unrestricted-file-upload
 - https://crypt0g30rgy.github.io/post/SSRFtoDos, SSRF
 - https://crypt0g30rgy.github.io/post/PaymentBypassOne, Payment-bypass
@@ -722,7 +721,6 @@
 - https://rambo.codes/posts/2022-10-25-sirispy-ios-bug-allowed-apps-to-eavesdrop, iOS
 - https://checkmarx.com/blog/attacking-the-software-supply-chain-with-a-simple-rename/, Repojacking
 - https://medium.com/@raymond-lind/stored-xss-to-cookie-exfiltration-2cbca6a8c7f0, Stored-XSS
-- https://boschko.ca/glinet-router/, OS-command-injection
 - https://starlabs.sg/blog/2022/10-sharepoint-post-authenticated-ssrf-vulnerability/, SSRF
 - https://web.archive.org/web/20221025185418/https://bergee.it/blog/chaining-multiple-vulnerabilities-for-credential-stealing/, CSRF
 - https://mechboy.medium.com/support-supports-a-hacker-be9931104923, Social-engineering
@@ -1142,7 +1140,6 @@
 - https://medium.com/@interc3pt3r/for-the-first-bounty-it-takes-a-few-challenging-months-but-only-a-few-days-for-the-second-7b53259b0199, Old-components-with-known-vulnerabilities
 - https://shahjerry33.medium.com/parameter-pollution-zero-day-3feb86ee8a02, HTTP-parameter-pollution
 - https://github.com/justinsteven/advisories/blob/main/2022_git_buried_bare_repos_and_fsmonitor_various_abuses.md, RCE
-- https://research.nccgroup.com/2022/03/15/technical-advisory-apple-macos-xar-arbitrary-file-write-cve-2022-22582/, Arbitrary-file-write
 - https://blog.haboob.sa/blog/adobe-reader-cjk-codecs-memory-disclosure-vulnerability, Memory-disclosure
 - https://web.archive.org/web/20220315141258/https://eslam3kl.medium.com/sql-injection-at-spotify-d19e0861ddf0, SQL-injection
 - https://medium.com/@tobydavenn/how-i-made-the-bbc-hall-of-fame-3-times-2c816fa515d7, Information-disclosure
@@ -1233,7 +1230,6 @@
 - https://noob3xploiter.medium.com/2fa-bypass-by-reading-the-documentation-3260a372d8a8, MFA-bypass
 - https://infosecwriteups.com/a-tale-of-5250-how-i-accessed-millions-of-users-data-including-their-national-id-s-fd48ca7ca0bf, AWS-misconfiguration
 - https://outflank.nl/blog/2022/01/07/a-phishing-document-signed-by-microsoft-part-2/, Phishing
-- https://ian.sh/redash, Privilege-escalation
 - https://infosecwriteups.com/authorization-bypass-gmail-2949af041fb, Spoofing
 - https://systemweakness.com/accessing-godaddy-internal-instance-through-an-email-logic-bug-fdbea7b23542, Logic-flaw
 - https://zoidsec.medium.com/breaking-parse-logic-gain-access-to-nginx-api-read-write-upstreams-1cb062aa44ca, Path-traversal
@@ -2612,7 +2608,6 @@
 - https://medium.com/@justmorpheus/s3-bucket-misconfiguration-in-amazon-a7da6a6e02ea, AWS-misconfiguration
 - https://medium.com/bugbountywriteup/adminer-script-results-to-pwning-server-private-bug-bounty-program-fe6d8a43fe6f, Authentication-bypass
 - https://www.tutorgeeks.net/2018/08/misconfigured-jira-setting-apigee.html, Information-disclosure
-- https://web.archive.org/web/20191219011242/https://medium.com/@zk34911/twitter-bug-bounty-misconfigured-json-endpoint-on-ads-twitter-com-2771ec83a82, Authorization-flaw
 - https://portswigger.net/research/practical-web-cache-poisoning, Web-cache-poisoning
 - https://medium.com/bugbountywriteup/from-tomcat-to-nt-authority-system-a79fa09c4abb, Default-credentials
 - https://medium.com/@carlosdanielgiovanella/this-is-how-can-i-spoof-any-sentry-log-infinitely-and-create-fake-error-logs-74406367f4ba, Content-spoofing
