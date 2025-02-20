@@ -35,3 +35,4 @@
 - https://v3d.medium.com/broken-access-control-leads-to-change-of-admin-details-a783e31729c4
 - https://medium.com/@bhatiagaurav1211/ability-to-login-as-google-staff-in-google-cloud-community-57c45809de05
 - https://ian.sh/redash
+- https://medium.com/@the.white.soul.0/bug-bounty-fastmail-topicbox-com-privileges-escalation-organization-takeover-815466876ad4

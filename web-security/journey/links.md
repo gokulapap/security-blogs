@@ -9,3 +9,4 @@
 - https://medium.com/@yashdharmani/a-bug-that-made-me-250-485df60f5b26
 - https://medium.com/@rammk01/how-can-i-takeover-any-account-using-only-their-email-or-mobile-number-deca71a05a4b
 - https://medium.com/@niraj1mahajan/a-hackers-tale-finding-10x-cves-in-wordpress-plugins-30f86bacf2c8
+- https://medium.com/@aob-89072/story-of-my-bugs-on-a-private-program-privilege-escalation-xss-sqli-idors-a5be4c6acbbd

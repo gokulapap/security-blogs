@@ -31,7 +31,6 @@
 - https://medium.com/@thexssrat/xss-made-easy-for-testers-developers-and-managers-b404f744ec6b, XSS
 - https://medium.com/@marxchryz/how-i-gain-access-to-the-server-administration-of-a-million-dollar-company-14da68c7a9dd, journey
 - https://medium.com/@ryuukhagetsu/how-i-get-bounty-from-takeover-account-ed17cd838b2a, ATO
-- https://medium.com/@aob-89072/story-of-my-bugs-on-a-private-program-privilege-escalation-xss-sqli-idors-a5be4c6acbbd, journey
 - https://medium.com/@qaafqasim/discovering-login-panels-and-detecting-sql-injection-with-logsensor-42842e337244, sql-injection
 - https://medium.com/@jjainam16/otp-verification-bypass-15312498fe10, bypass
 - https://medium.com/@noob3xploiter/hacking-into-school-management-systems-reflected-xss-to-rce-74880c423024, XSS
@@ -1368,7 +1367,6 @@
 - https://parsiya.net/blog/2021-09-26-attack-surface-analysis-part-3-resurrected-code-execution/, RCE
 - https://www.shielder.it/advisories/remote-command-execution-in-visual-studio-code-remote-development-extension/, RCE
 - https://habr.com/en/post/579714/, Information-disclosure
-- https://medium.com/@the.white.soul.0/bug-bounty-fastmail-topicbox-com-privileges-escalation-organization-takeover-815466876ad4, Privilege-escalation
 - https://trenchant.io/pwn2own-2021-parallels-desktop-guest-to-host-escape/, VM-escape
 - https://rizwansiddiqu1.medium.com/super-admin-panel-without-credentials-c2022a23bb35, Authentication-bypass
 - https://www.akamai.com/blog/security/autodiscovering-the-great-leak, Domain-name-collision
@@ -1968,7 +1966,6 @@
 - https://medium.com/@vishnu0002/account-takeover-via-otp-bruteforce-apigee-api-9b5481c642df, OTP-bypass
 - https://medium.com/@mudassirsharief58/hunt-for-sql-injection-the-smart-way-db85243a4e90, SQL-injection
 - https://medium.com/@bachrudinashari/privilege-escalation-by-changing-http-response-admin-access-5e67c44713f6, Privilege-escalation
-- https://medium.com/@__mr_beast__/the-accidental-rce-7ceef9cee179, Unrestricted-file-upload
 - https://www.cyberonesecurity.com/blog/local-privilege-escalation-discovered-in-vmware-fusion, Local-Privilege-Escalation
 - https://medium.com/@ricardoiramar/this-is-fine-6e032f497b8f, Information-disclosure
 - http://www.firstsight.me/2020/06/from-399-to-1650-usd-part-i-simple-vertical-privilege-escalation-by-changing-http-response/, Privilege-escalation
@@ -2361,7 +2358,6 @@
 - https://utkusen.com/blog/why-you-shouldnt-use-password-manager-for-linode.html, Account-takeover
 - http://www.tomanthony.co.uk/blog/xss-attacks-googlebot-index-manipulation/, Logic-flaw
 - https://medium.com/@mattharr0ey/remote-code-execution-on-microsoft-edge-url-protocol-a67d0f96b32d, RCE
-- https://medium.com/@kankrale.rahul/from-na-to-3000-facebooks-url-spoofing-vulnerability-b4be1a3c63b1, URL-spoofing
 - https://baibhavjha.com.np/blogs/instagramstory/, Authorization-flaw
 - https://medium.com/a-bugz-life/from-reflected-xss-to-account-takeover-showing-xss-impact-9bc6dd35d4e6, Reflected-XSS
 - https://labs.bluefrostsecurity.de/blog/2019/04/29/dont-follow-the-masses-bug-hunting-in-javascript-engines/, Buffer-Overflow
@@ -2440,7 +2436,6 @@
 - https://ysamm.com/?p=185, CSRF
 - https://www.linkedin.com/pulse/hacking-youtube-fun-profit-alexandru-coltuneac/, IDOR
 - https://ysamm.com/?p=214, Authorization-flaw
-- https://medium.com/@abaykandotcom/clickjacking-on-google-cse-6636bba72d20, Clickjacking
 - https://medium.com/@pig.wig45/setting-up-gitrob-and-using-it-to-find-leaking-repository-of-an-employee-in-a-hackerone-private-e4c40da1bc85, Information-disclosure
 - https://ysamm.com/?p=158, Information-disclosure
 - https://ysamm.com/?p=171, IDOR

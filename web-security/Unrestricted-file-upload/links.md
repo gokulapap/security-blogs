@@ -23,3 +23,4 @@
 - https://kunalkhubchandani.medium.com/how-i-was-rewarded-a-1000-bounty-after-abusing-file-upload-functionality-to-stored-xss-945a40ac6f94
 - https://ahmed8magdy.medium.com/file-upload-to-rce-538bb4128062
 - https://sagarsajeev.medium.com/file-upload-bypass-to-rce-76991b47ad8f
+- https://medium.com/@__mr_beast__/the-accidental-rce-7ceef9cee179

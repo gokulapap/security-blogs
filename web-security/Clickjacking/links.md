@@ -18,3 +18,4 @@
 - https://santuysec.com/2021/01/27/hijacking-google-drive-files-documents-photo-video-through-google-docs-sharing/
 - https://medium.com/@h4x0r_dz/vulnerability-in-paypal-worth-200000-bounty-attacker-can-steal-your-balance-by-one-click-2b358c1607cc
 - https://sriram-offcl.medium.com/play-a-game-get-subscribed-to-my-channel-youtube-clickjacking-bug-googlevrp-6ce1d15542d3
+- https://medium.com/@abaykandotcom/clickjacking-on-google-cse-6636bba72d20
