@@ -1,1 +1,2 @@
 - https://www.rapid7.com/blog/post/2022/12/20/cengage-lti-session-management-leakage/
+- https://medium.com/@jonathanbouman/unprotected-api-endpoint-at-hawebsso-nl-5f1951e212fe

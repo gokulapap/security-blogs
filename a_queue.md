@@ -402,7 +402,6 @@
 - https://www.da.vidbuchanan.co.uk/blog/exploiting-acropalypse.html, Privacy-issue
 - https://medium.com/@bag0zathev2/easy-via-api-params-manipulation-leading-to-bypassing-the-email-verification-block-a45dad2db60c, Mass-assignment
 - https://www.synacktiv.com/sites/default/files/2023-03/Synacktiv-BIRTViewer-CVE-2023-0100_1.pdf, RCE
-- https://blog.scrt.ch/2023/03/17/bypassing-ppl-in-userland-again/, Kernel-hacking
 - https://medium.com/@hritkmjth/directory-traversal-and-lfi-worth-400-c4422785d3bd, Path-traversal
 - https://infosecwriteups.com/anatomy-of-a-reflected-xss-my-discovery-on-a-microsofts-subdomain-7a237aba4392, Reflected-XSS
 - https://princej-76.medium.com/how-i-chained-multiple-high-impact-vulnearbilities-to-create-a-critical-one-476950a3bb9f, Account-takeover
@@ -607,7 +606,6 @@
 - https://hacksys.io/blogs/foxit-reader-uaf-rce-jit-spraying-cve-2022-28672, Memory-corruption
 - https://salt.security/blog/missing-bricks-finding-security-holes-in-lego-apis, XSS
 - https://bishopfox.com/blog/flowscreencomponents-advisory, XSS
-- https://medium.com/@jonathanbouman/unprotected-api-endpoint-at-hawebsso-nl-5f1951e212fe, SSO
 - https://spyclub.tech/2022/12/14/unusual-cache-poisoning-akamai-s3/, Web-cache-poisoning
 - https://www.akamai.com/blog/security-research/msrpc-lsm-cve-disturbing-hosts-rest, Windows
 - https://aidenpearce369.github.io/offsec/My-First-RedTeam-Engagement/, SQL-injection
@@ -930,7 +928,6 @@
 - https://www.yesnaveen.com/2022/07/permanently-crash-instagram-followers.html, DoS
 - https://medium.com/@IroquoisPliskin/how-i-was-able-to-take-over-a-support-chat-using-leaked-keys-d5c4922bb3d4, Information-disclosure
 - https://www.vectra.ai/blogpost/abusing-the-replicator-silently-exfiltrating-data-with-the-aws-s3-replication-service, Security-Logging-and-Monitoring-Failure
-- https://www.randorisec.fr/crack-linux-firewall/, Memory-corruption
 - https://www.vulnano.com/2022/07/react-debugkeystore-key-was-trusted-by.html, Account-takeover
 - https://www.zerodayinitiative.com/blog/2022/7/19/riding-the-inforail-to-exploit-ivanti-avalanche, RCE
 - https://www.0xlanks.me/blog/blogengine-writeup, Path-traversal
@@ -1100,7 +1097,6 @@
 - https://blog.fadyothman.com/metas-sparkar/, RCE
 - https://ahmadaabdulla.medium.com/vulnerabilitymultiple-vulnerability-leading-to-account-takeover-in-tiktok-smb-subdomain-c99e4a50b377, IDOR
 - https://gokulap.medium.com/how-i-got-access-to-1600k-users-pii-data-64a27a540963, Information-disclosure
-- https://www.secureworks.com/research/azure-active-directory-exposes-internal-information, Cloud
 - https://haxatron.gitbook.io/vulnerability-research/vr1, Broken-Access-Control
 - https://blog.aquasec.com/npm-supply-chain-attack, Information-disclosure
 - https://tarekbouali.com/posts/how-i-hacked-one-of-the-biggest-airlines-group-of-the-world/, IDOR
@@ -2328,7 +2324,6 @@
 - https://blog.nyangawa.me/security/GitLab-Local-File-Read/, Path-traversal
 - https://vishwarajbhattrai.wordpress.com/2019/06/03/missing-access-control-at-play-store/, Authorization-flaw
 - https://medium.com/@nandwanajatin25/story-of-a-uri-based-xss-with-some-simple-google-dorking-e1999254aa55, XSS
-- https://medium.com/@nishantrustlingup/my-first-csrf-to-account-takeover-worth-750-1332641d4304, CSRF
 - https://anotherhackerblog.com/exploiting-file-uploads-pt1/, Stored-XSS
 - https://medium.com/@matarpan33r/stored-xss-on-edmodo-67b244824fa5, Stored-XSS
 - https://smaranchand.com.np/2019/05/an-unexploited-cors-misconfiguration-reflecting-further-issues/, CORS-misconfiguration

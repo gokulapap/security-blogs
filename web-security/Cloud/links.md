@@ -10,3 +10,4 @@
 - https://blog.prodefense.io/how-abusing-aws-cloudformation-led-to-a-total-takeover-of-an-aws-environment-7f94cabd671d
 - https://frichetten.com/blog/undocumented-amplify-api-leak-account-id/
 - https://securitylabs.datadoghq.com/articles/bypass-cloudtrail-aws-service-catalog-and-other/
+- https://www.secureworks.com/research/azure-active-directory-exposes-internal-information

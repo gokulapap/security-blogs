@@ -76,3 +76,4 @@
 - https://medium.com/bugbountywriteup/bugbounty-how-i-was-able-to-delete-anyones-account-in-an-online-car-rental-company-8a4022cc611
 - https://josipfranjkovic.blogspot.com/2013/11/facebook-bug-bounty-secondary-damage.html
 - https://haiderm.com/how-i-was-able-to-delete-13k-microsoft-translator-projects/
+- https://medium.com/@nishantrustlingup/my-first-csrf-to-account-takeover-worth-750-1332641d4304
