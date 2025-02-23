@@ -1,0 +1,1 @@
+- http://blog.redxorblue.com/2020/07/one-click-to-compromise-fun-with.html

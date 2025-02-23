@@ -42,7 +42,6 @@
 - https://medium.com/@nav1n/how-i-got-owned-a-multi-billion-dollar-retailers-mysql-databases-using-simple-sql-injection-30f8b0dfd9ce, sql-injection
 - https://medium.com/@basu-banakar/exploiting-non-cloud-ssrf-for-more-fun-profit-3597934518c8, ssrf
 - https://medium.com/@vamshi-vemula/how-i-got-my-first-bounty-open-redirect-80832e5bf4e6, open-redirection
-- https://medium.com/@thanhdatt/bypass-authentication-1bfab09332fe, bypass
 - https://medium.com/@ananyaghosh1120/beginners-guide-to-automated-scanners-8ec880446421, automation
 - https://medium.com/@hunter-55/how-i-was-able-to-bypass-open-redirect-3-times-on-same-program-d78f9d2443f6, open-redirection
 - https://medium.com/@ibm_ptc_security/exploiting-missing-hsts-54f8e23ed80b, misc
@@ -820,7 +819,6 @@
 - https://medium.com/@Parag_Bagul/how-i-was-able-to-bypass-philips-authentication-c3bd3e1df9ff, Outdated-component-with-a-known-vulnerability
 - https://www.legitsecurity.com/blog/bypassing-github-required-reviewers-to-submit-malicious-code, Authorization-flaw
 - https://medium.com/@abbasheybati1/403-bypass-lyncdiscover-microsoft-com-db2778458c33, 403-bypass
-- https://www.whiteoaksecurity.com/blog/fun-with-cors/, CORS-misconfiguration
 - https://labs.jumpsec.com/quest-kace-desktop-authority-pre-auth-remote-code-execution-cve-2021-44031/, RCE
 - https://www.rapid7.com/blog/post/2022/09/08/baxter-sigma-spectrum-infusion-pumps-multiple-vulnerabilities-fixed/, Hardcoded-credentials
 - https://starlabs.sg/blog/2022/09-step-by-step-walkthrough-of-cve-2022-32792/, Memory-corruption
@@ -1705,7 +1703,6 @@
 - https://medium.com/bugbountywriteup/unauthorized-access-to-odata-entities-2k-bounty-from-microsoft-e070b2ef88c2, Authorization-flaw
 - https://www.darabi.me/2020/12/create-invisible-post-on-any-facebook.html, IDOR
 - https://ashketchum.medium.com/blind-xss-in-google-analytics-admin-panel-3133-70-2185d1cce82a, Blind-XSS
-- https://orthonviper.medium.com/information-disclosure-through-signup-endpoint-86d2d66dfef1, Information-disclosure
 - https://krevetk0.medium.com/10-000-for-a-vulnerability-that-doesnt-exist-9dbc63684e94, Path-traversal
 - https://emanuel-beni.medium.com/stored-xss-on-product-description-high-400-2f078fd70fd2, Stored-XSS
 - https://medium.com/bugbountywriteup/finding-bugs-on-chess-com-739a71fbdb31, Lack-of-rate-limiting
@@ -1878,7 +1875,6 @@
 - https://medium.com/bugbountywriteup/bypassing-otp-via-reset-password-f004a29020c, OTP-bypass
 - https://medium.com/@zseano/new-features-means-new-bugs-ece4d10cdf9d, Logic-flaw
 - https://medium.com/@ashokcpg/weird-behavior-of-facebook-page-faq-leading-to-bounty-from-facebook-b4984e623b38, Logic-flaw
-- http://blog.redxorblue.com/2020/07/one-click-to-compromise-fun-with.html, NTLMv2-hash-disclosure
 - https://medium.com/bugbountywriteup/my-first-bug-bounty-21d3203ffdb0, Information-disclosure
 - https://www.ehpus.com/post/authorization-bypass-in-google-s-ticketing-system, Authorization-flaw
 - https://hunter-55.medium.com/introduction-fae7c8b3d16c, Exposed-registration-page
@@ -2301,7 +2297,6 @@
 - https://medium.com/@androgaming1912/gain-adfly-smtp-access-with-ssrf-via-gopher-protocol-26a26d0ec2cb, SSRF
 - https://philippeharewood.com/view-facebook-payouts-for-any-facebook-trivia-game/, Information-disclosure
 - https://medium.com/@osamaavvan/cors-to-csrf-attack-c33a595d441, CORS-misconfiguration
-- https://philippeharewood.com/toggle-group-rules-agreement-as-a-non-member/, Authorization-flaw
 - https://medium.com/@dr.spitfire/sensitive-information-disclosure-web-cache-deception-attack-bcac6cb9cd86?sk=a2557f0c557ff38876141c2d94b296dd, Information-disclosure
 - https://www.f5.com/labs/articles/threat-intelligence/how-i-hacked-the-microsoft-outlook-android-app-and-found-cve-2019-1105, XSS
 - https://blog.lent.ink/post/klanteservice/, Logic-flaw

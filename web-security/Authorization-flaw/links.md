@@ -80,3 +80,4 @@
 - https://www.vulnano.com/2020/07/global-grant-uri-in-android-80-90-2018.html
 - https://gowtham-naidu.medium.com/how-i-earned-10-000-within-the-last-7-months-17y-o-edition-f566651cef82
 - https://web.archive.org/web/20191219011242/https://medium.com/@zk34911/twitter-bug-bounty-misconfigured-json-endpoint-on-ads-twitter-com-2771ec83a82
+- https://philippeharewood.com/toggle-group-rules-agreement-as-a-non-member/

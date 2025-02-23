@@ -172,3 +172,4 @@
 - https://medium.com/@SkiMask0/hashing-the-favicon-ico-a498fc3d665b
 - https://medium.com/@botami143/i-have-found-microsoft-subdomain-website-database-list-database-username-password-1dab07d0c8ea
 - https://medium.com/@mohanad.hussam23/from-error-log-file-p4-to-company-account-takeover-p1-and-unauthorized-actions-on-api-35e45e43273a
+- https://orthonviper.medium.com/information-disclosure-through-signup-endpoint-86d2d66dfef1
