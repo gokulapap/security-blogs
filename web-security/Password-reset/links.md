@@ -15,3 +15,4 @@
 - https://web.archive.org/web/20201001064738/https://medium.com/@protector47/password-reset-vulnerability-full-account-takeover-insecure-direct-object-reference-c4a9a3ea8268
 - https://medium.com/@0xankush/readme-com-account-takeover-bugbounty-fulldisclosure-a36ddbe915be
 - https://medium.com/@fatnassifiras45/how-i-was-able-to-take-over-any-account-via-the-password-reset-functionality-ef1659f8b481
+- https://medium.com/@naveenroy008/tale-of-a-misconfiguration-in-password-reset-e8fb484a4661

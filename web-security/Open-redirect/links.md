@@ -55,3 +55,4 @@
 - https://gonzx.medium.com/how-i-found-open-redirect-on-hashnode-com-5f3e9ecb8dc6
 - https://medium.com/@rifqihz/open-redirect-via-sendgrid-email-misconfiguration-cec4ccb07f9a
 - https://sagarsajeev.medium.com/escalating-open-redirect-to-xss-d2b9355e5f05
+- https://medium.com/bugbountywriteup/how-i-chained-p4-to-p2-open-redirection-to-full-account-takeover-a28b09a94bf7

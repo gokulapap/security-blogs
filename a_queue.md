@@ -40,7 +40,6 @@
 - https://medium.com/@musab_alharany/10-ways-to-exploit-json-web-token-jwt-ac5f4efbc41b, JWT
 - https://medium.com/@0xm5awy/how-to-find-business-logics-and-broken-access-control-bugs-a31c1a03ced4, BAC
 - https://medium.com/@nav1n/how-i-got-owned-a-multi-billion-dollar-retailers-mysql-databases-using-simple-sql-injection-30f8b0dfd9ce, sql-injection
-- https://medium.com/@basu-banakar/exploiting-non-cloud-ssrf-for-more-fun-profit-3597934518c8, ssrf
 - https://medium.com/@vamshi-vemula/how-i-got-my-first-bounty-open-redirect-80832e5bf4e6, open-redirection
 - https://medium.com/@ananyaghosh1120/beginners-guide-to-automated-scanners-8ec880446421, automation
 - https://medium.com/@hunter-55/how-i-was-able-to-bypass-open-redirect-3-times-on-same-program-d78f9d2443f6, open-redirection
@@ -1096,7 +1095,6 @@
 - https://ahmadaabdulla.medium.com/vulnerabilitymultiple-vulnerability-leading-to-account-takeover-in-tiktok-smb-subdomain-c99e4a50b377, IDOR
 - https://gokulap.medium.com/how-i-got-access-to-1600k-users-pii-data-64a27a540963, Information-disclosure
 - https://haxatron.gitbook.io/vulnerability-research/vr1, Broken-Access-Control
-- https://blog.aquasec.com/npm-supply-chain-attack, Information-disclosure
 - https://tarekbouali.com/posts/how-i-hacked-one-of-the-biggest-airlines-group-of-the-world/, IDOR
 - https://kuldeep.io/posts/nosql-injection-in-plain-sight/, NoSQL-injection
 - https://amit-lt.medium.com/hacked-nokia-with-reflected-cross-site-scripting-vulnerability-327daa8e62fb, Reflected-XSS
@@ -1668,7 +1666,6 @@
 - https://amineaboud.medium.com/disclose-the-fb-profile-of-facebook-employees-who-create-official-announcement-messages-bug-76554068caf7, Information-disclosure
 - https://avanishpathak46.medium.com/an-account-takeover-vulnerability-due-to-response-manipulation-e23fe629bd1, Authentication-bypass
 - https://avanishpathak46.medium.com/an-interesting-account-takeover-vulnerability-a1fbec0e01a, IDOR
-- https://medium.com/bugbountywriteup/how-i-chained-p4-to-p2-open-redirection-to-full-account-takeover-a28b09a94bf7, Open-redirect
 - https://web.archive.org/web/20210201180254/https://www.cysek.org/post/bac-sxss, Stored-XSS
 - https://0xfabiof.github.io/stored-xss-tw/, Stored-XSS
 - https://www.shawarkhan.com/2021/01/analysing-crash-messages-to-achieve.html, OS-command-injection
@@ -2058,7 +2055,6 @@
 - https://medium.com/@ranjitsinghnit/otp-bruteforce-account-takeover-faaac3d712a8, OTP-bruteforce
 - https://0xsha.io/posts/exploiting-magic-links-critical-bugs-are-one-line-away, Information-disclosure
 - https://web.archive.org/web/20200511145923/https://medium.com/@godofdarkness.msf/account-takeover-flow-in-mail-ru-s-ext-a-domain-150-8952e8078211, Logic-flaw
-- https://protonvpn.com/blog/apple-ios-vulnerability-disclosure/, Privacy-issue
 - https://medium.com/@ch3ckm4te/self-xss-to-account-takeover-72c89775cf8f, Account-takeover
 - https://web.archive.org/web/20201004092711/https://sametsahin.net/posts/administrator-level-privilege-escalation-story/, Privilege-escalation
 - https://medium.com/bugbountywriteup/reflected-xss-on-microsoft-com-subdomains-4bdfc2c716df, Reflected-XSS
@@ -2119,7 +2115,6 @@
 - https://www.amolbaikar.com/disclose-full-admin-list-of-any-facebook-applications/, IDOR
 - https://techblog.mediaservice.net/2020/01/ok-google-bypass-the-authentication/, Authentication-bypass
 - https://medium.com/@abhishake100/hyperlink-injection-easy-money-sometimes-cc1104655300, Hyperlink-injection
-- https://medium.com/@naveenroy008/tale-of-a-misconfiguration-in-password-reset-e8fb484a4661, Password-reset
 - https://www.amolbaikar.com/xss-on-facebook-instagram-cdn-server-bypassing-signature-protection/, XSS
 - https://www.amolbaikar.com/xss-on-facebooks-acquisition-oculus-cdn-server/, XSS
 - https://medium.com/bugbountywriteup/the-unexpected-bounty-a-story-of-zendesk-takeover-on-redacted-com-f2aa96ce2026, Subdomain-takeover

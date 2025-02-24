@@ -9,3 +9,4 @@
 - https://pawanchhabria.medium.com/how-i-accessed-the-sensitive-document-which-i-had-already-deleted-adbc1e6fbb25
 - https://privatedrop.github.io
 - https://breakpoint.sh/posts/turning-your-computer-into-a-gps-tracker-with-apple-maps
+- https://protonvpn.com/blog/apple-ios-vulnerability-disclosure/
