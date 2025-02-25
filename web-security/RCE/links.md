@@ -187,3 +187,5 @@
 - https://devcraft.io/2020/10/20/github-pages-multiple-rces-via-kramdown-config.html
 - https://saligrama.io/blog/post/gradescope-autograder-security/
 - https://spaceraccoon.dev/all-your-d-base-are-belong-to-us-part-2-code-execution-in-microsoft-office
+- https://devcraft.io/2021/05/04/exiftool-arbitrary-code-execution-cve-2021-22204.html
+- https://medium.com/@gokulsspace/the-30000-bounty-affair-3f025ee6b834
