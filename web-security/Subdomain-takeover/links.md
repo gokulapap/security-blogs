@@ -45,3 +45,4 @@
 - https://blog.securitybreached.org/2018/09/24/subdomain-takeover-via-unsecured-s3-bucket/
 - https://medium.com/@omaidfaizyar/my-weirdest-bug-bounty-getting-pii-from-o365-b4477f4739e
 - https://medium.com/@prial261/subdomain-takeover-dew-to-missconfigured-project-settings-for-custom-domain-46e90e702969
+- https://0xpatrik.com/subdomain-takeover-starbucks/

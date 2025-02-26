@@ -1285,7 +1285,6 @@
 - https://medium.com/@yashhunter772/how-i-got-200-in-30-seconds-3dd742f60186, Information-disclosure
 - https://hector0x.medium.com/from-url-dumps-digging-to-idor-bac-massive-phishing-in-udemy-6fa7f94ef256, Broken-Access-Control
 - https://coffeejunkie.me/Simple-SSRF/, SSRF
-- https://omespino.com/write-up-google-vrp-bug-bounty-etc-environment-local-variables-exfiltrated-on-linux-google-earth-pro-desktop-app-1337-usd/, XSS
 - https://itsfading.github.io/posts/Unrestricted-File-Upload-Leads-to-SSRF-and-RCE/, ImageTragick
 - https://thalium.github.io/blog/posts/fuzzing-microsoft-rdp-client-using-virtual-channels/, Memory-corruption
 - https://www.intruder.io/research/practical-http-header-smuggling, HTTP-Header-Smuggling
@@ -1555,7 +1554,6 @@
 - https://www.lutasecurity.com/post/new-clubhouse-security-vulnerabilities-could-happen-to-any-growing-unicorn, Logic-flaw
 - https://feed.bugs.xdavidhu.me/bugs/0002, Authentication-bypass
 - https://notifybugme.medium.com/unauthorized-access-to-admin-setpassword-page-by-bypass-403-forbidden-f10bbb92ab35, Authorization-flaw
-- https://0x2m.medium.com/misconfiguration-in-change-password-functionality-leads-to-account-takeover-1314b5507abf, IDOR
 - https://0day.click/recipe/2021-04-18-discourse-themes/, RCE
 - https://edmundaa222.medium.com/poc-remove-any-facebooks-live-video-14-000-bounty-70c8135b7b4c, Logic-flaw
 - https://pharish4948.medium.com/how-i-earned-3200-in-4hours-through-stored-xss-38597877d3e1, Stored-XSS
@@ -2615,11 +2613,9 @@
 - https://leigh-annegalloway.com/tumblr/, Captcha-bypass
 - https://www.cyberonesecurity.com/blog/unauthenticated-command-injection-vulnerability-in-vmware-nsx-sd-wan-by-velocloud, OS-command-injection
 - https://zseano.medium.com/how-re-signing-up-for-an-account-lead-to-account-takeover-3a63a628fd9f, Logic-flaw
-- https://0xpatrik.com/subdomain-takeover-starbucks/, Subdomain-takeover
 - https://medium.com/@yassergersy/account-take-over-via-reset-password-f2e9d887bce1, Password-reset
 - https://www.coengoedegebure.com/how-i-got-access-to-local-aws-info-via-jira/, SSRF
 - https://blog.bentkowski.info/2018/06/xss-in-google-colaboratory-csp-bypass.html, XSS
-- https://blog.bentkowski.info/2018/06/setting-arbitrary-request-headers-in.html, CRLF-injection
 - https://pulsesecurity.co.nz/advisories/ManageEngine-OpManager-RCE, RCE
 - https://medium.com/bugbountywriteup/responsible-disclosure-how-i-could-have-booked-movie-tickets-through-other-user-accounts-2db26a037b4c, Password-reset
 - https://medium.com/@jonathanbouman/reflected-client-xss-amazon-com-7b0d3cec787, Reflected-XSS
@@ -2823,7 +2819,6 @@
 - https://ysx.me.uk/from-rss-to-xxe-feed-parsing-on-hootsuite/, XSS
 - http://mahmoudsec.blogspot.com/2017/02/sql-injection-in-update-query-bug.html, SQL-injection
 - https://ysx.me.uk/lightweight-markup-a-trio-of-persistent-xss-in-gitlab/, Stored-XSS
-- https://medium.com/@zahidali_93675/conflict-account-recovery-form-in-facebook-2b6e7d203cfd, Logic-flaw
 - https://web.archive.org/web/20170206221502/https://deadpool.sh/2017/RCE-Springs/, RCE
 - https://web.archive.org/web/20200822111544/https://whitehatnepal.tumblr.com/post/156707088037/i-got-emails-g-suite-vulnerability, Logic-flaw
 - https://thehackerblog.com/the-orphaned-internet-taking-over-120k-domains-via-a-dns-vulnerability-in-aws-google-cloud-rackspace-and-digital-ocean/index.html, Domain-takeover

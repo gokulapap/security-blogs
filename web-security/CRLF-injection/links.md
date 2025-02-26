@@ -4,3 +4,4 @@
 - https://infosecwriteups.com/6000-with-microsoft-hall-of-fame-microsoft-firewall-bypass-crlf-to-xss-microsoft-bug-bounty-8f6615c47922
 - https://infosecwriteups.com/crlf-injection-xxx-how-was-it-possible-for-me-to-earn-a-bounty-with-the-cloudflare-waf-f581506f97f5
 - https://medium.com/@valeriyshevchenko/from-crlf-to-account-takeover-a94d7aa0d74e
+- https://blog.bentkowski.info/2018/06/setting-arbitrary-request-headers-in.html
