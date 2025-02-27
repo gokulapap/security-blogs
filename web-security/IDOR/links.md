@@ -162,3 +162,4 @@
 - https://shahmeeramir.com/how-a-simple-idor-become-a-4k-user-impersonation-vulnerability-705291b55c0d
 - https://www.vulnano.com/2023/01/meta-quest-attacker-could-make-any.html
 - https://0x2m.medium.com/misconfiguration-in-change-password-functionality-leads-to-account-takeover-1314b5507abf
+- https://medium.com/@bharatsingh070601/bypassing-unexpected-idor-e6a9da2e0498

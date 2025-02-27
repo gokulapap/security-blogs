@@ -13,3 +13,4 @@
 - https://infosecwriteups.com/html-and-hyperlink-injection-via-share-option-in-microsoft-onenote-application-47e94d0e6478
 - https://bountyplz.xyz/bugbounty/2023/07/24/Opinions-are-like-bugs.html
 - https://palant.info/2022/03/14/party-time-injecting-code-into-teleparty-extension/
+- https://blog.evanricafort.com/2021/06/html-injection-and-a-dream.html

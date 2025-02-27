@@ -42,3 +42,4 @@
 - https://www.binarly.io/posts/Binarly_Finds_Six_High_Severity_Firmware_Vulnerabilities_in_HP_Enterprise_Devices/index.html
 - https://github.blog/2022-06-16-the-android-kernel-mitigations-obstacle-race/
 - https://www.randorisec.fr/crack-linux-firewall/
+- https://www.zerodayinitiative.com/blog/2022/2/14/static-taint-analysis-using-binary-ninja-a-case-study-of-mysql-cluster-vulnerabilities
