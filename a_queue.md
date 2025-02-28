@@ -635,7 +635,6 @@
 - https://ltidi.medium.com/the-untold-sendbird-misconfigurations-1496d252bc69, Broken-Access-Control
 - https://offsec.space/posts/airtel-vulnerabilities/, Arbitrary-Code-Execution
 - https://infosecwriteups.com/unique-rate-limit-bypass-worth-1800-6e2947c7d972, Rate-limiting-bypass
-- https://medium.com/@sharp488/access-any-owner-account-without-authentication-auth-bypass-2fa-bypass-94d0d3ef0d9c, Authentication-bypass
 - https://bhashit.in/?p=117, OS-command-injection
 - https://medium.com/@protostar0/hacking-bank-the-second-story-of-finding-critical-vulnerabilities-on-banking-application-ac20cd8f3dad, Android
 - https://infosecwriteups.com/a-great-weekend-hack-worth-8k-9bfda8ab65b9, SQL-injection
@@ -1130,7 +1129,6 @@
 - https://bloggerrando.blogspot.com/2022/03/13-1.html, Broken-Access-Control
 - https://canmustdie.medium.com/how-did-i-leak-5-2k-customer-data-from-a-large-company-via-broken-access-control-709eb4027409, Broken-Access-Control
 - https://medium.com/@tobydavenn/how-i-was-able-to-read-any-users-confidential-reports-on-a-public-level-domain-1e563857b0b9, IDOR
-- https://prajwoldhungana487.medium.com/demographic-misconfiguration-9359910c6fcf, Logic-flaw
 - https://unit42.paloaltonetworks.com/gke-autopilot-vulnerabilities/, Privilege-escalation
 - https://orca.security/resources/blog/autowarp-microsoft-azure-automation-service-vulnerability/, Cross-tenant-vulnerability
 - https://medium.com/@sandh0t/the-bad-twin-a-peculiar-case-of-jwt-exploitation-scenario-1efa03e891c0, Account-takeover
@@ -1345,7 +1343,6 @@
 - https://habr.com/en/post/580582/, Privacy-issue
 - https://medium.com/@bobbyrsec/zero-day-hijacking-icloud-credentials-with-apple-airtags-stored-xss-6997da43a216, Stored-XSS
 - https://deepsurface.com/deepsurface-security-advisory-lpe-in-firefox-on-windows/, Local-Privilege-Escalation
-- https://medium.com/@dheerajkmadhukar/bypass-of-biometrics-password-security-functionality-for-android-8e0174ac7cac, Authentication-bypass
 - https://parsiya.net/blog/2021-09-26-attack-surface-analysis-part-3-resurrected-code-execution/, RCE
 - https://www.shielder.it/advisories/remote-command-execution-in-visual-studio-code-remote-development-extension/, RCE
 - https://habr.com/en/post/579714/, Information-disclosure
@@ -1820,7 +1817,6 @@
 - https://blog.redteam.pl/2020/08/stealing-local-files-using-safari-web.html, Browser-hacking
 - https://medium.com/@ricardoiramar/account-takeover-for-the-win-e320ce83cdd9, Account-takeover
 - https://medium.com/bugbountywriteup/upload-to-the-future-1fd38fd502bd, IDOR
-- https://medium.com/@0xnazmul/how-i-found-my-first-bug-stored-xss-and-earned-my-first-bounty-1000-33556678d1ed, Stored-XSS
 - https://medium.com/@mateusz.olejarka/a-perfect-duplicate-or-how-to-send-an-email-with-a-spoofed-invoices-content-66cf369bbaa3, Email-spoofing
 - https://medium.com/@syedabuthahir/django-debug-mode-to-rce-in-microsoft-acquisition-189d27d08971, Information-disclosure
 - https://blog.shashank.co/2020/08/escalating-github-leak-to-takeover.html, Information-disclosure
@@ -2364,7 +2360,6 @@
 - https://medium.com/@ritishkumarsingh/https-medium-com-ritishkumarsingh-facebook-vulnerability-hiding-from-facebook-page-admin-in-hacked-workflow-86f366f183c6, Logic-flaw
 - https://medium.com/tenable-techblog/filezilla-untrusted-search-path-bc3a7b3ae51e, RCE
 - https://medium.com/@pratyush1337/edm0d0-idor-vulnerabilities-95ca8600ee1c, IDOR
-- https://cryptograph3r.blogspot.com/2021/02/recon-in-2-minutes-and-got-250-easy.html, Missing-secure-flag
 - https://medium.com/h4x00r/my-very-first-bug-a-dreaded-dupe-and-then-an-idor-jackpot-d01b69f6fbae, IDOR
 - https://hackademic.co.in/youtube-bug/, CSRF
 - https://blog.usejournal.com/an-unusal-bug-on-braintree-paypal-b8d3ec662414, DoS

@@ -70,3 +70,4 @@
 - https://karansh491.medium.com/my-first-bounty-stored-xss-96dea41fd9cf
 - https://shahjerry33.medium.com/xss-via-exif-data-the-p2-elevator-d09e7b7fe9b9
 - https://octagon.net/blog/2022/03/02/apache-jspwiki-preauth-xss-to-ato/
+- https://medium.com/@0xnazmul/how-i-found-my-first-bug-stored-xss-and-earned-my-first-bounty-1000-33556678d1ed

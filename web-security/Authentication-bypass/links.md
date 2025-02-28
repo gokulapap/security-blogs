@@ -39,3 +39,5 @@
 - https://feed.bugs.xdavidhu.me/bugs/0013
 - https://ashutoshmishra00x0.medium.com/account-takeover-via-response-manipulation-worth-1800-ffb242cc55c9
 - https://halove23.blogspot.com/2021/09/zdi-21-1053-bypassing-windows-lock.html
+- https://medium.com/@dheerajkmadhukar/bypass-of-biometrics-password-security-functionality-for-android-8e0174ac7cac
+- https://medium.com/@sharp488/access-any-owner-account-without-authentication-auth-bypass-2fa-bypass-94d0d3ef0d9c
