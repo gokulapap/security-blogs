@@ -115,3 +115,4 @@
 - https://a2nkf.github.io/unauthd_Logic_bugs_FTW/
 - https://medium.com/@zahidali_93675/conflict-account-recovery-form-in-facebook-2b6e7d203cfd
 - https://prajwoldhungana487.medium.com/demographic-misconfiguration-9359910c6fcf
+- https://blog.lent.ink/post/klanteservice/
