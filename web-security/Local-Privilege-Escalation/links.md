@@ -59,3 +59,4 @@
 - https://blog.silentsignal.eu/2022/09/05/simple-ibm-i-as-400-hacking/
 - https://bohops.com/2021/08/07/cve-2021-0090-intel-driver-support-assistant-dsa-elevation-of-privilege-eop/
 - https://www.mdsec.co.uk/2022/03/abc-code-execution-for-veeam/
+- https://valsamaras.medium.com/size-matters-cve-2021-0485-cfa0a291f903

@@ -43,3 +43,4 @@
 - https://github.blog/2022-06-16-the-android-kernel-mitigations-obstacle-race/
 - https://www.randorisec.fr/crack-linux-firewall/
 - https://www.zerodayinitiative.com/blog/2022/2/14/static-taint-analysis-using-binary-ninja-a-case-study-of-mysql-cluster-vulnerabilities
+- https://blog.khonggianmang.vn/vmware-workstation-attack-surface-through-virtual-printer/

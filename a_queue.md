@@ -139,7 +139,6 @@
 - https://medium.com/@Rend_/sqli-next-level-5b1145b83c79, sql-injection
 - https://medium.com/@sghosh2402/demystifying-insecure-deserialization-in-php-684cab9c4d24, deserialization
 - https://medium.com/@v3d/full-account-takeover-via-password-reset-flaw-my-first-blog-10d6e11df2e0, reset-password
-- https://medium.com/@skarbala.martin/graphql-101-challenge-e65e2c773ac4, graphql
 - https://medium.com/@aswinchandran274/crlfsuite-crlf-injection-scanner-54a29f7ff86a, crlf
 - https://medium.com/@shubhangivashist/how-to-exploit-directory-traversal-vulnerabilities-176eeb7f2655, directory-traversal
 - https://medium.com/@krishnadevpmelevila/i-received-a-bounty-of-60-for-finding-a-critical-bug-in-the-patient-management-system-560446c534e, critical-bugs
@@ -605,7 +604,6 @@
 - https://blog.lightspin.io/aws-ecr-public-vulnerability, Cloud
 - https://karol-mazurek95.medium.com/not-usual-csp-bypass-case-b538263e09d6, Unrestricted-file-upload
 - https://0xmayankgarg.medium.com/pii-data-exfiltration-within-minutes-f06d4587d201, Information-disclosure
-- https://medium.com/@Iam5345/how-i-hacked-the-dutch-government-and-got-the-lousy-t-shirt-81fd0a0dd84d, XSS
 - https://hopesamples.blogspot.com/2022/12/idor-allows-to-assign-deleted-tasks-to.html, IDOR
 - https://hopesamples.blogspot.com/2022/12/user-names-and-email-addresses-are.html, Information-disclosure
 - https://medium.com/@mrd17x/scoring-for-a-very-simple-bug-you-dont-always-need-proxy-tools-872a832f83ea, IDOR
@@ -1405,7 +1403,6 @@
 - https://www.fortbridge.co.uk/research/multiple-vulnerabilities-in-cpanel-whm/, XXE
 - https://medium.com/@gonzalocarrascosec/fuzzing-idor-admin-takeover-5343bb8f436e, IDOR
 - https://infosecwriteups.com/what-is-bola-3-digit-bounty-from-topcoder-a25e7fae0d64, IDOR
-- https://valsamaras.medium.com/size-matters-cve-2021-0485-cfa0a291f903, Local-Privilege-Escalation
 - https://philippeharewood.com/view-the-country-of-a-private-instagram-user/, Information-disclosure
 - https://philippeharewood.com/access-to-crowdtangle-deletion-framework-api/, Information-disclosure
 - Youghourta Ghannei (@YoughartaG), XSS
@@ -1781,7 +1778,6 @@
 - https://johnjhacking.com/blog/p1-critical-discovering-and-foiling-a-threat-actor/, Information-disclosure
 - https://vnhacker.blogspot.com/2020/09/advisory-security-issues-in-aws-kms-and.html, Cryptographic-issues
 - https://medium.com/bugbountywriteup/pii-leakage-via-idor-weak-passwordreset-full-account-takeover-58d159f88d73, IDOR
-- https://blog.khonggianmang.vn/vmware-workstation-attack-surface-through-virtual-printer/, Memory-corruption
 - https://medium.com/bugbountywriteup/fun-with-header-and-forget-password-without-that-nasty-twist-cbf45e5cc8db, HTTP-header-injection
 - https://medium.com/bugbountywriteup/business-logic-flaw-in-google-acquisition-hall-of-fame-1a9af5d3ac04, Logic-flaw
 - https://blog.securelayer7.net/unauthenticated-file-upload-vulnerability-on-synology-sub-domain/, Unrestricted-file-upload
@@ -2290,7 +2286,6 @@
 - https://medium.com/bugbountywriteup/account-takeover-using-idor-and-the-misleading-case-of-error-403-cb42c96ea310, IDOR
 - https://web.archive.org/web/20200928091625/https://pwnsec.ninja/2019/06/06/how-i-was-able-to-get-private-ticket-response-panel-and-fortigate-web-panel-via-blind-xss/, Blind-XSS
 - https://payatu.com/microsoft-edge-extensions-host-permission-bypass-cve-2019-0678/, Browser-hacking
-- https://portswigger.net/blog/bypassing-csp-with-policy-injection, CSP-bypass
 - https://blog.nyangawa.me/security/GitLab-Local-File-Read/, Path-traversal
 - https://vishwarajbhattrai.wordpress.com/2019/06/03/missing-access-control-at-play-store/, Authorization-flaw
 - https://medium.com/@nandwanajatin25/story-of-a-uri-based-xss-with-some-simple-google-dorking-e1999254aa55, XSS
