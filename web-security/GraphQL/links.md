@@ -7,3 +7,4 @@
 - https://debprasadbanerjee502.medium.com/the-easiest-bug-to-get-a-hall-of-fame-from-a-billion-dollar-company-8278fd7b3035
 - https://nishantjain.tech/#/blog
 - https://labs.detectify.com/2018/03/14/graphql-abuse/
+- https://rashahacks.com/exposing-users-table-from-a-leaky-graphql-query/

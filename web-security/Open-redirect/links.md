@@ -57,3 +57,5 @@
 - https://sagarsajeev.medium.com/escalating-open-redirect-to-xss-d2b9355e5f05
 - https://medium.com/bugbountywriteup/how-i-chained-p4-to-p2-open-redirection-to-full-account-takeover-a28b09a94bf7
 - https://infosecwriteups.com/facebook-push-notification-linkshim-bypassed-385fe471516
+- https://medium.com/@dwi.siswanto98/open-redirect-on-facebook-bypass-linkshim-4050f680d45c
+- https://medium.com/@egeken/facebook-hidden-redirection-vulnerability-aeaaac0b9d73
