@@ -13,3 +13,4 @@
 - https://medium.com/bugbountywriteup/command-injection-poc-72cc3743f10d
 - https://blog.securityevaluators.com/collecting-shells-by-the-sea-of-nas-vulnerabilities-155a0bd7c525
 - https://boschko.ca/glinet-router/
+- https://sensepost.com/blog/2023/an-offensive-look-at-docker-desktop-extensions/

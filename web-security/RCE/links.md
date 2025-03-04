@@ -189,3 +189,4 @@
 - https://spaceraccoon.dev/all-your-d-base-are-belong-to-us-part-2-code-execution-in-microsoft-office
 - https://devcraft.io/2021/05/04/exiftool-arbitrary-code-execution-cve-2021-22204.html
 - https://medium.com/@gokulsspace/the-30000-bounty-affair-3f025ee6b834
+- https://www.betterhacker.com/2018/12/rce-in-hubspot-with-el-injection-in-hubl.html

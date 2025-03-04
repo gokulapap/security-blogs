@@ -1,0 +1,1 @@
+- https://blog.assetnote.io/bug-bounty/2019/01/14/gaining-access-to-ubers-user-data-through-ampscript-evaluation/

@@ -259,7 +259,6 @@
 - https://0day.click/recipe/pash/, RCE
 - https://www.zerodayinitiative.com/blog/2023/5/31/cve-2023-24941-microsoft-network-file-system-remote-code-execution, RCE
 - https://research.nccgroup.com/2023/05/31/reverse-engineering-coin-hunt-worlds-binary-protocol/, Reverse-engineering
-- https://sensepost.com/blog/2023/an-offensive-look-at-docker-desktop-extensions/, OS-command-injection
 - https://mc0wn.blogspot.com/2023/05/vulnerabilities-in-apache-commons-text.html, Path-traversal
 - https://medium.com/@ajzead660/exploit-an-unexploitable-xss-via-an-open-redirect-a-real-life-scenario-from-a-hackers-mindset-32b71041c5fe, XSS
 - https://medium.com/@ibederov_en/find-out-the-ip-address-through-a-call-to-telegram-a899441b1bac, Privacy-issue
@@ -1538,7 +1537,6 @@
 - https://notifybugme.medium.com/aws-internal-metadata-accessed-through-ssrf-by-chaining-an-open-redirect-bug-c4b0e4838dc, SSRF
 - https://davtur19.medium.com/telegram-bug-bounties-xss-privacy-issues-official-bot-exploitation-and-more-5277fa78435, XSS
 - https://parthdeshani.medium.com/got-nice-catch-by-google-5e6a8211371c, OAuth
-- https://www.lutasecurity.com/post/new-clubhouse-security-vulnerabilities-could-happen-to-any-growing-unicorn, Logic-flaw
 - https://feed.bugs.xdavidhu.me/bugs/0002, Authentication-bypass
 - https://notifybugme.medium.com/unauthorized-access-to-admin-setpassword-page-by-bypass-403-forbidden-f10bbb92ab35, Authorization-flaw
 - https://0day.click/recipe/2021-04-18-discourse-themes/, RCE
@@ -1832,7 +1830,6 @@
 - https://blog.dixitaditya.com/bypassing-google-maps-api-key-restrictions/, Logic-flaw
 - https://medium.com/@zseano/the-feature-works-as-intended-but-whats-in-the-source-d29f9401bcf6, Information-disclosure
 - https://blog.dixitaditya.com/exploiting-jwt-lack-of-signature-verification, Account-takeover
-- https://jameshfisher.com/2020/08/06/smear-phishing-how-to-scam-an-android-user/, Phishing
 - https://medium.com/@jonathanbouman/reflected-xss-at-fotoservice-hema-nl-af344ef63433, Reflected-XSS
 - https://medium.com/@tommysuriel/stored-xss-on-slack-bug-bounty-88fe167d75df, Stored-XSS
 - https://medium.com/@DK999/apache-example-servlet-leads-to-61a2720cac20, Clickjacking
@@ -2413,7 +2410,6 @@
 - https://ysamm.com/?p=12, XSS
 - https://medium.com/@ritishkumarsingh/facebook-vulnerability-unremovable-facebook-group-admin-2cbf4faf55c1, Logic-flaw
 - https://medium.com/@sadiqwest01/bugbounty-how-i-hack-billion-company-5529a3ebe999, Directory-listing
-- https://blog.assetnote.io/bug-bounty/2019/01/14/gaining-access-to-ubers-user-data-through-ampscript-evaluation/, AMPScript-injection
 - https://www.symbo1.com/articles/2019/01/11/fb-pageanalyst-could-add-oneself-as-moderator-on-group.html, Authorization-flaw
 - https://philippeharewood.com/view-the-contact-list-for-a-messenger-kid-as-a-parent-approved-contact/, Authorization-flaw
 - https://medium.com/bugbountywriteup/when-cookie-hijacking-html-injection-become-dangerous-3c649f7f6c88, Cookie-hijacking
@@ -2446,7 +2442,6 @@
 - https://medium.com/@sampanna/self-xss-in-indeed-com-e0c99c104cba, XSS
 - https://medium.com/@rupika.luhach/change-anyones-profile-picture-exploiting-idor-41369f5acf75, IDOR
 - https://blog.securitybreached.org/2018/12/08/how-i-was-able-to-bypass-email-verification/, Information-disclosure
-- https://www.betterhacker.com/2018/12/rce-in-hubspot-with-el-injection-in-hubl.html, RCE
 - https://blog.intothesymmetry.com/2018/12/billion-laugh-attack-in.html, Billion-laugh-attack
 - https://gauravnarwani.com/android-acc-takeover/, Account-takeover
 - https://pwning.re/2018/12/04/github-desktop-rce/, RCE

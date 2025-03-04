@@ -2,3 +2,4 @@
 - https://medium.com/@cachemoney/exploiting-application-logic-to-phish-internal-mailing-lists-486b94fc2ef1
 - https://medium.com/@bobbyrsec/gifshell-covert-attack-chain-and-c2-utilizing-microsoft-teams-gifs-1618c4e64ed7
 - https://medium.com/@DarkMatterMatt/discord-embed-spoofing-c6d07ab1decc
+- https://jameshfisher.com/2020/08/06/smear-phishing-how-to-scam-an-android-user/
