@@ -190,3 +190,4 @@
 - https://devcraft.io/2021/05/04/exiftool-arbitrary-code-execution-cve-2021-22204.html
 - https://medium.com/@gokulsspace/the-30000-bounty-affair-3f025ee6b834
 - https://www.betterhacker.com/2018/12/rce-in-hubspot-with-el-injection-in-hubl.html
+- https://blog.silentsignal.eu/2023/07/03/ibm-i-dde-vulnerability-cve-2023-30990/

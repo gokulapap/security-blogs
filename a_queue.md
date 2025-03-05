@@ -202,7 +202,6 @@
 - https://www.synacktiv.com/sites/default/files/2023-07/synacktiv-phplist-partial-file-read.pdf, Arbitrary-file-read
 - https://research.nccgroup.com/2023/07/03/technical-advisory-nullsoft-scriptable-installer-system-nsis-insecure-temporary-directory-usage/, Local-Privilege-Escalation
 - https://labs.hakaioffsec.com/nginx-alias-traversal/, Path-traversal
-- https://blog.silentsignal.eu/2023/07/03/ibm-i-dde-vulnerability-cve-2023-30990/, RCE
 - https://medium.com/@nguhuynh.148/how-did-i-get-200-with-wordpress-vulnerability-4ce80f106709, Information-disclosure
 - https://www.randorisec.fr/chamilo-1.11.18-multiple-vulnerabilities, OS-command-injection
 - https://medium.com/@M0X0101/how-i-was-able-to-get-account-takeover-via-insecure-data-storage-and-webview-with-exported-activity-5308a330ab80, Account-takeover
@@ -374,7 +373,6 @@
 - https://7h3h4ckv157.medium.com/unveiling-the-secrets-my-journey-of-hacking-googles-oss-cdd9ef3c7aa, CSRF
 - https://crypt0g30rgy.github.io/post/Journey2pII, Information-disclosure
 - https://www.mannulinux.org/2023/03/exploiting-hibernate-injection-in-order.html, HQL-injection
-- https://blog.trailofbits.com/2023/03/30/acropalypse-polytracker-blind-spots/, Privacy-issue
 - https://xelkomy.medium.com/found-ssrf-and-lfi-in-just-10-minutes-of-using-burp-492fddef3f3e, SSRF
 - https://www.sonarsource.com/blog/it-s-a-snmp-trap-gaining-code-execution-on-librenms/, RCE
 - https://www.wiz.io/blog/azure-active-directory-bing-misconfiguration, Account-takeover
@@ -583,7 +581,6 @@
 - https://medium.com/@yaala/account-takeover-and-two-factor-authentication-bypass-de56ed41d7f9, Authentication-bypass
 - https://medium.com/@vamshivaran110/rce-on-admin-panel-of-web3-website-2d0acf34d6ea, RCE
 - https://www.shielder.com/advisories/cisco-broadworks-commpilot-ssrf/, SSRF
-- https://medium.com/@EX_097/my-first-bug-in-bugcrowd-76decc1f9901, Race-condition
 - https://www.trendmicro.com/en_us/research/22/l/a-technical-analysis-of-cve-2022-22583-and-cve-2022-32800.html, MacOS
 - https://crypt0g30rgy.github.io/post/AWSTakeover, Information-disclosure
 - https://dappsec.substack.com/p/an-advisory-for-cve-2019-16891-from, RCE
@@ -2287,7 +2284,6 @@
 - https://medium.com/@matarpan33r/stored-xss-on-edmodo-67b244824fa5, Stored-XSS
 - https://smaranchand.com.np/2019/05/an-unexploited-cors-misconfiguration-reflecting-further-issues/, CORS-misconfiguration
 - https://ysamm.com/?p=272, Weak-encryption
-- https://medium.com/@mustafakhan_89646/multiple-api-issues-due-to-fixed-authorization-token-17365056f17a, Authorization-flaw
 - https://smaranchand.com.np/2019/05/how-i-acquired-xxx-bounty-by-investing-99-cents/, Logic-flaw
 - https://philippeharewood.com/determine-a-user-from-an-email-address/, Information-disclosure
 - https://medium.com/@zseano/leaking-openid-tokens-with-the-bug-right-infront-of-you-95c1fb4a86e9, OpenID-Connect
@@ -2864,7 +2860,6 @@
 - http://blog.shashank.co/2013/12/waze-arbitrary-file-upload.html, Unrestricted-file-upload
 - http://blog.shashank.co/2013/12/imgur-xss.html, XSS
 - https://maustin.net/articles/2013-12/flickr_xss, XSS
-- https://whitton.io/articles/abusing-cors-for-an-xss-on-flickr/, XSS
 - http://blog.shashank.co/2013/12/heroku-directory-transversal.html, Path-traversal
 - http://blog.shashank.co/2013/11/oracle-xss.html, XSS
 - https://www.rcesecurity.com/2013/09/paypal-bug-bounty-paypaltech-com-e-mail-injection/, Email-injection
