@@ -2,3 +2,4 @@
 - https://medium.com/@mares.viktor/unusual-403-bypass-to-a-full-website-takeover-external-pentest-4970c788c6bf
 - https://dewangpanchal98.medium.com/403-forbidden-bypass-fc8b5df109b7
 - https://infosecwriteups.com/importance-of-burp-history-analysis-to-bypass-403-afc7af6c08b
+- https://medium.com/@vishnurajr/403-forbidden-bypass-accessing-config-files-using-a-header-4bd172c25ff1
