@@ -117,3 +117,4 @@
 - https://prajwoldhungana487.medium.com/demographic-misconfiguration-9359910c6fcf
 - https://blog.lent.ink/post/klanteservice/
 - https://www.lutasecurity.com/post/new-clubhouse-security-vulnerabilities-could-happen-to-any-growing-unicorn
+- https://www.inputzero.io/2019/09/telegram-privacy-fails-again.html

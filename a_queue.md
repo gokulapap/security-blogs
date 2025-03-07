@@ -288,7 +288,6 @@
 - https://www.sonarsource.com/blog/pimcore-one-click-two-security-vulnerabilities/, Path-traversal
 - https://neodyme.io/blog/csgo_from_zero_to_0day/, Game-hacking
 - https://www.synacktiv.com/en/publications/the-printer-goes-brrrrr-again.html, Printer-hacking
-- https://medium.com/@yashsancheti24/discovering-a-hidden-security-loophole-rent-luxury-cars-for-a-single-dollar-706b4a7bf101, Payment-tampering
 - https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/rendezvous-with-a-chatbot-chaining-contextual-risk-vulnerabilities/, Chatbot
 - https://thinkloveshare.com/hacking/kong-konga-exploitation-and-hardening/, RCE
 - https://www.akamai.com/blog/security-research/important-outlook-vulnerability-bypass-windows-api, Privilege-escalation
@@ -801,7 +800,6 @@
 - https://www.vectra.ai/blogpost/undermining-microsoft-teams-security-by-mining-tokens, Insecure-storage-of-sensitive-information
 - https://arben.sh/research/LiveHelperChat-RCE/, RCE
 - https://hesec.de/posts/bbh-csrf/, CSRF
-- https://medium.com/@cyberali/contentful-access-token-disclosure-in-android-apk-ace5f7bdf98, Information-disclosure
 - https://medium.com/@Parag_Bagul/how-i-was-able-to-bypass-philips-authentication-c3bd3e1df9ff, Outdated-component-with-a-known-vulnerability
 - https://www.legitsecurity.com/blog/bypassing-github-required-reviewers-to-submit-malicious-code, Authorization-flaw
 - https://medium.com/@abbasheybati1/403-bypass-lyncdiscover-microsoft-com-db2778458c33, 403-bypass
@@ -2191,7 +2189,6 @@
 - https://medium.com/@heinthantzin/how-does-my-recon-win-250-in-15-minutes-a1992508b911, Open-redirect
 - https://philippeharewood.com/add-users-to-roles-on-facebook-pages-without-an-invitation-consent/, Authorization-flaw
 - https://philippeharewood.com/subscribe-to-the-list-of-requesters-to-join-a-facebook-live-video-using-mqtt/, Authorization-flaw
-- https://www.inputzero.io/2019/09/telegram-privacy-fails-again.html, Logic-flaw
 - https://medium.com/@osamaavvan/exploiting-jsonp-and-bypassing-referer-check-2d6e40dfa24, Information-disclosure
 - https://hateshape.github.io/general/2019/09/06/SuperGlamorousReconwithIntendedFunctionalities.html, SSTI
 - https://web.archive.org/web/20201222140349/https://www.mohamedharon.com/2019/09/dom-based-xss-in-private-program.html, DOM-XSS
@@ -2454,7 +2451,6 @@
 - https://portswigger.net/blog/xss-in-hidden-input-fields, XSS
 - https://medium.com/@ariffadhlullah2310/poc-cross-site-scripting-on-garuda-indonesia-website-452f4864f615, XSS
 - https://blog.hackenproof.com/customer-stories/hackenproof-customer-story-uklon/, XSS
-- https://publish.whoisbinit.me/unauthorized-comments-on-facebook-live-stream, Privilege-escalation
 - https://philippeharewood.com/disclose-page-admins-via-gaming-dashboard-bans/, Information-disclosure
 - https://medium.com/@ritishkumarsingh/facebook-vulnerability-hiding-from-the-view-of-business-admin-in-the-business-manager-a04515fee9dd, Logic-flaw
 - https://medium.com/@maxpasqua/breaking-appointments-and-job-interview-schedules-with-malformed-times-edef103e46ba, DoS
@@ -2824,7 +2820,6 @@
 - https://www.arneswinnen.net/2016/03/how-i-could-compromise-4-locked-instagram-accounts, IDOR
 - https://whitton.io/articles/uber-turning-self-xss-into-good-xss/, XSS
 - https://ahussam.me/how-i-hacked-oculus-oauth-ebay-ibm/, Unrestricted-file-upload
-- https://www.seekurity.com/blog/write-ups/eset-broken-authentication-vulnerability/, Authentication-flaw
 - https://bitquark.co.uk/blog/2016/02/09/how_i_got_access_to_millions_of_redacted_accounts, RFI
 - https://whitton.io/articles/xss-on-facebook-via-png-content-types, XSS
 - https://medium.com/bugbountywriteup/how-i-got-listed-in-microsoft-hall-of-fame-8f96ca4535c2, IDOR

@@ -175,3 +175,4 @@
 - https://orthonviper.medium.com/information-disclosure-through-signup-endpoint-86d2d66dfef1
 - https://blog.aquasec.com/npm-supply-chain-attack
 - https://medium.com/@z.x/how-we-hacked-bypassed-admin-panel-just-by-js-file-eaa773b5cdb4
+- https://medium.com/@cyberali/contentful-access-token-disclosure-in-android-apk-ace5f7bdf98

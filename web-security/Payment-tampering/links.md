@@ -10,3 +10,4 @@
 - https://medium.com/bugbountywriteup/exploiting-business-logic-wallet-money-6a7654f4e147
 - https://medium.com/@ifediri/breaking-business-logic-via-coupons-the-story-of-my-1st-valid-bug-bounty-89c30ff214dc
 - https://medium.com/@muztahidultanim/how-i-was-able-to-buy-t-shirt-for-1-payment-price-manipulation-36b4d6a30034
+- https://medium.com/@yashsancheti24/discovering-a-hidden-security-loophole-rent-luxury-cars-for-a-single-dollar-706b4a7bf101

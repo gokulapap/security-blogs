@@ -2,3 +2,4 @@
 - https://medium.com/@rival.rvdt/secstory-how-i-found-multiple-p1-vulnerabilities-without-recon-c9f3a19cad45
 - https://security.lauritz-holtmann.de/advisories/cve-2020-13294/
 - https://sites.google.com/securifyinc.com/vrp-writeups/hire-with-google/auth-issues
+- https://www.seekurity.com/blog/write-ups/eset-broken-authentication-vulnerability/
