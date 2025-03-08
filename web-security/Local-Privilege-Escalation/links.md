@@ -60,3 +60,4 @@
 - https://bohops.com/2021/08/07/cve-2021-0090-intel-driver-support-assistant-dsa-elevation-of-privilege-eop/
 - https://www.mdsec.co.uk/2022/03/abc-code-execution-for-veeam/
 - https://valsamaras.medium.com/size-matters-cve-2021-0485-cfa0a291f903
+- https://blog.recurity-labs.com/2022-03-02/webOS_Pt2.html

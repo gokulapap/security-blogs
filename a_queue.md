@@ -1064,7 +1064,6 @@
 - https://firefart.at/post/multiple_vulnerabilities_cisco_expressway/, Memory-leak
 - https://debprasadbanerjee502.medium.com/united-nations-bug-bounty-writeup-4bcfdefbb8d3, Information-disclosure
 - https://www.netspi.com/blog/technical/cloud-penetration-testing/abusing-azure-hybrid-workers-part-2/, Privilege-escalation
-- https://medium.com/@anjaneyulukanakatla1996/my-first-bug-in-hackerone-a68cf7b05510, Information-disclosure
 - https://medium.com/@_ip_/2-3-xss-through-the-front-door-gitlab-fc4b6799e743, XSS
 - https://rhinosecuritylabs.com/aws/cve-2022-25165-aws-vpn-client/, Local-Privilege-Escalation
 - https://www.notgitbleed.com, Information-disclosure
@@ -1125,7 +1124,6 @@
 - https://www.rapid7.com/blog/post/2022/03/03/cve-2021-4191-gitlab-graphql-api-user-enumeration-fixed/, Username-enumeration
 - https://medium.com/@nvmeeet/4300-instagram-idor-bug-2022-5386cf492cad, IDOR
 - https://muffsec.com/blog/moodle-2nd-order-sqli/, SQL-injection
-- https://blog.recurity-labs.com/2022-03-02/webOS_Pt2.html, Local-Privilege-Escalation
 - https://web.archive.org/web/20220306040035/https://medium.com/@1337Fenrir/how-did-i-find-directory-traversal-attack-using-github-9b051ed749ca, Information-disclosure
 - https://medium.com/techiepedia/password-reset-to-admin-access-3b2a649bdc3, Account-takeover
 - https://shenkaiwen.com/publication/2022-hdiff/, HTTP-request-smuggling
@@ -1706,7 +1704,6 @@
 - https://www.fortinet.com/blog/threat-research/leaking-browser-url-protocol-handlers, Information-disclosure
 - https://medium.com/the-volatile-triad/hacking-always-check-out-the-images-99217e6cea, Information-disclosure
 - https://googleprojectzero.blogspot.com/2020/12/an-ios-zero-click-radio-proximity.html, iOS
-- https://www.shawarkhan.com/2020/11/exploiting-blind-postgresql-injection.html, SQL-injection
 - https://zetc0de.github.io/post/authenticated-rce-ssrf-wondercms/, Blind-SSRF
 - https://ahmdhalabi.medium.com/chaining-multiple-requests-to-achieve-rate-limiting-vulnerabilities-96c1e8365c06, Rate-limiting-bypass
 - https://shellbr3ak.medium.com/the-story-of-my-first-critical-bug-93a5920d6c43, SQL-injection
@@ -2013,7 +2010,6 @@
 - https://medium.com/@shahjerry33/privilege-escalation-hello-admin-a53ac14fd388, Privilege-escalation
 - https://medium.com/@ashokcpg/the-story-of-my-first-ever-1500-bounty-from-facebook-49eb64d26160, Logic-flaw
 - https://blog.securitybreached.org/2020/03/31/microsoft-rce-bugbounty/, RCE
-- https://hackemall.live/index.php/2020/03/31/akamai-web-application-firewall-bypass-journey-exploiting-google-bigquery-sql-injection-vulnerability/, SQL-injection
 - https://medium.com/@abidafahd/hacking-makes-me-forget-my-pain-b04bf51d0407, SQL-injection
 - https://blog.mert.ninja/freemarker-ssti-on-lithium-cms/, SSTI
 - https://0x65.dev/blog/2020-03-30/cve-2019-17004-semi-universal-xss-affecting-firefox-for-ios.html, Universal-XSS
@@ -2287,7 +2283,6 @@
 - https://medium.com/@fbotes2/try-harder-for-xss-7aa3657255a1, Reflected-XSS
 - https://medium.com/@momenbasel/from-parameter-pollution-to-xss-d095e13be060, HTTP-parameter-pollution
 - https://gist.github.com/stefanocoding/8cdc8acf5253725992432dedb1c9c781, Open-redirect
-- https://www.komodosec.com/post/mime-sniffing-xss, Stored-XSS
 - https://medium.com/@sandh0t/think-outside-the-scope-advanced-cors-exploitation-techniques-dad019c68397, CORS-misconfiguration
 - https://web.archive.org/web/20190515123715/https://medium.com/@0ktavandi/blind-ssrf-in-stripe-com-due-to-sentry-misconfiguration-60ebb6a40b5, Blind-SSRF
 - https://medium.com/a-bugz-life/4x-csrfs-chained-for-company-account-takeover-f9fada416986, CSRF

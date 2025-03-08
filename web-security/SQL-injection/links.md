@@ -66,3 +66,5 @@
 - https://medium.com/@kartikhunt3r/blind-time-based-sql-injection-vulnerability-in-an-indian-government-website-6bf3bb7daf25
 - https://pentest.blog/advisory-glpi-service-management-software-sql-injection-remote-code-execution-and-local-file-inclusion/
 - https://nav1n.medium.com/i-earned-3500-and-40-points-for-a-graphql-blind-sql-injection-vulnerability-5b7e428c477d
+- https://hackemall.live/index.php/2020/03/31/akamai-web-application-firewall-bypass-journey-exploiting-google-bigquery-sql-injection-vulnerability/
+- https://www.shawarkhan.com/2020/11/exploiting-blind-postgresql-injection.html

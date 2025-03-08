@@ -72,3 +72,4 @@
 - https://octagon.net/blog/2022/03/02/apache-jspwiki-preauth-xss-to-ato/
 - https://medium.com/@0xnazmul/how-i-found-my-first-bug-stored-xss-and-earned-my-first-bounty-1000-33556678d1ed
 - https://websecblog.com/vulns/stored-xss-in-webcomponents-org/
+- https://www.komodosec.com/post/mime-sniffing-xss

@@ -176,3 +176,4 @@
 - https://blog.aquasec.com/npm-supply-chain-attack
 - https://medium.com/@z.x/how-we-hacked-bypassed-admin-panel-just-by-js-file-eaa773b5cdb4
 - https://medium.com/@cyberali/contentful-access-token-disclosure-in-android-apk-ace5f7bdf98
+- https://medium.com/@anjaneyulukanakatla1996/my-first-bug-in-hackerone-a68cf7b05510
