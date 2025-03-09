@@ -721,7 +721,6 @@
 - https://blog.doyensec.com/2022/10/18/cloudsectidbit-dataimport.html, Cloud
 - https://securityintelligence.com/posts/analysis-rce-vulnerability-cobalt-strike/, RCE
 - https://lokeshdlk77.medium.com/facebook-sms-captcha-was-vulnerable-to-csrf-attack-8db537b1e980, CSRF
-- https://saajan.bhujel.cyou/blog/web/2022-10-16-how-i-got-10000-from-github-for-bypassing-filtration-of-html-tags, XSS
 - https://web.archive.org/web/20221017025828/https://medium.com/@EX_097/my-first-critical-bug-in-hackerone-platform-2ce9adcb39a6, HTTP-request-smuggling
 - https://blog.kylebot.net/2022/10/16/CVE-2022-1786/, Use-After-Free
 - https://0x4kd.medium.com/google-sso-misconfiguration-leading-to-account-takeover-cf9bcf63e76e, Authentication-bypass
@@ -961,7 +960,6 @@
 - https://medium.com/@shakti.gtp/an-out-of-scope-domain-leads-to-a-critical-bug-1500-f228d2c7db4b, Authorization-flaw
 - https://peterjson.medium.com/miracle-one-vulnerability-to-rule-them-all-c3aed9edeea2, Insecure-deserialization
 - https://blog.viettelcybersecurity.com/pwn2own-2021-microsoft-exchange-exploit-chain/, SSRF
-- https://medium.com/maverislabs/lock-screen-bypass-exploit-of-android-devices-cve-2022-20006-604958fcee3a, Authentication-bypass
 - https://bishopfox.com/blog/filestack-upload-advisory, XSS
 - https://palant.info/2020/06/22/exploiting-bitdefender-antivirus-rce-from-any-website/, RCE
 - https://medium.com/@tobydavenn/1500-of-broken-access-controls-503d8a5f56f5, Broken-Access-Control
@@ -1025,7 +1023,6 @@
 - https://orwaatyat.medium.com/my-new-discovery-in-oracle-e-business-login-panel-that-allowed-to-access-for-all-employees-ed0ec4cad7ac, Exposed-registration-page
 - https://basyounii.medium.com/forging-oauth-tokens-using-discovered-client-id-and-client-secret-d224e4e7892a, Information-disclosure
 - https://web.archive.org/web/20220513145411/https://pwnsec.ninja/2022/05/12/takeover-seller-accounts-worth-billions-millions/, IDOR
-- https://www.trustedsec.com/blog/diving-into-pre-created-computer-accounts/, Active-Directory
 - https://systemweakness.com/resolveuri-rxss-imperva-waf-bypass-c834ca573bd4, XSS
 - https://systemweakness.com/rce-via-dependency-confusion-e0ed2a127013, Dependency-confusion
 - https://melotover.medium.com/can-analyzing-javascript-files-lead-to-remote-code-execution-f24112f1aa1f, Unrestricted-file-upload
@@ -1777,7 +1774,6 @@
 - https://medium.com/@novan.rmd/my-first-bug-bounty-from-bug-bounty-platform-redstorm-io-50958f6adc90, CSRF
 - https://dreamlab.net/en/blog/post/dropbox-escalation-of-privileges-to-system-on-windows-1/, Local-Privilege-Escalation
 - https://blog.long.lat/2020/09/16/exploiting-a-useless-cookie-based-xss-and-making-it-useful/, XSS
-- https://initblog.com/2020/firefox-android/, Insecure-intent
 - https://medium.com/@shahjerry33/sql-injection-remote-code-execution-double-p1-6038ca88a2ec, SQL-injection
 - https://medium.com/bugbountywriteup/how-i-hacked-redbus-an-online-bus-ticketing-application-24ef5bb083cd, LFI
 - https://alesandroortiz.com/articles/uxss-android-webview-cve-2020-6506/, Universal-XSS
@@ -2282,7 +2278,6 @@
 - https://medium.com/@baibhavanandjha/bypassing-instagrams-stories-restriction-5936f8a4f079, Logic-flaw
 - https://medium.com/@fbotes2/try-harder-for-xss-7aa3657255a1, Reflected-XSS
 - https://medium.com/@momenbasel/from-parameter-pollution-to-xss-d095e13be060, HTTP-parameter-pollution
-- https://gist.github.com/stefanocoding/8cdc8acf5253725992432dedb1c9c781, Open-redirect
 - https://medium.com/@sandh0t/think-outside-the-scope-advanced-cors-exploitation-techniques-dad019c68397, CORS-misconfiguration
 - https://web.archive.org/web/20190515123715/https://medium.com/@0ktavandi/blind-ssrf-in-stripe-com-due-to-sentry-misconfiguration-60ebb6a40b5, Blind-SSRF
 - https://medium.com/a-bugz-life/4x-csrfs-chained-for-company-account-takeover-f9fada416986, CSRF

@@ -59,3 +59,4 @@
 - https://infosecwriteups.com/facebook-push-notification-linkshim-bypassed-385fe471516
 - https://medium.com/@dwi.siswanto98/open-redirect-on-facebook-bypass-linkshim-4050f680d45c
 - https://medium.com/@egeken/facebook-hidden-redirection-vulnerability-aeaaac0b9d73
+- https://gist.github.com/stefanocoding/8cdc8acf5253725992432dedb1c9c781
