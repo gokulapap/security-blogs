@@ -1,3 +1,4 @@
 - https://web.archive.org/web/20200929015014/https://www.mohamedharon.com/2018/03/reflected-xss-moogaloop-swf-version-62x.html
 - https://medium.com/@friendly_/xss-through-swf-file-4f04af7b0f59
 - https://web.archive.org/web/20200929004520/https://www.mohamedharon.com/2018/03/xss-in-subdomain-httpsyefgrantsyahoocom.html
+- https://ahussam.me/One-payload-to-xss-them/

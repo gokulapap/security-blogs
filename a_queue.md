@@ -1384,7 +1384,6 @@
 - https://infosecwriteups.com/how-we-was-able-to-takeover-whole-organization-via-privilege-escalation-4f74b31a84a6, Privilege-escalation
 - https://medium.com/@psr595bro/how-i-found-read-write-access-to-the-personal-data-of-3-million-users-of-an-e-commerce-website-b9026b0d4bd3, IDOR
 - https://medium.com/@chaitanyarajhans024/simple-html-injection-to-250-895b760409ed, HTML-injection
-- https://craighays.com/how-i-bought-a-240-pound-annual-subscription-for-bargain-1-penny/, Payment-tampering
 - https://github.com/justinsteven/advisories/blob/master/2021_vscode_ipynb_xss_arbitrary_file_read.md, XSS
 - https://www.fortbridge.co.uk/research/multiple-vulnerabilities-in-cpanel-whm/, XXE
 - https://medium.com/@gonzalocarrascosec/fuzzing-idor-admin-takeover-5343bb8f436e, IDOR
@@ -1699,7 +1698,6 @@
 - https://amineaboud.medium.com/10000-facebook-ssrf-bug-bounty-402bd21e58e5, SSRF
 - https://securitytrooper.com/en/cross-site-scripting-xss-reflected-in-one-of-the-subdomains-of-general-motorsbugbounty, Reflected-XSS
 - https://www.fortinet.com/blog/threat-research/leaking-browser-url-protocol-handlers, Information-disclosure
-- https://medium.com/the-volatile-triad/hacking-always-check-out-the-images-99217e6cea, Information-disclosure
 - https://googleprojectzero.blogspot.com/2020/12/an-ios-zero-click-radio-proximity.html, iOS
 - https://zetc0de.github.io/post/authenticated-rce-ssrf-wondercms/, Blind-SSRF
 - https://ahmdhalabi.medium.com/chaining-multiple-requests-to-achieve-rate-limiting-vulnerabilities-96c1e8365c06, Rate-limiting-bypass
@@ -1728,7 +1726,6 @@
 - https://nechudav.blogspot.com/2020/11/31k-ssrf-in-google-cloud-monitoring.html, SSRF
 - https://medium.com/bugbountywriteup/chaining-password-reset-link-poisoning-idor-account-information-leakage-to-achieve-account-bb5e0e400745, HTTP-header-injection
 - https://galnagli.com/DoD_IDOR/, IDOR
-- https://blog.blazeinfosec.com/attack-of-the-clones-github-desktop-remote-code-execution/, RCE
 - https://dhakal0kushal.medium.com/story-of-a-pre-account-takeover-33e3d5b4c33f, Account-takeover
 - https://lokeshdlk77.medium.com/delete-any-photos-in-facebook-832dbe81cdc4, Authorization-flaw
 - https://lokeshdlk77.medium.com/reveal-the-page-admin-that-uploaded-a-video-on-the-page-in-comment-section-9760e4a31453, Information-disclosure
@@ -2072,7 +2069,6 @@
 - https://medium.com/@abhishake100/hyperlink-injection-easy-money-sometimes-cc1104655300, Hyperlink-injection
 - https://www.amolbaikar.com/xss-on-facebook-instagram-cdn-server-bypassing-signature-protection/, XSS
 - https://www.amolbaikar.com/xss-on-facebooks-acquisition-oculus-cdn-server/, XSS
-- https://medium.com/bugbountywriteup/the-unexpected-bounty-a-story-of-zendesk-takeover-on-redacted-com-f2aa96ce2026, Subdomain-takeover
 - https://medium.com/@ozguralp/a-less-known-attack-vector-second-order-idor-attacks-14468009781a, IDOR
 - https://medium.com/bugbountywriteup/how-i-bought-my-way-to-subdomain-takeover-on-tokopedia-8c6697c85b4d, Subdomain-takeover
 - https://medium.com/@milanmagyar/ggvulnz-how-i-hacked-hundreds-of-companies-through-google-groups-b69c658c8924, Logic-flaw
@@ -2818,7 +2814,6 @@
 - http://mahmoudsec.blogspot.com/2015/09/how-i-found-xss-vulnerability-in-google.html, XSS
 - https://www.rcesecurity.com/2015/09/cve-2014-7216-a-journey-through-yahoos-bug-bounty-program/, Buffer-Overflow
 - https://thezerohack.com/hacking-facebook-pages, Authorization-flaw
-- https://ahussam.me/One-payload-to-xss-them/, Flash-XSS
 - https://josipfranjkovic.blogspot.com/2015/07/the-easiest-bug-bounties-i-have-ever-won.html, IDOR
 - https://buer.haus/2015/02/03/google-com-mobile-feedback-url-redirect-regexvalidation-flaw/, Open-redirect
 - https://josipfranjkovic.blogspot.com/2014/12/reading-local-files-from-facebooks.html, LFI

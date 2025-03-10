@@ -46,3 +46,4 @@
 - https://medium.com/@omaidfaizyar/my-weirdest-bug-bounty-getting-pii-from-o365-b4477f4739e
 - https://medium.com/@prial261/subdomain-takeover-dew-to-missconfigured-project-settings-for-custom-domain-46e90e702969
 - https://0xpatrik.com/subdomain-takeover-starbucks/
+- https://medium.com/bugbountywriteup/the-unexpected-bounty-a-story-of-zendesk-takeover-on-redacted-com-f2aa96ce2026
