@@ -68,3 +68,5 @@
 - https://nav1n.medium.com/i-earned-3500-and-40-points-for-a-graphql-blind-sql-injection-vulnerability-5b7e428c477d
 - https://hackemall.live/index.php/2020/03/31/akamai-web-application-firewall-bypass-journey-exploiting-google-bigquery-sql-injection-vulnerability/
 - https://www.shawarkhan.com/2020/11/exploiting-blind-postgresql-injection.html
+- https://www.noob.ninja/2019/07/exploiting-tricky-blind-sql-injection.html
+- https://web.archive.org/web/20200904133318/https://medium.com/bugbountywriteup/a-five-minute-sql-i-16ab75b20fe4

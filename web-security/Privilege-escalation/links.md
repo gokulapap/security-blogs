@@ -38,3 +38,4 @@
 - https://medium.com/@the.white.soul.0/bug-bounty-fastmail-topicbox-com-privileges-escalation-organization-takeover-815466876ad4
 - https://www.synacktiv.com/sites/default/files/2023-03/Synacktiv-Grails-Spring-Security-CVE-2022-41923.pdf
 - https://publish.whoisbinit.me/unauthorized-comments-on-facebook-live-stream
+- https://www.netspi.com/blog/technical/cloud-penetration-testing/abusing-azure-hybrid-workers-part-2/

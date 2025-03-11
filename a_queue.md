@@ -1040,7 +1040,6 @@
 - https://shreyaskoli.medium.com/ato-without-any-interaction-aws-cognito-misconfiguration-d690f4b3da11, Account-takeover
 - https://medium.com/system-weakness/sensitive-data-exfiltration-through-xss-450-409162eced3a, Token-leak
 - https://lokeshdlk77.medium.com/contact-point-deanonymization-vulnerability-in-meta-90d575c4d8ef, Information-disclosure
-- https://www.wiz.io/blog/wiz-research-discovers-extrareplica-cross-account-database-vulnerability-in-azure-postgresql/, Cross-tenant-vulnerability
 - https://blog.assetnote.io/2022/04/27/vmware-workspace-one-uem-ssrf/, SSRF
 - https://securecloud.blog/2022/04/27/azure-monitor-malicious-kql-query/, Privilege-escalation
 - https://blog.aquasec.com/npm-package-planting, Logic-flaw
@@ -1060,11 +1059,9 @@
 - https://bloggerrando.blogspot.com/2022/04/15-1.html, Broken-Access-Control
 - https://firefart.at/post/multiple_vulnerabilities_cisco_expressway/, Memory-leak
 - https://debprasadbanerjee502.medium.com/united-nations-bug-bounty-writeup-4bcfdefbb8d3, Information-disclosure
-- https://www.netspi.com/blog/technical/cloud-penetration-testing/abusing-azure-hybrid-workers-part-2/, Privilege-escalation
 - https://medium.com/@_ip_/2-3-xss-through-the-front-door-gitlab-fc4b6799e743, XSS
 - https://rhinosecuritylabs.com/aws/cve-2022-25165-aws-vpn-client/, Local-Privilege-Escalation
 - https://www.notgitbleed.com, Information-disclosure
-- https://medium.com/@RheyJuls/privacy-disclosure-on-facebook-lite-after-creating-a-post-b12a1cad8d8a, Privacy-issue
 - https://medium.com/@Bishoo97x/xss-html-injection-and-file-upload-bypass-in-huawei-subdomain-64966ba4f4ac, XSS
 - https://opencirt.com/hacking/securing-easy-appointments-cve-2022-0482/, Broken-Access-Control
 - https://securecloud.blog/2022/04/09/msrc-join-security-research-write-up-azure-ad-consent-bypass-disclosure-with-kim-jamia-q1-2022/, Authorization-flaw
@@ -2216,7 +2213,6 @@
 - https://medium.com/@innocenthacker/how-i-found-the-most-critical-bug-in-live-bug-bounty-event-7a88b3aa97b3, Password-reset
 - https://philippeharewood.com/subscribe-to-typing-notifications-for-any-instagram-user/, Authorization-flaw
 - https://blog.usejournal.com/shopping-products-for-free-parameter-tampering-vulnerability-8e09e1471596, Parameter-tampering
-- https://www.noob.ninja/2019/07/exploiting-tricky-blind-sql-injection.html, SQL-injection
 - https://medium.com/@sudhanshur705/how-recon-helped-me-to-to-find-a-facebook-domain-takeover-58163de0e7d5, Subdomain-takeover
 - https://medium.com/@lokeshdlk77/csrf-email-confirmation-vulnerability-for-gmail-g-suite-in-facebook-5ab551a0a526, CSRF
 - https://medium.com/@saadahmedx/bypass-csrf-with-clickjacking-worth-1250-6c70cc263f40, CSRF
@@ -2586,7 +2582,6 @@
 - https://medium.com/@pratheesh.p.narayanan/whatsapp-dos-vulnerability-on-android-ios-web-7628077d21d4, DoS
 - https://medium.com/bugbountywriteup/hsts-bypass-vulnerability-in-ie-preview-fa956161fa8, HSTS-bypass
 - https://medium.com/@honcbb/internet-safety-for-kids-families-trend-micro-dom-xss-db34c9bbb120, DOM-XSS
-- https://web.archive.org/web/20200904133318/https://medium.com/bugbountywriteup/a-five-minute-sql-i-16ab75b20fe4, SQL-injection
 - https://medium.com/bugbountywriteup/how-i-got-paid-0-from-the-indias-largest-online-gifting-portal-bug-bounty-program-fd9e14f9ca20, Payment-tampering
 - https://medium.com/bugbountywriteup/4500-bounty-how-i-got-lucky-99d8bc933f75, Subdomain-takeover
 - https://medium.com/bugbountywriteup/disclose-private-video-thumbnail-from-facebook-workplace-52b6ec4d73b7, IDOR

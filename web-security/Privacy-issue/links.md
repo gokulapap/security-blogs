@@ -11,3 +11,4 @@
 - https://breakpoint.sh/posts/turning-your-computer-into-a-gps-tracker-with-apple-maps
 - https://protonvpn.com/blog/apple-ios-vulnerability-disclosure/
 - https://blog.trailofbits.com/2023/03/30/acropalypse-polytracker-blind-spots/
+- https://medium.com/@RheyJuls/privacy-disclosure-on-facebook-lite-after-creating-a-post-b12a1cad8d8a
