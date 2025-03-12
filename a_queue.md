@@ -631,7 +631,6 @@
 - https://infosecwriteups.com/a-great-weekend-hack-worth-8k-9bfda8ab65b9, SQL-injection
 - https://shafouz.medium.com/webview-xss-account-takeover-349c1d69606e, Webview-XSS
 - https://attackshipsonfi.re/p/exploiting-cors-misconfigurations, CORS-misconfiguration
-- https://petrusviet.medium.com/cve-2022-43781-32bc29de8960, OS-command-injection
 - https://rashahacks.com/directory-enumeration-guide/, 40x-bypass
 - https://letshack.xyz/offensive/web-application/legally-hacking-a-government-satellite, Missing-authentication
 - https://www.contrastsecurity.com/security-influencers/localhost-attack-against-quarkus-developers-contrast-security, Drive-by-attack
@@ -939,7 +938,6 @@
 - https://monke.ie/case-study-part-2/, SSRF
 - https://ivreznap.medium.com/interesting-privilege-escalation-in-an-old-private-program-225d27253e13, Privilege-escalation
 - https://labs.detectify.com/2022/07/06/account-hijacking-using-dirty-dancing-in-sign-in-oauth-flows/, OAuth
-- https://medium.com/@ittipatjitrada_72022/how-i-found-open-redirect-on-bug-crowd-public-program-in-2-day-a217cfb70f3, Open-redirect
 - https://infosecwriteups.com/exposing-millions-of-voter-id-card-users-details-8a993c9a5d35, IDOR
 - https://web.archive.org/web/20220716152713/https://snapsec.co/blog/hacking-larksuite/, XSS
 - https://bhashit.in/?p=71, Firebase
@@ -1584,7 +1582,6 @@
 - https://www.bugcrowd.com/blog/big-bugs-cve-2020-28914/, RCE
 - https://infosecwriteups.com/bragging-rights-killing-file-uploads-softly-fba35a4e485a, Unrestricted-file-upload
 - https://jayateerthag.medium.com/jira-authenticated-dashboard-access-in-google-acquisition-apigee-ff20cfe11d99, Authentication-bypass
-- https://n0ur5sec.medium.com/somebody-call-the-plumber-graphql-is-leaking-again-654bf1a38d26, Information-disclosure
 - https://shubhamchaskar.com/ato-through-pe/, Privilege-escalation
 - https://github.com/champtar/blog/tree/main/K8S_MITM_LoadBalancer_ExternalIPs, MiTM
 - https://infosecwriteups.com/somebody-call-the-plumber-graphql-is-leaking-again-654bf1a38d26, Information-disclosure
@@ -2000,7 +1997,6 @@
 - https://medium.com/@shahjerry33/privilege-escalation-hello-admin-a53ac14fd388, Privilege-escalation
 - https://medium.com/@ashokcpg/the-story-of-my-first-ever-1500-bounty-from-facebook-49eb64d26160, Logic-flaw
 - https://blog.securitybreached.org/2020/03/31/microsoft-rce-bugbounty/, RCE
-- https://medium.com/@abidafahd/hacking-makes-me-forget-my-pain-b04bf51d0407, SQL-injection
 - https://blog.mert.ninja/freemarker-ssti-on-lithium-cms/, SSTI
 - https://0x65.dev/blog/2020-03-30/cve-2019-17004-semi-universal-xss-affecting-firefox-for-ios.html, Universal-XSS
 - https://medium.com/@ranjitsinghnit/otp-bruteforce-account-takeover-faaac3d712a8, OTP-bruteforce
@@ -2449,7 +2445,6 @@
 - https://web.archive.org/web/20181030103042/https://zseano.com/blogs/4.html, CSRF
 - https://medium.com/@plenumlab/idor-in-jwt-and-the-shortest-token-you-will-ever-see-uid-1234567890-4e02377ea03a, IDOR
 - https://blog.zimperium.com/cve-2018-9411-new-critical-vulnerability-multiple-high-privileged-android-services/, Memory-corruption
-- https://thesecurityexperts.wordpress.com/2018/10/28/journey-through-google-referer-leakage-bugs/, Information-disclosure
 - https://medium.com/@logicbomb_1/bugbounty-how-i-was-able-to-download-the-source-code-of-indias-largest-telecom-service-52cf5c5640a1, git-folder-disclosure
 - https://blog.securitybreached.org/2018/10/27/privilege-escalation-like-a-boss/, IDOR
 - https://medium.com/@Skylinearafat/how-misconfigured-api-leaked-user-private-information-e3e8c13e52e4, IDOR

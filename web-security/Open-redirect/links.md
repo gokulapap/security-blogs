@@ -60,3 +60,4 @@
 - https://medium.com/@dwi.siswanto98/open-redirect-on-facebook-bypass-linkshim-4050f680d45c
 - https://medium.com/@egeken/facebook-hidden-redirection-vulnerability-aeaaac0b9d73
 - https://gist.github.com/stefanocoding/8cdc8acf5253725992432dedb1c9c781
+- https://medium.com/@ittipatjitrada_72022/how-i-found-open-redirect-on-bug-crowd-public-program-in-2-day-a217cfb70f3

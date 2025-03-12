@@ -14,3 +14,4 @@
 - https://blog.securityevaluators.com/collecting-shells-by-the-sea-of-nas-vulnerabilities-155a0bd7c525
 - https://boschko.ca/glinet-router/
 - https://sensepost.com/blog/2023/an-offensive-look-at-docker-desktop-extensions/
+- https://petrusviet.medium.com/cve-2022-43781-32bc29de8960

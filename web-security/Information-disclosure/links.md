@@ -178,3 +178,5 @@
 - https://medium.com/@cyberali/contentful-access-token-disclosure-in-android-apk-ace5f7bdf98
 - https://medium.com/@anjaneyulukanakatla1996/my-first-bug-in-hackerone-a68cf7b05510
 - https://medium.com/the-volatile-triad/hacking-always-check-out-the-images-99217e6cea
+- https://n0ur5sec.medium.com/somebody-call-the-plumber-graphql-is-leaking-again-654bf1a38d26
+- https://thesecurityexperts.wordpress.com/2018/10/28/journey-through-google-referer-leakage-bugs/
