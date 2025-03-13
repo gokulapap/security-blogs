@@ -15,3 +15,4 @@
 - https://shivangx01b.github.io/2fa_bypass/
 - https://medium.com/@sharp488/2fa-bypass-via-basic-authentication-on-private-bug-bounty-program-93bb457cd065
 - https://medium.com/@sharp488/2fa-bypass-using-custom-cookie-parameter-cb270c8557d2
+- https://medium.com/@YumiSec/how-to-bypass-a-2fa-with-a-http-header-ce82f7927893

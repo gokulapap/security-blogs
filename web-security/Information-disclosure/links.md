@@ -180,3 +180,4 @@
 - https://medium.com/the-volatile-triad/hacking-always-check-out-the-images-99217e6cea
 - https://n0ur5sec.medium.com/somebody-call-the-plumber-graphql-is-leaking-again-654bf1a38d26
 - https://thesecurityexperts.wordpress.com/2018/10/28/journey-through-google-referer-leakage-bugs/
+- https://medium.com/intigriti/abusing-autoresponders-and-email-bounces-9b1995eb53c2

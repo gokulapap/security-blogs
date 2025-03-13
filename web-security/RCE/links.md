@@ -192,3 +192,4 @@
 - https://www.betterhacker.com/2018/12/rce-in-hubspot-with-el-injection-in-hubl.html
 - https://blog.silentsignal.eu/2023/07/03/ibm-i-dde-vulnerability-cve-2023-30990/
 - https://blog.blazeinfosec.com/attack-of-the-clones-github-desktop-remote-code-execution/
+- https://pyn3rd.github.io/2023/02/06/Apache-Commons-SCXML-Remote-Code-Execution/

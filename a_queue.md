@@ -478,7 +478,6 @@
 - https://pvs-studio.com/en/blog/posts/csharp/0918/, XXE
 - https://blog.cyberxplore.com/we-hacked-github-for-a-month-heres-what-we-found/, Pre-account-takeover
 - https://infosecwriteups.com/disabling-js-for-the-win-9d13c606f910, Unrestricted-file-upload
-- https://decoder.cloud/2023/02/13/localpotato-when-swapping-the-context-leads-you-to-system/, Windows
 - https://medium.com/@lukeberner/information-disclosure-to-gdpr-breach-a-google-tale-f9e99fd5d648, Privacy-issue
 - https://the-deniss.github.io/posts/2023/02/09/elevation-of-privileges-from-everyone-through-avast-av-sandbox-to-system-amppl.html, Local-Privilege-Escalation
 - https://skylightcyber.com/2023/02/09/a-salt-attacking-saltstack/, SSTI
@@ -488,7 +487,6 @@
 - https://blog.quarkslab.com/post-exploitation-abusing-the-keepass-plugin-cache.html, Local-Privilege-escalation
 - https://eaton-works.com/2023/02/06/toyota-gspims-hack/, Authentication-bypass
 - https://securitylabs.datadoghq.com/articles/aws-console-rate-limit-bypass/, Rate-limiting-bypass
-- https://pyn3rd.github.io/2023/02/06/Apache-Commons-SCXML-Remote-Code-Execution/, RCE
 - https://medium.com/@2os5/easy-account-takeover-on-dell-subdomain-6297460741fd, Password-reset
 - https://bloggerrando.blogspot.com/2023/02/06-2.html, Logic-flaw
 - https://security.lauritz-holtmann.de/post/xss-ato-gadgets/, SSO
@@ -1229,7 +1227,6 @@
 - https://pathleax.medium.com/this-is-how-i-was-able-to-see-and-delete-your-private-facebook-portal-photos-a93ed22f875b, IDOR
 - https://infosecwriteups.com/how-i-hacked-yandex-with-ssrf-vulnerability-e19af20ed4d, SSRF
 - https://www.varonis.com/blog/box-mfa-bypass-totp/, OTP-bypass
-- https://blog.lightspin.io/aws-sagemaker-notebook-takeover-vulnerability, Self-XSS
 - https://security.googleblog.com/2021/12/exploring-container-security-storage.html, Race-condition
 - https://cyberguy0xd1.medium.com/how-i-was-able-to-bypass-cloudflare-waf-for-sqli-payload-b9e7a4260026, SQL-injection
 - https://web.archive.org/web/20211202081008/https://medium.com/@saurabhsankhwar3/p1-bug-in-apple-that-phase-old-is-gold-6eb99da5bbca, Logic-flaw
@@ -2282,7 +2279,6 @@
 - https://gauravnarwani.com/two-factor-authentication-bypass/, MFA-bypass
 - https://medium.com/@elberandre/broken-access-posting-to-google-private-groups-through-any-user-in-the-group-3becfa818894, Authorization-flaw
 - https://edoverflow.com/2019/ci-knew-there-would-be-bugs-here/, Information-disclosure
-- https://medium.com/@YumiSec/how-to-bypass-a-2fa-with-a-http-header-ce82f7927893, MFA-bypass
 - https://medium.com/@logicbomb_1/the-journey-of-web-cache-firewall-bypass-to-ssrf-to-aws-credentials-compromise-b250fb40af82, LFI
 - https://medium.com/@iframe_h1/a-picture-that-steals-data-ff604ba1012, Information-disclosure
 - https://medium.com/@heshamwatany/the-neglected-bug-that-can-infect-all-facebook-users-who-pay-for-leads-ads-8c374cd64d76, CSV-injection
@@ -2336,7 +2332,6 @@
 - https://medium.com/@logicbomb_1/chain-of-hacks-leading-to-database-compromise-b2bc2b883915, LFI
 - https://medium.com/@ChandSingh/download-any-organisation-data-s3-amazonaws-64059847e06, Authorization-flaw
 - https://sites.google.com/securifyinc.com/secblogs/exploitingcalendars, Authorization-flaw
-- https://medium.com/intigriti/abusing-autoresponders-and-email-bounces-9b1995eb53c2, Information-disclosure
 - https://medium.com/@modam3r5/reflected-xss-at-https-photos-shopify-com-ea696db3915c, Reflected-XSS
 - https://medium.com/@spade.com/how-i-registered-multiple-accounts-in-privateinternetaccess-vpn-service-for-free-a2068642f418, Logic-flaw
 - https://georgeosterweil.com/2019-02-20-fbctf-idor/, IDOR
