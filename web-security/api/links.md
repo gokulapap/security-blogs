@@ -1,2 +1,3 @@
 - https://medium.com/@vickieli/api-security-101-injection-a7feea1d4fd
 - https://medium.com/@gurudatt.sa26/cypress-understanding-basics-of-api-testing-f81e4f70cca9
+- https://medium.com/@harish_nataraj/making-api-bug-bounties-a-breeze-bf6443db5b37
