@@ -584,7 +584,6 @@
 - https://infosecwriteups.com/directory-ttraversal-vulnerability-in-huawei-hg255s-products-dce941a1d015, Path-traversal
 - https://0xraminfosec.medium.com/simple-cors-misconfig-leads-to-disclose-the-sensitive-token-worth-of-91433763f4d6, CORS-misconfiguration
 - https://infosecwriteups.com/param-hunting-to-injections-4365da5447cf, HTML-injection
-- https://hacksys.io/blogs/foxit-reader-uaf-rce-jit-spraying-cve-2022-28672, Memory-corruption
 - https://salt.security/blog/missing-bricks-finding-security-holes-in-lego-apis, XSS
 - https://bishopfox.com/blog/flowscreencomponents-advisory, XSS
 - https://spyclub.tech/2022/12/14/unusual-cache-poisoning-akamai-s3/, Web-cache-poisoning
@@ -660,7 +659,6 @@
 - https://sec-consult.com/vulnerability-lab/advisory/path-traversal-vulnerability-in-payara-platform/, Path-traversal
 - https://medium.com/@jodyritonga/how-i-get-100-in-just-10-minutes-b018b28645ce, Race-condition
 - https://varmaanu001.medium.com/from-shodan-dork-to-grafana-local-file-inclusion-e77dc4cfc264, LFI
-- https://unit42.paloaltonetworks.com/openlitespeed-vulnerabilities/, RCE
 - https://blog.sigstore.dev/how-sigstore-quickly-patched-an-upstream-vulnerability-76ba84ef1122, OAuth
 - https://bugs.xdavidhu.me/google/2022/11/10/accidental-70k-google-pixel-lock-screen-bypass/, Lock-screen-bypass
 - https://caesarevan23.medium.com/google-vrp-acquisitions-insecure-direct-object-reference-2nd-2ece9b185ade, IDOR
@@ -1362,7 +1360,6 @@
 - https://srcincite.io/blog/2021/08/25/pwn2own-vancouver-2021-microsoft-exchange-server-remote-code-execution.html, RCE
 - https://maxwelldulin.com/BlogPost?post=7676291072, Logic-flaw
 - https://robertheaton.com/bumble-vulnerability/, Information-disclosure
-- https://medium.com/@nehpatel/story-of-unexpected-bugs-75734d51ac57, IDOR
 - https://web.archive.org/web/20210909040725/https://obsrva.org/2021/08/22/monkeytype-disclosure.html, Stored-XSS
 - https://zemnmez.medium.com/how-to-hack-apple-id-f3cc9b483a41, XSS
 - https://blog.melbadry9.xyz/dangling-dns/xyz-services/ddns-announcekit, Subdomain-takeover
@@ -2250,7 +2247,6 @@
 - https://medium.com/@matarpan33r/stored-xss-on-edmodo-67b244824fa5, Stored-XSS
 - https://smaranchand.com.np/2019/05/an-unexploited-cors-misconfiguration-reflecting-further-issues/, CORS-misconfiguration
 - https://ysamm.com/?p=272, Weak-encryption
-- https://smaranchand.com.np/2019/05/how-i-acquired-xxx-bounty-by-investing-99-cents/, Logic-flaw
 - https://philippeharewood.com/determine-a-user-from-an-email-address/, Information-disclosure
 - https://medium.com/@zseano/leaking-openid-tokens-with-the-bug-right-infront-of-you-95c1fb4a86e9, OpenID-Connect
 - https://medium.com/@__rishabh__/open-redirect-to-account-takeover-e939006a9f24, Open-redirect
@@ -2583,7 +2579,6 @@
 - https://medium.com/@YoKoKho/idor-at-private-bug-bounty-program-that-could-leads-to-personal-data-leaks-d2536d026bf5, IDOR
 - https://medium.com/@vis_hacker/how-i-got-stored-xss-using-file-upload-5c33e19df51e, Stored-XSS
 - https://medium.com/bugbountywriteup/bypassing-captcha-like-a-boss-d0edcc3a1c1, Captcha-bypass
-- https://medium.com/bugbountywriteup/securitybreach-how-i-was-able-to-book-hotel-room-for-1-50-9b35f18e49e8, CORS-misconfiguration
 - https://medium.com/@iSecMax/how-i-hacked-companies-related-to-the-crypto-currency-and-earned-60-000-93e9b3299f4e, Authorization-flaw
 - https://medium.com/@flex0geek/how-i-bypassed-ebay-process-on-redirect-98739384b4bc, Open-redirect
 - https://web.archive.org/web/20191217083137/http://blog.jr0ch17.com/2018/Please-email-me-your-password/, Blind-XSS

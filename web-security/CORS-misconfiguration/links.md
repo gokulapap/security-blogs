@@ -14,3 +14,4 @@
 - https://bugbaba.blogspot.com/2018/02/exploiting-cors-miss-configuration.html
 - https://medium.com/bugbountywriteup/broke-limited-scope-with-a-chain-of-bugs-ef734ac430f5
 - https://www.whiteoaksecurity.com/blog/fun-with-cors/
+- https://medium.com/bugbountywriteup/securitybreach-how-i-was-able-to-book-hotel-room-for-1-50-9b35f18e49e8

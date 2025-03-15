@@ -118,3 +118,4 @@
 - https://blog.lent.ink/post/klanteservice/
 - https://www.lutasecurity.com/post/new-clubhouse-security-vulnerabilities-could-happen-to-any-growing-unicorn
 - https://www.inputzero.io/2019/09/telegram-privacy-fails-again.html
+- https://smaranchand.com.np/2019/05/how-i-acquired-xxx-bounty-by-investing-99-cents/

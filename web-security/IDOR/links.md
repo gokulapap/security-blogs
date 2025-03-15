@@ -164,3 +164,4 @@
 - https://0x2m.medium.com/misconfiguration-in-change-password-functionality-leads-to-account-takeover-1314b5507abf
 - https://medium.com/@bharatsingh070601/bypassing-unexpected-idor-e6a9da2e0498
 - https://amineaboud.medium.com/access-developer-tasks-list-of-any-of-facebook-application-graphql-idor-62307c5e5b34
+- https://medium.com/@nehpatel/story-of-unexpected-bugs-75734d51ac57
