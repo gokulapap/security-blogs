@@ -194,3 +194,4 @@
 - https://blog.blazeinfosec.com/attack-of-the-clones-github-desktop-remote-code-execution/
 - https://pyn3rd.github.io/2023/02/06/Apache-Commons-SCXML-Remote-Code-Execution/
 - https://unit42.paloaltonetworks.com/openlitespeed-vulnerabilities/
+- https://corben.io/blog/17-3-10-att-rce

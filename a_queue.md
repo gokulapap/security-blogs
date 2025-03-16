@@ -1359,7 +1359,6 @@
 - https://sunilyedla.medium.com/websocket-hijacking-to-steal-session-id-of-victim-users-bca84243830, Cross-Site-WebSocket-Hijacking
 - https://srcincite.io/blog/2021/08/25/pwn2own-vancouver-2021-microsoft-exchange-server-remote-code-execution.html, RCE
 - https://maxwelldulin.com/BlogPost?post=7676291072, Logic-flaw
-- https://robertheaton.com/bumble-vulnerability/, Information-disclosure
 - https://web.archive.org/web/20210909040725/https://obsrva.org/2021/08/22/monkeytype-disclosure.html, Stored-XSS
 - https://zemnmez.medium.com/how-to-hack-apple-id-f3cc9b483a41, XSS
 - https://blog.melbadry9.xyz/dangling-dns/xyz-services/ddns-announcekit, Subdomain-takeover
@@ -1780,7 +1779,6 @@
 - https://offensi.com/2020/08/18/how-to-contact-google-sre-dropping-a-shell-in-cloud-sql/, SQL-injection
 - https://medium.com/bugbountywriteup/how-could-i-tag-photo-to-any-users-scrapbook-on-facebook-23ab15e6e4b4, Authorization-flaw
 - https://www.activecyber.us/activelabs/windows-appx-deployment-service-local-privilege-escalation-cve-2020-1488, Local-Privilege-Escalation
-- https://medium.com/witnet/witnet-network-acknowledged-dos-bug-f7d55b709051, DoS
 - https://medium.com/bugbountywriteup/how-i-was-able-to-send-authentic-emails-as-others-google-vrp-resolved-2af94295f326, Logic-flaw
 - https://medium.com/@vedanttekale20/how-recon-helped-me-to-find-an-interesting-bug-17a2d8cf1778, Open-redirect
 - https://blog.detectify.com/2020/08/14/crowdsource-success-story-from-an-out-of-scope-open-redirect-to-cve-2020-1323/, Open-redirect
@@ -1955,7 +1953,6 @@
 - https://sites.google.com/securifyinc.com/vrp-writeups/waze/waze-xss, XSS
 - https://sites.google.com/securifyinc.com/vrp-writeups/gsuite/bookmark-xss-device-management, XSS
 - https://medium.com/@sandeepkumarsingh1902/bugbounty-adding-money-using-response-modification-334448d34251, Payment-tampering
-- https://medium.com/@rohitcoder/private-dashboards-were-accessible-by-other-admins-in-analytics-dashboard-558010a379ab, Authorization-flaw
 - https://medium.com/@impratikdabhi/reflected-xss-on-microsoft-com-via-angular-template-injection-2e26d80a7fd8, CSTI
 - https://web.archive.org/web/20210117211634/https://kurtikleiton.medium.com/blind-ssrf-on-coda-io-c7063f304455, SSRF
 - https://ysamm.com/?p=444, Information-disclosure
@@ -2619,7 +2616,6 @@
 - http://blog.jr0ch17.com/2018/No-RCE-then-SSH-to-the-box/, LFI
 - http://omespino.com/write-up-file-disclosure-via-ds_store-file-macos, Directory-listing
 - https://medium.com/@circleninja/internshala-bug-in-internshala-student-partner-33d7b66c1bd5, Bruteforce
-- https://web.archive.org/web/20201022204145/https://www.mohamedharon.com/2018/01/reflected-file-download-rfd-in.html, Reflected-File-Download
 - https://emtunc.org/blog/01/2018/research-misconfigured-jenkins-servers/, Information-disclosure
 - http://c0rni3sm.blogspot.com/2018/01/1800-in-less-than-hour.html, CSRF
 - https://blog.ibrahimdraidia.com/xss-via-angularjs-template-injection_hostinger/, Reflected-XSS
@@ -2729,7 +2725,6 @@
 - https://www.nc-lp.com/blog/critical-information-disclosure-on-wappalyzer-com, Information-disclosure
 - https://blog.ettic.ca/near-universal-xss-in-mcafee-web-gateway-cf8dfcbc8fc3, XSS
 - https://emtunc.org/blog/03/2017/bypassing-safe-links-exchange-online-advanced-threat-protection/, Open-redirect
-- https://corben.io/blog/17-3-10-att-rce, RCE
 - https://buer.haus/2017/03/08/airbnb-when-bypassing-json-encoding-xss-filter-waf-csp-and-auditor-turns-into-eight-vulnerabilities/, XSS
 - https://www.rcesecurity.com/2017/03/ok-google-give-me-all-your-internal-dns-information/, SSRF
 - https://labs.detectify.com/2017/02/28/hacking-slack-using-postmessage-and-websocket-reconnect-to-steal-your-precious-token/, postMessage

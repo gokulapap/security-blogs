@@ -184,3 +184,4 @@
 - https://www.tutorgeeks.net/2018/08/misconfigured-jira-setting-apigee.html
 - https://medium.com/@yashhunter772/how-i-got-200-in-30-seconds-3dd742f60186
 - https://checkmarx.com/blog/ericsson-sensitive-data-exposure-via-trace-axd/
+- https://robertheaton.com/bumble-vulnerability/

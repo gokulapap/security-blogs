@@ -1,1 +1,2 @@
 - https://kabilan1290.medium.com/rfd-vulnerability-and-content-disposition-header-bypass-story-f8f962f54c7d
+- https://web.archive.org/web/20201022204145/https://www.mohamedharon.com/2018/01/reflected-file-download-rfd-in.html

@@ -82,3 +82,4 @@
 - https://web.archive.org/web/20191219011242/https://medium.com/@zk34911/twitter-bug-bounty-misconfigured-json-endpoint-on-ads-twitter-com-2771ec83a82
 - https://philippeharewood.com/toggle-group-rules-agreement-as-a-non-member/
 - https://medium.com/@mustafakhan_89646/multiple-api-issues-due-to-fixed-authorization-token-17365056f17a
+- https://medium.com/@rohitcoder/private-dashboards-were-accessible-by-other-admins-in-analytics-dashboard-558010a379ab

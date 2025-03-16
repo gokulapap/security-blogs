@@ -34,3 +34,4 @@
 - https://portswigger.net/research/responsible-denial-of-service-with-web-cache-poisoning
 - https://www.code-intelligence.com/blog/expression-dos-spring
 - https://medium.com/@shahjerry33/long-string-dos-6ba8ceab3aa0
+- https://medium.com/witnet/witnet-network-acknowledged-dos-bug-f7d55b709051
