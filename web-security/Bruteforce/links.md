@@ -16,3 +16,4 @@
 - https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/brute-forcing-butterflymx-virtual-keys-and-hacking-time-limits/
 - https://ysamm.com/?p=38
 - https://medium.com/bugbountywriteup/how-i-was-able-to-remove-your-instagram-phone-number-d346515e79c3
+- https://www.arneswinnen.net/2016/05/instabrute-two-ways-to-brute-force-instagram-account-credentials/

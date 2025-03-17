@@ -21,3 +21,4 @@
 - https://github.com/httpvoid/writeups/blob/main/Ruby-deserialization-gadget-on-rails.md
 - https://bishopfox.com/blog/netwrix-auditor-advisory
 - https://www.reversemode.com/2022/01/finding-vulnerabilities-in-swiss-posts.html
+- https://www.whiteoaksecurity.com/blog/fishbowl-disclosure-cve-2022-29805/

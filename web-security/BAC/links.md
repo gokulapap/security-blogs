@@ -1,1 +1,2 @@
 - https://medium.com/@taksec/tips-for-bac-and-idor-vulnerabilities-8a3e58f79d95
+- https://medium.com/@mehedishakeel/improper-access-control-my-third-finding-on-hackerone-1455e95b6c8c

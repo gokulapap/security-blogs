@@ -47,3 +47,4 @@
 - https://medium.com/@prial261/subdomain-takeover-dew-to-missconfigured-project-settings-for-custom-domain-46e90e702969
 - https://0xpatrik.com/subdomain-takeover-starbucks/
 - https://medium.com/bugbountywriteup/the-unexpected-bounty-a-story-of-zendesk-takeover-on-redacted-com-f2aa96ce2026
+- https://medium.com/@friendly_/subdomain-takeover-awarded-200-8296f4abe1b0
