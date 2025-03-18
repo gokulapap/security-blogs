@@ -69,3 +69,5 @@
 - https://shahjerry33.medium.com/duplicate-registration-the-twinning-twins-883dfee59eaf
 - https://medium.com/@sahruldotid/how-i-takeover-wordpress-admin-fiiipay-my-1bdede83635d
 - https://medium.com/@noob.assassin/5k-misconfigured-reset-password-that-leads-to-account-takeover-no-user-interaction-ato-e6a36b8ef183
+- https://ysamm.com/?p=708
+- https://web.archive.org/web/20220529130635/https://pwnsec.ninja/2022/05/29/exploiting-ios-app-for-fun-and-profit/

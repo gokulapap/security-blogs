@@ -185,3 +185,4 @@
 - https://medium.com/@yashhunter772/how-i-got-200-in-30-seconds-3dd742f60186
 - https://checkmarx.com/blog/ericsson-sensitive-data-exposure-via-trace-axd/
 - https://robertheaton.com/bumble-vulnerability/
+- https://medium.com/@milanjain7906/good-recon-leads-to-senssitive-accounts-a8abb6c21333

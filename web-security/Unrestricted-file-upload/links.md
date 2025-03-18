@@ -24,3 +24,4 @@
 - https://ahmed8magdy.medium.com/file-upload-to-rce-538bb4128062
 - https://sagarsajeev.medium.com/file-upload-bypass-to-rce-76991b47ad8f
 - https://medium.com/@__mr_beast__/the-accidental-rce-7ceef9cee179
+- https://karol-mazurek95.medium.com/not-usual-csp-bypass-case-b538263e09d6
