@@ -186,3 +186,4 @@
 - https://checkmarx.com/blog/ericsson-sensitive-data-exposure-via-trace-axd/
 - https://robertheaton.com/bumble-vulnerability/
 - https://medium.com/@milanjain7906/good-recon-leads-to-senssitive-accounts-a8abb6c21333
+- https://blog.usejournal.com/graphql-bug-to-steal-anyones-address-fc34f0374417
