@@ -7,3 +7,4 @@
 - https://takester.medium.com/my-first-and-last-crit-of-2020-on-hackerone-702a694781b0
 - https://medium.com/@circleninja/facebook-informative-bug-from-triaged-76738e4d5938
 - https://medium.com/@girishbo58/rate-limit-bypass-at-readme-com-35c4fb0c7f85
+- https://medium.com/@evilmango/this-is-what-i-call-mass-idor-20e6ec146c0e

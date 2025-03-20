@@ -35,3 +35,4 @@
 - https://www.code-intelligence.com/blog/expression-dos-spring
 - https://medium.com/@shahjerry33/long-string-dos-6ba8ceab3aa0
 - https://medium.com/witnet/witnet-network-acknowledged-dos-bug-f7d55b709051
+- https://medium.com/bugbountywriteup/facebook-bug-bounty-500-usd-a-blocked-fundraiser-organizer-would-be-unable-to-view-or-remove-5da9f86d2fa0
