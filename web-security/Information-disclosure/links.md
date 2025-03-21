@@ -187,3 +187,4 @@
 - https://robertheaton.com/bumble-vulnerability/
 - https://medium.com/@milanjain7906/good-recon-leads-to-senssitive-accounts-a8abb6c21333
 - https://blog.usejournal.com/graphql-bug-to-steal-anyones-address-fc34f0374417
+- https://medium.com/@shubhayumajumdar/bug-chain-leads-to-mass-account-takeover-25dc76205f5d

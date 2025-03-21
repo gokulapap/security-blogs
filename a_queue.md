@@ -226,7 +226,6 @@
 - https://octa-mihail.medium.com/my-first-bounty-on-synack-red-team-4ef53329c960, Stored-XSS
 - https://rashahacks.com/bypassing-okta-sso-https-http/, SSO
 - https://www.descope.com/blog/post/noauth, OAuth
-- https://blog.thalium.re/posts/leveraging-android-permissions/, Android
 - https://github.com/firsov/onlyoffice/blob/main/CVE-2023-34939-PoC.md, Path-traversal
 - https://0xa1mn.medium.com/how-i-unveiled-a-critical-vulnerability-exposing-all-buyers-invoices-pii-with-a-single-trick-691fd410fd7a, Information-disclosure
 - https://blog.coffinsec.com/0day/2023/05/31/minidlna-heap-overflow-rca.html, Memory-corruption
@@ -569,7 +568,6 @@
 - https://infosecwriteups.com/bypass-apples-redirection-process-with-the-dot-character-c47d40537202, Open-redirect
 - https://github.com/PabloMK7/ENLBufferPwn, Buffer-Overflow
 - https://research.nccgroup.com/2022/12/22/puckungfu-a-netgear-wan-command-injection/, OS-command-injection
-- https://www.synacktiv.com/sites/default/files/2022-12/sage_xrt_multiple_sqli_1.pdf, Blind-SQL-injection
 - https://posts.specterops.io/passwordless-persistence-and-privilege-escalation-in-azure-98a01310be3f, Privilege-escalation
 - https://medium.com/@yaala/account-takeover-and-two-factor-authentication-bypass-de56ed41d7f9, Authentication-bypass
 - https://medium.com/@vamshivaran110/rce-on-admin-panel-of-web3-website-2d0acf34d6ea, RCE
@@ -1378,7 +1376,6 @@
 - https://web.archive.org/web/20210927021132/https://0xdln.ml/XSS-Special-Cases/, XSS
 - https://cinzinga.com/XXE-Case-Studies/, XXE
 - https://sapt.medium.com/apple-hall-of-fame-for-a-small-misconfiguration-unauth-cache-purging-faf81b19419b, Unauthenticated-cache-purge
-- https://medium.com/@shubhayumajumdar/bug-chain-leads-to-mass-account-takeover-25dc76205f5d, Information-disclosure
 - https://medium.com/pentesternepal/how-i-found-a-bug-in-apple-within-just-in-5min-d7357237d7a0, XSS
 - https://blog.0xffff.info/2021/07/24/ebay-xss-demo-and-guide-to-spear-phishing/, XSS
 - https://imajk.medium.com/story-of-my-3rd-bounty-from-facebook-fef352853d1b, Logic-flaw
@@ -1477,7 +1474,6 @@
 - https://saajan.bhujel.cyou/blog/web/2021-05-05-xss-through-parameter-pollution, XSS
 - https://web.archive.org/web/20210728030437/https://ritiksahni.me/open-source-bug-bounty-tutorial, CSRF
 - https://web.archive.org/web/20210620102348/https://ipanda.co.in/blog1.html, RCE
-- https://www.jomar.fr/posts/2021/basic_recon_to_rce/, Insecure-deserialization
 - https://notifybugme.medium.com/chaining-csrf-with-xss-to-deactivate-mass-user-accounts-by-single-click-b463c0d26587, CSRF
 - https://www.jomar.fr/posts/2021/ssrf_through_pdf_generation/, SSRF
 - https://www.pentagrid.ch/de/blog/password-reset-code-brute-force-vulnerability-in-AWS-Cognito/, Password-reset
@@ -1644,7 +1640,6 @@
 - https://ysamm.com/?p=588, IDOR
 - https://mohsinalibukc.medium.com/cross-domain-referrer-leakage-7873ada102ad, Cross-Domain-Referrer-Leakage
 - https://www.pantaprakash.com.np/posts/categories/bugbounty-writeup/1.html, Information-disclosure
-- https://www.pantaprakash.com.np/posts/categories/bugbounty-writeup/3.html, Logic-flaw
 - https://iustin24.github.io/Cache-Key-Normalization-Denial-of-Service/, Web-cache-poisoning
 - https://blog.deesee.xyz/regex/security/2020/12/27/regular-expression-injection.html, ReDoS
 - https://lutfumertceylan.com.tr/posts/acc-takeover-web-cache-xss/, Reflected-XSS

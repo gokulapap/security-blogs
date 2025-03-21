@@ -22,3 +22,4 @@
 - https://bishopfox.com/blog/netwrix-auditor-advisory
 - https://www.reversemode.com/2022/01/finding-vulnerabilities-in-swiss-posts.html
 - https://www.whiteoaksecurity.com/blog/fishbowl-disclosure-cve-2022-29805/
+- https://www.jomar.fr/posts/2021/basic_recon_to_rce/
