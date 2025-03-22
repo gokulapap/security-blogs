@@ -243,7 +243,6 @@
 - https://hackcompute.com/hacking-epp-servers/, XXE
 - https://hacktus.tech/taking-over-an-entire-organization, Broken-Access-Control
 - https://infosecwriteups.com/kubernetes-pentest-bypassing-load-balancer-9bcfae2ce84a, Security-code-review
-- https://redmaple.tech/blogs/2023/extract-bitwarden-vault-passwords/, Information-disclosure
 - https://d3lb3.github.io/keepass_triggers_arent_dead/, Local-Privilege-Escalation
 - https://www.tarlogic.com/blog/linked-servers-adsi-passwords/, ADSI
 - https://medium.com/@malekmahmed55/turning-a-50-tab-nabbing-vulnerability-into-a-1000-account-takeover-9c3f32cb2d84, Reverse-tabnabbing
@@ -337,7 +336,6 @@
 - https://www.offensity.com/en/blog/user-impersonation-via-stolen-uuid-code-in-keycloak-cve-2023-0264/, OAuth
 - https://giraffesecurity.dev/posts/google-remote-code-execution/, Dependency-confusion
 - https://char49.com/articles/topdesk-vulnerable-to-xml-signature-wrapping-attacks, XML-Signature-Wrapping
-- https://blog.redteam-pentesting.de/2023/rooting-printer/, Printer-hacking
 - https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/cve-2023-29383-abusing-linux-chfn-to-misrepresent-etc-passwd/, Local-Privilege-Escalation
 - https://www.rcesecurity.com/2023/04/securepwn-part-2-leaking-remote-memory-contents-cve-2023-22897/, Memory-leak
 - https://www.reversemode.com/2023/04/losing-control-over-schneiders.html, RCE
@@ -377,7 +375,6 @@
 - https://www.praetorian.com/blog/dynamic-linking-injection/, DLL-Hijacking
 - https://infosecwriteups.com/cve-2023-1410-stored-xss-in-the-graphite-function-description-tooltip-165bdc32154c, Stored-XSS
 - https://protectai.com/blog/hacking-ai-system-takeover-exploit-in-mlflow, LFI
-- https://portswigger.net/research/exploiting-prototype-pollution-in-node-without-the-filesystem, Server-side-prototype-pollution
 - https://www.netspi.com/blog/technical/cloud-penetration-testing/azure-function-apps/, Privilege-escalation
 - https://medium.com/@warrenbutterworth/finding-initial-access-on-a-real-life-penetration-test-86ed5503ae48, Old-components-with-known-vulnerabilities
 - https://occamsec.com/getting-root-a-technical-walkthrough/, Information-disclosure
@@ -1329,7 +1326,6 @@
 - https://shahjerry33.medium.com/business-logic-errors-must-vote-68f642b60fb7, Logic-flaw
 - https://infosecwriteups.com/bypassed-and-uploaded-a-sweet-reverse-shell-d15e1bbf5836, Unrestricted-file-upload
 - https://cyberguy0xd1.medium.com/how-i-hacked-bbc-mail-servers-e61bb6faed2d, Information-disclosure
-- https://4bdoz.medium.com/rce-by-code-injection-perl-reverse-shell-a2e90181b10, RCE
 - https://medium.com/pentesternepal/hacking-dutch-government-for-a-lousy-t-shirt-8e1fd1b56deb, IDOR
 - https://cho0k.com/wp-content/uploads/2021/08/FullPoC.pdf, Privilege-escalation
 - https://theshubh77.medium.com/bypassing-2-factor-authentication-for-facebook-business-manager-bounty-1000-usd-c78c858459d6, MFA-bypass
@@ -1509,7 +1505,6 @@
 - https://www.sjoerdlangkemper.nl/2021/04/04/remote-code-execution-through-unsafe-unserialize/, Insecure-deserialization
 - http://www.kamilonurozkaleli.com/posts/rce-on-starbucks-singapore-and-more/, RCE
 - https://nns.ee/blog/2021/04/03/modem-rce.html, OS-command-injection
-- https://blog.tyage.net/posts/2021-04-02-improper-access-control-github-workflow/, Broken-Access-Control
 - https://www.paulosyibelo.com/2021/04/this-man-thought-opening-txt-file-is.html, MacOS
 - https://infosecwriteups.com/bragging-rights-lets-head-back-to-bug-bucket-88c94730b6fa, XSS
 - https://security.lauritz-holtmann.de/post/xss-parameter-guessing/, XSS

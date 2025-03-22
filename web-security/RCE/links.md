@@ -195,3 +195,4 @@
 - https://pyn3rd.github.io/2023/02/06/Apache-Commons-SCXML-Remote-Code-Execution/
 - https://unit42.paloaltonetworks.com/openlitespeed-vulnerabilities/
 - https://corben.io/blog/17-3-10-att-rce
+- https://4bdoz.medium.com/rce-by-code-injection-perl-reverse-shell-a2e90181b10

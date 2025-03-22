@@ -1,1 +1,2 @@
 - https://security.humanativaspa.it/nothing-new-under-the-sun/
+- https://blog.redteam-pentesting.de/2023/rooting-printer/

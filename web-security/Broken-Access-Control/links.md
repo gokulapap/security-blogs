@@ -16,3 +16,4 @@
 - https://blog.robinjust.in/gov-in/2023/02/Exposing-Indian-Citizens-Sensitive-PII-and-more/
 - https://bloggerrando.blogspot.com/2021/03/bug-bounty-idor-in-youtube-bounty.html
 - https://bloggerrando.blogspot.com/2022/02/how-can-i-access-members-only-video.html
+- https://blog.tyage.net/posts/2021-04-02-improper-access-control-github-workflow/
