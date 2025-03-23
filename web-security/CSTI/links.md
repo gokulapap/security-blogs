@@ -5,3 +5,4 @@
 - https://infosecwriteups.com/leveraging-template-injection-to-takeover-an-account-1dba7c4ae315
 - https://xthemo.medium.com/stored-xss-at-nvidia-via-angular-js-template-injection-3c9793218860
 - https://portswigger.net/research/xss-without-html-client-side-template-injection-with-angularjs
+- https://bergee.it/blog/xss-via-angular-template-injection/

@@ -196,3 +196,4 @@
 - https://unit42.paloaltonetworks.com/openlitespeed-vulnerabilities/
 - https://corben.io/blog/17-3-10-att-rce
 - https://4bdoz.medium.com/rce-by-code-injection-perl-reverse-shell-a2e90181b10
+- https://www.shielder.it/advisories/remote-command-execution-in-visual-studio-code-remote-development-extension/

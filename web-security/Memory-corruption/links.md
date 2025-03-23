@@ -45,3 +45,4 @@
 - https://www.zerodayinitiative.com/blog/2022/2/14/static-taint-analysis-using-binary-ninja-a-case-study-of-mysql-cluster-vulnerabilities
 - https://blog.khonggianmang.vn/vmware-workstation-attack-surface-through-virtual-printer/
 - https://hacksys.io/blogs/foxit-reader-uaf-rce-jit-spraying-cve-2022-28672
+- https://hacksys.io/blogs/adobe-reader-resetform-cagg-rce-cve-2023-21608

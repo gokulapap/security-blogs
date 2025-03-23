@@ -205,3 +205,4 @@
 - https://medium.com/@Iam5345/how-i-hacked-the-dutch-government-and-got-the-lousy-t-shirt-81fd0a0dd84d
 - https://whitton.io/articles/abusing-cors-for-an-xss-on-flickr/
 - https://saajan.bhujel.cyou/blog/web/2022-10-16-how-i-got-10000-from-github-for-bypassing-filtration-of-html-tags
+- https://chefsecure.com/blog/i-found-xss-security-flaws-in-rails-heres-what-happened

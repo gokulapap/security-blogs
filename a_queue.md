@@ -503,7 +503,6 @@
 - https://medium.com/@DrakenKun/how-i-was-able-to-find-4-cross-site-scripting-xss-on-vulnerability-disclosure-program-e2f39199ae16, XSS
 - https://ysamm.com/?p=777, Account-takeover
 - https://akashc99.medium.com/bypassing-account-lockout-through-password-reset-functionality-8ff5c256f380, Rate-limiting-bypass
-- https://hacksys.io/blogs/adobe-reader-resetform-cagg-rce-cve-2023-21608, Memory-corruption
 - https://blog.projectdiscovery.io/php-http-server-source-disclosure/, Source-code-disclosure
 - https://medium.com/@sudipshah_66336/disclosing-facebook-page-admins-by-playing-a-game-2b0f4ed082e4, Logic-flaw
 - https://www.sonarsource.com/blog/openemr-remote-code-execution-in-your-healthcare-system/, RCE
@@ -843,7 +842,6 @@
 - https://bergee.it/blog/url-filter-bypass-rfi-and-xss/, Stored-XSS
 - http://www.hydrogen18.com/blog/hacking-zyxel-ip-cameras-pt-1.html, Missing-authentication
 - https://blog.bugzero.io/how-i-get-into-united-nations-hall-of-fame-6975e3d3cc45, Missing-authentication
-- https://bergee.it/blog/xss-via-angular-template-injection/, CSTI
 - https://blog.electrovolt.io/posts/element-rce/, RCE
 - https://medium.com/@lovely.goyal1998/story-of-5000-bounty-for-grafana-panel-access-in-apple-89c93ab4486f, Missing-authentication
 - https://www.akamai.com/blog/security/authentication-coercion-windows-server-service, Off-by-one-Error
@@ -1295,7 +1293,6 @@
 - https://medium.com/@bobbyrsec/zero-day-hijacking-icloud-credentials-with-apple-airtags-stored-xss-6997da43a216, Stored-XSS
 - https://deepsurface.com/deepsurface-security-advisory-lpe-in-firefox-on-windows/, Local-Privilege-Escalation
 - https://parsiya.net/blog/2021-09-26-attack-surface-analysis-part-3-resurrected-code-execution/, RCE
-- https://www.shielder.it/advisories/remote-command-execution-in-visual-studio-code-remote-development-extension/, RCE
 - https://habr.com/en/post/579714/, Information-disclosure
 - https://trenchant.io/pwn2own-2021-parallels-desktop-guest-to-host-escape/, VM-escape
 - https://rizwansiddiqu1.medium.com/super-admin-panel-without-credentials-c2022a23bb35, Authentication-bypass
@@ -1921,7 +1918,6 @@
 - https://medium.com/@frycos/another-zoho-manageengine-story-7b472f1515f5, Authentication-bypass
 - https://www.synacktiv.com/en/publications/pentesting-cisco-sd-wan-part-2-breaking-routers.html, OS-command-injection
 - https://vinothkumar.me/20000-facebook-dom-xss/, DOM-XSS
-- https://chefsecure.com/blog/i-found-xss-security-flaws-in-rails-heres-what-happened, XSS
 - https://twitter.com/missoum1307/status/1258472717453582336, DOM-XSS
 - https://medium.com/@youssefla/dom-xss-walkthrough-4d60c45ffb21, DOM-XSS
 - https://medium.com/@TnMch/google-acquisition-xss-apigee-5479d7b5dc4, XSS
@@ -2356,7 +2352,6 @@
 - https://medium.com/@ahmedasherif/accessing-voip-internal-service-via-port-8009-routing-traffic-through-local-apache-proxy-54a4ff539c5f, Information-disclosure
 - https://nahoragg.github.io/bugbounty/2018/12/15/Self-XSS-to-Interesting-Stored-XSS.html, Stored-XSS
 - https://blog.scrt.ch/2018/08/24/remote-code-execution-on-a-facebook-server/, LFI
-- https://medium.com/@maxpasqua/unremovable-tags-in-facebook-page-reviews-656e095e69aa, Logic-flaw
 - https://mohemiv.com/all/exploiting-xxe-with-local-dtd-files/, XXE
 - https://medium.com/bugbountywriteup/open-redirect-developers-are-lazy-or-maybe-busy-6c51718b10e4, Open-redirect
 - https://honoki.net/2018/12/from-blind-xxe-to-root-level-file-read-access/, Blind-XXE
