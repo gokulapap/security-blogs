@@ -166,3 +166,4 @@
 - https://amineaboud.medium.com/access-developer-tasks-list-of-any-of-facebook-application-graphql-idor-62307c5e5b34
 - https://medium.com/@nehpatel/story-of-unexpected-bugs-75734d51ac57
 - https://hopesamples.blogspot.com/2022/12/idor-allows-to-assign-deleted-tasks-to.html
+- https://mokhansec.medium.com/idor-via-websockets-allow-me-to-takeover-any-users-account-23460dacdeab
