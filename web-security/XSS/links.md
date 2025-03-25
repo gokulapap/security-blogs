@@ -207,3 +207,4 @@
 - https://saajan.bhujel.cyou/blog/web/2022-10-16-how-i-got-10000-from-github-for-bypassing-filtration-of-html-tags
 - https://chefsecure.com/blog/i-found-xss-security-flaws-in-rails-heres-what-happened
 - https://medium.com/@osamaavvan/exploiting-websocket-application-wide-xss-csrf-66e9e2ac8dfa
+- https://securityflow.io/going-beyond-alert-with-xss/

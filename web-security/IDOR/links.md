@@ -167,3 +167,5 @@
 - https://medium.com/@nehpatel/story-of-unexpected-bugs-75734d51ac57
 - https://hopesamples.blogspot.com/2022/12/idor-allows-to-assign-deleted-tasks-to.html
 - https://mokhansec.medium.com/idor-via-websockets-allow-me-to-takeover-any-users-account-23460dacdeab
+- https://apapedulimu.click/idor-on-apple/
+- https://medium.com/@sazouki/how-i-hacked-one-of-the-biggest-airline-in-the-world-e7810dc43791

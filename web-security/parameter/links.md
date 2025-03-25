@@ -1,3 +1,4 @@
 - https://medium.com/@0UN390/what-is-http-parameter-pollution-a50249869d97
 - https://medium.com/@ryuukhagetsu/price-parameter-tampering-how-i-change-any-price-on-website-dec511c499cf
 - https://medium.com/@deepamkumar510/parameter-tampering-842ef9355943
+- https://medium.com/@ethicalkaps/behind-the-scene-http-parameter-pollution-534b4fa2449c
