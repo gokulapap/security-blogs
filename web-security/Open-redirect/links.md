@@ -62,3 +62,4 @@
 - https://gist.github.com/stefanocoding/8cdc8acf5253725992432dedb1c9c781
 - https://medium.com/@ittipatjitrada_72022/how-i-found-open-redirect-on-bug-crowd-public-program-in-2-day-a217cfb70f3
 - https://medium.com/@elsayedmohammed/how-i-hacked-nasa-and-get-8-bugs-e5cd397a6af9
+- https://medium.com/@z0id/finding-open-redirects-like-a-pro-3b87fa474cfd

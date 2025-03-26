@@ -611,7 +611,6 @@
 - https://bhashit.in/?p=117, OS-command-injection
 - https://medium.com/@protostar0/hacking-bank-the-second-story-of-finding-critical-vulnerabilities-on-banking-application-ac20cd8f3dad, Android
 - https://infosecwriteups.com/a-great-weekend-hack-worth-8k-9bfda8ab65b9, SQL-injection
-- https://shafouz.medium.com/webview-xss-account-takeover-349c1d69606e, Webview-XSS
 - https://attackshipsonfi.re/p/exploiting-cors-misconfigurations, CORS-misconfiguration
 - https://rashahacks.com/directory-enumeration-guide/, 40x-bypass
 - https://letshack.xyz/offensive/web-application/legally-hacking-a-government-satellite, Missing-authentication
@@ -1129,7 +1128,6 @@
 - https://hetroublemakr.medium.com/how-i-approached-dependency-confusion-272b46f66907, Dependency-confusion
 - https://github.com/httpvoid/writeups/blob/main/Hacking-Google-Drive-Integrations.md, SSRF
 - https://www.offensive-security.com/offsec/microsoft-onedrive-macos-local-privesc/, Local-Privilege-Escalation
-- https://bxmbn.medium.com/how-i-made-15-000-by-hacking-caching-servers-part-1-5541712a61c3, Web-cache-poisoning
 - https://lohigowda.medium.com/paytm-broken-link-hijacking-11624e4e9eef, Broken-link-hijacking
 - https://docs.google.com/document/d/1-TTCS6fS6kvFUkoJmX4Udr-czQ79lSUVXiWsiAED_bs/edit, RCE
 - https://sirleeroyjenkins.medium.com/bypassing-ssrf-protection-to-exfiltrate-aws-metadata-from-larksuite-bf99a3599462, SSRF
@@ -2011,7 +2009,6 @@
 - https://medium.com/@abhishake100/hyperlink-injection-easy-money-sometimes-cc1104655300, Hyperlink-injection
 - https://www.amolbaikar.com/xss-on-facebook-instagram-cdn-server-bypassing-signature-protection/, XSS
 - https://www.amolbaikar.com/xss-on-facebooks-acquisition-oculus-cdn-server/, XSS
-- https://medium.com/@ozguralp/a-less-known-attack-vector-second-order-idor-attacks-14468009781a, IDOR
 - https://medium.com/bugbountywriteup/how-i-bought-my-way-to-subdomain-takeover-on-tokopedia-8c6697c85b4d, Subdomain-takeover
 - https://medium.com/@milanmagyar/ggvulnz-how-i-hacked-hundreds-of-companies-through-google-groups-b69c658c8924, Logic-flaw
 - https://noobe.io/articles/2020-01/how-i-found-bug-google-search-console, Logic-flaw
@@ -2082,7 +2079,6 @@
 - https://web.archive.org/web/20200604001225/https://hackking.net/threads/how-i-hacked-dutch-government-in-5-minutes-twitter-account-takeover.20/, Broken-link-hijacking
 - https://medium.com/@04sabsas/xss-will-never-die-eb3584081a5f, XSS
 - https://samcurry.net/filling-in-the-blanks-exploiting-null-byte-buffer-overflow-for-a-40000-bounty/, Null-byte-buffer-overflow
-- https://medium.com/@z0id/finding-open-redirects-like-a-pro-3b87fa474cfd, Open-redirect
 - https://medium.com/@naufalseptiadi/live-video-facebook-application-android-its-not-expired-when-log-out-the-device-on-4d4e0b67b362, Logic-flaw
 - https://medium.com/bugbountywriteup/5-000-usd-xss-issue-at-avast-desktop-antivirus-for-windows-yes-desktop-1e99375f0968, Reflected-XSS
 - https://medium.com/@Hossam.Mesbah/cross-site-request-forgery-critical-exploitable-in-infected-site-a271aedeed2f, CSRF
@@ -2388,7 +2384,6 @@
 - https://blog.zimperium.com/cve-2018-9411-new-critical-vulnerability-multiple-high-privileged-android-services/, Memory-corruption
 - https://medium.com/@logicbomb_1/bugbounty-how-i-was-able-to-download-the-source-code-of-indias-largest-telecom-service-52cf5c5640a1, git-folder-disclosure
 - https://blog.securitybreached.org/2018/10/27/privilege-escalation-like-a-boss/, IDOR
-- https://medium.com/@Skylinearafat/how-misconfigured-api-leaked-user-private-information-e3e8c13e52e4, IDOR
 - https://medium.com/@kankrale.rahul/dos-on-facebook-android-app-using-65530-characters-of-zero-width-no-break-space-db41ca8ded89, DoS
 - https://medium.com/@ariffadhlullah2310/xss-deface-with-html-and-how-to-convert-the-html-into-charcode-f0c62dd5ef3f, XSS
 - https://medium.com/@notsoshant/a-possibility-of-account-takeover-in-medium-8d950e547639, Account-takeover
