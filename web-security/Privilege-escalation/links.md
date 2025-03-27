@@ -39,3 +39,4 @@
 - https://www.synacktiv.com/sites/default/files/2023-03/Synacktiv-Grails-Spring-Security-CVE-2022-41923.pdf
 - https://publish.whoisbinit.me/unauthorized-comments-on-facebook-live-stream
 - https://www.netspi.com/blog/technical/cloud-penetration-testing/abusing-azure-hybrid-workers-part-2/
+- https://security.love/blog/gcp/2020/11/22/lateral-movement-and-privesc-in-GCP.html

@@ -198,3 +198,4 @@
 - https://4bdoz.medium.com/rce-by-code-injection-perl-reverse-shell-a2e90181b10
 - https://www.shielder.it/advisories/remote-command-execution-in-visual-studio-code-remote-development-extension/
 - https://frycos.github.io/vulns4free/2023/06/18/fortinac.html
+- https://github.com/snowyyowl/writeups/blob/main/CVE-2021-26084/CVE-2021-26084.md

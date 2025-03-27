@@ -1,4 +1,3 @@
-- https://medium.com/@vineet08/story-of-a-reserved-cve-2022-23361-2c81d836c6fe, journey
 - https://medium.com/@snoopy101/how-i-hacked-hackers-in-voorivex-hunt-event-9c572ce0005f, journey
 - https://medium.com/@nazeemarif/bug-bounty-how-i-was-able-to-purchased-premium-feature-just-for-1-pkr-by-parameter-2f6f7e5b8bf, parameter
 - https://medium.com/@csal/dont-scan-my-website-i-exploiting-an-old-version-of-wappalyzer-14c001279434, journey
@@ -328,7 +327,6 @@
 - https://infosecwriteups.com/break-the-logic-playing-with-product-ratings-on-a-shopping-site-600-c9a87fb66a73, Logic-flaw
 - https://www.pingsafe.com/blog/linkedin-vulnerability-delete-any-post, IDOR
 - https://www.ghostccamm.com/blog/multi_strapi_vulns/, Authentication-bypass
-- https://medium.com/@nanwinata/a-big-company-admin-panel-takeover-4500-9520a6c83430, Authentication-bypass
 - https://starlabs.sg/advisories/23/23-2017/, SSTI
 - https://infosecwriteups.com/from-payload-to-300-bounty-a-story-of-crlf-injection-and-responsible-disclosure-on-hackerone-eeff74aff422, CRLF-injection
 - https://www.offensity.com/en/blog/user-impersonation-via-stolen-uuid-code-in-keycloak-cve-2023-0264/, OAuth
@@ -1272,7 +1270,6 @@
 - https://shail-official.medium.com/accessing-apples-internal-uat-slackbot-for-fun-and-non-profit-25b167605f38, Authorization-flaw
 - https://www.aeth.cc/public/Article-Pass-Culture/stored-xss-article-en.html, Stored-XSS
 - https://supras.io/how-i-got-access-to-many-piis-through-a-source-code-leak/, Information-disclosure
-- https://github.com/snowyyowl/writeups/blob/main/CVE-2021-26084/CVE-2021-26084.md, RCE
 - https://blog.hacktivesecurity.com/index.php/2021/10/05/cve-2021-43136-formalms-the-evil-default-value-that-leads-to-authentication-bypass/, Authentication-bypass
 - https://sapt.medium.com/bypassing-403-protection-to-get-pagespeed-admin-access-822fab64c0b3, 403-bypass
 - https://encodedguy.medium.com/600-for-idor-file-or-folder-download-243166452dad, IDOR
@@ -1650,7 +1647,6 @@
 - https://vijetareigns.medium.com/pre-account-takeover-using-oauth-misconfiguration-ebd32b80f3d3, OAuth
 - https://fuomag9.medium.com/how-images-on-github-will-leak-your-private-information-88f3b563e7d9, Information-disclosure
 - https://medium.com/realmodelabs/sd-pwn-part-3-cisco-vmanage-another-day-another-network-takeover-15731a4d75b7, RCE
-- https://security.love/blog/gcp/2020/11/22/lateral-movement-and-privesc-in-GCP.html, Privilege-escalation
 - https://cirius.medium.com/escalating-xss-to-account-takeover-ffde08624937, Reflected-XSS
 - https://mostafa-mano.medium.com/2-reflected-xss-in-razer-74783ae5ee53, Reflected-XSS
 - https://ozguralp.medium.com/turning-blind-error-based-sql-injection-into-an-exploitable-boolean-one-85d6be3ca23b, SQL-injection
@@ -2671,7 +2667,6 @@
 - http://karmainsecurity.com/tales-of-sugarcrm-security-horrors, PHP-Object-Injection
 - https://web.archive.org/web/20190506160222/https://tutorgeeks.blogspot.com/2017/04/aws-s3-bucket-misconfiguration.html, AWS-misconfiguration
 - https://www.jonbottarini.com/2017/04/03/inspect-element-leads-to-stripe-account-lockout-authentication-bypass/, Authentication-bypass
-- https://buer.haus/2017/03/31/airbnb-web-to-app-phone-notification-idor-to-view-everyones-airbnb-messages/, IDOR
 - https://medium.com/bugbountywriteup/hundreds-of-hundreds-subdomains-hack3d-including-hacker0ne-ad3acd1c0a44, Subdomain-takeover
 - https://www.nc-lp.com/blog/critical-information-disclosure-on-wappalyzer-com, Information-disclosure
 - https://blog.ettic.ca/near-universal-xss-in-mcafee-web-gateway-cf8dfcbc8fc3, XSS

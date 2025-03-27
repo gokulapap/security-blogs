@@ -43,3 +43,4 @@
 - https://medium.com/@sharp488/access-any-owner-account-without-authentication-auth-bypass-2fa-bypass-94d0d3ef0d9c
 - https://medium.com/maverislabs/lock-screen-bypass-exploit-of-android-devices-cve-2022-20006-604958fcee3a
 - https://infosecwriteups.com/massive-users-account-takeovers-chaining-vulnerabilities-to-idor-ea4e1b6407d2
+- https://medium.com/@nanwinata/a-big-company-admin-panel-takeover-4500-9520a6c83430
