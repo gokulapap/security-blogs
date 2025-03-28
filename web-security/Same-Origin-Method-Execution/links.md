@@ -1,0 +1,1 @@
+- https://kciredor.com/first-bounty-time-to-step-up-my-game.html

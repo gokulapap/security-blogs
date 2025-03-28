@@ -172,3 +172,4 @@
 - https://medium.com/@ozguralp/a-less-known-attack-vector-second-order-idor-attacks-14468009781a
 - https://medium.com/@Skylinearafat/how-misconfigured-api-leaked-user-private-information-e3e8c13e52e4
 - https://buer.haus/2017/03/31/airbnb-web-to-app-phone-notification-idor-to-view-everyones-airbnb-messages/
+- https://medium.com/@nvmeeet/4300-instagram-idor-bug-2022-5386cf492cad

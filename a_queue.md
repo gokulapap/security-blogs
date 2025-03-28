@@ -568,7 +568,6 @@
 - https://dappsec.substack.com/p/an-advisory-for-cve-2019-16891-from, RCE
 - https://rv09.medium.com/in-this-article-ill-tell-you-how-i-got-a-4-digits-bounty-from-an-indian-company-38e39a29f99e, Broken-link-hijacking
 - https://infosecwriteups.com/graphql-idor-leaking-credit-card-information-of-1000s-of-users-d07eec732979, IDOR
-- https://kingcoolvikas.medium.com/how-i-found-my-first-xss-on-a-bug-bounty-program-c41107617ce1, XSS
 - https://infosecwriteups.com/directory-ttraversal-vulnerability-in-huawei-hg255s-products-dce941a1d015, Path-traversal
 - https://0xraminfosec.medium.com/simple-cors-misconfig-leads-to-disclose-the-sensitive-token-worth-of-91433763f4d6, CORS-misconfiguration
 - https://infosecwriteups.com/param-hunting-to-injections-4365da5447cf, HTML-injection
@@ -997,7 +996,6 @@
 - https://www.pmnh.site/post/advanced-sqlmap-case-study-1/, SQL-injection
 - https://blog.viettelcybersecurity.com/cve-2022-0540-authentication-bypass-in-seraph/, Authentication-bypass
 - https://systemweakness.com/chained-bug-xml-file-upload-to-xss-to-csrf-to-full-account-take-over-ato-156409c41b57, XSS
-- https://shahjerry33.medium.com/business-logic-errors-art-of-testing-cards-4907cfb46a57, Payment-bypass
 - https://medium.com/@robert0/how-did-i-find-a-vulnerability-that-leads-to-access-any-users-sensitive-data-and-got-500-5cce1c21d86a, Information-disclosure
 - https://blog.assetnote.io/2022/05/03/hacking-a-bank-using-dotcms-rce/, Directory-traversal
 - https://github.com/yuriisanin/CVE-2022-25262, Authorization-flaw
@@ -1081,7 +1079,6 @@
 - https://medium.com/@sandh0t/the-bad-twin-a-peculiar-case-of-jwt-exploitation-scenario-1efa03e891c0, Account-takeover
 - https://infosecwriteups.com/whatsapp-bug-bounty-bypassing-biometric-authentication-using-voip-87548ef7a0ba, Authentication-bypass
 - https://www.rapid7.com/blog/post/2022/03/03/cve-2021-4191-gitlab-graphql-api-user-enumeration-fixed/, Username-enumeration
-- https://medium.com/@nvmeeet/4300-instagram-idor-bug-2022-5386cf492cad, IDOR
 - https://muffsec.com/blog/moodle-2nd-order-sqli/, SQL-injection
 - https://web.archive.org/web/20220306040035/https://medium.com/@1337Fenrir/how-did-i-find-directory-traversal-attack-using-github-9b051ed749ca, Information-disclosure
 - https://medium.com/techiepedia/password-reset-to-admin-access-3b2a649bdc3, Account-takeover
@@ -1476,7 +1473,6 @@
 - https://feed.bugs.xdavidhu.me/bugs/0002, Authentication-bypass
 - https://notifybugme.medium.com/unauthorized-access-to-admin-setpassword-page-by-bypass-403-forbidden-f10bbb92ab35, Authorization-flaw
 - https://0day.click/recipe/2021-04-18-discourse-themes/, RCE
-- https://edmundaa222.medium.com/poc-remove-any-facebooks-live-video-14-000-bounty-70c8135b7b4c, Logic-flaw
 - https://pharish4948.medium.com/how-i-earned-3200-in-4hours-through-stored-xss-38597877d3e1, Stored-XSS
 - https://positive.security/blog/url-open-rce, RCE
 - https://fernale.blogspot.com/2021/04/how-i-got-9000-usd-by-hacking-into.html, XSS
@@ -2613,7 +2609,6 @@
 - https://markus-krell.de/craft-cms-why-case-matters/, Reflected-XSS
 - https://medium.com/@saamux/filter-bypass-to-reflected-xss-on-https-finance-yahoo-com-mobile-version-22b854327b27, Reflected-XSS
 - https://guptashubham.com/all-about-hackerone-private-program-terapeak/, IDOR
-- https://kciredor.com/first-bounty-time-to-step-up-my-game.html, Same-Origin-Method-Execution
 - http://manuel-sousa.blogspot.com/2017/09/url-whitelist-bypass-accounts-google.html, Open-redirect
 - https://medium.com/intigriti/how-i-hacked-hundreds-of-companies-through-their-helpdesk-b7680ddc2d4c, Ticket-Trick
 - https://medium.com/@SyntaxError4/reflective-xss-and-open-redirect-on-indeed-com-subdomain-b4ab40e40c83, Reflected-XSS

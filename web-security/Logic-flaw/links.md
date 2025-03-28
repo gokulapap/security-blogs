@@ -122,3 +122,4 @@
 - https://www.pantaprakash.com.np/posts/categories/bugbounty-writeup/3.html
 - https://medium.com/@maxpasqua/unremovable-tags-in-facebook-page-reviews-656e095e69aa
 - https://theshubh77.medium.com/irremovable-facebook-group-album-photos-and-entire-album-under-certain-circumstances-bounty-1000-b1b2a870b8e0
+- https://edmundaa222.medium.com/poc-remove-any-facebooks-live-video-14-000-bounty-70c8135b7b4c
