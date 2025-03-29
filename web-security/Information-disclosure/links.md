@@ -189,3 +189,4 @@
 - https://blog.usejournal.com/graphql-bug-to-steal-anyones-address-fc34f0374417
 - https://medium.com/@shubhayumajumdar/bug-chain-leads-to-mass-account-takeover-25dc76205f5d
 - https://redmaple.tech/blogs/2023/extract-bitwarden-vault-passwords/
+- https://sites.google.com/securifyinc.com/secblogs/finding-leaked-sensitive-data

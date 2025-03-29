@@ -214,7 +214,6 @@
 - https://www.synacktiv.com/sites/default/files/2023-06/synacktiv-ucopia-multiple-vulnerabilities-2022.pdf, Security-misconfiguration
 - https://x64.sh/posts/ServiceNow-Insecure-access-control-to-admin/, Broken-Access-Control
 - http://www.kamilonurozkaleli.com/posts/a-classical-account-takeover-case-via-multiple-bypasses/, Account-takeover
-- https://medium.com/@pratiky054/account-takeover-unraveling-idor-stored-xss-flaws-in-an-nft-marketplace-158679660fa7, IDOR
 - https://medium.com/@0day_exploit/stored-xss-via-exif-data-37b279ceb3e9, Stored-XSS
 - https://medium.com/@hbenja47/my-first-two-valid-and-rewarded-web-cache-deceptions-earning-2250-c8d2a6968713, Web-cache-deception
 - https://medium.com/@mydudehello91/how-i-hacked-scopely-and-got-c60772f77d41, Self-XSS
@@ -494,7 +493,6 @@
 - https://www.ambionics.io/blog/vbulletin-unserializable-but-unreachable, RCE
 - https://khaledyassen.medium.com/how-i-bypassed-the-registration-validation-and-logged-in-with-the-company-email-14eb12c45fb5, Email-verification-bypass
 - https://medium.com/@abhisekr/discovered-a-critical-idor-and-earned-900-for-my-first-p1-vulnerability-57c1e72f42c1, IDOR
-- https://www.jhaddix.com/post/the-100-million-person-data-disclosure, IDOR
 - https://medium.com/@DrakenKun/how-i-was-able-to-find-4-cross-site-scripting-xss-on-vulnerability-disclosure-program-e2f39199ae16, XSS
 - https://ysamm.com/?p=777, Account-takeover
 - https://akashc99.medium.com/bypassing-account-lockout-through-password-reset-functionality-8ff5c256f380, Rate-limiting-bypass
@@ -1466,7 +1464,6 @@
 - https://n45ht.or.id/post/exploiting-xss-via-markdown-on-xiaomi/en, XSS
 - https://blog.sonarsource.com/wordpress-xxe-security-vulnerability/, XXE
 - https://n45ht.or.id/post/reflected-xss-on-microsoft/en, Reflected-XSS
-- https://mrsinister1501.medium.com/how-i-found-cross-site-scripting-reflected-on-more-than-300-systems-81d8118d9de5, Reflected-XSS
 - https://notifybugme.medium.com/aws-internal-metadata-accessed-through-ssrf-by-chaining-an-open-redirect-bug-c4b0e4838dc, SSRF
 - https://davtur19.medium.com/telegram-bug-bounties-xss-privacy-issues-official-bot-exploitation-and-more-5277fa78435, XSS
 - https://parthdeshani.medium.com/got-nice-catch-by-google-5e6a8211371c, OAuth
@@ -2264,7 +2261,6 @@
 - http://www.tomanthony.co.uk/blog/facebook-bug-confirm-user-identities/, Information-disclosure
 - https://staaldraad.github.io/post/2019-03-02-universal-rce-ruby-yaml-load/, Insecure-deserialization
 - https://spyclub.tech/2019/02/26/horizontal-privilege-escalation-on-quora/, Privilege-escalation
-- https://web.archive.org/web/20200929000850/https://www.mohamedharon.com/2019/02/still-work-redirect-yahoo-subdomain-xss.html, Reflected-XSS
 - https://medium.com/@logicbomb_1/chain-of-hacks-leading-to-database-compromise-b2bc2b883915, LFI
 - https://medium.com/@ChandSingh/download-any-organisation-data-s3-amazonaws-64059847e06, Authorization-flaw
 - https://sites.google.com/securifyinc.com/secblogs/exploitingcalendars, Authorization-flaw
@@ -2467,7 +2463,6 @@
 - https://www.ambionics.io/blog/prestashop-privilege-escalation, Privilege-escalation
 - http://omespino.com/write-up-telegram-bug-bounty-whatsapp-n-a-blind-xss-stored-ios-in-messengers-twins-who-really-care-about-your-security/, Blind-XSS
 - https://medium.com/@SQLiBasic/bug-bounty-at-bangladeshi-site-21da8b7eb687, SQL-injection
-- https://sites.google.com/securifyinc.com/secblogs/finding-leaked-sensitive-data, Information-disclosure
 - https://medium.com/@sudhanshur705/xss-in-microsoft-subdomain-81c4e46d6631, XSS
 - https://secreltyhiddenwriteups.blogspot.com/2018/07/gsuite-hangouts-chat-5k-idor.html, IDOR
 - https://medium.com/@jonathanbouman/persistent-xss-at-ah-nl-198fe7b4c781, Stored-XSS

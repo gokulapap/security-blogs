@@ -173,3 +173,5 @@
 - https://medium.com/@Skylinearafat/how-misconfigured-api-leaked-user-private-information-e3e8c13e52e4
 - https://buer.haus/2017/03/31/airbnb-web-to-app-phone-notification-idor-to-view-everyones-airbnb-messages/
 - https://medium.com/@nvmeeet/4300-instagram-idor-bug-2022-5386cf492cad
+- https://medium.com/@pratiky054/account-takeover-unraveling-idor-stored-xss-flaws-in-an-nft-marketplace-158679660fa7
+- https://www.jhaddix.com/post/the-100-million-person-data-disclosure
