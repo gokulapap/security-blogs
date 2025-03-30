@@ -190,3 +190,4 @@
 - https://medium.com/@shubhayumajumdar/bug-chain-leads-to-mass-account-takeover-25dc76205f5d
 - https://redmaple.tech/blogs/2023/extract-bitwarden-vault-passwords/
 - https://sites.google.com/securifyinc.com/secblogs/finding-leaked-sensitive-data
+- https://www.tnirmal.com.np/2022/04/adventures-into-meowcorp-bug-bounty.html

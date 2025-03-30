@@ -9,3 +9,4 @@
 - https://hipotermia.pw/bb/http-desync-idor
 - https://medium.com/@cc1h2e1/write-up-of-two-http-requests-smuggling-ff211656fe7d
 - https://memn0ps.github.io/http-request-smuggling-cl-te/
+- https://shenkaiwen.com/publication/2022-hdiff/

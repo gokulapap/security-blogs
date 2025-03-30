@@ -36,3 +36,4 @@
 - https://medium.com/@shahjerry33/long-string-dos-6ba8ceab3aa0
 - https://medium.com/witnet/witnet-network-acknowledged-dos-bug-f7d55b709051
 - https://medium.com/bugbountywriteup/facebook-bug-bounty-500-usd-a-blocked-fundraiser-organizer-would-be-unable-to-view-or-remove-5da9f86d2fa0
+- https://medium.com/@sam0-0/how-i-am-able-to-crash-anyones-mozilla-firefox-browser-by-sending-an-email-a12563cc8d79
