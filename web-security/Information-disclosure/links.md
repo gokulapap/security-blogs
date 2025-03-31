@@ -191,3 +191,4 @@
 - https://redmaple.tech/blogs/2023/extract-bitwarden-vault-passwords/
 - https://sites.google.com/securifyinc.com/secblogs/finding-leaked-sensitive-data
 - https://www.tnirmal.com.np/2022/04/adventures-into-meowcorp-bug-bounty.html
+- https://medium.com/@souravnewatia/exif-geolocation-data-not-stripped-from-uploaded-images-794d20d2fa7d

@@ -175,3 +175,4 @@
 - https://medium.com/@nvmeeet/4300-instagram-idor-bug-2022-5386cf492cad
 - https://medium.com/@pratiky054/account-takeover-unraveling-idor-stored-xss-flaws-in-an-nft-marketplace-158679660fa7
 - https://www.jhaddix.com/post/the-100-million-person-data-disclosure
+- https://medium.com/@jedus0r/idor-insecure-direct-object-references-my-first-p1-in-bugbounty-fb01f50e25df

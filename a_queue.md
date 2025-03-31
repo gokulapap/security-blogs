@@ -367,7 +367,6 @@
 - https://medium.com/@bughuntar/a-short-tell-of-lfi-from-pdf-link-professor-the-hunter-43a8be853e, LFI
 - https://blog.nintechnet.com/high-severity-vulnerability-fixed-in-wordpress-elementor-pro-plugin/, Broken-Access-Control
 - https://portswigger.net/research/the-curl-quirk-that-exposed-burp-suite-amp-google-chrome, LFI
-- https://www.praetorian.com/blog/dynamic-linking-injection/, DLL-Hijacking
 - https://infosecwriteups.com/cve-2023-1410-stored-xss-in-the-graphite-function-description-tooltip-165bdc32154c, Stored-XSS
 - https://protectai.com/blog/hacking-ai-system-takeover-exploit-in-mlflow, LFI
 - https://www.netspi.com/blog/technical/cloud-penetration-testing/azure-function-apps/, Privilege-escalation
@@ -689,7 +688,6 @@
 - https://mouha.be/sha-3-buffer-overflow/, Buffer-Overflow
 - https://medium.com/@h4x0r_dz/23000-for-authentication-bypass-file-upload-arbitrary-file-overwrite-2578b730a5f8, JWT
 - https://www.mdsec.co.uk/2022/10/microsoft-office-online-server-remote-code-execution/, SSRF
-- https://blog.blacklanternsecurity.com/p/yet-another-telerik-ui-revisit, Cryptographic-issues
 - https://blog.doyensec.com/2022/10/18/cloudsectidbit-dataimport.html, Cloud
 - https://securityintelligence.com/posts/analysis-rce-vulnerability-cobalt-strike/, RCE
 - https://lokeshdlk77.medium.com/facebook-sms-captcha-was-vulnerable-to-csrf-attack-8db537b1e980, CSRF
@@ -785,7 +783,6 @@
 - https://hopesamples.blogspot.com/2022/09/details-about-future-collaboration.html, IDOR
 - https://taggart-tech.com/quasar-electron/, Local-Privilege-Escalation
 - https://bergee.it/blog/turning-cookie-based-xss-into-account-takeover/, XSS
-- https://medium.com/@jedus0r/idor-insecure-direct-object-references-my-first-p1-in-bugbounty-fb01f50e25df, IDOR
 - https://ssd-disclosure.com/ssd-advisory-linux-config_watch_queue-lpe/, Memory-corruption
 - https://medium.com/@0x0Asif/how-i-found-my-first-rce-8f8033883dc4, IDOR
 - https://nokline.github.io/bugbounty/2022/09/02/Glassdoor-Cache-Poisoning.html, Web-cache-poisoning
@@ -1486,7 +1483,6 @@
 - https://philippeharewood.com/download-facebook-internal-mobile-builds/, Information-disclosure
 - https://thexssrat.medium.com/i-felt-like-there-were-no-more-bugs-left-after-winning-2000-but-an-email-worth-750-changed-my-c7a507649060, Broken-Access-Control
 - https://infosecwriteups.com/a-weird-xss-77c13d135c9f, Reflected-XSS
-- https://www.pethuraj.com/blog/paypal-bug-bounty-writeup/, Open-redirect
 - https://jychp.medium.com/how-to-bypass-cloudflare-bot-protection-1f2c6c0c36fb, Logic-flaw
 - https://shrirangdiwakar.medium.com/encrypted-payload-decrypted-execution-600-stored-xss-3e517cea8f13, Stored-XSS
 - https://thexssrat.medium.com/poc-the-easiest-125-euros-i-ever-made-4dc87f01e286, Logic-flaw
@@ -2076,7 +2072,6 @@
 - https://medium.com/@frycos/finding-sql-injections-fast-with-white-box-analysis-a-recent-bug-example-ca449bce6c76, SQL-injection
 - https://medium.com/@rohitcoder/whitehat-test-accounts-can-act-as-hidden-admin-with-business-manager-ad-accounts-ce75ead5ffff, Authorization-flaw
 - https://medium.com/@r99tiq/how-i-hacked-basf-company-3b75ef39c74f, Missing-authentication
-- https://medium.com/@souravnewatia/exif-geolocation-data-not-stripped-from-uploaded-images-794d20d2fa7d, Information-disclosure
 - https://spidersec.ninja/Youtube-X-frame-options-Bypass-Vulnerability, Clickjacking
 - https://blog.usejournal.com/how-recon-helped-samsung-protect-their-production-repositories-of-samsungtv-ecommerce-estores-4c51d6ec4fdd, Information-disclosure
 - https://rahulr.in/idor-to-rce/, IDOR
