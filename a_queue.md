@@ -858,7 +858,6 @@
 - https://medium.com/@whitehatcyber404/how-i-earned-150-in-2-minutes-html-injection-in-email-3f26f27d3822, HTML-injection
 - https://y0ungdst.medium.com/my-second-cve-cve-2022-31855-6c071c4fb9d9, OS-command-injection
 - https://sagarsajeev.medium.com/business-logic-vulnerabilities-b4db2af08aaf, Logic-flaw
-- https://www.oxeye.io/blog/golang-parameter-smuggling-attack, HTTP-Parameter-Smuggling
 - https://swarm.ptsecurity.com/researching-open-source-apps-for-xss-to-rce-flaws/, XSS
 - https://github.blog/2022-07-27-corrupting-memory-without-memory-corruption/, Memory-corruption
 - https://medium.com/tinder/exploiting-github-actions-on-open-source-projects-5d93936d189f, RCE
@@ -1149,7 +1148,6 @@
 - https://trevorspiniolas.com/doorlock/doorlock.html, DoS
 - https://m7-arman.medium.com/one-click-to-account-takeover-1f78c6003eba, Mass-assignment
 - https://bugs.xdavidhu.me/google/2021/12/31/fixing-the-unfixable-story-of-a-google-cloud-ssrf/, SSRF
-- https://infosecwriteups.com/bug-hunting-journey-of-2021-1fa60b28d949, Stored-XSS
 - https://rv09.medium.com/my-first-google-hof-b66c54f6acfd, Broken-Access-Control
 - https://www.seblu.de/2021/12/iap-bypass.html, Authorization-flaw
 - https://ndevtk.github.io/writeups/2021/12/30/cloud-shell-xss/, XSS
@@ -1222,7 +1220,6 @@
 - https://medium.com/@bababounty99/never-give-up-story-of-hacking-dutch-government-and-earning-that-swag-b518cca81c78, IDOR
 - https://pathleax.medium.com/this-is-how-i-was-able-to-permanently-crash-all-mapillary-users-within-minutes-c7276def5a94, Application-level-DoS
 - https://pawanchhabria.medium.com/how-i-was-able-to-access-a-properly-configured-s3-bucket-a0e949446341, Leaked-AWS-keys
-- https://www.microsoft.com/security/blog/2021/10/28/microsoft-finds-new-macos-vulnerability-shrootless-that-could-bypass-system-integrity-protection/, SIP-bypass
 - https://omespino.com/write-up-xss-stored-in-api-media-atlassian-com-via-doc-file-ios/, Stored-XSS
 - https://shubhamchaskar.com/xxe-to-ntlm/, XXE
 - https://web.archive.org/web/20211216032639/https://xelkomy.medium.com/easy-ssrf-from-wayback-machine-edf946486120, SSRF
@@ -1254,7 +1251,6 @@
 - https://feed.bugs.xdavidhu.me/bugs/0011, Insecure-deeplink
 - https://mikekitckchan.medium.com/power-of-your-own-wordlist-fuzz-for-log-file-leads-to-information-leakage-ad46958b4729, Information-disclosure
 - https://medium.com/@oxygenne/request-smuggling-in-major-crypto-site-road-to-disappointment-a71a461f3b1f, HTTP-Header-Smuggling
-- https://shail-official.medium.com/accessing-apples-internal-uat-slackbot-for-fun-and-non-profit-25b167605f38, Authorization-flaw
 - https://www.aeth.cc/public/Article-Pass-Culture/stored-xss-article-en.html, Stored-XSS
 - https://supras.io/how-i-got-access-to-many-piis-through-a-source-code-leak/, Information-disclosure
 - https://blog.hacktivesecurity.com/index.php/2021/10/05/cve-2021-43136-formalms-the-evil-default-value-that-leads-to-authentication-bypass/, Authentication-bypass
@@ -1818,7 +1814,6 @@
 - https://medium.com/bugbountywriteup/bypass-2fa-like-a-boss-378787707ba, Lack-of-rate-limiting
 - https://alaa.blog/2020/06/how-did-i-found-information-disclosure-on-facebook-writeup/, Information-disclosure
 - https://samcurry.net/hacking-starbucks/, Path-traversal
-- https://web.archive.org/web/20200814031536/https://medium.com/@saugatpokharel/replying-on-livestream-leading-to-page-admin-disclosure-facebook-bug-bounty-b24792a19638, Information-disclosure
 - https://tylerbutler.io/hackerone-hinge/, Information-disclosure
 - https://blog.it-securityguard.com/how-i-made-more-than-30k-with-jolokia-cves/, Reflected-XSS
 - https://medium.com/@abireena2002/how-i-managed-to-escalate-privilege-as-admin-94b8dc910d14, Lack-of-rate-limiting

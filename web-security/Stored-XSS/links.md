@@ -73,3 +73,4 @@
 - https://medium.com/@0xnazmul/how-i-found-my-first-bug-stored-xss-and-earned-my-first-bounty-1000-33556678d1ed
 - https://websecblog.com/vulns/stored-xss-in-webcomponents-org/
 - https://www.komodosec.com/post/mime-sniffing-xss
+- https://infosecwriteups.com/bug-hunting-journey-of-2021-1fa60b28d949

@@ -192,3 +192,4 @@
 - https://sites.google.com/securifyinc.com/secblogs/finding-leaked-sensitive-data
 - https://www.tnirmal.com.np/2022/04/adventures-into-meowcorp-bug-bounty.html
 - https://medium.com/@souravnewatia/exif-geolocation-data-not-stripped-from-uploaded-images-794d20d2fa7d
+- https://web.archive.org/web/20200814031536/https://medium.com/@saugatpokharel/replying-on-livestream-leading-to-page-admin-disclosure-facebook-bug-bounty-b24792a19638
