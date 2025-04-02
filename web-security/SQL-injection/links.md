@@ -71,3 +71,4 @@
 - https://www.noob.ninja/2019/07/exploiting-tricky-blind-sql-injection.html
 - https://web.archive.org/web/20200904133318/https://medium.com/bugbountywriteup/a-five-minute-sql-i-16ab75b20fe4
 - https://medium.com/@abidafahd/hacking-makes-me-forget-my-pain-b04bf51d0407
+- https://ssd-disclosure.com/ssd-advisory-cisco-secure-manager-appliance-remediation_request_utils-sql-injection-remote-code-execution/

@@ -634,7 +634,6 @@
 - https://www.oxeye.io/blog/remote-code-execution-in-spotifys-backstage, RCE
 - https://blog.sonarsource.com/checkmk-rce-chain-1/, RCE
 - https://saligrama.io/blog/post/firebase-insecure-by-default/, Hardcoded-API-keys
-- https://ssd-disclosure.com/ssd-advisory-cisco-secure-manager-appliance-remediation_request_utils-sql-injection-remote-code-execution/, SQL-injection
 - https://theevilbit.github.io/posts/cve-2022-32929/, Local-Privilege-Escalation
 - https://sec-consult.com/vulnerability-lab/advisory/path-traversal-vulnerability-in-payara-platform/, Path-traversal
 - https://medium.com/@jodyritonga/how-i-get-100-in-just-10-minutes-b018b28645ce, Race-condition
@@ -741,7 +740,6 @@
 - https://sagarsajeev.medium.com/escalating-ssti-to-reflected-xss-using-curly-braces-825685bd93ec, SSTI
 - https://rohit443.medium.com/blind-xss-on-admin-portal-leads-to-information-disclosure-121d26b2a35a, Blind-XSS
 - https://infosecwriteups.com/complete-take-over-of-cisco-unified-communications-manager-due-consecutively-misconfigurations-2a1b5ce8bd9a, Security-misconfiguration
-- https://terjanq.medium.com/waf-bypasses-via-0days-d4ef1f212ec, WAF-bypass
 - https://nmochea.medium.com/arbitrary-file-corruption-end-to-end-encrypted-messaging-application-674963dceef8, Insecure-intent
 - https://www.form3.tech/engineering/content/exploiting-distroless-images, Command-injection
 - https://infosecwriteups.com/how-i-found-multiple-sql-injections-in-5-minutes-in-bug-bounty-40155964c498, SQL-injection
@@ -1178,7 +1176,6 @@
 - https://pathleax.medium.com/this-is-how-i-was-able-to-see-and-delete-your-private-facebook-portal-photos-a93ed22f875b, IDOR
 - https://infosecwriteups.com/how-i-hacked-yandex-with-ssrf-vulnerability-e19af20ed4d, SSRF
 - https://www.varonis.com/blog/box-mfa-bypass-totp/, OTP-bypass
-- https://security.googleblog.com/2021/12/exploring-container-security-storage.html, Race-condition
 - https://cyberguy0xd1.medium.com/how-i-was-able-to-bypass-cloudflare-waf-for-sqli-payload-b9e7a4260026, SQL-injection
 - https://web.archive.org/web/20211202081008/https://medium.com/@saurabhsankhwar3/p1-bug-in-apple-that-phase-old-is-gold-6eb99da5bbca, Logic-flaw
 - https://www.y-security.de/news-en/microsoft-teams-csv-injection/index.html, CSV-injection
@@ -1329,7 +1326,6 @@
 - https://infosecwriteups.com/how-i-scored-1k-bounty-using-waybackurls-717d9673ca52, Information-disclosure
 - https://blog.gypsyengineer.com/en/security/detecting-jackson-deserialization-vulnerabilities-with-codeql.html, Insecure-deserialization
 - https://blog.azuki.vip/csrf/, CSRF
-- https://medium.com/@abhinda1996/privilege-escalation-private-program-bugcrowd-831a7eb58b6c, IDOR
 - https://molx32.github.io/blog/2021/Bug-bounty-00/, Information-disclosure
 - https://coffeejunkie.me/Blind-XXE-Port-Scanning/, XXE
 - https://coffeejunkie.me/Multi-Domain-DOM-Cross-Site-Scripting/, DOM-XSS
@@ -2711,7 +2707,6 @@
 - https://blog.it-securityguard.com/bugbounty-reflected-cross-site-scripting-billmelater/, Reflected-XSS
 - https://blog.it-securityguard.com/bugbounty-paypal-stored-xss-security-bypass/, Stored-XSS
 - https://blog.it-securityguard.com/bugbounty-the-5000-google-xss, XSS
-- https://blog.it-securityguard.com/bugbounty-yahoo-phpinfo-php-disclosure-2/, Information-disclosure
 - https://josipfranjkovic.blogspot.com/2014/09/step-by-step-exploiting-sql-injection.html, SQL-injection
 - https://ahussam.me/Flickr-CSRF/, XSRF
 - https://blog.it-securityguard.com/bug-bounty-prezi-map-prezi-com-path-traversal/, Path-traversal

@@ -13,3 +13,4 @@
 - https://medium.com/@04sabsas/bugbounty-writeup-creative-thinking-is-our-everything-race-condition-business-logic-error-2f3e82b9aa17
 - https://medium.com/ctf-writeups/breaking-the-competition-bug-bounty-write-up-ca7cb7bc53f5
 - https://medium.com/@EX_097/my-first-bug-in-bugcrowd-76decc1f9901
+- https://security.googleblog.com/2021/12/exploring-container-security-storage.html

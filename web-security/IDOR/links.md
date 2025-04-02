@@ -176,3 +176,4 @@
 - https://medium.com/@pratiky054/account-takeover-unraveling-idor-stored-xss-flaws-in-an-nft-marketplace-158679660fa7
 - https://www.jhaddix.com/post/the-100-million-person-data-disclosure
 - https://medium.com/@jedus0r/idor-insecure-direct-object-references-my-first-p1-in-bugbounty-fb01f50e25df
+- https://medium.com/@abhinda1996/privilege-escalation-private-program-bugcrowd-831a7eb58b6c

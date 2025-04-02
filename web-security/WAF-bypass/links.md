@@ -4,3 +4,4 @@
 - https://divyanshsharma2401.medium.com/bypassing-waf-for-2222-f99b80cfdb9b
 - https://kloudle.com/blog/piercing-the-cloud-armor-the-8kb-bypass-in-google-cloud-platform-waf
 - https://claroty.com/team82/research/js-on-security-off-abusing-json-based-sql-to-bypass-waf
+- https://terjanq.medium.com/waf-bypasses-via-0days-d4ef1f212ec
