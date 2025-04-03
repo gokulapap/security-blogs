@@ -62,3 +62,4 @@
 - https://valsamaras.medium.com/size-matters-cve-2021-0485-cfa0a291f903
 - https://blog.recurity-labs.com/2022-03-02/webOS_Pt2.html
 - https://rhinosecuritylabs.com/aws/cve-2022-25165-aws-vpn-client/
+- https://research.nccgroup.com/2023/07/03/technical-advisory-nullsoft-scriptable-installer-system-nsis-insecure-temporary-directory-usage/

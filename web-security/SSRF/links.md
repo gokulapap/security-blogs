@@ -94,3 +94,4 @@
 - https://initblog.com/2019/switcheroo/
 - https://blog.niksthehacker.com/chaining-path-traversal-with-ssrf-to-disclose-internal-git-repo-data-in-a-bank-asset-8af4de6f12e
 - https://monke.ie/case-study-part-2/
+- https://zonduu.medium.com/ssrf-to-fetch-aws-credentials-with-full-access-to-various-services-18cd08194e91

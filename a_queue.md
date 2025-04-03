@@ -196,7 +196,6 @@
 - https://hazemhussien99.wordpress.com/2023/07/05/recon-only-bugs-are-sweet/, Information-disclosure
 - https://blog.assetnote.io/2023/07/04/citrix-sharefile-rce/, RCE
 - https://www.synacktiv.com/sites/default/files/2023-07/synacktiv-phplist-partial-file-read.pdf, Arbitrary-file-read
-- https://research.nccgroup.com/2023/07/03/technical-advisory-nullsoft-scriptable-installer-system-nsis-insecure-temporary-directory-usage/, Local-Privilege-Escalation
 - https://labs.hakaioffsec.com/nginx-alias-traversal/, Path-traversal
 - https://medium.com/@nguhuynh.148/how-did-i-get-200-with-wordpress-vulnerability-4ce80f106709, Information-disclosure
 - https://www.randorisec.fr/chamilo-1.11.18-multiple-vulnerabilities, OS-command-injection
@@ -1507,7 +1506,6 @@
 - https://wwws.nightwatchcybersecurity.com/2021/03/03/content-injection-rce-in-yandex-browser-for-android-2018/, MiTM
 - https://infosecwriteups.com/the-invincible-kid-7ac1ce2887c0, Logic-flaw
 - https://lf.lc/vrp/181521559a/, Container-escape
-- https://zonduu.medium.com/ssrf-to-fetch-aws-credentials-with-full-access-to-various-services-18cd08194e91, SSRF
 - https://www.bugcrowd.com/blog/big-bugs-cve-2020-28914/, RCE
 - https://infosecwriteups.com/bragging-rights-killing-file-uploads-softly-fba35a4e485a, Unrestricted-file-upload
 - https://jayateerthag.medium.com/jira-authenticated-dashboard-access-in-google-acquisition-apigee-ff20cfe11d99, Authentication-bypass
@@ -1878,7 +1876,6 @@
 - https://medium.com/@aniltom/magic-of-the-back-slash-d868e66b532a, Path-traversal
 - https://medium.com/@frycos/another-zoho-manageengine-story-7b472f1515f5, Authentication-bypass
 - https://www.synacktiv.com/en/publications/pentesting-cisco-sd-wan-part-2-breaking-routers.html, OS-command-injection
-- https://vinothkumar.me/20000-facebook-dom-xss/, DOM-XSS
 - https://twitter.com/missoum1307/status/1258472717453582336, DOM-XSS
 - https://medium.com/@youssefla/dom-xss-walkthrough-4d60c45ffb21, DOM-XSS
 - https://medium.com/@TnMch/google-acquisition-xss-apigee-5479d7b5dc4, XSS
@@ -2359,7 +2356,6 @@
 - https://medium.com/bugbountywriteup/add-comment-on-a-private-oculus-developer-bug-report-93f35bc80b2c, IDOR
 - https://medium.com/japzdivino/security-teams-internal-attachments-can-be-exported-via-export-as-zip-feature-on-hackerone-35ca6ec2bf8b, Logic-flaw
 - https://blog.harshjaiswal.com/path-traversal-while-uploading-results-in-rce, Path-traversal
-- https://web.archive.org/web/20200825165404/https://medium.com/@adeshkolte/how-i-got-500-from-microsoft-for-csrf-vulnerability-700accaf48b9, CSRF
 - https://medium.com/bugbountywriteup/add-description-to-instagram-posts-on-behalf-of-other-users-6500-7d55b4a24c5a, IDOR
 - https://medium.com/@yassergersy/access-to-staging-environment-via-user-agent-string-23470546577f, Authentication-bypass
 - https://pratikyadav0.blogspot.com/2018/10/hello-everyone-took-some-time-from-my.html, Payment-bypass
@@ -2388,7 +2384,6 @@
 - https://medium.com/intigriti/how-i-hijacked-your-account-when-you-opened-my-cat-picture-9a0a0acca9e8, Logout-CSRF
 - https://medium.com/@Mthirup/hacking-your-own-antivirus-for-fun-and-profit-safe-browsing-gone-wrong-365db9d1d3f7, Reflected-XSS
 - https://medium.com/@aniltom/open-redirect-vulnerability-in-udacity-com-7cba7abcfd48, Open-redirect
-- https://medium.com/@mahitman1/hacking-a-crypto-debit-card-service-730f287aaee7, SQL-injection
 - https://medium.com/@thebuckhacker/how-to-do-55-000-subdomain-takeover-in-a-blink-of-an-eye-a94954c3fc75, Subdomain-takeover
 - https://www.hackerinside.me/2018/09/stored-xss-vulnerability-in-h1c-private.html, Stored-XSS
 - https://blog.securitybreached.org/2018/09/09/zol-zimbabwe-authbypass-sqli-xss/, XSS
