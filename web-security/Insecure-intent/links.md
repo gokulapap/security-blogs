@@ -1,2 +1,3 @@
 - https://blog.mozilla.org/attack-and-defense/2020/11/10/firefox-for-android-lan-based-intent-triggering/
 - https://initblog.com/2020/firefox-android/
+- https://mrcyberwarrior.medium.com/exploiting-activity-in-medium-android-app-e2e6f3553eef

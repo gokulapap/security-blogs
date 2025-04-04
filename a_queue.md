@@ -1149,7 +1149,6 @@
 - https://www.seblu.de/2021/12/iap-bypass.html, Authorization-flaw
 - https://ndevtk.github.io/writeups/2021/12/30/cloud-shell-xss/, XSS
 - https://amakki.me/full-account-takeover-vulnerability-in-minecraft-f56076c8287d, Account-takeover
-- https://medium.com/@taniyatesting11/bounty-evaluation-github-15-000-us-dollars-rate-limit-d6c07d73c948, Bruteforce
 - https://sharmajijvs.medium.com/xss-via-file-upload-a2bcc1e5d7f7, XSS
 - https://3bodymo.medium.com/xss-through-image-proxy-using-svg-image-49cdf955cf4f, XSS
 - https://medium.com/@mamunwhh/information-disclosure-leads-to-sensitive-credential-35e779f6f4db, Information-disclosure
@@ -1425,7 +1424,6 @@
 - https://blog.evanricafort.com/2021/05/2fa-verification-bypass-in-shapeshift.html, MFA-bypass
 - https://infosecwriteups.com/stored-xss-to-organisation-takeover-6eaaa2fdcd5b, Stored-XSS
 - https://sndpgiriz.medium.com/simple-logical-bug-turned-into-a-bounty-a3d7ac214606, Logic-flaw
-- https://mrcyberwarrior.medium.com/exploiting-activity-in-medium-android-app-e2e6f3553eef, Insecure-intent
 - https://dewangpanchal98.medium.com/microsoft-bug-bounty-writeup-5ee4a7264dbf, Information-disclosure
 - https://www.offensive-security.com/offsec/macos-preferences-priv-escalation/, Local-Privilege-Escalation
 - https://blog.polybdenum.com/2021/05/05/how-i-hacked-google-app-engine-anatomy-of-a-java-bytecode-exploit.html, RCE
@@ -1567,7 +1565,6 @@
 - https://systemweakness.com/story-behind-sweet-ssrf-40c705f13053, SSRF
 - https://r4id3n.medium.com/ssrf-exploitation-in-spreedsheet-to-pdf-converter-2c7eacdac781, SSRF
 - https://sunilyedla.medium.com/simple-sweet-bypassing-email-update-restriction-to-change-emails-of-team-members-6ce5770e7929, Logic-flaw
-- https://bugs.xdavidhu.me/google/2021/01/18/the-embedded-youtube-player-told-me-what-you-were-watching-and-more/, Information-disclosure
 - https://jwlss.pw/mathjs/, RCE
 - https://github.com/httpvoid/writeups/blob/main/Apple-RCE.md, RCE
 - https://warandcode.com/post/apify-mass-bug-bounty/, Akamai-ARL-attack
@@ -2185,7 +2182,6 @@
 - http://www.tomanthony.co.uk/blog/xss-attacks-googlebot-index-manipulation/, Logic-flaw
 - https://medium.com/@mattharr0ey/remote-code-execution-on-microsoft-edge-url-protocol-a67d0f96b32d, RCE
 - https://baibhavjha.com.np/blogs/instagramstory/, Authorization-flaw
-- https://medium.com/a-bugz-life/from-reflected-xss-to-account-takeover-showing-xss-impact-9bc6dd35d4e6, Reflected-XSS
 - https://labs.bluefrostsecurity.de/blog/2019/04/29/dont-follow-the-masses-bug-hunting-in-javascript-engines/, Buffer-Overflow
 - https://gauravnarwani.com/two-factor-authentication-bypass/, MFA-bypass
 - https://medium.com/@elberandre/broken-access-posting-to-google-private-groups-through-any-user-in-the-group-3becfa818894, Authorization-flaw
@@ -2210,7 +2206,6 @@
 - https://medium.com/@mrnikhilsri/unauthenticated-account-takeover-through-http-leak-33386bb0ba0b, HTML-injection
 - https://medium.com/@jayateerthag/multiple-xss-in-skype-com-81d65919ed24, XSS
 - https://www.rcesecurity.com/2019/04/dell-kace-k1000-remote-code-execution-the-story-of-bug-k1-18652/, RCE
-- https://medium.com/@jonathanbouman/email-content-spoofing-at-ikea-com-ea76c17605ee, Email-content-spoofing
 - https://medium.com/@armaanpathan/scary-bug-in-burp-suite-upstream-proxy-allows-hackers-to-hack-hackers-e6fc9a8d60a, MiTM
 - https://www.valbrux.it/blog/2019/04/04/google-ads-information-disclosure-via-null-pointer-exception/, Information-disclosure
 - https://medium.com/@jonathanbouman/leaked-salesforce-api-access-token-at-ikea-com-132eea3844e0, Information-disclosure

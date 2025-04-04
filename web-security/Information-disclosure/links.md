@@ -194,3 +194,4 @@
 - https://medium.com/@souravnewatia/exif-geolocation-data-not-stripped-from-uploaded-images-794d20d2fa7d
 - https://web.archive.org/web/20200814031536/https://medium.com/@saugatpokharel/replying-on-livestream-leading-to-page-admin-disclosure-facebook-bug-bounty-b24792a19638
 - https://blog.it-securityguard.com/bugbounty-yahoo-phpinfo-php-disclosure-2/
+- https://bugs.xdavidhu.me/google/2021/01/18/the-embedded-youtube-player-told-me-what-you-were-watching-and-more/
