@@ -3,3 +3,4 @@
 - https://medium.com/bugbountywriteup/get-paid-by-smuggling-the-legal-way-c31805de3c59
 - https://bahruz.me/publications/11847
 - https://github.com/AnkitCuriosity/Write-Ups/blob/main/HTTP%20Desync%20Attack%20(Request%20Smuggling).md
+- https://bpandasec.medium.com/client-side-desync-attack-cl-0-request-smuggling-bounty-of-150-327d3aeaeea6

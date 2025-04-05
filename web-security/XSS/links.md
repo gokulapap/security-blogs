@@ -209,3 +209,4 @@
 - https://medium.com/@osamaavvan/exploiting-websocket-application-wide-xss-csrf-66e9e2ac8dfa
 - https://securityflow.io/going-beyond-alert-with-xss/
 - https://kingcoolvikas.medium.com/how-i-found-my-first-xss-on-a-bug-bounty-program-c41107617ce1
+- https://medium.com/@cypherthethird/cross-site-scripting-xss-for-dummies-9a7717bbd002
