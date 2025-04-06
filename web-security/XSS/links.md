@@ -210,3 +210,4 @@
 - https://securityflow.io/going-beyond-alert-with-xss/
 - https://kingcoolvikas.medium.com/how-i-found-my-first-xss-on-a-bug-bounty-program-c41107617ce1
 - https://medium.com/@cypherthethird/cross-site-scripting-xss-for-dummies-9a7717bbd002
+- https://buer.haus/2017/06/29/escalating-xss-in-phantomjs-image-rendering-to-ssrflocal-file-read/

@@ -8,3 +8,4 @@
 - https://research.aurainfosec.io/same-origin-policy/
 - https://www.rafaybaloch.com/2017/06/a-tale-of-another-sop-bypass-in-android.html
 - https://portswigger.net/research/using-hackability-to-uncover-a-chrome-infoleak
+- https://canvatechblog.com/discovering-headroll-cve-2023-0704-in-chromium-2e7f66fc130c

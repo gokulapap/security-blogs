@@ -345,7 +345,6 @@
 - https://blog.exodusintel.com/2023/04/06/escaping-adobe-sandbox-exploiting-an-integer-overflow-in-microsoft-windows/, Integer-overflow
 - https://vitorfalcao.com/posts/simple-bugs/overwritting-files/, Normalization
 - https://www.zerodayinitiative.com/blog/2023/4/5/bash-privileged-mode-vulnerabilities-in-parallels-desktop-and-cdpath-handling-in-macos, MacoS
-- https://canvatechblog.com/discovering-headroll-cve-2023-0704-in-chromium-2e7f66fc130c, SOP-bypass
 - https://bishopfox.com/blog/windows-task-scheduler-19044-advisory, Unquoted-search-path
 - https://medium.com/@evan.connelly/post-account-takeover-account-takeover-of-internal-tesla-accounts-bc720603e67d, Account-takeover
 - https://kuldeep.io/posts/holiday-hunting-with-aquatone/, SSRF
@@ -1044,7 +1043,6 @@
 - https://ajpc500.github.io/macos/Targeting-Visual-Studio-Code-For-macOS/, Local-Privilege-Escalation
 - https://wahaz.medium.com/broken-authentication-and-idor-at-redacted-646de8d508e6, IDOR
 - https://naveenroy008.medium.com/broken-session-control-leads-to-access-private-videos-using-the-shared-link-even-after-revoking-the-84e31ac16fe4, Broken-Access-Control
-- https://github.com/Puliczek/CVE-2022-0337-PoC-Google-Chrome-Microsoft-Edge-Opera, Browser-hacking
 - https://breakpoint.sh/posts/files.app-symbolic-link-following, iOS
 - https://debprasadbanerjee502.medium.com/adobe-bug-bounty-using-idor-confidential-data-leaks-f6c55e5143d0, IDOR
 - https://mearegtu.medium.com/insecure-direct-object-reference-exposes-all-users-of-microsoft-azure-independent-software-vendors-bed3b45e509, IDOR
@@ -2179,7 +2177,6 @@
 - https://baibhavjha.com.np/blogs/instagramstory/, Authorization-flaw
 - https://labs.bluefrostsecurity.de/blog/2019/04/29/dont-follow-the-masses-bug-hunting-in-javascript-engines/, Buffer-Overflow
 - https://gauravnarwani.com/two-factor-authentication-bypass/, MFA-bypass
-- https://medium.com/@elberandre/broken-access-posting-to-google-private-groups-through-any-user-in-the-group-3becfa818894, Authorization-flaw
 - https://edoverflow.com/2019/ci-knew-there-would-be-bugs-here/, Information-disclosure
 - https://medium.com/@logicbomb_1/the-journey-of-web-cache-firewall-bypass-to-ssrf-to-aws-credentials-compromise-b250fb40af82, LFI
 - https://medium.com/@iframe_h1/a-picture-that-steals-data-ff604ba1012, Information-disclosure
@@ -2406,7 +2403,6 @@
 - https://medium.com/@carlosdanielgiovanella/this-is-how-can-i-spoof-any-sentry-log-infinitely-and-create-fake-error-logs-74406367f4ba, Content-spoofing
 - https://steemit.com/cryptocurrency/@mabdullah22/how-i-hacked-a-crypto-exchange-bug-bounty-writeup, IDOR
 - https://dev.to/antogarand/from-data-leak-to-account-takeover-1kck, Account-takeover
-- https://medium.com/bugbountywriteup/sending-out-phishing-e-mails-from-microsoft-com-84c3b918ada2, HTML-injection
 - https://medium.com/@friendly_/reflected-xss-primagames-com-c7a641912626, Reflected-XSS
 - https://www.secjuice.com/logical-bug-at-edmodo/, Logic-flaw
 - https://blog.evanricafort.com/2018/08/blind-xss-in-chrome-experiments-google.html, Blind-XSS
@@ -2604,7 +2600,6 @@
 - https://web.archive.org/web/20180827025910/http://www.paulosyibelo.com/2017/07/coinbase-angularjs-dom-xss-via-kiteworks.html, DOM-XSS
 - https://ahussam.me/Medium-content-spoofing-xss, Content-spoofing
 - https://web.archive.org/web/20190718104640/https://medium.com/@tbmnull/making-an-xss-triggered-by-csp-bypass-on-twitter-561f107be3e5, XSS
-- https://buer.haus/2017/06/29/escalating-xss-in-phantomjs-image-rendering-to-ssrflocal-file-read/, XSS
 - https://ysx.me.uk/road-to-unauthenticated-recovery-downloading-github-saml-codes/, Authorization-flaw
 - https://www.arneswinnen.net/2017/06/authentication-bypass-on-ubers-sso-via-subdomain-takeover/, Subdomain-takeover
 - https://dos.sh/blog/2017/6/21/yahoo-small-business-luminate-and-the-not-so-secret-keys, Blind-SSRF

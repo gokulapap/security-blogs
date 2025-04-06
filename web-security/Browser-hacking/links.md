@@ -13,3 +13,4 @@
 - https://xlab.tencent.com/en/2018/11/13/cve-2018-4277/
 - https://feed.bugs.xdavidhu.me/bugs/0007
 - https://microsoftedge.github.io/edgevr/posts/a-story-of-a-bug-found-fuzzing/
+- https://github.com/Puliczek/CVE-2022-0337-PoC-Google-Chrome-Microsoft-Edge-Opera
