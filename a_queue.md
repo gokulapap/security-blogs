@@ -426,7 +426,6 @@
 - https://medium.com/@feribytex/blind-xss-fired-on-admin-panel-worth-2000-abe2c83279b5, Blind-XSS
 - https://m3ez.medium.com/how-i-found-dom-based-xss-on-microsoft-msrc-and-how-they-fixed-it-8b71a6020c82, DOM-XSS
 - https://parkerzanta.medium.com/how-do-i-take-over-another-user-subdomain-name-worth-c66bb0c3f2f7, Subdomain-takeover
-- https://www.whiteoaksecurity.com/blog/logicaldoc-vulnerability-disclosure/, XXE
 - https://github.blog/2023-02-23-the-code-that-wasnt-there-reading-memory-on-an-android-device-by-accident/, Kernel-hacking
 - https://sensepost.com/blog/2023/decoding-blazorpack/, Websockets
 - https://sl4x0.medium.com/how-i-got-into-nokia-hof-in-5-mins-99ce16583bd4, Information-disclosure
@@ -745,7 +744,6 @@
 - https://blog.sonarsource.com/onedev-remote-code-execution/, RCE
 - https://doyensec.com/resources/Doyensec_Apollo_Report_Q22022_v4_AfterRetest.pdf, DoS
 - https://www.wiz.io/blog/attachme-oracle-cloud-vulnerability-allows-unauthorized-cross-tenant-volume-access, Cloud
-- https://x-vector.medium.com/privilege-escalation-leads-to-making-authenticated-actions-payment-processing-creating-invoices-2cf808d517ed, Privilege-escalation
 - https://ssd-disclosure.com/ssd-advisory-linux-clock_thread_cputime_id-lpe/, Memory-corruption
 - https://github.com/StackOverflowExcept1on/how-to-hack-github-actions, CICD
 - https://srahulceh.medium.com/bug-bounty-how-i-found-an-sensitive-information-disclosure-reconnaissance-542daf10dd19, Information-disclosure
@@ -1632,7 +1630,6 @@
 - https://nechudav.blogspot.com/2020/11/31k-ssrf-in-google-cloud-monitoring.html, SSRF
 - https://medium.com/bugbountywriteup/chaining-password-reset-link-poisoning-idor-account-information-leakage-to-achieve-account-bb5e0e400745, HTTP-header-injection
 - https://galnagli.com/DoD_IDOR/, IDOR
-- https://dhakal0kushal.medium.com/story-of-a-pre-account-takeover-33e3d5b4c33f, Account-takeover
 - https://lokeshdlk77.medium.com/delete-any-photos-in-facebook-832dbe81cdc4, Authorization-flaw
 - https://lokeshdlk77.medium.com/reveal-the-page-admin-that-uploaded-a-video-on-the-page-in-comment-section-9760e4a31453, Information-disclosure
 - https://james-clee.com/2020/11/01/leaked-git-folder-leads-to-rce/, git-folder-disclosure
@@ -2409,7 +2406,6 @@
 - https://medium.com/@friendly_/stored-xss-in-gameskinny-aa26c6a6ae40, Stored-XSS
 - https://blog.evanricafort.com/2018/08/blind-xss-in-chrome-experiments-google.html, Blind-XSS
 - https://medium.com/@logicbomb_1/bugbounty-paytm-customer-information-is-at-risk-indias-largest-digital-wallet-company-6f7116d4b2d5, IDOR
-- https://medium.com/@thehackerish/how-i-could-access-your-internal-servers-steal-and-modify-your-image-repository-d477f79b329a, RCE
 - https://medium.com/@0xHyde/yahoo-two-xssi-vulnerabilities-chained-to-steal-user-information-750-bounty-e9bc6a41a40a, XSSI
 - https://www.youtube.com/watch?v=0oKHov6y6mw, Stored-XSS
 - https://medium.com/@d0nut/exfiltration-via-css-injection-4e999f63097d, CSS-injection
@@ -2651,7 +2647,6 @@
 - https://thehackerblog.com/floating-domains-taking-over-20k-digitalocean-domains-via-a-lax-domain-import-system/, Subdomain-takeover
 - http://artsploit.blogspot.com/, RCE
 - https://guptashubham.com/swf-xss-dom-based-xss/, Flash-XSS
-- https://guptashubham.com/xss-filter-bypass-in-yahoo-dev-flurry-com/, XSS
 - https://guptashubham.com/xss-on-flickr/, XSS
 - https://whitton.io/articles/messenger-site-wide-csrf/, CSRF
 - https://www.seekurity.com/blog/general/bmw-vulnerabilities-hijack-cars-connecteddrive-service/, Clickjacking
