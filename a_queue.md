@@ -1237,7 +1237,6 @@
 - https://svennergr.github.io/writeups/google/ads_dom_xss/, DOM-XSS
 - https://feed.bugs.xdavidhu.me/bugs/0011, Insecure-deeplink
 - https://mikekitckchan.medium.com/power-of-your-own-wordlist-fuzz-for-log-file-leads-to-information-leakage-ad46958b4729, Information-disclosure
-- https://medium.com/@oxygenne/request-smuggling-in-major-crypto-site-road-to-disappointment-a71a461f3b1f, HTTP-Header-Smuggling
 - https://www.aeth.cc/public/Article-Pass-Culture/stored-xss-article-en.html, Stored-XSS
 - https://supras.io/how-i-got-access-to-many-piis-through-a-source-code-leak/, Information-disclosure
 - https://blog.hacktivesecurity.com/index.php/2021/10/05/cve-2021-43136-formalms-the-evil-default-value-that-leads-to-authentication-bypass/, Authentication-bypass
@@ -1368,7 +1367,6 @@
 - https://imranhudaa.medium.com/accessing-restricted-documentswith-extra-json-body-content-c59bc7224189, Mass-assignment
 - https://0xbadb00da.medium.com/account-takeover-via-stored-xss-with-arbitrary-file-upload-2774ec6cff51, Insecure-file-upload
 - https://cyberxplore.medium.com/how-we-are-able-to-hack-any-company-by-sending-message-including-facebook-google-microsoft-b7773626e447, Universal-XSS
-- https://posts.specterops.io/certified-pre-owned-d95910965cd2, Active-Directory-Privilege-Escalation
 - https://infosecwriteups.com/crashing-your-linkedin-app-with-a-connection-request-257f9b484550, Application-level-DoS
 - https://blog.oversecured.com/Why-dynamic-code-loading-could-be-dangerous-for-your-apps-a-Google-example/, Arbitrary-file-write
 - https://infosecwriteups.com/authentication-bypass-easy-p1-in-10-minutes-54d5a2093e54, Authentication-bypass
@@ -2137,7 +2135,6 @@
 - https://medium.com/@osamaavvan/account-taker-with-clickjacking-ace744842ec3, Clickjacking
 - https://visat.me/security/reflected-xss-in-tokopedia-train-ticket/, Reflected-XSS
 - https://medium.com/@saadahmedx/sql-injection-c87a390afdd3, SQL-injection
-- https://medium.com/@osamaavvan/bypassing-xss-filter-and-stealing-user-credit-card-data-100f247ed5eb, XSS
 - https://medium.com/@Vibhurushi_Chotaliya/password-bypass-and-something-else-cded0847c9df, Authentication-bypass
 - https://spenkk.github.io/bugbounty/Local-File-Inclusion/, WAF-bypass
 - https://medium.com/@saadahmedx/complete-web-server-access-46d19279a2b, Unrestricted-file-upload
@@ -2394,7 +2391,6 @@
 - https://sites.google.com/securifyinc.com/secblogs/uber-business-support-bug, Ticket-Trick
 - https://medium.com/@friendly_/xss-at-hubspot-and-xss-in-email-areas-674fa39d5248, XSS
 - https://medium.com/@justmorpheus/s3-bucket-misconfiguration-in-amazon-a7da6a6e02ea, AWS-misconfiguration
-- https://medium.com/bugbountywriteup/adminer-script-results-to-pwning-server-private-bug-bounty-program-fe6d8a43fe6f, Authentication-bypass
 - https://portswigger.net/research/practical-web-cache-poisoning, Web-cache-poisoning
 - https://medium.com/bugbountywriteup/from-tomcat-to-nt-authority-system-a79fa09c4abb, Default-credentials
 - https://medium.com/@carlosdanielgiovanella/this-is-how-can-i-spoof-any-sentry-log-infinitely-and-create-fake-error-logs-74406367f4ba, Content-spoofing
@@ -2429,7 +2425,6 @@
 - https://www.cyberonesecurity.com/blog/unauthenticated-command-injection-vulnerability-in-vmware-nsx-sd-wan-by-velocloud, OS-command-injection
 - https://zseano.medium.com/how-re-signing-up-for-an-account-lead-to-account-takeover-3a63a628fd9f, Logic-flaw
 - https://medium.com/@yassergersy/account-take-over-via-reset-password-f2e9d887bce1, Password-reset
-- https://www.coengoedegebure.com/how-i-got-access-to-local-aws-info-via-jira/, SSRF
 - https://blog.bentkowski.info/2018/06/xss-in-google-colaboratory-csp-bypass.html, XSS
 - https://pulsesecurity.co.nz/advisories/ManageEngine-OpManager-RCE, RCE
 - https://medium.com/bugbountywriteup/responsible-disclosure-how-i-could-have-booked-movie-tickets-through-other-user-accounts-2db26a037b4c, Password-reset

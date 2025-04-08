@@ -212,3 +212,4 @@
 - https://medium.com/@cypherthethird/cross-site-scripting-xss-for-dummies-9a7717bbd002
 - https://buer.haus/2017/06/29/escalating-xss-in-phantomjs-image-rendering-to-ssrflocal-file-read/
 - https://guptashubham.com/xss-filter-bypass-in-yahoo-dev-flurry-com/
+- https://medium.com/@osamaavvan/bypassing-xss-filter-and-stealing-user-credit-card-data-100f247ed5eb
