@@ -64,3 +64,4 @@
 - https://medium.com/@elsayedmohammed/how-i-hacked-nasa-and-get-8-bugs-e5cd397a6af9
 - https://medium.com/@z0id/finding-open-redirects-like-a-pro-3b87fa474cfd
 - https://www.pethuraj.com/blog/paypal-bug-bounty-writeup/
+- https://medium.com/@sivakrishnasamireddi/how-i-earned-60k-from-private-program-71bd51554490

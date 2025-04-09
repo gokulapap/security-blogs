@@ -1098,7 +1098,6 @@
 - https://medium.com/@ladecruze/my-first-bounty-idor-self-xss-3000-cde89cbbc1b1, Self-XSS
 - https://sanyamchawla1999.medium.com/my-experience-of-hacking-the-dutch-government-8c219c61c795, XSS
 - https://medium.com/@damaidec/idor-vulnerability-on-invoice-and-weak-password-reset-leads-to-account-take-over-603b42143a8c, IDOR
-- https://www.zerodayinitiative.com/blog/2022/2/1/cve-2021-44142-details-on-a-samba-code-execution-bug-demonstrated-at-pwn2own-austin, Memory-corruption
 - https://hetroublemakr.medium.com/how-i-approached-dependency-confusion-272b46f66907, Dependency-confusion
 - https://github.com/httpvoid/writeups/blob/main/Hacking-Google-Drive-Integrations.md, SSRF
 - https://www.offensive-security.com/offsec/microsoft-onedrive-macos-local-privesc/, Local-Privilege-Escalation
@@ -1595,7 +1594,6 @@
 - https://security.lauritz-holtmann.de, CSRF
 - https://jayateerthag.medium.com/download-filename-manipulation-due-to-improper-rendering-of-rtlo-characters-69e2751a8f28, RTLO
 - https://infosecwriteups.com/how-i-hacked-facebook-part-one-282bbb125a5d, Missing-authentication
-- https://research.checkpoint.com/2020/game-on-finding-vulnerabilities-in-valves-steam-sockets/, Memory-corruption
 - https://github.com/oskarsve/ms-teams-rce, RCE
 - https://medium.com/@vedanttekale20/story-of-the-best-vulnerability-ive-found-so-far-5e3b0e02b47e, Self-XSS
 - https://nmochea.medium.com/this-post-is-about-an-reflected-xss-that-i-found-on-opera-browser-application-which-could-have-been-39823a22045d, XSS
@@ -1812,7 +1810,6 @@
 - https://yxw21.github.io/2020/06/05/Account-Takeover-Via-PostMessage/, Account-takeover
 - https://echopwn.com/local-file-read-via-xss-using-pdf-generate-functionality/, XSS
 - https://medium.com/@amyrahm786/story-of-blind-sql-with-a-typo-error-43a21913c8d, SQL-injection
-- https://medium.com/@rohitcoder/idor-delete-saved-credit-cards-from-any-business-manager-account-f28c773982eb, IDOR
 - https://medium.com/heck-the-packet/how-i-got-my-first-big-bounty-payout-with-tesla-8d28b520162d, Information-disclosure
 - https://kb.cert.org/vuls/id/636397, DoS
 - https://research.securitum.com/the-curious-case-of-copy-paste/, XSS
@@ -2328,7 +2325,6 @@
 - https://medium.com/bugbountywriteup/stored-xss-in-bug-bounty-13c08e6f5636, Stored-XSS
 - https://web.archive.org/web/20181030103042/https://zseano.com/blogs/4.html, CSRF
 - https://medium.com/@plenumlab/idor-in-jwt-and-the-shortest-token-you-will-ever-see-uid-1234567890-4e02377ea03a, IDOR
-- https://blog.zimperium.com/cve-2018-9411-new-critical-vulnerability-multiple-high-privileged-android-services/, Memory-corruption
 - https://medium.com/@logicbomb_1/bugbounty-how-i-was-able-to-download-the-source-code-of-indias-largest-telecom-service-52cf5c5640a1, git-folder-disclosure
 - https://blog.securitybreached.org/2018/10/27/privilege-escalation-like-a-boss/, IDOR
 - https://medium.com/@kankrale.rahul/dos-on-facebook-android-app-using-65530-characters-of-zero-width-no-break-space-db41ca8ded89, DoS
@@ -2458,7 +2454,6 @@
 - https://medium.com/@evilboyajay/stealing-money-from-one-account-to-another-account-d7c5ee68922b, Logic-flaw
 - https://sysdream.com/news/lab/2018-04-30-multiple-security-vulnerabilities-in-domains-belonging-to-google/, Broken-Access-Control
 - https://medium.com/@mdisrail2468/bypassing-the-confirmation-email-for-newsletter-bof-nl-682c05cb927f, Authorization-flaw
-- https://medium.com/@sivakrishnasamireddi/how-i-earned-60k-from-private-program-71bd51554490, Open-redirect
 - https://medium.com/@nuraalamdipu/xss-403-forbidden-bypass-write-up-e070de52bc06, XSS
 - https://medium.com/bugbountywriteup/how-we-got-lfi-in-apache-drill-recon-like-a-boss-6f739a79d87d, LFI
 - https://medium.com/@prial261/story-of-a-stored-xss-bypass-26e6659f807b, Stored-XSS

@@ -178,3 +178,4 @@
 - https://medium.com/@jedus0r/idor-insecure-direct-object-references-my-first-p1-in-bugbounty-fb01f50e25df
 - https://medium.com/@abhinda1996/privilege-escalation-private-program-bugcrowd-831a7eb58b6c
 - https://footstep.ninja/posts/idor-via-websockets/
+- https://medium.com/@rohitcoder/idor-delete-saved-credit-cards-from-any-business-manager-account-f28c773982eb

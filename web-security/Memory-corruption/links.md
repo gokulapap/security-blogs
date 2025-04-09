@@ -46,3 +46,6 @@
 - https://blog.khonggianmang.vn/vmware-workstation-attack-surface-through-virtual-printer/
 - https://hacksys.io/blogs/foxit-reader-uaf-rce-jit-spraying-cve-2022-28672
 - https://hacksys.io/blogs/adobe-reader-resetform-cagg-rce-cve-2023-21608
+- https://blog.zimperium.com/cve-2018-9411-new-critical-vulnerability-multiple-high-privileged-android-services/
+- https://www.zerodayinitiative.com/blog/2022/2/1/cve-2021-44142-details-on-a-samba-code-execution-bug-demonstrated-at-pwn2own-austin
+- https://research.checkpoint.com/2020/game-on-finding-vulnerabilities-in-valves-steam-sockets/
