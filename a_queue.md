@@ -108,7 +108,6 @@
 - https://medium.com/@grahamzemel/python-tips-and-tricks-for-cybersecurity-enthusiasts-9504d9541b8b, tricks
 - https://medium.com/@rootkid/payment-gateway-bypass-on-government-domain-8e0135c34185, misc
 - https://medium.com/@4bdoz/access-more-than-10k-premium-api-keys-python-exploit-c728fdf5eae, automation
-- https://medium.com/@infosecwriteups/40-000-bounty-authentication-bypass-techniques-cache-poisoning-idors-password-recovery-2ec097380c57, cache
 - https://medium.com/@thexssrat/subdomain-flyover-and-manual-exploration-of-the-results-15c69d509091, STO
 - https://medium.com/@orkhan_alibayli/subdomain-takeover-95646de1f436, STO
 - https://medium.com/@ibm_ptc_security/exploiting-insecure-deserialization-c4bcb2652406, deserialization
@@ -136,7 +135,6 @@
 - https://medium.com/@v3d/full-account-takeover-via-password-reset-flaw-my-first-blog-10d6e11df2e0, reset-password
 - https://medium.com/@aswinchandran274/crlfsuite-crlf-injection-scanner-54a29f7ff86a, crlf
 - https://medium.com/@shubhangivashist/how-to-exploit-directory-traversal-vulnerabilities-176eeb7f2655, directory-traversal
-- https://medium.com/@krishnadevpmelevila/i-received-a-bounty-of-60-for-finding-a-critical-bug-in-the-patient-management-system-560446c534e, critical-bugs
 - https://medium.com/@whitedevil4276/otp-bypass-through-burpsuite-in-maruti-nexa-test-drive-e9d82db656b8, bypass
 - https://medium.com/@haythamkarouata/bug-bounty-hunting-101-js-files-diving-4b1753fefb3d, source-code-review
 - https://medium.com/@jonathanbouman/stored-xss-in-paytium-3-0-13-wordpress-plugin-3157ee37eb8f, XSS
@@ -241,7 +239,6 @@
 - https://www.tarlogic.com/blog/linked-servers-adsi-passwords/, ADSI
 - https://medium.com/@malekmahmed55/turning-a-50-tab-nabbing-vulnerability-into-a-1000-account-takeover-9c3f32cb2d84, Reverse-tabnabbing
 - https://ssd-disclosure.com/ssd-advisory-roundcube-markasjunk-rce/, RCE
-- https://jhftss.github.io/CVE-2022-32902-Patch-One-Issue-and-Introduce-Two/, TCC-bypass
 - https://infosecwriteups.com/send-email-from-anyone-to-any-user-outlook-microsoft-69fce333066d, Open-mail-relay
 - https://medium.com/@chenshiri/aws-chain-attack-thousands-of-vulnerable-eks-clusters-701cbd963907, AWS-Kubernetes
 - https://0day.click/recipe/pash/, RCE
@@ -1594,12 +1591,10 @@
 - https://security.lauritz-holtmann.de, CSRF
 - https://jayateerthag.medium.com/download-filename-manipulation-due-to-improper-rendering-of-rtlo-characters-69e2751a8f28, RTLO
 - https://infosecwriteups.com/how-i-hacked-facebook-part-one-282bbb125a5d, Missing-authentication
-- https://github.com/oskarsve/ms-teams-rce, RCE
 - https://medium.com/@vedanttekale20/story-of-the-best-vulnerability-ive-found-so-far-5e3b0e02b47e, Self-XSS
 - https://nmochea.medium.com/this-post-is-about-an-reflected-xss-that-i-found-on-opera-browser-application-which-could-have-been-39823a22045d, XSS
 - https://amineaboud.medium.com/10000-facebook-ssrf-bug-bounty-402bd21e58e5, SSRF
 - https://securitytrooper.com/en/cross-site-scripting-xss-reflected-in-one-of-the-subdomains-of-general-motorsbugbounty, Reflected-XSS
-- https://www.fortinet.com/blog/threat-research/leaking-browser-url-protocol-handlers, Information-disclosure
 - https://zetc0de.github.io/post/authenticated-rce-ssrf-wondercms/, Blind-SSRF
 - https://ahmdhalabi.medium.com/chaining-multiple-requests-to-achieve-rate-limiting-vulnerabilities-96c1e8365c06, Rate-limiting-bypass
 - https://shellbr3ak.medium.com/the-story-of-my-first-critical-bug-93a5920d6c43, SQL-injection

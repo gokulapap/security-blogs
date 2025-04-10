@@ -1,2 +1,3 @@
 - https://wojciechregula.blog/post/bypass-tcc-via-icloud/
 - https://danrevah.github.io/2023/05/15/CVE-2023-26818-Bypass-TCC-with-Telegram/
+- https://jhftss.github.io/CVE-2022-32902-Patch-One-Issue-and-Introduce-Two/

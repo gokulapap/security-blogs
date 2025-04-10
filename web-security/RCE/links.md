@@ -200,3 +200,4 @@
 - https://frycos.github.io/vulns4free/2023/06/18/fortinac.html
 - https://github.com/snowyyowl/writeups/blob/main/CVE-2021-26084/CVE-2021-26084.md
 - https://medium.com/@thehackerish/how-i-could-access-your-internal-servers-steal-and-modify-your-image-repository-d477f79b329a
+- https://github.com/oskarsve/ms-teams-rce

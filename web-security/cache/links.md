@@ -1,0 +1,1 @@
+- https://medium.com/@infosecwriteups/40-000-bounty-authentication-bypass-techniques-cache-poisoning-idors-password-recovery-2ec097380c57
