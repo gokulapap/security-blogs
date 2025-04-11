@@ -16,3 +16,4 @@
 - https://www.whiteoaksecurity.com/blog/fun-with-cors/
 - https://medium.com/bugbountywriteup/securitybreach-how-i-was-able-to-book-hotel-room-for-1-50-9b35f18e49e8
 - https://sa1tama0.medium.com/cross-origin-resource-sharing-cors-misconfiguration-leads-to-users-pii-leaks-b31fd3246e64
+- https://medium.com/@mashoud1122/cors-misconfiguration-account-takeover-out-of-scope-to-grab-items-in-scope-66d9d18c7a46

@@ -16,3 +16,4 @@
 - https://httpsonly.blogspot.com/2017/01/0day-writeup-xxe-in-ubercom.html
 - https://medium.com/@jonathanbouman/xxe-at-bol-com-7d331186de54
 - https://www.whiteoaksecurity.com/blog/logicaldoc-vulnerability-disclosure/
+- https://cinzinga.com/XXE-Case-Studies/

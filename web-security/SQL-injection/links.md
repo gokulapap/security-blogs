@@ -73,3 +73,4 @@
 - https://medium.com/@abidafahd/hacking-makes-me-forget-my-pain-b04bf51d0407
 - https://ssd-disclosure.com/ssd-advisory-cisco-secure-manager-appliance-remediation_request_utils-sql-injection-remote-code-execution/
 - https://medium.com/@mahitman1/hacking-a-crypto-debit-card-service-730f287aaee7
+- https://bitquark.co.uk/blog/2014/02/23/tesla_motors_blind_sql_injection

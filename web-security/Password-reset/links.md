@@ -16,3 +16,4 @@
 - https://medium.com/@0xankush/readme-com-account-takeover-bugbounty-fulldisclosure-a36ddbe915be
 - https://medium.com/@fatnassifiras45/how-i-was-able-to-take-over-any-account-via-the-password-reset-functionality-ef1659f8b481
 - https://medium.com/@naveenroy008/tale-of-a-misconfiguration-in-password-reset-e8fb484a4661
+- https://medium.com/techiepedia/how-i-was-able-to-takeover-any-account-on-foxit-com-7a08efa0144f

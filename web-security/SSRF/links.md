@@ -96,3 +96,4 @@
 - https://monke.ie/case-study-part-2/
 - https://zonduu.medium.com/ssrf-to-fetch-aws-credentials-with-full-access-to-various-services-18cd08194e91
 - https://www.coengoedegebure.com/how-i-got-access-to-local-aws-info-via-jira/
+- https://medium.com/@elberandre/1-000-ssrf-in-slack-7737935d3884

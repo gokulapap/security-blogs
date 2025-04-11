@@ -1320,7 +1320,6 @@
 - https://3bodymo.medium.com/how-i-earned-by-amazon-s3-bucket-misconfigurations-29d51ee510de, AWS-misconfiguration
 - https://haxolot.com/posts/2021/moodle_pre_auth_shibboleth_rce_part1/, RCE
 - https://web.archive.org/web/20210927021132/https://0xdln.ml/XSS-Special-Cases/, XSS
-- https://cinzinga.com/XXE-Case-Studies/, XXE
 - https://sapt.medium.com/apple-hall-of-fame-for-a-small-misconfiguration-unauth-cache-purging-faf81b19419b, Unauthenticated-cache-purge
 - https://medium.com/pentesternepal/how-i-found-a-bug-in-apple-within-just-in-5min-d7357237d7a0, XSS
 - https://blog.0xffff.info/2021/07/24/ebay-xss-demo-and-guide-to-spear-phishing/, XSS
@@ -1344,7 +1343,6 @@
 - https://philippeharewood.com/bulletin-com-email-address-leak/, Information-disclosure
 - https://portswigger.net/research/finding-dom-polyglot-xss-in-paypal-the-easy-way, DOM-XSS
 - https://portswigger.net/research/pre-auth-rce-in-forgerock-openam-cve-2021-35464, RCE
-- https://medium.com/techiepedia/how-i-was-able-to-takeover-any-account-on-foxit-com-7a08efa0144f, Password-reset
 - https://blog.tyage.net/posts/2021-06-27-dependabot-rce/, SSRF
 - https://ysamm.com/?p=702, CSRF
 - https://ysamm.com/?p=700, Information-disclosure
@@ -1999,7 +1997,6 @@
 - https://rez0.blog/hacking/2019/11/29/rce-via-imagetragick.html, RCE
 - https://lf.lc/vrp/145304705/, Site-Isolation-bypass
 - https://pastebin.com/E6LMFm2w, HTTP-request-smuggling
-- https://medium.com/@mashoud1122/cors-misconfiguration-account-takeover-out-of-scope-to-grab-items-in-scope-66d9d18c7a46, CORS-misconfiguration
 - https://web.archive.org/web/20200511012319/https://medium.com/@xhzeem/the-accounttakeover-killing-chain-6ba23f4c9d4, Account-takeover
 - https://blog.teddykatz.com/2019/11/23/json-padding-oracles.html, Padding-oracle-attack
 - https://medium.com/bugbountywriteup/stories-of-idor-part-2-29d313a39e55, IDOR
@@ -2221,7 +2218,6 @@
 - https://apapedulimu.click/multiple-stored-xss-on-tokopedia/, Stored-XSS
 - https://0x00sec.org/t/using-uri-to-pop-shells-via-the-discord-client/11673, URI-abuse
 - https://www.hackerinside.me/2019/02/dos-on-waf-protected-sites-by-abusing.html, DoS
-- https://medium.com/@elberandre/1-000-ssrf-in-slack-7737935d3884, SSRF
 - https://ysamm.com/?p=240, Authorization-flaw
 - https://web.archive.org/web/20200928234202/https://www.mohamedharon.com/2019/02/subdomain-takeover-via-hubspot.html, Subdomain-takeover
 - https://web.archive.org/web/20200929012457/https://www.mohamedharon.com/2019/02/souqcom-subdomain-takeover-via.html, Subdomain-takeover
@@ -2672,7 +2668,6 @@
 - https://blog.it-securityguard.com/bug-bounty-prezi-map-prezi-com-path-traversal/, Path-traversal
 - https://maustin.net/google_docs, Clickjacking
 - https://blog.it-securityguard.com/a-tale-of-7-vulnerabilities-paypal-bug-bounty/, Stored-XSS
-- https://bitquark.co.uk/blog/2014/02/23/tesla_motors_blind_sql_injection, SQL-injection
 - https://0day.click/recipe/2014-02-22-github/, RCE
 - https://blog.includesecurity.com/2014/02/how-i-was-able-to-track-the-location-of-any-tinder-user/, Information-disclosure
 - http://homakov.blogspot.com/2014/02/how-i-hacked-github-again.html, Open-redirect
