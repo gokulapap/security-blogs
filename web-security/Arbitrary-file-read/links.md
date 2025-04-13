@@ -4,3 +4,4 @@
 - https://medium.com/@harishhacker3010/how-i-hacked-google-to-read-files-from-their-servers-for-free-e0486a674912
 - https://infosecwriteups.com/brave-stealing-your-cookies-remotely-1e09d1184675
 - https://omespino.com/write-up-apple-bug-bounty-n-a-arbitrary-local-file-read-via-zip-file-and-symlinks-usd/
+- https://blog.oversecured.com/Android-Exploring-vulnerabilities-in-WebResourceResponse/

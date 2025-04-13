@@ -273,7 +273,6 @@
 - https://www.sonarsource.com/blog/pimcore-one-click-two-security-vulnerabilities/, Path-traversal
 - https://neodyme.io/blog/csgo_from_zero_to_0day/, Game-hacking
 - https://www.synacktiv.com/en/publications/the-printer-goes-brrrrr-again.html, Printer-hacking
-- https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/rendezvous-with-a-chatbot-chaining-contextual-risk-vulnerabilities/, Chatbot
 - https://thinkloveshare.com/hacking/kong-konga-exploitation-and-hardening/, RCE
 - https://www.akamai.com/blog/security-research/important-outlook-vulnerability-bypass-windows-api, Privilege-escalation
 - https://chevonphillip.medium.com/rce-due-to-dependency-confusion-5000-bounty-fd1b294d645f, Dependency-confusion
@@ -305,7 +304,6 @@
 - https://blog.assetnote.io/2023/04/26/xss-million-websites-cpanel/, Reflected-XSS
 - https://strike.sh/blog/business-bugs-approach, Logic-flaw
 - https://www.bitsight.com/blog/new-high-severity-vulnerability-cve-2023-29552-discovered-service-location-protocol-slp, DoS
-- https://www.horizon3.ai/cve-2023-27524-insecure-default-configuration-in-apache-superset-leads-to-remote-code-execution/, RCE
 - https://medium.com/cyesec/no-portals-needed-79995d8f7e62, MFA-bypass
 - https://medium.com/@mmaulanaabdullah/how-careless-default-credentials-impact-to-massive-account-takeover-be6bfc85119a, Authentication-bypass
 - https://blog.ryotak.net/post/github-actions-staff-access-token-en/, CICD
@@ -655,7 +653,6 @@
 - https://medium.com/@jawadmahdi/blind-sql-injection-on-delete-request-486770af75a6, Blind-SQL-injection
 - https://akashhamal0x01.medium.com/2fa-bypass-due-to-information-disclosure-improper-access-control-f9a5a8a4e0af, DoS
 - https://medium.com/@nanwinata/old-rce-worth-3362-1af0cd70c459, RCE
-- https://blog.assetnote.io/2022/10/28/exploiting-static-site-generators/, SSRF
 - https://0xm5awy.medium.com/how-i-was-able-to-get-free-money-via-sending-negative-tokens-1ed2e0e710e0, Logic-flaw
 - https://octagon.net/blog/2022/10/28/juniper-sslvpn-junos-rce-and-multiple-vulnerabilities/, RCE
 - https://medium.com/@nanwinata/rce-docker-api-but-11ff70825935, RCE
@@ -1246,7 +1243,6 @@
 - https://habr.com/en/post/580582/, Privacy-issue
 - https://medium.com/@bobbyrsec/zero-day-hijacking-icloud-credentials-with-apple-airtags-stored-xss-6997da43a216, Stored-XSS
 - https://deepsurface.com/deepsurface-security-advisory-lpe-in-firefox-on-windows/, Local-Privilege-Escalation
-- https://parsiya.net/blog/2021-09-26-attack-surface-analysis-part-3-resurrected-code-execution/, RCE
 - https://habr.com/en/post/579714/, Information-disclosure
 - https://trenchant.io/pwn2own-2021-parallels-desktop-guest-to-host-escape/, VM-escape
 - https://rizwansiddiqu1.medium.com/super-admin-panel-without-credentials-c2022a23bb35, Authentication-bypass
@@ -1377,7 +1373,6 @@
 - https://vedanttekale20.medium.com/story-of-my-first-cash-bounty-on-hackerone-acad282ae962, SSRF
 - https://batee5a.medium.com/shopify-multipass-misconfiguration-2bc85e92ad1d, Authentication-flaw
 - https://bloggerrando.blogspot.com/2021/06/how-many-likes-and-dislikes-that-was.html, Broken-Access-Control
-- https://blog.oversecured.com/Android-Exploring-vulnerabilities-in-WebResourceResponse/, Arbitrary-file-read
 - https://shahjerry33.medium.com/server-side-request-forgery-a-forged-document-6359ef25058d, SSRF
 - https://medium.com/@abhishake21/bypassing-lfi-local-file-inclusion-ebf4274e7027, LFI
 - https://frichetten.com/blog/xss_in_aws_console/, XSS
