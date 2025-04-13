@@ -1,2 +1,3 @@
 - https://www.hertzbleed.com
 - https://www.sonarsource.com/blog/disclosing-information-with-a-side-channel-in-django/
+- https://www.imperva.com/blog/mapping-communication-between-facebook-accounts-using-a-browser-based-side-channel-attack/

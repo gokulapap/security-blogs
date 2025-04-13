@@ -179,3 +179,4 @@
 - https://medium.com/@abhinda1996/privilege-escalation-private-program-bugcrowd-831a7eb58b6c
 - https://footstep.ninja/posts/idor-via-websockets/
 - https://medium.com/@rohitcoder/idor-delete-saved-credit-cards-from-any-business-manager-account-f28c773982eb
+- https://blog.evanricafort.com/2021/06/2usd-idor-bug-in-redacted.html

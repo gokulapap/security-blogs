@@ -196,3 +196,4 @@
 - https://blog.it-securityguard.com/bugbounty-yahoo-phpinfo-php-disclosure-2/
 - https://bugs.xdavidhu.me/google/2021/01/18/the-embedded-youtube-player-told-me-what-you-were-watching-and-more/
 - https://www.fortinet.com/blog/threat-research/leaking-browser-url-protocol-handlers
+- https://occamsec.com/getting-root-a-technical-walkthrough/
