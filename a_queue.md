@@ -169,7 +169,6 @@
 - https://badoption.eu/blog/2023/07/15/divideconqer.html, AMSI-bypass
 - https://www.trustedsec.com/blog/modeling-malicious-code-hacking-in-3d/, Phishing
 - https://blog.talosintelligence.com/weaknesses-mac-os-vmware-msrpc/, Kernel-hacking
-- https://research.securitum.com/how-private-cache-can-lead-to-mass-account-takeover-pentest-case/, Account-takeover
 - https://labs.withsecure.com/publications/executing-arbitrary-code-executables-in-read-only-filesystems, Kubernetes
 - https://www.kroll.com/en/insights/publications/cyber/ghostscript-cve-2023-36664-remote-code-execution-vulnerability, RCE
 - https://medium.com/workday-engineering/exploiting-jmeter-via-rmi-e8e12392bba8, Insecure-deserialization
@@ -1301,7 +1300,6 @@
 - https://philippeharewood.com/view-the-country-of-a-private-instagram-user/, Information-disclosure
 - https://philippeharewood.com/access-to-crowdtangle-deletion-framework-api/, Information-disclosure
 - Youghourta Ghannei (@YoughartaG), XSS
-- https://yashswarup12.medium.com/how-the-use-of-hidden-form-fields-lead-to-email-verification-bypass-3c8d7c25bd31, Email-verification-bypass
 - https://infosecwriteups.com/how-i-scored-1k-bounty-using-waybackurls-717d9673ca52, Information-disclosure
 - https://blog.gypsyengineer.com/en/security/detecting-jackson-deserialization-vulnerabilities-with-codeql.html, Insecure-deserialization
 - https://blog.azuki.vip/csrf/, CSRF
@@ -1692,7 +1690,6 @@
 - https://honoki.net/2020/08/10/cve-2020-11518-how-i-bruteforced-my-way-into-your-active-directory/, RCE
 - https://www.perimeterx.com/tech-blog/2020/csp-bypass-vuln-disclosure/, CSP-bypass
 - https://mazinahmed.net/blog/hacking-zoom/, Information-disclosure
-- https://blog.dixitaditya.com/bypassing-google-maps-api-key-restrictions/, Logic-flaw
 - https://medium.com/@zseano/the-feature-works-as-intended-but-whats-in-the-source-d29f9401bcf6, Information-disclosure
 - https://blog.dixitaditya.com/exploiting-jwt-lack-of-signature-verification, Account-takeover
 - https://medium.com/@jonathanbouman/reflected-xss-at-fotoservice-hema-nl-af344ef63433, Reflected-XSS
@@ -1763,7 +1760,6 @@
 - https://0xsha.io/posts/zombievpn-breaking-that-internet-security, RCE
 - https://lutfumertceylan.com.tr/posts/stored-xss-with-password-recovery-page/, Stored-XSS
 - https://certik.io/blog/technology/vulnerability-electron-based-application-malicious-code-execution, XSS
-- https://medium.com/kminthein/story-of-stealing-mail-conversation-contacts-in-mail-ru-and-mymail-ios-applications-via-xss-1e49c4ed560, Stored-XSS
 - https://web.archive.org/web/20200629033551/https://blogs.ad3sh.com/2020/06/api-endpoint-leads-to-account-takeover.html, Exposed-token-generation-endpoint
 - https://blog.assetnote.io/2020/06/29/subdomain-takeover-to-account-takeover/, Subdomain-takeover
 - https://medium.com/@hgreal/how-i-hacked-a-bank-their-application-using-it-for-hacking-another-bank-company-10-k-xss-b9cc801a675, XSS
@@ -2010,7 +2006,6 @@
 - https://fletchto99.dev/2019/november/slack-vulnerability/, CSS-injection
 - https://geleta.eu/2019/my-first-ssrf-using-dns-rebinfing/, SSRF
 - https://web.archive.org/web/20200604001225/https://hackking.net/threads/how-i-hacked-dutch-government-in-5-minutes-twitter-account-takeover.20/, Broken-link-hijacking
-- https://medium.com/@04sabsas/xss-will-never-die-eb3584081a5f, XSS
 - https://samcurry.net/filling-in-the-blanks-exploiting-null-byte-buffer-overflow-for-a-40000-bounty/, Null-byte-buffer-overflow
 - https://medium.com/@naufalseptiadi/live-video-facebook-application-android-its-not-expired-when-log-out-the-device-on-4d4e0b67b362, Logic-flaw
 - https://medium.com/bugbountywriteup/5-000-usd-xss-issue-at-avast-desktop-antivirus-for-windows-yes-desktop-1e99375f0968, Reflected-XSS

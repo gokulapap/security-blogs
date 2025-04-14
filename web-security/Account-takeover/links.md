@@ -73,3 +73,4 @@
 - https://web.archive.org/web/20220529130635/https://pwnsec.ninja/2022/05/29/exploiting-ios-app-for-fun-and-profit/
 - https://web.archive.org/web/20220329163747/https://pwnsec.ninja/2022/03/27/stealing-cookies-from-subdomain-leads-to-takeover-user-accounts-at-redacted-com/
 - https://dhakal0kushal.medium.com/story-of-a-pre-account-takeover-33e3d5b4c33f
+- https://research.securitum.com/how-private-cache-can-lead-to-mass-account-takeover-pentest-case/

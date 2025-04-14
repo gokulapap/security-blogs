@@ -74,3 +74,4 @@
 - https://websecblog.com/vulns/stored-xss-in-webcomponents-org/
 - https://www.komodosec.com/post/mime-sniffing-xss
 - https://infosecwriteups.com/bug-hunting-journey-of-2021-1fa60b28d949
+- https://medium.com/kminthein/story-of-stealing-mail-conversation-contacts-in-mail-ru-and-mymail-ios-applications-via-xss-1e49c4ed560

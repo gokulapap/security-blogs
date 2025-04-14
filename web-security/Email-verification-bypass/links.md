@@ -3,3 +3,4 @@
 - https://yajdesu.medium.com/bypass-confirmation-to-add-payment-method-df2772a36561
 - https://sagarsajeev.medium.com/an-unusual-tale-of-email-verification-bypass-dcf884d544eb
 - https://infosecwriteups.com/bypassing-email-verification-of-high-profile-tech-company-e592cc4a89ce
+- https://yashswarup12.medium.com/how-the-use-of-hidden-form-fields-lead-to-email-verification-bypass-3c8d7c25bd31
