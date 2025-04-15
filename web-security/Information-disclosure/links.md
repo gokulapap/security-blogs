@@ -197,3 +197,4 @@
 - https://bugs.xdavidhu.me/google/2021/01/18/the-embedded-youtube-player-told-me-what-you-were-watching-and-more/
 - https://www.fortinet.com/blog/threat-research/leaking-browser-url-protocol-handlers
 - https://occamsec.com/getting-root-a-technical-walkthrough/
+- https://0xsha.io/posts/exploiting-magic-links-critical-bugs-are-one-line-away

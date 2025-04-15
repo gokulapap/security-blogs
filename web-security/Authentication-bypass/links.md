@@ -45,3 +45,4 @@
 - https://infosecwriteups.com/massive-users-account-takeovers-chaining-vulnerabilities-to-idor-ea4e1b6407d2
 - https://medium.com/@nanwinata/a-big-company-admin-panel-takeover-4500-9520a6c83430
 - https://medium.com/bugbountywriteup/adminer-script-results-to-pwning-server-private-bug-bounty-program-fe6d8a43fe6f
+- https://www.synacktiv.com/sites/default/files/2023-02/Synacktiv-Advisory-Izanami-CVE-2023-22495.pdf

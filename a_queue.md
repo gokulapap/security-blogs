@@ -271,7 +271,6 @@
 - https://www.sonarsource.com/blog/pimcore-one-click-two-security-vulnerabilities/, Path-traversal
 - https://neodyme.io/blog/csgo_from_zero_to_0day/, Game-hacking
 - https://www.synacktiv.com/en/publications/the-printer-goes-brrrrr-again.html, Printer-hacking
-- https://thinkloveshare.com/hacking/kong-konga-exploitation-and-hardening/, RCE
 - https://www.akamai.com/blog/security-research/important-outlook-vulnerability-bypass-windows-api, Privilege-escalation
 - https://chevonphillip.medium.com/rce-due-to-dependency-confusion-5000-bounty-fd1b294d645f, Dependency-confusion
 - https://crnkovic.dev/testing-converso/, Android
@@ -462,7 +461,6 @@
 - https://medium.com/@2os5/easy-account-takeover-on-dell-subdomain-6297460741fd, Password-reset
 - https://bloggerrando.blogspot.com/2023/02/06-2.html, Logic-flaw
 - https://security.lauritz-holtmann.de/post/xss-ato-gadgets/, SSO
-- https://www.synacktiv.com/sites/default/files/2023-02/Synacktiv-Advisory-Izanami-CVE-2023-22495.pdf, Authentication-bypass
 - https://medium.com/@rezaduty/play-with-google-twitter-apple-dell-a90777faa779, XSS
 - https://molx32.github.io/blog/2023/Azure-access-panel-lack-of-access-control/, Azure-AD
 - https://www.flashback.sh/blog/weekend-destroyer-wd-pr4100-rce, RCE
@@ -473,7 +471,6 @@
 - https://infosecwriteups.com/an-idor-vulnerability-often-hides-many-others-2893ddd0a0d7, IDOR
 - https://blog.assetnote.io/2023/02/01/rce-in-avaya-aura/, RCE
 - https://webresearcher007.medium.com/broken-function-level-authorization-leads-to-disclosing-pii-information-of-all-company-users-35aee60b287b, Broken-Function-Level-Authorization
-- https://z-sec.co/mass-account-takeover, MFA-bypass
 - https://onekey.com/blog/security-advisory-remote-command-execution-in-binwalk/, RCE
 - https://www.akamai.com/blog/security-research/cant-wait-to-shut-you-down-msrpc-wininit, DoS
 - https://www.ambionics.io/blog/vbulletin-unserializable-but-unreachable, RCE
@@ -1879,7 +1876,6 @@
 - https://blog.mert.ninja/freemarker-ssti-on-lithium-cms/, SSTI
 - https://0x65.dev/blog/2020-03-30/cve-2019-17004-semi-universal-xss-affecting-firefox-for-ios.html, Universal-XSS
 - https://medium.com/@ranjitsinghnit/otp-bruteforce-account-takeover-faaac3d712a8, OTP-bruteforce
-- https://0xsha.io/posts/exploiting-magic-links-critical-bugs-are-one-line-away, Information-disclosure
 - https://web.archive.org/web/20200511145923/https://medium.com/@godofdarkness.msf/account-takeover-flow-in-mail-ru-s-ext-a-domain-150-8952e8078211, Logic-flaw
 - https://medium.com/@ch3ckm4te/self-xss-to-account-takeover-72c89775cf8f, Account-takeover
 - https://web.archive.org/web/20201004092711/https://sametsahin.net/posts/administrator-level-privilege-escalation-story/, Privilege-escalation
@@ -2495,7 +2491,6 @@
 - https://mike-n1.github.io/SSRF_P4toP2, Blind-SSRF
 - https://blog.securitybreached.org/2017/12/19/unrestricted-file-upload-to-rce-bug-bounty-poc/, RCE
 - https://corben.io/blog/17-12-17-hackertarget, SSRF
-- https://medium.com/@uranium238/getting-a-rce-ctf-way-2fd612fb643f, RCE
 - https://medium.com/@maxon3/lfi-to-command-execution-deutche-telekom-bug-bounty-6fe0de7df7a6, LFI
 - https://corben.io/blog/17-11-27-tricky-CORS, CORS-misconfiguration
 - https://medium.com/@malcolmx0x/story-of-bypassing-referer-header-to-make-open-redirect-94f938b9d032, Open-redirect

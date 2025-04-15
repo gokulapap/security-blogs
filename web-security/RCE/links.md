@@ -203,3 +203,5 @@
 - https://github.com/oskarsve/ms-teams-rce
 - https://parsiya.net/blog/2021-09-26-attack-surface-analysis-part-3-resurrected-code-execution/
 - https://www.horizon3.ai/cve-2023-27524-insecure-default-configuration-in-apache-superset-leads-to-remote-code-execution/
+- https://thinkloveshare.com/hacking/kong-konga-exploitation-and-hardening/
+- https://medium.com/@uranium238/getting-a-rce-ctf-way-2fd612fb643f
