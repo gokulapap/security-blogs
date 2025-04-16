@@ -205,3 +205,4 @@
 - https://www.horizon3.ai/cve-2023-27524-insecure-default-configuration-in-apache-superset-leads-to-remote-code-execution/
 - https://thinkloveshare.com/hacking/kong-konga-exploitation-and-hardening/
 - https://medium.com/@uranium238/getting-a-rce-ctf-way-2fd612fb643f
+- https://octagon.net/blog/2022/10/28/juniper-sslvpn-junos-rce-and-multiple-vulnerabilities/

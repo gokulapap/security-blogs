@@ -75,3 +75,5 @@
 - https://www.komodosec.com/post/mime-sniffing-xss
 - https://infosecwriteups.com/bug-hunting-journey-of-2021-1fa60b28d949
 - https://medium.com/kminthein/story-of-stealing-mail-conversation-contacts-in-mail-ru-and-mymail-ios-applications-via-xss-1e49c4ed560
+- https://www.hackerinside.me/2018/09/stored-xss-vulnerability-in-tumblr.html
+- https://dev.to/antogarand/pwned-together-hacking-devto-hkd

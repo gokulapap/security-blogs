@@ -648,7 +648,6 @@
 - https://akashhamal0x01.medium.com/2fa-bypass-due-to-information-disclosure-improper-access-control-f9a5a8a4e0af, DoS
 - https://medium.com/@nanwinata/old-rce-worth-3362-1af0cd70c459, RCE
 - https://0xm5awy.medium.com/how-i-was-able-to-get-free-money-via-sending-negative-tokens-1ed2e0e710e0, Logic-flaw
-- https://octagon.net/blog/2022/10/28/juniper-sslvpn-junos-rce-and-multiple-vulnerabilities/, RCE
 - https://medium.com/@nanwinata/rce-docker-api-but-11ff70825935, RCE
 - https://sensepost.com/blog/2022/abusing-windows-tokens-to-compromise-active-directory-without-touching-lsass/, Local-Privilege-Escalation
 - https://medium.com/@dsonbacker/a-250-css-injection-my-first-finding-on-hackerone-8863ad253560, CSS-injection
@@ -1657,7 +1656,6 @@
 - https://medium.com/@smilehackerofficial/xss-that-can-pay-your-bills-9377eff1fd0d, Reflected-XSS
 - https://blog.deteact.com/account-takeover-via-idor/, IDOR
 - https://medium.com/@soufianehabti/my-story-with-xss-ed017bdc44c4, XSS
-- https://medium.com/stolabs/denial-of-service-in-the-protection-service-provided-by-avast-security-premium-284dfd5ab40, DoS
 - https://medium.com/bugbountywriteup/unhiding-the-hidden-2ef44192c10b, Client-side-enforcement-of-server-side-security
 - https://medium.com/bugbountywriteup/the-importance-of-keeping-up-to-date-or-how-i-found-an-interesting-bug-thanks-to-a-tweet-2ec6ba9a5e1e, Stored-XSS
 - https://blog.oversecured.com/Oversecured-automatically-discovers-persistent-code-execution-in-the-Google-Play-Core-Library/, Arbitrary-Code-Execution
@@ -2336,13 +2334,11 @@
 - https://medium.com/@thebuckhacker/how-to-do-55-000-subdomain-takeover-in-a-blink-of-an-eye-a94954c3fc75, Subdomain-takeover
 - https://www.hackerinside.me/2018/09/stored-xss-vulnerability-in-h1c-private.html, Stored-XSS
 - https://blog.securitybreached.org/2018/09/09/zol-zimbabwe-authbypass-sqli-xss/, XSS
-- https://www.hackerinside.me/2018/09/stored-xss-vulnerability-in-tumblr.html, Stored-XSS
 - https://websecblog.com/vulns/reflected-xss-in-google-code-jam/, Reflected-XSS
 - https://blog.securitybreached.org/2018/09/08/sqli-bootcampnutanix-com-bug-bounty-poc/, SQL-injection
 - https://blog.securitybreached.org/2018/09/07/rce-jenkins-instance-dosomething-org-bug-bounty-poc/, RCE
 - https://medium.com/@ciph3r7r0ll/simple-login-brute-force-current-password-requirement-bypass-e8f58931e257, IDOR
 - https://medium.com/@mahitman1/i-own-your-customers-22e965761abd, Information-disclosure
-- https://dev.to/antogarand/pwned-together-hacking-devto-hkd, Stored-XSS
 - https://web.archive.org/web/20200929012934/https://www.mohamedharon.com/2018/08/mapboxxss.html, Reflected-XSS
 - https://medium.com/@D0rkerDevil/a-infinite-loop-story-f2bc05771a88, DoS
 - https://web.archive.org/web/20200929004149/https://www.mohamedharon.com/2018/08/wordpressXSS.html, Flash-XSS
@@ -2397,7 +2393,6 @@
 - https://pulsesecurity.co.nz/advisories/ManageEngine-OpManager-RCE, RCE
 - https://medium.com/bugbountywriteup/responsible-disclosure-how-i-could-have-booked-movie-tickets-through-other-user-accounts-2db26a037b4c, Password-reset
 - https://medium.com/@jonathanbouman/reflected-client-xss-amazon-com-7b0d3cec787, Reflected-XSS
-- https://medium.com/@black_b/vulnerability-netflix-cross-site-scripting-xss-d44010142e2c, Reflected-XSS
 - https://medium.com/@jonathanbouman/unvalidated-open-redirect-bol-com-b270151380e6, Open-redirect
 - https://medium.com/@khaled.hassan/full-account-takeover-via-reset-password-function-8b6ef15f346f, IDOR
 - https://www.bishopfox.com/blog/2018/06/server-side-spreadsheet-injections/, CSV-injection

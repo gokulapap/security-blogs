@@ -63,3 +63,4 @@
 - https://mrsinister1501.medium.com/how-i-found-cross-site-scripting-reflected-on-more-than-300-systems-81d8118d9de5
 - https://web.archive.org/web/20200929000850/https://www.mohamedharon.com/2019/02/still-work-redirect-yahoo-subdomain-xss.html
 - https://medium.com/a-bugz-life/from-reflected-xss-to-account-takeover-showing-xss-impact-9bc6dd35d4e6
+- https://medium.com/@black_b/vulnerability-netflix-cross-site-scripting-xss-d44010142e2c
