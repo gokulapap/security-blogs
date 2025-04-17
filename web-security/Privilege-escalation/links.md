@@ -41,3 +41,4 @@
 - https://www.netspi.com/blog/technical/cloud-penetration-testing/abusing-azure-hybrid-workers-part-2/
 - https://security.love/blog/gcp/2020/11/22/lateral-movement-and-privesc-in-GCP.html
 - https://x-vector.medium.com/privilege-escalation-leads-to-making-authenticated-actions-payment-processing-creating-invoices-2cf808d517ed
+- https://medium.com/@bachrudinashari/privilege-escalation-by-changing-http-response-admin-access-5e67c44713f6

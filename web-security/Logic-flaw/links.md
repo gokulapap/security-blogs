@@ -125,3 +125,4 @@
 - https://edmundaa222.medium.com/poc-remove-any-facebooks-live-video-14-000-bounty-70c8135b7b4c
 - https://imajk.medium.com/story-of-my-3rd-bounty-from-facebook-fef352853d1b
 - https://blog.dixitaditya.com/bypassing-google-maps-api-key-restrictions/
+- https://medium.com/@vishalranjan00012/hi-folks-2f28dd8fdfe9
