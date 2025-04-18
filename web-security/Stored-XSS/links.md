@@ -77,3 +77,4 @@
 - https://medium.com/kminthein/story-of-stealing-mail-conversation-contacts-in-mail-ru-and-mymail-ios-applications-via-xss-1e49c4ed560
 - https://www.hackerinside.me/2018/09/stored-xss-vulnerability-in-tumblr.html
 - https://dev.to/antogarand/pwned-together-hacking-devto-hkd
+- https://guptashubham.com/svg-xss-in-unifi-v5-0-2/

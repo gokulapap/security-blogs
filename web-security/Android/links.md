@@ -11,3 +11,4 @@
 - https://blog.oversecured.com/Discovering-vendor-specific-vulnerabilities-in-Android/
 - https://www.trendmicro.com/en_us/research/21/b/shareit-flaw-could-lead-to-remote-code-execution.html
 - https://blog.thalium.re/posts/leveraging-android-permissions/
+- https://www.usenix.org/conference/usenixsecurity22/presentation/zhang-lei

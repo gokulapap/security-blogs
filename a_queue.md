@@ -89,7 +89,6 @@
 - https://medium.com/@gokulelango1040/privilege-escalation-attacks-28a9ef226abb, privilege-escalation
 - https://medium.com/@hasharmujahid/bypassing-csrf-protection-i-bc014384d0aa, csrf
 - https://medium.com/@ashrafharb997/csrf-to-full-account-takeover-5196cef9d166, csrf
-- https://medium.com/@grahamzemel/1000-bac-the-complete-guide-to-exploiting-broken-access-control-966f1bd121e9, BAC
 - https://medium.com/@friendly_/reflective-xss-via-search-box-bypassing-cloudflare-waf-841ed420b7f, XSS
 - https://medium.com/@pawanchhabria/how-i-escalated-default-credentials-to-remote-code-execution-1c34504be7a5, RCE
 - https://medium.com/@sushantdhopat/how-i-able-to-steal-lot-of-user-sensitive-information-pii-throw-idor-insecure-direct-object-e41e08e88a06, info-disclosure
@@ -315,7 +314,6 @@
 - https://blog.includesecurity.com/2023/04/impersonating-local-unity-players-with-udp-spoofing-in-mirror/, Game-hacking
 - https://infosecwriteups.com/break-the-logic-playing-with-product-ratings-on-a-shopping-site-600-c9a87fb66a73, Logic-flaw
 - https://www.pingsafe.com/blog/linkedin-vulnerability-delete-any-post, IDOR
-- https://www.ghostccamm.com/blog/multi_strapi_vulns/, Authentication-bypass
 - https://starlabs.sg/advisories/23/23-2017/, SSTI
 - https://infosecwriteups.com/from-payload-to-300-bounty-a-story-of-crlf-injection-and-responsible-disclosure-on-hackerone-eeff74aff422, CRLF-injection
 - https://www.offensity.com/en/blog/user-impersonation-via-stolen-uuid-code-in-keycloak-cve-2023-0264/, OAuth
@@ -816,7 +814,6 @@
 - https://medium.com/@iknowhatodo/amazon-cognito-misconfiguration-lead-to-account-takeover-20694243ca40, Account-takeover
 - https://bahruz.me/publications/11844, HTTP-Request-Smuggling
 - https://blog.quarkslab.com/attacking-titan-m-with-only-one-byte.html, Memory-corruption
-- https://www.usenix.org/conference/usenixsecurity22/presentation/zhang-lei, Android
 - https://www.usenix.org/conference/usenixsecurity22/presentation/mirheidari, Web-cache-deception
 - https://medium.com/@avinash_/email-confirmation-bypass-at-instagram-cc968f9a126, Email-verification-bypass
 - https://bugra.ninja/posts/cloudshell-command-injection/, OS-command-injection
@@ -2140,7 +2137,6 @@
 - https://medium.com/@iframe_h1/a-picture-that-steals-data-ff604ba1012, Information-disclosure
 - https://medium.com/@heshamwatany/the-neglected-bug-that-can-infect-all-facebook-users-who-pay-for-leads-ads-8c374cd64d76, CSV-injection
 - https://soroush.secproject.com/blog/2019/04/yet-other-examples-of-abusing-csrf-in-logout/, CSRF
-- https://medium.com/bugbountywriteup/xss-reflected-xss-bypass-filter-de41d35239a3, Reflected-XSS
 - https://ysamm.com/?p=256, Authorization-flaw
 - https://medium.com/@pratiky054/ssrf-to-read-local-files-and-abusing-the-aws-metadata-8621a4bf382, SSRF
 - https://medium.com/@navne3t/confirmation-bypass-ab57c29ae413, Email-verification-bypass
@@ -2581,7 +2577,6 @@
 - https://web.archive.org/web/20200822111544/https://whitehatnepal.tumblr.com/post/156707088037/i-got-emails-g-suite-vulnerability, Logic-flaw
 - https://thehackerblog.com/the-orphaned-internet-taking-over-120k-domains-via-a-dns-vulnerability-in-aws-google-cloud-rackspace-and-digital-ocean/index.html, Domain-takeover
 - https://evilpacket.net/2016/atom-io-misconfiguration-allowed-code-execution-on-untrusted-networks/, RCE
-- https://guptashubham.com/svg-xss-in-unifi-v5-0-2/, Stored-XSS
 - https://portswigger.net/research/backslash-powered-scanning-hunting-unknown-vulnerability-classes, misc
 - https://ahussam.me/leak-private-videos-vimeo/, Logic-flaw
 - https://foxglovesecurity.com/2016/10/14/hacking-jasperreports-the-hidden-shell-feature/, RCE
