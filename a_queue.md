@@ -706,7 +706,6 @@
 - https://carvesystems.com/news/xss-through-dhcp-how-attackers-use-standards/, XSS
 - https://daturamater.medium.com/a-breach-on-patreon-and-their-elusive-bounty-program-5e7ea62dc738, Payment-bypass
 - https://starlabs.sg/blog/2022/09-apple-coretext-an-unexpected-journey-to-learn-about-failure/, Memory-corruption
-- https://consensys.net/diligence/blog/2022/09/the-forgotten-ipfs-vulnerabilities/, Web3-hacking
 - https://nebuchadnezzar-megolm.github.io, Cryptographic-issues
 - https://www.synack.com/blog/exploits-explained-5-unusual-authentication-bypass-techniques/, Authentication-bypass
 - https://webs3c.com/t/from-nothing-to-aws-credentials/220, SSRF
@@ -1150,7 +1149,6 @@
 - https://www.varonis.com/blog/box-mfa-bypass-totp/, OTP-bypass
 - https://cyberguy0xd1.medium.com/how-i-was-able-to-bypass-cloudflare-waf-for-sqli-payload-b9e7a4260026, SQL-injection
 - https://web.archive.org/web/20211202081008/https://medium.com/@saurabhsankhwar3/p1-bug-in-apple-that-phase-old-is-gold-6eb99da5bbca, Logic-flaw
-- https://www.y-security.de/news-en/microsoft-teams-csv-injection/index.html, CSV-injection
 - https://certitude.consulting/blog/en/citrix-header-injection-2/, Host-header-injection
 - https://github.com/l0ggg/VMware_vCenter, LFI
 - https://cyberguy0xd1.medium.com/my-write-up-in-hacking-ibms-administration-panel-and-getting-sqli-on-it-51404c7bee27, SQL-injection
@@ -1374,7 +1372,6 @@
 - https://keerok.github.io/2021/05/09/XSS-via-postMessage-in-chat-mozilla-org-CVE-2021-21320/, XSS
 - https://infosecwriteups.com/third-party-apps-were-still-getting-your-private-facebook-data-even-after-their-access-expiry-6e4be4880e6e, Logic-flaw
 - https://infosecwriteups.com/writeups-facebook-whitehat-program-2021-instagram-live-setting-bug-500-usd-d2d076b3f8bb, Logic-flaw
-- https://pwn.vg/articles/2021-05/ssrf-in-pdf-renderer-using-svg, SSRF
 - https://thevillagehacker.medium.com/time-based-sql-injection-to-dumping-the-database-da0e5bcaa9df, SQL-injection
 - https://www.sonarsource.com/blog/nosql-injections-in-rocket-chat/, NoSQL-injection
 - https://n3t-hunt3r.medium.com/finding-my-first-critical-web-cache-poisoning-6f956799371c, Web-cache-poisoning
@@ -1655,7 +1652,6 @@
 - https://blog.oversecured.com/Oversecured-automatically-discovers-persistent-code-execution-in-the-Google-Play-Core-Library/, Arbitrary-Code-Execution
 - https://payatu.com/blog/nikhil-mittal/my-hacking-adventures-with-safari-reader-mode, CSP-bypass
 - https://medium.com/bugbountywriteup/accessing-the-website-directly-through-its-ip-address-a-case-of-a-poorly-hidden-sql-injection-82833defbbc3, SQL-injection
-- https://www.malgregator.com/post/waze-how-i-tracked-your-mother/, Logic-flaw
 - https://blog.redteam.pl/2020/08/stealing-local-files-using-safari-web.html, Browser-hacking
 - https://medium.com/@ricardoiramar/account-takeover-for-the-win-e320ce83cdd9, Account-takeover
 - https://medium.com/bugbountywriteup/upload-to-the-future-1fd38fd502bd, IDOR
@@ -1992,7 +1988,6 @@
 - https://fletchto99.dev/2019/november/slack-vulnerability/, CSS-injection
 - https://geleta.eu/2019/my-first-ssrf-using-dns-rebinfing/, SSRF
 - https://web.archive.org/web/20200604001225/https://hackking.net/threads/how-i-hacked-dutch-government-in-5-minutes-twitter-account-takeover.20/, Broken-link-hijacking
-- https://samcurry.net/filling-in-the-blanks-exploiting-null-byte-buffer-overflow-for-a-40000-bounty/, Null-byte-buffer-overflow
 - https://medium.com/@naufalseptiadi/live-video-facebook-application-android-its-not-expired-when-log-out-the-device-on-4d4e0b67b362, Logic-flaw
 - https://medium.com/bugbountywriteup/5-000-usd-xss-issue-at-avast-desktop-antivirus-for-windows-yes-desktop-1e99375f0968, Reflected-XSS
 - https://medium.com/@Hossam.Mesbah/cross-site-request-forgery-critical-exploitable-in-infected-site-a271aedeed2f, CSRF

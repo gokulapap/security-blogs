@@ -98,3 +98,4 @@
 - https://www.coengoedegebure.com/how-i-got-access-to-local-aws-info-via-jira/
 - https://medium.com/@elberandre/1-000-ssrf-in-slack-7737935d3884
 - https://blog.assetnote.io/2022/10/28/exploiting-static-site-generators/
+- https://pwn.vg/articles/2021-05/ssrf-in-pdf-renderer-using-svg

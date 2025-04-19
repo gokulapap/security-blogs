@@ -126,3 +126,4 @@
 - https://imajk.medium.com/story-of-my-3rd-bounty-from-facebook-fef352853d1b
 - https://blog.dixitaditya.com/bypassing-google-maps-api-key-restrictions/
 - https://medium.com/@vishalranjan00012/hi-folks-2f28dd8fdfe9
+- https://www.malgregator.com/post/waze-how-i-tracked-your-mother/
