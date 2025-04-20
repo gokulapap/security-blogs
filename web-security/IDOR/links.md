@@ -180,3 +180,4 @@
 - https://footstep.ninja/posts/idor-via-websockets/
 - https://medium.com/@rohitcoder/idor-delete-saved-credit-cards-from-any-business-manager-account-f28c773982eb
 - https://blog.evanricafort.com/2021/06/2usd-idor-bug-in-redacted.html
+- https://eslam3kl.medium.com/idor-at-login-function-leads-to-leak-users-pii-data-d77e6613e9e0

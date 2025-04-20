@@ -198,3 +198,4 @@
 - https://www.fortinet.com/blog/threat-research/leaking-browser-url-protocol-handlers
 - https://occamsec.com/getting-root-a-technical-walkthrough/
 - https://0xsha.io/posts/exploiting-magic-links-critical-bugs-are-one-line-away
+- https://mr23r0.medium.com/the-database-handover-a-dumb-mistake-critical-bug-f73c99e72e40

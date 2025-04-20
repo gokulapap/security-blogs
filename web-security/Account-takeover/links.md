@@ -74,3 +74,4 @@
 - https://web.archive.org/web/20220329163747/https://pwnsec.ninja/2022/03/27/stealing-cookies-from-subdomain-leads-to-takeover-user-accounts-at-redacted-com/
 - https://dhakal0kushal.medium.com/story-of-a-pre-account-takeover-33e3d5b4c33f
 - https://research.securitum.com/how-private-cache-can-lead-to-mass-account-takeover-pentest-case/
+- https://cryptograph3r.blogspot.com/2022/03/how-token-misconfiguration-can-lead-to.html
