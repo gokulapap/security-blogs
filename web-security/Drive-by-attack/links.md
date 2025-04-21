@@ -1,0 +1,1 @@
+- https://www.contrastsecurity.com/security-influencers/localhost-attack-against-quarkus-developers-contrast-security

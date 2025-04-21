@@ -389,7 +389,6 @@
 - https://www.microsoft.com/en-us/security/blog/2023/03/06/protecting-android-clipboard-content-from-unintended-exposure/, Android
 - https://hopesamples.blogspot.com/2023/03/idor-on-bitdefendercom.html, IDOR
 - https://hunter-55.medium.com/500-bounty-in-just-5-minutes-through-recon-5eeb6c299c3c, AWS-misconfiguration
-- https://medium.com/@thelinuxboy/30-minute-heist-how-i-bagged-a-1500-bounty-in-just-few-minutes-48753eb2028e, Broken-Access-Control
 - https://medium.com/@mrxdevil404/bug-in-netflix-with-my-automation-1382d087078, Information-disclosure
 - https://m7arm4n.medium.com/unauthorized-access-to-admin-panel-via-swagger-c242e8341045, Missing-authentication
 - https://bountyplz.xyz/bugbounty/2023/03/03/Bypassing-Safe-Redirect-in-Rails-7.0.html, Open-redirect
@@ -590,7 +589,6 @@
 - https://attackshipsonfi.re/p/exploiting-cors-misconfigurations, CORS-misconfiguration
 - https://rashahacks.com/directory-enumeration-guide/, 40x-bypass
 - https://letshack.xyz/offensive/web-application/legally-hacking-a-government-satellite, Missing-authentication
-- https://www.contrastsecurity.com/security-influencers/localhost-attack-against-quarkus-developers-contrast-security, Drive-by-attack
 - https://www.rcesecurity.com/2022/11/from-zero-to-hero-part-1-bypassing-intel-dcms-authentication-cve-2022-33942/, Authentication-bypass
 - https://saligrama.io/blog/post/dodging-oauth-origin-restrictions/, OAuth
 - https://www.zerodayinitiative.com/blog/2022/11/22/cve-2022-40300-sql-injection-in-manageengine-privileged-access-management, SQL-injection
@@ -1133,7 +1131,6 @@
 - https://medium.com/@mohamedtaha_42562/how-i-found-xss-vulnerability-in-amazon-in-5-minutes-using-shodan-50b583655297, XSS
 - https://prashantbhatkal2000.medium.com/svg-based-stored-xss-ee6e9b240dee, Stored-XSS
 - https://thalium.github.io/blog/posts/leaking-aslr-through-rdp-printer-cache-registry/, Memory-corruption
-- https://jonbottarini.com/2021/12/09/dont-reply-a-clever-phishing-method-in-apples-mail-app/, Phishing
 - https://outflank.nl/blog/2021/12/09/a-phishing-document-signed-by-microsoft/, Phishing
 - https://www.r29k.com/articles/bb/priv-esc-via-stored-xss, Account-takeover
 - https://rizwansiddiqu1.medium.com/another-admin-panel-e0489dc76678, HTTP-response-manipulation
@@ -1988,7 +1985,6 @@
 - https://medium.com/@Hossam.Mesbah/cross-site-request-forgery-critical-exploitable-in-infected-site-a271aedeed2f, CSRF
 - https://noobe.io/articles/2019-10/xss-to-account-takeover, XSS
 - https://wwws.nightwatchcybersecurity.com/2019/10/24/nfc-beaming-bypasses-security-controls-in-android-cve-2019-2114/, NFC
-- https://cpdos.org, DoS
 - https://medium.com/@danangtriatmaja/bug-bounty-flaw-in-authentication-get-hall-of-fame-google-6196726ee5b9, Authentication-flaw
 - https://philippeharewood.com/1-800-flowers-credentials-and-message-log-leak-via-facebook-com-facebook/, AWS-misconfiguration
 - https://medium.com/bugbountywriteup/how-i-was-able-to-bypass-otp-token-requirement-in-razer-the-story-of-a-critical-bug-fc63a94ad572, OTP-bypass
@@ -2347,7 +2343,6 @@
 - https://medium.com/@friendly_/stored-xss-in-gameskinny-aa26c6a6ae40, Stored-XSS
 - https://blog.evanricafort.com/2018/08/blind-xss-in-chrome-experiments-google.html, Blind-XSS
 - https://medium.com/@logicbomb_1/bugbounty-paytm-customer-information-is-at-risk-indias-largest-digital-wallet-company-6f7116d4b2d5, IDOR
-- https://medium.com/@0xHyde/yahoo-two-xssi-vulnerabilities-chained-to-steal-user-information-750-bounty-e9bc6a41a40a, XSSI
 - https://www.youtube.com/watch?v=0oKHov6y6mw, Stored-XSS
 - https://medium.com/@d0nut/exfiltration-via-css-injection-4e999f63097d, CSS-injection
 - http://ha.cker.info/exploitation-of-server-side-template-injection-with-craft-cms-plguin-seomatic/, SSTI
