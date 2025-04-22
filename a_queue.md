@@ -1121,7 +1121,6 @@
 - https://medium.com/@mamunwhh/information-disclosure-leads-to-sensitive-credential-35e779f6f4db, Information-disclosure
 - https://janmuhammadzaidi.medium.com/how-i-was-able-to-bypass-waf-and-find-the-origin-ip-and-a-few-sensitive-files-fc445180adb7, WAF-bypass
 - https://ssd-disclosure.com/ssd-advisory-rocket-chat-client-side-remote-code-execution/, RCE
-- https://parsiya.net/blog/2021-12-20-rce-in-visual-studio-codes-remote-wsl-for-fun-and-negative-profit/, RCE
 - https://amakki.me/stored-xss-by-bypassing-signature-61ebd83ece6, XSS
 - https://palant.info/2021/12/20/yes-fun-browser-extensions-can-have-vulnerabilities-too/, XSS
 - https://infosecwriteups.com/hacked-google-meet-40f364bb8368, Authorization-flaw
@@ -1222,7 +1221,6 @@
 - https://dewcode.medium.com/force-browsing-bug-at-facebook-business-plan-500-bounty-73d1bb4883af, Authorization-flaw
 - https://habr.com/en/post/580582/, Privacy-issue
 - https://medium.com/@bobbyrsec/zero-day-hijacking-icloud-credentials-with-apple-airtags-stored-xss-6997da43a216, Stored-XSS
-- https://deepsurface.com/deepsurface-security-advisory-lpe-in-firefox-on-windows/, Local-Privilege-Escalation
 - https://habr.com/en/post/579714/, Information-disclosure
 - https://trenchant.io/pwn2own-2021-parallels-desktop-guest-to-host-escape/, VM-escape
 - https://rizwansiddiqu1.medium.com/super-admin-panel-without-credentials-c2022a23bb35, Authentication-bypass
@@ -1342,7 +1340,6 @@
 - https://ian.sh/airflow, Session-management-issue
 - https://medium.com/tenable-techblog/stealing-tokens-emails-files-and-more-in-microsoft-teams-through-malicious-tabs-a7e5ff07b138, postMessage
 - https://0x01alka.medium.com/google-vrp-privilege-escalation-on-https-dialogflow-cloud-google-com-599af6c4516d, Authorization-flaw
-- https://kaif0x01.medium.com/story-of-account-takeover-using-social-login-with-mass-assignment-vulnerability-to-hack-accounts-21e4d5856f5e, Mass-assignment
 - https://pratikkhalane91.medium.com/how-i-was-able-to-bypass-the-admin-panel-without-the-credentials-d65f90e0e1e4, Information-disclosure
 - https://youst.in/posts/bypassing-2fa-using-openid-misconfiguration/, MFA-bypass
 - https://0xdekster.medium.com/second-order-race-condition-be8aaf774783, Race-condition
@@ -1803,7 +1800,6 @@
 - https://web.archive.org/web/20200616051351/https://hazana.xyz/posts/cors-blimey/, CORS-misconfiguration
 - https://medium.com/@bathinivijaysimhareddy/tale-of-account-takeovers-part-2-9abf62de4ca3, Account-takeover
 - https://www.bad5ect0r.sh/posts/stored-xss-leads-to-plaintext-password-disclosure/, Stored-XSS
-- https://medium.com/@bilalmerokhel/one-param-10k-9d80a33f5eb5, IDOR
 - https://medium.com/@bilalmerokhel/chained-bugs-account-takeover-ceff67d1d55a, IDOR
 - https://medium.com/@swapmaurya20/password-reset-poisoning-leading-to-account-takeover-f178f5f1de87, Password-reset
 - http://hack4bounty.com/how-i-got-my-first-swag-on-edmodo-with-a-simple-xss/, Stored-XSS
@@ -2454,7 +2450,6 @@
 - https://corben.io/blog/18-1-11-chaining-yahoo-bugs, CORS-misconfiguration
 - https://blog.securitybreached.org/2018/02/04/hunting-insecure-direct-object-reference-vulnerabilities-for-fun-and-profit-part-1/, IDOR
 - https://wwws.nightwatchcybersecurity.com/2018/01/04/rce-in-duolingos-tinycards-app-for-android-cve-2017-16905/, Content-injection
-- https://voidzone.me/facebook-chat-dashboard-content-injection, Content-injection
 - https://blog.witcoat.com/2018/05/30/stealing-10000-yahoo-cookies/, CORS-misconfiguration
 - https://medium.com/bugbountywriteup/jumping-to-the-hell-with-10-attempts-to-bypass-devils-waf-4275bfe679dd, XSS
 - https://web.archive.org/web/20200920204426/https://medium.com/@adeshkolte/microsoft-sharepoints-follow-feature-xss-cve-2017-8514-adesh-kolte-d78d701cd064, XSS

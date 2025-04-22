@@ -64,3 +64,4 @@
 - https://rhinosecuritylabs.com/aws/cve-2022-25165-aws-vpn-client/
 - https://research.nccgroup.com/2023/07/03/technical-advisory-nullsoft-scriptable-installer-system-nsis-insecure-temporary-directory-usage/
 - https://www.activecyber.us/activelabs/windows-appx-deployment-service-local-privilege-escalation-cve-2020-1488
+- https://deepsurface.com/deepsurface-security-advisory-lpe-in-firefox-on-windows/
