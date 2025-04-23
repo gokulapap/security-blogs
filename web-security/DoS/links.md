@@ -39,3 +39,4 @@
 - https://medium.com/@sam0-0/how-i-am-able-to-crash-anyones-mozilla-firefox-browser-by-sending-an-email-a12563cc8d79
 - https://medium.com/stolabs/denial-of-service-in-the-protection-service-provided-by-avast-security-premium-284dfd5ab40
 - https://cpdos.org
+- https://medium.com/@ashikbhaskar94/denial-of-service-dos-by-regex-205536c8dcd0

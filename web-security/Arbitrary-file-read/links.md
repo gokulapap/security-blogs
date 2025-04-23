@@ -5,3 +5,4 @@
 - https://infosecwriteups.com/brave-stealing-your-cookies-remotely-1e09d1184675
 - https://omespino.com/write-up-apple-bug-bounty-n-a-arbitrary-local-file-read-via-zip-file-and-symlinks-usd/
 - https://blog.oversecured.com/Android-Exploring-vulnerabilities-in-WebResourceResponse/
+- https://www.sonarsource.com/blog/pretalx-vulnerabilities-how-to-get-accepted-at-every-conference/
