@@ -4,3 +4,4 @@
 - https://blog.oversecured.com/Evernote-Universal-XSS-theft-of-all-cookies-from-all-sites-and-more/
 - https://bugs.chromium.org/p/chromium/issues/detail?id=1040755
 - https://medium.com/@sas.kunz/scan-qr-code-and-got-hacked-cve-2021-43530-uxss-on-firefox-android-version-768b24b326fb
+- https://alesandroortiz.com/articles/uxss-android-webview-cve-2020-6506/

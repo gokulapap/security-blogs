@@ -15,3 +15,4 @@
 - https://notifybugme.medium.com/exploiting-s3-bucket-with-path-folder-to-access-pii-info-of-a-bank-91d8563cb45
 - https://virdoexhunter.medium.com/misconfigured-s3-bucket-leads-to-sensitive-data-exposure-no-super-controls-f47e26b586c6
 - https://medium.com/bugbountywriteup/bugbounty-aws-s3-added-to-my-bucket-list-f68dd7d0d1ce
+- https://medium.com/@pratyush1337/information-disclosure-via-misconfigured-aws-to-aws-bucket-takeover-6a6a66470d0e

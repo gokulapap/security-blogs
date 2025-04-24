@@ -769,7 +769,6 @@
 - https://s0md3v.github.io/blog/modsecurity-rce-bypass, WAF-bypass
 - https://www.ambionics.io/blog/hacking-watchguard-firewalls, XPath-injection
 - https://infosecwriteups.com/bypassing-amazon-waf-to-pop-an-alert-4646ce35554e, WAF-bypass
-- https://notifybugme.medium.com/how-i-found-reflected-xss-on-idfc-bank-with-burp-suite-intruder-7c53275daf02, Reflected-XSS
 - https://sagarsajeev.medium.com/unsubscribe-any-users-e-mail-notifications-via-idor-2c2e05b79dac, IDOR
 - https://joshuaarulsamy.medium.com/my-hall-of-fame-at-united-nations-success-story-97675232aed7, XSS
 - https://blog.nietaanraken.nl/posts/github-pages-command-injection/, RCE
@@ -1029,7 +1028,6 @@
 - https://apth3hack3r.medium.com/xss-through-base64-encoded-json-4b0d96e5ccd4, XSS
 - https://bloggerrando.blogspot.com/2022/03/13-1.html, Broken-Access-Control
 - https://canmustdie.medium.com/how-did-i-leak-5-2k-customer-data-from-a-large-company-via-broken-access-control-709eb4027409, Broken-Access-Control
-- https://medium.com/@tobydavenn/how-i-was-able-to-read-any-users-confidential-reports-on-a-public-level-domain-1e563857b0b9, IDOR
 - https://orca.security/resources/blog/autowarp-microsoft-azure-automation-service-vulnerability/, Cross-tenant-vulnerability
 - https://medium.com/@sandh0t/the-bad-twin-a-peculiar-case-of-jwt-exploitation-scenario-1efa03e891c0, Account-takeover
 - https://infosecwriteups.com/whatsapp-bug-bounty-bypassing-biometric-authentication-using-voip-87548ef7a0ba, Authentication-bypass
@@ -1628,7 +1626,6 @@
 - https://blog.long.lat/2020/09/16/exploiting-a-useless-cookie-based-xss-and-making-it-useful/, XSS
 - https://medium.com/@shahjerry33/sql-injection-remote-code-execution-double-p1-6038ca88a2ec, SQL-injection
 - https://medium.com/bugbountywriteup/how-i-hacked-redbus-an-online-bus-ticketing-application-24ef5bb083cd, LFI
-- https://alesandroortiz.com/articles/uxss-android-webview-cve-2020-6506/, Universal-XSS
 - https://www.ehpus.com/post/xss-fix-bypass-10000-bounty-in-google-maps, XSS
 - https://infosecwriteups.com/how-response-manipulation-got-me-a-little-but-sweet-bounty-38b515ca0910, MFA-bypass
 - https://medium.com/@smilehackerofficial/xss-that-can-pay-your-bills-9377eff1fd0d, Reflected-XSS
@@ -1737,7 +1734,6 @@
 - https://medium.com/bugbountywriteup/all-about-getting-first-bounty-with-idor-849db2828c8, IDOR
 - https://medium.com/@mase289/a-tale-of-my-first-ever-full-ssrf-bug-4fe71a76e9c4, SSRF
 - https://jub0bs.com/posts/2020-06-23-ssrf/, SSRF
-- https://medium.com/bugbountywriteup/api-token-hijacking-through-clickjacking-2e36c02e6c48, Clickjacking
 - https://medium.com/bugbountywriteup/bypass-2fa-like-a-boss-378787707ba, Lack-of-rate-limiting
 - https://alaa.blog/2020/06/how-did-i-found-information-disclosure-on-facebook-writeup/, Information-disclosure
 - https://samcurry.net/hacking-starbucks/, Path-traversal
@@ -2055,7 +2051,6 @@
 - https://medium.com/@janijay007/story-of-my-biggest-bounty-evecommand-execution-on-jenkin-a73f5242b1e2, RCE
 - https://xp.ht/oauth-authentication-bypass-on-airbnb-acquisition-using-weird-1-char-open-redirect/, Open-redirect
 - https://medium.com/@hazzaazi31/a-malicious-editor-of-a-page-can-support-to-a-community-action-which-cant-be-unsupported-by-the-f568c3762042, Authorization-flaw
-- https://medium.com/@pratyush1337/information-disclosure-via-misconfigured-aws-to-aws-bucket-takeover-6a6a66470d0e, AWS-misconfiguration
 - https://medium.com/@ruvlol/cleartext-password-in-localstorage-writeup-245294762829, Violation-of-secure-design-principles
 - https://jspin.re/fileupload-blind-sqli/, SQL-injection
 - https://medium.com/@shub66452/account-takeover-using-csrf-json-based-a0e6efd1bffc, CSRF
