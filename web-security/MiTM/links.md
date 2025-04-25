@@ -4,3 +4,4 @@
 - https://www.evilsocket.net/2016/08/17/Samsung-Galaxy-Apps-MITM-Vulnerabilities/
 - https://github.com/champtar/blog/tree/main/IPv6_RA_MITM
 - https://www.nozominetworks.com/blog/vulnerability-in-dahua-s-onvif-implementation-threatens-ip-camera-security/
+- https://curl.se/docs/CVE-2022-32208.html

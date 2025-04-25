@@ -207,3 +207,4 @@
 - https://medium.com/@uranium238/getting-a-rce-ctf-way-2fd612fb643f
 - https://octagon.net/blog/2022/10/28/juniper-sslvpn-junos-rce-and-multiple-vulnerabilities/
 - https://parsiya.net/blog/2021-12-20-rce-in-visual-studio-codes-remote-wsl-for-fun-and-negative-profit/
+- https://lf.lc/vrp/175896812/
