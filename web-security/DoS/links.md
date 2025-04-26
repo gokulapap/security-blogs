@@ -40,3 +40,4 @@
 - https://medium.com/stolabs/denial-of-service-in-the-protection-service-provided-by-avast-security-premium-284dfd5ab40
 - https://cpdos.org
 - https://medium.com/@ashikbhaskar94/denial-of-service-dos-by-regex-205536c8dcd0
+- https://medium.com/@harshbanshpal/how-i-was-able-to-down-a-service-of-microsoft-denial-of-service-dos-attack-on-microsoft-ec9d599ab3f8

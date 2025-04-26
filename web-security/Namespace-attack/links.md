@@ -1,0 +1,1 @@
+- https://infosecwriteups.com/logical-flaw-resulting-path-hijacking-dd4d1e1e832f

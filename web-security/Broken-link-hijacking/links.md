@@ -7,3 +7,4 @@
 - https://medium.com/@bathinivijaysimhareddy/how-i-takeover-the-companys-linkedin-page-790c9ed2b04d
 - https://infosecwriteups.com/abusing-broken-link-in-fitbit-google-acquisition-to-collect-bugbounty-reports-on-behalf-of-google-5885a556eb7c
 - https://grumpinout.medium.com/manual-broken-link-monitoring-bcc064f5f5f2
+- https://tutorgeeks.blogspot.com/2019/09/broken-link-hijacking-s3-buckets.html
