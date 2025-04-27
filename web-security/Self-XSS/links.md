@@ -8,3 +8,4 @@
 - https://blog.s1r1us.ninja/research/cookie-tossing-to-rce-on-google-cloud-jupyter-notebooks
 - https://medium.com/bugbountywriteup/chaining-self-xss-with-ui-redressing-is-leading-to-session-hijacking-pwn-users-like-a-boss-efb46249cd14
 - https://blog.lightspin.io/aws-sagemaker-notebook-takeover-vulnerability
+- https://medium.com/@mydudehello91/how-i-hacked-scopely-and-got-c60772f77d41

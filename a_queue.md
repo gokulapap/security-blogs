@@ -207,7 +207,6 @@
 - http://www.kamilonurozkaleli.com/posts/a-classical-account-takeover-case-via-multiple-bypasses/, Account-takeover
 - https://medium.com/@0day_exploit/stored-xss-via-exif-data-37b279ceb3e9, Stored-XSS
 - https://medium.com/@hbenja47/my-first-two-valid-and-rewarded-web-cache-deceptions-earning-2250-c8d2a6968713, Web-cache-deception
-- https://medium.com/@mydudehello91/how-i-hacked-scopely-and-got-c60772f77d41, Self-XSS
 - https://medium.com/@kushjain0107/one-mistake-three-bugs-comprehensive-android-pentesting-a8fc68e36af5, Android
 - https://github.com/pedrib/PoC/blob/master/advisories/ManageEngine/adselfpwnplus/adselfpwnplus.md, Authentication-bypass
 - https://medium.com/@0xnaeem/how-i-found-a-sql-injection-bug-in-using-my-cellphone-5b5193fdc314, SQL-injection
@@ -271,7 +270,6 @@
 - https://www.akamai.com/blog/security-research/important-outlook-vulnerability-bypass-windows-api, Privilege-escalation
 - https://chevonphillip.medium.com/rce-due-to-dependency-confusion-5000-bounty-fd1b294d645f, Dependency-confusion
 - https://crnkovic.dev/testing-converso/, Android
-- https://www.synopsys.com/blogs/software-security/a-deep-dive-on-pluck-cms-vulnerability-cve-2023-25828/, Unrestricted-file-upload
 - http://blog.evanricafort.com/2023/05/ipv6-dns-takeover-via-mitm6-write-up.html, MiTM
 - https://medium.com/@ar_hawk/how-a-simple-directory-listing-leads-to-pii-data-leakage-remote-code-execution-and-many-more-104b09e644f4, RCE
 - https://medium.com/@mohammed01550038865/how-i-discovred-xss-via-url-encode-3-times-86ccd5354081, XSS
@@ -1277,7 +1275,6 @@
 - https://blog.azuki.vip/csrf/, CSRF
 - https://molx32.github.io/blog/2021/Bug-bounty-00/, Information-disclosure
 - https://coffeejunkie.me/Blind-XXE-Port-Scanning/, XXE
-- https://coffeejunkie.me/Multi-Domain-DOM-Cross-Site-Scripting/, DOM-XSS
 - https://medium.com/@mumeido/from-hobby-to-hacking-5d8befb3adde, Unrestricted-file-upload
 - https://medium.com/@muhammadsholikhin/facebook-vulnerability-expose-group-member-3000-cca809a53f6b, IDOR
 - https://blog.niksthehacker.com/xxe-in-public-transport-ticketing-mobile-app-81ae245c01a1, XXE
@@ -1399,7 +1396,6 @@
 - https://infosecwriteups.com/unauthenticated-account-takeover-through-forget-password-c120b4c1141d, Password-reset
 - https://monke.ie/duckduckgoxss/, Stored-XSS
 - https://gatolouco.medium.com/critical-blind-storage-xss-my-first-bug-bounty-d318f6ba570c/, Blind-XSS
-- https://notifybugme.medium.com/chaining-an-blind-ssrf-bug-to-get-an-rce-92c09de3c0ba, Blind-SSRF
 - https://0xra.github.io/posts/apple-tv-code-execution/, RCE
 - https://mikey96.medium.com/cloud-based-storage-misconfigurations-critical-bounties-361647f78a29, Cloud-storage-misconfiguration
 - https://www.sjoerdlangkemper.nl/2021/04/04/remote-code-execution-through-unsafe-unserialize/, Insecure-deserialization
@@ -1664,7 +1660,6 @@
 - https://objective-see.com/blog/blog_0x4D.html, Local-Privilege-Escalation
 - https://medium.com/bugbountywriteup/bypassing-otp-via-reset-password-f004a29020c, OTP-bypass
 - https://medium.com/@zseano/new-features-means-new-bugs-ece4d10cdf9d, Logic-flaw
-- https://medium.com/@ashokcpg/weird-behavior-of-facebook-page-faq-leading-to-bounty-from-facebook-b4984e623b38, Logic-flaw
 - https://medium.com/bugbountywriteup/my-first-bug-bounty-21d3203ffdb0, Information-disclosure
 - https://www.ehpus.com/post/authorization-bypass-in-google-s-ticketing-system, Authorization-flaw
 - https://hunter-55.medium.com/introduction-fae7c8b3d16c, Exposed-registration-page
