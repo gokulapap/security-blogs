@@ -1,2 +1,3 @@
 - https://medium.com/@shahjerry33/exif-data-exposure-9bdd6c2c4f2a
 - https://medium.com/@videopourtoujour/brokenlinkhijacking-43ab80a4a717
+- https://medium.com/@renwa/the-underrated-bugs-clickjacking-css-injection-drag-drop-xss-cookie-bomb-login-logout-csrf-84307a98fffa

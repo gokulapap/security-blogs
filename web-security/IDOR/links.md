@@ -183,3 +183,4 @@
 - https://eslam3kl.medium.com/idor-at-login-function-leads-to-leak-users-pii-data-d77e6613e9e0
 - https://medium.com/@bilalmerokhel/one-param-10k-9d80a33f5eb5
 - https://medium.com/@tobydavenn/how-i-was-able-to-read-any-users-confidential-reports-on-a-public-level-domain-1e563857b0b9
+- https://medium.com/@pratyush1337/edm0d0-idor-vulnerabilities-95ca8600ee1c

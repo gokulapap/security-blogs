@@ -215,3 +215,4 @@
 - https://medium.com/@osamaavvan/bypassing-xss-filter-and-stealing-user-credit-card-data-100f247ed5eb
 - https://medium.com/@04sabsas/xss-will-never-die-eb3584081a5f
 - https://keerok.github.io/2021/05/09/XSS-via-postMessage-in-chat-mozilla-org-CVE-2021-21320/
+- https://medium.com/@soufianehabti/my-story-with-xss-ed017bdc44c4
