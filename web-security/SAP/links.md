@@ -1,0 +1,1 @@
+- https://web.archive.org/web/20230710001307/https://0xbartita.medium.com/how-i-got-two-rce-at-epam-bounty-program-389eb9fc7938

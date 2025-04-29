@@ -174,7 +174,6 @@
 - https://www.rapid7.com/blog/post/2023/07/11/cve-2023-29298-adobe-coldfusion-access-control-bypass/, Broken-Access-Control
 - https://dimazarno.medium.com/unexpected-zero-in-mysql-injection-511f632714b0, SQL-injection
 - https://amjadali110.medium.com/unveiling-access-control-flaws-how-a-viewer-became-an-editor-b4aa83a5a0ec, Broken-Access-Control
-- https://web.archive.org/web/20230710001307/https://0xbartita.medium.com/how-i-got-two-rce-at-epam-bounty-program-389eb9fc7938, SAP
 - https://code-white.com/blog/2023-07-from-blackbox-dotnet-remoting-to-rce/, RCE
 - https://shahjerry33.medium.com/idn-homograph-attack-and-response-manipulation-the-rarest-case-85f64c272a1c, IDN-homograph-attack
 - https://blog.projectdiscovery.io/moveit-transfer-sql-injection/, SQL-injection
@@ -401,7 +400,6 @@
 - https://medium.com/@mullangisashank/the-vulnerability-that-exposed-an-un-website-to-remote-code-execution-dfe377b82049, Components-with-known-vulnerabilities
 - https://infosecwriteups.com/how-did-i-found-rce-on-shareit-which-rewarded-bounty-7d4196bf1b52, Log4shell
 - https://hacklido.com/blog/320-how-i-got-a-2000-bounty-with-rxss, Reflected-XSS
-- https://medium.com/@osamaavvan/unauthenticated-graphql-introspection-and-api-calls-92f1d9d86bcf, GraphQL
 - https://systemweakness.com/give-me-a-browser-ill-give-you-a-shell-de19811defa0, Local-Privilege-Escalation
 - https://www.synacktiv.com/sites/default/files/2023-02/Synacktiv-IBM-TWS-CVE-2022-38389.pdf, XXE
 - https://starlabs.sg/blog/2023/02-microsoft-azure-account-takeover-via-dom-based-xss-in-cosmos-db-explorer/, Account-takeover
@@ -1835,7 +1833,6 @@
 - https://medium.com/@ozguralp/using-vulnerability-analytics-feature-like-a-boss-655fc1f1543b, SSRF
 - http://carnal0wnage.attackresearch.com/2020/03/what-is-your-gcp-infra-worthabout-700.html, Information-disclosure
 - https://web.archive.org/web/20200511115634/https://medium.com/@godofdarkness.msf/users-email-disclosure-via-invalid-password-reset-link-250-c431ed46680e, Password-reset
-- https://techkranti.com/how-i-reported-a-dos-vulnerability-to-aws/, DoS
 - https://ysamm.com/?p=404, Authorization-flaw
 - https://ysamm.com/?p=396, Lack-of-rate-limiting
 - https://medium.com/@shahjerry33/otp-bypass-developers-check-5786885d55c6, OTP-bypass
@@ -1902,7 +1899,6 @@
 - https://medium.com/monetary/how-did-i-earn-3133-70-from-google-translator-9becf942dbdc, XSS
 - https://medium.com/bug-bounty-hunting/facebook-bug-bounty-story-x000-for-an-information-disclosure-bug-f0c0d19d7815, Information-disclosure
 - https://sasi2103.blogspot.com/2019/12/drop-mic-no-drop-connection.html, DOM-XSS
-- https://medium.com/bugbountywriteup/effortlessly-finding-cross-site-script-inclusion-xssi-jsonp-for-bug-bounty-38ae0b9e5c8a, XSSI
 - https://smaranchand.com.np/2019/12/subdomain-takeover-via-pantheon/, Subdomain-takeover
 - https://medium.com/bugbountywriteup/graphql-idor-leads-to-information-disclosure-175eb560170d, IDOR
 - https://web.archive.org/web/20200320111950/https://medium.com/@sainttobs/csrf-token-bypasss-a-tale-of-my-2k-bug-ff7f51166ea1, CSRF
@@ -2091,7 +2087,6 @@
 - https://medium.com/@heshamwatany/the-neglected-bug-that-can-infect-all-facebook-users-who-pay-for-leads-ads-8c374cd64d76, CSV-injection
 - https://soroush.secproject.com/blog/2019/04/yet-other-examples-of-abusing-csrf-in-logout/, CSRF
 - https://ysamm.com/?p=256, Authorization-flaw
-- https://medium.com/@pratiky054/ssrf-to-read-local-files-and-abusing-the-aws-metadata-8621a4bf382, SSRF
 - https://medium.com/@navne3t/confirmation-bypass-ab57c29ae413, Email-verification-bypass
 - https://rpadovani.com/gitlab-responsible-disclosure, Authorization-flaw
 - https://sites.google.com/securifyinc.com/secblogs/scary-tickets, Ticket-Trick

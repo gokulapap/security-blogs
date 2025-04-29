@@ -8,3 +8,4 @@
 - https://nishantjain.tech/#/blog
 - https://labs.detectify.com/2018/03/14/graphql-abuse/
 - https://rashahacks.com/exposing-users-table-from-a-leaky-graphql-query/
+- https://medium.com/@osamaavvan/unauthenticated-graphql-introspection-and-api-calls-92f1d9d86bcf
