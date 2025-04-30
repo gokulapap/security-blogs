@@ -383,7 +383,6 @@
 - https://hopesamples.blogspot.com/2023/03/idor-on-bitdefendercom.html, IDOR
 - https://hunter-55.medium.com/500-bounty-in-just-5-minutes-through-recon-5eeb6c299c3c, AWS-misconfiguration
 - https://medium.com/@mrxdevil404/bug-in-netflix-with-my-automation-1382d087078, Information-disclosure
-- https://m7arm4n.medium.com/unauthorized-access-to-admin-panel-via-swagger-c242e8341045, Missing-authentication
 - https://bountyplz.xyz/bugbounty/2023/03/03/Bypassing-Safe-Redirect-in-Rails-7.0.html, Open-redirect
 - https://github.blog/2023-03-03-github-security-lab-audited-datahub-heres-what-they-found/, SSRF
 - https://www.permasecure.io/2023/03/03/how-your-nfts-could-have-been-stolen-in-just-one-click/, postMessage
@@ -1882,7 +1881,6 @@
 - https://techblog.mediaservice.net/2020/01/ok-google-bypass-the-authentication/, Authentication-bypass
 - https://medium.com/@abhishake100/hyperlink-injection-easy-money-sometimes-cc1104655300, Hyperlink-injection
 - https://www.amolbaikar.com/xss-on-facebook-instagram-cdn-server-bypassing-signature-protection/, XSS
-- https://www.amolbaikar.com/xss-on-facebooks-acquisition-oculus-cdn-server/, XSS
 - https://medium.com/bugbountywriteup/how-i-bought-my-way-to-subdomain-takeover-on-tokopedia-8c6697c85b4d, Subdomain-takeover
 - https://medium.com/@milanmagyar/ggvulnz-how-i-hacked-hundreds-of-companies-through-google-groups-b69c658c8924, Logic-flaw
 - https://noobe.io/articles/2020-01/how-i-found-bug-google-search-console, Logic-flaw
@@ -1905,7 +1903,6 @@
 - https://medium.com/bugbountywriteup/from-broken-link-to-sub-folder-takeover-on-bukalapak-3aa985e622c4, AWS-misconfiguration
 - https://medium.com/@vbharad/full-account-takeover-android-application-78fa922f78c5, Information-disclosure
 - https://medium.com/@abhishake100/bypassing-captcha-17c59d37f459, Captcha-bypass
-- https://ngailong.wordpress.com/2019/12/19/google-vrp-ssrf-in-google-cloud-platform-stackdriver/, SSRF
 - https://weizman.github.io/2019/12/18/js-anti-debug-1/, Browser-hacking
 - https://medium.com/@irounakdhadiwal999/stored-iframe-injection-csrf-account-takeover-42c93ad13f5d, HTML-injection
 - https://m0chan.github.io/2019/12/16/Subdomain-Takeover-Azure-CDN.html, Subdomain-takeover
@@ -2377,7 +2374,6 @@
 - https://medium.com/@hisham.mir/exploiting-a-single-parameter-6f4ba2acf523, SSRF
 - https://web.archive.org/web/20201123204445/https://www.mohamedharon.com/2018/04/link-injection-on-2-twitter-subdomain.html, Hyperlink-injection
 - https://medium.com/@logicbomb_1/bugbounty-your-details-are-saved-into-my-account-user-info-disclosure-vulnerability-in-practo-fe36930a1246, IDOR
-- https://web.archive.org/web/20201022201335/https://www.mohamedharon.com/2018/04/my-best-small-report-bounty-report-in.html, SQL-injection
 - https://web.archive.org/web/20200928235353/https://www.mohamedharon.com/2018/03/xss-in-sportstwcampaignyahoonet.html, Reflected-XSS
 - https://medium.com/@valeriyshevchenko/how-i-hacked-one-cryptocurrency-service-db3cb0f81d6c, Blind-XSS
 - https://medium.com/bugbountywriteup/creating-test-conversion-using-any-app-8b32ee0a735, Parameter-tampering
@@ -2539,7 +2535,6 @@
 - http://artsploit.blogspot.com/, RCE
 - https://guptashubham.com/swf-xss-dom-based-xss/, Flash-XSS
 - https://guptashubham.com/xss-on-flickr/, XSS
-- https://whitton.io/articles/messenger-site-wide-csrf/, CSRF
 - https://www.seekurity.com/blog/general/bmw-vulnerabilities-hijack-cars-connecteddrive-service/, Clickjacking
 - http://www.kernelpicnic.net/2016/07/24/Microsoft-signout.live.com-Remote-Code-Execution-Write-Up.html, RCE
 - https://avicoder.me/2016/07/22/Twitter-Vine-Source-code-dump/, Source-code-disclosure

@@ -9,3 +9,4 @@
 - https://infosecwriteups.com/story-of-my-first-valid-critical-bug-22029115f8d7
 - https://www.directdefense.com/compromising-a-backup-system-by-iscsi-interface-during-a-routine-penetration-test/
 - https://medium.com/@aditya043k/shodan-recon-to-1000-bounty-in-2-mins-b168ced3bfb0
+- https://m7arm4n.medium.com/unauthorized-access-to-admin-panel-via-swagger-c242e8341045

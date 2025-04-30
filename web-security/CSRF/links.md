@@ -79,3 +79,4 @@
 - https://medium.com/@nishantrustlingup/my-first-csrf-to-account-takeover-worth-750-1332641d4304
 - https://web.archive.org/web/20200825165404/https://medium.com/@adeshkolte/how-i-got-500-from-microsoft-for-csrf-vulnerability-700accaf48b9
 - https://web.archive.org/web/20210227092343/https://tommysuriel.medium.com/csrf-through-url-with-tag-parameter-c8ef585bded3
+- https://whitton.io/articles/messenger-site-wide-csrf/
