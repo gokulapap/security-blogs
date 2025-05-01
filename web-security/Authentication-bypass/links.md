@@ -48,3 +48,4 @@
 - https://www.synacktiv.com/sites/default/files/2023-02/Synacktiv-Advisory-Izanami-CVE-2023-22495.pdf
 - https://www.ghostccamm.com/blog/multi_strapi_vulns/
 - https://www.rafaybaloch.com/2020/10/multiple-address-bar-spoofing-vulnerabilities.html
+- https://blog.paradoxis.nl/yafpc-unauthenticated-remote-code-execution-755bf9e4d7c1

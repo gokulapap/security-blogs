@@ -497,7 +497,6 @@
 - https://blog.hckrt.com/blog/thisclosed_2/, SQL-injection
 - https://medium.com/@mares.viktor/critical-vulnerability-through-osint-only-56e56eb97516, Information-disclosure
 - https://blog.geekycat.in/xss-using-postmessage-in-google-cloud-theia-notebooks/, XSS
-- https://blog.paradoxis.nl/yafpc-unauthenticated-remote-code-execution-755bf9e4d7c1, Authentication-bypass
 - https://infosecwriteups.com/how-browsers-save-as-feature-might-lead-to-code-execution-cve-2022-45415-ebaa8711692, RCE
 - https://googleprojectzero.blogspot.com/2023/01/der-entitlements-brief-return-of.html, iOS
 - https://www.imperva.com/blog/google-chrome-symstealer-vulnerability/, Local-Privilege-Escalation
@@ -701,7 +700,6 @@
 - https://blog.champtar.fr/VLAN0_LLC_SNAP/, Layer-2-networking-vulnerability
 - https://notmyplate.com/whitepaper/, Information-disclosure
 - https://frycos.github.io/vulns4free/2022/09/26/skype-audit-part2.html, SSRF
-- https://www.semperis.com/blog/new-attack-paths-as-requested-sts/, Local-Privilege-Escalation
 - https://bergee.it/blog/blind-account-takeover/, Account-takeover
 - https://blog.infiltrateops.io/tesla-paid-me-10-000-because-of-directory-indexing-c1be06c77a3e, Directory-listing
 - https://sagarsajeev.medium.com/escalating-ssti-to-reflected-xss-using-curly-braces-825685bd93ec, SSTI
@@ -1524,7 +1522,6 @@
 - https://iustin24.github.io/Cache-Key-Normalization-Denial-of-Service/, Web-cache-poisoning
 - https://blog.deesee.xyz/regex/security/2020/12/27/regular-expression-injection.html, ReDoS
 - https://lutfumertceylan.com.tr/posts/acc-takeover-web-cache-xss/, Reflected-XSS
-- https://baibhavjha.com.np/blogs/hidingfromcustomlistfblite/, Logic-flaw
 - https://www.ehpus.com/post/ssti-in-google-maps, SSTI
 - https://saugatpokharel.medium.com/this-is-how-i-was-able-to-view-anyones-private-email-and-birthday-on-instagram-1469f44b842b, Information-disclosure
 - https://vivekps143.medium.com/facebook-bug-bounty-finding-the-hidden-members-of-the-private-events-977dc1784ff9, Information-disclosure
@@ -2086,7 +2083,6 @@
 - https://ysamm.com/?p=256, Authorization-flaw
 - https://medium.com/@navne3t/confirmation-bypass-ab57c29ae413, Email-verification-bypass
 - https://rpadovani.com/gitlab-responsible-disclosure, Authorization-flaw
-- https://sites.google.com/securifyinc.com/secblogs/scary-tickets, Ticket-Trick
 - https://www.inputzero.io/2019/04/evernote-cve-2019-10038.html, RCE
 - https://medium.com/bugbountywriteup/banner-grabbing-to-dos-and-memory-corruption-2442b1c25bbb, DoS
 - https://medium.com/@ZishanAdThandar/just-5-minute-to-get-my-2nd-stored-xss-on-edmodo-com-fe2ee559e00d, Stored-XSS
@@ -2171,7 +2167,6 @@
 - https://medium.com/@hariharan21/stored-xss-via-alternate-text-at-zendesk-support-8bfee68413e4, Stored-XSS
 - https://www.ash-king.co.uk/downloading-any-file-via-facebook-android.html, Authorization-flaw
 - https://medium.com/@maxpasqua/stealing-side-channel-attack-tokens-in-facebook-account-switcher-90c5944e3b58, Token-leak
-- https://web.archive.org/web/20191217045127/https://medium.com/vulnerables/yes-i-can-see-your-otp-9334cd27f021, IDOR
 - https://www.hackerinside.me/2019/01/a-tricky-open-redirect.html, Open-redirect
 - https://bugbountypoc.com/how-i-was-able-to-harvest-other-vine-users-ip-address, IDOR
 - https://medium.com/@pig.wig45/bypassing-access-control-in-a-program-on-hackerone-ef213ab34703, Authorization-flaw

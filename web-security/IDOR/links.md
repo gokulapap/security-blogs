@@ -184,3 +184,4 @@
 - https://medium.com/@bilalmerokhel/one-param-10k-9d80a33f5eb5
 - https://medium.com/@tobydavenn/how-i-was-able-to-read-any-users-confidential-reports-on-a-public-level-domain-1e563857b0b9
 - https://medium.com/@pratyush1337/edm0d0-idor-vulnerabilities-95ca8600ee1c
+- https://web.archive.org/web/20191217045127/https://medium.com/vulnerables/yes-i-can-see-your-otp-9334cd27f021
