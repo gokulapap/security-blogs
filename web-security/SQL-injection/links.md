@@ -75,3 +75,4 @@
 - https://medium.com/@mahitman1/hacking-a-crypto-debit-card-service-730f287aaee7
 - https://bitquark.co.uk/blog/2014/02/23/tesla_motors_blind_sql_injection
 - https://web.archive.org/web/20201022201335/https://www.mohamedharon.com/2018/04/my-best-small-report-bounty-report-in.html
+- https://infosecwriteups.com/how-a-youtube-video-lead-to-pwning-a-web-application-via-sql-injection-worth-4324-bounty-285f0a9b9f6c
