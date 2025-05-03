@@ -416,7 +416,6 @@
 - https://blog.trailofbits.com/2023/02/21/vscode-extension-escape-vulnerability/, Path-traversal
 - https://www.praetorian.com/blog/using-crlf-injection-to-bypass-akamai-web-app-firewall/, WAF-bypass
 - https://jjainam16.medium.com/reflected-cross-site-scripting-awards-3500-bounty-c8a619f129a1, Reflected-XSS
-- https://www.archcloudlabs.com/projects/disabling-clamav-as-unprivileged-user/, Local-Privilege-Escalation
 - https://vengeance.medium.com/found-an-url-in-the-android-application-source-code-which-lead-to-an-idor-1b8768708756, Android
 - https://medium.com/@niraj1mahajan/hacking-the-search-bar-the-story-of-discovering-and-reporting-an-xss-vulnerability-on-bing-com-cac2f241835, XSS
 - https://blog.trailofbits.com/2023/02/16/suid-logic-bug-linux-readline/, Local-Privilege-Escalation
@@ -493,7 +492,6 @@
 - https://blog.pksecurity.io/2023/01/16/2022-microsoft-teams-rce.html, RCE
 - https://blog.viettelcybersecurity.com/cve-2022-21587-oracle-e-business-suite-unauth-rce/, RCE
 - https://blog.hckrt.com/blog/thisclosed_2/, SQL-injection
-- https://medium.com/@mares.viktor/critical-vulnerability-through-osint-only-56e56eb97516, Information-disclosure
 - https://blog.geekycat.in/xss-using-postmessage-in-google-cloud-theia-notebooks/, XSS
 - https://infosecwriteups.com/how-browsers-save-as-feature-might-lead-to-code-execution-cve-2022-45415-ebaa8711692, RCE
 - https://googleprojectzero.blogspot.com/2023/01/der-entitlements-brief-return-of.html, iOS
@@ -703,7 +701,6 @@
 - https://sagarsajeev.medium.com/escalating-ssti-to-reflected-xss-using-curly-braces-825685bd93ec, SSTI
 - https://rohit443.medium.com/blind-xss-on-admin-portal-leads-to-information-disclosure-121d26b2a35a, Blind-XSS
 - https://infosecwriteups.com/complete-take-over-of-cisco-unified-communications-manager-due-consecutively-misconfigurations-2a1b5ce8bd9a, Security-misconfiguration
-- https://nmochea.medium.com/arbitrary-file-corruption-end-to-end-encrypted-messaging-application-674963dceef8, Insecure-intent
 - https://www.form3.tech/engineering/content/exploiting-distroless-images, Command-injection
 - https://infosecwriteups.com/how-i-found-multiple-sql-injections-in-5-minutes-in-bug-bounty-40155964c498, SQL-injection
 - https://www.trellix.com/en-us/about/newsroom/stories/research/tarfile-exploiting-the-world.html, Path-traversal
@@ -1253,7 +1250,6 @@
 - https://infosecwriteups.com/how-we-was-able-to-takeover-whole-organization-via-privilege-escalation-4f74b31a84a6, Privilege-escalation
 - https://medium.com/@psr595bro/how-i-found-read-write-access-to-the-personal-data-of-3-million-users-of-an-e-commerce-website-b9026b0d4bd3, IDOR
 - https://medium.com/@chaitanyarajhans024/simple-html-injection-to-250-895b760409ed, HTML-injection
-- https://github.com/justinsteven/advisories/blob/master/2021_vscode_ipynb_xss_arbitrary_file_read.md, XSS
 - https://www.fortbridge.co.uk/research/multiple-vulnerabilities-in-cpanel-whm/, XXE
 - https://medium.com/@gonzalocarrascosec/fuzzing-idor-admin-takeover-5343bb8f436e, IDOR
 - https://infosecwriteups.com/what-is-bola-3-digit-bounty-from-topcoder-a25e7fae0d64, IDOR
@@ -1851,7 +1847,6 @@
 - https://spaceraccoon.dev/a-tale-of-two-formats-exploiting-insecure-xml-and-zip-file-parsers-to-create-a, XXE
 - https://medium.com/@adonkidz7/my-first-bounty-from-google-d9f1f3f5787a, Self-XSS
 - https://www.acunetix.com/blog/web-security-zone/xss-google-acunetix/, XSS
-- https://s1gnalcha0s.github.io/logic/2020/02/17/Google-Fiber.html, Logic-flaw
 - https://medium.com/@shayboy123/how-i-gain-unrestricted-file-upload-remote-code-execution-bug-bounty-381d0aab0dad, Unrestricted-file-upload
 - https://medium.com/@mohdaltaf163/uploading-backdoor-for-fun-and-profit-rce-db-cred-p1-2cdaa00e2125, Unrestricted-file-upload
 - https://hailstorm1422.com/linkedin-blind-idor/, IDOR

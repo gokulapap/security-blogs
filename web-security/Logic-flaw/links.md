@@ -129,3 +129,4 @@
 - https://www.malgregator.com/post/waze-how-i-tracked-your-mother/
 - https://medium.com/@ashokcpg/weird-behavior-of-facebook-page-faq-leading-to-bounty-from-facebook-b4984e623b38
 - https://baibhavjha.com.np/blogs/hidingfromcustomlistfblite/
+- https://s1gnalcha0s.github.io/logic/2020/02/17/Google-Fiber.html

@@ -199,3 +199,4 @@
 - https://occamsec.com/getting-root-a-technical-walkthrough/
 - https://0xsha.io/posts/exploiting-magic-links-critical-bugs-are-one-line-away
 - https://mr23r0.medium.com/the-database-handover-a-dumb-mistake-critical-bug-f73c99e72e40
+- https://medium.com/@mares.viktor/critical-vulnerability-through-osint-only-56e56eb97516

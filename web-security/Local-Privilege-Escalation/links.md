@@ -66,3 +66,4 @@
 - https://www.activecyber.us/activelabs/windows-appx-deployment-service-local-privilege-escalation-cve-2020-1488
 - https://deepsurface.com/deepsurface-security-advisory-lpe-in-firefox-on-windows/
 - https://www.semperis.com/blog/new-attack-paths-as-requested-sts/
+- https://www.archcloudlabs.com/projects/disabling-clamav-as-unprivileged-user/
