@@ -17,7 +17,6 @@
 - https://medium.com/@vickieli/scanning-for-secrets-in-source-code-9fcb486f8c0e, source-code-review
 - https://medium.com/@notifybugme/chaining-an-blind-ssrf-bug-to-get-an-rce-92c09de3c0ba, ssrf
 - https://medium.com/@aidilarf/idor-vulnerability-in-graphql-api-on-website-bc45e050d1d3, graphql
-- https://medium.com/@koroush.pub/10-practical-recon-vulnerability-scanners-for-bug-hunters-part-one-31460b4f642e, recon
 - https://medium.com/@vickieli/intro-to-ssrf-beb35857771f, ssrf
 - https://medium.com/@kotakbhavak/a-csrf-worth-the-wait-and-404c6b531789, csrf
 - https://medium.com/@nanwinata/rce-docker-api-but-11ff70825935, Cloud
@@ -271,7 +270,6 @@
 - https://medium.com/@mohammed01550038865/how-i-discovred-xss-via-url-encode-3-times-86ccd5354081, XSS
 - https://infosecwriteups.com/mass-assignment-leads-to-the-victims-account-being-inaccessible-forever-52e48c6a8a4d, Mass-assignment
 - https://blog.ankursundara.com/cookie-bugs/, Cookie-smuggling
-- https://ermetic.com/blog/azure/when-good-apis-go-bad-uncovering-3-azure-api-management-vulnerabilities/, SSRF
 - https://danrevah.github.io/2023/05/03/CVE-2023-25394-VideoStream-LPE/, Local-Privilege-Escalation
 - https://sumedh00.medium.com/accessing-admin-dashboard-in-5-seconds-acee737eacfb, Default-credentials
 - https://blog.onsec.io/when-youre-so-bored-you-start-debugging-someone-elses-code/, SSTI
@@ -295,7 +293,6 @@
 - https://medium.com/cyesec/no-portals-needed-79995d8f7e62, MFA-bypass
 - https://medium.com/@mmaulanaabdullah/how-careless-default-credentials-impact-to-massive-account-takeover-be6bfc85119a, Authentication-bypass
 - https://blog.ryotak.net/post/github-actions-staff-access-token-en/, CICD
-- https://www.anvilsecure.com/blog/compromising-garmins-sport-watches-a-deep-dive-into-garminos-and-its-monkeyc-virtual-machine.html, IoT
 - https://infosecwriteups.com/xs-leak-deanonymize-microsoft-skype-users-by-any-3rd-party-website-69849e4501a8, XSLeaks
 - https://medium.com/bugbountywriteup/uncovering-a-critical-vulnerability-my-journey-of-discovering-cve-2021-31589-a-reflected-xss-in-1e13c0aa41b0, Components-with-known-vulnerabilities
 - https://mogwailabs.de/en/blog/2023/04/vulnerability-spotlight-cve-2023-0264/, OpenID-Connect
@@ -334,7 +331,6 @@
 - https://vitorfalcao.com/posts/simple-bugs/password-changing-to-ato/, Account-takeover
 - https://rayhan0x01.github.io/ctf/2023/04/01/finding-rce-in-eta-cve-2022-25967.html, RCE
 - https://www.reversemode.com/2023/03/beware-of-javas-stringgetbytes.html, Hash-collision
-- https://sensepost.com/blog/2023/protected-users-you-thought-you-were-safe-uh/, Active-Directory
 - https://7h3h4ckv157.medium.com/unveiling-the-secrets-my-journey-of-hacking-googles-oss-cdd9ef3c7aa, CSRF
 - https://crypt0g30rgy.github.io/post/Journey2pII, Information-disclosure
 - https://www.mannulinux.org/2023/03/exploiting-hibernate-injection-in-order.html, HQL-injection
@@ -723,7 +719,6 @@
 - https://arben.sh/bugbounty/Blind-XXE-CVE-2019-12154/, Blind-XXE
 - https://blog.includesecurity.com/2021/06/hacking-unity-games-malicious-unity-game-objects/, Arbitrary-code-execution
 - https://www.vectra.ai/blogpost/undermining-microsoft-teams-security-by-mining-tokens, Insecure-storage-of-sensitive-information
-- https://arben.sh/research/LiveHelperChat-RCE/, RCE
 - https://hesec.de/posts/bbh-csrf/, CSRF
 - https://medium.com/@Parag_Bagul/how-i-was-able-to-bypass-philips-authentication-c3bd3e1df9ff, Outdated-component-with-a-known-vulnerability
 - https://www.legitsecurity.com/blog/bypassing-github-required-reviewers-to-submit-malicious-code, Authorization-flaw

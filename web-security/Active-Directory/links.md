@@ -1,3 +1,4 @@
 - https://blog.compass-security.com/2022/11/relaying-to-ad-certificate-services-over-rpc/
 - https://www.trustedsec.com/blog/azure-ad-kerberos-tickets-pivoting-to-the-cloud/
 - https://www.trustedsec.com/blog/diving-into-pre-created-computer-accounts/
+- https://sensepost.com/blog/2023/protected-users-you-thought-you-were-safe-uh/
