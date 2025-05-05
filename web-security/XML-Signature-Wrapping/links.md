@@ -1,0 +1,1 @@
+- https://char49.com/articles/topdesk-vulnerable-to-xml-signature-wrapping-attacks

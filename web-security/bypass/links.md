@@ -7,3 +7,4 @@
 - https://medium.com/@kenkousen/bypassing-the-chain-of-command-d6438d6b4db2
 - https://medium.com/@gtm0x01/two-factor-authentication-bypass-on-facebook-3f4ac3ea139c
 - https://medium.com/@thanhdatt/bypass-authentication-1bfab09332fe
+- https://medium.com/@86karthikkarthik/email-verification-bypass-d07b2db8dc4
