@@ -2,3 +2,4 @@
 - https://www.klogixsecurity.com/scorpion-labs-blog/anatomy-of-an-iot-exploit-from-hands-on-to-rce
 - https://claroty.com/team82/research/triple-threat-breaking-teltonika-routers-three-ways
 - https://www.anvilsecure.com/blog/compromising-garmins-sport-watches-a-deep-dive-into-garminos-and-its-monkeyc-virtual-machine.html
+- https://claroty.com/team82/research/the-silent-spy-among-us-modern-attacks-against-smart-intercoms

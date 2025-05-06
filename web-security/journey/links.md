@@ -11,3 +11,4 @@
 - https://medium.com/@niraj1mahajan/a-hackers-tale-finding-10x-cves-in-wordpress-plugins-30f86bacf2c8
 - https://medium.com/@aob-89072/story-of-my-bugs-on-a-private-program-privilege-escalation-xss-sqli-idors-a5be4c6acbbd
 - https://medium.com/@vineet08/story-of-a-reserved-cve-2022-23361-2c81d836c6fe
+- https://medium.com/@csal/dont-scan-my-website-i-exploiting-an-old-version-of-wappalyzer-14c001279434

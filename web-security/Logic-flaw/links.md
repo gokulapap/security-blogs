@@ -130,3 +130,4 @@
 - https://medium.com/@ashokcpg/weird-behavior-of-facebook-page-faq-leading-to-bounty-from-facebook-b4984e623b38
 - https://baibhavjha.com.np/blogs/hidingfromcustomlistfblite/
 - https://s1gnalcha0s.github.io/logic/2020/02/17/Google-Fiber.html
+- https://medium.com/@sudipshah_66336/disclosing-facebook-page-admins-by-playing-a-game-2b0f4ed082e4

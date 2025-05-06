@@ -26,3 +26,4 @@
 - https://medium.com/@__mr_beast__/the-accidental-rce-7ceef9cee179
 - https://karol-mazurek95.medium.com/not-usual-csp-bypass-case-b538263e09d6
 - https://www.synopsys.com/blogs/software-security/a-deep-dive-on-pluck-cms-vulnerability-cve-2023-25828/
+- https://medium.com/@shayboy123/how-i-gain-unrestricted-file-upload-remote-code-execution-bug-bounty-381d0aab0dad
