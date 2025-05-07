@@ -3,3 +3,4 @@
 - https://crypt0g30rgy.github.io/post/AuthBypass
 - https://abss.me/posts/fcm-takeover/
 - https://secureitmania.medium.com/lets-know-how-i-have-explored-the-buried-secrets-in-xamarin-application-d6b8c5609c87
+- https://saligrama.io/blog/post/firebase-insecure-by-default/

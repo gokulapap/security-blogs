@@ -76,3 +76,4 @@
 - https://research.securitum.com/how-private-cache-can-lead-to-mass-account-takeover-pentest-case/
 - https://cryptograph3r.blogspot.com/2022/03/how-token-misconfiguration-can-lead-to.html
 - https://web.archive.org/web/20211020083928/https://medium.com/@rahulnaidu_92192/unauthorized-access-to-all-the-users-account-c087511fe42a
+- https://medium.com/@seaman00o/account-takeover-through-password-reset-82adc0c19248

@@ -23,3 +23,4 @@
 - https://cyberlix.io/breaking-parser-logic-gain-access-to-nginx-plus-api-read-write-upstreams/
 - https://medium.com/@erik.wynter/pwning-manageengine-from-poc-to-exploit-cfe5adb8c175
 - http://codegrazer.com/blog/rsftp-to-command-injection.html
+- https://blog.hawkeyesecurity.com/2018/08/27/traversing-the-path-to-rce/

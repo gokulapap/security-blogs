@@ -590,7 +590,6 @@
 - https://www.zerodayinitiative.com/blog/2022/11/14/control-your-types-or-get-pwned-remote-code-execution-in-exchange-powershell-backend, RCE
 - https://www.oxeye.io/blog/remote-code-execution-in-spotifys-backstage, RCE
 - https://blog.sonarsource.com/checkmk-rce-chain-1/, RCE
-- https://saligrama.io/blog/post/firebase-insecure-by-default/, Hardcoded-API-keys
 - https://theevilbit.github.io/posts/cve-2022-32929/, Local-Privilege-Escalation
 - https://sec-consult.com/vulnerability-lab/advisory/path-traversal-vulnerability-in-payara-platform/, Path-traversal
 - https://medium.com/@jodyritonga/how-i-get-100-in-just-10-minutes-b018b28645ce, Race-condition
@@ -988,7 +987,6 @@
 - https://wahaz.medium.com/broken-authentication-and-idor-at-redacted-646de8d508e6, IDOR
 - https://naveenroy008.medium.com/broken-session-control-leads-to-access-private-videos-using-the-shared-link-even-after-revoking-the-84e31ac16fe4, Broken-Access-Control
 - https://breakpoint.sh/posts/files.app-symbolic-link-following, iOS
-- https://debprasadbanerjee502.medium.com/adobe-bug-bounty-using-idor-confidential-data-leaks-f6c55e5143d0, IDOR
 - https://mearegtu.medium.com/insecure-direct-object-reference-exposes-all-users-of-microsoft-azure-independent-software-vendors-bed3b45e509, IDOR
 - https://medium.com/@interc3pt3r/for-the-first-bounty-it-takes-a-few-challenging-months-but-only-a-few-days-for-the-second-7b53259b0199, Old-components-with-known-vulnerabilities
 - https://shahjerry33.medium.com/parameter-pollution-zero-day-3feb86ee8a02, HTTP-parameter-pollution
@@ -1533,7 +1531,6 @@
 - http://www.firstsight.me/2020/11/optimizing-hunting-results-in-vdp-for-use-in-bug-bounty-programs-from-sensitive-information-disclosure-to-accessing-hidden-apis-which-can-be-used-to-retrieve-customer-data/, Information-disclosure
 - https://www.pethuraj.com/blog/microsoft-bug-bounty-writeup-stored-xss-vulnerability/, Stored-XSS
 - https://rafi-ahamed.medium.com/exploiting-api-with-authtoken-3bea7b1fb6a9, Token-leak
-- https://medium.com/@seaman00o/account-takeover-through-password-reset-82adc0c19248, Account-takeover
 - https://medium.com/@prakashpanta1999/replying-comments-on-someones-livestream-from-page-is-posted-as-personal-identity-5fe79ef78b28, Logic-flaw
 - https://www.rcesecurity.com/2020/11/Smuggling-an-un-exploitable-xss/, HTTP-Request-Smuggling
 - https://medium.com/@guhanraja/how-i-found-the-facebook-messenger-leaking-access-token-of-million-users-8ee4b3f1e5e3, Information-disclosure
@@ -2249,7 +2246,6 @@
 - https://web.archive.org/web/20200929004149/https://www.mohamedharon.com/2018/08/wordpressXSS.html, Flash-XSS
 - https://medium.com/@D0rkerDevil/how-i-found-a-1500-worth-deserialization-vulnerability-9ce753416e0a, Misconfigured-JSF-ViewState
 - https://medium.com/@UpdateLap/idor-facebook-malicious-person-add-people-to-the-top-fans-4f1887aad85a, IDOR
-- https://blog.hawkeyesecurity.com/2018/08/27/traversing-the-path-to-rce/, Path-traversal
 - https://medium.com/@nandwanajatin25/my-first-valid-xss-hackerone-f8ba0a7c647, XSS
 - https://blog.scrt.ch/2018/08/24/remote-code-execution-on-a-facebook-server/, RCE
 - https://web.archive.org/web/20200829220607/https://medium.com/@adeshkolte/sql-injection-vulnerability-in-university-of-cambridge-b4c8d0381e1, SQL-injection
@@ -2442,7 +2438,6 @@
 - https://www.seekurity.com/blog/general/business-logic-vulnerabilities-series-how-i-became-invisible-and-immune-to-blocking-on-instagram/, Logic-flaw
 - https://medium.com/@arbazhussain/referer-based-xss-52aeff7b09e7, XSS
 - https://labs.detectify.com/2017/07/27/how-we-invented-the-tesla-dom-doom-xss/, DOM-XSS
-- https://medium.com/@zahidali_93675/disabling-new-emails-from-facebook-without-email-owner-interaction-11c979778a68, Logic-flaw
 - https://medium.com/@arbazhussain/stored-xss-on-rockstar-game-c008ec18d071, XSS
 - https://medium.com/@arbazhussain/exploiting-misconfigured-cors-on-popular-btc-site-2aedfff906f6, CORS-misconfiguration
 - https://medium.com/@arbazhussain/idor-while-connecting-social-account-in-hackster-io-2296b316b7a7, IDOR
