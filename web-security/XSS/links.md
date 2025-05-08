@@ -218,3 +218,4 @@
 - https://medium.com/@soufianehabti/my-story-with-xss-ed017bdc44c4
 - https://www.amolbaikar.com/xss-on-facebooks-acquisition-oculus-cdn-server/
 - https://github.com/justinsteven/advisories/blob/master/2021_vscode_ipynb_xss_arbitrary_file_read.md
+- Youghourta Ghannei (@YoughartaG)

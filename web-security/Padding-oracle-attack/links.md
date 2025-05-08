@@ -1,1 +1,2 @@
 - https://hoyahaxa.blogspot.com/2023/07/on-coldfusion-aes-and-padding-oracle.html
+- https://blog.teddykatz.com/2019/11/23/json-padding-oracles.html

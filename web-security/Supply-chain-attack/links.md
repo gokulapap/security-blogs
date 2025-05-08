@@ -2,3 +2,4 @@
 - https://blog.vlt.sh/blog/the-massive-hole-in-the-npm-ecosystem
 - https://vavkamil.cz/2021/11/25/wordpress-plugin-confusion-update-can-get-you-pwned/
 - https://wwws.nightwatchcybersecurity.com/2022/02/06/insecure-bootstrap-process-in-oracle-cloud-cli/
+- https://www.legitsecurity.com/blog/artifact-poisoning-vulnerability-discovered-in-rust
