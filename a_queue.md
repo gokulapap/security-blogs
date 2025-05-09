@@ -83,7 +83,6 @@
 - https://medium.com/@thelinuxboy/bugging-out-my-experience-of-earning-300-for-reporting-an-unexpected-bug-ec9f9b0054bc, journey
 - https://medium.com/@gokulelango1040/privilege-escalation-attacks-28a9ef226abb, privilege-escalation
 - https://medium.com/@hasharmujahid/bypassing-csrf-protection-i-bc014384d0aa, csrf
-- https://medium.com/@ashrafharb997/csrf-to-full-account-takeover-5196cef9d166, csrf
 - https://medium.com/@friendly_/reflective-xss-via-search-box-bypassing-cloudflare-waf-841ed420b7f, XSS
 - https://medium.com/@pawanchhabria/how-i-escalated-default-credentials-to-remote-code-execution-1c34504be7a5, RCE
 - https://medium.com/@sushantdhopat/how-i-able-to-steal-lot-of-user-sensitive-information-pii-throw-idor-insecure-direct-object-e41e08e88a06, info-disclosure
@@ -115,7 +114,6 @@
 - https://medium.com/@evilox/testing-and-bypassing-technique-for-idor-9ee03f28f4e1, IDOR
 - https://medium.com/@sudarshan-s/sql-injection-important-things-you-need-to-know-right-now-b173cdea0610, sql-injection
 - https://medium.com/@uttamgupta_/what-after-recon-bbaf43dbcb68, recon
-- https://medium.com/@jaadugar/sensitive-data-exposure-my-first-bug-in-h1-d4006a08d38f, info-disclosure
 - https://medium.com/@caesarevan23/the-journey-to-get-sql-injection-at-bluepay-blue-indonesia-bluepay-2019-7a23bbce4cb8, journey
 - https://medium.com/@vflexo/full-account-takeover-via-open-redirection-41c167db46, ATO
 - https://medium.com/@huang-h-kevin/from-retargeting-to-rce-my-journey-from-advertising-to-cybersecurity-4c6149a25c58, journey
@@ -968,7 +966,6 @@
 - https://omespino.com/write-up-finapi-open-banking-api-oauth-credentials-exposed-in-plain-text-in-android-app/, Hardcoded-credentials
 - https://medium.com/@terminatorLM/small-bugs-are-more-dangerous-than-you-think-9411618191ab, Self-XSS
 - https://shenkaiwen.com/publication/2022-dkim/, Email-spoofing
-- https://abdilahrf.github.io/bugbounty/got-access-to-dota-2-admin-panel-by-exploiting-in-game-feature, XSS
 - https://blog.relyze.com/2022/03/cve-2022-27643-netgear-r6700v3-upnpd.html, Memory-corruption
 - https://scribesecurity.com/blog/github-cache-poisoning, Cache-poisoning-attack
 - https://janmuhammadzaidi.medium.com/how-i-bypassed-403-forbidden-domain-using-a-simple-trick-c2d538de04b8, 403-bypass
@@ -2270,7 +2267,6 @@
 - https://www.updatelap.com/2018/07/the-malicious-person-add-people-to-top.html, IDOR
 - https://medium.com/@prial261/unclaimed-medium-publication-takeover-in-wetransfer-c268cdb51e2f, Medium-publication-takeover
 - https://opnsec.com/2018/07/into-the-borg-ssrf-inside-google-production-network/, SSRF
-- https://pulsesecurity.co.nz/advisories/WebLogic-SAML-Vulnerabilities, SAML
 - https://medium.com/devanshwolf/hey-developer-give-me-your-api-keys-b8c99ab1c4f5, Information-disclosure
 - https://medium.com/@khaled.hassan/hacking-thousands-of-companies-through-their-helpdesk-8f180a8595ef, Account-takeover
 - https://www.ambionics.io/blog/prestashop-privilege-escalation, Privilege-escalation
@@ -2527,7 +2523,6 @@
 - https://www.rcesecurity.com/2014/11/google-bug-bounty-nice-catch-on-google-cloud-platform-live, Reflected-XSS
 - https://blog.it-securityguard.com/bugbounty-reflected-cross-site-scripting-billmelater/, Reflected-XSS
 - https://blog.it-securityguard.com/bugbounty-paypal-stored-xss-security-bypass/, Stored-XSS
-- https://blog.it-securityguard.com/bugbounty-the-5000-google-xss, XSS
 - https://josipfranjkovic.blogspot.com/2014/09/step-by-step-exploiting-sql-injection.html, SQL-injection
 - https://ahussam.me/Flickr-CSRF/, XSRF
 - https://blog.it-securityguard.com/bug-bounty-prezi-map-prezi-com-path-traversal/, Path-traversal

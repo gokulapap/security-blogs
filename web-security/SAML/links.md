@@ -1,1 +1,2 @@
 - https://blog.viettelcybersecurity.com/saml-show-stopper/
+- https://pulsesecurity.co.nz/advisories/WebLogic-SAML-Vulnerabilities

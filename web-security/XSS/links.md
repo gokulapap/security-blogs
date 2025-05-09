@@ -219,3 +219,5 @@
 - https://www.amolbaikar.com/xss-on-facebooks-acquisition-oculus-cdn-server/
 - https://github.com/justinsteven/advisories/blob/master/2021_vscode_ipynb_xss_arbitrary_file_read.md
 - Youghourta Ghannei (@YoughartaG)
+- https://blog.it-securityguard.com/bugbounty-the-5000-google-xss
+- https://abdilahrf.github.io/bugbounty/got-access-to-dota-2-admin-panel-by-exploiting-in-game-feature
