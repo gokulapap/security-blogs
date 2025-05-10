@@ -224,7 +224,6 @@
 - https://medium.com/@malekmahmed55/turning-a-50-tab-nabbing-vulnerability-into-a-1000-account-takeover-9c3f32cb2d84, Reverse-tabnabbing
 - https://ssd-disclosure.com/ssd-advisory-roundcube-markasjunk-rce/, RCE
 - https://infosecwriteups.com/send-email-from-anyone-to-any-user-outlook-microsoft-69fce333066d, Open-mail-relay
-- https://medium.com/@chenshiri/aws-chain-attack-thousands-of-vulnerable-eks-clusters-701cbd963907, AWS-Kubernetes
 - https://0day.click/recipe/pash/, RCE
 - https://www.zerodayinitiative.com/blog/2023/5/31/cve-2023-24941-microsoft-network-file-system-remote-code-execution, RCE
 - https://research.nccgroup.com/2023/05/31/reverse-engineering-coin-hunt-worlds-binary-protocol/, Reverse-engineering
@@ -881,7 +880,6 @@
 - https://infosecwriteups.com/how-i-found-a-critical-bug-in-instagram-and-got-49500-bounty-from-facebook-626ff2c6a853, IDOR
 - https://www.shielder.com/advisories/autodesk-fusion-import-svg-blind-xxe/, XXE
 - https://jfrog.com/blog/denial-of-service-vulnerability-in-envoy-proxy-cve-2022-29225/, Zip-bomb
-- https://www.cyberark.com/resources/threat-research-blog/extracting-clear-text-credentials-directly-from-chromium-s-memory, Browser-hacking
 - https://www.r29k.com/articles/bb/account-takeover-via-idors, IDOR
 - https://security.humanativaspa.it/multiple-vulnerabilities-in-zyxel-zysh/, OS-command-injection
 - https://machevalia.blog/blog/ivanti-epm-remote-code-execution, RCE
@@ -1953,7 +1951,6 @@
 - https://medium.com/@aayushpokhrel/how-i-made-my-first-from-finding-a-bug-in-facebook-da3b11e550f0, Authorization-flaw
 - https://medium.com/@iframe_h1/how-i-upgraded-my-privileges-to-the-administrator-of-odnoklassnikis-url-shortener-2c58f996d02c, Privilege-escalation
 - https://medium.com/@ar_arvind/facebook-bug-bounty-reading-whatsapp-contacts-list-without-unlocking-the-device-a40e9c660a42, Authorization-flaw
-- https://aaronesau.com/blog/posts/5, Information-disclosure
 - https://philippeharewood.com/add-users-to-roles-on-facebook-pages-without-an-invitation-consent-revisited/, Logic-flaw
 - https://ninadmathpati.com/how-i-was-able-to-earn-1000-with-just-10-minutes-of-bug-bounty/, Password-reset
 - https://medium.com/@rohitcoder/bypassing-fix-of-domain-blocking-feature-in-business-manager-41949a18460c, Authorization-flaw
@@ -2101,7 +2098,6 @@
 - https://ysamm.com/?p=185, CSRF
 - https://www.linkedin.com/pulse/hacking-youtube-fun-profit-alexandru-coltuneac/, IDOR
 - https://ysamm.com/?p=214, Authorization-flaw
-- https://medium.com/@pig.wig45/setting-up-gitrob-and-using-it-to-find-leaking-repository-of-an-employee-in-a-hackerone-private-e4c40da1bc85, Information-disclosure
 - https://ysamm.com/?p=158, Information-disclosure
 - https://ysamm.com/?p=171, IDOR
 - https://medium.freecodecamp.org/cache-deception-how-i-discovered-a-vulnerability-in-medium-and-helped-them-fix-it-31cec2a3938b, Web-cache-deception
@@ -2477,7 +2473,6 @@
 - https://portswigger.net/research/backslash-powered-scanning-hunting-unknown-vulnerability-classes, misc
 - https://ahussam.me/leak-private-videos-vimeo/, Logic-flaw
 - https://foxglovesecurity.com/2016/10/14/hacking-jasperreports-the-hidden-shell-feature/, RCE
-- https://blog.mert.ninja/twitter-hpp-vulnerability/, HTTP-parameter-pollution
 - https://www.betterhacker.com/2016/10/command-injection-without-spaces.html, OS-command-injection
 - https://blog.zsec.uk/gif-time-pornhub/, XSS
 - https://blog.evanricafort.com/2016/09/xss-vulnerability-in-twitter.html, XSS

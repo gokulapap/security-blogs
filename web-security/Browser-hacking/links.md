@@ -14,3 +14,4 @@
 - https://feed.bugs.xdavidhu.me/bugs/0007
 - https://microsoftedge.github.io/edgevr/posts/a-story-of-a-bug-found-fuzzing/
 - https://github.com/Puliczek/CVE-2022-0337-PoC-Google-Chrome-Microsoft-Edge-Opera
+- https://www.cyberark.com/resources/threat-research-blog/extracting-clear-text-credentials-directly-from-chromium-s-memory

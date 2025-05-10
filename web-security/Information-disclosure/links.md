@@ -200,3 +200,5 @@
 - https://0xsha.io/posts/exploiting-magic-links-critical-bugs-are-one-line-away
 - https://mr23r0.medium.com/the-database-handover-a-dumb-mistake-critical-bug-f73c99e72e40
 - https://medium.com/@mares.viktor/critical-vulnerability-through-osint-only-56e56eb97516
+- https://medium.com/@pig.wig45/setting-up-gitrob-and-using-it-to-find-leaking-repository-of-an-employee-in-a-hackerone-private-e4c40da1bc85
+- https://aaronesau.com/blog/posts/5
