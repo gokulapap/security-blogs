@@ -221,3 +221,4 @@
 - Youghourta Ghannei (@YoughartaG)
 - https://blog.it-securityguard.com/bugbounty-the-5000-google-xss
 - https://abdilahrf.github.io/bugbounty/got-access-to-dota-2-admin-panel-by-exploiting-in-game-feature
+- https://echopwn.com/local-file-read-via-xss-using-pdf-generate-functionality/

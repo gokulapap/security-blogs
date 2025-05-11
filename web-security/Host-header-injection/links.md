@@ -6,3 +6,4 @@
 - https://www.synacktiv.com/publications/cve-2022-31813-forwarding-addresses-is-hard.html
 - https://medium.com/@sechunter/ato-via-host-header-poisoning-dc5c29d2fd0d
 - https://medium.com/nassec-cybersecurity-writeups/how-i-was-able-to-take-over-any-users-account-with-host-header-injection-546fff6d0f2
+- https://blog.evanricafort.com/2021/02/hijacking-reset-password-link-in.html

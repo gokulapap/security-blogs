@@ -209,3 +209,5 @@
 - https://parsiya.net/blog/2021-12-20-rce-in-visual-studio-codes-remote-wsl-for-fun-and-negative-profit/
 - https://lf.lc/vrp/175896812/
 - https://arben.sh/research/LiveHelperChat-RCE/
+- https://medium.com/@sampanna/rce-in-nokia-com-59b308e4e882
+- https://blog.electrovolt.io/posts/element-rce/

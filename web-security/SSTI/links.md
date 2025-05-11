@@ -11,3 +11,4 @@
 - https://cyc10n3.medium.com/rce-via-server-side-template-injection-ad46f8e0c2ae
 - https://medium.com/@jazdprince/doing-it-the-researchers-way-how-i-managed-to-get-ssti-server-side-template-injection-which-66b239ca0104
 - https://mahmoudsec.blogspot.com/2019/04/handlebars-template-injection-and-rce.html
+- https://skylightcyber.com/2023/02/09/a-salt-attacking-saltstack/
