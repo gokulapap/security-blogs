@@ -14,3 +14,4 @@
 - https://medium.com/ctf-writeups/breaking-the-competition-bug-bounty-write-up-ca7cb7bc53f5
 - https://medium.com/@EX_097/my-first-bug-in-bugcrowd-76decc1f9901
 - https://security.googleblog.com/2021/12/exploring-container-security-storage.html
+- https://medium.com/bugbountywriteup/race-condition-that-could-result-to-rce-a-story-with-an-app-that-temporary-stored-an-uploaded-9a4065368ba3

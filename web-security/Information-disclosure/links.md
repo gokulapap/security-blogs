@@ -202,3 +202,4 @@
 - https://medium.com/@mares.viktor/critical-vulnerability-through-osint-only-56e56eb97516
 - https://medium.com/@pig.wig45/setting-up-gitrob-and-using-it-to-find-leaking-repository-of-an-employee-in-a-hackerone-private-e4c40da1bc85
 - https://aaronesau.com/blog/posts/5
+- https://medium.com/@jonathanbouman/leaked-salesforce-api-access-token-at-ikea-com-132eea3844e0
