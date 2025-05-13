@@ -1,1 +1,2 @@
 - https://karmainsecurity.com/exploiting-an-nday-vbulletin-php-object-injection
+- http://karmainsecurity.com/tales-of-sugarcrm-security-horrors

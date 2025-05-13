@@ -1,3 +1,4 @@
 - https://dirkjanm.io/obtaining-domain-admin-from-azure-ad-via-cloud-kerberos-trust/
 - https://www.secureworks.com/research/azure-active-directory-flaw-allowed-saml-persistence
 - https://posts.specterops.io/id-tap-that-pass-8f79fff839ac
+- https://molx32.github.io/blog/2023/Azure-access-panel-lack-of-access-control/
