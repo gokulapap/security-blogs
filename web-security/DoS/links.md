@@ -42,3 +42,4 @@
 - https://medium.com/@ashikbhaskar94/denial-of-service-dos-by-regex-205536c8dcd0
 - https://medium.com/@harshbanshpal/how-i-was-able-to-down-a-service-of-microsoft-denial-of-service-dos-attack-on-microsoft-ec9d599ab3f8
 - https://techkranti.com/how-i-reported-a-dos-vulnerability-to-aws/
+- https://jfrog.com/blog/cve-2022-30522-denial-of-service-dos-vulnerability-in-apache-httpd-mod_sed-filter/

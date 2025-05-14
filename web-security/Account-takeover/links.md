@@ -78,3 +78,4 @@
 - https://web.archive.org/web/20211020083928/https://medium.com/@rahulnaidu_92192/unauthorized-access-to-all-the-users-account-c087511fe42a
 - https://medium.com/@seaman00o/account-takeover-through-password-reset-82adc0c19248
 - https://medium.com/techiepedia/password-reset-to-admin-access-3b2a649bdc3
+- https://medium.com/@kashyapherry147/500-account-takeover-b008f1ccb4a2

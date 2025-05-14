@@ -466,7 +466,6 @@
 - https://www.zerodayinitiative.com/blog/2023/1/18/cve-2022-35690-unauthenticated-rce-in-adobe-coldfusion, RCE
 - https://shahjerry33.medium.com/api-misconfiguration-no-swag-of-swaggerui-9b43135346be, Security-misconfiguration
 - https://medium.com/@Parag_Bagul/how-i-identified-and-reported-vulnerabilities-in-oracle-and-the-rewards-of-responsible-43ee5fea457f, Information-disclosure
-- https://www.synacktiv.com/sites/default/files/2023-01/sudo-CVE-2023-22809.pdf, Local-Privilege-Escalation
 - https://x41-dsec.de/security/research/news/2023/01/17/git-security-audit-ostif/, Memory-corruption
 - https://semgrep.dev/blog/2022/xml-security-in-java, XXE
 - https://www.dsecbypass.com/en/centreon-map-vulnerability/, Authentication-bypass
@@ -843,7 +842,6 @@
 - https://blog.sonarsource.com/zimbra-pre-auth-rce-via-unrar-0day/, Path-traversal
 - https://unit42.paloaltonetworks.com/fabricscape-cve-2022-30137/, Container-escape
 - https://www.rapid7.com/blog/post/2022/06/28/cve-2021-3779-ruby-mysql-gem-client-file-read-fixed/, Client-File-Read
-- https://jfrog.com/blog/cve-2022-30522-denial-of-service-dos-vulnerability-in-apache-httpd-mod_sed-filter/, DoS
 - https://curl.se/docs/CVE-2022-32207.html, Improper-Preservation-of-Permissions
 - https://curl.se/docs/CVE-2022-32205.html, DoS
 - https://blog.assetnote.io/2022/06/26/exploiting-ssrf-in-jira/, SSRF
@@ -868,7 +866,6 @@
 - https://medium.com/@damaidec/403-bypass-on-a-fortune-100-financial-institution-p3-156d33bc6ed, Information-disclosure
 - https://github.com/andyperlitch/jsbn/issues/43, Cryptographic-issues
 - https://portswigger.net/research/bypassing-csp-with-dangling-iframes, CSP-bypass
-- https://medium.com/@kashyapherry147/500-account-takeover-b008f1ccb4a2, Account-takeover
 - https://medium.com/@janijay007/how-i-was-able-to-see-likes-and-dislikes-count-which-is-hidden-by-victim-youtube-1-fa9cfe7cce7d, Logic-flaw
 - https://medium.com/tenable-techblog/microsoft-azure-synapse-pwnalytics-87c99c036291, Privilege-escalation
 - https://www.randorisec.fr/yet-another-bug-netfilter/, Memory-corruption
@@ -1100,7 +1097,6 @@
 - https://sh1yo.art/post/sec-596/, Reflected-XSS
 - https://medium.com/@thenighthawk0/how-i-got-my-first-bounty-on-financial-sector-gateway-site-by-using-previous-graphql-462cca7389ca, Information-disclosure
 - https://securifyinc.com/disclosures/rocketchat-monitor-messages, Authorization-flaw
-- https://wahaz.medium.com/unauthenticated-sensitive-information-disclosure-at-redacted-2702224098c, Old-components-with-known-vulnerabilities
 - https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/modsecurity-dos-vulnerability-in-json-parsing-cve-2021-42717/, DoS
 - https://zseano.medium.com/finding-xss-on-apple-com-and-building-a-proof-of-concept-to-leak-your-pii-information-d7bc93cff2df, XSS
 - https://r0.haxors.org/posts?id=26, SQL-injection
@@ -2325,7 +2321,6 @@
 - https://infosecwriteups.com/how-i-hacked-into-a-bugcrowd-public-program-fcfdd4fb1b69, RCE
 - https://medium.com/bugbountywriteup/bugbounty-api-keys-leakage-source-code-disclosure-in-indias-largest-e-commerce-health-care-c75967392c7e, Path-traversal
 - https://medium.com/bugbountywriteup/bugbounty-exploiting-crlf-injection-can-lands-into-a-nice-bounty-159525a9cb62, CRLF-injection
-- https://medium.com/bugbountywriteup/how-i-was-able-to-remotely-crash-any-android-users-instagram-app-and-was-paid-a-mere-500-for-it-d4420721290e, Android
 - https://medium.com/bugbountywriteup/bugbounty-how-i-was-able-to-shop-for-free-payment-price-manipulation-b29355a8e68e, Parameter-tampering
 - https://medium.com/@mrityunjoy/stored-xss-on-snapchat-5d704131d8fd, Stored-XSS
 - https://medium.freecodecamp.org/responsible-disclosure-how-i-could-have-hacked-all-facebook-accounts-f47c0252ae4d, Bruteforce

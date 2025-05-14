@@ -12,3 +12,4 @@
 - https://www.trendmicro.com/en_us/research/21/b/shareit-flaw-could-lead-to-remote-code-execution.html
 - https://blog.thalium.re/posts/leveraging-android-permissions/
 - https://www.usenix.org/conference/usenixsecurity22/presentation/zhang-lei
+- https://medium.com/bugbountywriteup/how-i-was-able-to-remotely-crash-any-android-users-instagram-app-and-was-paid-a-mere-500-for-it-d4420721290e

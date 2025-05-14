@@ -67,3 +67,4 @@
 - https://deepsurface.com/deepsurface-security-advisory-lpe-in-firefox-on-windows/
 - https://www.semperis.com/blog/new-attack-paths-as-requested-sts/
 - https://www.archcloudlabs.com/projects/disabling-clamav-as-unprivileged-user/
+- https://www.synacktiv.com/sites/default/files/2023-01/sudo-CVE-2023-22809.pdf

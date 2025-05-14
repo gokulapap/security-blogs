@@ -1,2 +1,3 @@
 - https://faun.pub/in-cloud-we-trust-wrong-kubernetes-implementation-by-google-cloud-platform-microsoft-azure-a60f50ba943f
 - https://medium.com/@mahitman1/how-i-found-a-goldmine-but-got-no-gold-e912a89fa522
+- https://wahaz.medium.com/unauthenticated-sensitive-information-disclosure-at-redacted-2702224098c
