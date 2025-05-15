@@ -43,3 +43,4 @@
 - https://medium.com/@harshbanshpal/how-i-was-able-to-down-a-service-of-microsoft-denial-of-service-dos-attack-on-microsoft-ec9d599ab3f8
 - https://techkranti.com/how-i-reported-a-dos-vulnerability-to-aws/
 - https://jfrog.com/blog/cve-2022-30522-denial-of-service-dos-vulnerability-in-apache-httpd-mod_sed-filter/
+- https://blog.teddykatz.com/2019/11/12/github-actions-dos.html

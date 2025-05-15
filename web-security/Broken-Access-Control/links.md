@@ -19,3 +19,4 @@
 - https://blog.tyage.net/posts/2021-04-02-improper-access-control-github-workflow/
 - https://abdelhameedghazy.medium.com/broken-access-control-leads-to-full-team-takeover-and-privilege-escalation-6f50174f29ce
 - https://medium.com/@thelinuxboy/30-minute-heist-how-i-bagged-a-1500-bounty-in-just-few-minutes-48753eb2028e
+- https://blog.teddykatz.com/2021/03/10/fork-collab-abuse.html
