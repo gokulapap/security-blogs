@@ -40,7 +40,6 @@
 - https://medium.com/@ananyaghosh1120/beginners-guide-to-automated-scanners-8ec880446421, automation
 - https://medium.com/@hunter-55/how-i-was-able-to-bypass-open-redirect-3-times-on-same-program-d78f9d2443f6, open-redirection
 - https://medium.com/@ibm_ptc_security/exploiting-missing-hsts-54f8e23ed80b, misc
-- https://medium.com/@manavbankatwala29/unique-rate-limit-bypass-worth-1800-6e2947c7d972, bypass
 - https://medium.com/@ssalssa.1.12.2.1.2.1/hacking-wordpress-server-database-f6cc6c116057, cms
 - https://medium.com/@harishhacker3010/how-i-hacked-google-to-read-files-from-their-servers-for-free-e0486a674912, journey
 - https://medium.com/@s3c/how-i-hacked-world-wide-tiktok-users-24e794d310d2, journey
@@ -123,7 +122,6 @@
 - https://medium.com/@Rend_/sqli-next-level-5b1145b83c79, sql-injection
 - https://medium.com/@sghosh2402/demystifying-insecure-deserialization-in-php-684cab9c4d24, deserialization
 - https://medium.com/@v3d/full-account-takeover-via-password-reset-flaw-my-first-blog-10d6e11df2e0, reset-password
-- https://medium.com/@aswinchandran274/crlfsuite-crlf-injection-scanner-54a29f7ff86a, crlf
 - https://medium.com/@shubhangivashist/how-to-exploit-directory-traversal-vulnerabilities-176eeb7f2655, directory-traversal
 - https://medium.com/@whitedevil4276/otp-bypass-through-burpsuite-in-maruti-nexa-test-drive-e9d82db656b8, bypass
 - https://medium.com/@haythamkarouata/bug-bounty-hunting-101-js-files-diving-4b1753fefb3d, source-code-review
@@ -501,7 +499,6 @@
 - https://mtechghost.medium.com/stored-xss-vulnerability-in-microsoft-booking-e593de3344e0, Stored-XSS
 - https://downrightnifty.me/blog/2022/12/26/hacking-google-home.html, IoT
 - https://cems.fun/2022/12/26/CVE-2017-8758.html, XSS
-- https://sharanthehunter.medium.com/authentication-bypass-in-nexus-manager-version-3-37-3-02-712f0bdb2fb4, Components-with-known-vulnerabilities
 - https://medium.com/@tobydavenn/bypassing-ssrf-protections-45e5e3ac31e9, SSRF
 - https://infosecwriteups.com/bypass-apples-redirection-process-with-the-dot-character-c47d40537202, Open-redirect
 - https://github.com/PabloMK7/ENLBufferPwn, Buffer-Overflow
@@ -1376,7 +1373,6 @@
 - https://www.thezdi.com/blog/2021/3/17/cve-2021-27076-a-replay-style-deserialization-attack-against-sharepoint, Insecure-deserialization
 - https://secureitmania.medium.com/an-unknown-linux-secret-that-turned-ssrf-to-os-command-injection-6fe2f4edc202, SSRF
 - https://mayank-01.medium.com/an-interesting-account-takeover-3a33f42d609d, IDOR
-- https://www.pantaprakash.com.np/posts/categories/bugbounty-writeup/5.html, Information-disclosure
 - https://spongebhav.medium.com/facebook-group-members-disclosure-e53eb83df39e, Information-disclosure
 - https://rahulvarale.medium.com/idor-vulenebility-with-empty-response-still-exposing-sensitive-details-of-customers-bdce0a6a1b07, IDOR
 - https://ashutoshmishra00x0.medium.com/account-takeover-via-reset-password-worth-2000-de085851d81d, Password-reset
@@ -2464,7 +2460,6 @@
 - https://www.seekurity.com/blog/general/bmw-vulnerabilities-hijack-cars-connecteddrive-service/, Clickjacking
 - http://www.kernelpicnic.net/2016/07/24/Microsoft-signout.live.com-Remote-Code-Execution-Write-Up.html, RCE
 - https://avicoder.me/2016/07/22/Twitter-Vine-Source-code-dump/, Source-code-disclosure
-- https://www.josipfranjkovic.com/blog/hacking-facebook-csrf-device-login-flow, CSRF
 - https://www.josipfranjkovic.com/blog/race-conditions-on-web, Race-condition
 - https://medium.com/bugbountywriteup/two-vulnerabilities-makes-an-exploit-xss-and-csrf-in-bing-cd4269da7b69, XSS
 - https://www.seekurity.com/blog/general/runkeeper-stores-xss-vulnerability/, Stored-XSS

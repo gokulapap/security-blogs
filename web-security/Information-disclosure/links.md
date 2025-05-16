@@ -205,3 +205,4 @@
 - https://medium.com/@jonathanbouman/leaked-salesforce-api-access-token-at-ikea-com-132eea3844e0
 - https://ysamm.com/?p=638
 - https://notmyplate.com/whitepaper/
+- https://www.pantaprakash.com.np/posts/categories/bugbounty-writeup/5.html

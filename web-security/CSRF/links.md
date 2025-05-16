@@ -81,3 +81,4 @@
 - https://web.archive.org/web/20210227092343/https://tommysuriel.medium.com/csrf-through-url-with-tag-parameter-c8ef585bded3
 - https://whitton.io/articles/messenger-site-wide-csrf/
 - https://blog.ripstech.com/2019/wordpress-csrf-to-rce/
+- https://www.josipfranjkovic.com/blog/hacking-facebook-csrf-device-login-flow
