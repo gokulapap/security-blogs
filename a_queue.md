@@ -777,7 +777,6 @@
 - https://ruia-ruia.github.io/2022/08/05/CVE-2022-29582-io-uring/, Memory-corruption
 - https://infosecwriteups.com/how-i-was-able-to-get-29-free-products-bug-bounty-845667ab4ad4, Race-condition
 - https://www.adico.me/post/xss-in-gmail-s-amp4email, XSS
-- https://labs.jumpsec.com/zoho-manage-engine-desktop-central-sql-injection-arbitrary-file-write/, SQL-injection
 - https://canmustdie.medium.com/multiple-bugs-in-one-program-leads-to-1500-c35fcde06bc7, Privilege-escalation
 - https://medium.com/@the_null_kid/instagram-photo-was-present-in-data-backup-nearly-after-two-years-being-deleted-f0e4d6e108, Privacy-issue
 - https://www.zscaler.com/blogs/security-research/analysis-adobe-acrobat-reader-javascript-docprint-use-after-free, Memory-corruption
@@ -1594,7 +1593,6 @@
 - https://pulsesecurity.co.nz/advisories/AWS-Bastion-Logger-Bypass, Logging-bypass
 - https://www.computest.nl/en/knowledge-platform/blog/vulnerability-new-touchid-feature-iCloud-accounts-at-risk-breached/, OAuth
 - https://maordayanofficial.medium.com/look-at-what-i-found-in-comodo-57d62af2f263, Stored-XSS
-- https://vj0shii.github.io/multi-factor-auth-bypass-with-password-reset-function/, MFA-bypass
 - https://rhynorater.github.io/CVE-2020-13379-Write-Up, SSRF
 - https://objective-see.com/blog/blog_0x4D.html, Local-Privilege-Escalation
 - https://medium.com/bugbountywriteup/bypassing-otp-via-reset-password-f004a29020c, OTP-bypass
@@ -1646,7 +1644,6 @@
 - https://fadhilthomas.github.io/post/bug-bounty-tokopedia-03/, IDOR
 - https://ysamm.com/?p=479, Information-disclosure
 - https://infosecwriteups.com/story-of-a-2-5k-bounty-ssrf-on-zimbra-led-to-dump-all-credentials-in-clear-text-6fe826005ccc, SSRF
-- https://medium.com/bugbountywriteup/s3-bucket-misconfigured-access-controls-to-critical-vulnerability-6b535e3df9a5, AWS-misconfiguration
 - https://embracethered.com/blog/posts/2020/aws-xss-cross-site-scripting-vulnerability/, DOM-XSS
 - https://0xsha.io/posts/zombievpn-breaking-that-internet-security, RCE
 - https://lutfumertceylan.com.tr/posts/stored-xss-with-password-recovery-page/, Stored-XSS
@@ -1662,7 +1659,6 @@
 - https://medium.com/bugbountywriteup/bypass-2fa-like-a-boss-378787707ba, Lack-of-rate-limiting
 - https://alaa.blog/2020/06/how-did-i-found-information-disclosure-on-facebook-writeup/, Information-disclosure
 - https://samcurry.net/hacking-starbucks/, Path-traversal
-- https://tylerbutler.io/hackerone-hinge/, Information-disclosure
 - https://blog.it-securityguard.com/how-i-made-more-than-30k-with-jolokia-cves/, Reflected-XSS
 - https://medium.com/@abireena2002/how-i-managed-to-escalate-privilege-as-admin-94b8dc910d14, Lack-of-rate-limiting
 - https://www.ehpus.com/post/smtp-injection-in-gsuite, SMTP-injection
@@ -2431,7 +2427,6 @@
 - https://emtunc.org/blog/03/2017/bypassing-safe-links-exchange-online-advanced-threat-protection/, Open-redirect
 - https://buer.haus/2017/03/08/airbnb-when-bypassing-json-encoding-xss-filter-waf-csp-and-auditor-turns-into-eight-vulnerabilities/, XSS
 - https://www.rcesecurity.com/2017/03/ok-google-give-me-all-your-internal-dns-information/, SSRF
-- https://labs.detectify.com/2017/02/28/hacking-slack-using-postmessage-and-websocket-reconnect-to-steal-your-precious-token/, postMessage
 - https://timeofcheck.com/time-based-blind-sqli-on-news-starbucks-com/, Blind-SQL-injection
 - https://medium.com/intigriti/how-i-got-your-phone-number-through-facebook-223b769cccf1, Logic-flaw
 - https://ysx.me.uk/from-rss-to-xxe-feed-parsing-on-hootsuite/, XSS

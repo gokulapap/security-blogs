@@ -3,3 +3,4 @@
 - https://web.archive.org/web/20211016075506/https://insight.claranet.co.uk/technical-blogs/hunting-postmessage-vulnerabilities
 - https://blog.geekycat.in/google-vrp-hijacking-your-screenshots/
 - https://castilho.onrender.com/
+- https://labs.detectify.com/2017/02/28/hacking-slack-using-postmessage-and-websocket-reconnect-to-steal-your-precious-token/

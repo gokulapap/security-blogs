@@ -17,3 +17,4 @@
 - https://medium.com/bugbountywriteup/bugbounty-aws-s3-added-to-my-bucket-list-f68dd7d0d1ce
 - https://medium.com/@pratyush1337/information-disclosure-via-misconfigured-aws-to-aws-bucket-takeover-6a6a66470d0e
 - https://medium.com/@ozguralp/write-up-aws-document-signing-security-control-bypass-2b13a9c22a4d
+- https://medium.com/bugbountywriteup/s3-bucket-misconfigured-access-controls-to-critical-vulnerability-6b535e3df9a5
