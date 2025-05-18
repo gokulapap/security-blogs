@@ -4,3 +4,4 @@
 - https://yasshk.medium.com/blind-ssrf-in-url-validator-93cbe7521c68
 - https://priyankn.github.io/2021-02-26-CVE-2020-13956/
 - https://notifybugme.medium.com/chaining-an-blind-ssrf-bug-to-get-an-rce-92c09de3c0ba
+- https://zetc0de.github.io/post/authenticated-rce-ssrf-wondercms/

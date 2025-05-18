@@ -18,3 +18,4 @@
 - https://ysamm.com/?p=684
 - https://medium.com/@arbazhussain/stealing-access-token-of-one-drive-integration-by-chaining-csrf-vulnerability-779f999624a7
 - https://medium.com/@akshanshjaiswal/pre-access-to-victims-account-via-facebook-signup-60219e9e381d
+- https://www.offensity.com/en/blog/user-impersonation-via-stolen-uuid-code-in-keycloak-cve-2023-0264/

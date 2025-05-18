@@ -51,3 +51,4 @@
 - https://research.checkpoint.com/2020/game-on-finding-vulnerabilities-in-valves-steam-sockets/
 - https://thalium.github.io/blog/posts/leaking-aslr-through-rdp-printer-cache-registry/
 - https://blog.viettelcybersecurity.com/1day-to-0day-on-tl-link-tl-wr841n/
+- https://hacksys.io/blogs/adobe-reader-xfa-ansi-unicode-confusion-information-leak

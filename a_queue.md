@@ -15,7 +15,6 @@
 - https://medium.com/@that-odd-introvert/django-security-xss-a7722cff2326, CVE
 - https://medium.com/@vickieli/scanning-for-secrets-in-source-code-9fcb486f8c0e, source-code-review
 - https://medium.com/@notifybugme/chaining-an-blind-ssrf-bug-to-get-an-rce-92c09de3c0ba, ssrf
-- https://medium.com/@aidilarf/idor-vulnerability-in-graphql-api-on-website-bc45e050d1d3, graphql
 - https://medium.com/@vickieli/intro-to-ssrf-beb35857771f, ssrf
 - https://medium.com/@kotakbhavak/a-csrf-worth-the-wait-and-404c6b531789, csrf
 - https://medium.com/@nanwinata/rce-docker-api-but-11ff70825935, Cloud
@@ -296,7 +295,6 @@
 - https://infosecwriteups.com/break-the-logic-playing-with-product-ratings-on-a-shopping-site-600-c9a87fb66a73, Logic-flaw
 - https://www.pingsafe.com/blog/linkedin-vulnerability-delete-any-post, IDOR
 - https://starlabs.sg/advisories/23/23-2017/, SSTI
-- https://www.offensity.com/en/blog/user-impersonation-via-stolen-uuid-code-in-keycloak-cve-2023-0264/, OAuth
 - https://giraffesecurity.dev/posts/google-remote-code-execution/, Dependency-confusion
 - https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/cve-2023-29383-abusing-linux-chfn-to-misrepresent-etc-passwd/, Local-Privilege-Escalation
 - https://www.rcesecurity.com/2023/04/securepwn-part-2-leaking-remote-memory-contents-cve-2023-22897/, Memory-leak
@@ -642,7 +640,6 @@
 - https://medium.com/@iknowhatodo/fall-account-takeover-via-amazon-cognito-misconfiguration-ba5975b06c24, IDOR
 - https://www.horizon3.ai/fortios-fortiproxy-and-fortiswitchmanager-authentication-bypass-technical-deep-dive-cve-2022-40684, Authentication-bypass
 - https://mr23r0.medium.com/code-flaws-leads-to-org-admin-account-takeover-ad9515a96eab, Privilege-escalation
-- https://hacksys.io/blogs/adobe-reader-xfa-ansi-unicode-confusion-information-leak, Memory-corruption
 - https://medium.com/@nireshpandian19/the-story-of-a-p5-that-lead-me-to-a-p3-find-3f8a5ea2c6e1, Pre-account-takeover
 - https://blog.yeswehack.com/yeswerhackers/web-application-firewall-bypass/, WAF-bypass
 - https://www.oxeye.io/blog/vm2-sandbreak-vulnerability-cve-2022-36067, RCE
@@ -755,7 +752,6 @@
 - https://bergee.it/blog/five-minute-hunting-for-hidden-xss/, Reflected-XSS
 - https://bergee.it/blog/the-forgotten-api-and-xss-filter-bypass/, XSS
 - https://bergee.it/blog/url-filter-bypass-rfi-and-xss/, Stored-XSS
-- http://www.hydrogen18.com/blog/hacking-zyxel-ip-cameras-pt-1.html, Missing-authentication
 - https://blog.bugzero.io/how-i-get-into-united-nations-hall-of-fame-6975e3d3cc45, Missing-authentication
 - https://medium.com/@lovely.goyal1998/story-of-5000-bounty-for-grafana-panel-access-in-apple-89c93ab4486f, Missing-authentication
 - https://www.akamai.com/blog/security/authentication-coercion-windows-server-service, Off-by-one-Error
@@ -1486,7 +1482,6 @@
 - https://nmochea.medium.com/this-post-is-about-an-reflected-xss-that-i-found-on-opera-browser-application-which-could-have-been-39823a22045d, XSS
 - https://amineaboud.medium.com/10000-facebook-ssrf-bug-bounty-402bd21e58e5, SSRF
 - https://securitytrooper.com/en/cross-site-scripting-xss-reflected-in-one-of-the-subdomains-of-general-motorsbugbounty, Reflected-XSS
-- https://zetc0de.github.io/post/authenticated-rce-ssrf-wondercms/, Blind-SSRF
 - https://ahmdhalabi.medium.com/chaining-multiple-requests-to-achieve-rate-limiting-vulnerabilities-96c1e8365c06, Rate-limiting-bypass
 - https://shellbr3ak.medium.com/the-story-of-my-first-critical-bug-93a5920d6c43, SQL-injection
 - https://vijetareigns.medium.com/pre-account-takeover-using-oauth-misconfiguration-ebd32b80f3d3, OAuth

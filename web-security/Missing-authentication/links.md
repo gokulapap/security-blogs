@@ -10,3 +10,4 @@
 - https://www.directdefense.com/compromising-a-backup-system-by-iscsi-interface-during-a-routine-penetration-test/
 - https://medium.com/@aditya043k/shodan-recon-to-1000-bounty-in-2-mins-b168ced3bfb0
 - https://m7arm4n.medium.com/unauthorized-access-to-admin-panel-via-swagger-c242e8341045
+- http://www.hydrogen18.com/blog/hacking-zyxel-ip-cameras-pt-1.html

@@ -1,1 +1,2 @@
 - https://medium.com/@skarbala.martin/graphql-101-challenge-e65e2c773ac4
+- https://medium.com/@aidilarf/idor-vulnerability-in-graphql-api-on-website-bc45e050d1d3
