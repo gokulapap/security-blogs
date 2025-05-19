@@ -20,3 +20,4 @@
 - https://blog.lightspin.io/aws-rds-critical-security-vulnerability
 - https://medium.com/@tungpun/client-not-client-aa448cfdedd2
 - https://medium.com/@logicbomb_1/the-journey-of-web-cache-firewall-bypass-to-ssrf-to-aws-credentials-compromise-b250fb40af82
+- https://portswigger.net/research/the-curl-quirk-that-exposed-burp-suite-amp-google-chrome

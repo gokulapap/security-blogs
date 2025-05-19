@@ -187,3 +187,4 @@
 - https://web.archive.org/web/20191217045127/https://medium.com/vulnerables/yes-i-can-see-your-otp-9334cd27f021
 - https://encodedguy.medium.com/600-for-idor-file-or-folder-download-243166452dad
 - https://debprasadbanerjee502.medium.com/adobe-bug-bounty-using-idor-confidential-data-leaks-f6c55e5143d0
+- https://medium.com/@Dhamuharker/unsubscribe-any-users-e-mail-notifications-via-idor-7de76e2b036b

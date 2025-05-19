@@ -82,3 +82,4 @@
 - https://whitton.io/articles/messenger-site-wide-csrf/
 - https://blog.ripstech.com/2019/wordpress-csrf-to-rce/
 - https://www.josipfranjkovic.com/blog/hacking-facebook-csrf-device-login-flow
+- https://sunilyedla.medium.com/stealing-chat-session-id-with-cors-and-execute-csrf-attack-f9f7ea229db1

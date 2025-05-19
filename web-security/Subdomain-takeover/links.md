@@ -48,3 +48,4 @@
 - https://0xpatrik.com/subdomain-takeover-starbucks/
 - https://medium.com/bugbountywriteup/the-unexpected-bounty-a-story-of-zendesk-takeover-on-redacted-com-f2aa96ce2026
 - https://medium.com/@friendly_/subdomain-takeover-awarded-200-8296f4abe1b0
+- https://blog.melbadry9.xyz/dangling-dns/xyz-services/ddns-announcekit

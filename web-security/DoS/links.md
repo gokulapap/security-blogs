@@ -44,3 +44,4 @@
 - https://techkranti.com/how-i-reported-a-dos-vulnerability-to-aws/
 - https://jfrog.com/blog/cve-2022-30522-denial-of-service-dos-vulnerability-in-apache-httpd-mod_sed-filter/
 - https://blog.teddykatz.com/2019/11/12/github-actions-dos.html
+- https://medium.com/bugbountywriteup/whatsapp-dos-vulnerability-in-ios-android-d896f76d3253
