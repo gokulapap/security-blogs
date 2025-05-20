@@ -80,3 +80,4 @@
 - https://medium.com/techiepedia/password-reset-to-admin-access-3b2a649bdc3
 - https://medium.com/@kashyapherry147/500-account-takeover-b008f1ccb4a2
 - https://thezerohack.com/apple-vulnerability-bug-bounty
+- https://gauravnarwani.com/android-acc-takeover/

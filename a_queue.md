@@ -336,7 +336,6 @@
 - https://cupc4k3.lol/ssti-leads-to-rce-on-pyrocms-7515be27c811, SSTI
 - https://www.da.vidbuchanan.co.uk/blog/exploiting-acropalypse.html, Privacy-issue
 - https://medium.com/@bag0zathev2/easy-via-api-params-manipulation-leading-to-bypassing-the-email-verification-block-a45dad2db60c, Mass-assignment
-- https://www.synacktiv.com/sites/default/files/2023-03/Synacktiv-BIRTViewer-CVE-2023-0100_1.pdf, RCE
 - https://medium.com/@hritkmjth/directory-traversal-and-lfi-worth-400-c4422785d3bd, Path-traversal
 - https://infosecwriteups.com/anatomy-of-a-reflected-xss-my-discovery-on-a-microsofts-subdomain-7a237aba4392, Reflected-XSS
 - https://princej-76.medium.com/how-i-chained-multiple-high-impact-vulnearbilities-to-create-a-critical-one-476950a3bb9f, Account-takeover
@@ -437,7 +436,6 @@
 - https://webresearcher007.medium.com/broken-function-level-authorization-leads-to-disclosing-pii-information-of-all-company-users-35aee60b287b, Broken-Function-Level-Authorization
 - https://onekey.com/blog/security-advisory-remote-command-execution-in-binwalk/, RCE
 - https://www.akamai.com/blog/security-research/cant-wait-to-shut-you-down-msrpc-wininit, DoS
-- https://www.ambionics.io/blog/vbulletin-unserializable-but-unreachable, RCE
 - https://khaledyassen.medium.com/how-i-bypassed-the-registration-validation-and-logged-in-with-the-company-email-14eb12c45fb5, Email-verification-bypass
 - https://medium.com/@abhisekr/discovered-a-critical-idor-and-earned-900-for-my-first-p1-vulnerability-57c1e72f42c1, IDOR
 - https://medium.com/@DrakenKun/how-i-was-able-to-find-4-cross-site-scripting-xss-on-vulnerability-disclosure-program-e2f39199ae16, XSS
@@ -1314,7 +1312,6 @@
 - https://www.jomar.fr/posts/2021/ssrf_through_pdf_generation/, SSRF
 - https://www.pentagrid.ch/de/blog/password-reset-code-brute-force-vulnerability-in-AWS-Cognito/, Password-reset
 - https://ysamm.com/?p=667, OAuth
-- https://web.archive.org/web/20210621213025/https://savirsuda.github.io/How-I-was-able-to-Retrieve-your-Personal-Documents-using-the-Wayback-Machine/, Privacy-issue
 - https://blog.sonarsource.com/php-supply-chain-attack-on-composer/, Argument-injection
 - https://bughunter25.medium.com/a-tale-of-html-to-pdf-converter-ssrf-and-various-bypasses-4a3e11030c77, SSRF
 - https://feed.bugs.xdavidhu.me/bugs/0003, Privacy-issue
@@ -2111,7 +2108,6 @@
 - https://medium.com/@rupika.luhach/change-anyones-profile-picture-exploiting-idor-41369f5acf75, IDOR
 - https://blog.securitybreached.org/2018/12/08/how-i-was-able-to-bypass-email-verification/, Information-disclosure
 - https://blog.intothesymmetry.com/2018/12/billion-laugh-attack-in.html, Billion-laugh-attack
-- https://gauravnarwani.com/android-acc-takeover/, Account-takeover
 - https://pwning.re/2018/12/04/github-desktop-rce/, RCE
 - https://dylankatz.com/digging-in-to-scp-command-injection/, OS-command-injection
 - http://zhchbin.github.io/2018/12/03/Hijack-the-JS-File-of-Uber-s-Website/, JS-file-hijacking
@@ -2457,7 +2453,6 @@
 - https://medium.com/@albeckshahar/facebook-invitees-email-address-disclosure-25059ae93725, Information-disclosure
 - https://medium.com/swlh/watch-paint-dry-how-i-got-a-game-on-the-steam-store-without-anyone-from-valve-ever-looking-at-it-2e476858c753, Authorization-flaw
 - https://www.arneswinnen.net/2016/03/how-i-could-compromise-4-locked-instagram-accounts, IDOR
-- https://whitton.io/articles/uber-turning-self-xss-into-good-xss/, XSS
 - https://ahussam.me/how-i-hacked-oculus-oauth-ebay-ibm/, Unrestricted-file-upload
 - https://bitquark.co.uk/blog/2016/02/09/how_i_got_access_to_millions_of_redacted_accounts, RFI
 - https://whitton.io/articles/xss-on-facebook-via-png-content-types, XSS

@@ -12,3 +12,4 @@
 - https://protonvpn.com/blog/apple-ios-vulnerability-disclosure/
 - https://blog.trailofbits.com/2023/03/30/acropalypse-polytracker-blind-spots/
 - https://medium.com/@RheyJuls/privacy-disclosure-on-facebook-lite-after-creating-a-post-b12a1cad8d8a
+- https://web.archive.org/web/20210621213025/https://savirsuda.github.io/How-I-was-able-to-Retrieve-your-Personal-Documents-using-the-Wayback-Machine/

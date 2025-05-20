@@ -223,3 +223,4 @@
 - https://abdilahrf.github.io/bugbounty/got-access-to-dota-2-admin-panel-by-exploiting-in-game-feature
 - https://echopwn.com/local-file-read-via-xss-using-pdf-generate-functionality/
 - https://3bodymo.medium.com/xss-through-image-proxy-using-svg-image-49cdf955cf4f
+- https://whitton.io/articles/uber-turning-self-xss-into-good-xss/

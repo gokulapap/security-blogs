@@ -211,3 +211,5 @@
 - https://arben.sh/research/LiveHelperChat-RCE/
 - https://medium.com/@sampanna/rce-in-nokia-com-59b308e4e882
 - https://blog.electrovolt.io/posts/element-rce/
+- https://www.ambionics.io/blog/vbulletin-unserializable-but-unreachable
+- https://www.synacktiv.com/sites/default/files/2023-03/Synacktiv-BIRTViewer-CVE-2023-0100_1.pdf
