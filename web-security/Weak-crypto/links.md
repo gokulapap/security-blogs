@@ -1,1 +1,2 @@
 - https://www.synacktiv.com/sites/default/files/2022-10/SSH.NET_weak_private_key_generation_0.pdf
+- https://labs.withsecure.com/advisories/microsoft-office-365-message-encryption-insecure-mode-of-operation

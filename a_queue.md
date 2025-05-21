@@ -342,7 +342,6 @@
 - https://blog.doyensec.com/2023/03/16/ssrf-remediation-bypass.html, SSRF
 - http://blog.sysdum.net/parameter-injection-to-rce, RCE
 - https://blog.scrt.ch/2023/03/14/producing-a-poc-for-cve-2022-42475-fortinet-rce/, Memory-corruption
-- https://blog.quarkslab.com/vulnerabilities-in-the-tpm-20-reference-implementation-code.html, Memory-corruption
 - https://www.mdsec.co.uk/2023/03/exploiting-cve-2023-23397-microsoft-outlook-elevation-of-privilege-vulnerability/, Privilege-escalation
 - https://www.horizon3.ai/veeam-backup-and-replication-cve-2023-27532-deep-dive/, Local-Privilege-Escalation
 - https://www.dsecbypass.com/en/dolibarr-pre-auth-contact-database-dump/, SQL-injection
@@ -492,7 +491,6 @@
 - https://danaepp.com/hacking-a-net-api-in-the-real-world, LFI
 - https://mtechghost.medium.com/stored-xss-vulnerability-in-microsoft-booking-e593de3344e0, Stored-XSS
 - https://downrightnifty.me/blog/2022/12/26/hacking-google-home.html, IoT
-- https://cems.fun/2022/12/26/CVE-2017-8758.html, XSS
 - https://medium.com/@tobydavenn/bypassing-ssrf-protections-45e5e3ac31e9, SSRF
 - https://infosecwriteups.com/bypass-apples-redirection-process-with-the-dot-character-c47d40537202, Open-redirect
 - https://github.com/PabloMK7/ENLBufferPwn, Buffer-Overflow
@@ -575,7 +573,6 @@
 - https://blog.sonarsource.com/checkmk-rce-chain-1/, RCE
 - https://theevilbit.github.io/posts/cve-2022-32929/, Local-Privilege-Escalation
 - https://sec-consult.com/vulnerability-lab/advisory/path-traversal-vulnerability-in-payara-platform/, Path-traversal
-- https://medium.com/@jodyritonga/how-i-get-100-in-just-10-minutes-b018b28645ce, Race-condition
 - https://varmaanu001.medium.com/from-shodan-dork-to-grafana-local-file-inclusion-e77dc4cfc264, LFI
 - https://blog.sigstore.dev/how-sigstore-quickly-patched-an-upstream-vulnerability-76ba84ef1122, OAuth
 - https://bugs.xdavidhu.me/google/2022/11/10/accidental-70k-google-pixel-lock-screen-bypass/, Lock-screen-bypass
@@ -630,7 +627,6 @@
 - https://blog.kylebot.net/2022/10/16/CVE-2022-1786/, Use-After-Free
 - https://0x4kd.medium.com/google-sso-misconfiguration-leading-to-account-takeover-cf9bcf63e76e, Authentication-bypass
 - https://blog.infiltrateops.io/the-castles-latrine-10f9c16548bd, SQL-injection
-- https://labs.withsecure.com/advisories/microsoft-office-365-message-encryption-insecure-mode-of-operation, Weak-crypto
 - https://infosecwriteups.com/its-the-little-things-breaking-an-ai-40c30ae85f37, Path-traversal
 - https://checkmarx.com/blog/some-vulnerabilities-dont-have-a-name/, ReDoS
 - https://medium.com/@iknowhatodo/fall-account-takeover-via-amazon-cognito-misconfiguration-ba5975b06c24, IDOR
@@ -1339,7 +1335,6 @@
 - https://www.sjoerdlangkemper.nl/2021/04/04/remote-code-execution-through-unsafe-unserialize/, Insecure-deserialization
 - http://www.kamilonurozkaleli.com/posts/rce-on-starbucks-singapore-and-more/, RCE
 - https://nns.ee/blog/2021/04/03/modem-rce.html, OS-command-injection
-- https://www.paulosyibelo.com/2021/04/this-man-thought-opening-txt-file-is.html, MacOS
 - https://infosecwriteups.com/bragging-rights-lets-head-back-to-bug-bucket-88c94730b6fa, XSS
 - https://security.lauritz-holtmann.de/post/xss-parameter-guessing/, XSS
 - https://ysamm.com/?p=646, Account-takeover
