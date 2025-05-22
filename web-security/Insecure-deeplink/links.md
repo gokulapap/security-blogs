@@ -5,3 +5,4 @@
 - https://nmochea.medium.com/shopping-app-deeplink-arbitrary-urls-91a143a45c11
 - https://securityflow.io/impact-of-an-insecure-deep-link/
 - https://servicenger.com/blog/mobile/android/facebook-messenger-for-android-indirect-thread-deletion/
+- https://feed.bugs.xdavidhu.me/bugs/0011

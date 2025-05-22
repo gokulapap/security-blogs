@@ -45,3 +45,4 @@
 - https://jfrog.com/blog/cve-2022-30522-denial-of-service-dos-vulnerability-in-apache-httpd-mod_sed-filter/
 - https://blog.teddykatz.com/2019/11/12/github-actions-dos.html
 - https://medium.com/bugbountywriteup/whatsapp-dos-vulnerability-in-ios-android-d896f76d3253
+- https://medium.com/@keshavaarav22/an-unexpected-bounty-email-bounce-issues-b9f24a35eb68

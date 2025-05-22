@@ -27,7 +27,6 @@
 - https://medium.com/@marxchryz/how-i-gain-access-to-the-server-administration-of-a-million-dollar-company-14da68c7a9dd, journey
 - https://medium.com/@ryuukhagetsu/how-i-get-bounty-from-takeover-account-ed17cd838b2a, ATO
 - https://medium.com/@qaafqasim/discovering-login-panels-and-detecting-sql-injection-with-logsensor-42842e337244, sql-injection
-- https://medium.com/@jjainam16/otp-verification-bypass-15312498fe10, bypass
 - https://medium.com/@noob3xploiter/hacking-into-school-management-systems-reflected-xss-to-rce-74880c423024, XSS
 - https://medium.com/@techkalam/execute-mongo-shell-commands-in-javascript-file-862dcf45aad6, tricks
 - https://medium.com/@sahandami/find-xss-in-wide-scope-with-kxss-91f9573883c4, XSS
@@ -603,7 +602,6 @@
 - https://sensepost.com/blog/2022/abusing-windows-tokens-to-compromise-active-directory-without-touching-lsass/, Local-Privilege-Escalation
 - https://medium.com/@dsonbacker/a-250-css-injection-my-first-finding-on-hackerone-8863ad253560, CSS-injection
 - https://blog.nietaanraken.nl/posts/aur-packages-expired-domains/, Subdomain-takeover
-- https://rambo.codes/posts/2022-10-25-sirispy-ios-bug-allowed-apps-to-eavesdrop, iOS
 - https://checkmarx.com/blog/attacking-the-software-supply-chain-with-a-simple-rename/, Repojacking
 - https://medium.com/@raymond-lind/stored-xss-to-cookie-exfiltration-2cbca6a8c7f0, Stored-XSS
 - https://starlabs.sg/blog/2022/10-sharepoint-post-authenticated-ssrf-vulnerability/, SSRF
@@ -1136,7 +1134,6 @@
 - https://medium.com/@cappriciosec/how-i-hacked-billion-android-users-social-and-3rd-party-account-a-story-about-5000-bug-c422ca43bd2, Android
 - https://medium.com/@mamunwhh/how-i-got-500-with-open-redirect-48fd80c82631, Open-redirect
 - https://svennergr.github.io/writeups/google/ads_dom_xss/, DOM-XSS
-- https://feed.bugs.xdavidhu.me/bugs/0011, Insecure-deeplink
 - https://mikekitckchan.medium.com/power-of-your-own-wordlist-fuzz-for-log-file-leads-to-information-leakage-ad46958b4729, Information-disclosure
 - https://www.aeth.cc/public/Article-Pass-Culture/stored-xss-article-en.html, Stored-XSS
 - https://supras.io/how-i-got-access-to-many-piis-through-a-source-code-leak/, Information-disclosure
@@ -1790,7 +1787,6 @@
 - https://web.archive.org/web/20200223073527/https://victoni.github.io/changing-userID-leads-to-data-leak/, IDOR
 - https://fellchase.blogspot.com/2020/02/site-wide-csrf-on-popular-program.html, CSRF
 - https://flex0geek.blogspot.com/2020/02/using-csrf-i-got-weird-account-takeover.html, CSRF
-- https://medium.com/@keshavaarav22/an-unexpected-bounty-email-bounce-issues-b9f24a35eb68, DoS
 - https://medium.com/@sushiwushi2/hijacking-shared-report-links-in-google-data-studio-75eab320c391, Authorization-flaw
 - https://www.perimeterx.com/tech-blog/2020/whatsapp-fs-read-vuln-disclosure/, Stored-XSS
 - https://jatindhankhar.in/blog/responsible-disclosure-breaking-out-of-a-sandboxed-editor-to-perform-rce/, RCE
@@ -2264,7 +2260,6 @@
 - https://medium.com/@prial261/story-of-a-stored-xss-bypass-26e6659f807b, Stored-XSS
 - https://medium.com/@logicbomb_1/bugbounty-journey-from-lfi-to-rce-how-a69afe5a0899, LFI
 - https://medium.com/@kankrale.rahul/whatsapp-users-ip-disclosure-with-link-preview-feature-39a477f54fba, Information-disclosure
-- https://medium.com/@YoKoKho/ribose-idor-with-simple-csrf-bypass-unrestricted-changes-and-deletion-to-other-photo-profile-e4393305274e, IDOR
 - https://medium.com/@YoKoKho/idor-at-private-bug-bounty-program-that-could-leads-to-personal-data-leaks-d2536d026bf5, IDOR
 - https://medium.com/@vis_hacker/how-i-got-stored-xss-using-file-upload-5c33e19df51e, Stored-XSS
 - https://medium.com/bugbountywriteup/bypassing-captcha-like-a-boss-d0edcc3a1c1, Captcha-bypass
