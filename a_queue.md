@@ -99,7 +99,6 @@
 - https://medium.com/@4bdoz/access-more-than-10k-premium-api-keys-python-exploit-c728fdf5eae, automation
 - https://medium.com/@thexssrat/subdomain-flyover-and-manual-exploration-of-the-results-15c69d509091, STO
 - https://medium.com/@orkhan_alibayli/subdomain-takeover-95646de1f436, STO
-- https://medium.com/@ibm_ptc_security/exploiting-insecure-deserialization-c4bcb2652406, deserialization
 - https://medium.com/@arrheniuspaelongan09/critical-vulnerability-when-applying-for-a-job-otp-bypass-via-response-manipulation-69b7182a8606, critical-bugs
 - https://medium.com/@vuk.ivanovic9000/salesforce-bug-hunting-to-critical-bug-b5da44789d3, critical-bugs
 - https://medium.com/@dcube.merlin/basic-web-security-testing-apis-58f37e01a730, api
@@ -256,7 +255,6 @@
 - https://crnkovic.dev/testing-converso/, Android
 - http://blog.evanricafort.com/2023/05/ipv6-dns-takeover-via-mitm6-write-up.html, MiTM
 - https://medium.com/@ar_hawk/how-a-simple-directory-listing-leads-to-pii-data-leakage-remote-code-execution-and-many-more-104b09e644f4, RCE
-- https://medium.com/@mohammed01550038865/how-i-discovred-xss-via-url-encode-3-times-86ccd5354081, XSS
 - https://infosecwriteups.com/mass-assignment-leads-to-the-victims-account-being-inaccessible-forever-52e48c6a8a4d, Mass-assignment
 - https://blog.ankursundara.com/cookie-bugs/, Cookie-smuggling
 - https://danrevah.github.io/2023/05/03/CVE-2023-25394-VideoStream-LPE/, Local-Privilege-Escalation
@@ -714,7 +712,6 @@
 - https://abdulsec.medium.com/mfa-bypass-in-private-program-the-abdulsec-way-f677fea209f7, MFA-bypass
 - https://falcon319.medium.com/my-findings-on-hack-u-s-program-43b692a5c057, Missing-authentication
 - https://jfrog.com/blog/cve-2021-38297-analysis-of-a-go-web-assembly-vulnerability/, Memory-corruption
-- https://s0md3v.github.io/blog/modsecurity-rce-bypass, WAF-bypass
 - https://www.ambionics.io/blog/hacking-watchguard-firewalls, XPath-injection
 - https://infosecwriteups.com/bypassing-amazon-waf-to-pop-an-alert-4646ce35554e, WAF-bypass
 - https://sagarsajeev.medium.com/unsubscribe-any-users-e-mail-notifications-via-idor-2c2e05b79dac, IDOR
@@ -1792,7 +1789,6 @@
 - https://jatindhankhar.in/blog/responsible-disclosure-breaking-out-of-a-sandboxed-editor-to-perform-rce/, RCE
 - https://medium.com/@zseano/easily-leaking-passenger-information-on-an-airline-18f99b22cf95, IDOR
 - https://medium.com/@navne3t/csrf-csrf-csrf-f203e6452a9c, CSRF
-- https://www.amolbaikar.com/disclose-full-admin-list-of-any-facebook-applications/, IDOR
 - https://techblog.mediaservice.net/2020/01/ok-google-bypass-the-authentication/, Authentication-bypass
 - https://medium.com/@abhishake100/hyperlink-injection-easy-money-sometimes-cc1104655300, Hyperlink-injection
 - https://www.amolbaikar.com/xss-on-facebook-instagram-cdn-server-bypassing-signature-protection/, XSS
@@ -2354,7 +2350,6 @@
 - https://medium.com/japzdivino/idor-on-hackerone-hacker-review-what-program-say-885ce3989a6f, IDOR
 - https://medium.com/@armaanpathan/dont-just-alert-1-because-xss-is-for-fun-f88cfb88d5b9, XSS
 - https://medium.com/@arbazhussain/stealing-0auth-token-mitm-3eeab46e96cf, OAuth
-- https://medium.com/@TheShahzada/reflected-xss-in-yahoo-6e2b6b177448, Reflected-XSS
 - https://medium.com/@rojanrijal/developer-luminate-idor-42bd0d98e0c, IDOR
 - https://medium.com/@arbazhussain/improper-storage-of-protected-projects-files-9ece8e9a4743, IDOR
 - https://medium.com/@arbazhussain/bypassing-rate-limit-protection-by-spoofing-originating-ip-ff06adf34157, Bruteforce

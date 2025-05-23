@@ -1,0 +1,1 @@
+- https://medium.com/@ibm_ptc_security/exploiting-insecure-deserialization-c4bcb2652406

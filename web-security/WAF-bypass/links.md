@@ -5,3 +5,4 @@
 - https://kloudle.com/blog/piercing-the-cloud-armor-the-8kb-bypass-in-google-cloud-platform-waf
 - https://claroty.com/team82/research/js-on-security-off-abusing-json-based-sql-to-bypass-waf
 - https://terjanq.medium.com/waf-bypasses-via-0days-d4ef1f212ec
+- https://s0md3v.github.io/blog/modsecurity-rce-bypass
