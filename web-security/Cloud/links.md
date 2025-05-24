@@ -11,3 +11,4 @@
 - https://frichetten.com/blog/undocumented-amplify-api-leak-account-id/
 - https://securitylabs.datadoghq.com/articles/bypass-cloudtrail-aws-service-catalog-and-other/
 - https://www.secureworks.com/research/azure-active-directory-exposes-internal-information
+- https://www.wiz.io/blog/attachme-oracle-cloud-vulnerability-allows-unauthorized-cross-tenant-volume-access

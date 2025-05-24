@@ -17,3 +17,4 @@
 - https://medium.com/@jonathanbouman/xxe-at-bol-com-7d331186de54
 - https://www.whiteoaksecurity.com/blog/logicaldoc-vulnerability-disclosure/
 - https://cinzinga.com/XXE-Case-Studies/
+- https://0xgaurang.medium.com/out-of-band-xxe-in-an-e-commerce-ios-app-e22981f7b59b

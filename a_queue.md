@@ -396,7 +396,6 @@
 - https://medium.com/@niraj1mahajan/hacking-the-search-bar-the-story-of-discovering-and-reporting-an-xss-vulnerability-on-bing-com-cac2f241835, XSS
 - https://blog.trailofbits.com/2023/02/16/suid-logic-bug-linux-readline/, Local-Privilege-Escalation
 - https://blog.infiltrateops.io/hacking-apple-two-successful-exploits-and-positive-thoughts-on-their-bug-bounty-program-963efe7518f6, RCE
-- https://decoder.cloud/2023/02/16/eop-via-arbitrary-file-write-overwite-in-group-policy-client-gpsvc-cve-2022-37955/, Local-Privilege-Escalation
 - https://blog.yeswehack.com/talent-development/server-side-prototype-pollution-how-to-detect-and-exploit/, Server-side-prototype-pollution
 - https://www.praetorian.com/blog/azure-b2c-crypto-misuse-and-account-compromise/, Cryptographic-issues
 - https://posts.specterops.io/abusing-azure-app-service-managed-identity-assignments-c3adefccff95, Cloud
@@ -670,7 +669,6 @@
 - https://www.cidersecurity.io/blog/research/how-we-abused-repository-webhooks-to-access-internal-ci-systems-at-scale/, CICD
 - https://blog.sonarsource.com/onedev-remote-code-execution/, RCE
 - https://doyensec.com/resources/Doyensec_Apollo_Report_Q22022_v4_AfterRetest.pdf, DoS
-- https://www.wiz.io/blog/attachme-oracle-cloud-vulnerability-allows-unauthorized-cross-tenant-volume-access, Cloud
 - https://ssd-disclosure.com/ssd-advisory-linux-clock_thread_cputime_id-lpe/, Memory-corruption
 - https://github.com/StackOverflowExcept1on/how-to-hack-github-actions, CICD
 - https://srahulceh.medium.com/bug-bounty-how-i-found-an-sensitive-information-disclosure-reconnaissance-542daf10dd19, Information-disclosure
@@ -1473,7 +1471,6 @@
 - https://mostafa-mano.medium.com/2-reflected-xss-in-razer-74783ae5ee53, Reflected-XSS
 - https://ozguralp.medium.com/turning-blind-error-based-sql-injection-into-an-exploitable-boolean-one-85d6be3ca23b, SQL-injection
 - https://daeken.svbtle.com/arbitrary-file-write-by-adb-pull, Arbitrary-file-write
-- https://0xgaurang.medium.com/out-of-band-xxe-in-an-e-commerce-ios-app-e22981f7b59b, XXE
 - https://shahjerry33.medium.com/server-side-misconfigurartion-a-funny-fix-63cc12b4c7fc, Information-disclosure
 - https://medium.com/@logicbomb_1/tale-of-3-vulnerabilities-to-account-takeover-44ba631a0304, SSRF
 - https://evait.medium.com/pentest-story-empirum-password-decryption-3a9e2530aba7, Weak-crypto
@@ -1781,7 +1778,6 @@
 - https://techkranti.com/ssrf-aws-metadata-leakage, SSRF
 - https://web.archive.org/web/20200305081812/https://0xatul.github.io/posts/2020/02/external-xml-entity-via-file-upload-svg/, XXE
 - https://www.amolbaikar.com/determine-users-with-detailed-role-model-on-behalf-of-any-facebook-application/, IDOR
-- https://web.archive.org/web/20200223073527/https://victoni.github.io/changing-userID-leads-to-data-leak/, IDOR
 - https://fellchase.blogspot.com/2020/02/site-wide-csrf-on-popular-program.html, CSRF
 - https://flex0geek.blogspot.com/2020/02/using-csrf-i-got-weird-account-takeover.html, CSRF
 - https://medium.com/@sushiwushi2/hijacking-shared-report-links-in-google-data-studio-75eab320c391, Authorization-flaw
@@ -1990,7 +1986,6 @@
 - https://medium.com/@heshamwatany/the-neglected-bug-that-can-infect-all-facebook-users-who-pay-for-leads-ads-8c374cd64d76, CSV-injection
 - https://soroush.secproject.com/blog/2019/04/yet-other-examples-of-abusing-csrf-in-logout/, CSRF
 - https://ysamm.com/?p=256, Authorization-flaw
-- https://medium.com/@navne3t/confirmation-bypass-ab57c29ae413, Email-verification-bypass
 - https://rpadovani.com/gitlab-responsible-disclosure, Authorization-flaw
 - https://www.inputzero.io/2019/04/evernote-cve-2019-10038.html, RCE
 - https://medium.com/bugbountywriteup/banner-grabbing-to-dos-and-memory-corruption-2442b1c25bbb, DoS

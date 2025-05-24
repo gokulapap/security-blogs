@@ -190,3 +190,4 @@
 - https://medium.com/@Dhamuharker/unsubscribe-any-users-e-mail-notifications-via-idor-7de76e2b036b
 - https://medium.com/@YoKoKho/ribose-idor-with-simple-csrf-bypass-unrestricted-changes-and-deletion-to-other-photo-profile-e4393305274e
 - https://www.amolbaikar.com/disclose-full-admin-list-of-any-facebook-applications/
+- https://web.archive.org/web/20200223073527/https://victoni.github.io/changing-userID-leads-to-data-leak/
