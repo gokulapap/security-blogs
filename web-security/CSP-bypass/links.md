@@ -8,3 +8,4 @@
 - https://jmrcsnchz.medium.com/playing-with-iframes-bypassing-content-security-policy-987c2f0b8e8a
 - https://infosecwriteups.com/the-buffer-curse-3591efb4a724
 - https://portswigger.net/blog/bypassing-csp-with-policy-injection
+- https://www.perimeterx.com/tech-blog/2020/csp-bypass-vuln-disclosure/

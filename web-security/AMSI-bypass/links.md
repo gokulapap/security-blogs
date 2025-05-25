@@ -1,0 +1,1 @@
+- https://badoption.eu/blog/2023/07/15/divideconqer.html

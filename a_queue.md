@@ -150,7 +150,6 @@
 - https://www.sonarsource.com/blog/a-twist-in-the-code-openmeetings-vulnerabilities-through-unexpected-application-state/, Account-takeover
 - https://www.rapid7.com/blog/post/2023/07/19/cve-2023-38205-adobe-coldfusion-access-control-bypass-fixed/, Broken-Access-Control
 - https://orca.security/resources/blog/bad-build-google-cloud-build-potential-supply-chain-attack-vulnerability/, Cloud
-- https://badoption.eu/blog/2023/07/15/divideconqer.html, AMSI-bypass
 - https://www.trustedsec.com/blog/modeling-malicious-code-hacking-in-3d/, Phishing
 - https://blog.talosintelligence.com/weaknesses-mac-os-vmware-msrpc/, Kernel-hacking
 - https://labs.withsecure.com/publications/executing-arbitrary-code-executables-in-read-only-filesystems, Kubernetes
@@ -686,7 +685,6 @@
 - https://hesec.de/posts/bbh-csrf/, CSRF
 - https://medium.com/@Parag_Bagul/how-i-was-able-to-bypass-philips-authentication-c3bd3e1df9ff, Outdated-component-with-a-known-vulnerability
 - https://www.legitsecurity.com/blog/bypassing-github-required-reviewers-to-submit-malicious-code, Authorization-flaw
-- https://medium.com/@abbasheybati1/403-bypass-lyncdiscover-microsoft-com-db2778458c33, 403-bypass
 - https://labs.jumpsec.com/quest-kace-desktop-authority-pre-auth-remote-code-execution-cve-2021-44031/, RCE
 - https://www.rapid7.com/blog/post/2022/09/08/baxter-sigma-spectrum-infusion-pumps-multiple-vulnerabilities-fixed/, Hardcoded-credentials
 - https://starlabs.sg/blog/2022/09-step-by-step-walkthrough-of-cve-2022-32792/, Memory-corruption
@@ -1062,7 +1060,6 @@
 - https://www.p1boom.com/2021/12/accidental-idor-in-elearnsecurity-to.html, IDOR
 - https://pathleax.medium.com/this-is-how-i-was-able-to-see-and-delete-your-private-facebook-portal-photos-a93ed22f875b, IDOR
 - https://infosecwriteups.com/how-i-hacked-yandex-with-ssrf-vulnerability-e19af20ed4d, SSRF
-- https://www.varonis.com/blog/box-mfa-bypass-totp/, OTP-bypass
 - https://cyberguy0xd1.medium.com/how-i-was-able-to-bypass-cloudflare-waf-for-sqli-payload-b9e7a4260026, SQL-injection
 - https://web.archive.org/web/20211202081008/https://medium.com/@saurabhsankhwar3/p1-bug-in-apple-that-phase-old-is-gold-6eb99da5bbca, Logic-flaw
 - https://certitude.consulting/blog/en/citrix-header-injection-2/, Host-header-injection
@@ -1554,7 +1551,6 @@
 - https://medium.com/@singh.simran7838/how-i-made-2000-with-url-redirection-b1b5f4e7a678, Open-redirect
 - https://voidsec.com/cve-2020-1337-printdemon-is-dead-long-live-printdemon/, Local-Privilege-Escalation
 - https://honoki.net/2020/08/10/cve-2020-11518-how-i-bruteforced-my-way-into-your-active-directory/, RCE
-- https://www.perimeterx.com/tech-blog/2020/csp-bypass-vuln-disclosure/, CSP-bypass
 - https://mazinahmed.net/blog/hacking-zoom/, Information-disclosure
 - https://medium.com/@zseano/the-feature-works-as-intended-but-whats-in-the-source-d29f9401bcf6, Information-disclosure
 - https://blog.dixitaditya.com/exploiting-jwt-lack-of-signature-verification, Account-takeover
@@ -2388,7 +2384,6 @@
 - https://web.archive.org/web/20190506160222/https://tutorgeeks.blogspot.com/2017/04/aws-s3-bucket-misconfiguration.html, AWS-misconfiguration
 - https://www.jonbottarini.com/2017/04/03/inspect-element-leads-to-stripe-account-lockout-authentication-bypass/, Authentication-bypass
 - https://medium.com/bugbountywriteup/hundreds-of-hundreds-subdomains-hack3d-including-hacker0ne-ad3acd1c0a44, Subdomain-takeover
-- https://www.nc-lp.com/blog/critical-information-disclosure-on-wappalyzer-com, Information-disclosure
 - https://blog.ettic.ca/near-universal-xss-in-mcafee-web-gateway-cf8dfcbc8fc3, XSS
 - https://emtunc.org/blog/03/2017/bypassing-safe-links-exchange-online-advanced-threat-protection/, Open-redirect
 - https://buer.haus/2017/03/08/airbnb-when-bypassing-json-encoding-xss-filter-waf-csp-and-auditor-turns-into-eight-vulnerabilities/, XSS

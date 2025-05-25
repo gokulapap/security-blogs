@@ -13,3 +13,4 @@
 - https://medium.com/@parasarora06/how-i-was-able-to-verify-any-contact-number-for-my-account-57c939dab202
 - https://web.archive.org/web/20200317103909/https://medium.com/sourav-sahana/razer-mobile-pin-verification-bypass-1k-bug-2eb1485796b3
 - https://hackernoon.com/how-i-bypassed-state-bank-of-india-otp-f145469a9f1d
+- https://www.varonis.com/blog/box-mfa-bypass-totp/

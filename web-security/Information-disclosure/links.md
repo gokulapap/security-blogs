@@ -207,3 +207,4 @@
 - https://notmyplate.com/whitepaper/
 - https://www.pantaprakash.com.np/posts/categories/bugbounty-writeup/5.html
 - https://tylerbutler.io/hackerone-hinge/
+- https://www.nc-lp.com/blog/critical-information-disclosure-on-wappalyzer-com
