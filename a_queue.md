@@ -249,7 +249,6 @@
 - https://www.sonarsource.com/blog/pimcore-one-click-two-security-vulnerabilities/, Path-traversal
 - https://neodyme.io/blog/csgo_from_zero_to_0day/, Game-hacking
 - https://www.synacktiv.com/en/publications/the-printer-goes-brrrrr-again.html, Printer-hacking
-- https://www.akamai.com/blog/security-research/important-outlook-vulnerability-bypass-windows-api, Privilege-escalation
 - https://chevonphillip.medium.com/rce-due-to-dependency-confusion-5000-bounty-fd1b294d645f, Dependency-confusion
 - https://crnkovic.dev/testing-converso/, Android
 - http://blog.evanricafort.com/2023/05/ipv6-dns-takeover-via-mitm6-write-up.html, MiTM
@@ -426,7 +425,6 @@
 - https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/vulnerability-causing-deletion-of-all-users-in-crushftp-admin-area/, Application-level-DoS
 - https://www.metabaseq.com/imagemagick-zero-days/, Application-level-DoS
 - https://infosecwriteups.com/an-idor-vulnerability-often-hides-many-others-2893ddd0a0d7, IDOR
-- https://blog.assetnote.io/2023/02/01/rce-in-avaya-aura/, RCE
 - https://webresearcher007.medium.com/broken-function-level-authorization-leads-to-disclosing-pii-information-of-all-company-users-35aee60b287b, Broken-Function-Level-Authorization
 - https://onekey.com/blog/security-advisory-remote-command-execution-in-binwalk/, RCE
 - https://www.akamai.com/blog/security-research/cant-wait-to-shut-you-down-msrpc-wininit, DoS
@@ -687,7 +685,6 @@
 - https://www.legitsecurity.com/blog/bypassing-github-required-reviewers-to-submit-malicious-code, Authorization-flaw
 - https://labs.jumpsec.com/quest-kace-desktop-authority-pre-auth-remote-code-execution-cve-2021-44031/, RCE
 - https://www.rapid7.com/blog/post/2022/09/08/baxter-sigma-spectrum-infusion-pumps-multiple-vulnerabilities-fixed/, Hardcoded-credentials
-- https://starlabs.sg/blog/2022/09-step-by-step-walkthrough-of-cve-2022-32792/, Memory-corruption
 - https://security.humanativaspa.it/groovy-template-engine-exploitation-notes-from-a-real-case-scenario/, RCE
 - https://shinchina.in/blog/2022-09-07/$900-blind-xss.html, Blind-XSS
 - https://mogwailabs.de/en/blog/2022/08/exploiting-laravel-based-applications-with-leaked-app_keys-and-queues/, RCE
@@ -1361,7 +1358,6 @@
 - https://infosecwriteups.com/the-invincible-kid-7ac1ce2887c0, Logic-flaw
 - https://lf.lc/vrp/181521559a/, Container-escape
 - https://www.bugcrowd.com/blog/big-bugs-cve-2020-28914/, RCE
-- https://infosecwriteups.com/bragging-rights-killing-file-uploads-softly-fba35a4e485a, Unrestricted-file-upload
 - https://jayateerthag.medium.com/jira-authenticated-dashboard-access-in-google-acquisition-apigee-ff20cfe11d99, Authentication-bypass
 - https://shubhamchaskar.com/ato-through-pe/, Privilege-escalation
 - https://github.com/champtar/blog/tree/main/K8S_MITM_LoadBalancer_ExternalIPs, MiTM
@@ -1825,7 +1821,6 @@
 - https://medium.com/bugbountywriteup/dank-writeup-on-broken-access-control-on-an-indian-startup-d29132a1ecd, Unrestricted-file-upload
 - https://rez0.blog/hacking/2019/11/29/rce-via-imagetragick.html, RCE
 - https://lf.lc/vrp/145304705/, Site-Isolation-bypass
-- https://pastebin.com/E6LMFm2w, HTTP-request-smuggling
 - https://web.archive.org/web/20200511012319/https://medium.com/@xhzeem/the-accounttakeover-killing-chain-6ba23f4c9d4, Account-takeover
 - https://medium.com/bugbountywriteup/stories-of-idor-part-2-29d313a39e55, IDOR
 - https://www.pankajinfosec.com/post/700-denial-of-service-dos-vulnerability-in-script-loader-php-cve-2018-6389, DoS
