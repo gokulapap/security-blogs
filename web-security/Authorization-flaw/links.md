@@ -87,3 +87,4 @@
 - https://shail-official.medium.com/accessing-apples-internal-uat-slackbot-for-fun-and-non-profit-25b167605f38
 - https://medium.com/@elberandre/broken-access-posting-to-google-private-groups-through-any-user-in-the-group-3becfa818894
 - https://lokeshdlk77.medium.com/delete-any-photos-in-facebook-832dbe81cdc4
+- https://ysamm.com/?p=606

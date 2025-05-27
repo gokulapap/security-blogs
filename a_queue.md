@@ -261,7 +261,6 @@
 - https://www.revblock.dev/exploiting-misconfigured-google-cloud-service-accounts-from-github-actions/, OpenID-Connect
 - https://www.zerodayinitiative.com/blog/2023/5/1/cve-2023-28231-rce-in-the-microsoft-windows-dhcpv6-service, RCE
 - https://ophionsecurity.com/blog/placeholder-for-dayzzz, SSTI
-- https://pulsesecurity.co.nz/advisories/Azure-Devops-Command-Injection, CICD
 - https://infosecwriteups.com/unauthorized-access-to-the-admin-panel-via-leaked-credentials-on-the-waybackmachine-55c3307141c6, Information-disclosure
 - https://medium.com/@lopseg/bug-bounty-writeup-stored-xss-vulnerability-waf-bypass-f38aae7ff9eb, Stored-XSS
 - https://medium.com/@0ta/tenda-n301-v6-cve-2023-29680-cve-2023-29681-a40f7ae6dc62, Sensitive-Information-Sent-Over-an-Unencrypted-Channel
@@ -964,7 +963,6 @@
 - https://web.archive.org/web/20221128044142/https://wya.pl/2022/02/26/cve-2022-22947-spel-casting-and-evil-beans/, RCE
 - https://swarm.ptsecurity.com/catching-bugs-in-vmware-carbon-black-cloud-workload-appliance-and-vrealize-operations-manager/, Authentication-bypass
 - https://philippeharewood.com/instagram-app-access-token/, Information-disclosure
-- https://blog.teddykatz.com/2022/02/23/ghosts-of-branches-past.html, Logic-flaw
 - https://omespino.com/write-up-private-bug-bounty-bypass-redacted-android-application-screen-lock-via-local-brute-forcing/, Android
 - https://servicenger.com/mobile/facebook-android-vulnerability-launching-internal-tighten-deeplink-onbehalf-of-user/, Android
 - https://ninetyn1ne.github.io/2022-02-21-oauth-postmessage-misconfig/, OAuth
@@ -1266,7 +1264,6 @@
 - https://ledz1996.gitlab.io/blog/writeups/CVE-2021-22203-gitlab-arbitrary-file-read-write-through-kroki, Arbitrary-file-read
 - https://n1ghtmar3.medium.com/chaining-xss-with-authentication-issues-to-turn-it-into-full-account-takeover-ae886ac696bb, XSS
 - https://shrirangdiwakar.medium.com/how-i-turned-0000-into-600-phone-verification-bypass-b1c0f6eb568e, OTP-bypass
-- https://ysamm.com/?p=697, SSO
 - https://infosecwriteups.com/third-party-apps-were-still-getting-your-private-facebook-data-even-after-their-access-expiry-6e4be4880e6e, Logic-flaw
 - https://infosecwriteups.com/writeups-facebook-whitehat-program-2021-instagram-live-setting-bug-500-usd-d2d076b3f8bb, Logic-flaw
 - https://thevillagehacker.medium.com/time-based-sql-injection-to-dumping-the-database-da0e5bcaa9df, SQL-injection
@@ -1318,7 +1315,6 @@
 - https://gatolouco.medium.com/critical-blind-storage-xss-my-first-bug-bounty-d318f6ba570c/, Blind-XSS
 - https://0xra.github.io/posts/apple-tv-code-execution/, RCE
 - https://mikey96.medium.com/cloud-based-storage-misconfigurations-critical-bounties-361647f78a29, Cloud-storage-misconfiguration
-- https://www.sjoerdlangkemper.nl/2021/04/04/remote-code-execution-through-unsafe-unserialize/, Insecure-deserialization
 - http://www.kamilonurozkaleli.com/posts/rce-on-starbucks-singapore-and-more/, RCE
 - https://nns.ee/blog/2021/04/03/modem-rce.html, OS-command-injection
 - https://infosecwriteups.com/bragging-rights-lets-head-back-to-bug-bucket-88c94730b6fa, XSS
@@ -1373,7 +1369,6 @@
 - https://ysamm.com/?p=621, Authorization-flaw
 - https://ysamm.com/?p=625, Open-redirect
 - https://www.shielder.it/blog/2021/02/hunting-for-bugs-in-telegrams-animated-stickers-remote-attack-surface/, Memory-corruption
-- https://ysamm.com/?p=606, Authorization-flaw
 - https://ysamm.com/?p=609, Authorization-flaw
 - https://ysamm.com/?p=613, Information-disclosure
 - https://vbharad.medium.com/stored-xss-in-icloud-com-5000-998b8c4b2075, Stored-XSS
