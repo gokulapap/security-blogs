@@ -208,3 +208,4 @@
 - https://www.pantaprakash.com.np/posts/categories/bugbounty-writeup/5.html
 - https://tylerbutler.io/hackerone-hinge/
 - https://www.nc-lp.com/blog/critical-information-disclosure-on-wappalyzer-com
+- https://dewangpanchal98.medium.com/microsoft-bug-bounty-writeup-5ee4a7264dbf

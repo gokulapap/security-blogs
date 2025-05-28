@@ -46,3 +46,4 @@
 - https://blog.teddykatz.com/2019/11/12/github-actions-dos.html
 - https://medium.com/bugbountywriteup/whatsapp-dos-vulnerability-in-ios-android-d896f76d3253
 - https://medium.com/@keshavaarav22/an-unexpected-bounty-email-bounce-issues-b9f24a35eb68
+- https://medium.com/@shaunak007/how-i-spammed-a-google-meet-but-for-good-8bc5b328f1bb

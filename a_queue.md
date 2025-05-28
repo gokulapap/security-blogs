@@ -137,7 +137,6 @@
 - https://www.mcnulty.blog/posts/dap-csrf, CSRF
 - https://securitylabs.datadoghq.com/articles/exploring-github-to-aws-keyless-authentication-flaws/, OpenID-Connect
 - https://blog.doyensec.com/2023/07/26/huawei-theme-arbitrary-code-exec.html, Arbitrary-Code-Execution
-- https://blog.sicuranext.com/aws-waf-bypass/, WAF-bypass
 - https://blog.assetnote.io/2023/07/21/citrix-CVE-2023-3519-analysis/, RCE
 - https://blog.assetnote.io/2023/07/22/pre-auth-rce-metabase/, RCE
 - https://medium.com/@mullangisashank/a-tale-of-og-xss-89af3d4725dc, XSS
@@ -786,7 +785,6 @@
 - https://medium.com/@moSec/crlf-to-account-takeover-chaining-bugs-21a25dfa1cdf, CRLF-injection
 - https://medium.com/@anjaneyulukanakatla1996/business-logic-error-6922ba75cad8, Logic-flaw
 - https://vengeance.medium.com/authorization-token-leak-from-verifying-email-endpoint-f28803476680, Account-takeover
-- https://medium.com/@shaunak007/how-i-spammed-a-google-meet-but-for-good-8bc5b328f1bb, DoS
 - https://infosecwriteups.com/abusing-url-shortners-for-fun-and-profit-c83c67713916, Information-disclosure
 - https://medium.com/@rodricbr/from-open-redirect-to-reflected-xss-manually-64e633a3d23f, Open-redirect
 - https://blog.aquasec.com/cve-2022-32223-dll-hijacking, DLL-Hijacking
@@ -1279,7 +1277,6 @@
 - https://blog.evanricafort.com/2021/05/2fa-verification-bypass-in-shapeshift.html, MFA-bypass
 - https://infosecwriteups.com/stored-xss-to-organisation-takeover-6eaaa2fdcd5b, Stored-XSS
 - https://sndpgiriz.medium.com/simple-logical-bug-turned-into-a-bounty-a3d7ac214606, Logic-flaw
-- https://dewangpanchal98.medium.com/microsoft-bug-bounty-writeup-5ee4a7264dbf, Information-disclosure
 - https://www.offensive-security.com/offsec/macos-preferences-priv-escalation/, Local-Privilege-Escalation
 - https://blog.polybdenum.com/2021/05/05/how-i-hacked-google-app-engine-anatomy-of-a-java-bytecode-exploit.html, RCE
 - https://ahmadaabdulla.medium.com/how-i-found-sql-injection-on-intensedebate-com-h1-in-5-minute-350-a36c2890882d, SQL-injection
@@ -1633,7 +1630,6 @@
 - https://www.cyberonesecurity.com/blog/local-privilege-escalation-discovered-in-vmware-fusion, Local-Privilege-Escalation
 - https://medium.com/@ricardoiramar/this-is-fine-6e032f497b8f, Information-disclosure
 - http://www.firstsight.me/2020/06/from-399-to-1650-usd-part-i-simple-vertical-privilege-escalation-by-changing-http-response/, Privilege-escalation
-- https://yxw21.github.io/2020/06/05/Account-Takeover-Via-PostMessage/, Account-takeover
 - https://medium.com/@amyrahm786/story-of-blind-sql-with-a-typo-error-43a21913c8d, SQL-injection
 - https://medium.com/heck-the-packet/how-i-got-my-first-big-bounty-payout-with-tesla-8d28b520162d, Information-disclosure
 - https://kb.cert.org/vuls/id/636397, DoS
@@ -2021,7 +2017,6 @@
 - https://gauravnarwani.com/never-stop-at-banner-grabbing/, Information-disclosure
 - https://wwws.nightwatchcybersecurity.com/2019/02/14/third-party-android-app-storing-facebook-data-insecurely/, Information-disclosure
 - https://web.archive.org/web/20200929022152/https://www.mohamedharon.com/2019/02/ssrf-server-side-request-forgery-in.html, SSRF
-- https://ysamm.com/?p=185, CSRF
 - https://www.linkedin.com/pulse/hacking-youtube-fun-profit-alexandru-coltuneac/, IDOR
 - https://ysamm.com/?p=214, Authorization-flaw
 - https://ysamm.com/?p=158, Information-disclosure
