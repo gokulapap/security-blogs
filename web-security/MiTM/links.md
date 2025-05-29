@@ -5,3 +5,4 @@
 - https://github.com/champtar/blog/tree/main/IPv6_RA_MITM
 - https://www.nozominetworks.com/blog/vulnerability-in-dahua-s-onvif-implementation-threatens-ip-camera-security/
 - https://curl.se/docs/CVE-2022-32208.html
+- https://medium.com/@armaanpathan/scary-bug-in-burp-suite-upstream-proxy-allows-hackers-to-hack-hackers-e6fc9a8d60a

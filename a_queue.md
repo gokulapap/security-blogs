@@ -362,7 +362,6 @@
 - https://salt.security/blog/traveling-with-oauth-account-takeover-on-booking-com, OAuth
 - https://medium.com/@kushjain0107/how-simple-idor-impacted-the-data-of-thousands-of-customers-of-an-indian-automotive-giant-fdbd2ef1c2c6, Account-takeover
 - https://medium.com/@snoopy101/web-cache-deception-attack-on-a-private-bug-bounty-program-52872cbdeedc, Web-cache-deception
-- https://redshark1802.com/blog/2023/03/01/abusing-hopy-by-hop-header-crlf-injection/, CRLF-injection
 - https://www.sonarsource.com/blog/empowering-weak-primitives-file-truncation-to-code-execution-with-git/, Argument-injection
 - https://www.zerodayinitiative.com/blog/2023/2/27/cve-2022-38108-rce-in-solarwinds-network-performance-monitor, Insecure-deserialization
 - https://security.humanativaspa.it/abusing-mavens-pom-xml/, RCE
@@ -1685,7 +1684,6 @@
 - https://sites.google.com/securifyinc.com/vrp-writeups/waze/waze-xss, XSS
 - https://sites.google.com/securifyinc.com/vrp-writeups/gsuite/bookmark-xss-device-management, XSS
 - https://medium.com/@sandeepkumarsingh1902/bugbounty-adding-money-using-response-modification-334448d34251, Payment-tampering
-- https://medium.com/@impratikdabhi/reflected-xss-on-microsoft-com-via-angular-template-injection-2e26d80a7fd8, CSTI
 - https://web.archive.org/web/20210117211634/https://kurtikleiton.medium.com/blind-ssrf-on-coda-io-c7063f304455, SSRF
 - https://ysamm.com/?p=444, Information-disclosure
 - https://blog.sambal0x.com/2020/04/30/Hacking-razer-pay-ewallet-app.html, IDOR
@@ -1979,7 +1977,6 @@
 - https://medium.com/@mrnikhilsri/unauthenticated-account-takeover-through-http-leak-33386bb0ba0b, HTML-injection
 - https://medium.com/@jayateerthag/multiple-xss-in-skype-com-81d65919ed24, XSS
 - https://www.rcesecurity.com/2019/04/dell-kace-k1000-remote-code-execution-the-story-of-bug-k1-18652/, RCE
-- https://medium.com/@armaanpathan/scary-bug-in-burp-suite-upstream-proxy-allows-hackers-to-hack-hackers-e6fc9a8d60a, MiTM
 - https://www.valbrux.it/blog/2019/04/04/google-ads-information-disclosure-via-null-pointer-exception/, Information-disclosure
 - http://archive.ingredous.com/notes/downnotifer-ssrf/, SSRF
 - https://medium.com/@ritishkumarsingh/https-medium-com-ritishkumarsingh-facebook-vulnerability-hiding-from-facebook-page-admin-in-hacked-workflow-86f366f183c6, Logic-flaw
@@ -2065,7 +2062,6 @@
 - https://mohemiv.com/all/exploiting-xxe-with-local-dtd-files/, XXE
 - https://medium.com/bugbountywriteup/open-redirect-developers-are-lazy-or-maybe-busy-6c51718b10e4, Open-redirect
 - https://honoki.net/2018/12/from-blind-xxe-to-root-level-file-read-access/, Blind-XXE
-- https://medium.com/bugbountywriteup/how-i-was-able-to-generate-access-tokens-for-any-facebook-user-6b84392d0342, IDOR
 - https://medium.com/bugbountywriteup/token-brute-force-to-account-take-over-to-privilege-escalation-to-organization-take-over-650d14c7ce7f, Account-takeover
 - https://medium.com/@sampanna/self-xss-in-indeed-com-e0c99c104cba, XSS
 - https://medium.com/@rupika.luhach/change-anyones-profile-picture-exploiting-idor-41369f5acf75, IDOR
@@ -2450,7 +2446,6 @@
 - https://bitquark.co.uk/blog/2013/07/19/admob_creative_image_xss, XSS
 - http://www.rafayhackingarticles.net/2013/02/dom-based-xss-in-avg.html, DOM-XSS
 - https://whitton.io/archive/framing-part-1-click-jacking-etsy, Clickjacking
-- https://whitton.io/archive/persistent-xss-on-myworld-ebay-com/, XSS
 - https://josipfranjkovic.blogspot.com/2013/01/googlecom-cross-site-scripting-and.html, Stored-XSS
 - https://whitton.io/archive/my-experience-with-the-paypal-bug-bounty-programme/, CSRF
 - https://maustin.net/articles/2010-07/facebook_fbml_xss, XSS

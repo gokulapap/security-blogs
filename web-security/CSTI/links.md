@@ -6,3 +6,4 @@
 - https://xthemo.medium.com/stored-xss-at-nvidia-via-angular-js-template-injection-3c9793218860
 - https://portswigger.net/research/xss-without-html-client-side-template-injection-with-angularjs
 - https://bergee.it/blog/xss-via-angular-template-injection/
+- https://medium.com/@impratikdabhi/reflected-xss-on-microsoft-com-via-angular-template-injection-2e26d80a7fd8

@@ -191,3 +191,4 @@
 - https://medium.com/@YoKoKho/ribose-idor-with-simple-csrf-bypass-unrestricted-changes-and-deletion-to-other-photo-profile-e4393305274e
 - https://www.amolbaikar.com/disclose-full-admin-list-of-any-facebook-applications/
 - https://web.archive.org/web/20200223073527/https://victoni.github.io/changing-userID-leads-to-data-leak/
+- https://medium.com/bugbountywriteup/how-i-was-able-to-generate-access-tokens-for-any-facebook-user-6b84392d0342
