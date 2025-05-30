@@ -1,2 +1,3 @@
 - https://www.rapid7.com/blog/post/2022/06/23/cve-2022-31749-watchguard-authenticated-arbitrary-file-read-write-fixed/
 - https://blog.sonarsource.com/securing-developer-tools-a-new-supply-chain-attack-on-php/
+- https://blog.sonarsource.com/php-supply-chain-attack-on-composer/

@@ -54,3 +54,4 @@
 - https://hacksys.io/blogs/adobe-reader-xfa-ansi-unicode-confusion-information-leak
 - https://blog.quarkslab.com/vulnerabilities-in-the-tpm-20-reference-implementation-code.html
 - https://starlabs.sg/blog/2022/09-step-by-step-walkthrough-of-cve-2022-32792/
+- https://www.randorisec.fr/yet-another-bug-netfilter/

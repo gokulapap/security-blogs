@@ -835,7 +835,6 @@
 - https://portswigger.net/research/bypassing-csp-with-dangling-iframes, CSP-bypass
 - https://medium.com/@janijay007/how-i-was-able-to-see-likes-and-dislikes-count-which-is-hidden-by-victim-youtube-1-fa9cfe7cce7d, Logic-flaw
 - https://medium.com/tenable-techblog/microsoft-azure-synapse-pwnalytics-87c99c036291, Privilege-escalation
-- https://www.randorisec.fr/yet-another-bug-netfilter/, Memory-corruption
 - https://haxatron.gitbook.io/vulnerability-research/vr2, SSRF
 - https://infosecwriteups.com/how-i-found-a-critical-bug-in-instagram-and-got-49500-bounty-from-facebook-626ff2c6a853, IDOR
 - https://www.shielder.com/advisories/autodesk-fusion-import-svg-blind-xxe/, XXE
@@ -1287,7 +1286,6 @@
 - https://www.jomar.fr/posts/2021/ssrf_through_pdf_generation/, SSRF
 - https://www.pentagrid.ch/de/blog/password-reset-code-brute-force-vulnerability-in-AWS-Cognito/, Password-reset
 - https://ysamm.com/?p=667, OAuth
-- https://blog.sonarsource.com/php-supply-chain-attack-on-composer/, Argument-injection
 - https://bughunter25.medium.com/a-tale-of-html-to-pdf-converter-ssrf-and-various-bypasses-4a3e11030c77, SSRF
 - https://feed.bugs.xdavidhu.me/bugs/0003, Privacy-issue
 - https://polarply.medium.com/the-false-oracle-azure-functions-padding-oracle-issue-2025e0e6b8a, Padding-oracle-attack
@@ -1458,7 +1456,6 @@
 - https://shahjerry33.medium.com/server-side-misconfigurartion-a-funny-fix-63cc12b4c7fc, Information-disclosure
 - https://medium.com/@logicbomb_1/tale-of-3-vulnerabilities-to-account-takeover-44ba631a0304, SSRF
 - https://evait.medium.com/pentest-story-empirum-password-decryption-3a9e2530aba7, Weak-crypto
-- http://www.firstsight.me/2020/11/optimizing-hunting-results-in-vdp-for-use-in-bug-bounty-programs-from-sensitive-information-disclosure-to-accessing-hidden-apis-which-can-be-used-to-retrieve-customer-data/, Information-disclosure
 - https://www.pethuraj.com/blog/microsoft-bug-bounty-writeup-stored-xss-vulnerability/, Stored-XSS
 - https://rafi-ahamed.medium.com/exploiting-api-with-authtoken-3bea7b1fb6a9, Token-leak
 - https://medium.com/@prakashpanta1999/replying-comments-on-someones-livestream-from-page-is-posted-as-personal-identity-5fe79ef78b28, Logic-flaw
@@ -1743,7 +1740,6 @@
 - https://smaranchand.com.np/2020/02/the-tricky-xss/, XSS
 - https://ysamm.com/?p=379, CSRF
 - https://medium.com/@abhishake100/rce-via-apache-struts2-still-out-there-b15ce205aa21, RCE
-- https://medium.com/@harrmahar/how-i-get-my-first-p1-sensitive-information-disclosure-using-wpscan-c2fba00ac361, Information-disclosure
 - https://medium.com/@Mr.Daman.Singh/how-i-found-3-ssrf-in-one-day-on-different-bug-bounty-targets-62e91b4268f8, SSRF
 - https://web.archive.org/web/20200513211717/https://mrss4nd0x.000webhostapp.com/Stored-XSS-on-groups-google-com.php, Stored-XSS
 - https://medium.com/@DarkMatterMatt/breaking-a-discord-channel-with-a-single-message-5095eb7604f1, DoS
@@ -2136,7 +2132,6 @@
 - https://medium.com/intigriti/how-i-hijacked-your-account-when-you-opened-my-cat-picture-9a0a0acca9e8, Logout-CSRF
 - https://medium.com/@Mthirup/hacking-your-own-antivirus-for-fun-and-profit-safe-browsing-gone-wrong-365db9d1d3f7, Reflected-XSS
 - https://medium.com/@aniltom/open-redirect-vulnerability-in-udacity-com-7cba7abcfd48, Open-redirect
-- https://medium.com/@thebuckhacker/how-to-do-55-000-subdomain-takeover-in-a-blink-of-an-eye-a94954c3fc75, Subdomain-takeover
 - https://www.hackerinside.me/2018/09/stored-xss-vulnerability-in-h1c-private.html, Stored-XSS
 - https://blog.securitybreached.org/2018/09/09/zol-zimbabwe-authbypass-sqli-xss/, XSS
 - https://websecblog.com/vulns/reflected-xss-in-google-code-jam/, Reflected-XSS
