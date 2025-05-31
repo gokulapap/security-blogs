@@ -9,3 +9,4 @@
 - https://medium.com/bugbountywriteup/chaining-self-xss-with-ui-redressing-is-leading-to-session-hijacking-pwn-users-like-a-boss-efb46249cd14
 - https://blog.lightspin.io/aws-sagemaker-notebook-takeover-vulnerability
 - https://medium.com/@mydudehello91/how-i-hacked-scopely-and-got-c60772f77d41
+- https://ahmadaabdulla.medium.com/mr-robot-self-xss-from-informative-to-high-1200-csrf-open-redirect-self-xss-to-stored-92f371ba3da1
