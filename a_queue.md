@@ -1352,7 +1352,6 @@
 - https://saajan.bhujel.cyou/blog/web/2021-02-26-password-reset-token-leak-via-x-forwarded-host, Host-header-injection
 - https://web-in-security.blogspot.com/2021/02/security-and-privacy-of-social-logins-part2.html, DOM-XSS
 - https://zdresearch.com/rce-on-a-laravel-private-program/, RCE
-- https://thevillagehacker.medium.com/account-take-over-by-response-manipulation-e1293ee51e9a, Authentication-bypass
 - https://ysamm.com/?p=640, Information-disclosure
 - https://ysamm.com/?p=636, Information-disclosure
 - https://ysamm.com/?p=634, Information-disclosure
@@ -1787,7 +1786,6 @@
 - https://medium.com/@irounakdhadiwal999/stored-iframe-injection-csrf-account-takeover-42c93ad13f5d, HTML-injection
 - https://m0chan.github.io/2019/12/16/Subdomain-Takeover-Azure-CDN.html, Subdomain-takeover
 - https://offensi.com/2019/12/16/4-google-cloud-shell-bugs-explained-introduction/, RCE
-- https://fellchase.blogspot.com/2019/12/authorization-bug-that-every-bug-hunter-missed-on-a-popular-program.html, Authorization-flaw
 - https://medium.com/@dPhoeniixx/vimeo-upload-function-ssrf-7466d8630437, SSRF
 - https://www.ezequiel.tech/p/500-getclass.html, Sandbox-bypass
 - https://medium.com/@navne3t/a-25-easy-bug-bdfcde4d1370, Session-management-issue
@@ -1943,7 +1941,6 @@
 - https://medium.com/@sandh0t/think-outside-the-scope-advanced-cors-exploitation-techniques-dad019c68397, CORS-misconfiguration
 - https://web.archive.org/web/20190515123715/https://medium.com/@0ktavandi/blind-ssrf-in-stripe-com-due-to-sentry-misconfiguration-60ebb6a40b5, Blind-SSRF
 - https://medium.com/a-bugz-life/4x-csrfs-chained-for-company-account-takeover-f9fada416986, CSRF
-- https://medium.com/@frostnull1337/sql-injection-through-user-agent-44a1150f6888, SQL-injection
 - https://medium.com/@w_hat_boy/server-side-request-forgery-ssrf-port-issue-hidden-approch-f4e67bd8cc86, SSRF
 - https://www.gosecure.net/blog/2019/05/02/esi-injection-part-2-abusing-specific-implementations/, ESI-injection
 - https://utkusen.com/blog/why-you-shouldnt-use-password-manager-for-linode.html, Account-takeover
@@ -2153,7 +2150,6 @@
 - https://medium.com/bugbountywriteup/from-tomcat-to-nt-authority-system-a79fa09c4abb, Default-credentials
 - https://medium.com/@carlosdanielgiovanella/this-is-how-can-i-spoof-any-sentry-log-infinitely-and-create-fake-error-logs-74406367f4ba, Content-spoofing
 - https://steemit.com/cryptocurrency/@mabdullah22/how-i-hacked-a-crypto-exchange-bug-bounty-writeup, IDOR
-- https://dev.to/antogarand/from-data-leak-to-account-takeover-1kck, Account-takeover
 - https://medium.com/@friendly_/reflected-xss-primagames-com-c7a641912626, Reflected-XSS
 - https://www.secjuice.com/logical-bug-at-edmodo/, Logic-flaw
 - https://blog.evanricafort.com/2018/08/blind-xss-in-chrome-experiments-google.html, Blind-XSS
@@ -2178,7 +2174,6 @@
 - https://medium.com/@jonathanbouman/persistent-xss-at-ah-nl-198fe7b4c781, Stored-XSS
 - https://medium.com/@logicbomb_1/bugbounty-compromising-user-account-how-i-was-able-to-compromise-user-account-via-http-4288068b901f, HTTP-parameter-pollution
 - https://leigh-annegalloway.com/tumblr/, Captcha-bypass
-- https://www.cyberonesecurity.com/blog/unauthenticated-command-injection-vulnerability-in-vmware-nsx-sd-wan-by-velocloud, OS-command-injection
 - https://zseano.medium.com/how-re-signing-up-for-an-account-lead-to-account-takeover-3a63a628fd9f, Logic-flaw
 - https://medium.com/@yassergersy/account-take-over-via-reset-password-f2e9d887bce1, Password-reset
 - https://blog.bentkowski.info/2018/06/xss-in-google-colaboratory-csp-bypass.html, XSS

@@ -88,3 +88,4 @@
 - https://medium.com/@elberandre/broken-access-posting-to-google-private-groups-through-any-user-in-the-group-3becfa818894
 - https://lokeshdlk77.medium.com/delete-any-photos-in-facebook-832dbe81cdc4
 - https://ysamm.com/?p=606
+- https://fellchase.blogspot.com/2019/12/authorization-bug-that-every-bug-hunter-missed-on-a-popular-program.html

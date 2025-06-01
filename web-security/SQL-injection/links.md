@@ -77,3 +77,4 @@
 - https://web.archive.org/web/20201022201335/https://www.mohamedharon.com/2018/04/my-best-small-report-bounty-report-in.html
 - https://infosecwriteups.com/how-a-youtube-video-lead-to-pwning-a-web-application-via-sql-injection-worth-4324-bounty-285f0a9b9f6c
 - https://labs.jumpsec.com/zoho-manage-engine-desktop-central-sql-injection-arbitrary-file-write/
+- https://medium.com/@frostnull1337/sql-injection-through-user-agent-44a1150f6888

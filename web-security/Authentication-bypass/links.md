@@ -49,3 +49,4 @@
 - https://www.ghostccamm.com/blog/multi_strapi_vulns/
 - https://www.rafaybaloch.com/2020/10/multiple-address-bar-spoofing-vulnerabilities.html
 - https://blog.paradoxis.nl/yafpc-unauthenticated-remote-code-execution-755bf9e4d7c1
+- https://thevillagehacker.medium.com/account-take-over-by-response-manipulation-e1293ee51e9a
