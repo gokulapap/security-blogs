@@ -80,3 +80,4 @@
 - https://guptashubham.com/svg-xss-in-unifi-v5-0-2/
 - https://medium.com/bugbountywriteup/what-do-netcat-smtp-and-self-xss-have-in-common-stored-xss-a05648b72002
 - https://octa-mihail.medium.com/my-first-bounty-on-synack-red-team-4ef53329c960
+- https://www.hackerinside.me/2018/09/stored-xss-vulnerability-in-h1c-private.html

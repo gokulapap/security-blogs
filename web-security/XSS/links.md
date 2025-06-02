@@ -227,3 +227,4 @@
 - https://cems.fun/2022/12/26/CVE-2017-8758.html
 - https://medium.com/@mohammed01550038865/how-i-discovred-xss-via-url-encode-3-times-86ccd5354081
 - https://whitton.io/archive/persistent-xss-on-myworld-ebay-com/
+- https://blog.bentkowski.info/2018/06/xss-in-google-colaboratory-csp-bypass.html
