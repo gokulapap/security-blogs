@@ -9,7 +9,6 @@
 - https://medium.com/@amit-lt/scenario-of-reflected-cross-site-scripting-vulnerability-a3ee189dd822, XSS
 - https://medium.com/@vignesh3004/open-redirect-vulnerability-in-igp-com-c1d76efc59b3, open-redirection
 - https://medium.com/@arthbajpai277/beginners-guide-of-bug-bounty-by-arth-bajpai-5c6eb27c023, journey
-- https://medium.com/@thexssrat/ultimate-xxe-beginner-guide-f3bd123b1f4a, XXE
 - https://medium.com/@sumedh00/accessing-admin-dashboard-in-5-seconds-acee737eacfb, journey
 - https://medium.com/@whitehatcyber404/how-to-find-escalating-html-to-ssrf-i-instantly-got-the-hof-within-5minutes-805f173c34e4, ssrf
 - https://medium.com/@that-odd-introvert/django-security-xss-a7722cff2326, CVE
@@ -526,7 +525,6 @@
 - https://medium.com/bored-engineer/xss-on-account-leagueoflegends-com-via-easyxdm-2016-75bcf9d582b5, XSS
 - https://medium.com/@Hossam.Mesbah/broken-access-control-misconfiguration-beautiful-privilege-escalation-e4fdfd018efa, Broken-Access-Control
 - https://medium.com/@aa.pietruczuk/improper-error-handling-leads-to-exposing-internal-tokens-3355d6b43a32, Information-disclosure
-- https://ltidi.medium.com/the-untold-sendbird-misconfigurations-1496d252bc69, Broken-Access-Control
 - https://offsec.space/posts/airtel-vulnerabilities/, Arbitrary-Code-Execution
 - https://infosecwriteups.com/unique-rate-limit-bypass-worth-1800-6e2947c7d972, Rate-limiting-bypass
 - https://bhashit.in/?p=117, OS-command-injection
@@ -1214,7 +1212,6 @@
 - https://donjon.ledger.com/kaspersky-password-manager/, Weak-crypto
 - https://philippeharewood.com/bulletin-com-email-address-leak/, Information-disclosure
 - https://portswigger.net/research/finding-dom-polyglot-xss-in-paypal-the-easy-way, DOM-XSS
-- https://portswigger.net/research/pre-auth-rce-in-forgerock-openam-cve-2021-35464, RCE
 - https://blog.tyage.net/posts/2021-06-27-dependabot-rce/, SSRF
 - https://ysamm.com/?p=702, CSRF
 - https://ysamm.com/?p=700, Information-disclosure
@@ -1225,7 +1222,6 @@
 - https://web.archive.org/web/20210910154714/https://ricardoiramar.medium.com/msrc-is-confused-5d86b23c2e88, Dependency-confusion
 - https://gccybermonks.com/posts/msstorebypass/, Payment-tampering
 - https://blog.evanricafort.com/2021/06/generate-online-votes-using-race.html, Race-condition
-- https://craighays.com/cracking-encrypted-credit-card-numbers-exposed-by-api/, Information-disclosure
 - https://sm4rty.medium.com/stored-xss-via-invite-leading-to-mass-account-takeover-at-opera-a85ed257dd12, Stored-XSS
 - https://ertugrull.medium.com/unprivileged-user-with-read-write-permission-to-user-access-can-escalate-their-role-to-admin-a217d2d280a8, Privilege-escalation
 - https://pwn.vg/articles/2021-06/local-file-read-via-error-based-xxe, XXE
@@ -1794,7 +1790,6 @@
 - https://blog.darabi.me/2019/12/instagram-delete-media-csrf.html, CSRF
 - https://github.com/Metnew/telegram-links-nsworkspace-open, RCE
 - https://blog.evanricafort.com/2019/12/html-injection-to-xss-bypass-in.html, Reflected-XSS
-- https://medium.com/@navne3t/150-xss-at-error-page-of-respository-code-4fc628892742, Reflected-XSS
 - https://www.hackerinside.me/2019/12/xss-like-pro.html, XSS
 - https://medium.com/bugbountywriteup/dank-writeup-on-broken-access-control-on-an-indian-startup-d29132a1ecd, Unrestricted-file-upload
 - https://rez0.blog/hacking/2019/11/29/rce-via-imagetragick.html, RCE

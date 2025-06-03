@@ -18,3 +18,4 @@
 - https://www.whiteoaksecurity.com/blog/logicaldoc-vulnerability-disclosure/
 - https://cinzinga.com/XXE-Case-Studies/
 - https://0xgaurang.medium.com/out-of-band-xxe-in-an-e-commerce-ios-app-e22981f7b59b
+- https://medium.com/@thexssrat/ultimate-xxe-beginner-guide-f3bd123b1f4a
