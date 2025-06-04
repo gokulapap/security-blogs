@@ -596,7 +596,6 @@
 - https://web.archive.org/web/20221025185418/https://bergee.it/blog/chaining-multiple-vulnerabilities-for-credential-stealing/, CSRF
 - https://mechboy.medium.com/support-supports-a-hacker-be9931104923, Social-engineering
 - https://srcincite.io/blog/2022/10/25/eat-what-you-kill-pre-authenticated-rce-in-vmware-nsx-manager.html, RCE
-- https://hamzadzworm.medium.com/5000-for-apple-stored-xss-and-another-blind-xss-still-under-review-e9f6f5a76eb1, Blind-XSS
 - https://medium.com/@raymond-lind/how-i-found-a-simple-stored-xss-9a6b1c5e0afa, Stored-XSS
 - https://bishopfox.com/blog/jira-align-advisory, SSRF
 - https://www.redteam-pentesting.de/en/advisories/rt-sa-2021-003/-missing-authentication-in-zkteco-zem-zmm-web-interface, Missing-authentication
@@ -607,7 +606,6 @@
 - https://medium.com/@h4x0r_dz/23000-for-authentication-bypass-file-upload-arbitrary-file-overwrite-2578b730a5f8, JWT
 - https://www.mdsec.co.uk/2022/10/microsoft-office-online-server-remote-code-execution/, SSRF
 - https://blog.doyensec.com/2022/10/18/cloudsectidbit-dataimport.html, Cloud
-- https://securityintelligence.com/posts/analysis-rce-vulnerability-cobalt-strike/, RCE
 - https://lokeshdlk77.medium.com/facebook-sms-captcha-was-vulnerable-to-csrf-attack-8db537b1e980, CSRF
 - https://web.archive.org/web/20221017025828/https://medium.com/@EX_097/my-first-critical-bug-in-hackerone-platform-2ce9adcb39a6, HTTP-request-smuggling
 - https://blog.kylebot.net/2022/10/16/CVE-2022-1786/, Use-After-Free
@@ -1100,7 +1098,6 @@
 - https://med-mahmoudi26.medium.com/from-staging-to-0-click-account-takeover-528a5ecaa3eb, Account-takeover
 - https://www.gosecure.net/blog/2021/10/19/a-scientific-notation-bug-in-mysql-left-aws-waf-clients-vulnerable-to-sql-injection/, SQL-injection
 - https://web.archive.org/web/20221128060608/https://wya.pl/2021/10/18/shells-and-soap-websphere-deserialization-to-rce/, RCE
-- https://irsl.medium.com/the-speckle-umbrella-story-part-2-fcc0193614ea, Information-disclosure
 - https://infosecwriteups.com/how-i-escalated-a-time-based-sql-injection-to-rce-bbf0d68cb398, SQL-injection
 - https://muhammad-aamir.medium.com/exploitation-of-files-download-parameters-to-create-potential-risk-of-malware-delivery-200-bug-e2bcce0e737, CSRF
 - https://omespino.com/write-up-google-vrp-n-a-arbitrary-local-file-read-macos-via-a-tag-and-null-byte-in-google-earth-pro-desktop-app/, Local-File-Read
@@ -2304,7 +2301,6 @@
 - https://medium.com/@arbazhussain/bypassing-rate-limit-protection-by-spoofing-originating-ip-ff06adf34157, Bruteforce
 - https://web.archive.org/web/20220818204507/https://www.rcesecurity.com/2017/08/from-lfi-to-rce-via-php-sessions/, LFI
 - https://philippeharewood.com/facebook-stories-disclose-facebook-friend-list/, Logic-flaw
-- https://nahamsec.com/posts/secure-your-jenkins-instance-or-hackers-will-force-you-to-snapchats-5000-vulnerability, RCE
 - https://lightningsecurity.io/blog/password-not-provided/, Authentication-flaw
 - http://c0rni3sm.blogspot.com/2017/08/accidentally-typo-to-bypass.html, Authentication-bypass
 - https://medium.com/@saamux/reflected-xss-on-www-yahoo-com-9b1857cecb8c, Reflected-XSS
@@ -2339,7 +2335,6 @@
 - https://philippeharewood.com/find-mingle-suggestions-for-any-facebook-user-revisited/, Logic-flaw
 - https://medium.com/@rojanrijal/i-got-emails-g-suite-vulnerability-917e1f6a91f6, Logic-flaw
 - https://web.archive.org/web/20190506160222/https://tutorgeeks.blogspot.com/2017/04/aws-s3-bucket-misconfiguration.html, AWS-misconfiguration
-- https://medium.com/bugbountywriteup/hundreds-of-hundreds-subdomains-hack3d-including-hacker0ne-ad3acd1c0a44, Subdomain-takeover
 - https://blog.ettic.ca/near-universal-xss-in-mcafee-web-gateway-cf8dfcbc8fc3, XSS
 - https://emtunc.org/blog/03/2017/bypassing-safe-links-exchange-online-advanced-threat-protection/, Open-redirect
 - https://buer.haus/2017/03/08/airbnb-when-bypassing-json-encoding-xss-filter-waf-csp-and-auditor-turns-into-eight-vulnerabilities/, XSS

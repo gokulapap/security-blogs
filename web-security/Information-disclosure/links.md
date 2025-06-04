@@ -213,3 +213,4 @@
 - https://medium.com/@harrmahar/how-i-get-my-first-p1-sensitive-information-disclosure-using-wpscan-c2fba00ac361
 - https://mikekitckchan.medium.com/from-google-dorking-to-information-disclosure-5da4f1d771e5
 - https://craighays.com/cracking-encrypted-credit-card-numbers-exposed-by-api/
+- https://irsl.medium.com/the-speckle-umbrella-story-part-2-fcc0193614ea

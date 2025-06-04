@@ -215,3 +215,5 @@
 - https://www.synacktiv.com/sites/default/files/2023-03/Synacktiv-BIRTViewer-CVE-2023-0100_1.pdf
 - https://blog.assetnote.io/2023/02/01/rce-in-avaya-aura/
 - https://portswigger.net/research/pre-auth-rce-in-forgerock-openam-cve-2021-35464
+- https://securityintelligence.com/posts/analysis-rce-vulnerability-cobalt-strike/
+- https://nahamsec.com/posts/secure-your-jenkins-instance-or-hackers-will-force-you-to-snapchats-5000-vulnerability
