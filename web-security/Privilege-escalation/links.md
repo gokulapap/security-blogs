@@ -45,3 +45,4 @@
 - https://unit42.paloaltonetworks.com/gke-autopilot-vulnerabilities/
 - https://www.intezer.com/blog/cloud-security/cve-2021-27075-microsoft-azure-vulnerability-allows-privilege-escalation-and-leak-of-data/
 - https://www.akamai.com/blog/security-research/important-outlook-vulnerability-bypass-windows-api
+- https://dewangpanchal98.medium.com/admin-access-799b50694965

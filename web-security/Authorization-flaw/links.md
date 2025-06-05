@@ -89,3 +89,4 @@
 - https://lokeshdlk77.medium.com/delete-any-photos-in-facebook-832dbe81cdc4
 - https://ysamm.com/?p=606
 - https://fellchase.blogspot.com/2019/12/authorization-bug-that-every-bug-hunter-missed-on-a-popular-program.html
+- https://baibhavjha.com.np/blogs/instagramstory2/

@@ -153,7 +153,6 @@
 - https://labs.withsecure.com/publications/executing-arbitrary-code-executables-in-read-only-filesystems, Kubernetes
 - https://www.kroll.com/en/insights/publications/cyber/ghostscript-cve-2023-36664-remote-code-execution-vulnerability, RCE
 - https://medium.com/workday-engineering/exploiting-jmeter-via-rmi-e8e12392bba8, Insecure-deserialization
-- https://insinuator.net/2023/07/all-your-parcel-are-belong-to-us-talk-at-troopers-2023/, Privacy-issue
 - https://d4ly.medium.com/an-interesting-rce-on-a-synack-red-team-target-516edb63fd04, RCE
 - https://herolab.usd.de/en/critical-foswiki-vulnerablities-a-logic-error-turned-remote-code-execution/, RCE
 - https://www.rapid7.com/blog/post/2023/07/11/cve-2023-29298-adobe-coldfusion-access-control-bypass/, Broken-Access-Control
@@ -943,7 +942,6 @@
 - https://apth3hack3r.medium.com/xss-through-base64-encoded-json-4b0d96e5ccd4, XSS
 - https://bloggerrando.blogspot.com/2022/03/13-1.html, Broken-Access-Control
 - https://canmustdie.medium.com/how-did-i-leak-5-2k-customer-data-from-a-large-company-via-broken-access-control-709eb4027409, Broken-Access-Control
-- https://orca.security/resources/blog/autowarp-microsoft-azure-automation-service-vulnerability/, Cross-tenant-vulnerability
 - https://medium.com/@sandh0t/the-bad-twin-a-peculiar-case-of-jwt-exploitation-scenario-1efa03e891c0, Account-takeover
 - https://infosecwriteups.com/whatsapp-bug-bounty-bypassing-biometric-authentication-using-voip-87548ef7a0ba, Authentication-bypass
 - https://www.rapid7.com/blog/post/2022/03/03/cve-2021-4191-gitlab-graphql-api-user-enumeration-fixed/, Username-enumeration
@@ -1129,7 +1127,6 @@
 - https://gccybermonks.com/posts/mxss/, XSS
 - https://medium.com/@varmaanu001/cookie-stealing-via-clickjacking-using-burp-collaborator-ff6f4ac1c18b, Clickjacking
 - https://codewhitesec.blogspot.com/2021/09/citrix-sharefile-rce-cve-2021-22941.html, RCE
-- https://dewangpanchal98.medium.com/admin-access-799b50694965, Privilege-escalation
 - https://fardeen-ahmed.medium.com/a-small-change-and-things-go-in-your-hand-story-of-a-250-bounty-5ddc43c31463, Information-disclosure
 - https://u-itachi.medium.com/from-phpinfo-page-to-many-p1-bugs-and-rce-symfony-bce432605662, File-disclosure
 - https://medium.com/@sarveshblogs/a-small-tale-of-account-takeover-2eba07a6ef5f, IDOR
@@ -1794,7 +1791,6 @@
 - https://web.archive.org/web/20200511012319/https://medium.com/@xhzeem/the-accounttakeover-killing-chain-6ba23f4c9d4, Account-takeover
 - https://medium.com/bugbountywriteup/stories-of-idor-part-2-29d313a39e55, IDOR
 - https://www.pankajinfosec.com/post/700-denial-of-service-dos-vulnerability-in-script-loader-php-cve-2018-6389, DoS
-- https://baibhavjha.com.np/blogs/instagramstory2/, Authorization-flaw
 - https://portswigger.net/research/cracking-recaptcha-turbo-intruder-style, Captcha-bypass
 - https://medium.com/@mohameddaher/how-i-paid-2-for-1054-xss-bug-20-chars-blind-xss-payloads-12d32760897b, XSS
 - https://web.archive.org/web/20200929013918/https://www.mohamedharon.com/2019/11/subdomain-takeover-via.html, Subdomain-takeover
@@ -2279,7 +2275,6 @@
 - https://ysx.me.uk/app-maker-and-colaboratory-a-stored-google-xss-double-bill/, Stored-XSS
 - https://medium.freecodecamp.org/messing-with-the-google-buganizer-system-for-15-600-in-bounties-58f86cc9f9a5, Logic-flaw
 - https://blog.intothesymmetry.com/2017/10/slack-saml-authentication-bypass.html, Authentication-bypass
-- https://medium.com/@th3g3nt3l/how-i-found-an-ssrf-in-yahoo-guesthouse-recon-wins-8722672e41d4, SSRF
 - https://kciredor.com/taking-over-every-ad-on-olx-automated-an-idor-story.html, IDOR
 - https://web.archive.org/web/20180704183048/http://stamone-bug-bounty.blogspot.com/2017/10/dom-xss-auth_14.html, DOM-XSS
 - https://medium.com/bugbountywriteup/how-i-was-able-to-see-someones-all-private-files-with-a-single-file-share-link-through-atom-feed-7cde46d7e84d, Information-disclosure
