@@ -970,7 +970,6 @@
 - https://thehackerblog.com/zero-days-without-incident-compromising-angular-via-expired-npm-publisher-email-domains-7kZplW4x/, Supply-chain-attack
 - https://twitter.com/FlashbackPwn/status/1492074441450397698, Memory-corruption
 - https://twitter.com/m7mdharon/status/1492204287295897600, Subdomain-takeover
-- https://www.zerodayinitiative.com/blog/2022/2/10/mindshare-when-mysql-cluster-encounters-taint-analysis, Memory-corruption
 - https://onapsis.com/threat-report/icmad-sap-vulnerabilities, HTTP-request-smuggling
 - https://medium.com/@yaala/facebook-oauth-bypass-446a073e687d, OAuth
 - https://kailashbohara.com.np/blog/2022/02/04/bypassing-PHP-functions-to-read-system-file-copy/, Components-with-known-vulnerabilities
@@ -1050,7 +1049,6 @@
 - https://cyberguy0xd1.medium.com/my-write-up-in-hacking-ibms-administration-panel-and-getting-sqli-on-it-51404c7bee27, SQL-injection
 - https://blog.sonarsource.com/nodebb-remote-code-execution-with-one-shot, RCE
 - https://sh1yo.art/post/sec-596/, Reflected-XSS
-- https://medium.com/@thenighthawk0/how-i-got-my-first-bounty-on-financial-sector-gateway-site-by-using-previous-graphql-462cca7389ca, Information-disclosure
 - https://securifyinc.com/disclosures/rocketchat-monitor-messages, Authorization-flaw
 - https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/modsecurity-dos-vulnerability-in-json-parsing-cve-2021-42717/, DoS
 - https://zseano.medium.com/finding-xss-on-apple-com-and-building-a-proof-of-concept-to-leak-your-pii-information-d7bc93cff2df, XSS
@@ -1232,7 +1230,6 @@
 - https://pratikkhalane91.medium.com/how-i-was-able-to-bypass-the-admin-panel-without-the-credentials-d65f90e0e1e4, Information-disclosure
 - https://youst.in/posts/bypassing-2fa-using-openid-misconfiguration/, MFA-bypass
 - https://0xdekster.medium.com/second-order-race-condition-be8aaf774783, Race-condition
-- https://infosecwriteups.com/how-i-was-able-to-bypass-parental-pin-of-showmax-e6d6ec3af92d, Authorization-flaw
 - https://vedanttekale20.medium.com/story-of-my-first-cash-bounty-on-hackerone-acad282ae962, SSRF
 - https://batee5a.medium.com/shopify-multipass-misconfiguration-2bc85e92ad1d, Authentication-flaw
 - https://bloggerrando.blogspot.com/2021/06/how-many-likes-and-dislikes-that-was.html, Broken-Access-Control
@@ -1468,7 +1465,6 @@
 - https://samcurry.net/hacking-apple/, RCE
 - https://praseudo.com/sensitive-info-leak-in-curve-app-bug-bounty/, Information-disclosure
 - https://ninetyn1ne.github.io/2020-10-05-open-redir-to-ato/, Path-traversal
-- https://medium.com/@ironfisto/easy-wins-verbose-error-worth-facebook-hof-7d8a99dd920b, Information-disclosure
 - https://medium.com/@vedanttekale20/spend-more-time-doing-recon-youll-get-more-bugs-e7ffd5bf9202, Reflected-XSS
 - https://medium.com/@vasuyadav0786/exploiting-payment-gateways-97ce7af5a9cf, Payment-tampering
 - https://medium.com/@harshtya9i/journey-of-my-first-bug-bounty-nov-2018-af471c21efc0, Authentication-bypass
@@ -1639,7 +1635,6 @@
 - https://jub0bs.com/posts/2020-05-26-idor/, IDOR
 - https://andrei-abakumov.medium.com/how-dangerous-is-request-splitting-a-vulnerability-in-golang-or-how-we-found-the-rce-in-portainer-7339ba24c871, HTTP-request-splitting
 - https://medium.com/@pallabjyoti218/story-about-otp-bypass-to-stored-xss-81bfd735c709, OTP-bypass
-- https://medium.com/@ciph3r7r0ll/parsing-the-dom-elements-of-other-pages-via-xss-bug-bounty-story-46d517e6711d, XSS
 - https://www.ezequiel.tech/2020/05/rce-in-cloud-dm.html, SSRF
 - https://philippeharewood.com/change-any-link-at-https-fbwat-ch/, Authorization-flaw
 - https://healdb.tech/blog/teradici.html, Missing-authentication

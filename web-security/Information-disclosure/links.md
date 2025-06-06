@@ -214,3 +214,5 @@
 - https://mikekitckchan.medium.com/from-google-dorking-to-information-disclosure-5da4f1d771e5
 - https://craighays.com/cracking-encrypted-credit-card-numbers-exposed-by-api/
 - https://irsl.medium.com/the-speckle-umbrella-story-part-2-fcc0193614ea
+- https://medium.com/@ironfisto/easy-wins-verbose-error-worth-facebook-hof-7d8a99dd920b
+- https://medium.com/@thenighthawk0/how-i-got-my-first-bounty-on-financial-sector-gateway-site-by-using-previous-graphql-462cca7389ca

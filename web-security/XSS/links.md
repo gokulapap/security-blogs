@@ -228,3 +228,4 @@
 - https://medium.com/@mohammed01550038865/how-i-discovred-xss-via-url-encode-3-times-86ccd5354081
 - https://whitton.io/archive/persistent-xss-on-myworld-ebay-com/
 - https://blog.bentkowski.info/2018/06/xss-in-google-colaboratory-csp-bypass.html
+- https://medium.com/@ciph3r7r0ll/parsing-the-dom-elements-of-other-pages-via-xss-bug-bounty-story-46d517e6711d
