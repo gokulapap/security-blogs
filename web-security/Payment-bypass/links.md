@@ -10,3 +10,4 @@
 - https://aidilarf.medium.com/how-do-i-bypass-payment-when-a-subscription-ends-so-i-dont-have-to-pay-for-my-subscription-3889ab3f7484
 - https://blog.securitybreached.org/2018/05/18/get-subscription-of-120-year-for-free-bug-bounty-poc
 - https://shahjerry33.medium.com/business-logic-errors-art-of-testing-cards-4907cfb46a57
+- https://pratikyadav0.blogspot.com/2018/10/hello-everyone-took-some-time-from-my.html

@@ -669,7 +669,6 @@
 - https://cturt.github.io/mast1c0re.html, Memory-corruption
 - https://arben.sh/bugbounty/Blind-XXE-CVE-2019-12154/, Blind-XXE
 - https://blog.includesecurity.com/2021/06/hacking-unity-games-malicious-unity-game-objects/, Arbitrary-code-execution
-- https://www.vectra.ai/blogpost/undermining-microsoft-teams-security-by-mining-tokens, Insecure-storage-of-sensitive-information
 - https://hesec.de/posts/bbh-csrf/, CSRF
 - https://medium.com/@Parag_Bagul/how-i-was-able-to-bypass-philips-authentication-c3bd3e1df9ff, Outdated-component-with-a-known-vulnerability
 - https://www.legitsecurity.com/blog/bypassing-github-required-reviewers-to-submit-malicious-code, Authorization-flaw
@@ -823,7 +822,6 @@
 - https://labs.taszk.io/articles/post/unziploc/, Memory-corruption
 - https://notifybugme.medium.com/automating-reflected-xss-with-burp-suite-intruder-a39b2f060db7, Reflected-XSS
 - https://www.sonarsource.com/blog/zimbra-mail-stealing-clear-text-credentials-via-memcache-injection/, Memcache-injection
-- https://medium.com/@damaidec/403-bypass-on-a-fortune-100-financial-institution-p3-156d33bc6ed, Information-disclosure
 - https://github.com/andyperlitch/jsbn/issues/43, Cryptographic-issues
 - https://portswigger.net/research/bypassing-csp-with-dangling-iframes, CSP-bypass
 - https://medium.com/@janijay007/how-i-was-able-to-see-likes-and-dislikes-count-which-is-hidden-by-victim-youtube-1-fa9cfe7cce7d, Logic-flaw
@@ -1491,7 +1489,6 @@
 - https://www.ehpus.com/post/xss-fix-bypass-10000-bounty-in-google-maps, XSS
 - https://infosecwriteups.com/how-response-manipulation-got-me-a-little-but-sweet-bounty-38b515ca0910, MFA-bypass
 - https://medium.com/@smilehackerofficial/xss-that-can-pay-your-bills-9377eff1fd0d, Reflected-XSS
-- https://blog.deteact.com/account-takeover-via-idor/, IDOR
 - https://medium.com/bugbountywriteup/unhiding-the-hidden-2ef44192c10b, Client-side-enforcement-of-server-side-security
 - https://medium.com/bugbountywriteup/the-importance-of-keeping-up-to-date-or-how-i-found-an-interesting-bug-thanks-to-a-tweet-2ec6ba9a5e1e, Stored-XSS
 - https://blog.oversecured.com/Oversecured-automatically-discovers-persistent-code-execution-in-the-Google-Play-Core-Library/, Arbitrary-Code-Execution
@@ -1967,7 +1964,6 @@
 - https://medium.com/@sharan.panegav/account-takeover-using-cross-site-websocket-hijacking-cswh-99cf9cea6c50, Cross-Site-WebSocket-Hijacking
 - https://www.vulnano.com/2019/03/facebook-messenger-server-random-memory.html, Information-disclosure
 - https://medium.com/@addictrao20/fixed-register-any-email-address-on-facebook-account-c6d1c3eb810d, Authorization-flaw
-- http://www.tomanthony.co.uk/blog/facebook-bug-confirm-user-identities/, Information-disclosure
 - https://staaldraad.github.io/post/2019-03-02-universal-rce-ruby-yaml-load/, Insecure-deserialization
 - https://spyclub.tech/2019/02/26/horizontal-privilege-escalation-on-quora/, Privilege-escalation
 - https://medium.com/@logicbomb_1/chain-of-hacks-leading-to-database-compromise-b2bc2b883915, LFI
@@ -2080,7 +2076,6 @@
 - https://blog.harshjaiswal.com/path-traversal-while-uploading-results-in-rce, Path-traversal
 - https://medium.com/bugbountywriteup/add-description-to-instagram-posts-on-behalf-of-other-users-6500-7d55b4a24c5a, IDOR
 - https://medium.com/@yassergersy/access-to-staging-environment-via-user-agent-string-23470546577f, Authentication-bypass
-- https://pratikyadav0.blogspot.com/2018/10/hello-everyone-took-some-time-from-my.html, Payment-bypass
 - https://jonbottarini.com/2018/10/09/get-as-image-function-pulls-any-insights-nrql-data-from-any-new-relic-account-idor/, IDOR
 - https://medium.com/bugbountywriteup/make-any-unit-in-facebook-groups-undeletable-efb68e26adb9, Logic-flaw
 - https://medium.com/@jonathanbouman/persistent-xss-unvalidated-open-graph-embed-at-linkedin-com-db6188acedd9, Stored-XSS

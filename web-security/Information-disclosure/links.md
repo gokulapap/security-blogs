@@ -216,3 +216,5 @@
 - https://irsl.medium.com/the-speckle-umbrella-story-part-2-fcc0193614ea
 - https://medium.com/@ironfisto/easy-wins-verbose-error-worth-facebook-hof-7d8a99dd920b
 - https://medium.com/@thenighthawk0/how-i-got-my-first-bounty-on-financial-sector-gateway-site-by-using-previous-graphql-462cca7389ca
+- http://www.tomanthony.co.uk/blog/facebook-bug-confirm-user-identities/
+- https://medium.com/@damaidec/403-bypass-on-a-fortune-100-financial-institution-p3-156d33bc6ed
