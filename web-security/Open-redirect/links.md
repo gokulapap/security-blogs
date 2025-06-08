@@ -65,3 +65,4 @@
 - https://medium.com/@z0id/finding-open-redirects-like-a-pro-3b87fa474cfd
 - https://www.pethuraj.com/blog/paypal-bug-bounty-writeup/
 - https://medium.com/@sivakrishnasamireddi/how-i-earned-60k-from-private-program-71bd51554490
+- https://infosecwriteups.com/bypass-apples-redirection-process-with-the-dot-character-c47d40537202

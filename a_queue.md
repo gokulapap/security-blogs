@@ -479,7 +479,6 @@
 - https://mtechghost.medium.com/stored-xss-vulnerability-in-microsoft-booking-e593de3344e0, Stored-XSS
 - https://downrightnifty.me/blog/2022/12/26/hacking-google-home.html, IoT
 - https://medium.com/@tobydavenn/bypassing-ssrf-protections-45e5e3ac31e9, SSRF
-- https://infosecwriteups.com/bypass-apples-redirection-process-with-the-dot-character-c47d40537202, Open-redirect
 - https://github.com/PabloMK7/ENLBufferPwn, Buffer-Overflow
 - https://research.nccgroup.com/2022/12/22/puckungfu-a-netgear-wan-command-injection/, OS-command-injection
 - https://posts.specterops.io/passwordless-persistence-and-privilege-escalation-in-azure-98a01310be3f, Privilege-escalation
@@ -622,7 +621,6 @@
 - https://www.pentagrid.ch/de/blog/reflected-xss-vulnerability-in-crealogix-ebics-implementation/, Reflected-XSS
 - https://nmochea.medium.com/gcash-vulnerability-walkthrough-c7c938163dfb, Android
 - https://www.synacktiv.com/publications/persistent-php-payloads-in-pngs-how-to-inject-php-code-in-an-image-and-keep-it-there.html, Unrestricted-file-upload
-- https://mearegtu.medium.com/insecure-comments-73399193f804, IDOR
 - https://medium.com/stolabs/cve-2022-36635-a-sql-injection-in-zksecuritybio-to-rce-c5bde2962d47, SQL-injection
 - https://tantosec.com/blog/cve-2022-41343/, RCE
 - https://c0nqr0r.medium.com/error-based-sql-injection-with-waf-bypass-manual-exploit-100-bab36b769005, SQL-injection
@@ -2107,7 +2105,6 @@
 - https://blog.securitybreached.org/2018/09/07/rce-jenkins-instance-dosomething-org-bug-bounty-poc/, RCE
 - https://medium.com/@ciph3r7r0ll/simple-login-brute-force-current-password-requirement-bypass-e8f58931e257, IDOR
 - https://medium.com/@mahitman1/i-own-your-customers-22e965761abd, Information-disclosure
-- https://web.archive.org/web/20200929012934/https://www.mohamedharon.com/2018/08/mapboxxss.html, Reflected-XSS
 - https://medium.com/@D0rkerDevil/a-infinite-loop-story-f2bc05771a88, DoS
 - https://web.archive.org/web/20200929004149/https://www.mohamedharon.com/2018/08/wordpressXSS.html, Flash-XSS
 - https://medium.com/@D0rkerDevil/how-i-found-a-1500-worth-deserialization-vulnerability-9ce753416e0a, Misconfigured-JSF-ViewState
@@ -2225,7 +2222,6 @@
 - https://web.archive.org/web/20210122102751/https://www.guptashubham.com/how-i-got-22000-worth-ethereum/, Blind-XSS
 - https://medium.com/@pig.wig45/json-csrf-attack-on-a-social-networking-site-hackerone-platform-3d7aed3239b0, CSRF
 - https://medium.freecodecamp.org/how-anyone-could-have-used-uber-to-ride-for-free-36cdee5ea854, Logic-flaw
-- https://medium.com/@saamux/full-account-takeover-through-cors-with-connection-sockets-179133384815, CORS-misconfiguration
 - http://blog.jr0ch17.com/2018/No-RCE-then-SSH-to-the-box/, LFI
 - http://omespino.com/write-up-file-disclosure-via-ds_store-file-macos, Directory-listing
 - https://medium.com/@circleninja/internshala-bug-in-internshala-student-partner-33d7b66c1bd5, Bruteforce
@@ -2296,7 +2292,6 @@
 - https://medium.com/@arbazhussain/referer-based-xss-52aeff7b09e7, XSS
 - https://labs.detectify.com/2017/07/27/how-we-invented-the-tesla-dom-doom-xss/, DOM-XSS
 - https://medium.com/@arbazhussain/stored-xss-on-rockstar-game-c008ec18d071, XSS
-- https://medium.com/@arbazhussain/exploiting-misconfigured-cors-on-popular-btc-site-2aedfff906f6, CORS-misconfiguration
 - https://medium.com/@arbazhussain/idor-while-connecting-social-account-in-hackster-io-2296b316b7a7, IDOR
 - https://medium.com/@arbazhussain/ctrl-d5ffc7b0640e, Clickjacking
 - https://hackernoon.com/how-to-find-internal-subdomains-yql-yahoo-and-bug-bounty-d7730b374d77, Information-disclosure
