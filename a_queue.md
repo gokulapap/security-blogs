@@ -103,7 +103,6 @@
 - https://medium.com/@dcube.merlin/basic-web-security-testing-apis-58f37e01a730, api
 - https://medium.com/@pyrrhon/how-i-was-able-to-take-over-one-of-dells-subdomains-7e06b8516e41, STO
 - https://medium.com/@stopvvar/sql-injection-with-insert-statement-bdcf4d47d178, sql-injection
-- https://medium.com/@ltsirkov/netflix-bypassing-multi-factor-authentication-mfa-53135c9d6d50, bypass
 - https://medium.com/@theredteamer/tesla-paid-me-10-000-because-of-directory-indexing-c1be06c77a3e, journey
 - https://medium.com/@evilox/testing-and-bypassing-technique-for-idor-9ee03f28f4e1, IDOR
 - https://medium.com/@sudarshan-s/sql-injection-important-things-you-need-to-know-right-now-b173cdea0610, sql-injection
@@ -897,7 +896,6 @@
 - https://medium.com/@_ip_/2-3-xss-through-the-front-door-gitlab-fc4b6799e743, XSS
 - https://www.notgitbleed.com, Information-disclosure
 - https://medium.com/@Bishoo97x/xss-html-injection-and-file-upload-bypass-in-huawei-subdomain-64966ba4f4ac, XSS
-- https://opencirt.com/hacking/securing-easy-appointments-cve-2022-0482/, Broken-Access-Control
 - https://securecloud.blog/2022/04/09/msrc-join-security-research-write-up-azure-ad-consent-bypass-disclosure-with-kim-jamia-q1-2022/, Authorization-flaw
 - https://blog.fadyothman.com/metas-sparkar/, RCE
 - https://ahmadaabdulla.medium.com/vulnerabilitymultiple-vulnerability-leading-to-account-takeover-in-tiktok-smb-subdomain-c99e4a50b377, IDOR
@@ -947,7 +945,6 @@
 - https://web.archive.org/web/20221128044142/https://wya.pl/2022/02/26/cve-2022-22947-spel-casting-and-evil-beans/, RCE
 - https://swarm.ptsecurity.com/catching-bugs-in-vmware-carbon-black-cloud-workload-appliance-and-vrealize-operations-manager/, Authentication-bypass
 - https://philippeharewood.com/instagram-app-access-token/, Information-disclosure
-- https://omespino.com/write-up-private-bug-bounty-bypass-redacted-android-application-screen-lock-via-local-brute-forcing/, Android
 - https://servicenger.com/mobile/facebook-android-vulnerability-launching-internal-tighten-deeplink-onbehalf-of-user/, Android
 - https://ninetyn1ne.github.io/2022-02-21-oauth-postmessage-misconfig/, OAuth
 - https://infosecwriteups.com/send-a-email-to-me-and-get-kicked-out-of-google-groups-29b5c2c60e95, Logic-flaw
@@ -1000,7 +997,6 @@
 - https://hulkvision.github.io/blog/post1/, RCE
 - https://haxolot.com/posts/2022/moodle_pre_auth_shibboleth_rce_part2/, Session-hijacking
 - https://www.microsoft.com/security/blog/2022/01/10/new-macos-vulnerability-powerdir-could-lead-to-unauthorized-user-data-access/, Privacy-issue
-- https://medium.com/@pranav-gajjar/how-did-i-find-log4j-vulnerability-via-static-code-analysis-and-received-bounty-94f4d86cea88, Log4shell
 - https://systemweakness.com/host-header-injection-lead-to-account-takeover-2f025a645d13, Host-header-injection
 - https://noob3xploiter.medium.com/2fa-bypass-by-reading-the-documentation-3260a372d8a8, MFA-bypass
 - https://infosecwriteups.com/a-tale-of-5250-how-i-accessed-millions-of-users-data-including-their-national-id-s-fd48ca7ca0bf, AWS-misconfiguration
@@ -2303,7 +2299,6 @@
 - https://web.archive.org/web/20190718104640/https://medium.com/@tbmnull/making-an-xss-triggered-by-csp-bypass-on-twitter-561f107be3e5, XSS
 - https://ysx.me.uk/road-to-unauthenticated-recovery-downloading-github-saml-codes/, Authorization-flaw
 - https://www.arneswinnen.net/2017/06/authentication-bypass-on-ubers-sso-via-subdomain-takeover/, Subdomain-takeover
-- https://dos.sh/blog/2017/6/21/yahoo-small-business-luminate-and-the-not-so-secret-keys, Blind-SSRF
 - https://www.bishopfox.com/blog/2017/06/how-i-built-an-xss-worm-on-atmail/, XSS
 - https://web.archive.org/web/20170620023433/https://medium.com/@know.0nix/how-i-hack-23-900-000-tumblr-domains-at-once-341edad6e7cc, IDOR
 - https://blog.witcoat.com/2018/05/30/xss-on-bugcrowd-and-so-many-other-websites-main-domain/, Reflected-XSS

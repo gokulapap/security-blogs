@@ -1,2 +1,3 @@
 - https://snapsec.co/blog/Hacking-Agorapulse/
 - https://medium.com/@amnotacat/log4shell-in-google-1337-00-144684269bf8
+- https://medium.com/@pranav-gajjar/how-did-i-find-log4j-vulnerability-via-static-code-analysis-and-received-bounty-94f4d86cea88

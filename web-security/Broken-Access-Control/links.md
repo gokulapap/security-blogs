@@ -22,3 +22,4 @@
 - https://blog.teddykatz.com/2021/03/10/fork-collab-abuse.html
 - https://amjadali110.medium.com/unveiling-access-control-flaws-how-a-viewer-became-an-editor-b4aa83a5a0ec
 - https://ltidi.medium.com/the-untold-sendbird-misconfigurations-1496d252bc69
+- https://opencirt.com/hacking/securing-easy-appointments-cve-2022-0482/

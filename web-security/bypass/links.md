@@ -10,3 +10,4 @@
 - https://medium.com/@86karthikkarthik/email-verification-bypass-d07b2db8dc4
 - https://medium.com/@manavbankatwala29/unique-rate-limit-bypass-worth-1800-6e2947c7d972
 - https://medium.com/@jjainam16/otp-verification-bypass-15312498fe10
+- https://medium.com/@ltsirkov/netflix-bypassing-multi-factor-authentication-mfa-53135c9d6d50
