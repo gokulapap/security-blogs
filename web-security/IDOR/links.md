@@ -194,3 +194,4 @@
 - https://medium.com/bugbountywriteup/how-i-was-able-to-generate-access-tokens-for-any-facebook-user-6b84392d0342
 - https://blog.deteact.com/account-takeover-via-idor/
 - https://mearegtu.medium.com/insecure-comments-73399193f804
+- https://ysamm.com/?p=45

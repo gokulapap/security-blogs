@@ -1,1 +1,2 @@
 - https://r00thunt.com/2018/10/05/blind-xml-external-entities-out-of-band-channel-vulnerability-paypal-case-study/
+- https://honoki.net/2018/12/from-blind-xxe-to-root-level-file-read-access/

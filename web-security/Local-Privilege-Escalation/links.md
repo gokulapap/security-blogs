@@ -69,3 +69,4 @@
 - https://www.archcloudlabs.com/projects/disabling-clamav-as-unprivileged-user/
 - https://www.synacktiv.com/sites/default/files/2023-01/sudo-CVE-2023-22809.pdf
 - https://decoder.cloud/2023/02/16/eop-via-arbitrary-file-write-overwite-in-group-policy-client-gpsvc-cve-2022-37955/
+- https://breakpoint.sh/posts/bypassing-the-macos-gatekeeper

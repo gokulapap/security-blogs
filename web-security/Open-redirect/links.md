@@ -66,3 +66,4 @@
 - https://www.pethuraj.com/blog/paypal-bug-bounty-writeup/
 - https://medium.com/@sivakrishnasamireddi/how-i-earned-60k-from-private-program-71bd51554490
 - https://infosecwriteups.com/bypass-apples-redirection-process-with-the-dot-character-c47d40537202
+- http://homakov.blogspot.com/2014/02/how-i-hacked-github-again.html

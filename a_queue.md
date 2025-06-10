@@ -1023,7 +1023,6 @@
 - https://infosecwriteups.com/hacked-google-meet-40f364bb8368, Authorization-flaw
 - https://mearegtu.medium.com/broken-access-control-cc6cfd793b15, IDOR
 - https://securitylab.github.com/advisories/GHSL-2021-1053_Grafana/, Path-traversal
-- https://breakpoint.sh/posts/bypassing-the-macos-gatekeeper, Local-Privilege-Escalation
 - https://medium.com/@mohamedtaha_42562/how-i-found-xss-vulnerability-in-amazon-in-5-minutes-using-shodan-50b583655297, XSS
 - https://prashantbhatkal2000.medium.com/svg-based-stored-xss-ee6e9b240dee, Stored-XSS
 - https://outflank.nl/blog/2021/12/09/a-phishing-document-signed-by-microsoft/, Phishing
@@ -1831,7 +1830,6 @@
 - https://medium.com/@bathinivijaysimhareddy/shodan-is-your-friend-if-you-lose-him-you-will-lose-many-657d07472f75, SQL-injection
 - https://medium.com/@Skylinearafat/how-to-look-for-js-files-vulnerability-for-fun-and-profit-78bfdfbd6731, Information-disclosure
 - https://gauravnarwani.com/cookie-worth-a-fortune/, Reflected-XSS
-- https://blog.doyensec.com/2019/08/22/modern-password-managers-flag-secure.html, Information-disclosure
 - https://www.updatelap.com/2019/08/Rights-Manager-Graph-API-Disclosure-of-business-employee-to-non-business-employee.html, Information-disclosure
 - https://bugbountypoc.com/instagram-account-is-reactivated-without-entering-2fa/, MFA-bypass
 - https://medium.com/@aayushpokhrel/how-i-made-my-first-from-finding-a-bug-in-facebook-da3b11e550f0, Authorization-flaw
@@ -1994,7 +1992,6 @@
 - https://ysamm.com/?p=68, Logic-flaw
 - https://ysamm.com/?p=60, IDOR
 - https://ysamm.com/?p=50, Logic-flaw
-- https://ysamm.com/?p=45, IDOR
 - https://ysamm.com/?p=35, IDOR
 - https://ysamm.com/?p=12, XSS
 - https://medium.com/@ritishkumarsingh/facebook-vulnerability-unremovable-facebook-group-admin-2cbf4faf55c1, Logic-flaw
@@ -2021,7 +2018,6 @@
 - https://blog.scrt.ch/2018/08/24/remote-code-execution-on-a-facebook-server/, LFI
 - https://mohemiv.com/all/exploiting-xxe-with-local-dtd-files/, XXE
 - https://medium.com/bugbountywriteup/open-redirect-developers-are-lazy-or-maybe-busy-6c51718b10e4, Open-redirect
-- https://honoki.net/2018/12/from-blind-xxe-to-root-level-file-read-access/, Blind-XXE
 - https://medium.com/bugbountywriteup/token-brute-force-to-account-take-over-to-privilege-escalation-to-organization-take-over-650d14c7ce7f, Account-takeover
 - https://medium.com/@sampanna/self-xss-in-indeed-com-e0c99c104cba, XSS
 - https://medium.com/@rupika.luhach/change-anyones-profile-picture-exploiting-idor-41369f5acf75, IDOR
@@ -2376,7 +2372,6 @@
 - https://blog.it-securityguard.com/a-tale-of-7-vulnerabilities-paypal-bug-bounty/, Stored-XSS
 - https://0day.click/recipe/2014-02-22-github/, RCE
 - https://blog.includesecurity.com/2014/02/how-i-was-able-to-track-the-location-of-any-tinder-user/, Information-disclosure
-- http://homakov.blogspot.com/2014/02/how-i-hacked-github-again.html, Open-redirect
 - https://bitquark.co.uk/blog/2013/12/30/google_sites_a_tale_of_five_vulnerabilities, XSS
 - http://blog.shashank.co/2013/12/waze-arbitrary-file-upload.html, Unrestricted-file-upload
 - http://blog.shashank.co/2013/12/imgur-xss.html, XSS
