@@ -219,3 +219,5 @@
 - http://www.tomanthony.co.uk/blog/facebook-bug-confirm-user-identities/
 - https://medium.com/@damaidec/403-bypass-on-a-fortune-100-financial-institution-p3-156d33bc6ed
 - https://blog.doyensec.com/2019/08/22/modern-password-managers-flag-secure.html
+- https://medium.com/@fattselimi/information-disclosure-vulnerability-in-adobe-experience-manager-affecting-multiple-companies-2fb0558cd957
+- https://gokulap.medium.com/how-i-got-access-to-1600k-users-pii-data-64a27a540963

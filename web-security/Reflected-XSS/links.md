@@ -70,3 +70,4 @@
 - https://medium.com/@TheShahzada/reflected-xss-in-yahoo-6e2b6b177448
 - https://medium.com/@navne3t/150-xss-at-error-page-of-respository-code-4fc628892742
 - https://web.archive.org/web/20200929012934/https://www.mohamedharon.com/2018/08/mapboxxss.html
+- https://medium.com/@alicanact60/my-first-0day-exploit-csp-bypass-reflected-xss-bugbounty-c7efa4bed3d7
