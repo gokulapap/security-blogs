@@ -657,7 +657,6 @@
 - https://medium.com/@Parag_Bagul/ssrf-attack-leading-to-aws-metadata-e95155fa6c6f, SSRF
 - https://blog.hacktivesecurity.com/index.php/2022/09/17/http/, HTTP-request-smuggling
 - https://systemweakness.com/how-i-made-the-multiple-hall-of-fame-in-nokia-within-2-minutes-535056fcb66d, Clickjacking
-- https://medium.com/@lukeberner/cloning-internal-google-repos-for-fun-and-info-bf2c83d0ae00, Authorization-flaw
 - https://medium.com/@tobydavenn/the-tale-of-ssrf-to-rce-on-gov-domain-191185b32b37, SSRF
 - https://sector7.computest.nl/post/2022-09-unified-automation-opcua-cpp/, DoS
 - https://tamirzb.com/attacking-android-kernel-using-qualcomm-trustzone, Memory-corruption
@@ -943,7 +942,6 @@
 - https://swarm.ptsecurity.com/catching-bugs-in-vmware-carbon-black-cloud-workload-appliance-and-vrealize-operations-manager/, Authentication-bypass
 - https://philippeharewood.com/instagram-app-access-token/, Information-disclosure
 - https://servicenger.com/mobile/facebook-android-vulnerability-launching-internal-tighten-deeplink-onbehalf-of-user/, Android
-- https://ninetyn1ne.github.io/2022-02-21-oauth-postmessage-misconfig/, OAuth
 - https://infosecwriteups.com/send-a-email-to-me-and-get-kicked-out-of-google-groups-29b5c2c60e95, Logic-flaw
 - https://gitlab.com/kop316/vvm-disclosure, Voicemail-hacking
 - https://remonsec.com/posts/getting-first-swag-SIDN/, Directory-listing
@@ -1425,7 +1423,6 @@
 - https://shahjerry33.medium.com/server-side-misconfigurartion-a-funny-fix-63cc12b4c7fc, Information-disclosure
 - https://medium.com/@logicbomb_1/tale-of-3-vulnerabilities-to-account-takeover-44ba631a0304, SSRF
 - https://evait.medium.com/pentest-story-empirum-password-decryption-3a9e2530aba7, Weak-crypto
-- https://www.pethuraj.com/blog/microsoft-bug-bounty-writeup-stored-xss-vulnerability/, Stored-XSS
 - https://rafi-ahamed.medium.com/exploiting-api-with-authtoken-3bea7b1fb6a9, Token-leak
 - https://medium.com/@prakashpanta1999/replying-comments-on-someones-livestream-from-page-is-posted-as-personal-identity-5fe79ef78b28, Logic-flaw
 - https://www.rcesecurity.com/2020/11/Smuggling-an-un-exploitable-xss/, HTTP-Request-Smuggling
@@ -1609,7 +1606,6 @@
 - https://medium.com/bugbountywriteup/weak-cryptography-leads-to-open-redirect-3fe052c12995, Open-redirect
 - https://blog.raphael.karger.is/articles/2020-05/CVE-2020-13693, Privilege-escalation
 - https://www.nahamsec.com/posts/my-expense-report-resulted-in-a-server-side-request-forgery-ssrf-on-lyft, SSRF
-- https://research.nccgroup.com/2020/05/05/exploring-macos-calendar-alerts-part-1-attempting-to-execute-code/, Information-disclosure
 - https://medium.com/bugbountywriteup/bypassing-waf-to-perform-xss-2d2f5a4367f3, XSS
 - https://medium.com/@kishoretk/how-i-was-able-to-see-identity-of-a-private-video-up-loader-via-rights-manager-responsible-39d996517b6e, Information-disclosure
 - https://shibinbshaji.space/bug-bounty/oppo-bugbounty-writeup/, Login-screen-bypass
@@ -2356,7 +2352,6 @@
 - https://thezerohack.com/hacking-facebook-pages, Authorization-flaw
 - https://josipfranjkovic.blogspot.com/2015/07/the-easiest-bug-bounties-i-have-ever-won.html, IDOR
 - https://buer.haus/2015/02/03/google-com-mobile-feedback-url-redirect-regexvalidation-flaw/, Open-redirect
-- https://josipfranjkovic.blogspot.com/2014/12/reading-local-files-from-facebooks.html, LFI
 - https://www.rcesecurity.com/2014/11/google-bug-bounty-nice-catch-on-google-cloud-platform-live, Reflected-XSS
 - https://blog.it-securityguard.com/bugbounty-reflected-cross-site-scripting-billmelater/, Reflected-XSS
 - https://blog.it-securityguard.com/bugbounty-paypal-stored-xss-security-bypass/, Stored-XSS

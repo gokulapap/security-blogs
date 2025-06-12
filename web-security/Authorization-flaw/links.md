@@ -91,3 +91,4 @@
 - https://fellchase.blogspot.com/2019/12/authorization-bug-that-every-bug-hunter-missed-on-a-popular-program.html
 - https://baibhavjha.com.np/blogs/instagramstory2/
 - https://infosecwriteups.com/how-i-was-able-to-bypass-parental-pin-of-showmax-e6d6ec3af92d
+- https://medium.com/@lukeberner/cloning-internal-google-repos-for-fun-and-info-bf2c83d0ae00
