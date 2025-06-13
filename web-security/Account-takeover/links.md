@@ -83,3 +83,4 @@
 - https://gauravnarwani.com/android-acc-takeover/
 - https://yxw21.github.io/2020/06/05/Account-Takeover-Via-PostMessage/
 - https://dev.to/antogarand/from-data-leak-to-account-takeover-1kck
+- https://blog.dixitaditya.com/exploiting-jwt-lack-of-signature-verification

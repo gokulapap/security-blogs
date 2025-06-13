@@ -1,0 +1,1 @@
+- https://blog.nietaanraken.nl/posts/aur-packages-github-repo-jacking/

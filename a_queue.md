@@ -137,7 +137,6 @@
 - https://blog.doyensec.com/2023/07/26/huawei-theme-arbitrary-code-exec.html, Arbitrary-Code-Execution
 - https://blog.assetnote.io/2023/07/21/citrix-CVE-2023-3519-analysis/, RCE
 - https://blog.assetnote.io/2023/07/22/pre-auth-rce-metabase/, RCE
-- https://medium.com/@mullangisashank/a-tale-of-og-xss-89af3d4725dc, XSS
 - https://blog.qualys.com/vulnerabilities-threat-research/2023/07/19/cve-2023-38408-remote-code-execution-in-opensshs-forwarded-ssh-agent, RCE
 - https://kuldeep.io/posts/escalating-privileges-with-ssrf/, SSRF
 - https://matan-h.com/one-lfi-bypass-to-rule-them-all-using-base64/, LFI
@@ -291,7 +290,6 @@
 - https://www.rcesecurity.com/2023/04/securepwn-part-1-bypassing-securepoint-utms-authentication-cve-2023-22620/, Authentication-bypass
 - https://offsec.almond.consulting/ghostscript-cve-2023-28879.html, Buffer-Overflow
 - https://orca.security/resources/blog/azure-shared-key-authorization-exploitation/, Cloud
-- https://blog.nietaanraken.nl/posts/aur-packages-github-repo-jacking/, Repojacking
 - https://medium.com/@zhero_/a-successful-prototype-pollution-chained-to-a-dom-xss-9887087b56a4, Prototype-pollution
 - https://medium.com/@ch3tanbug/how-i-was-able-to-change-password-of-any-corporate-user-c68b9509840, Account-takeover
 - https://shahjerry33.medium.com/sql-wildcard-dos-hang-till-death-adbae66d1f7b, DoS
@@ -1501,7 +1499,6 @@
 - https://honoki.net/2020/08/10/cve-2020-11518-how-i-bruteforced-my-way-into-your-active-directory/, RCE
 - https://mazinahmed.net/blog/hacking-zoom/, Information-disclosure
 - https://medium.com/@zseano/the-feature-works-as-intended-but-whats-in-the-source-d29f9401bcf6, Information-disclosure
-- https://blog.dixitaditya.com/exploiting-jwt-lack-of-signature-verification, Account-takeover
 - https://medium.com/@jonathanbouman/reflected-xss-at-fotoservice-hema-nl-af344ef63433, Reflected-XSS
 - https://medium.com/@tommysuriel/stored-xss-on-slack-bug-bounty-88fe167d75df, Stored-XSS
 - https://medium.com/@DK999/apache-example-servlet-leads-to-61a2720cac20, Clickjacking
@@ -1601,7 +1598,6 @@
 - https://f4d3.io/xxe_wild/, XXE
 - https://medium.com/@secureITmania/weird-subdomain-take-over-pattern-of-amazon-s3-75165ab2e883, Subdomain-takeover
 - https://medium.com/@sudipshah_66336/the-story-of-my-first-xxx-bug-bounty-from-facebook-565a212c94ad, Logic-flaw
-- https://medium.com/@kassihmouhssine/cross-site-scripting-the-power-of-the-hidden-parameters-259a4d2c4c09, Reflected-XSS
 - https://ezqelusia.blogspot.com/2020/05/microsofts-first-bug.html, Memory-corruption
 - https://medium.com/bugbountywriteup/weak-cryptography-leads-to-open-redirect-3fe052c12995, Open-redirect
 - https://blog.raphael.karger.is/articles/2020-05/CVE-2020-13693, Privilege-escalation
@@ -1636,7 +1632,6 @@
 - https://medium.com/@aniltom/magic-of-the-back-slash-d868e66b532a, Path-traversal
 - https://medium.com/@frycos/another-zoho-manageengine-story-7b472f1515f5, Authentication-bypass
 - https://www.synacktiv.com/en/publications/pentesting-cisco-sd-wan-part-2-breaking-routers.html, OS-command-injection
-- https://twitter.com/missoum1307/status/1258472717453582336, DOM-XSS
 - https://medium.com/@youssefla/dom-xss-walkthrough-4d60c45ffb21, DOM-XSS
 - https://medium.com/@TnMch/google-acquisition-xss-apigee-5479d7b5dc4, XSS
 - https://sites.google.com/securifyinc.com/vrp-writeups/waze/waze-xss, XSS

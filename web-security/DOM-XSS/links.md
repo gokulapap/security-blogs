@@ -20,3 +20,4 @@
 - https://medium.com/@maxon3/reflected-dom-xss-and-clickjacking-on-https-silvergoldbull-de-bt-html-daa36bdf7bf0
 - https://vinothkumar.me/20000-facebook-dom-xss/
 - https://coffeejunkie.me/Multi-Domain-DOM-Cross-Site-Scripting/
+- https://twitter.com/missoum1307/status/1258472717453582336
