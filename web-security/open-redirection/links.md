@@ -3,3 +3,4 @@
 - https://medium.com/@evilox/testing-and-bypassing-technique-for-open-redirection-vulnerability-ca1bc6c851c5
 - https://medium.com/@sagarsajeev/escalating-open-redirect-to-xss-d2b9355e5f05
 - https://medium.com/@securitygoat/bug-bounty-bootcamp-ch07-open-redirects-b11d2fe134d5
+- https://medium.com/@inakcf/open-redirect-in-email-c658c248eec1

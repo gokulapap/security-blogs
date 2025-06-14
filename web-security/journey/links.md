@@ -12,3 +12,4 @@
 - https://medium.com/@aob-89072/story-of-my-bugs-on-a-private-program-privilege-escalation-xss-sqli-idors-a5be4c6acbbd
 - https://medium.com/@vineet08/story-of-a-reserved-cve-2022-23361-2c81d836c6fe
 - https://medium.com/@csal/dont-scan-my-website-i-exploiting-an-old-version-of-wappalyzer-14c001279434
+- https://medium.com/@marxchryz/how-i-gain-access-to-the-server-administration-of-a-million-dollar-company-14da68c7a9dd

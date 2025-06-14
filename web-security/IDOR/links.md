@@ -195,3 +195,5 @@
 - https://blog.deteact.com/account-takeover-via-idor/
 - https://mearegtu.medium.com/insecure-comments-73399193f804
 - https://ysamm.com/?p=45
+- https://medium.com/secjuice/how-i-was-able-to-view-private-tweets-of-any-private-twitter-account-86a9d2640ded
+- https://rahulvarale.medium.com/idor-vulenebility-with-empty-response-still-exposing-sensitive-details-of-customers-bdce0a6a1b07

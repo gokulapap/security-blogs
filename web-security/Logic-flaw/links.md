@@ -134,3 +134,4 @@
 - https://medium.com/@zahidali_93675/disabling-new-emails-from-facebook-without-email-owner-interaction-11c979778a68
 - https://blog.teddykatz.com/2022/02/23/ghosts-of-branches-past.html
 - https://medium.com/@ritishkumarsingh/facebook-vulnerability-unremovable-co-host-in-facebook-group-events-13a9ea28b302
+- https://infosecwriteups.com/the-invincible-kid-7ac1ce2887c0

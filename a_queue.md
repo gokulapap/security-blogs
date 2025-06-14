@@ -23,7 +23,6 @@
 - https://medium.com/@codewithvamp/the-cost-of-neglect-html-injection-3c00e719fdef, html-injection
 - https://medium.com/@danielmakelley/4-tips-for-new-bug-bounty-hunters-b71c4c6ab5f9, tricks
 - https://medium.com/@thexssrat/xss-made-easy-for-testers-developers-and-managers-b404f744ec6b, XSS
-- https://medium.com/@marxchryz/how-i-gain-access-to-the-server-administration-of-a-million-dollar-company-14da68c7a9dd, journey
 - https://medium.com/@ryuukhagetsu/how-i-get-bounty-from-takeover-account-ed17cd838b2a, ATO
 - https://medium.com/@qaafqasim/discovering-login-panels-and-detecting-sql-injection-with-logsensor-42842e337244, sql-injection
 - https://medium.com/@noob3xploiter/hacking-into-school-management-systems-reflected-xss-to-rce-74880c423024, XSS
@@ -57,7 +56,6 @@
 - https://medium.com/@nynan/what-i-learnt-from-reading-217-subdomain-takeover-bug-reports-c0b94eda4366, STO
 - https://medium.com/@sharanthehunter/g-map-api-key-exploitation-6fdf60fbb263, misc
 - https://medium.com/@zycc2727/ssrf-cross-site-scripting-a54422d0753e, ssrf
-- https://medium.com/@inakcf/open-redirect-in-email-c658c248eec1, open-redirection
 - https://medium.com/@vikramroot/account-takeover-via-stored-xss-b774f7a2a3ab, ATO
 - https://medium.com/@ishakudkar/owasp-1-injection-cad772e39a0f, injection
 - https://medium.com/@spideynati/how-i-was-able-to-get-free-for-months-because-of-this-bug-31b1396c563f, journey
@@ -1301,7 +1299,6 @@
 - https://secureitmania.medium.com/an-unknown-linux-secret-that-turned-ssrf-to-os-command-injection-6fe2f4edc202, SSRF
 - https://mayank-01.medium.com/an-interesting-account-takeover-3a33f42d609d, IDOR
 - https://spongebhav.medium.com/facebook-group-members-disclosure-e53eb83df39e, Information-disclosure
-- https://rahulvarale.medium.com/idor-vulenebility-with-empty-response-still-exposing-sensitive-details-of-customers-bdce0a6a1b07, IDOR
 - https://ashutoshmishra00x0.medium.com/account-takeover-via-reset-password-worth-2000-de085851d81d, Password-reset
 - https://apapedulimu.click/google-vrp-how-i-get-blind-xss-at-google-with-dork-first-bounty-and-hof/, Blind-XSS
 - https://infosecwriteups.com/business-logic-error-on-registration-leads-to-sms-validation-bypass-80380b3ff629, MFA-bypass
@@ -1312,7 +1309,6 @@
 - https://lf.lc/vrp/181521559b/, Container-escape
 - https://maordayanofficial.medium.com/stored-xss-at-trello-com-ef2e3d1ed24b, Stored-XSS
 - https://wwws.nightwatchcybersecurity.com/2021/03/03/content-injection-rce-in-yandex-browser-for-android-2018/, MiTM
-- https://infosecwriteups.com/the-invincible-kid-7ac1ce2887c0, Logic-flaw
 - https://lf.lc/vrp/181521559a/, Container-escape
 - https://www.bugcrowd.com/blog/big-bugs-cve-2020-28914/, RCE
 - https://jayateerthag.medium.com/jira-authenticated-dashboard-access-in-google-acquisition-apigee-ff20cfe11d99, Authentication-bypass
@@ -2245,7 +2241,6 @@
 - https://blog.securitybreached.org/2017/10/10/exploiting-insecure-cross-origin-resource-sharing-cors-api-artsy-net, CORS-misconfiguration
 - https://blog.securitybreached.org/2017/10/10/subdomain-takeover-lamborghini-hacked/, Subdomain-takeover
 - https://philippeharewood.com/facebook-graphql-csrf/, CSRF
-- https://medium.com/secjuice/how-i-was-able-to-view-private-tweets-of-any-private-twitter-account-86a9d2640ded, IDOR
 - https://markus-krell.de/craft-cms-why-case-matters/, Reflected-XSS
 - https://medium.com/@saamux/filter-bypass-to-reflected-xss-on-https-finance-yahoo-com-mobile-version-22b854327b27, Reflected-XSS
 - https://guptashubham.com/all-about-hackerone-private-program-terapeak/, IDOR
