@@ -217,3 +217,4 @@
 - https://portswigger.net/research/pre-auth-rce-in-forgerock-openam-cve-2021-35464
 - https://securityintelligence.com/posts/analysis-rce-vulnerability-cobalt-strike/
 - https://nahamsec.com/posts/secure-your-jenkins-instance-or-hackers-will-force-you-to-snapchats-5000-vulnerability
+- https://www.sonarsource.com/blog/cacti-unauthenticated-remote-code-execution/

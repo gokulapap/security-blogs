@@ -1,0 +1,1 @@
+- https://medium.com/bugbountywriteup/hsts-bypass-vulnerability-in-ie-preview-fa956161fa8

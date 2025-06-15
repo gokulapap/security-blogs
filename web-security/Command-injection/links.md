@@ -1,2 +1,3 @@
 - https://shahjerry33.medium.com/blind-command-injection-it-hurts-9f396c1f63f2
 - https://blog.assetnote.io/2022/05/06/cloudflare-pages-pt1/
+- https://starlabs.sg/blog/2022/12-the-last-breath-of-our-netgear-rax30-bugs-a-tragic-tale-before-pwn2own-toronto-2022/
