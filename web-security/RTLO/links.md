@@ -1,1 +1,2 @@
 - http://firstsight.me/2019/10/illegal-rendered-at-download-feature-in-several-apps-including-opera-mini-that-lead-to-extension-manipulation-with-rtlo/
+- https://jayateerthag.medium.com/download-filename-manipulation-due-to-improper-rendering-of-rtlo-characters-69e2751a8f28

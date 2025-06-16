@@ -1,1 +1,2 @@
 - https://medium.com/@moSec/how-i-hacked-thousand-of-subdomains-6aa43b92282c
+- https://medium.com/@AhmedMhesham/easiest-way-to-get-subdomain-takeover-76f444c8ee6f

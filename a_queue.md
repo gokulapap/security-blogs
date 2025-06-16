@@ -108,7 +108,6 @@
 - https://medium.com/@caesarevan23/the-journey-to-get-sql-injection-at-bluepay-blue-indonesia-bluepay-2019-7a23bbce4cb8, journey
 - https://medium.com/@vflexo/full-account-takeover-via-open-redirection-41c167db46, ATO
 - https://medium.com/@huang-h-kevin/from-retargeting-to-rce-my-journey-from-advertising-to-cybersecurity-4c6149a25c58, journey
-- https://medium.com/@AhmedMhesham/easiest-way-to-get-subdomain-takeover-76f444c8ee6f, STO
 - https://medium.com/@nidhipanchal719/open-redirect-to-xss-in-united-nation-website-f4394aa6ed04, XSS
 - https://medium.com/@nmblog2135/you-can-earn-more-than-1000-if-you-know-this-vulnerability-open-redirect-vulnerabilities-b9170e88adba, open-redirection
 - https://medium.com/@Rend_/sqli-next-level-5b1145b83c79, sql-injection
@@ -217,7 +216,6 @@
 - https://medium.com/@ibederov_en/find-out-the-ip-address-through-a-call-to-telegram-a899441b1bac, Privacy-issue
 - https://www.zerodayinitiative.com/blog/2023/5/24/exploiting-the-sonos-one-speaker-three-different-ways-a-pwn2own-toronto-highlight, Memory-corruption
 - https://kuenzi.dev/toothbrush/, IoT
-- https://www.dig.security/post/gcp-cloudsql-vulnerability-leads-to-internal-container-access-and-data-exposure, Cloud
 - https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/from-response-to-request-adding-your-own-variables-inside-of-graphql-queries-for-account-take-over/, GraphQL
 - https://www.secureworks.com/research/tampering-with-conditional-access-policies-using-azure-ad-graph-api, Cloud
 - https://github.com/dhmosfunk/CVE-2023-25690-POC, HTTP-Request-Smuggling
@@ -267,7 +265,6 @@
 - https://strike.sh/blog/business-bugs-approach, Logic-flaw
 - https://www.bitsight.com/blog/new-high-severity-vulnerability-cve-2023-29552-discovered-service-location-protocol-slp, DoS
 - https://medium.com/cyesec/no-portals-needed-79995d8f7e62, MFA-bypass
-- https://medium.com/@mmaulanaabdullah/how-careless-default-credentials-impact-to-massive-account-takeover-be6bfc85119a, Authentication-bypass
 - https://blog.ryotak.net/post/github-actions-staff-access-token-en/, CICD
 - https://infosecwriteups.com/xs-leak-deanonymize-microsoft-skype-users-by-any-3rd-party-website-69849e4501a8, XSLeaks
 - https://medium.com/bugbountywriteup/uncovering-a-critical-vulnerability-my-journey-of-discovering-cve-2021-31589-a-reflected-xss-in-1e13c0aa41b0, Components-with-known-vulnerabilities
@@ -312,7 +309,6 @@
 - https://blog.scrt.ch/2023/03/29/attacking-android-antivirus-applications/, Android
 - https://medium.com/@bughuntar/a-short-tell-of-lfi-from-pdf-link-professor-the-hunter-43a8be853e, LFI
 - https://blog.nintechnet.com/high-severity-vulnerability-fixed-in-wordpress-elementor-pro-plugin/, Broken-Access-Control
-- https://infosecwriteups.com/cve-2023-1410-stored-xss-in-the-graphite-function-description-tooltip-165bdc32154c, Stored-XSS
 - https://protectai.com/blog/hacking-ai-system-takeover-exploit-in-mlflow, LFI
 - https://www.netspi.com/blog/technical/cloud-penetration-testing/azure-function-apps/, Privilege-escalation
 - https://medium.com/@warrenbutterworth/finding-initial-access-on-a-real-life-penetration-test-86ed5503ae48, Old-components-with-known-vulnerabilities
@@ -1396,7 +1392,6 @@
 - https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/d-link-multiple-security-vulnerabilities-leading-to-rce/, RCE
 - https://medium.com/@3bodymo/how-i-hacked-ibm-and-got-full-access-on-many-services-ecf1dab4a054, Information-disclosure
 - https://security.lauritz-holtmann.de, CSRF
-- https://jayateerthag.medium.com/download-filename-manipulation-due-to-improper-rendering-of-rtlo-characters-69e2751a8f28, RTLO
 - https://infosecwriteups.com/how-i-hacked-facebook-part-one-282bbb125a5d, Missing-authentication
 - https://medium.com/@vedanttekale20/story-of-the-best-vulnerability-ive-found-so-far-5e3b0e02b47e, Self-XSS
 - https://nmochea.medium.com/this-post-is-about-an-reflected-xss-that-i-found-on-opera-browser-application-which-could-have-been-39823a22045d, XSS

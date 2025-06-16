@@ -12,3 +12,4 @@
 - https://securitylabs.datadoghq.com/articles/bypass-cloudtrail-aws-service-catalog-and-other/
 - https://www.secureworks.com/research/azure-active-directory-exposes-internal-information
 - https://www.wiz.io/blog/attachme-oracle-cloud-vulnerability-allows-unauthorized-cross-tenant-volume-access
+- https://www.dig.security/post/gcp-cloudsql-vulnerability-leads-to-internal-container-access-and-data-exposure
