@@ -1,3 +1,4 @@
 - https://medium.com/@aravindha1234u/os-command-injection-beginners-guide-637e1eed1fde
 - https://medium.com/@patchthenet/host-header-injection-attacks-7160f9fcf63e
 - https://medium.com/@s_novoselov/ssti-csti-dont-waste-your-time-c6e9fbb20743
+- https://medium.com/@justm0rph3u5/html-and-hyperlink-injection-via-share-option-in-microsoft-onenote-application-47e94d0e6478

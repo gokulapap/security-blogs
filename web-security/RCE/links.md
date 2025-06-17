@@ -218,3 +218,4 @@
 - https://securityintelligence.com/posts/analysis-rce-vulnerability-cobalt-strike/
 - https://nahamsec.com/posts/secure-your-jenkins-instance-or-hackers-will-force-you-to-snapchats-5000-vulnerability
 - https://www.sonarsource.com/blog/cacti-unauthenticated-remote-code-execution/
+- https://hacklido.com/d/101-how-i-found-my-first-rce
