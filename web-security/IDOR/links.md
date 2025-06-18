@@ -198,3 +198,4 @@
 - https://medium.com/secjuice/how-i-was-able-to-view-private-tweets-of-any-private-twitter-account-86a9d2640ded
 - https://rahulvarale.medium.com/idor-vulenebility-with-empty-response-still-exposing-sensitive-details-of-customers-bdce0a6a1b07
 - https://medium.com/@evilox/testing-and-bypassing-technique-for-idor-9ee03f28f4e1
+- https://caesarevan23.medium.com/google-vrp-insecure-direct-object-reference-3133-70-a0e37023a4c7

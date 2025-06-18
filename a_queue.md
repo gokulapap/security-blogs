@@ -581,7 +581,6 @@
 - https://www.redteam-pentesting.de/en/advisories/rt-sa-2021-003/-missing-authentication-in-zkteco-zem-zmm-web-interface, Missing-authentication
 - https://mehedishakeel.medium.com/broken-link-hijacking-my-second-finding-on-hackerone-d715b0713fca, Broken-link-hijacking
 - https://medium.com/the-gray-area/1-000-p1-pii-disclosure-w-idor-cb344c55d52e, IDOR
-- https://caesarevan23.medium.com/google-vrp-insecure-direct-object-reference-3133-70-a0e37023a4c7, IDOR
 - https://mouha.be/sha-3-buffer-overflow/, Buffer-Overflow
 - https://medium.com/@h4x0r_dz/23000-for-authentication-bypass-file-upload-arbitrary-file-overwrite-2578b730a5f8, JWT
 - https://www.mdsec.co.uk/2022/10/microsoft-office-online-server-remote-code-execution/, SSRF
@@ -1750,7 +1749,6 @@
 - https://portswigger.net/research/cracking-recaptcha-turbo-intruder-style, Captcha-bypass
 - https://medium.com/@mohameddaher/how-i-paid-2-for-1054-xss-bug-20-chars-blind-xss-payloads-12d32760897b, XSS
 - https://web.archive.org/web/20200929013918/https://www.mohamedharon.com/2019/11/subdomain-takeover-via.html, Subdomain-takeover
-- https://medium.com/@0xBarakat/broken-session-permanent-access-to-facebook-users-cfed68684113, Authentication-bypass
 - https://philippeharewood.com/disclose-the-owner-of-a-recruiting-manager-in-jobs-beta/, Information-disclosure
 - https://medium.com/@abidafahd/how-i-was-able-to-hunt-a-rare-bug-in-a-private-program-caec0ebaef7f, Missing-authentication
 - https://medium.com/bugbountywriteup/bypassing-the-fix-of-my-previous-instagram-bug-49ece4ea7e1d, Authorization-flaw
@@ -1780,7 +1778,6 @@
 - https://rahulr.in/idor-to-rce/, IDOR
 - https://medium.com/@pranaybafna/graphql-introspection-leads-to-sensitive-data-disclosure-65b385452d7f, Information-disclosure
 - https://web.archive.org/web/20200807155301/https://gh0st.cn/archives/2019-10-01/1, IDOR
-- https://web.archive.org/web/20191211081434/https://victoni.github.io/bug-hunting-xss-on-cookie-popup-warning/, Reflected-XSS
 - https://medium.com/bugbountywriteup/information-disclosure-at-paypal-and-xoom-paypal-acquisition-via-simple-google-dork-1-000-usd-b726fe628a05, Information-disclosure
 - https://medium.com/@0xgaurang/case-study-oauth-misconfiguration-leads-to-account-takeover-d3621fe8308b, OAuth
 - https://medium.com/bugbountywriteup/facebook-workplace-privilege-escalation-vulnerability-to-change-the-post-privacy-as-public-634f1c995780, Privilege-escalation
@@ -2095,7 +2092,6 @@
 - https://blog.bentkowski.info/2018/07/vulnerability-in-hangouts-chat-aka-how.html, Open-redirect
 - https://medium.com/@mateusz.olejarka/finding-hidden-gems-vol-1-forging-oauth-tokens-using-discovered-client-id-and-client-secret-467f1cd21714, Information-disclosure
 - https://www.updatelap.com/2018/07/the-malicious-person-add-people-to-top.html, IDOR
-- https://medium.com/@prial261/unclaimed-medium-publication-takeover-in-wetransfer-c268cdb51e2f, Medium-publication-takeover
 - https://opnsec.com/2018/07/into-the-borg-ssrf-inside-google-production-network/, SSRF
 - https://medium.com/devanshwolf/hey-developer-give-me-your-api-keys-b8c99ab1c4f5, Information-disclosure
 - https://medium.com/@khaled.hassan/hacking-thousands-of-companies-through-their-helpdesk-8f180a8595ef, Account-takeover
@@ -2306,7 +2302,6 @@
 - https://avicoder.me/2016/07/22/Twitter-Vine-Source-code-dump/, Source-code-disclosure
 - https://www.josipfranjkovic.com/blog/race-conditions-on-web, Race-condition
 - https://medium.com/bugbountywriteup/two-vulnerabilities-makes-an-exploit-xss-and-csrf-in-bing-cd4269da7b69, XSS
-- https://www.seekurity.com/blog/general/runkeeper-stores-xss-vulnerability/, Stored-XSS
 - https://www.seekurity.com/blog/general/badoo-hotornot-privacy-disclosure-feature-not-a-bug, Information-disclosure
 - https://blog.it-securityguard.com/bugbounty-sleeping-stored-google-xss-awakens-a-5000-bounty/, Stored-XSS
 - https://blog.darabi.me/2016/05/how-i-bypassed-facebook-csrf-in-2016.html, CSRF

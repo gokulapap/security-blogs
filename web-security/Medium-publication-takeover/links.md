@@ -1,0 +1,1 @@
+- https://medium.com/@prial261/unclaimed-medium-publication-takeover-in-wetransfer-c268cdb51e2f

@@ -83,3 +83,4 @@
 - https://www.hackerinside.me/2018/09/stored-xss-vulnerability-in-h1c-private.html
 - https://www.pethuraj.com/blog/microsoft-bug-bounty-writeup-stored-xss-vulnerability/
 - https://infosecwriteups.com/cve-2023-1410-stored-xss-in-the-graphite-function-description-tooltip-165bdc32154c
+- https://www.seekurity.com/blog/general/runkeeper-stores-xss-vulnerability/
