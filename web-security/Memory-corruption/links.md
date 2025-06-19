@@ -56,3 +56,4 @@
 - https://starlabs.sg/blog/2022/09-step-by-step-walkthrough-of-cve-2022-32792/
 - https://www.randorisec.fr/yet-another-bug-netfilter/
 - https://www.zerodayinitiative.com/blog/2022/2/10/mindshare-when-mysql-cluster-encounters-taint-analysis
+- https://www.zerodayinitiative.com/blog/2023/5/24/exploiting-the-sonos-one-speaker-three-different-ways-a-pwn2own-toronto-highlight

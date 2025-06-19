@@ -230,3 +230,4 @@
 - https://blog.bentkowski.info/2018/06/xss-in-google-colaboratory-csp-bypass.html
 - https://medium.com/@ciph3r7r0ll/parsing-the-dom-elements-of-other-pages-via-xss-bug-bounty-story-46d517e6711d
 - https://medium.com/@mullangisashank/a-tale-of-og-xss-89af3d4725dc
+- https://medium.com/@raymondlind/finding-reflected-xss-in-a-strange-way-289a4f3fa630

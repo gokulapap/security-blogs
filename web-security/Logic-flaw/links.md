@@ -135,3 +135,4 @@
 - https://blog.teddykatz.com/2022/02/23/ghosts-of-branches-past.html
 - https://medium.com/@ritishkumarsingh/facebook-vulnerability-unremovable-co-host-in-facebook-group-events-13a9ea28b302
 - https://infosecwriteups.com/the-invincible-kid-7ac1ce2887c0
+- https://medium.com/@zseano/new-features-means-new-bugs-ece4d10cdf9d
