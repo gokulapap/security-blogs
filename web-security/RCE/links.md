@@ -219,3 +219,5 @@
 - https://nahamsec.com/posts/secure-your-jenkins-instance-or-hackers-will-force-you-to-snapchats-5000-vulnerability
 - https://www.sonarsource.com/blog/cacti-unauthenticated-remote-code-execution/
 - https://hacklido.com/d/101-how-i-found-my-first-rce
+- https://offensi.com/2019/12/16/4-google-cloud-shell-bugs-explained-introduction/
+- https://www.kroll.com/en/insights/publications/cyber/ghostscript-cve-2023-36664-remote-code-execution-vulnerability
