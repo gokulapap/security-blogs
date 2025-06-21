@@ -10,3 +10,4 @@
 - https://blog.lightspin.io/aws-sagemaker-notebook-takeover-vulnerability
 - https://medium.com/@mydudehello91/how-i-hacked-scopely-and-got-c60772f77d41
 - https://ahmadaabdulla.medium.com/mr-robot-self-xss-from-informative-to-high-1200-csrf-open-redirect-self-xss-to-stored-92f371ba3da1
+- https://enfinlay.github.io//xss/selfxss/upload/bugbounty/2021/02/09/selfxss-to-rxss-via-file-name.html

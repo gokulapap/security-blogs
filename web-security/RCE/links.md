@@ -221,3 +221,4 @@
 - https://hacklido.com/d/101-how-i-found-my-first-rce
 - https://offensi.com/2019/12/16/4-google-cloud-shell-bugs-explained-introduction/
 - https://www.kroll.com/en/insights/publications/cyber/ghostscript-cve-2023-36664-remote-code-execution-vulnerability
+- https://onekey.com/blog/security-advisory-wago-unauthenticated-remote-command-execution/

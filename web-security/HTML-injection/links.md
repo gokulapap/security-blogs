@@ -15,3 +15,4 @@
 - https://palant.info/2022/03/14/party-time-injecting-code-into-teleparty-extension/
 - https://blog.evanricafort.com/2021/06/html-injection-and-a-dream.html
 - https://medium.com/bugbountywriteup/sending-out-phishing-e-mails-from-microsoft-com-84c3b918ada2
+- https://medium.com/@irounakdhadiwal999/stored-iframe-injection-csrf-account-takeover-42c93ad13f5d
