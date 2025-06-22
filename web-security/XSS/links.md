@@ -231,3 +231,6 @@
 - https://medium.com/@ciph3r7r0ll/parsing-the-dom-elements-of-other-pages-via-xss-bug-bounty-story-46d517e6711d
 - https://medium.com/@mullangisashank/a-tale-of-og-xss-89af3d4725dc
 - https://medium.com/@raymondlind/finding-reflected-xss-in-a-strange-way-289a4f3fa630
+- https://bishopfox.com/blog/flowscreencomponents-advisory
+- https://www.ehpus.com/post/xss-fix-bypass-10000-bounty-in-google-maps
+- https://medium.com/@saamux/applying-a-small-bypass-to-steal-facebook-session-tokens-in-uber-5b9638b7a18c

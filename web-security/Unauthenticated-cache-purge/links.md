@@ -1,1 +1,2 @@
 - https://medium.com/@priyanshbansal25/unauthenticated-cache-purge-c56fac8569e8
+- https://sapt.medium.com/apple-hall-of-fame-for-a-small-misconfiguration-unauth-cache-purging-faf81b19419b
