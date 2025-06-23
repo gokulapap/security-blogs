@@ -73,3 +73,4 @@
 - https://medium.com/@alicanact60/my-first-0day-exploit-csp-bypass-reflected-xss-bugbounty-c7efa4bed3d7
 - https://medium.com/@kassihmouhssine/cross-site-scripting-the-power-of-the-hidden-parameters-259a4d2c4c09
 - https://web.archive.org/web/20191211081434/https://victoni.github.io/bug-hunting-xss-on-cookie-popup-warning/
+- https://medium.com/@friendly_/reflected-xss-primagames-com-c7a641912626

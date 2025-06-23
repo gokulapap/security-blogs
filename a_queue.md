@@ -512,7 +512,6 @@
 - https://www.rcesecurity.com/2022/11/from-zero-to-hero-part-1-bypassing-intel-dcms-authentication-cve-2022-33942/, Authentication-bypass
 - https://saligrama.io/blog/post/dodging-oauth-origin-restrictions/, OAuth
 - https://www.zerodayinitiative.com/blog/2022/11/22/cve-2022-40300-sql-injection-in-manageengine-privileged-access-management, SQL-injection
-- https://fluidattacks.com/blog/account-takeover-kayak/, Account-takeover
 - https://medium.com/@0xelkot/how-i-get-10-sqli-and-30-xss-via-automation-tool-cebbd9104479, SQL-injection
 - https://0x36.github.io/CVE-2022-32898/, Memory-corruption
 - https://labs.guard.io/xss-vulnerability-found-in-connectwise-remote-access-platform-with-great-potential-for-misuse-by-scammers-a0773da2aacf, Stored-XSS
@@ -643,7 +642,6 @@
 - https://blog.includesecurity.com/2021/06/hacking-unity-games-malicious-unity-game-objects/, Arbitrary-code-execution
 - https://hesec.de/posts/bbh-csrf/, CSRF
 - https://medium.com/@Parag_Bagul/how-i-was-able-to-bypass-philips-authentication-c3bd3e1df9ff, Outdated-component-with-a-known-vulnerability
-- https://www.legitsecurity.com/blog/bypassing-github-required-reviewers-to-submit-malicious-code, Authorization-flaw
 - https://labs.jumpsec.com/quest-kace-desktop-authority-pre-auth-remote-code-execution-cve-2021-44031/, RCE
 - https://www.rapid7.com/blog/post/2022/09/08/baxter-sigma-spectrum-infusion-pumps-multiple-vulnerabilities-fixed/, Hardcoded-credentials
 - https://security.humanativaspa.it/groovy-template-engine-exploitation-notes-from-a-real-case-scenario/, RCE
@@ -1982,8 +1980,6 @@
 - https://medium.com/@vishnu0002/instagram-multi-factor-authentication-bypass-924d963325a1, MFA-bypass
 - https://www.amolbaikar.com/disclose-contact_email-of-any-facebook-application/, Information-disclosure
 - https://medium.com/@zain.sabahat/exploiting-ssrf-like-a-boss-c090dc63d326, SSRF
-- https://medium.com/@luanherrera/xs-searching-googles-bug-tracker-to-find-out-vulnerable-source-code-50d8135b7549, XS-Search
-- https://quitten.github.io/Youtube/, Open-redirect
 - https://web.archive.org/web/20200907110700/https://medium.com/@sameerphad72/edmodo-xss-bug-9c0fc9bdd0bf, XSS
 - https://www.askbuddie.com/blog/unauthorized-comments-on-facebook-live-stream/, Authorization-flaw
 - https://www.vulnerability-db.com/?q=articles/2018/11/16/microsoft-bingplaces-business-url-redirect-vulnerability, Open-redirect
@@ -2060,7 +2056,6 @@
 - https://medium.com/bugbountywriteup/from-tomcat-to-nt-authority-system-a79fa09c4abb, Default-credentials
 - https://medium.com/@carlosdanielgiovanella/this-is-how-can-i-spoof-any-sentry-log-infinitely-and-create-fake-error-logs-74406367f4ba, Content-spoofing
 - https://steemit.com/cryptocurrency/@mabdullah22/how-i-hacked-a-crypto-exchange-bug-bounty-writeup, IDOR
-- https://medium.com/@friendly_/reflected-xss-primagames-com-c7a641912626, Reflected-XSS
 - https://www.secjuice.com/logical-bug-at-edmodo/, Logic-flaw
 - https://blog.evanricafort.com/2018/08/blind-xss-in-chrome-experiments-google.html, Blind-XSS
 - https://medium.com/@friendly_/stored-xss-in-gameskinny-aa26c6a6ae40, Stored-XSS
