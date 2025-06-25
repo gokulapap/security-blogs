@@ -68,3 +68,4 @@
 - https://infosecwriteups.com/bypass-apples-redirection-process-with-the-dot-character-c47d40537202
 - http://homakov.blogspot.com/2014/02/how-i-hacked-github-again.html
 - https://quitten.github.io/Youtube/
+- https://philippeharewood.com/business-id-leak-via-creative-hub-redirect/

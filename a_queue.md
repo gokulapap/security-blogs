@@ -425,7 +425,6 @@
 - https://medium.com/pentesternepal/two-factor-authentication-bypass-on-facebook-3f4ac3ea139c, MFA-bypass
 - https://www.zerodayinitiative.com/blog/2023/1/18/cve-2022-35690-unauthenticated-rce-in-adobe-coldfusion, RCE
 - https://shahjerry33.medium.com/api-misconfiguration-no-swag-of-swaggerui-9b43135346be, Security-misconfiguration
-- https://medium.com/@Parag_Bagul/how-i-identified-and-reported-vulnerabilities-in-oracle-and-the-rewards-of-responsible-43ee5fea457f, Information-disclosure
 - https://x41-dsec.de/security/research/news/2023/01/17/git-security-audit-ostif/, Memory-corruption
 - https://semgrep.dev/blog/2022/xml-security-in-java, XXE
 - https://www.dsecbypass.com/en/centreon-map-vulnerability/, Authentication-bypass
@@ -588,7 +587,6 @@
 - https://medium.com/@iknowhatodo/fall-account-takeover-via-amazon-cognito-misconfiguration-ba5975b06c24, IDOR
 - https://www.horizon3.ai/fortios-fortiproxy-and-fortiswitchmanager-authentication-bypass-technical-deep-dive-cve-2022-40684, Authentication-bypass
 - https://mr23r0.medium.com/code-flaws-leads-to-org-admin-account-takeover-ad9515a96eab, Privilege-escalation
-- https://medium.com/@nireshpandian19/the-story-of-a-p5-that-lead-me-to-a-p3-find-3f8a5ea2c6e1, Pre-account-takeover
 - https://blog.yeswehack.com/yeswerhackers/web-application-firewall-bypass/, WAF-bypass
 - https://www.oxeye.io/blog/vm2-sandbreak-vulnerability-cve-2022-36067, RCE
 - https://medium.com/@protostar0/hacking-banks-broken-access-control-vulnerability-in-banking-application-part-i-c442ed5ae170, Broken-Access-Control
@@ -663,7 +661,6 @@
 - https://www.microsoft.com/security/blog/2022/08/31/vulnerability-in-tiktok-android-app-could-lead-to-one-click-account-hijacking/, Insecure-deeplink
 - https://abdulsec.medium.com/mfa-bypass-in-private-program-the-abdulsec-way-f677fea209f7, MFA-bypass
 - https://falcon319.medium.com/my-findings-on-hack-u-s-program-43b692a5c057, Missing-authentication
-- https://jfrog.com/blog/cve-2021-38297-analysis-of-a-go-web-assembly-vulnerability/, Memory-corruption
 - https://www.ambionics.io/blog/hacking-watchguard-firewalls, XPath-injection
 - https://infosecwriteups.com/bypassing-amazon-waf-to-pop-an-alert-4646ce35554e, WAF-bypass
 - https://sagarsajeev.medium.com/unsubscribe-any-users-e-mail-notifications-via-idor-2c2e05b79dac, IDOR
@@ -1760,7 +1757,6 @@
 - https://medium.com/bugbountywriteup/information-disclosure-at-paypal-and-xoom-paypal-acquisition-via-simple-google-dork-1-000-usd-b726fe628a05, Information-disclosure
 - https://medium.com/@0xgaurang/case-study-oauth-misconfiguration-leads-to-account-takeover-d3621fe8308b, OAuth
 - https://medium.com/bugbountywriteup/facebook-workplace-privilege-escalation-vulnerability-to-change-the-post-privacy-as-public-634f1c995780, Privilege-escalation
-- https://philippeharewood.com/business-id-leak-via-creative-hub-redirect/, Open-redirect
 - https://medium.com/@jayateerthag/google-referer-leak-bug-434f6293ce66, Referer-leakage
 - https://web.archive.org/web/20200820030055/https://pwnsec.ninja/2019/09/14/how-i-found-a-simple-and-weird-account-takeover-bug/, Account-takeover
 - https://medium.com/@cc1h2e1/unauthorized-access-to-all-user-information-leaks-5db95746aecf, Information-disclosure
@@ -2038,7 +2034,6 @@
 - https://medium.com/@mahitman1/i-own-your-customers-22e965761abd, Information-disclosure
 - https://medium.com/@D0rkerDevil/a-infinite-loop-story-f2bc05771a88, DoS
 - https://web.archive.org/web/20200929004149/https://www.mohamedharon.com/2018/08/wordpressXSS.html, Flash-XSS
-- https://medium.com/@D0rkerDevil/how-i-found-a-1500-worth-deserialization-vulnerability-9ce753416e0a, Misconfigured-JSF-ViewState
 - https://medium.com/@UpdateLap/idor-facebook-malicious-person-add-people-to-the-top-fans-4f1887aad85a, IDOR
 - https://medium.com/@nandwanajatin25/my-first-valid-xss-hackerone-f8ba0a7c647, XSS
 - https://blog.scrt.ch/2018/08/24/remote-code-execution-on-a-facebook-server/, RCE
