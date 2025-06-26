@@ -199,7 +199,6 @@
 - https://hacktus.tech/taking-over-an-entire-organization, Broken-Access-Control
 - https://infosecwriteups.com/kubernetes-pentest-bypassing-load-balancer-9bcfae2ce84a, Security-code-review
 - https://d3lb3.github.io/keepass_triggers_arent_dead/, Local-Privilege-Escalation
-- https://www.tarlogic.com/blog/linked-servers-adsi-passwords/, ADSI
 - https://medium.com/@malekmahmed55/turning-a-50-tab-nabbing-vulnerability-into-a-1000-account-takeover-9c3f32cb2d84, Reverse-tabnabbing
 - https://ssd-disclosure.com/ssd-advisory-roundcube-markasjunk-rce/, RCE
 - https://infosecwriteups.com/send-email-from-anyone-to-any-user-outlook-microsoft-69fce333066d, Open-mail-relay
@@ -468,7 +467,6 @@
 - https://www.trendmicro.com/en_us/research/22/l/a-technical-analysis-of-cve-2022-22583-and-cve-2022-32800.html, MacOS
 - https://crypt0g30rgy.github.io/post/AWSTakeover, Information-disclosure
 - https://dappsec.substack.com/p/an-advisory-for-cve-2019-16891-from, RCE
-- https://rv09.medium.com/in-this-article-ill-tell-you-how-i-got-a-4-digits-bounty-from-an-indian-company-38e39a29f99e, Broken-link-hijacking
 - https://infosecwriteups.com/graphql-idor-leaking-credit-card-information-of-1000s-of-users-d07eec732979, IDOR
 - https://infosecwriteups.com/directory-ttraversal-vulnerability-in-huawei-hg255s-products-dce941a1d015, Path-traversal
 - https://0xraminfosec.medium.com/simple-cors-misconfig-leads-to-disclose-the-sensitive-token-worth-of-91433763f4d6, CORS-misconfiguration
@@ -708,7 +706,6 @@
 - https://vsrc.vng.com.vn/blog/liferay-revisited-a-tale-of-20k/, RCE
 - https://ruia-ruia.github.io/2022/08/05/CVE-2022-29582-io-uring/, Memory-corruption
 - https://infosecwriteups.com/how-i-was-able-to-get-29-free-products-bug-bounty-845667ab4ad4, Race-condition
-- https://www.adico.me/post/xss-in-gmail-s-amp4email, XSS
 - https://canmustdie.medium.com/multiple-bugs-in-one-program-leads-to-1500-c35fcde06bc7, Privilege-escalation
 - https://medium.com/@the_null_kid/instagram-photo-was-present-in-data-backup-nearly-after-two-years-being-deleted-f0e4d6e108, Privacy-issue
 - https://www.zscaler.com/blogs/security-research/analysis-adobe-acrobat-reader-javascript-docprint-use-after-free, Memory-corruption
@@ -1206,7 +1203,6 @@
 - https://www.fortbridge.co.uk/research/drupal-insecure-default-leads-to-password-reset-poisoning/, Password-reset
 - https://infosecwriteups.com/2fa-bypass-via-forced-browsing-9e511dfdb8df, MFA-bypass
 - https://galnagli.com/Mass_Assignment/, Mass-assignment
-- https://ysamm.com/?p=695, Reflected-XSS
 - https://filipaze.medium.com/how-i-find-my-first-stored-xss-c6f57155cc1a, Stored-XSS
 - https://tuhin1729.medium.com/story-of-my-hacking-dutch-government-46b7a3c8b75a, XSS
 - https://blog.evanricafort.com/2021/05/2fa-verification-bypass-in-shapeshift.html, MFA-bypass
@@ -2290,7 +2286,6 @@
 - https://www.rcesecurity.com/2014/11/google-bug-bounty-nice-catch-on-google-cloud-platform-live, Reflected-XSS
 - https://blog.it-securityguard.com/bugbounty-reflected-cross-site-scripting-billmelater/, Reflected-XSS
 - https://blog.it-securityguard.com/bugbounty-paypal-stored-xss-security-bypass/, Stored-XSS
-- https://josipfranjkovic.blogspot.com/2014/09/step-by-step-exploiting-sql-injection.html, SQL-injection
 - https://ahussam.me/Flickr-CSRF/, XSRF
 - https://blog.it-securityguard.com/bug-bounty-prezi-map-prezi-com-path-traversal/, Path-traversal
 - https://maustin.net/google_docs, Clickjacking

@@ -8,3 +8,4 @@
 - https://infosecwriteups.com/abusing-broken-link-in-fitbit-google-acquisition-to-collect-bugbounty-reports-on-behalf-of-google-5885a556eb7c
 - https://grumpinout.medium.com/manual-broken-link-monitoring-bcc064f5f5f2
 - https://tutorgeeks.blogspot.com/2019/09/broken-link-hijacking-s3-buckets.html
+- https://rv09.medium.com/in-this-article-ill-tell-you-how-i-got-a-4-digits-bounty-from-an-indian-company-38e39a29f99e

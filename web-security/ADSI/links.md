@@ -1,0 +1,1 @@
+- https://www.tarlogic.com/blog/linked-servers-adsi-passwords/

@@ -234,3 +234,4 @@
 - https://bishopfox.com/blog/flowscreencomponents-advisory
 - https://www.ehpus.com/post/xss-fix-bypass-10000-bounty-in-google-maps
 - https://medium.com/@saamux/applying-a-small-bypass-to-steal-facebook-session-tokens-in-uber-5b9638b7a18c
+- https://www.adico.me/post/xss-in-gmail-s-amp4email
