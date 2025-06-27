@@ -85,3 +85,4 @@
 - https://infosecwriteups.com/cve-2023-1410-stored-xss-in-the-graphite-function-description-tooltip-165bdc32154c
 - https://www.seekurity.com/blog/general/runkeeper-stores-xss-vulnerability/
 - https://medium.com/@nandwanajatin25/story-of-a-stored-xss-to-full-account-takeover-vulnerability-n-a-to-accepted-8478aa5e0d8e
+- https://hacklido.com/d/90-cve-2021-40662-chamilo-lms-11114-rce

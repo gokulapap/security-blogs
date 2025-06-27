@@ -512,7 +512,6 @@
 - https://medium.com/@0xelkot/how-i-get-10-sqli-and-30-xss-via-automation-tool-cebbd9104479, SQL-injection
 - https://0x36.github.io/CVE-2022-32898/, Memory-corruption
 - https://labs.guard.io/xss-vulnerability-found-in-connectwise-remote-access-platform-with-great-potential-for-misuse-by-scammers-a0773da2aacf, Stored-XSS
-- https://hacklido.com/d/90-cve-2021-40662-chamilo-lms-11114-rce, Stored-XSS
 - https://emily.id.au/tailscale, RCE
 - https://basu-banakar.medium.com/ssrf-via-dns-rebinding-cve-2022-4096-b7bf75928bb2, SSRF
 - https://github.com/0xacb/recollapse/blob/main/till_recollapse_fuzzing_the_web_for_mysterious_bugs.pdf, Regex
@@ -716,7 +715,6 @@
 - https://swarm.ptsecurity.com/researching-open-source-apps-for-xss-to-rce-flaws/, XSS
 - https://github.blog/2022-07-27-corrupting-memory-without-memory-corruption/, Memory-corruption
 - https://medium.com/tinder/exploiting-github-actions-on-open-source-projects-5d93936d189f, RCE
-- https://pentest.blog/advisory-roxy-wi-unauthenticated-remote-code-executions-cve-2022-31137/, RCE
 - https://claroty.com/team82/blog/with-management-comes-risk-finding-flaws-in-filewave-mdm, Authentication-bypass
 - https://medium.com/@720922/a-developers-nightmare-story-of-a-simple-idor-and-some-poor-fixes-worth-1125-5ead70b0a1de, IDOR
 - https://0xpwn.wordpress.com/2022/07/23/how-i-made-300-github-repos-point-to-my-blog-using-azure-subdomains-takeover/, Subdomain-takeover
@@ -1093,7 +1091,6 @@
 - https://wojciechregula.blog/post/change-home-directory-and-bypass-tcc-aka-cve-2020-27937/, Privacy-issue
 - https://github.com/justinsteven/advisories/blob/master/2021_github_actions_checkspelling_token_leak_via_advice_symlink.md, Logic-flaw
 - https://www.spookjs.com, Browser-hacking
-- https://rikeshbaniyaaa.medium.com/facebook-email-disclosure-and-account-takeover-ecdb44ee12e9, Information-disclosure
 - https://websecblog.com/vulns/google-threadit/, DOM-XSS
 - https://medium.com/@katikitala.sushmitha078/how-i-can-take-over-any-users-account-with-their-mobile-number-6d820a364cad, Account-takeover
 - https://shahjerry33.medium.com/business-logic-errors-must-vote-68f642b60fb7, Logic-flaw
@@ -1540,7 +1537,6 @@
 - https://ysamm.com/?p=450, Information-disclosure
 - https://ysamm.com/?p=458, Information-disclosure
 - https://medium.com/@pravinponnusamy/race-condition-vulnerability-found-in-bug-bounty-program-573260454c43, Race-condition
-- https://medium.com/@vishnu0002/account-takeover-via-otp-bruteforce-apigee-api-9b5481c642df, OTP-bypass
 - https://medium.com/@mudassirsharief58/hunt-for-sql-injection-the-smart-way-db85243a4e90, SQL-injection
 - https://www.cyberonesecurity.com/blog/local-privilege-escalation-discovered-in-vmware-fusion, Local-Privilege-Escalation
 - https://medium.com/@ricardoiramar/this-is-fine-6e032f497b8f, Information-disclosure
@@ -1575,7 +1571,6 @@
 - https://www.ezequiel.tech/2020/05/rce-in-cloud-dm.html, SSRF
 - https://philippeharewood.com/change-any-link-at-https-fbwat-ch/, Authorization-flaw
 - https://healdb.tech/blog/teradici.html, Missing-authentication
-- https://servicenger.com/blog/mobile/facebook-for-ios-address-bar-spoofing/, Address-Bar-Spoofing
 - https://medium.com/csis-techblog/cve-2020-1088-yet-another-arbitrary-delete-eop-a00b97d8c3e2, Local-Privilege-Escalation
 - https://www.modzero.com/modlog/archives/2020/05/18/how_netgear_meshed_up_wifi_for_business/index.html, Weak-crypto
 - https://web.archive.org/web/20200616051351/https://hazana.xyz/posts/cors-blimey/, CORS-misconfiguration

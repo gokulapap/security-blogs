@@ -222,3 +222,4 @@
 - https://offensi.com/2019/12/16/4-google-cloud-shell-bugs-explained-introduction/
 - https://www.kroll.com/en/insights/publications/cyber/ghostscript-cve-2023-36664-remote-code-execution-vulnerability
 - https://onekey.com/blog/security-advisory-wago-unauthenticated-remote-command-execution/
+- https://pentest.blog/advisory-roxy-wi-unauthenticated-remote-code-executions-cve-2022-31137/
