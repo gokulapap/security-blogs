@@ -93,3 +93,4 @@
 - https://infosecwriteups.com/how-i-was-able-to-bypass-parental-pin-of-showmax-e6d6ec3af92d
 - https://medium.com/@lukeberner/cloning-internal-google-repos-for-fun-and-info-bf2c83d0ae00
 - https://www.legitsecurity.com/blog/bypassing-github-required-reviewers-to-submit-malicious-code
+- https://ysamm.com/?p=256

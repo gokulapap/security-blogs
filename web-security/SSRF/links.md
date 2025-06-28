@@ -106,3 +106,4 @@
 - https://medium.com/@th3g3nt3l/how-i-found-an-ssrf-in-yahoo-guesthouse-recon-wins-8722672e41d4
 - https://www.jomar.fr/posts/2021/ssrf_through_pdf_generation/
 - https://blog.assetnote.io/2022/06/26/exploiting-ssrf-in-jira/
+- https://github.blog/2023-03-03-github-security-lab-audited-datahub-heres-what-they-found/

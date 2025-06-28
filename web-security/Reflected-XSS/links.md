@@ -75,3 +75,4 @@
 - https://web.archive.org/web/20191211081434/https://victoni.github.io/bug-hunting-xss-on-cookie-popup-warning/
 - https://medium.com/@friendly_/reflected-xss-primagames-com-c7a641912626
 - https://ysamm.com/?p=695
+- https://infosecwriteups.com/my-first-reflected-xss-bug-bounty-google-dork-xxx-92ac1180e0d0
