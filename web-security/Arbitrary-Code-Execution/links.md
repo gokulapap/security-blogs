@@ -1,1 +1,2 @@
 - https://sector7.computest.nl/post/2022-09-aveva-edge/
+- https://offsec.space/posts/airtel-vulnerabilities/

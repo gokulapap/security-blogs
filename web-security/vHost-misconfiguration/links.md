@@ -1,0 +1,1 @@
+- https://blog.securitybreached.org/2017/11/04/access-localhost-via-virtual-host-virtual-host-enumeration/

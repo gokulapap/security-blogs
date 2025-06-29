@@ -497,7 +497,6 @@
 - https://medium.com/bored-engineer/xss-on-account-leagueoflegends-com-via-easyxdm-2016-75bcf9d582b5, XSS
 - https://medium.com/@Hossam.Mesbah/broken-access-control-misconfiguration-beautiful-privilege-escalation-e4fdfd018efa, Broken-Access-Control
 - https://medium.com/@aa.pietruczuk/improper-error-handling-leads-to-exposing-internal-tokens-3355d6b43a32, Information-disclosure
-- https://offsec.space/posts/airtel-vulnerabilities/, Arbitrary-Code-Execution
 - https://infosecwriteups.com/unique-rate-limit-bypass-worth-1800-6e2947c7d972, Rate-limiting-bypass
 - https://bhashit.in/?p=117, OS-command-injection
 - https://medium.com/@protostar0/hacking-bank-the-second-story-of-finding-critical-vulnerabilities-on-banking-application-ac20cd8f3dad, Android
@@ -907,7 +906,6 @@
 - https://swarm.ptsecurity.com/catching-bugs-in-vmware-carbon-black-cloud-workload-appliance-and-vrealize-operations-manager/, Authentication-bypass
 - https://philippeharewood.com/instagram-app-access-token/, Information-disclosure
 - https://servicenger.com/mobile/facebook-android-vulnerability-launching-internal-tighten-deeplink-onbehalf-of-user/, Android
-- https://infosecwriteups.com/send-a-email-to-me-and-get-kicked-out-of-google-groups-29b5c2c60e95, Logic-flaw
 - https://gitlab.com/kop316/vvm-disclosure, Voicemail-hacking
 - https://remonsec.com/posts/getting-first-swag-SIDN/, Directory-listing
 - https://github.com/Metnew/write-ups/tree/main/rce-github-desktop-2.9.3, RCE
@@ -1245,7 +1243,6 @@
 - https://thexssrat.medium.com/i-felt-like-there-were-no-more-bugs-left-after-winning-2000-but-an-email-worth-750-changed-my-c7a507649060, Broken-Access-Control
 - https://infosecwriteups.com/a-weird-xss-77c13d135c9f, Reflected-XSS
 - https://jychp.medium.com/how-to-bypass-cloudflare-bot-protection-1f2c6c0c36fb, Logic-flaw
-- https://shrirangdiwakar.medium.com/encrypted-payload-decrypted-execution-600-stored-xss-3e517cea8f13, Stored-XSS
 - https://thexssrat.medium.com/poc-the-easiest-125-euros-i-ever-made-4dc87f01e286, Logic-flaw
 - https://www.ehpus.com/post/multiple-authorization-bypass-issues-in-google-s-richmedia-studio, Authorization-flaw
 - https://3bodymo.medium.com/bypass-rate-limit-to-enumeration-users-through-google-drive-ed64e07c879c, Rate-limiting-bypass
@@ -2151,7 +2148,6 @@
 - https://corben.io/blog/17-11-27-tricky-CORS, CORS-misconfiguration
 - https://medium.com/@malcolmx0x/story-of-bypassing-referer-header-to-make-open-redirect-94f938b9d032, Open-redirect
 - https://medium.com/@honcbb/amazon-bypass-open-redirect-12609c879dff, Open-redirect
-- https://medium.com/@honcbb/vmware-official-vcdx-reflected-xss-90e69a3c35e1, Reflected-XSS
 - https://medium.com/bugbountywriteup/account-take-over-vulnerability-in-google-acquisition-famebit-e93b1a0a7af9, CSRF
 - https://emtunc.org/blog/11/2017/jwt-refresh-token-manipulation/, JWT
 - https://medium.com/@agrawalsmart7/sql-is-every-where-5cba6ae9480a, SQL-injection
@@ -2164,7 +2160,6 @@
 - http://www.noob.ninja/2017/11/local-file-read-via-xss-in-dynamically.html, XSS
 - https://medium.com/@tungpun/from-ssrf-to-local-file-disclosure-58962cdc589f, SSRF
 - https://web.archive.org/web/20200819161548/https://medium.com/@adeshkolte/non-persistent-xss-at-microsoft-adesh-kolte-ad36b1b4a325, Reflected-XSS
-- https://blog.securitybreached.org/2017/11/04/access-localhost-via-virtual-host-virtual-host-enumeration/, vHost-misconfiguration
 - https://ysx.me.uk/app-maker-and-colaboratory-a-stored-google-xss-double-bill/, Stored-XSS
 - https://medium.freecodecamp.org/messing-with-the-google-buganizer-system-for-15-600-in-bounties-58f86cc9f9a5, Logic-flaw
 - https://blog.intothesymmetry.com/2017/10/slack-saml-authentication-bypass.html, Authentication-bypass
