@@ -88,3 +88,4 @@
 - https://hacklido.com/d/90-cve-2021-40662-chamilo-lms-11114-rce
 - https://medium.com/@kminthein/stored-xss-in-yahoo-mail-ios-app-3500-6b40e86358b9
 - https://shrirangdiwakar.medium.com/encrypted-payload-decrypted-execution-600-stored-xss-3e517cea8f13
+- https://medium.com/@ZishanAdThandar/just-5-minute-to-get-my-2nd-stored-xss-on-edmodo-com-fe2ee559e00d

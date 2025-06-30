@@ -1,3 +1,4 @@
 - https://cyolo.io/blog/dll-hijacking-strikes-back-exploiting-windows-on-arm-rdp-client-cve-2023-24905/
 - https://securitycafe.ro/2023/06/19/dll-hijacking-finding-vulnerabilities-in-pestudio-9-52/
 - https://www.praetorian.com/blog/dynamic-linking-injection/
+- https://blog.aquasec.com/cve-2022-32223-dll-hijacking

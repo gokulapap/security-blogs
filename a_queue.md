@@ -140,7 +140,6 @@
 - https://www.rapid7.com/blog/post/2023/07/19/cve-2023-38205-adobe-coldfusion-access-control-bypass-fixed/, Broken-Access-Control
 - https://orca.security/resources/blog/bad-build-google-cloud-build-potential-supply-chain-attack-vulnerability/, Cloud
 - https://www.trustedsec.com/blog/modeling-malicious-code-hacking-in-3d/, Phishing
-- https://blog.talosintelligence.com/weaknesses-mac-os-vmware-msrpc/, Kernel-hacking
 - https://labs.withsecure.com/publications/executing-arbitrary-code-executables-in-read-only-filesystems, Kubernetes
 - https://medium.com/workday-engineering/exploiting-jmeter-via-rmi-e8e12392bba8, Insecure-deserialization
 - https://d4ly.medium.com/an-interesting-rce-on-a-synack-red-team-target-516edb63fd04, RCE
@@ -738,7 +737,6 @@
 - https://vengeance.medium.com/authorization-token-leak-from-verifying-email-endpoint-f28803476680, Account-takeover
 - https://infosecwriteups.com/abusing-url-shortners-for-fun-and-profit-c83c67713916, Information-disclosure
 - https://medium.com/@rodricbr/from-open-redirect-to-reflected-xss-manually-64e633a3d23f, Open-redirect
-- https://blog.aquasec.com/cve-2022-32223-dll-hijacking, DLL-Hijacking
 - https://medium.com/tenable-techblog/microsoft-azure-site-recovery-dll-hijacking-cd8cc34ef80c, DLL-Hijacking
 - https://medium.com/@soufianehabti/write-up-1-hellosign-integration-full-read-ssrf-df5e1a5bc627, SSRF
 - https://h3k.ro/2022/07/11/bsqli/, SQL-injection
@@ -1851,7 +1849,6 @@
 - https://rpadovani.com/gitlab-responsible-disclosure, Authorization-flaw
 - https://www.inputzero.io/2019/04/evernote-cve-2019-10038.html, RCE
 - https://medium.com/bugbountywriteup/banner-grabbing-to-dos-and-memory-corruption-2442b1c25bbb, DoS
-- https://medium.com/@ZishanAdThandar/just-5-minute-to-get-my-2nd-stored-xss-on-edmodo-com-fe2ee559e00d, Stored-XSS
 - https://medium.com/@valeriyshevchenko/how-i-hacked-vending-machine-5b5a80bd5ffe, Violation-of-secure-design-principles
 - https://medium.com/@daniel.marad/post-komodosec-google-groups-authorization-bypass-500-bounty-adb371d16ab6, Authorization-flaw
 - https://medium.com/@kunal94/web-cache-deception-to-api-endpoint-attack-using-cached-token-header-b01a604a5ccd, Web-cache-deception
@@ -2133,7 +2130,6 @@
 - http://c0rni3sm.blogspot.com/2018/01/1800-in-less-than-hour.html, CSRF
 - https://blog.ibrahimdraidia.com/xss-via-angularjs-template-injection_hostinger/, Reflected-XSS
 - https://philippeharewood.com/view-the-bug-subscriptions-for-any-oculus-user/, IDOR
-- https://www.josipfranjkovic.com/blog/hacking-facebook-oculus-integration-csrf, CSRF
 - https://corben.io/blog/18-1-11-chaining-yahoo-bugs, CORS-misconfiguration
 - https://blog.securitybreached.org/2018/02/04/hunting-insecure-direct-object-reference-vulnerabilities-for-fun-and-profit-part-1/, IDOR
 - https://wwws.nightwatchcybersecurity.com/2018/01/04/rce-in-duolingos-tinycards-app-for-android-cve-2017-16905/, Content-injection
@@ -2196,7 +2192,6 @@
 - https://medium.com/@arbazhussain/idor-while-connecting-social-account-in-hackster-io-2296b316b7a7, IDOR
 - https://medium.com/@arbazhussain/ctrl-d5ffc7b0640e, Clickjacking
 - https://hackernoon.com/how-to-find-internal-subdomains-yql-yahoo-and-bug-bounty-d7730b374d77, Information-disclosure
-- https://zseano.medium.com/fun-with-mobile-apps-broken-api-leads-to-leak-of-millions-of-personal-information-e7eb0b9dcce7, IDOR
 - https://wesecureapp.com/blog/how-we-tookover-shopify-accounts-with-one-single-click, Stored-XSS
 - https://wesecureapp.com/blog/xss-by-tossing-cookies/, XSS
 - https://web.archive.org/web/20180827025910/http://www.paulosyibelo.com/2017/07/coinbase-angularjs-dom-xss-via-kiteworks.html, DOM-XSS
