@@ -87,3 +87,4 @@
 - https://medium.com/@lokeshdlk77/csrf-email-confirmation-vulnerability-for-gmail-g-suite-in-facebook-5ab551a0a526
 - https://www.seekurity.com/blog/general/metasploit-web-project-kill-all-running-tasks-csrf-cve-2017-5244/
 - https://www.josipfranjkovic.com/blog/hacking-facebook-oculus-integration-csrf
+- https://medium.com/@balapraneeth98/journey-to-my-first-bug-hunt-6dc5e4552128

@@ -143,7 +143,6 @@
 - https://labs.withsecure.com/publications/executing-arbitrary-code-executables-in-read-only-filesystems, Kubernetes
 - https://medium.com/workday-engineering/exploiting-jmeter-via-rmi-e8e12392bba8, Insecure-deserialization
 - https://d4ly.medium.com/an-interesting-rce-on-a-synack-red-team-target-516edb63fd04, RCE
-- https://herolab.usd.de/en/critical-foswiki-vulnerablities-a-logic-error-turned-remote-code-execution/, RCE
 - https://www.rapid7.com/blog/post/2023/07/11/cve-2023-29298-adobe-coldfusion-access-control-bypass/, Broken-Access-Control
 - https://dimazarno.medium.com/unexpected-zero-in-mysql-injection-511f632714b0, SQL-injection
 - https://code-white.com/blog/2023-07-from-blackbox-dotnet-remoting-to-rce/, RCE
@@ -1157,7 +1156,6 @@
 - https://blog.evanricafort.com/2021/06/generate-online-votes-using-race.html, Race-condition
 - https://sm4rty.medium.com/stored-xss-via-invite-leading-to-mass-account-takeover-at-opera-a85ed257dd12, Stored-XSS
 - https://ertugrull.medium.com/unprivileged-user-with-read-write-permission-to-user-access-can-escalate-their-role-to-admin-a217d2d280a8, Privilege-escalation
-- https://pwn.vg/articles/2021-06/local-file-read-via-error-based-xxe, XXE
 - https://imranhudaa.medium.com/accessing-restricted-documentswith-extra-json-body-content-c59bc7224189, Mass-assignment
 - https://0xbadb00da.medium.com/account-takeover-via-stored-xss-with-arbitrary-file-upload-2774ec6cff51, Insecure-file-upload
 - https://cyberxplore.medium.com/how-we-are-able-to-hack-any-company-by-sending-message-including-facebook-google-microsoft-b7773626e447, Universal-XSS
@@ -1442,7 +1440,6 @@
 - https://blog.detectify.com/2020/08/14/crowdsource-success-story-from-an-out-of-scope-open-redirect-to-cve-2020-1323/, Open-redirect
 - https://medium.com/nassec-cybersecurity-writeups/deleted-data-stored-permanently-on-instagram-facebook-bug-bounty-2020-26074c229955, Logic-flaw
 - https://medium.com/bugbountywriteup/leaking-aws-metadata-f5bc8de03284, Information-disclosure
-- https://medium.com/@balapraneeth98/journey-to-my-first-bug-hunt-6dc5e4552128, CSRF
 - https://medium.com/bugbountywriteup/cache-poisoning-of-wget-94a4d70104b1, Web-cache-poisoning
 - https://medium.com/@singh.simran7838/how-i-made-2000-with-url-redirection-b1b5f4e7a678, Open-redirect
 - https://voidsec.com/cve-2020-1337-printdemon-is-dead-long-live-printdemon/, Local-Privilege-Escalation
@@ -1629,7 +1626,6 @@
 - https://medium.com/@shahjerry33/otp-bypass-developers-check-5786885d55c6, OTP-bypass
 - https://medium.com/@sw33tlie/finding-a-p1-in-one-minute-with-shodan-io-rce-735e08123f52, RCE
 - https://medium.com/cyberverse/got-easiest-bounty-with-html-injection-via-email-confirmation-b1b10575a105, HTML-injection
-- https://medium.com/bugbountywriteup/vulnerable-design-leads-to-personal-data-leakage-yet-another-case-of-an-inter-application-8a9d7e2d0f1a, Logic-flaw
 - https://bugs.xdavidhu.me/google/2020/03/08/the-unexpected-google-wide-domain-check-bypass/, Logic-flaw
 - https://medium.com/@adonkidz7/google-ads-self-xss-html-injection-5000-52280da76c80, Self-XSS
 - https://posts.specterops.io/abusing-slack-for-offensive-operations-2343237b9282, Logic-flaw
@@ -2111,7 +2107,6 @@
 - https://infosecwriteups.com/how-i-hacked-into-a-bugcrowd-public-program-fcfdd4fb1b69, RCE
 - https://medium.com/bugbountywriteup/bugbounty-api-keys-leakage-source-code-disclosure-in-indias-largest-e-commerce-health-care-c75967392c7e, Path-traversal
 - https://medium.com/bugbountywriteup/bugbounty-exploiting-crlf-injection-can-lands-into-a-nice-bounty-159525a9cb62, CRLF-injection
-- https://medium.com/bugbountywriteup/bugbounty-how-i-was-able-to-shop-for-free-payment-price-manipulation-b29355a8e68e, Parameter-tampering
 - https://medium.com/@mrityunjoy/stored-xss-on-snapchat-5d704131d8fd, Stored-XSS
 - https://medium.freecodecamp.org/responsible-disclosure-how-i-could-have-hacked-all-facebook-accounts-f47c0252ae4d, Bruteforce
 - https://www.josipfranjkovic.com/blog/facebook-partners-portal-account-takeover, Information-disclosure

@@ -4,3 +4,4 @@
 - https://b3nac.com/posts/2019-09-02-Spear-Texting-Via-Parameter-Injection.html
 - https://medium.com/@suneets1ngh/parameter-tampering-ddd9b3de0da8
 - https://medium.com/bugbountywriteup/creating-test-conversion-using-any-app-8b32ee0a735
+- https://medium.com/bugbountywriteup/bugbounty-how-i-was-able-to-shop-for-free-payment-price-manipulation-b29355a8e68e
