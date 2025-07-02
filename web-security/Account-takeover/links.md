@@ -86,3 +86,4 @@
 - https://blog.dixitaditya.com/exploiting-jwt-lack-of-signature-verification
 - https://gonzxph.medium.com/account-takeover-worth-of-2500-e643661f94e9
 - https://fluidattacks.com/blog/account-takeover-kayak/
+- https://medium.com/@302Found/bugcrowd-tale-of-multiple-misconfigurations-cb5b98f09302

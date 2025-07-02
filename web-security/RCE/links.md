@@ -224,3 +224,4 @@
 - https://onekey.com/blog/security-advisory-wago-unauthenticated-remote-command-execution/
 - https://pentest.blog/advisory-roxy-wi-unauthenticated-remote-code-executions-cve-2022-31137/
 - https://herolab.usd.de/en/critical-foswiki-vulnerablities-a-logic-error-turned-remote-code-execution/
+- https://pulsesecurity.co.nz/advisories/ManageEngine-OpManager-RCE
