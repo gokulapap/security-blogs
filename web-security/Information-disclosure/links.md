@@ -228,3 +228,4 @@
 - https://medium.com/@Parag_Bagul/how-i-identified-and-reported-vulnerabilities-in-oracle-and-the-rewards-of-responsible-43ee5fea457f
 - https://rikeshbaniyaaa.medium.com/facebook-email-disclosure-and-account-takeover-ecdb44ee12e9
 - https://philippeharewood.com/instagram-app-access-token/
+- https://medium.com/devanshwolf/hey-developer-give-me-your-api-keys-b8c99ab1c4f5
