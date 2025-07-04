@@ -14,3 +14,4 @@
 - https://medium.com/@RheyJuls/privacy-disclosure-on-facebook-lite-after-creating-a-post-b12a1cad8d8a
 - https://web.archive.org/web/20210621213025/https://savirsuda.github.io/How-I-was-able-to-Retrieve-your-Personal-Documents-using-the-Wayback-Machine/
 - https://insinuator.net/2023/07/all-your-parcel-are-belong-to-us-talk-at-troopers-2023/
+- https://medium.com/@lukeberner/information-disclosure-to-gdpr-breach-a-google-tale-f9e99fd5d648

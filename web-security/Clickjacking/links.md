@@ -20,3 +20,4 @@
 - https://sriram-offcl.medium.com/play-a-game-get-subscribed-to-my-channel-youtube-clickjacking-bug-googlevrp-6ce1d15542d3
 - https://medium.com/@abaykandotcom/clickjacking-on-google-cse-6636bba72d20
 - https://medium.com/bugbountywriteup/api-token-hijacking-through-clickjacking-2e36c02e6c48
+- https://www.seekurity.com/blog/general/whatsapp-clickjacking-vulnerability-yet-another-web-client-failure
