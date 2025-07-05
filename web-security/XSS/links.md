@@ -236,3 +236,4 @@
 - https://medium.com/@saamux/applying-a-small-bypass-to-steal-facebook-session-tokens-in-uber-5b9638b7a18c
 - https://www.adico.me/post/xss-in-gmail-s-amp4email
 - https://apth3hack3r.medium.com/xss-through-base64-encoded-json-4b0d96e5ccd4
+- https://n45ht.or.id/post/exploiting-xss-via-markdown-on-xiaomi/en

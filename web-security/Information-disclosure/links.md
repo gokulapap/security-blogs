@@ -229,3 +229,4 @@
 - https://rikeshbaniyaaa.medium.com/facebook-email-disclosure-and-account-takeover-ecdb44ee12e9
 - https://philippeharewood.com/instagram-app-access-token/
 - https://medium.com/devanshwolf/hey-developer-give-me-your-api-keys-b8c99ab1c4f5
+- https://ysamm.com/?p=444

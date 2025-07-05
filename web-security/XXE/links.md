@@ -20,3 +20,4 @@
 - https://0xgaurang.medium.com/out-of-band-xxe-in-an-e-commerce-ios-app-e22981f7b59b
 - https://medium.com/@thexssrat/ultimate-xxe-beginner-guide-f3bd123b1f4a
 - https://pwn.vg/articles/2021-06/local-file-read-via-error-based-xxe
+- https://hackcompute.com/hacking-epp-servers/

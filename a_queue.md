@@ -193,7 +193,6 @@
 - https://starlabs.sg/blog/2023/06-the-old-the-new-and-the-bypass-one-clickopen-redirect-to-own-samsung-s22-at-pwn2own-2022/, Open-redirect
 - https://medium.com/@0day_exploit/stored-xss-injection-permanent-open-redirection-e14ffa11573c, Reflected-XSS
 - https://research.nccgroup.com/2023/06/13/dynamic-linq-injection-remote-code-execution-vulnerability-cve-2023-32571/, RCE
-- https://hackcompute.com/hacking-epp-servers/, XXE
 - https://hacktus.tech/taking-over-an-entire-organization, Broken-Access-Control
 - https://infosecwriteups.com/kubernetes-pentest-bypassing-load-balancer-9bcfae2ce84a, Security-code-review
 - https://d3lb3.github.io/keepass_triggers_arent_dead/, Local-Privilege-Escalation
@@ -1203,7 +1202,6 @@
 - https://feed.bugs.xdavidhu.me/bugs/0003, Privacy-issue
 - https://polarply.medium.com/the-false-oracle-azure-functions-padding-oracle-issue-2025e0e6b8a, Padding-oracle-attack
 - https://n45ht.or.id/post/reflected-dom-xss-on-domainesia/en, XSS
-- https://n45ht.or.id/post/exploiting-xss-via-markdown-on-xiaomi/en, XSS
 - https://blog.sonarsource.com/wordpress-xxe-security-vulnerability/, XXE
 - https://n45ht.or.id/post/reflected-xss-on-microsoft/en, Reflected-XSS
 - https://notifybugme.medium.com/aws-internal-metadata-accessed-through-ssrf-by-chaining-an-open-redirect-bug-c4b0e4838dc, SSRF
@@ -1396,7 +1394,6 @@
 - https://johnjhacking.com/blog/p1-critical-discovering-and-foiling-a-threat-actor/, Information-disclosure
 - https://vnhacker.blogspot.com/2020/09/advisory-security-issues-in-aws-kms-and.html, Cryptographic-issues
 - https://medium.com/bugbountywriteup/pii-leakage-via-idor-weak-passwordreset-full-account-takeover-58d159f88d73, IDOR
-- https://medium.com/bugbountywriteup/fun-with-header-and-forget-password-without-that-nasty-twist-cbf45e5cc8db, HTTP-header-injection
 - https://medium.com/bugbountywriteup/business-logic-flaw-in-google-acquisition-hall-of-fame-1a9af5d3ac04, Logic-flaw
 - https://blog.securelayer7.net/unauthenticated-file-upload-vulnerability-on-synology-sub-domain/, Unrestricted-file-upload
 - https://medium.com/bugbountywriteup/how-i-earned-500-from-google-flaw-in-authentication-a40018c05616, Authentication-flaw
@@ -1573,7 +1570,6 @@
 - https://sites.google.com/securifyinc.com/vrp-writeups/gsuite/bookmark-xss-device-management, XSS
 - https://medium.com/@sandeepkumarsingh1902/bugbounty-adding-money-using-response-modification-334448d34251, Payment-tampering
 - https://web.archive.org/web/20210117211634/https://kurtikleiton.medium.com/blind-ssrf-on-coda-io-c7063f304455, SSRF
-- https://ysamm.com/?p=444, Information-disclosure
 - https://blog.sambal0x.com/2020/04/30/Hacking-razer-pay-ewallet-app.html, IDOR
 - https://medium.com/sud0root/bug-bounty-writeups-exploiting-sql-injection-vulnerability-20b019553716, SQL-injection
 - https://hethical.io/stealing-the-trello-token-by-abusing-a-cross-iframe-xss-on-the-butler-plugin/, XSS
@@ -1617,7 +1613,6 @@
 - https://ysamm.com/?p=396, Lack-of-rate-limiting
 - https://medium.com/@shahjerry33/otp-bypass-developers-check-5786885d55c6, OTP-bypass
 - https://medium.com/@sw33tlie/finding-a-p1-in-one-minute-with-shodan-io-rce-735e08123f52, RCE
-- https://medium.com/cyberverse/got-easiest-bounty-with-html-injection-via-email-confirmation-b1b10575a105, HTML-injection
 - https://bugs.xdavidhu.me/google/2020/03/08/the-unexpected-google-wide-domain-check-bypass/, Logic-flaw
 - https://medium.com/@adonkidz7/google-ads-self-xss-html-injection-5000-52280da76c80, Self-XSS
 - https://posts.specterops.io/abusing-slack-for-offensive-operations-2343237b9282, Logic-flaw
