@@ -36,7 +36,6 @@
 - https://medium.com/@hunter-55/how-i-was-able-to-bypass-open-redirect-3-times-on-same-program-d78f9d2443f6, open-redirection
 - https://medium.com/@ibm_ptc_security/exploiting-missing-hsts-54f8e23ed80b, misc
 - https://medium.com/@ssalssa.1.12.2.1.2.1/hacking-wordpress-server-database-f6cc6c116057, cms
-- https://medium.com/@harishhacker3010/how-i-hacked-google-to-read-files-from-their-servers-for-free-e0486a674912, journey
 - https://medium.com/@s3c/how-i-hacked-world-wide-tiktok-users-24e794d310d2, journey
 - https://medium.com/@hakluke/interlace-a-productivity-tool-for-pentesters-and-bug-hunters-automate-and-multithread-your-d18c81371d3d, automation
 - https://medium.com/@idan_malihi/how-i-earned-200-in-bug-bounty-program-6d7225a7ff1a, journey
@@ -150,7 +149,6 @@
 - https://blog.projectdiscovery.io/moveit-transfer-sql-injection/, SQL-injection
 - https://www.wojciechregula.blog/post/macos-atlassian-companion-rce/, RCE
 - https://devco.re/blog/2023/07/07/a-journey-into-hacking-google-search-appliance-en/, RCE
-- https://www.rapid7.com/blog/post/2023/07/06/user-enumeration-is-not-a-vulnerability-i-beg-to-differ/, Username-enumeration
 - https://kuldeep.io/posts/fulldisclosure-dom-based-xss/, DOM-XSS
 - http://blog.takemyhand.xyz/2023/07/remote-code-execution-in-gitlabs-cli.html, RCE
 - https://offsec.almond.consulting/windows-msiexec-eop-cve-2020-0911.html, Local-Privilege-Escalation
@@ -289,7 +287,6 @@
 - https://rayhan0x01.github.io/ctf/2023/04/01/finding-rce-in-eta-cve-2022-25967.html, RCE
 - https://www.reversemode.com/2023/03/beware-of-javas-stringgetbytes.html, Hash-collision
 - https://7h3h4ckv157.medium.com/unveiling-the-secrets-my-journey-of-hacking-googles-oss-cdd9ef3c7aa, CSRF
-- https://crypt0g30rgy.github.io/post/Journey2pII, Information-disclosure
 - https://www.mannulinux.org/2023/03/exploiting-hibernate-injection-in-order.html, HQL-injection
 - https://xelkomy.medium.com/found-ssrf-and-lfi-in-just-10-minutes-of-using-burp-492fddef3f3e, SSRF
 - https://www.sonarsource.com/blog/it-s-a-snmp-trap-gaining-code-execution-on-librenms/, RCE
@@ -1583,7 +1580,6 @@
 - https://blog.stazot.com/prestashop-csrf-to-rce-article/, RCE
 - https://medium.com/@rat010/otp-verification-bypass-ee17d68f8425, OTP-bypass
 - https://blog.zimperium.com/multiple-kernel-vulnerabilities-affecting-all-qualcomm-devices/, Memory-corruption
-- https://medium.com/@kristian.balog/netflix-party-simple-xss-ec92ed1d7e18, XSS
 - https://medium.com/@shahjerry33/business-logic-errors-a-new-look-3b18d9c2a12f, Logic-flaw
 - https://medium.com/bugbountywriteup/bounty-tip-easiest-way-to-bypass-apis-rate-limit-f984fad40093, Rate-limiting-bypass
 - https://medium.com/@afolicdaralee/hacking-a-telecommunication-company-mtn-c46696451fed, OTP-bypass
@@ -1623,7 +1619,6 @@
 - https://medium.com/@bhaveshthakur2015/account-hijack-using-authorization-bypass-which-made-me-richer-by-ba9dace72682, Account-takeover
 - https://smaranchand.com.np/2020/02/the-tricky-xss/, XSS
 - https://ysamm.com/?p=379, CSRF
-- https://medium.com/@abhishake100/rce-via-apache-struts2-still-out-there-b15ce205aa21, RCE
 - https://medium.com/@Mr.Daman.Singh/how-i-found-3-ssrf-in-one-day-on-different-bug-bounty-targets-62e91b4268f8, SSRF
 - https://web.archive.org/web/20200513211717/https://mrss4nd0x.000webhostapp.com/Stored-XSS-on-groups-google-com.php, Stored-XSS
 - https://medium.com/@DarkMatterMatt/breaking-a-discord-channel-with-a-single-message-5095eb7604f1, DoS

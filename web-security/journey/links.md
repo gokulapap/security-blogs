@@ -13,3 +13,4 @@
 - https://medium.com/@vineet08/story-of-a-reserved-cve-2022-23361-2c81d836c6fe
 - https://medium.com/@csal/dont-scan-my-website-i-exploiting-an-old-version-of-wappalyzer-14c001279434
 - https://medium.com/@marxchryz/how-i-gain-access-to-the-server-administration-of-a-million-dollar-company-14da68c7a9dd
+- https://medium.com/@harishhacker3010/how-i-hacked-google-to-read-files-from-their-servers-for-free-e0486a674912

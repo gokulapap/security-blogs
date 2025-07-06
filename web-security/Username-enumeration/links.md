@@ -3,3 +3,4 @@
 - https://medium.com/@protostar0/sidefx-poc-user-enumeration-no-rate-limeted-in-send-message-function-953f1662d41
 - https://pulsesecurity.co.nz/advisories/Atlassian-ID-Username-Enumeration
 - https://www.trustedsec.com/blog/onedrive-to-enum-them-all/
+- https://www.rapid7.com/blog/post/2023/07/06/user-enumeration-is-not-a-vulnerability-i-beg-to-differ/

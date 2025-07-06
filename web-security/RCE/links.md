@@ -226,3 +226,4 @@
 - https://herolab.usd.de/en/critical-foswiki-vulnerablities-a-logic-error-turned-remote-code-execution/
 - https://pulsesecurity.co.nz/advisories/ManageEngine-OpManager-RCE
 - https://www.zerodayinitiative.com/blog/2023/5/1/cve-2023-28231-rce-in-the-microsoft-windows-dhcpv6-service
+- https://medium.com/@abhishake100/rce-via-apache-struts2-still-out-there-b15ce205aa21
