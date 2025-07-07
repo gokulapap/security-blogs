@@ -94,3 +94,5 @@
 - https://medium.com/@lukeberner/cloning-internal-google-repos-for-fun-and-info-bf2c83d0ae00
 - https://www.legitsecurity.com/blog/bypassing-github-required-reviewers-to-submit-malicious-code
 - https://ysamm.com/?p=256
+- https://securifyinc.com/disclosures/rocketchat-monitor-messages
+- https://medium.com/swlh/watch-paint-dry-how-i-got-a-game-on-the-steam-store-without-anyone-from-valve-ever-looking-at-it-2e476858c753

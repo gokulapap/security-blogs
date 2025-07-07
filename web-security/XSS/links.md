@@ -238,3 +238,4 @@
 - https://apth3hack3r.medium.com/xss-through-base64-encoded-json-4b0d96e5ccd4
 - https://n45ht.or.id/post/exploiting-xss-via-markdown-on-xiaomi/en
 - https://medium.com/@kristian.balog/netflix-party-simple-xss-ec92ed1d7e18
+- https://ysx.me.uk/from-rss-to-xxe-feed-parsing-on-hootsuite/

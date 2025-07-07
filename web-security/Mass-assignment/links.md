@@ -2,3 +2,4 @@
 - https://blog.includesecurity.com/2022/07/hunting-for-mass-assignment-vulnerabilities-using-github-codesearch-and-grep-app/
 - https://kaif0x01.medium.com/story-of-account-takeover-using-social-login-with-mass-assignment-vulnerability-to-hack-accounts-21e4d5856f5e
 - https://dannewitz.ninja/posts/detecting-and-exploiting-mass-assignments
+- https://imranhudaa.medium.com/accessing-restricted-documentswith-extra-json-body-content-c59bc7224189
