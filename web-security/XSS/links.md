@@ -239,3 +239,5 @@
 - https://n45ht.or.id/post/exploiting-xss-via-markdown-on-xiaomi/en
 - https://medium.com/@kristian.balog/netflix-party-simple-xss-ec92ed1d7e18
 - https://ysx.me.uk/from-rss-to-xxe-feed-parsing-on-hootsuite/
+- https://medium.com/@friendly_/reflective-xss-via-search-box-bypassing-cloudflare-waf-841ed420b7f
+- https://web.archive.org/web/20200907110700/https://medium.com/@sameerphad72/edmodo-xss-bug-9c0fc9bdd0bf

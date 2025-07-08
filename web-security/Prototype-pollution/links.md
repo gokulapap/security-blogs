@@ -3,3 +3,4 @@
 - https://github.com/Sudistark/advisories/blob/main/2023/npm-package/fast-xml-parser.md
 - https://spaceraccoon.dev/supply-chain-pollution-hunting-a-16-million-download-week-npm-package
 - https://blog.sonarsource.com/blitzjs-prototype-pollution/
+- https://www.codean.io/blog/vulnerability-write-up---%22dangerous-assumptions%22

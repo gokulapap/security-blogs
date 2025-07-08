@@ -69,3 +69,4 @@
 - http://homakov.blogspot.com/2014/02/how-i-hacked-github-again.html
 - https://quitten.github.io/Youtube/
 - https://philippeharewood.com/business-id-leak-via-creative-hub-redirect/
+- https://buer.haus/2015/02/03/google-com-mobile-feedback-url-redirect-regexvalidation-flaw/

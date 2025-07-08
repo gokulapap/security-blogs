@@ -22,3 +22,4 @@
 - https://coffeejunkie.me/Multi-Domain-DOM-Cross-Site-Scripting/
 - https://twitter.com/missoum1307/status/1258472717453582336
 - https://www.vidocsecurity.com/blog/hacking-swagger-ui-from-xss-to-account-takeovers/
+- https://medium.com/@youssefla/dom-xss-walkthrough-4d60c45ffb21
