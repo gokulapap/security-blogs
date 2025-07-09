@@ -78,3 +78,4 @@
 - https://infosecwriteups.com/my-first-reflected-xss-bug-bounty-google-dork-xxx-92ac1180e0d0
 - https://medium.com/@honcbb/vmware-official-vcdx-reflected-xss-90e69a3c35e1
 - https://blog.evanricafort.com/2019/12/html-injection-to-xss-bypass-in.html
+- https://www.rcesecurity.com/2014/11/google-bug-bounty-nice-catch-on-google-cloud-platform-live

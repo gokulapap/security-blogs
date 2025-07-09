@@ -179,7 +179,6 @@
 - https://www.descope.com/blog/post/noauth, OAuth
 - https://github.com/firsov/onlyoffice/blob/main/CVE-2023-34939-PoC.md, Path-traversal
 - https://0xa1mn.medium.com/how-i-unveiled-a-critical-vulnerability-exposing-all-buyers-invoices-pii-with-a-single-trick-691fd410fd7a, Information-disclosure
-- https://blog.coffinsec.com/0day/2023/05/31/minidlna-heap-overflow-rca.html, Memory-corruption
 - http://www.firstsight.me/2023/06/the-unexpected-0-master-id-for-account-data-manipulation/, IDOR
 - https://zerforschung.org/posts/freundschaftspass-en/, Subdomain-takeover
 - https://hunter-55.medium.com/from-bug-bounty-hunter-to-risk-analyst-my-cybersecurity-journey-at-deloitte-56e7835619e4, Account-takeover
@@ -289,7 +288,6 @@
 - https://www.mannulinux.org/2023/03/exploiting-hibernate-injection-in-order.html, HQL-injection
 - https://xelkomy.medium.com/found-ssrf-and-lfi-in-just-10-minutes-of-using-burp-492fddef3f3e, SSRF
 - https://www.sonarsource.com/blog/it-s-a-snmp-trap-gaining-code-execution-on-librenms/, RCE
-- https://www.wiz.io/blog/azure-active-directory-bing-misconfiguration, Account-takeover
 - https://blog.scrt.ch/2023/03/29/attacking-android-antivirus-applications/, Android
 - https://medium.com/@bughuntar/a-short-tell-of-lfi-from-pdf-link-professor-the-hunter-43a8be853e, LFI
 - https://blog.nintechnet.com/high-severity-vulnerability-fixed-in-wordpress-elementor-pro-plugin/, Broken-Access-Control
@@ -1133,7 +1131,6 @@
 - https://ysamm.com/?p=702, CSRF
 - https://ysamm.com/?p=700, Information-disclosure
 - https://16521092.medium.com/some-ways-to-find-more-idor-da16c93954e5, IDOR
-- https://blog.mzfr.me/posts/2021-06-24-unexported-component/, Vulnerable-Android-content-provider
 - https://research.checkpoint.com/2021/a-supply-chain-breach-taking-over-an-atlassian-account/, XSS
 - https://smaranchand.com.np/2021/06/flywheel-subdomain-takeover/, Subdomain-takeover
 - https://web.archive.org/web/20210910154714/https://ricardoiramar.medium.com/msrc-is-confused-5d86b23c2e88, Dependency-confusion
@@ -1456,7 +1453,6 @@
 - https://medium.com/@balook/idor-in-google-datastudio-google-com-f2fa51b763de, IDOR
 - https://medium.com/bugbountywriteup/how-i-lost-my-followers-on-medium-9fe10e9862aa, GraphQL
 - https://medium.com/@sudipshah_66336/the-story-of-my-first-4-digit-bounty-from-facebook-3a29830e03cd, Logic-flaw
-- https://medium.com/@saurabhsanmane06/i-am-able-to-see-users-sensitive-data-from-json-file-905e330278df, Information-disclosure
 - https://medium.com/@yaala/admin-editor-can-disclose-personnel-email-of-other-editor-admin-on-page-who-created-shop-57c35ed9f9b7, Information-disclosure
 - https://medium.com/bugbountywriteup/exploiting-imported-libraries-to-bypass-cloudflare-waf-7aed99186c5a, Reflected-XSS
 - https://medium.com/@rafaelrodripaz/ssrf-in-import-file-function-d0f1c6397262, SSRF
@@ -2223,7 +2219,6 @@
 - https://www.rcesecurity.com/2015/09/cve-2014-7216-a-journey-through-yahoos-bug-bounty-program/, Buffer-Overflow
 - https://thezerohack.com/hacking-facebook-pages, Authorization-flaw
 - https://josipfranjkovic.blogspot.com/2015/07/the-easiest-bug-bounties-i-have-ever-won.html, IDOR
-- https://www.rcesecurity.com/2014/11/google-bug-bounty-nice-catch-on-google-cloud-platform-live, Reflected-XSS
 - https://blog.it-securityguard.com/bugbounty-reflected-cross-site-scripting-billmelater/, Reflected-XSS
 - https://blog.it-securityguard.com/bugbounty-paypal-stored-xss-security-bypass/, Stored-XSS
 - https://ahussam.me/Flickr-CSRF/, XSRF
