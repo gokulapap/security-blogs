@@ -20,3 +20,4 @@
 - https://medium.com/@akshanshjaiswal/pre-access-to-victims-account-via-facebook-signup-60219e9e381d
 - https://www.offensity.com/en/blog/user-impersonation-via-stolen-uuid-code-in-keycloak-cve-2023-0264/
 - https://ninetyn1ne.github.io/2022-02-21-oauth-postmessage-misconfig/
+- https://salt.security/blog/traveling-with-oauth-account-takeover-on-booking-com

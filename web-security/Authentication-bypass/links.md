@@ -53,3 +53,4 @@
 - https://www.jonbottarini.com/2017/04/03/inspect-element-leads-to-stripe-account-lockout-authentication-bypass/
 - https://medium.com/@mmaulanaabdullah/how-careless-default-credentials-impact-to-massive-account-takeover-be6bfc85119a
 - https://medium.com/@0xBarakat/broken-session-permanent-access-to-facebook-users-cfed68684113
+- https://feed.bugs.xdavidhu.me/bugs/0002

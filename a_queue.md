@@ -327,7 +327,6 @@
 - https://ibraradi.gitbook.io/write-up/upgrade-plan-from-free-to-paid-via-response-manipulation, Payment-bypass
 - https://mshibilmp.medium.com/how-i-earned-for-excessive-data-exposure-through-directory-traversal-leads-to-product-price-4582e5371774, Path-traversal
 - https://vijetareigns.medium.com/email-verification-bypass-worth-cbb65a68a34f, Email-verification-bypass
-- https://salt.security/blog/traveling-with-oauth-account-takeover-on-booking-com, OAuth
 - https://medium.com/@kushjain0107/how-simple-idor-impacted-the-data-of-thousands-of-customers-of-an-indian-automotive-giant-fdbd2ef1c2c6, Account-takeover
 - https://www.sonarsource.com/blog/empowering-weak-primitives-file-truncation-to-code-execution-with-git/, Argument-injection
 - https://www.zerodayinitiative.com/blog/2023/2/27/cve-2022-38108-rce-in-solarwinds-network-performance-monitor, Insecure-deserialization
@@ -1096,7 +1095,6 @@
 - https://medium.com/@chaitanyarajhans024/simple-html-injection-to-250-895b760409ed, HTML-injection
 - https://www.fortbridge.co.uk/research/multiple-vulnerabilities-in-cpanel-whm/, XXE
 - https://infosecwriteups.com/what-is-bola-3-digit-bounty-from-topcoder-a25e7fae0d64, IDOR
-- https://philippeharewood.com/view-the-country-of-a-private-instagram-user/, Information-disclosure
 - https://philippeharewood.com/access-to-crowdtangle-deletion-framework-api/, Information-disclosure
 - https://infosecwriteups.com/how-i-scored-1k-bounty-using-waybackurls-717d9673ca52, Information-disclosure
 - https://blog.gypsyengineer.com/en/security/detecting-jackson-deserialization-vulnerabilities-with-codeql.html, Insecure-deserialization
@@ -1116,7 +1114,6 @@
 - https://notifybugme.medium.com/how-i-was-able-find-mass-leaked-aws-s3-bucket-from-js-file-6064a5c247f8, AWS-misconfiguration
 - https://blog.takemyhand.xyz/2021/07/hacking-on-xiaomis-android-apps.html, Android
 - https://shahjerry33.medium.com/rce-via-webdav-power-of-put-7e1c06c71e60, Default-credentials
-- https://web.archive.org/web/20211017061704/https://0xdln.ml/IIS-Default-Page-to-Information-Disclosure/, Information-disclosure
 - https://blog.ryotak.me/post/cdnjs-remote-code-execution-en/, RCE
 - https://medium.com/@jawadmahdi/how-i-found-blind-sql-injection-just-by-browsing-and-getting-a-unique-url-ed87fa1f35ed, SQL-injection
 - https://krevetk0.medium.com/credential-stuffing-in-bug-bounty-hunting-7168dc1d3153, Credential-stuffing
@@ -1197,7 +1194,6 @@
 - https://notifybugme.medium.com/aws-internal-metadata-accessed-through-ssrf-by-chaining-an-open-redirect-bug-c4b0e4838dc, SSRF
 - https://davtur19.medium.com/telegram-bug-bounties-xss-privacy-issues-official-bot-exploitation-and-more-5277fa78435, XSS
 - https://parthdeshani.medium.com/got-nice-catch-by-google-5e6a8211371c, OAuth
-- https://feed.bugs.xdavidhu.me/bugs/0002, Authentication-bypass
 - https://notifybugme.medium.com/unauthorized-access-to-admin-setpassword-page-by-bypass-403-forbidden-f10bbb92ab35, Authorization-flaw
 - https://0day.click/recipe/2021-04-18-discourse-themes/, RCE
 - https://pharish4948.medium.com/how-i-earned-3200-in-4hours-through-stored-xss-38597877d3e1, Stored-XSS
@@ -1687,7 +1683,6 @@
 - https://fletchto99.dev/2019/november/slack-vulnerability/, CSS-injection
 - https://geleta.eu/2019/my-first-ssrf-using-dns-rebinfing/, SSRF
 - https://web.archive.org/web/20200604001225/https://hackking.net/threads/how-i-hacked-dutch-government-in-5-minutes-twitter-account-takeover.20/, Broken-link-hijacking
-- https://medium.com/@naufalseptiadi/live-video-facebook-application-android-its-not-expired-when-log-out-the-device-on-4d4e0b67b362, Logic-flaw
 - https://medium.com/bugbountywriteup/5-000-usd-xss-issue-at-avast-desktop-antivirus-for-windows-yes-desktop-1e99375f0968, Reflected-XSS
 - https://medium.com/@Hossam.Mesbah/cross-site-request-forgery-critical-exploitable-in-infected-site-a271aedeed2f, CSRF
 - https://noobe.io/articles/2019-10/xss-to-account-takeover, XSS

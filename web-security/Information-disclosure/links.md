@@ -232,3 +232,5 @@
 - https://ysamm.com/?p=444
 - https://crypt0g30rgy.github.io/post/Journey2pII
 - https://medium.com/@saurabhsanmane06/i-am-able-to-see-users-sensitive-data-from-json-file-905e330278df
+- https://web.archive.org/web/20211017061704/https://0xdln.ml/IIS-Default-Page-to-Information-Disclosure/
+- https://philippeharewood.com/view-the-country-of-a-private-instagram-user/

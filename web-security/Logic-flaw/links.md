@@ -139,3 +139,4 @@
 - https://infosecwriteups.com/send-a-email-to-me-and-get-kicked-out-of-google-groups-29b5c2c60e95
 - https://medium.com/bugbountywriteup/vulnerable-design-leads-to-personal-data-leakage-yet-another-case-of-an-inter-application-8a9d7e2d0f1a
 - https://medium.com/intigriti/how-i-got-your-phone-number-through-facebook-223b769cccf1
+- https://medium.com/@naufalseptiadi/live-video-facebook-application-android-its-not-expired-when-log-out-the-device-on-4d4e0b67b362
