@@ -258,7 +258,6 @@
 - https://www.wiz.io/blog/brokensesame-accidental-write-permissions-to-private-registry-allowed-potential-r, Cloud
 - https://material.security/blog/how-material-security-uncovered-a-vulnerability-in-gmail-api, Broken-Access-Control
 - https://blog.includesecurity.com/2023/04/impersonating-local-unity-players-with-udp-spoofing-in-mirror/, Game-hacking
-- https://infosecwriteups.com/break-the-logic-playing-with-product-ratings-on-a-shopping-site-600-c9a87fb66a73, Logic-flaw
 - https://www.pingsafe.com/blog/linkedin-vulnerability-delete-any-post, IDOR
 - https://starlabs.sg/advisories/23/23-2017/, SSTI
 - https://giraffesecurity.dev/posts/google-remote-code-execution/, Dependency-confusion
@@ -924,14 +923,12 @@
 - https://www.zerodayinitiative.com/blog/2022/1/25/cve-2021-44790-code-execution-on-apache-via-an-integer-underflow, Memory-corruption
 - https://kuldeep.io/posts/path-traversal-paradise/, Path-traversal
 - https://coffeejunkie.me//120-Days-Of-Frequent-Hacking/, SSRF
-- https://medium.com/@quelperlado/facebook-room-deep-linking-vulnerability-allow-malicious-user-to-know-the-code-for-anyones-4761b93481f1, Insecure-deeplink
 - https://srcincite.io/blog/2022/01/20/zohowned-a-critical-authentication-bypass-on-zoho-manageengine-desktop-central.html, Authentication-bypass
 - https://medium.com/@himmat1005/how-i-messed-up-my-own-profile-data-94a4b09cb54c, Authorization-flaw
 - https://www.zerodayinitiative.com/blog/2022/1/18/cve-2021-21661-exposing-database-info-via-wordpress-sql-injection, SQL-injection
 - https://googleprojectzero.blogspot.com//2022/01/zooming-in-on-zero-click-exploits.html, Memory-corruption
 - https://medium.com/@robert0/how-i-found-broken-access-control-through-out-of-sync-setup-and-got-1000-9143fc5febdd, Broken-Access-Control
 - https://0xkasper.com/articles/moodle-sql-injection-broken-access-control.html, SQL-injection
-- https://hulkvision.github.io/blog/post1/, RCE
 - https://haxolot.com/posts/2022/moodle_pre_auth_shibboleth_rce_part2/, Session-hijacking
 - https://www.microsoft.com/security/blog/2022/01/10/new-macos-vulnerability-powerdir-could-lead-to-unauthorized-user-data-access/, Privacy-issue
 - https://systemweakness.com/host-header-injection-lead-to-account-takeover-2f025a645d13, Host-header-injection
@@ -1267,7 +1264,6 @@
 - https://santoshdbobade.blogspot.com/, XSS
 - https://servicenger.com/blog/mobile/sending-ephemeral-message-to-any-facebook-user/, IDOR
 - https://medium.com/bugbountywriteup/a-tale-of-2nd-xxx-bounty-ability-to-gain-persistence-on-facebook-events-as-an-unremovable-9408338ccf8f, Logic-flaw
-- https://infosecwriteups.com/bigbasket-bug-bounty-writeup-9fedc490b814, Insecure-data-storage
 - https://thevillagehacker.medium.com/reflected-xss-on-a-public-program-e8c0416daca1, Reflected-XSS
 - https://sanderwind.medium.com/escalating-ssrf-to-rce-7c0147371c40, SSRF
 - http://almadj.us/infosec/xxe-to-aws-metadata-disclosure/, XXE
@@ -1618,7 +1614,6 @@
 - https://medium.com/@swapmaurya20/a-simple-idor-to-account-takeover-88b8a1d2ec24, IDOR
 - https://medium.com/@ozguralp/weird-vulnerabilities-happening-on-load-balancers-shallow-copies-and-caches-9194d4f72322, Information-disclosure
 - https://techkranti.com/ssrf-aws-metadata-leakage, SSRF
-- https://web.archive.org/web/20200305081812/https://0xatul.github.io/posts/2020/02/external-xml-entity-via-file-upload-svg/, XXE
 - https://www.amolbaikar.com/determine-users-with-detailed-role-model-on-behalf-of-any-facebook-application/, IDOR
 - https://fellchase.blogspot.com/2020/02/site-wide-csrf-on-popular-program.html, CSRF
 - https://flex0geek.blogspot.com/2020/02/using-csrf-i-got-weird-account-takeover.html, CSRF

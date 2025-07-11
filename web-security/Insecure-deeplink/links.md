@@ -6,3 +6,4 @@
 - https://securityflow.io/impact-of-an-insecure-deep-link/
 - https://servicenger.com/blog/mobile/android/facebook-messenger-for-android-indirect-thread-deletion/
 - https://feed.bugs.xdavidhu.me/bugs/0011
+- https://medium.com/@quelperlado/facebook-room-deep-linking-vulnerability-allow-malicious-user-to-know-the-code-for-anyones-4761b93481f1

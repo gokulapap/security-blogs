@@ -1,0 +1,1 @@
+- https://infosecwriteups.com/bigbasket-bug-bounty-writeup-9fedc490b814
