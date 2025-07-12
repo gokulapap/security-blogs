@@ -28,3 +28,4 @@
 - https://www.synopsys.com/blogs/software-security/a-deep-dive-on-pluck-cms-vulnerability-cve-2023-25828/
 - https://medium.com/@shayboy123/how-i-gain-unrestricted-file-upload-remote-code-execution-bug-bounty-381d0aab0dad
 - https://infosecwriteups.com/bragging-rights-killing-file-uploads-softly-fba35a4e485a
+- https://blog.evanricafort.com/2015/12/arbitary-file-upload-vulnerability-in.html

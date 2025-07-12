@@ -202,3 +202,4 @@
 - https://medium.com/@gonzalocarrascosec/fuzzing-idor-admin-takeover-5343bb8f436e
 - https://zseano.medium.com/fun-with-mobile-apps-broken-api-leads-to-leak-of-millions-of-personal-information-e7eb0b9dcce7
 - https://ahmadaabdulla.medium.com/vulnerabilitymultiple-vulnerability-leading-to-account-takeover-in-tiktok-smb-subdomain-c99e4a50b377
+- https://jub0bs.com/posts/2020-05-26-idor/

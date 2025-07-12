@@ -1,1 +1,2 @@
 - https://voidzone.me/facebook-chat-dashboard-content-injection
+- https://wwws.nightwatchcybersecurity.com/2018/01/04/rce-in-duolingos-tinycards-app-for-android-cve-2017-16905/

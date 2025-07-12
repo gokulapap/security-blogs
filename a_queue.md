@@ -883,7 +883,6 @@
 - https://web.archive.org/web/20220306040035/https://medium.com/@1337Fenrir/how-did-i-find-directory-traversal-attack-using-github-9b051ed749ca, Information-disclosure
 - https://research.nccgroup.com/2022/02/28/brokenprint-a-netgear-stack-overflow/, Memory-corruption
 - https://web.archive.org/web/20221128044142/https://wya.pl/2022/02/26/cve-2022-22947-spel-casting-and-evil-beans/, RCE
-- https://swarm.ptsecurity.com/catching-bugs-in-vmware-carbon-black-cloud-workload-appliance-and-vrealize-operations-manager/, Authentication-bypass
 - https://servicenger.com/mobile/facebook-android-vulnerability-launching-internal-tighten-deeplink-onbehalf-of-user/, Android
 - https://gitlab.com/kop316/vvm-disclosure, Voicemail-hacking
 - https://remonsec.com/posts/getting-first-swag-SIDN/, Directory-listing
@@ -1468,7 +1467,6 @@
 - https://medium.com/@hgreal/why-i-paid-3-5k-to-become-a-tld-registrar-reseller-when-doing-bug-bounty-d9d407911dce, XXE
 - https://pethuraj.com/blog/bbc-bug-bounty-write-up-xss-vulnerability/, Reflected-XSS
 - https://medium.com/@noneofyou/how-i-got-hall-of-fame-in-microsoft-9b507dec3860, XSS
-- https://lutfumertceylan.com.tr/posts/ato-and-data-leakage-via-cors-misc/, CORS-misconfiguration
 - https://thehackerish.com/bug-bounty-write-up-from-ssrf-to-4000/, SSRF
 - https://fadhilthomas.github.io/post/bug-bounty-tokopedia-03/, IDOR
 - https://ysamm.com/?p=479, Information-disclosure
@@ -1523,7 +1521,6 @@
 - https://medium.com/@kminthein/stored-xss-in-microsoft-outlook-ebce9ff9e45b, Stored-XSS
 - https://servicenger.com/blog/mobile/android-sop-bypass-to-steal-system-files/, SOP-bypass
 - https://www.cyberark.com/resources/threat-research-blog/bug-hunting-stories-schneider-electric-the-andover-continuum-web-client, XXE
-- https://jub0bs.com/posts/2020-05-26-idor/, IDOR
 - https://andrei-abakumov.medium.com/how-dangerous-is-request-splitting-a-vulnerability-in-golang-or-how-we-found-the-rce-in-portainer-7339ba24c871, HTTP-request-splitting
 - https://medium.com/@pallabjyoti218/story-about-otp-bypass-to-stored-xss-81bfd735c709, OTP-bypass
 - https://www.ezequiel.tech/2020/05/rce-in-cloud-dm.html, SSRF
@@ -2083,7 +2080,6 @@
 - https://philippeharewood.com/view-the-bug-subscriptions-for-any-oculus-user/, IDOR
 - https://corben.io/blog/18-1-11-chaining-yahoo-bugs, CORS-misconfiguration
 - https://blog.securitybreached.org/2018/02/04/hunting-insecure-direct-object-reference-vulnerabilities-for-fun-and-profit-part-1/, IDOR
-- https://wwws.nightwatchcybersecurity.com/2018/01/04/rce-in-duolingos-tinycards-app-for-android-cve-2017-16905/, Content-injection
 - https://blog.witcoat.com/2018/05/30/stealing-10000-yahoo-cookies/, CORS-misconfiguration
 - https://medium.com/bugbountywriteup/jumping-to-the-hell-with-10-attempts-to-bypass-devils-waf-4275bfe679dd, XSS
 - https://web.archive.org/web/20200920204426/https://medium.com/@adeshkolte/microsoft-sharepoints-follow-feature-xss-cve-2017-8514-adesh-kolte-d78d701cd064, XSS
@@ -2203,7 +2199,6 @@
 - https://bitquark.co.uk/blog/2016/02/09/how_i_got_access_to_millions_of_redacted_accounts, RFI
 - https://whitton.io/articles/xss-on-facebook-via-png-content-types, XSS
 - https://medium.com/bugbountywriteup/how-i-got-listed-in-microsoft-hall-of-fame-8f96ca4535c2, IDOR
-- https://blog.evanricafort.com/2015/12/arbitary-file-upload-vulnerability-in.html, Unrestricted-file-upload
 - https://web.archive.org/web/20180322133921/http://codel10n.com/how-to-hack-payu-buy-10x-more-same-price/, RCE
 - http://mahmoudsec.blogspot.com/2015/09/how-i-found-xss-vulnerability-in-google.html, XSS
 - https://www.rcesecurity.com/2015/09/cve-2014-7216-a-journey-through-yahoos-bug-bounty-program/, Buffer-Overflow

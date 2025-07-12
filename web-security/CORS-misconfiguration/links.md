@@ -19,3 +19,4 @@
 - https://medium.com/@mashoud1122/cors-misconfiguration-account-takeover-out-of-scope-to-grab-items-in-scope-66d9d18c7a46
 - https://medium.com/@arbazhussain/exploiting-misconfigured-cors-on-popular-btc-site-2aedfff906f6
 - https://medium.com/@saamux/full-account-takeover-through-cors-with-connection-sockets-179133384815
+- https://lutfumertceylan.com.tr/posts/ato-and-data-leakage-via-cors-misc/
