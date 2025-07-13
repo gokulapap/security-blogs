@@ -2,3 +2,4 @@
 - https://www.legitsecurity.com/blog/-how-we-found-another-github-action-environment-injection-vulnerability-in-a-google-project
 - https://marcyoung.us/post/zuckerpunch/
 - https://pulsesecurity.co.nz/advisories/Azure-Devops-Command-Injection
+- https://github.com/StackOverflowExcept1on/how-to-hack-github-actions
