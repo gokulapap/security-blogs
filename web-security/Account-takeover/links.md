@@ -88,3 +88,4 @@
 - https://fluidattacks.com/blog/account-takeover-kayak/
 - https://medium.com/@302Found/bugcrowd-tale-of-multiple-misconfigurations-cb5b98f09302
 - https://www.wiz.io/blog/azure-active-directory-bing-misconfiguration
+- https://medium.com/@ch3ckm4te/self-xss-to-account-takeover-72c89775cf8f

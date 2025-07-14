@@ -3,3 +3,4 @@
 - https://infosecwriteups.com/break-the-logic-5-different-perspectives-in-single-page-1500-5aa09da0fe7a
 - https://blog.securitybreached.org/2020/06/30/using-inspect-element-to-bypass-security-restrictions-bug-bounty-poc/
 - https://medium.com/@7azimo/hacking-into-admin-panel-of-u-s-federal-government-system-c-a-r-s-without-credentials-9117b865ba58
+- http://blog.randorisec.fr/client-side-validation/

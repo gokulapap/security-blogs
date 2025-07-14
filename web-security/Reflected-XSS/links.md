@@ -79,3 +79,4 @@
 - https://medium.com/@honcbb/vmware-official-vcdx-reflected-xss-90e69a3c35e1
 - https://blog.evanricafort.com/2019/12/html-injection-to-xss-bypass-in.html
 - https://www.rcesecurity.com/2014/11/google-bug-bounty-nice-catch-on-google-cloud-platform-live
+- https://infosecwriteups.com/a-weird-xss-77c13d135c9f
