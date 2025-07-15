@@ -234,3 +234,6 @@
 - https://medium.com/@saurabhsanmane06/i-am-able-to-see-users-sensitive-data-from-json-file-905e330278df
 - https://web.archive.org/web/20211017061704/https://0xdln.ml/IIS-Default-Page-to-Information-Disclosure/
 - https://philippeharewood.com/view-the-country-of-a-private-instagram-user/
+- https://medium.com/@hackrider/exploiting-devops-get-source-code-d4f5825eb373
+- https://www.pantaprakash.com.np/posts/categories/bugbounty-writeup/1.html
+- https://medium.com/@syedabuthahir/django-debug-mode-to-rce-in-microsoft-acquisition-189d27d08971

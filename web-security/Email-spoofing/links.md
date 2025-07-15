@@ -2,3 +2,4 @@
 - https://infosecwriteups.com/mail-server-misconfiguration-leads-to-sending-a-fax-from-anyones-account-on-hellofax-dropbox-bbp-aab3d97ab4e7
 - https://www.synacktiv.com/sites/default/files/2023-05/Synacktiv-Webflow-Arbitrary-Email-Forgery.pdf
 - https://medium.com/@newp_th/google-bug-posting-on-groups-as-any-users-behalf-c24e7f524be5
+- https://shenkaiwen.com/publication/2022-dkim/
