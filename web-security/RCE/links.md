@@ -229,3 +229,4 @@
 - https://medium.com/@abhishake100/rce-via-apache-struts2-still-out-there-b15ce205aa21
 - https://hulkvision.github.io/blog/post1/
 - https://www.synacktiv.com/en/publications/exploiting-cve-2022-24816-a-code-injection-in-the-jt-jiffle-extension-of-geoserver.html
+- https://labs.f-secure.com/blog/samsung-s20-rce-via-samsung-galaxy-store-app/

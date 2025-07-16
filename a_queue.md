@@ -208,7 +208,6 @@
 - https://mr-r3bot.github.io/red/team/2023/05/22/From-RCE-to-owning-entire-cloud-infrastructure.html, RCE
 - https://medium.com/@husein.ayoub/azure-dns-takeover-swisscom-7c6aacb38e8, DNS-takeover
 - https://nav1n.medium.com/i-helped-a-top-indian-health-benefits-management-platform-from-major-pii-leak-by-hacking-their-sql-b42caeca9729, SQL-injection
-- https://realm3ter.medium.com/aem-bug-in-adobe-416763d3ad04, AEM
 - https://nav1n.medium.com/exploiting-sql-error-sqlstate-42000-to-own-mariadb-of-a-large-eu-based-online-media-and-cf7396c43bbf, SQL-injection
 - https://medium.com/@lukinha05farias/dns-recursion-leads-to-dos-attack-vivo-play-iptv-cve-2023-31893-b5ac45f38f, DoS
 - https://strike.sh/blog/official-extension-attacks, Extension-spoofing
@@ -961,7 +960,6 @@
 - https://infosecwriteups.com/how-i-hacked-yandex-with-ssrf-vulnerability-e19af20ed4d, SSRF
 - https://cyberguy0xd1.medium.com/how-i-was-able-to-bypass-cloudflare-waf-for-sqli-payload-b9e7a4260026, SQL-injection
 - https://web.archive.org/web/20211202081008/https://medium.com/@saurabhsankhwar3/p1-bug-in-apple-that-phase-old-is-gold-6eb99da5bbca, Logic-flaw
-- https://certitude.consulting/blog/en/citrix-header-injection-2/, Host-header-injection
 - https://github.com/l0ggg/VMware_vCenter, LFI
 - https://cyberguy0xd1.medium.com/my-write-up-in-hacking-ibms-administration-panel-and-getting-sqli-on-it-51404c7bee27, SQL-injection
 - https://blog.sonarsource.com/nodebb-remote-code-execution-with-one-shot, RCE
@@ -1271,7 +1269,6 @@
 - https://bugbountyhunter.medium.com/500-for-no-rate-limit-on-forgot-password-page-d534d1d750db, Lack-of-rate-limiting
 - https://notifybugme.medium.com/finding-ssrf-by-full-automation-7d2680091d68, SSRF
 - https://yeuchimse.com/leaking-issues-from-linked-jira-atlassian-confluence-server/, XS-Search
-- https://github.com/tess-ss/writeups/blob/main/bug.md, Self-XSS
 - https://susanwagle123.medium.com/idor-revealing-images-cdn-links-6589e19bdbaf, IDOR
 - https://shaurya-sharma.medium.com/bypassing-waf-with-incorrect-proxy-settings-for-hunting-bugs-3449b7716f59, URL-validation-bypass
 - https://kingkaran977.medium.com/10-000-for-automatic-email-confirmation-bug-in-microsofts-edge-browser-22f15ceccb4a, Logic-flaw
@@ -1345,7 +1342,6 @@
 - https://testbnull.medium.com/weblogic-rce-by-only-one-get-request-cve-2020-14882-analysis-6e4b09981dbf, RCE
 - https://www.mysk.blog/2020/10/25/link-previews/, Information-disclosure
 - https://medium.com/bugbountywriteup/my-first-bug-on-google-observation-wins-1a13d0ea54b0, IDOR
-- https://labs.f-secure.com/blog/samsung-s20-rce-via-samsung-galaxy-store-app/, RCE
 - https://medium.com/@saneklarek22/back-to-2019-disclosure-employers-pii-and-credentials-bb7f344dcb08, Information-disclosure
 - https://www.rafaybaloch.com/2020/10/multiple-address-bar-spoofing-vulnerabilities.html, Address-Bar-Spoofing
 - https://mksben.l0.cm/2020/10/discord-desktop-rce.html, RCE
@@ -1561,7 +1557,6 @@
 - https://medium.com/@ashokcpg/the-story-of-my-first-ever-1500-bounty-from-facebook-49eb64d26160, Logic-flaw
 - https://blog.securitybreached.org/2020/03/31/microsoft-rce-bugbounty/, RCE
 - https://blog.mert.ninja/freemarker-ssti-on-lithium-cms/, SSTI
-- https://0x65.dev/blog/2020-03-30/cve-2019-17004-semi-universal-xss-affecting-firefox-for-ios.html, Universal-XSS
 - https://medium.com/@ranjitsinghnit/otp-bruteforce-account-takeover-faaac3d712a8, OTP-bruteforce
 - https://web.archive.org/web/20200511145923/https://medium.com/@godofdarkness.msf/account-takeover-flow-in-mail-ru-s-ext-a-domain-150-8952e8078211, Logic-flaw
 - https://web.archive.org/web/20201004092711/https://sametsahin.net/posts/administrator-level-privilege-escalation-story/, Privilege-escalation
