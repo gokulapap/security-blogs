@@ -182,7 +182,6 @@
 - http://www.firstsight.me/2023/06/the-unexpected-0-master-id-for-account-data-manipulation/, IDOR
 - https://zerforschung.org/posts/freundschaftspass-en/, Subdomain-takeover
 - https://hunter-55.medium.com/from-bug-bounty-hunter-to-risk-analyst-my-cybersecurity-journey-at-deloitte-56e7835619e4, Account-takeover
-- https://medium.com/@MalFuzzer/one-electron-to-rule-them-all-dc2e9b263daf, Electron
 - https://medium.com/@ferferof/pii-data-leakage-and-us-1500-bounty-af676350fb76, Information-disclosure
 - https://infosecwriteups.com/sql-injection-in-the-http-custom-header-fd117ba1435e, SQL-injection
 - https://orca.security/resources/blog/examining-two-xss-vulnerabilities-in-azure-services/, XSS
@@ -705,7 +704,6 @@
 - https://www.zerodayinitiative.com/blog/2022/7/19/riding-the-inforail-to-exploit-ivanti-avalanche, RCE
 - https://www.0xlanks.me/blog/blogengine-writeup, Path-traversal
 - https://captainhoook.medium.com/local-file-inclusion-interesting-method-8263c2cb7cd2, LFI
-- https://www.rapid7.com/blog/post/2022/07/19/cve-2022-30526-fixed-zyxel-firewall-local-privilege-escalation/, Local-Privilege-Escalation
 - https://ssd-disclosure.com/ssd-advisory-microsoft-sharepoint-server-wizardconnecttodatastep4-deserialization-of-untrusted-data-rce/, Insecure-deserialization
 - https://medium.com/tenable-techblog/logging-passwords-in-plaintext-in-azure-arc-2f94cb046a, Information-disclosure
 - https://www.authomize.com/blog/authomize-discovers-password-stealing-and-impersonation-risks-to-in-okta/, Sensitive-data-sent-over-an-unencrypted-channel
@@ -1325,7 +1323,6 @@
 - https://mostafa-mano.medium.com/2-reflected-xss-in-razer-74783ae5ee53, Reflected-XSS
 - https://ozguralp.medium.com/turning-blind-error-based-sql-injection-into-an-exploitable-boolean-one-85d6be3ca23b, SQL-injection
 - https://daeken.svbtle.com/arbitrary-file-write-by-adb-pull, Arbitrary-file-write
-- https://shahjerry33.medium.com/server-side-misconfigurartion-a-funny-fix-63cc12b4c7fc, Information-disclosure
 - https://medium.com/@logicbomb_1/tale-of-3-vulnerabilities-to-account-takeover-44ba631a0304, SSRF
 - https://rafi-ahamed.medium.com/exploiting-api-with-authtoken-3bea7b1fb6a9, Token-leak
 - https://medium.com/@prakashpanta1999/replying-comments-on-someones-livestream-from-page-is-posted-as-personal-identity-5fe79ef78b28, Logic-flaw
@@ -1701,7 +1698,6 @@
 - https://medium.com/@madguyyy/bookmyshow-account-takeover-using-social-login-84178f116e42, OAuth
 - https://medium.com/@04sabsas/bugbounty-writeup-take-attention-and-get-stored-xss-495dd6eab07e, Stored-XSS
 - https://websecblog.com/vulns/clickjacking-xss-on-google-org/, Clickjacking
-- https://medium.com/@valeriyshevchenko/two-easy-rce-in-atlassian-products-e8480eacdc7f, Credential-stuffing
 - https://medium.com/@ronak_9889/privilege-escalation-using-api-endpoint-fce841caaff3, Privilege-escalation
 - https://medium.com/@protostar0/crlf-injection-allow-cookie-injection-in-root-domain-xss-812cd807ba5b, CRLF-injection
 - http://mahmoudsec.blogspot.com/2019/08/exploiting-out-of-band-xxe-using.html, XXE
@@ -2020,7 +2016,6 @@
 - https://medium.com/@YoKoKho/idor-at-private-bug-bounty-program-that-could-leads-to-personal-data-leaks-d2536d026bf5, IDOR
 - https://medium.com/@vis_hacker/how-i-got-stored-xss-using-file-upload-5c33e19df51e, Stored-XSS
 - https://medium.com/bugbountywriteup/bypassing-captcha-like-a-boss-d0edcc3a1c1, Captcha-bypass
-- https://medium.com/@iSecMax/how-i-hacked-companies-related-to-the-crypto-currency-and-earned-60-000-93e9b3299f4e, Authorization-flaw
 - https://medium.com/@flex0geek/how-i-bypassed-ebay-process-on-redirect-98739384b4bc, Open-redirect
 - https://web.archive.org/web/20191217083137/http://blog.jr0ch17.com/2018/Please-email-me-your-password/, Blind-XSS
 - https://medium.com/bugbountywriteup/how-i-broke-into-google-issue-tracker-667b9e33e931, Logic-flaw

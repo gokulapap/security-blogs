@@ -1,2 +1,3 @@
 - https://blog.trailofbits.com/2023/02/23/escaping-well-configured-vscode-extensions-for-profit/
 - https://mizu.re/post/linux-local-electron-application-script-src-self-bypass#final_bypass
+- https://medium.com/@MalFuzzer/one-electron-to-rule-them-all-dc2e9b263daf

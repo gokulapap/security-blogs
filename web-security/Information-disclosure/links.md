@@ -237,3 +237,4 @@
 - https://medium.com/@hackrider/exploiting-devops-get-source-code-d4f5825eb373
 - https://www.pantaprakash.com.np/posts/categories/bugbounty-writeup/1.html
 - https://medium.com/@syedabuthahir/django-debug-mode-to-rce-in-microsoft-acquisition-189d27d08971
+- https://shahjerry33.medium.com/server-side-misconfigurartion-a-funny-fix-63cc12b4c7fc
