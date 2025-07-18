@@ -242,3 +242,5 @@
 - https://medium.com/@friendly_/reflective-xss-via-search-box-bypassing-cloudflare-waf-841ed420b7f
 - https://web.archive.org/web/20200907110700/https://medium.com/@sameerphad72/edmodo-xss-bug-9c0fc9bdd0bf
 - https://bishopfox.com/blog/filestack-upload-advisory
+- https://nassimchami.medium.com/stored-xss-to-account-take-over-45a7e09116a7
+- https://medium.com/@friendly_/xss-at-hubspot-and-xss-in-email-areas-674fa39d5248

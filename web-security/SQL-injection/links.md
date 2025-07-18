@@ -79,3 +79,4 @@
 - https://labs.jumpsec.com/zoho-manage-engine-desktop-central-sql-injection-arbitrary-file-write/
 - https://medium.com/@frostnull1337/sql-injection-through-user-agent-44a1150f6888
 - https://josipfranjkovic.blogspot.com/2014/09/step-by-step-exploiting-sql-injection.html
+- https://infosecwriteups.com/how-i-escalated-a-time-based-sql-injection-to-rce-bbf0d68cb398

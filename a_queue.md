@@ -988,7 +988,6 @@
 - https://fortbridge.co.uk/research/multiple-vulnerabilities-in-concrete-cms-part1-rce/, RCE
 - https://thinkermaruf.medium.com/fiverr-email-restriction-bypassed-36b797cb7e9, Logic-flaw
 - https://blog.assetnote.io/2021/11/02/sitecore-rce/, RCE
-- https://nassimchami.medium.com/stored-xss-to-account-take-over-45a7e09116a7, XSS
 - https://medium.com/@bababounty99/never-give-up-story-of-hacking-dutch-government-and-earning-that-swag-b518cca81c78, IDOR
 - https://pathleax.medium.com/this-is-how-i-was-able-to-permanently-crash-all-mapillary-users-within-minutes-c7276def5a94, Application-level-DoS
 - https://omespino.com/write-up-xss-stored-in-api-media-atlassian-com-via-doc-file-ios/, Stored-XSS
@@ -1005,7 +1004,6 @@
 - https://med-mahmoudi26.medium.com/from-staging-to-0-click-account-takeover-528a5ecaa3eb, Account-takeover
 - https://www.gosecure.net/blog/2021/10/19/a-scientific-notation-bug-in-mysql-left-aws-waf-clients-vulnerable-to-sql-injection/, SQL-injection
 - https://web.archive.org/web/20221128060608/https://wya.pl/2021/10/18/shells-and-soap-websphere-deserialization-to-rce/, RCE
-- https://infosecwriteups.com/how-i-escalated-a-time-based-sql-injection-to-rce-bbf0d68cb398, SQL-injection
 - https://muhammad-aamir.medium.com/exploitation-of-files-download-parameters-to-create-potential-risk-of-malware-delivery-200-bug-e2bcce0e737, CSRF
 - https://omespino.com/write-up-google-vrp-n-a-arbitrary-local-file-read-macos-via-a-tag-and-null-byte-in-google-earth-pro-desktop-app/, Local-File-Read
 - https://medium.com/@mehdi.alouache/eset-endpoint-security-credentials-theft-90082dfdf474, Credentials-sent-over-unencrypted-channel
@@ -1668,7 +1666,6 @@
 - https://blog.usejournal.com/how-recon-helped-samsung-protect-their-production-repositories-of-samsungtv-ecommerce-estores-4c51d6ec4fdd, Information-disclosure
 - https://rahulr.in/idor-to-rce/, IDOR
 - https://medium.com/@pranaybafna/graphql-introspection-leads-to-sensitive-data-disclosure-65b385452d7f, Information-disclosure
-- https://web.archive.org/web/20200807155301/https://gh0st.cn/archives/2019-10-01/1, IDOR
 - https://medium.com/bugbountywriteup/information-disclosure-at-paypal-and-xoom-paypal-acquisition-via-simple-google-dork-1-000-usd-b726fe628a05, Information-disclosure
 - https://medium.com/@0xgaurang/case-study-oauth-misconfiguration-leads-to-account-takeover-d3621fe8308b, OAuth
 - https://medium.com/bugbountywriteup/facebook-workplace-privilege-escalation-vulnerability-to-change-the-post-privacy-as-public-634f1c995780, Privilege-escalation
@@ -1740,7 +1737,6 @@
 - https://visat.me/security/reflected-xss-in-tokopedia-train-ticket/, Reflected-XSS
 - https://medium.com/@saadahmedx/sql-injection-c87a390afdd3, SQL-injection
 - https://medium.com/@Vibhurushi_Chotaliya/password-bypass-and-something-else-cded0847c9df, Authentication-bypass
-- https://spenkk.github.io/bugbounty/Local-File-Inclusion/, WAF-bypass
 - https://medium.com/@saadahmedx/complete-web-server-access-46d19279a2b, Unrestricted-file-upload
 - https://medium.com/bug-bounty-hunting/fullscreen-api-attacks-revisited-and-the-fb-na-story-cbea3ca383c5, Phishing
 - https://medium.com/@saadahmedx/idor-account-takeover-1ff5a2d03b8b, IDOR
@@ -1952,7 +1948,6 @@
 - https://medium.com/bugbountywriteup/3-minutes-xss-71e3340ad66b, XSS
 - https://web.archive.org/web/20220309092244/https://s0cket7.com/idor-account-takeover/, IDOR
 - https://sites.google.com/securifyinc.com/secblogs/uber-business-support-bug, Ticket-Trick
-- https://medium.com/@friendly_/xss-at-hubspot-and-xss-in-email-areas-674fa39d5248, XSS
 - https://medium.com/@justmorpheus/s3-bucket-misconfiguration-in-amazon-a7da6a6e02ea, AWS-misconfiguration
 - https://medium.com/bugbountywriteup/from-tomcat-to-nt-authority-system-a79fa09c4abb, Default-credentials
 - https://medium.com/@carlosdanielgiovanella/this-is-how-can-i-spoof-any-sentry-log-infinitely-and-create-fake-error-logs-74406367f4ba, Content-spoofing
