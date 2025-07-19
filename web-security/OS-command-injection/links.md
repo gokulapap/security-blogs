@@ -17,3 +17,4 @@
 - https://petrusviet.medium.com/cve-2022-43781-32bc29de8960
 - https://a-constant.medium.com/beyond-the-wall-command-injection-still-alive-577a898df0b5
 - https://www.cyberonesecurity.com/blog/unauthenticated-command-injection-vulnerability-in-vmware-nsx-sd-wan-by-velocloud
+- https://y0ungdst.medium.com/my-second-cve-cve-2022-31855-6c071c4fb9d9
