@@ -244,3 +244,4 @@
 - https://bishopfox.com/blog/filestack-upload-advisory
 - https://nassimchami.medium.com/stored-xss-to-account-take-over-45a7e09116a7
 - https://medium.com/@friendly_/xss-at-hubspot-and-xss-in-email-areas-674fa39d5248
+- https://payatu.com/blog/nikhil-mittal/firefox-ios-qr-code-reader-xss-(cve-2019-17003)

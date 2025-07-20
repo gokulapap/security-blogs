@@ -141,3 +141,6 @@
 - https://medium.com/intigriti/how-i-got-your-phone-number-through-facebook-223b769cccf1
 - https://medium.com/@naufalseptiadi/live-video-facebook-application-android-its-not-expired-when-log-out-the-device-on-4d4e0b67b362
 - https://infosecwriteups.com/break-the-logic-playing-with-product-ratings-on-a-shopping-site-600-c9a87fb66a73
+- https://sank-dahal.medium.com/how-i-was-able-to-delete-any-facebook-story-where-am-i-mentioned-or-tagged-10c38a50e55c
+- https://github.com/justinsteven/advisories/blob/master/2021_github_actions_checkspelling_token_leak_via_advice_symlink.md
+- https://medium.com/bugbountywriteup/business-logic-flaw-in-google-acquisition-hall-of-fame-1a9af5d3ac04

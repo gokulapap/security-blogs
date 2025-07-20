@@ -353,7 +353,6 @@
 - https://blog.infiltrateops.io/hacking-apple-two-successful-exploits-and-positive-thoughts-on-their-bug-bounty-program-963efe7518f6, RCE
 - https://blog.yeswehack.com/talent-development/server-side-prototype-pollution-how-to-detect-and-exploit/, Server-side-prototype-pollution
 - https://www.praetorian.com/blog/azure-b2c-crypto-misuse-and-account-compromise/, Cryptographic-issues
-- https://posts.specterops.io/abusing-azure-app-service-managed-identity-assignments-c3adefccff95, Cloud
 - https://wesecureapp-smm.medium.com/assumed-breach-assessment-case-study-uncovering-wesecureapps-approach-45a512c0bd63, Internal-pentest
 - https://github.com/blackarrowsec/redteam-research/tree/master/LPE%20via%20StorSvc, Local-Privilege-Escalation
 - https://mahmoudsec.blogspot.com/2023/02/sql-injection-utilizing-xml-functions.html, SQL-injection
@@ -1043,9 +1042,7 @@
 - https://infosecwriteups.com/exposing-millions-of-irctc-passengers-ticket-details-53338280fb9e, IDOR
 - https://asterfiester.medium.com/5000-google-idor-vulnerability-writeup-c7b45926abe9, IDOR
 - https://vedanttekale20.medium.com/how-i-found-my-first-aem-related-bug-5ea901aad3f4, LFR
-- https://sank-dahal.medium.com/how-i-was-able-to-delete-any-facebook-story-where-am-i-mentioned-or-tagged-10c38a50e55c, Logic-flaw
 - https://wojciechregula.blog/post/change-home-directory-and-bypass-tcc-aka-cve-2020-27937/, Privacy-issue
-- https://github.com/justinsteven/advisories/blob/master/2021_github_actions_checkspelling_token_leak_via_advice_symlink.md, Logic-flaw
 - https://www.spookjs.com, Browser-hacking
 - https://websecblog.com/vulns/google-threadit/, DOM-XSS
 - https://medium.com/@katikitala.sushmitha078/how-i-can-take-over-any-users-account-with-their-mobile-number-6d820a364cad, Account-takeover
@@ -1351,7 +1348,6 @@
 - https://johnjhacking.com/blog/p1-critical-discovering-and-foiling-a-threat-actor/, Information-disclosure
 - https://vnhacker.blogspot.com/2020/09/advisory-security-issues-in-aws-kms-and.html, Cryptographic-issues
 - https://medium.com/bugbountywriteup/pii-leakage-via-idor-weak-passwordreset-full-account-takeover-58d159f88d73, IDOR
-- https://medium.com/bugbountywriteup/business-logic-flaw-in-google-acquisition-hall-of-fame-1a9af5d3ac04, Logic-flaw
 - https://blog.securelayer7.net/unauthenticated-file-upload-vulnerability-on-synology-sub-domain/, Unrestricted-file-upload
 - https://medium.com/bugbountywriteup/how-i-earned-500-from-google-flaw-in-authentication-a40018c05616, Authentication-flaw
 - https://medium.com/@alonnsoandres/25k-instagram-almost-xss-filter-link-facebook-bug-bounty-798b10c13b83, Stored-XSS
@@ -1620,7 +1616,6 @@
 - https://www.ezequiel.tech/p/500-getclass.html, Sandbox-bypass
 - https://medium.com/@navne3t/a-25-easy-bug-bdfcde4d1370, Session-management-issue
 - https://kishanbagaria.com/airdos/, DoS
-- https://payatu.com/blog/nikhil-mittal/firefox-ios-qr-code-reader-xss-(cve-2019-17003), XSS
 - https://medium.com/@ultranoob/weird-and-simple-2fa-bypass-without-any-test-b869e09ac261, MFA-bypass
 - https://blog.darabi.me/2019/12/instagram-delete-media-csrf.html, CSRF
 - https://github.com/Metnew/telegram-links-nsworkspace-open, RCE
