@@ -144,3 +144,4 @@
 - https://sank-dahal.medium.com/how-i-was-able-to-delete-any-facebook-story-where-am-i-mentioned-or-tagged-10c38a50e55c
 - https://github.com/justinsteven/advisories/blob/master/2021_github_actions_checkspelling_token_leak_via_advice_symlink.md
 - https://medium.com/bugbountywriteup/business-logic-flaw-in-google-acquisition-hall-of-fame-1a9af5d3ac04
+- https://sunilyedla.medium.com/simple-sweet-bypassing-email-update-restriction-to-change-emails-of-team-members-6ce5770e7929

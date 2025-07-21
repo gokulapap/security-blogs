@@ -230,3 +230,4 @@
 - https://hulkvision.github.io/blog/post1/
 - https://www.synacktiv.com/en/publications/exploiting-cve-2022-24816-a-code-injection-in-the-jt-jiffle-extension-of-geoserver.html
 - https://labs.f-secure.com/blog/samsung-s20-rce-via-samsung-galaxy-store-app/
+- https://honoki.net/2020/08/10/cve-2020-11518-how-i-bruteforced-my-way-into-your-active-directory/

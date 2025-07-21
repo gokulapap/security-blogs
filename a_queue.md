@@ -659,7 +659,6 @@
 - https://accessvector.net/2022/freebsd-aio-lpe, Memory-corruption
 - https://infosecwriteups.com/salesforce-bug-hunting-to-critical-bug-b5da44789d3, Information-disclosure
 - https://bergee.it/blog/five-minute-hunting-for-hidden-xss/, Reflected-XSS
-- https://bergee.it/blog/the-forgotten-api-and-xss-filter-bypass/, XSS
 - https://bergee.it/blog/url-filter-bypass-rfi-and-xss/, Stored-XSS
 - https://blog.bugzero.io/how-i-get-into-united-nations-hall-of-fame-6975e3d3cc45, Missing-authentication
 - https://medium.com/@lovely.goyal1998/story-of-5000-bounty-for-grafana-panel-access-in-apple-89c93ab4486f, Missing-authentication
@@ -841,7 +840,6 @@
 - https://omespino.com/write-up-finapi-open-banking-api-oauth-credentials-exposed-in-plain-text-in-android-app/, Hardcoded-credentials
 - https://medium.com/@terminatorLM/small-bugs-are-more-dangerous-than-you-think-9411618191ab, Self-XSS
 - https://blog.relyze.com/2022/03/cve-2022-27643-netgear-r6700v3-upnpd.html, Memory-corruption
-- https://scribesecurity.com/blog/github-cache-poisoning, Cache-poisoning-attack
 - https://janmuhammadzaidi.medium.com/how-i-bypassed-403-forbidden-domain-using-a-simple-trick-c2d538de04b8, 403-bypass
 - https://www.sentinelone.com/labs/pwning-microsoft-azure-defender-for-iot-multiple-flaws-allow-remote-code-execution-for-all/, RCE
 - https://web.archive.org/web/20220405093345/https://pwnsec.ninja/2022/03/26/deleting-account-via-support-ticket/, IDOR
@@ -1267,7 +1265,6 @@
 - https://medium.com/realmodelabs/kindledrip-from-your-kindles-email-address-to-using-your-credit-card-bb93dbfb2a08, RCE
 - https://systemweakness.com/story-behind-sweet-ssrf-40c705f13053, SSRF
 - https://r4id3n.medium.com/ssrf-exploitation-in-spreedsheet-to-pdf-converter-2c7eacdac781, SSRF
-- https://sunilyedla.medium.com/simple-sweet-bypassing-email-update-restriction-to-change-emails-of-team-members-6ce5770e7929, Logic-flaw
 - https://jwlss.pw/mathjs/, RCE
 - https://github.com/httpvoid/writeups/blob/main/Apple-RCE.md, RCE
 - https://warandcode.com/post/apify-mass-bug-bounty/, Akamai-ARL-attack
@@ -1384,7 +1381,6 @@
 - https://medium.com/bugbountywriteup/cache-poisoning-of-wget-94a4d70104b1, Web-cache-poisoning
 - https://medium.com/@singh.simran7838/how-i-made-2000-with-url-redirection-b1b5f4e7a678, Open-redirect
 - https://voidsec.com/cve-2020-1337-printdemon-is-dead-long-live-printdemon/, Local-Privilege-Escalation
-- https://honoki.net/2020/08/10/cve-2020-11518-how-i-bruteforced-my-way-into-your-active-directory/, RCE
 - https://mazinahmed.net/blog/hacking-zoom/, Information-disclosure
 - https://medium.com/@zseano/the-feature-works-as-intended-but-whats-in-the-source-d29f9401bcf6, Information-disclosure
 - https://medium.com/@jonathanbouman/reflected-xss-at-fotoservice-hema-nl-af344ef63433, Reflected-XSS
@@ -1575,7 +1571,6 @@
 - https://medium.com/@adonkidz7/my-first-bounty-from-google-d9f1f3f5787a, Self-XSS
 - https://www.acunetix.com/blog/web-security-zone/xss-google-acunetix/, XSS
 - https://medium.com/@mohdaltaf163/uploading-backdoor-for-fun-and-profit-rce-db-cred-p1-2cdaa00e2125, Unrestricted-file-upload
-- https://hailstorm1422.com/linkedin-blind-idor/, IDOR
 - https://weizman.github.io/2020/02/14/whatsapp-vuln/, RCE
 - https://medium.com/@swapmaurya20/a-simple-idor-to-account-takeover-88b8a1d2ec24, IDOR
 - https://medium.com/@ozguralp/weird-vulnerabilities-happening-on-load-balancers-shallow-copies-and-caches-9194d4f72322, Information-disclosure
