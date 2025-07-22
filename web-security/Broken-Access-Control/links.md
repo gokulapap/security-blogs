@@ -25,3 +25,4 @@
 - https://opencirt.com/hacking/securing-easy-appointments-cve-2022-0482/
 - https://rv09.medium.com/my-first-google-hof-b66c54f6acfd
 - https://tbutler.org/2020/11/01/hinge-hackerone-writeup.html
+- https://haxatron.gitbook.io/vulnerability-research/vr1

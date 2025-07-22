@@ -1,1 +1,2 @@
 - https://blog.nietaanraken.nl/posts/aur-packages-github-repo-jacking/
+- https://blog.nietaanraken.nl/posts/gitub-popular-repository-namespace-retirement-bypass/
