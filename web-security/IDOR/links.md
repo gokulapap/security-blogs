@@ -205,3 +205,4 @@
 - https://jub0bs.com/posts/2020-05-26-idor/
 - https://web.archive.org/web/20200807155301/https://gh0st.cn/archives/2019-10-01/1
 - https://hailstorm1422.com/linkedin-blind-idor/
+- https://medium.com/bugbountywriteup/account-takeover-using-idor-and-the-misleading-case-of-error-403-cb42c96ea310
