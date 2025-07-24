@@ -97,3 +97,4 @@
 - https://securifyinc.com/disclosures/rocketchat-monitor-messages
 - https://medium.com/swlh/watch-paint-dry-how-i-got-a-game-on-the-steam-store-without-anyone-from-valve-ever-looking-at-it-2e476858c753
 - https://medium.com/@iSecMax/how-i-hacked-companies-related-to-the-crypto-currency-and-earned-60-000-93e9b3299f4e
+- https://ysamm.com/?p=240

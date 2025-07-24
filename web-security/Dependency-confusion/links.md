@@ -1,3 +1,4 @@
 - https://medium.com/@alex.birsan/dependency-confusion-4a5d60fec610
 - https://web.archive.org/web/20220325063636/https://bugs.0xdroopy.live/bugs/how-i-saved-the-christmas-for-google/
 - https://giraffesecurity.dev/posts/dependabot-confusion/
+- https://web.archive.org/web/20210910154714/https://ricardoiramar.medium.com/msrc-is-confused-5d86b23c2e88

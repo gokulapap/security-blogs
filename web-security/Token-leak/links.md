@@ -1,0 +1,1 @@
+- https://medium.com/system-weakness/sensitive-data-exfiltration-through-xss-450-409162eced3a
