@@ -232,3 +232,4 @@
 - https://labs.f-secure.com/blog/samsung-s20-rce-via-samsung-galaxy-store-app/
 - https://honoki.net/2020/08/10/cve-2020-11518-how-i-bruteforced-my-way-into-your-active-directory/
 - https://medium.com/@janijay007/story-of-my-biggest-bounty-evecommand-execution-on-jenkin-a73f5242b1e2
+- https://medium.com/@mattharr0ey/remote-code-execution-on-microsoft-edge-url-protocol-a67d0f96b32d

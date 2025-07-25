@@ -107,3 +107,4 @@
 - https://www.jomar.fr/posts/2021/ssrf_through_pdf_generation/
 - https://blog.assetnote.io/2022/06/26/exploiting-ssrf-in-jira/
 - https://github.blog/2023-03-03-github-security-lab-audited-datahub-heres-what-they-found/
+- https://shahjerry33.medium.com/server-side-request-forgery-a-forged-document-6359ef25058d
