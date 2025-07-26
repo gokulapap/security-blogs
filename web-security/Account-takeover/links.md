@@ -89,3 +89,4 @@
 - https://medium.com/@302Found/bugcrowd-tale-of-multiple-misconfigurations-cb5b98f09302
 - https://www.wiz.io/blog/azure-active-directory-bing-misconfiguration
 - https://medium.com/@ch3ckm4te/self-xss-to-account-takeover-72c89775cf8f
+- https://princej-76.medium.com/how-i-chained-multiple-high-impact-vulnearbilities-to-create-a-critical-one-476950a3bb9f

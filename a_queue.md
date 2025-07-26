@@ -296,7 +296,6 @@
 - https://medium.com/@bag0zathev2/easy-via-api-params-manipulation-leading-to-bypassing-the-email-verification-block-a45dad2db60c, Mass-assignment
 - https://medium.com/@hritkmjth/directory-traversal-and-lfi-worth-400-c4422785d3bd, Path-traversal
 - https://infosecwriteups.com/anatomy-of-a-reflected-xss-my-discovery-on-a-microsofts-subdomain-7a237aba4392, Reflected-XSS
-- https://princej-76.medium.com/how-i-chained-multiple-high-impact-vulnearbilities-to-create-a-critical-one-476950a3bb9f, Account-takeover
 - https://blog.doyensec.com/2023/03/16/ssrf-remediation-bypass.html, SSRF
 - http://blog.sysdum.net/parameter-injection-to-rce, RCE
 - https://blog.scrt.ch/2023/03/14/producing-a-poc-for-cve-2022-42475-fortinet-rce/, Memory-corruption
@@ -357,7 +356,6 @@
 - https://pullerjsecu.medium.com/bypassing-cors-configurations-to-produce-an-account-takeover-for-fun-and-profit-3e50c3f2a124, CORS-misconfiguration
 - https://theevilbit.github.io/posts/cve-2022-22655/, MacoS
 - https://medium.com/@ramkumarnadar47/zip-bomb-attack-88d84a98be9f, Zip-bomb
-- https://basu-banakar.medium.com/ssrf-that-allowed-us-to-access-whole-infra-web-services-and-many-more-3424f8efa0e4, SSRF
 - https://frycos.github.io/vulns4free/2023/02/12/install4j-xxe.html, XXE
 - https://pvs-studio.com/en/blog/posts/csharp/0918/, XXE
 - https://blog.cyberxplore.com/we-hacked-github-for-a-month-heres-what-we-found/, Pre-account-takeover
@@ -1311,7 +1309,6 @@
 - https://medium.com/bugbountywriteup/chaining-password-reset-link-poisoning-idor-account-information-leakage-to-achieve-account-bb5e0e400745, HTTP-header-injection
 - https://galnagli.com/DoD_IDOR/, IDOR
 - https://lokeshdlk77.medium.com/reveal-the-page-admin-that-uploaded-a-video-on-the-page-in-comment-section-9760e4a31453, Information-disclosure
-- https://james-clee.com/2020/11/01/leaked-git-folder-leads-to-rce/, git-folder-disclosure
 - https://0xt4144t.medium.com/rate-limit-bypassing-allowing-identity-spoofing-789b2fe2efa8, Rate-limiting-bypass
 - https://testbnull.medium.com/weblogic-rce-by-only-one-get-request-cve-2020-14882-analysis-6e4b09981dbf, RCE
 - https://www.mysk.blog/2020/10/25/link-previews/, Information-disclosure
@@ -1539,7 +1536,6 @@
 - http://carnal0wnage.attackresearch.com/2020/03/what-is-your-gcp-infra-worthabout-700.html, Information-disclosure
 - https://ysamm.com/?p=404, Authorization-flaw
 - https://ysamm.com/?p=396, Lack-of-rate-limiting
-- https://medium.com/@shahjerry33/otp-bypass-developers-check-5786885d55c6, OTP-bypass
 - https://medium.com/@sw33tlie/finding-a-p1-in-one-minute-with-shodan-io-rce-735e08123f52, RCE
 - https://bugs.xdavidhu.me/google/2020/03/08/the-unexpected-google-wide-domain-check-bypass/, Logic-flaw
 - https://medium.com/@adonkidz7/google-ads-self-xss-html-injection-5000-52280da76c80, Self-XSS
@@ -1671,7 +1667,6 @@
 - https://medium.com/@protostar0/crlf-injection-allow-cookie-injection-in-root-domain-xss-812cd807ba5b, CRLF-injection
 - http://mahmoudsec.blogspot.com/2019/08/exploiting-out-of-band-xxe-using.html, XXE
 - https://learn.hackersid.com/2019/08/stored-xss-on-laporbugid.html, Stored-XSS
-- https://blog.usejournal.com/how-i-found-xss-by-searching-in-shodan-6943b799e648, Reflected-XSS
 - https://smaranchand.com.np/2019/08/no-rate-limiting-eligible-for-bounty, Lack-of-rate-limiting
 - https://medium.com/@aniltom/https-medium-com-aniltom-from-sub-domain-takeover-to-open-redirect-b5be4906e1a4, Subdomain-takeover
 - https://ysamm.com/?p=291, IDOR

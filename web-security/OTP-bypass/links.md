@@ -15,3 +15,4 @@
 - https://hackernoon.com/how-i-bypassed-state-bank-of-india-otp-f145469a9f1d
 - https://www.varonis.com/blog/box-mfa-bypass-totp/
 - https://medium.com/@vishnu0002/account-takeover-via-otp-bruteforce-apigee-api-9b5481c642df
+- https://medium.com/@shahjerry33/otp-bypass-developers-check-5786885d55c6
