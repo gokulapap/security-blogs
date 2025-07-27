@@ -81,3 +81,4 @@
 - https://www.rcesecurity.com/2014/11/google-bug-bounty-nice-catch-on-google-cloud-platform-live
 - https://infosecwriteups.com/a-weird-xss-77c13d135c9f
 - https://blog.usejournal.com/how-i-found-xss-by-searching-in-shodan-6943b799e648
+- https://web.archive.org/web/20210924032932/https://0xdln.ml/XSS-Through-Fuzzing-Default-IIS/

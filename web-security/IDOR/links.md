@@ -207,3 +207,4 @@
 - https://hailstorm1422.com/linkedin-blind-idor/
 - https://medium.com/bugbountywriteup/account-takeover-using-idor-and-the-misleading-case-of-error-403-cb42c96ea310
 - https://blog.hckrt.com/blog/thisclosed_1/
+- https://infosecwriteups.com/exposing-millions-of-irctc-passengers-ticket-details-53338280fb9e

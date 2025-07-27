@@ -109,3 +109,4 @@
 - https://github.blog/2023-03-03-github-security-lab-audited-datahub-heres-what-they-found/
 - https://shahjerry33.medium.com/server-side-request-forgery-a-forged-document-6359ef25058d
 - https://basu-banakar.medium.com/ssrf-that-allowed-us-to-access-whole-infra-web-services-and-many-more-3424f8efa0e4
+- https://notifybugme.medium.com/how-i-got-access-to-essilor-international-company-customer-pii-info-by-aws-metadata-access-through-3da02f4c79f0

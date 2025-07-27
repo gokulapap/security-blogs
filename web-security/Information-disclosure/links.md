@@ -239,3 +239,5 @@
 - https://medium.com/@syedabuthahir/django-debug-mode-to-rce-in-microsoft-acquisition-189d27d08971
 - https://shahjerry33.medium.com/server-side-misconfigurartion-a-funny-fix-63cc12b4c7fc
 - https://johnjhacking.com/blog/unep-breach/
+- https://galnagli.com/Samsung_Exposure/
+- https://securecloud.blog/2022/04/21/microsoft-cloud-security-research-public-disclosure-gaining-unlimited-access-to-graph-auditlogs-endpoint-using-complex-filters-with-non-privileged-user-account/

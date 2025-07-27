@@ -290,7 +290,6 @@
 - https://www.netspi.com/blog/technical/cloud-penetration-testing/azure-function-apps/, Privilege-escalation
 - https://medium.com/@warrenbutterworth/finding-initial-access-on-a-real-life-penetration-test-86ed5503ae48, Old-components-with-known-vulnerabilities
 - https://blog.doyensec.com//2023/03/21/windows-installer.html, Local-Privilege-Escalation
-- https://notifybugme.medium.com/how-i-got-access-to-essilor-international-company-customer-pii-info-by-aws-metadata-access-through-3da02f4c79f0, SSRF
 - https://cupc4k3.lol/ssti-leads-to-rce-on-pyrocms-7515be27c811, SSTI
 - https://www.da.vidbuchanan.co.uk/blog/exploiting-acropalypse.html, Privacy-issue
 - https://medium.com/@bag0zathev2/easy-via-api-params-manipulation-leading-to-bypassing-the-email-verification-block-a45dad2db60c, Mass-assignment
@@ -807,7 +806,6 @@
 - https://github.com/cloudflare/odoh-server-go/issues/30, SSRF
 - https://medium.com/@malwarejoe/smashing-the-modern-web-tech-stack-part-1-the-evolving-threat-landscape-in-2022-and-dom-based-324696684239, Open-redirect
 - https://amit-lt.medium.com/open-redirection-into-bentley-system-d1ee188bfb25, XSS
-- https://securecloud.blog/2022/04/21/microsoft-cloud-security-research-public-disclosure-gaining-unlimited-access-to-graph-auditlogs-endpoint-using-complex-filters-with-non-privileged-user-account/, Information-disclosure
 - https://systemweakness.com/exploiting-a-file-upload-vulnerability-a-directory-traversal-attack-419308cdb059, Unrestricted-file-upload
 - https://unit42.paloaltonetworks.com/aws-log4shell-hot-patch-vulnerabilities/, Privilege-escalation
 - https://palant.info/2022/04/19/adobe-acrobat-hollowing-out-same-origin-policy/, XSS
@@ -1025,7 +1023,6 @@
 - https://s3c.medium.com/how-i-hacked-world-wide-tiktok-users-24e794d310d2, IDOR
 - https://www.netspi.com/blog/technical/cloud-penetration-testing/escalating-azure-privileges-with-the-log-analystics-contributor-role/, Logic-flaw
 - https://asterfiester.medium.com/3133-70-google-dialogflow-idor-vulnerability-7a72771678dd, IDOR
-- https://infosecwriteups.com/exposing-millions-of-irctc-passengers-ticket-details-53338280fb9e, IDOR
 - https://asterfiester.medium.com/5000-google-idor-vulnerability-writeup-c7b45926abe9, IDOR
 - https://vedanttekale20.medium.com/how-i-found-my-first-aem-related-bug-5ea901aad3f4, LFR
 - https://wojciechregula.blog/post/change-home-directory-and-bypass-tcc-aka-cve-2020-27937/, Privacy-issue
@@ -1073,7 +1070,6 @@
 - https://medium.com/pentesternepal/how-i-found-a-bug-in-apple-within-just-in-5min-d7357237d7a0, XSS
 - https://blog.0xffff.info/2021/07/24/ebay-xss-demo-and-guide-to-spear-phishing/, XSS
 - https://craighays.com/pre-account-takeover-by-reversing-a-weak-email-verification-token-algorithm/, Weak-crypto
-- https://web.archive.org/web/20210924032932/https://0xdln.ml/XSS-Through-Fuzzing-Default-IIS/, Reflected-XSS
 - https://notifybugme.medium.com/how-i-was-able-find-mass-leaked-aws-s3-bucket-from-js-file-6064a5c247f8, AWS-misconfiguration
 - https://blog.takemyhand.xyz/2021/07/hacking-on-xiaomis-android-apps.html, Android
 - https://shahjerry33.medium.com/rce-via-webdav-power-of-put-7e1c06c71e60, Default-credentials
@@ -1279,7 +1275,6 @@
 - https://www.ehpus.com/post/ssti-in-google-maps, SSTI
 - https://saugatpokharel.medium.com/this-is-how-i-was-able-to-view-anyones-private-email-and-birthday-on-instagram-1469f44b842b, Information-disclosure
 - https://vivekps143.medium.com/facebook-bug-bounty-finding-the-hidden-members-of-the-private-events-977dc1784ff9, Information-disclosure
-- https://galnagli.com/Samsung_Exposure/, Information-disclosure
 - https://marxchryz.medium.com/my-bug-bounty-journey-and-my-first-critical-bug-time-based-blind-sql-injection-aa91d8276e41, SQL-injection
 - https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/d-link-multiple-security-vulnerabilities-leading-to-rce/, RCE
 - https://medium.com/@3bodymo/how-i-hacked-ibm-and-got-full-access-on-many-services-ecf1dab4a054, Information-disclosure
