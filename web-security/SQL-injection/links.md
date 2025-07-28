@@ -81,3 +81,4 @@
 - https://josipfranjkovic.blogspot.com/2014/09/step-by-step-exploiting-sql-injection.html
 - https://infosecwriteups.com/how-i-escalated-a-time-based-sql-injection-to-rce-bbf0d68cb398
 - https://h3k.ro/2022/07/11/bsqli/
+- https://0xkasper.com/articles/moodle-sql-injection-broken-access-control.html

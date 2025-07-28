@@ -99,3 +99,4 @@
 - https://medium.com/@iSecMax/how-i-hacked-companies-related-to-the-crypto-currency-and-earned-60-000-93e9b3299f4e
 - https://ysamm.com/?p=240
 - https://ysx.me.uk/road-to-unauthenticated-recovery-downloading-github-saml-codes/
+- https://www.symbo1.com/articles/2019/01/11/fb-pageanalyst-could-add-oneself-as-moderator-on-group.html

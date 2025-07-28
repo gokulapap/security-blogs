@@ -247,3 +247,4 @@
 - https://payatu.com/blog/nikhil-mittal/firefox-ios-qr-code-reader-xss-(cve-2019-17003)
 - https://bergee.it/blog/the-forgotten-api-and-xss-filter-bypass/
 - https://medium.com/@arbazhussain/referer-based-xss-52aeff7b09e7
+- https://ysamm.com/?p=763
