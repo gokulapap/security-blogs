@@ -88,3 +88,4 @@
 - https://www.seekurity.com/blog/general/metasploit-web-project-kill-all-running-tasks-csrf-cve-2017-5244/
 - https://www.josipfranjkovic.com/blog/hacking-facebook-oculus-integration-csrf
 - https://medium.com/@balapraneeth98/journey-to-my-first-bug-hunt-6dc5e4552128
+- https://medium.com/@novan.rmd/my-first-bug-bounty-from-bug-bounty-platform-redstorm-io-50958f6adc90

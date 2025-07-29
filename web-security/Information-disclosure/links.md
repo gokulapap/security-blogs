@@ -241,3 +241,4 @@
 - https://johnjhacking.com/blog/unep-breach/
 - https://galnagli.com/Samsung_Exposure/
 - https://securecloud.blog/2022/04/21/microsoft-cloud-security-research-public-disclosure-gaining-unlimited-access-to-graph-auditlogs-endpoint-using-complex-filters-with-non-privileged-user-account/
+- https://fardeen-ahmed.medium.com/a-small-change-and-things-go-in-your-hand-story-of-a-250-bounty-5ddc43c31463
