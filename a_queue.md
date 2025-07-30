@@ -206,7 +206,6 @@
 - https://medium.com/@husein.ayoub/azure-dns-takeover-swisscom-7c6aacb38e8, DNS-takeover
 - https://nav1n.medium.com/i-helped-a-top-indian-health-benefits-management-platform-from-major-pii-leak-by-hacking-their-sql-b42caeca9729, SQL-injection
 - https://nav1n.medium.com/exploiting-sql-error-sqlstate-42000-to-own-mariadb-of-a-large-eu-based-online-media-and-cf7396c43bbf, SQL-injection
-- https://medium.com/@lukinha05farias/dns-recursion-leads-to-dos-attack-vivo-play-iptv-cve-2023-31893-b5ac45f38f, DoS
 - https://strike.sh/blog/official-extension-attacks, Extension-spoofing
 - https://shahjerry33.medium.com/stored-iframe-injection-permanent-open-redirection-zero-day-ce7cd15903ac, HTML-injection
 - https://blog.pretera.com/how-misconfigured-and-vulnerable-devices-could-expose-your-company-to-physical-and-cyber-threats-37d0e0d8d158, IoT
@@ -1103,7 +1102,6 @@
 - https://youst.in/posts/bypassing-2fa-using-openid-misconfiguration/, MFA-bypass
 - https://0xdekster.medium.com/second-order-race-condition-be8aaf774783, Race-condition
 - https://vedanttekale20.medium.com/story-of-my-first-cash-bounty-on-hackerone-acad282ae962, SSRF
-- https://batee5a.medium.com/shopify-multipass-misconfiguration-2bc85e92ad1d, Authentication-flaw
 - https://bloggerrando.blogspot.com/2021/06/how-many-likes-and-dislikes-that-was.html, Broken-Access-Control
 - https://medium.com/@abhishake21/bypassing-lfi-local-file-inclusion-ebf4274e7027, LFI
 - https://frichetten.com/blog/xss_in_aws_console/, XSS
@@ -1265,7 +1263,6 @@
 - https://savebreach.com/facebook-page-admin-identity-disclosure-through-document-edit-history/, Information-disclosure
 - https://ysamm.com/?p=588, IDOR
 - https://mohsinalibukc.medium.com/cross-domain-referrer-leakage-7873ada102ad, Cross-Domain-Referrer-Leakage
-- https://iustin24.github.io/Cache-Key-Normalization-Denial-of-Service/, Web-cache-poisoning
 - https://blog.deesee.xyz/regex/security/2020/12/27/regular-expression-injection.html, ReDoS
 - https://www.ehpus.com/post/ssti-in-google-maps, SSTI
 - https://saugatpokharel.medium.com/this-is-how-i-was-able-to-view-anyones-private-email-and-birthday-on-instagram-1469f44b842b, Information-disclosure
@@ -1759,7 +1756,6 @@
 - https://medium.com/@logicbomb_1/chain-of-hacks-leading-to-database-compromise-b2bc2b883915, LFI
 - https://medium.com/@ChandSingh/download-any-organisation-data-s3-amazonaws-64059847e06, Authorization-flaw
 - https://sites.google.com/securifyinc.com/secblogs/exploitingcalendars, Authorization-flaw
-- https://medium.com/@spade.com/how-i-registered-multiple-accounts-in-privateinternetaccess-vpn-service-for-free-a2068642f418, Logic-flaw
 - https://georgeosterweil.com/2019-02-20-fbctf-idor/, IDOR
 - https://apapedulimu.click/multiple-stored-xss-on-tokopedia/, Stored-XSS
 - https://0x00sec.org/t/using-uri-to-pop-shells-via-the-discord-client/11673, URI-abuse
@@ -1792,7 +1788,6 @@
 - https://ysamm.com/?p=12, XSS
 - https://medium.com/@ritishkumarsingh/facebook-vulnerability-unremovable-facebook-group-admin-2cbf4faf55c1, Logic-flaw
 - https://medium.com/@sadiqwest01/bugbounty-how-i-hack-billion-company-5529a3ebe999, Directory-listing
-- https://philippeharewood.com/view-the-contact-list-for-a-messenger-kid-as-a-parent-approved-contact/, Authorization-flaw
 - https://medium.com/@thejuskrishnan911/reflected-xss-on-asus-568ce0541171, Reflected-XSS
 - https://medium.com/@hariharan21/stored-xss-via-alternate-text-at-zendesk-support-8bfee68413e4, Stored-XSS
 - https://www.ash-king.co.uk/downloading-any-file-via-facebook-android.html, Authorization-flaw

@@ -3,3 +3,4 @@
 - https://security.lauritz-holtmann.de/advisories/cve-2020-13294/
 - https://sites.google.com/securifyinc.com/vrp-writeups/hire-with-google/auth-issues
 - https://www.seekurity.com/blog/write-ups/eset-broken-authentication-vulnerability/
+- https://batee5a.medium.com/shopify-multipass-misconfiguration-2bc85e92ad1d

@@ -100,3 +100,4 @@
 - https://ysamm.com/?p=240
 - https://ysx.me.uk/road-to-unauthenticated-recovery-downloading-github-saml-codes/
 - https://www.symbo1.com/articles/2019/01/11/fb-pageanalyst-could-add-oneself-as-moderator-on-group.html
+- https://philippeharewood.com/view-the-contact-list-for-a-messenger-kid-as-a-parent-approved-contact/
