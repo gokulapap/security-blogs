@@ -12,3 +12,4 @@
 - https://medium.com/@jazdprince/doing-it-the-researchers-way-how-i-managed-to-get-ssti-server-side-template-injection-which-66b239ca0104
 - https://mahmoudsec.blogspot.com/2019/04/handlebars-template-injection-and-rce.html
 - https://skylightcyber.com/2023/02/09/a-salt-attacking-saltstack/
+- http://ha.cker.info/exploitation-of-server-side-template-injection-with-craft-cms-plguin-seomatic/

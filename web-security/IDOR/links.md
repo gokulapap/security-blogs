@@ -209,3 +209,4 @@
 - https://blog.hckrt.com/blog/thisclosed_1/
 - https://infosecwriteups.com/exposing-millions-of-irctc-passengers-ticket-details-53338280fb9e
 - https://rahulr.in/idor-to-rce/
+- https://medium.com/bugbountywriteup/pii-leakage-via-idor-weak-passwordreset-full-account-takeover-58d159f88d73

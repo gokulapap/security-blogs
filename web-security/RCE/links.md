@@ -234,3 +234,4 @@
 - https://medium.com/@janijay007/story-of-my-biggest-bounty-evecommand-execution-on-jenkin-a73f5242b1e2
 - https://medium.com/@mattharr0ey/remote-code-execution-on-microsoft-edge-url-protocol-a67d0f96b32d
 - https://0xra.github.io/posts/apple-tv-code-execution/
+- https://blog.talosintelligence.com/2021/04/vuln-spotlight-azure-sphere-april-2021.html
