@@ -70,3 +70,4 @@
 - https://quitten.github.io/Youtube/
 - https://philippeharewood.com/business-id-leak-via-creative-hub-redirect/
 - https://buer.haus/2015/02/03/google-com-mobile-feedback-url-redirect-regexvalidation-flaw/
+- https://medium.com/@heinthantzin/how-does-my-recon-win-250-in-15-minutes-a1992508b911

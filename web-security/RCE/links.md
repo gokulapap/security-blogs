@@ -235,3 +235,4 @@
 - https://medium.com/@mattharr0ey/remote-code-execution-on-microsoft-edge-url-protocol-a67d0f96b32d
 - https://0xra.github.io/posts/apple-tv-code-execution/
 - https://blog.talosintelligence.com/2021/04/vuln-spotlight-azure-sphere-april-2021.html
+- https://blog.scrt.ch/2018/08/24/remote-code-execution-on-a-facebook-server/

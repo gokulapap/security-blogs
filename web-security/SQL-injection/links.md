@@ -82,3 +82,4 @@
 - https://infosecwriteups.com/how-i-escalated-a-time-based-sql-injection-to-rce-bbf0d68cb398
 - https://h3k.ro/2022/07/11/bsqli/
 - https://0xkasper.com/articles/moodle-sql-injection-broken-access-control.html
+- https://thevillagehacker.medium.com/time-based-sql-injection-to-dumping-the-database-da0e5bcaa9df

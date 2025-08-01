@@ -498,7 +498,6 @@
 - https://www.zerodayinitiative.com/blog/2022/11/14/control-your-types-or-get-pwned-remote-code-execution-in-exchange-powershell-backend, RCE
 - https://www.oxeye.io/blog/remote-code-execution-in-spotifys-backstage, RCE
 - https://blog.sonarsource.com/checkmk-rce-chain-1/, RCE
-- https://theevilbit.github.io/posts/cve-2022-32929/, Local-Privilege-Escalation
 - https://varmaanu001.medium.com/from-shodan-dork-to-grafana-local-file-inclusion-e77dc4cfc264, LFI
 - https://blog.sigstore.dev/how-sigstore-quickly-patched-an-upstream-vulnerability-76ba84ef1122, OAuth
 - https://bugs.xdavidhu.me/google/2022/11/10/accidental-70k-google-pixel-lock-screen-bypass/, Lock-screen-bypass
@@ -622,7 +621,6 @@
 - https://orca.security/resources/blog/synapse-local-privilege-escalation-vulnerability-spark/, Race-condition
 - https://snapsec.co/blog/Log4shell-on-agorapulse/, Log4shell
 - https://c0nqr0r.medium.com/reading-robots-txt-got-me-4-xss-reports-9fd2234c635f, XSS
-- https://www.microsoft.com/security/blog/2022/08/31/vulnerability-in-tiktok-android-app-could-lead-to-one-click-account-hijacking/, Insecure-deeplink
 - https://abdulsec.medium.com/mfa-bypass-in-private-program-the-abdulsec-way-f677fea209f7, MFA-bypass
 - https://falcon319.medium.com/my-findings-on-hack-u-s-program-43b692a5c057, Missing-authentication
 - https://www.ambionics.io/blog/hacking-watchguard-firewalls, XPath-injection
@@ -1115,7 +1113,6 @@
 - https://shrirangdiwakar.medium.com/how-i-turned-0000-into-600-phone-verification-bypass-b1c0f6eb568e, OTP-bypass
 - https://infosecwriteups.com/third-party-apps-were-still-getting-your-private-facebook-data-even-after-their-access-expiry-6e4be4880e6e, Logic-flaw
 - https://infosecwriteups.com/writeups-facebook-whitehat-program-2021-instagram-live-setting-bug-500-usd-d2d076b3f8bb, Logic-flaw
-- https://thevillagehacker.medium.com/time-based-sql-injection-to-dumping-the-database-da0e5bcaa9df, SQL-injection
 - https://www.sonarsource.com/blog/nosql-injections-in-rocket-chat/, NoSQL-injection
 - https://n3t-hunt3r.medium.com/finding-my-first-critical-web-cache-poisoning-6f956799371c, Web-cache-poisoning
 - https://feed.bugs.xdavidhu.me/bugs/0006, Path-traversal
@@ -1622,7 +1619,6 @@
 - https://web.archive.org/web/20200820030055/https://pwnsec.ninja/2019/09/14/how-i-found-a-simple-and-weird-account-takeover-bug/, Account-takeover
 - https://medium.com/@cc1h2e1/unauthorized-access-to-all-user-information-leaks-5db95746aecf, Information-disclosure
 - https://anotherhackerblog.com/exploiting-file-uploads-pt-2/, Unrestricted-file-upload
-- https://medium.com/@heinthantzin/how-does-my-recon-win-250-in-15-minutes-a1992508b911, Open-redirect
 - https://philippeharewood.com/add-users-to-roles-on-facebook-pages-without-an-invitation-consent/, Authorization-flaw
 - https://philippeharewood.com/subscribe-to-the-list-of-requesters-to-join-a-facebook-live-video-using-mqtt/, Authorization-flaw
 - https://medium.com/@osamaavvan/exploiting-jsonp-and-bypassing-referer-check-2d6e40dfa24, Information-disclosure
@@ -1882,7 +1878,6 @@
 - https://web.archive.org/web/20200929004149/https://www.mohamedharon.com/2018/08/wordpressXSS.html, Flash-XSS
 - https://medium.com/@UpdateLap/idor-facebook-malicious-person-add-people-to-the-top-fans-4f1887aad85a, IDOR
 - https://medium.com/@nandwanajatin25/my-first-valid-xss-hackerone-f8ba0a7c647, XSS
-- https://blog.scrt.ch/2018/08/24/remote-code-execution-on-a-facebook-server/, RCE
 - https://web.archive.org/web/20200829220607/https://medium.com/@adeshkolte/sql-injection-vulnerability-in-university-of-cambridge-b4c8d0381e1, SQL-injection
 - https://www.updatelap.com/2018/08/privileged-escalation-in-facebook-rooms.html, Authorization-flaw
 - https://medium.com/@black_b/yahoo-idor-elimination-of-any-comment-e898f4f955f1, IDOR
