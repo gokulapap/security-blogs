@@ -249,3 +249,4 @@
 - https://medium.com/@arbazhussain/referer-based-xss-52aeff7b09e7
 - https://ysamm.com/?p=763
 - https://hethical.io/stealing-the-trello-token-by-abusing-a-cross-iframe-xss-on-the-butler-plugin/
+- https://ysamm.com/?p=632

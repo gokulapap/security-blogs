@@ -177,7 +177,6 @@
 - https://www.descope.com/blog/post/noauth, OAuth
 - https://github.com/firsov/onlyoffice/blob/main/CVE-2023-34939-PoC.md, Path-traversal
 - https://0xa1mn.medium.com/how-i-unveiled-a-critical-vulnerability-exposing-all-buyers-invoices-pii-with-a-single-trick-691fd410fd7a, Information-disclosure
-- http://www.firstsight.me/2023/06/the-unexpected-0-master-id-for-account-data-manipulation/, IDOR
 - https://zerforschung.org/posts/freundschaftspass-en/, Subdomain-takeover
 - https://hunter-55.medium.com/from-bug-bounty-hunter-to-risk-analyst-my-cybersecurity-journey-at-deloitte-56e7835619e4, Account-takeover
 - https://medium.com/@ferferof/pii-data-leakage-and-us-1500-bounty-af676350fb76, Information-disclosure
@@ -234,7 +233,6 @@
 - https://medium.com/@lopseg/bug-bounty-writeup-stored-xss-vulnerability-waf-bypass-f38aae7ff9eb, Stored-XSS
 - https://medium.com/@0ta/tenda-n301-v6-cve-2023-29680-cve-2023-29681-a40f7ae6dc62, Sensitive-Information-Sent-Over-an-Unencrypted-Channel
 - https://ltsirkov.medium.com/netflix-bypassing-multi-factor-authentication-mfa-53135c9d6d50, MFA-bypass
-- https://goziem.medium.com/how-i-chained-an-information-disclosure-bug-to-sql-injection-bca936d90fb1, SQL-injection
 - https://herolab.usd.de/security-advisories/usd-2022-0034/, Local-Privilege-Escalation
 - https://blog.calif.io/p/redash-saml-authentication-bypass, SAML
 - https://the-deniss.github.io/posts/2023/04/26/avast-privileged-arbitrary-file-create-on-quarantine.html, TOCTOU
@@ -443,7 +441,6 @@
 - https://infosecwriteups.com/graphql-idor-leaking-credit-card-information-of-1000s-of-users-d07eec732979, IDOR
 - https://infosecwriteups.com/directory-ttraversal-vulnerability-in-huawei-hg255s-products-dce941a1d015, Path-traversal
 - https://0xraminfosec.medium.com/simple-cors-misconfig-leads-to-disclose-the-sensitive-token-worth-of-91433763f4d6, CORS-misconfiguration
-- https://infosecwriteups.com/param-hunting-to-injections-4365da5447cf, HTML-injection
 - https://salt.security/blog/missing-bricks-finding-security-holes-in-lego-apis, XSS
 - https://spyclub.tech/2022/12/14/unusual-cache-poisoning-akamai-s3/, Web-cache-poisoning
 - https://www.akamai.com/blog/security-research/msrpc-lsm-cve-disturbing-hosts-rest, Windows
@@ -1198,7 +1195,6 @@
 - https://ysamm.com/?p=640, Information-disclosure
 - https://ysamm.com/?p=636, Information-disclosure
 - https://ysamm.com/?p=634, Information-disclosure
-- https://ysamm.com/?p=632, XSS
 - https://ysamm.com/?p=621, Authorization-flaw
 - https://ysamm.com/?p=625, Open-redirect
 - https://www.shielder.it/blog/2021/02/hunting-for-bugs-in-telegrams-animated-stickers-remote-attack-surface/, Memory-corruption
@@ -1611,7 +1607,6 @@
 - https://medium.com/@r99tiq/how-i-hacked-basf-company-3b75ef39c74f, Missing-authentication
 - https://spidersec.ninja/Youtube-X-frame-options-Bypass-Vulnerability, Clickjacking
 - https://blog.usejournal.com/how-recon-helped-samsung-protect-their-production-repositories-of-samsungtv-ecommerce-estores-4c51d6ec4fdd, Information-disclosure
-- https://medium.com/@pranaybafna/graphql-introspection-leads-to-sensitive-data-disclosure-65b385452d7f, Information-disclosure
 - https://medium.com/bugbountywriteup/information-disclosure-at-paypal-and-xoom-paypal-acquisition-via-simple-google-dork-1-000-usd-b726fe628a05, Information-disclosure
 - https://medium.com/@0xgaurang/case-study-oauth-misconfiguration-leads-to-account-takeover-d3621fe8308b, OAuth
 - https://medium.com/bugbountywriteup/facebook-workplace-privilege-escalation-vulnerability-to-change-the-post-privacy-as-public-634f1c995780, Privilege-escalation

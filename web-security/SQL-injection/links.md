@@ -83,3 +83,4 @@
 - https://h3k.ro/2022/07/11/bsqli/
 - https://0xkasper.com/articles/moodle-sql-injection-broken-access-control.html
 - https://thevillagehacker.medium.com/time-based-sql-injection-to-dumping-the-database-da0e5bcaa9df
+- https://goziem.medium.com/how-i-chained-an-information-disclosure-bug-to-sql-injection-bca936d90fb1
