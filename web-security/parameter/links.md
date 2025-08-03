@@ -4,3 +4,4 @@
 - https://medium.com/@ethicalkaps/behind-the-scene-http-parameter-pollution-534b4fa2449c
 - https://medium.com/@rupachandrans/how-i-was-able-to-buy-tickets-for-1-rupee-payment-price-tampering-e9e93fe59cbf
 - https://medium.com/@nazeemarif/bug-bounty-how-i-was-able-to-purchased-premium-feature-just-for-1-pkr-by-parameter-2f6f7e5b8bf
+- https://medium.com/@cyber.jemin/price-manipulation-vulnerability-potential-exploitation-in-dating-website-d1a7438c5eeb

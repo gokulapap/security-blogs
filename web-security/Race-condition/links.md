@@ -17,3 +17,4 @@
 - https://medium.com/bugbountywriteup/race-condition-that-could-result-to-rce-a-story-with-an-app-that-temporary-stored-an-uploaded-9a4065368ba3
 - https://medium.com/@jodyritonga/how-i-get-100-in-just-10-minutes-b018b28645ce
 - https://medium.com/@balook/creative-android-pin-bypass-with-race-conditon-63a8bc3f0e31
+- https://medium.com/@vincenz/exploiting-a-race-condition-vulnerability-3f2cb387a72

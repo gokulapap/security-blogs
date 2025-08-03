@@ -22,3 +22,4 @@
 - https://pwn.vg/articles/2021-06/local-file-read-via-error-based-xxe
 - https://hackcompute.com/hacking-epp-servers/
 - https://web.archive.org/web/20200305081812/https://0xatul.github.io/posts/2020/02/external-xml-entity-via-file-upload-svg/
+- https://blog.sonarsource.com/wordpress-xxe-security-vulnerability/

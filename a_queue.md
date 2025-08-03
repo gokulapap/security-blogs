@@ -47,7 +47,6 @@
 - https://medium.com/@notifybugme/how-i-was-able-find-mass-leaked-aws-s3-bucket-from-js-file-6064a5c247f8, info-disclosure
 - https://medium.com/@abdulparkar9554/how-i-found-stored-xss-html-injection-vulnerability-on-microsoft-6b8682c03680, html-injection
 - https://medium.com/@toxglot/hacking-a-company-from-a-phone-478bbfed04c8, journey
-- https://medium.com/@cyber.jemin/price-manipulation-vulnerability-potential-exploitation-in-dating-website-d1a7438c5eeb, parameter
 - https://medium.com/@tommasobona04/building-an-xss-scanner-with-python-detecting-cross-site-scripting-vulnerabilities-by-tommaso-69d4c9e04d72, automation
 - https://medium.com/@deepamkumar510/remote-code-execution-rce-through-file-upload-functionality-1809bd504805, RCE
 - https://medium.com/@nynan/what-i-learnt-from-reading-217-subdomain-takeover-bug-reports-c0b94eda4366, STO
@@ -378,7 +377,6 @@
 - https://khaledyassen.medium.com/how-i-bypassed-the-registration-validation-and-logged-in-with-the-company-email-14eb12c45fb5, Email-verification-bypass
 - https://medium.com/@abhisekr/discovered-a-critical-idor-and-earned-900-for-my-first-p1-vulnerability-57c1e72f42c1, IDOR
 - https://medium.com/@DrakenKun/how-i-was-able-to-find-4-cross-site-scripting-xss-on-vulnerability-disclosure-program-e2f39199ae16, XSS
-- https://ysamm.com/?p=777, Account-takeover
 - https://akashc99.medium.com/bypassing-account-lockout-through-password-reset-functionality-8ff5c256f380, Rate-limiting-bypass
 - https://blog.projectdiscovery.io/php-http-server-source-disclosure/, Source-code-disclosure
 - https://www.sonarsource.com/blog/openemr-remote-code-execution-in-your-healthcare-system/, RCE
@@ -1135,7 +1133,6 @@
 - https://feed.bugs.xdavidhu.me/bugs/0003, Privacy-issue
 - https://polarply.medium.com/the-false-oracle-azure-functions-padding-oracle-issue-2025e0e6b8a, Padding-oracle-attack
 - https://n45ht.or.id/post/reflected-dom-xss-on-domainesia/en, XSS
-- https://blog.sonarsource.com/wordpress-xxe-security-vulnerability/, XXE
 - https://n45ht.or.id/post/reflected-xss-on-microsoft/en, Reflected-XSS
 - https://notifybugme.medium.com/aws-internal-metadata-accessed-through-ssrf-by-chaining-an-open-redirect-bug-c4b0e4838dc, SSRF
 - https://davtur19.medium.com/telegram-bug-bounties-xss-privacy-issues-official-bot-exploitation-and-more-5277fa78435, XSS
@@ -1416,7 +1413,6 @@
 - https://samcurry.net/hacking-starbucks/, Path-traversal
 - https://blog.it-securityguard.com/how-i-made-more-than-30k-with-jolokia-cves/, Reflected-XSS
 - https://medium.com/@abireena2002/how-i-managed-to-escalate-privilege-as-admin-94b8dc910d14, Lack-of-rate-limiting
-- https://www.ehpus.com/post/smtp-injection-in-gsuite, SMTP-injection
 - https://medium.com/bugbountywriteup/reflected-user-input-xss-c3e681710e74, Reflected-XSS
 - https://ysamm.com/?p=460, Privilege-escalation
 - https://ysamm.com/?p=450, Information-disclosure
@@ -1482,7 +1478,6 @@
 - https://medium.com/@aungpyaehackeronetester/two-factor-authentication-bypass-50-5b397e68cfed, MFA-bypass
 - https://medium.com/@mohameddaher/from-p5-to-p5-to-p2-from-nothing-to-1000-bxss-4dd26bc30a82, Race-condition
 - https://web.archive.org/web/20200513210337/https://medium.com/bugbountywriteup/the-secret-sauce-of-bug-bounty-bdcc2e2d45af, CSTI
-- https://medium.com/@vincenz/exploiting-a-race-condition-vulnerability-3f2cb387a72, Race-condition
 - https://blog.stazot.com/prestashop-csrf-to-rce-article/, RCE
 - https://medium.com/@rat010/otp-verification-bypass-ee17d68f8425, OTP-bypass
 - https://blog.zimperium.com/multiple-kernel-vulnerabilities-affecting-all-qualcomm-devices/, Memory-corruption
