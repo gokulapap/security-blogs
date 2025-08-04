@@ -1,3 +1,4 @@
 - https://medium.com/@M0X0101/how-i-was-able-to-get-account-takeover-via-idor-form-jwt-caaf7ea58aa
 - https://medium.com/@sandh0t/the-bad-twin-a-peculiar-case-of-jwt-exploitation-scenario-1efa03e891c0
 - https://ophionsecurity.com/blog/hacking-our-way-into-an-internal-db
+- https://emtunc.org/blog/11/2017/jwt-refresh-token-manipulation/
