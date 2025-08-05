@@ -9,3 +9,4 @@
 - http://omespino.com/write-up-twitter-bug-bounty-my-1st-bugbounty-poodle-sslv3-bug-on-multiple-twitter-smtp-servers/
 - https://www.elttam.com/blog/cracking-randomness-in-java/
 - https://blog.blacklanternsecurity.com/p/yet-another-telerik-ui-revisit
+- https://eprint.iacr.org/2023/331.pdf

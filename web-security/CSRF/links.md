@@ -90,3 +90,4 @@
 - https://medium.com/@balapraneeth98/journey-to-my-first-bug-hunt-6dc5e4552128
 - https://medium.com/@novan.rmd/my-first-bug-bounty-from-bug-bounty-platform-redstorm-io-50958f6adc90
 - https://medium.com/tenable-techblog/stealing-downloads-from-slack-users-be6829a55f63
+- https://web.archive.org/web/20200320111950/https://medium.com/@sainttobs/csrf-token-bypasss-a-tale-of-my-2k-bug-ff7f51166ea1

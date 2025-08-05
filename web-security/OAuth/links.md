@@ -22,3 +22,4 @@
 - https://ninetyn1ne.github.io/2022-02-21-oauth-postmessage-misconfig/
 - https://salt.security/blog/traveling-with-oauth-account-takeover-on-booking-com
 - https://gauravnarwani.com/account-takeover-via-improper-input-validation/
+- https://security.lauritz-holtmann.de/post/sso-security-redirect-uri-ii/

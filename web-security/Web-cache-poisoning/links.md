@@ -13,3 +13,4 @@
 - https://bxmbn.medium.com/how-i-made-15-000-by-hacking-caching-servers-part-1-5541712a61c3
 - https://portswigger.net/research/practical-web-cache-poisoning
 - https://iustin24.github.io/Cache-Key-Normalization-Denial-of-Service/
+- https://spyclub.tech/2022/12/14/unusual-cache-poisoning-akamai-s3/
