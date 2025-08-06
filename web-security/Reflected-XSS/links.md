@@ -83,3 +83,4 @@
 - https://blog.usejournal.com/how-i-found-xss-by-searching-in-shodan-6943b799e648
 - https://web.archive.org/web/20210924032932/https://0xdln.ml/XSS-Through-Fuzzing-Default-IIS/
 - https://lutfumertceylan.com.tr/posts/acc-takeover-web-cache-xss/
+- https://medium.com/bugbountywriteup/reflected-user-input-xss-c3e681710e74

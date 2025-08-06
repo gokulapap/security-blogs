@@ -211,3 +211,4 @@
 - https://rahulr.in/idor-to-rce/
 - https://medium.com/bugbountywriteup/pii-leakage-via-idor-weak-passwordreset-full-account-takeover-58d159f88d73
 - http://www.firstsight.me/2023/06/the-unexpected-0-master-id-for-account-data-manipulation/
+- https://caesarevan23.medium.com/google-vrp-acquisitions-insecure-direct-object-reference-2nd-2ece9b185ade

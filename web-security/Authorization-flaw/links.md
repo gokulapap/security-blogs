@@ -101,3 +101,4 @@
 - https://ysx.me.uk/road-to-unauthenticated-recovery-downloading-github-saml-codes/
 - https://www.symbo1.com/articles/2019/01/11/fb-pageanalyst-could-add-oneself-as-moderator-on-group.html
 - https://philippeharewood.com/view-the-contact-list-for-a-messenger-kid-as-a-parent-approved-contact/
+- https://medium.com/@dekeeu/reposted-2019-hacking-youtube-for-fun-and-profit-8685dd475e30

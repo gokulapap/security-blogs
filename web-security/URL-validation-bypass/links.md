@@ -2,3 +2,4 @@
 - https://huntingreads.com/abusing-uri-parsers-for-fun-and-profit/
 - https://zerocode-ph.medium.com/bypassing-link-sharing-protection-in-messenger-kids-parents-control-feature-meta-bug-bounty-e53f2d148bd9
 - https://marxchryz.medium.com/url-validation-bypass-using-browser-uri-normalization-cf545d33d13f
+- https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/cve-2020-0696-microsoft-outlook-security-feature-bypass-vulnerability/
