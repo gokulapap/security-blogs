@@ -244,3 +244,4 @@
 - https://fardeen-ahmed.medium.com/a-small-change-and-things-go-in-your-hand-story-of-a-250-bounty-5ddc43c31463
 - https://hackernoon.com/how-to-find-internal-subdomains-yql-yahoo-and-bug-bounty-d7730b374d77
 - https://medium.com/@pranaybafna/graphql-introspection-leads-to-sensitive-data-disclosure-65b385452d7f
+- https://medium.com/@nguhuynh.148/how-did-i-get-200-with-wordpress-vulnerability-4ce80f106709

@@ -153,7 +153,6 @@
 - https://blog.assetnote.io/2023/07/04/citrix-sharefile-rce/, RCE
 - https://www.synacktiv.com/sites/default/files/2023-07/synacktiv-phplist-partial-file-read.pdf, Arbitrary-file-read
 - https://labs.hakaioffsec.com/nginx-alias-traversal/, Path-traversal
-- https://medium.com/@nguhuynh.148/how-did-i-get-200-with-wordpress-vulnerability-4ce80f106709, Information-disclosure
 - https://www.randorisec.fr/chamilo-1.11.18-multiple-vulnerabilities, OS-command-injection
 - https://medium.com/@M0X0101/how-i-was-able-to-get-account-takeover-via-insecure-data-storage-and-webview-with-exported-activity-5308a330ab80, Account-takeover
 - https://www.ghostccamm.com/blog/multi_cockpit_vulns/, CSRF
@@ -745,7 +744,6 @@
 - https://hencohen10.medium.com/microsoft-dynamics-container-sandbox-rce-via-unauthenticated-docker-remote-api-20-000-bounty-7f726340a93b, RCE
 - https://medium.com/@terminatorLM/abusing-facebooks-feature-for-a-permanent-account-confusion-logic-vulnerability-d7f5160f373a, MFA-bypass
 - https://medium.com/@vaibhavatkale/weird-email-verification-bypass-96c793c36d7e, Email-verification-bypass
-- https://corben.io/blog/a-simple-sql-injection-in-an-air-force-website, SQL-injection
 - https://hoyahaxa.blogspot.com/2022/05/bygone-vulnerabilities-remote-code.html, XSS
 - https://hogarth45.medium.com/social-media-take-over-easy-money-aa6274b4b70d, Broken-link-hijacking
 - https://infosecwriteups.com/how-an-open-redirection-leads-to-an-account-takeover-73ea883055d1, Open-redirect
@@ -1431,7 +1429,6 @@
 - https://www.nahamsec.com/posts/my-expense-report-resulted-in-a-server-side-request-forgery-ssrf-on-lyft, SSRF
 - https://medium.com/bugbountywriteup/bypassing-waf-to-perform-xss-2d2f5a4367f3, XSS
 - https://medium.com/@kishoretk/how-i-was-able-to-see-identity-of-a-private-video-up-loader-via-rights-manager-responsible-39d996517b6e, Information-disclosure
-- https://shibinbshaji.space/bug-bounty/oppo-bugbounty-writeup/, Login-screen-bypass
 - https://medium.com/@abhishake100/clickjacking-to-account-takeover-97e286f26b95, Clickjacking
 - https://medium.com/@kminthein/stored-xss-in-microsoft-outlook-ebce9ff9e45b, Stored-XSS
 - https://servicenger.com/blog/mobile/android-sop-bypass-to-steal-system-files/, SOP-bypass
@@ -1593,7 +1590,6 @@
 - https://spidersec.ninja/Youtube-X-frame-options-Bypass-Vulnerability, Clickjacking
 - https://blog.usejournal.com/how-recon-helped-samsung-protect-their-production-repositories-of-samsungtv-ecommerce-estores-4c51d6ec4fdd, Information-disclosure
 - https://medium.com/bugbountywriteup/information-disclosure-at-paypal-and-xoom-paypal-acquisition-via-simple-google-dork-1-000-usd-b726fe628a05, Information-disclosure
-- https://medium.com/@0xgaurang/case-study-oauth-misconfiguration-leads-to-account-takeover-d3621fe8308b, OAuth
 - https://medium.com/bugbountywriteup/facebook-workplace-privilege-escalation-vulnerability-to-change-the-post-privacy-as-public-634f1c995780, Privilege-escalation
 - https://medium.com/@jayateerthag/google-referer-leak-bug-434f6293ce66, Referer-leakage
 - https://web.archive.org/web/20200820030055/https://pwnsec.ninja/2019/09/14/how-i-found-a-simple-and-weird-account-takeover-bug/, Account-takeover
@@ -2084,7 +2080,6 @@
 - https://ahussam.me/Flickr-CSRF/, XSRF
 - https://blog.it-securityguard.com/bug-bounty-prezi-map-prezi-com-path-traversal/, Path-traversal
 - https://maustin.net/google_docs, Clickjacking
-- https://blog.it-securityguard.com/a-tale-of-7-vulnerabilities-paypal-bug-bounty/, Stored-XSS
 - https://0day.click/recipe/2014-02-22-github/, RCE
 - https://blog.includesecurity.com/2014/02/how-i-was-able-to-track-the-location-of-any-tinder-user/, Information-disclosure
 - https://bitquark.co.uk/blog/2013/12/30/google_sites_a_tale_of_five_vulnerabilities, XSS

@@ -90,3 +90,4 @@
 - https://shrirangdiwakar.medium.com/encrypted-payload-decrypted-execution-600-stored-xss-3e517cea8f13
 - https://medium.com/@ZishanAdThandar/just-5-minute-to-get-my-2nd-stored-xss-on-edmodo-com-fe2ee559e00d
 - https://maordayanofficial.medium.com/look-at-what-i-found-in-comodo-57d62af2f263
+- https://blog.it-securityguard.com/a-tale-of-7-vulnerabilities-paypal-bug-bounty/
