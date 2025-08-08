@@ -236,3 +236,5 @@
 - https://0xra.github.io/posts/apple-tv-code-execution/
 - https://blog.talosintelligence.com/2021/04/vuln-spotlight-azure-sphere-april-2021.html
 - https://blog.scrt.ch/2018/08/24/remote-code-execution-on-a-facebook-server/
+- https://samcurry.net/hacking-apple/
+- https://www.zerodayinitiative.com/blog/2022/11/14/control-your-types-or-get-pwned-remote-code-execution-in-exchange-powershell-backend

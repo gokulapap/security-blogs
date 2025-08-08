@@ -63,7 +63,6 @@
 - https://medium.com/@geekboyranjeet/strange-admin-panel-bypass-story-bug-bounty-5e618099baaf, bypass
 - https://medium.com/@rahulkumarmk/fuzzing-get-and-post-requests-a-comprehensive-guide-with-gobuster-ffuz-and-wfuzz-bde14769999e, automation
 - https://medium.com/@kaorrosi/content-discovery-automated-and-manual-9984ba8d1da6, recon
-- https://medium.com/@popalltheshells/domain-admin-compromise-in-3-hours-5778902604c9, misc
 - https://medium.com/@adamjsturge/mx-takeovers-automated-subdomain-takeover-64e658fc4fb7, automation
 - https://medium.com/@pingsec/interesting-account-takeover-bugs-619df8466ca0, ATO
 - https://medium.com/@vickieli/are-csrfs-still-a-thing-7e16c09c951a, csrf
@@ -248,7 +247,6 @@
 - https://github.com/gobysec/Weblogic/blob/main/Research%20on%20WebLogic%20After-Deserialization.md, Insecure-deserialization
 - https://www.wiz.io/blog/brokensesame-accidental-write-permissions-to-private-registry-allowed-potential-r, Cloud
 - https://material.security/blog/how-material-security-uncovered-a-vulnerability-in-gmail-api, Broken-Access-Control
-- https://blog.includesecurity.com/2023/04/impersonating-local-unity-players-with-udp-spoofing-in-mirror/, Game-hacking
 - https://www.pingsafe.com/blog/linkedin-vulnerability-delete-any-post, IDOR
 - https://starlabs.sg/advisories/23/23-2017/, SSTI
 - https://giraffesecurity.dev/posts/google-remote-code-execution/, Dependency-confusion
@@ -476,7 +474,6 @@
 - https://emily.id.au/tailscale, RCE
 - https://basu-banakar.medium.com/ssrf-via-dns-rebinding-cve-2022-4096-b7bf75928bb2, SSRF
 - https://github.com/0xacb/recollapse/blob/main/till_recollapse_fuzzing_the_web_for_mysterious_bugs.pdf, Regex
-- https://medium.com/@mrd17x/my-account-takeover-writeup-5000-6895492aa549, Lack-of-rate-limiting
 - https://cybervelia.com/?p=1380, IoT
 - https://trufflesecurity.com/blog/email-graffiti/index.html, Broken-link-hijacking
 - https://dewcode.medium.com/how-i-found-29-stored-xss-in-modern-framework-1cfe60a107a0, Stored-XSS
@@ -486,7 +483,6 @@
 - https://nirmaldahal.com.np/posts/2022/11/megas-unlimited-cloud-storage-vulnerability/, Logic-flaw
 - https://ian.sh/etugra, Default-credentials
 - https://medium.com/@hf6452/a-story-of-a-strange-stored-idor-b6f2769bb6cb, IDOR
-- https://www.zerodayinitiative.com/blog/2022/11/14/control-your-types-or-get-pwned-remote-code-execution-in-exchange-powershell-backend, RCE
 - https://www.oxeye.io/blog/remote-code-execution-in-spotifys-backstage, RCE
 - https://blog.sonarsource.com/checkmk-rce-chain-1/, RCE
 - https://varmaanu001.medium.com/from-shodan-dork-to-grafana-local-file-inclusion-e77dc4cfc264, LFI
@@ -1284,7 +1280,6 @@
 - https://medium.com/@mustafa0x2021/disclose-emails-phone-numbers-other-information-for-facebook-users-who-tried-to-add-funds-to-31aea5f973a5, Information-disclosure
 - https://blog.dixitaditya.com/leveraging-xss-to-read-internal-files/, XSS
 - https://medium.com/@parasarora06/cve-2018-5230-jira-cross-site-scripting-59ec96b3d75f, Reflected-XSS
-- https://samcurry.net/hacking-apple/, RCE
 - https://praseudo.com/sensitive-info-leak-in-curve-app-bug-bounty/, Information-disclosure
 - https://ninetyn1ne.github.io/2020-10-05-open-redir-to-ato/, Path-traversal
 - https://medium.com/@vedanttekale20/spend-more-time-doing-recon-youll-get-more-bugs-e7ffd5bf9202, Reflected-XSS

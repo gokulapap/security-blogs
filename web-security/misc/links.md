@@ -3,3 +3,4 @@
 - https://medium.com/@nynan/bug-bounty-wordlists-please-do-them-properly-2110babcf482
 - https://medium.com/@sunilyedla/exploiting-max-character-limitation-cde982545019
 - https://medium.com/@andrea0/understanding-and-exploiting-http-for-bug-bounty-46286fcdd870
+- https://medium.com/@popalltheshells/domain-admin-compromise-in-3-hours-5778902604c9

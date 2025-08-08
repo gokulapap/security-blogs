@@ -10,3 +10,4 @@
 - https://medium.com/@evilmango/this-is-what-i-call-mass-idor-20e6ec146c0e
 - https://medium.com/@mehtashobhit98/my-first-un-expected-digit-bounty-for-an-un-expected-vulnerability-b44933d6ebda
 - https://medium.com/bugbountywriteup/finding-bugs-on-chess-com-739a71fbdb31
+- https://medium.com/@mrd17x/my-account-takeover-writeup-5000-6895492aa549
