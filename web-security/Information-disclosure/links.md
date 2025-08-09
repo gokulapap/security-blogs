@@ -245,3 +245,4 @@
 - https://hackernoon.com/how-to-find-internal-subdomains-yql-yahoo-and-bug-bounty-d7730b374d77
 - https://medium.com/@pranaybafna/graphql-introspection-leads-to-sensitive-data-disclosure-65b385452d7f
 - https://medium.com/@nguhuynh.148/how-did-i-get-200-with-wordpress-vulnerability-4ce80f106709
+- https://www.seekurity.com/blog/general/badoo-hotornot-privacy-disclosure-feature-not-a-bug

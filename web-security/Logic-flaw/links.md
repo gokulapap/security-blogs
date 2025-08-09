@@ -146,3 +146,4 @@
 - https://medium.com/bugbountywriteup/business-logic-flaw-in-google-acquisition-hall-of-fame-1a9af5d3ac04
 - https://sunilyedla.medium.com/simple-sweet-bypassing-email-update-restriction-to-change-emails-of-team-members-6ce5770e7929
 - https://medium.com/@spade.com/how-i-registered-multiple-accounts-in-privateinternetaccess-vpn-service-for-free-a2068642f418
+- https://theshubh77.medium.com/write-up-irremovable-comments-on-fb-lite-app-a-story-of-a-simple-fb-lite-bug-that-i-found-just-125aaa826dd8

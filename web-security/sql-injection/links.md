@@ -5,3 +5,4 @@
 - https://medium.com/@0x3zzat/how-to-find-sql-injection-using-a-simple-technique-bc7e8100a6f3
 - https://medium.com/@burhanxd/my-first-nosql-injection-bug-e62bfe9950d9
 - https://medium.com/@ahmadaabdulla/how-i-found-sql-injection-on-8x8-cengage-comodo-automattic-20-company-c296d1a09f63
+- https://medium.com/@Rend_/sqli-next-level-5b1145b83c79

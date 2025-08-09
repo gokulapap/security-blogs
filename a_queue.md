@@ -102,7 +102,6 @@
 - https://medium.com/@huang-h-kevin/from-retargeting-to-rce-my-journey-from-advertising-to-cybersecurity-4c6149a25c58, journey
 - https://medium.com/@nidhipanchal719/open-redirect-to-xss-in-united-nation-website-f4394aa6ed04, XSS
 - https://medium.com/@nmblog2135/you-can-earn-more-than-1000-if-you-know-this-vulnerability-open-redirect-vulnerabilities-b9170e88adba, open-redirection
-- https://medium.com/@Rend_/sqli-next-level-5b1145b83c79, sql-injection
 - https://medium.com/@sghosh2402/demystifying-insecure-deserialization-in-php-684cab9c4d24, deserialization
 - https://medium.com/@v3d/full-account-takeover-via-password-reset-flaw-my-first-blog-10d6e11df2e0, reset-password
 - https://medium.com/@shubhangivashist/how-to-exploit-directory-traversal-vulnerabilities-176eeb7f2655, directory-traversal
@@ -135,7 +134,6 @@
 - https://www.rapid7.com/blog/post/2023/07/19/cve-2023-38205-adobe-coldfusion-access-control-bypass-fixed/, Broken-Access-Control
 - https://orca.security/resources/blog/bad-build-google-cloud-build-potential-supply-chain-attack-vulnerability/, Cloud
 - https://www.trustedsec.com/blog/modeling-malicious-code-hacking-in-3d/, Phishing
-- https://labs.withsecure.com/publications/executing-arbitrary-code-executables-in-read-only-filesystems, Kubernetes
 - https://medium.com/workday-engineering/exploiting-jmeter-via-rmi-e8e12392bba8, Insecure-deserialization
 - https://d4ly.medium.com/an-interesting-rce-on-a-synack-red-team-target-516edb63fd04, RCE
 - https://www.rapid7.com/blog/post/2023/07/11/cve-2023-29298-adobe-coldfusion-access-control-bypass/, Broken-Access-Control
@@ -450,7 +448,6 @@
 - https://medium.com/@swapmaurya20/3-step-idor-in-hackerresume-a365f2632996, IDOR
 - https://github.com/Wh04m1001/SysmonEoP, Local-Privilege-Escalation
 - https://sensepost.com/blog/2022/certpotato-using-adcs-to-privesc-from-virtual-and-network-service-accounts-to-local-system/, Local-Privilege-Escalation
-- https://theshubh77.medium.com/write-up-irremovable-comments-on-fb-lite-app-a-story-of-a-simple-fb-lite-bug-that-i-found-just-125aaa826dd8, Logic-flaw
 - https://onekey.com/blog/security-advisory-asus-m25-nas-vulnerability/, OS-command-injection
 - https://www.rcesecurity.com/2022/12/from-zero-to-hero-part-2-intel-dcm-sql-injection-to-rce-cve-2022-21225/, SQL-injection
 - https://abhishekmorla.medium.com/bypassing-the-client-side-encryption-to-read-internal-windows-server-files-e832da8b4ac8, Client-side-encryption-bypass
@@ -1890,7 +1887,6 @@
 - http://www.shawarkhan.com/2018/06/getting-php-code-execution-and-leverage.html, Code-injection
 - https://medium.com/@D0rkerDevil/how-i-convert-ssrf-to-xss-in-a-ssrf-vulnerable-jira-e9f37ad5b158, SSRF
 - https://web.archive.org/web/20200814185643/https://medium.com/@adeshkolte/how-i-earned-750-bounty-reward-from-at-t-bug-bounty-adesh-kolte-ae62dea44083, RCE
-- https://medium.com/@raghav2039/bug-bounty-how-i-booked-a-rental-house-for-just-1-00-inr-price-manipulation-in-citrus-pay-318ff6e0d8a8, Parameter-tampering
 - https://twitter.com/0x01alka/status/1001763583447969792, Path-traversal
 - https://blog.witcoat.com/2018/05/30/account-takeover-and-blind-xss-go-pro-get-bugs/, IDOR
 - https://medium.com/@emenalf/how-i-got-hall-of-fame-in-two-fortune-500-companies-an-rce-story-9c89cead81ff, RCE
@@ -2054,7 +2050,6 @@
 - https://avicoder.me/2016/07/22/Twitter-Vine-Source-code-dump/, Source-code-disclosure
 - https://www.josipfranjkovic.com/blog/race-conditions-on-web, Race-condition
 - https://medium.com/bugbountywriteup/two-vulnerabilities-makes-an-exploit-xss-and-csrf-in-bing-cd4269da7b69, XSS
-- https://www.seekurity.com/blog/general/badoo-hotornot-privacy-disclosure-feature-not-a-bug, Information-disclosure
 - https://blog.it-securityguard.com/bugbounty-sleeping-stored-google-xss-awakens-a-5000-bounty/, Stored-XSS
 - https://blog.darabi.me/2016/05/how-i-bypassed-facebook-csrf-in-2016.html, CSRF
 - https://www.seekurity.com/blog/general/fiverr-com-full-accounts-takeover-vulnerability/, CSRF
