@@ -250,3 +250,4 @@
 - https://ysamm.com/?p=763
 - https://hethical.io/stealing-the-trello-token-by-abusing-a-cross-iframe-xss-on-the-butler-plugin/
 - https://ysamm.com/?p=632
+- https://medium.com/@thexssrat/xss-made-easy-for-testers-developers-and-managers-b404f744ec6b

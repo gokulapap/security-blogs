@@ -22,7 +22,6 @@
 - https://medium.com/@yan.zaripov/time-based-sql-injection-63a395434e97, sql-injection
 - https://medium.com/@codewithvamp/the-cost-of-neglect-html-injection-3c00e719fdef, html-injection
 - https://medium.com/@danielmakelley/4-tips-for-new-bug-bounty-hunters-b71c4c6ab5f9, tricks
-- https://medium.com/@thexssrat/xss-made-easy-for-testers-developers-and-managers-b404f744ec6b, XSS
 - https://medium.com/@ryuukhagetsu/how-i-get-bounty-from-takeover-account-ed17cd838b2a, ATO
 - https://medium.com/@qaafqasim/discovering-login-panels-and-detecting-sql-injection-with-logsensor-42842e337244, sql-injection
 - https://medium.com/@noob3xploiter/hacking-into-school-management-systems-reflected-xss-to-rce-74880c423024, XSS
@@ -746,7 +745,6 @@
 - https://www.secjuice.cz0idsecom/breaking-parser-logic-gain-access-to-nginx-plus-api-read-write-upstreams/, Path-traversal
 - https://medium.com/@sharp488/2fa-bypass-on-private-bug-bounty-program-due-to-improper-caching-mechanism-212c5912bd00, MFA-bypass
 - https://medium.com/@sharp488/2fa-bypass-on-private-bug-bounty-program-due-to-csrf-token-misconfiguration-5a9c82151a1, MFA-bypass
-- https://medium.com/@h4x0r_dz/paypal-idor-via-billing-agreement-token-closed-informative-payment-fraud-3245202fab38, IDOR
 - https://systemweakness.com/i-obtained-admin-access-via-account-activation-link-in-30-seconds-dd7f115ae1d2, Privilege-escalation
 - https://arxiv.org/pdf/2205.10174.pdf, Account-takeover
 - https://breakpoint.sh/posts/snyk-code-broken-access-control, Path-traversal
@@ -1025,7 +1023,6 @@
 - https://medium.com/@viralbhatt100/bypass-google-captcha-parameter-pollution-leads-to-send-email-to-any-user-on-behalf-of-9013aebbabae, HTTP-parameter-pollution
 - https://infosecwriteups.com/how-we-was-able-to-takeover-whole-organization-via-privilege-escalation-4f74b31a84a6, Privilege-escalation
 - https://medium.com/@psr595bro/how-i-found-read-write-access-to-the-personal-data-of-3-million-users-of-an-e-commerce-website-b9026b0d4bd3, IDOR
-- https://medium.com/@chaitanyarajhans024/simple-html-injection-to-250-895b760409ed, HTML-injection
 - https://www.fortbridge.co.uk/research/multiple-vulnerabilities-in-cpanel-whm/, XXE
 - https://infosecwriteups.com/what-is-bola-3-digit-bounty-from-topcoder-a25e7fae0d64, IDOR
 - https://philippeharewood.com/access-to-crowdtangle-deletion-framework-api/, Information-disclosure
@@ -1787,7 +1784,6 @@
 - https://medium.com/@ariffadhlullah2310/poc-cross-site-scripting-on-garuda-indonesia-website-452f4864f615, XSS
 - https://blog.hackenproof.com/customer-stories/hackenproof-customer-story-uklon/, XSS
 - https://philippeharewood.com/disclose-page-admins-via-gaming-dashboard-bans/, Information-disclosure
-- https://medium.com/@ritishkumarsingh/facebook-vulnerability-hiding-from-the-view-of-business-admin-in-the-business-manager-a04515fee9dd, Logic-flaw
 - https://medium.com/@maxpasqua/breaking-appointments-and-job-interview-schedules-with-malformed-times-edef103e46ba, DoS
 - https://medium.com/@mrnikhilsri/oob-xxe-in-prizmdoc-cve-2018-15805-dfb1e474345c, OOB-XXE
 - https://medium.com/bugbountywriteup/dom-based-xss-or-why-you-should-not-rely-on-cloudflare-too-much-a1aa9f0ead7d, DOM-XSS
@@ -2000,7 +1996,6 @@
 - https://www.seekurity.com/blog/general/business-logic-vulnerabilities-series-how-i-became-invisible-and-immune-to-blocking-on-instagram/, Logic-flaw
 - https://labs.detectify.com/2017/07/27/how-we-invented-the-tesla-dom-doom-xss/, DOM-XSS
 - https://medium.com/@arbazhussain/stored-xss-on-rockstar-game-c008ec18d071, XSS
-- https://medium.com/@arbazhussain/idor-while-connecting-social-account-in-hackster-io-2296b316b7a7, IDOR
 - https://medium.com/@arbazhussain/ctrl-d5ffc7b0640e, Clickjacking
 - https://wesecureapp.com/blog/how-we-tookover-shopify-accounts-with-one-single-click, Stored-XSS
 - https://wesecureapp.com/blog/xss-by-tossing-cookies/, XSS

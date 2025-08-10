@@ -212,3 +212,5 @@
 - https://medium.com/bugbountywriteup/pii-leakage-via-idor-weak-passwordreset-full-account-takeover-58d159f88d73
 - http://www.firstsight.me/2023/06/the-unexpected-0-master-id-for-account-data-manipulation/
 - https://caesarevan23.medium.com/google-vrp-acquisitions-insecure-direct-object-reference-2nd-2ece9b185ade
+- https://medium.com/@arbazhussain/idor-while-connecting-social-account-in-hackster-io-2296b316b7a7
+- https://medium.com/@h4x0r_dz/paypal-idor-via-billing-agreement-token-closed-informative-payment-fraud-3245202fab38
