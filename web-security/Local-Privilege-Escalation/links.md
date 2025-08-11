@@ -72,3 +72,4 @@
 - https://breakpoint.sh/posts/bypassing-the-macos-gatekeeper
 - https://www.rapid7.com/blog/post/2022/07/19/cve-2022-30526-fixed-zyxel-firewall-local-privilege-escalation/
 - https://theevilbit.github.io/posts/cve-2022-32929/
+- https://markus-krell.de/admin-capabilities-around-your-ears/

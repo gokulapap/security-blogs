@@ -97,7 +97,6 @@
 - https://medium.com/@sudarshan-s/sql-injection-important-things-you-need-to-know-right-now-b173cdea0610, sql-injection
 - https://medium.com/@uttamgupta_/what-after-recon-bbaf43dbcb68, recon
 - https://medium.com/@caesarevan23/the-journey-to-get-sql-injection-at-bluepay-blue-indonesia-bluepay-2019-7a23bbce4cb8, journey
-- https://medium.com/@vflexo/full-account-takeover-via-open-redirection-41c167db46, ATO
 - https://medium.com/@huang-h-kevin/from-retargeting-to-rce-my-journey-from-advertising-to-cybersecurity-4c6149a25c58, journey
 - https://medium.com/@nidhipanchal719/open-redirect-to-xss-in-united-nation-website-f4394aa6ed04, XSS
 - https://medium.com/@nmblog2135/you-can-earn-more-than-1000-if-you-know-this-vulnerability-open-redirect-vulnerabilities-b9170e88adba, open-redirection
@@ -145,7 +144,6 @@
 - https://kuldeep.io/posts/fulldisclosure-dom-based-xss/, DOM-XSS
 - http://blog.takemyhand.xyz/2023/07/remote-code-execution-in-gitlabs-cli.html, RCE
 - https://offsec.almond.consulting/windows-msiexec-eop-cve-2020-0911.html, Local-Privilege-Escalation
-- https://hazemhussien99.wordpress.com/2023/07/05/recon-only-bugs-are-sweet/, Information-disclosure
 - https://blog.assetnote.io/2023/07/04/citrix-sharefile-rce/, RCE
 - https://www.synacktiv.com/sites/default/files/2023-07/synacktiv-phplist-partial-file-read.pdf, Arbitrary-file-read
 - https://labs.hakaioffsec.com/nginx-alias-traversal/, Path-traversal
@@ -684,7 +682,6 @@
 - https://medium.com/@soufianehabti/write-up-1-hellosign-integration-full-read-ssrf-df5e1a5bc627, SSRF
 - https://blog.lightspin.io/exploiting-eks-authentication-vulnerability-in-aws-iam-authenticator, Authentication-flaw
 - https://www.techncyber.com/2022/07/sql-injection-at-authorization-token.html, SQL-injection
-- https://hamzadzworm.medium.com/an-interesting-idor-that-allowed-me-to-see-all-projects-bounty-8cd74b5edf72, IDOR
 - https://bloggerrando.blogspot.com/2022/07/09-1.html, XSS
 - https://medium.com/@Bishoo97x/stored-xss-and-stored-html-injection-in-united-nations-website-db87d445e41, XSS
 - https://ivreznap.medium.com/interesting-privilege-escalation-in-an-old-private-program-225d27253e13, Privilege-escalation
@@ -1526,7 +1523,6 @@
 - https://medium.com/@alex.birsan/the-bug-that-exposed-your-paypal-password-539fc2896da9, XSSI
 - https://medium.com/@jonathan.leitschuh/update-want-to-take-over-the-java-ecosystem-all-you-need-is-a-mitm-d069d253fe23, MiTM
 - https://xvnpw.github.io/posts/from-dot-in-regex-to-ssrf-part-1/, SSRF
-- https://markus-krell.de/admin-capabilities-around-your-ears/, Local-Privilege-Escalation
 - https://footstep.ninja/posts/idor-via-http/, IDOR
 - https://medium.com/sourav-sahana/from-post-to-get-open-redirect-e91f4f4206a, Open-redirect
 - https://medium.com/monetary/how-did-i-earn-3133-70-from-google-translator-9becf942dbdc, XSS
@@ -1780,7 +1776,6 @@
 - https://medium.com/@zain.sabahat/exploiting-ssrf-like-a-boss-c090dc63d326, SSRF
 - https://www.askbuddie.com/blog/unauthorized-comments-on-facebook-live-stream/, Authorization-flaw
 - https://www.vulnerability-db.com/?q=articles/2018/11/16/microsoft-bingplaces-business-url-redirect-vulnerability, Open-redirect
-- https://portswigger.net/blog/xss-in-hidden-input-fields, XSS
 - https://medium.com/@ariffadhlullah2310/poc-cross-site-scripting-on-garuda-indonesia-website-452f4864f615, XSS
 - https://blog.hackenproof.com/customer-stories/hackenproof-customer-story-uklon/, XSS
 - https://philippeharewood.com/disclose-page-admins-via-gaming-dashboard-bans/, Information-disclosure
