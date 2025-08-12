@@ -91,3 +91,4 @@
 - https://medium.com/@ch3ckm4te/self-xss-to-account-takeover-72c89775cf8f
 - https://princej-76.medium.com/how-i-chained-multiple-high-impact-vulnearbilities-to-create-a-critical-one-476950a3bb9f
 - https://ysamm.com/?p=777
+- https://web.archive.org/web/20200511012319/https://medium.com/@xhzeem/the-accounttakeover-killing-chain-6ba23f4c9d4
