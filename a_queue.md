@@ -713,7 +713,6 @@
 - https://fredericb.info/2022/06/breaking-secure-boot-on-google-nest-hub-2nd-gen-to-run-ubuntu.html, Hardware-hacking
 - https://labs.taszk.io/articles/post/unziploc/, Memory-corruption
 - https://notifybugme.medium.com/automating-reflected-xss-with-burp-suite-intruder-a39b2f060db7, Reflected-XSS
-- https://www.sonarsource.com/blog/zimbra-mail-stealing-clear-text-credentials-via-memcache-injection/, Memcache-injection
 - https://github.com/andyperlitch/jsbn/issues/43, Cryptographic-issues
 - https://portswigger.net/research/bypassing-csp-with-dangling-iframes, CSP-bypass
 - https://medium.com/@janijay007/how-i-was-able-to-see-likes-and-dislikes-count-which-is-hidden-by-victim-youtube-1-fa9cfe7cce7d, Logic-flaw
@@ -946,7 +945,6 @@
 - https://mrkrhy-xyz.medium.com/tagged-user-could-delete-facebook-story-d7f9cdde92aa, Logic-flaw
 - https://xdev05.github.io/How-i-Got-3-SQLI-in-just-10-minutes/, SQL-injection
 - https://infosecwriteups.com/a-story-of-another-awesome-old-school-hacking-that-lead-to-a-cool-p1-bug-f88da04b1ecf, 403-bypass
-- https://r0.haxors.org/posts?id=20, Stored-XSS
 - https://pyn3rd.github.io/2021/10/22/mysql-jdbc-xxe/, XXE
 - https://med-mahmoudi26.medium.com/from-staging-to-0-click-account-takeover-528a5ecaa3eb, Account-takeover
 - https://www.gosecure.net/blog/2021/10/19/a-scientific-notation-bug-in-mysql-left-aws-waf-clients-vulnerable-to-sql-injection/, SQL-injection
@@ -1519,7 +1517,6 @@
 - https://blog.redteam.pl/2020/04/google-chrome-display-locking-fuzzing.html, Use-After-Free
 - https://medium.com/@alex.birsan/the-bug-that-exposed-your-paypal-password-539fc2896da9, XSSI
 - https://medium.com/@jonathan.leitschuh/update-want-to-take-over-the-java-ecosystem-all-you-need-is-a-mitm-d069d253fe23, MiTM
-- https://xvnpw.github.io/posts/from-dot-in-regex-to-ssrf-part-1/, SSRF
 - https://footstep.ninja/posts/idor-via-http/, IDOR
 - https://medium.com/sourav-sahana/from-post-to-get-open-redirect-e91f4f4206a, Open-redirect
 - https://medium.com/monetary/how-did-i-earn-3133-70-from-google-translator-9becf942dbdc, XSS
@@ -1559,7 +1556,6 @@
 - https://web.archive.org/web/20200604001225/https://hackking.net/threads/how-i-hacked-dutch-government-in-5-minutes-twitter-account-takeover.20/, Broken-link-hijacking
 - https://medium.com/bugbountywriteup/5-000-usd-xss-issue-at-avast-desktop-antivirus-for-windows-yes-desktop-1e99375f0968, Reflected-XSS
 - https://medium.com/@Hossam.Mesbah/cross-site-request-forgery-critical-exploitable-in-infected-site-a271aedeed2f, CSRF
-- https://noobe.io/articles/2019-10/xss-to-account-takeover, XSS
 - https://wwws.nightwatchcybersecurity.com/2019/10/24/nfc-beaming-bypasses-security-controls-in-android-cve-2019-2114/, NFC
 - https://medium.com/@danangtriatmaja/bug-bounty-flaw-in-authentication-get-hall-of-fame-google-6196726ee5b9, Authentication-flaw
 - https://philippeharewood.com/1-800-flowers-credentials-and-message-log-leak-via-facebook-com-facebook/, AWS-misconfiguration
@@ -1658,7 +1654,6 @@
 - https://medium.com/@sandh0t/think-outside-the-scope-advanced-cors-exploitation-techniques-dad019c68397, CORS-misconfiguration
 - https://web.archive.org/web/20190515123715/https://medium.com/@0ktavandi/blind-ssrf-in-stripe-com-due-to-sentry-misconfiguration-60ebb6a40b5, Blind-SSRF
 - https://medium.com/a-bugz-life/4x-csrfs-chained-for-company-account-takeover-f9fada416986, CSRF
-- https://medium.com/@w_hat_boy/server-side-request-forgery-ssrf-port-issue-hidden-approch-f4e67bd8cc86, SSRF
 - https://www.gosecure.net/blog/2019/05/02/esi-injection-part-2-abusing-specific-implementations/, ESI-injection
 - https://utkusen.com/blog/why-you-shouldnt-use-password-manager-for-linode.html, Account-takeover
 - http://www.tomanthony.co.uk/blog/xss-attacks-googlebot-index-manipulation/, Logic-flaw

@@ -252,3 +252,4 @@
 - https://ysamm.com/?p=632
 - https://medium.com/@thexssrat/xss-made-easy-for-testers-developers-and-managers-b404f744ec6b
 - https://portswigger.net/blog/xss-in-hidden-input-fields
+- https://noobe.io/articles/2019-10/xss-to-account-takeover

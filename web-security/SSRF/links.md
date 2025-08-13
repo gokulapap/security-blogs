@@ -111,3 +111,5 @@
 - https://basu-banakar.medium.com/ssrf-that-allowed-us-to-access-whole-infra-web-services-and-many-more-3424f8efa0e4
 - https://notifybugme.medium.com/how-i-got-access-to-essilor-international-company-customer-pii-info-by-aws-metadata-access-through-3da02f4c79f0
 - https://nechudav.blogspot.com/2020/11/31k-ssrf-in-google-cloud-monitoring.html
+- https://xvnpw.github.io/posts/from-dot-in-regex-to-ssrf-part-1/
+- https://medium.com/@w_hat_boy/server-side-request-forgery-ssrf-port-issue-hidden-approch-f4e67bd8cc86
