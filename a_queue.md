@@ -604,7 +604,6 @@
 - https://sagarsajeev.medium.com/unsubscribe-any-users-e-mail-notifications-via-idor-2c2e05b79dac, IDOR
 - https://joshuaarulsamy.medium.com/my-hall-of-fame-at-united-nations-success-story-97675232aed7, XSS
 - https://blog.nietaanraken.nl/posts/github-pages-command-injection/, RCE
-- https://dphoeniixx.medium.com/chaining-telegram-bugs-to-steal-session-related-files-c90eac4749bd, Arbitrary-file-read
 - https://blog.sonarsource.com/securing-developer-tools-argument-injection-in-vscode/, Argument-injection
 - https://redrays.io/cve-2020-2733-jd-edwards/, Information-disclosure
 - https://whereisk0shl.top/post/break-me-out-of-sandbox-in-old-pipe-cve-2022-22715-windows-dirty-pipe, Local-Privilege-Escalation
@@ -835,7 +834,6 @@
 - https://www.iot-inspector.com/blog/advisory-western-digital-my-cloud-pro-series-pr4100-rce/, RCE
 - https://ozguralp.medium.com/bigquery-sql-injection-cheat-sheet-65ad70e11eac, SQL-injection
 - https://infosecwriteups.com/a-tale-of-0-click-account-takeover-and-2fa-bypass-b369cd70e42f, Account-takeover
-- https://thehackerblog.com/zero-days-without-incident-compromising-angular-via-expired-npm-publisher-email-domains-7kZplW4x/, Supply-chain-attack
 - https://twitter.com/FlashbackPwn/status/1492074441450397698, Memory-corruption
 - https://twitter.com/m7mdharon/status/1492204287295897600, Subdomain-takeover
 - https://onapsis.com/threat-report/icmad-sap-vulnerabilities, HTTP-request-smuggling
@@ -956,7 +954,6 @@
 - https://mhmdiaa.com/blog/exploiting-html-imports/, XSS
 - https://medium.com/@cappriciosec/how-i-hacked-billion-android-users-social-and-3rd-party-account-a-story-about-5000-bug-c422ca43bd2, Android
 - https://medium.com/@mamunwhh/how-i-got-500-with-open-redirect-48fd80c82631, Open-redirect
-- https://svennergr.github.io/writeups/google/ads_dom_xss/, DOM-XSS
 - https://mikekitckchan.medium.com/power-of-your-own-wordlist-fuzz-for-log-file-leads-to-information-leakage-ad46958b4729, Information-disclosure
 - https://www.aeth.cc/public/Article-Pass-Culture/stored-xss-article-en.html, Stored-XSS
 - https://supras.io/how-i-got-access-to-many-piis-through-a-source-code-leak/, Information-disclosure
@@ -998,7 +995,6 @@
 - https://itsfading.github.io/posts/I-owe-your-Request-HTTP-Request-Smuggling-leads-to-Full-Accounts-takeover/, HTTP-Request-Smuggling
 - https://blog.usamav.dev/two-account-takeover-bugs-worth-4300-dollar-bounty, Account-takeover
 - https://medium.com/@iambroot/what-would-you-do-if-oracles-mailing-server-sent-you-this-bc275b1bf967, HTML-injection
-- https://riteshgohil-25.medium.com/ato-of-wordpress-website-4-digits-bounty-in-5-minute-cc888c4054c9, Exposed-registration-page
 - https://infosecwriteups.com/how-did-i-earned-6000-from-tokens-and-scopes-in-one-day-12f95c6bf8aa, Authorization-flaw
 - https://web.archive.org/web/20210920030213/https://pmoc.netsoc.cloud/oauth-idor-pii/, IDOR
 - https://sunilyedla.medium.com/websocket-hijacking-to-steal-session-id-of-victim-users-bca84243830, Cross-Site-WebSocket-Hijacking
@@ -2055,7 +2051,6 @@
 - http://blog.shashank.co/2013/11/oracle-xss.html, XSS
 - https://www.rcesecurity.com/2013/09/paypal-bug-bounty-paypaltech-com-e-mail-injection/, Email-injection
 - https://arulkumar.in/delete-any-photo-from-facebook-by-exploiting-support-dashboard, IDOR
-- https://arulkumar.in/multiple-open-url-redirection-vulnerability-in-facebook-worth-1500/, Open-redirect
 - https://josipfranjkovic.blogspot.com/2013/07/sql-injections-in-nokia-sites.html, SQL-injection
 - https://josipfranjkovic.blogspot.com/2013/07/how-i-found-my-way-into-instagrams.html, Reflected-XSS
 - https://bitquark.co.uk/blog/2013/07/19/admob_creative_image_xss, XSS

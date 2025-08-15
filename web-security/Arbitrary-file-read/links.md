@@ -6,3 +6,4 @@
 - https://omespino.com/write-up-apple-bug-bounty-n-a-arbitrary-local-file-read-via-zip-file-and-symlinks-usd/
 - https://blog.oversecured.com/Android-Exploring-vulnerabilities-in-WebResourceResponse/
 - https://www.sonarsource.com/blog/pretalx-vulnerabilities-how-to-get-accepted-at-every-conference/
+- https://dphoeniixx.medium.com/chaining-telegram-bugs-to-steal-session-related-files-c90eac4749bd

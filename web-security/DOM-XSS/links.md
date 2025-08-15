@@ -25,3 +25,4 @@
 - https://medium.com/@youssefla/dom-xss-walkthrough-4d60c45ffb21
 - https://sasi2103.blogspot.com/2019/12/drop-mic-no-drop-connection.html
 - https://medium.com/@honcbb/internet-safety-for-kids-families-trend-micro-dom-xss-db34c9bbb120
+- https://svennergr.github.io/writeups/google/ads_dom_xss/

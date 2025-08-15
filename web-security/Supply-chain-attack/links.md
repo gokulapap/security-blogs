@@ -3,3 +3,4 @@
 - https://vavkamil.cz/2021/11/25/wordpress-plugin-confusion-update-can-get-you-pwned/
 - https://wwws.nightwatchcybersecurity.com/2022/02/06/insecure-bootstrap-process-in-oracle-cloud-cli/
 - https://www.legitsecurity.com/blog/artifact-poisoning-vulnerability-discovered-in-rust
+- https://thehackerblog.com/zero-days-without-incident-compromising-angular-via-expired-npm-publisher-email-domains-7kZplW4x/
