@@ -114,3 +114,4 @@
 - https://xvnpw.github.io/posts/from-dot-in-regex-to-ssrf-part-1/
 - https://medium.com/@w_hat_boy/server-side-request-forgery-ssrf-port-issue-hidden-approch-f4e67bd8cc86
 - https://web.archive.org/web/20211216032639/https://xelkomy.medium.com/easy-ssrf-from-wayback-machine-edf946486120
+- https://medium.com/@logicbomb_1/tale-of-3-vulnerabilities-to-account-takeover-44ba631a0304

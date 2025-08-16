@@ -148,3 +148,4 @@
 - https://medium.com/@spade.com/how-i-registered-multiple-accounts-in-privateinternetaccess-vpn-service-for-free-a2068642f418
 - https://theshubh77.medium.com/write-up-irremovable-comments-on-fb-lite-app-a-story-of-a-simple-fb-lite-bug-that-i-found-just-125aaa826dd8
 - https://medium.com/@ritishkumarsingh/facebook-vulnerability-hiding-from-the-view-of-business-admin-in-the-business-manager-a04515fee9dd
+- https://www.secjuice.com/logical-bug-at-edmodo/

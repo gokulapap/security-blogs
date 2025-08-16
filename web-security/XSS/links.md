@@ -253,3 +253,4 @@
 - https://medium.com/@thexssrat/xss-made-easy-for-testers-developers-and-managers-b404f744ec6b
 - https://portswigger.net/blog/xss-in-hidden-input-fields
 - https://noobe.io/articles/2019-10/xss-to-account-takeover
+- https://medium.com/bugbountywriteup/bypassing-waf-to-perform-xss-2d2f5a4367f3

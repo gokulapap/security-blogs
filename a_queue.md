@@ -653,7 +653,6 @@
 - https://medium.com/@720922/a-developers-nightmare-story-of-a-simple-idor-and-some-poor-fixes-worth-1125-5ead70b0a1de, IDOR
 - https://0xpwn.wordpress.com/2022/07/23/how-i-made-300-github-repos-point-to-my-blog-using-azure-subdomains-takeover/, Subdomain-takeover
 - https://medium.com/@Steiner254/bounty-in-less-3-minutes-from-a-google-dork-54bd9bf3a650, Information-disclosure
-- https://infosecwriteups.com/un3xpected-dos-attack-on-profile-pictur3-b957979dcc7, DoS
 - https://www.rcesecurity.com/2022/07/WordPress-Transposh-Exploiting-a-Blind-SQL-Injection-via-XSS/, SQL-injection
 - https://www.yesnaveen.com/2022/07/permanently-crash-instagram-followers.html, DoS
 - https://medium.com/@IroquoisPliskin/how-i-was-able-to-take-over-a-support-chat-using-leaked-keys-d5c4922bb3d4, Information-disclosure
@@ -1177,7 +1176,6 @@
 - https://pullerjsecu.medium.com/how-i-was-able-to-turn-a-xss-into-a-account-takeover-ae0c478640e7, Web-cache-poisoning
 - https://web.archive.org/web/20210204093332/https://nhiephon1337.medium.com/1st-facebook-bug-bounty-disclose-pages-admin-to-mod-admin-of-group-c3161c22c858, Information-disclosure
 - https://amineaboud.medium.com/disclose-the-fb-profile-of-facebook-employees-who-create-official-announcement-messages-bug-76554068caf7, Information-disclosure
-- https://avanishpathak46.medium.com/an-account-takeover-vulnerability-due-to-response-manipulation-e23fe629bd1, Authentication-bypass
 - https://avanishpathak46.medium.com/an-interesting-account-takeover-vulnerability-a1fbec0e01a, IDOR
 - https://web.archive.org/web/20210201180254/https://www.cysek.org/post/bac-sxss, Stored-XSS
 - https://0xfabiof.github.io/stored-xss-tw/, Stored-XSS
@@ -1238,7 +1236,6 @@
 - https://mostafa-mano.medium.com/2-reflected-xss-in-razer-74783ae5ee53, Reflected-XSS
 - https://ozguralp.medium.com/turning-blind-error-based-sql-injection-into-an-exploitable-boolean-one-85d6be3ca23b, SQL-injection
 - https://daeken.svbtle.com/arbitrary-file-write-by-adb-pull, Arbitrary-file-write
-- https://medium.com/@logicbomb_1/tale-of-3-vulnerabilities-to-account-takeover-44ba631a0304, SSRF
 - https://rafi-ahamed.medium.com/exploiting-api-with-authtoken-3bea7b1fb6a9, Token-leak
 - https://medium.com/@prakashpanta1999/replying-comments-on-someones-livestream-from-page-is-posted-as-personal-identity-5fe79ef78b28, Logic-flaw
 - https://www.rcesecurity.com/2020/11/Smuggling-an-un-exploitable-xss/, HTTP-Request-Smuggling
@@ -1400,7 +1397,6 @@
 - https://medium.com/bugbountywriteup/weak-cryptography-leads-to-open-redirect-3fe052c12995, Open-redirect
 - https://blog.raphael.karger.is/articles/2020-05/CVE-2020-13693, Privilege-escalation
 - https://www.nahamsec.com/posts/my-expense-report-resulted-in-a-server-side-request-forgery-ssrf-on-lyft, SSRF
-- https://medium.com/bugbountywriteup/bypassing-waf-to-perform-xss-2d2f5a4367f3, XSS
 - https://medium.com/@kishoretk/how-i-was-able-to-see-identity-of-a-private-video-up-loader-via-rights-manager-responsible-39d996517b6e, Information-disclosure
 - https://medium.com/@abhishake100/clickjacking-to-account-takeover-97e286f26b95, Clickjacking
 - https://medium.com/@kminthein/stored-xss-in-microsoft-outlook-ebce9ff9e45b, Stored-XSS
@@ -1824,7 +1820,6 @@
 - https://medium.com/bugbountywriteup/from-tomcat-to-nt-authority-system-a79fa09c4abb, Default-credentials
 - https://medium.com/@carlosdanielgiovanella/this-is-how-can-i-spoof-any-sentry-log-infinitely-and-create-fake-error-logs-74406367f4ba, Content-spoofing
 - https://steemit.com/cryptocurrency/@mabdullah22/how-i-hacked-a-crypto-exchange-bug-bounty-writeup, IDOR
-- https://www.secjuice.com/logical-bug-at-edmodo/, Logic-flaw
 - https://blog.evanricafort.com/2018/08/blind-xss-in-chrome-experiments-google.html, Blind-XSS
 - https://medium.com/@friendly_/stored-xss-in-gameskinny-aa26c6a6ae40, Stored-XSS
 - https://blog.evanricafort.com/2018/08/blind-xss-in-chrome-experiments-google.html, Blind-XSS

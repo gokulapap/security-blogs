@@ -48,3 +48,4 @@
 - https://medium.com/@keshavaarav22/an-unexpected-bounty-email-bounce-issues-b9f24a35eb68
 - https://medium.com/@shaunak007/how-i-spammed-a-google-meet-but-for-good-8bc5b328f1bb
 - https://medium.com/@lukinha05farias/dns-recursion-leads-to-dos-attack-vivo-play-iptv-cve-2023-31893-b5ac45f38f
+- https://infosecwriteups.com/un3xpected-dos-attack-on-profile-pictur3-b957979dcc7
