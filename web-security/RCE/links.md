@@ -238,3 +238,4 @@
 - https://blog.scrt.ch/2018/08/24/remote-code-execution-on-a-facebook-server/
 - https://samcurry.net/hacking-apple/
 - https://www.zerodayinitiative.com/blog/2022/11/14/control-your-types-or-get-pwned-remote-code-execution-in-exchange-powershell-backend
+- https://swarm.ptsecurity.com/mybb-1-8-31-remote-code-execution-chain/

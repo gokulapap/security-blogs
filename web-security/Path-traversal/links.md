@@ -26,3 +26,4 @@
 - https://blog.hawkeyesecurity.com/2018/08/27/traversing-the-path-to-rce/
 - https://sec-consult.com/vulnerability-lab/advisory/path-traversal-vulnerability-in-payara-platform/
 - https://medium.com/bugbountywriteup/bugbounty-api-keys-leakage-source-code-disclosure-in-indias-largest-e-commerce-health-care-c75967392c7e
+- https://blog.sonarsource.com/zimbra-pre-auth-rce-via-unrar-0day/
