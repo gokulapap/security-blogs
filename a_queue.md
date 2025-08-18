@@ -1045,7 +1045,6 @@
 - https://ertugrull.medium.com/unprivileged-user-with-read-write-permission-to-user-access-can-escalate-their-role-to-admin-a217d2d280a8, Privilege-escalation
 - https://0xbadb00da.medium.com/account-takeover-via-stored-xss-with-arbitrary-file-upload-2774ec6cff51, Insecure-file-upload
 - https://cyberxplore.medium.com/how-we-are-able-to-hack-any-company-by-sending-message-including-facebook-google-microsoft-b7773626e447, Universal-XSS
-- https://infosecwriteups.com/crashing-your-linkedin-app-with-a-connection-request-257f9b484550, Application-level-DoS
 - https://blog.oversecured.com/Why-dynamic-code-loading-could-be-dangerous-for-your-apps-a-Google-example/, Arbitrary-file-write
 - https://infosecwriteups.com/authentication-bypass-easy-p1-in-10-minutes-54d5a2093e54, Authentication-bypass
 - https://fartademayur.medium.com/this-is-how-i-was-able-to-see-private-archived-posts-stories-of-users-on-instagram-without-de70ca39165c, IDOR
@@ -1207,7 +1206,6 @@
 - https://emanuel-beni.medium.com/stored-xss-on-product-description-high-400-2f078fd70fd2, Stored-XSS
 - https://njbooher.github.io/blog/cloudflare-workers-ip-spoofing, WAF-bypass
 - https://tmosh.medium.com/incident-response-during-christmas-33c7fabb1429, Subdomain-takeover
-- https://akshartank.medium.com/each-and-every-request-make-sense-4572b3205382, Privilege-escalation
 - https://savebreach.com/facebook-page-admin-identity-disclosure-through-document-edit-history/, Information-disclosure
 - https://ysamm.com/?p=588, IDOR
 - https://mohsinalibukc.medium.com/cross-domain-referrer-leakage-7873ada102ad, Cross-Domain-Referrer-Leakage
@@ -1236,7 +1234,6 @@
 - https://medium.com/@prakashpanta1999/replying-comments-on-someones-livestream-from-page-is-posted-as-personal-identity-5fe79ef78b28, Logic-flaw
 - https://www.rcesecurity.com/2020/11/Smuggling-an-un-exploitable-xss/, HTTP-Request-Smuggling
 - https://medium.com/@guhanraja/how-i-found-the-facebook-messenger-leaking-access-token-of-million-users-8ee4b3f1e5e3, Information-disclosure
-- https://samiparyal.medium.com/commenting-on-a-post-by-opening-it-via-pages-news-feed-goes-from-a-wrong-actor-i-e-56fab4cf5a91, Information-disclosure
 - https://medium.com/bugbountywriteup/evading-filters-to-perform-the-arbitrary-url-redirection-attack-cce628b9b6a0, Open-redirect
 - https://medium.com/bugbountywriteup/chaining-password-reset-link-poisoning-idor-account-information-leakage-to-achieve-account-bb5e0e400745, HTTP-header-injection
 - https://galnagli.com/DoD_IDOR/, IDOR
@@ -1272,7 +1269,6 @@
 - https://blog.long.lat/2020/09/16/exploiting-a-useless-cookie-based-xss-and-making-it-useful/, XSS
 - https://medium.com/@shahjerry33/sql-injection-remote-code-execution-double-p1-6038ca88a2ec, SQL-injection
 - https://medium.com/bugbountywriteup/how-i-hacked-redbus-an-online-bus-ticketing-application-24ef5bb083cd, LFI
-- https://infosecwriteups.com/how-response-manipulation-got-me-a-little-but-sweet-bounty-38b515ca0910, MFA-bypass
 - https://medium.com/@smilehackerofficial/xss-that-can-pay-your-bills-9377eff1fd0d, Reflected-XSS
 - https://medium.com/bugbountywriteup/unhiding-the-hidden-2ef44192c10b, Client-side-enforcement-of-server-side-security
 - https://medium.com/bugbountywriteup/the-importance-of-keeping-up-to-date-or-how-i-found-an-interesting-bug-thanks-to-a-tweet-2ec6ba9a5e1e, Stored-XSS
@@ -1823,7 +1819,6 @@
 - https://medium.com/@d0nut/exfiltration-via-css-injection-4e999f63097d, CSS-injection
 - https://blog.bentkowski.info/2018/07/vulnerability-in-hangouts-chat-aka-how.html, Open-redirect
 - https://medium.com/@mateusz.olejarka/finding-hidden-gems-vol-1-forging-oauth-tokens-using-discovered-client-id-and-client-secret-467f1cd21714, Information-disclosure
-- https://www.updatelap.com/2018/07/the-malicious-person-add-people-to-top.html, IDOR
 - https://opnsec.com/2018/07/into-the-borg-ssrf-inside-google-production-network/, SSRF
 - https://medium.com/@khaled.hassan/hacking-thousands-of-companies-through-their-helpdesk-8f180a8595ef, Account-takeover
 - https://www.ambionics.io/blog/prestashop-privilege-escalation, Privilege-escalation

@@ -248,3 +248,4 @@
 - https://www.seekurity.com/blog/general/badoo-hotornot-privacy-disclosure-feature-not-a-bug
 - https://hazemhussien99.wordpress.com/2023/07/05/recon-only-bugs-are-sweet/
 - https://vivekps143.medium.com/facebook-bug-bounty-finding-the-hidden-members-of-the-private-events-977dc1784ff9
+- https://samiparyal.medium.com/commenting-on-a-post-by-opening-it-via-pages-news-feed-goes-from-a-wrong-actor-i-e-56fab4cf5a91

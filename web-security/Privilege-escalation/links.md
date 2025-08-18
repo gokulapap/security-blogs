@@ -47,3 +47,4 @@
 - https://www.akamai.com/blog/security-research/important-outlook-vulnerability-bypass-windows-api
 - https://dewangpanchal98.medium.com/admin-access-799b50694965
 - https://medium.com/nassec-cybersecurity-writeups/an-interesting-story-of-privilege-escalation-1da021e7fd0
+- https://akshartank.medium.com/each-and-every-request-make-sense-4572b3205382
