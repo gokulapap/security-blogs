@@ -216,3 +216,4 @@
 - https://medium.com/@h4x0r_dz/paypal-idor-via-billing-agreement-token-closed-informative-payment-fraud-3245202fab38
 - https://hamzadzworm.medium.com/an-interesting-idor-that-allowed-me-to-see-all-projects-bounty-8cd74b5edf72
 - https://www.updatelap.com/2018/07/the-malicious-person-add-people-to-top.html
+- https://avanishpathak46.medium.com/an-interesting-account-takeover-vulnerability-a1fbec0e01a

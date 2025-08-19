@@ -27,3 +27,4 @@
 - https://medium.com/@honcbb/internet-safety-for-kids-families-trend-micro-dom-xss-db34c9bbb120
 - https://svennergr.github.io/writeups/google/ads_dom_xss/
 - https://medium.com/bugbountywriteup/dom-based-xss-or-why-you-should-not-rely-on-cloudflare-too-much-a1aa9f0ead7d
+- https://portswigger.net/research/finding-dom-polyglot-xss-in-paypal-the-easy-way

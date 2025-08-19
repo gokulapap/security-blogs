@@ -24,3 +24,4 @@
 - https://gauravnarwani.com/account-takeover-via-improper-input-validation/
 - https://security.lauritz-holtmann.de/post/sso-security-redirect-uri-ii/
 - https://medium.com/@0xgaurang/case-study-oauth-misconfiguration-leads-to-account-takeover-d3621fe8308b
+- https://medium.com/@madguyyy/bookmyshow-account-takeover-using-social-login-84178f116e42
