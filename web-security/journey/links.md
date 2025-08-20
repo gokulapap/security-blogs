@@ -15,3 +15,4 @@
 - https://medium.com/@marxchryz/how-i-gain-access-to-the-server-administration-of-a-million-dollar-company-14da68c7a9dd
 - https://medium.com/@harishhacker3010/how-i-hacked-google-to-read-files-from-their-servers-for-free-e0486a674912
 - https://medium.com/@gokulsspace/the-30000-bounty-affair-3f025ee6b834
+- https://medium.com/@arthbajpai277/beginners-guide-of-bug-bounty-by-arth-bajpai-5c6eb27c023

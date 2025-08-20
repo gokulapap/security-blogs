@@ -8,7 +8,6 @@
 - https://medium.com/@vickieli/learn-about-command-injection-attacks-1cd0d178fe65, injection
 - https://medium.com/@amit-lt/scenario-of-reflected-cross-site-scripting-vulnerability-a3ee189dd822, XSS
 - https://medium.com/@vignesh3004/open-redirect-vulnerability-in-igp-com-c1d76efc59b3, open-redirection
-- https://medium.com/@arthbajpai277/beginners-guide-of-bug-bounty-by-arth-bajpai-5c6eb27c023, journey
 - https://medium.com/@sumedh00/accessing-admin-dashboard-in-5-seconds-acee737eacfb, journey
 - https://medium.com/@whitehatcyber404/how-to-find-escalating-html-to-ssrf-i-instantly-got-the-hof-within-5minutes-805f173c34e4, ssrf
 - https://medium.com/@that-odd-introvert/django-security-xss-a7722cff2326, CVE
@@ -367,7 +366,6 @@
 - https://www.sonarsource.com/blog/openemr-remote-code-execution-in-your-healthcare-system/, RCE
 - https://www.akamai.com/blog/security-research/exploiting-critical-spoofing-vulnerability-microsoft-cryptoapi, Windows
 - https://medium.com/@_deshine_/easy-2000-race-condition-b4d093c9bc3c, Race-condition
-- https://frycos.github.io/vulns4free/2023/01/24/0days-united-nations.html, RCE
 - https://www.varonis.com/blog/okta-attack-vectors, Insecure-storage-of-sensitive-information
 - https://www.zerodayinitiative.com/blog/2023/1/23/activation-context-cache-poisoning-exploiting-csrss-for-privilege-escalation, Local-Privilege-Escalation
 - https://ph-hitachi.medium.com/how-i-hacked-scopely-using-sign-in-with-google-298a9c166ad, Account-takeover
@@ -453,7 +451,6 @@
 - https://attackshipsonfi.re/p/exploiting-cors-misconfigurations, CORS-misconfiguration
 - https://rashahacks.com/directory-enumeration-guide/, 40x-bypass
 - https://letshack.xyz/offensive/web-application/legally-hacking-a-government-satellite, Missing-authentication
-- https://www.rcesecurity.com/2022/11/from-zero-to-hero-part-1-bypassing-intel-dcms-authentication-cve-2022-33942/, Authentication-bypass
 - https://saligrama.io/blog/post/dodging-oauth-origin-restrictions/, OAuth
 - https://www.zerodayinitiative.com/blog/2022/11/22/cve-2022-40300-sql-injection-in-manageengine-privileged-access-management, SQL-injection
 - https://medium.com/@0xelkot/how-i-get-10-sqli-and-30-xss-via-automation-tool-cebbd9104479, SQL-injection
@@ -612,7 +609,6 @@
 - https://www.microsoft.com/security/blog/2022/08/19/uncovering-a-chromeos-remote-memory-corruption-vulnerability/, Memory-corruption
 - https://monke.ie/xss-by-javascript-overriding/, XSS
 - https://blog.78researchlab.com/b9c80d00-d935-43b1-8805-969000df301d, DoS
-- https://blog.orange.tw/2022/08/lets-dance-in-the-cache-destabilizing-hash-table-on-microsoft-iis.html, DoS
 - https://spaceraccoon.dev/exploiting-icalendar-properties-enterprise-applications/, XSS
 - https://medium.com/@tobydavenn/dom-xss-on-a-gov-domain-bypassing-waf-93daec67fda9, DOM-XSS
 - https://medium.com/@ashlyn.lau_17206/2fa-bypass-do-re-mi-cfcfc3775d2e, MFA-bypass
@@ -1465,7 +1461,6 @@
 - https://ysamm.com/?p=379, CSRF
 - https://medium.com/@Mr.Daman.Singh/how-i-found-3-ssrf-in-one-day-on-different-bug-bounty-targets-62e91b4268f8, SSRF
 - https://web.archive.org/web/20200513211717/https://mrss4nd0x.000webhostapp.com/Stored-XSS-on-groups-google-com.php, Stored-XSS
-- https://medium.com/@DarkMatterMatt/breaking-a-discord-channel-with-a-single-message-5095eb7604f1, DoS
 - https://web.archive.org/web/20200505142429/https://medium.com/@godofdarkness.msf/reflected-xss-in-at-t-7f1bdd10d8f7, Reflected-XSS
 - https://spaceraccoon.dev/a-tale-of-two-formats-exploiting-insecure-xml-and-zip-file-parsers-to-create-a, XXE
 - https://medium.com/@adonkidz7/my-first-bounty-from-google-d9f1f3f5787a, Self-XSS
