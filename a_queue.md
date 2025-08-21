@@ -313,7 +313,6 @@
 - https://m3ez.medium.com/how-i-found-dom-based-xss-on-microsoft-msrc-and-how-they-fixed-it-8b71a6020c82, DOM-XSS
 - https://parkerzanta.medium.com/how-do-i-take-over-another-user-subdomain-name-worth-c66bb0c3f2f7, Subdomain-takeover
 - https://github.blog/2023-02-23-the-code-that-wasnt-there-reading-memory-on-an-android-device-by-accident/, Kernel-hacking
-- https://sensepost.com/blog/2023/decoding-blazorpack/, Websockets
 - https://sl4x0.medium.com/how-i-got-into-nokia-hof-in-5-mins-99ce16583bd4, Information-disclosure
 - https://medium.com/@rramgattie/exploiting-parameter-pollution-in-golang-web-apps-daca72b28ce2, Authorization-flaw
 - https://medium.com/@knassar702/with-a-single-request-you-can-kill-any-gitea-server-1275c5f3b226, Application-level-DoS
@@ -637,7 +636,6 @@
 - https://canmustdie.medium.com/multiple-bugs-in-one-program-leads-to-1500-c35fcde06bc7, Privilege-escalation
 - https://medium.com/@the_null_kid/instagram-photo-was-present-in-data-backup-nearly-after-two-years-being-deleted-f0e4d6e108, Privacy-issue
 - https://www.zscaler.com/blogs/security-research/analysis-adobe-acrobat-reader-javascript-docprint-use-after-free, Memory-corruption
-- https://medium.com/@mohamedtarekq/how-i-get-full-account-takeover-via-stealing-actions-login-form-xss-9e50068c2b2d, XSS
 - https://medium.com/@whitehatcyber404/how-i-earned-150-in-2-minutes-html-injection-in-email-3f26f27d3822, HTML-injection
 - https://sagarsajeev.medium.com/business-logic-vulnerabilities-b4db2af08aaf, Logic-flaw
 - https://swarm.ptsecurity.com/researching-open-source-apps-for-xss-to-rce-flaws/, XSS
@@ -775,7 +773,6 @@
 - https://securecloud.blog/2022/04/09/msrc-join-security-research-write-up-azure-ad-consent-bypass-disclosure-with-kim-jamia-q1-2022/, Authorization-flaw
 - https://blog.fadyothman.com/metas-sparkar/, RCE
 - https://tarekbouali.com/posts/how-i-hacked-one-of-the-biggest-airlines-group-of-the-world/, IDOR
-- https://kuldeep.io/posts/nosql-injection-in-plain-sight/, NoSQL-injection
 - https://amit-lt.medium.com/hacked-nokia-with-reflected-cross-site-scripting-vulnerability-327daa8e62fb, Reflected-XSS
 - https://amit-lt.medium.com/hacked-instagram-handle-of-samsung-cb1a35990a90, Broken-link-hijacking
 - https://ph-hitachi.medium.com/view-friends-list-of-any-users-using-view-as-facebook-bug-bounty-edeb6af5640b, Logic-flaw
@@ -819,7 +816,6 @@
 - https://github.com/Metnew/write-ups/tree/main/rce-github-desktop-2.9.3, RCE
 - https://web.archive.org/web/20220220072733/https://bloggerrando.blogspot.com/2022/02/stored-xss-on-messagealibabacom-alibaba.html, Stored-XSS
 - https://medium.com/@720922/recon-and-youtube-is-that-a-thing-5523b48c32e3, Subdomain-takeover
-- https://web.archive.org/web/20220217212342/https://castilho101.github.io/posts/cve-2022-0478-woocommerce-event-manager-plugin-sql-injection/, SQL-injection
 - https://swarm.ptsecurity.com/hunting-for-bugs-in-vmware-view-planner-and-vrealize-business-for-cloud/, RCE
 - https://medium.com/@yaala/trim-private-live-videos-and-access-them-a331447cc82a, IDOR
 - https://www.iot-inspector.com/blog/advisory-western-digital-my-cloud-pro-series-pr4100-rce/, RCE
@@ -1337,7 +1333,6 @@
 - https://medium.com/@hgreal/why-i-paid-3-5k-to-become-a-tld-registrar-reseller-when-doing-bug-bounty-d9d407911dce, XXE
 - https://pethuraj.com/blog/bbc-bug-bounty-write-up-xss-vulnerability/, Reflected-XSS
 - https://medium.com/@noneofyou/how-i-got-hall-of-fame-in-microsoft-9b507dec3860, XSS
-- https://thehackerish.com/bug-bounty-write-up-from-ssrf-to-4000/, SSRF
 - https://fadhilthomas.github.io/post/bug-bounty-tokopedia-03/, IDOR
 - https://ysamm.com/?p=479, Information-disclosure
 - https://infosecwriteups.com/story-of-a-2-5k-bounty-ssrf-on-zimbra-led-to-dump-all-credentials-in-clear-text-6fe826005ccc, SSRF

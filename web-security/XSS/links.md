@@ -254,3 +254,4 @@
 - https://portswigger.net/blog/xss-in-hidden-input-fields
 - https://noobe.io/articles/2019-10/xss-to-account-takeover
 - https://medium.com/bugbountywriteup/bypassing-waf-to-perform-xss-2d2f5a4367f3
+- https://medium.com/@mohamedtarekq/how-i-get-full-account-takeover-via-stealing-actions-login-form-xss-9e50068c2b2d

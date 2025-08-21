@@ -1,3 +1,4 @@
 - https://research.checkpoint.com/2023/checkmate/
 - https://labs.nettitude.com/blog/exploiting-onlyoffice-web-sockets-for-unauthenticated-remote-code-execution/
 - https://labs.nettitude.com/blog/exploiting-onlyoffice-web-sockets-for-unauthenticated-remote-code-execution/
+- https://sensepost.com/blog/2023/decoding-blazorpack/
