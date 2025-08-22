@@ -217,3 +217,4 @@
 - https://hamzadzworm.medium.com/an-interesting-idor-that-allowed-me-to-see-all-projects-bounty-8cd74b5edf72
 - https://www.updatelap.com/2018/07/the-malicious-person-add-people-to-top.html
 - https://avanishpathak46.medium.com/an-interesting-account-takeover-vulnerability-a1fbec0e01a
+- https://hopesamples.blogspot.com/2022/09/group-experts-pending-expertise-request.html

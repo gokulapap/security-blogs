@@ -21,3 +21,4 @@
 - https://medium.com/@saamux/full-account-takeover-through-cors-with-connection-sockets-179133384815
 - https://lutfumertceylan.com.tr/posts/ato-and-data-leakage-via-cors-misc/
 - https://jowin922.medium.com/cors-misconfig-on-out-of-scope-domain-bug-bounty-writeup-300-usd-reward-8a9e420d21e0
+- https://blog.witcoat.com/2018/05/30/stealing-10000-yahoo-cookies/

@@ -30,3 +30,4 @@
 - https://infosecwriteups.com/bragging-rights-killing-file-uploads-softly-fba35a4e485a
 - https://blog.evanricafort.com/2015/12/arbitary-file-upload-vulnerability-in.html
 - https://anotherhackerblog.com/exploiting-file-uploads-pt-2/
+- https://medium.com/@mohdaltaf163/uploading-backdoor-for-fun-and-profit-rce-db-cred-p1-2cdaa00e2125

@@ -18,3 +18,4 @@
 - https://yaseenzubair.medium.com/blind-xss-in-email-field-1000-bounty-b19b25a23236
 - http://www.kernelpicnic.net/2017/05/29/Pivoting-from-blind-SSRF-to-RCE-with-Hashicorp-Consul.html
 - https://hamzadzworm.medium.com/5000-for-apple-stored-xss-and-another-blind-xss-still-under-review-e9f6f5a76eb1
+- https://medium.com/@feribytex/blind-xss-fired-on-admin-panel-worth-2000-abe2c83279b5
