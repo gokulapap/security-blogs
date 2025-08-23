@@ -240,3 +240,5 @@
 - https://www.zerodayinitiative.com/blog/2022/11/14/control-your-types-or-get-pwned-remote-code-execution-in-exchange-powershell-backend
 - https://swarm.ptsecurity.com/mybb-1-8-31-remote-code-execution-chain/
 - https://frycos.github.io/vulns4free/2023/01/24/0days-united-nations.html
+- https://haxolot.com/posts/2021/moodle_pre_auth_shibboleth_rce_part1/
+- https://palant.info/2020/06/22/exploiting-bitdefender-antivirus-rce-from-any-website/

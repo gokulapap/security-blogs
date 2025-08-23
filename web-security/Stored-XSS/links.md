@@ -92,3 +92,5 @@
 - https://maordayanofficial.medium.com/look-at-what-i-found-in-comodo-57d62af2f263
 - https://blog.it-securityguard.com/a-tale-of-7-vulnerabilities-paypal-bug-bounty/
 - https://r0.haxors.org/posts?id=20
+- https://blog.it-securityguard.com/bugbounty-sleeping-stored-google-xss-awakens-a-5000-bounty/
+- https://blog.it-securityguard.com/bugbounty-paypal-stored-xss-security-bypass/
