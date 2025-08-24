@@ -130,7 +130,6 @@
 - https://orca.security/resources/blog/bad-build-google-cloud-build-potential-supply-chain-attack-vulnerability/, Cloud
 - https://www.trustedsec.com/blog/modeling-malicious-code-hacking-in-3d/, Phishing
 - https://medium.com/workday-engineering/exploiting-jmeter-via-rmi-e8e12392bba8, Insecure-deserialization
-- https://d4ly.medium.com/an-interesting-rce-on-a-synack-red-team-target-516edb63fd04, RCE
 - https://www.rapid7.com/blog/post/2023/07/11/cve-2023-29298-adobe-coldfusion-access-control-bypass/, Broken-Access-Control
 - https://dimazarno.medium.com/unexpected-zero-in-mysql-injection-511f632714b0, SQL-injection
 - https://code-white.com/blog/2023-07-from-blackbox-dotnet-remoting-to-rce/, RCE
@@ -239,7 +238,6 @@
 - https://www.pingsafe.com/blog/linkedin-vulnerability-delete-any-post, IDOR
 - https://starlabs.sg/advisories/23/23-2017/, SSTI
 - https://giraffesecurity.dev/posts/google-remote-code-execution/, Dependency-confusion
-- https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/cve-2023-29383-abusing-linux-chfn-to-misrepresent-etc-passwd/, Local-Privilege-Escalation
 - https://www.rcesecurity.com/2023/04/securepwn-part-2-leaking-remote-memory-contents-cve-2023-22897/, Memory-leak
 - https://www.reversemode.com/2023/04/losing-control-over-schneiders.html, RCE
 - https://www.rcesecurity.com/2023/04/securepwn-part-1-bypassing-securepoint-utms-authentication-cve-2023-22620/, Authentication-bypass
@@ -832,7 +830,6 @@
 - https://sanyamchawla1999.medium.com/my-experience-of-hacking-the-dutch-government-8c219c61c795, XSS
 - https://medium.com/@damaidec/idor-vulnerability-on-invoice-and-weak-password-reset-leads-to-account-take-over-603b42143a8c, IDOR
 - https://hetroublemakr.medium.com/how-i-approached-dependency-confusion-272b46f66907, Dependency-confusion
-- https://github.com/httpvoid/writeups/blob/main/Hacking-Google-Drive-Integrations.md, SSRF
 - https://www.offensive-security.com/offsec/microsoft-onedrive-macos-local-privesc/, Local-Privilege-Escalation
 - https://lohigowda.medium.com/paytm-broken-link-hijacking-11624e4e9eef, Broken-link-hijacking
 - https://docs.google.com/document/d/1-TTCS6fS6kvFUkoJmX4Udr-czQ79lSUVXiWsiAED_bs/edit, RCE
@@ -1382,7 +1379,6 @@
 - https://philippeharewood.com/change-any-link-at-https-fbwat-ch/, Authorization-flaw
 - https://healdb.tech/blog/teradici.html, Missing-authentication
 - https://medium.com/csis-techblog/cve-2020-1088-yet-another-arbitrary-delete-eop-a00b97d8c3e2, Local-Privilege-Escalation
-- https://www.modzero.com/modlog/archives/2020/05/18/how_netgear_meshed_up_wifi_for_business/index.html, Weak-crypto
 - https://web.archive.org/web/20200616051351/https://hazana.xyz/posts/cors-blimey/, CORS-misconfiguration
 - https://medium.com/@bathinivijaysimhareddy/tale-of-account-takeovers-part-2-9abf62de4ca3, Account-takeover
 - https://www.bad5ect0r.sh/posts/stored-xss-leads-to-plaintext-password-disclosure/, Stored-XSS
@@ -1630,7 +1626,6 @@
 - https://medium.com/@kunal94/web-cache-deception-to-api-endpoint-attack-using-cached-token-header-b01a604a5ccd, Web-cache-deception
 - https://web.archive.org/web/20200929013706/https://www.mohamedharon.com/2019/04/apache-strust-rce.html, RCE
 - https://medium.com/@mrnikhilsri/unauthenticated-account-takeover-through-http-leak-33386bb0ba0b, HTML-injection
-- https://medium.com/@jayateerthag/multiple-xss-in-skype-com-81d65919ed24, XSS
 - https://www.rcesecurity.com/2019/04/dell-kace-k1000-remote-code-execution-the-story-of-bug-k1-18652/, RCE
 - https://www.valbrux.it/blog/2019/04/04/google-ads-information-disclosure-via-null-pointer-exception/, Information-disclosure
 - http://archive.ingredous.com/notes/downnotifer-ssrf/, SSRF

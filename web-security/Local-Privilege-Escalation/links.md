@@ -73,3 +73,4 @@
 - https://www.rapid7.com/blog/post/2022/07/19/cve-2022-30526-fixed-zyxel-firewall-local-privilege-escalation/
 - https://theevilbit.github.io/posts/cve-2022-32929/
 - https://markus-krell.de/admin-capabilities-around-your-ears/
+- https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/cve-2023-29383-abusing-linux-chfn-to-misrepresent-etc-passwd/

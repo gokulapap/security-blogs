@@ -2,3 +2,4 @@
 - https://labs.withsecure.com/advisories/microsoft-office-365-message-encryption-insecure-mode-of-operation
 - https://donjon.ledger.com/kaspersky-password-manager/
 - https://evait.medium.com/pentest-story-empirum-password-decryption-3a9e2530aba7
+- https://www.modzero.com/modlog/archives/2020/05/18/how_netgear_meshed_up_wifi_for_business/index.html

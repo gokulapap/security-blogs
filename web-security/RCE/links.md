@@ -242,3 +242,4 @@
 - https://frycos.github.io/vulns4free/2023/01/24/0days-united-nations.html
 - https://haxolot.com/posts/2021/moodle_pre_auth_shibboleth_rce_part1/
 - https://palant.info/2020/06/22/exploiting-bitdefender-antivirus-rce-from-any-website/
+- https://d4ly.medium.com/an-interesting-rce-on-a-synack-red-team-target-516edb63fd04
