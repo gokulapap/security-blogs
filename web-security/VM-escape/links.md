@@ -1,0 +1,1 @@
+- https://trenchant.io/pwn2own-2021-parallels-desktop-guest-to-host-escape/
