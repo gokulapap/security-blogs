@@ -8,3 +8,4 @@
 - https://feed.bugs.xdavidhu.me/bugs/0011
 - https://medium.com/@quelperlado/facebook-room-deep-linking-vulnerability-allow-malicious-user-to-know-the-code-for-anyones-4761b93481f1
 - https://www.microsoft.com/security/blog/2022/08/31/vulnerability-in-tiktok-android-app-could-lead-to-one-click-account-hijacking/
+- https://servicenger.com/mobile/instagram-vulnerability-turn-off-message-requests-deeplink/

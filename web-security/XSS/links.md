@@ -256,3 +256,5 @@
 - https://medium.com/bugbountywriteup/bypassing-waf-to-perform-xss-2d2f5a4367f3
 - https://medium.com/@mohamedtarekq/how-i-get-full-account-takeover-via-stealing-actions-login-form-xss-9e50068c2b2d
 - https://medium.com/@jayateerthag/multiple-xss-in-skype-com-81d65919ed24
+- https://frichetten.com/blog/xss_in_aws_console/
+- https://medium.com/@sudhanshur705/story-about-my-first-bug-bounty-9fe710be8241

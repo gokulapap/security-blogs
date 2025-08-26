@@ -396,7 +396,6 @@
 - https://labs.nettitude.com/blog/cve-2022-25026-cve-2022-25027-vulnerabilities-in-rocket-trufusion-enterprise/, Authentication-bypass
 - https://samcurry.net/web-hackers-vs-the-auto-industry/, Account-takeover
 - https://acut3.github.io/bug-bounty/2023/01/03/fetch-diversion.html, DOM-XSS
-- https://servicenger.com/mobile/instagram-vulnerability-turn-off-message-requests-deeplink/, Insecure-deeplink
 - https://yaseenzubair.medium.com/web-cache-poisoning-worth-it-e7c6d88797b1, Web-cache-poisoning
 - https://0xlittlespidy.medium.com/indias-aadhar-card-source-code-disclosure-via-exposed-svn-wc-db-c05519ea7761, Source-code-disclosure
 - https://medium.com/@querylab/bypass-premium-account-payment-getpocket-d813b249687c, Payment-bypass
@@ -538,7 +537,6 @@
 - https://medium.com/@jacopotediosi/worldwide-server-side-cache-poisoning-on-all-akamai-edge-nodes-50k-bounty-earned-f97d80f3922b, Web-cache-poisoning
 - https://carvesystems.com/news/xss-through-dhcp-how-attackers-use-standards/, XSS
 - https://daturamater.medium.com/a-breach-on-patreon-and-their-elusive-bounty-program-5e7ea62dc738, Payment-bypass
-- https://starlabs.sg/blog/2022/09-apple-coretext-an-unexpected-journey-to-learn-about-failure/, Memory-corruption
 - https://nebuchadnezzar-megolm.github.io, Cryptographic-issues
 - https://www.synack.com/blog/exploits-explained-5-unusual-authentication-bypass-techniques/, Authentication-bypass
 - https://webs3c.com/t/from-nothing-to-aws-credentials/220, SSRF
@@ -1036,7 +1034,6 @@
 - https://vedanttekale20.medium.com/story-of-my-first-cash-bounty-on-hackerone-acad282ae962, SSRF
 - https://bloggerrando.blogspot.com/2021/06/how-many-likes-and-dislikes-that-was.html, Broken-Access-Control
 - https://medium.com/@abhishake21/bypassing-lfi-local-file-inclusion-ebf4274e7027, LFI
-- https://frichetten.com/blog/xss_in_aws_console/, XSS
 - https://infosecwriteups.com/admin-panel-pwned-89db333f3836, Information-disclosure
 - https://justintaft.com/blog/2021/06/01/cve-2021-29084-synology-crlf-unauthenticated-file-downloads, CRLF-injection
 - https://master-sec.medium.com/the-beauty-of-chaining-client-side-bugs-759e1091eabf, CRLF-injection
@@ -1507,7 +1504,6 @@
 - https://geleta.eu/2019/my-first-ssrf-using-dns-rebinfing/, SSRF
 - https://web.archive.org/web/20200604001225/https://hackking.net/threads/how-i-hacked-dutch-government-in-5-minutes-twitter-account-takeover.20/, Broken-link-hijacking
 - https://medium.com/bugbountywriteup/5-000-usd-xss-issue-at-avast-desktop-antivirus-for-windows-yes-desktop-1e99375f0968, Reflected-XSS
-- https://medium.com/@Hossam.Mesbah/cross-site-request-forgery-critical-exploitable-in-infected-site-a271aedeed2f, CSRF
 - https://wwws.nightwatchcybersecurity.com/2019/10/24/nfc-beaming-bypasses-security-controls-in-android-cve-2019-2114/, NFC
 - https://medium.com/@danangtriatmaja/bug-bounty-flaw-in-authentication-get-hall-of-fame-google-6196726ee5b9, Authentication-flaw
 - https://philippeharewood.com/1-800-flowers-credentials-and-message-log-leak-via-facebook-com-facebook/, AWS-misconfiguration
@@ -1706,7 +1702,6 @@
 - http://zhchbin.github.io/2018/12/03/Hijack-the-JS-File-of-Uber-s-Website/, JS-file-hijacking
 - https://medium.com/tenable-techblog/remotely-exploiting-zoom-meetings-5a811342ba1d, Logic-flaw
 - https://chainlover.blogspot.com/2018/11/love-story-of-account-takeover-chaining.html, Host-header-injection
-- https://medium.com/@sudhanshur705/story-about-my-first-bug-bounty-9fe710be8241, XSS
 - https://medium.com/@yassergersy/exploiting-post-message-to-steal-users-cookies-7df43a00289a, postMessage
 - https://web.archive.org/web/20191221105442/https://medium.com/bugbountywriteup/broken-authentication-bug-bounty-5c941a4a5f48, Session-management-issue
 - https://medium.com/@vishnu0002/instagram-multi-factor-authentication-bypass-924d963325a1, MFA-bypass

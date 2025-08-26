@@ -60,3 +60,4 @@
 - https://jfrog.com/blog/cve-2021-38297-analysis-of-a-go-web-assembly-vulnerability/
 - https://blog.coffinsec.com/0day/2023/05/31/minidlna-heap-overflow-rca.html
 - https://github.blog/2022-07-27-corrupting-memory-without-memory-corruption/
+- https://starlabs.sg/blog/2022/09-apple-coretext-an-unexpected-journey-to-learn-about-failure/
