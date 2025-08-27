@@ -18,3 +18,4 @@
 - https://medium.com/@jodyritonga/how-i-get-100-in-just-10-minutes-b018b28645ce
 - https://medium.com/@balook/creative-android-pin-bypass-with-race-conditon-63a8bc3f0e31
 - https://medium.com/@vincenz/exploiting-a-race-condition-vulnerability-3f2cb387a72
+- https://medium.com/@pravinponnusamy/race-condition-vulnerability-found-in-bug-bounty-program-573260454c43

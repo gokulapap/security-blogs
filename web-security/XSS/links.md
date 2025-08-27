@@ -258,3 +258,4 @@
 - https://medium.com/@jayateerthag/multiple-xss-in-skype-com-81d65919ed24
 - https://frichetten.com/blog/xss_in_aws_console/
 - https://medium.com/@sudhanshur705/story-about-my-first-bug-bounty-9fe710be8241
+- https://certik.io/blog/technology/vulnerability-electron-based-application-malicious-code-execution

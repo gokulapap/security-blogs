@@ -117,3 +117,4 @@
 - https://medium.com/@logicbomb_1/tale-of-3-vulnerabilities-to-account-takeover-44ba631a0304
 - https://thehackerish.com/bug-bounty-write-up-from-ssrf-to-4000/
 - https://github.com/httpvoid/writeups/blob/main/Hacking-Google-Drive-Integrations.md
+- https://coffeejunkie.me//120-Days-Of-Frequent-Hacking/
