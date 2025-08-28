@@ -218,3 +218,4 @@
 - https://www.updatelap.com/2018/07/the-malicious-person-add-people-to-top.html
 - https://avanishpathak46.medium.com/an-interesting-account-takeover-vulnerability-a1fbec0e01a
 - https://hopesamples.blogspot.com/2022/09/group-experts-pending-expertise-request.html
+- https://medium.com/@YoKoKho/idor-at-private-bug-bounty-program-that-could-leads-to-personal-data-leaks-d2536d026bf5

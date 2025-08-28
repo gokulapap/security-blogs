@@ -492,7 +492,6 @@
 - https://medium.com/@dsonbacker/a-250-css-injection-my-first-finding-on-hackerone-8863ad253560, CSS-injection
 - https://blog.nietaanraken.nl/posts/aur-packages-expired-domains/, Subdomain-takeover
 - https://checkmarx.com/blog/attacking-the-software-supply-chain-with-a-simple-rename/, Repojacking
-- https://medium.com/@raymond-lind/stored-xss-to-cookie-exfiltration-2cbca6a8c7f0, Stored-XSS
 - https://starlabs.sg/blog/2022/10-sharepoint-post-authenticated-ssrf-vulnerability/, SSRF
 - https://web.archive.org/web/20221025185418/https://bergee.it/blog/chaining-multiple-vulnerabilities-for-credential-stealing/, CSRF
 - https://mechboy.medium.com/support-supports-a-hacker-be9931104923, Social-engineering
@@ -1149,7 +1148,6 @@
 - https://web.archive.org/web/20210201180254/https://www.cysek.org/post/bac-sxss, Stored-XSS
 - https://0xfabiof.github.io/stored-xss-tw/, Stored-XSS
 - https://www.shawarkhan.com/2021/01/analysing-crash-messages-to-achieve.html, OS-command-injection
-- https://logicbomb.medium.com/otp-bypass-account-takeover-to-admin-panel-ft-header-injection-16f2982a0136, OTP-bypass
 - https://medium.com/bugbountywriteup/bragging-rights-part-1-short-story-of-a-bug-wave-dbb88f48b604, IDOR
 - https://bugbountyhunter.medium.com/500-for-no-rate-limit-on-forgot-password-page-d534d1d750db, Lack-of-rate-limiting
 - https://notifybugme.medium.com/finding-ssrf-by-full-automation-7d2680091d68, SSRF
@@ -1684,7 +1682,6 @@
 - https://medium.com/bugbountywriteup/subdomain-takeover-new-level-43f88b55e0b2, Subdomain-takeover
 - https://samcurry.net/reading-asp-secrets-for-17000/, Local-file-disclosure
 - https://medium.com/@ahmedasherif/accessing-voip-internal-service-via-port-8009-routing-traffic-through-local-apache-proxy-54a4ff539c5f, Information-disclosure
-- https://nahoragg.github.io/bugbounty/2018/12/15/Self-XSS-to-Interesting-Stored-XSS.html, Stored-XSS
 - https://blog.scrt.ch/2018/08/24/remote-code-execution-on-a-facebook-server/, LFI
 - https://mohemiv.com/all/exploiting-xxe-with-local-dtd-files/, XXE
 - https://medium.com/bugbountywriteup/open-redirect-developers-are-lazy-or-maybe-busy-6c51718b10e4, Open-redirect
@@ -1820,7 +1817,6 @@
 - https://medium.com/bugbountywriteup/how-we-got-lfi-in-apache-drill-recon-like-a-boss-6f739a79d87d, LFI
 - https://medium.com/@prial261/story-of-a-stored-xss-bypass-26e6659f807b, Stored-XSS
 - https://medium.com/@kankrale.rahul/whatsapp-users-ip-disclosure-with-link-preview-feature-39a477f54fba, Information-disclosure
-- https://medium.com/@YoKoKho/idor-at-private-bug-bounty-program-that-could-leads-to-personal-data-leaks-d2536d026bf5, IDOR
 - https://medium.com/@vis_hacker/how-i-got-stored-xss-using-file-upload-5c33e19df51e, Stored-XSS
 - https://medium.com/bugbountywriteup/bypassing-captcha-like-a-boss-d0edcc3a1c1, Captcha-bypass
 - https://medium.com/@flex0geek/how-i-bypassed-ebay-process-on-redirect-98739384b4bc, Open-redirect
@@ -1978,7 +1974,6 @@
 - https://thezerohack.com/hacking-facebook-pages, Authorization-flaw
 - https://josipfranjkovic.blogspot.com/2015/07/the-easiest-bug-bounties-i-have-ever-won.html, IDOR
 - https://blog.it-securityguard.com/bugbounty-reflected-cross-site-scripting-billmelater/, Reflected-XSS
-- https://ahussam.me/Flickr-CSRF/, XSRF
 - https://blog.it-securityguard.com/bug-bounty-prezi-map-prezi-com-path-traversal/, Path-traversal
 - https://maustin.net/google_docs, Clickjacking
 - https://0day.click/recipe/2014-02-22-github/, RCE

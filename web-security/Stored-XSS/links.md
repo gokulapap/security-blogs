@@ -94,3 +94,5 @@
 - https://r0.haxors.org/posts?id=20
 - https://blog.it-securityguard.com/bugbounty-sleeping-stored-google-xss-awakens-a-5000-bounty/
 - https://blog.it-securityguard.com/bugbounty-paypal-stored-xss-security-bypass/
+- https://nahoragg.github.io/bugbounty/2018/12/15/Self-XSS-to-Interesting-Stored-XSS.html
+- https://medium.com/@raymond-lind/stored-xss-to-cookie-exfiltration-2cbca6a8c7f0
