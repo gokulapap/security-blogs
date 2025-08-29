@@ -515,7 +515,6 @@
 - https://medium.com/@iknowhatodo/fall-account-takeover-via-amazon-cognito-misconfiguration-ba5975b06c24, IDOR
 - https://www.horizon3.ai/fortios-fortiproxy-and-fortiswitchmanager-authentication-bypass-technical-deep-dive-cve-2022-40684, Authentication-bypass
 - https://mr23r0.medium.com/code-flaws-leads-to-org-admin-account-takeover-ad9515a96eab, Privilege-escalation
-- https://blog.yeswehack.com/yeswerhackers/web-application-firewall-bypass/, WAF-bypass
 - https://www.oxeye.io/blog/vm2-sandbreak-vulnerability-cve-2022-36067, RCE
 - https://medium.com/@protostar0/hacking-banks-broken-access-control-vulnerability-in-banking-application-part-i-c442ed5ae170, Broken-Access-Control
 - https://www.pentagrid.ch/de/blog/reflected-xss-vulnerability-in-crealogix-ebics-implementation/, Reflected-XSS
@@ -591,7 +590,6 @@
 - https://blog.sonarsource.com/securing-developer-tools-argument-injection-in-vscode/, Argument-injection
 - https://redrays.io/cve-2020-2733-jd-edwards/, Information-disclosure
 - https://whereisk0shl.top/post/break-me-out-of-sandbox-in-old-pipe-cve-2022-22715-windows-dirty-pipe, Local-Privilege-Escalation
-- https://medium.com/@mullangisashank/how-a-port-scan-got-me-nokia-hall-of-fame-6f9b65e920e3, Missing-authentication
 - https://hackingguy.medium.com/failed-coding-assessment-to-remote-code-execution-a-case-study-part-1-1778934b3b34, RCE
 - https://www.michaelhorowitz.com/VPNs.on.iOS.are.scam.php, Privacy-issue
 - https://www.bugbounty.info/2022/08/never-underestimate-power-of-open.html, Open-redirect
@@ -693,7 +691,6 @@
 - https://portswigger.net/research/bypassing-csp-with-dangling-iframes, CSP-bypass
 - https://medium.com/@janijay007/how-i-was-able-to-see-likes-and-dislikes-count-which-is-hidden-by-victim-youtube-1-fa9cfe7cce7d, Logic-flaw
 - https://medium.com/tenable-techblog/microsoft-azure-synapse-pwnalytics-87c99c036291, Privilege-escalation
-- https://haxatron.gitbook.io/vulnerability-research/vr2, SSRF
 - https://infosecwriteups.com/how-i-found-a-critical-bug-in-instagram-and-got-49500-bounty-from-facebook-626ff2c6a853, IDOR
 - https://www.shielder.com/advisories/autodesk-fusion-import-svg-blind-xxe/, XXE
 - https://jfrog.com/blog/denial-of-service-vulnerability-in-envoy-proxy-cve-2022-29225/, Zip-bomb
@@ -1118,7 +1115,6 @@
 - https://shubhamchaskar.com/ato-through-pe/, Privilege-escalation
 - https://github.com/champtar/blog/tree/main/K8S_MITM_LoadBalancer_ExternalIPs, MiTM
 - https://infosecwriteups.com/somebody-call-the-plumber-graphql-is-leaking-again-654bf1a38d26, Information-disclosure
-- https://saajan.bhujel.cyou/blog/web/2021-02-26-password-reset-token-leak-via-x-forwarded-host, Host-header-injection
 - https://web-in-security.blogspot.com/2021/02/security-and-privacy-of-social-logins-part2.html, DOM-XSS
 - https://zdresearch.com/rce-on-a-laravel-private-program/, RCE
 - https://ysamm.com/?p=640, Information-disclosure
@@ -1318,7 +1314,6 @@
 - https://infosecwriteups.com/story-of-a-2-5k-bounty-ssrf-on-zimbra-led-to-dump-all-credentials-in-clear-text-6fe826005ccc, SSRF
 - https://embracethered.com/blog/posts/2020/aws-xss-cross-site-scripting-vulnerability/, DOM-XSS
 - https://0xsha.io/posts/zombievpn-breaking-that-internet-security, RCE
-- https://lutfumertceylan.com.tr/posts/stored-xss-with-password-recovery-page/, Stored-XSS
 - https://web.archive.org/web/20200629033551/https://blogs.ad3sh.com/2020/06/api-endpoint-leads-to-account-takeover.html, Exposed-token-generation-endpoint
 - https://blog.assetnote.io/2020/06/29/subdomain-takeover-to-account-takeover/, Subdomain-takeover
 - https://medium.com/@hgreal/how-i-hacked-a-bank-their-application-using-it-for-hacking-another-bank-company-10-k-xss-b9cc801a675, XSS

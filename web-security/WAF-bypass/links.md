@@ -9,3 +9,4 @@
 - https://blog.sicuranext.com/aws-waf-bypass/
 - https://spenkk.github.io/bugbounty/Local-File-Inclusion/
 - https://caesarevan23.medium.com/ssrf-external-service-interaction-for-find-real-ip-cloudflare-and-leads-to-sql-injection-c22c02243299
+- https://blog.yeswehack.com/yeswerhackers/web-application-firewall-bypass/
