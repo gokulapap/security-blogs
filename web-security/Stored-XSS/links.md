@@ -97,3 +97,4 @@
 - https://nahoragg.github.io/bugbounty/2018/12/15/Self-XSS-to-Interesting-Stored-XSS.html
 - https://medium.com/@raymond-lind/stored-xss-to-cookie-exfiltration-2cbca6a8c7f0
 - https://lutfumertceylan.com.tr/posts/stored-xss-with-password-recovery-page/
+- https://0xfabiof.github.io/stored-xss-tw/

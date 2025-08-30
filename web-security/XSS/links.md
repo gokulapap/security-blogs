@@ -259,3 +259,5 @@
 - https://frichetten.com/blog/xss_in_aws_console/
 - https://medium.com/@sudhanshur705/story-about-my-first-bug-bounty-9fe710be8241
 - https://certik.io/blog/technology/vulnerability-electron-based-application-malicious-code-execution
+- https://amakki.me/stored-xss-by-bypassing-signature-61ebd83ece6
+- https://medium.com/@hgreal/how-i-hacked-a-bank-their-application-using-it-for-hacking-another-bank-company-10-k-xss-b9cc801a675
