@@ -98,3 +98,4 @@
 - https://medium.com/@raymond-lind/stored-xss-to-cookie-exfiltration-2cbca6a8c7f0
 - https://lutfumertceylan.com.tr/posts/stored-xss-with-password-recovery-page/
 - https://0xfabiof.github.io/stored-xss-tw/
+- https://medium.com/@bag0zathev2/csrf-stored-xss-to-leading-to-full-account-takeover-39e9a79533e3

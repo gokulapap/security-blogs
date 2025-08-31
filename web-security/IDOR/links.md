@@ -219,3 +219,4 @@
 - https://avanishpathak46.medium.com/an-interesting-account-takeover-vulnerability-a1fbec0e01a
 - https://hopesamples.blogspot.com/2022/09/group-experts-pending-expertise-request.html
 - https://medium.com/@YoKoKho/idor-at-private-bug-bounty-program-that-could-leads-to-personal-data-leaks-d2536d026bf5
+- https://philippeharewood.com/view-the-bug-subscriptions-for-any-oculus-user/
