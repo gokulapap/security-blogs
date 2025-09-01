@@ -87,3 +87,4 @@
 - https://corben.io/blog/a-simple-sql-injection-in-an-air-force-website
 - https://web.archive.org/web/20220217212342/https://castilho101.github.io/posts/cve-2022-0478-woocommerce-event-manager-plugin-sql-injection/
 - https://www.gosecure.net/blog/2021/10/19/a-scientific-notation-bug-in-mysql-left-aws-waf-clients-vulnerable-to-sql-injection/
+- https://www.rcesecurity.com/2022/07/WordPress-Transposh-Exploiting-a-Blind-SQL-Injection-via-XSS/

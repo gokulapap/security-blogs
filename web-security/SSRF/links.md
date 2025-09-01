@@ -119,3 +119,4 @@
 - https://github.com/httpvoid/writeups/blob/main/Hacking-Google-Drive-Integrations.md
 - https://coffeejunkie.me//120-Days-Of-Frequent-Hacking/
 - https://haxatron.gitbook.io/vulnerability-research/vr2
+- https://www.shielder.com/advisories/cisco-broadworks-commpilot-ssrf/

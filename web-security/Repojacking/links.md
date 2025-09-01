@@ -1,2 +1,3 @@
 - https://blog.nietaanraken.nl/posts/aur-packages-github-repo-jacking/
 - https://blog.nietaanraken.nl/posts/gitub-popular-repository-namespace-retirement-bypass/
+- https://checkmarx.com/blog/attacking-the-software-supply-chain-with-a-simple-rename/
