@@ -243,7 +243,6 @@
 - https://orca.security/resources/blog/azure-shared-key-authorization-exploitation/, Cloud
 - https://medium.com/@zhero_/a-successful-prototype-pollution-chained-to-a-dom-xss-9887087b56a4, Prototype-pollution
 - https://medium.com/@ch3tanbug/how-i-was-able-to-change-password-of-any-corporate-user-c68b9509840, Account-takeover
-- https://shahjerry33.medium.com/sql-wildcard-dos-hang-till-death-adbae66d1f7b, DoS
 - https://dev.to/mikesamuel/2008-silently-securing-jsonparse-5cbb, Parsing-issue
 - https://blog.exodusintel.com/2023/04/06/escaping-adobe-sandbox-exploiting-an-integer-overflow-in-microsoft-windows/, Integer-overflow
 - https://vitorfalcao.com/posts/simple-bugs/overwritting-files/, Normalization
@@ -322,7 +321,6 @@
 - https://blog.trailofbits.com/2023/02/16/suid-logic-bug-linux-readline/, Local-Privilege-Escalation
 - https://blog.infiltrateops.io/hacking-apple-two-successful-exploits-and-positive-thoughts-on-their-bug-bounty-program-963efe7518f6, RCE
 - https://blog.yeswehack.com/talent-development/server-side-prototype-pollution-how-to-detect-and-exploit/, Server-side-prototype-pollution
-- https://www.praetorian.com/blog/azure-b2c-crypto-misuse-and-account-compromise/, Cryptographic-issues
 - https://wesecureapp-smm.medium.com/assumed-breach-assessment-case-study-uncovering-wesecureapps-approach-45a512c0bd63, Internal-pentest
 - https://github.com/blackarrowsec/redteam-research/tree/master/LPE%20via%20StorSvc, Local-Privilege-Escalation
 - https://mahmoudsec.blogspot.com/2023/02/sql-injection-utilizing-xml-functions.html, SQL-injection
@@ -339,7 +337,6 @@
 - https://blog.quarkslab.com/post-exploitation-abusing-the-keepass-plugin-cache.html, Local-Privilege-escalation
 - https://eaton-works.com/2023/02/06/toyota-gspims-hack/, Authentication-bypass
 - https://securitylabs.datadoghq.com/articles/aws-console-rate-limit-bypass/, Rate-limiting-bypass
-- https://medium.com/@2os5/easy-account-takeover-on-dell-subdomain-6297460741fd, Password-reset
 - https://bloggerrando.blogspot.com/2023/02/06-2.html, Logic-flaw
 - https://security.lauritz-holtmann.de/post/xss-ato-gadgets/, SSO
 - https://medium.com/@rezaduty/play-with-google-twitter-apple-dell-a90777faa779, XSS
@@ -441,7 +438,6 @@
 - https://letshack.xyz/offensive/web-application/legally-hacking-a-government-satellite, Missing-authentication
 - https://saligrama.io/blog/post/dodging-oauth-origin-restrictions/, OAuth
 - https://www.zerodayinitiative.com/blog/2022/11/22/cve-2022-40300-sql-injection-in-manageengine-privileged-access-management, SQL-injection
-- https://medium.com/@0xelkot/how-i-get-10-sqli-and-30-xss-via-automation-tool-cebbd9104479, SQL-injection
 - https://0x36.github.io/CVE-2022-32898/, Memory-corruption
 - https://labs.guard.io/xss-vulnerability-found-in-connectwise-remote-access-platform-with-great-potential-for-misuse-by-scammers-a0773da2aacf, Stored-XSS
 - https://emily.id.au/tailscale, RCE
@@ -1404,7 +1400,6 @@
 - https://medium.com/@sw33tlie/finding-a-p1-in-one-minute-with-shodan-io-rce-735e08123f52, RCE
 - https://bugs.xdavidhu.me/google/2020/03/08/the-unexpected-google-wide-domain-check-bypass/, Logic-flaw
 - https://medium.com/@adonkidz7/google-ads-self-xss-html-injection-5000-52280da76c80, Self-XSS
-- https://posts.specterops.io/abusing-slack-for-offensive-operations-2343237b9282, Logic-flaw
 - https://medium.com/a-bugz-life/exploiting-an-ssrf-trials-and-tribulations-14c5d8dbd69a, SSRF
 - https://medium.com/@ducanhbui/manageengine-servicedesk-plus-arbitrary-file-upload-4bab0bd00425, Arbitrary-file-upload
 - https://medium.com/@rajeshranjan457/how-i-csrfd-my-first-bounty-a62b593d3f4d, CSRF

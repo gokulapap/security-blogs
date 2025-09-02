@@ -51,3 +51,4 @@
 - https://infosecwriteups.com/un3xpected-dos-attack-on-profile-pictur3-b957979dcc7
 - https://medium.com/@DarkMatterMatt/breaking-a-discord-channel-with-a-single-message-5095eb7604f1
 - https://blog.orange.tw/2022/08/lets-dance-in-the-cache-destabilizing-hash-table-on-microsoft-iis.html
+- https://shahjerry33.medium.com/sql-wildcard-dos-hang-till-death-adbae66d1f7b

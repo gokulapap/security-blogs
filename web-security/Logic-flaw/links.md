@@ -150,3 +150,4 @@
 - https://medium.com/@ritishkumarsingh/facebook-vulnerability-hiding-from-the-view-of-business-admin-in-the-business-manager-a04515fee9dd
 - https://www.secjuice.com/logical-bug-at-edmodo/
 - https://andika-here.medium.com/how-i-earned-1000-from-business-logic-vulnerability-account-takeover-f03547950c82
+- https://posts.specterops.io/abusing-slack-for-offensive-operations-2343237b9282
