@@ -93,3 +93,4 @@
 - https://ysamm.com/?p=777
 - https://web.archive.org/web/20200511012319/https://medium.com/@xhzeem/the-accounttakeover-killing-chain-6ba23f4c9d4
 - https://www.rezonate.io/blog/github-misconfigurations-put-gcp-aws-in-account-takeover-risk/
+- https://medium.com/@khaled.hassan/hacking-thousands-of-companies-through-their-helpdesk-8f180a8595ef
