@@ -220,3 +220,5 @@
 - https://hopesamples.blogspot.com/2022/09/group-experts-pending-expertise-request.html
 - https://medium.com/@YoKoKho/idor-at-private-bug-bounty-program-that-could-leads-to-personal-data-leaks-d2536d026bf5
 - https://philippeharewood.com/view-the-bug-subscriptions-for-any-oculus-user/
+- https://hopesamples.blogspot.com/2023/03/idor-on-bitdefendercom.html
+- https://medium.com/@bababounty99/never-give-up-story-of-hacking-dutch-government-and-earning-that-swag-b518cca81c78

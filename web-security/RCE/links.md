@@ -245,3 +245,4 @@
 - https://d4ly.medium.com/an-interesting-rce-on-a-synack-red-team-target-516edb63fd04
 - https://www.inputzero.io/2019/04/evernote-cve-2019-10038.html
 - https://blog.stazot.com/prestashop-csrf-to-rce-article/
+- https://codewhitesec.blogspot.com/2021/09/citrix-sharefile-rce-cve-2021-22941.html
