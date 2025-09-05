@@ -134,7 +134,6 @@
 - https://dimazarno.medium.com/unexpected-zero-in-mysql-injection-511f632714b0, SQL-injection
 - https://code-white.com/blog/2023-07-from-blackbox-dotnet-remoting-to-rce/, RCE
 - https://shahjerry33.medium.com/idn-homograph-attack-and-response-manipulation-the-rarest-case-85f64c272a1c, IDN-homograph-attack
-- https://blog.projectdiscovery.io/moveit-transfer-sql-injection/, SQL-injection
 - https://www.wojciechregula.blog/post/macos-atlassian-companion-rce/, RCE
 - https://devco.re/blog/2023/07/07/a-journey-into-hacking-google-search-appliance-en/, RCE
 - https://kuldeep.io/posts/fulldisclosure-dom-based-xss/, DOM-XSS
@@ -222,7 +221,6 @@
 - https://mikko-kenttala.medium.com/alias-file-to-rule-them-all-one-click-code-execution-with-alias-file-in-macos-1eeb0a730b88, Arbitrary-Code-Execution
 - https://blog.ethiack.com/en/blog/git-arbitrary-configuration-injection-cve-2023-29007, Logic-flaw
 - https://blog.assetnote.io/2023/04/26/xss-million-websites-cpanel/, Reflected-XSS
-- https://strike.sh/blog/business-bugs-approach, Logic-flaw
 - https://www.bitsight.com/blog/new-high-severity-vulnerability-cve-2023-29552-discovered-service-location-protocol-slp, DoS
 - https://medium.com/cyesec/no-portals-needed-79995d8f7e62, MFA-bypass
 - https://blog.ryotak.net/post/github-actions-staff-access-token-en/, CICD
@@ -599,7 +597,6 @@
 - https://medium.com/@Bishoo97x/un-united-nations-host-header-injection-leads-to-any-full-account-takeover-ato-795bc9ebc670, Host-header-injection
 - https://medium.com/@fpatrik/how-i-found-an-xss-vulnerability-via-using-emojis-7ad72de49209, XSS
 - https://research.checkpoint.com/2022/researching-xiaomis-tee/, Payment-bypass
-- https://medium.com/@iknowhatodo/amazon-cognito-misconfiguration-lead-to-account-takeover-20694243ca40, Account-takeover
 - https://bahruz.me/publications/11844, HTTP-Request-Smuggling
 - https://blog.quarkslab.com/attacking-titan-m-with-only-one-byte.html, Memory-corruption
 - https://medium.com/@avinash_/email-confirmation-bypass-at-instagram-cc968f9a126, Email-verification-bypass
@@ -1488,7 +1485,6 @@
 - https://hateshape.github.io/general/2019/09/06/SuperGlamorousReconwithIntendedFunctionalities.html, SSTI
 - https://web.archive.org/web/20201222140349/https://www.mohamedharon.com/2019/09/dom-based-xss-in-private-program.html, DOM-XSS
 - https://corben.io/blog/19-9-04-jenkins-to-full-pwnage, RCE
-- https://www.loosebyte.com/google-cloud-vulnerability/, XSS
 - https://medium.com/@bathinivijaysimhareddy/shodan-is-your-friend-if-you-lose-him-you-will-lose-many-657d07472f75, SQL-injection
 - https://medium.com/@Skylinearafat/how-to-look-for-js-files-vulnerability-for-fun-and-profit-78bfdfbd6731, Information-disclosure
 - https://gauravnarwani.com/cookie-worth-a-fortune/, Reflected-XSS
@@ -1835,7 +1831,6 @@
 - https://medium.com/bugbountywriteup/account-take-over-vulnerability-in-google-acquisition-famebit-e93b1a0a7af9, CSRF
 - https://medium.com/@agrawalsmart7/sql-is-every-where-5cba6ae9480a, SQL-injection
 - http://www.digitalmunition.com/WhyIWalkedFrom3k.pdf, AWS-misconfiguration
-- https://medium.com/bugbountywriteup/bypassing-crossdomain-policy-and-hit-hundreds-of-top-alexa-sites-af1944f6bbf5, CSRF
 - https://zseano.medium.com/how-signing-up-for-an-account-with-an-company-com-email-can-have-unexpected-results-7f1b700976f5, Logic-flaw
 - https://www.ansariosama.com/2017/11/how-i-pwned-company-using-idor-blind-xss.html, IDOR
 - https://medium.com/@abdelfattahibrahim/from-recon-to-dom-based-xss-f279602a14cf, DOM-XSS
