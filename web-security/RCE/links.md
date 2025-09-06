@@ -246,3 +246,4 @@
 - https://www.inputzero.io/2019/04/evernote-cve-2019-10038.html
 - https://blog.stazot.com/prestashop-csrf-to-rce-article/
 - https://codewhitesec.blogspot.com/2021/09/citrix-sharefile-rce-cve-2021-22941.html
+- https://fortbridge.co.uk/research/multiple-vulnerabilities-in-concrete-cms-part1-rce/

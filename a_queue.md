@@ -133,7 +133,6 @@
 - https://www.rapid7.com/blog/post/2023/07/11/cve-2023-29298-adobe-coldfusion-access-control-bypass/, Broken-Access-Control
 - https://dimazarno.medium.com/unexpected-zero-in-mysql-injection-511f632714b0, SQL-injection
 - https://code-white.com/blog/2023-07-from-blackbox-dotnet-remoting-to-rce/, RCE
-- https://shahjerry33.medium.com/idn-homograph-attack-and-response-manipulation-the-rarest-case-85f64c272a1c, IDN-homograph-attack
 - https://www.wojciechregula.blog/post/macos-atlassian-companion-rce/, RCE
 - https://devco.re/blog/2023/07/07/a-journey-into-hacking-google-search-appliance-en/, RCE
 - https://kuldeep.io/posts/fulldisclosure-dom-based-xss/, DOM-XSS
@@ -189,7 +188,6 @@
 - https://medium.com/@husein.ayoub/azure-dns-takeover-swisscom-7c6aacb38e8, DNS-takeover
 - https://nav1n.medium.com/i-helped-a-top-indian-health-benefits-management-platform-from-major-pii-leak-by-hacking-their-sql-b42caeca9729, SQL-injection
 - https://nav1n.medium.com/exploiting-sql-error-sqlstate-42000-to-own-mariadb-of-a-large-eu-based-online-media-and-cf7396c43bbf, SQL-injection
-- https://strike.sh/blog/official-extension-attacks, Extension-spoofing
 - https://shahjerry33.medium.com/stored-iframe-injection-permanent-open-redirection-zero-day-ce7cd15903ac, HTML-injection
 - https://blog.pretera.com/how-misconfigured-and-vulnerable-devices-could-expose-your-company-to-physical-and-cyber-threats-37d0e0d8d158, IoT
 - https://corben.io/blog/hacking-kucoin, Information-disclosure
@@ -881,7 +879,6 @@
 - https://web.archive.org/web/20211106100048/https://monke.ie/unicorn-programs/, Privilege-escalation
 - https://philippeharewood.com/bypass-video-capture-limit-on-ray-ban-stories/, Logic-flaw
 - https://medium.com/techiepedia/unauthenticated-access-to-cloud-portal-a-without-%EF%B8%8F-9f29c387b937, Authentication-bypass
-- https://fortbridge.co.uk/research/multiple-vulnerabilities-in-concrete-cms-part1-rce/, RCE
 - https://thinkermaruf.medium.com/fiverr-email-restriction-bypassed-36b797cb7e9, Logic-flaw
 - https://blog.assetnote.io/2021/11/02/sitecore-rce/, RCE
 - https://pathleax.medium.com/this-is-how-i-was-able-to-permanently-crash-all-mapillary-users-within-minutes-c7276def5a94, Application-level-DoS
@@ -1337,7 +1334,6 @@
 - https://healdb.tech/blog/teradici.html, Missing-authentication
 - https://medium.com/csis-techblog/cve-2020-1088-yet-another-arbitrary-delete-eop-a00b97d8c3e2, Local-Privilege-Escalation
 - https://web.archive.org/web/20200616051351/https://hazana.xyz/posts/cors-blimey/, CORS-misconfiguration
-- https://medium.com/@bathinivijaysimhareddy/tale-of-account-takeovers-part-2-9abf62de4ca3, Account-takeover
 - https://www.bad5ect0r.sh/posts/stored-xss-leads-to-plaintext-password-disclosure/, Stored-XSS
 - https://medium.com/@bilalmerokhel/chained-bugs-account-takeover-ceff67d1d55a, IDOR
 - https://medium.com/@swapmaurya20/password-reset-poisoning-leading-to-account-takeover-f178f5f1de87, Password-reset
@@ -1506,7 +1502,6 @@
 - https://medium.com/@aniltom/https-medium-com-aniltom-from-sub-domain-takeover-to-open-redirect-b5be4906e1a4, Subdomain-takeover
 - https://ysamm.com/?p=291, IDOR
 - https://ysamm.com/?p=321, Internal-path-disclosure
-- https://ysamm.com/?p=281, Authorization-flaw
 - https://web.archive.org/web/20210124152317/https://whitehathaji.blogspot.com/2019/07/paypal-bug-10k-all-secondary-users.html, IDOR
 - https://medium.com/@ronak_9889/solr-injection-by-abusing-local-parameters-on-zomato-com-a5cb7bef10d5, Solr-injection
 - https://medium.com/@innocenthacker/how-i-found-the-most-critical-bug-in-live-bug-bounty-event-7a88b3aa97b3, Password-reset

@@ -1,0 +1,1 @@
+- https://strike.sh/blog/official-extension-attacks
