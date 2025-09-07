@@ -73,3 +73,4 @@
 - https://medium.com/@heinthantzin/how-does-my-recon-win-250-in-15-minutes-a1992508b911
 - https://arulkumar.in/multiple-open-url-redirection-vulnerability-in-facebook-worth-1500/
 - https://muhammad-aamir.medium.com/open-redirect-vulnerability-found-using-link-parameter-5fc43e2ea8fd
+- https://medium.com/@malwarejoe/smashing-the-modern-web-tech-stack-part-1-the-evolving-threat-landscape-in-2022-and-dom-based-324696684239

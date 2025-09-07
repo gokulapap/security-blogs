@@ -84,3 +84,4 @@
 - https://web.archive.org/web/20210924032932/https://0xdln.ml/XSS-Through-Fuzzing-Default-IIS/
 - https://lutfumertceylan.com.tr/posts/acc-takeover-web-cache-xss/
 - https://medium.com/bugbountywriteup/reflected-user-input-xss-c3e681710e74
+- https://infosecwriteups.com/anatomy-of-a-reflected-xss-my-discovery-on-a-microsofts-subdomain-7a237aba4392

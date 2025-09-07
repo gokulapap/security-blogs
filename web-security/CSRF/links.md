@@ -94,3 +94,4 @@
 - https://medium.com/@Hossam.Mesbah/cross-site-request-forgery-critical-exploitable-in-infected-site-a271aedeed2f
 - https://security.lauritz-holtmann.de
 - https://medium.com/bugbountywriteup/bypassing-crossdomain-policy-and-hit-hundreds-of-top-alexa-sites-af1944f6bbf5
+- https://fellchase.blogspot.com/2020/02/site-wide-csrf-on-popular-program.html

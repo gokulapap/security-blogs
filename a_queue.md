@@ -266,7 +266,6 @@
 - https://www.da.vidbuchanan.co.uk/blog/exploiting-acropalypse.html, Privacy-issue
 - https://medium.com/@bag0zathev2/easy-via-api-params-manipulation-leading-to-bypassing-the-email-verification-block-a45dad2db60c, Mass-assignment
 - https://medium.com/@hritkmjth/directory-traversal-and-lfi-worth-400-c4422785d3bd, Path-traversal
-- https://infosecwriteups.com/anatomy-of-a-reflected-xss-my-discovery-on-a-microsofts-subdomain-7a237aba4392, Reflected-XSS
 - https://blog.doyensec.com/2023/03/16/ssrf-remediation-bypass.html, SSRF
 - http://blog.sysdum.net/parameter-injection-to-rce, RCE
 - https://blog.scrt.ch/2023/03/14/producing-a-poc-for-cve-2022-42475-fortinet-rce/, Memory-corruption
@@ -727,7 +726,6 @@
 - https://systemweakness.com/unlock-any-blur-text-picture-without-membership-subscription-on-scribd-com-by-neuchi-69237776e24, Payment-bypass
 - https://shubhdeepp.medium.com/how-i-got-apple-hall-of-fame-3d86f858c05f, Content-injection
 - https://github.com/cloudflare/odoh-server-go/issues/30, SSRF
-- https://medium.com/@malwarejoe/smashing-the-modern-web-tech-stack-part-1-the-evolving-threat-landscape-in-2022-and-dom-based-324696684239, Open-redirect
 - https://amit-lt.medium.com/open-redirection-into-bentley-system-d1ee188bfb25, XSS
 - https://systemweakness.com/exploiting-a-file-upload-vulnerability-a-directory-traversal-attack-419308cdb059, Unrestricted-file-upload
 - https://unit42.paloaltonetworks.com/aws-log4shell-hot-patch-vulnerabilities/, Privilege-escalation
@@ -1221,7 +1219,6 @@
 - https://medium.com/bugbountywriteup/fun-with-header-and-forget-password-with-a-twist-af095b426fb2, Password-reset
 - https://offensi.com/2020/08/18/how-to-contact-google-sre-dropping-a-shell-in-cloud-sql/, SQL-injection
 - https://medium.com/bugbountywriteup/how-could-i-tag-photo-to-any-users-scrapbook-on-facebook-23ab15e6e4b4, Authorization-flaw
-- https://medium.com/bugbountywriteup/how-i-was-able-to-send-authentic-emails-as-others-google-vrp-resolved-2af94295f326, Logic-flaw
 - https://medium.com/@vedanttekale20/how-recon-helped-me-to-find-an-interesting-bug-17a2d8cf1778, Open-redirect
 - https://blog.detectify.com/2020/08/14/crowdsource-success-story-from-an-out-of-scope-open-redirect-to-cve-2020-1323/, Open-redirect
 - https://medium.com/nassec-cybersecurity-writeups/deleted-data-stored-permanently-on-instagram-facebook-bug-bounty-2020-26074c229955, Logic-flaw
@@ -1405,7 +1402,6 @@
 - https://medium.com/@ozguralp/weird-vulnerabilities-happening-on-load-balancers-shallow-copies-and-caches-9194d4f72322, Information-disclosure
 - https://techkranti.com/ssrf-aws-metadata-leakage, SSRF
 - https://www.amolbaikar.com/determine-users-with-detailed-role-model-on-behalf-of-any-facebook-application/, IDOR
-- https://fellchase.blogspot.com/2020/02/site-wide-csrf-on-popular-program.html, CSRF
 - https://flex0geek.blogspot.com/2020/02/using-csrf-i-got-weird-account-takeover.html, CSRF
 - https://medium.com/@sushiwushi2/hijacking-shared-report-links-in-google-data-studio-75eab320c391, Authorization-flaw
 - https://www.perimeterx.com/tech-blog/2020/whatsapp-fs-read-vuln-disclosure/, Stored-XSS
@@ -1538,7 +1534,6 @@
 - https://medium.com/@ciph3r7r0ll/chaining-improper-authorization-to-race-condition-to-harvest-credit-card-details-a-bug-bounty-effe6e0f5076, Authorization-flaw
 - https://web.archive.org/web/20200928091625/https://pwnsec.ninja/2019/06/06/how-i-was-able-to-get-private-ticket-response-panel-and-fortigate-web-panel-via-blind-xss/, Blind-XSS
 - https://payatu.com/microsoft-edge-extensions-host-permission-bypass-cve-2019-0678/, Browser-hacking
-- https://blog.nyangawa.me/security/GitLab-Local-File-Read/, Path-traversal
 - https://vishwarajbhattrai.wordpress.com/2019/06/03/missing-access-control-at-play-store/, Authorization-flaw
 - https://medium.com/@nandwanajatin25/story-of-a-uri-based-xss-with-some-simple-google-dorking-e1999254aa55, XSS
 - https://anotherhackerblog.com/exploiting-file-uploads-pt1/, Stored-XSS
