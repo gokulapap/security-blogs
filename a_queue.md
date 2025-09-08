@@ -717,7 +717,6 @@
 - https://github.com/yuriisanin/CVE-2022-25262, Authorization-flaw
 - https://maxva.medium.com/how-i-got-a-lousyt-shirt-from-the-dutch-goverment-2a0d13fe7675, Old-components-with-known-vulnerabilities
 - https://www.legitsecurity.com/blog/github-actions-that-open-the-door-to-cicd-pipeline-attacks, Privilege-escalation
-- https://shreyaskoli.medium.com/ato-without-any-interaction-aws-cognito-misconfiguration-d690f4b3da11, Account-takeover
 - https://lokeshdlk77.medium.com/contact-point-deanonymization-vulnerability-in-meta-90d575c4d8ef, Information-disclosure
 - https://blog.assetnote.io/2022/04/27/vmware-workspace-one-uem-ssrf/, SSRF
 - https://securecloud.blog/2022/04/27/azure-monitor-malicious-kql-query/, Privilege-escalation
@@ -770,7 +769,6 @@
 - https://medium.com/@tobydavenn/how-i-made-the-bbc-hall-of-fame-3-times-2c816fa515d7, Information-disclosure
 - https://bloggerrando.blogspot.com/2022/03/13-1.html, Broken-Access-Control
 - https://canmustdie.medium.com/how-did-i-leak-5-2k-customer-data-from-a-large-company-via-broken-access-control-709eb4027409, Broken-Access-Control
-- https://medium.com/@sandh0t/the-bad-twin-a-peculiar-case-of-jwt-exploitation-scenario-1efa03e891c0, Account-takeover
 - https://infosecwriteups.com/whatsapp-bug-bounty-bypassing-biometric-authentication-using-voip-87548ef7a0ba, Authentication-bypass
 - https://www.rapid7.com/blog/post/2022/03/03/cve-2021-4191-gitlab-graphql-api-user-enumeration-fixed/, Username-enumeration
 - https://muffsec.com/blog/moodle-2nd-order-sqli/, SQL-injection
@@ -841,7 +839,6 @@
 - https://mearegtu.medium.com/broken-access-control-cc6cfd793b15, IDOR
 - https://securitylab.github.com/advisories/GHSL-2021-1053_Grafana/, Path-traversal
 - https://medium.com/@mohamedtaha_42562/how-i-found-xss-vulnerability-in-amazon-in-5-minutes-using-shodan-50b583655297, XSS
-- https://prashantbhatkal2000.medium.com/svg-based-stored-xss-ee6e9b240dee, Stored-XSS
 - https://outflank.nl/blog/2021/12/09/a-phishing-document-signed-by-microsoft/, Phishing
 - https://www.r29k.com/articles/bb/priv-esc-via-stored-xss, Account-takeover
 - https://rizwansiddiqu1.medium.com/another-admin-panel-e0489dc76678, HTTP-response-manipulation
@@ -1021,7 +1018,6 @@
 - https://galnagli.com/Mass_Assignment/, Mass-assignment
 - https://filipaze.medium.com/how-i-find-my-first-stored-xss-c6f57155cc1a, Stored-XSS
 - https://tuhin1729.medium.com/story-of-my-hacking-dutch-government-46b7a3c8b75a, XSS
-- https://blog.evanricafort.com/2021/05/2fa-verification-bypass-in-shapeshift.html, MFA-bypass
 - https://infosecwriteups.com/stored-xss-to-organisation-takeover-6eaaa2fdcd5b, Stored-XSS
 - https://sndpgiriz.medium.com/simple-logical-bug-turned-into-a-bounty-a3d7ac214606, Logic-flaw
 - https://www.offensive-security.com/offsec/macos-preferences-priv-escalation/, Local-Privilege-Escalation
@@ -1510,7 +1506,6 @@
 - https://samcurry.net/cracking-my-windshield-and-earning-10000-on-the-tesla-bug-bounty-program/, Blind-XSS
 - https://medium.com/@sansyrox/hacking-tinders-premium-model-43f9f699d44, Authorization-flaw
 - https://medium.com/@princechaddha/account-takeover-on-airbnb-acquisition-an-unusual-bug-part-2-45fab11dc407, IDOR
-- https://xp.ht/oauth-authentication-bypass-on-airbnb-acquisition-using-weird-1-char-open-redirect/, Open-redirect
 - https://medium.com/@hazzaazi31/a-malicious-editor-of-a-page-can-support-to-a-community-action-which-cant-be-unsupported-by-the-f568c3762042, Authorization-flaw
 - https://medium.com/@ruvlol/cleartext-password-in-localstorage-writeup-245294762829, Violation-of-secure-design-principles
 - https://jspin.re/fileupload-blind-sqli/, SQL-injection

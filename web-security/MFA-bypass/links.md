@@ -19,3 +19,4 @@
 - https://z-sec.co/mass-account-takeover
 - https://vj0shii.github.io/multi-factor-auth-bypass-with-password-reset-function/
 - https://infosecwriteups.com/how-response-manipulation-got-me-a-little-but-sweet-bounty-38b515ca0910
+- https://blog.evanricafort.com/2021/05/2fa-verification-bypass-in-shapeshift.html

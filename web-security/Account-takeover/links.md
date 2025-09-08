@@ -96,3 +96,5 @@
 - https://medium.com/@khaled.hassan/hacking-thousands-of-companies-through-their-helpdesk-8f180a8595ef
 - https://medium.com/@iknowhatodo/amazon-cognito-misconfiguration-lead-to-account-takeover-20694243ca40
 - https://medium.com/@bathinivijaysimhareddy/tale-of-account-takeovers-part-2-9abf62de4ca3
+- https://medium.com/@sandh0t/the-bad-twin-a-peculiar-case-of-jwt-exploitation-scenario-1efa03e891c0
+- https://shreyaskoli.medium.com/ato-without-any-interaction-aws-cognito-misconfiguration-d690f4b3da11
