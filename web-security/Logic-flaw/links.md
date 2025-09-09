@@ -153,3 +153,4 @@
 - https://posts.specterops.io/abusing-slack-for-offensive-operations-2343237b9282
 - https://strike.sh/blog/business-bugs-approach
 - https://medium.com/bugbountywriteup/how-i-was-able-to-send-authentic-emails-as-others-google-vrp-resolved-2af94295f326
+- https://medium.com/tenable-techblog/remotely-exploiting-zoom-meetings-5a811342ba1d
