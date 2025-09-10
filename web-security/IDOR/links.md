@@ -222,3 +222,4 @@
 - https://philippeharewood.com/view-the-bug-subscriptions-for-any-oculus-user/
 - https://hopesamples.blogspot.com/2023/03/idor-on-bitdefendercom.html
 - https://medium.com/@bababounty99/never-give-up-story-of-hacking-dutch-government-and-earning-that-swag-b518cca81c78
+- https://vbharad.medium.com/how-i-hacked-everyones-resume-cv-s-and-got-851aaa4d75d9

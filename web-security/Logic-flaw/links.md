@@ -154,3 +154,4 @@
 - https://strike.sh/blog/business-bugs-approach
 - https://medium.com/bugbountywriteup/how-i-was-able-to-send-authentic-emails-as-others-google-vrp-resolved-2af94295f326
 - https://medium.com/tenable-techblog/remotely-exploiting-zoom-meetings-5a811342ba1d
+- https://medium.com/@janijay007/how-i-was-able-to-see-likes-and-dislikes-count-which-is-hidden-by-victim-youtube-2-721d8e4686a5

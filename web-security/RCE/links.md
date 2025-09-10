@@ -248,3 +248,4 @@
 - https://codewhitesec.blogspot.com/2021/09/citrix-sharefile-rce-cve-2021-22941.html
 - https://fortbridge.co.uk/research/multiple-vulnerabilities-in-concrete-cms-part1-rce/
 - https://web.archive.org/web/20170206221502/https://deadpool.sh/2017/RCE-Springs/
+- https://medium.com/@ar_hawk/how-a-simple-directory-listing-leads-to-pii-data-leakage-remote-code-execution-and-many-more-104b09e644f4
