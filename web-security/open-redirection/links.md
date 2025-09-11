@@ -4,3 +4,4 @@
 - https://medium.com/@sagarsajeev/escalating-open-redirect-to-xss-d2b9355e5f05
 - https://medium.com/@securitygoat/bug-bounty-bootcamp-ch07-open-redirects-b11d2fe134d5
 - https://medium.com/@inakcf/open-redirect-in-email-c658c248eec1
+- https://medium.com/@hunter-55/how-i-was-able-to-bypass-open-redirect-3-times-on-same-program-d78f9d2443f6

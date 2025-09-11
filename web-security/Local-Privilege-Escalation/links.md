@@ -75,3 +75,4 @@
 - https://markus-krell.de/admin-capabilities-around-your-ears/
 - https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/cve-2023-29383-abusing-linux-chfn-to-misrepresent-etc-passwd/
 - https://offsec.almond.consulting/windows-msiexec-eop-cve-2020-0911.html
+- https://www.imperva.com/blog/google-chrome-symstealer-vulnerability/
