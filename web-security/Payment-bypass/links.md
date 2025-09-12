@@ -11,3 +11,4 @@
 - https://blog.securitybreached.org/2018/05/18/get-subscription-of-120-year-for-free-bug-bounty-poc
 - https://shahjerry33.medium.com/business-logic-errors-art-of-testing-cards-4907cfb46a57
 - https://pratikyadav0.blogspot.com/2018/10/hello-everyone-took-some-time-from-my.html
+- https://ibraradi.gitbook.io/write-up/upgrade-plan-from-free-to-paid-via-response-manipulation

@@ -1,1 +1,2 @@
 - https://shahjerry33.medium.com/idn-homograph-attack-and-response-manipulation-the-rarest-case-85f64c272a1c
+- https://medium.com/bugbountywriteup/how-i-was-able-to-change-victims-password-using-idn-homograph-attack-587111843aff

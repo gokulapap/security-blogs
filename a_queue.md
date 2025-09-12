@@ -120,7 +120,6 @@
 - https://blog.qualys.com/vulnerabilities-threat-research/2023/07/19/cve-2023-38408-remote-code-execution-in-opensshs-forwarded-ssh-agent, RCE
 - https://kuldeep.io/posts/escalating-privileges-with-ssrf/, SSRF
 - https://matan-h.com/one-lfi-bypass-to-rule-them-all-using-base64/, LFI
-- https://www.zerodayinitiative.com/blog/2023/7/19/cve-2023-36934-progress-software-moveit-transfer-sql-injection-remote-code-execution-vulnerability, SQL-injection
 - https://ssd-disclosure.com/ssd-advisory-tp-link-tl-wr840n-stack-buffer-overflow-dos/, Buffer-Overflow
 - https://www.mandiant.com/resources/blog/privileges-third-party-windows-installers, Local-Privilege-Escalation
 - https://www.sonarsource.com/blog/a-twist-in-the-code-openmeetings-vulnerabilities-through-unexpected-application-state/, Account-takeover
@@ -281,7 +280,6 @@
 - https://medium.com/@mrxdevil404/bug-in-netflix-with-my-automation-1382d087078, Information-disclosure
 - https://bountyplz.xyz/bugbounty/2023/03/03/Bypassing-Safe-Redirect-in-Rails-7.0.html, Open-redirect
 - https://www.permasecure.io/2023/03/03/how-your-nfts-could-have-been-stolen-in-just-one-click/, postMessage
-- https://ibraradi.gitbook.io/write-up/upgrade-plan-from-free-to-paid-via-response-manipulation, Payment-bypass
 - https://mshibilmp.medium.com/how-i-earned-for-excessive-data-exposure-through-directory-traversal-leads-to-product-price-4582e5371774, Path-traversal
 - https://vijetareigns.medium.com/email-verification-bypass-worth-cbb65a68a34f, Email-verification-bypass
 - https://medium.com/@kushjain0107/how-simple-idor-impacted-the-data-of-thousands-of-customers-of-an-indian-automotive-giant-fdbd2ef1c2c6, Account-takeover
@@ -458,7 +456,6 @@
 - https://googleprojectzero.blogspot.com/2022/11/gregor-samsa-exploiting-java-xml.html, Integer-truncation
 - https://mehedishakeel.medium.com/improper-access-control-my-third-finding-on-hackerone-1455e95b6c8c, HTML-injection
 - https://infosecwriteups.com/how-403-forbidden-bypass-got-me-nokia-hall-of-fame-hof-8acbd2c1c2c8, 403-bypass
-- https://medium.com/@0xnaeem/how-i-get-5x-swag-from-sony-102dbefd0c2c, DOM-XSS
 - https://github.com/colmmacc/CVE-2022-3602, Memory-corruption
 - https://positive.security/blog/urlscan-data-leaks, Information-disclosure
 - https://portswigger.net/research/safari-is-hot-linking-images-to-semi-random-websites, Browser-hacking
@@ -1249,7 +1246,6 @@
 - https://www.secjuice.com/api-misconfiguration-data-breach/, Information-disclosure
 - https://medium.com/@nandwanajatin25/self-stored-xss-to-full-account-takeover-fe8e71471795, XSS
 - https://medium.com/@letssimplysecure/bug-bounty-experience-unvalidated-redirection-vulnerability-eed40d91da27, Open-redirect
-- https://medium.com/bugbountywriteup/how-i-was-able-to-change-victims-password-using-idn-homograph-attack-587111843aff, IDN-homograph-attack
 - https://medium.com/@sp2417487/a-tale-of-critical-account-take-over-e1b7c180917c, Account-takeover
 - https://medium.com/@ben.aymen.182/phone-number-validation-bypass-through-url-path-manipulation-c03721cf3676, OTP-bypass
 - https://medium.com/bugbountywriteup/dont-stop-at-one-bug-d3c56806b5, Open-redirect
@@ -1847,7 +1843,6 @@
 - https://wesecureapp.com/blog/xss-by-tossing-cookies/, XSS
 - https://web.archive.org/web/20180827025910/http://www.paulosyibelo.com/2017/07/coinbase-angularjs-dom-xss-via-kiteworks.html, DOM-XSS
 - https://ahussam.me/Medium-content-spoofing-xss, Content-spoofing
-- https://web.archive.org/web/20190718104640/https://medium.com/@tbmnull/making-an-xss-triggered-by-csp-bypass-on-twitter-561f107be3e5, XSS
 - https://www.arneswinnen.net/2017/06/authentication-bypass-on-ubers-sso-via-subdomain-takeover/, Subdomain-takeover
 - https://www.bishopfox.com/blog/2017/06/how-i-built-an-xss-worm-on-atmail/, XSS
 - https://web.archive.org/web/20170620023433/https://medium.com/@know.0nix/how-i-hack-23-900-000-tumblr-domains-at-once-341edad6e7cc, IDOR

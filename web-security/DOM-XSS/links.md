@@ -28,3 +28,4 @@
 - https://svennergr.github.io/writeups/google/ads_dom_xss/
 - https://medium.com/bugbountywriteup/dom-based-xss-or-why-you-should-not-rely-on-cloudflare-too-much-a1aa9f0ead7d
 - https://portswigger.net/research/finding-dom-polyglot-xss-in-paypal-the-easy-way
+- https://medium.com/@0xnaeem/how-i-get-5x-swag-from-sony-102dbefd0c2c

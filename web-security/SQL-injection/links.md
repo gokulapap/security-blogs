@@ -91,3 +91,4 @@
 - https://medium.com/@0xelkot/how-i-get-10-sqli-and-30-xss-via-automation-tool-cebbd9104479
 - https://blog.projectdiscovery.io/moveit-transfer-sql-injection/
 - https://medium.com/@SQLiBasic/bug-bounty-at-bangladeshi-site-21da8b7eb687
+- https://www.zerodayinitiative.com/blog/2023/7/19/cve-2023-36934-progress-software-moveit-transfer-sql-injection-remote-code-execution-vulnerability
