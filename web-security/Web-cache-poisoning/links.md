@@ -14,3 +14,4 @@
 - https://portswigger.net/research/practical-web-cache-poisoning
 - https://iustin24.github.io/Cache-Key-Normalization-Denial-of-Service/
 - https://spyclub.tech/2022/12/14/unusual-cache-poisoning-akamai-s3/
+- https://web.archive.org/web/20210730144815/https://www.cysek.org/post/sxss-by-cache-poison-attack

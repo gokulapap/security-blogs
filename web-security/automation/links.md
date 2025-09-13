@@ -7,3 +7,4 @@
 - https://medium.com/@akashtesla/how-to-automate-your-initial-recon-and-extend-asm-using-sub-scout-a52de14a2b6a
 - https://medium.com/@clarkvoss/finding-hidden-gems-with-nuclei-templates-b3125950a5cd
 - https://medium.com/@ananyaghosh1120/beginners-guide-to-automated-scanners-8ec880446421
+- https://medium.com/@adamjsturge/mx-takeovers-automated-subdomain-takeover-64e658fc4fb7
