@@ -265,3 +265,6 @@
 - https://blog.securitybreached.org/2018/02/02/how-i-was-able-to-bypass-xss-protection-on-hackerones-private-program/
 - https://www.loosebyte.com/google-cloud-vulnerability/
 - https://web.archive.org/web/20190718104640/https://medium.com/@tbmnull/making-an-xss-triggered-by-csp-bypass-on-twitter-561f107be3e5
+- https://smaranchand.com.np/2020/02/the-tricky-xss/
+- http://mahmoudsec.blogspot.com/2015/09/how-i-found-xss-vulnerability-in-google.html
+- https://systemweakness.com/chained-bug-xml-file-upload-to-xss-to-csrf-to-full-account-take-over-ato-156409c41b57

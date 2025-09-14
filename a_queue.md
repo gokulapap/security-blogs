@@ -142,7 +142,6 @@
 - https://medium.com/@jonathanbouman/laravel-debug-mode-left-on-at-zouikwatzeggen-nl-948a7365409f, Debug-mode-enabled
 - https://blog.assetnote.io/2023/06/29/binary-reversing-citrix-xss/, Reflected-XSS
 - https://medium.com/@ahmedelmorsy312/weakness-of-integration-bce1520ba672, Logic-flaw
-- https://www.zerodayinitiative.com/blog/2023/6/29/cve-2023-20864-remote-code-execution-in-vmware-aria-operations-for-logs, RCE
 - https://bharat-singh.medium.com/how-bac-broken-access-control-got-me-a-pre-account-takeover-2481931b7b3a, Pre-account-takeover
 - https://www.sonarsource.com/blog/why-orms-and-prepared-statements-cant-always-win/, SQL-injection
 - https://www.synacktiv.com/sites/default/files/2023-06/synacktiv-ucopia-multiple-vulnerabilities-2022.pdf, Security-misconfiguration
@@ -698,7 +697,6 @@
 - https://medium.com/@masonhck357/the-16-000-dev-mistake-13e516e86be6, Information-disclosure
 - https://www.pmnh.site/post/advanced-sqlmap-case-study-1/, SQL-injection
 - https://blog.viettelcybersecurity.com/cve-2022-0540-authentication-bypass-in-seraph/, Authentication-bypass
-- https://systemweakness.com/chained-bug-xml-file-upload-to-xss-to-csrf-to-full-account-take-over-ato-156409c41b57, XSS
 - https://blog.assetnote.io/2022/05/03/hacking-a-bank-using-dotcms-rce/, Directory-traversal
 - https://github.com/yuriisanin/CVE-2022-25262, Authorization-flaw
 - https://maxva.medium.com/how-i-got-a-lousyt-shirt-from-the-dutch-goverment-2a0d13fe7675, Old-components-with-known-vulnerabilities
@@ -1002,7 +1000,6 @@
 - https://www.fortbridge.co.uk/research/drupal-insecure-default-leads-to-password-reset-poisoning/, Password-reset
 - https://infosecwriteups.com/2fa-bypass-via-forced-browsing-9e511dfdb8df, MFA-bypass
 - https://galnagli.com/Mass_Assignment/, Mass-assignment
-- https://filipaze.medium.com/how-i-find-my-first-stored-xss-c6f57155cc1a, Stored-XSS
 - https://tuhin1729.medium.com/story-of-my-hacking-dutch-government-46b7a3c8b75a, XSS
 - https://infosecwriteups.com/stored-xss-to-organisation-takeover-6eaaa2fdcd5b, Stored-XSS
 - https://sndpgiriz.medium.com/simple-logical-bug-turned-into-a-bounty-a3d7ac214606, Logic-flaw
@@ -1369,7 +1366,6 @@
 - https://medium.com/@rajeshranjan457/how-i-csrfd-my-first-bounty-a62b593d3f4d, CSRF
 - https://alexbakker.me/post/mysterious-google-titan-m-bug-cve-2019-9465.html, Cryptographic-issues
 - https://medium.com/@bhaveshthakur2015/account-hijack-using-authorization-bypass-which-made-me-richer-by-ba9dace72682, Account-takeover
-- https://smaranchand.com.np/2020/02/the-tricky-xss/, XSS
 - https://ysamm.com/?p=379, CSRF
 - https://medium.com/@Mr.Daman.Singh/how-i-found-3-ssrf-in-one-day-on-different-bug-bounty-targets-62e91b4268f8, SSRF
 - https://web.archive.org/web/20200513211717/https://mrss4nd0x.000webhostapp.com/Stored-XSS-on-groups-google-com.php, Stored-XSS
@@ -1889,7 +1885,6 @@
 - https://whitton.io/articles/xss-on-facebook-via-png-content-types, XSS
 - https://medium.com/bugbountywriteup/how-i-got-listed-in-microsoft-hall-of-fame-8f96ca4535c2, IDOR
 - https://web.archive.org/web/20180322133921/http://codel10n.com/how-to-hack-payu-buy-10x-more-same-price/, RCE
-- http://mahmoudsec.blogspot.com/2015/09/how-i-found-xss-vulnerability-in-google.html, XSS
 - https://www.rcesecurity.com/2015/09/cve-2014-7216-a-journey-through-yahoos-bug-bounty-program/, Buffer-Overflow
 - https://thezerohack.com/hacking-facebook-pages, Authorization-flaw
 - https://josipfranjkovic.blogspot.com/2015/07/the-easiest-bug-bounties-i-have-ever-won.html, IDOR

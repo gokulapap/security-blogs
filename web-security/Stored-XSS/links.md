@@ -100,3 +100,4 @@
 - https://0xfabiof.github.io/stored-xss-tw/
 - https://medium.com/@bag0zathev2/csrf-stored-xss-to-leading-to-full-account-takeover-39e9a79533e3
 - https://prashantbhatkal2000.medium.com/svg-based-stored-xss-ee6e9b240dee
+- https://filipaze.medium.com/how-i-find-my-first-stored-xss-c6f57155cc1a
