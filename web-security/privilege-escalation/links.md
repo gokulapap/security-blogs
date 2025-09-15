@@ -1,3 +1,4 @@
 - https://medium.com/@amitkhandebharad5/privilege-escalation-lets-demote-the-admin-93bd55a6d6fb
 - https://medium.com/@janirudransh/privilege-escalation-to-view-sensitive-data-of-other-user-c4ad06c9472
 - https://medium.com/@neroli/how-we-was-able-to-takeover-whole-organization-via-privilege-escalation-4f74b31a84a6
+- https://medium.com/@gokulelango1040/privilege-escalation-attacks-28a9ef226abb

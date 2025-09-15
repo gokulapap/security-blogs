@@ -62,7 +62,6 @@
 - https://medium.com/@pingsec/interesting-account-takeover-bugs-619df8466ca0, ATO
 - https://medium.com/@vickieli/are-csrfs-still-a-thing-7e16c09c951a, csrf
 - https://medium.com/@thelinuxboy/bugging-out-my-experience-of-earning-300-for-reporting-an-unexpected-bug-ec9f9b0054bc, journey
-- https://medium.com/@gokulelango1040/privilege-escalation-attacks-28a9ef226abb, privilege-escalation
 - https://medium.com/@hasharmujahid/bypassing-csrf-protection-i-bc014384d0aa, csrf
 - https://medium.com/@pawanchhabria/how-i-escalated-default-credentials-to-remote-code-execution-1c34504be7a5, RCE
 - https://medium.com/@sushantdhopat/how-i-able-to-steal-lot-of-user-sensitive-information-pii-throw-idor-insecure-direct-object-e41e08e88a06, info-disclosure
@@ -753,7 +752,6 @@
 - https://medium.com/@tobydavenn/how-i-made-the-bbc-hall-of-fame-3-times-2c816fa515d7, Information-disclosure
 - https://bloggerrando.blogspot.com/2022/03/13-1.html, Broken-Access-Control
 - https://canmustdie.medium.com/how-did-i-leak-5-2k-customer-data-from-a-large-company-via-broken-access-control-709eb4027409, Broken-Access-Control
-- https://infosecwriteups.com/whatsapp-bug-bounty-bypassing-biometric-authentication-using-voip-87548ef7a0ba, Authentication-bypass
 - https://www.rapid7.com/blog/post/2022/03/03/cve-2021-4191-gitlab-graphql-api-user-enumeration-fixed/, Username-enumeration
 - https://muffsec.com/blog/moodle-2nd-order-sqli/, SQL-injection
 - https://web.archive.org/web/20220306040035/https://medium.com/@1337Fenrir/how-did-i-find-directory-traversal-attack-using-github-9b051ed749ca, Information-disclosure
@@ -794,7 +792,6 @@
 - https://kuldeep.io/posts/path-traversal-paradise/, Path-traversal
 - https://srcincite.io/blog/2022/01/20/zohowned-a-critical-authentication-bypass-on-zoho-manageengine-desktop-central.html, Authentication-bypass
 - https://medium.com/@himmat1005/how-i-messed-up-my-own-profile-data-94a4b09cb54c, Authorization-flaw
-- https://www.zerodayinitiative.com/blog/2022/1/18/cve-2021-21661-exposing-database-info-via-wordpress-sql-injection, SQL-injection
 - https://googleprojectzero.blogspot.com//2022/01/zooming-in-on-zero-click-exploits.html, Memory-corruption
 - https://medium.com/@robert0/how-i-found-broken-access-control-through-out-of-sync-setup-and-got-1000-9143fc5febdd, Broken-Access-Control
 - https://haxolot.com/posts/2022/moodle_pre_auth_shibboleth_rce_part2/, Session-hijacking
@@ -1705,7 +1702,6 @@
 - http://omespino.com/write-up-telegram-bug-bounty-whatsapp-n-a-blind-xss-stored-ios-in-messengers-twins-who-really-care-about-your-security/, Blind-XSS
 - https://medium.com/@sudhanshur705/xss-in-microsoft-subdomain-81c4e46d6631, XSS
 - https://secreltyhiddenwriteups.blogspot.com/2018/07/gsuite-hangouts-chat-5k-idor.html, IDOR
-- https://medium.com/@jonathanbouman/persistent-xss-at-ah-nl-198fe7b4c781, Stored-XSS
 - https://medium.com/@logicbomb_1/bugbounty-compromising-user-account-how-i-was-able-to-compromise-user-account-via-http-4288068b901f, HTTP-parameter-pollution
 - https://leigh-annegalloway.com/tumblr/, Captcha-bypass
 - https://zseano.medium.com/how-re-signing-up-for-an-account-lead-to-account-takeover-3a63a628fd9f, Logic-flaw
@@ -1898,7 +1894,6 @@
 - http://blog.shashank.co/2013/12/imgur-xss.html, XSS
 - https://maustin.net/articles/2013-12/flickr_xss, XSS
 - http://blog.shashank.co/2013/12/heroku-directory-transversal.html, Path-traversal
-- http://blog.shashank.co/2013/11/oracle-xss.html, XSS
 - https://www.rcesecurity.com/2013/09/paypal-bug-bounty-paypaltech-com-e-mail-injection/, Email-injection
 - https://arulkumar.in/delete-any-photo-from-facebook-by-exploiting-support-dashboard, IDOR
 - https://josipfranjkovic.blogspot.com/2013/07/sql-injections-in-nokia-sites.html, SQL-injection
