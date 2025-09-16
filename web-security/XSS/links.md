@@ -269,3 +269,5 @@
 - http://mahmoudsec.blogspot.com/2015/09/how-i-found-xss-vulnerability-in-google.html
 - https://systemweakness.com/chained-bug-xml-file-upload-to-xss-to-csrf-to-full-account-take-over-ato-156409c41b57
 - http://blog.shashank.co/2013/11/oracle-xss.html
+- https://bergee.it/blog/turning-cookie-based-xss-into-account-takeover/
+- https://servicenger.com/mobile/facebook-android-webview-vulnerability/

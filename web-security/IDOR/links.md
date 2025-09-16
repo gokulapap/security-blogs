@@ -224,3 +224,4 @@
 - https://medium.com/@bababounty99/never-give-up-story-of-hacking-dutch-government-and-earning-that-swag-b518cca81c78
 - https://vbharad.medium.com/how-i-hacked-everyones-resume-cv-s-and-got-851aaa4d75d9
 - https://medium.com/@rohit443/idor-on-password-change-to-full-account-takeover-4d96b9f7f9f0
+- https://medium.com/bugbountywriteup/stories-of-idor-part-2-29d313a39e55

@@ -252,3 +252,4 @@
 - https://web.archive.org/web/20200814185643/https://medium.com/@adeshkolte/how-i-earned-750-bounty-reward-from-at-t-bug-bounty-adesh-kolte-ae62dea44083
 - https://www.wojciechregula.blog/post/macos-atlassian-companion-rce/
 - https://www.zerodayinitiative.com/blog/2023/6/29/cve-2023-20864-remote-code-execution-in-vmware-aria-operations-for-logs
+- https://medium.com/@sw33tlie/finding-a-p1-in-one-minute-with-shodan-io-rce-735e08123f52

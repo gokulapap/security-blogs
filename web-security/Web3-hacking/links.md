@@ -1,1 +1,2 @@
 - https://consensys.net/diligence/blog/2022/09/the-forgotten-ipfs-vulnerabilities/
+- https://joranhonig.nl/stealing-info-using-ipfs-fuse/

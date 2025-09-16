@@ -541,7 +541,6 @@
 - https://medium.com/@Parag_Bagul/how-i-found-moodle-cross-site-scripting-459a1c9ad4d5, XSS
 - https://hopesamples.blogspot.com/2022/09/details-about-future-collaboration.html, IDOR
 - https://taggart-tech.com/quasar-electron/, Local-Privilege-Escalation
-- https://bergee.it/blog/turning-cookie-based-xss-into-account-takeover/, XSS
 - https://ssd-disclosure.com/ssd-advisory-linux-config_watch_queue-lpe/, Memory-corruption
 - https://medium.com/@0x0Asif/how-i-found-my-first-rce-8f8033883dc4, IDOR
 - https://nokline.github.io/bugbounty/2022/09/02/Glassdoor-Cache-Poisoning.html, Web-cache-poisoning
@@ -803,7 +802,6 @@
 - https://infosecwriteups.com/authorization-bypass-gmail-2949af041fb, Spoofing
 - https://systemweakness.com/accessing-godaddy-internal-instance-through-an-email-logic-bug-fdbea7b23542, Logic-flaw
 - https://zoidsec.medium.com/breaking-parse-logic-gain-access-to-nginx-api-read-write-upstreams-1cb062aa44ca, Path-traversal
-- https://servicenger.com/mobile/facebook-android-webview-vulnerability/, XSS
 - https://infosecwriteups.com/idor-leads-to-leak-private-details-866563365490, IDOR
 - https://trevorspiniolas.com/doorlock/doorlock.html, DoS
 - https://m7-arman.medium.com/one-click-to-account-takeover-1f78c6003eba, Mass-assignment
@@ -873,7 +871,6 @@
 - https://omespino.com/write-up-google-vrp-n-a-arbitrary-local-file-read-macos-via-a-tag-and-null-byte-in-google-earth-pro-desktop-app/, Local-File-Read
 - https://medium.com/@mehdi.alouache/eset-endpoint-security-credentials-theft-90082dfdf474, Credentials-sent-over-unencrypted-channel
 - https://medium.com/cider-sec/bypassing-required-reviews-using-github-actions-6e1b29135cc7, Privilege-escalation
-- https://joranhonig.nl/stealing-info-using-ipfs-fuse/, Web3-hacking
 - https://medium.com/@mehdi.alouache/eset-endpoint-security-credentials-theft-90082dfdf474, Credentials-sent-over-unencrypted-channel
 - https://realkeyboardwarrior.github.io/security/2021/10/11/hacking-youtube.html, Logic-flaw
 - https://mhmdiaa.com/blog/exploiting-html-imports/, XSS
@@ -1355,7 +1352,6 @@
 - http://carnal0wnage.attackresearch.com/2020/03/what-is-your-gcp-infra-worthabout-700.html, Information-disclosure
 - https://ysamm.com/?p=404, Authorization-flaw
 - https://ysamm.com/?p=396, Lack-of-rate-limiting
-- https://medium.com/@sw33tlie/finding-a-p1-in-one-minute-with-shodan-io-rce-735e08123f52, RCE
 - https://bugs.xdavidhu.me/google/2020/03/08/the-unexpected-google-wide-domain-check-bypass/, Logic-flaw
 - https://medium.com/@adonkidz7/google-ads-self-xss-html-injection-5000-52280da76c80, Self-XSS
 - https://medium.com/a-bugz-life/exploiting-an-ssrf-trials-and-tribulations-14c5d8dbd69a, SSRF
@@ -1411,7 +1407,6 @@
 - https://www.hackerinside.me/2019/12/xss-like-pro.html, XSS
 - https://medium.com/bugbountywriteup/dank-writeup-on-broken-access-control-on-an-indian-startup-d29132a1ecd, Unrestricted-file-upload
 - https://rez0.blog/hacking/2019/11/29/rce-via-imagetragick.html, RCE
-- https://medium.com/bugbountywriteup/stories-of-idor-part-2-29d313a39e55, IDOR
 - https://www.pankajinfosec.com/post/700-denial-of-service-dos-vulnerability-in-script-loader-php-cve-2018-6389, DoS
 - https://portswigger.net/research/cracking-recaptcha-turbo-intruder-style, Captcha-bypass
 - https://medium.com/@mohameddaher/how-i-paid-2-for-1054-xss-bug-20-chars-blind-xss-payloads-12d32760897b, XSS
