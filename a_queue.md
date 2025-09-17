@@ -28,7 +28,6 @@
 - https://medium.com/@sahandami/find-xss-in-wide-scope-with-kxss-91f9573883c4, XSS
 - https://medium.com/@sushantdhopat/how-i-able-to-perform-open-redirection-lead-to-full-account-takeover-6a624210c5e0, open-redirection
 - https://medium.com/@musab_alharany/10-ways-to-exploit-json-web-token-jwt-ac5f4efbc41b, JWT
-- https://medium.com/@0xm5awy/how-to-find-business-logics-and-broken-access-control-bugs-a31c1a03ced4, BAC
 - https://medium.com/@nav1n/how-i-got-owned-a-multi-billion-dollar-retailers-mysql-databases-using-simple-sql-injection-30f8b0dfd9ce, sql-injection
 - https://medium.com/@vamshi-vemula/how-i-got-my-first-bounty-open-redirect-80832e5bf4e6, open-redirection
 - https://medium.com/@ibm_ptc_security/exploiting-missing-hsts-54f8e23ed80b, misc
@@ -421,7 +420,6 @@
 - https://www.zerodayinitiative.com/blog/2022/11/22/cve-2022-40300-sql-injection-in-manageengine-privileged-access-management, SQL-injection
 - https://0x36.github.io/CVE-2022-32898/, Memory-corruption
 - https://labs.guard.io/xss-vulnerability-found-in-connectwise-remote-access-platform-with-great-potential-for-misuse-by-scammers-a0773da2aacf, Stored-XSS
-- https://emily.id.au/tailscale, RCE
 - https://basu-banakar.medium.com/ssrf-via-dns-rebinding-cve-2022-4096-b7bf75928bb2, SSRF
 - https://github.com/0xacb/recollapse/blob/main/till_recollapse_fuzzing_the_web_for_mysterious_bugs.pdf, Regex
 - https://cybervelia.com/?p=1380, IoT
@@ -726,7 +724,6 @@
 - https://ph-hitachi.medium.com/view-friends-list-of-any-users-using-view-as-facebook-bug-bounty-edeb6af5640b, Logic-flaw
 - https://amit-lt.medium.com/multiple-times-i-hacked-duke-university-with-rxss-vulnerability-7e291aad043a, Reflected-XSS
 - https://omespino.com/write-up-finapi-open-banking-api-oauth-credentials-exposed-in-plain-text-in-android-app/, Hardcoded-credentials
-- https://medium.com/@terminatorLM/small-bugs-are-more-dangerous-than-you-think-9411618191ab, Self-XSS
 - https://blog.relyze.com/2022/03/cve-2022-27643-netgear-r6700v3-upnpd.html, Memory-corruption
 - https://janmuhammadzaidi.medium.com/how-i-bypassed-403-forbidden-domain-using-a-simple-trick-c2d538de04b8, 403-bypass
 - https://www.sentinelone.com/labs/pwning-microsoft-azure-defender-for-iot-multiple-flaws-allow-remote-code-execution-for-all/, RCE
@@ -1070,7 +1067,6 @@
 - https://ysamm.com/?p=621, Authorization-flaw
 - https://ysamm.com/?p=625, Open-redirect
 - https://www.shielder.it/blog/2021/02/hunting-for-bugs-in-telegrams-animated-stickers-remote-attack-surface/, Memory-corruption
-- https://ysamm.com/?p=609, Authorization-flaw
 - https://ysamm.com/?p=613, Information-disclosure
 - https://vbharad.medium.com/stored-xss-in-icloud-com-5000-998b8c4b2075, Stored-XSS
 - https://blog.evanricafort.com/2021/02/idor-in-redacted.html, IDOR
@@ -1347,7 +1343,6 @@
 - https://web.archive.org/web/20201004092711/https://sametsahin.net/posts/administrator-level-privilege-escalation-story/, Privilege-escalation
 - https://medium.com/bugbountywriteup/reflected-xss-on-microsoft-com-subdomains-4bdfc2c716df, Reflected-XSS
 - https://honoki.net/2020/03/18/xxe-scape-through-the-front-door-circumventing-the-firewall-with-http-request-smuggling/, XXE
-- https://medium.com/@manasjha7965/weak-session-validation-bug-let-you-login-even-after-changing-the-session-ids-and-logging-out-from-4bb3ee29a598, Logic-flaw
 - https://medium.com/@ozguralp/using-vulnerability-analytics-feature-like-a-boss-655fc1f1543b, SSRF
 - http://carnal0wnage.attackresearch.com/2020/03/what-is-your-gcp-infra-worthabout-700.html, Information-disclosure
 - https://ysamm.com/?p=404, Authorization-flaw

@@ -12,3 +12,4 @@
 - https://ahmadaabdulla.medium.com/mr-robot-self-xss-from-informative-to-high-1200-csrf-open-redirect-self-xss-to-stored-92f371ba3da1
 - https://enfinlay.github.io//xss/selfxss/upload/bugbounty/2021/02/09/selfxss-to-rxss-via-file-name.html
 - https://github.com/tess-ss/writeups/blob/main/bug.md
+- https://medium.com/@terminatorLM/small-bugs-are-more-dangerous-than-you-think-9411618191ab
