@@ -210,7 +210,6 @@
 - https://blog.ethiack.com/en/blog/git-arbitrary-configuration-injection-cve-2023-29007, Logic-flaw
 - https://blog.assetnote.io/2023/04/26/xss-million-websites-cpanel/, Reflected-XSS
 - https://www.bitsight.com/blog/new-high-severity-vulnerability-cve-2023-29552-discovered-service-location-protocol-slp, DoS
-- https://medium.com/cyesec/no-portals-needed-79995d8f7e62, MFA-bypass
 - https://blog.ryotak.net/post/github-actions-staff-access-token-en/, CICD
 - https://infosecwriteups.com/xs-leak-deanonymize-microsoft-skype-users-by-any-3rd-party-website-69849e4501a8, XSLeaks
 - https://medium.com/bugbountywriteup/uncovering-a-critical-vulnerability-my-journey-of-discovering-cve-2021-31589-a-reflected-xss-in-1e13c0aa41b0, Components-with-known-vulnerabilities
@@ -518,7 +517,6 @@
 - https://blog.sonarsource.com/onedev-remote-code-execution/, RCE
 - https://doyensec.com/resources/Doyensec_Apollo_Report_Q22022_v4_AfterRetest.pdf, DoS
 - https://ssd-disclosure.com/ssd-advisory-linux-clock_thread_cputime_id-lpe/, Memory-corruption
-- https://srahulceh.medium.com/bug-bounty-how-i-found-an-sensitive-information-disclosure-reconnaissance-542daf10dd19, Information-disclosure
 - https://medium.com/@Parag_Bagul/ssrf-attack-leading-to-aws-metadata-e95155fa6c6f, SSRF
 - https://blog.hacktivesecurity.com/index.php/2022/09/17/http/, HTTP-request-smuggling
 - https://systemweakness.com/how-i-made-the-multiple-hall-of-fame-in-nokia-within-2-minutes-535056fcb66d, Clickjacking
@@ -685,7 +683,6 @@
 - https://securityflow.io/impact-of-an-insecure-deep-link/, Insecure-deeplink
 - https://orwaatyat.medium.com/my-new-discovery-in-oracle-e-business-login-panel-that-allowed-to-access-for-all-employees-ed0ec4cad7ac, Exposed-registration-page
 - https://basyounii.medium.com/forging-oauth-tokens-using-discovered-client-id-and-client-secret-d224e4e7892a, Information-disclosure
-- https://web.archive.org/web/20220513145411/https://pwnsec.ninja/2022/05/12/takeover-seller-accounts-worth-billions-millions/, IDOR
 - https://systemweakness.com/resolveuri-rxss-imperva-waf-bypass-c834ca573bd4, XSS
 - https://systemweakness.com/rce-via-dependency-confusion-e0ed2a127013, Dependency-confusion
 - https://melotover.medium.com/can-analyzing-javascript-files-lead-to-remote-code-execution-f24112f1aa1f, Unrestricted-file-upload
@@ -1035,7 +1032,6 @@
 - https://sudhanshur705.medium.com/how-i-made-it-to-google-hof-f1cec85fdb1b, IDOR
 - https://godiego.co/posts/STO-AWS/, Subdomain-takeover
 - https://gccybermonks.com/posts/xss-mozilla/, XSS
-- https://infosecwriteups.com/how-i-hacked-facebook-part-two-ffab96d57b19, SSRF
 - https://med-mahmoudi26.medium.com/chaining-bugs-for-the-greater-good-664412ae85f8, Blind-XSS
 - https://blog.teddykatz.com/2021/03/17/github-actions-write-access.html, Logic-flaw
 - https://blog.melbadry9.xyz/dangling-dns/xyz-services/ddns-worksites, Dangling-DNS-records
@@ -1369,7 +1365,6 @@
 - https://medium.com/@sushiwushi2/hijacking-shared-report-links-in-google-data-studio-75eab320c391, Authorization-flaw
 - https://www.perimeterx.com/tech-blog/2020/whatsapp-fs-read-vuln-disclosure/, Stored-XSS
 - https://jatindhankhar.in/blog/responsible-disclosure-breaking-out-of-a-sandboxed-editor-to-perform-rce/, RCE
-- https://medium.com/@zseano/easily-leaking-passenger-information-on-an-airline-18f99b22cf95, IDOR
 - https://medium.com/@navne3t/csrf-csrf-csrf-f203e6452a9c, CSRF
 - https://techblog.mediaservice.net/2020/01/ok-google-bypass-the-authentication/, Authentication-bypass
 - https://medium.com/@abhishake100/hyperlink-injection-easy-money-sometimes-cc1104655300, Hyperlink-injection

@@ -225,3 +225,5 @@
 - https://vbharad.medium.com/how-i-hacked-everyones-resume-cv-s-and-got-851aaa4d75d9
 - https://medium.com/@rohit443/idor-on-password-change-to-full-account-takeover-4d96b9f7f9f0
 - https://medium.com/bugbountywriteup/stories-of-idor-part-2-29d313a39e55
+- https://medium.com/@zseano/easily-leaking-passenger-information-on-an-airline-18f99b22cf95
+- https://web.archive.org/web/20220513145411/https://pwnsec.ninja/2022/05/12/takeover-seller-accounts-worth-billions-millions/
