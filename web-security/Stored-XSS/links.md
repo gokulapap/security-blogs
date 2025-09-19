@@ -102,3 +102,4 @@
 - https://prashantbhatkal2000.medium.com/svg-based-stored-xss-ee6e9b240dee
 - https://filipaze.medium.com/how-i-find-my-first-stored-xss-c6f57155cc1a
 - https://medium.com/@jonathanbouman/persistent-xss-at-ah-nl-198fe7b4c781
+- https://www.aeth.cc/public/Article-Pass-Culture/stored-xss-article-en.html

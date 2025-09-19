@@ -316,7 +316,6 @@
 - https://decoded.avast.io/janvojtesek/dota-2-under-attack-how-a-v8-bug-was-exploited-in-the-game/, V8-JavaScript-engine
 - https://blog.quarkslab.com/post-exploitation-abusing-the-keepass-plugin-cache.html, Local-Privilege-escalation
 - https://eaton-works.com/2023/02/06/toyota-gspims-hack/, Authentication-bypass
-- https://securitylabs.datadoghq.com/articles/aws-console-rate-limit-bypass/, Rate-limiting-bypass
 - https://bloggerrando.blogspot.com/2023/02/06-2.html, Logic-flaw
 - https://security.lauritz-holtmann.de/post/xss-ato-gadgets/, SSO
 - https://medium.com/@rezaduty/play-with-google-twitter-apple-dell-a90777faa779, XSS
@@ -428,7 +427,6 @@
 - https://r29k.com/articles/bb/account-takeover, Account-takeover
 - https://www.semperis.com/blog/syncjacking-azure-ad-account-takeover/, Account-takeover
 - https://nirmaldahal.com.np/posts/2022/11/megas-unlimited-cloud-storage-vulnerability/, Logic-flaw
-- https://ian.sh/etugra, Default-credentials
 - https://medium.com/@hf6452/a-story-of-a-strange-stored-idor-b6f2769bb6cb, IDOR
 - https://www.oxeye.io/blog/remote-code-execution-in-spotifys-backstage, RCE
 - https://blog.sonarsource.com/checkmk-rce-chain-1/, RCE
@@ -871,7 +869,6 @@
 - https://medium.com/@cappriciosec/how-i-hacked-billion-android-users-social-and-3rd-party-account-a-story-about-5000-bug-c422ca43bd2, Android
 - https://medium.com/@mamunwhh/how-i-got-500-with-open-redirect-48fd80c82631, Open-redirect
 - https://mikekitckchan.medium.com/power-of-your-own-wordlist-fuzz-for-log-file-leads-to-information-leakage-ad46958b4729, Information-disclosure
-- https://www.aeth.cc/public/Article-Pass-Culture/stored-xss-article-en.html, Stored-XSS
 - https://supras.io/how-i-got-access-to-many-piis-through-a-source-code-leak/, Information-disclosure
 - https://blog.hacktivesecurity.com/index.php/2021/10/05/cve-2021-43136-formalms-the-evil-default-value-that-leads-to-authentication-bypass/, Authentication-bypass
 - https://sapt.medium.com/bypassing-403-protection-to-get-pagespeed-admin-access-822fab64c0b3, 403-bypass
@@ -1025,7 +1022,6 @@
 - https://ysamm.com/?p=646, Account-takeover
 - https://philippeharewood.com/download-facebook-internal-mobile-builds/, Information-disclosure
 - https://thexssrat.medium.com/i-felt-like-there-were-no-more-bugs-left-after-winning-2000-but-an-email-worth-750-changed-my-c7a507649060, Broken-Access-Control
-- https://jychp.medium.com/how-to-bypass-cloudflare-bot-protection-1f2c6c0c36fb, Logic-flaw
 - https://thexssrat.medium.com/poc-the-easiest-125-euros-i-ever-made-4dc87f01e286, Logic-flaw
 - https://www.ehpus.com/post/multiple-authorization-bypass-issues-in-google-s-richmedia-studio, Authorization-flaw
 - https://3bodymo.medium.com/bypass-rate-limit-to-enumeration-users-through-google-drive-ed64e07c879c, Rate-limiting-bypass
@@ -1351,7 +1347,6 @@
 - https://alexbakker.me/post/mysterious-google-titan-m-bug-cve-2019-9465.html, Cryptographic-issues
 - https://medium.com/@bhaveshthakur2015/account-hijack-using-authorization-bypass-which-made-me-richer-by-ba9dace72682, Account-takeover
 - https://ysamm.com/?p=379, CSRF
-- https://medium.com/@Mr.Daman.Singh/how-i-found-3-ssrf-in-one-day-on-different-bug-bounty-targets-62e91b4268f8, SSRF
 - https://web.archive.org/web/20200513211717/https://mrss4nd0x.000webhostapp.com/Stored-XSS-on-groups-google-com.php, Stored-XSS
 - https://web.archive.org/web/20200505142429/https://medium.com/@godofdarkness.msf/reflected-xss-in-at-t-7f1bdd10d8f7, Reflected-XSS
 - https://medium.com/@adonkidz7/my-first-bounty-from-google-d9f1f3f5787a, Self-XSS

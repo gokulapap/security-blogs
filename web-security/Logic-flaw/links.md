@@ -156,3 +156,4 @@
 - https://medium.com/tenable-techblog/remotely-exploiting-zoom-meetings-5a811342ba1d
 - https://medium.com/@janijay007/how-i-was-able-to-see-likes-and-dislikes-count-which-is-hidden-by-victim-youtube-2-721d8e4686a5
 - https://medium.com/@manasjha7965/weak-session-validation-bug-let-you-login-even-after-changing-the-session-ids-and-logging-out-from-4bb3ee29a598
+- https://jychp.medium.com/how-to-bypass-cloudflare-bot-protection-1f2c6c0c36fb

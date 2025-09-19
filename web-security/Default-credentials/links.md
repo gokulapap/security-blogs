@@ -10,3 +10,4 @@
 - https://0xjin.medium.com/bug-bounty-my-remote-code-execution-da7bbd00925a
 - https://infosecwriteups.com/lets-go-for-whole-company-d2e24bcfb5ef
 - https://jspin.re/variant-cloud-analysis/
+- https://ian.sh/etugra
