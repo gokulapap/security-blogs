@@ -52,3 +52,4 @@
 - https://medium.com/@DarkMatterMatt/breaking-a-discord-channel-with-a-single-message-5095eb7604f1
 - https://blog.orange.tw/2022/08/lets-dance-in-the-cache-destabilizing-hash-table-on-microsoft-iis.html
 - https://shahjerry33.medium.com/sql-wildcard-dos-hang-till-death-adbae66d1f7b
+- https://medium.com/@D0rkerDevil/a-infinite-loop-story-f2bc05771a88

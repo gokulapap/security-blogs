@@ -30,7 +30,6 @@
 - https://medium.com/@musab_alharany/10-ways-to-exploit-json-web-token-jwt-ac5f4efbc41b, JWT
 - https://medium.com/@nav1n/how-i-got-owned-a-multi-billion-dollar-retailers-mysql-databases-using-simple-sql-injection-30f8b0dfd9ce, sql-injection
 - https://medium.com/@vamshi-vemula/how-i-got-my-first-bounty-open-redirect-80832e5bf4e6, open-redirection
-- https://medium.com/@ibm_ptc_security/exploiting-missing-hsts-54f8e23ed80b, misc
 - https://medium.com/@ssalssa.1.12.2.1.2.1/hacking-wordpress-server-database-f6cc6c116057, cms
 - https://medium.com/@s3c/how-i-hacked-world-wide-tiktok-users-24e794d310d2, journey
 - https://medium.com/@hakluke/interlace-a-productivity-tool-for-pentesters-and-bug-hunters-automate-and-multithread-your-d18c81371d3d, automation
@@ -384,7 +383,6 @@
 - https://crypt0g30rgy.github.io/post/AWSTakeover, Information-disclosure
 - https://dappsec.substack.com/p/an-advisory-for-cve-2019-16891-from, RCE
 - https://infosecwriteups.com/graphql-idor-leaking-credit-card-information-of-1000s-of-users-d07eec732979, IDOR
-- https://infosecwriteups.com/directory-ttraversal-vulnerability-in-huawei-hg255s-products-dce941a1d015, Path-traversal
 - https://0xraminfosec.medium.com/simple-cors-misconfig-leads-to-disclose-the-sensitive-token-worth-of-91433763f4d6, CORS-misconfiguration
 - https://salt.security/blog/missing-bricks-finding-security-holes-in-lego-apis, XSS
 - https://www.akamai.com/blog/security-research/msrpc-lsm-cve-disturbing-hosts-rest, Windows
@@ -1195,7 +1193,6 @@
 - https://medium.com/@rikeshbaniyaaa/how-i-was-able-to-do-mass-account-takeover-bug-bounty-b279af1ce62b, Account-takeover
 - https://pulsesecurity.co.nz/advisories/AWS-Bastion-Logger-Bypass, Logging-bypass
 - https://www.computest.nl/en/knowledge-platform/blog/vulnerability-new-touchid-feature-iCloud-accounts-at-risk-breached/, OAuth
-- https://rhynorater.github.io/CVE-2020-13379-Write-Up, SSRF
 - https://objective-see.com/blog/blog_0x4D.html, Local-Privilege-Escalation
 - https://medium.com/bugbountywriteup/bypassing-otp-via-reset-password-f004a29020c, OTP-bypass
 - https://medium.com/bugbountywriteup/my-first-bug-bounty-21d3203ffdb0, Information-disclosure
@@ -1292,7 +1289,6 @@
 - https://www.bad5ect0r.sh/posts/stored-xss-leads-to-plaintext-password-disclosure/, Stored-XSS
 - https://medium.com/@bilalmerokhel/chained-bugs-account-takeover-ceff67d1d55a, IDOR
 - https://medium.com/@swapmaurya20/password-reset-poisoning-leading-to-account-takeover-f178f5f1de87, Password-reset
-- http://hack4bounty.com/how-i-got-my-first-swag-on-edmodo-with-a-simple-xss/, Stored-XSS
 - https://medium.com/bugbountywriteup/weak-cryptography-in-password-reset-to-full-account-takeover-fc61c75b36b9, Account-takeover
 - https://medium.com/@talatmehmood1995/bug-bounty-advanced-manual-penetration-testing-leading-to-price-manipulation-vulnerability-d935a3a5ddf6, Payment-tampering
 - https://embracethered.com/blog/posts/2020/mozilla-bug-bounty-credential-hunt-phabricator-token/, Information-disclosure
@@ -1657,7 +1653,6 @@
 - https://blog.securitybreached.org/2018/09/07/rce-jenkins-instance-dosomething-org-bug-bounty-poc/, RCE
 - https://medium.com/@ciph3r7r0ll/simple-login-brute-force-current-password-requirement-bypass-e8f58931e257, IDOR
 - https://medium.com/@mahitman1/i-own-your-customers-22e965761abd, Information-disclosure
-- https://medium.com/@D0rkerDevil/a-infinite-loop-story-f2bc05771a88, DoS
 - https://medium.com/@UpdateLap/idor-facebook-malicious-person-add-people-to-the-top-fans-4f1887aad85a, IDOR
 - https://medium.com/@nandwanajatin25/my-first-valid-xss-hackerone-f8ba0a7c647, XSS
 - https://web.archive.org/web/20200829220607/https://medium.com/@adeshkolte/sql-injection-vulnerability-in-university-of-cambridge-b4c8d0381e1, SQL-injection

@@ -28,3 +28,4 @@
 - https://medium.com/bugbountywriteup/bugbounty-api-keys-leakage-source-code-disclosure-in-indias-largest-e-commerce-health-care-c75967392c7e
 - https://blog.sonarsource.com/zimbra-pre-auth-rce-via-unrar-0day/
 - https://blog.nyangawa.me/security/GitLab-Local-File-Read/
+- https://infosecwriteups.com/directory-ttraversal-vulnerability-in-huawei-hg255s-products-dce941a1d015
