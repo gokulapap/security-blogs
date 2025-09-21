@@ -80,7 +80,6 @@
 - https://medium.com/@thexssrat/subdomain-flyover-and-manual-exploration-of-the-results-15c69d509091, STO
 - https://medium.com/@orkhan_alibayli/subdomain-takeover-95646de1f436, STO
 - https://medium.com/@arrheniuspaelongan09/critical-vulnerability-when-applying-for-a-job-otp-bypass-via-response-manipulation-69b7182a8606, critical-bugs
-- https://medium.com/@vuk.ivanovic9000/salesforce-bug-hunting-to-critical-bug-b5da44789d3, critical-bugs
 - https://medium.com/@dcube.merlin/basic-web-security-testing-apis-58f37e01a730, api
 - https://medium.com/@pyrrhon/how-i-was-able-to-take-over-one-of-dells-subdomains-7e06b8516e41, STO
 - https://medium.com/@stopvvar/sql-injection-with-insert-statement-bdcf4d47d178, sql-injection
@@ -363,7 +362,6 @@
 - https://crypt0g30rgy.github.io/post/PaymentBypassOne, Payment-bypass
 - https://medium.com/@LogicalHunter/identity-aware-proxy-misconfiguration-google-cloud-vulnerability-813d2a07a4ed, CORS-misconfiguration
 - https://3sjay.github.io/2023/01/06/pandoraFMS-Pre-Auth-RCE.html, RCE
-- https://blog.abdulrah33m.com/prototype-pollution-in-python/, Prototype-pollution
 - https://labs.nettitude.com/blog/cve-2022-25026-cve-2022-25027-vulnerabilities-in-rocket-trufusion-enterprise/, Authentication-bypass
 - https://samcurry.net/web-hackers-vs-the-auto-industry/, Account-takeover
 - https://acut3.github.io/bug-bounty/2023/01/03/fetch-diversion.html, DOM-XSS
@@ -564,7 +562,6 @@
 - https://accessvector.net/2022/freebsd-aio-lpe, Memory-corruption
 - https://infosecwriteups.com/salesforce-bug-hunting-to-critical-bug-b5da44789d3, Information-disclosure
 - https://bergee.it/blog/five-minute-hunting-for-hidden-xss/, Reflected-XSS
-- https://bergee.it/blog/url-filter-bypass-rfi-and-xss/, Stored-XSS
 - https://blog.bugzero.io/how-i-get-into-united-nations-hall-of-fame-6975e3d3cc45, Missing-authentication
 - https://medium.com/@lovely.goyal1998/story-of-5000-bounty-for-grafana-panel-access-in-apple-89c93ab4486f, Missing-authentication
 - https://www.akamai.com/blog/security/authentication-coercion-windows-server-service, Off-by-one-Error
@@ -1321,7 +1318,6 @@
 - https://blog.securitybreached.org/2020/04/04/playing-with-json-web-tokens-for-fun-and-profit/, Password-reset
 - https://medium.com/@pig.wig45/touch-id-authentication-bypass-on-evernote-and-dropbox-ios-apps-7985219767b2, Authentication-bypass
 - https://medium.com/@nnez/always-escalate-from-self-xss-to-persistent-xss-on-login-portal-54265b0adfd0, Self-XSS
-- https://medium.com/@ravillabharath123/account-take-over-without-user-interaction-f4ed2bf977de, Password-reset
 - https://medium.com/@shahjerry33/privilege-escalation-hello-admin-a53ac14fd388, Privilege-escalation
 - https://medium.com/@ashokcpg/the-story-of-my-first-ever-1500-bounty-from-facebook-49eb64d26160, Logic-flaw
 - https://blog.securitybreached.org/2020/03/31/microsoft-rce-bugbounty/, RCE
@@ -1871,7 +1867,6 @@
 - http://blog.shashank.co/2013/12/heroku-directory-transversal.html, Path-traversal
 - https://www.rcesecurity.com/2013/09/paypal-bug-bounty-paypaltech-com-e-mail-injection/, Email-injection
 - https://arulkumar.in/delete-any-photo-from-facebook-by-exploiting-support-dashboard, IDOR
-- https://josipfranjkovic.blogspot.com/2013/07/sql-injections-in-nokia-sites.html, SQL-injection
 - https://josipfranjkovic.blogspot.com/2013/07/how-i-found-my-way-into-instagrams.html, Reflected-XSS
 - https://bitquark.co.uk/blog/2013/07/19/admob_creative_image_xss, XSS
 - http://www.rafayhackingarticles.net/2013/02/dom-based-xss-in-avg.html, DOM-XSS

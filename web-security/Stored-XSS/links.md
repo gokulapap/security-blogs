@@ -104,3 +104,4 @@
 - https://medium.com/@jonathanbouman/persistent-xss-at-ah-nl-198fe7b4c781
 - https://www.aeth.cc/public/Article-Pass-Culture/stored-xss-article-en.html
 - http://hack4bounty.com/how-i-got-my-first-swag-on-edmodo-with-a-simple-xss/
+- https://bergee.it/blog/url-filter-bypass-rfi-and-xss/

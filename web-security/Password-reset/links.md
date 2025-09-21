@@ -19,3 +19,4 @@
 - https://medium.com/techiepedia/how-i-was-able-to-takeover-any-account-on-foxit-com-7a08efa0144f
 - https://web.archive.org/web/20200511115634/https://medium.com/@godofdarkness.msf/users-email-disclosure-via-invalid-password-reset-link-250-c431ed46680e
 - https://medium.com/@2os5/easy-account-takeover-on-dell-subdomain-6297460741fd
+- https://medium.com/@ravillabharath123/account-take-over-without-user-interaction-f4ed2bf977de

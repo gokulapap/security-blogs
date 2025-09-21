@@ -4,3 +4,4 @@
 - https://spaceraccoon.dev/supply-chain-pollution-hunting-a-16-million-download-week-npm-package
 - https://blog.sonarsource.com/blitzjs-prototype-pollution/
 - https://www.codean.io/blog/vulnerability-write-up---%22dangerous-assumptions%22
+- https://blog.abdulrah33m.com/prototype-pollution-in-python/
