@@ -271,3 +271,4 @@
 - http://blog.shashank.co/2013/11/oracle-xss.html
 - https://bergee.it/blog/turning-cookie-based-xss-into-account-takeover/
 - https://servicenger.com/mobile/facebook-android-webview-vulnerability/
+- https://security.lauritz-holtmann.de/post/xss-parameter-guessing/
