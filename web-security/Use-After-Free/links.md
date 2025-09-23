@@ -1,0 +1,1 @@
+- https://blog.redteam.pl/2020/04/google-chrome-display-locking-fuzzing.html
