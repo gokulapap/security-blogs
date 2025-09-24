@@ -4,3 +4,4 @@
 - https://blog.securitybreached.org/2020/06/30/using-inspect-element-to-bypass-security-restrictions-bug-bounty-poc/
 - https://medium.com/@7azimo/hacking-into-admin-panel-of-u-s-federal-government-system-c-a-r-s-without-credentials-9117b865ba58
 - http://blog.randorisec.fr/client-side-validation/
+- https://infosecwriteups.com/security-vs-compliance-cloudflare-password-policy-restriction-bypass-da07ca7df4f2

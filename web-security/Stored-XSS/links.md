@@ -105,3 +105,4 @@
 - https://www.aeth.cc/public/Article-Pass-Culture/stored-xss-article-en.html
 - http://hack4bounty.com/how-i-got-my-first-swag-on-edmodo-with-a-simple-xss/
 - https://bergee.it/blog/url-filter-bypass-rfi-and-xss/
+- https://emanuel-beni.medium.com/stored-xss-on-product-description-high-400-2f078fd70fd2

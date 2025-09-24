@@ -22,3 +22,4 @@
 - https://blog.evanricafort.com/2021/05/2fa-verification-bypass-in-shapeshift.html
 - https://medium.com/cyesec/no-portals-needed-79995d8f7e62
 - https://medium.com/@terminatorLM/abusing-facebooks-feature-for-a-permanent-account-confusion-logic-vulnerability-d7f5160f373a
+- https://medium.com/@aungpyaehackeronetester/two-factor-authentication-bypass-50-5b397e68cfed
