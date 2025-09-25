@@ -5,3 +5,4 @@
 - https://medium.com/@shamimahamed666070/account-takeover-with-rate-limit-bypass-f28c5089a1eb
 - https://vijetareigns.medium.com/wait-time-bypass-for-fun-and-profit-c3837e6bb8ed
 - https://securitylabs.datadoghq.com/articles/aws-console-rate-limit-bypass/
+- https://medium.com/bugbountywriteup/bounty-tip-easiest-way-to-bypass-apis-rate-limit-f984fad40093

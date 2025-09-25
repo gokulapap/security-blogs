@@ -1,1 +1,2 @@
 - https://jub0bs.com/posts/2021-10-12-xsleak-stack/
+- https://infosecwriteups.com/xs-leak-deanonymize-microsoft-skype-users-by-any-3rd-party-website-69849e4501a8

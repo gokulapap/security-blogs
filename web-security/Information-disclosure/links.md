@@ -255,3 +255,4 @@
 - https://medium.com/@robert0/how-did-i-find-a-vulnerability-that-leads-to-access-any-users-sensitive-data-and-got-500-5cce1c21d86a
 - https://srahulceh.medium.com/bug-bounty-how-i-found-an-sensitive-information-disclosure-reconnaissance-542daf10dd19
 - https://medium.com/@IroquoisPliskin/how-i-was-able-to-take-over-a-support-chat-using-leaked-keys-d5c4922bb3d4
+- https://ysamm.com/?p=158
