@@ -50,7 +50,6 @@
 - https://medium.com/@ishakudkar/owasp-1-injection-cad772e39a0f, injection
 - https://medium.com/@spideynati/how-i-was-able-to-get-free-for-months-because-of-this-bug-31b1396c563f, journey
 - https://medium.com/@h4krg33k/open-redirects-for-bug-bounties-bf4b58313842, open-redirection
-- https://medium.com/@dewangpanchal98/tell-of-my-first-bounty-d3c5a85e18c9, journey
 - https://medium.com/@xcheater/recon-methodology-for-bug-hunting-e623120a7ca6, recon
 - https://medium.com/@ahmdhalabi/taking-over-employee-accounts-by-managers-with-zero-employee-interaction-b60784c3ad84, misc
 - https://medium.com/@tomnomnom/making-a-blind-sql-injection-a-little-less-blind-428dcb614ba8, sql-injection
@@ -584,7 +583,6 @@
 - https://medium.com/tinder/exploiting-github-actions-on-open-source-projects-5d93936d189f, RCE
 - https://claroty.com/team82/blog/with-management-comes-risk-finding-flaws-in-filewave-mdm, Authentication-bypass
 - https://medium.com/@720922/a-developers-nightmare-story-of-a-simple-idor-and-some-poor-fixes-worth-1125-5ead70b0a1de, IDOR
-- https://0xpwn.wordpress.com/2022/07/23/how-i-made-300-github-repos-point-to-my-blog-using-azure-subdomains-takeover/, Subdomain-takeover
 - https://medium.com/@Steiner254/bounty-in-less-3-minutes-from-a-google-dork-54bd9bf3a650, Information-disclosure
 - https://www.yesnaveen.com/2022/07/permanently-crash-instagram-followers.html, DoS
 - https://www.vectra.ai/blogpost/abusing-the-replicator-silently-exfiltrating-data-with-the-aws-s3-replication-service, Security-Logging-and-Monitoring-Failure
@@ -1057,13 +1055,11 @@
 - https://sanderwind.medium.com/escalating-ssrf-to-rce-7c0147371c40, SSRF
 - http://almadj.us/infosec/xxe-to-aws-metadata-disclosure/, XXE
 - https://pullerjsecu.medium.com/how-i-was-able-to-turn-a-xss-into-a-account-takeover-ae0c478640e7, Web-cache-poisoning
-- https://web.archive.org/web/20210204093332/https://nhiephon1337.medium.com/1st-facebook-bug-bounty-disclose-pages-admin-to-mod-admin-of-group-c3161c22c858, Information-disclosure
 - https://amineaboud.medium.com/disclose-the-fb-profile-of-facebook-employees-who-create-official-announcement-messages-bug-76554068caf7, Information-disclosure
 - https://web.archive.org/web/20210201180254/https://www.cysek.org/post/bac-sxss, Stored-XSS
 - https://www.shawarkhan.com/2021/01/analysing-crash-messages-to-achieve.html, OS-command-injection
 - https://medium.com/bugbountywriteup/bragging-rights-part-1-short-story-of-a-bug-wave-dbb88f48b604, IDOR
 - https://bugbountyhunter.medium.com/500-for-no-rate-limit-on-forgot-password-page-d534d1d750db, Lack-of-rate-limiting
-- https://notifybugme.medium.com/finding-ssrf-by-full-automation-7d2680091d68, SSRF
 - https://yeuchimse.com/leaking-issues-from-linked-jira-atlassian-confluence-server/, XS-Search
 - https://susanwagle123.medium.com/idor-revealing-images-cdn-links-6589e19bdbaf, IDOR
 - https://shaurya-sharma.medium.com/bypassing-waf-with-incorrect-proxy-settings-for-hunting-bugs-3449b7716f59, URL-validation-bypass
@@ -1739,7 +1735,6 @@
 - https://medium.com/@agrawalsmart7/sql-is-every-where-5cba6ae9480a, SQL-injection
 - http://www.digitalmunition.com/WhyIWalkedFrom3k.pdf, AWS-misconfiguration
 - https://zseano.medium.com/how-signing-up-for-an-account-with-an-company-com-email-can-have-unexpected-results-7f1b700976f5, Logic-flaw
-- https://www.ansariosama.com/2017/11/how-i-pwned-company-using-idor-blind-xss.html, IDOR
 - https://medium.com/@abdelfattahibrahim/from-recon-to-dom-based-xss-f279602a14cf, DOM-XSS
 - https://medium.com/@valeriyshevchenko/how-to-delete-all-company-progress-by-one-rm-command-in-aws-s3-bucket-df9c44727d7b, AWS-misconfiguration
 - http://www.noob.ninja/2017/11/local-file-read-via-xss-in-dynamically.html, XSS
