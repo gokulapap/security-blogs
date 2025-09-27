@@ -64,3 +64,4 @@
 - https://infosecwriteups.com/authentication-bypass-easy-p1-in-10-minutes-54d5a2093e54
 - https://infosecwriteups.com/whatsapp-bug-bounty-bypassing-biometric-authentication-using-voip-87548ef7a0ba
 - https://infosecwriteups.com/authentication-bypass-using-root-array-4a179242b9f7
+- https://0x4kd.medium.com/google-sso-misconfiguration-leading-to-account-takeover-cf9bcf63e76e

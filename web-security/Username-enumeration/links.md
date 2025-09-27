@@ -4,3 +4,4 @@
 - https://pulsesecurity.co.nz/advisories/Atlassian-ID-Username-Enumeration
 - https://www.trustedsec.com/blog/onedrive-to-enum-them-all/
 - https://www.rapid7.com/blog/post/2023/07/06/user-enumeration-is-not-a-vulnerability-i-beg-to-differ/
+- https://www.rapid7.com/blog/post/2022/03/03/cve-2021-4191-gitlab-graphql-api-user-enumeration-fixed/

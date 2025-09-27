@@ -10,7 +10,6 @@
 - https://medium.com/@vignesh3004/open-redirect-vulnerability-in-igp-com-c1d76efc59b3, open-redirection
 - https://medium.com/@sumedh00/accessing-admin-dashboard-in-5-seconds-acee737eacfb, journey
 - https://medium.com/@whitehatcyber404/how-to-find-escalating-html-to-ssrf-i-instantly-got-the-hof-within-5minutes-805f173c34e4, ssrf
-- https://medium.com/@that-odd-introvert/django-security-xss-a7722cff2326, CVE
 - https://medium.com/@vickieli/scanning-for-secrets-in-source-code-9fcb486f8c0e, source-code-review
 - https://medium.com/@notifybugme/chaining-an-blind-ssrf-bug-to-get-an-rce-92c09de3c0ba, ssrf
 - https://medium.com/@vickieli/intro-to-ssrf-beb35857771f, ssrf
@@ -50,7 +49,6 @@
 - https://medium.com/@ishakudkar/owasp-1-injection-cad772e39a0f, injection
 - https://medium.com/@spideynati/how-i-was-able-to-get-free-for-months-because-of-this-bug-31b1396c563f, journey
 - https://medium.com/@h4krg33k/open-redirects-for-bug-bounties-bf4b58313842, open-redirection
-- https://medium.com/@xcheater/recon-methodology-for-bug-hunting-e623120a7ca6, recon
 - https://medium.com/@ahmdhalabi/taking-over-employee-accounts-by-managers-with-zero-employee-interaction-b60784c3ad84, misc
 - https://medium.com/@tomnomnom/making-a-blind-sql-injection-a-little-less-blind-428dcb614ba8, sql-injection
 - https://medium.com/@geekboyranjeet/strange-admin-panel-bypass-story-bug-bounty-5e618099baaf, bypass
@@ -466,7 +464,6 @@
 - https://lokeshdlk77.medium.com/facebook-sms-captcha-was-vulnerable-to-csrf-attack-8db537b1e980, CSRF
 - https://web.archive.org/web/20221017025828/https://medium.com/@EX_097/my-first-critical-bug-in-hackerone-platform-2ce9adcb39a6, HTTP-request-smuggling
 - https://blog.kylebot.net/2022/10/16/CVE-2022-1786/, Use-After-Free
-- https://0x4kd.medium.com/google-sso-misconfiguration-leading-to-account-takeover-cf9bcf63e76e, Authentication-bypass
 - https://blog.infiltrateops.io/the-castles-latrine-10f9c16548bd, SQL-injection
 - https://infosecwriteups.com/its-the-little-things-breaking-an-ai-40c30ae85f37, Path-traversal
 - https://checkmarx.com/blog/some-vulnerabilities-dont-have-a-name/, ReDoS
@@ -611,7 +608,6 @@
 - https://infosecwriteups.com/exposing-millions-of-voter-id-card-users-details-8a993c9a5d35, IDOR
 - https://web.archive.org/web/20220716152713/https://snapsec.co/blog/hacking-larksuite/, XSS
 - https://bhashit.in/?p=71, Firebase
-- https://medium.com/@kashyapherry147/origin-ip-to-account-takeover-62d7a54abebf, WAF-bypass
 - https://janmuhammadzaidi.medium.com/vertical-privilege-escalation-the-user-can-takeover-an-admin-account-via-response-manipulation-9237c8b2fefa, Privilege-escalation
 - https://blog.electrovolt.io/posts/vscode-rce/, RCE
 - https://portswigger.net/research/bypassing-firefoxs-html-sanitizer-api, XSS
@@ -728,7 +724,6 @@
 - https://medium.com/@tobydavenn/how-i-made-the-bbc-hall-of-fame-3-times-2c816fa515d7, Information-disclosure
 - https://bloggerrando.blogspot.com/2022/03/13-1.html, Broken-Access-Control
 - https://canmustdie.medium.com/how-did-i-leak-5-2k-customer-data-from-a-large-company-via-broken-access-control-709eb4027409, Broken-Access-Control
-- https://www.rapid7.com/blog/post/2022/03/03/cve-2021-4191-gitlab-graphql-api-user-enumeration-fixed/, Username-enumeration
 - https://muffsec.com/blog/moodle-2nd-order-sqli/, SQL-injection
 - https://web.archive.org/web/20220306040035/https://medium.com/@1337Fenrir/how-did-i-find-directory-traversal-attack-using-github-9b051ed749ca, Information-disclosure
 - https://research.nccgroup.com/2022/02/28/brokenprint-a-netgear-stack-overflow/, Memory-corruption
