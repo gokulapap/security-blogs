@@ -1,0 +1,1 @@
+- https://servicenger.com/blog/mobile/google-photos-theft-of-database-arbitrary-files-android-vulnerability/
