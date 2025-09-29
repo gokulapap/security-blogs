@@ -272,3 +272,4 @@
 - https://bergee.it/blog/turning-cookie-based-xss-into-account-takeover/
 - https://servicenger.com/mobile/facebook-android-webview-vulnerability/
 - https://security.lauritz-holtmann.de/post/xss-parameter-guessing/
+- https://medium.com/@Bishoo97x/google-unrestricted-file-upload-xss-and-html-injection-f6ba3c2cddbf

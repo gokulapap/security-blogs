@@ -257,3 +257,4 @@
 - https://medium.com/@IroquoisPliskin/how-i-was-able-to-take-over-a-support-chat-using-leaked-keys-d5c4922bb3d4
 - https://ysamm.com/?p=158
 - https://web.archive.org/web/20210204093332/https://nhiephon1337.medium.com/1st-facebook-bug-bounty-disclose-pages-admin-to-mod-admin-of-group-c3161c22c858
+- https://medium.com/@cc1h2e1/unauthorized-access-to-all-user-information-leaks-5db95746aecf
