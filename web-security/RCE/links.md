@@ -254,3 +254,4 @@
 - https://www.zerodayinitiative.com/blog/2023/6/29/cve-2023-20864-remote-code-execution-in-vmware-aria-operations-for-logs
 - https://medium.com/@sw33tlie/finding-a-p1-in-one-minute-with-shodan-io-rce-735e08123f52
 - https://emily.id.au/tailscale
+- https://github.com/httpvoid/writeups/blob/main/Apple-RCE.md

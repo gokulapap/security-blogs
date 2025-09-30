@@ -8,7 +8,6 @@
 - https://medium.com/@amit-lt/scenario-of-reflected-cross-site-scripting-vulnerability-a3ee189dd822, XSS
 - https://medium.com/@vignesh3004/open-redirect-vulnerability-in-igp-com-c1d76efc59b3, open-redirection
 - https://medium.com/@sumedh00/accessing-admin-dashboard-in-5-seconds-acee737eacfb, journey
-- https://medium.com/@whitehatcyber404/how-to-find-escalating-html-to-ssrf-i-instantly-got-the-hof-within-5minutes-805f173c34e4, ssrf
 - https://medium.com/@vickieli/scanning-for-secrets-in-source-code-9fcb486f8c0e, source-code-review
 - https://medium.com/@notifybugme/chaining-an-blind-ssrf-bug-to-get-an-rce-92c09de3c0ba, ssrf
 - https://medium.com/@vickieli/intro-to-ssrf-beb35857771f, ssrf
@@ -196,7 +195,6 @@
 - https://medium.com/@lopseg/bug-bounty-writeup-stored-xss-vulnerability-waf-bypass-f38aae7ff9eb, Stored-XSS
 - https://medium.com/@0ta/tenda-n301-v6-cve-2023-29680-cve-2023-29681-a40f7ae6dc62, Sensitive-Information-Sent-Over-an-Unencrypted-Channel
 - https://ltsirkov.medium.com/netflix-bypassing-multi-factor-authentication-mfa-53135c9d6d50, MFA-bypass
-- https://herolab.usd.de/security-advisories/usd-2022-0034/, Local-Privilege-Escalation
 - https://blog.calif.io/p/redash-saml-authentication-bypass, SAML
 - https://the-deniss.github.io/posts/2023/04/26/avast-privileged-arbitrary-file-create-on-quarantine.html, TOCTOU
 - https://mikko-kenttala.medium.com/alias-file-to-rule-them-all-one-click-code-execution-with-alias-file-in-macos-1eeb0a730b88, Arbitrary-Code-Execution
@@ -1057,7 +1055,6 @@
 - https://systemweakness.com/story-behind-sweet-ssrf-40c705f13053, SSRF
 - https://r4id3n.medium.com/ssrf-exploitation-in-spreedsheet-to-pdf-converter-2c7eacdac781, SSRF
 - https://jwlss.pw/mathjs/, RCE
-- https://github.com/httpvoid/writeups/blob/main/Apple-RCE.md, RCE
 - https://warandcode.com/post/apify-mass-bug-bounty/, Akamai-ARL-attack
 - https://warandcode.com/post/akamai-arl-hack/, Akamai-ARL-attack
 - https://blog.blazeinfosec.com/attack-of-the-clones-2-git-command-client-remote-code-execution-strikes-back/, RCE
@@ -1140,7 +1137,6 @@
 - https://payatu.com/blog/nikhil-mittal/my-hacking-adventures-with-safari-reader-mode, CSP-bypass
 - https://medium.com/bugbountywriteup/accessing-the-website-directly-through-its-ip-address-a-case-of-a-poorly-hidden-sql-injection-82833defbbc3, SQL-injection
 - https://blog.redteam.pl/2020/08/stealing-local-files-using-safari-web.html, Browser-hacking
-- https://medium.com/@ricardoiramar/account-takeover-for-the-win-e320ce83cdd9, Account-takeover
 - https://medium.com/bugbountywriteup/upload-to-the-future-1fd38fd502bd, IDOR
 - https://medium.com/@mateusz.olejarka/a-perfect-duplicate-or-how-to-send-an-email-with-a-spoofed-invoices-content-66cf369bbaa3, Email-spoofing
 - https://medium.com/bugbountywriteup/fun-with-header-and-forget-password-with-a-twist-af095b426fb2, Password-reset
@@ -1647,7 +1643,6 @@
 - https://www.bishopfox.com/blog/2018/06/server-side-spreadsheet-injections/, CSV-injection
 - https://blog.ayoubaitelmokhtar.com/2018/06/paypal-bbp-i-couldve-deleted-all-smc.html, CSRF
 - https://medium.com/@adrien_jeanneau/how-i-was-able-to-list-some-internal-information-from-paypal-bugbounty-ca8d217a397c, Expression-Language-Injection
-- https://medium.com/@logicbomb_1/bugbounty-database-hacked-of-indias-popular-sports-company-bypassing-host-header-to-sql-7b9af997c610, SQL-injection
 - https://medium.com/@khaled.hassan/are-you-sure-this-is-a-trusted-email-291121028320, Open-mail-relay
 - https://thehackerblog.com/reading-your-emails-with-a-readwrite-chrome-extension-same-origin-policy-bypass-8-million-users-affected/index.html, SOP-bypass
 - http://www.shawarkhan.com/2018/06/getting-php-code-execution-and-leverage.html, Code-injection

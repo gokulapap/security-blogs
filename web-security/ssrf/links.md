@@ -2,3 +2,4 @@
 - https://medium.com/@sirleeroyjenkins/just-gopher-it-escalating-a-blind-ssrf-to-rce-for-15k-f5329a974530
 - https://medium.com/@redfishiaven/bypass-ssrf-via-protocol-change-redirect-a084dad9291e
 - https://medium.com/@basu-banakar/exploiting-non-cloud-ssrf-for-more-fun-profit-3597934518c8
+- https://medium.com/@whitehatcyber404/how-to-find-escalating-html-to-ssrf-i-instantly-got-the-hof-within-5minutes-805f173c34e4
