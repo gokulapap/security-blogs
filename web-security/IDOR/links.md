@@ -228,3 +228,4 @@
 - https://medium.com/@zseano/easily-leaking-passenger-information-on-an-airline-18f99b22cf95
 - https://web.archive.org/web/20220513145411/https://pwnsec.ninja/2022/05/12/takeover-seller-accounts-worth-billions-millions/
 - https://www.ansariosama.com/2017/11/how-i-pwned-company-using-idor-blind-xss.html
+- https://medium.com/@omarahmed_13016/idor-unpin-posts-for-fun-18f628eaef24

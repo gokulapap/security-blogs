@@ -12,3 +12,4 @@
 - https://m7arm4n.medium.com/unauthorized-access-to-admin-panel-via-swagger-c242e8341045
 - http://www.hydrogen18.com/blog/hacking-zyxel-ip-cameras-pt-1.html
 - https://medium.com/@mullangisashank/how-a-port-scan-got-me-nokia-hall-of-fame-6f9b65e920e3
+- https://infosecwriteups.com/how-i-hacked-facebook-part-one-282bbb125a5d

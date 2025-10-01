@@ -49,3 +49,4 @@
 - https://medium.com/nassec-cybersecurity-writeups/an-interesting-story-of-privilege-escalation-1da021e7fd0
 - https://akshartank.medium.com/each-and-every-request-make-sense-4572b3205382
 - https://unit42.paloaltonetworks.com/aws-log4shell-hot-patch-vulnerabilities/
+- https://medium.com/@Rising_Hunter/privilege-escalation-with-simple-recon-da4e50fea9e5

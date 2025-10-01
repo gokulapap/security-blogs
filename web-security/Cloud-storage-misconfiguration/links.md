@@ -1,1 +1,2 @@
 - https://mrd0x.com/easy-bounty-with-exposed-buckets-and-blobs/
+- https://mikey96.medium.com/cloud-based-storage-misconfigurations-critical-bounties-361647f78a29
