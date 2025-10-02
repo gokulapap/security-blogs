@@ -255,3 +255,4 @@
 - https://medium.com/@sw33tlie/finding-a-p1-in-one-minute-with-shodan-io-rce-735e08123f52
 - https://emily.id.au/tailscale
 - https://github.com/httpvoid/writeups/blob/main/Apple-RCE.md
+- https://www.reversemode.com/2023/04/losing-control-over-schneiders.html

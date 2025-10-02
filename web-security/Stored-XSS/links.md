@@ -106,3 +106,4 @@
 - http://hack4bounty.com/how-i-got-my-first-swag-on-edmodo-with-a-simple-xss/
 - https://bergee.it/blog/url-filter-bypass-rfi-and-xss/
 - https://emanuel-beni.medium.com/stored-xss-on-product-description-high-400-2f078fd70fd2
+- https://medium.com/@0day_exploit/stored-xss-via-exif-data-37b279ceb3e9

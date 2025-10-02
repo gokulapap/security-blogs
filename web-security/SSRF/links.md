@@ -124,3 +124,4 @@
 - https://medium.com/@Mr.Daman.Singh/how-i-found-3-ssrf-in-one-day-on-different-bug-bounty-targets-62e91b4268f8
 - https://rhynorater.github.io/CVE-2020-13379-Write-Up
 - https://notifybugme.medium.com/finding-ssrf-by-full-automation-7d2680091d68
+- http://archive.ingredous.com/notes/downnotifer-ssrf/
