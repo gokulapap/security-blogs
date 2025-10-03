@@ -256,3 +256,4 @@
 - https://emily.id.au/tailscale
 - https://github.com/httpvoid/writeups/blob/main/Apple-RCE.md
 - https://www.reversemode.com/2023/04/losing-control-over-schneiders.html
+- https://www.bugcrowd.com/blog/big-bugs-cve-2020-28914/

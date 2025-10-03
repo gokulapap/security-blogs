@@ -299,7 +299,6 @@
 - https://infosecwriteups.com/disabling-js-for-the-win-9d13c606f910, Unrestricted-file-upload
 - https://the-deniss.github.io/posts/2023/02/09/elevation-of-privileges-from-everyone-through-avast-av-sandbox-to-system-amppl.html, Local-Privilege-Escalation
 - https://jowin922.medium.com/reflected-xss-on-target-with-tough-waf-waf-bypass-3b7efd1ef2bc, Reflected-XSS
-- https://decoded.avast.io/janvojtesek/dota-2-under-attack-how-a-v8-bug-was-exploited-in-the-game/, V8-JavaScript-engine
 - https://blog.quarkslab.com/post-exploitation-abusing-the-keepass-plugin-cache.html, Local-Privilege-escalation
 - https://eaton-works.com/2023/02/06/toyota-gspims-hack/, Authentication-bypass
 - https://bloggerrando.blogspot.com/2023/02/06-2.html, Logic-flaw
@@ -1009,7 +1008,6 @@
 - https://maordayanofficial.medium.com/stored-xss-at-trello-com-ef2e3d1ed24b, Stored-XSS
 - https://wwws.nightwatchcybersecurity.com/2021/03/03/content-injection-rce-in-yandex-browser-for-android-2018/, MiTM
 - https://lf.lc/vrp/181521559a/, Container-escape
-- https://www.bugcrowd.com/blog/big-bugs-cve-2020-28914/, RCE
 - https://jayateerthag.medium.com/jira-authenticated-dashboard-access-in-google-acquisition-apigee-ff20cfe11d99, Authentication-bypass
 - https://shubhamchaskar.com/ato-through-pe/, Privilege-escalation
 - https://github.com/champtar/blog/tree/main/K8S_MITM_LoadBalancer_ExternalIPs, MiTM
@@ -1104,7 +1102,6 @@
 - https://medium.com/@parasarora06/cve-2018-5230-jira-cross-site-scripting-59ec96b3d75f, Reflected-XSS
 - https://praseudo.com/sensitive-info-leak-in-curve-app-bug-bounty/, Information-disclosure
 - https://ninetyn1ne.github.io/2020-10-05-open-redir-to-ato/, Path-traversal
-- https://medium.com/@vedanttekale20/spend-more-time-doing-recon-youll-get-more-bugs-e7ffd5bf9202, Reflected-XSS
 - https://medium.com/@vasuyadav0786/exploiting-payment-gateways-97ce7af5a9cf, Payment-tampering
 - https://medium.com/@harshtya9i/journey-of-my-first-bug-bounty-nov-2018-af471c21efc0, Authentication-bypass
 - https://medium.com/@amineaboud/story-of-a-weird-vulnerability-i-found-on-facebook-fc0875eb5125, Authentication-bypass
@@ -1311,7 +1308,6 @@
 - https://medium.com/@navne3t/csrf-csrf-csrf-f203e6452a9c, CSRF
 - https://techblog.mediaservice.net/2020/01/ok-google-bypass-the-authentication/, Authentication-bypass
 - https://medium.com/@abhishake100/hyperlink-injection-easy-money-sometimes-cc1104655300, Hyperlink-injection
-- https://www.amolbaikar.com/xss-on-facebook-instagram-cdn-server-bypassing-signature-protection/, XSS
 - https://medium.com/bugbountywriteup/how-i-bought-my-way-to-subdomain-takeover-on-tokopedia-8c6697c85b4d, Subdomain-takeover
 - https://medium.com/@milanmagyar/ggvulnz-how-i-hacked-hundreds-of-companies-through-google-groups-b69c658c8924, Logic-flaw
 - https://noobe.io/articles/2020-01/how-i-found-bug-google-search-console, Logic-flaw
@@ -1446,7 +1442,6 @@
 - http://www.tomanthony.co.uk/blog/xss-attacks-googlebot-index-manipulation/, Logic-flaw
 - https://baibhavjha.com.np/blogs/instagramstory/, Authorization-flaw
 - https://labs.bluefrostsecurity.de/blog/2019/04/29/dont-follow-the-masses-bug-hunting-in-javascript-engines/, Buffer-Overflow
-- https://gauravnarwani.com/two-factor-authentication-bypass/, MFA-bypass
 - https://edoverflow.com/2019/ci-knew-there-would-be-bugs-here/, Information-disclosure
 - https://medium.com/@iframe_h1/a-picture-that-steals-data-ff604ba1012, Information-disclosure
 - https://medium.com/@heshamwatany/the-neglected-bug-that-can-infect-all-facebook-users-who-pay-for-leads-ads-8c374cd64d76, CSV-injection
