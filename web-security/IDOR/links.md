@@ -229,3 +229,4 @@
 - https://web.archive.org/web/20220513145411/https://pwnsec.ninja/2022/05/12/takeover-seller-accounts-worth-billions-millions/
 - https://www.ansariosama.com/2017/11/how-i-pwned-company-using-idor-blind-xss.html
 - https://medium.com/@omarahmed_13016/idor-unpin-posts-for-fun-18f628eaef24
+- https://medium.com/@swapmaurya20/a-simple-idor-to-account-takeover-88b8a1d2ec24

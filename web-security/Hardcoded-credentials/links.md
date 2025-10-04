@@ -6,3 +6,4 @@
 - https://zolder.io/hacking-my-helium-crypto-miner/
 - https://medium.com/@pig.wig45/from-n-a-to-resolved-for-backblaze-android-app-hackerone-platform-bucket-takeover-f817692a590
 - https://www.vulnano.com/2021/09/facebook-messenger-for-macos-contained.html
+- https://m7arm4n.medium.com/default-credentials-on-sony-swag-time-8e35681ad39e
