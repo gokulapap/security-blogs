@@ -29,3 +29,4 @@
 - https://medium.com/bugbountywriteup/dom-based-xss-or-why-you-should-not-rely-on-cloudflare-too-much-a1aa9f0ead7d
 - https://portswigger.net/research/finding-dom-polyglot-xss-in-paypal-the-easy-way
 - https://medium.com/@0xnaeem/how-i-get-5x-swag-from-sony-102dbefd0c2c
+- https://web.archive.org/web/20180704183048/http://stamone-bug-bounty.blogspot.com/2017/10/dom-xss-auth_14.html

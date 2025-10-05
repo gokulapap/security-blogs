@@ -99,3 +99,4 @@
 - https://medium.com/@shahjerry33/sql-injection-remote-code-execution-double-p1-6038ca88a2ec
 - https://nav1n.medium.com/i-helped-a-top-indian-health-benefits-management-platform-from-major-pii-leak-by-hacking-their-sql-b42caeca9729
 - https://medium.com/@logicbomb_1/bugbounty-database-hacked-of-indias-popular-sports-company-bypassing-host-header-to-sql-7b9af997c610
+- https://www.techncyber.com/2022/07/sql-injection-at-authorization-token.html

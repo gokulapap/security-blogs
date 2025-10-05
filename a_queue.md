@@ -541,7 +541,6 @@
 - https://accessvector.net/2022/freebsd-aio-lpe, Memory-corruption
 - https://infosecwriteups.com/salesforce-bug-hunting-to-critical-bug-b5da44789d3, Information-disclosure
 - https://bergee.it/blog/five-minute-hunting-for-hidden-xss/, Reflected-XSS
-- https://blog.bugzero.io/how-i-get-into-united-nations-hall-of-fame-6975e3d3cc45, Missing-authentication
 - https://medium.com/@lovely.goyal1998/story-of-5000-bounty-for-grafana-panel-access-in-apple-89c93ab4486f, Missing-authentication
 - https://www.akamai.com/blog/security/authentication-coercion-windows-server-service, Off-by-one-Error
 - https://medium.com/@Bishoo97x/un-united-nations-host-header-injection-leads-to-any-full-account-takeover-ato-795bc9ebc670, Host-header-injection
@@ -586,7 +585,6 @@
 - https://medium.com/tenable-techblog/microsoft-azure-site-recovery-dll-hijacking-cd8cc34ef80c, DLL-Hijacking
 - https://medium.com/@soufianehabti/write-up-1-hellosign-integration-full-read-ssrf-df5e1a5bc627, SSRF
 - https://blog.lightspin.io/exploiting-eks-authentication-vulnerability-in-aws-iam-authenticator, Authentication-flaw
-- https://www.techncyber.com/2022/07/sql-injection-at-authorization-token.html, SQL-injection
 - https://bloggerrando.blogspot.com/2022/07/09-1.html, XSS
 - https://medium.com/@Bishoo97x/stored-xss-and-stored-html-injection-in-united-nations-website-db87d445e41, XSS
 - https://ivreznap.medium.com/interesting-privilege-escalation-in-an-old-private-program-225d27253e13, Privilege-escalation
@@ -1548,7 +1546,6 @@
 - https://medium.com/@kunal94/imagemagick-gif-coder-vulnerability-leads-to-memory-disclosure-hackerone-e9975a6a560e, Memory-leak
 - https://medium.com/bugbountywriteup/stored-xss-in-bug-bounty-13c08e6f5636, Stored-XSS
 - https://web.archive.org/web/20181030103042/https://zseano.com/blogs/4.html, CSRF
-- https://medium.com/@plenumlab/idor-in-jwt-and-the-shortest-token-you-will-ever-see-uid-1234567890-4e02377ea03a, IDOR
 - https://medium.com/@logicbomb_1/bugbounty-how-i-was-able-to-download-the-source-code-of-indias-largest-telecom-service-52cf5c5640a1, git-folder-disclosure
 - https://blog.securitybreached.org/2018/10/27/privilege-escalation-like-a-boss/, IDOR
 - https://medium.com/@kankrale.rahul/dos-on-facebook-android-app-using-65530-characters-of-zero-width-no-break-space-db41ca8ded89, DoS
@@ -1568,7 +1565,6 @@
 - https://ls-la.fyi/2018/09/28/subway-xposed/, Logic-flaw
 - https://medium.com/@justmorpheus/idor-content-spoofing-and-url-redirection-via-unsubscribe-email-in-confluent-1fa7398cfe7a, IDOR
 - https://medium.com/@sivakrishnasamireddi/just-another-tale-of-severe-bugs-on-a-private-program-405870b03532, Open-redirect
-- https://medium.com/@logicbomb_1/bugbounty-from-finding-jenkins-instance-to-command-execution-secure-your-jenkins-instance-9bd1e75c2288, RCE
 - https://medium.com/@ratnadip1998/how-i-got-4000-from-visma-for-rce-d541e6042086, RCE
 - https://medium.com/@rahulraveendran06/weaponizing-xss-attacking-internal-domains-d8ba1cbd106d, Blind-XSS
 - https://medium.com/@efkan162/how-i-xssed-uber-and-bypassed-csp-9ae52404f4c5, Reflected-XSS
@@ -1704,7 +1700,6 @@
 - https://medium.freecodecamp.org/messing-with-the-google-buganizer-system-for-15-600-in-bounties-58f86cc9f9a5, Logic-flaw
 - https://blog.intothesymmetry.com/2017/10/slack-saml-authentication-bypass.html, Authentication-bypass
 - https://kciredor.com/taking-over-every-ad-on-olx-automated-an-idor-story.html, IDOR
-- https://web.archive.org/web/20180704183048/http://stamone-bug-bounty.blogspot.com/2017/10/dom-xss-auth_14.html, DOM-XSS
 - https://medium.com/bugbountywriteup/how-i-was-able-to-see-someones-all-private-files-with-a-single-file-share-link-through-atom-feed-7cde46d7e84d, Information-disclosure
 - https://blog.securitybreached.org/2017/10/10/exploiting-insecure-cross-origin-resource-sharing-cors-api-artsy-net, CORS-misconfiguration
 - https://blog.securitybreached.org/2017/10/10/subdomain-takeover-lamborghini-hacked/, Subdomain-takeover
