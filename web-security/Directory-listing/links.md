@@ -6,3 +6,4 @@
 - https://web.archive.org/web/20200926101239/https://medium.com/@adeshkolte/asus-web-application-vulnerabilities-by-adesh-n-kolte-4c14a1bb8739
 - https://mehedishakeel.medium.com/information-exposure-my-fourth-finding-on-hackerone-4fc4461920c4
 - https://medium.com/@saurabh5392/how-i-earned-by-finding-confidential-customer-data-including-plain-text-passwords-f93c4ce2631
+- https://remonsec.com/posts/getting-first-swag-SIDN/

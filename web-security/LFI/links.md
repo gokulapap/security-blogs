@@ -24,3 +24,4 @@
 - https://josipfranjkovic.blogspot.com/2014/12/reading-local-files-from-facebooks.html
 - https://medium.com/@logicbomb_1/bugbounty-journey-from-lfi-to-rce-how-a69afe5a0899
 - https://captainhoook.medium.com/local-file-inclusion-interesting-method-8263c2cb7cd2
+- https://medium.com/@abhishake21/bypassing-lfi-local-file-inclusion-ebf4274e7027

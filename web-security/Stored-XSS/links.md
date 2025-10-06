@@ -107,3 +107,4 @@
 - https://bergee.it/blog/url-filter-bypass-rfi-and-xss/
 - https://emanuel-beni.medium.com/stored-xss-on-product-description-high-400-2f078fd70fd2
 - https://medium.com/@0day_exploit/stored-xss-via-exif-data-37b279ceb3e9
+- https://josipfranjkovic.blogspot.com/2013/01/googlecom-cross-site-scripting-and.html

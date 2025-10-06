@@ -714,7 +714,6 @@
 - https://web.archive.org/web/20221128044142/https://wya.pl/2022/02/26/cve-2022-22947-spel-casting-and-evil-beans/, RCE
 - https://servicenger.com/mobile/facebook-android-vulnerability-launching-internal-tighten-deeplink-onbehalf-of-user/, Android
 - https://gitlab.com/kop316/vvm-disclosure, Voicemail-hacking
-- https://remonsec.com/posts/getting-first-swag-SIDN/, Directory-listing
 - https://github.com/Metnew/write-ups/tree/main/rce-github-desktop-2.9.3, RCE
 - https://web.archive.org/web/20220220072733/https://bloggerrando.blogspot.com/2022/02/stored-xss-on-messagealibabacom-alibaba.html, Stored-XSS
 - https://medium.com/@720922/recon-and-youtube-is-that-a-thing-5523b48c32e3, Subdomain-takeover
@@ -928,7 +927,6 @@
 - https://0xdekster.medium.com/second-order-race-condition-be8aaf774783, Race-condition
 - https://vedanttekale20.medium.com/story-of-my-first-cash-bounty-on-hackerone-acad282ae962, SSRF
 - https://bloggerrando.blogspot.com/2021/06/how-many-likes-and-dislikes-that-was.html, Broken-Access-Control
-- https://medium.com/@abhishake21/bypassing-lfi-local-file-inclusion-ebf4274e7027, LFI
 - https://infosecwriteups.com/admin-panel-pwned-89db333f3836, Information-disclosure
 - https://justintaft.com/blog/2021/06/01/cve-2021-29084-synology-crlf-unauthenticated-file-downloads, CRLF-injection
 - https://master-sec.medium.com/the-beauty-of-chaining-client-side-bugs-759e1091eabf, CRLF-injection
@@ -964,7 +962,6 @@
 - https://n45ht.or.id/post/reflected-xss-on-microsoft/en, Reflected-XSS
 - https://notifybugme.medium.com/aws-internal-metadata-accessed-through-ssrf-by-chaining-an-open-redirect-bug-c4b0e4838dc, SSRF
 - https://davtur19.medium.com/telegram-bug-bounties-xss-privacy-issues-official-bot-exploitation-and-more-5277fa78435, XSS
-- https://parthdeshani.medium.com/got-nice-catch-by-google-5e6a8211371c, OAuth
 - https://notifybugme.medium.com/unauthorized-access-to-admin-setpassword-page-by-bypass-403-forbidden-f10bbb92ab35, Authorization-flaw
 - https://0day.click/recipe/2021-04-18-discourse-themes/, RCE
 - https://pharish4948.medium.com/how-i-earned-3200-in-4hours-through-stored-xss-38597877d3e1, Stored-XSS
@@ -1768,7 +1765,6 @@
 - http://artsploit.blogspot.com/, RCE
 - https://guptashubham.com/swf-xss-dom-based-xss/, Flash-XSS
 - https://guptashubham.com/xss-on-flickr/, XSS
-- https://www.seekurity.com/blog/general/bmw-vulnerabilities-hijack-cars-connecteddrive-service/, Clickjacking
 - http://www.kernelpicnic.net/2016/07/24/Microsoft-signout.live.com-Remote-Code-Execution-Write-Up.html, RCE
 - https://avicoder.me/2016/07/22/Twitter-Vine-Source-code-dump/, Source-code-disclosure
 - https://www.josipfranjkovic.com/blog/race-conditions-on-web, Race-condition
@@ -1801,6 +1797,5 @@
 - https://bitquark.co.uk/blog/2013/07/19/admob_creative_image_xss, XSS
 - http://www.rafayhackingarticles.net/2013/02/dom-based-xss-in-avg.html, DOM-XSS
 - https://whitton.io/archive/framing-part-1-click-jacking-etsy, Clickjacking
-- https://josipfranjkovic.blogspot.com/2013/01/googlecom-cross-site-scripting-and.html, Stored-XSS
 - https://whitton.io/archive/my-experience-with-the-paypal-bug-bounty-programme/, CSRF
 - https://maustin.net/articles/2010-07/facebook_fbml_xss, XSS
