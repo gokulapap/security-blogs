@@ -77,3 +77,4 @@
 - https://offsec.almond.consulting/windows-msiexec-eop-cve-2020-0911.html
 - https://www.imperva.com/blog/google-chrome-symstealer-vulnerability/
 - https://herolab.usd.de/security-advisories/usd-2022-0034/
+- https://systemweakness.com/give-me-a-browser-ill-give-you-a-shell-de19811defa0

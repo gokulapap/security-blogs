@@ -16,3 +16,4 @@
 - https://insinuator.net/2023/07/all-your-parcel-are-belong-to-us-talk-at-troopers-2023/
 - https://medium.com/@lukeberner/information-disclosure-to-gdpr-breach-a-google-tale-f9e99fd5d648
 - https://feed.bugs.xdavidhu.me/bugs/0003
+- https://www.da.vidbuchanan.co.uk/blog/exploiting-acropalypse.html

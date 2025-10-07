@@ -12,3 +12,4 @@
 - https://shahjerry33.medium.com/business-logic-errors-art-of-testing-cards-4907cfb46a57
 - https://pratikyadav0.blogspot.com/2018/10/hello-everyone-took-some-time-from-my.html
 - https://ibraradi.gitbook.io/write-up/upgrade-plan-from-free-to-paid-via-response-manipulation
+- https://research.checkpoint.com/2022/researching-xiaomis-tee/
