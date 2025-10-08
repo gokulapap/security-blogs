@@ -159,3 +159,4 @@
 - https://jychp.medium.com/how-to-bypass-cloudflare-bot-protection-1f2c6c0c36fb
 - https://mrkrhy-xyz.medium.com/tagged-user-could-delete-facebook-story-d7f9cdde92aa
 - https://blog.teddykatz.com/2021/03/17/github-actions-write-access.html
+- https://web.archive.org/web/20220519224811/http://wisdomfreak.com/increasing-reward-points-n-number-of-time/

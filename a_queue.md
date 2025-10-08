@@ -1146,7 +1146,6 @@
 - https://medium.com/@vneelam609/5000-account-takeover-bf7749746981, Account-takeover
 - https://medium.com/@shahjerry33/http-parameter-pollution-its-contaminated-85edc0805654, HTTP-parameter-pollution
 - https://medium.com/@totmukesh/hack-till-your-last-breath-3e58f4fb1738, IDOR
-- https://web.archive.org/web/20220519224811/http://wisdomfreak.com/increasing-reward-points-n-number-of-time/, Logic-flaw
 - https://medium.com/@mohamedayad_72488/dos-over-wep-application-c5176dc29035, DoS
 - https://web.archive.org/web/20201123204526/https://medium.com/@olisandip99/chaining-rate-limiting-for-account-lockout-6a2a7828dd24, Lack-of-rate-limiting
 - https://medium.com/@mohamedayad_72488/bypass-user-restriction-registration-cbfc4eb855, Logic-flaw
@@ -1254,7 +1253,6 @@
 - https://medium.com/bugbountywriteup/how-i-unlocked-the-blocked-accounts-545e9b7d7be1, Password-reset
 - https://blog.doyensec.com/2020/04/08/libressl-fuzzer.html, Memory-corruption
 - https://medium.com/@D0rkerDevil/3k-bounty-for-elastic-search-takeover-70c0847d2e40, Elasticsearch-Takeover
-- https://www.rtcsec.com/2020/04/01-slack-webrtc-turn-compromise/, SSRF
 - https://blog.securitybreached.org/2020/04/04/playing-with-json-web-tokens-for-fun-and-profit/, Password-reset
 - https://medium.com/@pig.wig45/touch-id-authentication-bypass-on-evernote-and-dropbox-ios-apps-7985219767b2, Authentication-bypass
 - https://medium.com/@nnez/always-escalate-from-self-xss-to-persistent-xss-on-login-portal-54265b0adfd0, Self-XSS
@@ -1333,7 +1331,6 @@
 - https://terjanq.github.io/Bug-Bounty/Google/cache-attack-06jd2d2mz2r0/index.html, XS-Search
 - https://fletchto99.dev/2019/november/slack-vulnerability/, CSS-injection
 - https://geleta.eu/2019/my-first-ssrf-using-dns-rebinfing/, SSRF
-- https://web.archive.org/web/20200604001225/https://hackking.net/threads/how-i-hacked-dutch-government-in-5-minutes-twitter-account-takeover.20/, Broken-link-hijacking
 - https://wwws.nightwatchcybersecurity.com/2019/10/24/nfc-beaming-bypasses-security-controls-in-android-cve-2019-2114/, NFC
 - https://philippeharewood.com/1-800-flowers-credentials-and-message-log-leak-via-facebook-com-facebook/, AWS-misconfiguration
 - https://medium.com/bugbountywriteup/how-i-was-able-to-bypass-otp-token-requirement-in-razer-the-story-of-a-critical-bug-fc63a94ad572, OTP-bypass
@@ -1570,7 +1567,6 @@
 - https://medium.com/intigriti/how-i-hijacked-your-account-when-you-opened-my-cat-picture-9a0a0acca9e8, Logout-CSRF
 - https://medium.com/@Mthirup/hacking-your-own-antivirus-for-fun-and-profit-safe-browsing-gone-wrong-365db9d1d3f7, Reflected-XSS
 - https://medium.com/@aniltom/open-redirect-vulnerability-in-udacity-com-7cba7abcfd48, Open-redirect
-- https://blog.securitybreached.org/2018/09/09/zol-zimbabwe-authbypass-sqli-xss/, XSS
 - https://websecblog.com/vulns/reflected-xss-in-google-code-jam/, Reflected-XSS
 - https://blog.securitybreached.org/2018/09/08/sqli-bootcampnutanix-com-bug-bounty-poc/, SQL-injection
 - https://blog.securitybreached.org/2018/09/07/rce-jenkins-instance-dosomething-org-bug-bounty-poc/, RCE
@@ -1669,7 +1665,6 @@
 - https://blog.ibrahimdraidia.com/xss-via-angularjs-template-injection_hostinger/, Reflected-XSS
 - https://corben.io/blog/18-1-11-chaining-yahoo-bugs, CORS-misconfiguration
 - https://blog.securitybreached.org/2018/02/04/hunting-insecure-direct-object-reference-vulnerabilities-for-fun-and-profit-part-1/, IDOR
-- https://medium.com/bugbountywriteup/jumping-to-the-hell-with-10-attempts-to-bypass-devils-waf-4275bfe679dd, XSS
 - https://web.archive.org/web/20200920204426/https://medium.com/@adeshkolte/microsoft-sharepoints-follow-feature-xss-cve-2017-8514-adesh-kolte-d78d701cd064, XSS
 - https://bhavukjain.com/blog/2017/12/20/facebook-google-login-misconfig/, Account-takeover
 - https://mike-n1.github.io/SSRF_P4toP2, Blind-SSRF

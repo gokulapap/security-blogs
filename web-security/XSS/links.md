@@ -274,3 +274,5 @@
 - https://security.lauritz-holtmann.de/post/xss-parameter-guessing/
 - https://medium.com/@Bishoo97x/google-unrestricted-file-upload-xss-and-html-injection-f6ba3c2cddbf
 - https://www.amolbaikar.com/xss-on-facebook-instagram-cdn-server-bypassing-signature-protection/
+- https://blog.securitybreached.org/2018/09/09/zol-zimbabwe-authbypass-sqli-xss/
+- https://medium.com/bugbountywriteup/jumping-to-the-hell-with-10-attempts-to-bypass-devils-waf-4275bfe679dd

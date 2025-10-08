@@ -126,3 +126,4 @@
 - https://notifybugme.medium.com/finding-ssrf-by-full-automation-7d2680091d68
 - http://archive.ingredous.com/notes/downnotifer-ssrf/
 - https://secureitmania.medium.com/an-unknown-linux-secret-that-turned-ssrf-to-os-command-injection-6fe2f4edc202
+- https://www.rtcsec.com/2020/04/01-slack-webrtc-turn-compromise/
