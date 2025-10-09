@@ -231,3 +231,4 @@
 - https://medium.com/@omarahmed_13016/idor-unpin-posts-for-fun-18f628eaef24
 - https://medium.com/@swapmaurya20/a-simple-idor-to-account-takeover-88b8a1d2ec24
 - https://medium.com/@plenumlab/idor-in-jwt-and-the-shortest-token-you-will-ever-see-uid-1234567890-4e02377ea03a
+- https://medium.com/@rojanrijal/developer-luminate-idor-42bd0d98e0c

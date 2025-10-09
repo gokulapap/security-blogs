@@ -11,3 +11,4 @@
 - https://blog.blacklanternsecurity.com/p/yet-another-telerik-ui-revisit
 - https://eprint.iacr.org/2023/331.pdf
 - https://www.praetorian.com/blog/azure-b2c-crypto-misuse-and-account-compromise/
+- https://github.com/andyperlitch/jsbn/issues/43

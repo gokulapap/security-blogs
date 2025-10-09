@@ -1,0 +1,1 @@
+- https://the-deniss.github.io/posts/avast-privileged-arbitrary-file-create-on-restore/
