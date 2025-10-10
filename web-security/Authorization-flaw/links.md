@@ -105,3 +105,4 @@
 - https://www.ash-king.co.uk/downloading-any-file-via-facebook-android.html
 - https://ysamm.com/?p=281
 - https://ysamm.com/?p=609
+- https://medium.com/@rramgattie/exploiting-parameter-pollution-in-golang-web-apps-daca72b28ce2

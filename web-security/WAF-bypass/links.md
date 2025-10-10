@@ -11,3 +11,4 @@
 - https://caesarevan23.medium.com/ssrf-external-service-interaction-for-find-real-ip-cloudflare-and-leads-to-sql-injection-c22c02243299
 - https://blog.yeswehack.com/yeswerhackers/web-application-firewall-bypass/
 - https://medium.com/@kashyapherry147/origin-ip-to-account-takeover-62d7a54abebf
+- https://infosecwriteups.com/bypassing-amazon-waf-to-pop-an-alert-4646ce35554e
