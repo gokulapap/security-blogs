@@ -87,3 +87,4 @@
 - https://infosecwriteups.com/anatomy-of-a-reflected-xss-my-discovery-on-a-microsofts-subdomain-7a237aba4392
 - https://medium.com/bugbountywriteup/5-000-usd-xss-issue-at-avast-desktop-antivirus-for-windows-yes-desktop-1e99375f0968
 - https://medium.com/@vedanttekale20/spend-more-time-doing-recon-youll-get-more-bugs-e7ffd5bf9202
+- https://medium.com/bugbountywriteup/information-disclosure-and-reflected-xss-on-tokopedia-1b3a00ec64c6

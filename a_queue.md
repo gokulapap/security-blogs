@@ -96,7 +96,6 @@
 - https://medium.com/@snoopy101/1000-for-a-simple-stored-xss-8be7083a7c2d, Stored-XSS
 - https://samcurry.net/points-com/, Path-traversal
 - https://research.aurainfosec.io/pentest/hook-line-and-phishlet/, Phishing
-- https://mr-medi.github.io/research/2023/07/31/exploring-cross-site-frame-counting-attacks.html, Cross-Site-Frame-Counting
 - https://hazanasec.github.io/2023-07-30-Samesite-bypass-method-override.md/, Samesite-cookie-bypass
 - https://medium.com/@abhishek.karle92/access-of-android-protected-components-via-embedded-intent-android-app-pentesting-5618ae3cc9b2, Android
 - https://www.mcnulty.blog/posts/dap-csrf, CSRF
@@ -472,7 +471,6 @@
 - https://webs3c.com/t/from-nothing-to-aws-credentials/220, SSRF
 - https://blog.champtar.fr/VLAN0_LLC_SNAP/, Layer-2-networking-vulnerability
 - https://frycos.github.io/vulns4free/2022/09/26/skype-audit-part2.html, SSRF
-- https://bergee.it/blog/blind-account-takeover/, Account-takeover
 - https://blog.infiltrateops.io/tesla-paid-me-10-000-because-of-directory-indexing-c1be06c77a3e, Directory-listing
 - https://sagarsajeev.medium.com/escalating-ssti-to-reflected-xss-using-curly-braces-825685bd93ec, SSTI
 - https://rohit443.medium.com/blind-xss-on-admin-portal-leads-to-information-disclosure-121d26b2a35a, Blind-XSS
@@ -1196,7 +1194,6 @@
 - https://research.securitum.com/the-curious-case-of-copy-paste/, XSS
 - https://web.archive.org/web/20200807155244/https://vict0ni.me/double-url-encoding-xss/, Reflected-XSS
 - https://medium.com/@BreizhZeroDayHunters/when-its-not-only-about-a-kubernetes-cve-8f6b448eafa8, SSRF
-- https://medium.com/bugbountywriteup/information-disclosure-and-reflected-xss-on-tokopedia-1b3a00ec64c6, Reflected-XSS
 - https://medium.com/bugbountywriteup/how-i-leveraged-an-interesting-csrf-vulnerability-to-turn-self-xss-into-a-persistent-attack-b780824042d2, Self-XSS
 - https://medium.com/@win3zz/how-i-made-31500-by-submitting-a-bug-to-facebook-d31bb046e204, SSRF
 - https://f4d3.io/xxe_wild/, XXE
@@ -1439,7 +1436,6 @@
 - https://medium.com/@80vul/from-http-domain-to-res-domain-xss-by-using-ie-adobes-pdf-activex-plugin-9f2a72a87aff, DOM-XSS
 - https://medium.com/@avinash_/disclosure-of-pending-roles-for-any-facebook-page-ab6e4e219f8e, IDOR
 - https://medium.com/@rohitcoder/user-account-takeover-password-change-nice-catch-2293f4d272b2, Account-takeover
-- https://medium.com/@GeneralEG/hack-your-form-new-vector-for-blind-xss-b7a50b808016, Blind-XSS
 - https://medium.com/@newp_th/how-i-find-blind-xss-vulnerability-in-redacted-com-33af18b56869, Blind-XSS
 - https://medium.com/cesppa/escalating-ssrf-to-rce-f28c482eb8b9, SSRF
 - https://philippeharewood.com/cve-2018-16794-on-fs-thefacebook-com/, SSRF
@@ -1564,7 +1560,6 @@
 - https://medium.com/@ciph3r7r0ll/simple-login-brute-force-current-password-requirement-bypass-e8f58931e257, IDOR
 - https://medium.com/@mahitman1/i-own-your-customers-22e965761abd, Information-disclosure
 - https://medium.com/@UpdateLap/idor-facebook-malicious-person-add-people-to-the-top-fans-4f1887aad85a, IDOR
-- https://medium.com/@nandwanajatin25/my-first-valid-xss-hackerone-f8ba0a7c647, XSS
 - https://web.archive.org/web/20200829220607/https://medium.com/@adeshkolte/sql-injection-vulnerability-in-university-of-cambridge-b4c8d0381e1, SQL-injection
 - https://www.updatelap.com/2018/08/privileged-escalation-in-facebook-rooms.html, Authorization-flaw
 - https://medium.com/@black_b/yahoo-idor-elimination-of-any-comment-e898f4f955f1, IDOR
