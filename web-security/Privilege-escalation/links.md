@@ -50,3 +50,4 @@
 - https://akshartank.medium.com/each-and-every-request-make-sense-4572b3205382
 - https://unit42.paloaltonetworks.com/aws-log4shell-hot-patch-vulnerabilities/
 - https://medium.com/@Rising_Hunter/privilege-escalation-with-simple-recon-da4e50fea9e5
+- https://www.netspi.com/blog/technical/cloud-penetration-testing/azure-function-apps/

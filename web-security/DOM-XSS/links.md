@@ -30,3 +30,4 @@
 - https://portswigger.net/research/finding-dom-polyglot-xss-in-paypal-the-easy-way
 - https://medium.com/@0xnaeem/how-i-get-5x-swag-from-sony-102dbefd0c2c
 - https://web.archive.org/web/20180704183048/http://stamone-bug-bounty.blogspot.com/2017/10/dom-xss-auth_14.html
+- http://www.rafayhackingarticles.net/2013/02/dom-based-xss-in-avg.html
