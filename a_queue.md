@@ -346,7 +346,6 @@
 - https://0xlittlespidy.medium.com/indias-aadhar-card-source-code-disclosure-via-exposed-svn-wc-db-c05519ea7761, Source-code-disclosure
 - https://medium.com/@querylab/bypass-premium-account-payment-getpocket-d813b249687c, Payment-bypass
 - https://danaepp.com/hacking-a-net-api-in-the-real-world, LFI
-- https://mtechghost.medium.com/stored-xss-vulnerability-in-microsoft-booking-e593de3344e0, Stored-XSS
 - https://downrightnifty.me/blog/2022/12/26/hacking-google-home.html, IoT
 - https://medium.com/@tobydavenn/bypassing-ssrf-protections-45e5e3ac31e9, SSRF
 - https://github.com/PabloMK7/ENLBufferPwn, Buffer-Overflow
@@ -685,7 +684,6 @@
 - https://wahaz.medium.com/broken-authentication-and-idor-at-redacted-646de8d508e6, IDOR
 - https://naveenroy008.medium.com/broken-session-control-leads-to-access-private-videos-using-the-shared-link-even-after-revoking-the-84e31ac16fe4, Broken-Access-Control
 - https://breakpoint.sh/posts/files.app-symbolic-link-following, iOS
-- https://mearegtu.medium.com/insecure-direct-object-reference-exposes-all-users-of-microsoft-azure-independent-software-vendors-bed3b45e509, IDOR
 - https://medium.com/@interc3pt3r/for-the-first-bounty-it-takes-a-few-challenging-months-but-only-a-few-days-for-the-second-7b53259b0199, Old-components-with-known-vulnerabilities
 - https://shahjerry33.medium.com/parameter-pollution-zero-day-3feb86ee8a02, HTTP-parameter-pollution
 - https://github.com/justinsteven/advisories/blob/main/2022_git_buried_bare_repos_and_fsmonitor_various_abuses.md, RCE
@@ -839,10 +837,8 @@
 - https://vedanttekale20.medium.com/how-i-found-my-first-aem-related-bug-5ea901aad3f4, LFR
 - https://wojciechregula.blog/post/change-home-directory-and-bypass-tcc-aka-cve-2020-27937/, Privacy-issue
 - https://www.spookjs.com, Browser-hacking
-- https://websecblog.com/vulns/google-threadit/, DOM-XSS
 - https://medium.com/@katikitala.sushmitha078/how-i-can-take-over-any-users-account-with-their-mobile-number-6d820a364cad, Account-takeover
 - https://shahjerry33.medium.com/business-logic-errors-must-vote-68f642b60fb7, Logic-flaw
-- https://infosecwriteups.com/bypassed-and-uploaded-a-sweet-reverse-shell-d15e1bbf5836, Unrestricted-file-upload
 - https://cyberguy0xd1.medium.com/how-i-hacked-bbc-mail-servers-e61bb6faed2d, Information-disclosure
 - https://medium.com/pentesternepal/hacking-dutch-government-for-a-lousy-t-shirt-8e1fd1b56deb, IDOR
 - https://cho0k.com/wp-content/uploads/2021/08/FullPoC.pdf, Privilege-escalation
@@ -854,7 +850,6 @@
 - https://web.archive.org/web/20210920030213/https://pmoc.netsoc.cloud/oauth-idor-pii/, IDOR
 - https://sunilyedla.medium.com/websocket-hijacking-to-steal-session-id-of-victim-users-bca84243830, Cross-Site-WebSocket-Hijacking
 - https://srcincite.io/blog/2021/08/25/pwn2own-vancouver-2021-microsoft-exchange-server-remote-code-execution.html, RCE
-- https://maxwelldulin.com/BlogPost?post=7676291072, Logic-flaw
 - https://web.archive.org/web/20210909040725/https://obsrva.org/2021/08/22/monkeytype-disclosure.html, Stored-XSS
 - https://zemnmez.medium.com/how-to-hack-apple-id-f3cc9b483a41, XSS
 - https://tiszka.com/blog/CVE_2021_21225.html, Browser-hacking
