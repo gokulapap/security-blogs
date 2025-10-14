@@ -81,7 +81,6 @@
 - https://medium.com/@uttamgupta_/what-after-recon-bbaf43dbcb68, recon
 - https://medium.com/@caesarevan23/the-journey-to-get-sql-injection-at-bluepay-blue-indonesia-bluepay-2019-7a23bbce4cb8, journey
 - https://medium.com/@huang-h-kevin/from-retargeting-to-rce-my-journey-from-advertising-to-cybersecurity-4c6149a25c58, journey
-- https://medium.com/@nidhipanchal719/open-redirect-to-xss-in-united-nation-website-f4394aa6ed04, XSS
 - https://medium.com/@sghosh2402/demystifying-insecure-deserialization-in-php-684cab9c4d24, deserialization
 - https://medium.com/@v3d/full-account-takeover-via-password-reset-flaw-my-first-blog-10d6e11df2e0, reset-password
 - https://medium.com/@shubhangivashist/how-to-exploit-directory-traversal-vulnerabilities-176eeb7f2655, directory-traversal
@@ -203,7 +202,6 @@
 - https://material.security/blog/how-material-security-uncovered-a-vulnerability-in-gmail-api, Broken-Access-Control
 - https://www.pingsafe.com/blog/linkedin-vulnerability-delete-any-post, IDOR
 - https://starlabs.sg/advisories/23/23-2017/, SSTI
-- https://giraffesecurity.dev/posts/google-remote-code-execution/, Dependency-confusion
 - https://www.rcesecurity.com/2023/04/securepwn-part-2-leaking-remote-memory-contents-cve-2023-22897/, Memory-leak
 - https://www.rcesecurity.com/2023/04/securepwn-part-1-bypassing-securepoint-utms-authentication-cve-2023-22620/, Authentication-bypass
 - https://offsec.almond.consulting/ghostscript-cve-2023-28879.html, Buffer-Overflow
@@ -945,7 +943,6 @@
 - https://notifybugme.medium.com/unauthorized-access-to-admin-setpassword-page-by-bypass-403-forbidden-f10bbb92ab35, Authorization-flaw
 - https://0day.click/recipe/2021-04-18-discourse-themes/, RCE
 - https://pharish4948.medium.com/how-i-earned-3200-in-4hours-through-stored-xss-38597877d3e1, Stored-XSS
-- https://positive.security/blog/url-open-rce, RCE
 - https://fernale.blogspot.com/2021/04/how-i-got-9000-usd-by-hacking-into.html, XSS
 - https://infosecwriteups.com/unauthenticated-account-takeover-through-forget-password-c120b4c1141d, Password-reset
 - https://monke.ie/duckduckgoxss/, Stored-XSS
@@ -1083,7 +1080,6 @@
 - https://medium.com/@merry6607/how-i-by-pass-the-login-page-and-2fa-authentication-3f33b06838c, Authentication-bypass
 - https://medium.com/@Sheshasai/emoji-error-handling-ba11f1bdb8a6, SQL-injection
 - https://muirey03.blogspot.com/2020/09/cve-2020-9964-ios-infoleak.html, iOS
-- https://medium.com/bugbountywriteup/privilege-escalation-via-account-takeover-on-nodebb-forum-software-512-a593a7b1b4a4, IDOR
 - https://supras.io/reflected-xss-via-a-hidden-parameter-on-dutch-gov-website/, Reflected-XSS
 - https://dreamlab.net/en/blog/post/dropbox-escalation-of-privileges-to-system-on-windows-1/, Local-Privilege-Escalation
 - https://blog.long.lat/2020/09/16/exploiting-a-useless-cookie-based-xss-and-making-it-useful/, XSS
@@ -1477,7 +1473,6 @@
 - https://bugbountypoc.com/how-i-was-able-to-harvest-other-vine-users-ip-address, IDOR
 - https://medium.com/@pig.wig45/bypassing-access-control-in-a-program-on-hackerone-ef213ab34703, Authorization-flaw
 - https://medium.com/@yogeshtantak7788/how-i-was-able-to-delete-google-gallery-data-idor-53d2f303efff, IDOR
-- https://medium.com/@aniltom/from-hunting-for-a-laptop-to-hunting-down-remote-code-execution-72cce2761846, RCE
 - https://medium.com/@putracraft.theworld/server-side-request-forgery-in-openid-support-defcc64d5e41, SSRF
 - https://www.tnirmal.com.np/2018/12/facebook-bugbounty-disclosing.html, Information-disclosure
 - https://medium.com/@mustafakhan_89646/asuss-admin-panel-auth-bypass-af5062584ddf, Authentication-bypass

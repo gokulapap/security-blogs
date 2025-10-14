@@ -233,3 +233,4 @@
 - https://medium.com/@plenumlab/idor-in-jwt-and-the-shortest-token-you-will-ever-see-uid-1234567890-4e02377ea03a
 - https://medium.com/@rojanrijal/developer-luminate-idor-42bd0d98e0c
 - https://mearegtu.medium.com/insecure-direct-object-reference-exposes-all-users-of-microsoft-azure-independent-software-vendors-bed3b45e509
+- https://medium.com/bugbountywriteup/privilege-escalation-via-account-takeover-on-nodebb-forum-software-512-a593a7b1b4a4

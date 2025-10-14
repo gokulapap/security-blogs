@@ -277,3 +277,4 @@
 - https://blog.securitybreached.org/2018/09/09/zol-zimbabwe-authbypass-sqli-xss/
 - https://medium.com/bugbountywriteup/jumping-to-the-hell-with-10-attempts-to-bypass-devils-waf-4275bfe679dd
 - https://medium.com/@nandwanajatin25/my-first-valid-xss-hackerone-f8ba0a7c647
+- https://medium.com/@nidhipanchal719/open-redirect-to-xss-in-united-nation-website-f4394aa6ed04
