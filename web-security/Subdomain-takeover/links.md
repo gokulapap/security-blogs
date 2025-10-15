@@ -53,3 +53,4 @@
 - https://medium.com/bugbountywriteup/hundreds-of-hundreds-subdomains-hack3d-including-hacker0ne-ad3acd1c0a44
 - https://medium.com/@thelinuxboy/bugging-out-my-experience-of-earning-300-for-reporting-an-unexpected-bug-ec9f9b0054bc
 - https://0xpwn.wordpress.com/2022/07/23/how-i-made-300-github-repos-point-to-my-blog-using-azure-subdomains-takeover/
+- https://medium.com/bugbountywriteup/subdomain-takeover-new-level-43f88b55e0b2

@@ -19,7 +19,6 @@
 - https://medium.com/@danielmakelley/4-tips-for-new-bug-bounty-hunters-b71c4c6ab5f9, tricks
 - https://medium.com/@ryuukhagetsu/how-i-get-bounty-from-takeover-account-ed17cd838b2a, ATO
 - https://medium.com/@qaafqasim/discovering-login-panels-and-detecting-sql-injection-with-logsensor-42842e337244, sql-injection
-- https://medium.com/@noob3xploiter/hacking-into-school-management-systems-reflected-xss-to-rce-74880c423024, XSS
 - https://medium.com/@techkalam/execute-mongo-shell-commands-in-javascript-file-862dcf45aad6, tricks
 - https://medium.com/@sahandami/find-xss-in-wide-scope-with-kxss-91f9573883c4, XSS
 - https://medium.com/@sushantdhopat/how-i-able-to-perform-open-redirection-lead-to-full-account-takeover-6a624210c5e0, open-redirection
@@ -514,7 +513,6 @@
 - https://redrays.io/cve-2020-2733-jd-edwards/, Information-disclosure
 - https://whereisk0shl.top/post/break-me-out-of-sandbox-in-old-pipe-cve-2022-22715-windows-dirty-pipe, Local-Privilege-Escalation
 - https://hackingguy.medium.com/failed-coding-assessment-to-remote-code-execution-a-case-study-part-1-1778934b3b34, RCE
-- https://www.michaelhorowitz.com/VPNs.on.iOS.are.scam.php, Privacy-issue
 - https://www.bugbounty.info/2022/08/never-underestimate-power-of-open.html, Open-redirect
 - https://medium.com/@faique/account-takeover-worth-1000-611452063cf, Account-takeover
 - https://www.microsoft.com/security/blog/2022/08/19/uncovering-a-chromeos-remote-memory-corruption-vulnerability/, Memory-corruption
@@ -658,7 +656,6 @@
 - https://bloggerrando.blogspot.com/2022/04/15-1.html, Broken-Access-Control
 - https://debprasadbanerjee502.medium.com/united-nations-bug-bounty-writeup-4bcfdefbb8d3, Information-disclosure
 - https://medium.com/@_ip_/2-3-xss-through-the-front-door-gitlab-fc4b6799e743, XSS
-- https://www.notgitbleed.com, Information-disclosure
 - https://medium.com/@Bishoo97x/xss-html-injection-and-file-upload-bypass-in-huawei-subdomain-64966ba4f4ac, XSS
 - https://securecloud.blog/2022/04/09/msrc-join-security-research-write-up-azure-ad-consent-bypass-disclosure-with-kim-jamia-q1-2022/, Authorization-flaw
 - https://blog.fadyothman.com/metas-sparkar/, RCE
@@ -1476,7 +1473,6 @@
 - https://medium.com/@putracraft.theworld/server-side-request-forgery-in-openid-support-defcc64d5e41, SSRF
 - https://www.tnirmal.com.np/2018/12/facebook-bugbounty-disclosing.html, Information-disclosure
 - https://medium.com/@mustafakhan_89646/asuss-admin-panel-auth-bypass-af5062584ddf, Authentication-bypass
-- https://medium.com/bugbountywriteup/subdomain-takeover-new-level-43f88b55e0b2, Subdomain-takeover
 - https://samcurry.net/reading-asp-secrets-for-17000/, Local-file-disclosure
 - https://medium.com/@ahmedasherif/accessing-voip-internal-service-via-port-8009-routing-traffic-through-local-apache-proxy-54a4ff539c5f, Information-disclosure
 - https://blog.scrt.ch/2018/08/24/remote-code-execution-on-a-facebook-server/, LFI
@@ -1528,7 +1524,6 @@
 - https://ls-la.fyi/2018/09/28/subway-xposed/, Logic-flaw
 - https://medium.com/@justmorpheus/idor-content-spoofing-and-url-redirection-via-unsubscribe-email-in-confluent-1fa7398cfe7a, IDOR
 - https://medium.com/@sivakrishnasamireddi/just-another-tale-of-severe-bugs-on-a-private-program-405870b03532, Open-redirect
-- https://medium.com/@ratnadip1998/how-i-got-4000-from-visma-for-rce-d541e6042086, RCE
 - https://medium.com/@rahulraveendran06/weaponizing-xss-attacking-internal-domains-d8ba1cbd106d, Blind-XSS
 - https://medium.com/@efkan162/how-i-xssed-uber-and-bypassed-csp-9ae52404f4c5, Reflected-XSS
 - https://nirmaldahal.com.np/posts/2019/11/r-xss-leading-csrf-bypass-to-account-takeover/, Reflected-XSS
