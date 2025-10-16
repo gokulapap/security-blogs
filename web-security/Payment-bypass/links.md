@@ -13,3 +13,4 @@
 - https://pratikyadav0.blogspot.com/2018/10/hello-everyone-took-some-time-from-my.html
 - https://ibraradi.gitbook.io/write-up/upgrade-plan-from-free-to-paid-via-response-manipulation
 - https://research.checkpoint.com/2022/researching-xiaomis-tee/
+- https://medium.com/@querylab/bypass-premium-account-payment-getpocket-d813b249687c

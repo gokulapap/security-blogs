@@ -22,3 +22,4 @@
 - https://medium.com/bugbountywriteup/api-token-hijacking-through-clickjacking-2e36c02e6c48
 - https://www.seekurity.com/blog/general/whatsapp-clickjacking-vulnerability-yet-another-web-client-failure
 - https://www.seekurity.com/blog/general/bmw-vulnerabilities-hijack-cars-connecteddrive-service/
+- https://medium.com/@abhishake100/clickjacking-to-account-takeover-97e286f26b95

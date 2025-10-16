@@ -341,7 +341,6 @@
 - https://acut3.github.io/bug-bounty/2023/01/03/fetch-diversion.html, DOM-XSS
 - https://yaseenzubair.medium.com/web-cache-poisoning-worth-it-e7c6d88797b1, Web-cache-poisoning
 - https://0xlittlespidy.medium.com/indias-aadhar-card-source-code-disclosure-via-exposed-svn-wc-db-c05519ea7761, Source-code-disclosure
-- https://medium.com/@querylab/bypass-premium-account-payment-getpocket-d813b249687c, Payment-bypass
 - https://danaepp.com/hacking-a-net-api-in-the-real-world, LFI
 - https://downrightnifty.me/blog/2022/12/26/hacking-google-home.html, IoT
 - https://medium.com/@tobydavenn/bypassing-ssrf-protections-45e5e3ac31e9, SSRF
@@ -821,7 +820,6 @@
 - https://www.akamai.com/blog/security/autodiscovering-the-great-leak, Domain-name-collision
 - https://gccybermonks.com/posts/mxss/, XSS
 - https://medium.com/@varmaanu001/cookie-stealing-via-clickjacking-using-burp-collaborator-ff6f4ac1c18b, Clickjacking
-- https://u-itachi.medium.com/from-phpinfo-page-to-many-p1-bugs-and-rce-symfony-bce432605662, File-disclosure
 - https://medium.com/@sarveshblogs/a-small-tale-of-account-takeover-2eba07a6ef5f, IDOR
 - https://pwnsauc3.medium.com/weaponizing-reflected-xss-to-account-takeover-ae8aeea7aca3, XSS
 - https://asterfiester.medium.com/how-i-was-able-to-send-sms-from-google-to-anyone-google-vulnerability-3277ea0cc9d1, Content-spoofing
@@ -1015,7 +1013,6 @@
 - https://slashcrypto.org/2021/01/15/CVE-2020-1456/, XSS
 - https://srcincite.io/blog/2021/01/12/making-clouds-rain-rce-in-office-365.html, RCE
 - https://levelup.gitconnected.com/stealing-user-information-via-xss-via-parameter-pollution-7d99b3379e7d, Open-redirect
-- https://binamrapandey.medium.com/unrestricted-file-upload-e95e1c6fb80, Unrestricted-file-upload
 - https://blog.cybercastle.io/weblogic-remote-code-execution-exploiting-cve-2019-2725/, RCE
 - https://medium.com/bugbountywriteup/unauthorized-access-to-odata-entities-2k-bounty-from-microsoft-e070b2ef88c2, Authorization-flaw
 - https://www.darabi.me/2020/12/create-invisible-post-on-any-facebook.html, IDOR
@@ -1189,7 +1186,6 @@
 - https://blog.raphael.karger.is/articles/2020-05/CVE-2020-13693, Privilege-escalation
 - https://www.nahamsec.com/posts/my-expense-report-resulted-in-a-server-side-request-forgery-ssrf-on-lyft, SSRF
 - https://medium.com/@kishoretk/how-i-was-able-to-see-identity-of-a-private-video-up-loader-via-rights-manager-responsible-39d996517b6e, Information-disclosure
-- https://medium.com/@abhishake100/clickjacking-to-account-takeover-97e286f26b95, Clickjacking
 - https://medium.com/@kminthein/stored-xss-in-microsoft-outlook-ebce9ff9e45b, Stored-XSS
 - https://servicenger.com/blog/mobile/android-sop-bypass-to-steal-system-files/, SOP-bypass
 - https://andrei-abakumov.medium.com/how-dangerous-is-request-splitting-a-vulnerability-in-golang-or-how-we-found-the-rce-in-portainer-7339ba24c871, HTTP-request-splitting
@@ -1207,7 +1203,6 @@
 - https://bugwriteups.tech/bug-bounty-write-up-lucky-vulnerability, SQL-injection
 - https://medium.com/@aniltom/magic-of-the-back-slash-d868e66b532a, Path-traversal
 - https://medium.com/@frycos/another-zoho-manageengine-story-7b472f1515f5, Authentication-bypass
-- https://www.synacktiv.com/en/publications/pentesting-cisco-sd-wan-part-2-breaking-routers.html, OS-command-injection
 - https://medium.com/@TnMch/google-acquisition-xss-apigee-5479d7b5dc4, XSS
 - https://sites.google.com/securifyinc.com/vrp-writeups/waze/waze-xss, XSS
 - https://sites.google.com/securifyinc.com/vrp-writeups/gsuite/bookmark-xss-device-management, XSS
