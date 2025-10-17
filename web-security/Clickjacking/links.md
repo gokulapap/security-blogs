@@ -23,3 +23,4 @@
 - https://www.seekurity.com/blog/general/whatsapp-clickjacking-vulnerability-yet-another-web-client-failure
 - https://www.seekurity.com/blog/general/bmw-vulnerabilities-hijack-cars-connecteddrive-service/
 - https://medium.com/@abhishake100/clickjacking-to-account-takeover-97e286f26b95
+- https://websecblog.com/vulns/clickjacking-xss-on-google-org/

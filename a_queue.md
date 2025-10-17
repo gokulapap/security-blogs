@@ -10,7 +10,6 @@
 - https://medium.com/@sumedh00/accessing-admin-dashboard-in-5-seconds-acee737eacfb, journey
 - https://medium.com/@vickieli/scanning-for-secrets-in-source-code-9fcb486f8c0e, source-code-review
 - https://medium.com/@vickieli/intro-to-ssrf-beb35857771f, ssrf
-- https://medium.com/@kotakbhavak/a-csrf-worth-the-wait-and-404c6b531789, csrf
 - https://medium.com/@nanwinata/rce-docker-api-but-11ff70825935, Cloud
 - https://medium.com/@lazyhacker/ways-to-exploit-json-csrf-simple-explanation-5e77c403ede6, csrf
 - https://medium.com/@basakyilmaz82/log4j-vulnerability-485559065af6, CVE
@@ -21,7 +20,6 @@
 - https://medium.com/@qaafqasim/discovering-login-panels-and-detecting-sql-injection-with-logsensor-42842e337244, sql-injection
 - https://medium.com/@techkalam/execute-mongo-shell-commands-in-javascript-file-862dcf45aad6, tricks
 - https://medium.com/@sahandami/find-xss-in-wide-scope-with-kxss-91f9573883c4, XSS
-- https://medium.com/@sushantdhopat/how-i-able-to-perform-open-redirection-lead-to-full-account-takeover-6a624210c5e0, open-redirection
 - https://medium.com/@musab_alharany/10-ways-to-exploit-json-web-token-jwt-ac5f4efbc41b, JWT
 - https://medium.com/@nav1n/how-i-got-owned-a-multi-billion-dollar-retailers-mysql-databases-using-simple-sql-injection-30f8b0dfd9ce, sql-injection
 - https://medium.com/@vamshi-vemula/how-i-got-my-first-bounty-open-redirect-80832e5bf4e6, open-redirection
@@ -1329,8 +1327,6 @@
 - https://philippeharewood.com/add-users-to-roles-on-facebook-pages-without-an-invitation-consent-revisited/, Logic-flaw
 - https://ninadmathpati.com/how-i-was-able-to-earn-1000-with-just-10-minutes-of-bug-bounty/, Password-reset
 - https://medium.com/@rohitcoder/bypassing-fix-of-domain-blocking-feature-in-business-manager-41949a18460c, Authorization-flaw
-- https://medium.com/@04sabsas/bugbounty-writeup-take-attention-and-get-stored-xss-495dd6eab07e, Stored-XSS
-- https://websecblog.com/vulns/clickjacking-xss-on-google-org/, Clickjacking
 - https://medium.com/@ronak_9889/privilege-escalation-using-api-endpoint-fce841caaff3, Privilege-escalation
 - https://medium.com/@protostar0/crlf-injection-allow-cookie-injection-in-root-domain-xss-812cd807ba5b, CRLF-injection
 - http://mahmoudsec.blogspot.com/2019/08/exploiting-out-of-band-xxe-using.html, XXE
@@ -1458,7 +1454,6 @@
 - https://ysamm.com/?p=12, XSS
 - https://medium.com/@ritishkumarsingh/facebook-vulnerability-unremovable-facebook-group-admin-2cbf4faf55c1, Logic-flaw
 - https://medium.com/@sadiqwest01/bugbounty-how-i-hack-billion-company-5529a3ebe999, Directory-listing
-- https://medium.com/@thejuskrishnan911/reflected-xss-on-asus-568ce0541171, Reflected-XSS
 - https://medium.com/@hariharan21/stored-xss-via-alternate-text-at-zendesk-support-8bfee68413e4, Stored-XSS
 - https://medium.com/@maxpasqua/stealing-side-channel-attack-tokens-in-facebook-account-switcher-90c5944e3b58, Token-leak
 - https://www.hackerinside.me/2019/01/a-tricky-open-redirect.html, Open-redirect
