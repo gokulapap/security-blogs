@@ -11,3 +11,4 @@
 - https://medium.com/@mehtashobhit98/my-first-un-expected-digit-bounty-for-an-un-expected-vulnerability-b44933d6ebda
 - https://medium.com/bugbountywriteup/finding-bugs-on-chess-com-739a71fbdb31
 - https://medium.com/@mrd17x/my-account-takeover-writeup-5000-6895492aa549
+- https://web.archive.org/web/20201123204526/https://medium.com/@olisandip99/chaining-rate-limiting-for-account-lockout-6a2a7828dd24

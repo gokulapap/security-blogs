@@ -26,7 +26,6 @@
 - https://medium.com/@ssalssa.1.12.2.1.2.1/hacking-wordpress-server-database-f6cc6c116057, cms
 - https://medium.com/@s3c/how-i-hacked-world-wide-tiktok-users-24e794d310d2, journey
 - https://medium.com/@hakluke/interlace-a-productivity-tool-for-pentesters-and-bug-hunters-automate-and-multithread-your-d18c81371d3d, automation
-- https://medium.com/@idan_malihi/how-i-earned-200-in-bug-bounty-program-6d7225a7ff1a, journey
 - https://medium.com/@rajeshranjan457/how-i-was-able-to-regain-access-to-account-deleted-by-admin-leading-to-a2c29025f8cd, journey
 - https://medium.com/@hbothra22/got-cookies-cookie-based-authentication-vulnerabilities-in-wild-55fa7c374be0, misc
 - https://medium.com/@terjanq/clobbering-the-clobbered-advanced-dom-clobbering-8443547ebe94, misc
@@ -331,7 +330,6 @@
 - https://krevetk0.medium.com/hacking-hackers-for-fun-and-profit-784e6c7897e8, Self-XSS
 - https://ymohagheghi.medium.com/uploading-the-webshell-using-filename-of-content-disposition-header-story-59ba87752311, Unrestricted-file-upload
 - https://crypt0g30rgy.github.io/post/SSRFtoDos, SSRF
-- https://crypt0g30rgy.github.io/post/PaymentBypassOne, Payment-bypass
 - https://medium.com/@LogicalHunter/identity-aware-proxy-misconfiguration-google-cloud-vulnerability-813d2a07a4ed, CORS-misconfiguration
 - https://3sjay.github.io/2023/01/06/pandoraFMS-Pre-Auth-RCE.html, RCE
 - https://labs.nettitude.com/blog/cve-2022-25026-cve-2022-25027-vulnerabilities-in-rocket-trufusion-enterprise/, Authentication-bypass
@@ -563,7 +561,6 @@
 - https://infosecwriteups.com/abusing-url-shortners-for-fun-and-profit-c83c67713916, Information-disclosure
 - https://medium.com/@rodricbr/from-open-redirect-to-reflected-xss-manually-64e633a3d23f, Open-redirect
 - https://medium.com/tenable-techblog/microsoft-azure-site-recovery-dll-hijacking-cd8cc34ef80c, DLL-Hijacking
-- https://medium.com/@soufianehabti/write-up-1-hellosign-integration-full-read-ssrf-df5e1a5bc627, SSRF
 - https://blog.lightspin.io/exploiting-eks-authentication-vulnerability-in-aws-iam-authenticator, Authentication-flaw
 - https://bloggerrando.blogspot.com/2022/07/09-1.html, XSS
 - https://medium.com/@Bishoo97x/stored-xss-and-stored-html-injection-in-united-nations-website-db87d445e41, XSS
@@ -1117,7 +1114,6 @@
 - https://medium.com/@shahjerry33/http-parameter-pollution-its-contaminated-85edc0805654, HTTP-parameter-pollution
 - https://medium.com/@totmukesh/hack-till-your-last-breath-3e58f4fb1738, IDOR
 - https://medium.com/@mohamedayad_72488/dos-over-wep-application-c5176dc29035, DoS
-- https://web.archive.org/web/20201123204526/https://medium.com/@olisandip99/chaining-rate-limiting-for-account-lockout-6a2a7828dd24, Lack-of-rate-limiting
 - https://medium.com/@mohamedayad_72488/bypass-user-restriction-registration-cbfc4eb855, Logic-flaw
 - https://medium.com/@balook/idor-in-google-datastudio-google-com-f2fa51b763de, IDOR
 - https://medium.com/bugbountywriteup/how-i-lost-my-followers-on-medium-9fe10e9862aa, GraphQL
@@ -1425,7 +1421,6 @@
 - https://sites.google.com/securifyinc.com/secblogs/exploitingcalendars, Authorization-flaw
 - https://georgeosterweil.com/2019-02-20-fbctf-idor/, IDOR
 - https://apapedulimu.click/multiple-stored-xss-on-tokopedia/, Stored-XSS
-- https://0x00sec.org/t/using-uri-to-pop-shells-via-the-discord-client/11673, URI-abuse
 - https://www.hackerinside.me/2019/02/dos-on-waf-protected-sites-by-abusing.html, DoS
 - https://web.archive.org/web/20200928234202/https://www.mohamedharon.com/2019/02/subdomain-takeover-via-hubspot.html, Subdomain-takeover
 - https://web.archive.org/web/20200929012457/https://www.mohamedharon.com/2019/02/souqcom-subdomain-takeover-via.html, Subdomain-takeover

@@ -127,3 +127,4 @@
 - http://archive.ingredous.com/notes/downnotifer-ssrf/
 - https://secureitmania.medium.com/an-unknown-linux-secret-that-turned-ssrf-to-os-command-injection-6fe2f4edc202
 - https://www.rtcsec.com/2020/04/01-slack-webrtc-turn-compromise/
+- https://medium.com/@soufianehabti/write-up-1-hellosign-integration-full-read-ssrf-df5e1a5bc627

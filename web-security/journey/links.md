@@ -17,3 +17,4 @@
 - https://medium.com/@gokulsspace/the-30000-bounty-affair-3f025ee6b834
 - https://medium.com/@arthbajpai277/beginners-guide-of-bug-bounty-by-arth-bajpai-5c6eb27c023
 - https://medium.com/@dewangpanchal98/tell-of-my-first-bounty-d3c5a85e18c9
+- https://medium.com/@idan_malihi/how-i-earned-200-in-bug-bounty-program-6d7225a7ff1a

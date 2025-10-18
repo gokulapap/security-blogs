@@ -1,0 +1,1 @@
+- https://0x00sec.org/t/using-uri-to-pop-shells-via-the-discord-client/11673
