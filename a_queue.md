@@ -201,7 +201,6 @@
 - https://www.rcesecurity.com/2023/04/securepwn-part-2-leaking-remote-memory-contents-cve-2023-22897/, Memory-leak
 - https://www.rcesecurity.com/2023/04/securepwn-part-1-bypassing-securepoint-utms-authentication-cve-2023-22620/, Authentication-bypass
 - https://offsec.almond.consulting/ghostscript-cve-2023-28879.html, Buffer-Overflow
-- https://orca.security/resources/blog/azure-shared-key-authorization-exploitation/, Cloud
 - https://medium.com/@zhero_/a-successful-prototype-pollution-chained-to-a-dom-xss-9887087b56a4, Prototype-pollution
 - https://medium.com/@ch3tanbug/how-i-was-able-to-change-password-of-any-corporate-user-c68b9509840, Account-takeover
 - https://dev.to/mikesamuel/2008-silently-securing-jsonparse-5cbb, Parsing-issue
@@ -1558,7 +1557,6 @@
 - https://medium.com/@jonathanbouman/unvalidated-open-redirect-bol-com-b270151380e6, Open-redirect
 - https://medium.com/@khaled.hassan/full-account-takeover-via-reset-password-function-8b6ef15f346f, IDOR
 - https://www.bishopfox.com/blog/2018/06/server-side-spreadsheet-injections/, CSV-injection
-- https://blog.ayoubaitelmokhtar.com/2018/06/paypal-bbp-i-couldve-deleted-all-smc.html, CSRF
 - https://medium.com/@adrien_jeanneau/how-i-was-able-to-list-some-internal-information-from-paypal-bugbounty-ca8d217a397c, Expression-Language-Injection
 - https://medium.com/@khaled.hassan/are-you-sure-this-is-a-trusted-email-291121028320, Open-mail-relay
 - https://thehackerblog.com/reading-your-emails-with-a-readwrite-chrome-extension-same-origin-policy-bypass-8-million-users-affected/index.html, SOP-bypass
@@ -1592,9 +1590,7 @@
 - https://web.archive.org/web/20201123204445/https://www.mohamedharon.com/2018/04/link-injection-on-2-twitter-subdomain.html, Hyperlink-injection
 - https://medium.com/@logicbomb_1/bugbounty-your-details-are-saved-into-my-account-user-info-disclosure-vulnerability-in-practo-fe36930a1246, IDOR
 - https://web.archive.org/web/20200928235353/https://www.mohamedharon.com/2018/03/xss-in-sportstwcampaignyahoonet.html, Reflected-XSS
-- https://medium.com/@valeriyshevchenko/how-i-hacked-one-cryptocurrency-service-db3cb0f81d6c, Blind-XSS
 - http://www.tomanthony.co.uk/blog/google-xml-sitemap-auth-bypass-black-hat-seo-bug-bounty/, Logic-flaw
-- https://medium.com/@logicbomb_1/bugbounty-rewarded-by-securing-vulnerabilities-in-bookmyshow-indias-largest-online-movie-bb81dba9b82, Host-header-injection
 - https://medium.com/@Alra3ees/google-adwords-3133-7-stored-xss-27bb083b8d27, Stored-XSS
 - https://s1gnalcha0s.github.io/dspl/2018/03/07/Stored-XSS-and-SSRF-Google.html, Stored-XSS
 - https://medium.com/bug-bounty-hunting/how-i-found-a-surprising-xss-vulnerability-on-oracle-netsuite-2d48b7fcf0c8, XSS
@@ -1628,7 +1624,6 @@
 - https://medium.com/@malcolmx0x/story-of-bypassing-referer-header-to-make-open-redirect-94f938b9d032, Open-redirect
 - https://medium.com/@honcbb/amazon-bypass-open-redirect-12609c879dff, Open-redirect
 - https://medium.com/bugbountywriteup/account-take-over-vulnerability-in-google-acquisition-famebit-e93b1a0a7af9, CSRF
-- https://medium.com/@agrawalsmart7/sql-is-every-where-5cba6ae9480a, SQL-injection
 - http://www.digitalmunition.com/WhyIWalkedFrom3k.pdf, AWS-misconfiguration
 - https://zseano.medium.com/how-signing-up-for-an-account-with-an-company-com-email-can-have-unexpected-results-7f1b700976f5, Logic-flaw
 - https://medium.com/@abdelfattahibrahim/from-recon-to-dom-based-xss-f279602a14cf, DOM-XSS

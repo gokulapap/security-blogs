@@ -102,3 +102,4 @@
 - https://www.techncyber.com/2022/07/sql-injection-at-authorization-token.html
 - https://medium.com/@orthonviper/sql-injection-for-50-bounty-but-still-worth-reading-468442c1cc1a
 - https://infosecwriteups.com/a-great-weekend-hack-worth-8k-9bfda8ab65b9
+- https://medium.com/@agrawalsmart7/sql-is-every-where-5cba6ae9480a

@@ -9,3 +9,4 @@
 - https://blog.evanricafort.com/2021/02/hijacking-reset-password-link-in.html
 - https://certitude.consulting/blog/en/citrix-header-injection-2/
 - https://saajan.bhujel.cyou/blog/web/2021-02-26-password-reset-token-leak-via-x-forwarded-host
+- https://medium.com/@logicbomb_1/bugbounty-rewarded-by-securing-vulnerabilities-in-bookmyshow-indias-largest-online-movie-bb81dba9b82

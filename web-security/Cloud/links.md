@@ -16,3 +16,4 @@
 - https://posts.specterops.io/abusing-azure-app-service-managed-identity-assignments-c3adefccff95
 - https://www.wiz.io/blog/brokensesame-accidental-write-permissions-to-private-registry-allowed-potential-r
 - https://www.wiz.io/blog/hells-keychain-supply-chain-attack-in-ibm-cloud-databases-for-postgresql
+- https://orca.security/resources/blog/azure-shared-key-authorization-exploitation/

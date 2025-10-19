@@ -96,3 +96,4 @@
 - https://medium.com/bugbountywriteup/bypassing-crossdomain-policy-and-hit-hundreds-of-top-alexa-sites-af1944f6bbf5
 - https://fellchase.blogspot.com/2020/02/site-wide-csrf-on-popular-program.html
 - https://blog.darabi.me/2016/05/how-i-bypassed-facebook-csrf-in-2016.html
+- https://blog.ayoubaitelmokhtar.com/2018/06/paypal-bbp-i-couldve-deleted-all-smc.html

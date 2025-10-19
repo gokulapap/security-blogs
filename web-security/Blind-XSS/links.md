@@ -21,3 +21,4 @@
 - https://medium.com/@feribytex/blind-xss-fired-on-admin-panel-worth-2000-abe2c83279b5
 - https://web.archive.org/web/20191217083137/http://blog.jr0ch17.com/2018/Please-email-me-your-password/
 - https://medium.com/@GeneralEG/hack-your-form-new-vector-for-blind-xss-b7a50b808016
+- https://medium.com/@valeriyshevchenko/how-i-hacked-one-cryptocurrency-service-db3cb0f81d6c
