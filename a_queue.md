@@ -758,7 +758,6 @@
 - https://zseano.medium.com/finding-xss-on-apple-com-and-building-a-proof-of-concept-to-leak-your-pii-information-d7bc93cff2df, XSS
 - https://r0.haxors.org/posts?id=26, SQL-injection
 - https://lethanhphuc-pk.medium.com/bugbounty-xss-with-markdown-exploit-fix-on-opensource-1baecebe9645, XSS
-- https://hackrzvijay.medium.com/hacking-apple-security-report-system-db84850002fb, Logic-flaw
 - https://blog.dixitaditya.com/2021/11/19/account-takeover-chain.html, Account-takeover
 - https://www.p1boom.com/2021/11/a-story-of-epic-blind-remote-code.html, RCE
 - https://feed.bugs.xdavidhu.me/bugs/0008, Privilege-escalation
@@ -953,7 +952,6 @@
 - https://www.thezdi.com/blog/2021/3/17/cve-2021-27076-a-replay-style-deserialization-attack-against-sharepoint, Insecure-deserialization
 - https://mayank-01.medium.com/an-interesting-account-takeover-3a33f42d609d, IDOR
 - https://spongebhav.medium.com/facebook-group-members-disclosure-e53eb83df39e, Information-disclosure
-- https://ashutoshmishra00x0.medium.com/account-takeover-via-reset-password-worth-2000-de085851d81d, Password-reset
 - https://apapedulimu.click/google-vrp-how-i-get-blind-xss-at-google-with-dork-first-bounty-and-hof/, Blind-XSS
 - https://infosecwriteups.com/business-logic-error-on-registration-leads-to-sms-validation-bypass-80380b3ff629, MFA-bypass
 - https://notifybugme.medium.com/finding-basic-authtoken-in-javascript-file-by-full-automation-6188ca1b1f56, Information-disclosure
@@ -1390,7 +1388,6 @@
 - https://medium.com/@heshamwatany/the-neglected-bug-that-can-infect-all-facebook-users-who-pay-for-leads-ads-8c374cd64d76, CSV-injection
 - https://soroush.secproject.com/blog/2019/04/yet-other-examples-of-abusing-csrf-in-logout/, CSRF
 - https://rpadovani.com/gitlab-responsible-disclosure, Authorization-flaw
-- https://medium.com/bugbountywriteup/banner-grabbing-to-dos-and-memory-corruption-2442b1c25bbb, DoS
 - https://medium.com/@valeriyshevchenko/how-i-hacked-vending-machine-5b5a80bd5ffe, Violation-of-secure-design-principles
 - https://medium.com/@daniel.marad/post-komodosec-google-groups-authorization-bypass-500-bounty-adb371d16ab6, Authorization-flaw
 - https://medium.com/@kunal94/web-cache-deception-to-api-endpoint-attack-using-cached-token-header-b01a604a5ccd, Web-cache-deception
@@ -1483,7 +1480,6 @@
 - https://medium.com/@mrnikhilsri/oob-xxe-in-prizmdoc-cve-2018-15805-dfb1e474345c, OOB-XXE
 - https://mike-n1.github.io/Chain_XSS, DOM-XSS
 - https://apapedulimu.click/clickjacking-on-google-myaccount-worth-7500/, Clickjacking
-- https://medium.com/@rohitcoder/object-name-exposure-ing-bank-responsible-disclosure-program-1f8f808cc789, Information-disclosure
 - https://medium.com/bugbountywriteup/how-i-earned-5040-from-twitter-by-showing-a-way-to-harvest-other-users-ip-address-e9f43c931e9a, Information-disclosure
 - https://medium.com/bugbountywriteup/duplicate-but-still-cool-236835685075, IDOR
 - https://medium.com/@kunal94/imagemagick-gif-coder-vulnerability-leads-to-memory-disclosure-hackerone-e9975a6a560e, Memory-leak
@@ -1553,7 +1549,6 @@
 - https://zseano.medium.com/how-re-signing-up-for-an-account-lead-to-account-takeover-3a63a628fd9f, Logic-flaw
 - https://medium.com/@yassergersy/account-take-over-via-reset-password-f2e9d887bce1, Password-reset
 - https://medium.com/bugbountywriteup/responsible-disclosure-how-i-could-have-booked-movie-tickets-through-other-user-accounts-2db26a037b4c, Password-reset
-- https://medium.com/@jonathanbouman/reflected-client-xss-amazon-com-7b0d3cec787, Reflected-XSS
 - https://medium.com/@jonathanbouman/unvalidated-open-redirect-bol-com-b270151380e6, Open-redirect
 - https://medium.com/@khaled.hassan/full-account-takeover-via-reset-password-function-8b6ef15f346f, IDOR
 - https://www.bishopfox.com/blog/2018/06/server-side-spreadsheet-injections/, CSV-injection
