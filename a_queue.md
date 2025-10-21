@@ -277,7 +277,6 @@
 - https://pullerjsecu.medium.com/bypassing-cors-configurations-to-produce-an-account-takeover-for-fun-and-profit-3e50c3f2a124, CORS-misconfiguration
 - https://theevilbit.github.io/posts/cve-2022-22655/, MacoS
 - https://medium.com/@ramkumarnadar47/zip-bomb-attack-88d84a98be9f, Zip-bomb
-- https://frycos.github.io/vulns4free/2023/02/12/install4j-xxe.html, XXE
 - https://pvs-studio.com/en/blog/posts/csharp/0918/, XXE
 - https://blog.cyberxplore.com/we-hacked-github-for-a-month-heres-what-we-found/, Pre-account-takeover
 - https://infosecwriteups.com/disabling-js-for-the-win-9d13c606f910, Unrestricted-file-upload
@@ -481,7 +480,6 @@
 - https://arben.sh/bugbounty/Blind-XXE-CVE-2019-12154/, Blind-XXE
 - https://blog.includesecurity.com/2021/06/hacking-unity-games-malicious-unity-game-objects/, Arbitrary-code-execution
 - https://hesec.de/posts/bbh-csrf/, CSRF
-- https://medium.com/@Parag_Bagul/how-i-was-able-to-bypass-philips-authentication-c3bd3e1df9ff, Outdated-component-with-a-known-vulnerability
 - https://labs.jumpsec.com/quest-kace-desktop-authority-pre-auth-remote-code-execution-cve-2021-44031/, RCE
 - https://www.rapid7.com/blog/post/2022/09/08/baxter-sigma-spectrum-infusion-pumps-multiple-vulnerabilities-fixed/, Hardcoded-credentials
 - https://security.humanativaspa.it/groovy-template-engine-exploitation-notes-from-a-real-case-scenario/, RCE
@@ -548,7 +546,6 @@
 - https://www.vulnano.com/2022/07/react-debugkeystore-key-was-trusted-by.html, Account-takeover
 - https://www.zerodayinitiative.com/blog/2022/7/19/riding-the-inforail-to-exploit-ivanti-avalanche, RCE
 - https://www.0xlanks.me/blog/blogengine-writeup, Path-traversal
-- https://ssd-disclosure.com/ssd-advisory-microsoft-sharepoint-server-wizardconnecttodatastep4-deserialization-of-untrusted-data-rce/, Insecure-deserialization
 - https://medium.com/tenable-techblog/logging-passwords-in-plaintext-in-azure-arc-2f94cb046a, Information-disclosure
 - https://www.authomize.com/blog/authomize-discovers-password-stealing-and-impersonation-risks-to-in-okta/, Sensitive-data-sent-over-an-unencrypted-channel
 - https://0x1337.ninja/2022/07/19/mybb-0day-authenticated-remote-code-execution/, RCE
@@ -613,7 +610,6 @@
 - https://medium.com/@sharp488/2fa-bypass-on-private-bug-bounty-program-due-to-improper-caching-mechanism-212c5912bd00, MFA-bypass
 - https://medium.com/@sharp488/2fa-bypass-on-private-bug-bounty-program-due-to-csrf-token-misconfiguration-5a9c82151a1, MFA-bypass
 - https://systemweakness.com/i-obtained-admin-access-via-account-activation-link-in-30-seconds-dd7f115ae1d2, Privilege-escalation
-- https://arxiv.org/pdf/2205.10174.pdf, Account-takeover
 - https://breakpoint.sh/posts/snyk-code-broken-access-control, Path-traversal
 - https://cyllective.com/blog/post/research_audit_wordpress_plugins/, SQL-injection
 - https://blog.ret2.io/2022/05/19/pwn2own-2021-parallels-desktop-exploit/, Memory-corruption
@@ -1545,7 +1541,6 @@
 - https://medium.com/@sudhanshur705/xss-in-microsoft-subdomain-81c4e46d6631, XSS
 - https://secreltyhiddenwriteups.blogspot.com/2018/07/gsuite-hangouts-chat-5k-idor.html, IDOR
 - https://medium.com/@logicbomb_1/bugbounty-compromising-user-account-how-i-was-able-to-compromise-user-account-via-http-4288068b901f, HTTP-parameter-pollution
-- https://leigh-annegalloway.com/tumblr/, Captcha-bypass
 - https://zseano.medium.com/how-re-signing-up-for-an-account-lead-to-account-takeover-3a63a628fd9f, Logic-flaw
 - https://medium.com/@yassergersy/account-take-over-via-reset-password-f2e9d887bce1, Password-reset
 - https://medium.com/bugbountywriteup/responsible-disclosure-how-i-could-have-booked-movie-tickets-through-other-user-accounts-2db26a037b4c, Password-reset

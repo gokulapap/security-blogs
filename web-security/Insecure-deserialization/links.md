@@ -27,3 +27,4 @@
 - https://www.sjoerdlangkemper.nl/2021/04/04/remote-code-execution-through-unsafe-unserialize/
 - https://codewhitesec.blogspot.com/2023/04/java-exploitation-restrictions-in.html
 - https://infosecwriteups.com/the-story-of-a-rce-on-a-java-web-application-2e400cddcd1e
+- https://ssd-disclosure.com/ssd-advisory-microsoft-sharepoint-server-wizardconnecttodatastep4-deserialization-of-untrusted-data-rce/

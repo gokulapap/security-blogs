@@ -102,3 +102,4 @@
 - https://infosecwriteups.com/a-tale-of-0-click-account-takeover-and-2fa-bypass-b369cd70e42f
 - https://medium.com/@ricardoiramar/account-takeover-for-the-win-e320ce83cdd9
 - https://bergee.it/blog/blind-account-takeover/
+- https://arxiv.org/pdf/2205.10174.pdf
