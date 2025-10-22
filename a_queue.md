@@ -253,7 +253,6 @@
 - https://www.zerodayinitiative.com/blog/2023/2/27/cve-2022-38108-rce-in-solarwinds-network-performance-monitor, Insecure-deserialization
 - https://security.humanativaspa.it/abusing-mavens-pom-xml/, RCE
 - https://infosecwriteups.com/how-did-i-found-rce-on-shareit-which-rewarded-bounty-7d4196bf1b52, Log4shell
-- https://hacklido.com/blog/320-how-i-got-a-2000-bounty-with-rxss, Reflected-XSS
 - https://www.synacktiv.com/sites/default/files/2023-02/Synacktiv-IBM-TWS-CVE-2022-38389.pdf, XXE
 - https://starlabs.sg/blog/2023/02-microsoft-azure-account-takeover-via-dom-based-xss-in-cosmos-db-explorer/, Account-takeover
 - https://m3ez.medium.com/how-i-found-dom-based-xss-on-microsoft-msrc-and-how-they-fixed-it-8b71a6020c82, DOM-XSS
@@ -341,7 +340,6 @@
 - https://github.com/PabloMK7/ENLBufferPwn, Buffer-Overflow
 - https://research.nccgroup.com/2022/12/22/puckungfu-a-netgear-wan-command-injection/, OS-command-injection
 - https://posts.specterops.io/passwordless-persistence-and-privilege-escalation-in-azure-98a01310be3f, Privilege-escalation
-- https://medium.com/@yaala/account-takeover-and-two-factor-authentication-bypass-de56ed41d7f9, Authentication-bypass
 - https://medium.com/@vamshivaran110/rce-on-admin-panel-of-web3-website-2d0acf34d6ea, RCE
 - https://www.trendmicro.com/en_us/research/22/l/a-technical-analysis-of-cve-2022-22583-and-cve-2022-32800.html, MacOS
 - https://crypt0g30rgy.github.io/post/AWSTakeover, Information-disclosure
@@ -483,7 +481,6 @@
 - https://labs.jumpsec.com/quest-kace-desktop-authority-pre-auth-remote-code-execution-cve-2021-44031/, RCE
 - https://www.rapid7.com/blog/post/2022/09/08/baxter-sigma-spectrum-infusion-pumps-multiple-vulnerabilities-fixed/, Hardcoded-credentials
 - https://security.humanativaspa.it/groovy-template-engine-exploitation-notes-from-a-real-case-scenario/, RCE
-- https://shinchina.in/blog/2022-09-07/$900-blind-xss.html, Blind-XSS
 - https://mogwailabs.de/en/blog/2022/08/exploiting-laravel-based-applications-with-leaked-app_keys-and-queues/, RCE
 - https://security.humanativaspa.it/groovy-template-engine-exploitation-notes-from-a-real-case-scenario/, RCE
 - https://medium.com/@Parag_Bagul/how-i-found-moodle-cross-site-scripting-459a1c9ad4d5, XSS
@@ -1347,7 +1344,6 @@
 - https://philippeharewood.com/view-facebook-payouts-for-any-facebook-trivia-game/, Information-disclosure
 - https://medium.com/@osamaavvan/cors-to-csrf-attack-c33a595d441, CORS-misconfiguration
 - https://medium.com/@dr.spitfire/sensitive-information-disclosure-web-cache-deception-attack-bcac6cb9cd86?sk=a2557f0c557ff38876141c2d94b296dd, Information-disclosure
-- https://www.f5.com/labs/articles/threat-intelligence/how-i-hacked-the-microsoft-outlook-android-app-and-found-cve-2019-1105, XSS
 - https://medium.com/@saadahmedx/self-xss-to-evil-xss-bcf2494a82a4, XSS
 - https://medium.com/@osamaavvan/account-taker-with-clickjacking-ace744842ec3, Clickjacking
 - https://visat.me/security/reflected-xss-in-tokopedia-train-ticket/, Reflected-XSS
@@ -1682,7 +1678,6 @@
 - https://blog.zsec.uk/gif-time-pornhub/, XSS
 - https://blog.evanricafort.com/2016/09/xss-vulnerability-in-twitter.html, XSS
 - https://blog.zsec.uk/persisting-pornhub/, Stored-XSS
-- https://ahussam.me/Vine-Reauth-Bypass, Authentication-flaw
 - http://blog.rakeshmane.com/2016/09/bug-bounty-account-takeover.html, OAuth
 - https://web.archive.org/web/20200817171403/https://whitehatnepal.tumblr.com/post/150381068912/how-i-snooped-into-your-private-slack-messages, Subdomain-takeover
 - https://web.archive.org/web/20200819161533/https://whitehatnepal.tumblr.com/post/149937173467/pornhub-email-confirmation-bypass, Email-verification-bypass

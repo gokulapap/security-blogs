@@ -91,3 +91,4 @@
 - https://web.archive.org/web/20200819161548/https://medium.com/@adeshkolte/non-persistent-xss-at-microsoft-adesh-kolte-ad36b1b4a325
 - https://medium.com/@thejuskrishnan911/reflected-xss-on-asus-568ce0541171
 - https://medium.com/@jonathanbouman/reflected-client-xss-amazon-com-7b0d3cec787
+- https://hacklido.com/blog/320-how-i-got-a-2000-bounty-with-rxss
