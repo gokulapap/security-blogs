@@ -698,7 +698,6 @@
 - https://medium.com/@ladecruze/my-first-bounty-idor-self-xss-3000-cde89cbbc1b1, Self-XSS
 - https://sanyamchawla1999.medium.com/my-experience-of-hacking-the-dutch-government-8c219c61c795, XSS
 - https://medium.com/@damaidec/idor-vulnerability-on-invoice-and-weak-password-reset-leads-to-account-take-over-603b42143a8c, IDOR
-- https://hetroublemakr.medium.com/how-i-approached-dependency-confusion-272b46f66907, Dependency-confusion
 - https://www.offensive-security.com/offsec/microsoft-onedrive-macos-local-privesc/, Local-Privilege-Escalation
 - https://docs.google.com/document/d/1-TTCS6fS6kvFUkoJmX4Udr-czQ79lSUVXiWsiAED_bs/edit, RCE
 - https://perception-point.io/technical-analysis-of-cve-2022-22583-bypassing-macos-system-integrity-protection/, MacOS
@@ -1300,7 +1299,6 @@
 - https://philippeharewood.com/subscribe-to-the-list-of-requesters-to-join-a-facebook-live-video-using-mqtt/, Authorization-flaw
 - https://medium.com/@osamaavvan/exploiting-jsonp-and-bypassing-referer-check-2d6e40dfa24, Information-disclosure
 - https://hateshape.github.io/general/2019/09/06/SuperGlamorousReconwithIntendedFunctionalities.html, SSTI
-- https://web.archive.org/web/20201222140349/https://www.mohamedharon.com/2019/09/dom-based-xss-in-private-program.html, DOM-XSS
 - https://corben.io/blog/19-9-04-jenkins-to-full-pwnage, RCE
 - https://medium.com/@bathinivijaysimhareddy/shodan-is-your-friend-if-you-lose-him-you-will-lose-many-657d07472f75, SQL-injection
 - https://medium.com/@Skylinearafat/how-to-look-for-js-files-vulnerability-for-fun-and-profit-78bfdfbd6731, Information-disclosure
@@ -1588,7 +1586,6 @@
 - https://www.josipfranjkovic.com/blog/facebook-partners-portal-account-takeover, Information-disclosure
 - https://blog.intothesymmetry.com/2018/02/bug-bounty-left-over-and-rant-part-iii.html, OAuth
 - https://medium.com/bugbountywriteup/sql-injection-with-load-file-and-into-outfile-c62f7d92c4e2, SQL-injection
-- https://blog.securitybreached.org/2018/02/05/how-i-found-idor-on-twitters-acquisition-mopub-com/, IDOR
 - https://web.archive.org/web/20210122102751/https://www.guptashubham.com/how-i-got-22000-worth-ethereum/, Blind-XSS
 - https://medium.com/@pig.wig45/json-csrf-attack-on-a-social-networking-site-hackerone-platform-3d7aed3239b0, CSRF
 - https://medium.freecodecamp.org/how-anyone-could-have-used-uber-to-ride-for-free-36cdee5ea854, Logic-flaw
@@ -1632,7 +1629,6 @@
 - https://medium.com/@SyntaxError4/reflective-xss-and-open-redirect-on-indeed-com-subdomain-b4ab40e40c83, Reflected-XSS
 - https://medium.com/japzdivino/idor-on-hackerone-hacker-review-what-program-say-885ce3989a6f, IDOR
 - https://medium.com/@armaanpathan/dont-just-alert-1-because-xss-is-for-fun-f88cfb88d5b9, XSS
-- https://medium.com/@arbazhussain/stealing-0auth-token-mitm-3eeab46e96cf, OAuth
 - https://medium.com/@arbazhussain/improper-storage-of-protected-projects-files-9ece8e9a4743, IDOR
 - https://medium.com/@arbazhussain/bypassing-rate-limit-protection-by-spoofing-originating-ip-ff06adf34157, Bruteforce
 - https://web.archive.org/web/20220818204507/https://www.rcesecurity.com/2017/08/from-lfi-to-rce-via-php-sessions/, LFI
@@ -1671,7 +1667,6 @@
 - https://web.archive.org/web/20200822111544/https://whitehatnepal.tumblr.com/post/156707088037/i-got-emails-g-suite-vulnerability, Logic-flaw
 - https://thehackerblog.com/the-orphaned-internet-taking-over-120k-domains-via-a-dns-vulnerability-in-aws-google-cloud-rackspace-and-digital-ocean/index.html, Domain-takeover
 - https://evilpacket.net/2016/atom-io-misconfiguration-allowed-code-execution-on-untrusted-networks/, RCE
-- https://portswigger.net/research/backslash-powered-scanning-hunting-unknown-vulnerability-classes, misc
 - https://ahussam.me/leak-private-videos-vimeo/, Logic-flaw
 - https://foxglovesecurity.com/2016/10/14/hacking-jasperreports-the-hidden-shell-feature/, RCE
 - https://www.betterhacker.com/2016/10/command-injection-without-spaces.html, OS-command-injection

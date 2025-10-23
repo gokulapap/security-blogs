@@ -32,3 +32,4 @@
 - https://web.archive.org/web/20180704183048/http://stamone-bug-bounty.blogspot.com/2017/10/dom-xss-auth_14.html
 - http://www.rafayhackingarticles.net/2013/02/dom-based-xss-in-avg.html
 - https://websecblog.com/vulns/google-threadit/
+- https://web.archive.org/web/20201222140349/https://www.mohamedharon.com/2019/09/dom-based-xss-in-private-program.html

@@ -5,3 +5,4 @@
 - https://medium.com/@andrea0/understanding-and-exploiting-http-for-bug-bounty-46286fcdd870
 - https://medium.com/@popalltheshells/domain-admin-compromise-in-3-hours-5778902604c9
 - https://medium.com/@ibm_ptc_security/exploiting-missing-hsts-54f8e23ed80b
+- https://portswigger.net/research/backslash-powered-scanning-hunting-unknown-vulnerability-classes

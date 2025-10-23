@@ -26,3 +26,4 @@
 - https://medium.com/@0xgaurang/case-study-oauth-misconfiguration-leads-to-account-takeover-d3621fe8308b
 - https://medium.com/@madguyyy/bookmyshow-account-takeover-using-social-login-84178f116e42
 - https://parthdeshani.medium.com/got-nice-catch-by-google-5e6a8211371c
+- https://medium.com/@arbazhussain/stealing-0auth-token-mitm-3eeab46e96cf

@@ -3,3 +3,4 @@
 - https://giraffesecurity.dev/posts/dependabot-confusion/
 - https://web.archive.org/web/20210910154714/https://ricardoiramar.medium.com/msrc-is-confused-5d86b23c2e88
 - https://giraffesecurity.dev/posts/google-remote-code-execution/
+- https://hetroublemakr.medium.com/how-i-approached-dependency-confusion-272b46f66907
