@@ -162,3 +162,4 @@
 - https://web.archive.org/web/20220519224811/http://wisdomfreak.com/increasing-reward-points-n-number-of-time/
 - https://maxwelldulin.com/BlogPost?post=7676291072
 - https://hackrzvijay.medium.com/hacking-apple-security-report-system-db84850002fb
+- https://www.netspi.com/blog/technical/cloud-penetration-testing/escalating-azure-privileges-with-the-log-analystics-contributor-role/

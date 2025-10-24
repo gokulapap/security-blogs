@@ -406,7 +406,6 @@
 - https://positive.security/blog/urlscan-data-leaks, Information-disclosure
 - https://portswigger.net/research/safari-is-hot-linking-images-to-semi-random-websites, Browser-hacking
 - https://medium.com/@jawadmahdi/blind-sql-injection-on-delete-request-486770af75a6, Blind-SQL-injection
-- https://akashhamal0x01.medium.com/2fa-bypass-due-to-information-disclosure-improper-access-control-f9a5a8a4e0af, DoS
 - https://medium.com/@nanwinata/old-rce-worth-3362-1af0cd70c459, RCE
 - https://0xm5awy.medium.com/how-i-was-able-to-get-free-money-via-sending-negative-tokens-1ed2e0e710e0, Logic-flaw
 - https://medium.com/@nanwinata/rce-docker-api-but-11ff70825935, RCE
@@ -636,7 +635,6 @@
 - https://github.com/cloudflare/odoh-server-go/issues/30, SSRF
 - https://amit-lt.medium.com/open-redirection-into-bentley-system-d1ee188bfb25, XSS
 - https://systemweakness.com/exploiting-a-file-upload-vulnerability-a-directory-traversal-attack-419308cdb059, Unrestricted-file-upload
-- https://palant.info/2022/04/19/adobe-acrobat-hollowing-out-same-origin-policy/, XSS
 - https://systemweakness.com/stored-xss-to-other-users-via-messages-e033239821b5, Stored-XSS
 - https://medium.com/pentesternepal/sql-injection-in-harvards-subdomain-c3148f8be156, SQL-injection
 - https://bloggerrando.blogspot.com/2022/04/15-1.html, Broken-Access-Control
@@ -758,7 +756,6 @@
 - https://hector0x.medium.com/dos-attack-in-yahoo-how-i-was-able-to-deny-new-users-from-service-6b222e744e61, DoS
 - https://secureitmania.medium.com/never-leave-this-tip-while-you-hunting-broken-access-control-f63c00b1e96a, Broken-Access-Control
 - https://hector0x.medium.com/from-url-dumps-digging-to-idor-bac-massive-phishing-in-udemy-6fa7f94ef256, Broken-Access-Control
-- https://coffeejunkie.me/Simple-SSRF/, SSRF
 - https://itsfading.github.io/posts/Unrestricted-File-Upload-Leads-to-SSRF-and-RCE/, ImageTragick
 - https://thalium.github.io/blog/posts/fuzzing-microsoft-rdp-client-using-virtual-channels/, Memory-corruption
 - https://www.intruder.io/research/practical-http-header-smuggling, HTTP-Header-Smuggling
@@ -809,7 +806,6 @@
 - https://pwnsauc3.medium.com/weaponizing-reflected-xss-to-account-takeover-ae8aeea7aca3, XSS
 - https://asterfiester.medium.com/how-i-was-able-to-send-sms-from-google-to-anyone-google-vulnerability-3277ea0cc9d1, Content-spoofing
 - https://s3c.medium.com/how-i-hacked-world-wide-tiktok-users-24e794d310d2, IDOR
-- https://www.netspi.com/blog/technical/cloud-penetration-testing/escalating-azure-privileges-with-the-log-analystics-contributor-role/, Logic-flaw
 - https://asterfiester.medium.com/3133-70-google-dialogflow-idor-vulnerability-7a72771678dd, IDOR
 - https://asterfiester.medium.com/5000-google-idor-vulnerability-writeup-c7b45926abe9, IDOR
 - https://vedanttekale20.medium.com/how-i-found-my-first-aem-related-bug-5ea901aad3f4, LFR
@@ -1040,7 +1036,6 @@
 - https://medium.com/bugbountywriteup/my-first-bug-on-google-observation-wins-1a13d0ea54b0, IDOR
 - https://medium.com/@saneklarek22/back-to-2019-disclosure-employers-pii-and-credentials-bb7f344dcb08, Information-disclosure
 - https://www.rafaybaloch.com/2020/10/multiple-address-bar-spoofing-vulnerabilities.html, Address-Bar-Spoofing
-- https://mksben.l0.cm/2020/10/discord-desktop-rce.html, RCE
 - https://medium.com/@mustafa0x2021/disclose-emails-phone-numbers-other-information-for-facebook-users-who-tried-to-add-funds-to-31aea5f973a5, Information-disclosure
 - https://blog.dixitaditya.com/leveraging-xss-to-read-internal-files/, XSS
 - https://medium.com/@parasarora06/cve-2018-5230-jira-cross-site-scripting-59ec96b3d75f, Reflected-XSS

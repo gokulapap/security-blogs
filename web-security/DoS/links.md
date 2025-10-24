@@ -54,3 +54,4 @@
 - https://shahjerry33.medium.com/sql-wildcard-dos-hang-till-death-adbae66d1f7b
 - https://medium.com/@D0rkerDevil/a-infinite-loop-story-f2bc05771a88
 - https://medium.com/bugbountywriteup/banner-grabbing-to-dos-and-memory-corruption-2442b1c25bbb
+- https://akashhamal0x01.medium.com/2fa-bypass-due-to-information-disclosure-improper-access-control-f9a5a8a4e0af

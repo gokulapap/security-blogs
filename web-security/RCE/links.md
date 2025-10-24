@@ -261,3 +261,4 @@
 - https://positive.security/blog/url-open-rce
 - https://medium.com/@aniltom/from-hunting-for-a-laptop-to-hunting-down-remote-code-execution-72cce2761846
 - https://medium.com/@ratnadip1998/how-i-got-4000-from-visma-for-rce-d541e6042086
+- https://mksben.l0.cm/2020/10/discord-desktop-rce.html
