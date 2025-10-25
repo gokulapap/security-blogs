@@ -163,3 +163,4 @@
 - https://maxwelldulin.com/BlogPost?post=7676291072
 - https://hackrzvijay.medium.com/hacking-apple-security-report-system-db84850002fb
 - https://www.netspi.com/blog/technical/cloud-penetration-testing/escalating-azure-privileges-with-the-log-analystics-contributor-role/
+- https://medium.com/bugbountywriteup/a-tale-of-2nd-xxx-bounty-ability-to-gain-persistence-on-facebook-events-as-an-unremovable-9408338ccf8f

@@ -106,3 +106,4 @@
 - https://ysamm.com/?p=281
 - https://ysamm.com/?p=609
 - https://medium.com/@rramgattie/exploiting-parameter-pollution-in-golang-web-apps-daca72b28ce2
+- https://medium.com/@shakti.gtp/an-out-of-scope-domain-leads-to-a-critical-bug-1500-f228d2c7db4b

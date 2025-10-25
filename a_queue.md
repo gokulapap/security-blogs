@@ -570,7 +570,6 @@
 - https://www.rapid7.com/blog/post/2022/06/28/cve-2021-3779-ruby-mysql-gem-client-file-read-fixed/, Client-File-Read
 - https://curl.se/docs/CVE-2022-32207.html, Improper-Preservation-of-Permissions
 - https://curl.se/docs/CVE-2022-32205.html, DoS
-- https://medium.com/@shakti.gtp/an-out-of-scope-domain-leads-to-a-critical-bug-1500-f228d2c7db4b, Authorization-flaw
 - https://peterjson.medium.com/miracle-one-vulnerability-to-rule-them-all-c3aed9edeea2, Insecure-deserialization
 - https://blog.viettelcybersecurity.com/pwn2own-2021-microsoft-exchange-exploit-chain/, SSRF
 - https://medium.com/@tobydavenn/1500-of-broken-access-controls-503d8a5f56f5, Broken-Access-Control
@@ -969,7 +968,6 @@
 - https://www.inputzero.io/2020/12/telegram-privacy-fails-again.html, Privacy-issue
 - https://santoshdbobade.blogspot.com/, XSS
 - https://servicenger.com/blog/mobile/sending-ephemeral-message-to-any-facebook-user/, IDOR
-- https://medium.com/bugbountywriteup/a-tale-of-2nd-xxx-bounty-ability-to-gain-persistence-on-facebook-events-as-an-unremovable-9408338ccf8f, Logic-flaw
 - https://thevillagehacker.medium.com/reflected-xss-on-a-public-program-e8c0416daca1, Reflected-XSS
 - https://sanderwind.medium.com/escalating-ssrf-to-rce-7c0147371c40, SSRF
 - http://almadj.us/infosec/xxe-to-aws-metadata-disclosure/, XXE
@@ -1139,7 +1137,6 @@
 - https://medium.com/bugbountywriteup/bypass-2fa-like-a-boss-378787707ba, Lack-of-rate-limiting
 - https://alaa.blog/2020/06/how-did-i-found-information-disclosure-on-facebook-writeup/, Information-disclosure
 - https://samcurry.net/hacking-starbucks/, Path-traversal
-- https://blog.it-securityguard.com/how-i-made-more-than-30k-with-jolokia-cves/, Reflected-XSS
 - https://medium.com/@abireena2002/how-i-managed-to-escalate-privilege-as-admin-94b8dc910d14, Lack-of-rate-limiting
 - https://ysamm.com/?p=460, Privilege-escalation
 - https://ysamm.com/?p=450, Information-disclosure
@@ -1235,7 +1232,6 @@
 - https://flex0geek.blogspot.com/2020/02/using-csrf-i-got-weird-account-takeover.html, CSRF
 - https://medium.com/@sushiwushi2/hijacking-shared-report-links-in-google-data-studio-75eab320c391, Authorization-flaw
 - https://www.perimeterx.com/tech-blog/2020/whatsapp-fs-read-vuln-disclosure/, Stored-XSS
-- https://jatindhankhar.in/blog/responsible-disclosure-breaking-out-of-a-sandboxed-editor-to-perform-rce/, RCE
 - https://medium.com/@navne3t/csrf-csrf-csrf-f203e6452a9c, CSRF
 - https://techblog.mediaservice.net/2020/01/ok-google-bypass-the-authentication/, Authentication-bypass
 - https://medium.com/@abhishake100/hyperlink-injection-easy-money-sometimes-cc1104655300, Hyperlink-injection
@@ -1620,7 +1616,6 @@
 - https://medium.com/@saamux/filter-bypass-to-reflected-xss-on-https-finance-yahoo-com-mobile-version-22b854327b27, Reflected-XSS
 - https://guptashubham.com/all-about-hackerone-private-program-terapeak/, IDOR
 - http://manuel-sousa.blogspot.com/2017/09/url-whitelist-bypass-accounts-google.html, Open-redirect
-- https://medium.com/intigriti/how-i-hacked-hundreds-of-companies-through-their-helpdesk-b7680ddc2d4c, Ticket-Trick
 - https://medium.com/@SyntaxError4/reflective-xss-and-open-redirect-on-indeed-com-subdomain-b4ab40e40c83, Reflected-XSS
 - https://medium.com/japzdivino/idor-on-hackerone-hacker-review-what-program-say-885ce3989a6f, IDOR
 - https://medium.com/@armaanpathan/dont-just-alert-1-because-xss-is-for-fun-f88cfb88d5b9, XSS
