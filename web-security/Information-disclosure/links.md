@@ -262,3 +262,7 @@
 - https://infosecwriteups.com/somebody-call-the-plumber-graphql-is-leaking-again-654bf1a38d26
 - https://www.notgitbleed.com
 - https://medium.com/@rohitcoder/object-name-exposure-ing-bank-responsible-disclosure-program-1f8f808cc789
+- https://medium.com/bugbountywriteup/leaking-aws-metadata-f5bc8de03284
+- https://medium.com/@iframe_h1/a-picture-that-steals-data-ff604ba1012
+- https://molx32.github.io/blog/2021/Bug-bounty-00/
+- https://medium.com/@masonhck357/the-16-000-dev-mistake-13e516e86be6

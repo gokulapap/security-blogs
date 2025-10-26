@@ -617,7 +617,6 @@
 - https://systemweakness.com/rce-via-dependency-confusion-e0ed2a127013, Dependency-confusion
 - https://melotover.medium.com/can-analyzing-javascript-files-lead-to-remote-code-execution-f24112f1aa1f, Unrestricted-file-upload
 - https://web.archive.org/web/20220516024454/https://medium.com/@tobydavenn/how-i-paid-for-my-holiday-with-bug-bounty-668f1f59e6e5, XSS
-- https://medium.com/@masonhck357/the-16-000-dev-mistake-13e516e86be6, Information-disclosure
 - https://www.pmnh.site/post/advanced-sqlmap-case-study-1/, SQL-injection
 - https://blog.viettelcybersecurity.com/cve-2022-0540-authentication-bypass-in-seraph/, Authentication-bypass
 - https://blog.assetnote.io/2022/05/03/hacking-a-bank-using-dotcms-rce/, Directory-traversal
@@ -836,7 +835,6 @@
 - https://infosecwriteups.com/how-i-scored-1k-bounty-using-waybackurls-717d9673ca52, Information-disclosure
 - https://blog.gypsyengineer.com/en/security/detecting-jackson-deserialization-vulnerabilities-with-codeql.html, Insecure-deserialization
 - https://blog.azuki.vip/csrf/, CSRF
-- https://molx32.github.io/blog/2021/Bug-bounty-00/, Information-disclosure
 - https://coffeejunkie.me/Blind-XXE-Port-Scanning/, XXE
 - https://medium.com/@mumeido/from-hobby-to-hacking-5d8befb3adde, Unrestricted-file-upload
 - https://medium.com/@muhammadsholikhin/facebook-vulnerability-expose-group-member-3000-cca809a53f6b, IDOR
@@ -966,7 +964,6 @@
 - https://web.archive.org/web/20220519231807/https://wisdomfreak.com/how-i-was-able-to-get-extra-coins/, Logic-flaw
 - https://samcurry.net/hacking-chesscom/, Reflected-XSS
 - https://www.inputzero.io/2020/12/telegram-privacy-fails-again.html, Privacy-issue
-- https://santoshdbobade.blogspot.com/, XSS
 - https://servicenger.com/blog/mobile/sending-ephemeral-message-to-any-facebook-user/, IDOR
 - https://thevillagehacker.medium.com/reflected-xss-on-a-public-program-e8c0416daca1, Reflected-XSS
 - https://sanderwind.medium.com/escalating-ssrf-to-rce-7c0147371c40, SSRF
@@ -1069,7 +1066,6 @@
 - https://medium.com/bugbountywriteup/how-could-i-tag-photo-to-any-users-scrapbook-on-facebook-23ab15e6e4b4, Authorization-flaw
 - https://blog.detectify.com/2020/08/14/crowdsource-success-story-from-an-out-of-scope-open-redirect-to-cve-2020-1323/, Open-redirect
 - https://medium.com/nassec-cybersecurity-writeups/deleted-data-stored-permanently-on-instagram-facebook-bug-bounty-2020-26074c229955, Logic-flaw
-- https://medium.com/bugbountywriteup/leaking-aws-metadata-f5bc8de03284, Information-disclosure
 - https://medium.com/bugbountywriteup/cache-poisoning-of-wget-94a4d70104b1, Web-cache-poisoning
 - https://medium.com/@singh.simran7838/how-i-made-2000-with-url-redirection-b1b5f4e7a678, Open-redirect
 - https://voidsec.com/cve-2020-1337-printdemon-is-dead-long-live-printdemon/, Local-Privilege-Escalation
@@ -1365,7 +1361,6 @@
 - https://baibhavjha.com.np/blogs/instagramstory/, Authorization-flaw
 - https://labs.bluefrostsecurity.de/blog/2019/04/29/dont-follow-the-masses-bug-hunting-in-javascript-engines/, Buffer-Overflow
 - https://edoverflow.com/2019/ci-knew-there-would-be-bugs-here/, Information-disclosure
-- https://medium.com/@iframe_h1/a-picture-that-steals-data-ff604ba1012, Information-disclosure
 - https://medium.com/@heshamwatany/the-neglected-bug-that-can-infect-all-facebook-users-who-pay-for-leads-ads-8c374cd64d76, CSV-injection
 - https://soroush.secproject.com/blog/2019/04/yet-other-examples-of-abusing-csrf-in-logout/, CSRF
 - https://rpadovani.com/gitlab-responsible-disclosure, Authorization-flaw
