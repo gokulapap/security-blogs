@@ -112,7 +112,6 @@
 - https://dimazarno.medium.com/unexpected-zero-in-mysql-injection-511f632714b0, SQL-injection
 - https://code-white.com/blog/2023-07-from-blackbox-dotnet-remoting-to-rce/, RCE
 - https://devco.re/blog/2023/07/07/a-journey-into-hacking-google-search-appliance-en/, RCE
-- https://kuldeep.io/posts/fulldisclosure-dom-based-xss/, DOM-XSS
 - http://blog.takemyhand.xyz/2023/07/remote-code-execution-in-gitlabs-cli.html, RCE
 - https://blog.assetnote.io/2023/07/04/citrix-sharefile-rce/, RCE
 - https://labs.hakaioffsec.com/nginx-alias-traversal/, Path-traversal
@@ -358,7 +357,6 @@
 - https://karmainsecurity.com/KIS-2022-06, Zip-Slip-attack
 - https://medium.com/@haroonhameed_76621/a-775-worth-of-cookies-reflected-dom-based-xss-bug-bounty-poc-3e7720c78fbe, DOM-XSS
 - https://medium.com/@swapmaurya20/3-step-idor-in-hackerresume-a365f2632996, IDOR
-- https://github.com/Wh04m1001/SysmonEoP, Local-Privilege-Escalation
 - https://sensepost.com/blog/2022/certpotato-using-adcs-to-privesc-from-virtual-and-network-service-accounts-to-local-system/, Local-Privilege-Escalation
 - https://onekey.com/blog/security-advisory-asus-m25-nas-vulnerability/, OS-command-injection
 - https://www.rcesecurity.com/2022/12/from-zero-to-hero-part-2-intel-dcm-sql-injection-to-rce-cve-2022-21225/, SQL-injection
@@ -512,7 +510,6 @@
 - https://doyensec.com/resources/Doyensec_Advisory_SmokescreenGoProxy_Q12022.pdf, DoS
 - https://accessvector.net/2022/freebsd-aio-lpe, Memory-corruption
 - https://infosecwriteups.com/salesforce-bug-hunting-to-critical-bug-b5da44789d3, Information-disclosure
-- https://bergee.it/blog/five-minute-hunting-for-hidden-xss/, Reflected-XSS
 - https://medium.com/@lovely.goyal1998/story-of-5000-bounty-for-grafana-panel-access-in-apple-89c93ab4486f, Missing-authentication
 - https://www.akamai.com/blog/security/authentication-coercion-windows-server-service, Off-by-one-Error
 - https://medium.com/@Bishoo97x/un-united-nations-host-header-injection-leads-to-any-full-account-takeover-ato-795bc9ebc670, Host-header-injection
@@ -535,7 +532,6 @@
 - https://swarm.ptsecurity.com/researching-open-source-apps-for-xss-to-rce-flaws/, XSS
 - https://medium.com/tinder/exploiting-github-actions-on-open-source-projects-5d93936d189f, RCE
 - https://claroty.com/team82/blog/with-management-comes-risk-finding-flaws-in-filewave-mdm, Authentication-bypass
-- https://medium.com/@720922/a-developers-nightmare-story-of-a-simple-idor-and-some-poor-fixes-worth-1125-5ead70b0a1de, IDOR
 - https://medium.com/@Steiner254/bounty-in-less-3-minutes-from-a-google-dork-54bd9bf3a650, Information-disclosure
 - https://www.yesnaveen.com/2022/07/permanently-crash-instagram-followers.html, DoS
 - https://www.vectra.ai/blogpost/abusing-the-replicator-silently-exfiltrating-data-with-the-aws-s3-replication-service, Security-Logging-and-Monitoring-Failure
@@ -935,7 +931,6 @@
 - https://med-mahmoudi26.medium.com/chaining-bugs-for-the-greater-good-664412ae85f8, Blind-XSS
 - https://blog.melbadry9.xyz/dangling-dns/xyz-services/ddns-worksites, Dangling-DNS-records
 - https://www.thezdi.com/blog/2021/3/17/cve-2021-27076-a-replay-style-deserialization-attack-against-sharepoint, Insecure-deserialization
-- https://mayank-01.medium.com/an-interesting-account-takeover-3a33f42d609d, IDOR
 - https://spongebhav.medium.com/facebook-group-members-disclosure-e53eb83df39e, Information-disclosure
 - https://apapedulimu.click/google-vrp-how-i-get-blind-xss-at-google-with-dork-first-bounty-and-hof/, Blind-XSS
 - https://infosecwriteups.com/business-logic-error-on-registration-leads-to-sms-validation-bypass-80380b3ff629, MFA-bypass

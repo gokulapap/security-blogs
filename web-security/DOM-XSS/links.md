@@ -33,3 +33,4 @@
 - http://www.rafayhackingarticles.net/2013/02/dom-based-xss-in-avg.html
 - https://websecblog.com/vulns/google-threadit/
 - https://web.archive.org/web/20201222140349/https://www.mohamedharon.com/2019/09/dom-based-xss-in-private-program.html
+- https://kuldeep.io/posts/fulldisclosure-dom-based-xss/

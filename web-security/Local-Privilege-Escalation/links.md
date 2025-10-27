@@ -78,3 +78,4 @@
 - https://www.imperva.com/blog/google-chrome-symstealer-vulnerability/
 - https://herolab.usd.de/security-advisories/usd-2022-0034/
 - https://systemweakness.com/give-me-a-browser-ill-give-you-a-shell-de19811defa0
+- https://github.com/Wh04m1001/SysmonEoP

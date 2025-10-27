@@ -93,3 +93,4 @@
 - https://medium.com/@jonathanbouman/reflected-client-xss-amazon-com-7b0d3cec787
 - https://hacklido.com/blog/320-how-i-got-a-2000-bounty-with-rxss
 - https://blog.it-securityguard.com/how-i-made-more-than-30k-with-jolokia-cves/
+- https://bergee.it/blog/five-minute-hunting-for-hidden-xss/

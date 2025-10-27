@@ -235,3 +235,5 @@
 - https://mearegtu.medium.com/insecure-direct-object-reference-exposes-all-users-of-microsoft-azure-independent-software-vendors-bed3b45e509
 - https://medium.com/bugbountywriteup/privilege-escalation-via-account-takeover-on-nodebb-forum-software-512-a593a7b1b4a4
 - https://blog.securitybreached.org/2018/02/05/how-i-found-idor-on-twitters-acquisition-mopub-com/
+- https://mayank-01.medium.com/an-interesting-account-takeover-3a33f42d609d
+- https://medium.com/@720922/a-developers-nightmare-story-of-a-simple-idor-and-some-poor-fixes-worth-1125-5ead70b0a1de
