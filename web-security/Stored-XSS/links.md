@@ -110,3 +110,4 @@
 - https://josipfranjkovic.blogspot.com/2013/01/googlecom-cross-site-scripting-and.html
 - https://mtechghost.medium.com/stored-xss-vulnerability-in-microsoft-booking-e593de3344e0
 - https://medium.com/@04sabsas/bugbounty-writeup-take-attention-and-get-stored-xss-495dd6eab07e
+- https://medium.com/@kminthein/stored-xss-in-microsoft-outlook-ebce9ff9e45b

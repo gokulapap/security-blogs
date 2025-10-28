@@ -1,3 +1,4 @@
 - https://www.zerodayinitiative.com/blog/2023/4/19/cve-2022-29844-a-classic-buffer-overflow-on-the-western-digital-my-cloud-pro-series-pr4100
 - https://bugs.php.net/bug.php?id=81719
 - https://www.zerodayinitiative.com/blog/2022/6/7/cve-2022-26937-microsoft-windows-network-file-system-nlm-portmap-stack-buffer-overflow
+- https://mouha.be/sha-3-buffer-overflow/

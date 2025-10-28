@@ -282,3 +282,4 @@
 - https://www.f5.com/labs/articles/threat-intelligence/how-i-hacked-the-microsoft-outlook-android-app-and-found-cve-2019-1105
 - https://palant.info/2022/04/19/adobe-acrobat-hollowing-out-same-origin-policy/
 - https://santoshdbobade.blogspot.com/
+- https://research.checkpoint.com/2021/a-supply-chain-breach-taking-over-an-atlassian-account/

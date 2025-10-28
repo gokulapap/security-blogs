@@ -266,3 +266,4 @@
 - https://medium.com/@iframe_h1/a-picture-that-steals-data-ff604ba1012
 - https://molx32.github.io/blog/2021/Bug-bounty-00/
 - https://medium.com/@masonhck357/the-16-000-dev-mistake-13e516e86be6
+- https://ysamm.com/?p=634

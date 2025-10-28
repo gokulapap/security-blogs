@@ -213,7 +213,6 @@
 - https://vitorfalcao.com/posts/simple-bugs/password-changing-to-ato/, Account-takeover
 - https://rayhan0x01.github.io/ctf/2023/04/01/finding-rce-in-eta-cve-2022-25967.html, RCE
 - https://www.reversemode.com/2023/03/beware-of-javas-stringgetbytes.html, Hash-collision
-- https://7h3h4ckv157.medium.com/unveiling-the-secrets-my-journey-of-hacking-googles-oss-cdd9ef3c7aa, CSRF
 - https://www.mannulinux.org/2023/03/exploiting-hibernate-injection-in-order.html, HQL-injection
 - https://xelkomy.medium.com/found-ssrf-and-lfi-in-just-10-minutes-of-using-burp-492fddef3f3e, SSRF
 - https://www.sonarsource.com/blog/it-s-a-snmp-trap-gaining-code-execution-on-librenms/, RCE
@@ -419,7 +418,6 @@
 - https://www.redteam-pentesting.de/en/advisories/rt-sa-2021-003/-missing-authentication-in-zkteco-zem-zmm-web-interface, Missing-authentication
 - https://mehedishakeel.medium.com/broken-link-hijacking-my-second-finding-on-hackerone-d715b0713fca, Broken-link-hijacking
 - https://medium.com/the-gray-area/1-000-p1-pii-disclosure-w-idor-cb344c55d52e, IDOR
-- https://mouha.be/sha-3-buffer-overflow/, Buffer-Overflow
 - https://medium.com/@h4x0r_dz/23000-for-authentication-bypass-file-upload-arbitrary-file-overwrite-2578b730a5f8, JWT
 - https://www.mdsec.co.uk/2022/10/microsoft-office-online-server-remote-code-execution/, SSRF
 - https://blog.doyensec.com/2022/10/18/cloudsectidbit-dataimport.html, Cloud
@@ -856,7 +854,6 @@
 - https://ysamm.com/?p=702, CSRF
 - https://ysamm.com/?p=700, Information-disclosure
 - https://16521092.medium.com/some-ways-to-find-more-idor-da16c93954e5, IDOR
-- https://research.checkpoint.com/2021/a-supply-chain-breach-taking-over-an-atlassian-account/, XSS
 - https://smaranchand.com.np/2021/06/flywheel-subdomain-takeover/, Subdomain-takeover
 - https://gccybermonks.com/posts/msstorebypass/, Payment-tampering
 - https://blog.evanricafort.com/2021/06/generate-online-votes-using-race.html, Race-condition
@@ -949,7 +946,6 @@
 - https://zdresearch.com/rce-on-a-laravel-private-program/, RCE
 - https://ysamm.com/?p=640, Information-disclosure
 - https://ysamm.com/?p=636, Information-disclosure
-- https://ysamm.com/?p=634, Information-disclosure
 - https://ysamm.com/?p=621, Authorization-flaw
 - https://ysamm.com/?p=625, Open-redirect
 - https://www.shielder.it/blog/2021/02/hunting-for-bugs-in-telegrams-animated-stickers-remote-attack-surface/, Memory-corruption
@@ -1152,7 +1148,6 @@
 - https://blog.raphael.karger.is/articles/2020-05/CVE-2020-13693, Privilege-escalation
 - https://www.nahamsec.com/posts/my-expense-report-resulted-in-a-server-side-request-forgery-ssrf-on-lyft, SSRF
 - https://medium.com/@kishoretk/how-i-was-able-to-see-identity-of-a-private-video-up-loader-via-rights-manager-responsible-39d996517b6e, Information-disclosure
-- https://medium.com/@kminthein/stored-xss-in-microsoft-outlook-ebce9ff9e45b, Stored-XSS
 - https://servicenger.com/blog/mobile/android-sop-bypass-to-steal-system-files/, SOP-bypass
 - https://andrei-abakumov.medium.com/how-dangerous-is-request-splitting-a-vulnerability-in-golang-or-how-we-found-the-rce-in-portainer-7339ba24c871, HTTP-request-splitting
 - https://www.ezequiel.tech/2020/05/rce-in-cloud-dm.html, SSRF
