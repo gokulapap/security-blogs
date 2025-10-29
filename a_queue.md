@@ -94,7 +94,6 @@
 - https://hazanasec.github.io/2023-07-30-Samesite-bypass-method-override.md/, Samesite-cookie-bypass
 - https://medium.com/@abhishek.karle92/access-of-android-protected-components-via-embedded-intent-android-app-pentesting-5618ae3cc9b2, Android
 - https://www.mcnulty.blog/posts/dap-csrf, CSRF
-- https://securitylabs.datadoghq.com/articles/exploring-github-to-aws-keyless-authentication-flaws/, OpenID-Connect
 - https://blog.doyensec.com/2023/07/26/huawei-theme-arbitrary-code-exec.html, Arbitrary-Code-Execution
 - https://blog.assetnote.io/2023/07/21/citrix-CVE-2023-3519-analysis/, RCE
 - https://blog.assetnote.io/2023/07/22/pre-auth-rce-metabase/, RCE
@@ -153,7 +152,6 @@
 - https://mc0wn.blogspot.com/2023/05/vulnerabilities-in-apache-commons-text.html, Path-traversal
 - https://medium.com/@ajzead660/exploit-an-unexploitable-xss-via-an-open-redirect-a-real-life-scenario-from-a-hackers-mindset-32b71041c5fe, XSS
 - https://medium.com/@ibederov_en/find-out-the-ip-address-through-a-call-to-telegram-a899441b1bac, Privacy-issue
-- https://kuenzi.dev/toothbrush/, IoT
 - https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/from-response-to-request-adding-your-own-variables-inside-of-graphql-queries-for-account-take-over/, GraphQL
 - https://www.secureworks.com/research/tampering-with-conditional-access-policies-using-azure-ad-graph-api, Cloud
 - https://github.com/dhmosfunk/CVE-2023-25690-POC, HTTP-Request-Smuggling
@@ -309,7 +307,6 @@
 - https://medium.com/pentesternepal/two-factor-authentication-bypass-on-facebook-3f4ac3ea139c, MFA-bypass
 - https://www.zerodayinitiative.com/blog/2023/1/18/cve-2022-35690-unauthenticated-rce-in-adobe-coldfusion, RCE
 - https://shahjerry33.medium.com/api-misconfiguration-no-swag-of-swaggerui-9b43135346be, Security-misconfiguration
-- https://x41-dsec.de/security/research/news/2023/01/17/git-security-audit-ostif/, Memory-corruption
 - https://semgrep.dev/blog/2022/xml-security-in-java, XXE
 - https://www.dsecbypass.com/en/centreon-map-vulnerability/, Authentication-bypass
 - https://orca.security/resources/blog/ssrf-vulnerabilities-in-four-azure-services/, SSRF
@@ -709,7 +706,6 @@
 - https://zoidsec.medium.com/breaking-parse-logic-gain-access-to-nginx-api-read-write-upstreams-1cb062aa44ca, Path-traversal
 - https://infosecwriteups.com/idor-leads-to-leak-private-details-866563365490, IDOR
 - https://trevorspiniolas.com/doorlock/doorlock.html, DoS
-- https://m7-arman.medium.com/one-click-to-account-takeover-1f78c6003eba, Mass-assignment
 - https://bugs.xdavidhu.me/google/2021/12/31/fixing-the-unfixable-story-of-a-google-cloud-ssrf/, SSRF
 - https://www.seblu.de/2021/12/iap-bypass.html, Authorization-flaw
 - https://ndevtk.github.io/writeups/2021/12/30/cloud-shell-xss/, XSS
@@ -1384,7 +1380,6 @@
 - https://georgeosterweil.com/2019-02-20-fbctf-idor/, IDOR
 - https://apapedulimu.click/multiple-stored-xss-on-tokopedia/, Stored-XSS
 - https://www.hackerinside.me/2019/02/dos-on-waf-protected-sites-by-abusing.html, DoS
-- https://web.archive.org/web/20200928234202/https://www.mohamedharon.com/2019/02/subdomain-takeover-via-hubspot.html, Subdomain-takeover
 - https://web.archive.org/web/20200929012457/https://www.mohamedharon.com/2019/02/souqcom-subdomain-takeover-via.html, Subdomain-takeover
 - https://gauravnarwani.com/never-stop-at-banner-grabbing/, Information-disclosure
 - https://wwws.nightwatchcybersecurity.com/2019/02/14/third-party-android-app-storing-facebook-data-insecurely/, Information-disclosure
