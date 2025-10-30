@@ -94,3 +94,4 @@
 - https://hacklido.com/blog/320-how-i-got-a-2000-bounty-with-rxss
 - https://blog.it-securityguard.com/how-i-made-more-than-30k-with-jolokia-cves/
 - https://bergee.it/blog/five-minute-hunting-for-hidden-xss/
+- https://amit-lt.medium.com/hacked-nokia-with-reflected-cross-site-scripting-vulnerability-327daa8e62fb

@@ -283,3 +283,4 @@
 - https://palant.info/2022/04/19/adobe-acrobat-hollowing-out-same-origin-policy/
 - https://santoshdbobade.blogspot.com/
 - https://research.checkpoint.com/2021/a-supply-chain-breach-taking-over-an-atlassian-account/
+- https://medium.com/@sudhanshur705/xss-in-microsoft-subdomain-81c4e46d6631
