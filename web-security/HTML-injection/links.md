@@ -19,3 +19,4 @@
 - https://medium.com/cyberverse/got-easiest-bounty-with-html-injection-via-email-confirmation-b1b10575a105
 - https://infosecwriteups.com/param-hunting-to-injections-4365da5447cf
 - https://medium.com/@chaitanyarajhans024/simple-html-injection-to-250-895b760409ed
+- https://medium.com/@iambroot/what-would-you-do-if-oracles-mailing-server-sent-you-this-bc275b1bf967

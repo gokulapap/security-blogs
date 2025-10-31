@@ -95,3 +95,4 @@
 - https://blog.it-securityguard.com/how-i-made-more-than-30k-with-jolokia-cves/
 - https://bergee.it/blog/five-minute-hunting-for-hidden-xss/
 - https://amit-lt.medium.com/hacked-nokia-with-reflected-cross-site-scripting-vulnerability-327daa8e62fb
+- https://medium.com/@efkan162/how-i-xssed-uber-and-bypassed-csp-9ae52404f4c5

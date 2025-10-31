@@ -284,3 +284,4 @@
 - https://santoshdbobade.blogspot.com/
 - https://research.checkpoint.com/2021/a-supply-chain-breach-taking-over-an-atlassian-account/
 - https://medium.com/@sudhanshur705/xss-in-microsoft-subdomain-81c4e46d6631
+- https://medium.com/@ariffadhlullah2310/poc-cross-site-scripting-on-garuda-indonesia-website-452f4864f615

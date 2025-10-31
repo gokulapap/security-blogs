@@ -18,3 +18,4 @@
 - https://feed.bugs.xdavidhu.me/bugs/0003
 - https://www.da.vidbuchanan.co.uk/blog/exploiting-acropalypse.html
 - https://www.michaelhorowitz.com/VPNs.on.iOS.are.scam.php
+- https://www.microsoft.com/security/blog/2022/01/10/new-macos-vulnerability-powerdir-could-lead-to-unauthorized-user-data-access/
