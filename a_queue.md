@@ -261,7 +261,6 @@
 - https://www.synacktiv.com/sites/default/files/2023-02/Synacktiv-Nokia-BTS-AirScale-Asika-Multiple-Vulnerabilities.pdf, Base-transceiver-station
 - https://blog.trailofbits.com/2023/02/21/vscode-extension-escape-vulnerability/, Path-traversal
 - https://www.praetorian.com/blog/using-crlf-injection-to-bypass-akamai-web-app-firewall/, WAF-bypass
-- https://jjainam16.medium.com/reflected-cross-site-scripting-awards-3500-bounty-c8a619f129a1, Reflected-XSS
 - https://medium.com/@niraj1mahajan/hacking-the-search-bar-the-story-of-discovering-and-reporting-an-xss-vulnerability-on-bing-com-cac2f241835, XSS
 - https://blog.trailofbits.com/2023/02/16/suid-logic-bug-linux-readline/, Local-Privilege-Escalation
 - https://blog.infiltrateops.io/hacking-apple-two-successful-exploits-and-positive-thoughts-on-their-bug-bounty-program-963efe7518f6, RCE
@@ -579,7 +578,6 @@
 - https://infosecwriteups.com/how-i-found-a-critical-bug-in-instagram-and-got-49500-bounty-from-facebook-626ff2c6a853, IDOR
 - https://www.shielder.com/advisories/autodesk-fusion-import-svg-blind-xxe/, XXE
 - https://jfrog.com/blog/denial-of-service-vulnerability-in-envoy-proxy-cve-2022-29225/, Zip-bomb
-- https://www.r29k.com/articles/bb/account-takeover-via-idors, IDOR
 - https://security.humanativaspa.it/multiple-vulnerabilities-in-zyxel-zysh/, OS-command-injection
 - https://machevalia.blog/blog/ivanti-epm-remote-code-execution, RCE
 - https://www.zerodayinitiative.com/blog/2022/6/1/is-exploiting-a-null-pointer-deref-for-lpe-just-a-pipe-dream, Memory-corruption
@@ -1176,7 +1174,6 @@
 - https://blog.securitybreached.org/2020/04/04/playing-with-json-web-tokens-for-fun-and-profit/, Password-reset
 - https://medium.com/@pig.wig45/touch-id-authentication-bypass-on-evernote-and-dropbox-ios-apps-7985219767b2, Authentication-bypass
 - https://medium.com/@nnez/always-escalate-from-self-xss-to-persistent-xss-on-login-portal-54265b0adfd0, Self-XSS
-- https://medium.com/@shahjerry33/privilege-escalation-hello-admin-a53ac14fd388, Privilege-escalation
 - https://medium.com/@ashokcpg/the-story-of-my-first-ever-1500-bounty-from-facebook-49eb64d26160, Logic-flaw
 - https://blog.securitybreached.org/2020/03/31/microsoft-rce-bugbounty/, RCE
 - https://blog.mert.ninja/freemarker-ssti-on-lithium-cms/, SSTI
@@ -1521,7 +1518,6 @@
 - https://sysdream.com/news/lab/2018-04-30-multiple-security-vulnerabilities-in-domains-belonging-to-google/, Broken-Access-Control
 - https://medium.com/@mdisrail2468/bypassing-the-confirmation-email-for-newsletter-bof-nl-682c05cb927f, Authorization-flaw
 - https://medium.com/@nuraalamdipu/xss-403-forbidden-bypass-write-up-e070de52bc06, XSS
-- https://medium.com/bugbountywriteup/how-we-got-lfi-in-apache-drill-recon-like-a-boss-6f739a79d87d, LFI
 - https://medium.com/@prial261/story-of-a-stored-xss-bypass-26e6659f807b, Stored-XSS
 - https://medium.com/@kankrale.rahul/whatsapp-users-ip-disclosure-with-link-preview-feature-39a477f54fba, Information-disclosure
 - https://medium.com/@vis_hacker/how-i-got-stored-xss-using-file-upload-5c33e19df51e, Stored-XSS
@@ -1622,7 +1618,6 @@
 - https://buer.haus/2017/03/08/airbnb-when-bypassing-json-encoding-xss-filter-waf-csp-and-auditor-turns-into-eight-vulnerabilities/, XSS
 - https://www.rcesecurity.com/2017/03/ok-google-give-me-all-your-internal-dns-information/, SSRF
 - https://timeofcheck.com/time-based-blind-sqli-on-news-starbucks-com/, Blind-SQL-injection
-- http://mahmoudsec.blogspot.com/2017/02/sql-injection-in-update-query-bug.html, SQL-injection
 - https://ysx.me.uk/lightweight-markup-a-trio-of-persistent-xss-in-gitlab/, Stored-XSS
 - https://web.archive.org/web/20200822111544/https://whitehatnepal.tumblr.com/post/156707088037/i-got-emails-g-suite-vulnerability, Logic-flaw
 - https://thehackerblog.com/the-orphaned-internet-taking-over-120k-domains-via-a-dns-vulnerability-in-aws-google-cloud-rackspace-and-digital-ocean/index.html, Domain-takeover

@@ -103,3 +103,4 @@
 - https://medium.com/@orthonviper/sql-injection-for-50-bounty-but-still-worth-reading-468442c1cc1a
 - https://infosecwriteups.com/a-great-weekend-hack-worth-8k-9bfda8ab65b9
 - https://medium.com/@agrawalsmart7/sql-is-every-where-5cba6ae9480a
+- http://mahmoudsec.blogspot.com/2017/02/sql-injection-in-update-query-bug.html

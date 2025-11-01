@@ -96,3 +96,4 @@
 - https://bergee.it/blog/five-minute-hunting-for-hidden-xss/
 - https://amit-lt.medium.com/hacked-nokia-with-reflected-cross-site-scripting-vulnerability-327daa8e62fb
 - https://medium.com/@efkan162/how-i-xssed-uber-and-bypassed-csp-9ae52404f4c5
+- https://jjainam16.medium.com/reflected-cross-site-scripting-awards-3500-bounty-c8a619f129a1
