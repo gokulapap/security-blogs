@@ -1,0 +1,1 @@
+- https://mohsinalibukc.medium.com/cross-domain-referrer-leakage-7873ada102ad

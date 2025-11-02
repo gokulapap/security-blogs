@@ -26,3 +26,4 @@
 - https://spaceraccoon.dev/a-tale-of-two-formats-exploiting-insecure-xml-and-zip-file-parsers-to-create-a
 - https://www.cyberark.com/resources/threat-research-blog/bug-hunting-stories-schneider-electric-the-andover-continuum-web-client
 - https://frycos.github.io/vulns4free/2023/02/12/install4j-xxe.html
+- http://almadj.us/infosec/xxe-to-aws-metadata-disclosure/
