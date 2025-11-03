@@ -29,3 +29,4 @@
 - https://blog.sonarsource.com/zimbra-pre-auth-rce-via-unrar-0day/
 - https://blog.nyangawa.me/security/GitLab-Local-File-Read/
 - https://infosecwriteups.com/directory-ttraversal-vulnerability-in-huawei-hg255s-products-dce941a1d015
+- https://zoidsec.medium.com/breaking-parse-logic-gain-access-to-nginx-api-read-write-upstreams-1cb062aa44ca

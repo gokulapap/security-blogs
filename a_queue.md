@@ -697,7 +697,6 @@
 - https://outflank.nl/blog/2022/01/07/a-phishing-document-signed-by-microsoft-part-2/, Phishing
 - https://infosecwriteups.com/authorization-bypass-gmail-2949af041fb, Spoofing
 - https://systemweakness.com/accessing-godaddy-internal-instance-through-an-email-logic-bug-fdbea7b23542, Logic-flaw
-- https://zoidsec.medium.com/breaking-parse-logic-gain-access-to-nginx-api-read-write-upstreams-1cb062aa44ca, Path-traversal
 - https://infosecwriteups.com/idor-leads-to-leak-private-details-866563365490, IDOR
 - https://trevorspiniolas.com/doorlock/doorlock.html, DoS
 - https://bugs.xdavidhu.me/google/2021/12/31/fixing-the-unfixable-story-of-a-google-cloud-ssrf/, SSRF
@@ -882,7 +881,6 @@
 - https://blog.polybdenum.com/2021/05/05/how-i-hacked-google-app-engine-anatomy-of-a-java-bytecode-exploit.html, RCE
 - https://ahmadaabdulla.medium.com/how-i-found-sql-injection-on-intensedebate-com-h1-in-5-minute-350-a36c2890882d, SQL-injection
 - https://infosecwriteups.com/xss-through-parameter-pollution-9a55da150ab2, Open-redirect
-- https://saajan.bhujel.cyou/blog/web/2021-05-05-xss-through-parameter-pollution, XSS
 - https://web.archive.org/web/20210728030437/https://ritiksahni.me/open-source-bug-bounty-tutorial, CSRF
 - https://web.archive.org/web/20210620102348/https://ipanda.co.in/blog1.html, RCE
 - https://notifybugme.medium.com/chaining-csrf-with-xss-to-deactivate-mass-user-accounts-by-single-click-b463c0d26587, CSRF
@@ -940,7 +938,6 @@
 - https://ysamm.com/?p=613, Information-disclosure
 - https://vbharad.medium.com/stored-xss-in-icloud-com-5000-998b8c4b2075, Stored-XSS
 - https://blog.evanricafort.com/2021/02/idor-in-redacted.html, IDOR
-- https://web.archive.org/web/20220519231807/https://wisdomfreak.com/how-i-was-able-to-get-extra-coins/, Logic-flaw
 - https://samcurry.net/hacking-chesscom/, Reflected-XSS
 - https://www.inputzero.io/2020/12/telegram-privacy-fails-again.html, Privacy-issue
 - https://servicenger.com/blog/mobile/sending-ephemeral-message-to-any-facebook-user/, IDOR
@@ -1148,7 +1145,6 @@
 - https://embracethered.com/blog/posts/2020/mozilla-bug-bounty-credential-hunt-phabricator-token/, Information-disclosure
 - https://bugwriteups.tech/bug-bounty-write-up-lucky-vulnerability, SQL-injection
 - https://medium.com/@aniltom/magic-of-the-back-slash-d868e66b532a, Path-traversal
-- https://medium.com/@frycos/another-zoho-manageengine-story-7b472f1515f5, Authentication-bypass
 - https://medium.com/@TnMch/google-acquisition-xss-apigee-5479d7b5dc4, XSS
 - https://sites.google.com/securifyinc.com/vrp-writeups/waze/waze-xss, XSS
 - https://sites.google.com/securifyinc.com/vrp-writeups/gsuite/bookmark-xss-device-management, XSS
@@ -1398,7 +1394,6 @@
 - https://www.hackerinside.me/2019/01/a-tricky-open-redirect.html, Open-redirect
 - https://bugbountypoc.com/how-i-was-able-to-harvest-other-vine-users-ip-address, IDOR
 - https://medium.com/@pig.wig45/bypassing-access-control-in-a-program-on-hackerone-ef213ab34703, Authorization-flaw
-- https://medium.com/@yogeshtantak7788/how-i-was-able-to-delete-google-gallery-data-idor-53d2f303efff, IDOR
 - https://medium.com/@putracraft.theworld/server-side-request-forgery-in-openid-support-defcc64d5e41, SSRF
 - https://www.tnirmal.com.np/2018/12/facebook-bugbounty-disclosing.html, Information-disclosure
 - https://medium.com/@mustafakhan_89646/asuss-admin-panel-auth-bypass-af5062584ddf, Authentication-bypass

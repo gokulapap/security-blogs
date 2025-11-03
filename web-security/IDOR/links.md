@@ -238,3 +238,4 @@
 - https://mayank-01.medium.com/an-interesting-account-takeover-3a33f42d609d
 - https://medium.com/@720922/a-developers-nightmare-story-of-a-simple-idor-and-some-poor-fixes-worth-1125-5ead70b0a1de
 - https://www.r29k.com/articles/bb/account-takeover-via-idors
+- https://medium.com/@yogeshtantak7788/how-i-was-able-to-delete-google-gallery-data-idor-53d2f303efff
