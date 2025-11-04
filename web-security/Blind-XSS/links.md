@@ -23,3 +23,4 @@
 - https://medium.com/@GeneralEG/hack-your-form-new-vector-for-blind-xss-b7a50b808016
 - https://medium.com/@valeriyshevchenko/how-i-hacked-one-cryptocurrency-service-db3cb0f81d6c
 - https://shinchina.in/blog/2022-09-07/$900-blind-xss.html
+- https://blog.evanricafort.com/2018/08/blind-xss-in-chrome-experiments-google.html

@@ -6,3 +6,4 @@
 - https://medium.com/@nynan/bug-bounty-fingerprinting-204506945ab
 - https://medium.com/@koroush.pub/10-practical-recon-vulnerability-scanners-for-bug-hunters-part-one-31460b4f642e
 - https://medium.com/@xcheater/recon-methodology-for-bug-hunting-e623120a7ca6
+- https://medium.com/@kaorrosi/content-discovery-automated-and-manual-9984ba8d1da6
