@@ -263,3 +263,4 @@
 - https://medium.com/@ratnadip1998/how-i-got-4000-from-visma-for-rce-d541e6042086
 - https://mksben.l0.cm/2020/10/discord-desktop-rce.html
 - https://jatindhankhar.in/blog/responsible-disclosure-breaking-out-of-a-sandboxed-editor-to-perform-rce/
+- https://0day.click/recipe/2021-04-18-discourse-themes/

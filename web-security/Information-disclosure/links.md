@@ -268,3 +268,4 @@
 - https://medium.com/@masonhck357/the-16-000-dev-mistake-13e516e86be6
 - https://ysamm.com/?p=634
 - https://medium.com/@mamunwhh/information-disclosure-leads-to-sensitive-credential-35e779f6f4db
+- https://infosecwriteups.com/how-i-scored-1k-bounty-using-waybackurls-717d9673ca52
