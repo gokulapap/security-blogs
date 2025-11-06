@@ -20,3 +20,4 @@
 - https://medium.com/bugbountywriteup/s3-bucket-misconfigured-access-controls-to-critical-vulnerability-6b535e3df9a5
 - https://medium.com/@justmorpheus/s3-bucket-misconfiguration-in-amazon-a7da6a6e02ea
 - https://infosecwriteups.com/a-tale-of-5250-how-i-accessed-millions-of-users-data-including-their-national-id-s-fd48ca7ca0bf
+- https://web.archive.org/web/20190506160222/https://tutorgeeks.blogspot.com/2017/04/aws-s3-bucket-misconfiguration.html

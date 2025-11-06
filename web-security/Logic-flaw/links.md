@@ -165,3 +165,5 @@
 - https://www.netspi.com/blog/technical/cloud-penetration-testing/escalating-azure-privileges-with-the-log-analystics-contributor-role/
 - https://medium.com/bugbountywriteup/a-tale-of-2nd-xxx-bounty-ability-to-gain-persistence-on-facebook-events-as-an-unremovable-9408338ccf8f
 - https://web.archive.org/web/20220519231807/https://wisdomfreak.com/how-i-was-able-to-get-extra-coins/
+- https://medium.com/nassec-cybersecurity-writeups/deleted-data-stored-permanently-on-instagram-facebook-bug-bounty-2020-26074c229955
+- https://medium.freecodecamp.org/messing-with-the-google-buganizer-system-for-15-600-in-bounties-58f86cc9f9a5

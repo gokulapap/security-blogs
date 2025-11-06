@@ -757,7 +757,6 @@
 - https://web.archive.org/web/20221128060608/https://wya.pl/2021/10/18/shells-and-soap-websphere-deserialization-to-rce/, RCE
 - https://muhammad-aamir.medium.com/exploitation-of-files-download-parameters-to-create-potential-risk-of-malware-delivery-200-bug-e2bcce0e737, CSRF
 - https://omespino.com/write-up-google-vrp-n-a-arbitrary-local-file-read-macos-via-a-tag-and-null-byte-in-google-earth-pro-desktop-app/, Local-File-Read
-- https://medium.com/@mehdi.alouache/eset-endpoint-security-credentials-theft-90082dfdf474, Credentials-sent-over-unencrypted-channel
 - https://medium.com/cider-sec/bypassing-required-reviews-using-github-actions-6e1b29135cc7, Privilege-escalation
 - https://medium.com/@mehdi.alouache/eset-endpoint-security-credentials-theft-90082dfdf474, Credentials-sent-over-unencrypted-channel
 - https://realkeyboardwarrior.github.io/security/2021/10/11/hacking-youtube.html, Logic-flaw
@@ -1034,7 +1033,6 @@
 - https://offensi.com/2020/08/18/how-to-contact-google-sre-dropping-a-shell-in-cloud-sql/, SQL-injection
 - https://medium.com/bugbountywriteup/how-could-i-tag-photo-to-any-users-scrapbook-on-facebook-23ab15e6e4b4, Authorization-flaw
 - https://blog.detectify.com/2020/08/14/crowdsource-success-story-from-an-out-of-scope-open-redirect-to-cve-2020-1323/, Open-redirect
-- https://medium.com/nassec-cybersecurity-writeups/deleted-data-stored-permanently-on-instagram-facebook-bug-bounty-2020-26074c229955, Logic-flaw
 - https://medium.com/bugbountywriteup/cache-poisoning-of-wget-94a4d70104b1, Web-cache-poisoning
 - https://medium.com/@singh.simran7838/how-i-made-2000-with-url-redirection-b1b5f4e7a678, Open-redirect
 - https://voidsec.com/cve-2020-1337-printdemon-is-dead-long-live-printdemon/, Local-Privilege-Escalation
@@ -1327,7 +1325,6 @@
 - https://soroush.secproject.com/blog/2019/04/yet-other-examples-of-abusing-csrf-in-logout/, CSRF
 - https://rpadovani.com/gitlab-responsible-disclosure, Authorization-flaw
 - https://medium.com/@valeriyshevchenko/how-i-hacked-vending-machine-5b5a80bd5ffe, Violation-of-secure-design-principles
-- https://medium.com/@daniel.marad/post-komodosec-google-groups-authorization-bypass-500-bounty-adb371d16ab6, Authorization-flaw
 - https://medium.com/@kunal94/web-cache-deception-to-api-endpoint-attack-using-cached-token-header-b01a604a5ccd, Web-cache-deception
 - https://web.archive.org/web/20200929013706/https://www.mohamedharon.com/2019/04/apache-strust-rce.html, RCE
 - https://medium.com/@mrnikhilsri/unauthenticated-account-takeover-through-http-leak-33386bb0ba0b, HTML-injection
@@ -1553,7 +1550,6 @@
 - http://www.noob.ninja/2017/11/local-file-read-via-xss-in-dynamically.html, XSS
 - https://medium.com/@tungpun/from-ssrf-to-local-file-disclosure-58962cdc589f, SSRF
 - https://ysx.me.uk/app-maker-and-colaboratory-a-stored-google-xss-double-bill/, Stored-XSS
-- https://medium.freecodecamp.org/messing-with-the-google-buganizer-system-for-15-600-in-bounties-58f86cc9f9a5, Logic-flaw
 - https://blog.intothesymmetry.com/2017/10/slack-saml-authentication-bypass.html, Authentication-bypass
 - https://kciredor.com/taking-over-every-ad-on-olx-automated-an-idor-story.html, IDOR
 - https://medium.com/bugbountywriteup/how-i-was-able-to-see-someones-all-private-files-with-a-single-file-share-link-through-atom-feed-7cde46d7e84d, Information-disclosure
@@ -1593,7 +1589,6 @@
 - http://panchocosil.blogspot.com/2017/05/one-cloud-based-local-file-inclusion.html, Path-traversal
 - https://philippeharewood.com/find-mingle-suggestions-for-any-facebook-user-revisited/, Logic-flaw
 - https://medium.com/@rojanrijal/i-got-emails-g-suite-vulnerability-917e1f6a91f6, Logic-flaw
-- https://web.archive.org/web/20190506160222/https://tutorgeeks.blogspot.com/2017/04/aws-s3-bucket-misconfiguration.html, AWS-misconfiguration
 - https://emtunc.org/blog/03/2017/bypassing-safe-links-exchange-online-advanced-threat-protection/, Open-redirect
 - https://buer.haus/2017/03/08/airbnb-when-bypassing-json-encoding-xss-filter-waf-csp-and-auditor-turns-into-eight-vulnerabilities/, XSS
 - https://www.rcesecurity.com/2017/03/ok-google-give-me-all-your-internal-dns-information/, SSRF
