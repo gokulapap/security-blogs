@@ -239,3 +239,5 @@
 - https://medium.com/@720922/a-developers-nightmare-story-of-a-simple-idor-and-some-poor-fixes-worth-1125-5ead70b0a1de
 - https://www.r29k.com/articles/bb/account-takeover-via-idors
 - https://medium.com/@yogeshtantak7788/how-i-was-able-to-delete-google-gallery-data-idor-53d2f303efff
+- https://medium.com/@ciph3r7r0ll/simple-login-brute-force-current-password-requirement-bypass-e8f58931e257
+- https://blog.securitybreached.org/2018/10/27/privilege-escalation-like-a-boss/
