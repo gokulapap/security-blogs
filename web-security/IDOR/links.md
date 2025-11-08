@@ -241,3 +241,5 @@
 - https://medium.com/@yogeshtantak7788/how-i-was-able-to-delete-google-gallery-data-idor-53d2f303efff
 - https://medium.com/@ciph3r7r0ll/simple-login-brute-force-current-password-requirement-bypass-e8f58931e257
 - https://blog.securitybreached.org/2018/10/27/privilege-escalation-like-a-boss/
+- https://www.arneswinnen.net/2016/03/how-i-could-compromise-4-locked-instagram-accounts
+- https://infosecwriteups.com/graphql-idor-leaking-credit-card-information-of-1000s-of-users-d07eec732979

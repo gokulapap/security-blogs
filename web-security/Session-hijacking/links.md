@@ -1,0 +1,1 @@
+- https://haxolot.com/posts/2022/moodle_pre_auth_shibboleth_rce_part2/

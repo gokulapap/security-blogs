@@ -1,1 +1,2 @@
 - https://medium.com/@grumpinout/intigritis-january-xss-challenge-4475265edaa7
+- https://medium.com/@fh4ntke/davincictf-web-challenges-writeup-517e77d6fa39
