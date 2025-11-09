@@ -167,3 +167,4 @@
 - https://web.archive.org/web/20220519231807/https://wisdomfreak.com/how-i-was-able-to-get-extra-coins/
 - https://medium.com/nassec-cybersecurity-writeups/deleted-data-stored-permanently-on-instagram-facebook-bug-bounty-2020-26074c229955
 - https://medium.freecodecamp.org/messing-with-the-google-buganizer-system-for-15-600-in-bounties-58f86cc9f9a5
+- https://philippeharewood.com/bypass-video-capture-limit-on-ray-ban-stories/

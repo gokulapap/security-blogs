@@ -52,3 +52,4 @@
 - https://medium.com/@Rising_Hunter/privilege-escalation-with-simple-recon-da4e50fea9e5
 - https://www.netspi.com/blog/technical/cloud-penetration-testing/azure-function-apps/
 - https://medium.com/@shahjerry33/privilege-escalation-hello-admin-a53ac14fd388
+- https://web.archive.org/web/20211106100048/https://monke.ie/unicorn-programs/

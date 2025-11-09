@@ -269,3 +269,4 @@
 - https://ysamm.com/?p=634
 - https://medium.com/@mamunwhh/information-disclosure-leads-to-sensitive-credential-35e779f6f4db
 - https://infosecwriteups.com/how-i-scored-1k-bounty-using-waybackurls-717d9673ca52
+- https://fuomag9.medium.com/how-images-on-github-will-leak-your-private-information-88f3b563e7d9

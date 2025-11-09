@@ -636,7 +636,6 @@
 - https://www.synacktiv.com/publications/pwn2own-austin-2021-defeating-the-netgear-r6700v3.html, RCE
 - https://research.nccgroup.com/2022/03/24/remote-code-execution-on-western-digital-pr4100-nas-cve-2022-23121/, RCE
 - https://valsamaras.medium.com/when-equal-is-not-another-webview-takeover-story-730be8d6e202, Android
-- https://www.jomar.fr/posts/2022/basic_recon_to_rce_ii/, RCE
 - https://cupc4k3.co/caso-de-uso-não-autorizados-de-chave-da-api-do-google-maps-89498752cf7d, Information-disclosure
 - https://ajpc500.github.io/macos/Targeting-Visual-Studio-Code-For-macOS/, Local-Privilege-Escalation
 - https://wahaz.medium.com/broken-authentication-and-idor-at-redacted-646de8d508e6, IDOR
@@ -735,8 +734,6 @@
 - https://www.intruder.io/research/practical-http-header-smuggling, HTTP-Header-Smuggling
 - https://0x0021h.medium.com/bypass-chrome-ad-heavy-detection-mechanism-25c9e2e4a0c4, Browser-hacking
 - https://infosecwriteups.com/sony-hunting-i-discovering-hidden-parameters-5x-swag-c3396c0064bc, Open-redirect
-- https://web.archive.org/web/20211106100048/https://monke.ie/unicorn-programs/, Privilege-escalation
-- https://philippeharewood.com/bypass-video-capture-limit-on-ray-ban-stories/, Logic-flaw
 - https://medium.com/techiepedia/unauthenticated-access-to-cloud-portal-a-without-%EF%B8%8F-9f29c387b937, Authentication-bypass
 - https://thinkermaruf.medium.com/fiverr-email-restriction-bypassed-36b797cb7e9, Logic-flaw
 - https://blog.assetnote.io/2021/11/02/sitecore-rce/, RCE
@@ -802,7 +799,6 @@
 - https://ahmdhalabi.medium.com/taking-over-employee-accounts-by-managers-with-zero-employee-interaction-b60784c3ad84, Account-takeover
 - https://medium.com/@viralbhatt100/bypass-google-captcha-parameter-pollution-leads-to-send-email-to-any-user-on-behalf-of-9013aebbabae, HTTP-parameter-pollution
 - https://infosecwriteups.com/how-we-was-able-to-takeover-whole-organization-via-privilege-escalation-4f74b31a84a6, Privilege-escalation
-- https://medium.com/@psr595bro/how-i-found-read-write-access-to-the-personal-data-of-3-million-users-of-an-e-commerce-website-b9026b0d4bd3, IDOR
 - https://www.fortbridge.co.uk/research/multiple-vulnerabilities-in-cpanel-whm/, XXE
 - https://infosecwriteups.com/what-is-bola-3-digit-bounty-from-topcoder-a25e7fae0d64, IDOR
 - https://philippeharewood.com/access-to-crowdtangle-deletion-framework-api/, Information-disclosure
@@ -975,7 +971,6 @@
 - https://ahmdhalabi.medium.com/chaining-multiple-requests-to-achieve-rate-limiting-vulnerabilities-96c1e8365c06, Rate-limiting-bypass
 - https://shellbr3ak.medium.com/the-story-of-my-first-critical-bug-93a5920d6c43, SQL-injection
 - https://vijetareigns.medium.com/pre-account-takeover-using-oauth-misconfiguration-ebd32b80f3d3, OAuth
-- https://fuomag9.medium.com/how-images-on-github-will-leak-your-private-information-88f3b563e7d9, Information-disclosure
 - https://medium.com/realmodelabs/sd-pwn-part-3-cisco-vmanage-another-day-another-network-takeover-15731a4d75b7, RCE
 - https://cirius.medium.com/escalating-xss-to-account-takeover-ffde08624937, Reflected-XSS
 - https://mostafa-mano.medium.com/2-reflected-xss-in-razer-74783ae5ee53, Reflected-XSS

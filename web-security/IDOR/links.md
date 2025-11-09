@@ -243,3 +243,4 @@
 - https://blog.securitybreached.org/2018/10/27/privilege-escalation-like-a-boss/
 - https://www.arneswinnen.net/2016/03/how-i-could-compromise-4-locked-instagram-accounts
 - https://infosecwriteups.com/graphql-idor-leaking-credit-card-information-of-1000s-of-users-d07eec732979
+- https://medium.com/@psr595bro/how-i-found-read-write-access-to-the-personal-data-of-3-million-users-of-an-e-commerce-website-b9026b0d4bd3
