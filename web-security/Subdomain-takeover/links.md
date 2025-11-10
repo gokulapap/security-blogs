@@ -55,3 +55,4 @@
 - https://0xpwn.wordpress.com/2022/07/23/how-i-made-300-github-repos-point-to-my-blog-using-azure-subdomains-takeover/
 - https://medium.com/bugbountywriteup/subdomain-takeover-new-level-43f88b55e0b2
 - https://web.archive.org/web/20200928234202/https://www.mohamedharon.com/2019/02/subdomain-takeover-via-hubspot.html
+- https://tmosh.medium.com/incident-response-during-christmas-33c7fabb1429

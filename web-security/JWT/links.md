@@ -2,3 +2,4 @@
 - https://medium.com/@sandh0t/the-bad-twin-a-peculiar-case-of-jwt-exploitation-scenario-1efa03e891c0
 - https://ophionsecurity.com/blog/hacking-our-way-into-an-internal-db
 - https://emtunc.org/blog/11/2017/jwt-refresh-token-manipulation/
+- https://medium.com/@musab_alharany/10-ways-to-exploit-json-web-token-jwt-ac5f4efbc41b

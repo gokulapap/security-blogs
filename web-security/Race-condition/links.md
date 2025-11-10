@@ -20,3 +20,4 @@
 - https://medium.com/@vincenz/exploiting-a-race-condition-vulnerability-3f2cb387a72
 - https://medium.com/@pravinponnusamy/race-condition-vulnerability-found-in-bug-bounty-program-573260454c43
 - https://medium.com/@_deshine_/easy-2000-race-condition-b4d093c9bc3c
+- https://medium.com/@mohameddaher/from-p5-to-p5-to-p2-from-nothing-to-1000-bxss-4dd26bc30a82
