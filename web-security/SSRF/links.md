@@ -130,3 +130,4 @@
 - https://medium.com/@soufianehabti/write-up-1-hellosign-integration-full-read-ssrf-df5e1a5bc627
 - https://coffeejunkie.me/Simple-SSRF/
 - https://infosecwriteups.com/story-of-a-1k-bounty-ssrf-d5c4868680f5
+- https://frycos.github.io/vulns4free/2022/09/26/skype-audit-part2.html

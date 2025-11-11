@@ -16,3 +16,4 @@
 - https://omespino.com/write-up-private-bug-bounty-bypass-redacted-android-application-screen-lock-via-local-brute-forcing/
 - https://crnkovic.dev/testing-converso/
 - https://vengeance.medium.com/found-an-url-in-the-android-application-source-code-which-lead-to-an-idor-1b8768708756
+- https://blog.scrt.ch/2023/03/29/attacking-android-antivirus-applications/

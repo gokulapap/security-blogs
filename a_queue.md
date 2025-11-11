@@ -211,11 +211,9 @@
 - https://www.mannulinux.org/2023/03/exploiting-hibernate-injection-in-order.html, HQL-injection
 - https://xelkomy.medium.com/found-ssrf-and-lfi-in-just-10-minutes-of-using-burp-492fddef3f3e, SSRF
 - https://www.sonarsource.com/blog/it-s-a-snmp-trap-gaining-code-execution-on-librenms/, RCE
-- https://blog.scrt.ch/2023/03/29/attacking-android-antivirus-applications/, Android
 - https://medium.com/@bughuntar/a-short-tell-of-lfi-from-pdf-link-professor-the-hunter-43a8be853e, LFI
 - https://blog.nintechnet.com/high-severity-vulnerability-fixed-in-wordpress-elementor-pro-plugin/, Broken-Access-Control
 - https://protectai.com/blog/hacking-ai-system-takeover-exploit-in-mlflow, LFI
-- https://medium.com/@warrenbutterworth/finding-initial-access-on-a-real-life-penetration-test-86ed5503ae48, Old-components-with-known-vulnerabilities
 - https://blog.doyensec.com//2023/03/21/windows-installer.html, Local-Privilege-Escalation
 - https://cupc4k3.lol/ssti-leads-to-rce-on-pyrocms-7515be27c811, SSTI
 - https://medium.com/@bag0zathev2/easy-via-api-params-manipulation-leading-to-bypassing-the-email-verification-block-a45dad2db60c, Mass-assignment
@@ -440,7 +438,6 @@
 - https://www.synack.com/blog/exploits-explained-5-unusual-authentication-bypass-techniques/, Authentication-bypass
 - https://webs3c.com/t/from-nothing-to-aws-credentials/220, SSRF
 - https://blog.champtar.fr/VLAN0_LLC_SNAP/, Layer-2-networking-vulnerability
-- https://frycos.github.io/vulns4free/2022/09/26/skype-audit-part2.html, SSRF
 - https://blog.infiltrateops.io/tesla-paid-me-10-000-because-of-directory-indexing-c1be06c77a3e, Directory-listing
 - https://sagarsajeev.medium.com/escalating-ssti-to-reflected-xss-using-curly-braces-825685bd93ec, SSTI
 - https://rohit443.medium.com/blind-xss-on-admin-portal-leads-to-information-disclosure-121d26b2a35a, Blind-XSS
@@ -1174,7 +1171,6 @@
 - https://www.amolbaikar.com/determine-users-with-detailed-role-model-on-behalf-of-any-facebook-application/, IDOR
 - https://flex0geek.blogspot.com/2020/02/using-csrf-i-got-weird-account-takeover.html, CSRF
 - https://medium.com/@sushiwushi2/hijacking-shared-report-links-in-google-data-studio-75eab320c391, Authorization-flaw
-- https://www.perimeterx.com/tech-blog/2020/whatsapp-fs-read-vuln-disclosure/, Stored-XSS
 - https://medium.com/@navne3t/csrf-csrf-csrf-f203e6452a9c, CSRF
 - https://techblog.mediaservice.net/2020/01/ok-google-bypass-the-authentication/, Authentication-bypass
 - https://medium.com/@abhishake100/hyperlink-injection-easy-money-sometimes-cc1104655300, Hyperlink-injection
@@ -1606,7 +1602,6 @@
 - https://web.archive.org/web/20180322133921/http://codel10n.com/how-to-hack-payu-buy-10x-more-same-price/, RCE
 - https://www.rcesecurity.com/2015/09/cve-2014-7216-a-journey-through-yahoos-bug-bounty-program/, Buffer-Overflow
 - https://thezerohack.com/hacking-facebook-pages, Authorization-flaw
-- https://josipfranjkovic.blogspot.com/2015/07/the-easiest-bug-bounties-i-have-ever-won.html, IDOR
 - https://blog.it-securityguard.com/bugbounty-reflected-cross-site-scripting-billmelater/, Reflected-XSS
 - https://blog.it-securityguard.com/bug-bounty-prezi-map-prezi-com-path-traversal/, Path-traversal
 - https://maustin.net/google_docs, Clickjacking
