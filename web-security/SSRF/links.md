@@ -131,3 +131,4 @@
 - https://coffeejunkie.me/Simple-SSRF/
 - https://infosecwriteups.com/story-of-a-1k-bounty-ssrf-d5c4868680f5
 - https://frycos.github.io/vulns4free/2022/09/26/skype-audit-part2.html
+- https://xelkomy.medium.com/found-ssrf-and-lfi-in-just-10-minutes-of-using-burp-492fddef3f3e

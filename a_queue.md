@@ -209,7 +209,6 @@
 - https://rayhan0x01.github.io/ctf/2023/04/01/finding-rce-in-eta-cve-2022-25967.html, RCE
 - https://www.reversemode.com/2023/03/beware-of-javas-stringgetbytes.html, Hash-collision
 - https://www.mannulinux.org/2023/03/exploiting-hibernate-injection-in-order.html, HQL-injection
-- https://xelkomy.medium.com/found-ssrf-and-lfi-in-just-10-minutes-of-using-burp-492fddef3f3e, SSRF
 - https://www.sonarsource.com/blog/it-s-a-snmp-trap-gaining-code-execution-on-librenms/, RCE
 - https://medium.com/@bughuntar/a-short-tell-of-lfi-from-pdf-link-professor-the-hunter-43a8be853e, LFI
 - https://blog.nintechnet.com/high-severity-vulnerability-fixed-in-wordpress-elementor-pro-plugin/, Broken-Access-Control
@@ -524,7 +523,6 @@
 - https://www.0xlanks.me/blog/blogengine-writeup, Path-traversal
 - https://medium.com/tenable-techblog/logging-passwords-in-plaintext-in-azure-arc-2f94cb046a, Information-disclosure
 - https://www.authomize.com/blog/authomize-discovers-password-stealing-and-impersonation-risks-to-in-okta/, Sensitive-data-sent-over-an-unencrypted-channel
-- https://0x1337.ninja/2022/07/19/mybb-0day-authenticated-remote-code-execution/, RCE
 - https://infosecwriteups.com/ffuf-ing-recon-1ee4e79b3256, vHost-misconfiguration
 - https://medium.com/@rajqureshi07/a-story-of-my-first-bug-bounty-dda320db78d9, Information-disclosure
 - https://medium.com/@moSec/crlf-to-account-takeover-chaining-bugs-21a25dfa1cdf, CRLF-injection
@@ -1253,7 +1251,6 @@
 - https://blog.usejournal.com/shopping-products-for-free-parameter-tampering-vulnerability-8e09e1471596, Parameter-tampering
 - https://medium.com/@sudhanshur705/how-recon-helped-me-to-to-find-a-facebook-domain-takeover-58163de0e7d5, Subdomain-takeover
 - https://medium.com/@saadahmedx/bypass-csrf-with-clickjacking-worth-1250-6c70cc263f40, CSRF
-- https://medium.com/@0x01devansh/facebook-bug-sending-messages-as-a-page-with-jobmanager-permission-763dc0d8e32c, Authorization-flaw
 - https://thezerohack.com/hack-any-instagram, Race-condition
 - https://samcurry.net/cracking-my-windshield-and-earning-10000-on-the-tesla-bug-bounty-program/, Blind-XSS
 - https://medium.com/@sansyrox/hacking-tinders-premium-model-43f9f699d44, Authorization-flaw
@@ -1289,7 +1286,6 @@
 - https://medium.com/@__rishabh__/open-redirect-to-account-takeover-e939006a9f24, Open-redirect
 - https://medium.com/@navne3t/a-base64-encoded-parameter-c6fb6b177d68, HTML-injection
 - https://medium.com/@baibhavanandjha/bypassing-instagrams-stories-restriction-5936f8a4f079, Logic-flaw
-- https://medium.com/@fbotes2/try-harder-for-xss-7aa3657255a1, Reflected-XSS
 - https://medium.com/@momenbasel/from-parameter-pollution-to-xss-d095e13be060, HTTP-parameter-pollution
 - https://medium.com/@sandh0t/think-outside-the-scope-advanced-cors-exploitation-techniques-dad019c68397, CORS-misconfiguration
 - https://web.archive.org/web/20190515123715/https://medium.com/@0ktavandi/blind-ssrf-in-stripe-com-due-to-sentry-misconfiguration-60ebb6a40b5, Blind-SSRF
@@ -1558,7 +1554,6 @@
 - https://ahussam.me/Medium-content-spoofing-xss, Content-spoofing
 - https://www.arneswinnen.net/2017/06/authentication-bypass-on-ubers-sso-via-subdomain-takeover/, Subdomain-takeover
 - https://www.bishopfox.com/blog/2017/06/how-i-built-an-xss-worm-on-atmail/, XSS
-- https://web.archive.org/web/20170620023433/https://medium.com/@know.0nix/how-i-hack-23-900-000-tumblr-domains-at-once-341edad6e7cc, IDOR
 - https://blog.witcoat.com/2018/05/30/xss-on-bugcrowd-and-so-many-other-websites-main-domain/, Reflected-XSS
 - https://www.rafaybaloch.com/2017/06/stored-xss-csrf-and-clickjacking.html, Stored-XSS
 - https://www.rafaybaloch.com/2017/06/nokia-asha-series-lock-screen-bypass.html, Authentication-bypass

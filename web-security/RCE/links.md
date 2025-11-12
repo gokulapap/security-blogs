@@ -265,3 +265,4 @@
 - https://jatindhankhar.in/blog/responsible-disclosure-breaking-out-of-a-sandboxed-editor-to-perform-rce/
 - https://0day.click/recipe/2021-04-18-discourse-themes/
 - https://www.jomar.fr/posts/2022/basic_recon_to_rce_ii/
+- https://0x1337.ninja/2022/07/19/mybb-0day-authenticated-remote-code-execution/

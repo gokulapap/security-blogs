@@ -245,3 +245,4 @@
 - https://infosecwriteups.com/graphql-idor-leaking-credit-card-information-of-1000s-of-users-d07eec732979
 - https://medium.com/@psr595bro/how-i-found-read-write-access-to-the-personal-data-of-3-million-users-of-an-e-commerce-website-b9026b0d4bd3
 - https://josipfranjkovic.blogspot.com/2015/07/the-easiest-bug-bounties-i-have-ever-won.html
+- https://web.archive.org/web/20170620023433/https://medium.com/@know.0nix/how-i-hack-23-900-000-tumblr-domains-at-once-341edad6e7cc
