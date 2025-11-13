@@ -4,3 +4,4 @@
 - https://pulsesecurity.co.nz/advisories/Azure-Devops-Command-Injection
 - https://github.com/StackOverflowExcept1on/how-to-hack-github-actions
 - https://www.cidersecurity.io/blog/research/how-we-abused-repository-webhooks-to-access-internal-ci-systems-at-scale/
+- https://blog.ryotak.net/post/github-actions-staff-access-token-en/

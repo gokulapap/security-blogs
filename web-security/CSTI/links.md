@@ -7,3 +7,4 @@
 - https://portswigger.net/research/xss-without-html-client-side-template-injection-with-angularjs
 - https://bergee.it/blog/xss-via-angular-template-injection/
 - https://medium.com/@impratikdabhi/reflected-xss-on-microsoft-com-via-angular-template-injection-2e26d80a7fd8
+- https://security.lauritz-holtmann.de/post/csti-xss-sso-gadget-chain/

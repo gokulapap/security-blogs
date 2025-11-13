@@ -38,7 +38,6 @@
 - https://medium.com/@sharanthehunter/g-map-api-key-exploitation-6fdf60fbb263, misc
 - https://medium.com/@zycc2727/ssrf-cross-site-scripting-a54422d0753e, ssrf
 - https://medium.com/@vikramroot/account-takeover-via-stored-xss-b774f7a2a3ab, ATO
-- https://medium.com/@ishakudkar/owasp-1-injection-cad772e39a0f, injection
 - https://medium.com/@spideynati/how-i-was-able-to-get-free-for-months-because-of-this-bug-31b1396c563f, journey
 - https://medium.com/@h4krg33k/open-redirects-for-bug-bounties-bf4b58313842, open-redirection
 - https://medium.com/@ahmdhalabi/taking-over-employee-accounts-by-managers-with-zero-employee-interaction-b60784c3ad84, misc
@@ -106,7 +105,6 @@
 - https://medium.com/workday-engineering/exploiting-jmeter-via-rmi-e8e12392bba8, Insecure-deserialization
 - https://www.rapid7.com/blog/post/2023/07/11/cve-2023-29298-adobe-coldfusion-access-control-bypass/, Broken-Access-Control
 - https://dimazarno.medium.com/unexpected-zero-in-mysql-injection-511f632714b0, SQL-injection
-- https://code-white.com/blog/2023-07-from-blackbox-dotnet-remoting-to-rce/, RCE
 - https://devco.re/blog/2023/07/07/a-journey-into-hacking-google-search-appliance-en/, RCE
 - http://blog.takemyhand.xyz/2023/07/remote-code-execution-in-gitlabs-cli.html, RCE
 - https://blog.assetnote.io/2023/07/04/citrix-sharefile-rce/, RCE
@@ -115,7 +113,6 @@
 - https://medium.com/@M0X0101/how-i-was-able-to-get-account-takeover-via-insecure-data-storage-and-webview-with-exported-activity-5308a330ab80, Account-takeover
 - https://www.ghostccamm.com/blog/multi_cockpit_vulns/, CSRF
 - https://www.ns-echo.com/posts/cve_2023_33298.html, Local-Privilege-Escalation
-- https://security.lauritz-holtmann.de/post/csti-xss-sso-gadget-chain/, CSTI
 - https://medium.com/@jonathanbouman/laravel-debug-mode-left-on-at-zouikwatzeggen-nl-948a7365409f, Debug-mode-enabled
 - https://blog.assetnote.io/2023/06/29/binary-reversing-citrix-xss/, Reflected-XSS
 - https://medium.com/@ahmedelmorsy312/weakness-of-integration-bce1520ba672, Logic-flaw
@@ -184,7 +181,6 @@
 - https://blog.ethiack.com/en/blog/git-arbitrary-configuration-injection-cve-2023-29007, Logic-flaw
 - https://blog.assetnote.io/2023/04/26/xss-million-websites-cpanel/, Reflected-XSS
 - https://www.bitsight.com/blog/new-high-severity-vulnerability-cve-2023-29552-discovered-service-location-protocol-slp, DoS
-- https://blog.ryotak.net/post/github-actions-staff-access-token-en/, CICD
 - https://medium.com/bugbountywriteup/uncovering-a-critical-vulnerability-my-journey-of-discovering-cve-2021-31589-a-reflected-xss-in-1e13c0aa41b0, Components-with-known-vulnerabilities
 - https://mogwailabs.de/en/blog/2023/04/vulnerability-spotlight-cve-2023-0264/, OpenID-Connect
 - https://www.cyberark.com/resources/threat-research-blog/breaking-docker-named-pipes-systematically-docker-desktop-privilege-escalation-part-2, Local-Privilege-Escalation
@@ -371,7 +367,6 @@
 - https://medium.com/@hf6452/a-story-of-a-strange-stored-idor-b6f2769bb6cb, IDOR
 - https://www.oxeye.io/blog/remote-code-execution-in-spotifys-backstage, RCE
 - https://blog.sonarsource.com/checkmk-rce-chain-1/, RCE
-- https://varmaanu001.medium.com/from-shodan-dork-to-grafana-local-file-inclusion-e77dc4cfc264, LFI
 - https://blog.sigstore.dev/how-sigstore-quickly-patched-an-upstream-vulnerability-76ba84ef1122, OAuth
 - https://bugs.xdavidhu.me/google/2022/11/10/accidental-70k-google-pixel-lock-screen-bypass/, Lock-screen-bypass
 - https://medium.com/@umeryousuf26/sleep-sql-injection-on-name-parameter-while-updating-profile-2bbac9f47336, SQL-injection

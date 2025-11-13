@@ -26,3 +26,4 @@
 - https://captainhoook.medium.com/local-file-inclusion-interesting-method-8263c2cb7cd2
 - https://medium.com/@abhishake21/bypassing-lfi-local-file-inclusion-ebf4274e7027
 - https://medium.com/bugbountywriteup/how-we-got-lfi-in-apache-drill-recon-like-a-boss-6f739a79d87d
+- https://varmaanu001.medium.com/from-shodan-dork-to-grafana-local-file-inclusion-e77dc4cfc264
