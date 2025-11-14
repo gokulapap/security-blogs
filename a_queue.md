@@ -608,7 +608,6 @@
 - https://bloggerrando.blogspot.com/2022/04/15-1.html, Broken-Access-Control
 - https://debprasadbanerjee502.medium.com/united-nations-bug-bounty-writeup-4bcfdefbb8d3, Information-disclosure
 - https://medium.com/@_ip_/2-3-xss-through-the-front-door-gitlab-fc4b6799e743, XSS
-- https://medium.com/@Bishoo97x/xss-html-injection-and-file-upload-bypass-in-huawei-subdomain-64966ba4f4ac, XSS
 - https://securecloud.blog/2022/04/09/msrc-join-security-research-write-up-azure-ad-consent-bypass-disclosure-with-kim-jamia-q1-2022/, Authorization-flaw
 - https://blog.fadyothman.com/metas-sparkar/, RCE
 - https://tarekbouali.com/posts/how-i-hacked-one-of-the-biggest-airlines-group-of-the-world/, IDOR
@@ -814,7 +813,6 @@
 - https://blog.tyage.net/posts/2021-06-27-dependabot-rce/, SSRF
 - https://ysamm.com/?p=702, CSRF
 - https://ysamm.com/?p=700, Information-disclosure
-- https://16521092.medium.com/some-ways-to-find-more-idor-da16c93954e5, IDOR
 - https://smaranchand.com.np/2021/06/flywheel-subdomain-takeover/, Subdomain-takeover
 - https://gccybermonks.com/posts/msstorebypass/, Payment-tampering
 - https://blog.evanricafort.com/2021/06/generate-online-votes-using-race.html, Race-condition
@@ -929,7 +927,6 @@
 - https://medium.com/realmodelabs/kindledrip-from-your-kindles-email-address-to-using-your-credit-card-bb93dbfb2a08, RCE
 - https://systemweakness.com/story-behind-sweet-ssrf-40c705f13053, SSRF
 - https://r4id3n.medium.com/ssrf-exploitation-in-spreedsheet-to-pdf-converter-2c7eacdac781, SSRF
-- https://jwlss.pw/mathjs/, RCE
 - https://warandcode.com/post/apify-mass-bug-bounty/, Akamai-ARL-attack
 - https://warandcode.com/post/akamai-arl-hack/, Akamai-ARL-attack
 - https://blog.blazeinfosec.com/attack-of-the-clones-2-git-command-client-remote-code-execution-strikes-back/, RCE
@@ -1313,7 +1310,6 @@
 - https://medium.com/cesppa/escalating-ssrf-to-rce-f28c482eb8b9, SSRF
 - https://philippeharewood.com/cve-2018-16794-on-fs-thefacebook-com/, SSRF
 - https://medium.com/@sharan.panegav/account-takeover-using-cross-site-websocket-hijacking-cswh-99cf9cea6c50, Cross-Site-WebSocket-Hijacking
-- https://www.vulnano.com/2019/03/facebook-messenger-server-random-memory.html, Information-disclosure
 - https://medium.com/@addictrao20/fixed-register-any-email-address-on-facebook-account-c6d1c3eb810d, Authorization-flaw
 - https://staaldraad.github.io/post/2019-03-02-universal-rce-ruby-yaml-load/, Insecure-deserialization
 - https://spyclub.tech/2019/02/26/horizontal-privilege-escalation-on-quora/, Privilege-escalation
@@ -1461,7 +1457,6 @@
 - https://sites.google.com/site/testsitehacking/-36k-google-app-engine-rce, RCE
 - https://medium.com/@pratheesh.p.narayanan/whatsapp-dos-vulnerability-on-android-ios-web-7628077d21d4, DoS
 - https://medium.com/bugbountywriteup/4500-bounty-how-i-got-lucky-99d8bc933f75, Subdomain-takeover
-- https://medium.com/bugbountywriteup/disclose-private-video-thumbnail-from-facebook-workplace-52b6ec4d73b7, IDOR
 - https://medium.com/@evilboyajay/stealing-money-from-one-account-to-another-account-d7c5ee68922b, Logic-flaw
 - https://sysdream.com/news/lab/2018-04-30-multiple-security-vulnerabilities-in-domains-belonging-to-google/, Broken-Access-Control
 - https://medium.com/@mdisrail2468/bypassing-the-confirmation-email-for-newsletter-bof-nl-682c05cb927f, Authorization-flaw
