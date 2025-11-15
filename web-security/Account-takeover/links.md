@@ -103,3 +103,4 @@
 - https://medium.com/@ricardoiramar/account-takeover-for-the-win-e320ce83cdd9
 - https://bergee.it/blog/blind-account-takeover/
 - https://arxiv.org/pdf/2205.10174.pdf
+- https://vitorfalcao.com/posts/simple-bugs/password-changing-to-ato/

@@ -268,3 +268,6 @@
 - https://0x1337.ninja/2022/07/19/mybb-0day-authenticated-remote-code-execution/
 - https://code-white.com/blog/2023-07-from-blackbox-dotnet-remoting-to-rce/
 - https://jwlss.pw/mathjs/
+- https://blog.assetnote.io/2023/07/04/citrix-sharefile-rce/
+- https://palant.info/2020/01/13/pwning-avast-secure-browser-for-fun-and-profit
+- https://medium.com/tenable-techblog/filezilla-untrusted-search-path-bc3a7b3ae51e
