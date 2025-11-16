@@ -19,3 +19,4 @@
 - https://www.cyberonesecurity.com/blog/unauthenticated-command-injection-vulnerability-in-vmware-nsx-sd-wan-by-velocloud
 - https://y0ungdst.medium.com/my-second-cve-cve-2022-31855-6c071c4fb9d9
 - https://www.synacktiv.com/en/publications/pentesting-cisco-sd-wan-part-2-breaking-routers.html
+- https://bugra.ninja/posts/cloudshell-command-injection/
