@@ -34,3 +34,4 @@
 - https://websecblog.com/vulns/google-threadit/
 - https://web.archive.org/web/20201222140349/https://www.mohamedharon.com/2019/09/dom-based-xss-in-private-program.html
 - https://kuldeep.io/posts/fulldisclosure-dom-based-xss/
+- https://acut3.github.io/bug-bounty/2023/01/03/fetch-diversion.html

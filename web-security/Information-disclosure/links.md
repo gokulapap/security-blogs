@@ -271,3 +271,5 @@
 - https://infosecwriteups.com/how-i-scored-1k-bounty-using-waybackurls-717d9673ca52
 - https://fuomag9.medium.com/how-images-on-github-will-leak-your-private-information-88f3b563e7d9
 - https://www.vulnano.com/2019/03/facebook-messenger-server-random-memory.html
+- https://medium.com/@guhanraja/how-i-found-the-facebook-messenger-leaking-access-token-of-million-users-8ee4b3f1e5e3
+- https://medium.com/@osamaavvan/exploiting-jsonp-and-bypassing-referer-check-2d6e40dfa24
