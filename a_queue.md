@@ -424,7 +424,6 @@
 - https://carvesystems.com/news/xss-through-dhcp-how-attackers-use-standards/, XSS
 - https://daturamater.medium.com/a-breach-on-patreon-and-their-elusive-bounty-program-5e7ea62dc738, Payment-bypass
 - https://nebuchadnezzar-megolm.github.io, Cryptographic-issues
-- https://www.synack.com/blog/exploits-explained-5-unusual-authentication-bypass-techniques/, Authentication-bypass
 - https://webs3c.com/t/from-nothing-to-aws-credentials/220, SSRF
 - https://blog.champtar.fr/VLAN0_LLC_SNAP/, Layer-2-networking-vulnerability
 - https://blog.infiltrateops.io/tesla-paid-me-10-000-because-of-directory-indexing-c1be06c77a3e, Directory-listing
@@ -437,7 +436,6 @@
 - https://medium.com/@cyberali/mass-assignment-leading-to-pre-account-takeover-13041280a0d9, Mass-assignment
 - https://blog.sonarsource.com/onedev-remote-code-execution/, RCE
 - https://doyensec.com/resources/Doyensec_Apollo_Report_Q22022_v4_AfterRetest.pdf, DoS
-- https://ssd-disclosure.com/ssd-advisory-linux-clock_thread_cputime_id-lpe/, Memory-corruption
 - https://medium.com/@Parag_Bagul/ssrf-attack-leading-to-aws-metadata-e95155fa6c6f, SSRF
 - https://blog.hacktivesecurity.com/index.php/2022/09/17/http/, HTTP-request-smuggling
 - https://systemweakness.com/how-i-made-the-multiple-hall-of-fame-in-nokia-within-2-minutes-535056fcb66d, Clickjacking
@@ -888,7 +886,6 @@
 - https://lf.lc/vrp/181521559a/, Container-escape
 - https://jayateerthag.medium.com/jira-authenticated-dashboard-access-in-google-acquisition-apigee-ff20cfe11d99, Authentication-bypass
 - https://shubhamchaskar.com/ato-through-pe/, Privilege-escalation
-- https://github.com/champtar/blog/tree/main/K8S_MITM_LoadBalancer_ExternalIPs, MiTM
 - https://web-in-security.blogspot.com/2021/02/security-and-privacy-of-social-logins-part2.html, DOM-XSS
 - https://zdresearch.com/rce-on-a-laravel-private-program/, RCE
 - https://ysamm.com/?p=640, Information-disclosure
@@ -1095,7 +1092,6 @@
 - https://web.archive.org/web/20200616051351/https://hazana.xyz/posts/cors-blimey/, CORS-misconfiguration
 - https://www.bad5ect0r.sh/posts/stored-xss-leads-to-plaintext-password-disclosure/, Stored-XSS
 - https://medium.com/@bilalmerokhel/chained-bugs-account-takeover-ceff67d1d55a, IDOR
-- https://medium.com/bugbountywriteup/weak-cryptography-in-password-reset-to-full-account-takeover-fc61c75b36b9, Account-takeover
 - https://medium.com/@talatmehmood1995/bug-bounty-advanced-manual-penetration-testing-leading-to-price-manipulation-vulnerability-d935a3a5ddf6, Payment-tampering
 - https://embracethered.com/blog/posts/2020/mozilla-bug-bounty-credential-hunt-phabricator-token/, Information-disclosure
 - https://bugwriteups.tech/bug-bounty-write-up-lucky-vulnerability, SQL-injection
@@ -1578,7 +1574,6 @@
 - https://0day.click/recipe/2014-02-22-github/, RCE
 - https://blog.includesecurity.com/2014/02/how-i-was-able-to-track-the-location-of-any-tinder-user/, Information-disclosure
 - https://bitquark.co.uk/blog/2013/12/30/google_sites_a_tale_of_five_vulnerabilities, XSS
-- http://blog.shashank.co/2013/12/waze-arbitrary-file-upload.html, Unrestricted-file-upload
 - http://blog.shashank.co/2013/12/imgur-xss.html, XSS
 - https://maustin.net/articles/2013-12/flickr_xss, XSS
 - http://blog.shashank.co/2013/12/heroku-directory-transversal.html, Path-traversal

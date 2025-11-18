@@ -68,3 +68,4 @@
 - https://medium.com/@yaala/account-takeover-and-two-factor-authentication-bypass-de56ed41d7f9
 - https://medium.com/@frycos/another-zoho-manageengine-story-7b472f1515f5
 - https://blog.sorcery.ie/posts/adodb_auth_bypass/
+- https://www.synack.com/blog/exploits-explained-5-unusual-authentication-bypass-techniques/

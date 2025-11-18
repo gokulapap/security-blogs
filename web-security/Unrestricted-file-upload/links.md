@@ -33,3 +33,4 @@
 - https://medium.com/@mohdaltaf163/uploading-backdoor-for-fun-and-profit-rce-db-cred-p1-2cdaa00e2125
 - https://infosecwriteups.com/bypassed-and-uploaded-a-sweet-reverse-shell-d15e1bbf5836
 - https://binamrapandey.medium.com/unrestricted-file-upload-e95e1c6fb80
+- http://blog.shashank.co/2013/12/waze-arbitrary-file-upload.html

@@ -104,3 +104,4 @@
 - https://bergee.it/blog/blind-account-takeover/
 - https://arxiv.org/pdf/2205.10174.pdf
 - https://vitorfalcao.com/posts/simple-bugs/password-changing-to-ato/
+- https://medium.com/bugbountywriteup/weak-cryptography-in-password-reset-to-full-account-takeover-fc61c75b36b9
