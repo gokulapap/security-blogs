@@ -11,3 +11,4 @@
 - https://memn0ps.github.io/http-request-smuggling-cl-te/
 - https://shenkaiwen.com/publication/2022-hdiff/
 - https://pastebin.com/E6LMFm2w
+- https://web.archive.org/web/20221017025828/https://medium.com/@EX_097/my-first-critical-bug-in-hackerone-platform-2ce9adcb39a6

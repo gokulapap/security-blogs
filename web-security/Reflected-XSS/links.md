@@ -99,3 +99,4 @@
 - https://jjainam16.medium.com/reflected-cross-site-scripting-awards-3500-bounty-c8a619f129a1
 - https://web.archive.org/web/20200928235353/https://www.mohamedharon.com/2018/03/xss-in-sportstwcampaignyahoonet.html
 - https://medium.com/@fbotes2/try-harder-for-xss-7aa3657255a1
+- https://amit-lt.medium.com/multiple-times-i-hacked-duke-university-with-rxss-vulnerability-7e291aad043a

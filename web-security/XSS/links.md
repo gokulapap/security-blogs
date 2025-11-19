@@ -291,3 +291,5 @@
 - https://medium.com/@TnMch/google-acquisition-xss-apigee-5479d7b5dc4
 - https://web.archive.org/web/20210927021132/https://0xdln.ml/XSS-Special-Cases/
 - https://medium.com/@Bishoo97x/xss-html-injection-and-file-upload-bypass-in-huawei-subdomain-64966ba4f4ac
+- https://blog.long.lat/2020/09/16/exploiting-a-useless-cookie-based-xss-and-making-it-useful/
+- https://medium.com/@nuraalamdipu/xss-403-forbidden-bypass-write-up-e070de52bc06

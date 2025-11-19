@@ -1,0 +1,1 @@
+- https://medium.com/@valeriyshevchenko/how-i-hacked-vending-machine-5b5a80bd5ffe
