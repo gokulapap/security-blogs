@@ -105,3 +105,4 @@
 - https://medium.com/@agrawalsmart7/sql-is-every-where-5cba6ae9480a
 - http://mahmoudsec.blogspot.com/2017/02/sql-injection-in-update-query-bug.html
 - https://www.pmnh.site/post/advanced-sqlmap-case-study-1/
+- https://blog.infiltrateops.io/the-castles-latrine-10f9c16548bd

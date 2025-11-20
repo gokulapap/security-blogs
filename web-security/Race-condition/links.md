@@ -22,3 +22,4 @@
 - https://medium.com/@_deshine_/easy-2000-race-condition-b4d093c9bc3c
 - https://medium.com/@mohameddaher/from-p5-to-p5-to-p2-from-nothing-to-1000-bxss-4dd26bc30a82
 - https://0xdekster.medium.com/second-order-race-condition-be8aaf774783
+- https://orca.security/resources/blog/synapse-local-privilege-escalation-vulnerability-spark/

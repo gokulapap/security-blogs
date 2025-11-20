@@ -16,3 +16,4 @@
 - https://github.com/Puliczek/CVE-2022-0337-PoC-Google-Chrome-Microsoft-Edge-Opera
 - https://www.cyberark.com/resources/threat-research-blog/extracting-clear-text-credentials-directly-from-chromium-s-memory
 - https://blog.redteam.pl/2020/08/stealing-local-files-using-safari-web.html
+- https://mu00d8.me/paper/bernhard22jitpicking.pdf
