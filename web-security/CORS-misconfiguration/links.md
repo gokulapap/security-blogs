@@ -22,3 +22,4 @@
 - https://lutfumertceylan.com.tr/posts/ato-and-data-leakage-via-cors-misc/
 - https://jowin922.medium.com/cors-misconfig-on-out-of-scope-domain-bug-bounty-writeup-300-usd-reward-8a9e420d21e0
 - https://blog.witcoat.com/2018/05/30/stealing-10000-yahoo-cookies/
+- https://medium.com/@sandh0t/think-outside-the-scope-advanced-cors-exploitation-techniques-dad019c68397

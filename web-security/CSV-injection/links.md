@@ -3,3 +3,4 @@
 - https://blog.rehack.xyz/2023/02/tips-tricks-exfiltrating-users-data.html
 - https://www.y-security.de/news-en/microsoft-teams-csv-injection/index.html
 - https://www.y-security.de/news-en/microsoft-azure-portal-csv-injection/index.html
+- https://www.bishopfox.com/blog/2018/06/server-side-spreadsheet-injections/

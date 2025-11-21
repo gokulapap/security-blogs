@@ -342,7 +342,6 @@
 - https://medium.com/@aa.pietruczuk/improper-error-handling-leads-to-exposing-internal-tokens-3355d6b43a32, Information-disclosure
 - https://infosecwriteups.com/unique-rate-limit-bypass-worth-1800-6e2947c7d972, Rate-limiting-bypass
 - https://bhashit.in/?p=117, OS-command-injection
-- https://medium.com/@protostar0/hacking-bank-the-second-story-of-finding-critical-vulnerabilities-on-banking-application-ac20cd8f3dad, Android
 - https://attackshipsonfi.re/p/exploiting-cors-misconfigurations, CORS-misconfiguration
 - https://rashahacks.com/directory-enumeration-guide/, 40x-bypass
 - https://letshack.xyz/offensive/web-application/legally-hacking-a-government-satellite, Missing-authentication
@@ -436,7 +435,6 @@
 - https://medium.com/@Parag_Bagul/ssrf-attack-leading-to-aws-metadata-e95155fa6c6f, SSRF
 - https://blog.hacktivesecurity.com/index.php/2022/09/17/http/, HTTP-request-smuggling
 - https://systemweakness.com/how-i-made-the-multiple-hall-of-fame-in-nokia-within-2-minutes-535056fcb66d, Clickjacking
-- https://medium.com/@tobydavenn/the-tale-of-ssrf-to-rce-on-gov-domain-191185b32b37, SSRF
 - https://sector7.computest.nl/post/2022-09-unified-automation-opcua-cpp/, DoS
 - https://tamirzb.com/attacking-android-kernel-using-qualcomm-trustzone, Memory-corruption
 - https://cturt.github.io/mast1c0re.html, Memory-corruption
@@ -851,7 +849,6 @@
 - https://pharish4948.medium.com/how-i-earned-3200-in-4hours-through-stored-xss-38597877d3e1, Stored-XSS
 - https://fernale.blogspot.com/2021/04/how-i-got-9000-usd-by-hacking-into.html, XSS
 - https://infosecwriteups.com/unauthenticated-account-takeover-through-forget-password-c120b4c1141d, Password-reset
-- https://monke.ie/duckduckgoxss/, Stored-XSS
 - https://gatolouco.medium.com/critical-blind-storage-xss-my-first-bug-bounty-d318f6ba570c/, Blind-XSS
 - http://www.kamilonurozkaleli.com/posts/rce-on-starbucks-singapore-and-more/, RCE
 - https://nns.ee/blog/2021/04/03/modem-rce.html, OS-command-injection
@@ -1256,7 +1253,6 @@
 - https://medium.com/@navne3t/a-base64-encoded-parameter-c6fb6b177d68, HTML-injection
 - https://medium.com/@baibhavanandjha/bypassing-instagrams-stories-restriction-5936f8a4f079, Logic-flaw
 - https://medium.com/@momenbasel/from-parameter-pollution-to-xss-d095e13be060, HTTP-parameter-pollution
-- https://medium.com/@sandh0t/think-outside-the-scope-advanced-cors-exploitation-techniques-dad019c68397, CORS-misconfiguration
 - https://web.archive.org/web/20190515123715/https://medium.com/@0ktavandi/blind-ssrf-in-stripe-com-due-to-sentry-misconfiguration-60ebb6a40b5, Blind-SSRF
 - https://medium.com/a-bugz-life/4x-csrfs-chained-for-company-account-takeover-f9fada416986, CSRF
 - https://www.gosecure.net/blog/2019/05/02/esi-injection-part-2-abusing-specific-implementations/, ESI-injection
@@ -1415,7 +1411,6 @@
 - https://medium.com/bugbountywriteup/responsible-disclosure-how-i-could-have-booked-movie-tickets-through-other-user-accounts-2db26a037b4c, Password-reset
 - https://medium.com/@jonathanbouman/unvalidated-open-redirect-bol-com-b270151380e6, Open-redirect
 - https://medium.com/@khaled.hassan/full-account-takeover-via-reset-password-function-8b6ef15f346f, IDOR
-- https://www.bishopfox.com/blog/2018/06/server-side-spreadsheet-injections/, CSV-injection
 - https://medium.com/@adrien_jeanneau/how-i-was-able-to-list-some-internal-information-from-paypal-bugbounty-ca8d217a397c, Expression-Language-Injection
 - https://medium.com/@khaled.hassan/are-you-sure-this-is-a-trusted-email-291121028320, Open-mail-relay
 - https://thehackerblog.com/reading-your-emails-with-a-readwrite-chrome-extension-same-origin-policy-bypass-8-million-users-affected/index.html, SOP-bypass
