@@ -271,3 +271,5 @@
 - https://blog.assetnote.io/2023/07/04/citrix-sharefile-rce/
 - https://palant.info/2020/01/13/pwning-avast-secure-browser-for-fun-and-profit
 - https://medium.com/tenable-techblog/filezilla-untrusted-search-path-bc3a7b3ae51e
+- https://web.archive.org/web/20180322133921/http://codel10n.com/how-to-hack-payu-buy-10x-more-same-price/
+- https://medium.com/@nanwinata/old-rce-worth-3362-1af0cd70c459
