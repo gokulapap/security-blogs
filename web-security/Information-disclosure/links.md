@@ -273,3 +273,4 @@
 - https://www.vulnano.com/2019/03/facebook-messenger-server-random-memory.html
 - https://medium.com/@guhanraja/how-i-found-the-facebook-messenger-leaking-access-token-of-million-users-8ee4b3f1e5e3
 - https://medium.com/@osamaavvan/exploiting-jsonp-and-bypassing-referer-check-2d6e40dfa24
+- http://carnal0wnage.attackresearch.com/2020/03/what-is-your-gcp-infra-worthabout-700.html

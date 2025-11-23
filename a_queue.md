@@ -1,4 +1,3 @@
-- https://medium.com/@snoopy101/how-i-hacked-hackers-in-voorivex-hunt-event-9c572ce0005f, journey
 - https://medium.com/@gandhim373/5-get-easy-bounty-how-to-exploit-xmlrpc-php-8e47f2604923, tricks
 - https://medium.com/@gupta-bless/basics-of-source-code-review-4c263652202, source-code-review
 - https://medium.com/@jenishpanchal514/account-takeover-via-response-manipulation-otp-brute-force-b965fc1b7a37, ATO
@@ -477,7 +476,6 @@
 - https://medium.com/@Bishoo97x/un-united-nations-host-header-injection-leads-to-any-full-account-takeover-ato-795bc9ebc670, Host-header-injection
 - https://medium.com/@fpatrik/how-i-found-an-xss-vulnerability-via-using-emojis-7ad72de49209, XSS
 - https://bahruz.me/publications/11844, HTTP-Request-Smuggling
-- https://blog.quarkslab.com/attacking-titan-m-with-only-one-byte.html, Memory-corruption
 - https://medium.com/@avinash_/email-confirmation-bypass-at-instagram-cc968f9a126, Email-verification-bypass
 - https://krausefx.com/blog/ios-privacy-instagram-and-facebook-can-track-anything-you-do-on-any-website-in-their-in-app-browser, Privacy-issue
 - https://onekey.com/blog/advisory-cisco-small-business-rv-series-routers-web-filter-database-update-command-injection-vulnerability/, OS-command-injection
@@ -567,7 +565,6 @@
 - https://infosecwriteups.com/bypassing-waf-to-weaponize-a-stored-xss-ff9963c421ee, Stored-XSS
 - https://securityflow.io/impact-of-an-insecure-deep-link/, Insecure-deeplink
 - https://basyounii.medium.com/forging-oauth-tokens-using-discovered-client-id-and-client-secret-d224e4e7892a, Information-disclosure
-- https://systemweakness.com/resolveuri-rxss-imperva-waf-bypass-c834ca573bd4, XSS
 - https://systemweakness.com/rce-via-dependency-confusion-e0ed2a127013, Dependency-confusion
 - https://melotover.medium.com/can-analyzing-javascript-files-lead-to-remote-code-execution-f24112f1aa1f, Unrestricted-file-upload
 - https://web.archive.org/web/20220516024454/https://medium.com/@tobydavenn/how-i-paid-for-my-holiday-with-bug-bounty-668f1f59e6e5, XSS
@@ -920,7 +917,6 @@
 - https://blog.deesee.xyz/regex/security/2020/12/27/regular-expression-injection.html, ReDoS
 - https://www.ehpus.com/post/ssti-in-google-maps, SSTI
 - https://saugatpokharel.medium.com/this-is-how-i-was-able-to-view-anyones-private-email-and-birthday-on-instagram-1469f44b842b, Information-disclosure
-- https://marxchryz.medium.com/my-bug-bounty-journey-and-my-first-critical-bug-time-based-blind-sql-injection-aa91d8276e41, SQL-injection
 - https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/d-link-multiple-security-vulnerabilities-leading-to-rce/, RCE
 - https://medium.com/@3bodymo/how-i-hacked-ibm-and-got-full-access-on-many-services-ecf1dab4a054, Information-disclosure
 - https://medium.com/@vedanttekale20/story-of-the-best-vulnerability-ive-found-so-far-5e3b0e02b47e, Self-XSS
@@ -1113,7 +1109,6 @@
 - https://medium.com/bugbountywriteup/reflected-xss-on-microsoft-com-subdomains-4bdfc2c716df, Reflected-XSS
 - https://honoki.net/2020/03/18/xxe-scape-through-the-front-door-circumventing-the-firewall-with-http-request-smuggling/, XXE
 - https://medium.com/@ozguralp/using-vulnerability-analytics-feature-like-a-boss-655fc1f1543b, SSRF
-- http://carnal0wnage.attackresearch.com/2020/03/what-is-your-gcp-infra-worthabout-700.html, Information-disclosure
 - https://ysamm.com/?p=404, Authorization-flaw
 - https://ysamm.com/?p=396, Lack-of-rate-limiting
 - https://bugs.xdavidhu.me/google/2020/03/08/the-unexpected-google-wide-domain-check-bypass/, Logic-flaw
