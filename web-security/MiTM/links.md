@@ -8,3 +8,4 @@
 - https://medium.com/@armaanpathan/scary-bug-in-burp-suite-upstream-proxy-allows-hackers-to-hack-hackers-e6fc9a8d60a
 - https://medium.com/@jonathan.leitschuh/update-want-to-take-over-the-java-ecosystem-all-you-need-is-a-mitm-d069d253fe23
 - https://github.com/champtar/blog/tree/main/K8S_MITM_LoadBalancer_ExternalIPs
+- http://blog.evanricafort.com/2023/05/ipv6-dns-takeover-via-mitm6-write-up.html

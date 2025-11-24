@@ -18,3 +18,4 @@
 - https://medium.com/@shahjerry33/otp-bypass-developers-check-5786885d55c6
 - https://logicbomb.medium.com/otp-bypass-account-takeover-to-admin-panel-ft-header-injection-16f2982a0136
 - https://medium.com/@pallabjyoti218/story-about-otp-bypass-to-stored-xss-81bfd735c709
+- https://medium.com/@rat010/otp-verification-bypass-ee17d68f8425

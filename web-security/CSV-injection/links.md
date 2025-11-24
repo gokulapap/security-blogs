@@ -4,3 +4,4 @@
 - https://www.y-security.de/news-en/microsoft-teams-csv-injection/index.html
 - https://www.y-security.de/news-en/microsoft-azure-portal-csv-injection/index.html
 - https://www.bishopfox.com/blog/2018/06/server-side-spreadsheet-injections/
+- https://medium.com/@heshamwatany/the-neglected-bug-that-can-infect-all-facebook-users-who-pay-for-leads-ads-8c374cd64d76
