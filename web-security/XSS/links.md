@@ -294,3 +294,4 @@
 - https://blog.long.lat/2020/09/16/exploiting-a-useless-cookie-based-xss-and-making-it-useful/
 - https://medium.com/@nuraalamdipu/xss-403-forbidden-bypass-write-up-e070de52bc06
 - https://systemweakness.com/resolveuri-rxss-imperva-waf-bypass-c834ca573bd4
+- https://spaceraccoon.dev/exploiting-icalendar-properties-enterprise-applications/

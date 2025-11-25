@@ -5,3 +5,4 @@
 - https://infosecwriteups.com/bypassing-email-verification-of-high-profile-tech-company-e592cc4a89ce
 - https://yashswarup12.medium.com/how-the-use-of-hidden-form-fields-lead-to-email-verification-bypass-3c8d7c25bd31
 - https://medium.com/@navne3t/confirmation-bypass-ab57c29ae413
+- https://khaledyassen.medium.com/how-i-bypassed-the-registration-validation-and-logged-in-with-the-company-email-14eb12c45fb5

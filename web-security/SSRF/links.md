@@ -133,3 +133,4 @@
 - https://frycos.github.io/vulns4free/2022/09/26/skype-audit-part2.html
 - https://xelkomy.medium.com/found-ssrf-and-lfi-in-just-10-minutes-of-using-burp-492fddef3f3e
 - https://medium.com/@tobydavenn/the-tale-of-ssrf-to-rce-on-gov-domain-191185b32b37
+- https://github.com/cloudflare/odoh-server-go/issues/30

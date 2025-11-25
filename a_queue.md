@@ -37,7 +37,6 @@
 - https://medium.com/@zycc2727/ssrf-cross-site-scripting-a54422d0753e, ssrf
 - https://medium.com/@vikramroot/account-takeover-via-stored-xss-b774f7a2a3ab, ATO
 - https://medium.com/@spideynati/how-i-was-able-to-get-free-for-months-because-of-this-bug-31b1396c563f, journey
-- https://medium.com/@h4krg33k/open-redirects-for-bug-bounties-bf4b58313842, open-redirection
 - https://medium.com/@ahmdhalabi/taking-over-employee-accounts-by-managers-with-zero-employee-interaction-b60784c3ad84, misc
 - https://medium.com/@tomnomnom/making-a-blind-sql-injection-a-little-less-blind-428dcb614ba8, sql-injection
 - https://medium.com/@geekboyranjeet/strange-admin-panel-bypass-story-bug-bounty-5e618099baaf, bypass
@@ -271,7 +270,6 @@
 - https://webresearcher007.medium.com/broken-function-level-authorization-leads-to-disclosing-pii-information-of-all-company-users-35aee60b287b, Broken-Function-Level-Authorization
 - https://onekey.com/blog/security-advisory-remote-command-execution-in-binwalk/, RCE
 - https://www.akamai.com/blog/security-research/cant-wait-to-shut-you-down-msrpc-wininit, DoS
-- https://khaledyassen.medium.com/how-i-bypassed-the-registration-validation-and-logged-in-with-the-company-email-14eb12c45fb5, Email-verification-bypass
 - https://medium.com/@abhisekr/discovered-a-critical-idor-and-earned-900-for-my-first-p1-vulnerability-57c1e72f42c1, IDOR
 - https://medium.com/@DrakenKun/how-i-was-able-to-find-4-cross-site-scripting-xss-on-vulnerability-disclosure-program-e2f39199ae16, XSS
 - https://akashc99.medium.com/bypassing-account-lockout-through-password-reset-functionality-8ff5c256f380, Rate-limiting-bypass
@@ -292,7 +290,6 @@
 - https://orca.security/resources/blog/ssrf-vulnerabilities-in-four-azure-services/, SSRF
 - https://medium.com/@haroonhameed_76621/dom-based-xss-for-fun-and-profit-bug-bounty-poc-f4b9554e95d, DOM-XSS
 - https://onekey.com/blog/security-advisory-wago-unauthenticated-config-export-vulnerability/, Path-traversal
-- https://blog.pksecurity.io/2023/01/16/2022-microsoft-teams-rce.html, RCE
 - https://blog.viettelcybersecurity.com/cve-2022-21587-oracle-e-business-suite-unauth-rce/, RCE
 - https://blog.hckrt.com/blog/thisclosed_2/, SQL-injection
 - https://blog.geekycat.in/xss-using-postmessage-in-google-cloud-theia-notebooks/, XSS
@@ -462,7 +459,6 @@
 - https://www.microsoft.com/security/blog/2022/08/19/uncovering-a-chromeos-remote-memory-corruption-vulnerability/, Memory-corruption
 - https://monke.ie/xss-by-javascript-overriding/, XSS
 - https://blog.78researchlab.com/b9c80d00-d935-43b1-8805-969000df301d, DoS
-- https://spaceraccoon.dev/exploiting-icalendar-properties-enterprise-applications/, XSS
 - https://medium.com/@tobydavenn/dom-xss-on-a-gov-domain-bypassing-waf-93daec67fda9, DOM-XSS
 - https://medium.com/@ashlyn.lau_17206/2fa-bypass-do-re-mi-cfcfc3775d2e, MFA-bypass
 - https://doyensec.com/resources/Doyensec_Advisory_SmokescreenGoProxy_Q12022.pdf, DoS
@@ -577,7 +573,6 @@
 - https://medium.com/@abdalrahman.alshammas/fuzzing-and-credentials-leakage-nice-bug-hunting-writeup-38b2e774b300, Hardcoded-credentials
 - https://systemweakness.com/unlock-any-blur-text-picture-without-membership-subscription-on-scribd-com-by-neuchi-69237776e24, Payment-bypass
 - https://shubhdeepp.medium.com/how-i-got-apple-hall-of-fame-3d86f858c05f, Content-injection
-- https://github.com/cloudflare/odoh-server-go/issues/30, SSRF
 - https://amit-lt.medium.com/open-redirection-into-bentley-system-d1ee188bfb25, XSS
 - https://systemweakness.com/exploiting-a-file-upload-vulnerability-a-directory-traversal-attack-419308cdb059, Unrestricted-file-upload
 - https://systemweakness.com/stored-xss-to-other-users-via-messages-e033239821b5, Stored-XSS

@@ -273,3 +273,4 @@
 - https://medium.com/tenable-techblog/filezilla-untrusted-search-path-bc3a7b3ae51e
 - https://web.archive.org/web/20180322133921/http://codel10n.com/how-to-hack-payu-buy-10x-more-same-price/
 - https://medium.com/@nanwinata/old-rce-worth-3362-1af0cd70c459
+- https://blog.pksecurity.io/2023/01/16/2022-microsoft-teams-rce.html
