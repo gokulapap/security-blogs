@@ -113,3 +113,4 @@
 - https://medium.com/@kminthein/stored-xss-in-microsoft-outlook-ebce9ff9e45b
 - https://www.perimeterx.com/tech-blog/2020/whatsapp-fs-read-vuln-disclosure/
 - https://monke.ie/duckduckgoxss/
+- https://systemweakness.com/stored-xss-to-other-users-via-messages-e033239821b5

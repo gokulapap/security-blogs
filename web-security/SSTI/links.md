@@ -13,3 +13,4 @@
 - https://mahmoudsec.blogspot.com/2019/04/handlebars-template-injection-and-rce.html
 - https://skylightcyber.com/2023/02/09/a-salt-attacking-saltstack/
 - http://ha.cker.info/exploitation-of-server-side-template-injection-with-craft-cms-plguin-seomatic/
+- https://blog.mert.ninja/freemarker-ssti-on-lithium-cms/

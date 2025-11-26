@@ -55,3 +55,4 @@
 - https://medium.com/@D0rkerDevil/a-infinite-loop-story-f2bc05771a88
 - https://medium.com/bugbountywriteup/banner-grabbing-to-dos-and-memory-corruption-2442b1c25bbb
 - https://akashhamal0x01.medium.com/2fa-bypass-due-to-information-disclosure-improper-access-control-f9a5a8a4e0af
+- https://www.akamai.com/blog/security-research/cant-wait-to-shut-you-down-msrpc-wininit

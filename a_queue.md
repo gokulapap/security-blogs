@@ -269,7 +269,6 @@
 - https://infosecwriteups.com/an-idor-vulnerability-often-hides-many-others-2893ddd0a0d7, IDOR
 - https://webresearcher007.medium.com/broken-function-level-authorization-leads-to-disclosing-pii-information-of-all-company-users-35aee60b287b, Broken-Function-Level-Authorization
 - https://onekey.com/blog/security-advisory-remote-command-execution-in-binwalk/, RCE
-- https://www.akamai.com/blog/security-research/cant-wait-to-shut-you-down-msrpc-wininit, DoS
 - https://medium.com/@abhisekr/discovered-a-critical-idor-and-earned-900-for-my-first-p1-vulnerability-57c1e72f42c1, IDOR
 - https://medium.com/@DrakenKun/how-i-was-able-to-find-4-cross-site-scripting-xss-on-vulnerability-disclosure-program-e2f39199ae16, XSS
 - https://akashc99.medium.com/bypassing-account-lockout-through-password-reset-functionality-8ff5c256f380, Rate-limiting-bypass
@@ -575,7 +574,6 @@
 - https://shubhdeepp.medium.com/how-i-got-apple-hall-of-fame-3d86f858c05f, Content-injection
 - https://amit-lt.medium.com/open-redirection-into-bentley-system-d1ee188bfb25, XSS
 - https://systemweakness.com/exploiting-a-file-upload-vulnerability-a-directory-traversal-attack-419308cdb059, Unrestricted-file-upload
-- https://systemweakness.com/stored-xss-to-other-users-via-messages-e033239821b5, Stored-XSS
 - https://medium.com/pentesternepal/sql-injection-in-harvards-subdomain-c3148f8be156, SQL-injection
 - https://bloggerrando.blogspot.com/2022/04/15-1.html, Broken-Access-Control
 - https://debprasadbanerjee502.medium.com/united-nations-bug-bounty-writeup-4bcfdefbb8d3, Information-disclosure
@@ -628,7 +626,6 @@
 - https://spaceraccoon.dev/solving-dom-xss-puzzles, DOM-XSS
 - https://blog.sorcery.ie/posts/higherlogic_rce/, Insecure-deserialization
 - https://web.archive.org/web/20220612235502/https://bugs.0xdroopy.live/bugs/how-i-tracked-you-around-the-globe/, Information-disclosure
-- https://www.ash-king.co.uk/blog/abusing-Facebooks-call-to-action-to-launch-internal-deeplinks, CSRF
 - https://medium.com/@ladecruze/my-first-bounty-idor-self-xss-3000-cde89cbbc1b1, Self-XSS
 - https://sanyamchawla1999.medium.com/my-experience-of-hacking-the-dutch-government-8c219c61c795, XSS
 - https://medium.com/@damaidec/idor-vulnerability-on-invoice-and-weak-password-reset-leads-to-account-take-over-603b42143a8c, IDOR
@@ -1093,7 +1090,6 @@
 - https://medium.com/@nnez/always-escalate-from-self-xss-to-persistent-xss-on-login-portal-54265b0adfd0, Self-XSS
 - https://medium.com/@ashokcpg/the-story-of-my-first-ever-1500-bounty-from-facebook-49eb64d26160, Logic-flaw
 - https://blog.securitybreached.org/2020/03/31/microsoft-rce-bugbounty/, RCE
-- https://blog.mert.ninja/freemarker-ssti-on-lithium-cms/, SSTI
 - https://medium.com/@ranjitsinghnit/otp-bruteforce-account-takeover-faaac3d712a8, OTP-bruteforce
 - https://web.archive.org/web/20200511145923/https://medium.com/@godofdarkness.msf/account-takeover-flow-in-mail-ru-s-ext-a-domain-150-8952e8078211, Logic-flaw
 - https://web.archive.org/web/20201004092711/https://sametsahin.net/posts/administrator-level-privilege-escalation-story/, Privilege-escalation
@@ -1284,7 +1280,6 @@
 - https://medium.com/@goyalvartul/how-i-hacked-40-000-user-accounts-of-microsoft-using-2fa-bypass-outlook-live-com-13258785ec2f, MFA-bypass
 - https://medium.com/@rupika.luhach/how-i-was-able-to-extract-information-of-other-users-exploiting-idor-9f03aa72dd06, IDOR
 - https://offensi.com/2019/01/31/lfi-in-apigee-portals, LFI
-- https://medium.com/@kedrisec/publish-tweets-by-any-other-user-6c9d892708e3, IDOR
 - https://blog.detectify.com/2019/01/29/hacking-isnt-an-exact-science/, Authorization-flaw
 - https://medium.com/@ChandSingh/protonmail-xss-stored-b733031ac3b5, Stored-XSS
 - https://websecblog.com/vulns/leoexpress-personal-data/, Authorization-flaw

@@ -251,3 +251,4 @@
 - https://secreltyhiddenwriteups.blogspot.com/2018/07/gsuite-hangouts-chat-5k-idor.html
 - https://sagarsajeev.medium.com/unsubscribe-any-users-e-mail-notifications-via-idor-2c2e05b79dac
 - https://ysamm.com/?p=35
+- https://medium.com/@kedrisec/publish-tweets-by-any-other-user-6c9d892708e3
