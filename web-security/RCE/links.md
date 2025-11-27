@@ -274,3 +274,4 @@
 - https://web.archive.org/web/20180322133921/http://codel10n.com/how-to-hack-payu-buy-10x-more-same-price/
 - https://medium.com/@nanwinata/old-rce-worth-3362-1af0cd70c459
 - https://blog.pksecurity.io/2023/01/16/2022-microsoft-teams-rce.html
+- https://zdresearch.com/rce-on-a-laravel-private-program/

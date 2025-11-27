@@ -64,3 +64,4 @@
 - https://x41-dsec.de/security/research/news/2023/01/17/git-security-audit-ostif/
 - https://ssd-disclosure.com/ssd-advisory-linux-clock_thread_cputime_id-lpe/
 - https://blog.quarkslab.com/attacking-titan-m-with-only-one-byte.html
+- https://blog.ret2.io/2022/05/19/pwn2own-2021-parallels-desktop-exploit/

@@ -295,3 +295,4 @@
 - https://medium.com/@nuraalamdipu/xss-403-forbidden-bypass-write-up-e070de52bc06
 - https://systemweakness.com/resolveuri-rxss-imperva-waf-bypass-c834ca573bd4
 - https://spaceraccoon.dev/exploiting-icalendar-properties-enterprise-applications/
+- https://medium.com/bugbountywriteup/two-vulnerabilities-makes-an-exploit-xss-and-csrf-in-bing-cd4269da7b69
