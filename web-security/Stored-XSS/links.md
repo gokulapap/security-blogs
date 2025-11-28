@@ -114,3 +114,4 @@
 - https://www.perimeterx.com/tech-blog/2020/whatsapp-fs-read-vuln-disclosure/
 - https://monke.ie/duckduckgoxss/
 - https://systemweakness.com/stored-xss-to-other-users-via-messages-e033239821b5
+- https://blog.zsec.uk/persisting-pornhub/

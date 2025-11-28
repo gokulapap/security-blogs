@@ -19,3 +19,4 @@
 - https://medium.com/@dewangpanchal98/tell-of-my-first-bounty-d3c5a85e18c9
 - https://medium.com/@idan_malihi/how-i-earned-200-in-bug-bounty-program-6d7225a7ff1a
 - https://medium.com/@snoopy101/how-i-hacked-hackers-in-voorivex-hunt-event-9c572ce0005f
+- https://medium.com/@spideynati/how-i-was-able-to-get-free-for-months-because-of-this-bug-31b1396c563f
