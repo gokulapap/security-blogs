@@ -107,3 +107,4 @@
 - https://www.pmnh.site/post/advanced-sqlmap-case-study-1/
 - https://blog.infiltrateops.io/the-castles-latrine-10f9c16548bd
 - https://marxchryz.medium.com/my-bug-bounty-journey-and-my-first-critical-bug-time-based-blind-sql-injection-aa91d8276e41
+- https://medium.com/@saadahmedx/sql-injection-c87a390afdd3

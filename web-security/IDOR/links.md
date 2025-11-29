@@ -252,3 +252,4 @@
 - https://sagarsajeev.medium.com/unsubscribe-any-users-e-mail-notifications-via-idor-2c2e05b79dac
 - https://ysamm.com/?p=35
 - https://medium.com/@kedrisec/publish-tweets-by-any-other-user-6c9d892708e3
+- https://blog.evanricafort.com/2021/02/idor-in-redacted.html

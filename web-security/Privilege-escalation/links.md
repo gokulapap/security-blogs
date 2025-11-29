@@ -53,3 +53,4 @@
 - https://www.netspi.com/blog/technical/cloud-penetration-testing/azure-function-apps/
 - https://medium.com/@shahjerry33/privilege-escalation-hello-admin-a53ac14fd388
 - https://web.archive.org/web/20211106100048/https://monke.ie/unicorn-programs/
+- https://www.mdsec.co.uk/2023/03/exploiting-cve-2023-23397-microsoft-outlook-elevation-of-privilege-vulnerability/
