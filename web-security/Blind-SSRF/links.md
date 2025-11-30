@@ -6,3 +6,4 @@
 - https://notifybugme.medium.com/chaining-an-blind-ssrf-bug-to-get-an-rce-92c09de3c0ba
 - https://zetc0de.github.io/post/authenticated-rce-ssrf-wondercms/
 - https://dos.sh/blog/2017/6/21/yahoo-small-business-luminate-and-the-not-so-secret-keys
+- https://mike-n1.github.io/SSRF_P4toP2

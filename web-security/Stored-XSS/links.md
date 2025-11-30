@@ -115,3 +115,5 @@
 - https://monke.ie/duckduckgoxss/
 - https://systemweakness.com/stored-xss-to-other-users-via-messages-e033239821b5
 - https://blog.zsec.uk/persisting-pornhub/
+- https://medium.com/@alonnsoandres/25k-instagram-almost-xss-filter-link-facebook-bug-bounty-798b10c13b83
+- https://ysx.me.uk/app-maker-and-colaboratory-a-stored-google-xss-double-bill/

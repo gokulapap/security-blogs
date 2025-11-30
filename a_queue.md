@@ -337,7 +337,6 @@
 - https://labs.guard.io/xss-vulnerability-found-in-connectwise-remote-access-platform-with-great-potential-for-misuse-by-scammers-a0773da2aacf, Stored-XSS
 - https://basu-banakar.medium.com/ssrf-via-dns-rebinding-cve-2022-4096-b7bf75928bb2, SSRF
 - https://github.com/0xacb/recollapse/blob/main/till_recollapse_fuzzing_the_web_for_mysterious_bugs.pdf, Regex
-- https://cybervelia.com/?p=1380, IoT
 - https://trufflesecurity.com/blog/email-graffiti/index.html, Broken-link-hijacking
 - https://dewcode.medium.com/how-i-found-29-stored-xss-in-modern-framework-1cfe60a107a0, Stored-XSS
 - https://splint3rsec.medium.com/russian-roulette-xss-bbba6afd2570, Blind-XSS
@@ -821,7 +820,6 @@
 - https://n45ht.or.id/post/reflected-xss-on-microsoft/en, Reflected-XSS
 - https://notifybugme.medium.com/aws-internal-metadata-accessed-through-ssrf-by-chaining-an-open-redirect-bug-c4b0e4838dc, SSRF
 - https://davtur19.medium.com/telegram-bug-bounties-xss-privacy-issues-official-bot-exploitation-and-more-5277fa78435, XSS
-- https://notifybugme.medium.com/unauthorized-access-to-admin-setpassword-page-by-bypass-403-forbidden-f10bbb92ab35, Authorization-flaw
 - https://pharish4948.medium.com/how-i-earned-3200-in-4hours-through-stored-xss-38597877d3e1, Stored-XSS
 - https://fernale.blogspot.com/2021/04/how-i-got-9000-usd-by-hacking-into.html, XSS
 - https://infosecwriteups.com/unauthenticated-account-takeover-through-forget-password-c120b4c1141d, Password-reset
@@ -937,7 +935,6 @@
 - https://vnhacker.blogspot.com/2020/09/advisory-security-issues-in-aws-kms-and.html, Cryptographic-issues
 - https://blog.securelayer7.net/unauthenticated-file-upload-vulnerability-on-synology-sub-domain/, Unrestricted-file-upload
 - https://medium.com/bugbountywriteup/how-i-earned-500-from-google-flaw-in-authentication-a40018c05616, Authentication-flaw
-- https://medium.com/@alonnsoandres/25k-instagram-almost-xss-filter-link-facebook-bug-bounty-798b10c13b83, Stored-XSS
 - https://medium.com/@merry6607/how-i-by-pass-the-login-page-and-2fa-authentication-3f33b06838c, Authentication-bypass
 - https://medium.com/@Sheshasai/emoji-error-handling-ba11f1bdb8a6, SQL-injection
 - https://muirey03.blogspot.com/2020/09/cve-2020-9964-ios-infoleak.html, iOS
@@ -1430,7 +1427,6 @@
 - https://blog.securitybreached.org/2018/02/04/hunting-insecure-direct-object-reference-vulnerabilities-for-fun-and-profit-part-1/, IDOR
 - https://web.archive.org/web/20200920204426/https://medium.com/@adeshkolte/microsoft-sharepoints-follow-feature-xss-cve-2017-8514-adesh-kolte-d78d701cd064, XSS
 - https://bhavukjain.com/blog/2017/12/20/facebook-google-login-misconfig/, Account-takeover
-- https://mike-n1.github.io/SSRF_P4toP2, Blind-SSRF
 - https://blog.securitybreached.org/2017/12/19/unrestricted-file-upload-to-rce-bug-bounty-poc/, RCE
 - https://corben.io/blog/17-12-17-hackertarget, SSRF
 - https://medium.com/@maxon3/lfi-to-command-execution-deutche-telekom-bug-bounty-6fe0de7df7a6, LFI
@@ -1443,7 +1439,6 @@
 - https://medium.com/@abdelfattahibrahim/from-recon-to-dom-based-xss-f279602a14cf, DOM-XSS
 - http://www.noob.ninja/2017/11/local-file-read-via-xss-in-dynamically.html, XSS
 - https://medium.com/@tungpun/from-ssrf-to-local-file-disclosure-58962cdc589f, SSRF
-- https://ysx.me.uk/app-maker-and-colaboratory-a-stored-google-xss-double-bill/, Stored-XSS
 - https://blog.intothesymmetry.com/2017/10/slack-saml-authentication-bypass.html, Authentication-bypass
 - https://kciredor.com/taking-over-every-ad-on-olx-automated-an-idor-story.html, IDOR
 - https://medium.com/bugbountywriteup/how-i-was-able-to-see-someones-all-private-files-with-a-single-file-share-link-through-atom-feed-7cde46d7e84d, Information-disclosure

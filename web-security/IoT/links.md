@@ -4,3 +4,4 @@
 - https://www.anvilsecure.com/blog/compromising-garmins-sport-watches-a-deep-dive-into-garminos-and-its-monkeyc-virtual-machine.html
 - https://claroty.com/team82/research/the-silent-spy-among-us-modern-attacks-against-smart-intercoms
 - https://kuenzi.dev/toothbrush/
+- https://cybervelia.com/?p=1380

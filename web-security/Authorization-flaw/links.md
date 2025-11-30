@@ -111,3 +111,4 @@
 - https://medium.com/@himmat1005/how-i-messed-up-my-own-profile-data-94a4b09cb54c
 - https://medium.com/@0x01devansh/facebook-bug-sending-messages-as-a-page-with-jobmanager-permission-763dc0d8e32c
 - https://thezerohack.com/hacking-facebook-pages
+- https://notifybugme.medium.com/unauthorized-access-to-admin-setpassword-page-by-bypass-403-forbidden-f10bbb92ab35
