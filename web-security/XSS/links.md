@@ -296,3 +296,4 @@
 - https://systemweakness.com/resolveuri-rxss-imperva-waf-bypass-c834ca573bd4
 - https://spaceraccoon.dev/exploiting-icalendar-properties-enterprise-applications/
 - https://medium.com/bugbountywriteup/two-vulnerabilities-makes-an-exploit-xss-and-csrf-in-bing-cd4269da7b69
+- https://medium.com/@princeprafull/how-i-found-reflected-xss-on-gov-in-a8b4a228d84a

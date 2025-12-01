@@ -275,3 +275,4 @@
 - https://medium.com/@nanwinata/old-rce-worth-3362-1af0cd70c459
 - https://blog.pksecurity.io/2023/01/16/2022-microsoft-teams-rce.html
 - https://zdresearch.com/rce-on-a-laravel-private-program/
+- https://swarm.ptsecurity.com/hunting-for-bugs-in-vmware-view-planner-and-vrealize-business-for-cloud/

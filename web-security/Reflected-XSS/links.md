@@ -100,3 +100,4 @@
 - https://web.archive.org/web/20200928235353/https://www.mohamedharon.com/2018/03/xss-in-sportstwcampaignyahoonet.html
 - https://medium.com/@fbotes2/try-harder-for-xss-7aa3657255a1
 - https://amit-lt.medium.com/multiple-times-i-hacked-duke-university-with-rxss-vulnerability-7e291aad043a
+- https://mostafa-mano.medium.com/2-reflected-xss-in-razer-74783ae5ee53

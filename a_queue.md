@@ -45,7 +45,6 @@
 - https://medium.com/@thelinuxboy/bugging-out-my-experience-of-earning-300-for-reporting-an-unexpected-bug-ec9f9b0054bc, journey
 - https://medium.com/@hasharmujahid/bypassing-csrf-protection-i-bc014384d0aa, csrf
 - https://medium.com/@pawanchhabria/how-i-escalated-default-credentials-to-remote-code-execution-1c34504be7a5, RCE
-- https://medium.com/@sushantdhopat/how-i-able-to-steal-lot-of-user-sensitive-information-pii-throw-idor-insecure-direct-object-e41e08e88a06, info-disclosure
 - https://medium.com/@grahamzemel/a-500-open-redirect-bounty-in-under-10-minutes-fbb1cce063e5, open-redirection
 - https://medium.com/@K9ightFr3ak/exploiting-broken-access-control-vulnerability-4d16f72c7983, BAC
 - https://medium.com/@ramAnon/bug-bounty-hunting-methodology-toolkit-tips-tricks-blogs-eb142034d5a5, tricks
@@ -54,7 +53,6 @@
 - https://medium.com/@thexssrat/miniseries-xss-to-the-core-pt-1-4a979b9e5139, XSS
 - https://medium.com/@theshubh77/facebook-page-admin-disclosure-by-create-doc-button-bounty-5000-usd-2fd1ff615bf8, misc
 - https://medium.com/@evilprince007/broken-object-level-authorization-in-vapi-8a994c50b711, api
-- https://medium.com/@princeprafull/how-i-found-reflected-xss-on-gov-in-a8b4a228d84a, XSS
 - https://medium.com/@theredteamer/hacking-apple-two-successful-exploits-and-positive-thoughts-on-their-bug-bounty-program-963efe7518f6, journey
 - https://medium.com/@grahamzemel/python-tips-and-tricks-for-cybersecurity-enthusiasts-9504d9541b8b, tricks
 - https://medium.com/@rootkid/payment-gateway-bypass-on-government-domain-8e0135c34185, misc
@@ -380,7 +378,6 @@
 - https://www.mdsec.co.uk/2022/10/microsoft-office-online-server-remote-code-execution/, SSRF
 - https://blog.doyensec.com/2022/10/18/cloudsectidbit-dataimport.html, Cloud
 - https://lokeshdlk77.medium.com/facebook-sms-captcha-was-vulnerable-to-csrf-attack-8db537b1e980, CSRF
-- https://blog.kylebot.net/2022/10/16/CVE-2022-1786/, Use-After-Free
 - https://infosecwriteups.com/its-the-little-things-breaking-an-ai-40c30ae85f37, Path-traversal
 - https://checkmarx.com/blog/some-vulnerabilities-dont-have-a-name/, ReDoS
 - https://medium.com/@iknowhatodo/fall-account-takeover-via-amazon-cognito-misconfiguration-ba5975b06c24, IDOR
@@ -606,7 +603,6 @@
 - https://github.com/Metnew/write-ups/tree/main/rce-github-desktop-2.9.3, RCE
 - https://web.archive.org/web/20220220072733/https://bloggerrando.blogspot.com/2022/02/stored-xss-on-messagealibabacom-alibaba.html, Stored-XSS
 - https://medium.com/@720922/recon-and-youtube-is-that-a-thing-5523b48c32e3, Subdomain-takeover
-- https://swarm.ptsecurity.com/hunting-for-bugs-in-vmware-view-planner-and-vrealize-business-for-cloud/, RCE
 - https://medium.com/@yaala/trim-private-live-videos-and-access-them-a331447cc82a, IDOR
 - https://www.iot-inspector.com/blog/advisory-western-digital-my-cloud-pro-series-pr4100-rce/, RCE
 - https://ozguralp.medium.com/bigquery-sql-injection-cheat-sheet-65ad70e11eac, SQL-injection
@@ -906,7 +902,6 @@
 - https://vijetareigns.medium.com/pre-account-takeover-using-oauth-misconfiguration-ebd32b80f3d3, OAuth
 - https://medium.com/realmodelabs/sd-pwn-part-3-cisco-vmanage-another-day-another-network-takeover-15731a4d75b7, RCE
 - https://cirius.medium.com/escalating-xss-to-account-takeover-ffde08624937, Reflected-XSS
-- https://mostafa-mano.medium.com/2-reflected-xss-in-razer-74783ae5ee53, Reflected-XSS
 - https://ozguralp.medium.com/turning-blind-error-based-sql-injection-into-an-exploitable-boolean-one-85d6be3ca23b, SQL-injection
 - https://daeken.svbtle.com/arbitrary-file-write-by-adb-pull, Arbitrary-file-write
 - https://rafi-ahamed.medium.com/exploiting-api-with-authtoken-3bea7b1fb6a9, Token-leak

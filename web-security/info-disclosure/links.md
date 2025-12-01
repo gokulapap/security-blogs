@@ -1,3 +1,4 @@
 - https://medium.com/@shahjerry33/pii-leakage-revealing-secrets-8b617071bd1c
 - https://medium.com/@shahjerry33/information-disclosure-wordpress-cms-82133480b8b3
 - https://medium.com/@jaadugar/sensitive-data-exposure-my-first-bug-in-h1-d4006a08d38f
+- https://medium.com/@sushantdhopat/how-i-able-to-steal-lot-of-user-sensitive-information-pii-throw-idor-insecure-direct-object-e41e08e88a06

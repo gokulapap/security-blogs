@@ -1,1 +1,2 @@
 - https://blog.redteam.pl/2020/04/google-chrome-display-locking-fuzzing.html
+- https://blog.kylebot.net/2022/10/16/CVE-2022-1786/
