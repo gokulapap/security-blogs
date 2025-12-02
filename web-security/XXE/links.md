@@ -27,3 +27,4 @@
 - https://www.cyberark.com/resources/threat-research-blog/bug-hunting-stories-schneider-electric-the-andover-continuum-web-client
 - https://frycos.github.io/vulns4free/2023/02/12/install4j-xxe.html
 - http://almadj.us/infosec/xxe-to-aws-metadata-disclosure/
+- https://www.shielder.com/advisories/autodesk-fusion-import-svg-blind-xxe/

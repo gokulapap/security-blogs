@@ -1,3 +1,4 @@
 - https://security.humanativaspa.it/nothing-new-under-the-sun/
 - https://blog.redteam-pentesting.de/2023/rooting-printer/
 - https://www.interruptlabs.co.uk/articles/pwn2own-2022-hp-printer
+- https://www.synacktiv.com/en/publications/the-printer-goes-brrrrr-again.html
