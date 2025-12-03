@@ -117,3 +117,5 @@
 - https://blog.zsec.uk/persisting-pornhub/
 - https://medium.com/@alonnsoandres/25k-instagram-almost-xss-filter-link-facebook-bug-bounty-798b10c13b83
 - https://ysx.me.uk/app-maker-and-colaboratory-a-stored-google-xss-double-bill/
+- https://medium.com/bugbountywriteup/the-importance-of-keeping-up-to-date-or-how-i-found-an-interesting-bug-thanks-to-a-tweet-2ec6ba9a5e1e
+- https://www.bad5ect0r.sh/posts/stored-xss-leads-to-plaintext-password-disclosure/

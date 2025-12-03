@@ -108,3 +108,4 @@
 - https://blog.infiltrateops.io/the-castles-latrine-10f9c16548bd
 - https://marxchryz.medium.com/my-bug-bounty-journey-and-my-first-critical-bug-time-based-blind-sql-injection-aa91d8276e41
 - https://medium.com/@saadahmedx/sql-injection-c87a390afdd3
+- https://medium.com/sud0root/bug-bounty-writeups-exploiting-sql-injection-vulnerability-20b019553716
