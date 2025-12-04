@@ -31,3 +31,4 @@
 - https://infosecwriteups.com/directory-ttraversal-vulnerability-in-huawei-hg255s-products-dce941a1d015
 - https://zoidsec.medium.com/breaking-parse-logic-gain-access-to-nginx-api-read-write-upstreams-1cb062aa44ca
 - https://mshibilmp.medium.com/how-i-earned-for-excessive-data-exposure-through-directory-traversal-leads-to-product-price-4582e5371774
+- https://www.secjuice.cz0idsecom/breaking-parser-logic-gain-access-to-nginx-plus-api-read-write-upstreams/

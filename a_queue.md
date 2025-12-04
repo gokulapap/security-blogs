@@ -512,7 +512,6 @@
 - https://codewithvamp.medium.com/account-takeover-by-otp-bypass-ec0cff67f516, Information-disclosure
 - https://www.cyberark.com/resources/threat-research-blog/that-pipe-is-still-leaking-revisiting-the-rdp-named-pipe-vulnerability, RCE
 - https://webs3c.com/t/csrf-leads-to-account-takeover-in-yahoo/93, CSRF
-- https://aidilarf.medium.com/xss-blind-stored-at-asset-domain-android-apps-tiktok-ae2f4c2dbc07, Stored-XSS
 - https://labs.taszk.io/articles/post/unziploc/, Memory-corruption
 - https://notifybugme.medium.com/automating-reflected-xss-with-burp-suite-intruder-a39b2f060db7, Reflected-XSS
 - https://portswigger.net/research/bypassing-csp-with-dangling-iframes, CSP-bypass
@@ -531,7 +530,6 @@
 - https://infosecwriteups.com/how-an-open-redirection-leads-to-an-account-takeover-73ea883055d1, Open-redirect
 - https://mc0wn.blogspot.com/2022/05/2nd-rce-and-xss-in-apache-struts-before-2530.html, RCE
 - https://infosecwriteups.com/how-i-found-a-companys-internal-s3-bucket-with-41k-files-94b453e588b5, AWS-misconfiguration
-- https://www.secjuice.cz0idsecom/breaking-parser-logic-gain-access-to-nginx-plus-api-read-write-upstreams/, Path-traversal
 - https://medium.com/@sharp488/2fa-bypass-on-private-bug-bounty-program-due-to-improper-caching-mechanism-212c5912bd00, MFA-bypass
 - https://medium.com/@sharp488/2fa-bypass-on-private-bug-bounty-program-due-to-csrf-token-misconfiguration-5a9c82151a1, MFA-bypass
 - https://systemweakness.com/i-obtained-admin-access-via-account-activation-link-in-30-seconds-dd7f115ae1d2, Privilege-escalation
@@ -958,7 +956,6 @@
 - https://medium.com/bugbountywriteup/my-first-bug-bounty-21d3203ffdb0, Information-disclosure
 - https://www.ehpus.com/post/authorization-bypass-in-google-s-ticketing-system, Authorization-flaw
 - https://hunter-55.medium.com/introduction-fae7c8b3d16c, Exposed-registration-page
-- https://tox7cv3nom.github.io/2020/07/28/authentication-token-bypass-leads-too-idor.html, Authentication-bypass
 - https://tolo7010note.blogspot.com/2020/07/an-unreproducable-bug-due-to-load.html, Open-redirect
 - https://medium.com/@airlanggamurthi/obtained-a-bunch-of-sensitive-data-in-just-few-steps-hacking-1a474200a8c2, AWS-misconfiguration
 - https://medium.com/bugbountywriteup/dns-rebinding-the-treacherous-attack-it-can-be-b367c61b4372, DNS-rebinding
@@ -1009,7 +1006,6 @@
 - https://medium.com/@abireena2002/how-i-managed-to-escalate-privilege-as-admin-94b8dc910d14, Lack-of-rate-limiting
 - https://ysamm.com/?p=460, Privilege-escalation
 - https://ysamm.com/?p=450, Information-disclosure
-- https://ysamm.com/?p=458, Information-disclosure
 - https://medium.com/@mudassirsharief58/hunt-for-sql-injection-the-smart-way-db85243a4e90, SQL-injection
 - https://www.cyberonesecurity.com/blog/local-privilege-escalation-discovered-in-vmware-fusion, Local-Privilege-Escalation
 - https://medium.com/@ricardoiramar/this-is-fine-6e032f497b8f, Information-disclosure
@@ -1136,7 +1132,6 @@
 - https://blog.usejournal.com/how-recon-helped-samsung-protect-their-production-repositories-of-samsungtv-ecommerce-estores-4c51d6ec4fdd, Information-disclosure
 - https://medium.com/bugbountywriteup/information-disclosure-at-paypal-and-xoom-paypal-acquisition-via-simple-google-dork-1-000-usd-b726fe628a05, Information-disclosure
 - https://medium.com/bugbountywriteup/facebook-workplace-privilege-escalation-vulnerability-to-change-the-post-privacy-as-public-634f1c995780, Privilege-escalation
-- https://medium.com/@jayateerthag/google-referer-leak-bug-434f6293ce66, Referer-leakage
 - https://web.archive.org/web/20200820030055/https://pwnsec.ninja/2019/09/14/how-i-found-a-simple-and-weird-account-takeover-bug/, Account-takeover
 - https://philippeharewood.com/add-users-to-roles-on-facebook-pages-without-an-invitation-consent/, Authorization-flaw
 - https://philippeharewood.com/subscribe-to-the-list-of-requesters-to-join-a-facebook-live-video-using-mqtt/, Authorization-flaw

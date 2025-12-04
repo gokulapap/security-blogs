@@ -1,1 +1,2 @@
 - https://medium.com/pentesternepal/the-journey-from-google-honorable-mention-to-hall-of-fame-f62d9d5882ea
+- https://medium.com/@jayateerthag/google-referer-leak-bug-434f6293ce66
