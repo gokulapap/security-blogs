@@ -1,1 +1,2 @@
 - https://medium.com/@ramkumarnadar47/zip-bomb-attack-88d84a98be9f
+- https://jfrog.com/blog/denial-of-service-vulnerability-in-envoy-proxy-cve-2022-29225/
