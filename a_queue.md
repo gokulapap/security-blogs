@@ -427,7 +427,6 @@
 - https://medium.com/@Parag_Bagul/how-i-found-moodle-cross-site-scripting-459a1c9ad4d5, XSS
 - https://hopesamples.blogspot.com/2022/09/details-about-future-collaboration.html, IDOR
 - https://taggart-tech.com/quasar-electron/, Local-Privilege-Escalation
-- https://ssd-disclosure.com/ssd-advisory-linux-config_watch_queue-lpe/, Memory-corruption
 - https://medium.com/@0x0Asif/how-i-found-my-first-rce-8f8033883dc4, IDOR
 - https://nokline.github.io/bugbounty/2022/09/02/Glassdoor-Cache-Poisoning.html, Web-cache-poisoning
 - https://medium.com/@xJay/angularjs-client-side-template-injection-the-orderby-filter-20002ca2a0e8, CSTI
@@ -534,7 +533,6 @@
 - https://systemweakness.com/i-obtained-admin-access-via-account-activation-link-in-30-seconds-dd7f115ae1d2, Privilege-escalation
 - https://breakpoint.sh/posts/snyk-code-broken-access-control, Path-traversal
 - https://cyllective.com/blog/post/research_audit_wordpress_plugins/, SQL-injection
-- https://evowizz.dev/blog/huawei-appgallery-vulnerability, Payment-bypass
 - https://blog.stazot.com/stealing-google-drive-oauth-tokens-from-dropbox/, CSRF
 - https://infosecwriteups.com/bypassing-waf-to-weaponize-a-stored-xss-ff9963c421ee, Stored-XSS
 - https://securityflow.io/impact-of-an-insecure-deep-link/, Insecure-deeplink
@@ -667,7 +665,6 @@
 - https://www.intruder.io/research/practical-http-header-smuggling, HTTP-Header-Smuggling
 - https://0x0021h.medium.com/bypass-chrome-ad-heavy-detection-mechanism-25c9e2e4a0c4, Browser-hacking
 - https://infosecwriteups.com/sony-hunting-i-discovering-hidden-parameters-5x-swag-c3396c0064bc, Open-redirect
-- https://medium.com/techiepedia/unauthenticated-access-to-cloud-portal-a-without-%EF%B8%8F-9f29c387b937, Authentication-bypass
 - https://thinkermaruf.medium.com/fiverr-email-restriction-bypassed-36b797cb7e9, Logic-flaw
 - https://blog.assetnote.io/2021/11/02/sitecore-rce/, RCE
 - https://pathleax.medium.com/this-is-how-i-was-able-to-permanently-crash-all-mapillary-users-within-minutes-c7276def5a94, Application-level-DoS
@@ -1325,7 +1322,6 @@
 - https://blog.securitybreached.org/2018/09/08/sqli-bootcampnutanix-com-bug-bounty-poc/, SQL-injection
 - https://blog.securitybreached.org/2018/09/07/rce-jenkins-instance-dosomething-org-bug-bounty-poc/, RCE
 - https://medium.com/@mahitman1/i-own-your-customers-22e965761abd, Information-disclosure
-- https://medium.com/@UpdateLap/idor-facebook-malicious-person-add-people-to-the-top-fans-4f1887aad85a, IDOR
 - https://web.archive.org/web/20200829220607/https://medium.com/@adeshkolte/sql-injection-vulnerability-in-university-of-cambridge-b4c8d0381e1, SQL-injection
 - https://www.updatelap.com/2018/08/privileged-escalation-in-facebook-rooms.html, Authorization-flaw
 - https://medium.com/@black_b/yahoo-idor-elimination-of-any-comment-e898f4f955f1, IDOR
@@ -1441,7 +1437,6 @@
 - https://labs.detectify.com/2017/07/27/how-we-invented-the-tesla-dom-doom-xss/, DOM-XSS
 - https://medium.com/@arbazhussain/stored-xss-on-rockstar-game-c008ec18d071, XSS
 - https://medium.com/@arbazhussain/ctrl-d5ffc7b0640e, Clickjacking
-- https://wesecureapp.com/blog/how-we-tookover-shopify-accounts-with-one-single-click, Stored-XSS
 - https://wesecureapp.com/blog/xss-by-tossing-cookies/, XSS
 - https://web.archive.org/web/20180827025910/http://www.paulosyibelo.com/2017/07/coinbase-angularjs-dom-xss-via-kiteworks.html, DOM-XSS
 - https://ahussam.me/Medium-content-spoofing-xss, Content-spoofing

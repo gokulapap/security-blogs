@@ -71,3 +71,4 @@
 - https://www.synack.com/blog/exploits-explained-5-unusual-authentication-bypass-techniques/
 - https://www.rcesecurity.com/2023/04/securepwn-part-1-bypassing-securepoint-utms-authentication-cve-2023-22620/
 - https://tox7cv3nom.github.io/2020/07/28/authentication-token-bypass-leads-too-idor.html
+- https://medium.com/techiepedia/unauthenticated-access-to-cloud-portal-a-without-%EF%B8%8F-9f29c387b937

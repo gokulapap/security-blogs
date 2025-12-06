@@ -15,3 +15,4 @@
 - https://research.checkpoint.com/2022/researching-xiaomis-tee/
 - https://medium.com/@querylab/bypass-premium-account-payment-getpocket-d813b249687c
 - https://crypt0g30rgy.github.io/post/PaymentBypassOne
+- https://evowizz.dev/blog/huawei-appgallery-vulnerability
