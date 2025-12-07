@@ -1,0 +1,1 @@
+- https://medium.com/@0ta/tenda-n301-v6-cve-2023-29680-cve-2023-29681-a40f7ae6dc62

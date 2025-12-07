@@ -298,3 +298,4 @@
 - https://medium.com/bugbountywriteup/two-vulnerabilities-makes-an-exploit-xss-and-csrf-in-bing-cd4269da7b69
 - https://medium.com/@princeprafull/how-i-found-reflected-xss-on-gov-in-a8b4a228d84a
 - https://n1ghtmar3.medium.com/chaining-xss-with-authentication-issues-to-turn-it-into-full-account-takeover-ae886ac696bb
+- https://blog.hackenproof.com/customer-stories/hackenproof-customer-story-uklon/

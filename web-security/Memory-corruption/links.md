@@ -67,3 +67,4 @@
 - https://blog.ret2.io/2022/05/19/pwn2own-2021-parallels-desktop-exploit/
 - https://0x36.github.io/CVE-2022-32898/
 - https://ssd-disclosure.com/ssd-advisory-linux-config_watch_queue-lpe/
+- https://googleprojectzero.blogspot.com//2022/01/zooming-in-on-zero-click-exploits.html

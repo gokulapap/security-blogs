@@ -108,7 +108,6 @@
 - https://medium.com/@ahmedelmorsy312/weakness-of-integration-bce1520ba672, Logic-flaw
 - https://www.sonarsource.com/blog/why-orms-and-prepared-statements-cant-always-win/, SQL-injection
 - https://www.synacktiv.com/sites/default/files/2023-06/synacktiv-ucopia-multiple-vulnerabilities-2022.pdf, Security-misconfiguration
-- https://x64.sh/posts/ServiceNow-Insecure-access-control-to-admin/, Broken-Access-Control
 - http://www.kamilonurozkaleli.com/posts/a-classical-account-takeover-case-via-multiple-bypasses/, Account-takeover
 - https://medium.com/@kushjain0107/one-mistake-three-bugs-comprehensive-android-pentesting-a8fc68e36af5, Android
 - https://medium.com/@0xnaeem/how-i-found-a-sql-injection-bug-in-using-my-cellphone-5b5193fdc314, SQL-injection
@@ -160,7 +159,6 @@
 - https://ophionsecurity.com/blog/placeholder-for-dayzzz, SSTI
 - https://infosecwriteups.com/unauthorized-access-to-the-admin-panel-via-leaked-credentials-on-the-waybackmachine-55c3307141c6, Information-disclosure
 - https://medium.com/@lopseg/bug-bounty-writeup-stored-xss-vulnerability-waf-bypass-f38aae7ff9eb, Stored-XSS
-- https://medium.com/@0ta/tenda-n301-v6-cve-2023-29680-cve-2023-29681-a40f7ae6dc62, Sensitive-Information-Sent-Over-an-Unencrypted-Channel
 - https://ltsirkov.medium.com/netflix-bypassing-multi-factor-authentication-mfa-53135c9d6d50, MFA-bypass
 - https://blog.calif.io/p/redash-saml-authentication-bypass, SAML
 - https://the-deniss.github.io/posts/2023/04/26/avast-privileged-arbitrary-file-create-on-quarantine.html, TOCTOU
@@ -209,7 +207,6 @@
 - https://blog.bitcrack.net/oracle-databases-remote-stealth-password-bruteforce/, Bruteforce
 - https://medium.com/@Ano_F_/manipulating-encrypted-traffic-using-pycript-b637612528bb, Client-side-encryption-bypass
 - https://eaton-works.com/2023/03/06/toyota-c360-hack/, Authentication-bypass
-- https://www.microsoft.com/en-us/security/blog/2023/03/06/protecting-android-clipboard-content-from-unintended-exposure/, Android
 - https://hunter-55.medium.com/500-bounty-in-just-5-minutes-through-recon-5eeb6c299c3c, AWS-misconfiguration
 - https://medium.com/@mrxdevil404/bug-in-netflix-with-my-automation-1382d087078, Information-disclosure
 - https://bountyplz.xyz/bugbounty/2023/03/03/Bypassing-Safe-Redirect-in-Rails-7.0.html, Open-redirect
@@ -615,7 +612,6 @@
 - https://www.zerodayinitiative.com/blog/2022/1/25/cve-2021-44790-code-execution-on-apache-via-an-integer-underflow, Memory-corruption
 - https://kuldeep.io/posts/path-traversal-paradise/, Path-traversal
 - https://srcincite.io/blog/2022/01/20/zohowned-a-critical-authentication-bypass-on-zoho-manageengine-desktop-central.html, Authentication-bypass
-- https://googleprojectzero.blogspot.com//2022/01/zooming-in-on-zero-click-exploits.html, Memory-corruption
 - https://medium.com/@robert0/how-i-found-broken-access-control-through-out-of-sync-setup-and-got-1000-9143fc5febdd, Broken-Access-Control
 - https://systemweakness.com/host-header-injection-lead-to-account-takeover-2f025a645d13, Host-header-injection
 - https://noob3xploiter.medium.com/2fa-bypass-by-reading-the-documentation-3260a372d8a8, MFA-bypass
@@ -1279,7 +1275,6 @@
 - https://medium.com/@zain.sabahat/exploiting-ssrf-like-a-boss-c090dc63d326, SSRF
 - https://www.askbuddie.com/blog/unauthorized-comments-on-facebook-live-stream/, Authorization-flaw
 - https://www.vulnerability-db.com/?q=articles/2018/11/16/microsoft-bingplaces-business-url-redirect-vulnerability, Open-redirect
-- https://blog.hackenproof.com/customer-stories/hackenproof-customer-story-uklon/, XSS
 - https://philippeharewood.com/disclose-page-admins-via-gaming-dashboard-bans/, Information-disclosure
 - https://medium.com/@maxpasqua/breaking-appointments-and-job-interview-schedules-with-malformed-times-edef103e46ba, DoS
 - https://medium.com/@mrnikhilsri/oob-xxe-in-prizmdoc-cve-2018-15805-dfb1e474345c, OOB-XXE
