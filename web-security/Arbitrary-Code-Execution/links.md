@@ -1,2 +1,3 @@
 - https://sector7.computest.nl/post/2022-09-aveva-edge/
 - https://offsec.space/posts/airtel-vulnerabilities/
+- https://blog.doyensec.com/2023/07/26/huawei-theme-arbitrary-code-exec.html

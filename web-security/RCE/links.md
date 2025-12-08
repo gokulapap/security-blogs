@@ -278,3 +278,4 @@
 - https://swarm.ptsecurity.com/hunting-for-bugs-in-vmware-view-planner-and-vrealize-business-for-cloud/
 - https://devco.re/blog/2023/07/07/a-journey-into-hacking-google-search-appliance-en/
 - https://mmmds.pl/cyberghostvpn-mitm-rce-lpe/
+- https://pwning.re/2018/12/04/github-desktop-rce/

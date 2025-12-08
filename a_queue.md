@@ -82,7 +82,6 @@
 - https://hazanasec.github.io/2023-07-30-Samesite-bypass-method-override.md/, Samesite-cookie-bypass
 - https://medium.com/@abhishek.karle92/access-of-android-protected-components-via-embedded-intent-android-app-pentesting-5618ae3cc9b2, Android
 - https://www.mcnulty.blog/posts/dap-csrf, CSRF
-- https://blog.doyensec.com/2023/07/26/huawei-theme-arbitrary-code-exec.html, Arbitrary-Code-Execution
 - https://blog.assetnote.io/2023/07/21/citrix-CVE-2023-3519-analysis/, RCE
 - https://blog.assetnote.io/2023/07/22/pre-auth-rce-metabase/, RCE
 - https://blog.qualys.com/vulnerabilities-threat-research/2023/07/19/cve-2023-38408-remote-code-execution-in-opensshs-forwarded-ssh-agent, RCE
@@ -849,7 +848,6 @@
 - https://pullerjsecu.medium.com/how-i-was-able-to-turn-a-xss-into-a-account-takeover-ae0c478640e7, Web-cache-poisoning
 - https://amineaboud.medium.com/disclose-the-fb-profile-of-facebook-employees-who-create-official-announcement-messages-bug-76554068caf7, Information-disclosure
 - https://web.archive.org/web/20210201180254/https://www.cysek.org/post/bac-sxss, Stored-XSS
-- https://www.shawarkhan.com/2021/01/analysing-crash-messages-to-achieve.html, OS-command-injection
 - https://medium.com/bugbountywriteup/bragging-rights-part-1-short-story-of-a-bug-wave-dbb88f48b604, IDOR
 - https://bugbountyhunter.medium.com/500-for-no-rate-limit-on-forgot-password-page-d534d1d750db, Lack-of-rate-limiting
 - https://yeuchimse.com/leaking-issues-from-linked-jira-atlassian-confluence-server/, XS-Search
@@ -1029,7 +1027,6 @@
 - https://embracethered.com/blog/posts/2020/mozilla-bug-bounty-credential-hunt-phabricator-token/, Information-disclosure
 - https://bugwriteups.tech/bug-bounty-write-up-lucky-vulnerability, SQL-injection
 - https://medium.com/@aniltom/magic-of-the-back-slash-d868e66b532a, Path-traversal
-- https://sites.google.com/securifyinc.com/vrp-writeups/waze/waze-xss, XSS
 - https://sites.google.com/securifyinc.com/vrp-writeups/gsuite/bookmark-xss-device-management, XSS
 - https://medium.com/@sandeepkumarsingh1902/bugbounty-adding-money-using-response-modification-334448d34251, Payment-tampering
 - https://web.archive.org/web/20210117211634/https://kurtikleiton.medium.com/blind-ssrf-on-coda-io-c7063f304455, SSRF
@@ -1264,7 +1261,6 @@
 - https://medium.com/@sampanna/self-xss-in-indeed-com-e0c99c104cba, XSS
 - https://medium.com/@rupika.luhach/change-anyones-profile-picture-exploiting-idor-41369f5acf75, IDOR
 - https://blog.securitybreached.org/2018/12/08/how-i-was-able-to-bypass-email-verification/, Information-disclosure
-- https://pwning.re/2018/12/04/github-desktop-rce/, RCE
 - https://dylankatz.com/digging-in-to-scp-command-injection/, OS-command-injection
 - http://zhchbin.github.io/2018/12/03/Hijack-the-JS-File-of-Uber-s-Website/, JS-file-hijacking
 - https://chainlover.blogspot.com/2018/11/love-story-of-account-takeover-chaining.html, Host-header-injection
@@ -1350,7 +1346,6 @@
 - https://twitter.com/0x01alka/status/1001763583447969792, Path-traversal
 - https://blog.witcoat.com/2018/05/30/account-takeover-and-blind-xss-go-pro-get-bugs/, IDOR
 - https://medium.com/@emenalf/how-i-got-hall-of-fame-in-two-fortune-500-companies-an-rce-story-9c89cead81ff, RCE
-- https://andresriancho.com/recaptcha-bypass-via-http-parameter-pollution, Captcha-bypass
 - https://poc-server.com/blog/2018/05/22/rce-by-uploading-a-web-config, RCE
 - https://medium.com/ymedialabs-innovation/an-aws-managed-policy-that-allowed-granting-root-admin-access-to-any-role-51b409ea7ff0, Authorization-flaw
 - https://sites.google.com/site/testsitehacking/-36k-google-app-engine-rce, RCE

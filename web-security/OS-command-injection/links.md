@@ -20,3 +20,4 @@
 - https://y0ungdst.medium.com/my-second-cve-cve-2022-31855-6c071c4fb9d9
 - https://www.synacktiv.com/en/publications/pentesting-cisco-sd-wan-part-2-breaking-routers.html
 - https://bugra.ninja/posts/cloudshell-command-injection/
+- https://www.shawarkhan.com/2021/01/analysing-crash-messages-to-achieve.html

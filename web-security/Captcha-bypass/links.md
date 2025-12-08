@@ -3,3 +3,4 @@
 - https://medium.com/@Cho0k/protobuffer-reutilization-new-way-to-security-test-googlecaptcha-b3e0fc6cf7c4
 - https://medium.com/@abhishake100/bypassing-captcha-17c59d37f459
 - https://leigh-annegalloway.com/tumblr/
+- https://andresriancho.com/recaptcha-bypass-via-http-parameter-pollution
