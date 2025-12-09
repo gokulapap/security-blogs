@@ -68,3 +68,4 @@
 - https://0x36.github.io/CVE-2022-32898/
 - https://ssd-disclosure.com/ssd-advisory-linux-config_watch_queue-lpe/
 - https://googleprojectzero.blogspot.com//2022/01/zooming-in-on-zero-click-exploits.html
+- https://ruia-ruia.github.io/2022/08/05/CVE-2022-29582-io-uring/

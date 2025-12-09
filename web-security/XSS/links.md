@@ -300,3 +300,4 @@
 - https://n1ghtmar3.medium.com/chaining-xss-with-authentication-issues-to-turn-it-into-full-account-takeover-ae886ac696bb
 - https://blog.hackenproof.com/customer-stories/hackenproof-customer-story-uklon/
 - https://sites.google.com/securifyinc.com/vrp-writeups/waze/waze-xss
+- https://medium.com/@sahandami/find-xss-in-wide-scope-with-kxss-91f9573883c4

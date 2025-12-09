@@ -17,7 +17,6 @@
 - https://medium.com/@danielmakelley/4-tips-for-new-bug-bounty-hunters-b71c4c6ab5f9, tricks
 - https://medium.com/@ryuukhagetsu/how-i-get-bounty-from-takeover-account-ed17cd838b2a, ATO
 - https://medium.com/@techkalam/execute-mongo-shell-commands-in-javascript-file-862dcf45aad6, tricks
-- https://medium.com/@sahandami/find-xss-in-wide-scope-with-kxss-91f9573883c4, XSS
 - https://medium.com/@nav1n/how-i-got-owned-a-multi-billion-dollar-retailers-mysql-databases-using-simple-sql-injection-30f8b0dfd9ce, sql-injection
 - https://medium.com/@vamshi-vemula/how-i-got-my-first-bounty-open-redirect-80832e5bf4e6, open-redirection
 - https://medium.com/@ssalssa.1.12.2.1.2.1/hacking-wordpress-server-database-f6cc6c116057, cms
@@ -427,7 +426,6 @@
 - https://nokline.github.io/bugbounty/2022/09/02/Glassdoor-Cache-Poisoning.html, Web-cache-poisoning
 - https://medium.com/@xJay/angularjs-client-side-template-injection-the-orderby-filter-20002ca2a0e8, CSTI
 - https://c0nqr0r.medium.com/reading-robots-txt-got-me-4-xss-reports-9fd2234c635f, XSS
-- https://falcon319.medium.com/my-findings-on-hack-u-s-program-43b692a5c057, Missing-authentication
 - https://www.ambionics.io/blog/hacking-watchguard-firewalls, XPath-injection
 - https://joshuaarulsamy.medium.com/my-hall-of-fame-at-united-nations-success-story-97675232aed7, XSS
 - https://blog.nietaanraken.nl/posts/github-pages-command-injection/, RCE
@@ -455,7 +453,6 @@
 - https://onekey.com/blog/advisory-cisco-small-business-rv-series-routers-web-filter-database-update-command-injection-vulnerability/, OS-command-injection
 - http://blog.h4rsh4d.com/2022/08/open-redirect-bypass.html, Open-redirect
 - https://vsrc.vng.com.vn/blog/liferay-revisited-a-tale-of-20k/, RCE
-- https://ruia-ruia.github.io/2022/08/05/CVE-2022-29582-io-uring/, Memory-corruption
 - https://infosecwriteups.com/how-i-was-able-to-get-29-free-products-bug-bounty-845667ab4ad4, Race-condition
 - https://canmustdie.medium.com/multiple-bugs-in-one-program-leads-to-1500-c35fcde06bc7, Privilege-escalation
 - https://medium.com/@the_null_kid/instagram-photo-was-present-in-data-backup-nearly-after-two-years-being-deleted-f0e4d6e108, Privacy-issue
@@ -723,7 +720,6 @@
 - https://ahmdhalabi.medium.com/taking-over-employee-accounts-by-managers-with-zero-employee-interaction-b60784c3ad84, Account-takeover
 - https://medium.com/@viralbhatt100/bypass-google-captcha-parameter-pollution-leads-to-send-email-to-any-user-on-behalf-of-9013aebbabae, HTTP-parameter-pollution
 - https://infosecwriteups.com/how-we-was-able-to-takeover-whole-organization-via-privilege-escalation-4f74b31a84a6, Privilege-escalation
-- https://www.fortbridge.co.uk/research/multiple-vulnerabilities-in-cpanel-whm/, XXE
 - https://infosecwriteups.com/what-is-bola-3-digit-bounty-from-topcoder-a25e7fae0d64, IDOR
 - https://philippeharewood.com/access-to-crowdtangle-deletion-framework-api/, Information-disclosure
 - https://blog.gypsyengineer.com/en/security/detecting-jackson-deserialization-vulnerabilities-with-codeql.html, Insecure-deserialization
@@ -1347,7 +1343,6 @@
 - https://blog.witcoat.com/2018/05/30/account-takeover-and-blind-xss-go-pro-get-bugs/, IDOR
 - https://medium.com/@emenalf/how-i-got-hall-of-fame-in-two-fortune-500-companies-an-rce-story-9c89cead81ff, RCE
 - https://poc-server.com/blog/2018/05/22/rce-by-uploading-a-web-config, RCE
-- https://medium.com/ymedialabs-innovation/an-aws-managed-policy-that-allowed-granting-root-admin-access-to-any-role-51b409ea7ff0, Authorization-flaw
 - https://sites.google.com/site/testsitehacking/-36k-google-app-engine-rce, RCE
 - https://medium.com/@pratheesh.p.narayanan/whatsapp-dos-vulnerability-on-android-ios-web-7628077d21d4, DoS
 - https://medium.com/bugbountywriteup/4500-bounty-how-i-got-lucky-99d8bc933f75, Subdomain-takeover

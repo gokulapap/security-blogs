@@ -112,3 +112,4 @@
 - https://medium.com/@0x01devansh/facebook-bug-sending-messages-as-a-page-with-jobmanager-permission-763dc0d8e32c
 - https://thezerohack.com/hacking-facebook-pages
 - https://notifybugme.medium.com/unauthorized-access-to-admin-setpassword-page-by-bypass-403-forbidden-f10bbb92ab35
+- https://medium.com/ymedialabs-innovation/an-aws-managed-policy-that-allowed-granting-root-admin-access-to-any-role-51b409ea7ff0
