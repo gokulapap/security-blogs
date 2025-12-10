@@ -27,3 +27,4 @@
 - https://tbutler.org/2020/11/01/hinge-hackerone-writeup.html
 - https://haxatron.gitbook.io/vulnerability-research/vr1
 - https://x64.sh/posts/ServiceNow-Insecure-access-control-to-admin/
+- https://bloggerrando.blogspot.com/2022/04/15-1.html

@@ -270,7 +270,6 @@
 - https://www.zerodayinitiative.com/blog/2023/1/18/cve-2022-35690-unauthenticated-rce-in-adobe-coldfusion, RCE
 - https://shahjerry33.medium.com/api-misconfiguration-no-swag-of-swaggerui-9b43135346be, Security-misconfiguration
 - https://semgrep.dev/blog/2022/xml-security-in-java, XXE
-- https://www.dsecbypass.com/en/centreon-map-vulnerability/, Authentication-bypass
 - https://orca.security/resources/blog/ssrf-vulnerabilities-in-four-azure-services/, SSRF
 - https://medium.com/@haroonhameed_76621/dom-based-xss-for-fun-and-profit-bug-bounty-poc-f4b9554e95d, DOM-XSS
 - https://onekey.com/blog/security-advisory-wago-unauthenticated-config-export-vulnerability/, Path-traversal
@@ -342,7 +341,6 @@
 - https://hdwsec.fr/blog/20221109-netgear/, Memory-corruption
 - https://srd.cx/cve-2022-26730/, MacOS
 - https://medium.com/@armandjasharaj/pentest-tales-exif-data-manipulation-b36beb291229, Unrestricted-file-upload
-- https://mr-medi.github.io/research/2022/11/04/practical-client-side-path-traversal-attacks.html, Path-traversal
 - https://medium.com/@omarbakrey90/csrf-leads-to-delete-user-account-fc362078be2f, CSRF
 - https://medium.com/@prathamrajgor/how-i-hacked-into-a-cambridges-server-and-got-appreciation-letter-d19a830756b2, Unrestricted-file-upload
 - https://redsiege.com/blog/2022/11/the-power-of-adaptability-through-experience/, Lateral-movement
@@ -501,7 +499,6 @@
 - https://portswigger.net/research/widespread-prototype-pollution-gadgets, Prototype-pollution
 - https://eaton-works.com/2022/06/20/hacking-into-the-worldwide-jacuzzi-smarttub-network/, SPA
 - https://medium.com/@leomsec/every-xss-is-different-c98528fee5e0, XSS
-- https://codewithvamp.medium.com/account-takeover-by-otp-bypass-ec0cff67f516, Information-disclosure
 - https://www.cyberark.com/resources/threat-research-blog/that-pipe-is-still-leaking-revisiting-the-rdp-named-pipe-vulnerability, RCE
 - https://webs3c.com/t/csrf-leads-to-account-takeover-in-yahoo/93, CSRF
 - https://labs.taszk.io/articles/post/unziploc/, Memory-corruption
@@ -548,7 +545,6 @@
 - https://amit-lt.medium.com/open-redirection-into-bentley-system-d1ee188bfb25, XSS
 - https://systemweakness.com/exploiting-a-file-upload-vulnerability-a-directory-traversal-attack-419308cdb059, Unrestricted-file-upload
 - https://medium.com/pentesternepal/sql-injection-in-harvards-subdomain-c3148f8be156, SQL-injection
-- https://bloggerrando.blogspot.com/2022/04/15-1.html, Broken-Access-Control
 - https://debprasadbanerjee502.medium.com/united-nations-bug-bounty-writeup-4bcfdefbb8d3, Information-disclosure
 - https://medium.com/@_ip_/2-3-xss-through-the-front-door-gitlab-fc4b6799e743, XSS
 - https://securecloud.blog/2022/04/09/msrc-join-security-research-write-up-azure-ad-consent-bypass-disclosure-with-kim-jamia-q1-2022/, Authorization-flaw
@@ -931,7 +927,6 @@
 - https://mazinahmed.net/blog/hacking-zoom/, Information-disclosure
 - https://medium.com/@zseano/the-feature-works-as-intended-but-whats-in-the-source-d29f9401bcf6, Information-disclosure
 - https://medium.com/@jonathanbouman/reflected-xss-at-fotoservice-hema-nl-af344ef63433, Reflected-XSS
-- https://medium.com/@tommysuriel/stored-xss-on-slack-bug-bounty-88fe167d75df, Stored-XSS
 - https://medium.com/@DK999/apache-example-servlet-leads-to-61a2720cac20, Clickjacking
 - https://enumerated.wordpress.com/2020/08/05/the-case-of-the-missing-cache-keys/, Web-cache-poisoning
 - https://medium.com/bugbountywriteup/csrf-poc-mistake-that-broke-crucial-functions-for-the-end-user-victim-ef4fa4584ca8, Logic-flaw

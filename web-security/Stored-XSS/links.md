@@ -121,3 +121,4 @@
 - https://www.bad5ect0r.sh/posts/stored-xss-leads-to-plaintext-password-disclosure/
 - https://aidilarf.medium.com/xss-blind-stored-at-asset-domain-android-apps-tiktok-ae2f4c2dbc07
 - https://wesecureapp.com/blog/how-we-tookover-shopify-accounts-with-one-single-click
+- https://medium.com/@tommysuriel/stored-xss-on-slack-bug-bounty-88fe167d75df

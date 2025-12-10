@@ -276,3 +276,4 @@
 - http://carnal0wnage.attackresearch.com/2020/03/what-is-your-gcp-infra-worthabout-700.html
 - https://ysamm.com/?p=458
 - https://web.archive.org/web/20200821010435/https://medium.com/@Alone_Wwolf/how-i-was-able-to-bypass-email-confirm-p4-e17af66a4eb0
+- https://codewithvamp.medium.com/account-takeover-by-otp-bypass-ec0cff67f516
