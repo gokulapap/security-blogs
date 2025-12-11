@@ -77,3 +77,4 @@
 - https://xp.ht/oauth-authentication-bypass-on-airbnb-acquisition-using-weird-1-char-open-redirect/
 - https://medium.com/@vedanttekale20/how-recon-helped-me-to-find-an-interesting-bug-17a2d8cf1778
 - https://medium.com/bugbountywriteup/open-redirect-developers-are-lazy-or-maybe-busy-6c51718b10e4
+- https://medium.com/@rodricbr/from-open-redirect-to-reflected-xss-manually-64e633a3d23f

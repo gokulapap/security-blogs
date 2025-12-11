@@ -279,3 +279,4 @@
 - https://devco.re/blog/2023/07/07/a-journey-into-hacking-google-search-appliance-en/
 - https://mmmds.pl/cyberghostvpn-mitm-rce-lpe/
 - https://pwning.re/2018/12/04/github-desktop-rce/
+- https://blog.ryotak.me/post/cdnjs-remote-code-execution-en/

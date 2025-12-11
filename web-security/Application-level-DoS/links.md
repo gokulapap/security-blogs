@@ -4,3 +4,4 @@
 - https://medium.com/@lokesh.leads13/disallow-any-hackerone-user-permanent-access-to-his-her-own-hackerone-account-using-vulnerability-147ce9957692
 - https://medium.com/@tobydavenn/how-i-got-my-first-cve-a157606cc86e
 - https://infosecwriteups.com/crashing-your-linkedin-app-with-a-connection-request-257f9b484550
+- https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/vulnerability-causing-deletion-of-all-users-in-crushftp-admin-area/

@@ -2,3 +2,4 @@
 - https://medium.com/@thevillagehacker/account-take-over-due-to-no-rate-limitation-433bd7449aca
 - https://medium.com/@sapt/breaking-reset-password-logic-to-get-account-takeover-without-user-interaction-f241fefe12e7
 - https://medium.com/@vflexo/full-account-takeover-via-open-redirection-41c167db46
+- https://medium.com/@vikramroot/account-takeover-via-stored-xss-b774f7a2a3ab
