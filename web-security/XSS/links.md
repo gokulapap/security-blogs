@@ -301,3 +301,4 @@
 - https://blog.hackenproof.com/customer-stories/hackenproof-customer-story-uklon/
 - https://sites.google.com/securifyinc.com/vrp-writeups/waze/waze-xss
 - https://medium.com/@sahandami/find-xss-in-wide-scope-with-kxss-91f9573883c4
+- https://maustin.net/articles/2010-07/facebook_fbml_xss

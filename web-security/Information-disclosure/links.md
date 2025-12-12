@@ -277,3 +277,4 @@
 - https://ysamm.com/?p=458
 - https://web.archive.org/web/20200821010435/https://medium.com/@Alone_Wwolf/how-i-was-able-to-bypass-email-confirm-p4-e17af66a4eb0
 - https://codewithvamp.medium.com/account-takeover-by-otp-bypass-ec0cff67f516
+- https://medium.com/@ahmedasherif/accessing-voip-internal-service-via-port-8009-routing-traffic-through-local-apache-proxy-54a4ff539c5f
