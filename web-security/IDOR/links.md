@@ -254,3 +254,4 @@
 - https://medium.com/@kedrisec/publish-tweets-by-any-other-user-6c9d892708e3
 - https://blog.evanricafort.com/2021/02/idor-in-redacted.html
 - https://medium.com/@UpdateLap/idor-facebook-malicious-person-add-people-to-the-top-fans-4f1887aad85a
+- https://infosecwriteups.com/an-idor-vulnerability-often-hides-many-others-2893ddd0a0d7

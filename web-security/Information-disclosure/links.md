@@ -278,3 +278,5 @@
 - https://web.archive.org/web/20200821010435/https://medium.com/@Alone_Wwolf/how-i-was-able-to-bypass-email-confirm-p4-e17af66a4eb0
 - https://codewithvamp.medium.com/account-takeover-by-otp-bypass-ec0cff67f516
 - https://medium.com/@ahmedasherif/accessing-voip-internal-service-via-port-8009-routing-traffic-through-local-apache-proxy-54a4ff539c5f
+- https://cyberguy0xd1.medium.com/how-i-hacked-bbc-mail-servers-e61bb6faed2d
+- https://infosecwriteups.com/abusing-url-shortners-for-fun-and-profit-c83c67713916

@@ -280,3 +280,4 @@
 - https://mmmds.pl/cyberghostvpn-mitm-rce-lpe/
 - https://pwning.re/2018/12/04/github-desktop-rce/
 - https://blog.ryotak.me/post/cdnjs-remote-code-execution-en/
+- https://medium.com/realmodelabs/kindledrip-from-your-kindles-email-address-to-using-your-credit-card-bb93dbfb2a08

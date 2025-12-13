@@ -2,3 +2,4 @@
 - https://www.intruder.io/research/server-side-prototype-pollution
 - https://mizu.re/post/ejs-server-side-prototype-pollution-gadgets-to-rce
 - https://portswigger.net/research/exploiting-prototype-pollution-in-node-without-the-filesystem
+- https://blog.yeswehack.com/talent-development/server-side-prototype-pollution-how-to-detect-and-exploit/
