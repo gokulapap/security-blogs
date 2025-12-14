@@ -1,1 +1,2 @@
 - https://medium.com/@pravinponnusamy/secure-code-review-and-sql-injection-d8a1a6da3d67
+- https://medium.com/@vickieli/scanning-for-secrets-in-source-code-9fcb486f8c0e

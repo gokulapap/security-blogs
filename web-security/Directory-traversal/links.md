@@ -1,1 +1,2 @@
 - https://xkurtph.medium.com/how-i-access-other-domains-in-infinityfree-net-using-directory-traversal-4625692d6a2d
+- https://blog.assetnote.io/2022/05/03/hacking-a-bank-using-dotcms-rce/

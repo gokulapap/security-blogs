@@ -80,3 +80,4 @@
 - https://systemweakness.com/give-me-a-browser-ill-give-you-a-shell-de19811defa0
 - https://github.com/Wh04m1001/SysmonEoP
 - https://www.horizon3.ai/veeam-backup-and-replication-cve-2023-27532-deep-dive/
+- https://www.ns-echo.com/posts/cve_2023_33298.html

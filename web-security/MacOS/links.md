@@ -7,3 +7,4 @@
 - https://www.trendmicro.com/en_us/research/22/l/diving-into-an-old-exploit-chain-and-discovering-3-new-sip-bypas.html
 - https://medium.com/@metnew/exploiting-popular-macos-apps-with-a-single-terminal-file-f6c2efdfedaa
 - https://www.paulosyibelo.com/2021/04/this-man-thought-opening-txt-file-is.html
+- https://srd.cx/cve-2022-26730/
