@@ -280,3 +280,4 @@
 - https://medium.com/@ahmedasherif/accessing-voip-internal-service-via-port-8009-routing-traffic-through-local-apache-proxy-54a4ff539c5f
 - https://cyberguy0xd1.medium.com/how-i-hacked-bbc-mail-servers-e61bb6faed2d
 - https://infosecwriteups.com/abusing-url-shortners-for-fun-and-profit-c83c67713916
+- https://medium.com/bugbountywriteup/how-i-earned-5040-from-twitter-by-showing-a-way-to-harvest-other-users-ip-address-e9f43c931e9a

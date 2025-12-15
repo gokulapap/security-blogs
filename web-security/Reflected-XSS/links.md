@@ -101,3 +101,4 @@
 - https://medium.com/@fbotes2/try-harder-for-xss-7aa3657255a1
 - https://amit-lt.medium.com/multiple-times-i-hacked-duke-university-with-rxss-vulnerability-7e291aad043a
 - https://mostafa-mano.medium.com/2-reflected-xss-in-razer-74783ae5ee53
+- https://blog.assetnote.io/2023/06/29/binary-reversing-citrix-xss/

@@ -255,3 +255,4 @@
 - https://blog.evanricafort.com/2021/02/idor-in-redacted.html
 - https://medium.com/@UpdateLap/idor-facebook-malicious-person-add-people-to-the-top-fans-4f1887aad85a
 - https://infosecwriteups.com/an-idor-vulnerability-often-hides-many-others-2893ddd0a0d7
+- https://infosecwriteups.com/how-i-found-a-critical-bug-in-instagram-and-got-49500-bounty-from-facebook-626ff2c6a853

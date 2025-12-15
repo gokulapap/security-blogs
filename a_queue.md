@@ -98,7 +98,6 @@
 - https://medium.com/@M0X0101/how-i-was-able-to-get-account-takeover-via-insecure-data-storage-and-webview-with-exported-activity-5308a330ab80, Account-takeover
 - https://www.ghostccamm.com/blog/multi_cockpit_vulns/, CSRF
 - https://medium.com/@jonathanbouman/laravel-debug-mode-left-on-at-zouikwatzeggen-nl-948a7365409f, Debug-mode-enabled
-- https://blog.assetnote.io/2023/06/29/binary-reversing-citrix-xss/, Reflected-XSS
 - https://medium.com/@ahmedelmorsy312/weakness-of-integration-bce1520ba672, Logic-flaw
 - https://www.sonarsource.com/blog/why-orms-and-prepared-statements-cant-always-win/, SQL-injection
 - https://www.synacktiv.com/sites/default/files/2023-06/synacktiv-ucopia-multiple-vulnerabilities-2022.pdf, Security-misconfiguration
@@ -483,7 +482,6 @@
 - https://curl.se/docs/CVE-2022-32207.html, Improper-Preservation-of-Permissions
 - https://curl.se/docs/CVE-2022-32205.html, DoS
 - https://peterjson.medium.com/miracle-one-vulnerability-to-rule-them-all-c3aed9edeea2, Insecure-deserialization
-- https://blog.viettelcybersecurity.com/pwn2own-2021-microsoft-exchange-exploit-chain/, SSRF
 - https://medium.com/@tobydavenn/1500-of-broken-access-controls-503d8a5f56f5, Broken-Access-Control
 - https://portswigger.net/research/widespread-prototype-pollution-gadgets, Prototype-pollution
 - https://eaton-works.com/2022/06/20/hacking-into-the-worldwide-jacuzzi-smarttub-network/, SPA
@@ -495,7 +493,6 @@
 - https://portswigger.net/research/bypassing-csp-with-dangling-iframes, CSP-bypass
 - https://medium.com/@janijay007/how-i-was-able-to-see-likes-and-dislikes-count-which-is-hidden-by-victim-youtube-1-fa9cfe7cce7d, Logic-flaw
 - https://medium.com/tenable-techblog/microsoft-azure-synapse-pwnalytics-87c99c036291, Privilege-escalation
-- https://infosecwriteups.com/how-i-found-a-critical-bug-in-instagram-and-got-49500-bounty-from-facebook-626ff2c6a853, IDOR
 - https://security.humanativaspa.it/multiple-vulnerabilities-in-zyxel-zysh/, OS-command-injection
 - https://machevalia.blog/blog/ivanti-epm-remote-code-execution, RCE
 - https://www.zerodayinitiative.com/blog/2022/6/1/is-exploiting-a-null-pointer-deref-for-lpe-just-a-pipe-dream, Memory-corruption
@@ -1237,7 +1234,6 @@
 - https://blog.securitybreached.org/2018/12/08/how-i-was-able-to-bypass-email-verification/, Information-disclosure
 - https://dylankatz.com/digging-in-to-scp-command-injection/, OS-command-injection
 - http://zhchbin.github.io/2018/12/03/Hijack-the-JS-File-of-Uber-s-Website/, JS-file-hijacking
-- https://chainlover.blogspot.com/2018/11/love-story-of-account-takeover-chaining.html, Host-header-injection
 - https://medium.com/@yassergersy/exploiting-post-message-to-steal-users-cookies-7df43a00289a, postMessage
 - https://web.archive.org/web/20191221105442/https://medium.com/bugbountywriteup/broken-authentication-bug-bounty-5c941a4a5f48, Session-management-issue
 - https://medium.com/@vishnu0002/instagram-multi-factor-authentication-bypass-924d963325a1, MFA-bypass
@@ -1249,7 +1245,6 @@
 - https://medium.com/@maxpasqua/breaking-appointments-and-job-interview-schedules-with-malformed-times-edef103e46ba, DoS
 - https://mike-n1.github.io/Chain_XSS, DOM-XSS
 - https://apapedulimu.click/clickjacking-on-google-myaccount-worth-7500/, Clickjacking
-- https://medium.com/bugbountywriteup/how-i-earned-5040-from-twitter-by-showing-a-way-to-harvest-other-users-ip-address-e9f43c931e9a, Information-disclosure
 - https://medium.com/bugbountywriteup/duplicate-but-still-cool-236835685075, IDOR
 - https://medium.com/@kunal94/imagemagick-gif-coder-vulnerability-leads-to-memory-disclosure-hackerone-e9975a6a560e, Memory-leak
 - https://medium.com/bugbountywriteup/stored-xss-in-bug-bounty-13c08e6f5636, Stored-XSS
