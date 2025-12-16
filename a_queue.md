@@ -305,7 +305,6 @@
 - https://onekey.com/blog/security-advisory-asus-m25-nas-vulnerability/, OS-command-injection
 - https://www.rcesecurity.com/2022/12/from-zero-to-hero-part-2-intel-dcm-sql-injection-to-rce-cve-2022-21225/, SQL-injection
 - https://abhishekmorla.medium.com/bypassing-the-client-side-encryption-to-read-internal-windows-server-files-e832da8b4ac8, Client-side-encryption-bypass
-- https://medium.com/@Hossam.Mesbah/broken-access-control-misconfiguration-beautiful-privilege-escalation-e4fdfd018efa, Broken-Access-Control
 - https://medium.com/@aa.pietruczuk/improper-error-handling-leads-to-exposing-internal-tokens-3355d6b43a32, Information-disclosure
 - https://infosecwriteups.com/unique-rate-limit-bypass-worth-1800-6e2947c7d972, Rate-limiting-bypass
 - https://bhashit.in/?p=117, OS-command-injection
@@ -367,7 +366,6 @@
 - https://www.pentagrid.ch/de/blog/reflected-xss-vulnerability-in-crealogix-ebics-implementation/, Reflected-XSS
 - https://nmochea.medium.com/gcash-vulnerability-walkthrough-c7c938163dfb, Android
 - https://www.synacktiv.com/publications/persistent-php-payloads-in-pngs-how-to-inject-php-code-in-an-image-and-keep-it-there.html, Unrestricted-file-upload
-- https://medium.com/stolabs/cve-2022-36635-a-sql-injection-in-zksecuritybio-to-rce-c5bde2962d47, SQL-injection
 - https://tantosec.com/blog/cve-2022-41343/, RCE
 - https://c0nqr0r.medium.com/error-based-sql-injection-with-waf-bypass-manual-exploit-100-bab36b769005, SQL-injection
 - https://itnext.io/a-deep-dive-of-cve-2022-33987-got-allows-a-redirect-to-a-unix-socket-cdeed53944f7, SSRF
@@ -653,7 +651,6 @@
 - https://web.archive.org/web/20221128060608/https://wya.pl/2021/10/18/shells-and-soap-websphere-deserialization-to-rce/, RCE
 - https://muhammad-aamir.medium.com/exploitation-of-files-download-parameters-to-create-potential-risk-of-malware-delivery-200-bug-e2bcce0e737, CSRF
 - https://omespino.com/write-up-google-vrp-n-a-arbitrary-local-file-read-macos-via-a-tag-and-null-byte-in-google-earth-pro-desktop-app/, Local-File-Read
-- https://medium.com/cider-sec/bypassing-required-reviews-using-github-actions-6e1b29135cc7, Privilege-escalation
 - https://medium.com/@mehdi.alouache/eset-endpoint-security-credentials-theft-90082dfdf474, Credentials-sent-over-unencrypted-channel
 - https://realkeyboardwarrior.github.io/security/2021/10/11/hacking-youtube.html, Logic-flaw
 - https://mhmdiaa.com/blog/exploiting-html-imports/, XSS
@@ -936,7 +933,6 @@
 - https://medium.com/@nandwanajatin25/self-stored-xss-to-full-account-takeover-fe8e71471795, XSS
 - https://medium.com/@letssimplysecure/bug-bounty-experience-unvalidated-redirection-vulnerability-eed40d91da27, Open-redirect
 - https://medium.com/@sp2417487/a-tale-of-critical-account-take-over-e1b7c180917c, Account-takeover
-- https://medium.com/@ben.aymen.182/phone-number-validation-bypass-through-url-path-manipulation-c03721cf3676, OTP-bypass
 - https://medium.com/bugbountywriteup/dont-stop-at-one-bug-d3c56806b5, Open-redirect
 - https://blog.securityevaluators.com/tenda-ac1900-vulnerabilities-discovered-and-exploited-e8e26aa0bc68, CSRF
 - https://philippeharewood.com/see-whether-a-hackercup-facebook-participant-allows-recruitment-contact/, Information-disclosure
@@ -981,7 +977,6 @@
 - https://medium.com/@win3zz/how-i-made-31500-by-submitting-a-bug-to-facebook-d31bb046e204, SSRF
 - https://f4d3.io/xxe_wild/, XXE
 - https://medium.com/@secureITmania/weird-subdomain-take-over-pattern-of-amazon-s3-75165ab2e883, Subdomain-takeover
-- https://medium.com/@sudipshah_66336/the-story-of-my-first-xxx-bug-bounty-from-facebook-565a212c94ad, Logic-flaw
 - https://ezqelusia.blogspot.com/2020/05/microsofts-first-bug.html, Memory-corruption
 - https://medium.com/bugbountywriteup/weak-cryptography-leads-to-open-redirect-3fe052c12995, Open-redirect
 - https://blog.raphael.karger.is/articles/2020-05/CVE-2020-13693, Privilege-escalation

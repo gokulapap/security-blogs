@@ -28,3 +28,4 @@
 - https://haxatron.gitbook.io/vulnerability-research/vr1
 - https://x64.sh/posts/ServiceNow-Insecure-access-control-to-admin/
 - https://bloggerrando.blogspot.com/2022/04/15-1.html
+- https://medium.com/@Hossam.Mesbah/broken-access-control-misconfiguration-beautiful-privilege-escalation-e4fdfd018efa
