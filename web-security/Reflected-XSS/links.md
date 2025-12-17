@@ -102,3 +102,5 @@
 - https://amit-lt.medium.com/multiple-times-i-hacked-duke-university-with-rxss-vulnerability-7e291aad043a
 - https://mostafa-mano.medium.com/2-reflected-xss-in-razer-74783ae5ee53
 - https://blog.assetnote.io/2023/06/29/binary-reversing-citrix-xss/
+- https://www.pentagrid.ch/de/blog/reflected-xss-vulnerability-in-crealogix-ebics-implementation/
+- https://visat.me/security/reflected-xss-in-tokopedia-train-ticket/

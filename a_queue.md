@@ -26,7 +26,6 @@
 - https://medium.com/@terjanq/clobbering-the-clobbered-advanced-dom-clobbering-8443547ebe94, misc
 - https://medium.com/@0xinfosec/cloudfare-xss-bypass-improper-csrf-token-leads-to-account-takeover-of-victim-account-b795fa429fc3, XSS
 - https://medium.com/@notifybugme/how-i-was-able-find-mass-leaked-aws-s3-bucket-from-js-file-6064a5c247f8, info-disclosure
-- https://medium.com/@abdulparkar9554/how-i-found-stored-xss-html-injection-vulnerability-on-microsoft-6b8682c03680, html-injection
 - https://medium.com/@toxglot/hacking-a-company-from-a-phone-478bbfed04c8, journey
 - https://medium.com/@tommasobona04/building-an-xss-scanner-with-python-detecting-cross-site-scripting-vulnerabilities-by-tommaso-69d4c9e04d72, automation
 - https://medium.com/@deepamkumar510/remote-code-execution-rce-through-file-upload-functionality-1809bd504805, RCE
@@ -363,13 +362,11 @@
 - https://mr23r0.medium.com/code-flaws-leads-to-org-admin-account-takeover-ad9515a96eab, Privilege-escalation
 - https://www.oxeye.io/blog/vm2-sandbreak-vulnerability-cve-2022-36067, RCE
 - https://medium.com/@protostar0/hacking-banks-broken-access-control-vulnerability-in-banking-application-part-i-c442ed5ae170, Broken-Access-Control
-- https://www.pentagrid.ch/de/blog/reflected-xss-vulnerability-in-crealogix-ebics-implementation/, Reflected-XSS
 - https://nmochea.medium.com/gcash-vulnerability-walkthrough-c7c938163dfb, Android
 - https://www.synacktiv.com/publications/persistent-php-payloads-in-pngs-how-to-inject-php-code-in-an-image-and-keep-it-there.html, Unrestricted-file-upload
 - https://tantosec.com/blog/cve-2022-41343/, RCE
 - https://c0nqr0r.medium.com/error-based-sql-injection-with-waf-bypass-manual-exploit-100-bab36b769005, SQL-injection
 - https://itnext.io/a-deep-dive-of-cve-2022-33987-got-allows-a-redirect-to-a-unix-socket-cdeed53944f7, SSRF
-- https://pseudorandom.resistant.tech/disclosing-security-and-privacy-issues-in-thunderbird.html, Privacy-issue
 - https://blog.bricked.tech/posts/tmnf/part1/, RCE
 - https://medium.com/@nireshpandian19/my-first-and-second-bugs-are-2fa-bypass-1f6fd823b467, MFA-bypass
 - https://medium.com/@bug_vs_me/csrf-attack-0-click-account-delete-1st-write-up-3d67b267b931, CSRF
@@ -1134,7 +1131,6 @@
 - https://medium.com/@dr.spitfire/sensitive-information-disclosure-web-cache-deception-attack-bcac6cb9cd86?sk=a2557f0c557ff38876141c2d94b296dd, Information-disclosure
 - https://medium.com/@saadahmedx/self-xss-to-evil-xss-bcf2494a82a4, XSS
 - https://medium.com/@osamaavvan/account-taker-with-clickjacking-ace744842ec3, Clickjacking
-- https://visat.me/security/reflected-xss-in-tokopedia-train-ticket/, Reflected-XSS
 - https://medium.com/@Vibhurushi_Chotaliya/password-bypass-and-something-else-cded0847c9df, Authentication-bypass
 - https://medium.com/@saadahmedx/complete-web-server-access-46d19279a2b, Unrestricted-file-upload
 - https://medium.com/@saadahmedx/idor-account-takeover-1ff5a2d03b8b, IDOR
@@ -1355,7 +1351,6 @@
 - https://corben.io/blog/17-12-17-hackertarget, SSRF
 - https://medium.com/@maxon3/lfi-to-command-execution-deutche-telekom-bug-bounty-6fe0de7df7a6, LFI
 - https://corben.io/blog/17-11-27-tricky-CORS, CORS-misconfiguration
-- https://medium.com/@malcolmx0x/story-of-bypassing-referer-header-to-make-open-redirect-94f938b9d032, Open-redirect
 - https://medium.com/@honcbb/amazon-bypass-open-redirect-12609c879dff, Open-redirect
 - https://medium.com/bugbountywriteup/account-take-over-vulnerability-in-google-acquisition-famebit-e93b1a0a7af9, CSRF
 - http://www.digitalmunition.com/WhyIWalkedFrom3k.pdf, AWS-misconfiguration
