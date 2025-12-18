@@ -1,4 +1,3 @@
-- https://medium.com/@gandhim373/5-get-easy-bounty-how-to-exploit-xmlrpc-php-8e47f2604923, tricks
 - https://medium.com/@gupta-bless/basics-of-source-code-review-4c263652202, source-code-review
 - https://medium.com/@jenishpanchal514/account-takeover-via-response-manipulation-otp-brute-force-b965fc1b7a37, ATO
 - https://medium.com/@diegotellaroli05/account-takeover-in-chatgpt-e134ed11654d, ATO
@@ -696,11 +695,9 @@
 - https://infosecwriteups.com/what-is-bola-3-digit-bounty-from-topcoder-a25e7fae0d64, IDOR
 - https://philippeharewood.com/access-to-crowdtangle-deletion-framework-api/, Information-disclosure
 - https://blog.gypsyengineer.com/en/security/detecting-jackson-deserialization-vulnerabilities-with-codeql.html, Insecure-deserialization
-- https://blog.azuki.vip/csrf/, CSRF
 - https://coffeejunkie.me/Blind-XXE-Port-Scanning/, XXE
 - https://medium.com/@mumeido/from-hobby-to-hacking-5d8befb3adde, Unrestricted-file-upload
 - https://medium.com/@muhammadsholikhin/facebook-vulnerability-expose-group-member-3000-cca809a53f6b, IDOR
-- https://blog.niksthehacker.com/xxe-in-public-transport-ticketing-mobile-app-81ae245c01a1, XXE
 - https://3bodymo.medium.com/how-i-earned-by-amazon-s3-bucket-misconfigurations-29d51ee510de, AWS-misconfiguration
 - https://medium.com/pentesternepal/how-i-found-a-bug-in-apple-within-just-in-5min-d7357237d7a0, XSS
 - https://blog.0xffff.info/2021/07/24/ebay-xss-demo-and-guide-to-spear-phishing/, XSS
@@ -1352,7 +1349,6 @@
 - https://medium.com/@maxon3/lfi-to-command-execution-deutche-telekom-bug-bounty-6fe0de7df7a6, LFI
 - https://corben.io/blog/17-11-27-tricky-CORS, CORS-misconfiguration
 - https://medium.com/@honcbb/amazon-bypass-open-redirect-12609c879dff, Open-redirect
-- https://medium.com/bugbountywriteup/account-take-over-vulnerability-in-google-acquisition-famebit-e93b1a0a7af9, CSRF
 - http://www.digitalmunition.com/WhyIWalkedFrom3k.pdf, AWS-misconfiguration
 - https://zseano.medium.com/how-signing-up-for-an-account-with-an-company-com-email-can-have-unexpected-results-7f1b700976f5, Logic-flaw
 - https://medium.com/@abdelfattahibrahim/from-recon-to-dom-based-xss-f279602a14cf, DOM-XSS
@@ -1431,7 +1427,6 @@
 - https://blog.includesecurity.com/2014/02/how-i-was-able-to-track-the-location-of-any-tinder-user/, Information-disclosure
 - https://bitquark.co.uk/blog/2013/12/30/google_sites_a_tale_of_five_vulnerabilities, XSS
 - http://blog.shashank.co/2013/12/imgur-xss.html, XSS
-- https://maustin.net/articles/2013-12/flickr_xss, XSS
 - http://blog.shashank.co/2013/12/heroku-directory-transversal.html, Path-traversal
 - https://www.rcesecurity.com/2013/09/paypal-bug-bounty-paypaltech-com-e-mail-injection/, Email-injection
 - https://arulkumar.in/delete-any-photo-from-facebook-by-exploiting-support-dashboard, IDOR

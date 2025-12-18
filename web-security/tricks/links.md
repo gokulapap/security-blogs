@@ -1,2 +1,3 @@
 - https://medium.com/@Steiner254/bounty-in-less-3-minutes-from-a-google-dork-54bd9bf3a650
 - https://medium.com/@gandhim373/new-way-to-find-html-injection-get-easy-bounty-65fdd319d688
+- https://medium.com/@gandhim373/5-get-easy-bounty-how-to-exploit-xmlrpc-php-8e47f2604923

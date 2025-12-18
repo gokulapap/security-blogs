@@ -99,3 +99,5 @@
 - https://blog.ayoubaitelmokhtar.com/2018/06/paypal-bbp-i-couldve-deleted-all-smc.html
 - https://7h3h4ckv157.medium.com/unveiling-the-secrets-my-journey-of-hacking-googles-oss-cdd9ef3c7aa
 - https://www.ash-king.co.uk/blog/abusing-Facebooks-call-to-action-to-launch-internal-deeplinks
+- https://medium.com/bugbountywriteup/account-take-over-vulnerability-in-google-acquisition-famebit-e93b1a0a7af9
+- https://blog.azuki.vip/csrf/
