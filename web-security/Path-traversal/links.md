@@ -33,3 +33,4 @@
 - https://mshibilmp.medium.com/how-i-earned-for-excessive-data-exposure-through-directory-traversal-leads-to-product-price-4582e5371774
 - https://www.secjuice.cz0idsecom/breaking-parser-logic-gain-access-to-nginx-plus-api-read-write-upstreams/
 - https://mr-medi.github.io/research/2022/11/04/practical-client-side-path-traversal-attacks.html
+- https://labs.hakaioffsec.com/nginx-alias-traversal/

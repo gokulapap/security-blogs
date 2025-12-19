@@ -101,3 +101,4 @@
 - https://www.ash-king.co.uk/blog/abusing-Facebooks-call-to-action-to-launch-internal-deeplinks
 - https://medium.com/bugbountywriteup/account-take-over-vulnerability-in-google-acquisition-famebit-e93b1a0a7af9
 - https://blog.azuki.vip/csrf/
+- https://blog.stazot.com/stealing-google-drive-oauth-tokens-from-dropbox/
