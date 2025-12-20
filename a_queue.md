@@ -655,7 +655,6 @@
 - https://sapt.medium.com/bypassing-403-protection-to-get-pagespeed-admin-access-822fab64c0b3, 403-bypass
 - https://rishuranjanofficial.medium.com/html-injection-in-itunesconnect-apple-com-3f8a898f21ee, HTML-injection
 - https://blog.tint0.com/2021/09/pinging-xmlsec.html, XSLT
-- https://ysamm.com/?p=729, Account-takeover
 - https://dewcode.medium.com/force-browsing-bug-at-facebook-business-plan-500-bounty-73d1bb4883af, Authorization-flaw
 - https://medium.com/@bobbyrsec/zero-day-hijacking-icloud-credentials-with-apple-airtags-stored-xss-6997da43a216, Stored-XSS
 - https://habr.com/en/post/579714/, Information-disclosure
@@ -864,7 +863,6 @@
 - https://blog.dixitaditya.com/leveraging-xss-to-read-internal-files/, XSS
 - https://medium.com/@parasarora06/cve-2018-5230-jira-cross-site-scripting-59ec96b3d75f, Reflected-XSS
 - https://praseudo.com/sensitive-info-leak-in-curve-app-bug-bounty/, Information-disclosure
-- https://ninetyn1ne.github.io/2020-10-05-open-redir-to-ato/, Path-traversal
 - https://medium.com/@vasuyadav0786/exploiting-payment-gateways-97ce7af5a9cf, Payment-tampering
 - https://medium.com/@harshtya9i/journey-of-my-first-bug-bounty-nov-2018-af471c21efc0, Authentication-bypass
 - https://medium.com/@amineaboud/story-of-a-weird-vulnerability-i-found-on-facebook-fc0875eb5125, Authentication-bypass
@@ -978,7 +976,6 @@
 - https://healdb.tech/blog/teradici.html, Missing-authentication
 - https://medium.com/csis-techblog/cve-2020-1088-yet-another-arbitrary-delete-eop-a00b97d8c3e2, Local-Privilege-Escalation
 - https://web.archive.org/web/20200616051351/https://hazana.xyz/posts/cors-blimey/, CORS-misconfiguration
-- https://medium.com/@bilalmerokhel/chained-bugs-account-takeover-ceff67d1d55a, IDOR
 - https://medium.com/@talatmehmood1995/bug-bounty-advanced-manual-penetration-testing-leading-to-price-manipulation-vulnerability-d935a3a5ddf6, Payment-tampering
 - https://embracethered.com/blog/posts/2020/mozilla-bug-bounty-credential-hunt-phabricator-token/, Information-disclosure
 - https://bugwriteups.tech/bug-bounty-write-up-lucky-vulnerability, SQL-injection
@@ -1085,7 +1082,6 @@
 - https://medium.com/@Skylinearafat/how-to-look-for-js-files-vulnerability-for-fun-and-profit-78bfdfbd6731, Information-disclosure
 - https://gauravnarwani.com/cookie-worth-a-fortune/, Reflected-XSS
 - https://www.updatelap.com/2019/08/Rights-Manager-Graph-API-Disclosure-of-business-employee-to-non-business-employee.html, Information-disclosure
-- https://bugbountypoc.com/instagram-account-is-reactivated-without-entering-2fa/, MFA-bypass
 - https://medium.com/@aayushpokhrel/how-i-made-my-first-from-finding-a-bug-in-facebook-da3b11e550f0, Authorization-flaw
 - https://medium.com/@iframe_h1/how-i-upgraded-my-privileges-to-the-administrator-of-odnoklassnikis-url-shortener-2c58f996d02c, Privilege-escalation
 - https://medium.com/@ar_arvind/facebook-bug-bounty-reading-whatsapp-contacts-list-without-unlocking-the-device-a40e9c660a42, Authorization-flaw
@@ -1093,7 +1089,6 @@
 - https://ninadmathpati.com/how-i-was-able-to-earn-1000-with-just-10-minutes-of-bug-bounty/, Password-reset
 - https://medium.com/@rohitcoder/bypassing-fix-of-domain-blocking-feature-in-business-manager-41949a18460c, Authorization-flaw
 - https://medium.com/@ronak_9889/privilege-escalation-using-api-endpoint-fce841caaff3, Privilege-escalation
-- https://medium.com/@protostar0/crlf-injection-allow-cookie-injection-in-root-domain-xss-812cd807ba5b, CRLF-injection
 - http://mahmoudsec.blogspot.com/2019/08/exploiting-out-of-band-xxe-using.html, XXE
 - https://learn.hackersid.com/2019/08/stored-xss-on-laporbugid.html, Stored-XSS
 - https://medium.com/@aniltom/https-medium-com-aniltom-from-sub-domain-takeover-to-open-redirect-b5be4906e1a4, Subdomain-takeover

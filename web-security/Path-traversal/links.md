@@ -34,3 +34,4 @@
 - https://www.secjuice.cz0idsecom/breaking-parser-logic-gain-access-to-nginx-plus-api-read-write-upstreams/
 - https://mr-medi.github.io/research/2022/11/04/practical-client-side-path-traversal-attacks.html
 - https://labs.hakaioffsec.com/nginx-alias-traversal/
+- https://ninetyn1ne.github.io/2020-10-05-open-redir-to-ato/

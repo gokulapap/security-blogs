@@ -106,3 +106,4 @@
 - https://vitorfalcao.com/posts/simple-bugs/password-changing-to-ato/
 - https://medium.com/bugbountywriteup/weak-cryptography-in-password-reset-to-full-account-takeover-fc61c75b36b9
 - https://medium.com/@rikeshbaniyaaa/how-i-was-able-to-do-mass-account-takeover-bug-bounty-b279af1ce62b
+- https://ysamm.com/?p=729

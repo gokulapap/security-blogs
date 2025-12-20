@@ -25,3 +25,4 @@
 - https://medium.com/@aungpyaehackeronetester/two-factor-authentication-bypass-50-5b397e68cfed
 - https://abdulsec.medium.com/mfa-bypass-in-private-program-the-abdulsec-way-f677fea209f7
 - https://gauravnarwani.com/two-factor-authentication-bypass/
+- https://bugbountypoc.com/instagram-account-is-reactivated-without-entering-2fa/
