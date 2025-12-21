@@ -135,3 +135,4 @@
 - https://medium.com/@tobydavenn/the-tale-of-ssrf-to-rce-on-gov-domain-191185b32b37
 - https://github.com/cloudflare/odoh-server-go/issues/30
 - https://blog.viettelcybersecurity.com/pwn2own-2021-microsoft-exchange-exploit-chain/
+- https://web.archive.org/web/20210117211634/https://kurtikleiton.medium.com/blind-ssrf-on-coda-io-c7063f304455

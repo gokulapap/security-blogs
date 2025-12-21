@@ -257,3 +257,4 @@
 - https://infosecwriteups.com/an-idor-vulnerability-often-hides-many-others-2893ddd0a0d7
 - https://infosecwriteups.com/how-i-found-a-critical-bug-in-instagram-and-got-49500-bounty-from-facebook-626ff2c6a853
 - https://medium.com/@bilalmerokhel/chained-bugs-account-takeover-ceff67d1d55a
+- https://medium.com/@balook/idor-in-google-datastudio-google-com-f2fa51b763de

@@ -36,3 +36,4 @@
 - https://kuldeep.io/posts/fulldisclosure-dom-based-xss/
 - https://acut3.github.io/bug-bounty/2023/01/03/fetch-diversion.html
 - https://embracethered.com/blog/posts/2020/aws-xss-cross-site-scripting-vulnerability/
+- https://medium.com/@haroonhameed_76621/dom-based-xss-for-fun-and-profit-bug-bounty-poc-f4b9554e95d

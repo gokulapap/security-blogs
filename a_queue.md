@@ -96,7 +96,6 @@
 - https://www.ghostccamm.com/blog/multi_cockpit_vulns/, CSRF
 - https://medium.com/@jonathanbouman/laravel-debug-mode-left-on-at-zouikwatzeggen-nl-948a7365409f, Debug-mode-enabled
 - https://medium.com/@ahmedelmorsy312/weakness-of-integration-bce1520ba672, Logic-flaw
-- https://www.sonarsource.com/blog/why-orms-and-prepared-statements-cant-always-win/, SQL-injection
 - https://www.synacktiv.com/sites/default/files/2023-06/synacktiv-ucopia-multiple-vulnerabilities-2022.pdf, Security-misconfiguration
 - http://www.kamilonurozkaleli.com/posts/a-classical-account-takeover-case-via-multiple-bypasses/, Account-takeover
 - https://medium.com/@kushjain0107/one-mistake-three-bugs-comprehensive-android-pentesting-a8fc68e36af5, Android
@@ -258,7 +257,6 @@
 - https://shahjerry33.medium.com/api-misconfiguration-no-swag-of-swaggerui-9b43135346be, Security-misconfiguration
 - https://semgrep.dev/blog/2022/xml-security-in-java, XXE
 - https://orca.security/resources/blog/ssrf-vulnerabilities-in-four-azure-services/, SSRF
-- https://medium.com/@haroonhameed_76621/dom-based-xss-for-fun-and-profit-bug-bounty-poc-f4b9554e95d, DOM-XSS
 - https://onekey.com/blog/security-advisory-wago-unauthenticated-config-export-vulnerability/, Path-traversal
 - https://blog.viettelcybersecurity.com/cve-2022-21587-oracle-e-business-suite-unauth-rce/, RCE
 - https://blog.hckrt.com/blog/thisclosed_2/, SQL-injection
@@ -910,7 +908,6 @@
 - https://medium.com/@totmukesh/hack-till-your-last-breath-3e58f4fb1738, IDOR
 - https://medium.com/@mohamedayad_72488/dos-over-wep-application-c5176dc29035, DoS
 - https://medium.com/@mohamedayad_72488/bypass-user-restriction-registration-cbfc4eb855, Logic-flaw
-- https://medium.com/@balook/idor-in-google-datastudio-google-com-f2fa51b763de, IDOR
 - https://medium.com/bugbountywriteup/how-i-lost-my-followers-on-medium-9fe10e9862aa, GraphQL
 - https://medium.com/@sudipshah_66336/the-story-of-my-first-4-digit-bounty-from-facebook-3a29830e03cd, Logic-flaw
 - https://medium.com/@yaala/admin-editor-can-disclose-personnel-email-of-other-editor-admin-on-page-who-created-shop-57c35ed9f9b7, Information-disclosure
@@ -982,7 +979,6 @@
 - https://medium.com/@aniltom/magic-of-the-back-slash-d868e66b532a, Path-traversal
 - https://sites.google.com/securifyinc.com/vrp-writeups/gsuite/bookmark-xss-device-management, XSS
 - https://medium.com/@sandeepkumarsingh1902/bugbounty-adding-money-using-response-modification-334448d34251, Payment-tampering
-- https://web.archive.org/web/20210117211634/https://kurtikleiton.medium.com/blind-ssrf-on-coda-io-c7063f304455, SSRF
 - https://blog.sambal0x.com/2020/04/30/Hacking-razer-pay-ewallet-app.html, IDOR
 - https://medium.com/@hbothra22/recon-to-sensitive-information-disclosure-in-minutes-503fc7ccdf0b, Information-disclosure
 - https://medium.com/@d0nut/piercing-the-veal-short-stories-to-read-with-friends-4aa86d606fc5, SSRF
@@ -996,7 +992,6 @@
 - https://medium.com/@D0rkerDevil/3k-bounty-for-elastic-search-takeover-70c0847d2e40, Elasticsearch-Takeover
 - https://blog.securitybreached.org/2020/04/04/playing-with-json-web-tokens-for-fun-and-profit/, Password-reset
 - https://medium.com/@pig.wig45/touch-id-authentication-bypass-on-evernote-and-dropbox-ios-apps-7985219767b2, Authentication-bypass
-- https://medium.com/@nnez/always-escalate-from-self-xss-to-persistent-xss-on-login-portal-54265b0adfd0, Self-XSS
 - https://medium.com/@ashokcpg/the-story-of-my-first-ever-1500-bounty-from-facebook-49eb64d26160, Logic-flaw
 - https://blog.securitybreached.org/2020/03/31/microsoft-rce-bugbounty/, RCE
 - https://medium.com/@ranjitsinghnit/otp-bruteforce-account-takeover-faaac3d712a8, OTP-bruteforce

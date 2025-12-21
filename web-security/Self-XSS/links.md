@@ -13,3 +13,4 @@
 - https://enfinlay.github.io//xss/selfxss/upload/bugbounty/2021/02/09/selfxss-to-rxss-via-file-name.html
 - https://github.com/tess-ss/writeups/blob/main/bug.md
 - https://medium.com/@terminatorLM/small-bugs-are-more-dangerous-than-you-think-9411618191ab
+- https://medium.com/@nnez/always-escalate-from-self-xss-to-persistent-xss-on-login-portal-54265b0adfd0
