@@ -1,1 +1,2 @@
 - https://buer.haus/2019/10/18/a-tale-of-exploitation-in-spreadsheet-file-conversions/
+- https://samcurry.net/reading-asp-secrets-for-17000/

@@ -39,13 +39,11 @@
 - https://medium.com/@vickieli/are-csrfs-still-a-thing-7e16c09c951a, csrf
 - https://medium.com/@thelinuxboy/bugging-out-my-experience-of-earning-300-for-reporting-an-unexpected-bug-ec9f9b0054bc, journey
 - https://medium.com/@hasharmujahid/bypassing-csrf-protection-i-bc014384d0aa, csrf
-- https://medium.com/@pawanchhabria/how-i-escalated-default-credentials-to-remote-code-execution-1c34504be7a5, RCE
 - https://medium.com/@K9ightFr3ak/exploiting-broken-access-control-vulnerability-4d16f72c7983, BAC
 - https://medium.com/@ramAnon/bug-bounty-hunting-methodology-toolkit-tips-tricks-blogs-eb142034d5a5, tricks
 - https://medium.com/@akshayravic09yc47/crlf-injection-leads-to-xss-f92a07db9848, crlf
 - https://medium.com/@joshuaarulsamy/mindset-that-made-me-one-among-top-15-security-researchers-in-india-for-3-consecutive-times-febb06e8af61, journey
 - https://medium.com/@thexssrat/miniseries-xss-to-the-core-pt-1-4a979b9e5139, XSS
-- https://medium.com/@theshubh77/facebook-page-admin-disclosure-by-create-doc-button-bounty-5000-usd-2fd1ff615bf8, misc
 - https://medium.com/@evilprince007/broken-object-level-authorization-in-vapi-8a994c50b711, api
 - https://medium.com/@theredteamer/hacking-apple-two-successful-exploits-and-positive-thoughts-on-their-bug-bounty-program-963efe7518f6, journey
 - https://medium.com/@grahamzemel/python-tips-and-tricks-for-cybersecurity-enthusiasts-9504d9541b8b, tricks
@@ -886,7 +884,6 @@
 - https://blog.detectify.com/2020/08/14/crowdsource-success-story-from-an-out-of-scope-open-redirect-to-cve-2020-1323/, Open-redirect
 - https://medium.com/bugbountywriteup/cache-poisoning-of-wget-94a4d70104b1, Web-cache-poisoning
 - https://medium.com/@singh.simran7838/how-i-made-2000-with-url-redirection-b1b5f4e7a678, Open-redirect
-- https://voidsec.com/cve-2020-1337-printdemon-is-dead-long-live-printdemon/, Local-Privilege-Escalation
 - https://mazinahmed.net/blog/hacking-zoom/, Information-disclosure
 - https://medium.com/@zseano/the-feature-works-as-intended-but-whats-in-the-source-d29f9401bcf6, Information-disclosure
 - https://medium.com/@jonathanbouman/reflected-xss-at-fotoservice-hema-nl-af344ef63433, Reflected-XSS
@@ -1198,7 +1195,6 @@
 - https://medium.com/@putracraft.theworld/server-side-request-forgery-in-openid-support-defcc64d5e41, SSRF
 - https://www.tnirmal.com.np/2018/12/facebook-bugbounty-disclosing.html, Information-disclosure
 - https://medium.com/@mustafakhan_89646/asuss-admin-panel-auth-bypass-af5062584ddf, Authentication-bypass
-- https://samcurry.net/reading-asp-secrets-for-17000/, Local-file-disclosure
 - https://blog.scrt.ch/2018/08/24/remote-code-execution-on-a-facebook-server/, LFI
 - https://mohemiv.com/all/exploiting-xxe-with-local-dtd-files/, XXE
 - https://medium.com/bugbountywriteup/token-brute-force-to-account-take-over-to-privilege-escalation-to-organization-take-over-650d14c7ce7f, Account-takeover
@@ -1287,7 +1283,6 @@
 - https://twitter.com/0x01alka/status/1001763583447969792, Path-traversal
 - https://blog.witcoat.com/2018/05/30/account-takeover-and-blind-xss-go-pro-get-bugs/, IDOR
 - https://medium.com/@emenalf/how-i-got-hall-of-fame-in-two-fortune-500-companies-an-rce-story-9c89cead81ff, RCE
-- https://poc-server.com/blog/2018/05/22/rce-by-uploading-a-web-config, RCE
 - https://sites.google.com/site/testsitehacking/-36k-google-app-engine-rce, RCE
 - https://medium.com/@pratheesh.p.narayanan/whatsapp-dos-vulnerability-on-android-ios-web-7628077d21d4, DoS
 - https://medium.com/bugbountywriteup/4500-bounty-how-i-got-lucky-99d8bc933f75, Subdomain-takeover

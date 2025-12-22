@@ -281,3 +281,5 @@
 - https://pwning.re/2018/12/04/github-desktop-rce/
 - https://blog.ryotak.me/post/cdnjs-remote-code-execution-en/
 - https://medium.com/realmodelabs/kindledrip-from-your-kindles-email-address-to-using-your-credit-card-bb93dbfb2a08
+- https://medium.com/@pawanchhabria/how-i-escalated-default-credentials-to-remote-code-execution-1c34504be7a5
+- https://poc-server.com/blog/2018/05/22/rce-by-uploading-a-web-config
