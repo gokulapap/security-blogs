@@ -80,7 +80,6 @@
 - https://kuldeep.io/posts/escalating-privileges-with-ssrf/, SSRF
 - https://matan-h.com/one-lfi-bypass-to-rule-them-all-using-base64/, LFI
 - https://ssd-disclosure.com/ssd-advisory-tp-link-tl-wr840n-stack-buffer-overflow-dos/, Buffer-Overflow
-- https://www.mandiant.com/resources/blog/privileges-third-party-windows-installers, Local-Privilege-Escalation
 - https://www.sonarsource.com/blog/a-twist-in-the-code-openmeetings-vulnerabilities-through-unexpected-application-state/, Account-takeover
 - https://www.rapid7.com/blog/post/2023/07/19/cve-2023-38205-adobe-coldfusion-access-control-bypass-fixed/, Broken-Access-Control
 - https://orca.security/resources/blog/bad-build-google-cloud-build-potential-supply-chain-attack-vulnerability/, Cloud
@@ -782,7 +781,6 @@
 - https://notifybugme.medium.com/finding-basic-authtoken-in-javascript-file-by-full-automation-6188ca1b1f56, Information-disclosure
 - https://publish.whoisbinit.me/amazon-ec2-dangling-dns-records-on-surf-test-xwf-internet-org, Subdomain-takeover
 - https://blog.melbadry9.xyz/ddns-ec2-ips-current-state, Dangling-DNS-records
-- https://3bodymo.medium.com/the-easiest-2500-i-got-it-from-bug-bounty-program-8f47ea4aff22, Information-disclosure
 - https://lf.lc/vrp/181521559b/, Container-escape
 - https://maordayanofficial.medium.com/stored-xss-at-trello-com-ef2e3d1ed24b, Stored-XSS
 - https://wwws.nightwatchcybersecurity.com/2021/03/03/content-injection-rce-in-yandex-browser-for-android-2018/, MiTM
@@ -801,7 +799,6 @@
 - https://servicenger.com/blog/mobile/sending-ephemeral-message-to-any-facebook-user/, IDOR
 - https://thevillagehacker.medium.com/reflected-xss-on-a-public-program-e8c0416daca1, Reflected-XSS
 - https://sanderwind.medium.com/escalating-ssrf-to-rce-7c0147371c40, SSRF
-- https://pullerjsecu.medium.com/how-i-was-able-to-turn-a-xss-into-a-account-takeover-ae0c478640e7, Web-cache-poisoning
 - https://amineaboud.medium.com/disclose-the-fb-profile-of-facebook-employees-who-create-official-announcement-messages-bug-76554068caf7, Information-disclosure
 - https://web.archive.org/web/20210201180254/https://www.cysek.org/post/bac-sxss, Stored-XSS
 - https://medium.com/bugbountywriteup/bragging-rights-part-1-short-story-of-a-bug-wave-dbb88f48b604, IDOR
@@ -1007,7 +1004,6 @@
 - https://alexbakker.me/post/mysterious-google-titan-m-bug-cve-2019-9465.html, Cryptographic-issues
 - https://medium.com/@bhaveshthakur2015/account-hijack-using-authorization-bypass-which-made-me-richer-by-ba9dace72682, Account-takeover
 - https://ysamm.com/?p=379, CSRF
-- https://web.archive.org/web/20200513211717/https://mrss4nd0x.000webhostapp.com/Stored-XSS-on-groups-google-com.php, Stored-XSS
 - https://web.archive.org/web/20200505142429/https://medium.com/@godofdarkness.msf/reflected-xss-in-at-t-7f1bdd10d8f7, Reflected-XSS
 - https://medium.com/@adonkidz7/my-first-bounty-from-google-d9f1f3f5787a, Self-XSS
 - https://www.acunetix.com/blog/web-security-zone/xss-google-acunetix/, XSS
@@ -1121,7 +1117,6 @@
 - https://anotherhackerblog.com/exploiting-file-uploads-pt1/, Stored-XSS
 - https://medium.com/@matarpan33r/stored-xss-on-edmodo-67b244824fa5, Stored-XSS
 - https://smaranchand.com.np/2019/05/an-unexploited-cors-misconfiguration-reflecting-further-issues/, CORS-misconfiguration
-- https://ysamm.com/?p=272, Weak-encryption
 - https://philippeharewood.com/determine-a-user-from-an-email-address/, Information-disclosure
 - https://medium.com/@__rishabh__/open-redirect-to-account-takeover-e939006a9f24, Open-redirect
 - https://medium.com/@navne3t/a-base64-encoded-parameter-c6fb6b177d68, HTML-injection

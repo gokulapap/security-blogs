@@ -82,3 +82,4 @@
 - https://www.horizon3.ai/veeam-backup-and-replication-cve-2023-27532-deep-dive/
 - https://www.ns-echo.com/posts/cve_2023_33298.html
 - https://voidsec.com/cve-2020-1337-printdemon-is-dead-long-live-printdemon/
+- https://www.mandiant.com/resources/blog/privileges-third-party-windows-installers

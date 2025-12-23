@@ -122,3 +122,4 @@
 - https://aidilarf.medium.com/xss-blind-stored-at-asset-domain-android-apps-tiktok-ae2f4c2dbc07
 - https://wesecureapp.com/blog/how-we-tookover-shopify-accounts-with-one-single-click
 - https://medium.com/@tommysuriel/stored-xss-on-slack-bug-bounty-88fe167d75df
+- https://web.archive.org/web/20200513211717/https://mrss4nd0x.000webhostapp.com/Stored-XSS-on-groups-google-com.php
