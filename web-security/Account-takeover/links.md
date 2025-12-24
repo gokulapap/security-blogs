@@ -107,3 +107,4 @@
 - https://medium.com/bugbountywriteup/weak-cryptography-in-password-reset-to-full-account-takeover-fc61c75b36b9
 - https://medium.com/@rikeshbaniyaaa/how-i-was-able-to-do-mass-account-takeover-bug-bounty-b279af1ce62b
 - https://ysamm.com/?p=729
+- https://samcurry.net/web-hackers-vs-the-auto-industry/

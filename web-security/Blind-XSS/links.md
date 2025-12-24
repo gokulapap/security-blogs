@@ -24,3 +24,4 @@
 - https://medium.com/@valeriyshevchenko/how-i-hacked-one-cryptocurrency-service-db3cb0f81d6c
 - https://shinchina.in/blog/2022-09-07/$900-blind-xss.html
 - https://blog.evanricafort.com/2018/08/blind-xss-in-chrome-experiments-google.html
+- https://med-mahmoudi26.medium.com/chaining-bugs-for-the-greater-good-664412ae85f8

@@ -1,1 +1,2 @@
 - https://theshubh77.medium.com/write-up-missing-rate-limiting-how-i-was-able-to-add-any-unowned-phone-number-to-my-fb-account-fe4d7e67cf10
+- https://medium.com/@ranjitsinghnit/otp-bruteforce-account-takeover-faaac3d712a8
