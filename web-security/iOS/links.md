@@ -1,2 +1,3 @@
 - https://googleprojectzero.blogspot.com/2020/12/an-ios-zero-click-radio-proximity.html
 - https://rambo.codes/posts/2022-10-25-sirispy-ios-bug-allowed-apps-to-eavesdrop
+- https://muirey03.blogspot.com/2020/09/cve-2020-9964-ios-infoleak.html

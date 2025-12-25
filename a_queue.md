@@ -89,7 +89,6 @@
 - http://blog.takemyhand.xyz/2023/07/remote-code-execution-in-gitlabs-cli.html, RCE
 - https://www.randorisec.fr/chamilo-1.11.18-multiple-vulnerabilities, OS-command-injection
 - https://medium.com/@M0X0101/how-i-was-able-to-get-account-takeover-via-insecure-data-storage-and-webview-with-exported-activity-5308a330ab80, Account-takeover
-- https://www.ghostccamm.com/blog/multi_cockpit_vulns/, CSRF
 - https://medium.com/@jonathanbouman/laravel-debug-mode-left-on-at-zouikwatzeggen-nl-948a7365409f, Debug-mode-enabled
 - https://medium.com/@ahmedelmorsy312/weakness-of-integration-bce1520ba672, Logic-flaw
 - https://www.synacktiv.com/sites/default/files/2023-06/synacktiv-ucopia-multiple-vulnerabilities-2022.pdf, Security-misconfiguration
@@ -532,7 +531,6 @@
 - https://valsamaras.medium.com/when-equal-is-not-another-webview-takeover-story-730be8d6e202, Android
 - https://cupc4k3.co/caso-de-uso-não-autorizados-de-chave-da-api-do-google-maps-89498752cf7d, Information-disclosure
 - https://ajpc500.github.io/macos/Targeting-Visual-Studio-Code-For-macOS/, Local-Privilege-Escalation
-- https://wahaz.medium.com/broken-authentication-and-idor-at-redacted-646de8d508e6, IDOR
 - https://naveenroy008.medium.com/broken-session-control-leads-to-access-private-videos-using-the-shared-link-even-after-revoking-the-84e31ac16fe4, Broken-Access-Control
 - https://breakpoint.sh/posts/files.app-symbolic-link-following, iOS
 - https://medium.com/@interc3pt3r/for-the-first-bounty-it-takes-a-few-challenging-months-but-only-a-few-days-for-the-second-7b53259b0199, Old-components-with-known-vulnerabilities
@@ -811,7 +809,6 @@
 - https://blog.blazeinfosec.com/attack-of-the-clones-2-git-command-client-remote-code-execution-strikes-back/, RCE
 - https://slashcrypto.org/2021/01/15/CVE-2020-1456/, XSS
 - https://srcincite.io/blog/2021/01/12/making-clouds-rain-rce-in-office-365.html, RCE
-- https://levelup.gitconnected.com/stealing-user-information-via-xss-via-parameter-pollution-7d99b3379e7d, Open-redirect
 - https://blog.cybercastle.io/weblogic-remote-code-execution-exploiting-cve-2019-2725/, RCE
 - https://medium.com/bugbountywriteup/unauthorized-access-to-odata-entities-2k-bounty-from-microsoft-e070b2ef88c2, Authorization-flaw
 - https://www.darabi.me/2020/12/create-invisible-post-on-any-facebook.html, IDOR
@@ -863,7 +860,6 @@
 - https://medium.com/bugbountywriteup/how-i-earned-500-from-google-flaw-in-authentication-a40018c05616, Authentication-flaw
 - https://medium.com/@merry6607/how-i-by-pass-the-login-page-and-2fa-authentication-3f33b06838c, Authentication-bypass
 - https://medium.com/@Sheshasai/emoji-error-handling-ba11f1bdb8a6, SQL-injection
-- https://muirey03.blogspot.com/2020/09/cve-2020-9964-ios-infoleak.html, iOS
 - https://dreamlab.net/en/blog/post/dropbox-escalation-of-privileges-to-system-on-windows-1/, Local-Privilege-Escalation
 - https://medium.com/@smilehackerofficial/xss-that-can-pay-your-bills-9377eff1fd0d, Reflected-XSS
 - https://medium.com/bugbountywriteup/unhiding-the-hidden-2ef44192c10b, Client-side-enforcement-of-server-side-security
@@ -1027,7 +1023,6 @@
 - https://medium.com/@dPhoeniixx/vimeo-upload-function-ssrf-7466d8630437, SSRF
 - https://www.ezequiel.tech/p/500-getclass.html, Sandbox-bypass
 - https://medium.com/@navne3t/a-25-easy-bug-bdfcde4d1370, Session-management-issue
-- https://kishanbagaria.com/airdos/, DoS
 - https://medium.com/@ultranoob/weird-and-simple-2fa-bypass-without-any-test-b869e09ac261, MFA-bypass
 - https://blog.darabi.me/2019/12/instagram-delete-media-csrf.html, CSRF
 - https://github.com/Metnew/telegram-links-nsworkspace-open, RCE

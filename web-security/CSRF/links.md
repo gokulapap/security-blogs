@@ -102,3 +102,4 @@
 - https://medium.com/bugbountywriteup/account-take-over-vulnerability-in-google-acquisition-famebit-e93b1a0a7af9
 - https://blog.azuki.vip/csrf/
 - https://blog.stazot.com/stealing-google-drive-oauth-tokens-from-dropbox/
+- https://www.ghostccamm.com/blog/multi_cockpit_vulns/
