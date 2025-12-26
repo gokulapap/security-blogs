@@ -134,7 +134,6 @@
 - https://www.sonarsource.com/blog/pimcore-one-click-two-security-vulnerabilities/, Path-traversal
 - https://neodyme.io/blog/csgo_from_zero_to_0day/, Game-hacking
 - https://chevonphillip.medium.com/rce-due-to-dependency-confusion-5000-bounty-fd1b294d645f, Dependency-confusion
-- https://infosecwriteups.com/mass-assignment-leads-to-the-victims-account-being-inaccessible-forever-52e48c6a8a4d, Mass-assignment
 - https://blog.ankursundara.com/cookie-bugs/, Cookie-smuggling
 - https://danrevah.github.io/2023/05/03/CVE-2023-25394-VideoStream-LPE/, Local-Privilege-Escalation
 - https://sumedh00.medium.com/accessing-admin-dashboard-in-5-seconds-acee737eacfb, Default-credentials
@@ -628,7 +627,6 @@
 - https://darrenmartyn.ie/2021/10/27/zimbra-zmslapd-local-root-exploit/, Local-Privilege-Escalation
 - https://dhiyaneshgeek.github.io/web/security/2021/10/23/how-i-was-able-to-revoke-your-instagram-2fa/, Bruteforce
 - https://securityforeveryone.com/blog/google-chrome-zero-day-vulnerability-cve-2021-30573, Memory-corruption
-- https://xdev05.github.io/How-i-Got-3-SQLI-in-just-10-minutes/, SQL-injection
 - https://infosecwriteups.com/a-story-of-another-awesome-old-school-hacking-that-lead-to-a-cool-p1-bug-f88da04b1ecf, 403-bypass
 - https://pyn3rd.github.io/2021/10/22/mysql-jdbc-xxe/, XXE
 - https://med-mahmoudi26.medium.com/from-staging-to-0-click-account-takeover-528a5ecaa3eb, Account-takeover
@@ -649,7 +647,6 @@
 - https://dewcode.medium.com/force-browsing-bug-at-facebook-business-plan-500-bounty-73d1bb4883af, Authorization-flaw
 - https://medium.com/@bobbyrsec/zero-day-hijacking-icloud-credentials-with-apple-airtags-stored-xss-6997da43a216, Stored-XSS
 - https://habr.com/en/post/579714/, Information-disclosure
-- https://rizwansiddiqu1.medium.com/super-admin-panel-without-credentials-c2022a23bb35, Authentication-bypass
 - https://www.akamai.com/blog/security/autodiscovering-the-great-leak, Domain-name-collision
 - https://gccybermonks.com/posts/mxss/, XSS
 - https://medium.com/@varmaanu001/cookie-stealing-via-clickjacking-using-burp-collaborator-ff6f4ac1c18b, Clickjacking
@@ -1053,7 +1050,6 @@
 - https://medium.com/bugbountywriteup/facebook-workplace-privilege-escalation-vulnerability-to-change-the-post-privacy-as-public-634f1c995780, Privilege-escalation
 - https://web.archive.org/web/20200820030055/https://pwnsec.ninja/2019/09/14/how-i-found-a-simple-and-weird-account-takeover-bug/, Account-takeover
 - https://philippeharewood.com/add-users-to-roles-on-facebook-pages-without-an-invitation-consent/, Authorization-flaw
-- https://philippeharewood.com/subscribe-to-the-list-of-requesters-to-join-a-facebook-live-video-using-mqtt/, Authorization-flaw
 - https://hateshape.github.io/general/2019/09/06/SuperGlamorousReconwithIntendedFunctionalities.html, SSTI
 - https://corben.io/blog/19-9-04-jenkins-to-full-pwnage, RCE
 - https://medium.com/@bathinivijaysimhareddy/shodan-is-your-friend-if-you-lose-him-you-will-lose-many-657d07472f75, SQL-injection
@@ -1316,7 +1312,6 @@
 - https://medium.com/@honcbb/amazon-bypass-open-redirect-12609c879dff, Open-redirect
 - http://www.digitalmunition.com/WhyIWalkedFrom3k.pdf, AWS-misconfiguration
 - https://zseano.medium.com/how-signing-up-for-an-account-with-an-company-com-email-can-have-unexpected-results-7f1b700976f5, Logic-flaw
-- https://medium.com/@abdelfattahibrahim/from-recon-to-dom-based-xss-f279602a14cf, DOM-XSS
 - http://www.noob.ninja/2017/11/local-file-read-via-xss-in-dynamically.html, XSS
 - https://medium.com/@tungpun/from-ssrf-to-local-file-disclosure-58962cdc589f, SSRF
 - https://blog.intothesymmetry.com/2017/10/slack-saml-authentication-bypass.html, Authentication-bypass

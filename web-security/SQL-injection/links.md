@@ -112,3 +112,4 @@
 - https://medium.com/bugbountywriteup/sql-injection-with-load-file-and-into-outfile-c62f7d92c4e2
 - https://medium.com/stolabs/cve-2022-36635-a-sql-injection-in-zksecuritybio-to-rce-c5bde2962d47
 - https://www.sonarsource.com/blog/why-orms-and-prepared-statements-cant-always-win/
+- https://xdev05.github.io/How-i-Got-3-SQLI-in-just-10-minutes/

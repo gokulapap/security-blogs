@@ -73,3 +73,4 @@
 - https://tox7cv3nom.github.io/2020/07/28/authentication-token-bypass-leads-too-idor.html
 - https://medium.com/techiepedia/unauthenticated-access-to-cloud-portal-a-without-%EF%B8%8F-9f29c387b937
 - https://www.dsecbypass.com/en/centreon-map-vulnerability/
+- https://rizwansiddiqu1.medium.com/super-admin-panel-without-credentials-c2022a23bb35

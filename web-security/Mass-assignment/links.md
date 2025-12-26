@@ -4,3 +4,4 @@
 - https://dannewitz.ninja/posts/detecting-and-exploiting-mass-assignments
 - https://imranhudaa.medium.com/accessing-restricted-documentswith-extra-json-body-content-c59bc7224189
 - https://m7-arman.medium.com/one-click-to-account-takeover-1f78c6003eba
+- https://infosecwriteups.com/mass-assignment-leads-to-the-victims-account-being-inaccessible-forever-52e48c6a8a4d
