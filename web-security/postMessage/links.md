@@ -4,3 +4,4 @@
 - https://blog.geekycat.in/google-vrp-hijacking-your-screenshots/
 - https://castilho.onrender.com/
 - https://labs.detectify.com/2017/02/28/hacking-slack-using-postmessage-and-websocket-reconnect-to-steal-your-precious-token/
+- https://medium.com/@yassergersy/exploiting-post-message-to-steal-users-cookies-7df43a00289a

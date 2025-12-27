@@ -21,3 +21,4 @@
 - https://www.microsoft.com/security/blog/2022/01/10/new-macos-vulnerability-powerdir-could-lead-to-unauthorized-user-data-access/
 - https://habr.com/en/post/580582/
 - https://pseudorandom.resistant.tech/disclosing-security-and-privacy-issues-in-thunderbird.html
+- https://wojciechregula.blog/post/change-home-directory-and-bypass-tcc-aka-cve-2020-27937/
