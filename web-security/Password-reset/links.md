@@ -22,3 +22,4 @@
 - https://medium.com/@ravillabharath123/account-take-over-without-user-interaction-f4ed2bf977de
 - https://ashutoshmishra00x0.medium.com/account-takeover-via-reset-password-worth-2000-de085851d81d
 - https://medium.com/@swapmaurya20/password-reset-poisoning-leading-to-account-takeover-f178f5f1de87
+- https://blog.securitybreached.org/2020/04/04/playing-with-json-web-tokens-for-fun-and-profit/

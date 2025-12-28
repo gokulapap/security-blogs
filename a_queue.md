@@ -67,7 +67,6 @@
 - https://medium.com/@grahamzemel/the-best-vulnerability-disclosure-programs-less-competitive-bounties-a166acbbbd1b, tricks
 - https://medium.com/@cyberguy0xd1/how-i-was-able-to-bypass-cloudflare-waf-for-sqli-payload-b9e7a4260026, sql-injection
 - https://medium.com/@Sm9l/what-i-learnt-from-reading-126-information-disclosure-writeups-d896c5d5a2a4, info-disclosure
-- https://medium.com/@snoopy101/1000-for-a-simple-stored-xss-8be7083a7c2d, Stored-XSS
 - https://samcurry.net/points-com/, Path-traversal
 - https://research.aurainfosec.io/pentest/hook-line-and-phishlet/, Phishing
 - https://hazanasec.github.io/2023-07-30-Samesite-bypass-method-override.md/, Samesite-cookie-bypass
@@ -452,7 +451,6 @@
 - https://medium.com/@Bishoo97x/stored-xss-and-stored-html-injection-in-united-nations-website-db87d445e41, XSS
 - https://ivreznap.medium.com/interesting-privilege-escalation-in-an-old-private-program-225d27253e13, Privilege-escalation
 - https://labs.detectify.com/2022/07/06/account-hijacking-using-dirty-dancing-in-sign-in-oauth-flows/, OAuth
-- https://infosecwriteups.com/exposing-millions-of-voter-id-card-users-details-8a993c9a5d35, IDOR
 - https://web.archive.org/web/20220716152713/https://snapsec.co/blog/hacking-larksuite/, XSS
 - https://bhashit.in/?p=71, Firebase
 - https://janmuhammadzaidi.medium.com/vertical-privilege-escalation-the-user-can-takeover-an-admin-account-via-response-manipulation-9237c8b2fefa, Privilege-escalation
@@ -812,7 +810,6 @@
 - https://krevetk0.medium.com/10-000-for-a-vulnerability-that-doesnt-exist-9dbc63684e94, Path-traversal
 - https://njbooher.github.io/blog/cloudflare-workers-ip-spoofing, WAF-bypass
 - https://savebreach.com/facebook-page-admin-identity-disclosure-through-document-edit-history/, Information-disclosure
-- https://ysamm.com/?p=588, IDOR
 - https://blog.deesee.xyz/regex/security/2020/12/27/regular-expression-injection.html, ReDoS
 - https://www.ehpus.com/post/ssti-in-google-maps, SSTI
 - https://saugatpokharel.medium.com/this-is-how-i-was-able-to-view-anyones-private-email-and-birthday-on-instagram-1469f44b842b, Information-disclosure
@@ -973,7 +970,6 @@
 - https://medium.com/bugbountywriteup/how-i-unlocked-the-blocked-accounts-545e9b7d7be1, Password-reset
 - https://blog.doyensec.com/2020/04/08/libressl-fuzzer.html, Memory-corruption
 - https://medium.com/@D0rkerDevil/3k-bounty-for-elastic-search-takeover-70c0847d2e40, Elasticsearch-Takeover
-- https://blog.securitybreached.org/2020/04/04/playing-with-json-web-tokens-for-fun-and-profit/, Password-reset
 - https://medium.com/@pig.wig45/touch-id-authentication-bypass-on-evernote-and-dropbox-ios-apps-7985219767b2, Authentication-bypass
 - https://medium.com/@ashokcpg/the-story-of-my-first-ever-1500-bounty-from-facebook-49eb64d26160, Logic-flaw
 - https://blog.securitybreached.org/2020/03/31/microsoft-rce-bugbounty/, RCE
@@ -1080,7 +1076,6 @@
 - https://medium.com/@princechaddha/account-takeover-on-airbnb-acquisition-an-unusual-bug-part-2-45fab11dc407, IDOR
 - https://medium.com/@hazzaazi31/a-malicious-editor-of-a-page-can-support-to-a-community-action-which-cant-be-unsupported-by-the-f568c3762042, Authorization-flaw
 - https://medium.com/@ruvlol/cleartext-password-in-localstorage-writeup-245294762829, Violation-of-secure-design-principles
-- https://jspin.re/fileupload-blind-sqli/, SQL-injection
 - https://medium.com/@shub66452/account-takeover-using-csrf-json-based-a0e6efd1bffc, CSRF
 - https://gauravnarwani.com/injecting-6200-to-1200/, SSTI
 - https://medium.com/@kanchansinghyadav/one-more-parameter-manipulation-bug-7fa0551a6021, Parameter-tampering

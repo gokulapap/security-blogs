@@ -259,3 +259,5 @@
 - https://medium.com/@bilalmerokhel/chained-bugs-account-takeover-ceff67d1d55a
 - https://medium.com/@balook/idor-in-google-datastudio-google-com-f2fa51b763de
 - https://wahaz.medium.com/broken-authentication-and-idor-at-redacted-646de8d508e6
+- https://ysamm.com/?p=588
+- https://infosecwriteups.com/exposing-millions-of-voter-id-card-users-details-8a993c9a5d35

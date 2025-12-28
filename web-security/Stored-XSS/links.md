@@ -123,3 +123,4 @@
 - https://wesecureapp.com/blog/how-we-tookover-shopify-accounts-with-one-single-click
 - https://medium.com/@tommysuriel/stored-xss-on-slack-bug-bounty-88fe167d75df
 - https://web.archive.org/web/20200513211717/https://mrss4nd0x.000webhostapp.com/Stored-XSS-on-groups-google-com.php
+- https://medium.com/@snoopy101/1000-for-a-simple-stored-xss-8be7083a7c2d
