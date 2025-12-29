@@ -261,3 +261,4 @@
 - https://wahaz.medium.com/broken-authentication-and-idor-at-redacted-646de8d508e6
 - https://ysamm.com/?p=588
 - https://infosecwriteups.com/exposing-millions-of-voter-id-card-users-details-8a993c9a5d35
+- https://arulkumar.in/delete-any-photo-from-facebook-by-exploiting-support-dashboard

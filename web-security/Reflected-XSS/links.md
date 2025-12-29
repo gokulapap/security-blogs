@@ -105,3 +105,4 @@
 - https://www.pentagrid.ch/de/blog/reflected-xss-vulnerability-in-crealogix-ebics-implementation/
 - https://visat.me/security/reflected-xss-in-tokopedia-train-ticket/
 - https://supras.io/reflected-xss-via-a-hidden-parameter-on-dutch-gov-website/
+- https://medium.com/@jonathanbouman/reflected-xss-at-fotoservice-hema-nl-af344ef63433

@@ -283,3 +283,4 @@
 - https://medium.com/bugbountywriteup/how-i-earned-5040-from-twitter-by-showing-a-way-to-harvest-other-users-ip-address-e9f43c931e9a
 - https://3bodymo.medium.com/the-easiest-2500-i-got-it-from-bug-bounty-program-8f47ea4aff22
 - https://medium.com/bugbountywriteup/information-disclosure-at-paypal-and-xoom-paypal-acquisition-via-simple-google-dork-1-000-usd-b726fe628a05
+- https://medium.com/@ozguralp/weird-vulnerabilities-happening-on-load-balancers-shallow-copies-and-caches-9194d4f72322

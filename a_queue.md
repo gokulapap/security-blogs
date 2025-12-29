@@ -56,7 +56,6 @@
 - https://medium.com/@stopvvar/sql-injection-with-insert-statement-bdcf4d47d178, sql-injection
 - https://medium.com/@theredteamer/tesla-paid-me-10-000-because-of-directory-indexing-c1be06c77a3e, journey
 - https://medium.com/@sudarshan-s/sql-injection-important-things-you-need-to-know-right-now-b173cdea0610, sql-injection
-- https://medium.com/@uttamgupta_/what-after-recon-bbaf43dbcb68, recon
 - https://medium.com/@caesarevan23/the-journey-to-get-sql-injection-at-bluepay-blue-indonesia-bluepay-2019-7a23bbce4cb8, journey
 - https://medium.com/@huang-h-kevin/from-retargeting-to-rce-my-journey-from-advertising-to-cybersecurity-4c6149a25c58, journey
 - https://medium.com/@sghosh2402/demystifying-insecure-deserialization-in-php-684cab9c4d24, deserialization
@@ -685,7 +684,6 @@
 - https://craighays.com/pre-account-takeover-by-reversing-a-weak-email-verification-token-algorithm/, Weak-crypto
 - https://notifybugme.medium.com/how-i-was-able-find-mass-leaked-aws-s3-bucket-from-js-file-6064a5c247f8, AWS-misconfiguration
 - https://blog.takemyhand.xyz/2021/07/hacking-on-xiaomis-android-apps.html, Android
-- https://shahjerry33.medium.com/rce-via-webdav-power-of-put-7e1c06c71e60, Default-credentials
 - https://medium.com/@jawadmahdi/how-i-found-blind-sql-injection-just-by-browsing-and-getting-a-unique-url-ed87fa1f35ed, SQL-injection
 - https://krevetk0.medium.com/credential-stuffing-in-bug-bounty-hunting-7168dc1d3153, Credential-stuffing
 - https://tomorrowisnew.com/posts/broken-access-control-bug-bypassing-403-s-by-finding-another-endpoint-that-do-the-same-thing/, Broken-Access-Control
@@ -869,7 +867,6 @@
 - https://medium.com/@singh.simran7838/how-i-made-2000-with-url-redirection-b1b5f4e7a678, Open-redirect
 - https://mazinahmed.net/blog/hacking-zoom/, Information-disclosure
 - https://medium.com/@zseano/the-feature-works-as-intended-but-whats-in-the-source-d29f9401bcf6, Information-disclosure
-- https://medium.com/@jonathanbouman/reflected-xss-at-fotoservice-hema-nl-af344ef63433, Reflected-XSS
 - https://medium.com/@DK999/apache-example-servlet-leads-to-61a2720cac20, Clickjacking
 - https://enumerated.wordpress.com/2020/08/05/the-case-of-the-missing-cache-keys/, Web-cache-poisoning
 - https://medium.com/bugbountywriteup/csrf-poc-mistake-that-broke-crucial-functions-for-the-end-user-victim-ef4fa4584ca8, Logic-flaw
@@ -992,7 +989,6 @@
 - https://medium.com/@adonkidz7/my-first-bounty-from-google-d9f1f3f5787a, Self-XSS
 - https://www.acunetix.com/blog/web-security-zone/xss-google-acunetix/, XSS
 - https://weizman.github.io/2020/02/14/whatsapp-vuln/, RCE
-- https://medium.com/@ozguralp/weird-vulnerabilities-happening-on-load-balancers-shallow-copies-and-caches-9194d4f72322, Information-disclosure
 - https://techkranti.com/ssrf-aws-metadata-leakage, SSRF
 - https://www.amolbaikar.com/determine-users-with-detailed-role-model-on-behalf-of-any-facebook-application/, IDOR
 - https://flex0geek.blogspot.com/2020/02/using-csrf-i-got-weird-account-takeover.html, CSRF
@@ -1379,7 +1375,6 @@
 - http://blog.shashank.co/2013/12/imgur-xss.html, XSS
 - http://blog.shashank.co/2013/12/heroku-directory-transversal.html, Path-traversal
 - https://www.rcesecurity.com/2013/09/paypal-bug-bounty-paypaltech-com-e-mail-injection/, Email-injection
-- https://arulkumar.in/delete-any-photo-from-facebook-by-exploiting-support-dashboard, IDOR
 - https://josipfranjkovic.blogspot.com/2013/07/how-i-found-my-way-into-instagrams.html, Reflected-XSS
 - https://bitquark.co.uk/blog/2013/07/19/admob_creative_image_xss, XSS
 - https://whitton.io/archive/framing-part-1-click-jacking-etsy, Clickjacking

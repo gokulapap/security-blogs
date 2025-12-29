@@ -11,3 +11,4 @@
 - https://infosecwriteups.com/lets-go-for-whole-company-d2e24bcfb5ef
 - https://jspin.re/variant-cloud-analysis/
 - https://ian.sh/etugra
+- https://shahjerry33.medium.com/rce-via-webdav-power-of-put-7e1c06c71e60
