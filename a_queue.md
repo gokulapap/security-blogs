@@ -34,7 +34,6 @@
 - https://medium.com/@ahmdhalabi/taking-over-employee-accounts-by-managers-with-zero-employee-interaction-b60784c3ad84, misc
 - https://medium.com/@tomnomnom/making-a-blind-sql-injection-a-little-less-blind-428dcb614ba8, sql-injection
 - https://medium.com/@geekboyranjeet/strange-admin-panel-bypass-story-bug-bounty-5e618099baaf, bypass
-- https://medium.com/@rahulkumarmk/fuzzing-get-and-post-requests-a-comprehensive-guide-with-gobuster-ffuz-and-wfuzz-bde14769999e, automation
 - https://medium.com/@pingsec/interesting-account-takeover-bugs-619df8466ca0, ATO
 - https://medium.com/@vickieli/are-csrfs-still-a-thing-7e16c09c951a, csrf
 - https://medium.com/@thelinuxboy/bugging-out-my-experience-of-earning-300-for-reporting-an-unexpected-bug-ec9f9b0054bc, journey
@@ -429,7 +428,6 @@
 - https://medium.com/@whitehatcyber404/how-i-earned-150-in-2-minutes-html-injection-in-email-3f26f27d3822, HTML-injection
 - https://sagarsajeev.medium.com/business-logic-vulnerabilities-b4db2af08aaf, Logic-flaw
 - https://swarm.ptsecurity.com/researching-open-source-apps-for-xss-to-rce-flaws/, XSS
-- https://medium.com/tinder/exploiting-github-actions-on-open-source-projects-5d93936d189f, RCE
 - https://claroty.com/team82/blog/with-management-comes-risk-finding-flaws-in-filewave-mdm, Authentication-bypass
 - https://medium.com/@Steiner254/bounty-in-less-3-minutes-from-a-google-dork-54bd9bf3a650, Information-disclosure
 - https://www.yesnaveen.com/2022/07/permanently-crash-instagram-followers.html, DoS
@@ -604,7 +602,6 @@
 - https://r0.haxors.org/posts?id=26, SQL-injection
 - https://lethanhphuc-pk.medium.com/bugbounty-xss-with-markdown-exploit-fix-on-opensource-1baecebe9645, XSS
 - https://blog.dixitaditya.com/2021/11/19/account-takeover-chain.html, Account-takeover
-- https://www.p1boom.com/2021/11/a-story-of-epic-blind-remote-code.html, RCE
 - https://feed.bugs.xdavidhu.me/bugs/0008, Privilege-escalation
 - https://hector0x.medium.com/dos-attack-in-yahoo-how-i-was-able-to-deny-new-users-from-service-6b222e744e61, DoS
 - https://hector0x.medium.com/broken-authentication-through-referral-code-25cd0e8bccc2, Authentication-flaw
@@ -823,7 +820,6 @@
 - https://medium.com/realmodelabs/sd-pwn-part-3-cisco-vmanage-another-day-another-network-takeover-15731a4d75b7, RCE
 - https://cirius.medium.com/escalating-xss-to-account-takeover-ffde08624937, Reflected-XSS
 - https://ozguralp.medium.com/turning-blind-error-based-sql-injection-into-an-exploitable-boolean-one-85d6be3ca23b, SQL-injection
-- https://daeken.svbtle.com/arbitrary-file-write-by-adb-pull, Arbitrary-file-write
 - https://rafi-ahamed.medium.com/exploiting-api-with-authtoken-3bea7b1fb6a9, Token-leak
 - https://medium.com/@prakashpanta1999/replying-comments-on-someones-livestream-from-page-is-posted-as-personal-identity-5fe79ef78b28, Logic-flaw
 - https://www.rcesecurity.com/2020/11/Smuggling-an-un-exploitable-xss/, HTTP-Request-Smuggling
@@ -1187,7 +1183,6 @@
 - https://medium.com/@kunal94/imagemagick-gif-coder-vulnerability-leads-to-memory-disclosure-hackerone-e9975a6a560e, Memory-leak
 - https://medium.com/bugbountywriteup/stored-xss-in-bug-bounty-13c08e6f5636, Stored-XSS
 - https://web.archive.org/web/20181030103042/https://zseano.com/blogs/4.html, CSRF
-- https://medium.com/@logicbomb_1/bugbounty-how-i-was-able-to-download-the-source-code-of-indias-largest-telecom-service-52cf5c5640a1, git-folder-disclosure
 - https://medium.com/@kankrale.rahul/dos-on-facebook-android-app-using-65530-characters-of-zero-width-no-break-space-db41ca8ded89, DoS
 - https://medium.com/@notsoshant/a-possibility-of-account-takeover-in-medium-8d950e547639, Account-takeover
 - https://medium.com/bugbountywriteup/add-comment-on-a-private-oculus-developer-bug-report-93f35bc80b2c, IDOR

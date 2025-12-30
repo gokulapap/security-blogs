@@ -8,3 +8,4 @@
 - https://medium.com/@clarkvoss/finding-hidden-gems-with-nuclei-templates-b3125950a5cd
 - https://medium.com/@ananyaghosh1120/beginners-guide-to-automated-scanners-8ec880446421
 - https://medium.com/@adamjsturge/mx-takeovers-automated-subdomain-takeover-64e658fc4fb7
+- https://medium.com/@rahulkumarmk/fuzzing-get-and-post-requests-a-comprehensive-guide-with-gobuster-ffuz-and-wfuzz-bde14769999e

@@ -5,3 +5,4 @@
 - https://medium.com/pentesternepal/how-i-hacked-100k-godaddy-users-and-help-to-secure-for-free-65f172bd726a
 - https://medium.com/@levshmelevv/10-000-bounty-for-exposed-git-to-rce-304c7e1f54
 - https://james-clee.com/2020/11/01/leaked-git-folder-leads-to-rce/
+- https://medium.com/@logicbomb_1/bugbounty-how-i-was-able-to-download-the-source-code-of-indias-largest-telecom-service-52cf5c5640a1
