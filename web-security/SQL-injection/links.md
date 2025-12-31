@@ -114,3 +114,4 @@
 - https://www.sonarsource.com/blog/why-orms-and-prepared-statements-cant-always-win/
 - https://xdev05.github.io/How-i-Got-3-SQLI-in-just-10-minutes/
 - https://jspin.re/fileupload-blind-sqli/
+- https://medium.com/pentesternepal/sql-injection-in-harvards-subdomain-c3148f8be156

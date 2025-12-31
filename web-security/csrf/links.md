@@ -3,3 +3,4 @@
 - https://medium.com/@jjainam16/csrf-lead-to-account-deletion-critical-bounty-7500-58aa6b848e3a
 - https://medium.com/@ashrafharb997/csrf-to-full-account-takeover-5196cef9d166
 - https://medium.com/@kotakbhavak/a-csrf-worth-the-wait-and-404c6b531789
+- https://medium.com/@lazyhacker/ways-to-exploit-json-csrf-simple-explanation-5e77c403ede6
