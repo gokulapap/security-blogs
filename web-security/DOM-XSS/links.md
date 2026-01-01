@@ -38,3 +38,4 @@
 - https://embracethered.com/blog/posts/2020/aws-xss-cross-site-scripting-vulnerability/
 - https://medium.com/@haroonhameed_76621/dom-based-xss-for-fun-and-profit-bug-bounty-poc-f4b9554e95d
 - https://medium.com/@abdelfattahibrahim/from-recon-to-dom-based-xss-f279602a14cf
+- https://mike-n1.github.io/Chain_XSS

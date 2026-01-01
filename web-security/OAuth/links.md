@@ -27,3 +27,4 @@
 - https://medium.com/@madguyyy/bookmyshow-account-takeover-using-social-login-84178f116e42
 - https://parthdeshani.medium.com/got-nice-catch-by-google-5e6a8211371c
 - https://medium.com/@arbazhussain/stealing-0auth-token-mitm-3eeab46e96cf
+- http://blog.rakeshmane.com/2016/09/bug-bounty-account-takeover.html
