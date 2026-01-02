@@ -172,3 +172,4 @@
 - https://medium.com/@rojanrijal/i-got-emails-g-suite-vulnerability-917e1f6a91f6
 - https://sinsinology.medium.com/expect-the-unexpected-discovering-fresh-zeroday-for-bounty-d074f3175847
 - https://medium.com/@sudipshah_66336/the-story-of-my-first-xxx-bug-bounty-from-facebook-565a212c94ad
+- https://bugs.xdavidhu.me/google/2020/03/08/the-unexpected-google-wide-domain-check-bypass/

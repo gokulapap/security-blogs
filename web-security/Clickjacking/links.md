@@ -25,3 +25,4 @@
 - https://medium.com/@abhishake100/clickjacking-to-account-takeover-97e286f26b95
 - https://websecblog.com/vulns/clickjacking-xss-on-google-org/
 - https://maustin.net/google_docs
+- https://systemweakness.com/how-i-made-the-multiple-hall-of-fame-in-nokia-within-2-minutes-535056fcb66d

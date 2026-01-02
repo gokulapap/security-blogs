@@ -26,3 +26,4 @@
 - https://abdulsec.medium.com/mfa-bypass-in-private-program-the-abdulsec-way-f677fea209f7
 - https://gauravnarwani.com/two-factor-authentication-bypass/
 - https://bugbountypoc.com/instagram-account-is-reactivated-without-entering-2fa/
+- https://infosecwriteups.com/2fa-bypass-via-forced-browsing-9e511dfdb8df

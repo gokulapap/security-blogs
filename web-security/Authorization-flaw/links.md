@@ -115,3 +115,4 @@
 - https://medium.com/ymedialabs-innovation/an-aws-managed-policy-that-allowed-granting-root-admin-access-to-any-role-51b409ea7ff0
 - https://medium.com/@mdisrail2468/bypassing-the-confirmation-email-for-newsletter-bof-nl-682c05cb927f
 - https://philippeharewood.com/subscribe-to-the-list-of-requesters-to-join-a-facebook-live-video-using-mqtt/
+- https://medium.com/bugbountywriteup/unauthorized-access-to-odata-entities-2k-bounty-from-microsoft-e070b2ef88c2

@@ -357,7 +357,6 @@
 - https://medium.com/@jacopotediosi/worldwide-server-side-cache-poisoning-on-all-akamai-edge-nodes-50k-bounty-earned-f97d80f3922b, Web-cache-poisoning
 - https://carvesystems.com/news/xss-through-dhcp-how-attackers-use-standards/, XSS
 - https://daturamater.medium.com/a-breach-on-patreon-and-their-elusive-bounty-program-5e7ea62dc738, Payment-bypass
-- https://nebuchadnezzar-megolm.github.io, Cryptographic-issues
 - https://webs3c.com/t/from-nothing-to-aws-credentials/220, SSRF
 - https://blog.champtar.fr/VLAN0_LLC_SNAP/, Layer-2-networking-vulnerability
 - https://blog.infiltrateops.io/tesla-paid-me-10-000-because-of-directory-indexing-c1be06c77a3e, Directory-listing
@@ -372,7 +371,6 @@
 - https://doyensec.com/resources/Doyensec_Apollo_Report_Q22022_v4_AfterRetest.pdf, DoS
 - https://medium.com/@Parag_Bagul/ssrf-attack-leading-to-aws-metadata-e95155fa6c6f, SSRF
 - https://blog.hacktivesecurity.com/index.php/2022/09/17/http/, HTTP-request-smuggling
-- https://systemweakness.com/how-i-made-the-multiple-hall-of-fame-in-nokia-within-2-minutes-535056fcb66d, Clickjacking
 - https://sector7.computest.nl/post/2022-09-unified-automation-opcua-cpp/, DoS
 - https://tamirzb.com/attacking-android-kernel-using-qualcomm-trustzone, Memory-corruption
 - https://cturt.github.io/mast1c0re.html, Memory-corruption
@@ -717,7 +715,6 @@
 - https://n3t-hunt3r.medium.com/finding-my-first-critical-web-cache-poisoning-6f956799371c, Web-cache-poisoning
 - https://feed.bugs.xdavidhu.me/bugs/0006, Path-traversal
 - https://www.fortbridge.co.uk/research/drupal-insecure-default-leads-to-password-reset-poisoning/, Password-reset
-- https://infosecwriteups.com/2fa-bypass-via-forced-browsing-9e511dfdb8df, MFA-bypass
 - https://galnagli.com/Mass_Assignment/, Mass-assignment
 - https://tuhin1729.medium.com/story-of-my-hacking-dutch-government-46b7a3c8b75a, XSS
 - https://infosecwriteups.com/stored-xss-to-organisation-takeover-6eaaa2fdcd5b, Stored-XSS
@@ -794,7 +791,6 @@
 - https://slashcrypto.org/2021/01/15/CVE-2020-1456/, XSS
 - https://srcincite.io/blog/2021/01/12/making-clouds-rain-rce-in-office-365.html, RCE
 - https://blog.cybercastle.io/weblogic-remote-code-execution-exploiting-cve-2019-2725/, RCE
-- https://medium.com/bugbountywriteup/unauthorized-access-to-odata-entities-2k-bounty-from-microsoft-e070b2ef88c2, Authorization-flaw
 - https://www.darabi.me/2020/12/create-invisible-post-on-any-facebook.html, IDOR
 - https://ashketchum.medium.com/blind-xss-in-google-analytics-admin-panel-3133-70-2185d1cce82a, Blind-XSS
 - https://krevetk0.medium.com/10-000-for-a-vulnerability-that-doesnt-exist-9dbc63684e94, Path-traversal
@@ -968,7 +964,6 @@
 - https://medium.com/@ozguralp/using-vulnerability-analytics-feature-like-a-boss-655fc1f1543b, SSRF
 - https://ysamm.com/?p=404, Authorization-flaw
 - https://ysamm.com/?p=396, Lack-of-rate-limiting
-- https://bugs.xdavidhu.me/google/2020/03/08/the-unexpected-google-wide-domain-check-bypass/, Logic-flaw
 - https://medium.com/@adonkidz7/google-ads-self-xss-html-injection-5000-52280da76c80, Self-XSS
 - https://medium.com/a-bugz-life/exploiting-an-ssrf-trials-and-tribulations-14c5d8dbd69a, SSRF
 - https://medium.com/@ducanhbui/manageengine-servicedesk-plus-arbitrary-file-upload-4bab0bd00425, Arbitrary-file-upload
