@@ -263,3 +263,4 @@
 - https://infosecwriteups.com/exposing-millions-of-voter-id-card-users-details-8a993c9a5d35
 - https://arulkumar.in/delete-any-photo-from-facebook-by-exploiting-support-dashboard
 - https://susanwagle123.medium.com/idor-revealing-images-cdn-links-6589e19bdbaf
+- https://medium.com/@muhammadsholikhin/facebook-vulnerability-expose-group-member-3000-cca809a53f6b
