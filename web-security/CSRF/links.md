@@ -104,3 +104,4 @@
 - https://blog.stazot.com/stealing-google-drive-oauth-tokens-from-dropbox/
 - https://www.ghostccamm.com/blog/multi_cockpit_vulns/
 - https://www.seekurity.com/blog/general/fiverr-com-full-accounts-takeover-vulnerability/
+- https://flex0geek.blogspot.com/2020/02/using-csrf-i-got-weird-account-takeover.html

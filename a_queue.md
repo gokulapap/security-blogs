@@ -112,7 +112,6 @@
 - https://mc0wn.blogspot.com/2023/05/vulnerabilities-in-apache-commons-text.html, Path-traversal
 - https://medium.com/@ajzead660/exploit-an-unexploitable-xss-via-an-open-redirect-a-real-life-scenario-from-a-hackers-mindset-32b71041c5fe, XSS
 - https://medium.com/@ibederov_en/find-out-the-ip-address-through-a-call-to-telegram-a899441b1bac, Privacy-issue
-- https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/from-response-to-request-adding-your-own-variables-inside-of-graphql-queries-for-account-take-over/, GraphQL
 - https://www.secureworks.com/research/tampering-with-conditional-access-policies-using-azure-ad-graph-api, Cloud
 - https://github.com/dhmosfunk/CVE-2023-25690-POC, HTTP-Request-Smuggling
 - https://mr-r3bot.github.io/red/team/2023/05/22/From-RCE-to-owning-entire-cloud-infrastructure.html, RCE
@@ -219,7 +218,6 @@
 - https://blog.quarkslab.com/post-exploitation-abusing-the-keepass-plugin-cache.html, Local-Privilege-escalation
 - https://eaton-works.com/2023/02/06/toyota-gspims-hack/, Authentication-bypass
 - https://bloggerrando.blogspot.com/2023/02/06-2.html, Logic-flaw
-- https://security.lauritz-holtmann.de/post/xss-ato-gadgets/, SSO
 - https://medium.com/@rezaduty/play-with-google-twitter-apple-dell-a90777faa779, XSS
 - https://www.flashback.sh/blog/weekend-destroyer-wd-pr4100-rce, RCE
 - https://shahjerry33.medium.com/idor-inside-the-session-storage-88af485fc899, IDOR
@@ -764,7 +762,6 @@
 - https://shubhamchaskar.com/ato-through-pe/, Privilege-escalation
 - https://web-in-security.blogspot.com/2021/02/security-and-privacy-of-social-logins-part2.html, DOM-XSS
 - https://ysamm.com/?p=640, Information-disclosure
-- https://ysamm.com/?p=636, Information-disclosure
 - https://ysamm.com/?p=621, Authorization-flaw
 - https://ysamm.com/?p=625, Open-redirect
 - https://ysamm.com/?p=613, Information-disclosure
@@ -783,7 +780,6 @@
 - https://kingkaran977.medium.com/10-000-for-automatic-email-confirmation-bug-in-microsofts-edge-browser-22f15ceccb4a, Logic-flaw
 - https://systemweakness.com/story-behind-sweet-ssrf-40c705f13053, SSRF
 - https://r4id3n.medium.com/ssrf-exploitation-in-spreedsheet-to-pdf-converter-2c7eacdac781, SSRF
-- https://warandcode.com/post/apify-mass-bug-bounty/, Akamai-ARL-attack
 - https://warandcode.com/post/akamai-arl-hack/, Akamai-ARL-attack
 - https://blog.blazeinfosec.com/attack-of-the-clones-2-git-command-client-remote-code-execution-strikes-back/, RCE
 - https://slashcrypto.org/2021/01/15/CVE-2020-1456/, XSS
@@ -974,7 +970,6 @@
 - https://weizman.github.io/2020/02/14/whatsapp-vuln/, RCE
 - https://techkranti.com/ssrf-aws-metadata-leakage, SSRF
 - https://www.amolbaikar.com/determine-users-with-detailed-role-model-on-behalf-of-any-facebook-application/, IDOR
-- https://flex0geek.blogspot.com/2020/02/using-csrf-i-got-weird-account-takeover.html, CSRF
 - https://medium.com/@sushiwushi2/hijacking-shared-report-links-in-google-data-studio-75eab320c391, Authorization-flaw
 - https://medium.com/@navne3t/csrf-csrf-csrf-f203e6452a9c, CSRF
 - https://techblog.mediaservice.net/2020/01/ok-google-bypass-the-authentication/, Authentication-bypass

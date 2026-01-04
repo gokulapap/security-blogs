@@ -2,3 +2,4 @@
 - https://medium.com/@jonathanbouman/unprotected-api-endpoint-at-hawebsso-nl-5f1951e212fe
 - https://ysamm.com/?p=697
 - https://rashahacks.com/bypassing-okta-sso-https-http/
+- https://security.lauritz-holtmann.de/post/xss-ato-gadgets/

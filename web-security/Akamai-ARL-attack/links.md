@@ -1,0 +1,1 @@
+- https://warandcode.com/post/apify-mass-bug-bounty/
