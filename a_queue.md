@@ -522,7 +522,6 @@
 - https://shahjerry33.medium.com/parameter-pollution-zero-day-3feb86ee8a02, HTTP-parameter-pollution
 - https://github.com/justinsteven/advisories/blob/main/2022_git_buried_bare_repos_and_fsmonitor_various_abuses.md, RCE
 - https://blog.haboob.sa/blog/adobe-reader-cjk-codecs-memory-disclosure-vulnerability, Memory-disclosure
-- https://web.archive.org/web/20220315141258/https://eslam3kl.medium.com/sql-injection-at-spotify-d19e0861ddf0, SQL-injection
 - https://medium.com/@tobydavenn/how-i-made-the-bbc-hall-of-fame-3-times-2c816fa515d7, Information-disclosure
 - https://bloggerrando.blogspot.com/2022/03/13-1.html, Broken-Access-Control
 - https://canmustdie.medium.com/how-did-i-leak-5-2k-customer-data-from-a-large-company-via-broken-access-control-709eb4027409, Broken-Access-Control
@@ -548,7 +547,6 @@
 - https://web.archive.org/web/20220612235502/https://bugs.0xdroopy.live/bugs/how-i-tracked-you-around-the-globe/, Information-disclosure
 - https://medium.com/@ladecruze/my-first-bounty-idor-self-xss-3000-cde89cbbc1b1, Self-XSS
 - https://sanyamchawla1999.medium.com/my-experience-of-hacking-the-dutch-government-8c219c61c795, XSS
-- https://medium.com/@damaidec/idor-vulnerability-on-invoice-and-weak-password-reset-leads-to-account-take-over-603b42143a8c, IDOR
 - https://www.offensive-security.com/offsec/microsoft-onedrive-macos-local-privesc/, Local-Privilege-Escalation
 - https://docs.google.com/document/d/1-TTCS6fS6kvFUkoJmX4Udr-czQ79lSUVXiWsiAED_bs/edit, RCE
 - https://perception-point.io/technical-analysis-of-cve-2022-22583-bypassing-macos-system-integrity-protection/, MacOS
@@ -670,7 +668,6 @@
 - https://blog.0xffff.info/2021/07/24/ebay-xss-demo-and-guide-to-spear-phishing/, XSS
 - https://craighays.com/pre-account-takeover-by-reversing-a-weak-email-verification-token-algorithm/, Weak-crypto
 - https://notifybugme.medium.com/how-i-was-able-find-mass-leaked-aws-s3-bucket-from-js-file-6064a5c247f8, AWS-misconfiguration
-- https://blog.takemyhand.xyz/2021/07/hacking-on-xiaomis-android-apps.html, Android
 - https://medium.com/@jawadmahdi/how-i-found-blind-sql-injection-just-by-browsing-and-getting-a-unique-url-ed87fa1f35ed, SQL-injection
 - https://krevetk0.medium.com/credential-stuffing-in-bug-bounty-hunting-7168dc1d3153, Credential-stuffing
 - https://tomorrowisnew.com/posts/broken-access-control-bug-bypassing-403-s-by-finding-another-endpoint-that-do-the-same-thing/, Broken-Access-Control
@@ -971,7 +968,6 @@
 - https://techkranti.com/ssrf-aws-metadata-leakage, SSRF
 - https://www.amolbaikar.com/determine-users-with-detailed-role-model-on-behalf-of-any-facebook-application/, IDOR
 - https://medium.com/@sushiwushi2/hijacking-shared-report-links-in-google-data-studio-75eab320c391, Authorization-flaw
-- https://medium.com/@navne3t/csrf-csrf-csrf-f203e6452a9c, CSRF
 - https://techblog.mediaservice.net/2020/01/ok-google-bypass-the-authentication/, Authentication-bypass
 - https://medium.com/@abhishake100/hyperlink-injection-easy-money-sometimes-cc1104655300, Hyperlink-injection
 - https://medium.com/bugbountywriteup/how-i-bought-my-way-to-subdomain-takeover-on-tokopedia-8c6697c85b4d, Subdomain-takeover
@@ -1321,7 +1317,6 @@
 - https://www.betterhacker.com/2016/10/command-injection-without-spaces.html, OS-command-injection
 - https://blog.zsec.uk/gif-time-pornhub/, XSS
 - https://blog.evanricafort.com/2016/09/xss-vulnerability-in-twitter.html, XSS
-- https://web.archive.org/web/20200817171403/https://whitehatnepal.tumblr.com/post/150381068912/how-i-snooped-into-your-private-slack-messages, Subdomain-takeover
 - https://web.archive.org/web/20200819161533/https://whitehatnepal.tumblr.com/post/149937173467/pornhub-email-confirmation-bypass, Email-verification-bypass
 - https://httpsonly.blogspot.com/2016/08/turning-self-xss-into-good-xss-v2.html, XSS
 - https://thehackerblog.com/floating-domains-taking-over-20k-digitalocean-domains-via-a-lax-domain-import-system/, Subdomain-takeover

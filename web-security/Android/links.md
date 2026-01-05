@@ -19,3 +19,4 @@
 - https://blog.scrt.ch/2023/03/29/attacking-android-antivirus-applications/
 - https://medium.com/@protostar0/hacking-bank-the-second-story-of-finding-critical-vulnerabilities-on-banking-application-ac20cd8f3dad
 - https://www.microsoft.com/en-us/security/blog/2023/03/06/protecting-android-clipboard-content-from-unintended-exposure/
+- https://blog.takemyhand.xyz/2021/07/hacking-on-xiaomis-android-apps.html

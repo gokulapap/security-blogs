@@ -115,3 +115,4 @@
 - https://xdev05.github.io/How-i-Got-3-SQLI-in-just-10-minutes/
 - https://jspin.re/fileupload-blind-sqli/
 - https://medium.com/pentesternepal/sql-injection-in-harvards-subdomain-c3148f8be156
+- https://web.archive.org/web/20220315141258/https://eslam3kl.medium.com/sql-injection-at-spotify-d19e0861ddf0
