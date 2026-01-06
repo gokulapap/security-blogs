@@ -1,0 +1,1 @@
+- https://theevilbit.github.io/posts/cve-2022-22655/

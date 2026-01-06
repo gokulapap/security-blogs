@@ -1,2 +1,3 @@
 - https://blog.viettelcybersecurity.com/saml-show-stopper/
 - https://pulsesecurity.co.nz/advisories/WebLogic-SAML-Vulnerabilities
+- https://blog.calif.io/p/redash-saml-authentication-bypass

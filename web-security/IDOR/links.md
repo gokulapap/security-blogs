@@ -265,3 +265,4 @@
 - https://susanwagle123.medium.com/idor-revealing-images-cdn-links-6589e19bdbaf
 - https://medium.com/@muhammadsholikhin/facebook-vulnerability-expose-group-member-3000-cca809a53f6b
 - https://medium.com/@damaidec/idor-vulnerability-on-invoice-and-weak-password-reset-leads-to-account-take-over-603b42143a8c
+- https://medium.com/@yaala/trim-private-live-videos-and-access-them-a331447cc82a

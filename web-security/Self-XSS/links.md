@@ -14,3 +14,4 @@
 - https://github.com/tess-ss/writeups/blob/main/bug.md
 - https://medium.com/@terminatorLM/small-bugs-are-more-dangerous-than-you-think-9411618191ab
 - https://medium.com/@nnez/always-escalate-from-self-xss-to-persistent-xss-on-login-portal-54265b0adfd0
+- https://krevetk0.medium.com/hacking-hackers-for-fun-and-profit-784e6c7897e8

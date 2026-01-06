@@ -1,2 +1,3 @@
 - https://blog.northseapwn.top/2022/11/11/Windows-Kernel-Exploit-CVE-2022-35803-in-Common-Log-File-System/index.html
 - https://decoder.cloud/2023/02/13/localpotato-when-swapping-the-context-leads-you-to-system/
+- https://www.akamai.com/blog/security-research/exploiting-critical-spoofing-vulnerability-microsoft-cryptoapi

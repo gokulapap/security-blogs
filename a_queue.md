@@ -136,7 +136,6 @@
 - https://infosecwriteups.com/unauthorized-access-to-the-admin-panel-via-leaked-credentials-on-the-waybackmachine-55c3307141c6, Information-disclosure
 - https://medium.com/@lopseg/bug-bounty-writeup-stored-xss-vulnerability-waf-bypass-f38aae7ff9eb, Stored-XSS
 - https://ltsirkov.medium.com/netflix-bypassing-multi-factor-authentication-mfa-53135c9d6d50, MFA-bypass
-- https://blog.calif.io/p/redash-saml-authentication-bypass, SAML
 - https://the-deniss.github.io/posts/2023/04/26/avast-privileged-arbitrary-file-create-on-quarantine.html, TOCTOU
 - https://mikko-kenttala.medium.com/alias-file-to-rule-them-all-one-click-code-execution-with-alias-file-in-macos-1eeb0a730b88, Arbitrary-Code-Execution
 - https://blog.ethiack.com/en/blog/git-arbitrary-configuration-injection-cve-2023-29007, Logic-flaw
@@ -210,7 +209,6 @@
 - https://github.com/blackarrowsec/redteam-research/tree/master/LPE%20via%20StorSvc, Local-Privilege-Escalation
 - https://mahmoudsec.blogspot.com/2023/02/sql-injection-utilizing-xml-functions.html, SQL-injection
 - https://pullerjsecu.medium.com/bypassing-cors-configurations-to-produce-an-account-takeover-for-fun-and-profit-3e50c3f2a124, CORS-misconfiguration
-- https://theevilbit.github.io/posts/cve-2022-22655/, MacoS
 - https://pvs-studio.com/en/blog/posts/csharp/0918/, XXE
 - https://infosecwriteups.com/disabling-js-for-the-win-9d13c606f910, Unrestricted-file-upload
 - https://the-deniss.github.io/posts/2023/02/09/elevation-of-privileges-from-everyone-through-avast-av-sandbox-to-system-amppl.html, Local-Privilege-Escalation
@@ -230,7 +228,6 @@
 - https://akashc99.medium.com/bypassing-account-lockout-through-password-reset-functionality-8ff5c256f380, Rate-limiting-bypass
 - https://blog.projectdiscovery.io/php-http-server-source-disclosure/, Source-code-disclosure
 - https://www.sonarsource.com/blog/openemr-remote-code-execution-in-your-healthcare-system/, RCE
-- https://www.akamai.com/blog/security-research/exploiting-critical-spoofing-vulnerability-microsoft-cryptoapi, Windows
 - https://www.varonis.com/blog/okta-attack-vectors, Insecure-storage-of-sensitive-information
 - https://www.zerodayinitiative.com/blog/2023/1/23/activation-context-cache-poisoning-exploiting-csrss-for-privilege-escalation, Local-Privilege-Escalation
 - https://ph-hitachi.medium.com/how-i-hacked-scopely-using-sign-in-with-google-298a9c166ad, Account-takeover
@@ -249,7 +246,6 @@
 - https://infosecwriteups.com/how-browsers-save-as-feature-might-lead-to-code-execution-cve-2022-45415-ebaa8711692, RCE
 - https://googleprojectzero.blogspot.com/2023/01/der-entitlements-brief-return-of.html, iOS
 - https://erasec.be/blog/client-side-path-manipulation/, Client-side-Path-Traversal
-- https://krevetk0.medium.com/hacking-hackers-for-fun-and-profit-784e6c7897e8, Self-XSS
 - https://ymohagheghi.medium.com/uploading-the-webshell-using-filename-of-content-disposition-header-story-59ba87752311, Unrestricted-file-upload
 - https://crypt0g30rgy.github.io/post/SSRFtoDos, SSRF
 - https://medium.com/@LogicalHunter/identity-aware-proxy-misconfiguration-google-cloud-vulnerability-813d2a07a4ed, CORS-misconfiguration
@@ -534,7 +530,6 @@
 - https://github.com/Metnew/write-ups/tree/main/rce-github-desktop-2.9.3, RCE
 - https://web.archive.org/web/20220220072733/https://bloggerrando.blogspot.com/2022/02/stored-xss-on-messagealibabacom-alibaba.html, Stored-XSS
 - https://medium.com/@720922/recon-and-youtube-is-that-a-thing-5523b48c32e3, Subdomain-takeover
-- https://medium.com/@yaala/trim-private-live-videos-and-access-them-a331447cc82a, IDOR
 - https://www.iot-inspector.com/blog/advisory-western-digital-my-cloud-pro-series-pr4100-rce/, RCE
 - https://ozguralp.medium.com/bigquery-sql-injection-cheat-sheet-65ad70e11eac, SQL-injection
 - https://twitter.com/FlashbackPwn/status/1492074441450397698, Memory-corruption
