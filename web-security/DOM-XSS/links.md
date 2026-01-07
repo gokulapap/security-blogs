@@ -39,3 +39,4 @@
 - https://medium.com/@haroonhameed_76621/dom-based-xss-for-fun-and-profit-bug-bounty-poc-f4b9554e95d
 - https://medium.com/@abdelfattahibrahim/from-recon-to-dom-based-xss-f279602a14cf
 - https://mike-n1.github.io/Chain_XSS
+- https://medium.com/@haroonhameed_76621/a-775-worth-of-cookies-reflected-dom-based-xss-bug-bounty-poc-3e7720c78fbe

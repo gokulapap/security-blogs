@@ -285,3 +285,4 @@
 - https://poc-server.com/blog/2018/05/22/rce-by-uploading-a-web-config
 - https://medium.com/tinder/exploiting-github-actions-on-open-source-projects-5d93936d189f
 - https://www.p1boom.com/2021/11/a-story-of-epic-blind-remote-code.html
+- http://blog.sysdum.net/parameter-injection-to-rce

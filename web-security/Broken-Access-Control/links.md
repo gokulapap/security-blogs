@@ -29,3 +29,4 @@
 - https://x64.sh/posts/ServiceNow-Insecure-access-control-to-admin/
 - https://bloggerrando.blogspot.com/2022/04/15-1.html
 - https://medium.com/@Hossam.Mesbah/broken-access-control-misconfiguration-beautiful-privilege-escalation-e4fdfd018efa
+- https://secureitmania.medium.com/never-leave-this-tip-while-you-hunting-broken-access-control-f63c00b1e96a
