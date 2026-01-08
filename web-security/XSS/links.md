@@ -307,3 +307,4 @@
 - https://medium.com/@thexssrat/miniseries-xss-to-the-core-pt-1-4a979b9e5139
 - https://www.bishopfox.com/blog/2017/06/how-i-built-an-xss-worm-on-atmail/
 - https://medium.com/@nandwanajatin25/self-stored-xss-to-full-account-takeover-fe8e71471795
+- https://zemnmez.medium.com/how-to-hack-apple-id-f3cc9b483a41

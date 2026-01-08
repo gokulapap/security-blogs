@@ -28,3 +28,4 @@
 - https://codewhitesec.blogspot.com/2023/04/java-exploitation-restrictions-in.html
 - https://infosecwriteups.com/the-story-of-a-rce-on-a-java-web-application-2e400cddcd1e
 - https://ssd-disclosure.com/ssd-advisory-microsoft-sharepoint-server-wizardconnecttodatastep4-deserialization-of-untrusted-data-rce/
+- https://medium.com/tenable-techblog/wordpress-buddyforms-plugin-unauthenticated-insecure-deserialization-cve-2023-26326-3becb5575ed8

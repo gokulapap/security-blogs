@@ -174,7 +174,6 @@
 - https://infosecwriteups.com/account-takeover-an-epic-bug-bounty-story-dd5468d5773d, Account-takeover
 - https://noahblog.360.cn/cve-2022-36413-unauthorized-reset-password-of-zoho-manageengine-adselfservice-plus/, Password-reset
 - https://infosecwriteups.com/dont-send-a-message-to-anyone-before-reading-this-account-takeover-vulnerability-external-audit-cf584a0c983c, HTTP-response-manipulation
-- https://medium.com/tenable-techblog/wordpress-buddyforms-plugin-unauthenticated-insecure-deserialization-cve-2023-26326-3becb5575ed8, Insecure-deserialization
 - https://blog.bitcrack.net/oracle-databases-remote-stealth-password-bruteforce/, Bruteforce
 - https://medium.com/@Ano_F_/manipulating-encrypted-traffic-using-pycript-b637612528bb, Client-side-encryption-bypass
 - https://eaton-works.com/2023/03/06/toyota-c360-hack/, Authentication-bypass
@@ -623,7 +622,6 @@
 - https://www.akamai.com/blog/security/autodiscovering-the-great-leak, Domain-name-collision
 - https://gccybermonks.com/posts/mxss/, XSS
 - https://medium.com/@varmaanu001/cookie-stealing-via-clickjacking-using-burp-collaborator-ff6f4ac1c18b, Clickjacking
-- https://medium.com/@sarveshblogs/a-small-tale-of-account-takeover-2eba07a6ef5f, IDOR
 - https://pwnsauc3.medium.com/weaponizing-reflected-xss-to-account-takeover-ae8aeea7aca3, XSS
 - https://asterfiester.medium.com/how-i-was-able-to-send-sms-from-google-to-anyone-google-vulnerability-3277ea0cc9d1, Content-spoofing
 - https://s3c.medium.com/how-i-hacked-world-wide-tiktok-users-24e794d310d2, IDOR
@@ -643,7 +641,6 @@
 - https://sunilyedla.medium.com/websocket-hijacking-to-steal-session-id-of-victim-users-bca84243830, Cross-Site-WebSocket-Hijacking
 - https://srcincite.io/blog/2021/08/25/pwn2own-vancouver-2021-microsoft-exchange-server-remote-code-execution.html, RCE
 - https://web.archive.org/web/20210909040725/https://obsrva.org/2021/08/22/monkeytype-disclosure.html, Stored-XSS
-- https://zemnmez.medium.com/how-to-hack-apple-id-f3cc9b483a41, XSS
 - https://tiszka.com/blog/CVE_2021_21225.html, Browser-hacking
 - https://ahmdhalabi.medium.com/taking-over-employee-accounts-by-managers-with-zero-employee-interaction-b60784c3ad84, Account-takeover
 - https://medium.com/@viralbhatt100/bypass-google-captcha-parameter-pollution-leads-to-send-email-to-any-user-on-behalf-of-9013aebbabae, HTTP-parameter-pollution
@@ -1268,7 +1265,6 @@
 - https://blog.securitybreached.org/2017/10/10/subdomain-takeover-lamborghini-hacked/, Subdomain-takeover
 - https://philippeharewood.com/facebook-graphql-csrf/, CSRF
 - https://markus-krell.de/craft-cms-why-case-matters/, Reflected-XSS
-- https://medium.com/@saamux/filter-bypass-to-reflected-xss-on-https-finance-yahoo-com-mobile-version-22b854327b27, Reflected-XSS
 - https://guptashubham.com/all-about-hackerone-private-program-terapeak/, IDOR
 - http://manuel-sousa.blogspot.com/2017/09/url-whitelist-bypass-accounts-google.html, Open-redirect
 - https://medium.com/@SyntaxError4/reflective-xss-and-open-redirect-on-indeed-com-subdomain-b4ab40e40c83, Reflected-XSS
@@ -1314,7 +1310,6 @@
 - https://guptashubham.com/xss-on-flickr/, XSS
 - http://www.kernelpicnic.net/2016/07/24/Microsoft-signout.live.com-Remote-Code-Execution-Write-Up.html, RCE
 - https://avicoder.me/2016/07/22/Twitter-Vine-Source-code-dump/, Source-code-disclosure
-- https://www.josipfranjkovic.com/blog/race-conditions-on-web, Race-condition
 - https://thehackerblog.com/poisoning-the-well-compromising-godaddy-customer-support-with-blind-xss/index.html, Blind-XSS
 - https://medium.com/@albeckshahar/facebook-invitees-email-address-disclosure-25059ae93725, Information-disclosure
 - https://ahussam.me/how-i-hacked-oculus-oauth-ebay-ibm/, Unrestricted-file-upload
