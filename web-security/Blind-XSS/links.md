@@ -25,3 +25,4 @@
 - https://shinchina.in/blog/2022-09-07/$900-blind-xss.html
 - https://blog.evanricafort.com/2018/08/blind-xss-in-chrome-experiments-google.html
 - https://med-mahmoudi26.medium.com/chaining-bugs-for-the-greater-good-664412ae85f8
+- https://medium.com/@newp_th/how-i-find-blind-xss-vulnerability-in-redacted-com-33af18b56869

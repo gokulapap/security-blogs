@@ -106,3 +106,4 @@
 - https://www.seekurity.com/blog/general/fiverr-com-full-accounts-takeover-vulnerability/
 - https://flex0geek.blogspot.com/2020/02/using-csrf-i-got-weird-account-takeover.html
 - https://medium.com/@navne3t/csrf-csrf-csrf-f203e6452a9c
+- https://muhammad-aamir.medium.com/exploitation-of-files-download-parameters-to-create-potential-risk-of-malware-delivery-200-bug-e2bcce0e737

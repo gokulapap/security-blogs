@@ -308,3 +308,4 @@
 - https://www.bishopfox.com/blog/2017/06/how-i-built-an-xss-worm-on-atmail/
 - https://medium.com/@nandwanajatin25/self-stored-xss-to-full-account-takeover-fe8e71471795
 - https://zemnmez.medium.com/how-to-hack-apple-id-f3cc9b483a41
+- https://whitton.io/articles/xss-on-facebook-via-png-content-types
