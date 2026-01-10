@@ -13,3 +13,4 @@
 - https://medium.com/@mrd17x/my-account-takeover-writeup-5000-6895492aa549
 - https://web.archive.org/web/20201123204526/https://medium.com/@olisandip99/chaining-rate-limiting-for-account-lockout-6a2a7828dd24
 - https://smaranchand.com.np/2019/08/no-rate-limiting-eligible-for-bounty
+- https://ysamm.com/?p=396
