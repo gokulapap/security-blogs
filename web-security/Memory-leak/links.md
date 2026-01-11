@@ -1,1 +1,2 @@
 - https://firefart.at/post/multiple_vulnerabilities_cisco_expressway/
+- https://www.rcesecurity.com/2023/04/securepwn-part-2-leaking-remote-memory-contents-cve-2023-22897/

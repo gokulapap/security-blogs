@@ -287,3 +287,4 @@
 - https://medium.com/@mateusz.olejarka/finding-hidden-gems-vol-1-forging-oauth-tokens-using-discovered-client-id-and-client-secret-467f1cd21714
 - https://ysamm.com/?p=636
 - https://medium.com/@tobydavenn/how-i-made-the-bbc-hall-of-fame-3-times-2c816fa515d7
+- https://habr.com/en/post/579714/

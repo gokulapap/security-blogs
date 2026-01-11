@@ -57,3 +57,4 @@
 - https://web.archive.org/web/20200928234202/https://www.mohamedharon.com/2019/02/subdomain-takeover-via-hubspot.html
 - https://tmosh.medium.com/incident-response-during-christmas-33c7fabb1429
 - https://web.archive.org/web/20200817171403/https://whitehatnepal.tumblr.com/post/150381068912/how-i-snooped-into-your-private-slack-messages
+- https://medium.com/@secureITmania/weird-subdomain-take-over-pattern-of-amazon-s3-75165ab2e883

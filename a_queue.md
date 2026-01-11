@@ -146,7 +146,6 @@
 - https://material.security/blog/how-material-security-uncovered-a-vulnerability-in-gmail-api, Broken-Access-Control
 - https://www.pingsafe.com/blog/linkedin-vulnerability-delete-any-post, IDOR
 - https://starlabs.sg/advisories/23/23-2017/, SSTI
-- https://www.rcesecurity.com/2023/04/securepwn-part-2-leaking-remote-memory-contents-cve-2023-22897/, Memory-leak
 - https://offsec.almond.consulting/ghostscript-cve-2023-28879.html, Buffer-Overflow
 - https://medium.com/@zhero_/a-successful-prototype-pollution-chained-to-a-dom-xss-9887087b56a4, Prototype-pollution
 - https://medium.com/@ch3tanbug/how-i-was-able-to-change-password-of-any-corporate-user-c68b9509840, Account-takeover
@@ -614,7 +613,6 @@
 - https://blog.tint0.com/2021/09/pinging-xmlsec.html, XSLT
 - https://dewcode.medium.com/force-browsing-bug-at-facebook-business-plan-500-bounty-73d1bb4883af, Authorization-flaw
 - https://medium.com/@bobbyrsec/zero-day-hijacking-icloud-credentials-with-apple-airtags-stored-xss-6997da43a216, Stored-XSS
-- https://habr.com/en/post/579714/, Information-disclosure
 - https://www.akamai.com/blog/security/autodiscovering-the-great-leak, Domain-name-collision
 - https://gccybermonks.com/posts/mxss/, XSS
 - https://medium.com/@varmaanu001/cookie-stealing-via-clickjacking-using-burp-collaborator-ff6f4ac1c18b, Clickjacking
@@ -897,7 +895,6 @@
 - https://medium.com/bugbountywriteup/how-i-leveraged-an-interesting-csrf-vulnerability-to-turn-self-xss-into-a-persistent-attack-b780824042d2, Self-XSS
 - https://medium.com/@win3zz/how-i-made-31500-by-submitting-a-bug-to-facebook-d31bb046e204, SSRF
 - https://f4d3.io/xxe_wild/, XXE
-- https://medium.com/@secureITmania/weird-subdomain-take-over-pattern-of-amazon-s3-75165ab2e883, Subdomain-takeover
 - https://ezqelusia.blogspot.com/2020/05/microsofts-first-bug.html, Memory-corruption
 - https://medium.com/bugbountywriteup/weak-cryptography-leads-to-open-redirect-3fe052c12995, Open-redirect
 - https://blog.raphael.karger.is/articles/2020-05/CVE-2020-13693, Privilege-escalation
@@ -1151,7 +1148,6 @@
 - https://portswigger.net/research/bypassing-web-cache-poisoning-countermeasures, Web-cache-poisoning
 - https://medium.com/@raushanraj_65039/clickjacking-in-google-docs-and-voice-typing-feature-c481d00b020a, Clickjacking
 - https://medium.com/@jonathanbouman/stored-xss-unvalidated-embed-at-medium-com-528b0d6d4982, Stored-XSS
-- https://ls-la.fyi/2018/09/28/subway-xposed/, Logic-flaw
 - https://medium.com/@justmorpheus/idor-content-spoofing-and-url-redirection-via-unsubscribe-email-in-confluent-1fa7398cfe7a, IDOR
 - https://medium.com/@sivakrishnasamireddi/just-another-tale-of-severe-bugs-on-a-private-program-405870b03532, Open-redirect
 - https://medium.com/@rahulraveendran06/weaponizing-xss-attacking-internal-domains-d8ba1cbd106d, Blind-XSS
@@ -1273,7 +1269,6 @@
 - https://labs.detectify.com/2017/07/27/how-we-invented-the-tesla-dom-doom-xss/, DOM-XSS
 - https://medium.com/@arbazhussain/ctrl-d5ffc7b0640e, Clickjacking
 - https://wesecureapp.com/blog/xss-by-tossing-cookies/, XSS
-- https://web.archive.org/web/20180827025910/http://www.paulosyibelo.com/2017/07/coinbase-angularjs-dom-xss-via-kiteworks.html, DOM-XSS
 - https://www.arneswinnen.net/2017/06/authentication-bypass-on-ubers-sso-via-subdomain-takeover/, Subdomain-takeover
 - https://blog.witcoat.com/2018/05/30/xss-on-bugcrowd-and-so-many-other-websites-main-domain/, Reflected-XSS
 - https://www.rafaybaloch.com/2017/06/stored-xss-csrf-and-clickjacking.html, Stored-XSS
