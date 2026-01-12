@@ -2,3 +2,4 @@
 - https://bugs.php.net/bug.php?id=81719
 - https://www.zerodayinitiative.com/blog/2022/6/7/cve-2022-26937-microsoft-windows-network-file-system-nlm-portmap-stack-buffer-overflow
 - https://mouha.be/sha-3-buffer-overflow/
+- https://ssd-disclosure.com/ssd-advisory-tp-link-tl-wr840n-stack-buffer-overflow-dos/

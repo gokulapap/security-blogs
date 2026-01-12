@@ -286,3 +286,4 @@
 - https://medium.com/tinder/exploiting-github-actions-on-open-source-projects-5d93936d189f
 - https://www.p1boom.com/2021/11/a-story-of-epic-blind-remote-code.html
 - http://blog.sysdum.net/parameter-injection-to-rce
+- https://srcincite.io/blog/2021/08/25/pwn2own-vancouver-2021-microsoft-exchange-server-remote-code-execution.html

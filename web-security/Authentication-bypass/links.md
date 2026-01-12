@@ -74,3 +74,4 @@
 - https://medium.com/techiepedia/unauthenticated-access-to-cloud-portal-a-without-%EF%B8%8F-9f29c387b937
 - https://www.dsecbypass.com/en/centreon-map-vulnerability/
 - https://rizwansiddiqu1.medium.com/super-admin-panel-without-credentials-c2022a23bb35
+- https://claroty.com/team82/blog/with-management-comes-risk-finding-flaws-in-filewave-mdm
