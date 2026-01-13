@@ -18,3 +18,4 @@
 - https://www.wiz.io/blog/hells-keychain-supply-chain-attack-in-ibm-cloud-databases-for-postgresql
 - https://orca.security/resources/blog/azure-shared-key-authorization-exploitation/
 - https://blog.lightspin.io/aws-ecr-public-vulnerability
+- https://blog.doyensec.com/2022/10/18/cloudsectidbit-dataimport.html

@@ -117,3 +117,4 @@
 - https://medium.com/pentesternepal/sql-injection-in-harvards-subdomain-c3148f8be156
 - https://web.archive.org/web/20220315141258/https://eslam3kl.medium.com/sql-injection-at-spotify-d19e0861ddf0
 - https://cyllective.com/blog/post/research_audit_wordpress_plugins/
+- https://blog.hckrt.com/blog/thisclosed_2/

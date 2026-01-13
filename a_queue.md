@@ -153,7 +153,6 @@
 - https://www.zerodayinitiative.com/blog/2023/4/5/bash-privileged-mode-vulnerabilities-in-parallels-desktop-and-cdpath-handling-in-macos, MacoS
 - https://bishopfox.com/blog/windows-task-scheduler-19044-advisory, Unquoted-search-path
 - https://kuldeep.io/posts/holiday-hunting-with-aquatone/, SSRF
-- https://chevonphillip.medium.com/blind-xss-via-sms-support-chat-1100-bug-bounty-779a1e19cc51, Blind-XSS
 - https://rayhan0x01.github.io/ctf/2023/04/01/finding-rce-in-eta-cve-2022-25967.html, RCE
 - https://www.reversemode.com/2023/03/beware-of-javas-stringgetbytes.html, Hash-collision
 - https://www.mannulinux.org/2023/03/exploiting-hibernate-injection-in-order.html, HQL-injection
@@ -234,7 +233,6 @@
 - https://orca.security/resources/blog/ssrf-vulnerabilities-in-four-azure-services/, SSRF
 - https://onekey.com/blog/security-advisory-wago-unauthenticated-config-export-vulnerability/, Path-traversal
 - https://blog.viettelcybersecurity.com/cve-2022-21587-oracle-e-business-suite-unauth-rce/, RCE
-- https://blog.hckrt.com/blog/thisclosed_2/, SQL-injection
 - https://blog.geekycat.in/xss-using-postmessage-in-google-cloud-theia-notebooks/, XSS
 - https://infosecwriteups.com/how-browsers-save-as-feature-might-lead-to-code-execution-cve-2022-45415-ebaa8711692, RCE
 - https://googleprojectzero.blogspot.com/2023/01/der-entitlements-brief-return-of.html, iOS
@@ -258,7 +256,6 @@
 - https://dappsec.substack.com/p/an-advisory-for-cve-2019-16891-from, RCE
 - https://0xraminfosec.medium.com/simple-cors-misconfig-leads-to-disclose-the-sensitive-token-worth-of-91433763f4d6, CORS-misconfiguration
 - https://salt.security/blog/missing-bricks-finding-security-holes-in-lego-apis, XSS
-- https://www.akamai.com/blog/security-research/msrpc-lsm-cve-disturbing-hosts-rest, Windows
 - https://aidenpearce369.github.io/offsec/My-First-RedTeam-Engagement/, SQL-injection
 - https://0xmayankgarg.medium.com/pii-data-exfiltration-within-minutes-f06d4587d201, Information-disclosure
 - https://medium.com/@mrd17x/scoring-for-a-very-simple-bug-you-dont-always-need-proxy-tools-872a832f83ea, IDOR
@@ -320,7 +317,6 @@
 - https://medium.com/the-gray-area/1-000-p1-pii-disclosure-w-idor-cb344c55d52e, IDOR
 - https://medium.com/@h4x0r_dz/23000-for-authentication-bypass-file-upload-arbitrary-file-overwrite-2578b730a5f8, JWT
 - https://www.mdsec.co.uk/2022/10/microsoft-office-online-server-remote-code-execution/, SSRF
-- https://blog.doyensec.com/2022/10/18/cloudsectidbit-dataimport.html, Cloud
 - https://lokeshdlk77.medium.com/facebook-sms-captcha-was-vulnerable-to-csrf-attack-8db537b1e980, CSRF
 - https://infosecwriteups.com/its-the-little-things-breaking-an-ai-40c30ae85f37, Path-traversal
 - https://checkmarx.com/blog/some-vulnerabilities-dont-have-a-name/, ReDoS
@@ -1065,7 +1061,6 @@
 - https://blog.usejournal.com/an-unusal-bug-on-braintree-paypal-b8d3ec662414, DoS
 - https://medium.com/@paulorcchoupina/a-real-xss-in-olx-7727ae89c640, Reflected-XSS
 - https://www.rodneybeede.com/security/slack-announcement-only-channel-post-restriction-bypass.html, Authorization-flaw
-- https://medium.com/@80vul/from-http-domain-to-res-domain-xss-by-using-ie-adobes-pdf-activex-plugin-9f2a72a87aff, DOM-XSS
 - https://medium.com/@avinash_/disclosure-of-pending-roles-for-any-facebook-page-ab6e4e219f8e, IDOR
 - https://medium.com/@rohitcoder/user-account-takeover-password-change-nice-catch-2293f4d272b2, Account-takeover
 - https://medium.com/cesppa/escalating-ssrf-to-rce-f28c482eb8b9, SSRF
