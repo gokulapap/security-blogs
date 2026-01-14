@@ -310,3 +310,4 @@
 - https://zemnmez.medium.com/how-to-hack-apple-id-f3cc9b483a41
 - https://whitton.io/articles/xss-on-facebook-via-png-content-types
 - https://medium.com/bugbountywriteup/3-minutes-xss-71e3340ad66b
+- https://medium.com/@armaanpathan/dont-just-alert-1-because-xss-is-for-fun-f88cfb88d5b9

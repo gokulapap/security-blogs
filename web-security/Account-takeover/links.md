@@ -108,3 +108,4 @@
 - https://medium.com/@rikeshbaniyaaa/how-i-was-able-to-do-mass-account-takeover-bug-bounty-b279af1ce62b
 - https://ysamm.com/?p=729
 - https://samcurry.net/web-hackers-vs-the-auto-industry/
+- https://vengeance.medium.com/authorization-token-leak-from-verifying-email-endpoint-f28803476680
