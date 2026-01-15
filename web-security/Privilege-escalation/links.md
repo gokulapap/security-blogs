@@ -55,3 +55,4 @@
 - https://web.archive.org/web/20211106100048/https://monke.ie/unicorn-programs/
 - https://www.mdsec.co.uk/2023/03/exploiting-cve-2023-23397-microsoft-outlook-elevation-of-privilege-vulnerability/
 - https://medium.com/cider-sec/bypassing-required-reviews-using-github-actions-6e1b29135cc7
+- https://medium.com/bugbountywriteup/facebook-workplace-privilege-escalation-vulnerability-to-change-the-post-privacy-as-public-634f1c995780

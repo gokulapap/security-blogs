@@ -197,7 +197,6 @@
 - https://medium.com/@niraj1mahajan/hacking-the-search-bar-the-story-of-discovering-and-reporting-an-xss-vulnerability-on-bing-com-cac2f241835, XSS
 - https://blog.trailofbits.com/2023/02/16/suid-logic-bug-linux-readline/, Local-Privilege-Escalation
 - https://blog.infiltrateops.io/hacking-apple-two-successful-exploits-and-positive-thoughts-on-their-bug-bounty-program-963efe7518f6, RCE
-- https://wesecureapp-smm.medium.com/assumed-breach-assessment-case-study-uncovering-wesecureapps-approach-45a512c0bd63, Internal-pentest
 - https://github.com/blackarrowsec/redteam-research/tree/master/LPE%20via%20StorSvc, Local-Privilege-Escalation
 - https://mahmoudsec.blogspot.com/2023/02/sql-injection-utilizing-xml-functions.html, SQL-injection
 - https://pullerjsecu.medium.com/bypassing-cors-configurations-to-produce-an-account-takeover-for-fun-and-profit-3e50c3f2a124, CORS-misconfiguration
@@ -860,7 +859,6 @@
 - https://ysamm.com/?p=479, Information-disclosure
 - https://infosecwriteups.com/story-of-a-2-5k-bounty-ssrf-on-zimbra-led-to-dump-all-credentials-in-clear-text-6fe826005ccc, SSRF
 - https://0xsha.io/posts/zombievpn-breaking-that-internet-security, RCE
-- https://web.archive.org/web/20200629033551/https://blogs.ad3sh.com/2020/06/api-endpoint-leads-to-account-takeover.html, Exposed-token-generation-endpoint
 - https://blog.assetnote.io/2020/06/29/subdomain-takeover-to-account-takeover/, Subdomain-takeover
 - https://web.archive.org/web/20200627125016/https://medium.com/@s3c/hacked-worldwide-zoom-users-fceb31868c2d, OAuth
 - https://web.archive.org/web/20200626065913/https://medium.com/@saugatpokharel/able-to-create-hidden-comment-by-blocking-an-admin-facebook-bug-bounty-2020-c62bd10712f, Logic-flaw
@@ -954,7 +952,6 @@
 - https://medium.com/@dPhoeniixx/vimeo-upload-function-ssrf-7466d8630437, SSRF
 - https://www.ezequiel.tech/p/500-getclass.html, Sandbox-bypass
 - https://medium.com/@navne3t/a-25-easy-bug-bdfcde4d1370, Session-management-issue
-- https://medium.com/@ultranoob/weird-and-simple-2fa-bypass-without-any-test-b869e09ac261, MFA-bypass
 - https://blog.darabi.me/2019/12/instagram-delete-media-csrf.html, CSRF
 - https://github.com/Metnew/telegram-links-nsworkspace-open, RCE
 - https://www.hackerinside.me/2019/12/xss-like-pro.html, XSS
@@ -981,7 +978,6 @@
 - https://medium.com/@r99tiq/how-i-hacked-basf-company-3b75ef39c74f, Missing-authentication
 - https://spidersec.ninja/Youtube-X-frame-options-Bypass-Vulnerability, Clickjacking
 - https://blog.usejournal.com/how-recon-helped-samsung-protect-their-production-repositories-of-samsungtv-ecommerce-estores-4c51d6ec4fdd, Information-disclosure
-- https://medium.com/bugbountywriteup/facebook-workplace-privilege-escalation-vulnerability-to-change-the-post-privacy-as-public-634f1c995780, Privilege-escalation
 - https://web.archive.org/web/20200820030055/https://pwnsec.ninja/2019/09/14/how-i-found-a-simple-and-weird-account-takeover-bug/, Account-takeover
 - https://philippeharewood.com/add-users-to-roles-on-facebook-pages-without-an-invitation-consent/, Authorization-flaw
 - https://hateshape.github.io/general/2019/09/06/SuperGlamorousReconwithIntendedFunctionalities.html, SSTI
@@ -1214,7 +1210,6 @@
 - https://medium.freecodecamp.org/how-anyone-could-have-used-uber-to-ride-for-free-36cdee5ea854, Logic-flaw
 - http://blog.jr0ch17.com/2018/No-RCE-then-SSH-to-the-box/, LFI
 - http://omespino.com/write-up-file-disclosure-via-ds_store-file-macos, Directory-listing
-- https://medium.com/@circleninja/internshala-bug-in-internshala-student-partner-33d7b66c1bd5, Bruteforce
 - https://emtunc.org/blog/01/2018/research-misconfigured-jenkins-servers/, Information-disclosure
 - http://c0rni3sm.blogspot.com/2018/01/1800-in-less-than-hour.html, CSRF
 - https://blog.ibrahimdraidia.com/xss-via-angularjs-template-injection_hostinger/, Reflected-XSS

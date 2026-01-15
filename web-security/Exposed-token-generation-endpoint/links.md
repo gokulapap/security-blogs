@@ -1,0 +1,1 @@
+- https://web.archive.org/web/20200629033551/https://blogs.ad3sh.com/2020/06/api-endpoint-leads-to-account-takeover.html

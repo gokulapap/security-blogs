@@ -27,3 +27,4 @@
 - https://gauravnarwani.com/two-factor-authentication-bypass/
 - https://bugbountypoc.com/instagram-account-is-reactivated-without-entering-2fa/
 - https://infosecwriteups.com/2fa-bypass-via-forced-browsing-9e511dfdb8df
+- https://medium.com/@ultranoob/weird-and-simple-2fa-bypass-without-any-test-b869e09ac261
