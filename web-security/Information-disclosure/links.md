@@ -289,3 +289,4 @@
 - https://medium.com/@tobydavenn/how-i-made-the-bbc-hall-of-fame-3-times-2c816fa515d7
 - https://habr.com/en/post/579714/
 - https://infosecwriteups.com/unauthorized-access-to-the-admin-panel-via-leaked-credentials-on-the-waybackmachine-55c3307141c6
+- https://medium.com/@albeckshahar/facebook-invitees-email-address-disclosure-25059ae93725

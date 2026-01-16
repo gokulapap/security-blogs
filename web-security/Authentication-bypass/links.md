@@ -75,3 +75,4 @@
 - https://www.dsecbypass.com/en/centreon-map-vulnerability/
 - https://rizwansiddiqu1.medium.com/super-admin-panel-without-credentials-c2022a23bb35
 - https://claroty.com/team82/blog/with-management-comes-risk-finding-flaws-in-filewave-mdm
+- https://medium.com/@rojanrijal/source-code-analysis-in-ysurvey-luminate-bug-c86dc29b70c4

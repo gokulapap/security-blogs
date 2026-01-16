@@ -131,7 +131,6 @@
 - https://www.revblock.dev/exploiting-misconfigured-google-cloud-service-accounts-from-github-actions/, OpenID-Connect
 - https://ophionsecurity.com/blog/placeholder-for-dayzzz, SSTI
 - https://medium.com/@lopseg/bug-bounty-writeup-stored-xss-vulnerability-waf-bypass-f38aae7ff9eb, Stored-XSS
-- https://ltsirkov.medium.com/netflix-bypassing-multi-factor-authentication-mfa-53135c9d6d50, MFA-bypass
 - https://the-deniss.github.io/posts/2023/04/26/avast-privileged-arbitrary-file-create-on-quarantine.html, TOCTOU
 - https://mikko-kenttala.medium.com/alias-file-to-rule-them-all-one-click-code-execution-with-alias-file-in-macos-1eeb0a730b88, Arbitrary-Code-Execution
 - https://blog.ethiack.com/en/blog/git-arbitrary-configuration-injection-cve-2023-29007, Logic-flaw
@@ -862,7 +861,6 @@
 - https://blog.assetnote.io/2020/06/29/subdomain-takeover-to-account-takeover/, Subdomain-takeover
 - https://web.archive.org/web/20200627125016/https://medium.com/@s3c/hacked-worldwide-zoom-users-fceb31868c2d, OAuth
 - https://web.archive.org/web/20200626065913/https://medium.com/@saugatpokharel/able-to-create-hidden-comment-by-blocking-an-admin-facebook-bug-bounty-2020-c62bd10712f, Logic-flaw
-- https://medium.com/bugbountywriteup/all-about-getting-first-bounty-with-idor-849db2828c8, IDOR
 - https://medium.com/@mase289/a-tale-of-my-first-ever-full-ssrf-bug-4fe71a76e9c4, SSRF
 - https://jub0bs.com/posts/2020-06-23-ssrf/, SSRF
 - https://medium.com/bugbountywriteup/bypass-2fa-like-a-boss-378787707ba, Lack-of-rate-limiting
@@ -976,7 +974,6 @@
 - https://medium.com/@manralhemant10/how-i-bypassed-2-factor-authentication-899750421331, MFA-bypass
 - https://medium.com/@rohitcoder/whitehat-test-accounts-can-act-as-hidden-admin-with-business-manager-ad-accounts-ce75ead5ffff, Authorization-flaw
 - https://medium.com/@r99tiq/how-i-hacked-basf-company-3b75ef39c74f, Missing-authentication
-- https://spidersec.ninja/Youtube-X-frame-options-Bypass-Vulnerability, Clickjacking
 - https://blog.usejournal.com/how-recon-helped-samsung-protect-their-production-repositories-of-samsungtv-ecommerce-estores-4c51d6ec4fdd, Information-disclosure
 - https://web.archive.org/web/20200820030055/https://pwnsec.ninja/2019/09/14/how-i-found-a-simple-and-weird-account-takeover-bug/, Account-takeover
 - https://philippeharewood.com/add-users-to-roles-on-facebook-pages-without-an-invitation-consent/, Authorization-flaw
@@ -1188,7 +1185,6 @@
 - https://medium.com/bugbountywriteup/bypassing-captcha-like-a-boss-d0edcc3a1c1, Captcha-bypass
 - https://medium.com/@flex0geek/how-i-bypassed-ebay-process-on-redirect-98739384b4bc, Open-redirect
 - https://medium.com/bugbountywriteup/how-i-broke-into-google-issue-tracker-667b9e33e931, Logic-flaw
-- https://medium.com/@rojanrijal/source-code-analysis-in-ysurvey-luminate-bug-c86dc29b70c4, Authentication-bypass
 - https://medium.com/bugbountywriteup/piercing-the-veil-server-side-request-forgery-to-niprnet-access-c358fd5e249a, SSRF
 - https://web.archive.org/web/20200929003337/https://www.mohamedharon.com/2018/04/reflected-xss-on-wwwzomatocom-by.html, Reflected-XSS
 - https://medium.com/@hisham.mir/exploiting-a-single-parameter-6f4ba2acf523, SSRF
@@ -1277,7 +1273,6 @@
 - http://www.kernelpicnic.net/2016/07/24/Microsoft-signout.live.com-Remote-Code-Execution-Write-Up.html, RCE
 - https://avicoder.me/2016/07/22/Twitter-Vine-Source-code-dump/, Source-code-disclosure
 - https://thehackerblog.com/poisoning-the-well-compromising-godaddy-customer-support-with-blind-xss/index.html, Blind-XSS
-- https://medium.com/@albeckshahar/facebook-invitees-email-address-disclosure-25059ae93725, Information-disclosure
 - https://ahussam.me/how-i-hacked-oculus-oauth-ebay-ibm/, Unrestricted-file-upload
 - https://bitquark.co.uk/blog/2016/02/09/how_i_got_access_to_millions_of_redacted_accounts, RFI
 - https://medium.com/bugbountywriteup/how-i-got-listed-in-microsoft-hall-of-fame-8f96ca4535c2, IDOR

@@ -268,3 +268,4 @@
 - https://medium.com/@yaala/trim-private-live-videos-and-access-them-a331447cc82a
 - https://medium.com/@sarveshblogs/a-small-tale-of-account-takeover-2eba07a6ef5f
 - https://medium.com/@swapmaurya20/3-step-idor-in-hackerresume-a365f2632996
+- https://medium.com/bugbountywriteup/all-about-getting-first-bounty-with-idor-849db2828c8

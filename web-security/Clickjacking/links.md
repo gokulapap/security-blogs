@@ -27,3 +27,4 @@
 - https://maustin.net/google_docs
 - https://systemweakness.com/how-i-made-the-multiple-hall-of-fame-in-nokia-within-2-minutes-535056fcb66d
 - https://apapedulimu.click/clickjacking-on-google-myaccount-worth-7500/
+- https://spidersec.ninja/Youtube-X-frame-options-Bypass-Vulnerability
