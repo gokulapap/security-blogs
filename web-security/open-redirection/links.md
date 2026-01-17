@@ -9,3 +9,4 @@
 - https://medium.com/@sushantdhopat/how-i-able-to-perform-open-redirection-lead-to-full-account-takeover-6a624210c5e0
 - https://medium.com/@h4krg33k/open-redirects-for-bug-bounties-bf4b58313842
 - https://medium.com/@grahamzemel/a-500-open-redirect-bounty-in-under-10-minutes-fbb1cce063e5
+- https://medium.com/@vignesh3004/open-redirect-vulnerability-in-igp-com-c1d76efc59b3

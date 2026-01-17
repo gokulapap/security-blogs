@@ -16,3 +16,4 @@
 - https://spyclub.tech/2022/12/14/unusual-cache-poisoning-akamai-s3/
 - https://web.archive.org/web/20210730144815/https://www.cysek.org/post/sxss-by-cache-poison-attack
 - https://pullerjsecu.medium.com/how-i-was-able-to-turn-a-xss-into-a-account-takeover-ae0c478640e7
+- https://enumerated.wordpress.com/2020/08/05/the-case-of-the-missing-cache-keys/

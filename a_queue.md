@@ -4,7 +4,6 @@
 - https://medium.com/@_deshine_/easy-2000-race-condition-b4d093c9bc3c, race-condition
 - https://medium.com/@vickieli/learn-about-command-injection-attacks-1cd0d178fe65, injection
 - https://medium.com/@amit-lt/scenario-of-reflected-cross-site-scripting-vulnerability-a3ee189dd822, XSS
-- https://medium.com/@vignesh3004/open-redirect-vulnerability-in-igp-com-c1d76efc59b3, open-redirection
 - https://medium.com/@sumedh00/accessing-admin-dashboard-in-5-seconds-acee737eacfb, journey
 - https://medium.com/@vickieli/intro-to-ssrf-beb35857771f, ssrf
 - https://medium.com/@nanwinata/rce-docker-api-but-11ff70825935, Cloud
@@ -619,7 +618,6 @@
 - https://cho0k.com/wp-content/uploads/2021/08/FullPoC.pdf, Privilege-escalation
 - https://theshubh77.medium.com/bypassing-2-factor-authentication-for-facebook-business-manager-bounty-1000-usd-c78c858459d6, MFA-bypass
 - https://itsfading.github.io/posts/I-owe-your-Request-HTTP-Request-Smuggling-leads-to-Full-Accounts-takeover/, HTTP-Request-Smuggling
-- https://blog.usamav.dev/two-account-takeover-bugs-worth-4300-dollar-bounty, Account-takeover
 - https://infosecwriteups.com/how-did-i-earned-6000-from-tokens-and-scopes-in-one-day-12f95c6bf8aa, Authorization-flaw
 - https://web.archive.org/web/20210920030213/https://pmoc.netsoc.cloud/oauth-idor-pii/, IDOR
 - https://sunilyedla.medium.com/websocket-hijacking-to-steal-session-id-of-victim-users-bca84243830, Cross-Site-WebSocket-Hijacking
@@ -816,7 +814,6 @@
 - https://mazinahmed.net/blog/hacking-zoom/, Information-disclosure
 - https://medium.com/@zseano/the-feature-works-as-intended-but-whats-in-the-source-d29f9401bcf6, Information-disclosure
 - https://medium.com/@DK999/apache-example-servlet-leads-to-61a2720cac20, Clickjacking
-- https://enumerated.wordpress.com/2020/08/05/the-case-of-the-missing-cache-keys/, Web-cache-poisoning
 - https://medium.com/bugbountywriteup/csrf-poc-mistake-that-broke-crucial-functions-for-the-end-user-victim-ef4fa4584ca8, Logic-flaw
 - https://pulsesecurity.co.nz/advisories/AWS-Bastion-Logger-Bypass, Logging-bypass
 - https://www.computest.nl/en/knowledge-platform/blog/vulnerability-new-touchid-feature-iCloud-accounts-at-risk-breached/, OAuth
@@ -967,7 +964,6 @@
 - https://medium.com/@masonhck357/chains-on-chains-chaining-several-idors-into-account-takeover-part-one-373627f2910f, IDOR
 - https://blog.sagarvd.me/2019/11/taking-over-facebook-page-tabs.html, Broken-link-hijacking
 - https://terjanq.github.io/Bug-Bounty/Google/cache-attack-06jd2d2mz2r0/index.html, XS-Search
-- https://fletchto99.dev/2019/november/slack-vulnerability/, CSS-injection
 - https://geleta.eu/2019/my-first-ssrf-using-dns-rebinfing/, SSRF
 - https://philippeharewood.com/1-800-flowers-credentials-and-message-log-leak-via-facebook-com-facebook/, AWS-misconfiguration
 - https://medium.com/bugbountywriteup/how-i-was-able-to-bypass-otp-token-requirement-in-razer-the-story-of-a-critical-bug-fc63a94ad572, OTP-bypass
@@ -1130,7 +1126,6 @@
 - https://medium.com/@jonathanbouman/stored-xss-unvalidated-embed-at-medium-com-528b0d6d4982, Stored-XSS
 - https://medium.com/@justmorpheus/idor-content-spoofing-and-url-redirection-via-unsubscribe-email-in-confluent-1fa7398cfe7a, IDOR
 - https://medium.com/@sivakrishnasamireddi/just-another-tale-of-severe-bugs-on-a-private-program-405870b03532, Open-redirect
-- https://medium.com/@rahulraveendran06/weaponizing-xss-attacking-internal-domains-d8ba1cbd106d, Blind-XSS
 - https://nirmaldahal.com.np/posts/2019/11/r-xss-leading-csrf-bypass-to-account-takeover/, Reflected-XSS
 - https://websecblog.com/vulns/bypassing-firebase-authorization-to-create-custom-goo-gl-subdomains/, Logic-flaw
 - https://medium.com/@jonathanbouman/local-file-inclusion-at-ikea-com-e695ed64d82f, LFI

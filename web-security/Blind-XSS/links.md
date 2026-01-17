@@ -27,3 +27,4 @@
 - https://med-mahmoudi26.medium.com/chaining-bugs-for-the-greater-good-664412ae85f8
 - https://medium.com/@newp_th/how-i-find-blind-xss-vulnerability-in-redacted-com-33af18b56869
 - https://chevonphillip.medium.com/blind-xss-via-sms-support-chat-1100-bug-bounty-779a1e19cc51
+- https://medium.com/@rahulraveendran06/weaponizing-xss-attacking-internal-domains-d8ba1cbd106d
