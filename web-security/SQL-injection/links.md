@@ -118,3 +118,4 @@
 - https://web.archive.org/web/20220315141258/https://eslam3kl.medium.com/sql-injection-at-spotify-d19e0861ddf0
 - https://cyllective.com/blog/post/research_audit_wordpress_plugins/
 - https://blog.hckrt.com/blog/thisclosed_2/
+- https://ahmadaabdulla.medium.com/how-i-found-sql-injection-on-intensedebate-com-h1-in-5-minute-350-a36c2890882d

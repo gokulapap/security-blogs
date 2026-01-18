@@ -363,7 +363,6 @@
 - https://hopesamples.blogspot.com/2022/09/details-about-future-collaboration.html, IDOR
 - https://taggart-tech.com/quasar-electron/, Local-Privilege-Escalation
 - https://medium.com/@0x0Asif/how-i-found-my-first-rce-8f8033883dc4, IDOR
-- https://nokline.github.io/bugbounty/2022/09/02/Glassdoor-Cache-Poisoning.html, Web-cache-poisoning
 - https://medium.com/@xJay/angularjs-client-side-template-injection-the-orderby-filter-20002ca2a0e8, CSTI
 - https://c0nqr0r.medium.com/reading-robots-txt-got-me-4-xss-reports-9fd2234c635f, XSS
 - https://www.ambionics.io/blog/hacking-watchguard-firewalls, XPath-injection
@@ -669,7 +668,6 @@
 - https://web.archive.org/web/20210621221618/https://savirsuda.github.io/Github-The-Goldmine-for-P1s-and-P2s-Sensitive-Information-Exposure-via-Github-by-a-Company-Employee/, Information-disclosure
 - https://cirius.medium.com/how-i-hacked-a-target-again-and-again-6db2e462221f, OAuth
 - https://ledz1996.gitlab.io/blog/writeups/CVE-2021-22203-gitlab-arbitrary-file-read-write-through-kroki, Arbitrary-file-read
-- https://shrirangdiwakar.medium.com/how-i-turned-0000-into-600-phone-verification-bypass-b1c0f6eb568e, OTP-bypass
 - https://infosecwriteups.com/third-party-apps-were-still-getting-your-private-facebook-data-even-after-their-access-expiry-6e4be4880e6e, Logic-flaw
 - https://infosecwriteups.com/writeups-facebook-whitehat-program-2021-instagram-live-setting-bug-500-usd-d2d076b3f8bb, Logic-flaw
 - https://www.sonarsource.com/blog/nosql-injections-in-rocket-chat/, NoSQL-injection
@@ -682,7 +680,6 @@
 - https://sndpgiriz.medium.com/simple-logical-bug-turned-into-a-bounty-a3d7ac214606, Logic-flaw
 - https://www.offensive-security.com/offsec/macos-preferences-priv-escalation/, Local-Privilege-Escalation
 - https://blog.polybdenum.com/2021/05/05/how-i-hacked-google-app-engine-anatomy-of-a-java-bytecode-exploit.html, RCE
-- https://ahmadaabdulla.medium.com/how-i-found-sql-injection-on-intensedebate-com-h1-in-5-minute-350-a36c2890882d, SQL-injection
 - https://infosecwriteups.com/xss-through-parameter-pollution-9a55da150ab2, Open-redirect
 - https://web.archive.org/web/20210728030437/https://ritiksahni.me/open-source-bug-bounty-tutorial, CSRF
 - https://web.archive.org/web/20210620102348/https://ipanda.co.in/blog1.html, RCE
@@ -1249,7 +1246,6 @@
 - https://philippeharewood.com/find-mingle-suggestions-for-any-facebook-user-revisited/, Logic-flaw
 - https://emtunc.org/blog/03/2017/bypassing-safe-links-exchange-online-advanced-threat-protection/, Open-redirect
 - https://buer.haus/2017/03/08/airbnb-when-bypassing-json-encoding-xss-filter-waf-csp-and-auditor-turns-into-eight-vulnerabilities/, XSS
-- https://www.rcesecurity.com/2017/03/ok-google-give-me-all-your-internal-dns-information/, SSRF
 - https://timeofcheck.com/time-based-blind-sqli-on-news-starbucks-com/, Blind-SQL-injection
 - https://ysx.me.uk/lightweight-markup-a-trio-of-persistent-xss-in-gitlab/, Stored-XSS
 - https://web.archive.org/web/20200822111544/https://whitehatnepal.tumblr.com/post/156707088037/i-got-emails-g-suite-vulnerability, Logic-flaw
@@ -1279,7 +1275,6 @@
 - https://bitquark.co.uk/blog/2013/12/30/google_sites_a_tale_of_five_vulnerabilities, XSS
 - http://blog.shashank.co/2013/12/imgur-xss.html, XSS
 - http://blog.shashank.co/2013/12/heroku-directory-transversal.html, Path-traversal
-- https://www.rcesecurity.com/2013/09/paypal-bug-bounty-paypaltech-com-e-mail-injection/, Email-injection
 - https://josipfranjkovic.blogspot.com/2013/07/how-i-found-my-way-into-instagrams.html, Reflected-XSS
 - https://bitquark.co.uk/blog/2013/07/19/admob_creative_image_xss, XSS
 - https://whitton.io/archive/framing-part-1-click-jacking-etsy, Clickjacking

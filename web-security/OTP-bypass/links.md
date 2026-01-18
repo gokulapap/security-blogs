@@ -20,3 +20,4 @@
 - https://medium.com/@pallabjyoti218/story-about-otp-bypass-to-stored-xss-81bfd735c709
 - https://medium.com/@rat010/otp-verification-bypass-ee17d68f8425
 - https://medium.com/@ben.aymen.182/phone-number-validation-bypass-through-url-path-manipulation-c03721cf3676
+- https://shrirangdiwakar.medium.com/how-i-turned-0000-into-600-phone-verification-bypass-b1c0f6eb568e
