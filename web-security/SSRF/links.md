@@ -138,3 +138,4 @@
 - https://web.archive.org/web/20210117211634/https://kurtikleiton.medium.com/blind-ssrf-on-coda-io-c7063f304455
 - https://medium.com/@D0rkerDevil/how-i-convert-ssrf-to-xss-in-a-ssrf-vulnerable-jira-e9f37ad5b158
 - https://www.rcesecurity.com/2017/03/ok-google-give-me-all-your-internal-dns-information/
+- https://jub0bs.com/posts/2020-06-23-ssrf/

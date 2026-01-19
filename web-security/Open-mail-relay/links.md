@@ -1,0 +1,1 @@
+- https://infosecwriteups.com/send-email-from-anyone-to-any-user-outlook-microsoft-69fce333066d

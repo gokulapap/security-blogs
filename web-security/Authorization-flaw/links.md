@@ -118,3 +118,4 @@
 - https://medium.com/bugbountywriteup/unauthorized-access-to-odata-entities-2k-bounty-from-microsoft-e070b2ef88c2
 - https://medium.com/@aayushpokhrel/how-i-made-my-first-from-finding-a-bug-in-facebook-da3b11e550f0
 - https://medium.com/@ChandSingh/download-any-organisation-data-s3-amazonaws-64059847e06
+- https://vishwarajbhattrai.wordpress.com/2019/06/03/missing-access-control-at-play-store/

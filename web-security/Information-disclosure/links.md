@@ -290,3 +290,4 @@
 - https://habr.com/en/post/579714/
 - https://infosecwriteups.com/unauthorized-access-to-the-admin-panel-via-leaked-credentials-on-the-waybackmachine-55c3307141c6
 - https://medium.com/@albeckshahar/facebook-invitees-email-address-disclosure-25059ae93725
+- https://www.tnirmal.com.np/2018/12/facebook-bugbounty-disclosing.html
