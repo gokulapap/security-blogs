@@ -1,1 +1,2 @@
 - https://medium.com/@valeriyshevchenko/how-i-hacked-vending-machine-5b5a80bd5ffe
+- https://medium.com/@ruvlol/cleartext-password-in-localstorage-writeup-245294762829

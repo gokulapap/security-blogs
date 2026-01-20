@@ -1,0 +1,1 @@
+- https://dev.to/mikesamuel/2008-silently-securing-jsonparse-5cbb
