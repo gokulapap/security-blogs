@@ -56,3 +56,5 @@
 - https://www.mdsec.co.uk/2023/03/exploiting-cve-2023-23397-microsoft-outlook-elevation-of-privilege-vulnerability/
 - https://medium.com/cider-sec/bypassing-required-reviews-using-github-actions-6e1b29135cc7
 - https://medium.com/bugbountywriteup/facebook-workplace-privilege-escalation-vulnerability-to-change-the-post-privacy-as-public-634f1c995780
+- https://systemweakness.com/i-obtained-admin-access-via-account-activation-link-in-30-seconds-dd7f115ae1d2
+- https://medium.com/@ronak_9889/privilege-escalation-using-api-endpoint-fce841caaff3

@@ -58,3 +58,5 @@
 - https://www.akamai.com/blog/security-research/cant-wait-to-shut-you-down-msrpc-wininit
 - https://kishanbagaria.com/airdos/
 - https://medium.com/@pratheesh.p.narayanan/whatsapp-dos-vulnerability-on-android-ios-web-7628077d21d4
+- https://medium.com/@danlyt74/remote-denial-of-service-with-chrome-82638507a87f
+- https://medium.com/@kankrale.rahul/dos-on-facebook-android-app-using-65530-characters-of-zero-width-no-break-space-db41ca8ded89

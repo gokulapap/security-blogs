@@ -367,7 +367,6 @@
 - https://blog.nietaanraken.nl/posts/github-pages-command-injection/, RCE
 - https://blog.sonarsource.com/securing-developer-tools-argument-injection-in-vscode/, Argument-injection
 - https://redrays.io/cve-2020-2733-jd-edwards/, Information-disclosure
-- https://whereisk0shl.top/post/break-me-out-of-sandbox-in-old-pipe-cve-2022-22715-windows-dirty-pipe, Local-Privilege-Escalation
 - https://hackingguy.medium.com/failed-coding-assessment-to-remote-code-execution-a-case-study-part-1-1778934b3b34, RCE
 - https://www.bugbounty.info/2022/08/never-underestimate-power-of-open.html, Open-redirect
 - https://medium.com/@faique/account-takeover-worth-1000-611452063cf, Account-takeover
@@ -449,7 +448,6 @@
 - https://infosecwriteups.com/how-i-found-a-companys-internal-s3-bucket-with-41k-files-94b453e588b5, AWS-misconfiguration
 - https://medium.com/@sharp488/2fa-bypass-on-private-bug-bounty-program-due-to-improper-caching-mechanism-212c5912bd00, MFA-bypass
 - https://medium.com/@sharp488/2fa-bypass-on-private-bug-bounty-program-due-to-csrf-token-misconfiguration-5a9c82151a1, MFA-bypass
-- https://systemweakness.com/i-obtained-admin-access-via-account-activation-link-in-30-seconds-dd7f115ae1d2, Privilege-escalation
 - https://breakpoint.sh/posts/snyk-code-broken-access-control, Path-traversal
 - https://infosecwriteups.com/bypassing-waf-to-weaponize-a-stored-xss-ff9963c421ee, Stored-XSS
 - https://securityflow.io/impact-of-an-insecure-deep-link/, Insecure-deeplink
@@ -834,7 +832,6 @@
 - https://medium.com/bugbountywriteup/dont-stop-at-one-bug-d3c56806b5, Open-redirect
 - https://blog.securityevaluators.com/tenda-ac1900-vulnerabilities-discovered-and-exploited-e8e26aa0bc68, CSRF
 - https://philippeharewood.com/see-whether-a-hackercup-facebook-participant-allows-recruitment-contact/, Information-disclosure
-- https://medium.com/@danlyt74/remote-denial-of-service-with-chrome-82638507a87f, DoS
 - https://vj0shii.github.io/exploiting-application-logic-to-referral-code-disclosure/, Logic-flaw
 - https://medium.com/@b3twise/how-i-found-10-remote-code-execution-in-10-minutes-cve-2020-5902-3def1aa29e9b, RCE
 - https://xvnpw.github.io/posts/from-dot-in-regex-to-ssrf-part-3/, SSRF
@@ -976,7 +973,6 @@
 - https://philippeharewood.com/add-users-to-roles-on-facebook-pages-without-an-invitation-consent-revisited/, Logic-flaw
 - https://ninadmathpati.com/how-i-was-able-to-earn-1000-with-just-10-minutes-of-bug-bounty/, Password-reset
 - https://medium.com/@rohitcoder/bypassing-fix-of-domain-blocking-feature-in-business-manager-41949a18460c, Authorization-flaw
-- https://medium.com/@ronak_9889/privilege-escalation-using-api-endpoint-fce841caaff3, Privilege-escalation
 - http://mahmoudsec.blogspot.com/2019/08/exploiting-out-of-band-xxe-using.html, XXE
 - https://learn.hackersid.com/2019/08/stored-xss-on-laporbugid.html, Stored-XSS
 - https://medium.com/@aniltom/https-medium-com-aniltom-from-sub-domain-takeover-to-open-redirect-b5be4906e1a4, Subdomain-takeover
@@ -1100,7 +1096,6 @@
 - https://medium.com/@kunal94/imagemagick-gif-coder-vulnerability-leads-to-memory-disclosure-hackerone-e9975a6a560e, Memory-leak
 - https://medium.com/bugbountywriteup/stored-xss-in-bug-bounty-13c08e6f5636, Stored-XSS
 - https://web.archive.org/web/20181030103042/https://zseano.com/blogs/4.html, CSRF
-- https://medium.com/@kankrale.rahul/dos-on-facebook-android-app-using-65530-characters-of-zero-width-no-break-space-db41ca8ded89, DoS
 - https://medium.com/@notsoshant/a-possibility-of-account-takeover-in-medium-8d950e547639, Account-takeover
 - https://medium.com/bugbountywriteup/add-comment-on-a-private-oculus-developer-bug-report-93f35bc80b2c, IDOR
 - https://blog.harshjaiswal.com/path-traversal-while-uploading-results-in-rce, Path-traversal

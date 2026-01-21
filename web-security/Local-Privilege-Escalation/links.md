@@ -83,3 +83,4 @@
 - https://www.ns-echo.com/posts/cve_2023_33298.html
 - https://voidsec.com/cve-2020-1337-printdemon-is-dead-long-live-printdemon/
 - https://www.mandiant.com/resources/blog/privileges-third-party-windows-installers
+- https://whereisk0shl.top/post/break-me-out-of-sandbox-in-old-pipe-cve-2022-22715-windows-dirty-pipe
