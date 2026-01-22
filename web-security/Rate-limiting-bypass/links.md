@@ -6,3 +6,4 @@
 - https://vijetareigns.medium.com/wait-time-bypass-for-fun-and-profit-c3837e6bb8ed
 - https://securitylabs.datadoghq.com/articles/aws-console-rate-limit-bypass/
 - https://medium.com/bugbountywriteup/bounty-tip-easiest-way-to-bypass-apis-rate-limit-f984fad40093
+- https://3bodymo.medium.com/bypass-rate-limit-to-enumeration-users-through-google-drive-ed64e07c879c

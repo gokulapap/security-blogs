@@ -183,7 +183,6 @@
 - https://m3ez.medium.com/how-i-found-dom-based-xss-on-microsoft-msrc-and-how-they-fixed-it-8b71a6020c82, DOM-XSS
 - https://parkerzanta.medium.com/how-do-i-take-over-another-user-subdomain-name-worth-c66bb0c3f2f7, Subdomain-takeover
 - https://github.blog/2023-02-23-the-code-that-wasnt-there-reading-memory-on-an-android-device-by-accident/, Kernel-hacking
-- https://sl4x0.medium.com/how-i-got-into-nokia-hof-in-5-mins-99ce16583bd4, Information-disclosure
 - https://medium.com/@knassar702/with-a-single-request-you-can-kill-any-gitea-server-1275c5f3b226, Application-level-DoS
 - https://www.vaadata.com/blog/exploiting-an-html-injection-with-dangling-markup/, HTML-injection
 - https://bishopfox.com/blog/what-the-vuln-zimbra, Zip-Slip-attack
@@ -305,7 +304,6 @@
 - https://web.archive.org/web/20221025185418/https://bergee.it/blog/chaining-multiple-vulnerabilities-for-credential-stealing/, CSRF
 - https://mechboy.medium.com/support-supports-a-hacker-be9931104923, Social-engineering
 - https://srcincite.io/blog/2022/10/25/eat-what-you-kill-pre-authenticated-rce-in-vmware-nsx-manager.html, RCE
-- https://medium.com/@raymond-lind/how-i-found-a-simple-stored-xss-9a6b1c5e0afa, Stored-XSS
 - https://bishopfox.com/blog/jira-align-advisory, SSRF
 - https://www.redteam-pentesting.de/en/advisories/rt-sa-2021-003/-missing-authentication-in-zkteco-zem-zmm-web-interface, Missing-authentication
 - https://mehedishakeel.medium.com/broken-link-hijacking-my-second-finding-on-hackerone-d715b0713fca, Broken-link-hijacking
@@ -359,7 +357,6 @@
 - https://medium.com/@Parag_Bagul/how-i-found-moodle-cross-site-scripting-459a1c9ad4d5, XSS
 - https://hopesamples.blogspot.com/2022/09/details-about-future-collaboration.html, IDOR
 - https://taggart-tech.com/quasar-electron/, Local-Privilege-Escalation
-- https://medium.com/@0x0Asif/how-i-found-my-first-rce-8f8033883dc4, IDOR
 - https://medium.com/@xJay/angularjs-client-side-template-injection-the-orderby-filter-20002ca2a0e8, CSTI
 - https://c0nqr0r.medium.com/reading-robots-txt-got-me-4-xss-reports-9fd2234c635f, XSS
 - https://www.ambionics.io/blog/hacking-watchguard-firewalls, XPath-injection
@@ -698,7 +695,6 @@
 - https://thexssrat.medium.com/i-felt-like-there-were-no-more-bugs-left-after-winning-2000-but-an-email-worth-750-changed-my-c7a507649060, Broken-Access-Control
 - https://thexssrat.medium.com/poc-the-easiest-125-euros-i-ever-made-4dc87f01e286, Logic-flaw
 - https://www.ehpus.com/post/multiple-authorization-bypass-issues-in-google-s-richmedia-studio, Authorization-flaw
-- https://3bodymo.medium.com/bypass-rate-limit-to-enumeration-users-through-google-drive-ed64e07c879c, Rate-limiting-bypass
 - https://sudhanshur705.medium.com/how-i-made-it-to-google-hof-f1cec85fdb1b, IDOR
 - https://godiego.co/posts/STO-AWS/, Subdomain-takeover
 - https://gccybermonks.com/posts/xss-mozilla/, XSS
@@ -860,7 +856,6 @@
 - https://medium.com/@ricardoiramar/this-is-fine-6e032f497b8f, Information-disclosure
 - http://www.firstsight.me/2020/06/from-399-to-1650-usd-part-i-simple-vertical-privilege-escalation-by-changing-http-response/, Privilege-escalation
 - https://medium.com/@amyrahm786/story-of-blind-sql-with-a-typo-error-43a21913c8d, SQL-injection
-- https://medium.com/heck-the-packet/how-i-got-my-first-big-bounty-payout-with-tesla-8d28b520162d, Information-disclosure
 - https://kb.cert.org/vuls/id/636397, DoS
 - https://research.securitum.com/the-curious-case-of-copy-paste/, XSS
 - https://web.archive.org/web/20200807155244/https://vict0ni.me/double-url-encoding-xss/, Reflected-XSS

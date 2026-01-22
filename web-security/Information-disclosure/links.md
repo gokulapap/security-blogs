@@ -291,3 +291,5 @@
 - https://infosecwriteups.com/unauthorized-access-to-the-admin-panel-via-leaked-credentials-on-the-waybackmachine-55c3307141c6
 - https://medium.com/@albeckshahar/facebook-invitees-email-address-disclosure-25059ae93725
 - https://www.tnirmal.com.np/2018/12/facebook-bugbounty-disclosing.html
+- https://medium.com/heck-the-packet/how-i-got-my-first-big-bounty-payout-with-tesla-8d28b520162d
+- https://sl4x0.medium.com/how-i-got-into-nokia-hof-in-5-mins-99ce16583bd4

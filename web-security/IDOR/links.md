@@ -269,3 +269,4 @@
 - https://medium.com/@sarveshblogs/a-small-tale-of-account-takeover-2eba07a6ef5f
 - https://medium.com/@swapmaurya20/3-step-idor-in-hackerresume-a365f2632996
 - https://medium.com/bugbountywriteup/all-about-getting-first-bounty-with-idor-849db2828c8
+- https://medium.com/@0x0Asif/how-i-found-my-first-rce-8f8033883dc4
