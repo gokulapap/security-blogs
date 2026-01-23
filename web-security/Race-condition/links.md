@@ -24,3 +24,4 @@
 - https://0xdekster.medium.com/second-order-race-condition-be8aaf774783
 - https://orca.security/resources/blog/synapse-local-privilege-escalation-vulnerability-spark/
 - https://www.josipfranjkovic.com/blog/race-conditions-on-web
+- https://blog.evanricafort.com/2021/06/generate-online-votes-using-race.html
