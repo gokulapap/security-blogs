@@ -288,3 +288,4 @@
 - http://blog.sysdum.net/parameter-injection-to-rce
 - https://srcincite.io/blog/2021/08/25/pwn2own-vancouver-2021-microsoft-exchange-server-remote-code-execution.html
 - https://medium.com/@emenalf/how-i-got-hall-of-fame-in-two-fortune-500-companies-an-rce-story-9c89cead81ff
+- https://www.zerodayinitiative.com/blog/2023/5/31/cve-2023-24941-microsoft-network-file-system-remote-code-execution

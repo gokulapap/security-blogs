@@ -1,3 +1,4 @@
 - https://www.pentestpartners.com/security-blog/you-cant-stop-me-ms-teams-session-hijacking-and-bypass/
 - https://medium.com/@nanda_kumar/bugbounty-how-snapdeal-indias-popular-e-commerce-website-kept-their-user-data-at-risk-3d02b4092d9c
 - https://www.vectra.ai/blogpost/undermining-microsoft-teams-security-by-mining-tokens
+- https://www.varonis.com/blog/okta-attack-vectors

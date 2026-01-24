@@ -312,3 +312,5 @@
 - https://medium.com/bugbountywriteup/3-minutes-xss-71e3340ad66b
 - https://medium.com/@armaanpathan/dont-just-alert-1-because-xss-is-for-fun-f88cfb88d5b9
 - https://medium.com/@nandwanajatin25/story-of-a-uri-based-xss-with-some-simple-google-dorking-e1999254aa55
+- https://blog.evanricafort.com/2016/09/xss-vulnerability-in-twitter.html
+- https://medium.com/@amit-lt/scenario-of-reflected-cross-site-scripting-vulnerability-a3ee189dd822

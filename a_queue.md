@@ -3,7 +3,6 @@
 - https://medium.com/@diegotellaroli05/account-takeover-in-chatgpt-e134ed11654d, ATO
 - https://medium.com/@_deshine_/easy-2000-race-condition-b4d093c9bc3c, race-condition
 - https://medium.com/@vickieli/learn-about-command-injection-attacks-1cd0d178fe65, injection
-- https://medium.com/@amit-lt/scenario-of-reflected-cross-site-scripting-vulnerability-a3ee189dd822, XSS
 - https://medium.com/@sumedh00/accessing-admin-dashboard-in-5-seconds-acee737eacfb, journey
 - https://medium.com/@vickieli/intro-to-ssrf-beb35857771f, ssrf
 - https://medium.com/@nanwinata/rce-docker-api-but-11ff70825935, Cloud
@@ -102,7 +101,6 @@
 - https://medium.com/@malekmahmed55/turning-a-50-tab-nabbing-vulnerability-into-a-1000-account-takeover-9c3f32cb2d84, Reverse-tabnabbing
 - https://ssd-disclosure.com/ssd-advisory-roundcube-markasjunk-rce/, RCE
 - https://0day.click/recipe/pash/, RCE
-- https://www.zerodayinitiative.com/blog/2023/5/31/cve-2023-24941-microsoft-network-file-system-remote-code-execution, RCE
 - https://research.nccgroup.com/2023/05/31/reverse-engineering-coin-hunt-worlds-binary-protocol/, Reverse-engineering
 - https://mc0wn.blogspot.com/2023/05/vulnerabilities-in-apache-commons-text.html, Path-traversal
 - https://medium.com/@ajzead660/exploit-an-unexploitable-xss-via-an-open-redirect-a-real-life-scenario-from-a-hackers-mindset-32b71041c5fe, XSS
@@ -212,7 +210,6 @@
 - https://akashc99.medium.com/bypassing-account-lockout-through-password-reset-functionality-8ff5c256f380, Rate-limiting-bypass
 - https://blog.projectdiscovery.io/php-http-server-source-disclosure/, Source-code-disclosure
 - https://www.sonarsource.com/blog/openemr-remote-code-execution-in-your-healthcare-system/, RCE
-- https://www.varonis.com/blog/okta-attack-vectors, Insecure-storage-of-sensitive-information
 - https://www.zerodayinitiative.com/blog/2023/1/23/activation-context-cache-poisoning-exploiting-csrss-for-privilege-escalation, Local-Privilege-Escalation
 - https://ph-hitachi.medium.com/how-i-hacked-scopely-using-sign-in-with-google-298a9c166ad, Account-takeover
 - https://www.synacktiv.com/sites/default/files/2023-01/advisory_manageengine_adss_2023.pdf, RCE
@@ -1027,7 +1024,6 @@
 - https://medium.com/cesppa/escalating-ssrf-to-rce-f28c482eb8b9, SSRF
 - https://philippeharewood.com/cve-2018-16794-on-fs-thefacebook-com/, SSRF
 - https://medium.com/@sharan.panegav/account-takeover-using-cross-site-websocket-hijacking-cswh-99cf9cea6c50, Cross-Site-WebSocket-Hijacking
-- https://medium.com/@addictrao20/fixed-register-any-email-address-on-facebook-account-c6d1c3eb810d, Authorization-flaw
 - https://staaldraad.github.io/post/2019-03-02-universal-rce-ruby-yaml-load/, Insecure-deserialization
 - https://spyclub.tech/2019/02/26/horizontal-privilege-escalation-on-quora/, Privilege-escalation
 - https://medium.com/@logicbomb_1/chain-of-hacks-leading-to-database-compromise-b2bc2b883915, LFI
@@ -1230,7 +1226,6 @@
 - https://foxglovesecurity.com/2016/10/14/hacking-jasperreports-the-hidden-shell-feature/, RCE
 - https://www.betterhacker.com/2016/10/command-injection-without-spaces.html, OS-command-injection
 - https://blog.zsec.uk/gif-time-pornhub/, XSS
-- https://blog.evanricafort.com/2016/09/xss-vulnerability-in-twitter.html, XSS
 - https://web.archive.org/web/20200819161533/https://whitehatnepal.tumblr.com/post/149937173467/pornhub-email-confirmation-bypass, Email-verification-bypass
 - https://httpsonly.blogspot.com/2016/08/turning-self-xss-into-good-xss-v2.html, XSS
 - https://thehackerblog.com/floating-domains-taking-over-20k-digitalocean-domains-via-a-lax-domain-import-system/, Subdomain-takeover
