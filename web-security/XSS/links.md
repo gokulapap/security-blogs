@@ -314,3 +314,4 @@
 - https://medium.com/@nandwanajatin25/story-of-a-uri-based-xss-with-some-simple-google-dorking-e1999254aa55
 - https://blog.evanricafort.com/2016/09/xss-vulnerability-in-twitter.html
 - https://medium.com/@amit-lt/scenario-of-reflected-cross-site-scripting-vulnerability-a3ee189dd822
+- https://medium.com/@noneofyou/how-i-got-hall-of-fame-in-microsoft-9b507dec3860

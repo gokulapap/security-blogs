@@ -5,3 +5,4 @@
 - https://claroty.com/team82/research/the-silent-spy-among-us-modern-attacks-against-smart-intercoms
 - https://kuenzi.dev/toothbrush/
 - https://cybervelia.com/?p=1380
+- https://downrightnifty.me/blog/2022/12/26/hacking-google-home.html

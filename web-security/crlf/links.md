@@ -1,1 +1,2 @@
 - https://medium.com/@aswinchandran274/crlfsuite-crlf-injection-scanner-54a29f7ff86a
+- https://medium.com/@akshayravic09yc47/crlf-injection-leads-to-xss-f92a07db9848
