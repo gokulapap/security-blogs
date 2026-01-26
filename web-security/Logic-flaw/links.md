@@ -175,3 +175,4 @@
 - https://bugs.xdavidhu.me/google/2020/03/08/the-unexpected-google-wide-domain-check-bypass/
 - https://medium.com/japzdivino/security-teams-internal-attachments-can-be-exported-via-export-as-zip-feature-on-hackerone-35ca6ec2bf8b
 - https://ls-la.fyi/2018/09/28/subway-xposed/
+- https://medium.com/@ahmedelmorsy312/weakness-of-integration-bce1520ba672

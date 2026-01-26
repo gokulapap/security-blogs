@@ -120,3 +120,4 @@
 - https://medium.com/@ChandSingh/download-any-organisation-data-s3-amazonaws-64059847e06
 - https://vishwarajbhattrai.wordpress.com/2019/06/03/missing-access-control-at-play-store/
 - https://medium.com/@addictrao20/fixed-register-any-email-address-on-facebook-account-c6d1c3eb810d
+- https://philippeharewood.com/change-any-link-at-https-fbwat-ch/

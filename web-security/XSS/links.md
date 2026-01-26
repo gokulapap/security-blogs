@@ -315,3 +315,4 @@
 - https://blog.evanricafort.com/2016/09/xss-vulnerability-in-twitter.html
 - https://medium.com/@amit-lt/scenario-of-reflected-cross-site-scripting-vulnerability-a3ee189dd822
 - https://medium.com/@noneofyou/how-i-got-hall-of-fame-in-microsoft-9b507dec3860
+- https://infosecwriteups.com/bragging-rights-lets-head-back-to-bug-bucket-88c94730b6fa
