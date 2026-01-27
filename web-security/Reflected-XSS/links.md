@@ -107,3 +107,4 @@
 - https://supras.io/reflected-xss-via-a-hidden-parameter-on-dutch-gov-website/
 - https://medium.com/@jonathanbouman/reflected-xss-at-fotoservice-hema-nl-af344ef63433
 - https://medium.com/@saamux/filter-bypass-to-reflected-xss-on-https-finance-yahoo-com-mobile-version-22b854327b27
+- https://josipfranjkovic.blogspot.com/2013/07/how-i-found-my-way-into-instagrams.html

@@ -11,3 +11,4 @@
 - https://rv09.medium.com/in-this-article-ill-tell-you-how-i-got-a-4-digits-bounty-from-an-indian-company-38e39a29f99e
 - https://lohigowda.medium.com/paytm-broken-link-hijacking-11624e4e9eef
 - https://web.archive.org/web/20200604001225/https://hackking.net/threads/how-i-hacked-dutch-government-in-5-minutes-twitter-account-takeover.20/
+- https://amit-lt.medium.com/hacked-instagram-handle-of-samsung-cb1a35990a90

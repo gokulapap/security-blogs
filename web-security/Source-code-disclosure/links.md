@@ -1,3 +1,4 @@
 - https://www.amolbaikar.com/facebook-source-code-disclosure-in-ads-api/
 - https://medium.com/@nishantrustlingup/admin-account-total-information-disclosure-72ec60da4a78
 - https://hopesamples.blogspot.com/2022/12/source-code-leakage-due-to-exposed.html
+- https://0xlittlespidy.medium.com/indias-aadhar-card-source-code-disclosure-via-exposed-svn-wc-db-c05519ea7761
