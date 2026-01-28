@@ -1,0 +1,1 @@
+- https://medium.com/@husein.ayoub/azure-dns-takeover-swisscom-7c6aacb38e8

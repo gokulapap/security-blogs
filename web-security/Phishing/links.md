@@ -6,3 +6,4 @@
 - https://jonbottarini.com/2021/12/09/dont-reply-a-clever-phishing-method-in-apples-mail-app/
 - https://medium.com/bug-bounty-hunting/fullscreen-api-attacks-revisited-and-the-fb-na-story-cbea3ca383c5
 - https://ophionsecurity.com/blog/phishing-the-anti-phishers
+- https://research.aurainfosec.io/pentest/hook-line-and-phishlet/
