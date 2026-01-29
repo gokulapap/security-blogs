@@ -30,3 +30,4 @@
 - https://www.shielder.com/advisories/autodesk-fusion-import-svg-blind-xxe/
 - https://www.fortbridge.co.uk/research/multiple-vulnerabilities-in-cpanel-whm/
 - https://blog.niksthehacker.com/xxe-in-public-transport-ticketing-mobile-app-81ae245c01a1
+- https://semgrep.dev/blog/2022/xml-security-in-java

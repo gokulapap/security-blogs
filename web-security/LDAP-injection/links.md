@@ -1,1 +1,2 @@
 - https://www.nc-lp.com/blog/searching-for-xss-found-ldap-injection
+- https://medium.com/@himanshu_pdy/ldap-admin-account-bypassed-2cc8b264d66e

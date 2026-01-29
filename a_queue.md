@@ -81,7 +81,6 @@
 - http://www.kamilonurozkaleli.com/posts/a-classical-account-takeover-case-via-multiple-bypasses/, Account-takeover
 - https://medium.com/@kushjain0107/one-mistake-three-bugs-comprehensive-android-pentesting-a8fc68e36af5, Android
 - https://medium.com/@0xnaeem/how-i-found-a-sql-injection-bug-in-using-my-cellphone-5b5193fdc314, SQL-injection
-- https://www.descope.com/blog/post/noauth, OAuth
 - https://github.com/firsov/onlyoffice/blob/main/CVE-2023-34939-PoC.md, Path-traversal
 - https://0xa1mn.medium.com/how-i-unveiled-a-critical-vulnerability-exposing-all-buyers-invoices-pii-with-a-single-trick-691fd410fd7a, Information-disclosure
 - https://zerforschung.org/posts/freundschaftspass-en/, Subdomain-takeover
@@ -213,7 +212,6 @@
 - https://medium.com/pentesternepal/two-factor-authentication-bypass-on-facebook-3f4ac3ea139c, MFA-bypass
 - https://www.zerodayinitiative.com/blog/2023/1/18/cve-2022-35690-unauthenticated-rce-in-adobe-coldfusion, RCE
 - https://shahjerry33.medium.com/api-misconfiguration-no-swag-of-swaggerui-9b43135346be, Security-misconfiguration
-- https://semgrep.dev/blog/2022/xml-security-in-java, XXE
 - https://orca.security/resources/blog/ssrf-vulnerabilities-in-four-azure-services/, SSRF
 - https://onekey.com/blog/security-advisory-wago-unauthenticated-config-export-vulnerability/, Path-traversal
 - https://blog.viettelcybersecurity.com/cve-2022-21587-oracle-e-business-suite-unauth-rce/, RCE
@@ -708,7 +706,6 @@
 - https://web.archive.org/web/20210201180254/https://www.cysek.org/post/bac-sxss, Stored-XSS
 - https://medium.com/bugbountywriteup/bragging-rights-part-1-short-story-of-a-bug-wave-dbb88f48b604, IDOR
 - https://bugbountyhunter.medium.com/500-for-no-rate-limit-on-forgot-password-page-d534d1d750db, Lack-of-rate-limiting
-- https://yeuchimse.com/leaking-issues-from-linked-jira-atlassian-confluence-server/, XS-Search
 - https://shaurya-sharma.medium.com/bypassing-waf-with-incorrect-proxy-settings-for-hunting-bugs-3449b7716f59, URL-validation-bypass
 - https://kingkaran977.medium.com/10-000-for-automatic-email-confirmation-bug-in-microsofts-edge-browser-22f15ceccb4a, Logic-flaw
 - https://systemweakness.com/story-behind-sweet-ssrf-40c705f13053, SSRF
@@ -918,7 +915,6 @@
 - https://philippeharewood.com/disclose-the-owner-of-a-recruiting-manager-in-jobs-beta/, Information-disclosure
 - https://medium.com/@abidafahd/how-i-was-able-to-hunt-a-rare-bug-in-a-private-program-caec0ebaef7f, Missing-authentication
 - https://medium.com/bugbountywriteup/bypassing-the-fix-of-my-previous-instagram-bug-49ece4ea7e1d, Authorization-flaw
-- https://medium.com/@himanshu_pdy/ldap-admin-account-bypassed-2cc8b264d66e, LDAP-injection
 - https://web.archive.org/web/20220826045457/https://blog.bi.tk/chrome-cors/, Caching-issue
 - https://medium.com/@masonhck357/chains-on-chains-chaining-several-idors-into-account-takeover-part-one-373627f2910f, IDOR
 - https://blog.sagarvd.me/2019/11/taking-over-facebook-page-tabs.html, Broken-link-hijacking
@@ -1186,7 +1182,6 @@
 - https://medium.com/@saamux/reflected-xss-on-www-yahoo-com-9b1857cecb8c, Reflected-XSS
 - https://medium.com/@armaanpathan/chain-the-vulnerabilities-and-take-your-report-impact-on-the-moon-csrf-to-html-injection-which-608fa6e74236, CSRF
 - https://sites.google.com/site/testsitehacking/10k-host-header, Authorization-flaw
-- https://www.seekurity.com/blog/general/business-logic-vulnerabilities-series-how-i-became-invisible-and-immune-to-blocking-on-instagram/, Logic-flaw
 - https://labs.detectify.com/2017/07/27/how-we-invented-the-tesla-dom-doom-xss/, DOM-XSS
 - https://medium.com/@arbazhussain/ctrl-d5ffc7b0640e, Clickjacking
 - https://wesecureapp.com/blog/xss-by-tossing-cookies/, XSS

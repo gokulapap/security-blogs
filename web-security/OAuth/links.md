@@ -28,3 +28,4 @@
 - https://parthdeshani.medium.com/got-nice-catch-by-google-5e6a8211371c
 - https://medium.com/@arbazhussain/stealing-0auth-token-mitm-3eeab46e96cf
 - http://blog.rakeshmane.com/2016/09/bug-bounty-account-takeover.html
+- https://www.descope.com/blog/post/noauth

@@ -1,2 +1,3 @@
 - https://medium.com/@terjanq/google-books-x-hacking-29c249862f19
 - https://medium.com/@luanherrera/xs-searching-googles-bug-tracker-to-find-out-vulnerable-source-code-50d8135b7549
+- https://yeuchimse.com/leaking-issues-from-linked-jira-atlassian-confluence-server/
