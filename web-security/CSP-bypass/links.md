@@ -9,3 +9,4 @@
 - https://infosecwriteups.com/the-buffer-curse-3591efb4a724
 - https://portswigger.net/blog/bypassing-csp-with-policy-injection
 - https://www.perimeterx.com/tech-blog/2020/csp-bypass-vuln-disclosure/
+- https://payatu.com/blog/nikhil-mittal/my-hacking-adventures-with-safari-reader-mode

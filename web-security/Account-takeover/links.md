@@ -111,3 +111,4 @@
 - https://vengeance.medium.com/authorization-token-leak-from-verifying-email-endpoint-f28803476680
 - https://blog.usamav.dev/two-account-takeover-bugs-worth-4300-dollar-bounty
 - https://starlabs.sg/blog/2023/02-microsoft-azure-account-takeover-via-dom-based-xss-in-cosmos-db-explorer/
+- https://amakki.me/full-account-takeover-vulnerability-in-minecraft-f56076c8287d

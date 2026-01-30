@@ -29,3 +29,4 @@
 - https://infosecwriteups.com/2fa-bypass-via-forced-browsing-9e511dfdb8df
 - https://medium.com/@ultranoob/weird-and-simple-2fa-bypass-without-any-test-b869e09ac261
 - https://ltsirkov.medium.com/netflix-bypassing-multi-factor-authentication-mfa-53135c9d6d50
+- https://medium.com/@nireshpandian19/my-first-and-second-bugs-are-2fa-bypass-1f6fd823b467

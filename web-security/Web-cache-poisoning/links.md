@@ -18,3 +18,4 @@
 - https://pullerjsecu.medium.com/how-i-was-able-to-turn-a-xss-into-a-account-takeover-ae0c478640e7
 - https://enumerated.wordpress.com/2020/08/05/the-case-of-the-missing-cache-keys/
 - https://nokline.github.io/bugbounty/2022/09/02/Glassdoor-Cache-Poisoning.html
+- https://portswigger.net/research/bypassing-web-cache-poisoning-countermeasures

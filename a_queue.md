@@ -308,7 +308,6 @@
 - https://c0nqr0r.medium.com/error-based-sql-injection-with-waf-bypass-manual-exploit-100-bab36b769005, SQL-injection
 - https://itnext.io/a-deep-dive-of-cve-2022-33987-got-allows-a-redirect-to-a-unix-socket-cdeed53944f7, SSRF
 - https://blog.bricked.tech/posts/tmnf/part1/, RCE
-- https://medium.com/@nireshpandian19/my-first-and-second-bugs-are-2fa-bypass-1f6fd823b467, MFA-bypass
 - https://medium.com/@bug_vs_me/csrf-attack-0-click-account-delete-1st-write-up-3d67b267b931, CSRF
 - https://www.trenchesofit.com/2022/09/30/zoneminder-web-app-testing/, DoS
 - https://www.usenix.org/system/files/sec23summer_235-rohlmann-prepub.pdf, Signature-bypass
@@ -513,7 +512,6 @@
 - https://bugs.xdavidhu.me/google/2021/12/31/fixing-the-unfixable-story-of-a-google-cloud-ssrf/, SSRF
 - https://www.seblu.de/2021/12/iap-bypass.html, Authorization-flaw
 - https://ndevtk.github.io/writeups/2021/12/30/cloud-shell-xss/, XSS
-- https://amakki.me/full-account-takeover-vulnerability-in-minecraft-f56076c8287d, Account-takeover
 - https://sharmajijvs.medium.com/xss-via-file-upload-a2bcc1e5d7f7, XSS
 - https://janmuhammadzaidi.medium.com/how-i-was-able-to-bypass-waf-and-find-the-origin-ip-and-a-few-sensitive-files-fc445180adb7, WAF-bypass
 - https://palant.info/2021/12/20/yes-fun-browser-extensions-can-have-vulnerabilities-too/, XSS
@@ -660,7 +658,6 @@
 - https://bughunter25.medium.com/a-tale-of-html-to-pdf-converter-ssrf-and-various-bypasses-4a3e11030c77, SSRF
 - https://polarply.medium.com/the-false-oracle-azure-functions-padding-oracle-issue-2025e0e6b8a, Padding-oracle-attack
 - https://n45ht.or.id/post/reflected-dom-xss-on-domainesia/en, XSS
-- https://n45ht.or.id/post/reflected-xss-on-microsoft/en, Reflected-XSS
 - https://notifybugme.medium.com/aws-internal-metadata-accessed-through-ssrf-by-chaining-an-open-redirect-bug-c4b0e4838dc, SSRF
 - https://davtur19.medium.com/telegram-bug-bounties-xss-privacy-issues-official-bot-exploitation-and-more-5277fa78435, XSS
 - https://pharish4948.medium.com/how-i-earned-3200-in-4hours-through-stored-xss-38597877d3e1, Stored-XSS
@@ -764,7 +761,6 @@
 - https://medium.com/@smilehackerofficial/xss-that-can-pay-your-bills-9377eff1fd0d, Reflected-XSS
 - https://medium.com/bugbountywriteup/unhiding-the-hidden-2ef44192c10b, Client-side-enforcement-of-server-side-security
 - https://blog.oversecured.com/Oversecured-automatically-discovers-persistent-code-execution-in-the-Google-Play-Core-Library/, Arbitrary-Code-Execution
-- https://payatu.com/blog/nikhil-mittal/my-hacking-adventures-with-safari-reader-mode, CSP-bypass
 - https://medium.com/bugbountywriteup/accessing-the-website-directly-through-its-ip-address-a-case-of-a-poorly-hidden-sql-injection-82833defbbc3, SQL-injection
 - https://medium.com/bugbountywriteup/upload-to-the-future-1fd38fd502bd, IDOR
 - https://medium.com/@mateusz.olejarka/a-perfect-duplicate-or-how-to-send-an-email-with-a-spoofed-invoices-content-66cf369bbaa3, Email-spoofing
@@ -1068,7 +1064,6 @@
 - https://jonbottarini.com/2018/10/09/get-as-image-function-pulls-any-insights-nrql-data-from-any-new-relic-account-idor/, IDOR
 - https://medium.com/bugbountywriteup/make-any-unit-in-facebook-groups-undeletable-efb68e26adb9, Logic-flaw
 - https://medium.com/@jonathanbouman/persistent-xss-unvalidated-open-graph-embed-at-linkedin-com-db6188acedd9, Stored-XSS
-- https://portswigger.net/research/bypassing-web-cache-poisoning-countermeasures, Web-cache-poisoning
 - https://medium.com/@raushanraj_65039/clickjacking-in-google-docs-and-voice-typing-feature-c481d00b020a, Clickjacking
 - https://medium.com/@jonathanbouman/stored-xss-unvalidated-embed-at-medium-com-528b0d6d4982, Stored-XSS
 - https://medium.com/@justmorpheus/idor-content-spoofing-and-url-redirection-via-unsubscribe-email-in-confluent-1fa7398cfe7a, IDOR
