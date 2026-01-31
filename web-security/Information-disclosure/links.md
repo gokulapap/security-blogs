@@ -294,3 +294,5 @@
 - https://medium.com/heck-the-packet/how-i-got-my-first-big-bounty-payout-with-tesla-8d28b520162d
 - https://sl4x0.medium.com/how-i-got-into-nokia-hof-in-5-mins-99ce16583bd4
 - https://ysamm.com/?p=450
+- https://medium.com/@mahitman1/i-own-your-customers-22e965761abd
+- https://saugatpokharel.medium.com/this-is-how-i-was-able-to-view-anyones-private-email-and-birthday-on-instagram-1469f44b842b
