@@ -178,3 +178,4 @@
 - https://medium.com/@ahmedelmorsy312/weakness-of-integration-bce1520ba672
 - https://www.seekurity.com/blog/general/business-logic-vulnerabilities-series-how-i-became-invisible-and-immune-to-blocking-on-instagram/
 - https://thinkermaruf.medium.com/fiverr-email-restriction-bypassed-36b797cb7e9
+- https://kingkaran977.medium.com/10-000-for-automatic-email-confirmation-bug-in-microsofts-edge-browser-22f15ceccb4a

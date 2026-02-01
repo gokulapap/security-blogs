@@ -109,3 +109,4 @@
 - https://medium.com/@saamux/filter-bypass-to-reflected-xss-on-https-finance-yahoo-com-mobile-version-22b854327b27
 - https://josipfranjkovic.blogspot.com/2013/07/how-i-found-my-way-into-instagrams.html
 - https://n45ht.or.id/post/reflected-xss-on-microsoft/en
+- https://pethuraj.com/blog/bbc-bug-bounty-write-up-xss-vulnerability/

@@ -1,1 +1,2 @@
 - https://web.archive.org/web/20200515015005/https://m0chan.github.io/2020/02/04/Arbitary-File-Upload-Too-Stored-XSS.html
+- https://medium.com/@ducanhbui/manageengine-servicedesk-plus-arbitrary-file-upload-4bab0bd00425
