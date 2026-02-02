@@ -35,3 +35,4 @@
 - https://binamrapandey.medium.com/unrestricted-file-upload-e95e1c6fb80
 - http://blog.shashank.co/2013/12/waze-arbitrary-file-upload.html
 - https://blog.securelayer7.net/unauthenticated-file-upload-vulnerability-on-synology-sub-domain/
+- https://ahussam.me/how-i-hacked-oculus-oauth-ebay-ibm/

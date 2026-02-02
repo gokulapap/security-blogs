@@ -7,3 +7,4 @@
 - https://medium.com/@ahmadaabdulla/how-i-found-sql-injection-on-8x8-cengage-comodo-automattic-20-company-c296d1a09f63
 - https://medium.com/@Rend_/sqli-next-level-5b1145b83c79
 - https://medium.com/@qaafqasim/discovering-login-panels-and-detecting-sql-injection-with-logsensor-42842e337244
+- https://medium.com/@yan.zaripov/time-based-sql-injection-63a395434e97

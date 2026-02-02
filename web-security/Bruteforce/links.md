@@ -20,3 +20,4 @@
 - https://medium.com/@taniyatesting11/bounty-evaluation-github-15-000-us-dollars-rate-limit-d6c07d73c948
 - https://medium.com/@arbazhussain/bypassing-rate-limit-protection-by-spoofing-originating-ip-ff06adf34157
 - https://medium.com/@circleninja/internshala-bug-in-internshala-student-partner-33d7b66c1bd5
+- https://blog.bitcrack.net/oracle-databases-remote-stealth-password-bruteforce/

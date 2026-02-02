@@ -24,3 +24,4 @@
 - https://blog.witcoat.com/2018/05/30/stealing-10000-yahoo-cookies/
 - https://medium.com/@sandh0t/think-outside-the-scope-advanced-cors-exploitation-techniques-dad019c68397
 - https://medium.com/@osamaavvan/cors-to-csrf-attack-c33a595d441
+- https://corben.io/blog/18-1-11-chaining-yahoo-bugs
