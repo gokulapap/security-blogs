@@ -281,7 +281,6 @@
 - https://blog.nietaanraken.nl/posts/aur-packages-expired-domains/, Subdomain-takeover
 - https://starlabs.sg/blog/2022/10-sharepoint-post-authenticated-ssrf-vulnerability/, SSRF
 - https://web.archive.org/web/20221025185418/https://bergee.it/blog/chaining-multiple-vulnerabilities-for-credential-stealing/, CSRF
-- https://mechboy.medium.com/support-supports-a-hacker-be9931104923, Social-engineering
 - https://srcincite.io/blog/2022/10/25/eat-what-you-kill-pre-authenticated-rce-in-vmware-nsx-manager.html, RCE
 - https://bishopfox.com/blog/jira-align-advisory, SSRF
 - https://www.redteam-pentesting.de/en/advisories/rt-sa-2021-003/-missing-authentication-in-zkteco-zem-zmm-web-interface, Missing-authentication
@@ -352,7 +351,6 @@
 - https://doyensec.com/resources/Doyensec_Advisory_SmokescreenGoProxy_Q12022.pdf, DoS
 - https://accessvector.net/2022/freebsd-aio-lpe, Memory-corruption
 - https://infosecwriteups.com/salesforce-bug-hunting-to-critical-bug-b5da44789d3, Information-disclosure
-- https://medium.com/@lovely.goyal1998/story-of-5000-bounty-for-grafana-panel-access-in-apple-89c93ab4486f, Missing-authentication
 - https://www.akamai.com/blog/security/authentication-coercion-windows-server-service, Off-by-one-Error
 - https://medium.com/@Bishoo97x/un-united-nations-host-header-injection-leads-to-any-full-account-takeover-ato-795bc9ebc670, Host-header-injection
 - https://medium.com/@fpatrik/how-i-found-an-xss-vulnerability-via-using-emojis-7ad72de49209, XSS
@@ -947,7 +945,6 @@
 - https://philippeharewood.com/view-facebook-payouts-for-any-facebook-trivia-game/, Information-disclosure
 - https://medium.com/@dr.spitfire/sensitive-information-disclosure-web-cache-deception-attack-bcac6cb9cd86?sk=a2557f0c557ff38876141c2d94b296dd, Information-disclosure
 - https://medium.com/@saadahmedx/self-xss-to-evil-xss-bcf2494a82a4, XSS
-- https://medium.com/@osamaavvan/account-taker-with-clickjacking-ace744842ec3, Clickjacking
 - https://medium.com/@Vibhurushi_Chotaliya/password-bypass-and-something-else-cded0847c9df, Authentication-bypass
 - https://medium.com/@saadahmedx/complete-web-server-access-46d19279a2b, Unrestricted-file-upload
 - https://medium.com/@saadahmedx/idor-account-takeover-1ff5a2d03b8b, IDOR
@@ -1106,7 +1103,6 @@
 - https://medium.com/@kankrale.rahul/whatsapp-users-ip-disclosure-with-link-preview-feature-39a477f54fba, Information-disclosure
 - https://medium.com/@vis_hacker/how-i-got-stored-xss-using-file-upload-5c33e19df51e, Stored-XSS
 - https://medium.com/bugbountywriteup/bypassing-captcha-like-a-boss-d0edcc3a1c1, Captcha-bypass
-- https://medium.com/@flex0geek/how-i-bypassed-ebay-process-on-redirect-98739384b4bc, Open-redirect
 - https://medium.com/bugbountywriteup/how-i-broke-into-google-issue-tracker-667b9e33e931, Logic-flaw
 - https://medium.com/bugbountywriteup/piercing-the-veil-server-side-request-forgery-to-niprnet-access-c358fd5e249a, SSRF
 - https://web.archive.org/web/20200929003337/https://www.mohamedharon.com/2018/04/reflected-xss-on-wwwzomatocom-by.html, Reflected-XSS
@@ -1124,7 +1120,6 @@
 - https://medium.freecodecamp.org/responsible-disclosure-how-i-could-have-hacked-all-facebook-accounts-f47c0252ae4d, Bruteforce
 - https://www.josipfranjkovic.com/blog/facebook-partners-portal-account-takeover, Information-disclosure
 - https://blog.intothesymmetry.com/2018/02/bug-bounty-left-over-and-rant-part-iii.html, OAuth
-- https://web.archive.org/web/20210122102751/https://www.guptashubham.com/how-i-got-22000-worth-ethereum/, Blind-XSS
 - https://medium.com/@pig.wig45/json-csrf-attack-on-a-social-networking-site-hackerone-platform-3d7aed3239b0, CSRF
 - https://medium.freecodecamp.org/how-anyone-could-have-used-uber-to-ride-for-free-36cdee5ea854, Logic-flaw
 - http://blog.jr0ch17.com/2018/No-RCE-then-SSH-to-the-box/, LFI
