@@ -140,3 +140,4 @@
 - https://www.rcesecurity.com/2017/03/ok-google-give-me-all-your-internal-dns-information/
 - https://jub0bs.com/posts/2020-06-23-ssrf/
 - https://techkranti.com/ssrf-aws-metadata-leakage
+- https://itnext.io/a-deep-dive-of-cve-2022-33987-got-allows-a-redirect-to-a-unix-socket-cdeed53944f7
