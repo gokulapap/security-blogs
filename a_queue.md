@@ -254,7 +254,6 @@
 - https://dewcode.medium.com/how-i-found-29-stored-xss-in-modern-framework-1cfe60a107a0, Stored-XSS
 - https://splint3rsec.medium.com/russian-roulette-xss-bbba6afd2570, Blind-XSS
 - https://r29k.com/articles/bb/account-takeover, Account-takeover
-- https://www.semperis.com/blog/syncjacking-azure-ad-account-takeover/, Account-takeover
 - https://nirmaldahal.com.np/posts/2022/11/megas-unlimited-cloud-storage-vulnerability/, Logic-flaw
 - https://medium.com/@hf6452/a-story-of-a-strange-stored-idor-b6f2769bb6cb, IDOR
 - https://www.oxeye.io/blog/remote-code-execution-in-spotifys-backstage, RCE
@@ -459,7 +458,6 @@
 - https://medium.com/@interc3pt3r/for-the-first-bounty-it-takes-a-few-challenging-months-but-only-a-few-days-for-the-second-7b53259b0199, Old-components-with-known-vulnerabilities
 - https://shahjerry33.medium.com/parameter-pollution-zero-day-3feb86ee8a02, HTTP-parameter-pollution
 - https://github.com/justinsteven/advisories/blob/main/2022_git_buried_bare_repos_and_fsmonitor_various_abuses.md, RCE
-- https://blog.haboob.sa/blog/adobe-reader-cjk-codecs-memory-disclosure-vulnerability, Memory-disclosure
 - https://bloggerrando.blogspot.com/2022/03/13-1.html, Broken-Access-Control
 - https://canmustdie.medium.com/how-did-i-leak-5-2k-customer-data-from-a-large-company-via-broken-access-control-709eb4027409, Broken-Access-Control
 - https://muffsec.com/blog/moodle-2nd-order-sqli/, SQL-injection
@@ -480,7 +478,6 @@
 - https://kailashbohara.com.np/blog/2022/02/04/bypassing-PHP-functions-to-read-system-file-copy/, Components-with-known-vulnerabilities
 - https://spaceraccoon.dev/solving-dom-xss-puzzles, DOM-XSS
 - https://blog.sorcery.ie/posts/higherlogic_rce/, Insecure-deserialization
-- https://web.archive.org/web/20220612235502/https://bugs.0xdroopy.live/bugs/how-i-tracked-you-around-the-globe/, Information-disclosure
 - https://medium.com/@ladecruze/my-first-bounty-idor-self-xss-3000-cde89cbbc1b1, Self-XSS
 - https://sanyamchawla1999.medium.com/my-experience-of-hacking-the-dutch-government-8c219c61c795, XSS
 - https://www.offensive-security.com/offsec/microsoft-onedrive-macos-local-privesc/, Local-Privilege-Escalation
@@ -735,7 +732,6 @@
 - https://medium.com/@parasarora06/cve-2018-5230-jira-cross-site-scripting-59ec96b3d75f, Reflected-XSS
 - https://praseudo.com/sensitive-info-leak-in-curve-app-bug-bounty/, Information-disclosure
 - https://medium.com/@vasuyadav0786/exploiting-payment-gateways-97ce7af5a9cf, Payment-tampering
-- https://medium.com/@harshtya9i/journey-of-my-first-bug-bounty-nov-2018-af471c21efc0, Authentication-bypass
 - https://medium.com/@amineaboud/story-of-a-weird-vulnerability-i-found-on-facebook-fc0875eb5125, Authentication-bypass
 - https://medium.com/@pratyush1337/the-art-of-idor-7-idors-in-edm0d0-b86d683c8de9, IDOR
 - https://johnjhacking.com/blog/p1-critical-discovering-and-foiling-a-threat-actor/, Information-disclosure
@@ -897,7 +893,6 @@
 - https://web.archive.org/web/20220826045457/https://blog.bi.tk/chrome-cors/, Caching-issue
 - https://medium.com/@masonhck357/chains-on-chains-chaining-several-idors-into-account-takeover-part-one-373627f2910f, IDOR
 - https://blog.sagarvd.me/2019/11/taking-over-facebook-page-tabs.html, Broken-link-hijacking
-- https://terjanq.github.io/Bug-Bounty/Google/cache-attack-06jd2d2mz2r0/index.html, XS-Search
 - https://geleta.eu/2019/my-first-ssrf-using-dns-rebinfing/, SSRF
 - https://philippeharewood.com/1-800-flowers-credentials-and-message-log-leak-via-facebook-com-facebook/, AWS-misconfiguration
 - https://medium.com/bugbountywriteup/how-i-was-able-to-bypass-otp-token-requirement-in-razer-the-story-of-a-critical-bug-fc63a94ad572, OTP-bypass

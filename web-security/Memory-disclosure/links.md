@@ -1,0 +1,1 @@
+- https://blog.haboob.sa/blog/adobe-reader-cjk-codecs-memory-disclosure-vulnerability
