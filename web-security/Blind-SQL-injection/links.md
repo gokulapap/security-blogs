@@ -4,3 +4,4 @@
 - https://medium.com/@ar_hawk/utilizing-historical-urls-of-an-organization-to-successfully-execute-sql-queries-blind-sqli-3526d9c3863d
 - https://kair0s3.medium.com/blind-sql-injection-with-a-little-waf-871e69d06e2c
 - https://www.synacktiv.com/sites/default/files/2022-12/sage_xrt_multiple_sqli_1.pdf
+- https://timeofcheck.com/time-based-blind-sqli-on-news-starbucks-com/

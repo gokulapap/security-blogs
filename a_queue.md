@@ -223,7 +223,6 @@
 - https://danaepp.com/hacking-a-net-api-in-the-real-world, LFI
 - https://medium.com/@tobydavenn/bypassing-ssrf-protections-45e5e3ac31e9, SSRF
 - https://github.com/PabloMK7/ENLBufferPwn, Buffer-Overflow
-- https://research.nccgroup.com/2022/12/22/puckungfu-a-netgear-wan-command-injection/, OS-command-injection
 - https://posts.specterops.io/passwordless-persistence-and-privilege-escalation-in-azure-98a01310be3f, Privilege-escalation
 - https://www.trendmicro.com/en_us/research/22/l/a-technical-analysis-of-cve-2022-22583-and-cve-2022-32800.html, MacOS
 - https://crypt0g30rgy.github.io/post/AWSTakeover, Information-disclosure
@@ -407,7 +406,6 @@
 - https://security.humanativaspa.it/multiple-vulnerabilities-in-zyxel-zysh/, OS-command-injection
 - https://machevalia.blog/blog/ivanti-epm-remote-code-execution, RCE
 - https://www.zerodayinitiative.com/blog/2022/6/1/is-exploiting-a-null-pointer-deref-for-lpe-just-a-pipe-dream, Memory-corruption
-- https://medium.com/@ratnadip1998/how-i-mass-hunt-for-admin-panel-access-8c2ad145054, Default-credentials
 - https://hencohen10.medium.com/microsoft-dynamics-container-sandbox-rce-via-unauthenticated-docker-remote-api-20-000-bounty-7f726340a93b, RCE
 - https://medium.com/@vaibhavatkale/weird-email-verification-bypass-96c793c36d7e, Email-verification-bypass
 - https://hoyahaxa.blogspot.com/2022/05/bygone-vulnerabilities-remote-code.html, XSS
@@ -871,7 +869,6 @@
 - https://medium.com/sourav-sahana/from-post-to-get-open-redirect-e91f4f4206a, Open-redirect
 - https://medium.com/monetary/how-did-i-earn-3133-70-from-google-translator-9becf942dbdc, XSS
 - https://smaranchand.com.np/2019/12/subdomain-takeover-via-pantheon/, Subdomain-takeover
-- https://medium.com/bugbountywriteup/graphql-idor-leads-to-information-disclosure-175eb560170d, IDOR
 - https://medium.com/@vbharad/full-account-takeover-android-application-78fa922f78c5, Information-disclosure
 - https://weizman.github.io/2019/12/18/js-anti-debug-1/, Browser-hacking
 - https://m0chan.github.io/2019/12/16/Subdomain-Takeover-Azure-CDN.html, Subdomain-takeover
@@ -1064,7 +1061,6 @@
 - https://web.archive.org/web/20220309092244/https://s0cket7.com/idor-account-takeover/, IDOR
 - https://sites.google.com/securifyinc.com/secblogs/uber-business-support-bug, Ticket-Trick
 - https://medium.com/bugbountywriteup/from-tomcat-to-nt-authority-system-a79fa09c4abb, Default-credentials
-- https://medium.com/@carlosdanielgiovanella/this-is-how-can-i-spoof-any-sentry-log-infinitely-and-create-fake-error-logs-74406367f4ba, Content-spoofing
 - https://steemit.com/cryptocurrency/@mabdullah22/how-i-hacked-a-crypto-exchange-bug-bounty-writeup, IDOR
 - https://medium.com/@friendly_/stored-xss-in-gameskinny-aa26c6a6ae40, Stored-XSS
 - https://blog.evanricafort.com/2018/08/blind-xss-in-chrome-experiments-google.html, Blind-XSS
@@ -1160,7 +1156,6 @@
 - https://philippeharewood.com/find-mingle-suggestions-for-any-facebook-user-revisited/, Logic-flaw
 - https://emtunc.org/blog/03/2017/bypassing-safe-links-exchange-online-advanced-threat-protection/, Open-redirect
 - https://buer.haus/2017/03/08/airbnb-when-bypassing-json-encoding-xss-filter-waf-csp-and-auditor-turns-into-eight-vulnerabilities/, XSS
-- https://timeofcheck.com/time-based-blind-sqli-on-news-starbucks-com/, Blind-SQL-injection
 - https://ysx.me.uk/lightweight-markup-a-trio-of-persistent-xss-in-gitlab/, Stored-XSS
 - https://web.archive.org/web/20200822111544/https://whitehatnepal.tumblr.com/post/156707088037/i-got-emails-g-suite-vulnerability, Logic-flaw
 - https://thehackerblog.com/the-orphaned-internet-taking-over-120k-domains-via-a-dns-vulnerability-in-aws-google-cloud-rackspace-and-digital-ocean/index.html, Domain-takeover

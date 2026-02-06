@@ -21,3 +21,4 @@
 - https://www.synacktiv.com/en/publications/pentesting-cisco-sd-wan-part-2-breaking-routers.html
 - https://bugra.ninja/posts/cloudshell-command-injection/
 - https://www.shawarkhan.com/2021/01/analysing-crash-messages-to-achieve.html
+- https://research.nccgroup.com/2022/12/22/puckungfu-a-netgear-wan-command-injection/

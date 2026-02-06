@@ -12,3 +12,4 @@
 - https://jspin.re/variant-cloud-analysis/
 - https://ian.sh/etugra
 - https://shahjerry33.medium.com/rce-via-webdav-power-of-put-7e1c06c71e60
+- https://medium.com/@ratnadip1998/how-i-mass-hunt-for-admin-panel-access-8c2ad145054

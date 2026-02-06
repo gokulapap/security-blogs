@@ -1,3 +1,4 @@
 - https://research.checkpoint.com/2018/fakesapp-a-vulnerability-in-whatsapp/
 - https://medium.com/fraktal/content-spoofing-vulnerability-in-shibboleth-service-provider-a6619404eaf1
 - https://ahussam.me/Medium-content-spoofing-xss
+- https://medium.com/@carlosdanielgiovanella/this-is-how-can-i-spoof-any-sentry-log-infinitely-and-create-fake-error-logs-74406367f4ba

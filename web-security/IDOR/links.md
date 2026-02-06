@@ -271,3 +271,4 @@
 - https://medium.com/bugbountywriteup/all-about-getting-first-bounty-with-idor-849db2828c8
 - https://medium.com/@0x0Asif/how-i-found-my-first-rce-8f8033883dc4
 - https://blog.sambal0x.com/2020/04/30/Hacking-razer-pay-ewallet-app.html
+- https://medium.com/bugbountywriteup/graphql-idor-leads-to-information-disclosure-175eb560170d
