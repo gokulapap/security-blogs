@@ -119,3 +119,4 @@
 - https://cyllective.com/blog/post/research_audit_wordpress_plugins/
 - https://blog.hckrt.com/blog/thisclosed_2/
 - https://ahmadaabdulla.medium.com/how-i-found-sql-injection-on-intensedebate-com-h1-in-5-minute-350-a36c2890882d
+- https://shellbr3ak.medium.com/the-story-of-my-first-critical-bug-93a5920d6c43

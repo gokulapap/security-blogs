@@ -15,7 +15,6 @@
 - https://medium.com/@vamshi-vemula/how-i-got-my-first-bounty-open-redirect-80832e5bf4e6, open-redirection
 - https://medium.com/@ssalssa.1.12.2.1.2.1/hacking-wordpress-server-database-f6cc6c116057, cms
 - https://medium.com/@s3c/how-i-hacked-world-wide-tiktok-users-24e794d310d2, journey
-- https://medium.com/@hakluke/interlace-a-productivity-tool-for-pentesters-and-bug-hunters-automate-and-multithread-your-d18c81371d3d, automation
 - https://medium.com/@rajeshranjan457/how-i-was-able-to-regain-access-to-account-deleted-by-admin-leading-to-a2c29025f8cd, journey
 - https://medium.com/@hbothra22/got-cookies-cookie-based-authentication-vulnerabilities-in-wild-55fa7c374be0, misc
 - https://medium.com/@terjanq/clobbering-the-clobbered-advanced-dom-clobbering-8443547ebe94, misc
@@ -313,7 +312,6 @@
 - https://www.trellix.com/en-us/about/newsroom/stories/research/tarfile-exploiting-the-world.html, Path-traversal
 - https://blog.sonarsource.com/onedev-remote-code-execution/, RCE
 - https://doyensec.com/resources/Doyensec_Apollo_Report_Q22022_v4_AfterRetest.pdf, DoS
-- https://medium.com/@Parag_Bagul/ssrf-attack-leading-to-aws-metadata-e95155fa6c6f, SSRF
 - https://blog.hacktivesecurity.com/index.php/2022/09/17/http/, HTTP-request-smuggling
 - https://sector7.computest.nl/post/2022-09-unified-automation-opcua-cpp/, DoS
 - https://tamirzb.com/attacking-android-kernel-using-qualcomm-trustzone, Memory-corruption
@@ -562,7 +560,6 @@
 - https://asterfiester.medium.com/how-i-was-able-to-send-sms-from-google-to-anyone-google-vulnerability-3277ea0cc9d1, Content-spoofing
 - https://s3c.medium.com/how-i-hacked-world-wide-tiktok-users-24e794d310d2, IDOR
 - https://asterfiester.medium.com/3133-70-google-dialogflow-idor-vulnerability-7a72771678dd, IDOR
-- https://asterfiester.medium.com/5000-google-idor-vulnerability-writeup-c7b45926abe9, IDOR
 - https://vedanttekale20.medium.com/how-i-found-my-first-aem-related-bug-5ea901aad3f4, LFR
 - https://www.spookjs.com, Browser-hacking
 - https://medium.com/@katikitala.sushmitha078/how-i-can-take-over-any-users-account-with-their-mobile-number-6d820a364cad, Account-takeover
@@ -657,7 +654,6 @@
 - https://sudhanshur705.medium.com/how-i-made-it-to-google-hof-f1cec85fdb1b, IDOR
 - https://godiego.co/posts/STO-AWS/, Subdomain-takeover
 - https://gccybermonks.com/posts/xss-mozilla/, XSS
-- https://blog.melbadry9.xyz/dangling-dns/xyz-services/ddns-worksites, Dangling-DNS-records
 - https://www.thezdi.com/blog/2021/3/17/cve-2021-27076-a-replay-style-deserialization-attack-against-sharepoint, Insecure-deserialization
 - https://spongebhav.medium.com/facebook-group-members-disclosure-e53eb83df39e, Information-disclosure
 - https://apapedulimu.click/google-vrp-how-i-get-blind-xss-at-google-with-dork-first-bounty-and-hof/, Blind-XSS
@@ -707,7 +703,6 @@
 - https://amineaboud.medium.com/10000-facebook-ssrf-bug-bounty-402bd21e58e5, SSRF
 - https://securitytrooper.com/en/cross-site-scripting-xss-reflected-in-one-of-the-subdomains-of-general-motorsbugbounty, Reflected-XSS
 - https://ahmdhalabi.medium.com/chaining-multiple-requests-to-achieve-rate-limiting-vulnerabilities-96c1e8365c06, Rate-limiting-bypass
-- https://shellbr3ak.medium.com/the-story-of-my-first-critical-bug-93a5920d6c43, SQL-injection
 - https://vijetareigns.medium.com/pre-account-takeover-using-oauth-misconfiguration-ebd32b80f3d3, OAuth
 - https://medium.com/realmodelabs/sd-pwn-part-3-cisco-vmanage-another-day-another-network-takeover-15731a4d75b7, RCE
 - https://cirius.medium.com/escalating-xss-to-account-takeover-ffde08624937, Reflected-XSS

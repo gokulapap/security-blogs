@@ -1,1 +1,2 @@
 - https://medium.com/@mohamed.elbadry/dangling-dns-aws-ec2-e2d801701e8
+- https://blog.melbadry9.xyz/dangling-dns/xyz-services/ddns-worksites

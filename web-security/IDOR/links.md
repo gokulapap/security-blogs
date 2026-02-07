@@ -272,3 +272,4 @@
 - https://medium.com/@0x0Asif/how-i-found-my-first-rce-8f8033883dc4
 - https://blog.sambal0x.com/2020/04/30/Hacking-razer-pay-ewallet-app.html
 - https://medium.com/bugbountywriteup/graphql-idor-leads-to-information-disclosure-175eb560170d
+- https://asterfiester.medium.com/5000-google-idor-vulnerability-writeup-c7b45926abe9
