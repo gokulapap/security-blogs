@@ -2,7 +2,6 @@
 - https://medium.com/@jenishpanchal514/account-takeover-via-response-manipulation-otp-brute-force-b965fc1b7a37, ATO
 - https://medium.com/@diegotellaroli05/account-takeover-in-chatgpt-e134ed11654d, ATO
 - https://medium.com/@_deshine_/easy-2000-race-condition-b4d093c9bc3c, race-condition
-- https://medium.com/@vickieli/learn-about-command-injection-attacks-1cd0d178fe65, injection
 - https://medium.com/@sumedh00/accessing-admin-dashboard-in-5-seconds-acee737eacfb, journey
 - https://medium.com/@vickieli/intro-to-ssrf-beb35857771f, ssrf
 - https://medium.com/@nanwinata/rce-docker-api-but-11ff70825935, Cloud
@@ -215,7 +214,6 @@
 - https://erasec.be/blog/client-side-path-manipulation/, Client-side-Path-Traversal
 - https://ymohagheghi.medium.com/uploading-the-webshell-using-filename-of-content-disposition-header-story-59ba87752311, Unrestricted-file-upload
 - https://crypt0g30rgy.github.io/post/SSRFtoDos, SSRF
-- https://medium.com/@LogicalHunter/identity-aware-proxy-misconfiguration-google-cloud-vulnerability-813d2a07a4ed, CORS-misconfiguration
 - https://3sjay.github.io/2023/01/06/pandoraFMS-Pre-Auth-RCE.html, RCE
 - https://labs.nettitude.com/blog/cve-2022-25026-cve-2022-25027-vulnerabilities-in-rocket-trufusion-enterprise/, Authentication-bypass
 - https://yaseenzubair.medium.com/web-cache-poisoning-worth-it-e7c6d88797b1, Web-cache-poisoning
@@ -593,7 +591,6 @@
 - https://feed.bugs.xdavidhu.me/bugs/0009, IDOR
 - https://adnanmalik.info/blog/lets-cancel-the-subscription/, Logic-flaw
 - https://philippeharewood.com/bulletin-com-email-address-leak/, Information-disclosure
-- https://blog.tyage.net/posts/2021-06-27-dependabot-rce/, SSRF
 - https://ysamm.com/?p=702, CSRF
 - https://ysamm.com/?p=700, Information-disclosure
 - https://smaranchand.com.np/2021/06/flywheel-subdomain-takeover/, Subdomain-takeover
@@ -832,7 +829,6 @@
 - https://medium.com/@afolicdaralee/hacking-a-telecommunication-company-mtn-c46696451fed, OTP-bypass
 - https://medium.com/bugbountywriteup/how-i-unlocked-the-blocked-accounts-545e9b7d7be1, Password-reset
 - https://blog.doyensec.com/2020/04/08/libressl-fuzzer.html, Memory-corruption
-- https://medium.com/@D0rkerDevil/3k-bounty-for-elastic-search-takeover-70c0847d2e40, Elasticsearch-Takeover
 - https://medium.com/@pig.wig45/touch-id-authentication-bypass-on-evernote-and-dropbox-ios-apps-7985219767b2, Authentication-bypass
 - https://medium.com/@ashokcpg/the-story-of-my-first-ever-1500-bounty-from-facebook-49eb64d26160, Logic-flaw
 - https://blog.securitybreached.org/2020/03/31/microsoft-rce-bugbounty/, RCE
@@ -889,7 +885,6 @@
 - https://philippeharewood.com/1-800-flowers-credentials-and-message-log-leak-via-facebook-com-facebook/, AWS-misconfiguration
 - https://medium.com/bugbountywriteup/how-i-was-able-to-bypass-otp-token-requirement-in-razer-the-story-of-a-critical-bug-fc63a94ad572, OTP-bypass
 - https://medium.com/@manralhemant10/how-i-bypassed-2-factor-authentication-899750421331, MFA-bypass
-- https://medium.com/@rohitcoder/whitehat-test-accounts-can-act-as-hidden-admin-with-business-manager-ad-accounts-ce75ead5ffff, Authorization-flaw
 - https://medium.com/@r99tiq/how-i-hacked-basf-company-3b75ef39c74f, Missing-authentication
 - https://blog.usejournal.com/how-recon-helped-samsung-protect-their-production-repositories-of-samsungtv-ecommerce-estores-4c51d6ec4fdd, Information-disclosure
 - https://web.archive.org/web/20200820030055/https://pwnsec.ninja/2019/09/14/how-i-found-a-simple-and-weird-account-takeover-bug/, Account-takeover

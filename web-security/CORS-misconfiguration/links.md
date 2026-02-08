@@ -25,3 +25,4 @@
 - https://medium.com/@sandh0t/think-outside-the-scope-advanced-cors-exploitation-techniques-dad019c68397
 - https://medium.com/@osamaavvan/cors-to-csrf-attack-c33a595d441
 - https://corben.io/blog/18-1-11-chaining-yahoo-bugs
+- https://medium.com/@LogicalHunter/identity-aware-proxy-misconfiguration-google-cloud-vulnerability-813d2a07a4ed

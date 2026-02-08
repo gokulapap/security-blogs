@@ -1,0 +1,1 @@
+- https://medium.com/@D0rkerDevil/3k-bounty-for-elastic-search-takeover-70c0847d2e40

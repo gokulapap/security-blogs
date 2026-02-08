@@ -3,3 +3,4 @@
 - https://medium.com/@s_novoselov/ssti-csti-dont-waste-your-time-c6e9fbb20743
 - https://medium.com/@justm0rph3u5/html-and-hyperlink-injection-via-share-option-in-microsoft-onenote-application-47e94d0e6478
 - https://medium.com/@ishakudkar/owasp-1-injection-cad772e39a0f
+- https://medium.com/@vickieli/learn-about-command-injection-attacks-1cd0d178fe65
