@@ -125,3 +125,4 @@
 - https://web.archive.org/web/20200513211717/https://mrss4nd0x.000webhostapp.com/Stored-XSS-on-groups-google-com.php
 - https://medium.com/@snoopy101/1000-for-a-simple-stored-xss-8be7083a7c2d
 - https://medium.com/@raymond-lind/how-i-found-a-simple-stored-xss-9a6b1c5e0afa
+- https://web.archive.org/web/20220220072733/https://bloggerrando.blogspot.com/2022/02/stored-xss-on-messagealibabacom-alibaba.html

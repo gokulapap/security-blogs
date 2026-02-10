@@ -317,3 +317,4 @@
 - https://medium.com/@noneofyou/how-i-got-hall-of-fame-in-microsoft-9b507dec3860
 - https://infosecwriteups.com/bragging-rights-lets-head-back-to-bug-bucket-88c94730b6fa
 - https://medium.com/pentesternepal/how-i-found-a-bug-in-apple-within-just-in-5min-d7357237d7a0
+- https://amit-lt.medium.com/open-redirection-into-bentley-system-d1ee188bfb25

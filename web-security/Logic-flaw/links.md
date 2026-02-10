@@ -180,3 +180,4 @@
 - https://thinkermaruf.medium.com/fiverr-email-restriction-bypassed-36b797cb7e9
 - https://kingkaran977.medium.com/10-000-for-automatic-email-confirmation-bug-in-microsofts-edge-browser-22f15ceccb4a
 - https://medium.freecodecamp.org/how-anyone-could-have-used-uber-to-ride-for-free-36cdee5ea854
+- https://web.archive.org/web/20200511145923/https://medium.com/@godofdarkness.msf/account-takeover-flow-in-mail-ru-s-ext-a-domain-150-8952e8078211

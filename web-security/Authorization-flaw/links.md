@@ -122,3 +122,4 @@
 - https://medium.com/@addictrao20/fixed-register-any-email-address-on-facebook-account-c6d1c3eb810d
 - https://philippeharewood.com/change-any-link-at-https-fbwat-ch/
 - https://medium.com/@rohitcoder/whitehat-test-accounts-can-act-as-hidden-admin-with-business-manager-ad-accounts-ce75ead5ffff
+- https://www.askbuddie.com/blog/unauthorized-comments-on-facebook-live-stream/

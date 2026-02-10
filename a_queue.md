@@ -7,7 +7,6 @@
 - https://medium.com/@nanwinata/rce-docker-api-but-11ff70825935, Cloud
 - https://medium.com/@basakyilmaz82/log4j-vulnerability-485559065af6, CVE
 - https://medium.com/@codewithvamp/the-cost-of-neglect-html-injection-3c00e719fdef, html-injection
-- https://medium.com/@danielmakelley/4-tips-for-new-bug-bounty-hunters-b71c4c6ab5f9, tricks
 - https://medium.com/@ryuukhagetsu/how-i-get-bounty-from-takeover-account-ed17cd838b2a, ATO
 - https://medium.com/@techkalam/execute-mongo-shell-commands-in-javascript-file-862dcf45aad6, tricks
 - https://medium.com/@nav1n/how-i-got-owned-a-multi-billion-dollar-retailers-mysql-databases-using-simple-sql-injection-30f8b0dfd9ce, sql-injection
@@ -429,7 +428,6 @@
 - https://medium.com/@abdalrahman.alshammas/fuzzing-and-credentials-leakage-nice-bug-hunting-writeup-38b2e774b300, Hardcoded-credentials
 - https://systemweakness.com/unlock-any-blur-text-picture-without-membership-subscription-on-scribd-com-by-neuchi-69237776e24, Payment-bypass
 - https://shubhdeepp.medium.com/how-i-got-apple-hall-of-fame-3d86f858c05f, Content-injection
-- https://amit-lt.medium.com/open-redirection-into-bentley-system-d1ee188bfb25, XSS
 - https://systemweakness.com/exploiting-a-file-upload-vulnerability-a-directory-traversal-attack-419308cdb059, Unrestricted-file-upload
 - https://debprasadbanerjee502.medium.com/united-nations-bug-bounty-writeup-4bcfdefbb8d3, Information-disclosure
 - https://medium.com/@_ip_/2-3-xss-through-the-front-door-gitlab-fc4b6799e743, XSS
@@ -461,7 +459,6 @@
 - https://servicenger.com/mobile/facebook-android-vulnerability-launching-internal-tighten-deeplink-onbehalf-of-user/, Android
 - https://gitlab.com/kop316/vvm-disclosure, Voicemail-hacking
 - https://github.com/Metnew/write-ups/tree/main/rce-github-desktop-2.9.3, RCE
-- https://web.archive.org/web/20220220072733/https://bloggerrando.blogspot.com/2022/02/stored-xss-on-messagealibabacom-alibaba.html, Stored-XSS
 - https://medium.com/@720922/recon-and-youtube-is-that-a-thing-5523b48c32e3, Subdomain-takeover
 - https://www.iot-inspector.com/blog/advisory-western-digital-my-cloud-pro-series-pr4100-rce/, RCE
 - https://ozguralp.medium.com/bigquery-sql-injection-cheat-sheet-65ad70e11eac, SQL-injection
@@ -832,7 +829,6 @@
 - https://medium.com/@pig.wig45/touch-id-authentication-bypass-on-evernote-and-dropbox-ios-apps-7985219767b2, Authentication-bypass
 - https://medium.com/@ashokcpg/the-story-of-my-first-ever-1500-bounty-from-facebook-49eb64d26160, Logic-flaw
 - https://blog.securitybreached.org/2020/03/31/microsoft-rce-bugbounty/, RCE
-- https://web.archive.org/web/20200511145923/https://medium.com/@godofdarkness.msf/account-takeover-flow-in-mail-ru-s-ext-a-domain-150-8952e8078211, Logic-flaw
 - https://web.archive.org/web/20201004092711/https://sametsahin.net/posts/administrator-level-privilege-escalation-story/, Privilege-escalation
 - https://medium.com/bugbountywriteup/reflected-xss-on-microsoft-com-subdomains-4bdfc2c716df, Reflected-XSS
 - https://honoki.net/2020/03/18/xxe-scape-through-the-front-door-circumventing-the-firewall-with-http-request-smuggling/, XXE
@@ -1012,7 +1008,6 @@
 - https://medium.com/@vishnu0002/instagram-multi-factor-authentication-bypass-924d963325a1, MFA-bypass
 - https://www.amolbaikar.com/disclose-contact_email-of-any-facebook-application/, Information-disclosure
 - https://medium.com/@zain.sabahat/exploiting-ssrf-like-a-boss-c090dc63d326, SSRF
-- https://www.askbuddie.com/blog/unauthorized-comments-on-facebook-live-stream/, Authorization-flaw
 - https://www.vulnerability-db.com/?q=articles/2018/11/16/microsoft-bingplaces-business-url-redirect-vulnerability, Open-redirect
 - https://philippeharewood.com/disclose-page-admins-via-gaming-dashboard-bans/, Information-disclosure
 - https://medium.com/@maxpasqua/breaking-appointments-and-job-interview-schedules-with-malformed-times-edef103e46ba, DoS
