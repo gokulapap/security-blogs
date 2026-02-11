@@ -407,7 +407,6 @@
 - https://medium.com/@sharp488/2fa-bypass-on-private-bug-bounty-program-due-to-csrf-token-misconfiguration-5a9c82151a1, MFA-bypass
 - https://breakpoint.sh/posts/snyk-code-broken-access-control, Path-traversal
 - https://infosecwriteups.com/bypassing-waf-to-weaponize-a-stored-xss-ff9963c421ee, Stored-XSS
-- https://securityflow.io/impact-of-an-insecure-deep-link/, Insecure-deeplink
 - https://basyounii.medium.com/forging-oauth-tokens-using-discovered-client-id-and-client-secret-d224e4e7892a, Information-disclosure
 - https://systemweakness.com/rce-via-dependency-confusion-e0ed2a127013, Dependency-confusion
 - https://melotover.medium.com/can-analyzing-javascript-files-lead-to-remote-code-execution-f24112f1aa1f, Unrestricted-file-upload
@@ -692,7 +691,6 @@
 - https://amineaboud.medium.com/10000-facebook-ssrf-bug-bounty-402bd21e58e5, SSRF
 - https://securitytrooper.com/en/cross-site-scripting-xss-reflected-in-one-of-the-subdomains-of-general-motorsbugbounty, Reflected-XSS
 - https://ahmdhalabi.medium.com/chaining-multiple-requests-to-achieve-rate-limiting-vulnerabilities-96c1e8365c06, Rate-limiting-bypass
-- https://vijetareigns.medium.com/pre-account-takeover-using-oauth-misconfiguration-ebd32b80f3d3, OAuth
 - https://medium.com/realmodelabs/sd-pwn-part-3-cisco-vmanage-another-day-another-network-takeover-15731a4d75b7, RCE
 - https://cirius.medium.com/escalating-xss-to-account-takeover-ffde08624937, Reflected-XSS
 - https://ozguralp.medium.com/turning-blind-error-based-sql-injection-into-an-exploitable-boolean-one-85d6be3ca23b, SQL-injection
@@ -839,7 +837,6 @@
 - https://medium.com/@adonkidz7/my-first-bounty-from-google-d9f1f3f5787a, Self-XSS
 - https://www.acunetix.com/blog/web-security-zone/xss-google-acunetix/, XSS
 - https://weizman.github.io/2020/02/14/whatsapp-vuln/, RCE
-- https://www.amolbaikar.com/determine-users-with-detailed-role-model-on-behalf-of-any-facebook-application/, IDOR
 - https://medium.com/@sushiwushi2/hijacking-shared-report-links-in-google-data-studio-75eab320c391, Authorization-flaw
 - https://techblog.mediaservice.net/2020/01/ok-google-bypass-the-authentication/, Authentication-bypass
 - https://medium.com/@abhishake100/hyperlink-injection-easy-money-sometimes-cc1104655300, Hyperlink-injection
@@ -1123,7 +1120,6 @@
 - https://lightningsecurity.io/blog/password-not-provided/, Authentication-flaw
 - http://c0rni3sm.blogspot.com/2017/08/accidentally-typo-to-bypass.html, Authentication-bypass
 - https://medium.com/@saamux/reflected-xss-on-www-yahoo-com-9b1857cecb8c, Reflected-XSS
-- https://medium.com/@armaanpathan/chain-the-vulnerabilities-and-take-your-report-impact-on-the-moon-csrf-to-html-injection-which-608fa6e74236, CSRF
 - https://sites.google.com/site/testsitehacking/10k-host-header, Authorization-flaw
 - https://labs.detectify.com/2017/07/27/how-we-invented-the-tesla-dom-doom-xss/, DOM-XSS
 - https://medium.com/@arbazhussain/ctrl-d5ffc7b0640e, Clickjacking
@@ -1157,7 +1153,6 @@
 - https://blog.it-securityguard.com/bugbounty-reflected-cross-site-scripting-billmelater/, Reflected-XSS
 - https://blog.it-securityguard.com/bug-bounty-prezi-map-prezi-com-path-traversal/, Path-traversal
 - https://0day.click/recipe/2014-02-22-github/, RCE
-- https://blog.includesecurity.com/2014/02/how-i-was-able-to-track-the-location-of-any-tinder-user/, Information-disclosure
 - https://bitquark.co.uk/blog/2013/12/30/google_sites_a_tale_of_five_vulnerabilities, XSS
 - http://blog.shashank.co/2013/12/imgur-xss.html, XSS
 - http://blog.shashank.co/2013/12/heroku-directory-transversal.html, Path-traversal

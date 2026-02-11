@@ -299,3 +299,4 @@
 - https://0xa1mn.medium.com/how-i-unveiled-a-critical-vulnerability-exposing-all-buyers-invoices-pii-with-a-single-trick-691fd410fd7a
 - https://web.archive.org/web/20220612235502/https://bugs.0xdroopy.live/bugs/how-i-tracked-you-around-the-globe/
 - https://corben.io/blog/hacking-kucoin
+- https://blog.includesecurity.com/2014/02/how-i-was-able-to-track-the-location-of-any-tinder-user/

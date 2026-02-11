@@ -29,3 +29,4 @@
 - https://medium.com/@arbazhussain/stealing-0auth-token-mitm-3eeab46e96cf
 - http://blog.rakeshmane.com/2016/09/bug-bounty-account-takeover.html
 - https://www.descope.com/blog/post/noauth
+- https://vijetareigns.medium.com/pre-account-takeover-using-oauth-misconfiguration-ebd32b80f3d3
