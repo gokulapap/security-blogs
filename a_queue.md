@@ -16,7 +16,6 @@
 - https://medium.com/@rajeshranjan457/how-i-was-able-to-regain-access-to-account-deleted-by-admin-leading-to-a2c29025f8cd, journey
 - https://medium.com/@hbothra22/got-cookies-cookie-based-authentication-vulnerabilities-in-wild-55fa7c374be0, misc
 - https://medium.com/@terjanq/clobbering-the-clobbered-advanced-dom-clobbering-8443547ebe94, misc
-- https://medium.com/@0xinfosec/cloudfare-xss-bypass-improper-csrf-token-leads-to-account-takeover-of-victim-account-b795fa429fc3, XSS
 - https://medium.com/@notifybugme/how-i-was-able-find-mass-leaked-aws-s3-bucket-from-js-file-6064a5c247f8, info-disclosure
 - https://medium.com/@toxglot/hacking-a-company-from-a-phone-478bbfed04c8, journey
 - https://medium.com/@tommasobona04/building-an-xss-scanner-with-python-detecting-cross-site-scripting-vulnerabilities-by-tommaso-69d4c9e04d72, automation
@@ -93,14 +92,12 @@
 - https://0day.click/recipe/pash/, RCE
 - https://research.nccgroup.com/2023/05/31/reverse-engineering-coin-hunt-worlds-binary-protocol/, Reverse-engineering
 - https://mc0wn.blogspot.com/2023/05/vulnerabilities-in-apache-commons-text.html, Path-traversal
-- https://medium.com/@ajzead660/exploit-an-unexploitable-xss-via-an-open-redirect-a-real-life-scenario-from-a-hackers-mindset-32b71041c5fe, XSS
 - https://medium.com/@ibederov_en/find-out-the-ip-address-through-a-call-to-telegram-a899441b1bac, Privacy-issue
 - https://www.secureworks.com/research/tampering-with-conditional-access-policies-using-azure-ad-graph-api, Cloud
 - https://mr-r3bot.github.io/red/team/2023/05/22/From-RCE-to-owning-entire-cloud-infrastructure.html, RCE
 - https://nav1n.medium.com/exploiting-sql-error-sqlstate-42000-to-own-mariadb-of-a-large-eu-based-online-media-and-cf7396c43bbf, SQL-injection
 - https://shahjerry33.medium.com/stored-iframe-injection-permanent-open-redirection-zero-day-ce7cd15903ac, HTML-injection
 - https://blog.pretera.com/how-misconfigured-and-vulnerable-devices-could-expose-your-company-to-physical-and-cyber-threats-37d0e0d8d158, IoT
-- https://corben.io/blog/hacking-kucoin, Information-disclosure
 - https://medium.com/@zhero_/dos-via-cache-poisoning-38f3a87f997c, Web-cache-deception
 - https://medium.com/@levshmelevv/hardcore-rce-via-directory-name-for-3-000-225ed58b41a9, RCE
 - https://web.archive.org/web/20230515045300/https://www.kaytaq.com/uncategorized/bypassing-open-redirect-protection-site-wide-on-web2py-applications/, Open-redirect
@@ -136,7 +133,6 @@
 - https://bishopfox.com/blog/windows-task-scheduler-19044-advisory, Unquoted-search-path
 - https://kuldeep.io/posts/holiday-hunting-with-aquatone/, SSRF
 - https://rayhan0x01.github.io/ctf/2023/04/01/finding-rce-in-eta-cve-2022-25967.html, RCE
-- https://www.reversemode.com/2023/03/beware-of-javas-stringgetbytes.html, Hash-collision
 - https://www.mannulinux.org/2023/03/exploiting-hibernate-injection-in-order.html, HQL-injection
 - https://www.sonarsource.com/blog/it-s-a-snmp-trap-gaining-code-execution-on-librenms/, RCE
 - https://medium.com/@bughuntar/a-short-tell-of-lfi-from-pdf-link-professor-the-hunter-43a8be853e, LFI
@@ -215,7 +211,6 @@
 - https://crypt0g30rgy.github.io/post/SSRFtoDos, SSRF
 - https://3sjay.github.io/2023/01/06/pandoraFMS-Pre-Auth-RCE.html, RCE
 - https://labs.nettitude.com/blog/cve-2022-25026-cve-2022-25027-vulnerabilities-in-rocket-trufusion-enterprise/, Authentication-bypass
-- https://yaseenzubair.medium.com/web-cache-poisoning-worth-it-e7c6d88797b1, Web-cache-poisoning
 - https://danaepp.com/hacking-a-net-api-in-the-real-world, LFI
 - https://medium.com/@tobydavenn/bypassing-ssrf-protections-45e5e3ac31e9, SSRF
 - https://github.com/PabloMK7/ENLBufferPwn, Buffer-Overflow

@@ -1,0 +1,1 @@
+- https://www.reversemode.com/2023/03/beware-of-javas-stringgetbytes.html

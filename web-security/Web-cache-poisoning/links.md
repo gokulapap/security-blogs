@@ -19,3 +19,4 @@
 - https://enumerated.wordpress.com/2020/08/05/the-case-of-the-missing-cache-keys/
 - https://nokline.github.io/bugbounty/2022/09/02/Glassdoor-Cache-Poisoning.html
 - https://portswigger.net/research/bypassing-web-cache-poisoning-countermeasures
+- https://yaseenzubair.medium.com/web-cache-poisoning-worth-it-e7c6d88797b1
