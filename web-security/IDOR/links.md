@@ -274,3 +274,4 @@
 - https://medium.com/bugbountywriteup/graphql-idor-leads-to-information-disclosure-175eb560170d
 - https://asterfiester.medium.com/5000-google-idor-vulnerability-writeup-c7b45926abe9
 - https://www.amolbaikar.com/determine-users-with-detailed-role-model-on-behalf-of-any-facebook-application/
+- https://medium.com/the-gray-area/1-000-p1-pii-disclosure-w-idor-cb344c55d52e

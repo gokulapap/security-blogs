@@ -2,3 +2,4 @@
 - https://www.alevsk.com/2022/11/system-misconfiguration-is-the-number-one-vulnerability-at-least-for-mastodon/
 - https://medium.com/@damaidec/firebase-exploit-bug-bounty-be63f4dc1e4a
 - https://www.wiz.io/blog/azure-app-service-source-code-leak
+- https://www.synacktiv.com/sites/default/files/2023-06/synacktiv-ucopia-multiple-vulnerabilities-2022.pdf

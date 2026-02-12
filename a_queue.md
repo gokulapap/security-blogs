@@ -72,7 +72,6 @@
 - https://www.randorisec.fr/chamilo-1.11.18-multiple-vulnerabilities, OS-command-injection
 - https://medium.com/@M0X0101/how-i-was-able-to-get-account-takeover-via-insecure-data-storage-and-webview-with-exported-activity-5308a330ab80, Account-takeover
 - https://medium.com/@jonathanbouman/laravel-debug-mode-left-on-at-zouikwatzeggen-nl-948a7365409f, Debug-mode-enabled
-- https://www.synacktiv.com/sites/default/files/2023-06/synacktiv-ucopia-multiple-vulnerabilities-2022.pdf, Security-misconfiguration
 - http://www.kamilonurozkaleli.com/posts/a-classical-account-takeover-case-via-multiple-bypasses/, Account-takeover
 - https://medium.com/@kushjain0107/one-mistake-three-bugs-comprehensive-android-pentesting-a8fc68e36af5, Android
 - https://medium.com/@0xnaeem/how-i-found-a-sql-injection-bug-in-using-my-cellphone-5b5193fdc314, SQL-injection
@@ -273,7 +272,6 @@
 - https://bishopfox.com/blog/jira-align-advisory, SSRF
 - https://www.redteam-pentesting.de/en/advisories/rt-sa-2021-003/-missing-authentication-in-zkteco-zem-zmm-web-interface, Missing-authentication
 - https://mehedishakeel.medium.com/broken-link-hijacking-my-second-finding-on-hackerone-d715b0713fca, Broken-link-hijacking
-- https://medium.com/the-gray-area/1-000-p1-pii-disclosure-w-idor-cb344c55d52e, IDOR
 - https://medium.com/@h4x0r_dz/23000-for-authentication-bypass-file-upload-arbitrary-file-overwrite-2578b730a5f8, JWT
 - https://www.mdsec.co.uk/2022/10/microsoft-office-online-server-remote-code-execution/, SSRF
 - https://lokeshdlk77.medium.com/facebook-sms-captcha-was-vulnerable-to-csrf-attack-8db537b1e980, CSRF
@@ -343,7 +341,6 @@
 - https://bahruz.me/publications/11844, HTTP-Request-Smuggling
 - https://medium.com/@avinash_/email-confirmation-bypass-at-instagram-cc968f9a126, Email-verification-bypass
 - https://krausefx.com/blog/ios-privacy-instagram-and-facebook-can-track-anything-you-do-on-any-website-in-their-in-app-browser, Privacy-issue
-- https://onekey.com/blog/advisory-cisco-small-business-rv-series-routers-web-filter-database-update-command-injection-vulnerability/, OS-command-injection
 - http://blog.h4rsh4d.com/2022/08/open-redirect-bypass.html, Open-redirect
 - https://vsrc.vng.com.vn/blog/liferay-revisited-a-tale-of-20k/, RCE
 - https://infosecwriteups.com/how-i-was-able-to-get-29-free-products-bug-bounty-845667ab4ad4, Race-condition
@@ -363,7 +360,6 @@
 - https://www.authomize.com/blog/authomize-discovers-password-stealing-and-impersonation-risks-to-in-okta/, Sensitive-data-sent-over-an-unencrypted-channel
 - https://infosecwriteups.com/ffuf-ing-recon-1ee4e79b3256, vHost-misconfiguration
 - https://medium.com/@rajqureshi07/a-story-of-my-first-bug-bounty-dda320db78d9, Information-disclosure
-- https://medium.com/@moSec/crlf-to-account-takeover-chaining-bugs-21a25dfa1cdf, CRLF-injection
 - https://medium.com/@anjaneyulukanakatla1996/business-logic-error-6922ba75cad8, Logic-flaw
 - https://medium.com/tenable-techblog/microsoft-azure-site-recovery-dll-hijacking-cd8cc34ef80c, DLL-Hijacking
 - https://blog.lightspin.io/exploiting-eks-authentication-vulnerability-in-aws-iam-authenticator, Authentication-flaw
@@ -393,7 +389,6 @@
 - https://portswigger.net/research/bypassing-csp-with-dangling-iframes, CSP-bypass
 - https://medium.com/@janijay007/how-i-was-able-to-see-likes-and-dislikes-count-which-is-hidden-by-victim-youtube-1-fa9cfe7cce7d, Logic-flaw
 - https://medium.com/tenable-techblog/microsoft-azure-synapse-pwnalytics-87c99c036291, Privilege-escalation
-- https://security.humanativaspa.it/multiple-vulnerabilities-in-zyxel-zysh/, OS-command-injection
 - https://machevalia.blog/blog/ivanti-epm-remote-code-execution, RCE
 - https://www.zerodayinitiative.com/blog/2022/6/1/is-exploiting-a-null-pointer-deref-for-lpe-just-a-pipe-dream, Memory-corruption
 - https://hencohen10.medium.com/microsoft-dynamics-container-sandbox-rce-via-unauthenticated-docker-remote-api-20-000-bounty-7f726340a93b, RCE
