@@ -5,3 +5,4 @@
 - https://medium.com/@vishnurajr/403-forbidden-bypass-accessing-config-files-using-a-header-4bd172c25ff1
 - https://medium.com/@abbasheybati1/403-bypass-lyncdiscover-microsoft-com-db2778458c33
 - https://infosecwriteups.com/how-403-forbidden-bypass-got-me-nokia-hall-of-fame-hof-8acbd2c1c2c8
+- https://sapt.medium.com/bypassing-403-protection-to-get-pagespeed-admin-access-822fab64c0b3
