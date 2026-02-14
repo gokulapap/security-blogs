@@ -293,3 +293,4 @@
 - https://www.sentinelone.com/labs/pwning-microsoft-azure-defender-for-iot-multiple-flaws-allow-remote-code-execution-for-all/
 - https://ssd-disclosure.com/ssd-advisory-rocket-chat-client-side-remote-code-execution/
 - https://www.oxeye.io/blog/vm2-sandbreak-vulnerability-cve-2022-36067
+- https://blog.nietaanraken.nl/posts/github-pages-command-injection/
