@@ -1,1 +1,2 @@
 - https://medium.com/system-weakness/sensitive-data-exfiltration-through-xss-450-409162eced3a
+- https://rafi-ahamed.medium.com/exploiting-api-with-authtoken-3bea7b1fb6a9
