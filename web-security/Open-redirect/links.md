@@ -83,3 +83,4 @@
 - https://levelup.gitconnected.com/stealing-user-information-via-xss-via-parameter-pollution-7d99b3379e7d
 - https://medium.com/bugbountywriteup/weak-cryptography-leads-to-open-redirect-3fe052c12995
 - https://medium.com/@flex0geek/how-i-bypassed-ebay-process-on-redirect-98739384b4bc
+- https://blog.detectify.com/2020/08/14/crowdsource-success-story-from-an-out-of-scope-open-redirect-to-cve-2020-1323/

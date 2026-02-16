@@ -295,3 +295,4 @@
 - https://www.oxeye.io/blog/vm2-sandbreak-vulnerability-cve-2022-36067
 - https://blog.nietaanraken.nl/posts/github-pages-command-injection/
 - https://hencohen10.medium.com/microsoft-dynamics-container-sandbox-rce-via-unauthenticated-docker-remote-api-20-000-bounty-7f726340a93b
+- https://medium.com/realmodelabs/sd-pwn-part-3-cisco-vmanage-another-day-another-network-takeover-15731a4d75b7
