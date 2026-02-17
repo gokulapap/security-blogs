@@ -63,7 +63,6 @@
 - https://matan-h.com/one-lfi-bypass-to-rule-them-all-using-base64/, LFI
 - https://www.sonarsource.com/blog/a-twist-in-the-code-openmeetings-vulnerabilities-through-unexpected-application-state/, Account-takeover
 - https://www.rapid7.com/blog/post/2023/07/19/cve-2023-38205-adobe-coldfusion-access-control-bypass-fixed/, Broken-Access-Control
-- https://orca.security/resources/blog/bad-build-google-cloud-build-potential-supply-chain-attack-vulnerability/, Cloud
 - https://www.trustedsec.com/blog/modeling-malicious-code-hacking-in-3d/, Phishing
 - https://medium.com/workday-engineering/exploiting-jmeter-via-rmi-e8e12392bba8, Insecure-deserialization
 - https://www.rapid7.com/blog/post/2023/07/11/cve-2023-29298-adobe-coldfusion-access-control-bypass/, Broken-Access-Control
@@ -286,7 +285,6 @@
 - https://www.trenchesofit.com/2022/09/30/zoneminder-web-app-testing/, DoS
 - https://medium.com/@jacopotediosi/worldwide-server-side-cache-poisoning-on-all-akamai-edge-nodes-50k-bounty-earned-f97d80f3922b, Web-cache-poisoning
 - https://carvesystems.com/news/xss-through-dhcp-how-attackers-use-standards/, XSS
-- https://daturamater.medium.com/a-breach-on-patreon-and-their-elusive-bounty-program-5e7ea62dc738, Payment-bypass
 - https://webs3c.com/t/from-nothing-to-aws-credentials/220, SSRF
 - https://blog.champtar.fr/VLAN0_LLC_SNAP/, Layer-2-networking-vulnerability
 - https://blog.infiltrateops.io/tesla-paid-me-10-000-because-of-directory-indexing-c1be06c77a3e, Directory-listing
@@ -590,7 +588,6 @@
 - https://infosecwriteups.com/third-party-apps-were-still-getting-your-private-facebook-data-even-after-their-access-expiry-6e4be4880e6e, Logic-flaw
 - https://infosecwriteups.com/writeups-facebook-whitehat-program-2021-instagram-live-setting-bug-500-usd-d2d076b3f8bb, Logic-flaw
 - https://www.sonarsource.com/blog/nosql-injections-in-rocket-chat/, NoSQL-injection
-- https://n3t-hunt3r.medium.com/finding-my-first-critical-web-cache-poisoning-6f956799371c, Web-cache-poisoning
 - https://feed.bugs.xdavidhu.me/bugs/0006, Path-traversal
 - https://www.fortbridge.co.uk/research/drupal-insecure-default-leads-to-password-reset-poisoning/, Password-reset
 - https://galnagli.com/Mass_Assignment/, Mass-assignment
@@ -620,7 +617,6 @@
 - https://philippeharewood.com/download-facebook-internal-mobile-builds/, Information-disclosure
 - https://thexssrat.medium.com/i-felt-like-there-were-no-more-bugs-left-after-winning-2000-but-an-email-worth-750-changed-my-c7a507649060, Broken-Access-Control
 - https://thexssrat.medium.com/poc-the-easiest-125-euros-i-ever-made-4dc87f01e286, Logic-flaw
-- https://www.ehpus.com/post/multiple-authorization-bypass-issues-in-google-s-richmedia-studio, Authorization-flaw
 - https://sudhanshur705.medium.com/how-i-made-it-to-google-hof-f1cec85fdb1b, IDOR
 - https://godiego.co/posts/STO-AWS/, Subdomain-takeover
 - https://gccybermonks.com/posts/xss-mozilla/, XSS
@@ -943,7 +939,6 @@
 - https://ysamm.com/?p=171, IDOR
 - https://medium.freecodecamp.org/cache-deception-how-i-discovered-a-vulnerability-in-medium-and-helped-them-fix-it-31cec2a3938b, Web-cache-deception
 - https://posts.specterops.io/remote-code-execution-via-path-traversal-in-the-device-metadata-authoring-wizard-a0d5839fc54f, Path-traversal
-- https://medium.com/@goyalvartul/how-i-hacked-40-000-user-accounts-of-microsoft-using-2fa-bypass-outlook-live-com-13258785ec2f, MFA-bypass
 - https://medium.com/@rupika.luhach/how-i-was-able-to-extract-information-of-other-users-exploiting-idor-9f03aa72dd06, IDOR
 - https://offensi.com/2019/01/31/lfi-in-apigee-portals, LFI
 - https://blog.detectify.com/2019/01/29/hacking-isnt-an-exact-science/, Authorization-flaw

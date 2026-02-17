@@ -16,3 +16,4 @@
 - https://medium.com/@querylab/bypass-premium-account-payment-getpocket-d813b249687c
 - https://crypt0g30rgy.github.io/post/PaymentBypassOne
 - https://evowizz.dev/blog/huawei-appgallery-vulnerability
+- https://daturamater.medium.com/a-breach-on-patreon-and-their-elusive-bounty-program-5e7ea62dc738

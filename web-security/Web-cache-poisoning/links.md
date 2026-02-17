@@ -20,3 +20,4 @@
 - https://nokline.github.io/bugbounty/2022/09/02/Glassdoor-Cache-Poisoning.html
 - https://portswigger.net/research/bypassing-web-cache-poisoning-countermeasures
 - https://yaseenzubair.medium.com/web-cache-poisoning-worth-it-e7c6d88797b1
+- https://n3t-hunt3r.medium.com/finding-my-first-critical-web-cache-poisoning-6f956799371c
