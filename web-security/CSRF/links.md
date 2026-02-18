@@ -109,3 +109,4 @@
 - https://muhammad-aamir.medium.com/exploitation-of-files-download-parameters-to-create-potential-risk-of-malware-delivery-200-bug-e2bcce0e737
 - https://medium.com/@armaanpathan/chain-the-vulnerabilities-and-take-your-report-impact-on-the-moon-csrf-to-html-injection-which-608fa6e74236
 - https://medium.com/@omarbakrey90/csrf-leads-to-delete-user-account-fc362078be2f
+- https://whitton.io/archive/my-experience-with-the-paypal-bug-bounty-programme/

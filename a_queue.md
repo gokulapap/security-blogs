@@ -47,7 +47,6 @@
 - https://medium.com/@caesarevan23/the-journey-to-get-sql-injection-at-bluepay-blue-indonesia-bluepay-2019-7a23bbce4cb8, journey
 - https://medium.com/@huang-h-kevin/from-retargeting-to-rce-my-journey-from-advertising-to-cybersecurity-4c6149a25c58, journey
 - https://medium.com/@shubhangivashist/how-to-exploit-directory-traversal-vulnerabilities-176eeb7f2655, directory-traversal
-- https://medium.com/@whitedevil4276/otp-bypass-through-burpsuite-in-maruti-nexa-test-drive-e9d82db656b8, bypass
 - https://medium.com/@haythamkarouata/bug-bounty-hunting-101-js-files-diving-4b1753fefb3d, source-code-review
 - https://medium.com/@jonathanbouman/stored-xss-in-paytium-3-0-13-wordpress-plugin-3157ee37eb8f, XSS
 - https://medium.com/@grahamzemel/the-best-vulnerability-disclosure-programs-less-competitive-bounties-a166acbbbd1b, tricks
@@ -483,7 +482,6 @@
 - https://cyberguy0xd1.medium.com/my-write-up-in-hacking-ibms-administration-panel-and-getting-sqli-on-it-51404c7bee27, SQL-injection
 - https://blog.sonarsource.com/nodebb-remote-code-execution-with-one-shot, RCE
 - https://sh1yo.art/post/sec-596/, Reflected-XSS
-- https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/modsecurity-dos-vulnerability-in-json-parsing-cve-2021-42717/, DoS
 - https://zseano.medium.com/finding-xss-on-apple-com-and-building-a-proof-of-concept-to-leak-your-pii-information-d7bc93cff2df, XSS
 - https://r0.haxors.org/posts?id=26, SQL-injection
 - https://lethanhphuc-pk.medium.com/bugbounty-xss-with-markdown-exploit-fix-on-opensource-1baecebe9645, XSS
@@ -932,7 +930,6 @@
 - https://www.hackerinside.me/2019/02/dos-on-waf-protected-sites-by-abusing.html, DoS
 - https://web.archive.org/web/20200929012457/https://www.mohamedharon.com/2019/02/souqcom-subdomain-takeover-via.html, Subdomain-takeover
 - https://gauravnarwani.com/never-stop-at-banner-grabbing/, Information-disclosure
-- https://wwws.nightwatchcybersecurity.com/2019/02/14/third-party-android-app-storing-facebook-data-insecurely/, Information-disclosure
 - https://web.archive.org/web/20200929022152/https://www.mohamedharon.com/2019/02/ssrf-server-side-request-forgery-in.html, SSRF
 - https://www.linkedin.com/pulse/hacking-youtube-fun-profit-alexandru-coltuneac/, IDOR
 - https://ysamm.com/?p=214, Authorization-flaw
@@ -1020,7 +1017,6 @@
 - https://www.ambionics.io/blog/prestashop-privilege-escalation, Privilege-escalation
 - http://omespino.com/write-up-telegram-bug-bounty-whatsapp-n-a-blind-xss-stored-ios-in-messengers-twins-who-really-care-about-your-security/, Blind-XSS
 - https://medium.com/@logicbomb_1/bugbounty-compromising-user-account-how-i-was-able-to-compromise-user-account-via-http-4288068b901f, HTTP-parameter-pollution
-- https://zseano.medium.com/how-re-signing-up-for-an-account-lead-to-account-takeover-3a63a628fd9f, Logic-flaw
 - https://medium.com/@yassergersy/account-take-over-via-reset-password-f2e9d887bce1, Password-reset
 - https://medium.com/bugbountywriteup/responsible-disclosure-how-i-could-have-booked-movie-tickets-through-other-user-accounts-2db26a037b4c, Password-reset
 - https://medium.com/@jonathanbouman/unvalidated-open-redirect-bol-com-b270151380e6, Open-redirect
@@ -1128,4 +1124,3 @@
 - http://blog.shashank.co/2013/12/heroku-directory-transversal.html, Path-traversal
 - https://bitquark.co.uk/blog/2013/07/19/admob_creative_image_xss, XSS
 - https://whitton.io/archive/framing-part-1-click-jacking-etsy, Clickjacking
-- https://whitton.io/archive/my-experience-with-the-paypal-bug-bounty-programme/, CSRF
