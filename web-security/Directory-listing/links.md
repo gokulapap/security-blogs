@@ -7,3 +7,4 @@
 - https://mehedishakeel.medium.com/information-exposure-my-fourth-finding-on-hackerone-4fc4461920c4
 - https://medium.com/@saurabh5392/how-i-earned-by-finding-confidential-customer-data-including-plain-text-passwords-f93c4ce2631
 - https://remonsec.com/posts/getting-first-swag-SIDN/
+- https://blog.infiltrateops.io/tesla-paid-me-10-000-because-of-directory-indexing-c1be06c77a3e

@@ -121,3 +121,4 @@
 - https://ahmadaabdulla.medium.com/how-i-found-sql-injection-on-intensedebate-com-h1-in-5-minute-350-a36c2890882d
 - https://shellbr3ak.medium.com/the-story-of-my-first-critical-bug-93a5920d6c43
 - https://www.dsecbypass.com/en/dolibarr-pre-auth-contact-database-dump/
+- https://ozguralp.medium.com/bigquery-sql-injection-cheat-sheet-65ad70e11eac

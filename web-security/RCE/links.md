@@ -296,3 +296,4 @@
 - https://blog.nietaanraken.nl/posts/github-pages-command-injection/
 - https://hencohen10.medium.com/microsoft-dynamics-container-sandbox-rce-via-unauthenticated-docker-remote-api-20-000-bounty-7f726340a93b
 - https://medium.com/realmodelabs/sd-pwn-part-3-cisco-vmanage-another-day-another-network-takeover-15731a4d75b7
+- https://web.archive.org/web/20221128044142/https://wya.pl/2022/02/26/cve-2022-22947-spel-casting-and-evil-beans/

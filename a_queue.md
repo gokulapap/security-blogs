@@ -286,7 +286,6 @@
 - https://carvesystems.com/news/xss-through-dhcp-how-attackers-use-standards/, XSS
 - https://webs3c.com/t/from-nothing-to-aws-credentials/220, SSRF
 - https://blog.champtar.fr/VLAN0_LLC_SNAP/, Layer-2-networking-vulnerability
-- https://blog.infiltrateops.io/tesla-paid-me-10-000-because-of-directory-indexing-c1be06c77a3e, Directory-listing
 - https://sagarsajeev.medium.com/escalating-ssti-to-reflected-xss-using-curly-braces-825685bd93ec, SSTI
 - https://rohit443.medium.com/blind-xss-on-admin-portal-leads-to-information-disclosure-121d26b2a35a, Blind-XSS
 - https://infosecwriteups.com/complete-take-over-of-cisco-unified-communications-manager-due-consecutively-misconfigurations-2a1b5ce8bd9a, Security-misconfiguration
@@ -429,13 +428,11 @@
 - https://muffsec.com/blog/moodle-2nd-order-sqli/, SQL-injection
 - https://web.archive.org/web/20220306040035/https://medium.com/@1337Fenrir/how-did-i-find-directory-traversal-attack-using-github-9b051ed749ca, Information-disclosure
 - https://research.nccgroup.com/2022/02/28/brokenprint-a-netgear-stack-overflow/, Memory-corruption
-- https://web.archive.org/web/20221128044142/https://wya.pl/2022/02/26/cve-2022-22947-spel-casting-and-evil-beans/, RCE
 - https://servicenger.com/mobile/facebook-android-vulnerability-launching-internal-tighten-deeplink-onbehalf-of-user/, Android
 - https://gitlab.com/kop316/vvm-disclosure, Voicemail-hacking
 - https://github.com/Metnew/write-ups/tree/main/rce-github-desktop-2.9.3, RCE
 - https://medium.com/@720922/recon-and-youtube-is-that-a-thing-5523b48c32e3, Subdomain-takeover
 - https://www.iot-inspector.com/blog/advisory-western-digital-my-cloud-pro-series-pr4100-rce/, RCE
-- https://ozguralp.medium.com/bigquery-sql-injection-cheat-sheet-65ad70e11eac, SQL-injection
 - https://twitter.com/FlashbackPwn/status/1492074441450397698, Memory-corruption
 - https://twitter.com/m7mdharon/status/1492204287295897600, Subdomain-takeover
 - https://onapsis.com/threat-report/icmad-sap-vulnerabilities, HTTP-request-smuggling
@@ -832,7 +829,6 @@
 - https://medium.com/bugbountywriteup/dank-writeup-on-broken-access-control-on-an-indian-startup-d29132a1ecd, Unrestricted-file-upload
 - https://rez0.blog/hacking/2019/11/29/rce-via-imagetragick.html, RCE
 - https://www.pankajinfosec.com/post/700-denial-of-service-dos-vulnerability-in-script-loader-php-cve-2018-6389, DoS
-- https://portswigger.net/research/cracking-recaptcha-turbo-intruder-style, Captcha-bypass
 - https://medium.com/@mohameddaher/how-i-paid-2-for-1054-xss-bug-20-chars-blind-xss-payloads-12d32760897b, XSS
 - https://web.archive.org/web/20200929013918/https://www.mohamedharon.com/2019/11/subdomain-takeover-via.html, Subdomain-takeover
 - https://philippeharewood.com/disclose-the-owner-of-a-recruiting-manager-in-jobs-beta/, Information-disclosure
@@ -1056,7 +1052,6 @@
 - http://blog.jr0ch17.com/2018/No-RCE-then-SSH-to-the-box/, LFI
 - http://omespino.com/write-up-file-disclosure-via-ds_store-file-macos, Directory-listing
 - https://emtunc.org/blog/01/2018/research-misconfigured-jenkins-servers/, Information-disclosure
-- http://c0rni3sm.blogspot.com/2018/01/1800-in-less-than-hour.html, CSRF
 - https://blog.ibrahimdraidia.com/xss-via-angularjs-template-injection_hostinger/, Reflected-XSS
 - https://blog.securitybreached.org/2018/02/04/hunting-insecure-direct-object-reference-vulnerabilities-for-fun-and-profit-part-1/, IDOR
 - https://web.archive.org/web/20200920204426/https://medium.com/@adeshkolte/microsoft-sharepoints-follow-feature-xss-cve-2017-8514-adesh-kolte-d78d701cd064, XSS
