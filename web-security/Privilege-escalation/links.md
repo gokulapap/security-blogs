@@ -58,3 +58,4 @@
 - https://medium.com/bugbountywriteup/facebook-workplace-privilege-escalation-vulnerability-to-change-the-post-privacy-as-public-634f1c995780
 - https://systemweakness.com/i-obtained-admin-access-via-account-activation-link-in-30-seconds-dd7f115ae1d2
 - https://medium.com/@ronak_9889/privilege-escalation-using-api-endpoint-fce841caaff3
+- https://www.legitsecurity.com/blog/github-actions-that-open-the-door-to-cicd-pipeline-attacks

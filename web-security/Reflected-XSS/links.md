@@ -110,3 +110,4 @@
 - https://josipfranjkovic.blogspot.com/2013/07/how-i-found-my-way-into-instagrams.html
 - https://n45ht.or.id/post/reflected-xss-on-microsoft/en
 - https://pethuraj.com/blog/bbc-bug-bounty-write-up-xss-vulnerability/
+- https://medium.com/@smilehackerofficial/xss-that-can-pay-your-bills-9377eff1fd0d

@@ -302,3 +302,4 @@
 - https://blog.includesecurity.com/2014/02/how-i-was-able-to-track-the-location-of-any-tinder-user/
 - https://philippeharewood.com/determine-a-user-from-an-email-address/
 - https://wwws.nightwatchcybersecurity.com/2019/02/14/third-party-android-app-storing-facebook-data-insecurely/
+- https://lokeshdlk77.medium.com/contact-point-deanonymization-vulnerability-in-meta-90d575c4d8ef
