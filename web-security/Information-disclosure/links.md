@@ -303,3 +303,5 @@
 - https://philippeharewood.com/determine-a-user-from-an-email-address/
 - https://wwws.nightwatchcybersecurity.com/2019/02/14/third-party-android-app-storing-facebook-data-insecurely/
 - https://lokeshdlk77.medium.com/contact-point-deanonymization-vulnerability-in-meta-90d575c4d8ef
+- https://medium.com/bugbountywriteup/how-i-was-able-to-see-someones-all-private-files-with-a-single-file-share-link-through-atom-feed-7cde46d7e84d
+- https://medium.com/@ricardoiramar/this-is-fine-6e032f497b8f
