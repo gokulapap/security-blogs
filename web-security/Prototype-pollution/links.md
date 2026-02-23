@@ -5,3 +5,4 @@
 - https://blog.sonarsource.com/blitzjs-prototype-pollution/
 - https://www.codean.io/blog/vulnerability-write-up---%22dangerous-assumptions%22
 - https://blog.abdulrah33m.com/prototype-pollution-in-python/
+- https://portswigger.net/research/widespread-prototype-pollution-gadgets
