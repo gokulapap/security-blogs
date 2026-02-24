@@ -321,3 +321,4 @@
 - https://medium.com/@0xinfosec/cloudfare-xss-bypass-improper-csrf-token-leads-to-account-takeover-of-victim-account-b795fa429fc3
 - https://medium.com/@ajzead660/exploit-an-unexploitable-xss-via-an-open-redirect-a-real-life-scenario-from-a-hackers-mindset-32b71041c5fe
 - https://medium.com/@Bishoo97x/stored-xss-and-stored-html-injection-in-united-nations-website-db87d445e41
+- https://fernale.blogspot.com/2021/04/how-i-got-9000-usd-by-hacking-into.html

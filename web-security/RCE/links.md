@@ -299,3 +299,5 @@
 - https://web.archive.org/web/20221128044142/https://wya.pl/2022/02/26/cve-2022-22947-spel-casting-and-evil-beans/
 - https://www.sonarsource.com/blog/openemr-remote-code-execution-in-your-healthcare-system/
 - https://security.humanativaspa.it/groovy-template-engine-exploitation-notes-from-a-real-case-scenario/
+- https://research.nccgroup.com/2022/03/24/remote-code-execution-on-western-digital-pr4100-nas-cve-2022-23121/
+- https://security.humanativaspa.it/abusing-mavens-pom-xml/
