@@ -301,3 +301,4 @@
 - https://security.humanativaspa.it/groovy-template-engine-exploitation-notes-from-a-real-case-scenario/
 - https://research.nccgroup.com/2022/03/24/remote-code-execution-on-western-digital-pr4100-nas-cve-2022-23121/
 - https://security.humanativaspa.it/abusing-mavens-pom-xml/
+- https://sites.google.com/site/testsitehacking/-36k-google-app-engine-rce

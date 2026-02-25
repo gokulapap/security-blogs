@@ -124,3 +124,4 @@
 - https://medium.com/@rohitcoder/whitehat-test-accounts-can-act-as-hidden-admin-with-business-manager-ad-accounts-ce75ead5ffff
 - https://www.askbuddie.com/blog/unauthorized-comments-on-facebook-live-stream/
 - https://www.ehpus.com/post/multiple-authorization-bypass-issues-in-google-s-richmedia-studio
+- https://www.updatelap.com/2018/08/privileged-escalation-in-facebook-rooms.html

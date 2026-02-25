@@ -184,3 +184,4 @@
 - https://zseano.medium.com/how-re-signing-up-for-an-account-lead-to-account-takeover-3a63a628fd9f
 - https://medium.com/bugbountywriteup/how-i-broke-into-google-issue-tracker-667b9e33e931
 - https://nirmaldahal.com.np/posts/2022/11/megas-unlimited-cloud-storage-vulnerability/
+- https://ysamm.com/?p=50

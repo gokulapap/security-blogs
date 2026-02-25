@@ -1,1 +1,2 @@
 - https://medium.com/@oxygenne/request-smuggling-in-major-crypto-site-road-to-disappointment-a71a461f3b1f
+- https://www.intruder.io/research/practical-http-header-smuggling
