@@ -1,1 +1,2 @@
 - https://kuldeep.io/posts/nosql-injection-in-plain-sight/
+- https://www.sonarsource.com/blog/nosql-injections-in-rocket-chat/

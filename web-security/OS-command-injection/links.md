@@ -24,3 +24,4 @@
 - https://research.nccgroup.com/2022/12/22/puckungfu-a-netgear-wan-command-injection/
 - https://security.humanativaspa.it/multiple-vulnerabilities-in-zyxel-zysh/
 - https://onekey.com/blog/advisory-cisco-small-business-rv-series-routers-web-filter-database-update-command-injection-vulnerability/
+- https://onekey.com/blog/security-advisory-asus-m25-nas-vulnerability/

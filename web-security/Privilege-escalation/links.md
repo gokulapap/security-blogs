@@ -59,3 +59,4 @@
 - https://systemweakness.com/i-obtained-admin-access-via-account-activation-link-in-30-seconds-dd7f115ae1d2
 - https://medium.com/@ronak_9889/privilege-escalation-using-api-endpoint-fce841caaff3
 - https://www.legitsecurity.com/blog/github-actions-that-open-the-door-to-cicd-pipeline-attacks
+- https://securecloud.blog/2022/04/27/azure-monitor-malicious-kql-query/

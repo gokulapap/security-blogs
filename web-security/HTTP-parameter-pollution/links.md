@@ -2,3 +2,4 @@
 - https://shahjerry33.medium.com/http-parameter-pollution-its-contaminated-again-95c75b0295e1
 - https://smaranchand.com.np/2019/06/parameter-pollution-issue-in-api-resulting-xxx/
 - https://blog.mert.ninja/twitter-hpp-vulnerability/
+- https://shahjerry33.medium.com/parameter-pollution-zero-day-3feb86ee8a02
