@@ -125,3 +125,4 @@
 - https://www.askbuddie.com/blog/unauthorized-comments-on-facebook-live-stream/
 - https://www.ehpus.com/post/multiple-authorization-bypass-issues-in-google-s-richmedia-studio
 - https://www.updatelap.com/2018/08/privileged-escalation-in-facebook-rooms.html
+- https://github.com/yuriisanin/CVE-2022-25262
