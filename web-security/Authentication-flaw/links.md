@@ -6,3 +6,4 @@
 - https://batee5a.medium.com/shopify-multipass-misconfiguration-2bc85e92ad1d
 - https://medium.com/@danangtriatmaja/bug-bounty-flaw-in-authentication-get-hall-of-fame-google-6196726ee5b9
 - https://ahussam.me/Vine-Reauth-Bypass
+- https://lightningsecurity.io/blog/password-not-provided/

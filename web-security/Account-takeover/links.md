@@ -113,3 +113,4 @@
 - https://starlabs.sg/blog/2023/02-microsoft-azure-account-takeover-via-dom-based-xss-in-cosmos-db-explorer/
 - https://amakki.me/full-account-takeover-vulnerability-in-minecraft-f56076c8287d
 - https://www.semperis.com/blog/syncjacking-azure-ad-account-takeover/
+- https://medium.com/@M0X0101/how-i-was-able-to-get-account-takeover-via-insecure-data-storage-and-webview-with-exported-activity-5308a330ab80

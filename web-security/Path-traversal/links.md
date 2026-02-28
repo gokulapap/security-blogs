@@ -36,3 +36,4 @@
 - https://labs.hakaioffsec.com/nginx-alias-traversal/
 - https://ninetyn1ne.github.io/2020-10-05-open-redir-to-ato/
 - https://www.sonarsource.com/blog/pimcore-one-click-two-security-vulnerabilities/
+- http://panchocosil.blogspot.com/2017/05/one-cloud-based-local-file-inclusion.html
