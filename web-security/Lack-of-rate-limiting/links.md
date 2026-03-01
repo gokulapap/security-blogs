@@ -14,3 +14,4 @@
 - https://web.archive.org/web/20201123204526/https://medium.com/@olisandip99/chaining-rate-limiting-for-account-lockout-6a2a7828dd24
 - https://smaranchand.com.np/2019/08/no-rate-limiting-eligible-for-bounty
 - https://ysamm.com/?p=396
+- https://bugbountyhunter.medium.com/500-for-no-rate-limit-on-forgot-password-page-d534d1d750db
