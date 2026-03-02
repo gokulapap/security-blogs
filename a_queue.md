@@ -14,7 +14,6 @@
 - https://medium.com/@ssalssa.1.12.2.1.2.1/hacking-wordpress-server-database-f6cc6c116057, cms
 - https://medium.com/@s3c/how-i-hacked-world-wide-tiktok-users-24e794d310d2, journey
 - https://medium.com/@rajeshranjan457/how-i-was-able-to-regain-access-to-account-deleted-by-admin-leading-to-a2c29025f8cd, journey
-- https://medium.com/@hbothra22/got-cookies-cookie-based-authentication-vulnerabilities-in-wild-55fa7c374be0, misc
 - https://medium.com/@terjanq/clobbering-the-clobbered-advanced-dom-clobbering-8443547ebe94, misc
 - https://medium.com/@notifybugme/how-i-was-able-find-mass-leaked-aws-s3-bucket-from-js-file-6064a5c247f8, info-disclosure
 - https://medium.com/@toxglot/hacking-a-company-from-a-phone-478bbfed04c8, journey
@@ -88,7 +87,6 @@
 - https://mc0wn.blogspot.com/2023/05/vulnerabilities-in-apache-commons-text.html, Path-traversal
 - https://medium.com/@ibederov_en/find-out-the-ip-address-through-a-call-to-telegram-a899441b1bac, Privacy-issue
 - https://www.secureworks.com/research/tampering-with-conditional-access-policies-using-azure-ad-graph-api, Cloud
-- https://mr-r3bot.github.io/red/team/2023/05/22/From-RCE-to-owning-entire-cloud-infrastructure.html, RCE
 - https://nav1n.medium.com/exploiting-sql-error-sqlstate-42000-to-own-mariadb-of-a-large-eu-based-online-media-and-cf7396c43bbf, SQL-injection
 - https://shahjerry33.medium.com/stored-iframe-injection-permanent-open-redirection-zero-day-ce7cd15903ac, HTML-injection
 - https://blog.pretera.com/how-misconfigured-and-vulnerable-devices-could-expose-your-company-to-physical-and-cyber-threats-37d0e0d8d158, IoT
@@ -407,7 +405,6 @@
 - https://research.nccgroup.com/2022/02/28/brokenprint-a-netgear-stack-overflow/, Memory-corruption
 - https://servicenger.com/mobile/facebook-android-vulnerability-launching-internal-tighten-deeplink-onbehalf-of-user/, Android
 - https://gitlab.com/kop316/vvm-disclosure, Voicemail-hacking
-- https://github.com/Metnew/write-ups/tree/main/rce-github-desktop-2.9.3, RCE
 - https://medium.com/@720922/recon-and-youtube-is-that-a-thing-5523b48c32e3, Subdomain-takeover
 - https://www.iot-inspector.com/blog/advisory-western-digital-my-cloud-pro-series-pr4100-rce/, RCE
 - https://twitter.com/FlashbackPwn/status/1492074441450397698, Memory-corruption
@@ -932,7 +929,6 @@
 - https://medium.com/@notsoshant/a-possibility-of-account-takeover-in-medium-8d950e547639, Account-takeover
 - https://medium.com/bugbountywriteup/add-comment-on-a-private-oculus-developer-bug-report-93f35bc80b2c, IDOR
 - https://blog.harshjaiswal.com/path-traversal-while-uploading-results-in-rce, Path-traversal
-- https://medium.com/bugbountywriteup/add-description-to-instagram-posts-on-behalf-of-other-users-6500-7d55b4a24c5a, IDOR
 - https://medium.com/@yassergersy/access-to-staging-environment-via-user-agent-string-23470546577f, Authentication-bypass
 - https://jonbottarini.com/2018/10/09/get-as-image-function-pulls-any-insights-nrql-data-from-any-new-relic-account-idor/, IDOR
 - https://medium.com/bugbountywriteup/make-any-unit-in-facebook-groups-undeletable-efb68e26adb9, Logic-flaw
@@ -1067,5 +1063,4 @@
 - https://bitquark.co.uk/blog/2013/12/30/google_sites_a_tale_of_five_vulnerabilities, XSS
 - http://blog.shashank.co/2013/12/imgur-xss.html, XSS
 - http://blog.shashank.co/2013/12/heroku-directory-transversal.html, Path-traversal
-- https://bitquark.co.uk/blog/2013/07/19/admob_creative_image_xss, XSS
 - https://whitton.io/archive/framing-part-1-click-jacking-etsy, Clickjacking

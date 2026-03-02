@@ -324,3 +324,4 @@
 - https://fernale.blogspot.com/2021/04/how-i-got-9000-usd-by-hacking-into.html
 - https://joshuaarulsamy.medium.com/my-hall-of-fame-at-united-nations-success-story-97675232aed7
 - https://medium.com/@leomsec/every-xss-is-different-c98528fee5e0
+- https://bitquark.co.uk/blog/2013/07/19/admob_creative_image_xss

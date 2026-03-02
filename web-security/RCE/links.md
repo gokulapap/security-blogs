@@ -304,3 +304,5 @@
 - https://sites.google.com/site/testsitehacking/-36k-google-app-engine-rce
 - https://vsrc.vng.com.vn/blog/liferay-revisited-a-tale-of-20k/
 - http://www.kamilonurozkaleli.com/posts/rce-on-starbucks-singapore-and-more/
+- https://mr-r3bot.github.io/red/team/2023/05/22/From-RCE-to-owning-entire-cloud-infrastructure.html
+- https://github.com/Metnew/write-ups/tree/main/rce-github-desktop-2.9.3

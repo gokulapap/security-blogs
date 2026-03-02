@@ -276,3 +276,4 @@
 - https://www.amolbaikar.com/determine-users-with-detailed-role-model-on-behalf-of-any-facebook-application/
 - https://medium.com/the-gray-area/1-000-p1-pii-disclosure-w-idor-cb344c55d52e
 - https://asterfiester.medium.com/3133-70-google-dialogflow-idor-vulnerability-7a72771678dd
+- https://medium.com/bugbountywriteup/add-description-to-instagram-posts-on-behalf-of-other-users-6500-7d55b4a24c5a

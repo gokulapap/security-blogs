@@ -7,3 +7,4 @@
 - https://medium.com/@ibm_ptc_security/exploiting-missing-hsts-54f8e23ed80b
 - https://portswigger.net/research/backslash-powered-scanning-hunting-unknown-vulnerability-classes
 - https://medium.com/@theshubh77/facebook-page-admin-disclosure-by-create-doc-button-bounty-5000-usd-2fd1ff615bf8
+- https://medium.com/@hbothra22/got-cookies-cookie-based-authentication-vulnerabilities-in-wild-55fa7c374be0
