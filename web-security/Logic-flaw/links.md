@@ -185,3 +185,4 @@
 - https://medium.com/bugbountywriteup/how-i-broke-into-google-issue-tracker-667b9e33e931
 - https://nirmaldahal.com.np/posts/2022/11/megas-unlimited-cloud-storage-vulnerability/
 - https://ysamm.com/?p=50
+- https://web.archive.org/web/20200822111544/https://whitehatnepal.tumblr.com/post/156707088037/i-got-emails-g-suite-vulnerability
