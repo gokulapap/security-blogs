@@ -123,3 +123,4 @@
 - https://www.dsecbypass.com/en/dolibarr-pre-auth-contact-database-dump/
 - https://ozguralp.medium.com/bigquery-sql-injection-cheat-sheet-65ad70e11eac
 - https://medium.com/@jawadmahdi/how-i-found-blind-sql-injection-just-by-browsing-and-getting-a-unique-url-ed87fa1f35ed
+- https://infosecwriteups.com/sql-injection-in-the-http-custom-header-fd117ba1435e

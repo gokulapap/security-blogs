@@ -1,3 +1,4 @@
 - https://medium.com/@zseano/leaking-openid-tokens-with-the-bug-right-infront-of-you-95c1fb4a86e9
 - https://securitylabs.datadoghq.com/articles/exploring-github-to-aws-keyless-authentication-flaws/
 - https://mogwailabs.de/en/blog/2023/04/vulnerability-spotlight-cve-2023-0264/
+- https://www.revblock.dev/exploiting-misconfigured-google-cloud-service-accounts-from-github-actions/

@@ -73,7 +73,6 @@
 - https://zerforschung.org/posts/freundschaftspass-en/, Subdomain-takeover
 - https://hunter-55.medium.com/from-bug-bounty-hunter-to-risk-analyst-my-cybersecurity-journey-at-deloitte-56e7835619e4, Account-takeover
 - https://medium.com/@ferferof/pii-data-leakage-and-us-1500-bounty-af676350fb76, Information-disclosure
-- https://infosecwriteups.com/sql-injection-in-the-http-custom-header-fd117ba1435e, SQL-injection
 - https://orca.security/resources/blog/examining-two-xss-vulnerabilities-in-azure-services/, XSS
 - https://starlabs.sg/blog/2023/06-the-old-the-new-and-the-bypass-one-clickopen-redirect-to-own-samsung-s22-at-pwn2own-2022/, Open-redirect
 - https://medium.com/@0day_exploit/stored-xss-injection-permanent-open-redirection-e14ffa11573c, Reflected-XSS
@@ -81,7 +80,6 @@
 - https://hacktus.tech/taking-over-an-entire-organization, Broken-Access-Control
 - https://d3lb3.github.io/keepass_triggers_arent_dead/, Local-Privilege-Escalation
 - https://medium.com/@malekmahmed55/turning-a-50-tab-nabbing-vulnerability-into-a-1000-account-takeover-9c3f32cb2d84, Reverse-tabnabbing
-- https://ssd-disclosure.com/ssd-advisory-roundcube-markasjunk-rce/, RCE
 - https://0day.click/recipe/pash/, RCE
 - https://research.nccgroup.com/2023/05/31/reverse-engineering-coin-hunt-worlds-binary-protocol/, Reverse-engineering
 - https://mc0wn.blogspot.com/2023/05/vulnerabilities-in-apache-commons-text.html, Path-traversal
@@ -99,7 +97,6 @@
 - https://danrevah.github.io/2023/05/03/CVE-2023-25394-VideoStream-LPE/, Local-Privilege-Escalation
 - https://sumedh00.medium.com/accessing-admin-dashboard-in-5-seconds-acee737eacfb, Default-credentials
 - https://blog.onsec.io/when-youre-so-bored-you-start-debugging-someone-elses-code/, SSTI
-- https://www.revblock.dev/exploiting-misconfigured-google-cloud-service-accounts-from-github-actions/, OpenID-Connect
 - https://ophionsecurity.com/blog/placeholder-for-dayzzz, SSTI
 - https://medium.com/@lopseg/bug-bounty-writeup-stored-xss-vulnerability-waf-bypass-f38aae7ff9eb, Stored-XSS
 - https://the-deniss.github.io/posts/2023/04/26/avast-privileged-arbitrary-file-create-on-quarantine.html, TOCTOU
@@ -345,7 +342,6 @@
 - https://www.horizon3.ai/red-team-blog-cve-2022-28219/, XXE
 - https://aidilarf.medium.com/xss-blind-stored-at-2-assets-tiktok-f32829f11e58, XSS
 - https://unit42.paloaltonetworks.com/fabricscape-cve-2022-30137/, Container-escape
-- https://www.rapid7.com/blog/post/2022/06/28/cve-2021-3779-ruby-mysql-gem-client-file-read-fixed/, Client-File-Read
 - https://curl.se/docs/CVE-2022-32207.html, Improper-Preservation-of-Permissions
 - https://curl.se/docs/CVE-2022-32205.html, DoS
 - https://medium.com/@tobydavenn/1500-of-broken-access-controls-503d8a5f56f5, Broken-Access-Control
@@ -719,7 +715,6 @@
 - https://web.archive.org/web/20200807155244/https://vict0ni.me/double-url-encoding-xss/, Reflected-XSS
 - https://medium.com/@BreizhZeroDayHunters/when-its-not-only-about-a-kubernetes-cve-8f6b448eafa8, SSRF
 - https://medium.com/bugbountywriteup/how-i-leveraged-an-interesting-csrf-vulnerability-to-turn-self-xss-into-a-persistent-attack-b780824042d2, Self-XSS
-- https://medium.com/@win3zz/how-i-made-31500-by-submitting-a-bug-to-facebook-d31bb046e204, SSRF
 - https://f4d3.io/xxe_wild/, XXE
 - https://ezqelusia.blogspot.com/2020/05/microsofts-first-bug.html, Memory-corruption
 - https://blog.raphael.karger.is/articles/2020-05/CVE-2020-13693, Privilege-escalation
