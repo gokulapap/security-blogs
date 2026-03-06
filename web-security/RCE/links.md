@@ -307,3 +307,4 @@
 - https://mr-r3bot.github.io/red/team/2023/05/22/From-RCE-to-owning-entire-cloud-infrastructure.html
 - https://github.com/Metnew/write-ups/tree/main/rce-github-desktop-2.9.3
 - https://ssd-disclosure.com/ssd-advisory-roundcube-markasjunk-rce/
+- https://github.com/Metnew/telegram-links-nsworkspace-open

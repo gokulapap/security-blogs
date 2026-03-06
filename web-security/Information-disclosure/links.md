@@ -307,3 +307,4 @@
 - https://medium.com/@ricardoiramar/this-is-fine-6e032f497b8f
 - https://web.archive.org/web/20220306040035/https://medium.com/@1337Fenrir/how-did-i-find-directory-traversal-attack-using-github-9b051ed749ca
 - https://infosecwriteups.com/admin-panel-pwned-89db333f3836
+- https://philippeharewood.com/download-facebook-internal-mobile-builds/

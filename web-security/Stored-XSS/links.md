@@ -127,3 +127,5 @@
 - https://medium.com/@raymond-lind/how-i-found-a-simple-stored-xss-9a6b1c5e0afa
 - https://web.archive.org/web/20220220072733/https://bloggerrando.blogspot.com/2022/02/stored-xss-on-messagealibabacom-alibaba.html
 - https://maordayanofficial.medium.com/stored-xss-at-trello-com-ef2e3d1ed24b
+- https://medium.com/@bobbyrsec/zero-day-hijacking-icloud-credentials-with-apple-airtags-stored-xss-6997da43a216
+- https://medium.com/@Alra3ees/google-adwords-3133-7-stored-xss-27bb083b8d27
