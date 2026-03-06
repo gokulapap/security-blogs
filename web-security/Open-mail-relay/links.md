@@ -1,1 +1,2 @@
 - https://infosecwriteups.com/send-email-from-anyone-to-any-user-outlook-microsoft-69fce333066d
+- https://medium.com/@khaled.hassan/are-you-sure-this-is-a-trusted-email-291121028320

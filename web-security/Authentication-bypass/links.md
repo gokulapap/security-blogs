@@ -79,3 +79,4 @@
 - https://www.rafaybaloch.com/2017/06/nokia-asha-series-lock-screen-bypass.html
 - https://medium.com/@harshtya9i/journey-of-my-first-bug-bounty-nov-2018-af471c21efc0
 - https://blog.viettelcybersecurity.com/cve-2022-0540-authentication-bypass-in-seraph/
+- https://medium.com/@Vibhurushi_Chotaliya/password-bypass-and-something-else-cded0847c9df

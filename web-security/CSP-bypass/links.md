@@ -10,3 +10,4 @@
 - https://portswigger.net/blog/bypassing-csp-with-policy-injection
 - https://www.perimeterx.com/tech-blog/2020/csp-bypass-vuln-disclosure/
 - https://payatu.com/blog/nikhil-mittal/my-hacking-adventures-with-safari-reader-mode
+- https://portswigger.net/research/bypassing-csp-with-dangling-iframes
