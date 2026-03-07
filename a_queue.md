@@ -254,7 +254,6 @@
 - https://medium.com/@h4x0r_dz/23000-for-authentication-bypass-file-upload-arbitrary-file-overwrite-2578b730a5f8, JWT
 - https://www.mdsec.co.uk/2022/10/microsoft-office-online-server-remote-code-execution/, SSRF
 - https://lokeshdlk77.medium.com/facebook-sms-captcha-was-vulnerable-to-csrf-attack-8db537b1e980, CSRF
-- https://infosecwriteups.com/its-the-little-things-breaking-an-ai-40c30ae85f37, Path-traversal
 - https://checkmarx.com/blog/some-vulnerabilities-dont-have-a-name/, ReDoS
 - https://medium.com/@iknowhatodo/fall-account-takeover-via-amazon-cognito-misconfiguration-ba5975b06c24, IDOR
 - https://mr23r0.medium.com/code-flaws-leads-to-org-admin-account-takeover-ad9515a96eab, Privilege-escalation
@@ -346,7 +345,6 @@
 - https://medium.com/@tobydavenn/1500-of-broken-access-controls-503d8a5f56f5, Broken-Access-Control
 - https://eaton-works.com/2022/06/20/hacking-into-the-worldwide-jacuzzi-smarttub-network/, SPA
 - https://www.cyberark.com/resources/threat-research-blog/that-pipe-is-still-leaking-revisiting-the-rdp-named-pipe-vulnerability, RCE
-- https://webs3c.com/t/csrf-leads-to-account-takeover-in-yahoo/93, CSRF
 - https://labs.taszk.io/articles/post/unziploc/, Memory-corruption
 - https://notifybugme.medium.com/automating-reflected-xss-with-burp-suite-intruder-a39b2f060db7, Reflected-XSS
 - https://medium.com/@janijay007/how-i-was-able-to-see-likes-and-dislikes-count-which-is-hidden-by-victim-youtube-1-fa9cfe7cce7d, Logic-flaw
@@ -737,7 +735,6 @@
 - https://blog.doyensec.com/2020/04/08/libressl-fuzzer.html, Memory-corruption
 - https://medium.com/@pig.wig45/touch-id-authentication-bypass-on-evernote-and-dropbox-ios-apps-7985219767b2, Authentication-bypass
 - https://medium.com/@ashokcpg/the-story-of-my-first-ever-1500-bounty-from-facebook-49eb64d26160, Logic-flaw
-- https://blog.securitybreached.org/2020/03/31/microsoft-rce-bugbounty/, RCE
 - https://web.archive.org/web/20201004092711/https://sametsahin.net/posts/administrator-level-privilege-escalation-story/, Privilege-escalation
 - https://medium.com/bugbountywriteup/reflected-xss-on-microsoft-com-subdomains-4bdfc2c716df, Reflected-XSS
 - https://medium.com/@ozguralp/using-vulnerability-analytics-feature-like-a-boss-655fc1f1543b, SSRF
@@ -917,7 +914,6 @@
 - https://medium.com/@yassergersy/access-to-staging-environment-via-user-agent-string-23470546577f, Authentication-bypass
 - https://jonbottarini.com/2018/10/09/get-as-image-function-pulls-any-insights-nrql-data-from-any-new-relic-account-idor/, IDOR
 - https://medium.com/bugbountywriteup/make-any-unit-in-facebook-groups-undeletable-efb68e26adb9, Logic-flaw
-- https://medium.com/@jonathanbouman/persistent-xss-unvalidated-open-graph-embed-at-linkedin-com-db6188acedd9, Stored-XSS
 - https://medium.com/@raushanraj_65039/clickjacking-in-google-docs-and-voice-typing-feature-c481d00b020a, Clickjacking
 - https://medium.com/@jonathanbouman/stored-xss-unvalidated-embed-at-medium-com-528b0d6d4982, Stored-XSS
 - https://medium.com/@justmorpheus/idor-content-spoofing-and-url-redirection-via-unsubscribe-email-in-confluent-1fa7398cfe7a, IDOR
@@ -1040,7 +1036,6 @@
 - https://blog.it-securityguard.com/bugbounty-reflected-cross-site-scripting-billmelater/, Reflected-XSS
 - https://blog.it-securityguard.com/bug-bounty-prezi-map-prezi-com-path-traversal/, Path-traversal
 - https://0day.click/recipe/2014-02-22-github/, RCE
-- https://bitquark.co.uk/blog/2013/12/30/google_sites_a_tale_of_five_vulnerabilities, XSS
 - http://blog.shashank.co/2013/12/imgur-xss.html, XSS
 - http://blog.shashank.co/2013/12/heroku-directory-transversal.html, Path-traversal
 - https://whitton.io/archive/framing-part-1-click-jacking-etsy, Clickjacking

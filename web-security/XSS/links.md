@@ -326,3 +326,4 @@
 - https://medium.com/@leomsec/every-xss-is-different-c98528fee5e0
 - https://bitquark.co.uk/blog/2013/07/19/admob_creative_image_xss
 - https://ndevtk.github.io/writeups/2021/12/30/cloud-shell-xss/
+- https://bitquark.co.uk/blog/2013/12/30/google_sites_a_tale_of_five_vulnerabilities

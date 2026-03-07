@@ -37,3 +37,4 @@
 - https://ninetyn1ne.github.io/2020-10-05-open-redir-to-ato/
 - https://www.sonarsource.com/blog/pimcore-one-click-two-security-vulnerabilities/
 - http://panchocosil.blogspot.com/2017/05/one-cloud-based-local-file-inclusion.html
+- https://infosecwriteups.com/its-the-little-things-breaking-an-ai-40c30ae85f37

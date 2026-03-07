@@ -308,3 +308,4 @@
 - https://github.com/Metnew/write-ups/tree/main/rce-github-desktop-2.9.3
 - https://ssd-disclosure.com/ssd-advisory-roundcube-markasjunk-rce/
 - https://github.com/Metnew/telegram-links-nsworkspace-open
+- https://blog.securitybreached.org/2020/03/31/microsoft-rce-bugbounty/

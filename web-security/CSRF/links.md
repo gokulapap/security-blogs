@@ -111,3 +111,4 @@
 - https://medium.com/@omarbakrey90/csrf-leads-to-delete-user-account-fc362078be2f
 - https://whitton.io/archive/my-experience-with-the-paypal-bug-bounty-programme/
 - http://c0rni3sm.blogspot.com/2018/01/1800-in-less-than-hour.html
+- https://webs3c.com/t/csrf-leads-to-account-takeover-in-yahoo/93
