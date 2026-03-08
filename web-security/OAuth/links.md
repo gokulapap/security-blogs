@@ -30,3 +30,4 @@
 - http://blog.rakeshmane.com/2016/09/bug-bounty-account-takeover.html
 - https://www.descope.com/blog/post/noauth
 - https://vijetareigns.medium.com/pre-account-takeover-using-oauth-misconfiguration-ebd32b80f3d3
+- https://ysamm.com/?p=667

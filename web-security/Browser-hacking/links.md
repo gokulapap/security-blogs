@@ -17,3 +17,4 @@
 - https://www.cyberark.com/resources/threat-research-blog/extracting-clear-text-credentials-directly-from-chromium-s-memory
 - https://blog.redteam.pl/2020/08/stealing-local-files-using-safari-web.html
 - https://mu00d8.me/paper/bernhard22jitpicking.pdf
+- https://weizman.github.io/2019/12/18/js-anti-debug-1/

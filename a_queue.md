@@ -139,7 +139,6 @@
 - https://www.permasecure.io/2023/03/03/how-your-nfts-could-have-been-stolen-in-just-one-click/, postMessage
 - https://vijetareigns.medium.com/email-verification-bypass-worth-cbb65a68a34f, Email-verification-bypass
 - https://medium.com/@kushjain0107/how-simple-idor-impacted-the-data-of-thousands-of-customers-of-an-indian-automotive-giant-fdbd2ef1c2c6, Account-takeover
-- https://www.sonarsource.com/blog/empowering-weak-primitives-file-truncation-to-code-execution-with-git/, Argument-injection
 - https://www.zerodayinitiative.com/blog/2023/2/27/cve-2022-38108-rce-in-solarwinds-network-performance-monitor, Insecure-deserialization
 - https://infosecwriteups.com/how-did-i-found-rce-on-shareit-which-rewarded-bounty-7d4196bf1b52, Log4shell
 - https://www.synacktiv.com/sites/default/files/2023-02/Synacktiv-IBM-TWS-CVE-2022-38389.pdf, XXE
@@ -223,7 +222,6 @@
 - https://basu-banakar.medium.com/ssrf-via-dns-rebinding-cve-2022-4096-b7bf75928bb2, SSRF
 - https://dewcode.medium.com/how-i-found-29-stored-xss-in-modern-framework-1cfe60a107a0, Stored-XSS
 - https://splint3rsec.medium.com/russian-roulette-xss-bbba6afd2570, Blind-XSS
-- https://r29k.com/articles/bb/account-takeover, Account-takeover
 - https://medium.com/@hf6452/a-story-of-a-strange-stored-idor-b6f2769bb6cb, IDOR
 - https://www.oxeye.io/blog/remote-code-execution-in-spotifys-backstage, RCE
 - https://blog.sonarsource.com/checkmk-rce-chain-1/, RCE
@@ -552,7 +550,6 @@
 - https://web.archive.org/web/20210620102348/https://ipanda.co.in/blog1.html, RCE
 - https://notifybugme.medium.com/chaining-csrf-with-xss-to-deactivate-mass-user-accounts-by-single-click-b463c0d26587, CSRF
 - https://www.pentagrid.ch/de/blog/password-reset-code-brute-force-vulnerability-in-AWS-Cognito/, Password-reset
-- https://ysamm.com/?p=667, OAuth
 - https://bughunter25.medium.com/a-tale-of-html-to-pdf-converter-ssrf-and-various-bypasses-4a3e11030c77, SSRF
 - https://polarply.medium.com/the-false-oracle-azure-functions-padding-oracle-issue-2025e0e6b8a, Padding-oracle-attack
 - https://n45ht.or.id/post/reflected-dom-xss-on-domainesia/en, XSS
@@ -761,7 +758,6 @@
 - https://medium.com/monetary/how-did-i-earn-3133-70-from-google-translator-9becf942dbdc, XSS
 - https://smaranchand.com.np/2019/12/subdomain-takeover-via-pantheon/, Subdomain-takeover
 - https://medium.com/@vbharad/full-account-takeover-android-application-78fa922f78c5, Information-disclosure
-- https://weizman.github.io/2019/12/18/js-anti-debug-1/, Browser-hacking
 - https://m0chan.github.io/2019/12/16/Subdomain-Takeover-Azure-CDN.html, Subdomain-takeover
 - https://medium.com/@dPhoeniixx/vimeo-upload-function-ssrf-7466d8630437, SSRF
 - https://www.ezequiel.tech/p/500-getclass.html, Sandbox-bypass
@@ -971,7 +967,6 @@
 - https://www.seekurity.com/blog/general/the-2-5mins-or-2-5k-hawk-eye-bug-a-facebook-pages-admins-disclosure-vulnerability/, Information-disclosure
 - https://infosecwriteups.com/how-i-hacked-into-a-bugcrowd-public-program-fcfdd4fb1b69, RCE
 - https://medium.com/bugbountywriteup/bugbounty-exploiting-crlf-injection-can-lands-into-a-nice-bounty-159525a9cb62, CRLF-injection
-- https://medium.com/@mrityunjoy/stored-xss-on-snapchat-5d704131d8fd, Stored-XSS
 - https://medium.freecodecamp.org/responsible-disclosure-how-i-could-have-hacked-all-facebook-accounts-f47c0252ae4d, Bruteforce
 - https://www.josipfranjkovic.com/blog/facebook-partners-portal-account-takeover, Information-disclosure
 - https://blog.intothesymmetry.com/2018/02/bug-bounty-left-over-and-rant-part-iii.html, OAuth

@@ -2,3 +2,4 @@
 - https://blog.sonarsource.com/securing-developer-tools-a-new-supply-chain-attack-on-php/
 - https://blog.sonarsource.com/php-supply-chain-attack-on-composer/
 - https://blog.sonarsource.com/securing-developer-tools-argument-injection-in-vscode/
+- https://www.sonarsource.com/blog/empowering-weak-primitives-file-truncation-to-code-execution-with-git/
