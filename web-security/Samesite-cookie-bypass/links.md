@@ -1,0 +1,1 @@
+- https://hazanasec.github.io/2023-07-30-Samesite-bypass-method-override.md/

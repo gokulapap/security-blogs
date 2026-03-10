@@ -116,3 +116,4 @@
 - https://medium.com/@M0X0101/how-i-was-able-to-get-account-takeover-via-insecure-data-storage-and-webview-with-exported-activity-5308a330ab80
 - https://www.vulnano.com/2022/07/react-debugkeystore-key-was-trusted-by.html
 - https://r29k.com/articles/bb/account-takeover
+- https://medium.com/@vneelam609/5000-account-takeover-bf7749746981
