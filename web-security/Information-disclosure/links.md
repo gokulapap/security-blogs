@@ -308,3 +308,4 @@
 - https://web.archive.org/web/20220306040035/https://medium.com/@1337Fenrir/how-did-i-find-directory-traversal-attack-using-github-9b051ed749ca
 - https://infosecwriteups.com/admin-panel-pwned-89db333f3836
 - https://philippeharewood.com/download-facebook-internal-mobile-builds/
+- https://basyounii.medium.com/forging-oauth-tokens-using-discovered-client-id-and-client-secret-d224e4e7892a

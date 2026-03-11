@@ -10,7 +10,6 @@
 - https://medium.com/@ryuukhagetsu/how-i-get-bounty-from-takeover-account-ed17cd838b2a, ATO
 - https://medium.com/@techkalam/execute-mongo-shell-commands-in-javascript-file-862dcf45aad6, tricks
 - https://medium.com/@nav1n/how-i-got-owned-a-multi-billion-dollar-retailers-mysql-databases-using-simple-sql-injection-30f8b0dfd9ce, sql-injection
-- https://medium.com/@vamshi-vemula/how-i-got-my-first-bounty-open-redirect-80832e5bf4e6, open-redirection
 - https://medium.com/@ssalssa.1.12.2.1.2.1/hacking-wordpress-server-database-f6cc6c116057, cms
 - https://medium.com/@s3c/how-i-hacked-world-wide-tiktok-users-24e794d310d2, journey
 - https://medium.com/@rajeshranjan457/how-i-was-able-to-regain-access-to-account-deleted-by-admin-leading-to-a2c29025f8cd, journey
@@ -75,7 +74,6 @@
 - https://orca.security/resources/blog/examining-two-xss-vulnerabilities-in-azure-services/, XSS
 - https://starlabs.sg/blog/2023/06-the-old-the-new-and-the-bypass-one-clickopen-redirect-to-own-samsung-s22-at-pwn2own-2022/, Open-redirect
 - https://medium.com/@0day_exploit/stored-xss-injection-permanent-open-redirection-e14ffa11573c, Reflected-XSS
-- https://research.nccgroup.com/2023/06/13/dynamic-linq-injection-remote-code-execution-vulnerability-cve-2023-32571/, RCE
 - https://hacktus.tech/taking-over-an-entire-organization, Broken-Access-Control
 - https://d3lb3.github.io/keepass_triggers_arent_dead/, Local-Privilege-Escalation
 - https://medium.com/@malekmahmed55/turning-a-50-tab-nabbing-vulnerability-into-a-1000-account-takeover-9c3f32cb2d84, Reverse-tabnabbing
@@ -356,7 +354,6 @@
 - https://medium.com/@sharp488/2fa-bypass-on-private-bug-bounty-program-due-to-csrf-token-misconfiguration-5a9c82151a1, MFA-bypass
 - https://breakpoint.sh/posts/snyk-code-broken-access-control, Path-traversal
 - https://infosecwriteups.com/bypassing-waf-to-weaponize-a-stored-xss-ff9963c421ee, Stored-XSS
-- https://basyounii.medium.com/forging-oauth-tokens-using-discovered-client-id-and-client-secret-d224e4e7892a, Information-disclosure
 - https://systemweakness.com/rce-via-dependency-confusion-e0ed2a127013, Dependency-confusion
 - https://melotover.medium.com/can-analyzing-javascript-files-lead-to-remote-code-execution-f24112f1aa1f, Unrestricted-file-upload
 - https://web.archive.org/web/20220516024454/https://medium.com/@tobydavenn/how-i-paid-for-my-holiday-with-bug-bounty-668f1f59e6e5, XSS
@@ -864,7 +861,6 @@
 - https://medium.com/@ChandSingh/protonmail-xss-stored-b733031ac3b5, Stored-XSS
 - https://websecblog.com/vulns/leoexpress-personal-data/, Authorization-flaw
 - https://www.shawarkhan.com/2019/01/hijacking-accounts-by-retrieving-jwt.html, Open-redirect
-- https://gauravnarwani.com/priv-esc-highest-admin/, IDOR
 - https://medium.com/bugbountywriteup/frapp%C3%A9-technologies-erpnext-server-side-template-injection-74e1c95ec872, SSTI
 - https://ysamm.com/?p=68, Logic-flaw
 - https://ysamm.com/?p=60, IDOR
@@ -994,7 +990,6 @@
 - https://philippeharewood.com/facebook-stories-disclose-facebook-friend-list/, Logic-flaw
 - http://c0rni3sm.blogspot.com/2017/08/accidentally-typo-to-bypass.html, Authentication-bypass
 - https://medium.com/@saamux/reflected-xss-on-www-yahoo-com-9b1857cecb8c, Reflected-XSS
-- https://labs.detectify.com/2017/07/27/how-we-invented-the-tesla-dom-doom-xss/, DOM-XSS
 - https://medium.com/@arbazhussain/ctrl-d5ffc7b0640e, Clickjacking
 - https://wesecureapp.com/blog/xss-by-tossing-cookies/, XSS
 - https://blog.witcoat.com/2018/05/30/xss-on-bugcrowd-and-so-many-other-websites-main-domain/, Reflected-XSS

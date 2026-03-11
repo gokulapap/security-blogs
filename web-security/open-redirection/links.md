@@ -10,3 +10,4 @@
 - https://medium.com/@h4krg33k/open-redirects-for-bug-bounties-bf4b58313842
 - https://medium.com/@grahamzemel/a-500-open-redirect-bounty-in-under-10-minutes-fbb1cce063e5
 - https://medium.com/@vignesh3004/open-redirect-vulnerability-in-igp-com-c1d76efc59b3
+- https://medium.com/@vamshi-vemula/how-i-got-my-first-bounty-open-redirect-80832e5bf4e6

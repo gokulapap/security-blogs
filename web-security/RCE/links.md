@@ -309,3 +309,4 @@
 - https://ssd-disclosure.com/ssd-advisory-roundcube-markasjunk-rce/
 - https://github.com/Metnew/telegram-links-nsworkspace-open
 - https://blog.securitybreached.org/2020/03/31/microsoft-rce-bugbounty/
+- https://research.nccgroup.com/2023/06/13/dynamic-linq-injection-remote-code-execution-vulnerability-cve-2023-32571/
