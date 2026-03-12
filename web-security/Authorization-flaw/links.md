@@ -127,3 +127,4 @@
 - https://www.updatelap.com/2018/08/privileged-escalation-in-facebook-rooms.html
 - https://github.com/yuriisanin/CVE-2022-25262
 - https://sites.google.com/site/testsitehacking/10k-host-header
+- https://websecblog.com/vulns/leoexpress-personal-data/

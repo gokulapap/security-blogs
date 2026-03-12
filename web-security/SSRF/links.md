@@ -146,3 +146,4 @@
 - https://blog.doyensec.com/2023/03/16/ssrf-remediation-bypass.html
 - https://medium.com/@win3zz/how-i-made-31500-by-submitting-a-bug-to-facebook-d31bb046e204
 - https://medium.com/@ozguralp/using-vulnerability-analytics-feature-like-a-boss-655fc1f1543b
+- https://web.archive.org/web/20200929022152/https://www.mohamedharon.com/2019/02/ssrf-server-side-request-forgery-in.html

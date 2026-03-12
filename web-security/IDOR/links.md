@@ -278,3 +278,4 @@
 - https://asterfiester.medium.com/3133-70-google-dialogflow-idor-vulnerability-7a72771678dd
 - https://medium.com/bugbountywriteup/add-description-to-instagram-posts-on-behalf-of-other-users-6500-7d55b4a24c5a
 - https://gauravnarwani.com/priv-esc-highest-admin/
+- https://web.archive.org/web/20210124152317/https://whitehathaji.blogspot.com/2019/07/paypal-bug-10k-all-secondary-users.html

@@ -203,7 +203,6 @@
 - https://research.nccgroup.com/2022/12/09/public-report-vpn-by-google-one-security-assessment/, Android
 - https://blog.viettelcybersecurity.com/the-first-step-to-pwn2own-but-a-sad-one/, Command-injection
 - https://karmainsecurity.com/KIS-2022-06, Zip-Slip-attack
-- https://sensepost.com/blog/2022/certpotato-using-adcs-to-privesc-from-virtual-and-network-service-accounts-to-local-system/, Local-Privilege-Escalation
 - https://www.rcesecurity.com/2022/12/from-zero-to-hero-part-2-intel-dcm-sql-injection-to-rce-cve-2022-21225/, SQL-injection
 - https://abhishekmorla.medium.com/bypassing-the-client-side-encryption-to-read-internal-windows-server-files-e832da8b4ac8, Client-side-encryption-bypass
 - https://medium.com/@aa.pietruczuk/improper-error-handling-leads-to-exposing-internal-tokens-3355d6b43a32, Information-disclosure
@@ -765,7 +764,6 @@
 - https://blog.sagarvd.me/2019/11/taking-over-facebook-page-tabs.html, Broken-link-hijacking
 - https://geleta.eu/2019/my-first-ssrf-using-dns-rebinfing/, SSRF
 - https://philippeharewood.com/1-800-flowers-credentials-and-message-log-leak-via-facebook-com-facebook/, AWS-misconfiguration
-- https://medium.com/bugbountywriteup/how-i-was-able-to-bypass-otp-token-requirement-in-razer-the-story-of-a-critical-bug-fc63a94ad572, OTP-bypass
 - https://medium.com/@manralhemant10/how-i-bypassed-2-factor-authentication-899750421331, MFA-bypass
 - https://blog.usejournal.com/how-recon-helped-samsung-protect-their-production-repositories-of-samsungtv-ecommerce-estores-4c51d6ec4fdd, Information-disclosure
 - https://web.archive.org/web/20200820030055/https://pwnsec.ninja/2019/09/14/how-i-found-a-simple-and-weird-account-takeover-bug/, Account-takeover
@@ -786,7 +784,6 @@
 - https://medium.com/@aniltom/https-medium-com-aniltom-from-sub-domain-takeover-to-open-redirect-b5be4906e1a4, Subdomain-takeover
 - https://ysamm.com/?p=291, IDOR
 - https://ysamm.com/?p=321, Internal-path-disclosure
-- https://web.archive.org/web/20210124152317/https://whitehathaji.blogspot.com/2019/07/paypal-bug-10k-all-secondary-users.html, IDOR
 - https://medium.com/@ronak_9889/solr-injection-by-abusing-local-parameters-on-zomato-com-a5cb7bef10d5, Solr-injection
 - https://medium.com/@innocenthacker/how-i-found-the-most-critical-bug-in-live-bug-bounty-event-7a88b3aa97b3, Password-reset
 - https://philippeharewood.com/subscribe-to-typing-notifications-for-any-instagram-user/, Authorization-flaw
@@ -849,7 +846,6 @@
 - https://www.hackerinside.me/2019/02/dos-on-waf-protected-sites-by-abusing.html, DoS
 - https://web.archive.org/web/20200929012457/https://www.mohamedharon.com/2019/02/souqcom-subdomain-takeover-via.html, Subdomain-takeover
 - https://gauravnarwani.com/never-stop-at-banner-grabbing/, Information-disclosure
-- https://web.archive.org/web/20200929022152/https://www.mohamedharon.com/2019/02/ssrf-server-side-request-forgery-in.html, SSRF
 - https://www.linkedin.com/pulse/hacking-youtube-fun-profit-alexandru-coltuneac/, IDOR
 - https://ysamm.com/?p=214, Authorization-flaw
 - https://ysamm.com/?p=171, IDOR
@@ -859,7 +855,6 @@
 - https://offensi.com/2019/01/31/lfi-in-apigee-portals, LFI
 - https://blog.detectify.com/2019/01/29/hacking-isnt-an-exact-science/, Authorization-flaw
 - https://medium.com/@ChandSingh/protonmail-xss-stored-b733031ac3b5, Stored-XSS
-- https://websecblog.com/vulns/leoexpress-personal-data/, Authorization-flaw
 - https://www.shawarkhan.com/2019/01/hijacking-accounts-by-retrieving-jwt.html, Open-redirect
 - https://medium.com/bugbountywriteup/frapp%C3%A9-technologies-erpnext-server-side-template-injection-74e1c95ec872, SSTI
 - https://ysamm.com/?p=68, Logic-flaw

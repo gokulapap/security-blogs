@@ -85,3 +85,4 @@
 - https://www.mandiant.com/resources/blog/privileges-third-party-windows-installers
 - https://whereisk0shl.top/post/break-me-out-of-sandbox-in-old-pipe-cve-2022-22715-windows-dirty-pipe
 - https://www.cyberonesecurity.com/blog/local-privilege-escalation-discovered-in-vmware-fusion
+- https://sensepost.com/blog/2022/certpotato-using-adcs-to-privesc-from-virtual-and-network-service-accounts-to-local-system/

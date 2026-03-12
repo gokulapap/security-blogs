@@ -21,3 +21,4 @@
 - https://medium.com/@rat010/otp-verification-bypass-ee17d68f8425
 - https://medium.com/@ben.aymen.182/phone-number-validation-bypass-through-url-path-manipulation-c03721cf3676
 - https://shrirangdiwakar.medium.com/how-i-turned-0000-into-600-phone-verification-bypass-b1c0f6eb568e
+- https://medium.com/bugbountywriteup/how-i-was-able-to-bypass-otp-token-requirement-in-razer-the-story-of-a-critical-bug-fc63a94ad572
