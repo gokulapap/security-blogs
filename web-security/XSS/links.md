@@ -327,3 +327,4 @@
 - https://bitquark.co.uk/blog/2013/07/19/admob_creative_image_xss
 - https://ndevtk.github.io/writeups/2021/12/30/cloud-shell-xss/
 - https://bitquark.co.uk/blog/2013/12/30/google_sites_a_tale_of_five_vulnerabilities
+- https://medium.com/@rezaduty/play-with-google-twitter-apple-dell-a90777faa779

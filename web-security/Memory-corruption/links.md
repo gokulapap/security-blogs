@@ -71,3 +71,4 @@
 - https://ruia-ruia.github.io/2022/08/05/CVE-2022-29582-io-uring/
 - https://www.shielder.it/blog/2021/02/hunting-for-bugs-in-telegrams-animated-stickers-remote-attack-surface/
 - https://tamirzb.com/attacking-android-kernel-using-qualcomm-trustzone
+- https://www.zerodayinitiative.com/blog/2022/1/25/cve-2021-44790-code-execution-on-apache-via-an-integer-underflow

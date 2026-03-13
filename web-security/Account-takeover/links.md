@@ -117,3 +117,4 @@
 - https://www.vulnano.com/2022/07/react-debugkeystore-key-was-trusted-by.html
 - https://r29k.com/articles/bb/account-takeover
 - https://medium.com/@vneelam609/5000-account-takeover-bf7749746981
+- https://medium.com/@ch3tanbug/how-i-was-able-to-change-password-of-any-corporate-user-c68b9509840
