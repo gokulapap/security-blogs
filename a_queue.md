@@ -1,6 +1,5 @@
 - https://medium.com/@gupta-bless/basics-of-source-code-review-4c263652202, source-code-review
 - https://medium.com/@jenishpanchal514/account-takeover-via-response-manipulation-otp-brute-force-b965fc1b7a37, ATO
-- https://medium.com/@diegotellaroli05/account-takeover-in-chatgpt-e134ed11654d, ATO
 - https://medium.com/@_deshine_/easy-2000-race-condition-b4d093c9bc3c, race-condition
 - https://medium.com/@sumedh00/accessing-admin-dashboard-in-5-seconds-acee737eacfb, journey
 - https://medium.com/@vickieli/intro-to-ssrf-beb35857771f, ssrf
@@ -108,7 +107,6 @@
 - https://starlabs.sg/advisories/23/23-2017/, SSTI
 - https://offsec.almond.consulting/ghostscript-cve-2023-28879.html, Buffer-Overflow
 - https://medium.com/@zhero_/a-successful-prototype-pollution-chained-to-a-dom-xss-9887087b56a4, Prototype-pollution
-- https://blog.exodusintel.com/2023/04/06/escaping-adobe-sandbox-exploiting-an-integer-overflow-in-microsoft-windows/, Integer-overflow
 - https://vitorfalcao.com/posts/simple-bugs/overwritting-files/, Normalization
 - https://www.zerodayinitiative.com/blog/2023/4/5/bash-privileged-mode-vulnerabilities-in-parallels-desktop-and-cdpath-handling-in-macos, MacoS
 - https://bishopfox.com/blog/windows-task-scheduler-19044-advisory, Unquoted-search-path
@@ -189,7 +187,6 @@
 - https://danaepp.com/hacking-a-net-api-in-the-real-world, LFI
 - https://medium.com/@tobydavenn/bypassing-ssrf-protections-45e5e3ac31e9, SSRF
 - https://github.com/PabloMK7/ENLBufferPwn, Buffer-Overflow
-- https://posts.specterops.io/passwordless-persistence-and-privilege-escalation-in-azure-98a01310be3f, Privilege-escalation
 - https://www.trendmicro.com/en_us/research/22/l/a-technical-analysis-of-cve-2022-22583-and-cve-2022-32800.html, MacOS
 - https://crypt0g30rgy.github.io/post/AWSTakeover, Information-disclosure
 - https://dappsec.substack.com/p/an-advisory-for-cve-2019-16891-from, RCE
@@ -638,7 +635,6 @@
 - https://medium.com/@zseano/the-feature-works-as-intended-but-whats-in-the-source-d29f9401bcf6, Information-disclosure
 - https://medium.com/@DK999/apache-example-servlet-leads-to-61a2720cac20, Clickjacking
 - https://medium.com/bugbountywriteup/csrf-poc-mistake-that-broke-crucial-functions-for-the-end-user-victim-ef4fa4584ca8, Logic-flaw
-- https://pulsesecurity.co.nz/advisories/AWS-Bastion-Logger-Bypass, Logging-bypass
 - https://www.computest.nl/en/knowledge-platform/blog/vulnerability-new-touchid-feature-iCloud-accounts-at-risk-breached/, OAuth
 - https://objective-see.com/blog/blog_0x4D.html, Local-Privilege-Escalation
 - https://medium.com/bugbountywriteup/bypassing-otp-via-reset-password-f004a29020c, OTP-bypass
@@ -796,7 +792,6 @@
 - https://philippeharewood.com/view-facebook-payouts-for-any-facebook-trivia-game/, Information-disclosure
 - https://medium.com/@dr.spitfire/sensitive-information-disclosure-web-cache-deception-attack-bcac6cb9cd86?sk=a2557f0c557ff38876141c2d94b296dd, Information-disclosure
 - https://medium.com/@saadahmedx/self-xss-to-evil-xss-bcf2494a82a4, XSS
-- https://medium.com/@saadahmedx/complete-web-server-access-46d19279a2b, Unrestricted-file-upload
 - https://medium.com/@saadahmedx/idor-account-takeover-1ff5a2d03b8b, IDOR
 - https://medium.com/@ciph3r7r0ll/chaining-improper-authorization-to-race-condition-to-harvest-credit-card-details-a-bug-bounty-effe6e0f5076, Authorization-flaw
 - https://web.archive.org/web/20200928091625/https://pwnsec.ninja/2019/06/06/how-i-was-able-to-get-private-ticket-response-panel-and-fortigate-web-panel-via-blind-xss/, Blind-XSS

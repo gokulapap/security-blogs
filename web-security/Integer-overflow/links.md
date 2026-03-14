@@ -1,2 +1,3 @@
 - https://securitylab.github.com/research/facebook-fizz-CVE-2019-3560/
 - https://blog.exodusintel.com/2023/07/20/shifting-boundaries-exploiting-an-integer-overflow-in-apple-safari/
+- https://blog.exodusintel.com/2023/04/06/escaping-adobe-sandbox-exploiting-an-integer-overflow-in-microsoft-windows/

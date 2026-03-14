@@ -1,0 +1,1 @@
+- https://pulsesecurity.co.nz/advisories/AWS-Bastion-Logger-Bypass
