@@ -86,3 +86,4 @@
 - https://blog.detectify.com/2020/08/14/crowdsource-success-story-from-an-out-of-scope-open-redirect-to-cve-2020-1323/
 - https://medium.com/@aniltom/open-redirect-vulnerability-in-udacity-com-7cba7abcfd48
 - https://medium.com/sourav-sahana/from-post-to-get-open-redirect-e91f4f4206a
+- https://emtunc.org/blog/03/2017/bypassing-safe-links-exchange-online-advanced-threat-protection/

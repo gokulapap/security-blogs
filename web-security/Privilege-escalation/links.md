@@ -61,3 +61,4 @@
 - https://www.legitsecurity.com/blog/github-actions-that-open-the-door-to-cicd-pipeline-attacks
 - https://securecloud.blog/2022/04/27/azure-monitor-malicious-kql-query/
 - https://posts.specterops.io/passwordless-persistence-and-privilege-escalation-in-azure-98a01310be3f
+- https://janmuhammadzaidi.medium.com/vertical-privilege-escalation-the-user-can-takeover-an-admin-account-via-response-manipulation-9237c8b2fefa

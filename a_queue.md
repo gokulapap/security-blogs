@@ -58,7 +58,6 @@
 - https://www.sonarsource.com/blog/a-twist-in-the-code-openmeetings-vulnerabilities-through-unexpected-application-state/, Account-takeover
 - https://www.rapid7.com/blog/post/2023/07/19/cve-2023-38205-adobe-coldfusion-access-control-bypass-fixed/, Broken-Access-Control
 - https://www.trustedsec.com/blog/modeling-malicious-code-hacking-in-3d/, Phishing
-- https://medium.com/workday-engineering/exploiting-jmeter-via-rmi-e8e12392bba8, Insecure-deserialization
 - https://www.rapid7.com/blog/post/2023/07/11/cve-2023-29298-adobe-coldfusion-access-control-bypass/, Broken-Access-Control
 - https://dimazarno.medium.com/unexpected-zero-in-mysql-injection-511f632714b0, SQL-injection
 - http://blog.takemyhand.xyz/2023/07/remote-code-execution-in-gitlabs-cli.html, RCE
@@ -318,10 +317,8 @@
 - https://blog.lightspin.io/exploiting-eks-authentication-vulnerability-in-aws-iam-authenticator, Authentication-flaw
 - https://bloggerrando.blogspot.com/2022/07/09-1.html, XSS
 - https://ivreznap.medium.com/interesting-privilege-escalation-in-an-old-private-program-225d27253e13, Privilege-escalation
-- https://labs.detectify.com/2022/07/06/account-hijacking-using-dirty-dancing-in-sign-in-oauth-flows/, OAuth
 - https://web.archive.org/web/20220716152713/https://snapsec.co/blog/hacking-larksuite/, XSS
 - https://bhashit.in/?p=71, Firebase
-- https://janmuhammadzaidi.medium.com/vertical-privilege-escalation-the-user-can-takeover-an-admin-account-via-response-manipulation-9237c8b2fefa, Privilege-escalation
 - https://blog.electrovolt.io/posts/vscode-rce/, RCE
 - https://portswigger.net/research/bypassing-firefoxs-html-sanitizer-api, XSS
 - https://www.horizon3.ai/red-team-blog-cve-2022-28219/, XXE
@@ -575,7 +572,6 @@
 - https://amineaboud.medium.com/disclose-the-fb-profile-of-facebook-employees-who-create-official-announcement-messages-bug-76554068caf7, Information-disclosure
 - https://web.archive.org/web/20210201180254/https://www.cysek.org/post/bac-sxss, Stored-XSS
 - https://medium.com/bugbountywriteup/bragging-rights-part-1-short-story-of-a-bug-wave-dbb88f48b604, IDOR
-- https://systemweakness.com/story-behind-sweet-ssrf-40c705f13053, SSRF
 - https://r4id3n.medium.com/ssrf-exploitation-in-spreedsheet-to-pdf-converter-2c7eacdac781, SSRF
 - https://warandcode.com/post/akamai-arl-hack/, Akamai-ARL-attack
 - https://blog.blazeinfosec.com/attack-of-the-clones-2-git-command-client-remote-code-execution-strikes-back/, RCE
@@ -981,7 +977,6 @@
 - https://www.rafaybaloch.com/2017/06/stored-xss-csrf-and-clickjacking.html, Stored-XSS
 - https://ysx.me.uk/a-pair-of-plotly-bugs-stored-xss-and-aws-metadata-ssrf/, Stored-XSS
 - https://philippeharewood.com/find-mingle-suggestions-for-any-facebook-user-revisited/, Logic-flaw
-- https://emtunc.org/blog/03/2017/bypassing-safe-links-exchange-online-advanced-threat-protection/, Open-redirect
 - https://buer.haus/2017/03/08/airbnb-when-bypassing-json-encoding-xss-filter-waf-csp-and-auditor-turns-into-eight-vulnerabilities/, XSS
 - https://ysx.me.uk/lightweight-markup-a-trio-of-persistent-xss-in-gitlab/, Stored-XSS
 - https://evilpacket.net/2016/atom-io-misconfiguration-allowed-code-execution-on-untrusted-networks/, RCE

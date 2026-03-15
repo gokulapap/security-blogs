@@ -30,3 +30,4 @@
 - https://ssd-disclosure.com/ssd-advisory-microsoft-sharepoint-server-wizardconnecttodatastep4-deserialization-of-untrusted-data-rce/
 - https://medium.com/tenable-techblog/wordpress-buddyforms-plugin-unauthenticated-insecure-deserialization-cve-2023-26326-3becb5575ed8
 - https://peterjson.medium.com/miracle-one-vulnerability-to-rule-them-all-c3aed9edeea2
+- https://medium.com/workday-engineering/exploiting-jmeter-via-rmi-e8e12392bba8

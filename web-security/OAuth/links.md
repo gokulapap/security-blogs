@@ -31,3 +31,4 @@
 - https://www.descope.com/blog/post/noauth
 - https://vijetareigns.medium.com/pre-account-takeover-using-oauth-misconfiguration-ebd32b80f3d3
 - https://ysamm.com/?p=667
+- https://labs.detectify.com/2022/07/06/account-hijacking-using-dirty-dancing-in-sign-in-oauth-flows/
