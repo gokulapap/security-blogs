@@ -402,7 +402,6 @@
 - https://infosecwriteups.com/authorization-bypass-gmail-2949af041fb, Spoofing
 - https://systemweakness.com/accessing-godaddy-internal-instance-through-an-email-logic-bug-fdbea7b23542, Logic-flaw
 - https://infosecwriteups.com/idor-leads-to-leak-private-details-866563365490, IDOR
-- https://trevorspiniolas.com/doorlock/doorlock.html, DoS
 - https://bugs.xdavidhu.me/google/2021/12/31/fixing-the-unfixable-story-of-a-google-cloud-ssrf/, SSRF
 - https://www.seblu.de/2021/12/iap-bypass.html, Authorization-flaw
 - https://sharmajijvs.medium.com/xss-via-file-upload-a2bcc1e5d7f7, XSS
@@ -503,7 +502,6 @@
 - https://sm4rty.medium.com/stored-xss-via-invite-leading-to-mass-account-takeover-at-opera-a85ed257dd12, Stored-XSS
 - https://ertugrull.medium.com/unprivileged-user-with-read-write-permission-to-user-access-can-escalate-their-role-to-admin-a217d2d280a8, Privilege-escalation
 - https://0xbadb00da.medium.com/account-takeover-via-stored-xss-with-arbitrary-file-upload-2774ec6cff51, Insecure-file-upload
-- https://cyberxplore.medium.com/how-we-are-able-to-hack-any-company-by-sending-message-including-facebook-google-microsoft-b7773626e447, Universal-XSS
 - https://blog.oversecured.com/Why-dynamic-code-loading-could-be-dangerous-for-your-apps-a-Google-example/, Arbitrary-file-write
 - https://fartademayur.medium.com/this-is-how-i-was-able-to-see-private-archived-posts-stories-of-users-on-instagram-without-de70ca39165c, IDOR
 - https://ian.sh/airflow, Session-management-issue
@@ -676,7 +674,6 @@
 - https://medium.com/@abireena2002/how-i-managed-to-escalate-privilege-as-admin-94b8dc910d14, Lack-of-rate-limiting
 - https://ysamm.com/?p=460, Privilege-escalation
 - https://medium.com/@mudassirsharief58/hunt-for-sql-injection-the-smart-way-db85243a4e90, SQL-injection
-- http://www.firstsight.me/2020/06/from-399-to-1650-usd-part-i-simple-vertical-privilege-escalation-by-changing-http-response/, Privilege-escalation
 - https://medium.com/@amyrahm786/story-of-blind-sql-with-a-typo-error-43a21913c8d, SQL-injection
 - https://kb.cert.org/vuls/id/636397, DoS
 - https://research.securitum.com/the-curious-case-of-copy-paste/, XSS
@@ -722,7 +719,6 @@
 - https://medium.com/@adonkidz7/my-first-bounty-from-google-d9f1f3f5787a, Self-XSS
 - https://www.acunetix.com/blog/web-security-zone/xss-google-acunetix/, XSS
 - https://weizman.github.io/2020/02/14/whatsapp-vuln/, RCE
-- https://medium.com/@sushiwushi2/hijacking-shared-report-links-in-google-data-studio-75eab320c391, Authorization-flaw
 - https://techblog.mediaservice.net/2020/01/ok-google-bypass-the-authentication/, Authentication-bypass
 - https://medium.com/@abhishake100/hyperlink-injection-easy-money-sometimes-cc1104655300, Hyperlink-injection
 - https://medium.com/bugbountywriteup/how-i-bought-my-way-to-subdomain-takeover-on-tokopedia-8c6697c85b4d, Subdomain-takeover
@@ -861,7 +857,6 @@
 - https://medium.com/@sampanna/self-xss-in-indeed-com-e0c99c104cba, XSS
 - https://medium.com/@rupika.luhach/change-anyones-profile-picture-exploiting-idor-41369f5acf75, IDOR
 - https://blog.securitybreached.org/2018/12/08/how-i-was-able-to-bypass-email-verification/, Information-disclosure
-- https://dylankatz.com/digging-in-to-scp-command-injection/, OS-command-injection
 - http://zhchbin.github.io/2018/12/03/Hijack-the-JS-File-of-Uber-s-Website/, JS-file-hijacking
 - https://medium.com/@vishnu0002/instagram-multi-factor-authentication-bypass-924d963325a1, MFA-bypass
 - https://www.amolbaikar.com/disclose-contact_email-of-any-facebook-application/, Information-disclosure
