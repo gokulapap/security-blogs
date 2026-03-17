@@ -111,3 +111,4 @@
 - https://n45ht.or.id/post/reflected-xss-on-microsoft/en
 - https://pethuraj.com/blog/bbc-bug-bounty-write-up-xss-vulnerability/
 - https://medium.com/@smilehackerofficial/xss-that-can-pay-your-bills-9377eff1fd0d
+- https://blog.witcoat.com/2018/05/30/xss-on-bugcrowd-and-so-many-other-websites-main-domain/

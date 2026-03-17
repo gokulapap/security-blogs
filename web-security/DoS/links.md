@@ -63,3 +63,4 @@
 - https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/modsecurity-dos-vulnerability-in-json-parsing-cve-2021-42717/
 - https://www.pankajinfosec.com/post/700-denial-of-service-dos-vulnerability-in-script-loader-php-cve-2018-6389
 - https://trevorspiniolas.com/doorlock/doorlock.html
+- https://www.hackerinside.me/2019/02/dos-on-waf-protected-sites-by-abusing.html
