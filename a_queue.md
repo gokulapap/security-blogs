@@ -45,7 +45,6 @@
 - https://medium.com/@shubhangivashist/how-to-exploit-directory-traversal-vulnerabilities-176eeb7f2655, directory-traversal
 - https://medium.com/@haythamkarouata/bug-bounty-hunting-101-js-files-diving-4b1753fefb3d, source-code-review
 - https://medium.com/@jonathanbouman/stored-xss-in-paytium-3-0-13-wordpress-plugin-3157ee37eb8f, XSS
-- https://medium.com/@grahamzemel/the-best-vulnerability-disclosure-programs-less-competitive-bounties-a166acbbbd1b, tricks
 - https://medium.com/@cyberguy0xd1/how-i-was-able-to-bypass-cloudflare-waf-for-sqli-payload-b9e7a4260026, sql-injection
 - https://medium.com/@Sm9l/what-i-learnt-from-reading-126-information-disclosure-writeups-d896c5d5a2a4, info-disclosure
 - https://samcurry.net/points-com/, Path-traversal
@@ -62,7 +61,6 @@
 - https://dimazarno.medium.com/unexpected-zero-in-mysql-injection-511f632714b0, SQL-injection
 - http://blog.takemyhand.xyz/2023/07/remote-code-execution-in-gitlabs-cli.html, RCE
 - https://www.randorisec.fr/chamilo-1.11.18-multiple-vulnerabilities, OS-command-injection
-- https://medium.com/@jonathanbouman/laravel-debug-mode-left-on-at-zouikwatzeggen-nl-948a7365409f, Debug-mode-enabled
 - http://www.kamilonurozkaleli.com/posts/a-classical-account-takeover-case-via-multiple-bypasses/, Account-takeover
 - https://medium.com/@0xnaeem/how-i-found-a-sql-injection-bug-in-using-my-cellphone-5b5193fdc314, SQL-injection
 - https://github.com/firsov/onlyoffice/blob/main/CVE-2023-34939-PoC.md, Path-traversal
@@ -131,7 +129,6 @@
 - https://www.permasecure.io/2023/03/03/how-your-nfts-could-have-been-stolen-in-just-one-click/, postMessage
 - https://vijetareigns.medium.com/email-verification-bypass-worth-cbb65a68a34f, Email-verification-bypass
 - https://medium.com/@kushjain0107/how-simple-idor-impacted-the-data-of-thousands-of-customers-of-an-indian-automotive-giant-fdbd2ef1c2c6, Account-takeover
-- https://www.zerodayinitiative.com/blog/2023/2/27/cve-2022-38108-rce-in-solarwinds-network-performance-monitor, Insecure-deserialization
 - https://infosecwriteups.com/how-did-i-found-rce-on-shareit-which-rewarded-bounty-7d4196bf1b52, Log4shell
 - https://www.synacktiv.com/sites/default/files/2023-02/Synacktiv-IBM-TWS-CVE-2022-38389.pdf, XXE
 - https://m3ez.medium.com/how-i-found-dom-based-xss-on-microsoft-msrc-and-how-they-fixed-it-8b71a6020c82, DOM-XSS
@@ -410,7 +407,6 @@
 - https://mearegtu.medium.com/broken-access-control-cc6cfd793b15, IDOR
 - https://securitylab.github.com/advisories/GHSL-2021-1053_Grafana/, Path-traversal
 - https://medium.com/@mohamedtaha_42562/how-i-found-xss-vulnerability-in-amazon-in-5-minutes-using-shodan-50b583655297, XSS
-- https://outflank.nl/blog/2021/12/09/a-phishing-document-signed-by-microsoft/, Phishing
 - https://www.r29k.com/articles/bb/priv-esc-via-stored-xss, Account-takeover
 - https://rizwansiddiqu1.medium.com/another-admin-panel-e0489dc76678, HTTP-response-manipulation
 - https://blog.agilehunt.com/blogs/security/privilege-escalation-in-microsoft-teams-2021, Privilege-escalation
@@ -752,7 +748,6 @@
 - https://corben.io/blog/19-9-04-jenkins-to-full-pwnage, RCE
 - https://medium.com/@bathinivijaysimhareddy/shodan-is-your-friend-if-you-lose-him-you-will-lose-many-657d07472f75, SQL-injection
 - https://medium.com/@Skylinearafat/how-to-look-for-js-files-vulnerability-for-fun-and-profit-78bfdfbd6731, Information-disclosure
-- https://gauravnarwani.com/cookie-worth-a-fortune/, Reflected-XSS
 - https://www.updatelap.com/2019/08/Rights-Manager-Graph-API-Disclosure-of-business-employee-to-non-business-employee.html, Information-disclosure
 - https://medium.com/@iframe_h1/how-i-upgraded-my-privileges-to-the-administrator-of-odnoklassnikis-url-shortener-2c58f996d02c, Privilege-escalation
 - https://medium.com/@ar_arvind/facebook-bug-bounty-reading-whatsapp-contacts-list-without-unlocking-the-device-a40e9c660a42, Authorization-flaw

@@ -7,3 +7,4 @@
 - https://medium.com/bug-bounty-hunting/fullscreen-api-attacks-revisited-and-the-fb-na-story-cbea3ca383c5
 - https://ophionsecurity.com/blog/phishing-the-anti-phishers
 - https://research.aurainfosec.io/pentest/hook-line-and-phishlet/
+- https://outflank.nl/blog/2021/12/09/a-phishing-document-signed-by-microsoft/
