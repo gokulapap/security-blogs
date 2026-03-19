@@ -280,3 +280,5 @@
 - https://gauravnarwani.com/priv-esc-highest-admin/
 - https://web.archive.org/web/20210124152317/https://whitehathaji.blogspot.com/2019/07/paypal-bug-10k-all-secondary-users.html
 - https://medium.com/@alyanwar/taking-over-files-in-a-chat-idor-in-microsoft-teams-e5289c2efd0
+- https://medium.com/@princechaddha/account-takeover-on-airbnb-acquisition-an-unusual-bug-part-2-45fab11dc407
+- https://medium.com/@yaala/make-featured-product-in-any-video-ec2bd4816ae4

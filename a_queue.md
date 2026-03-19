@@ -25,7 +25,6 @@
 - https://medium.com/@geekboyranjeet/strange-admin-panel-bypass-story-bug-bounty-5e618099baaf, bypass
 - https://medium.com/@pingsec/interesting-account-takeover-bugs-619df8466ca0, ATO
 - https://medium.com/@thelinuxboy/bugging-out-my-experience-of-earning-300-for-reporting-an-unexpected-bug-ec9f9b0054bc, journey
-- https://medium.com/@hasharmujahid/bypassing-csrf-protection-i-bc014384d0aa, csrf
 - https://medium.com/@K9ightFr3ak/exploiting-broken-access-control-vulnerability-4d16f72c7983, BAC
 - https://medium.com/@ramAnon/bug-bounty-hunting-methodology-toolkit-tips-tricks-blogs-eb142034d5a5, tricks
 - https://medium.com/@joshuaarulsamy/mindset-that-made-me-one-among-top-15-security-researchers-in-india-for-3-consecutive-times-febb06e8af61, journey
@@ -346,7 +345,6 @@
 - https://web.archive.org/web/20220516024454/https://medium.com/@tobydavenn/how-i-paid-for-my-holiday-with-bug-bounty-668f1f59e6e5, XSS
 - https://maxva.medium.com/how-i-got-a-lousyt-shirt-from-the-dutch-goverment-2a0d13fe7675, Old-components-with-known-vulnerabilities
 - https://blog.assetnote.io/2022/04/27/vmware-workspace-one-uem-ssrf/, SSRF
-- https://blog.aquasec.com/npm-package-planting, Logic-flaw
 - https://medium.com/@abdalrahman.alshammas/fuzzing-and-credentials-leakage-nice-bug-hunting-writeup-38b2e774b300, Hardcoded-credentials
 - https://systemweakness.com/unlock-any-blur-text-picture-without-membership-subscription-on-scribd-com-by-neuchi-69237776e24, Payment-bypass
 - https://shubhdeepp.medium.com/how-i-got-apple-hall-of-fame-3d86f858c05f, Content-injection
@@ -650,7 +648,6 @@
 - https://vj0shii.github.io/exploiting-application-logic-to-referral-code-disclosure/, Logic-flaw
 - https://medium.com/@b3twise/how-i-found-10-remote-code-execution-in-10-minutes-cve-2020-5902-3def1aa29e9b, RCE
 - https://xvnpw.github.io/posts/from-dot-in-regex-to-ssrf-part-3/, SSRF
-- https://medium.com/@yaala/make-featured-product-in-any-video-ec2bd4816ae4, IDOR
 - https://medium.com/@daoud_youssef/from-host-header-injection-to-sql-injection-e7c61a61b575, Host-header-injection
 - https://medium.com/@hgreal/why-i-paid-3-5k-to-become-a-tld-registrar-reseller-when-doing-bug-bounty-d9d407911dce, XXE
 - https://fadhilthomas.github.io/post/bug-bounty-tokopedia-03/, IDOR
@@ -767,7 +764,6 @@
 - https://thezerohack.com/hack-any-instagram, Race-condition
 - https://samcurry.net/cracking-my-windshield-and-earning-10000-on-the-tesla-bug-bounty-program/, Blind-XSS
 - https://medium.com/@sansyrox/hacking-tinders-premium-model-43f9f699d44, Authorization-flaw
-- https://medium.com/@princechaddha/account-takeover-on-airbnb-acquisition-an-unusual-bug-part-2-45fab11dc407, IDOR
 - https://medium.com/@hazzaazi31/a-malicious-editor-of-a-page-can-support-to-a-community-action-which-cant-be-unsupported-by-the-f568c3762042, Authorization-flaw
 - https://medium.com/@shub66452/account-takeover-using-csrf-json-based-a0e6efd1bffc, CSRF
 - https://gauravnarwani.com/injecting-6200-to-1200/, SSTI
@@ -972,7 +968,6 @@
 - https://web.archive.org/web/20200819161533/https://whitehatnepal.tumblr.com/post/149937173467/pornhub-email-confirmation-bypass, Email-verification-bypass
 - https://httpsonly.blogspot.com/2016/08/turning-self-xss-into-good-xss-v2.html, XSS
 - http://artsploit.blogspot.com/, RCE
-- https://guptashubham.com/xss-on-flickr/, XSS
 - http://www.kernelpicnic.net/2016/07/24/Microsoft-signout.live.com-Remote-Code-Execution-Write-Up.html, RCE
 - https://avicoder.me/2016/07/22/Twitter-Vine-Source-code-dump/, Source-code-disclosure
 - https://bitquark.co.uk/blog/2016/02/09/how_i_got_access_to_millions_of_redacted_accounts, RFI
