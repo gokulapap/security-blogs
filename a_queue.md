@@ -181,7 +181,6 @@
 - https://labs.nettitude.com/blog/cve-2022-25026-cve-2022-25027-vulnerabilities-in-rocket-trufusion-enterprise/, Authentication-bypass
 - https://danaepp.com/hacking-a-net-api-in-the-real-world, LFI
 - https://medium.com/@tobydavenn/bypassing-ssrf-protections-45e5e3ac31e9, SSRF
-- https://github.com/PabloMK7/ENLBufferPwn, Buffer-Overflow
 - https://www.trendmicro.com/en_us/research/22/l/a-technical-analysis-of-cve-2022-22583-and-cve-2022-32800.html, MacOS
 - https://crypt0g30rgy.github.io/post/AWSTakeover, Information-disclosure
 - https://dappsec.substack.com/p/an-advisory-for-cve-2019-16891-from, RCE
@@ -553,7 +552,6 @@
 - https://ysamm.com/?p=621, Authorization-flaw
 - https://ysamm.com/?p=625, Open-redirect
 - https://ysamm.com/?p=613, Information-disclosure
-- https://vbharad.medium.com/stored-xss-in-icloud-com-5000-998b8c4b2075, Stored-XSS
 - https://samcurry.net/hacking-chesscom/, Reflected-XSS
 - https://www.inputzero.io/2020/12/telegram-privacy-fails-again.html, Privacy-issue
 - https://servicenger.com/blog/mobile/sending-ephemeral-message-to-any-facebook-user/, IDOR
@@ -636,7 +634,6 @@
 - https://medium.com/@mohamedayad_72488/bypass-user-restriction-registration-cbfc4eb855, Logic-flaw
 - https://medium.com/bugbountywriteup/how-i-lost-my-followers-on-medium-9fe10e9862aa, GraphQL
 - https://medium.com/@sudipshah_66336/the-story-of-my-first-4-digit-bounty-from-facebook-3a29830e03cd, Logic-flaw
-- https://medium.com/@yaala/admin-editor-can-disclose-personnel-email-of-other-editor-admin-on-page-who-created-shop-57c35ed9f9b7, Information-disclosure
 - https://medium.com/bugbountywriteup/exploiting-imported-libraries-to-bypass-cloudflare-waf-7aed99186c5a, Reflected-XSS
 - https://medium.com/@rafaelrodripaz/ssrf-in-import-file-function-d0f1c6397262, SSRF
 - https://www.secjuice.com/api-misconfiguration-data-breach/, Information-disclosure
@@ -748,7 +745,6 @@
 - https://www.updatelap.com/2019/08/Rights-Manager-Graph-API-Disclosure-of-business-employee-to-non-business-employee.html, Information-disclosure
 - https://medium.com/@iframe_h1/how-i-upgraded-my-privileges-to-the-administrator-of-odnoklassnikis-url-shortener-2c58f996d02c, Privilege-escalation
 - https://medium.com/@ar_arvind/facebook-bug-bounty-reading-whatsapp-contacts-list-without-unlocking-the-device-a40e9c660a42, Authorization-flaw
-- https://philippeharewood.com/add-users-to-roles-on-facebook-pages-without-an-invitation-consent-revisited/, Logic-flaw
 - https://ninadmathpati.com/how-i-was-able-to-earn-1000-with-just-10-minutes-of-bug-bounty/, Password-reset
 - https://medium.com/@rohitcoder/bypassing-fix-of-domain-blocking-feature-in-business-manager-41949a18460c, Authorization-flaw
 - http://mahmoudsec.blogspot.com/2019/08/exploiting-out-of-band-xxe-using.html, XXE
@@ -840,7 +836,6 @@
 - https://medium.com/@mustafakhan_89646/asuss-admin-panel-auth-bypass-af5062584ddf, Authentication-bypass
 - https://blog.scrt.ch/2018/08/24/remote-code-execution-on-a-facebook-server/, LFI
 - https://mohemiv.com/all/exploiting-xxe-with-local-dtd-files/, XXE
-- https://medium.com/bugbountywriteup/token-brute-force-to-account-take-over-to-privilege-escalation-to-organization-take-over-650d14c7ce7f, Account-takeover
 - https://medium.com/@sampanna/self-xss-in-indeed-com-e0c99c104cba, XSS
 - https://medium.com/@rupika.luhach/change-anyones-profile-picture-exploiting-idor-41369f5acf75, IDOR
 - https://blog.securitybreached.org/2018/12/08/how-i-was-able-to-bypass-email-verification/, Information-disclosure

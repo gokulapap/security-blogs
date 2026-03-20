@@ -131,3 +131,4 @@
 - https://medium.com/@Alra3ees/google-adwords-3133-7-stored-xss-27bb083b8d27
 - https://medium.com/@jonathanbouman/persistent-xss-unvalidated-open-graph-embed-at-linkedin-com-db6188acedd9
 - https://medium.com/@mrityunjoy/stored-xss-on-snapchat-5d704131d8fd
+- https://vbharad.medium.com/stored-xss-in-icloud-com-5000-998b8c4b2075
