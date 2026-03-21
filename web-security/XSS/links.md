@@ -329,3 +329,4 @@
 - https://bitquark.co.uk/blog/2013/12/30/google_sites_a_tale_of_five_vulnerabilities
 - https://medium.com/@rezaduty/play-with-google-twitter-apple-dell-a90777faa779
 - https://guptashubham.com/xss-on-flickr/
+- https://gccybermonks.com/posts/mxss/

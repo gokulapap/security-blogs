@@ -132,3 +132,4 @@
 - https://medium.com/@jonathanbouman/persistent-xss-unvalidated-open-graph-embed-at-linkedin-com-db6188acedd9
 - https://medium.com/@mrityunjoy/stored-xss-on-snapchat-5d704131d8fd
 - https://vbharad.medium.com/stored-xss-in-icloud-com-5000-998b8c4b2075
+- https://medium.com/bugbountywriteup/stored-xss-in-bug-bounty-13c08e6f5636

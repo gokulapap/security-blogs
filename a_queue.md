@@ -168,7 +168,6 @@
 - https://medium.com/pentesternepal/two-factor-authentication-bypass-on-facebook-3f4ac3ea139c, MFA-bypass
 - https://www.zerodayinitiative.com/blog/2023/1/18/cve-2022-35690-unauthenticated-rce-in-adobe-coldfusion, RCE
 - https://shahjerry33.medium.com/api-misconfiguration-no-swag-of-swaggerui-9b43135346be, Security-misconfiguration
-- https://orca.security/resources/blog/ssrf-vulnerabilities-in-four-azure-services/, SSRF
 - https://onekey.com/blog/security-advisory-wago-unauthenticated-config-export-vulnerability/, Path-traversal
 - https://blog.viettelcybersecurity.com/cve-2022-21587-oracle-e-business-suite-unauth-rce/, RCE
 - https://blog.geekycat.in/xss-using-postmessage-in-google-cloud-theia-notebooks/, XSS
@@ -317,7 +316,6 @@
 - https://portswigger.net/research/bypassing-firefoxs-html-sanitizer-api, XSS
 - https://www.horizon3.ai/red-team-blog-cve-2022-28219/, XXE
 - https://aidilarf.medium.com/xss-blind-stored-at-2-assets-tiktok-f32829f11e58, XSS
-- https://unit42.paloaltonetworks.com/fabricscape-cve-2022-30137/, Container-escape
 - https://curl.se/docs/CVE-2022-32207.html, Improper-Preservation-of-Permissions
 - https://curl.se/docs/CVE-2022-32205.html, DoS
 - https://medium.com/@tobydavenn/1500-of-broken-access-controls-503d8a5f56f5, Broken-Access-Control
@@ -451,7 +449,6 @@
 - https://blog.tint0.com/2021/09/pinging-xmlsec.html, XSLT
 - https://dewcode.medium.com/force-browsing-bug-at-facebook-business-plan-500-bounty-73d1bb4883af, Authorization-flaw
 - https://www.akamai.com/blog/security/autodiscovering-the-great-leak, Domain-name-collision
-- https://gccybermonks.com/posts/mxss/, XSS
 - https://medium.com/@varmaanu001/cookie-stealing-via-clickjacking-using-burp-collaborator-ff6f4ac1c18b, Clickjacking
 - https://pwnsauc3.medium.com/weaponizing-reflected-xss-to-account-takeover-ae8aeea7aca3, XSS
 - https://asterfiester.medium.com/how-i-was-able-to-send-sms-from-google-to-anyone-google-vulnerability-3277ea0cc9d1, Content-spoofing
@@ -486,7 +483,6 @@
 - https://medium.com/pentesternepal/facebook-email-phone-disclosure-using-binary-search-d50430758c54, Password-reset
 - https://feed.bugs.xdavidhu.me/bugs/0009, IDOR
 - https://adnanmalik.info/blog/lets-cancel-the-subscription/, Logic-flaw
-- https://philippeharewood.com/bulletin-com-email-address-leak/, Information-disclosure
 - https://ysamm.com/?p=702, CSRF
 - https://ysamm.com/?p=700, Information-disclosure
 - https://smaranchand.com.np/2021/06/flywheel-subdomain-takeover/, Subdomain-takeover
@@ -848,7 +844,6 @@
 - https://medium.com/@maxpasqua/breaking-appointments-and-job-interview-schedules-with-malformed-times-edef103e46ba, DoS
 - https://medium.com/bugbountywriteup/duplicate-but-still-cool-236835685075, IDOR
 - https://medium.com/@kunal94/imagemagick-gif-coder-vulnerability-leads-to-memory-disclosure-hackerone-e9975a6a560e, Memory-leak
-- https://medium.com/bugbountywriteup/stored-xss-in-bug-bounty-13c08e6f5636, Stored-XSS
 - https://web.archive.org/web/20181030103042/https://zseano.com/blogs/4.html, CSRF
 - https://medium.com/@notsoshant/a-possibility-of-account-takeover-in-medium-8d950e547639, Account-takeover
 - https://medium.com/bugbountywriteup/add-comment-on-a-private-oculus-developer-bug-report-93f35bc80b2c, IDOR
