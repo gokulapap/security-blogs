@@ -188,3 +188,4 @@
 - https://web.archive.org/web/20200822111544/https://whitehatnepal.tumblr.com/post/156707088037/i-got-emails-g-suite-vulnerability
 - https://blog.aquasec.com/npm-package-planting
 - https://philippeharewood.com/add-users-to-roles-on-facebook-pages-without-an-invitation-consent-revisited/
+- https://sagarsajeev.medium.com/business-logic-vulnerabilities-b4db2af08aaf

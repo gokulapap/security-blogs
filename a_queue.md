@@ -153,7 +153,6 @@
 - https://www.flashback.sh/blog/weekend-destroyer-wd-pr4100-rce, RCE
 - https://shahjerry33.medium.com/idor-inside-the-session-storage-88af485fc899, IDOR
 - https://www.cyberark.com/resources/threat-research-blog/breaking-docker-named-pipes-systematically-docker-desktop-privilege-escalation-part-1, Local-Privilege-Escalation
-- https://www.metabaseq.com/imagemagick-zero-days/, Application-level-DoS
 - https://webresearcher007.medium.com/broken-function-level-authorization-leads-to-disclosing-pii-information-of-all-company-users-35aee60b287b, Broken-Function-Level-Authorization
 - https://onekey.com/blog/security-advisory-remote-command-execution-in-binwalk/, RCE
 - https://medium.com/@abhisekr/discovered-a-critical-idor-and-earned-900-for-my-first-p1-vulnerability-57c1e72f42c1, IDOR
@@ -294,7 +293,6 @@
 - https://medium.com/@the_null_kid/instagram-photo-was-present-in-data-backup-nearly-after-two-years-being-deleted-f0e4d6e108, Privacy-issue
 - https://www.zscaler.com/blogs/security-research/analysis-adobe-acrobat-reader-javascript-docprint-use-after-free, Memory-corruption
 - https://medium.com/@whitehatcyber404/how-i-earned-150-in-2-minutes-html-injection-in-email-3f26f27d3822, HTML-injection
-- https://sagarsajeev.medium.com/business-logic-vulnerabilities-b4db2af08aaf, Logic-flaw
 - https://swarm.ptsecurity.com/researching-open-source-apps-for-xss-to-rce-flaws/, XSS
 - https://medium.com/@Steiner254/bounty-in-less-3-minutes-from-a-google-dork-54bd9bf3a650, Information-disclosure
 - https://www.yesnaveen.com/2022/07/permanently-crash-instagram-followers.html, DoS
@@ -373,7 +371,6 @@
 - https://www.iot-inspector.com/blog/advisory-western-digital-my-cloud-pro-series-pr4100-rce/, RCE
 - https://twitter.com/FlashbackPwn/status/1492074441450397698, Memory-corruption
 - https://twitter.com/m7mdharon/status/1492204287295897600, Subdomain-takeover
-- https://onapsis.com/threat-report/icmad-sap-vulnerabilities, HTTP-request-smuggling
 - https://medium.com/@yaala/facebook-oauth-bypass-446a073e687d, OAuth
 - https://kailashbohara.com.np/blog/2022/02/04/bypassing-PHP-functions-to-read-system-file-copy/, Components-with-known-vulnerabilities
 - https://spaceraccoon.dev/solving-dom-xss-puzzles, DOM-XSS
@@ -745,7 +742,6 @@
 - https://medium.com/@rohitcoder/bypassing-fix-of-domain-blocking-feature-in-business-manager-41949a18460c, Authorization-flaw
 - http://mahmoudsec.blogspot.com/2019/08/exploiting-out-of-band-xxe-using.html, XXE
 - https://learn.hackersid.com/2019/08/stored-xss-on-laporbugid.html, Stored-XSS
-- https://medium.com/@aniltom/https-medium-com-aniltom-from-sub-domain-takeover-to-open-redirect-b5be4906e1a4, Subdomain-takeover
 - https://ysamm.com/?p=291, IDOR
 - https://ysamm.com/?p=321, Internal-path-disclosure
 - https://medium.com/@ronak_9889/solr-injection-by-abusing-local-parameters-on-zomato-com-a5cb7bef10d5, Solr-injection
@@ -885,7 +881,6 @@
 - https://medium.com/bugbountywriteup/responsible-disclosure-how-i-could-have-booked-movie-tickets-through-other-user-accounts-2db26a037b4c, Password-reset
 - https://medium.com/@jonathanbouman/unvalidated-open-redirect-bol-com-b270151380e6, Open-redirect
 - https://medium.com/@khaled.hassan/full-account-takeover-via-reset-password-function-8b6ef15f346f, IDOR
-- https://medium.com/@adrien_jeanneau/how-i-was-able-to-list-some-internal-information-from-paypal-bugbounty-ca8d217a397c, Expression-Language-Injection
 - https://thehackerblog.com/reading-your-emails-with-a-readwrite-chrome-extension-same-origin-policy-bypass-8-million-users-affected/index.html, SOP-bypass
 - http://www.shawarkhan.com/2018/06/getting-php-code-execution-and-leverage.html, Code-injection
 - https://twitter.com/0x01alka/status/1001763583447969792, Path-traversal

@@ -6,3 +6,4 @@
 - https://infosecwriteups.com/crashing-your-linkedin-app-with-a-connection-request-257f9b484550
 - https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/vulnerability-causing-deletion-of-all-users-in-crushftp-admin-area/
 - https://medium.com/@kalvik/pre-denial-of-service-set-up-2fa-on-unverified-account-8399af52ea2d
+- https://www.metabaseq.com/imagemagick-zero-days/
