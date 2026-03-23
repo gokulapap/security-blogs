@@ -38,3 +38,4 @@
 - https://ahussam.me/how-i-hacked-oculus-oauth-ebay-ibm/
 - https://www.synacktiv.com/publications/persistent-php-payloads-in-pngs-how-to-inject-php-code-in-an-image-and-keep-it-there.html
 - https://medium.com/@saadahmedx/complete-web-server-access-46d19279a2b
+- https://medium.com/bugbountywriteup/dank-writeup-on-broken-access-control-on-an-indian-startup-d29132a1ecd

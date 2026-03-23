@@ -282,3 +282,4 @@
 - https://medium.com/@alyanwar/taking-over-files-in-a-chat-idor-in-microsoft-teams-e5289c2efd0
 - https://medium.com/@princechaddha/account-takeover-on-airbnb-acquisition-an-unusual-bug-part-2-45fab11dc407
 - https://medium.com/@yaala/make-featured-product-in-any-video-ec2bd4816ae4
+- https://medium.com/@khaled.hassan/full-account-takeover-via-reset-password-function-8b6ef15f346f

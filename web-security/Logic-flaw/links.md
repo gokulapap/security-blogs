@@ -189,3 +189,5 @@
 - https://blog.aquasec.com/npm-package-planting
 - https://philippeharewood.com/add-users-to-roles-on-facebook-pages-without-an-invitation-consent-revisited/
 - https://sagarsajeev.medium.com/business-logic-vulnerabilities-b4db2af08aaf
+- https://medium.com/@ashokcpg/the-story-of-my-first-ever-1500-bounty-from-facebook-49eb64d26160
+- https://0xm5awy.medium.com/how-i-was-able-to-get-free-money-via-sending-negative-tokens-1ed2e0e710e0
