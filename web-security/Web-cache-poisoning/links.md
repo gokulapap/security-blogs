@@ -21,3 +21,4 @@
 - https://portswigger.net/research/bypassing-web-cache-poisoning-countermeasures
 - https://yaseenzubair.medium.com/web-cache-poisoning-worth-it-e7c6d88797b1
 - https://n3t-hunt3r.medium.com/finding-my-first-critical-web-cache-poisoning-6f956799371c
+- https://medium.com/@jacopotediosi/worldwide-server-side-cache-poisoning-on-all-akamai-edge-nodes-50k-bounty-earned-f97d80f3922b

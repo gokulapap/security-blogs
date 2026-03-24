@@ -7,7 +7,6 @@
 - https://medium.com/@basakyilmaz82/log4j-vulnerability-485559065af6, CVE
 - https://medium.com/@codewithvamp/the-cost-of-neglect-html-injection-3c00e719fdef, html-injection
 - https://medium.com/@ryuukhagetsu/how-i-get-bounty-from-takeover-account-ed17cd838b2a, ATO
-- https://medium.com/@techkalam/execute-mongo-shell-commands-in-javascript-file-862dcf45aad6, tricks
 - https://medium.com/@nav1n/how-i-got-owned-a-multi-billion-dollar-retailers-mysql-databases-using-simple-sql-injection-30f8b0dfd9ce, sql-injection
 - https://medium.com/@ssalssa.1.12.2.1.2.1/hacking-wordpress-server-database-f6cc6c116057, cms
 - https://medium.com/@s3c/how-i-hacked-world-wide-tiktok-users-24e794d310d2, journey
@@ -242,7 +241,6 @@
 - https://blog.bricked.tech/posts/tmnf/part1/, RCE
 - https://medium.com/@bug_vs_me/csrf-attack-0-click-account-delete-1st-write-up-3d67b267b931, CSRF
 - https://www.trenchesofit.com/2022/09/30/zoneminder-web-app-testing/, DoS
-- https://medium.com/@jacopotediosi/worldwide-server-side-cache-poisoning-on-all-akamai-edge-nodes-50k-bounty-earned-f97d80f3922b, Web-cache-poisoning
 - https://carvesystems.com/news/xss-through-dhcp-how-attackers-use-standards/, XSS
 - https://blog.champtar.fr/VLAN0_LLC_SNAP/, Layer-2-networking-vulnerability
 - https://sagarsajeev.medium.com/escalating-ssti-to-reflected-xss-using-curly-braces-825685bd93ec, SSTI
@@ -285,7 +283,6 @@
 - https://bahruz.me/publications/11844, HTTP-Request-Smuggling
 - https://medium.com/@avinash_/email-confirmation-bypass-at-instagram-cc968f9a126, Email-verification-bypass
 - https://krausefx.com/blog/ios-privacy-instagram-and-facebook-can-track-anything-you-do-on-any-website-in-their-in-app-browser, Privacy-issue
-- http://blog.h4rsh4d.com/2022/08/open-redirect-bypass.html, Open-redirect
 - https://infosecwriteups.com/how-i-was-able-to-get-29-free-products-bug-bounty-845667ab4ad4, Race-condition
 - https://canmustdie.medium.com/multiple-bugs-in-one-program-leads-to-1500-c35fcde06bc7, Privilege-escalation
 - https://medium.com/@the_null_kid/instagram-photo-was-present-in-data-backup-nearly-after-two-years-being-deleted-f0e4d6e108, Privacy-issue
@@ -567,7 +564,6 @@
 - https://medium.com/@3bodymo/how-i-hacked-ibm-and-got-full-access-on-many-services-ecf1dab4a054, Information-disclosure
 - https://medium.com/@vedanttekale20/story-of-the-best-vulnerability-ive-found-so-far-5e3b0e02b47e, Self-XSS
 - https://nmochea.medium.com/this-post-is-about-an-reflected-xss-that-i-found-on-opera-browser-application-which-could-have-been-39823a22045d, XSS
-- https://amineaboud.medium.com/10000-facebook-ssrf-bug-bounty-402bd21e58e5, SSRF
 - https://securitytrooper.com/en/cross-site-scripting-xss-reflected-in-one-of-the-subdomains-of-general-motorsbugbounty, Reflected-XSS
 - https://ahmdhalabi.medium.com/chaining-multiple-requests-to-achieve-rate-limiting-vulnerabilities-96c1e8365c06, Rate-limiting-bypass
 - https://cirius.medium.com/escalating-xss-to-account-takeover-ffde08624937, Reflected-XSS
@@ -803,7 +799,6 @@
 - https://ysamm.com/?p=214, Authorization-flaw
 - https://ysamm.com/?p=171, IDOR
 - https://medium.freecodecamp.org/cache-deception-how-i-discovered-a-vulnerability-in-medium-and-helped-them-fix-it-31cec2a3938b, Web-cache-deception
-- https://posts.specterops.io/remote-code-execution-via-path-traversal-in-the-device-metadata-authoring-wizard-a0d5839fc54f, Path-traversal
 - https://medium.com/@rupika.luhach/how-i-was-able-to-extract-information-of-other-users-exploiting-idor-9f03aa72dd06, IDOR
 - https://offensi.com/2019/01/31/lfi-in-apigee-portals, LFI
 - https://blog.detectify.com/2019/01/29/hacking-isnt-an-exact-science/, Authorization-flaw
