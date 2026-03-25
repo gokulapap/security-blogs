@@ -1,2 +1,3 @@
 - https://realm3ter.medium.com/using-dark-web-in-bug-bounty-3a9530fd454c
 - https://medium.com/@valeriyshevchenko/two-easy-rce-in-atlassian-products-e8480eacdc7f
+- https://krevetk0.medium.com/credential-stuffing-in-bug-bounty-hunting-7168dc1d3153

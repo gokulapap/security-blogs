@@ -1,0 +1,1 @@
+- https://erasec.be/blog/client-side-path-manipulation/
