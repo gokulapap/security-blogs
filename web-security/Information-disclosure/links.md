@@ -311,3 +311,4 @@
 - https://basyounii.medium.com/forging-oauth-tokens-using-discovered-client-id-and-client-secret-d224e4e7892a
 - https://medium.com/@yaala/admin-editor-can-disclose-personnel-email-of-other-editor-admin-on-page-who-created-shop-57c35ed9f9b7
 - https://philippeharewood.com/bulletin-com-email-address-leak/
+- https://medium.com/@mrxdevil404/bug-in-netflix-with-my-automation-1382d087078
