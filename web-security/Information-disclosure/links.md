@@ -312,3 +312,4 @@
 - https://medium.com/@yaala/admin-editor-can-disclose-personnel-email-of-other-editor-admin-on-page-who-created-shop-57c35ed9f9b7
 - https://philippeharewood.com/bulletin-com-email-address-leak/
 - https://medium.com/@mrxdevil404/bug-in-netflix-with-my-automation-1382d087078
+- https://embracethered.com/blog/posts/2020/mozilla-bug-bounty-credential-hunt-phabricator-token/

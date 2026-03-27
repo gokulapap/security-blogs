@@ -24,3 +24,4 @@
 - https://medium.com/@swapmaurya20/password-reset-poisoning-leading-to-account-takeover-f178f5f1de87
 - https://blog.securitybreached.org/2020/04/04/playing-with-json-web-tokens-for-fun-and-profit/
 - https://infosecwriteups.com/unauthenticated-account-takeover-through-forget-password-c120b4c1141d
+- https://www.pentagrid.ch/de/blog/password-reset-code-brute-force-vulnerability-in-AWS-Cognito/
