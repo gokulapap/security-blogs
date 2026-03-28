@@ -284,3 +284,4 @@
 - https://medium.com/@yaala/make-featured-product-in-any-video-ec2bd4816ae4
 - https://medium.com/@khaled.hassan/full-account-takeover-via-reset-password-function-8b6ef15f346f
 - https://shahjerry33.medium.com/idor-inside-the-session-storage-88af485fc899
+- https://blog.securitybreached.org/2018/09/16/idor-account-takeover-using-facebook/
