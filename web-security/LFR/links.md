@@ -1,0 +1,1 @@
+- https://vedanttekale20.medium.com/how-i-found-my-first-aem-related-bug-5ea901aad3f4

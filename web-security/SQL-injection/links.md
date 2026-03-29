@@ -125,3 +125,4 @@
 - https://medium.com/@jawadmahdi/how-i-found-blind-sql-injection-just-by-browsing-and-getting-a-unique-url-ed87fa1f35ed
 - https://infosecwriteups.com/sql-injection-in-the-http-custom-header-fd117ba1435e
 - https://infosecwriteups.com/how-i-found-multiple-sql-injections-in-5-minutes-in-bug-bounty-40155964c498
+- https://aidenpearce369.github.io/offsec/My-First-RedTeam-Engagement/

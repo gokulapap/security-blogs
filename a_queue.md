@@ -8,7 +8,6 @@
 - https://medium.com/@codewithvamp/the-cost-of-neglect-html-injection-3c00e719fdef, html-injection
 - https://medium.com/@ryuukhagetsu/how-i-get-bounty-from-takeover-account-ed17cd838b2a, ATO
 - https://medium.com/@nav1n/how-i-got-owned-a-multi-billion-dollar-retailers-mysql-databases-using-simple-sql-injection-30f8b0dfd9ce, sql-injection
-- https://medium.com/@ssalssa.1.12.2.1.2.1/hacking-wordpress-server-database-f6cc6c116057, cms
 - https://medium.com/@s3c/how-i-hacked-world-wide-tiktok-users-24e794d310d2, journey
 - https://medium.com/@rajeshranjan457/how-i-was-able-to-regain-access-to-account-deleted-by-admin-leading-to-a2c29025f8cd, journey
 - https://medium.com/@terjanq/clobbering-the-clobbered-advanced-dom-clobbering-8443547ebe94, misc
@@ -179,7 +178,6 @@
 - https://dappsec.substack.com/p/an-advisory-for-cve-2019-16891-from, RCE
 - https://0xraminfosec.medium.com/simple-cors-misconfig-leads-to-disclose-the-sensitive-token-worth-of-91433763f4d6, CORS-misconfiguration
 - https://salt.security/blog/missing-bricks-finding-security-holes-in-lego-apis, XSS
-- https://aidenpearce369.github.io/offsec/My-First-RedTeam-Engagement/, SQL-injection
 - https://0xmayankgarg.medium.com/pii-data-exfiltration-within-minutes-f06d4587d201, Information-disclosure
 - https://medium.com/@mrd17x/scoring-for-a-very-simple-bug-you-dont-always-need-proxy-tools-872a832f83ea, IDOR
 - https://research.nccgroup.com/2022/12/09/public-report-vpn-by-google-one-security-assessment/, Android
@@ -239,7 +237,6 @@
 - https://blog.champtar.fr/VLAN0_LLC_SNAP/, Layer-2-networking-vulnerability
 - https://sagarsajeev.medium.com/escalating-ssti-to-reflected-xss-using-curly-braces-825685bd93ec, SSTI
 - https://rohit443.medium.com/blind-xss-on-admin-portal-leads-to-information-disclosure-121d26b2a35a, Blind-XSS
-- https://infosecwriteups.com/complete-take-over-of-cisco-unified-communications-manager-due-consecutively-misconfigurations-2a1b5ce8bd9a, Security-misconfiguration
 - https://www.form3.tech/engineering/content/exploiting-distroless-images, Command-injection
 - https://doyensec.com/resources/Doyensec_Apollo_Report_Q22022_v4_AfterRetest.pdf, DoS
 - https://blog.hacktivesecurity.com/index.php/2022/09/17/http/, HTTP-request-smuggling
@@ -432,7 +429,6 @@
 - https://pwnsauc3.medium.com/weaponizing-reflected-xss-to-account-takeover-ae8aeea7aca3, XSS
 - https://asterfiester.medium.com/how-i-was-able-to-send-sms-from-google-to-anyone-google-vulnerability-3277ea0cc9d1, Content-spoofing
 - https://s3c.medium.com/how-i-hacked-world-wide-tiktok-users-24e794d310d2, IDOR
-- https://vedanttekale20.medium.com/how-i-found-my-first-aem-related-bug-5ea901aad3f4, LFR
 - https://www.spookjs.com, Browser-hacking
 - https://medium.com/@katikitala.sushmitha078/how-i-can-take-over-any-users-account-with-their-mobile-number-6d820a364cad, Account-takeover
 - https://shahjerry33.medium.com/business-logic-errors-must-vote-68f642b60fb7, Logic-flaw
@@ -465,7 +461,6 @@
 - https://ysamm.com/?p=700, Information-disclosure
 - https://smaranchand.com.np/2021/06/flywheel-subdomain-takeover/, Subdomain-takeover
 - https://gccybermonks.com/posts/msstorebypass/, Payment-tampering
-- https://sm4rty.medium.com/stored-xss-via-invite-leading-to-mass-account-takeover-at-opera-a85ed257dd12, Stored-XSS
 - https://ertugrull.medium.com/unprivileged-user-with-read-write-permission-to-user-access-can-escalate-their-role-to-admin-a217d2d280a8, Privilege-escalation
 - https://0xbadb00da.medium.com/account-takeover-via-stored-xss-with-arbitrary-file-upload-2774ec6cff51, Insecure-file-upload
 - https://blog.oversecured.com/Why-dynamic-code-loading-could-be-dangerous-for-your-apps-a-Google-example/, Arbitrary-file-write

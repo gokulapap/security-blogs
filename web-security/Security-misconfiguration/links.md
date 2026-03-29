@@ -3,3 +3,4 @@
 - https://medium.com/@damaidec/firebase-exploit-bug-bounty-be63f4dc1e4a
 - https://www.wiz.io/blog/azure-app-service-source-code-leak
 - https://www.synacktiv.com/sites/default/files/2023-06/synacktiv-ucopia-multiple-vulnerabilities-2022.pdf
+- https://infosecwriteups.com/complete-take-over-of-cisco-unified-communications-manager-due-consecutively-misconfigurations-2a1b5ce8bd9a
