@@ -86,3 +86,4 @@
 - https://whereisk0shl.top/post/break-me-out-of-sandbox-in-old-pipe-cve-2022-22715-windows-dirty-pipe
 - https://www.cyberonesecurity.com/blog/local-privilege-escalation-discovered-in-vmware-fusion
 - https://sensepost.com/blog/2022/certpotato-using-adcs-to-privesc-from-virtual-and-network-service-accounts-to-local-system/
+- https://d3lb3.github.io/keepass_triggers_arent_dead/

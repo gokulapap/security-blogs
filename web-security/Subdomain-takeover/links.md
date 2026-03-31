@@ -63,3 +63,4 @@
 - https://publish.whoisbinit.me/amazon-ec2-dangling-dns-records-on-surf-test-xwf-internet-org
 - https://medium.com/@aniltom/https-medium-com-aniltom-from-sub-domain-takeover-to-open-redirect-b5be4906e1a4
 - https://blog.nietaanraken.nl/posts/aur-packages-expired-domains/
+- https://parkerzanta.medium.com/how-do-i-take-over-another-user-subdomain-name-worth-c66bb0c3f2f7

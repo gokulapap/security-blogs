@@ -312,3 +312,4 @@
 - https://research.nccgroup.com/2023/06/13/dynamic-linq-injection-remote-code-execution-vulnerability-cve-2023-32571/
 - https://blog.fadyothman.com/metas-sparkar/
 - https://blog.sonarsource.com/onedev-remote-code-execution/
+- https://infosecwriteups.com/how-i-hacked-into-a-bugcrowd-public-program-fcfdd4fb1b69
