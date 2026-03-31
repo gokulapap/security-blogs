@@ -126,3 +126,4 @@
 - https://infosecwriteups.com/sql-injection-in-the-http-custom-header-fd117ba1435e
 - https://infosecwriteups.com/how-i-found-multiple-sql-injections-in-5-minutes-in-bug-bounty-40155964c498
 - https://aidenpearce369.github.io/offsec/My-First-RedTeam-Engagement/
+- https://cyberguy0xd1.medium.com/my-write-up-in-hacking-ibms-administration-panel-and-getting-sqli-on-it-51404c7bee27

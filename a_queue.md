@@ -92,7 +92,6 @@
 - https://www.bitsight.com/blog/new-high-severity-vulnerability-cve-2023-29552-discovered-service-location-protocol-slp, DoS
 - https://medium.com/bugbountywriteup/uncovering-a-critical-vulnerability-my-journey-of-discovering-cve-2021-31589-a-reflected-xss-in-1e13c0aa41b0, Components-with-known-vulnerabilities
 - https://www.cyberark.com/resources/threat-research-blog/breaking-docker-named-pipes-systematically-docker-desktop-privilege-escalation-part-2, Local-Privilege-Escalation
-- https://github.com/gobysec/Weblogic/blob/main/Research%20on%20WebLogic%20After-Deserialization.md, Insecure-deserialization
 - https://material.security/blog/how-material-security-uncovered-a-vulnerability-in-gmail-api, Broken-Access-Control
 - https://www.pingsafe.com/blog/linkedin-vulnerability-delete-any-post, IDOR
 - https://starlabs.sg/advisories/23/23-2017/, SSTI
@@ -383,7 +382,6 @@
 - https://infosecwriteups.com/how-i-hacked-yandex-with-ssrf-vulnerability-e19af20ed4d, SSRF
 - https://cyberguy0xd1.medium.com/how-i-was-able-to-bypass-cloudflare-waf-for-sqli-payload-b9e7a4260026, SQL-injection
 - https://github.com/l0ggg/VMware_vCenter, LFI
-- https://cyberguy0xd1.medium.com/my-write-up-in-hacking-ibms-administration-panel-and-getting-sqli-on-it-51404c7bee27, SQL-injection
 - https://blog.sonarsource.com/nodebb-remote-code-execution-with-one-shot, RCE
 - https://sh1yo.art/post/sec-596/, Reflected-XSS
 - https://zseano.medium.com/finding-xss-on-apple-com-and-building-a-proof-of-concept-to-leak-your-pii-information-d7bc93cff2df, XSS
@@ -537,7 +535,6 @@
 - https://blog.deesee.xyz/regex/security/2020/12/27/regular-expression-injection.html, ReDoS
 - https://www.ehpus.com/post/ssti-in-google-maps, SSTI
 - https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/d-link-multiple-security-vulnerabilities-leading-to-rce/, RCE
-- https://medium.com/@3bodymo/how-i-hacked-ibm-and-got-full-access-on-many-services-ecf1dab4a054, Information-disclosure
 - https://medium.com/@vedanttekale20/story-of-the-best-vulnerability-ive-found-so-far-5e3b0e02b47e, Self-XSS
 - https://nmochea.medium.com/this-post-is-about-an-reflected-xss-that-i-found-on-opera-browser-application-which-could-have-been-39823a22045d, XSS
 - https://securitytrooper.com/en/cross-site-scripting-xss-reflected-in-one-of-the-subdomains-of-general-motorsbugbounty, Reflected-XSS
@@ -571,7 +568,6 @@
 - https://medium.com/bugbountywriteup/unhiding-the-hidden-2ef44192c10b, Client-side-enforcement-of-server-side-security
 - https://blog.oversecured.com/Oversecured-automatically-discovers-persistent-code-execution-in-the-Google-Play-Core-Library/, Arbitrary-Code-Execution
 - https://medium.com/bugbountywriteup/accessing-the-website-directly-through-its-ip-address-a-case-of-a-poorly-hidden-sql-injection-82833defbbc3, SQL-injection
-- https://medium.com/bugbountywriteup/upload-to-the-future-1fd38fd502bd, IDOR
 - https://medium.com/@mateusz.olejarka/a-perfect-duplicate-or-how-to-send-an-email-with-a-spoofed-invoices-content-66cf369bbaa3, Email-spoofing
 - https://medium.com/bugbountywriteup/fun-with-header-and-forget-password-with-a-twist-af095b426fb2, Password-reset
 - https://offensi.com/2020/08/18/how-to-contact-google-sre-dropping-a-shell-in-cloud-sql/, SQL-injection
@@ -766,7 +762,6 @@
 - https://sites.google.com/securifyinc.com/secblogs/exploitingcalendars, Authorization-flaw
 - https://georgeosterweil.com/2019-02-20-fbctf-idor/, IDOR
 - https://apapedulimu.click/multiple-stored-xss-on-tokopedia/, Stored-XSS
-- https://web.archive.org/web/20200929012457/https://www.mohamedharon.com/2019/02/souqcom-subdomain-takeover-via.html, Subdomain-takeover
 - https://gauravnarwani.com/never-stop-at-banner-grabbing/, Information-disclosure
 - https://www.linkedin.com/pulse/hacking-youtube-fun-profit-alexandru-coltuneac/, IDOR
 - https://ysamm.com/?p=214, Authorization-flaw
