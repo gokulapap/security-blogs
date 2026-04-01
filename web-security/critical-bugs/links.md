@@ -1,3 +1,4 @@
 - https://medium.com/@thefemaleprogrammer/coinbase-has-paid-out-250-000-for-finding-a-critical-bug-to-a-researcher-d69459ab4198
 - https://medium.com/@krishnadevpmelevila/i-received-a-bounty-of-60-for-finding-a-critical-bug-in-the-patient-management-system-560446c534e
 - https://medium.com/@vuk.ivanovic9000/salesforce-bug-hunting-to-critical-bug-b5da44789d3
+- https://medium.com/@arrheniuspaelongan09/critical-vulnerability-when-applying-for-a-job-otp-bypass-via-response-manipulation-69b7182a8606

@@ -313,3 +313,4 @@
 - https://blog.fadyothman.com/metas-sparkar/
 - https://blog.sonarsource.com/onedev-remote-code-execution/
 - https://infosecwriteups.com/how-i-hacked-into-a-bugcrowd-public-program-fcfdd4fb1b69
+- https://tantosec.com/blog/cve-2022-41343/
