@@ -286,3 +286,4 @@
 - https://shahjerry33.medium.com/idor-inside-the-session-storage-88af485fc899
 - https://blog.securitybreached.org/2018/09/16/idor-account-takeover-using-facebook/
 - https://medium.com/bugbountywriteup/upload-to-the-future-1fd38fd502bd
+- https://medium.com/@rupika.luhach/change-anyones-profile-picture-exploiting-idor-41369f5acf75

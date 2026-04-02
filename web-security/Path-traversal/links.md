@@ -40,3 +40,4 @@
 - https://infosecwriteups.com/its-the-little-things-breaking-an-ai-40c30ae85f37
 - https://www.trellix.com/en-us/about/newsroom/stories/research/tarfile-exploiting-the-world.html
 - https://posts.specterops.io/remote-code-execution-via-path-traversal-in-the-device-metadata-authoring-wizard-a0d5839fc54f
+- https://twitter.com/0x01alka/status/1001763583447969792

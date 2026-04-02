@@ -315,7 +315,6 @@
 - https://web.archive.org/web/20220516024454/https://medium.com/@tobydavenn/how-i-paid-for-my-holiday-with-bug-bounty-668f1f59e6e5, XSS
 - https://maxva.medium.com/how-i-got-a-lousyt-shirt-from-the-dutch-goverment-2a0d13fe7675, Old-components-with-known-vulnerabilities
 - https://blog.assetnote.io/2022/04/27/vmware-workspace-one-uem-ssrf/, SSRF
-- https://medium.com/@abdalrahman.alshammas/fuzzing-and-credentials-leakage-nice-bug-hunting-writeup-38b2e774b300, Hardcoded-credentials
 - https://systemweakness.com/unlock-any-blur-text-picture-without-membership-subscription-on-scribd-com-by-neuchi-69237776e24, Payment-bypass
 - https://shubhdeepp.medium.com/how-i-got-apple-hall-of-fame-3d86f858c05f, Content-injection
 - https://systemweakness.com/exploiting-a-file-upload-vulnerability-a-directory-traversal-attack-419308cdb059, Unrestricted-file-upload
@@ -410,7 +409,6 @@
 - https://medium.com/@mamunwhh/how-i-got-500-with-open-redirect-48fd80c82631, Open-redirect
 - https://mikekitckchan.medium.com/power-of-your-own-wordlist-fuzz-for-log-file-leads-to-information-leakage-ad46958b4729, Information-disclosure
 - https://supras.io/how-i-got-access-to-many-piis-through-a-source-code-leak/, Information-disclosure
-- https://blog.hacktivesecurity.com/index.php/2021/10/05/cve-2021-43136-formalms-the-evil-default-value-that-leads-to-authentication-bypass/, Authentication-bypass
 - https://rishuranjanofficial.medium.com/html-injection-in-itunesconnect-apple-com-3f8a898f21ee, HTML-injection
 - https://blog.tint0.com/2021/09/pinging-xmlsec.html, XSLT
 - https://dewcode.medium.com/force-browsing-bug-at-facebook-business-plan-500-bounty-73d1bb4883af, Authorization-flaw
@@ -573,7 +571,6 @@
 - https://mazinahmed.net/blog/hacking-zoom/, Information-disclosure
 - https://medium.com/@zseano/the-feature-works-as-intended-but-whats-in-the-source-d29f9401bcf6, Information-disclosure
 - https://medium.com/@DK999/apache-example-servlet-leads-to-61a2720cac20, Clickjacking
-- https://medium.com/bugbountywriteup/csrf-poc-mistake-that-broke-crucial-functions-for-the-end-user-victim-ef4fa4584ca8, Logic-flaw
 - https://www.computest.nl/en/knowledge-platform/blog/vulnerability-new-touchid-feature-iCloud-accounts-at-risk-breached/, OAuth
 - https://objective-see.com/blog/blog_0x4D.html, Local-Privilege-Escalation
 - https://medium.com/bugbountywriteup/bypassing-otp-via-reset-password-f004a29020c, OTP-bypass
@@ -783,7 +780,6 @@
 - https://blog.scrt.ch/2018/08/24/remote-code-execution-on-a-facebook-server/, LFI
 - https://mohemiv.com/all/exploiting-xxe-with-local-dtd-files/, XXE
 - https://medium.com/@sampanna/self-xss-in-indeed-com-e0c99c104cba, XSS
-- https://medium.com/@rupika.luhach/change-anyones-profile-picture-exploiting-idor-41369f5acf75, IDOR
 - https://blog.securitybreached.org/2018/12/08/how-i-was-able-to-bypass-email-verification/, Information-disclosure
 - http://zhchbin.github.io/2018/12/03/Hijack-the-JS-File-of-Uber-s-Website/, JS-file-hijacking
 - https://medium.com/@vishnu0002/instagram-multi-factor-authentication-bypass-924d963325a1, MFA-bypass
@@ -834,7 +830,6 @@
 - https://medium.com/@jonathanbouman/unvalidated-open-redirect-bol-com-b270151380e6, Open-redirect
 - https://thehackerblog.com/reading-your-emails-with-a-readwrite-chrome-extension-same-origin-policy-bypass-8-million-users-affected/index.html, SOP-bypass
 - http://www.shawarkhan.com/2018/06/getting-php-code-execution-and-leverage.html, Code-injection
-- https://twitter.com/0x01alka/status/1001763583447969792, Path-traversal
 - https://blog.witcoat.com/2018/05/30/account-takeover-and-blind-xss-go-pro-get-bugs/, IDOR
 - https://medium.com/bugbountywriteup/4500-bounty-how-i-got-lucky-99d8bc933f75, Subdomain-takeover
 - https://medium.com/@evilboyajay/stealing-money-from-one-account-to-another-account-d7c5ee68922b, Logic-flaw

@@ -192,3 +192,4 @@
 - https://medium.com/@ashokcpg/the-story-of-my-first-ever-1500-bounty-from-facebook-49eb64d26160
 - https://0xm5awy.medium.com/how-i-was-able-to-get-free-money-via-sending-negative-tokens-1ed2e0e710e0
 - http://www.tomanthony.co.uk/blog/xss-attacks-googlebot-index-manipulation/
+- https://medium.com/bugbountywriteup/csrf-poc-mistake-that-broke-crucial-functions-for-the-end-user-victim-ef4fa4584ca8
