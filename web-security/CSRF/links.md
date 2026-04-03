@@ -113,3 +113,4 @@
 - http://c0rni3sm.blogspot.com/2018/01/1800-in-less-than-hour.html
 - https://webs3c.com/t/csrf-leads-to-account-takeover-in-yahoo/93
 - https://hesec.de/posts/bbh-csrf/
+- https://medium.com/@rajeshranjan457/how-i-csrfd-my-first-bounty-a62b593d3f4d

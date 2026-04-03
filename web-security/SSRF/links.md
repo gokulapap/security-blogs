@@ -151,3 +151,4 @@
 - https://webs3c.com/t/from-nothing-to-aws-credentials/220
 - https://orca.security/resources/blog/ssrf-vulnerabilities-in-four-azure-services/
 - https://amineaboud.medium.com/10000-facebook-ssrf-bug-bounty-402bd21e58e5
+- https://medium.com/@BreizhZeroDayHunters/when-its-not-only-about-a-kubernetes-cve-8f6b448eafa8

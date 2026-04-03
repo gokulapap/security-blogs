@@ -14,3 +14,5 @@
 - https://skylightcyber.com/2023/02/09/a-salt-attacking-saltstack/
 - http://ha.cker.info/exploitation-of-server-side-template-injection-with-craft-cms-plguin-seomatic/
 - https://blog.mert.ninja/freemarker-ssti-on-lithium-cms/
+- https://blog.onsec.io/when-youre-so-bored-you-start-debugging-someone-elses-code/
+- https://hateshape.github.io/general/2019/09/06/SuperGlamorousReconwithIntendedFunctionalities.html
