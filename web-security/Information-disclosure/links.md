@@ -315,3 +315,5 @@
 - https://embracethered.com/blog/posts/2020/mozilla-bug-bounty-credential-hunt-phabricator-token/
 - https://medium.com/@aa.pietruczuk/improper-error-handling-leads-to-exposing-internal-tokens-3355d6b43a32
 - https://medium.com/@3bodymo/how-i-hacked-ibm-and-got-full-access-on-many-services-ecf1dab4a054
+- https://philippeharewood.com/access-to-crowdtangle-deletion-framework-api/
+- https://alaa.blog/2020/06/how-did-i-found-information-disclosure-on-facebook-writeup/

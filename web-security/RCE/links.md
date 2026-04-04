@@ -314,3 +314,4 @@
 - https://blog.sonarsource.com/onedev-remote-code-execution/
 - https://infosecwriteups.com/how-i-hacked-into-a-bugcrowd-public-program-fcfdd4fb1b69
 - https://tantosec.com/blog/cve-2022-41343/
+- https://foxglovesecurity.com/2016/10/14/hacking-jasperreports-the-hidden-shell-feature/

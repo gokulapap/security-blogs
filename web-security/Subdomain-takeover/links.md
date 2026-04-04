@@ -65,3 +65,4 @@
 - https://blog.nietaanraken.nl/posts/aur-packages-expired-domains/
 - https://parkerzanta.medium.com/how-do-i-take-over-another-user-subdomain-name-worth-c66bb0c3f2f7
 - https://web.archive.org/web/20200929012457/https://www.mohamedharon.com/2019/02/souqcom-subdomain-takeover-via.html
+- https://blog.assetnote.io/2020/06/29/subdomain-takeover-to-account-takeover/

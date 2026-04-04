@@ -43,3 +43,4 @@
 - https://web.archive.org/web/20180827025910/http://www.paulosyibelo.com/2017/07/coinbase-angularjs-dom-xss-via-kiteworks.html
 - https://medium.com/@80vul/from-http-domain-to-res-domain-xss-by-using-ie-adobes-pdf-activex-plugin-9f2a72a87aff
 - https://labs.detectify.com/2017/07/27/how-we-invented-the-tesla-dom-doom-xss/
+- https://web-in-security.blogspot.com/2021/02/security-and-privacy-of-social-logins-part2.html
