@@ -73,3 +73,4 @@
 - https://tamirzb.com/attacking-android-kernel-using-qualcomm-trustzone
 - https://www.zerodayinitiative.com/blog/2022/1/25/cve-2021-44790-code-execution-on-apache-via-an-integer-underflow
 - https://securityforeveryone.com/blog/google-chrome-zero-day-vulnerability-cve-2021-30573
+- https://labs.taszk.io/articles/post/unziploc/

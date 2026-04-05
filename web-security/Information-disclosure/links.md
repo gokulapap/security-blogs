@@ -317,3 +317,4 @@
 - https://medium.com/@3bodymo/how-i-hacked-ibm-and-got-full-access-on-many-services-ecf1dab4a054
 - https://philippeharewood.com/access-to-crowdtangle-deletion-framework-api/
 - https://alaa.blog/2020/06/how-did-i-found-information-disclosure-on-facebook-writeup/
+- https://www.amolbaikar.com/disclose-contact_email-of-any-facebook-application/
