@@ -134,3 +134,4 @@
 - https://vbharad.medium.com/stored-xss-in-icloud-com-5000-998b8c4b2075
 - https://medium.com/bugbountywriteup/stored-xss-in-bug-bounty-13c08e6f5636
 - https://sm4rty.medium.com/stored-xss-via-invite-leading-to-mass-account-takeover-at-opera-a85ed257dd12
+- https://dewcode.medium.com/how-i-found-29-stored-xss-in-modern-framework-1cfe60a107a0

@@ -41,3 +41,4 @@
 - https://www.trellix.com/en-us/about/newsroom/stories/research/tarfile-exploiting-the-world.html
 - https://posts.specterops.io/remote-code-execution-via-path-traversal-in-the-device-metadata-authoring-wizard-a0d5839fc54f
 - https://twitter.com/0x01alka/status/1001763583447969792
+- https://blog.trailofbits.com/2023/02/21/vscode-extension-escape-vulnerability/

@@ -153,3 +153,4 @@
 - https://amineaboud.medium.com/10000-facebook-ssrf-bug-bounty-402bd21e58e5
 - https://medium.com/@BreizhZeroDayHunters/when-its-not-only-about-a-kubernetes-cve-8f6b448eafa8
 - https://infosecwriteups.com/how-i-hacked-yandex-with-ssrf-vulnerability-e19af20ed4d
+- https://crypt0g30rgy.github.io/post/SSRFtoDos
