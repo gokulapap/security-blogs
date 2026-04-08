@@ -7,3 +7,4 @@
 - https://zetc0de.github.io/post/authenticated-rce-ssrf-wondercms/
 - https://dos.sh/blog/2017/6/21/yahoo-small-business-luminate-and-the-not-so-secret-keys
 - https://mike-n1.github.io/SSRF_P4toP2
+- https://web.archive.org/web/20190515123715/https://medium.com/@0ktavandi/blind-ssrf-in-stripe-com-due-to-sentry-misconfiguration-60ebb6a40b5

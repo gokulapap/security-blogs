@@ -8,3 +8,4 @@
 - https://www.vulnano.com/2021/09/facebook-messenger-for-macos-contained.html
 - https://m7arm4n.medium.com/default-credentials-on-sony-swag-time-8e35681ad39e
 - https://medium.com/@abdalrahman.alshammas/fuzzing-and-credentials-leakage-nice-bug-hunting-writeup-38b2e774b300
+- https://omespino.com/write-up-finapi-open-banking-api-oauth-credentials-exposed-in-plain-text-in-android-app/

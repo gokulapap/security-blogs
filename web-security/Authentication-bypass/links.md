@@ -81,3 +81,4 @@
 - https://blog.viettelcybersecurity.com/cve-2022-0540-authentication-bypass-in-seraph/
 - https://medium.com/@Vibhurushi_Chotaliya/password-bypass-and-something-else-cded0847c9df
 - https://blog.hacktivesecurity.com/index.php/2021/10/05/cve-2021-43136-formalms-the-evil-default-value-that-leads-to-authentication-bypass/
+- https://medium.com/@yassergersy/access-to-staging-environment-via-user-agent-string-23470546577f

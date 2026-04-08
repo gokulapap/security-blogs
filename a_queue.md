@@ -313,7 +313,6 @@
 - https://securecloud.blog/2022/04/09/msrc-join-security-research-write-up-azure-ad-consent-bypass-disclosure-with-kim-jamia-q1-2022/, Authorization-flaw
 - https://tarekbouali.com/posts/how-i-hacked-one-of-the-biggest-airlines-group-of-the-world/, IDOR
 - https://ph-hitachi.medium.com/view-friends-list-of-any-users-using-view-as-facebook-bug-bounty-edeb6af5640b, Logic-flaw
-- https://omespino.com/write-up-finapi-open-banking-api-oauth-credentials-exposed-in-plain-text-in-android-app/, Hardcoded-credentials
 - https://blog.relyze.com/2022/03/cve-2022-27643-netgear-r6700v3-upnpd.html, Memory-corruption
 - https://janmuhammadzaidi.medium.com/how-i-bypassed-403-forbidden-domain-using-a-simple-trick-c2d538de04b8, 403-bypass
 - https://web.archive.org/web/20220405093345/https://pwnsec.ninja/2022/03/26/deleting-account-via-support-ticket/, IDOR
@@ -511,7 +510,6 @@
 - https://blog.cybercastle.io/weblogic-remote-code-execution-exploiting-cve-2019-2725/, RCE
 - https://www.darabi.me/2020/12/create-invisible-post-on-any-facebook.html, IDOR
 - https://ashketchum.medium.com/blind-xss-in-google-analytics-admin-panel-3133-70-2185d1cce82a, Blind-XSS
-- https://krevetk0.medium.com/10-000-for-a-vulnerability-that-doesnt-exist-9dbc63684e94, Path-traversal
 - https://savebreach.com/facebook-page-admin-identity-disclosure-through-document-edit-history/, Information-disclosure
 - https://blog.deesee.xyz/regex/security/2020/12/27/regular-expression-injection.html, ReDoS
 - https://www.ehpus.com/post/ssti-in-google-maps, SSTI
@@ -519,7 +517,6 @@
 - https://medium.com/@vedanttekale20/story-of-the-best-vulnerability-ive-found-so-far-5e3b0e02b47e, Self-XSS
 - https://nmochea.medium.com/this-post-is-about-an-reflected-xss-that-i-found-on-opera-browser-application-which-could-have-been-39823a22045d, XSS
 - https://securitytrooper.com/en/cross-site-scripting-xss-reflected-in-one-of-the-subdomains-of-general-motorsbugbounty, Reflected-XSS
-- https://ahmdhalabi.medium.com/chaining-multiple-requests-to-achieve-rate-limiting-vulnerabilities-96c1e8365c06, Rate-limiting-bypass
 - https://cirius.medium.com/escalating-xss-to-account-takeover-ffde08624937, Reflected-XSS
 - https://ozguralp.medium.com/turning-blind-error-based-sql-injection-into-an-exploitable-boolean-one-85d6be3ca23b, SQL-injection
 - https://medium.com/@prakashpanta1999/replying-comments-on-someones-livestream-from-page-is-posted-as-personal-identity-5fe79ef78b28, Logic-flaw
@@ -707,7 +704,6 @@
 - https://medium.com/@navne3t/a-base64-encoded-parameter-c6fb6b177d68, HTML-injection
 - https://medium.com/@baibhavanandjha/bypassing-instagrams-stories-restriction-5936f8a4f079, Logic-flaw
 - https://medium.com/@momenbasel/from-parameter-pollution-to-xss-d095e13be060, HTTP-parameter-pollution
-- https://web.archive.org/web/20190515123715/https://medium.com/@0ktavandi/blind-ssrf-in-stripe-com-due-to-sentry-misconfiguration-60ebb6a40b5, Blind-SSRF
 - https://medium.com/a-bugz-life/4x-csrfs-chained-for-company-account-takeover-f9fada416986, CSRF
 - https://utkusen.com/blog/why-you-shouldnt-use-password-manager-for-linode.html, Account-takeover
 - https://baibhavjha.com.np/blogs/instagramstory/, Authorization-flaw
@@ -775,7 +771,6 @@
 - https://medium.com/@notsoshant/a-possibility-of-account-takeover-in-medium-8d950e547639, Account-takeover
 - https://medium.com/bugbountywriteup/add-comment-on-a-private-oculus-developer-bug-report-93f35bc80b2c, IDOR
 - https://blog.harshjaiswal.com/path-traversal-while-uploading-results-in-rce, Path-traversal
-- https://medium.com/@yassergersy/access-to-staging-environment-via-user-agent-string-23470546577f, Authentication-bypass
 - https://jonbottarini.com/2018/10/09/get-as-image-function-pulls-any-insights-nrql-data-from-any-new-relic-account-idor/, IDOR
 - https://medium.com/bugbountywriteup/make-any-unit-in-facebook-groups-undeletable-efb68e26adb9, Logic-flaw
 - https://medium.com/@raushanraj_65039/clickjacking-in-google-docs-and-voice-typing-feature-c481d00b020a, Clickjacking
