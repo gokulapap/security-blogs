@@ -318,3 +318,4 @@
 - https://philippeharewood.com/access-to-crowdtangle-deletion-framework-api/
 - https://alaa.blog/2020/06/how-did-i-found-information-disclosure-on-facebook-writeup/
 - https://www.amolbaikar.com/disclose-contact_email-of-any-facebook-application/
+- https://supras.io/how-i-got-access-to-many-piis-through-a-source-code-leak/

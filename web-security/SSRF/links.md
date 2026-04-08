@@ -154,3 +154,5 @@
 - https://medium.com/@BreizhZeroDayHunters/when-its-not-only-about-a-kubernetes-cve-8f6b448eafa8
 - https://infosecwriteups.com/how-i-hacked-yandex-with-ssrf-vulnerability-e19af20ed4d
 - https://crypt0g30rgy.github.io/post/SSRFtoDos
+- https://medium.com/@tungpun/from-ssrf-to-local-file-disclosure-58962cdc589f
+- https://geleta.eu/2019/my-first-ssrf-using-dns-rebinfing/

@@ -1,0 +1,1 @@
+- https://blog.tint0.com/2021/09/pinging-xmlsec.html
