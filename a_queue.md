@@ -9,7 +9,6 @@
 - https://medium.com/@ryuukhagetsu/how-i-get-bounty-from-takeover-account-ed17cd838b2a, ATO
 - https://medium.com/@nav1n/how-i-got-owned-a-multi-billion-dollar-retailers-mysql-databases-using-simple-sql-injection-30f8b0dfd9ce, sql-injection
 - https://medium.com/@s3c/how-i-hacked-world-wide-tiktok-users-24e794d310d2, journey
-- https://medium.com/@rajeshranjan457/how-i-was-able-to-regain-access-to-account-deleted-by-admin-leading-to-a2c29025f8cd, journey
 - https://medium.com/@terjanq/clobbering-the-clobbered-advanced-dom-clobbering-8443547ebe94, misc
 - https://medium.com/@notifybugme/how-i-was-able-find-mass-leaked-aws-s3-bucket-from-js-file-6064a5c247f8, info-disclosure
 - https://medium.com/@toxglot/hacking-a-company-from-a-phone-478bbfed04c8, journey
@@ -47,7 +46,6 @@
 - https://blog.assetnote.io/2023/07/22/pre-auth-rce-metabase/, RCE
 - https://blog.qualys.com/vulnerabilities-threat-research/2023/07/19/cve-2023-38408-remote-code-execution-in-opensshs-forwarded-ssh-agent, RCE
 - https://kuldeep.io/posts/escalating-privileges-with-ssrf/, SSRF
-- https://matan-h.com/one-lfi-bypass-to-rule-them-all-using-base64/, LFI
 - https://www.sonarsource.com/blog/a-twist-in-the-code-openmeetings-vulnerabilities-through-unexpected-application-state/, Account-takeover
 - https://www.trustedsec.com/blog/modeling-malicious-code-hacking-in-3d/, Phishing
 - https://www.rapid7.com/blog/post/2023/07/11/cve-2023-29298-adobe-coldfusion-access-control-bypass/, Broken-Access-Control
@@ -627,7 +625,6 @@
 - https://medium.com/a-bugz-life/exploiting-an-ssrf-trials-and-tribulations-14c5d8dbd69a, SSRF
 - https://alexbakker.me/post/mysterious-google-titan-m-bug-cve-2019-9465.html, Cryptographic-issues
 - https://medium.com/@bhaveshthakur2015/account-hijack-using-authorization-bypass-which-made-me-richer-by-ba9dace72682, Account-takeover
-- https://ysamm.com/?p=379, CSRF
 - https://web.archive.org/web/20200505142429/https://medium.com/@godofdarkness.msf/reflected-xss-in-at-t-7f1bdd10d8f7, Reflected-XSS
 - https://medium.com/@adonkidz7/my-first-bounty-from-google-d9f1f3f5787a, Self-XSS
 - https://www.acunetix.com/blog/web-security-zone/xss-google-acunetix/, XSS
@@ -796,7 +793,6 @@
 - https://blog.bentkowski.info/2018/07/vulnerability-in-hangouts-chat-aka-how.html, Open-redirect
 - https://opnsec.com/2018/07/into-the-borg-ssrf-inside-google-production-network/, SSRF
 - https://www.ambionics.io/blog/prestashop-privilege-escalation, Privilege-escalation
-- https://medium.com/@logicbomb_1/bugbounty-compromising-user-account-how-i-was-able-to-compromise-user-account-via-http-4288068b901f, HTTP-parameter-pollution
 - https://medium.com/@yassergersy/account-take-over-via-reset-password-f2e9d887bce1, Password-reset
 - https://medium.com/bugbountywriteup/responsible-disclosure-how-i-could-have-booked-movie-tickets-through-other-user-accounts-2db26a037b4c, Password-reset
 - https://medium.com/@jonathanbouman/unvalidated-open-redirect-bol-com-b270151380e6, Open-redirect
@@ -824,7 +820,6 @@
 - https://www.josipfranjkovic.com/blog/facebook-partners-portal-account-takeover, Information-disclosure
 - https://blog.intothesymmetry.com/2018/02/bug-bounty-left-over-and-rant-part-iii.html, OAuth
 - https://medium.com/@pig.wig45/json-csrf-attack-on-a-social-networking-site-hackerone-platform-3d7aed3239b0, CSRF
-- http://blog.jr0ch17.com/2018/No-RCE-then-SSH-to-the-box/, LFI
 - http://omespino.com/write-up-file-disclosure-via-ds_store-file-macos, Directory-listing
 - https://emtunc.org/blog/01/2018/research-misconfigured-jenkins-servers/, Information-disclosure
 - https://blog.ibrahimdraidia.com/xss-via-angularjs-template-injection_hostinger/, Reflected-XSS
