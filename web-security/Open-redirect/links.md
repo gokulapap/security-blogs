@@ -88,3 +88,4 @@
 - https://medium.com/sourav-sahana/from-post-to-get-open-redirect-e91f4f4206a
 - https://emtunc.org/blog/03/2017/bypassing-safe-links-exchange-online-advanced-threat-protection/
 - http://blog.h4rsh4d.com/2022/08/open-redirect-bypass.html
+- https://www.hackerinside.me/2019/01/a-tricky-open-redirect.html

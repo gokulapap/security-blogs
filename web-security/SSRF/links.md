@@ -156,3 +156,4 @@
 - https://crypt0g30rgy.github.io/post/SSRFtoDos
 - https://medium.com/@tungpun/from-ssrf-to-local-file-disclosure-58962cdc589f
 - https://geleta.eu/2019/my-first-ssrf-using-dns-rebinfing/
+- https://medium.com/@tobydavenn/bypassing-ssrf-protections-45e5e3ac31e9

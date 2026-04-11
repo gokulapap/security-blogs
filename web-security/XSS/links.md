@@ -330,3 +330,4 @@
 - https://medium.com/@rezaduty/play-with-google-twitter-apple-dell-a90777faa779
 - https://guptashubham.com/xss-on-flickr/
 - https://gccybermonks.com/posts/mxss/
+- https://buer.haus/2017/03/08/airbnb-when-bypassing-json-encoding-xss-filter-waf-csp-and-auditor-turns-into-eight-vulnerabilities/
