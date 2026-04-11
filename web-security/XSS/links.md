@@ -331,3 +331,5 @@
 - https://guptashubham.com/xss-on-flickr/
 - https://gccybermonks.com/posts/mxss/
 - https://buer.haus/2017/03/08/airbnb-when-bypassing-json-encoding-xss-filter-waf-csp-and-auditor-turns-into-eight-vulnerabilities/
+- https://palant.info/2021/12/20/yes-fun-browser-extensions-can-have-vulnerabilities-too/
+- https://n45ht.or.id/post/reflected-dom-xss-on-domainesia/en

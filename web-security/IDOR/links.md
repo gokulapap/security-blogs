@@ -287,3 +287,4 @@
 - https://blog.securitybreached.org/2018/09/16/idor-account-takeover-using-facebook/
 - https://medium.com/bugbountywriteup/upload-to-the-future-1fd38fd502bd
 - https://medium.com/@rupika.luhach/change-anyones-profile-picture-exploiting-idor-41369f5acf75
+- https://medium.com/bugbountywriteup/how-i-got-listed-in-microsoft-hall-of-fame-8f96ca4535c2

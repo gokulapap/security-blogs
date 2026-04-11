@@ -129,3 +129,4 @@
 - https://sites.google.com/site/testsitehacking/10k-host-header
 - https://websecblog.com/vulns/leoexpress-personal-data/
 - https://medium.com/@sushiwushi2/hijacking-shared-report-links-in-google-data-studio-75eab320c391
+- https://ysamm.com/?p=404
