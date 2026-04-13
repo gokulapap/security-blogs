@@ -130,3 +130,4 @@
 - https://websecblog.com/vulns/leoexpress-personal-data/
 - https://medium.com/@sushiwushi2/hijacking-shared-report-links-in-google-data-studio-75eab320c391
 - https://ysamm.com/?p=404
+- https://medium.com/@ciph3r7r0ll/chaining-improper-authorization-to-race-condition-to-harvest-credit-card-details-a-bug-bounty-effe6e0f5076

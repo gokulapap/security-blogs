@@ -119,3 +119,4 @@
 - https://medium.com/@vneelam609/5000-account-takeover-bf7749746981
 - https://medium.com/@ch3tanbug/how-i-was-able-to-change-password-of-any-corporate-user-c68b9509840
 - https://medium.com/bugbountywriteup/token-brute-force-to-account-take-over-to-privilege-escalation-to-organization-take-over-650d14c7ce7f
+- https://medium.com/@rohitcoder/user-account-takeover-password-change-nice-catch-2293f4d272b2

@@ -319,3 +319,4 @@
 - https://alaa.blog/2020/06/how-did-i-found-information-disclosure-on-facebook-writeup/
 - https://www.amolbaikar.com/disclose-contact_email-of-any-facebook-application/
 - https://supras.io/how-i-got-access-to-many-piis-through-a-source-code-leak/
+- https://praseudo.com/sensitive-info-leak-in-curve-app-bug-bounty/
