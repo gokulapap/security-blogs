@@ -87,3 +87,4 @@
 - https://www.cyberonesecurity.com/blog/local-privilege-escalation-discovered-in-vmware-fusion
 - https://sensepost.com/blog/2022/certpotato-using-adcs-to-privesc-from-virtual-and-network-service-accounts-to-local-system/
 - https://d3lb3.github.io/keepass_triggers_arent_dead/
+- https://github.com/blackarrowsec/redteam-research/tree/master/LPE%20via%20StorSvc

@@ -320,3 +320,4 @@
 - https://www.amolbaikar.com/disclose-contact_email-of-any-facebook-application/
 - https://supras.io/how-i-got-access-to-many-piis-through-a-source-code-leak/
 - https://praseudo.com/sensitive-info-leak-in-curve-app-bug-bounty/
+- https://lokeshdlk77.medium.com/reveal-the-page-admin-that-uploaded-a-video-on-the-page-in-comment-section-9760e4a31453

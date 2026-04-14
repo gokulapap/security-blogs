@@ -316,3 +316,4 @@
 - https://tantosec.com/blog/cve-2022-41343/
 - https://foxglovesecurity.com/2016/10/14/hacking-jasperreports-the-hidden-shell-feature/
 - https://www.oxeye.io/blog/remote-code-execution-in-spotifys-backstage
+- https://infosecwriteups.com/how-browsers-save-as-feature-might-lead-to-code-execution-cve-2022-45415-ebaa8711692
