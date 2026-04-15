@@ -2,3 +2,4 @@
 - https://medium.com/@Dhamuharker/0-day-vulnerability-uri-normalization-issue-access-the-internal-tomcat-server-8b99d9790519
 - https://medium.com/@apkash8/hunting-and-exploiting-apache-ghostcat-b7446ef83e74
 - https://medium.com/@that-odd-introvert/django-security-xss-a7722cff2326
+- https://medium.com/@basakyilmaz82/log4j-vulnerability-485559065af6

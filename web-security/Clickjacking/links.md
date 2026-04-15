@@ -29,3 +29,4 @@
 - https://apapedulimu.click/clickjacking-on-google-myaccount-worth-7500/
 - https://spidersec.ninja/Youtube-X-frame-options-Bypass-Vulnerability
 - https://medium.com/@osamaavvan/account-taker-with-clickjacking-ace744842ec3
+- https://medium.com/@arbazhussain/ctrl-d5ffc7b0640e

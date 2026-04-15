@@ -22,3 +22,4 @@
 - https://habr.com/en/post/580582/
 - https://pseudorandom.resistant.tech/disclosing-security-and-privacy-issues-in-thunderbird.html
 - https://wojciechregula.blog/post/change-home-directory-and-bypass-tcc-aka-cve-2020-27937/
+- https://krausefx.com/blog/ios-privacy-instagram-and-facebook-can-track-anything-you-do-on-any-website-in-their-in-app-browser
