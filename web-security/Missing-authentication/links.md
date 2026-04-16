@@ -17,3 +17,4 @@
 - https://falcon319.medium.com/my-findings-on-hack-u-s-program-43b692a5c057
 - https://medium.com/@lovely.goyal1998/story-of-5000-bounty-for-grafana-panel-access-in-apple-89c93ab4486f
 - https://medium.com/@r99tiq/how-i-hacked-basf-company-3b75ef39c74f
+- https://letshack.xyz/offensive/web-application/legally-hacking-a-government-satellite

@@ -26,3 +26,4 @@
 - https://onekey.com/blog/advisory-cisco-small-business-rv-series-routers-web-filter-database-update-command-injection-vulnerability/
 - https://onekey.com/blog/security-advisory-asus-m25-nas-vulnerability/
 - https://dylankatz.com/digging-in-to-scp-command-injection/
+- https://bhashit.in/?p=117
