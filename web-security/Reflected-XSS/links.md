@@ -114,3 +114,4 @@
 - https://blog.witcoat.com/2018/05/30/xss-on-bugcrowd-and-so-many-other-websites-main-domain/
 - https://gauravnarwani.com/cookie-worth-a-fortune/
 - https://web.archive.org/web/20200807155244/https://vict0ni.me/double-url-encoding-xss/
+- https://blog.it-securityguard.com/bugbounty-reflected-cross-site-scripting-billmelater/
