@@ -334,3 +334,5 @@
 - https://palant.info/2021/12/20/yes-fun-browser-extensions-can-have-vulnerabilities-too/
 - https://n45ht.or.id/post/reflected-dom-xss-on-domainesia/en
 - https://mhmdiaa.com/blog/exploiting-html-imports/
+- https://web.archive.org/web/20200920204426/https://medium.com/@adeshkolte/microsoft-sharepoints-follow-feature-xss-cve-2017-8514-adesh-kolte-d78d701cd064
+- https://monke.ie/xss-by-javascript-overriding/

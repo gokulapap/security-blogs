@@ -169,7 +169,6 @@
 - https://infosecwriteups.com/unique-rate-limit-bypass-worth-1800-6e2947c7d972, Rate-limiting-bypass
 - https://attackshipsonfi.re/p/exploiting-cors-misconfigurations, CORS-misconfiguration
 - https://rashahacks.com/directory-enumeration-guide/, 40x-bypass
-- https://saligrama.io/blog/post/dodging-oauth-origin-restrictions/, OAuth
 - https://www.zerodayinitiative.com/blog/2022/11/22/cve-2022-40300-sql-injection-in-manageengine-privileged-access-management, SQL-injection
 - https://labs.guard.io/xss-vulnerability-found-in-connectwise-remote-access-platform-with-great-potential-for-misuse-by-scammers-a0773da2aacf, Stored-XSS
 - https://basu-banakar.medium.com/ssrf-via-dns-rebinding-cve-2022-4096-b7bf75928bb2, SSRF
@@ -229,7 +228,6 @@
 - https://www.bugbounty.info/2022/08/never-underestimate-power-of-open.html, Open-redirect
 - https://medium.com/@faique/account-takeover-worth-1000-611452063cf, Account-takeover
 - https://www.microsoft.com/security/blog/2022/08/19/uncovering-a-chromeos-remote-memory-corruption-vulnerability/, Memory-corruption
-- https://monke.ie/xss-by-javascript-overriding/, XSS
 - https://blog.78researchlab.com/b9c80d00-d935-43b1-8805-969000df301d, DoS
 - https://medium.com/@tobydavenn/dom-xss-on-a-gov-domain-bypassing-waf-93daec67fda9, DOM-XSS
 - https://medium.com/@ashlyn.lau_17206/2fa-bypass-do-re-mi-cfcfc3775d2e, MFA-bypass
@@ -253,7 +251,6 @@
 - https://medium.com/tenable-techblog/logging-passwords-in-plaintext-in-azure-arc-2f94cb046a, Information-disclosure
 - https://infosecwriteups.com/ffuf-ing-recon-1ee4e79b3256, vHost-misconfiguration
 - https://medium.com/@rajqureshi07/a-story-of-my-first-bug-bounty-dda320db78d9, Information-disclosure
-- https://medium.com/@anjaneyulukanakatla1996/business-logic-error-6922ba75cad8, Logic-flaw
 - https://medium.com/tenable-techblog/microsoft-azure-site-recovery-dll-hijacking-cd8cc34ef80c, DLL-Hijacking
 - https://blog.lightspin.io/exploiting-eks-authentication-vulnerability-in-aws-iam-authenticator, Authentication-flaw
 - https://bloggerrando.blogspot.com/2022/07/09-1.html, XSS
@@ -678,7 +675,6 @@
 - https://soroush.secproject.com/blog/2019/04/yet-other-examples-of-abusing-csrf-in-logout/, CSRF
 - https://rpadovani.com/gitlab-responsible-disclosure, Authorization-flaw
 - https://medium.com/@kunal94/web-cache-deception-to-api-endpoint-attack-using-cached-token-header-b01a604a5ccd, Web-cache-deception
-- https://web.archive.org/web/20200929013706/https://www.mohamedharon.com/2019/04/apache-strust-rce.html, RCE
 - https://medium.com/@mrnikhilsri/unauthenticated-account-takeover-through-http-leak-33386bb0ba0b, HTML-injection
 - https://www.rcesecurity.com/2019/04/dell-kace-k1000-remote-code-execution-the-story-of-bug-k1-18652/, RCE
 - https://medium.com/@ritishkumarsingh/https-medium-com-ritishkumarsingh-facebook-vulnerability-hiding-from-facebook-page-admin-in-hacked-workflow-86f366f183c6, Logic-flaw
@@ -793,7 +789,6 @@
 - https://emtunc.org/blog/01/2018/research-misconfigured-jenkins-servers/, Information-disclosure
 - https://blog.ibrahimdraidia.com/xss-via-angularjs-template-injection_hostinger/, Reflected-XSS
 - https://blog.securitybreached.org/2018/02/04/hunting-insecure-direct-object-reference-vulnerabilities-for-fun-and-profit-part-1/, IDOR
-- https://web.archive.org/web/20200920204426/https://medium.com/@adeshkolte/microsoft-sharepoints-follow-feature-xss-cve-2017-8514-adesh-kolte-d78d701cd064, XSS
 - https://bhavukjain.com/blog/2017/12/20/facebook-google-login-misconfig/, Account-takeover
 - https://blog.securitybreached.org/2017/12/19/unrestricted-file-upload-to-rce-bug-bounty-poc/, RCE
 - https://corben.io/blog/17-12-17-hackertarget, SSRF
