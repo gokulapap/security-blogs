@@ -319,3 +319,4 @@
 - https://infosecwriteups.com/how-browsers-save-as-feature-might-lead-to-code-execution-cve-2022-45415-ebaa8711692
 - https://3sjay.github.io/2023/01/06/pandoraFMS-Pre-Auth-RCE.html
 - https://web.archive.org/web/20200929013706/https://www.mohamedharon.com/2019/04/apache-strust-rce.html
+- https://web.archive.org/web/20210620102348/https://ipanda.co.in/blog1.html

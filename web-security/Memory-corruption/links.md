@@ -74,3 +74,4 @@
 - https://www.zerodayinitiative.com/blog/2022/1/25/cve-2021-44790-code-execution-on-apache-via-an-integer-underflow
 - https://securityforeveryone.com/blog/google-chrome-zero-day-vulnerability-cve-2021-30573
 - https://labs.taszk.io/articles/post/unziploc/
+- https://www.zscaler.com/blogs/security-research/analysis-adobe-acrobat-reader-javascript-docprint-use-after-free
