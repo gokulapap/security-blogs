@@ -2,3 +2,4 @@
 - https://medium.com/@amnotacat/log4shell-in-google-1337-00-144684269bf8
 - https://medium.com/@pranav-gajjar/how-did-i-find-log4j-vulnerability-via-static-code-analysis-and-received-bounty-94f4d86cea88
 - https://snapsec.co/blog/Log4shell-on-agorapulse/
+- https://infosecwriteups.com/how-did-i-found-rce-on-shareit-which-rewarded-bounty-7d4196bf1b52

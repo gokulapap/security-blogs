@@ -114,7 +114,6 @@
 - https://www.permasecure.io/2023/03/03/how-your-nfts-could-have-been-stolen-in-just-one-click/, postMessage
 - https://vijetareigns.medium.com/email-verification-bypass-worth-cbb65a68a34f, Email-verification-bypass
 - https://medium.com/@kushjain0107/how-simple-idor-impacted-the-data-of-thousands-of-customers-of-an-indian-automotive-giant-fdbd2ef1c2c6, Account-takeover
-- https://infosecwriteups.com/how-did-i-found-rce-on-shareit-which-rewarded-bounty-7d4196bf1b52, Log4shell
 - https://www.synacktiv.com/sites/default/files/2023-02/Synacktiv-IBM-TWS-CVE-2022-38389.pdf, XXE
 - https://m3ez.medium.com/how-i-found-dom-based-xss-on-microsoft-msrc-and-how-they-fixed-it-8b71a6020c82, DOM-XSS
 - https://github.blog/2023-02-23-the-code-that-wasnt-there-reading-memory-on-an-android-device-by-accident/, Kernel-hacking
@@ -462,7 +461,6 @@
 - https://ysamm.com/?p=621, Authorization-flaw
 - https://ysamm.com/?p=625, Open-redirect
 - https://ysamm.com/?p=613, Information-disclosure
-- https://samcurry.net/hacking-chesscom/, Reflected-XSS
 - https://www.inputzero.io/2020/12/telegram-privacy-fails-again.html, Privacy-issue
 - https://servicenger.com/blog/mobile/sending-ephemeral-message-to-any-facebook-user/, IDOR
 - https://thevillagehacker.medium.com/reflected-xss-on-a-public-program-e8c0416daca1, Reflected-XSS
@@ -550,7 +548,6 @@
 - https://fadhilthomas.github.io/post/bug-bounty-tokopedia-03/, IDOR
 - https://ysamm.com/?p=479, Information-disclosure
 - https://infosecwriteups.com/story-of-a-2-5k-bounty-ssrf-on-zimbra-led-to-dump-all-credentials-in-clear-text-6fe826005ccc, SSRF
-- https://0xsha.io/posts/zombievpn-breaking-that-internet-security, RCE
 - https://web.archive.org/web/20200627125016/https://medium.com/@s3c/hacked-worldwide-zoom-users-fceb31868c2d, OAuth
 - https://web.archive.org/web/20200626065913/https://medium.com/@saugatpokharel/able-to-create-hidden-comment-by-blocking-an-admin-facebook-bug-bounty-2020-c62bd10712f, Logic-flaw
 - https://medium.com/@mase289/a-tale-of-my-first-ever-full-ssrf-bug-4fe71a76e9c4, SSRF
@@ -559,7 +556,6 @@
 - https://medium.com/@abireena2002/how-i-managed-to-escalate-privilege-as-admin-94b8dc910d14, Lack-of-rate-limiting
 - https://ysamm.com/?p=460, Privilege-escalation
 - https://medium.com/@mudassirsharief58/hunt-for-sql-injection-the-smart-way-db85243a4e90, SQL-injection
-- https://medium.com/@amyrahm786/story-of-blind-sql-with-a-typo-error-43a21913c8d, SQL-injection
 - https://kb.cert.org/vuls/id/636397, DoS
 - https://research.securitum.com/the-curious-case-of-copy-paste/, XSS
 - https://medium.com/bugbountywriteup/how-i-leveraged-an-interesting-csrf-vulnerability-to-turn-self-xss-into-a-persistent-attack-b780824042d2, Self-XSS
@@ -768,7 +764,6 @@
 - https://medium.com/@vis_hacker/how-i-got-stored-xss-using-file-upload-5c33e19df51e, Stored-XSS
 - https://medium.com/bugbountywriteup/bypassing-captcha-like-a-boss-d0edcc3a1c1, Captcha-bypass
 - https://medium.com/bugbountywriteup/piercing-the-veil-server-side-request-forgery-to-niprnet-access-c358fd5e249a, SSRF
-- https://web.archive.org/web/20200929003337/https://www.mohamedharon.com/2018/04/reflected-xss-on-wwwzomatocom-by.html, Reflected-XSS
 - https://medium.com/@hisham.mir/exploiting-a-single-parameter-6f4ba2acf523, SSRF
 - https://medium.com/@logicbomb_1/bugbounty-your-details-are-saved-into-my-account-user-info-disclosure-vulnerability-in-practo-fe36930a1246, IDOR
 - http://www.tomanthony.co.uk/blog/google-xml-sitemap-auth-bypass-black-hat-seo-bug-bounty/, Logic-flaw

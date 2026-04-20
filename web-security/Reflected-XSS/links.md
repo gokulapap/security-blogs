@@ -115,3 +115,5 @@
 - https://gauravnarwani.com/cookie-worth-a-fortune/
 - https://web.archive.org/web/20200807155244/https://vict0ni.me/double-url-encoding-xss/
 - https://blog.it-securityguard.com/bugbounty-reflected-cross-site-scripting-billmelater/
+- https://samcurry.net/hacking-chesscom/
+- https://web.archive.org/web/20200929003337/https://www.mohamedharon.com/2018/04/reflected-xss-on-wwwzomatocom-by.html

@@ -129,3 +129,4 @@
 - https://cyberguy0xd1.medium.com/my-write-up-in-hacking-ibms-administration-panel-and-getting-sqli-on-it-51404c7bee27
 - https://www.rcesecurity.com/2022/12/from-zero-to-hero-part-2-intel-dcm-sql-injection-to-rce-cve-2022-21225/
 - https://cyberguy0xd1.medium.com/how-i-was-able-to-bypass-cloudflare-waf-for-sqli-payload-b9e7a4260026
+- https://medium.com/@amyrahm786/story-of-blind-sql-with-a-typo-error-43a21913c8d
