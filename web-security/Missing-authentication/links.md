@@ -18,3 +18,4 @@
 - https://medium.com/@lovely.goyal1998/story-of-5000-bounty-for-grafana-panel-access-in-apple-89c93ab4486f
 - https://medium.com/@r99tiq/how-i-hacked-basf-company-3b75ef39c74f
 - https://letshack.xyz/offensive/web-application/legally-hacking-a-government-satellite
+- https://medium.com/@abidafahd/how-i-was-able-to-hunt-a-rare-bug-in-a-private-program-caec0ebaef7f

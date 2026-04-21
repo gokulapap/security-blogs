@@ -321,3 +321,4 @@
 - https://web.archive.org/web/20200929013706/https://www.mohamedharon.com/2019/04/apache-strust-rce.html
 - https://web.archive.org/web/20210620102348/https://ipanda.co.in/blog1.html
 - https://0xsha.io/posts/zombievpn-breaking-that-internet-security
+- https://medium.com/@deepamkumar510/remote-code-execution-rce-through-file-upload-functionality-1809bd504805
