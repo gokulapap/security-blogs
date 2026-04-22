@@ -1,1 +1,2 @@
 - https://the-deniss.github.io/posts/avast-privileged-arbitrary-file-create-on-restore/
+- https://the-deniss.github.io/posts/2023/04/26/avast-privileged-arbitrary-file-create-on-quarantine.html

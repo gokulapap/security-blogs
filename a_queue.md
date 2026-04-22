@@ -70,7 +70,6 @@
 - https://shahjerry33.medium.com/stored-iframe-injection-permanent-open-redirection-zero-day-ce7cd15903ac, HTML-injection
 - https://blog.pretera.com/how-misconfigured-and-vulnerable-devices-could-expose-your-company-to-physical-and-cyber-threats-37d0e0d8d158, IoT
 - https://medium.com/@zhero_/dos-via-cache-poisoning-38f3a87f997c, Web-cache-deception
-- https://medium.com/@levshmelevv/hardcore-rce-via-directory-name-for-3-000-225ed58b41a9, RCE
 - https://web.archive.org/web/20230515045300/https://www.kaytaq.com/uncategorized/bypassing-open-redirect-protection-site-wide-on-web2py-applications/, Open-redirect
 - https://neodyme.io/blog/csgo_from_zero_to_0day/, Game-hacking
 - https://chevonphillip.medium.com/rce-due-to-dependency-confusion-5000-bounty-fd1b294d645f, Dependency-confusion
@@ -79,7 +78,6 @@
 - https://sumedh00.medium.com/accessing-admin-dashboard-in-5-seconds-acee737eacfb, Default-credentials
 - https://ophionsecurity.com/blog/placeholder-for-dayzzz, SSTI
 - https://medium.com/@lopseg/bug-bounty-writeup-stored-xss-vulnerability-waf-bypass-f38aae7ff9eb, Stored-XSS
-- https://the-deniss.github.io/posts/2023/04/26/avast-privileged-arbitrary-file-create-on-quarantine.html, TOCTOU
 - https://blog.ethiack.com/en/blog/git-arbitrary-configuration-injection-cve-2023-29007, Logic-flaw
 - https://blog.assetnote.io/2023/04/26/xss-million-websites-cpanel/, Reflected-XSS
 - https://www.bitsight.com/blog/new-high-severity-vulnerability-cve-2023-29552-discovered-service-location-protocol-slp, DoS
@@ -272,7 +270,6 @@
 - https://hoyahaxa.blogspot.com/2022/05/bygone-vulnerabilities-remote-code.html, XSS
 - https://hogarth45.medium.com/social-media-take-over-easy-money-aa6274b4b70d, Broken-link-hijacking
 - https://infosecwriteups.com/how-an-open-redirection-leads-to-an-account-takeover-73ea883055d1, Open-redirect
-- https://mc0wn.blogspot.com/2022/05/2nd-rce-and-xss-in-apache-struts-before-2530.html, RCE
 - https://infosecwriteups.com/how-i-found-a-companys-internal-s3-bucket-with-41k-files-94b453e588b5, AWS-misconfiguration
 - https://medium.com/@sharp488/2fa-bypass-on-private-bug-bounty-program-due-to-improper-caching-mechanism-212c5912bd00, MFA-bypass
 - https://medium.com/@sharp488/2fa-bypass-on-private-bug-bounty-program-due-to-csrf-token-misconfiguration-5a9c82151a1, MFA-bypass
@@ -519,7 +516,6 @@
 - https://medium.com/bugbountywriteup/bypassing-otp-via-reset-password-f004a29020c, OTP-bypass
 - https://medium.com/bugbountywriteup/my-first-bug-bounty-21d3203ffdb0, Information-disclosure
 - https://www.ehpus.com/post/authorization-bypass-in-google-s-ticketing-system, Authorization-flaw
-- https://hunter-55.medium.com/introduction-fae7c8b3d16c, Exposed-registration-page
 - https://tolo7010note.blogspot.com/2020/07/an-unreproducable-bug-due-to-load.html, Open-redirect
 - https://medium.com/@airlanggamurthi/obtained-a-bunch-of-sensitive-data-in-just-few-steps-hacking-1a474200a8c2, AWS-misconfiguration
 - https://medium.com/bugbountywriteup/dns-rebinding-the-treacherous-attack-it-can-be-b367c61b4372, DNS-rebinding
@@ -544,7 +540,6 @@
 - https://medium.com/@hgreal/why-i-paid-3-5k-to-become-a-tld-registrar-reseller-when-doing-bug-bounty-d9d407911dce, XXE
 - https://fadhilthomas.github.io/post/bug-bounty-tokopedia-03/, IDOR
 - https://ysamm.com/?p=479, Information-disclosure
-- https://infosecwriteups.com/story-of-a-2-5k-bounty-ssrf-on-zimbra-led-to-dump-all-credentials-in-clear-text-6fe826005ccc, SSRF
 - https://web.archive.org/web/20200627125016/https://medium.com/@s3c/hacked-worldwide-zoom-users-fceb31868c2d, OAuth
 - https://web.archive.org/web/20200626065913/https://medium.com/@saugatpokharel/able-to-create-hidden-comment-by-blocking-an-admin-facebook-bug-bounty-2020-c62bd10712f, Logic-flaw
 - https://medium.com/@mase289/a-tale-of-my-first-ever-full-ssrf-bug-4fe71a76e9c4, SSRF

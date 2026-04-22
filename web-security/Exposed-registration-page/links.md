@@ -8,3 +8,4 @@
 - https://rohit-soni.medium.com/chaining-multiple-vulnerabilities-leads-to-remote-code-execution-rce-on-paytm-e77f2fd2295e
 - https://medium.com/securityescape/getting-access-to-25k-employees-details-c085d18b73f0
 - https://orwaatyat.medium.com/my-new-discovery-in-oracle-e-business-login-panel-that-allowed-to-access-for-all-employees-ed0ec4cad7ac
+- https://hunter-55.medium.com/introduction-fae7c8b3d16c

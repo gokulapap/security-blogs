@@ -322,3 +322,5 @@
 - https://web.archive.org/web/20210620102348/https://ipanda.co.in/blog1.html
 - https://0xsha.io/posts/zombievpn-breaking-that-internet-security
 - https://medium.com/@deepamkumar510/remote-code-execution-rce-through-file-upload-functionality-1809bd504805
+- https://medium.com/@levshmelevv/hardcore-rce-via-directory-name-for-3-000-225ed58b41a9
+- https://mc0wn.blogspot.com/2022/05/2nd-rce-and-xss-in-apache-struts-before-2530.html

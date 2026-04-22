@@ -158,3 +158,4 @@
 - https://geleta.eu/2019/my-first-ssrf-using-dns-rebinfing/
 - https://medium.com/@tobydavenn/bypassing-ssrf-protections-45e5e3ac31e9
 - https://www.nahamsec.com/posts/my-expense-report-resulted-in-a-server-side-request-forgery-ssrf-on-lyft
+- https://infosecwriteups.com/story-of-a-2-5k-bounty-ssrf-on-zimbra-led-to-dump-all-credentials-in-clear-text-6fe826005ccc
