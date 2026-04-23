@@ -322,3 +322,4 @@
 - https://praseudo.com/sensitive-info-leak-in-curve-app-bug-bounty/
 - https://lokeshdlk77.medium.com/reveal-the-page-admin-that-uploaded-a-video-on-the-page-in-comment-section-9760e4a31453
 - https://medium.com/@saneklarek22/back-to-2019-disclosure-employers-pii-and-credentials-bb7f344dcb08
+- https://medium.com/@rajqureshi07/a-story-of-my-first-bug-bounty-dda320db78d9
