@@ -194,3 +194,4 @@
 - http://www.tomanthony.co.uk/blog/xss-attacks-googlebot-index-manipulation/
 - https://medium.com/bugbountywriteup/csrf-poc-mistake-that-broke-crucial-functions-for-the-end-user-victim-ef4fa4584ca8
 - https://medium.com/@anjaneyulukanakatla1996/business-logic-error-6922ba75cad8
+- https://adnanmalik.info/blog/lets-cancel-the-subscription/

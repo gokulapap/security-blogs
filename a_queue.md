@@ -162,7 +162,6 @@
 - https://blog.viettelcybersecurity.com/the-first-step-to-pwn2own-but-a-sad-one/, Command-injection
 - https://karmainsecurity.com/KIS-2022-06, Zip-Slip-attack
 - https://abhishekmorla.medium.com/bypassing-the-client-side-encryption-to-read-internal-windows-server-files-e832da8b4ac8, Client-side-encryption-bypass
-- https://infosecwriteups.com/unique-rate-limit-bypass-worth-1800-6e2947c7d972, Rate-limiting-bypass
 - https://attackshipsonfi.re/p/exploiting-cors-misconfigurations, CORS-misconfiguration
 - https://rashahacks.com/directory-enumeration-guide/, 40x-bypass
 - https://www.zerodayinitiative.com/blog/2022/11/22/cve-2022-40300-sql-injection-in-manageengine-privileged-access-management, SQL-injection
@@ -358,7 +357,6 @@
 - https://pyn3rd.github.io/2021/10/22/mysql-jdbc-xxe/, XXE
 - https://med-mahmoudi26.medium.com/from-staging-to-0-click-account-takeover-528a5ecaa3eb, Account-takeover
 - https://web.archive.org/web/20221128060608/https://wya.pl/2021/10/18/shells-and-soap-websphere-deserialization-to-rce/, RCE
-- https://omespino.com/write-up-google-vrp-n-a-arbitrary-local-file-read-macos-via-a-tag-and-null-byte-in-google-earth-pro-desktop-app/, Local-File-Read
 - https://medium.com/@mehdi.alouache/eset-endpoint-security-credentials-theft-90082dfdf474, Credentials-sent-over-unencrypted-channel
 - https://realkeyboardwarrior.github.io/security/2021/10/11/hacking-youtube.html, Logic-flaw
 - https://medium.com/@cappriciosec/how-i-hacked-billion-android-users-social-and-3rd-party-account-a-story-about-5000-bug-c422ca43bd2, Android
@@ -394,7 +392,6 @@
 - https://tomorrowisnew.com/posts/broken-access-control-bug-bypassing-403-s-by-finding-another-endpoint-that-do-the-same-thing/, Broken-Access-Control
 - https://medium.com/pentesternepal/facebook-email-phone-disclosure-using-binary-search-d50430758c54, Password-reset
 - https://feed.bugs.xdavidhu.me/bugs/0009, IDOR
-- https://adnanmalik.info/blog/lets-cancel-the-subscription/, Logic-flaw
 - https://ysamm.com/?p=702, CSRF
 - https://ysamm.com/?p=700, Information-disclosure
 - https://smaranchand.com.np/2021/06/flywheel-subdomain-takeover/, Subdomain-takeover
@@ -590,7 +587,6 @@
 - https://medium.com/monetary/how-did-i-earn-3133-70-from-google-translator-9becf942dbdc, XSS
 - https://smaranchand.com.np/2019/12/subdomain-takeover-via-pantheon/, Subdomain-takeover
 - https://medium.com/@vbharad/full-account-takeover-android-application-78fa922f78c5, Information-disclosure
-- https://m0chan.github.io/2019/12/16/Subdomain-Takeover-Azure-CDN.html, Subdomain-takeover
 - https://medium.com/@dPhoeniixx/vimeo-upload-function-ssrf-7466d8630437, SSRF
 - https://www.ezequiel.tech/p/500-getclass.html, Sandbox-bypass
 - https://medium.com/@navne3t/a-25-easy-bug-bdfcde4d1370, Session-management-issue
@@ -633,7 +629,6 @@
 - https://medium.com/@androgaming1912/gain-adfly-smtp-access-with-ssrf-via-gopher-protocol-26a26d0ec2cb, SSRF
 - https://philippeharewood.com/view-facebook-payouts-for-any-facebook-trivia-game/, Information-disclosure
 - https://medium.com/@dr.spitfire/sensitive-information-disclosure-web-cache-deception-attack-bcac6cb9cd86?sk=a2557f0c557ff38876141c2d94b296dd, Information-disclosure
-- https://medium.com/@saadahmedx/self-xss-to-evil-xss-bcf2494a82a4, XSS
 - https://medium.com/@saadahmedx/idor-account-takeover-1ff5a2d03b8b, IDOR
 - https://web.archive.org/web/20200928091625/https://pwnsec.ninja/2019/06/06/how-i-was-able-to-get-private-ticket-response-panel-and-fortigate-web-panel-via-blind-xss/, Blind-XSS
 - https://payatu.com/microsoft-edge-extensions-host-permission-bypass-cve-2019-0678/, Browser-hacking

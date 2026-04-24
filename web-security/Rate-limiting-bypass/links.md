@@ -9,3 +9,4 @@
 - https://3bodymo.medium.com/bypass-rate-limit-to-enumeration-users-through-google-drive-ed64e07c879c
 - https://0xt4144t.medium.com/rate-limit-bypassing-allowing-identity-spoofing-789b2fe2efa8
 - https://ahmdhalabi.medium.com/chaining-multiple-requests-to-achieve-rate-limiting-vulnerabilities-96c1e8365c06
+- https://infosecwriteups.com/unique-rate-limit-bypass-worth-1800-6e2947c7d972
