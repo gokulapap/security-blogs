@@ -30,3 +30,4 @@
 - https://spidersec.ninja/Youtube-X-frame-options-Bypass-Vulnerability
 - https://medium.com/@osamaavvan/account-taker-with-clickjacking-ace744842ec3
 - https://medium.com/@arbazhussain/ctrl-d5ffc7b0640e
+- https://medium.com/@varmaanu001/cookie-stealing-via-clickjacking-using-burp-collaborator-ff6f4ac1c18b

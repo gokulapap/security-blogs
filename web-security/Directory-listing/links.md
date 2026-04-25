@@ -8,3 +8,4 @@
 - https://medium.com/@saurabh5392/how-i-earned-by-finding-confidential-customer-data-including-plain-text-passwords-f93c4ce2631
 - https://remonsec.com/posts/getting-first-swag-SIDN/
 - https://blog.infiltrateops.io/tesla-paid-me-10-000-because-of-directory-indexing-c1be06c77a3e
+- https://medium.com/@sadiqwest01/bugbounty-how-i-hack-billion-company-5529a3ebe999
