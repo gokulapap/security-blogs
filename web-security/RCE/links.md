@@ -325,3 +325,4 @@
 - https://medium.com/@levshmelevv/hardcore-rce-via-directory-name-for-3-000-225ed58b41a9
 - https://mc0wn.blogspot.com/2022/05/2nd-rce-and-xss-in-apache-struts-before-2530.html
 - https://www.flashback.sh/blog/weekend-destroyer-wd-pr4100-rce
+- https://srcincite.io/blog/2021/01/12/making-clouds-rain-rce-in-office-365.html

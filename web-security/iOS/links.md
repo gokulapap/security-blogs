@@ -2,3 +2,4 @@
 - https://rambo.codes/posts/2022-10-25-sirispy-ios-bug-allowed-apps-to-eavesdrop
 - https://muirey03.blogspot.com/2020/09/cve-2020-9964-ios-infoleak.html
 - https://breakpoint.sh/posts/files.app-symbolic-link-following
+- https://googleprojectzero.blogspot.com/2023/01/der-entitlements-brief-return-of.html
