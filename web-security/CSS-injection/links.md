@@ -3,3 +3,4 @@
 - https://sanderwind.medium.com/unleashing-the-power-of-css-injection-the-access-key-to-an-internal-api-789b166d0527
 - https://medium.com/@renwa/the-underrated-bugs-clickjacking-css-injection-drag-drop-xss-cookie-bomb-login-logout-csrf-84307a98fffa
 - https://fletchto99.dev/2019/november/slack-vulnerability/
+- https://medium.com/@d0nut/exfiltration-via-css-injection-4e999f63097d

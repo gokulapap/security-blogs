@@ -8,3 +8,4 @@
 - https://medium.com/@Rend_/sqli-next-level-5b1145b83c79
 - https://medium.com/@qaafqasim/discovering-login-panels-and-detecting-sql-injection-with-logsensor-42842e337244
 - https://medium.com/@yan.zaripov/time-based-sql-injection-63a395434e97
+- https://medium.com/@nav1n/how-i-got-owned-a-multi-billion-dollar-retailers-mysql-databases-using-simple-sql-injection-30f8b0dfd9ce

@@ -6,7 +6,6 @@
 - https://medium.com/@nanwinata/rce-docker-api-but-11ff70825935, Cloud
 - https://medium.com/@codewithvamp/the-cost-of-neglect-html-injection-3c00e719fdef, html-injection
 - https://medium.com/@ryuukhagetsu/how-i-get-bounty-from-takeover-account-ed17cd838b2a, ATO
-- https://medium.com/@nav1n/how-i-got-owned-a-multi-billion-dollar-retailers-mysql-databases-using-simple-sql-injection-30f8b0dfd9ce, sql-injection
 - https://medium.com/@s3c/how-i-hacked-world-wide-tiktok-users-24e794d310d2, journey
 - https://medium.com/@terjanq/clobbering-the-clobbered-advanced-dom-clobbering-8443547ebe94, misc
 - https://medium.com/@notifybugme/how-i-was-able-find-mass-leaked-aws-s3-bucket-from-js-file-6064a5c247f8, info-disclosure
@@ -96,7 +95,6 @@
 - https://www.sonarsource.com/blog/it-s-a-snmp-trap-gaining-code-execution-on-librenms/, RCE
 - https://medium.com/@bughuntar/a-short-tell-of-lfi-from-pdf-link-professor-the-hunter-43a8be853e, LFI
 - https://blog.nintechnet.com/high-severity-vulnerability-fixed-in-wordpress-elementor-pro-plugin/, Broken-Access-Control
-- https://blog.doyensec.com//2023/03/21/windows-installer.html, Local-Privilege-Escalation
 - https://cupc4k3.lol/ssti-leads-to-rce-on-pyrocms-7515be27c811, SSTI
 - https://medium.com/@bag0zathev2/easy-via-api-params-manipulation-leading-to-bypassing-the-email-verification-block-a45dad2db60c, Mass-assignment
 - https://medium.com/@hritkmjth/directory-traversal-and-lfi-worth-400-c4422785d3bd, Path-traversal
@@ -425,7 +423,6 @@
 - https://pharish4948.medium.com/how-i-earned-3200-in-4hours-through-stored-xss-38597877d3e1, Stored-XSS
 - https://nns.ee/blog/2021/04/03/modem-rce.html, OS-command-injection
 - https://ysamm.com/?p=646, Account-takeover
-- https://thexssrat.medium.com/i-felt-like-there-were-no-more-bugs-left-after-winning-2000-but-an-email-worth-750-changed-my-c7a507649060, Broken-Access-Control
 - https://thexssrat.medium.com/poc-the-easiest-125-euros-i-ever-made-4dc87f01e286, Logic-flaw
 - https://sudhanshur705.medium.com/how-i-made-it-to-google-hof-f1cec85fdb1b, IDOR
 - https://godiego.co/posts/STO-AWS/, Subdomain-takeover
@@ -447,7 +444,6 @@
 - https://ysamm.com/?p=613, Information-disclosure
 - https://www.inputzero.io/2020/12/telegram-privacy-fails-again.html, Privacy-issue
 - https://servicenger.com/blog/mobile/sending-ephemeral-message-to-any-facebook-user/, IDOR
-- https://thevillagehacker.medium.com/reflected-xss-on-a-public-program-e8c0416daca1, Reflected-XSS
 - https://sanderwind.medium.com/escalating-ssrf-to-rce-7c0147371c40, SSRF
 - https://amineaboud.medium.com/disclose-the-fb-profile-of-facebook-employees-who-create-official-announcement-messages-bug-76554068caf7, Information-disclosure
 - https://web.archive.org/web/20210201180254/https://www.cysek.org/post/bac-sxss, Stored-XSS
@@ -716,7 +712,6 @@
 - https://blog.evanricafort.com/2018/08/blind-xss-in-chrome-experiments-google.html, Blind-XSS
 - https://medium.com/@logicbomb_1/bugbounty-paytm-customer-information-is-at-risk-indias-largest-digital-wallet-company-6f7116d4b2d5, IDOR
 - https://www.youtube.com/watch?v=0oKHov6y6mw, Stored-XSS
-- https://medium.com/@d0nut/exfiltration-via-css-injection-4e999f63097d, CSS-injection
 - https://blog.bentkowski.info/2018/07/vulnerability-in-hangouts-chat-aka-how.html, Open-redirect
 - https://opnsec.com/2018/07/into-the-borg-ssrf-inside-google-production-network/, SSRF
 - https://www.ambionics.io/blog/prestashop-privilege-escalation, Privilege-escalation
