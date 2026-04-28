@@ -90,3 +90,4 @@
 - http://blog.h4rsh4d.com/2022/08/open-redirect-bypass.html
 - https://www.hackerinside.me/2019/01/a-tricky-open-redirect.html
 - https://medium.com/bugbountywriteup/dont-stop-at-one-bug-d3c56806b5
+- https://web.archive.org/web/20230515045300/https://www.kaytaq.com/uncategorized/bypassing-open-redirect-protection-site-wide-on-web2py-applications/

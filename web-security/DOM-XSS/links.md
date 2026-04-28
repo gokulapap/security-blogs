@@ -44,3 +44,4 @@
 - https://medium.com/@80vul/from-http-domain-to-res-domain-xss-by-using-ie-adobes-pdf-activex-plugin-9f2a72a87aff
 - https://labs.detectify.com/2017/07/27/how-we-invented-the-tesla-dom-doom-xss/
 - https://web-in-security.blogspot.com/2021/02/security-and-privacy-of-social-logins-part2.html
+- https://m3ez.medium.com/how-i-found-dom-based-xss-on-microsoft-msrc-and-how-they-fixed-it-8b71a6020c82
