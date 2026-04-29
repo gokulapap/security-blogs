@@ -338,3 +338,4 @@
 - https://monke.ie/xss-by-javascript-overriding/
 - https://web.archive.org/web/20220716152713/https://snapsec.co/blog/hacking-larksuite/
 - https://medium.com/@saadahmedx/self-xss-to-evil-xss-bcf2494a82a4
+- https://medium.com/@sampanna/self-xss-in-indeed-com-e0c99c104cba

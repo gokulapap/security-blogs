@@ -326,3 +326,4 @@
 - https://mc0wn.blogspot.com/2022/05/2nd-rce-and-xss-in-apache-struts-before-2530.html
 - https://www.flashback.sh/blog/weekend-destroyer-wd-pr4100-rce
 - https://srcincite.io/blog/2021/01/12/making-clouds-rain-rce-in-office-365.html
+- https://mogwailabs.de/en/blog/2022/08/exploiting-laravel-based-applications-with-leaked-app_keys-and-queues/
