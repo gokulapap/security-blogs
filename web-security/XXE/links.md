@@ -32,3 +32,4 @@
 - https://blog.niksthehacker.com/xxe-in-public-transport-ticketing-mobile-app-81ae245c01a1
 - https://semgrep.dev/blog/2022/xml-security-in-java
 - https://honoki.net/2020/03/18/xxe-scape-through-the-front-door-circumventing-the-firewall-with-http-request-smuggling/
+- http://mahmoudsec.blogspot.com/2019/08/exploiting-out-of-band-xxe-using.html

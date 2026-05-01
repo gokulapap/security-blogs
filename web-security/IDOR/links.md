@@ -295,3 +295,4 @@
 - https://infosecwriteups.com/what-is-bola-3-digit-bounty-from-topcoder-a25e7fae0d64
 - https://georgeosterweil.com/2019-02-20-fbctf-idor/
 - https://medium.com/@saadahmedx/idor-account-takeover-1ff5a2d03b8b
+- https://footstep.ninja/posts/idor-via-http/
