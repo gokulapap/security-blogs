@@ -327,3 +327,4 @@
 - https://www.flashback.sh/blog/weekend-destroyer-wd-pr4100-rce
 - https://srcincite.io/blog/2021/01/12/making-clouds-rain-rce-in-office-365.html
 - https://mogwailabs.de/en/blog/2022/08/exploiting-laravel-based-applications-with-leaked-app_keys-and-queues/
+- https://corben.io/blog/19-9-04-jenkins-to-full-pwnage

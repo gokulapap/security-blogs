@@ -5,3 +5,4 @@
 - https://castilho.onrender.com/
 - https://labs.detectify.com/2017/02/28/hacking-slack-using-postmessage-and-websocket-reconnect-to-steal-your-precious-token/
 - https://medium.com/@yassergersy/exploiting-post-message-to-steal-users-cookies-7df43a00289a
+- https://www.permasecure.io/2023/03/03/how-your-nfts-could-have-been-stolen-in-just-one-click/

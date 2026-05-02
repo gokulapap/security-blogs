@@ -131,3 +131,4 @@
 - https://cyberguy0xd1.medium.com/how-i-was-able-to-bypass-cloudflare-waf-for-sqli-payload-b9e7a4260026
 - https://medium.com/@amyrahm786/story-of-blind-sql-with-a-typo-error-43a21913c8d
 - https://bugwriteups.tech/bug-bounty-write-up-lucky-vulnerability
+- https://c0nqr0r.medium.com/error-based-sql-injection-with-waf-bypass-manual-exploit-100-bab36b769005
