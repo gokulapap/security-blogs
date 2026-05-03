@@ -67,3 +67,4 @@
 - https://web.archive.org/web/20200929012457/https://www.mohamedharon.com/2019/02/souqcom-subdomain-takeover-via.html
 - https://blog.assetnote.io/2020/06/29/subdomain-takeover-to-account-takeover/
 - https://m0chan.github.io/2019/12/16/Subdomain-Takeover-Azure-CDN.html
+- https://smaranchand.com.np/2021/06/flywheel-subdomain-takeover/

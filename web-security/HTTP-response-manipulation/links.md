@@ -1,1 +1,2 @@
 - https://albertpedersen.com/blog/hijacking-email-with-cloudflare-email-routing/
+- https://infosecwriteups.com/dont-send-a-message-to-anyone-before-reading-this-account-takeover-vulnerability-external-audit-cf584a0c983c
