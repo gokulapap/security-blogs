@@ -296,3 +296,4 @@
 - https://georgeosterweil.com/2019-02-20-fbctf-idor/
 - https://medium.com/@saadahmedx/idor-account-takeover-1ff5a2d03b8b
 - https://footstep.ninja/posts/idor-via-http/
+- https://www.pingsafe.com/blog/linkedin-vulnerability-delete-any-post
