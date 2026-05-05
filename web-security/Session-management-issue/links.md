@@ -2,3 +2,4 @@
 - https://fadhilthomas.github.io/post/facebook-white-hat-01/
 - https://medium.com/swlh/reusing-cookies-23ed4691122b
 - https://web.archive.org/web/20191221105442/https://medium.com/bugbountywriteup/broken-authentication-bug-bounty-5c941a4a5f48
+- https://ian.sh/airflow

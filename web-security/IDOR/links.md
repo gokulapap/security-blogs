@@ -297,3 +297,4 @@
 - https://medium.com/@saadahmedx/idor-account-takeover-1ff5a2d03b8b
 - https://footstep.ninja/posts/idor-via-http/
 - https://www.pingsafe.com/blog/linkedin-vulnerability-delete-any-post
+- https://medium.com/@avinash_/disclosure-of-pending-roles-for-any-facebook-page-ab6e4e219f8e

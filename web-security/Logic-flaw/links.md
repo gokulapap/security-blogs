@@ -197,3 +197,4 @@
 - https://adnanmalik.info/blog/lets-cancel-the-subscription/
 - https://shahjerry33.medium.com/business-logic-errors-must-vote-68f642b60fb7
 - https://medium.com/@ritishkumarsingh/facebook-vulnerability-unremovable-facebook-group-admin-2cbf4faf55c1
+- https://ahussam.me/leak-private-videos-vimeo/

@@ -162,3 +162,4 @@
 - https://bugs.xdavidhu.me/google/2021/12/31/fixing-the-unfixable-story-of-a-google-cloud-ssrf/
 - https://www.mdsec.co.uk/2022/10/microsoft-office-online-server-remote-code-execution/
 - https://notifybugme.medium.com/aws-internal-metadata-accessed-through-ssrf-by-chaining-an-open-redirect-bug-c4b0e4838dc
+- https://www.ezequiel.tech/2020/05/rce-in-cloud-dm.html

@@ -372,7 +372,6 @@
 - https://0xbadb00da.medium.com/account-takeover-via-stored-xss-with-arbitrary-file-upload-2774ec6cff51, Insecure-file-upload
 - https://blog.oversecured.com/Why-dynamic-code-loading-could-be-dangerous-for-your-apps-a-Google-example/, Arbitrary-file-write
 - https://fartademayur.medium.com/this-is-how-i-was-able-to-see-private-archived-posts-stories-of-users-on-instagram-without-de70ca39165c, IDOR
-- https://ian.sh/airflow, Session-management-issue
 - https://0x01alka.medium.com/google-vrp-privilege-escalation-on-https-dialogflow-cloud-google-com-599af6c4516d, Authorization-flaw
 - https://pratikkhalane91.medium.com/how-i-was-able-to-bypass-the-admin-panel-without-the-credentials-d65f90e0e1e4, Information-disclosure
 - https://youst.in/posts/bypassing-2fa-using-openid-misconfiguration/, MFA-bypass
@@ -420,7 +419,6 @@
 - https://ysamm.com/?p=621, Authorization-flaw
 - https://ysamm.com/?p=625, Open-redirect
 - https://ysamm.com/?p=613, Information-disclosure
-- https://www.inputzero.io/2020/12/telegram-privacy-fails-again.html, Privacy-issue
 - https://servicenger.com/blog/mobile/sending-ephemeral-message-to-any-facebook-user/, IDOR
 - https://sanderwind.medium.com/escalating-ssrf-to-rce-7c0147371c40, SSRF
 - https://amineaboud.medium.com/disclose-the-fb-profile-of-facebook-employees-who-create-official-announcement-messages-bug-76554068caf7, Information-disclosure
@@ -513,7 +511,6 @@
 - https://ezqelusia.blogspot.com/2020/05/microsofts-first-bug.html, Memory-corruption
 - https://blog.raphael.karger.is/articles/2020-05/CVE-2020-13693, Privilege-escalation
 - https://medium.com/@kishoretk/how-i-was-able-to-see-identity-of-a-private-video-up-loader-via-rights-manager-responsible-39d996517b6e, Information-disclosure
-- https://www.ezequiel.tech/2020/05/rce-in-cloud-dm.html, SSRF
 - https://healdb.tech/blog/teradici.html, Missing-authentication
 - https://medium.com/csis-techblog/cve-2020-1088-yet-another-arbitrary-delete-eop-a00b97d8c3e2, Local-Privilege-Escalation
 - https://web.archive.org/web/20200616051351/https://hazana.xyz/posts/cors-blimey/, CORS-misconfiguration
@@ -613,7 +610,6 @@
 - https://blog.usejournal.com/an-unusal-bug-on-braintree-paypal-b8d3ec662414, DoS
 - https://medium.com/@paulorcchoupina/a-real-xss-in-olx-7727ae89c640, Reflected-XSS
 - https://www.rodneybeede.com/security/slack-announcement-only-channel-post-restriction-bypass.html, Authorization-flaw
-- https://medium.com/@avinash_/disclosure-of-pending-roles-for-any-facebook-page-ab6e4e219f8e, IDOR
 - https://medium.com/cesppa/escalating-ssrf-to-rce-f28c482eb8b9, SSRF
 - https://philippeharewood.com/cve-2018-16794-on-fs-thefacebook-com/, SSRF
 - https://medium.com/@sharan.panegav/account-takeover-using-cross-site-websocket-hijacking-cswh-99cf9cea6c50, Cross-Site-WebSocket-Hijacking
@@ -740,7 +736,6 @@
 - https://philippeharewood.com/find-mingle-suggestions-for-any-facebook-user-revisited/, Logic-flaw
 - https://ysx.me.uk/lightweight-markup-a-trio-of-persistent-xss-in-gitlab/, Stored-XSS
 - https://evilpacket.net/2016/atom-io-misconfiguration-allowed-code-execution-on-untrusted-networks/, RCE
-- https://ahussam.me/leak-private-videos-vimeo/, Logic-flaw
 - https://blog.zsec.uk/gif-time-pornhub/, XSS
 - https://web.archive.org/web/20200819161533/https://whitehatnepal.tumblr.com/post/149937173467/pornhub-email-confirmation-bypass, Email-verification-bypass
 - https://httpsonly.blogspot.com/2016/08/turning-self-xss-into-good-xss-v2.html, XSS
