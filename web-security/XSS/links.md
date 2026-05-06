@@ -340,3 +340,4 @@
 - https://medium.com/@saadahmedx/self-xss-to-evil-xss-bcf2494a82a4
 - https://medium.com/@sampanna/self-xss-in-indeed-com-e0c99c104cba
 - https://medium.com/@fpatrik/how-i-found-an-xss-vulnerability-via-using-emojis-7ad72de49209
+- https://blog.0xffff.info/2021/07/24/ebay-xss-demo-and-guide-to-spear-phishing/

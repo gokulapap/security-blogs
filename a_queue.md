@@ -25,7 +25,6 @@
 - https://medium.com/@rootkid/payment-gateway-bypass-on-government-domain-8e0135c34185, misc
 - https://medium.com/@4bdoz/access-more-than-10k-premium-api-keys-python-exploit-c728fdf5eae, automation
 - https://medium.com/@thexssrat/subdomain-flyover-and-manual-exploration-of-the-results-15c69d509091, STO
-- https://medium.com/@dcube.merlin/basic-web-security-testing-apis-58f37e01a730, api
 - https://medium.com/@pyrrhon/how-i-was-able-to-take-over-one-of-dells-subdomains-7e06b8516e41, STO
 - https://medium.com/@stopvvar/sql-injection-with-insert-statement-bdcf4d47d178, sql-injection
 - https://medium.com/@theredteamer/tesla-paid-me-10-000-because-of-directory-indexing-c1be06c77a3e, journey
@@ -55,14 +54,12 @@
 - https://medium.com/@ferferof/pii-data-leakage-and-us-1500-bounty-af676350fb76, Information-disclosure
 - https://orca.security/resources/blog/examining-two-xss-vulnerabilities-in-azure-services/, XSS
 - https://starlabs.sg/blog/2023/06-the-old-the-new-and-the-bypass-one-clickopen-redirect-to-own-samsung-s22-at-pwn2own-2022/, Open-redirect
-- https://medium.com/@0day_exploit/stored-xss-injection-permanent-open-redirection-e14ffa11573c, Reflected-XSS
 - https://hacktus.tech/taking-over-an-entire-organization, Broken-Access-Control
 - https://medium.com/@malekmahmed55/turning-a-50-tab-nabbing-vulnerability-into-a-1000-account-takeover-9c3f32cb2d84, Reverse-tabnabbing
 - https://0day.click/recipe/pash/, RCE
 - https://research.nccgroup.com/2023/05/31/reverse-engineering-coin-hunt-worlds-binary-protocol/, Reverse-engineering
 - https://mc0wn.blogspot.com/2023/05/vulnerabilities-in-apache-commons-text.html, Path-traversal
 - https://medium.com/@ibederov_en/find-out-the-ip-address-through-a-call-to-telegram-a899441b1bac, Privacy-issue
-- https://www.secureworks.com/research/tampering-with-conditional-access-policies-using-azure-ad-graph-api, Cloud
 - https://nav1n.medium.com/exploiting-sql-error-sqlstate-42000-to-own-mariadb-of-a-large-eu-based-online-media-and-cf7396c43bbf, SQL-injection
 - https://shahjerry33.medium.com/stored-iframe-injection-permanent-open-redirection-zero-day-ce7cd15903ac, HTML-injection
 - https://blog.pretera.com/how-misconfigured-and-vulnerable-devices-could-expose-your-company-to-physical-and-cyber-threats-37d0e0d8d158, IoT
@@ -359,7 +356,6 @@
 - https://blog.gypsyengineer.com/en/security/detecting-jackson-deserialization-vulnerabilities-with-codeql.html, Insecure-deserialization
 - https://coffeejunkie.me/Blind-XXE-Port-Scanning/, XXE
 - https://3bodymo.medium.com/how-i-earned-by-amazon-s3-bucket-misconfigurations-29d51ee510de, AWS-misconfiguration
-- https://blog.0xffff.info/2021/07/24/ebay-xss-demo-and-guide-to-spear-phishing/, XSS
 - https://craighays.com/pre-account-takeover-by-reversing-a-weak-email-verification-token-algorithm/, Weak-crypto
 - https://notifybugme.medium.com/how-i-was-able-find-mass-leaked-aws-s3-bucket-from-js-file-6064a5c247f8, AWS-misconfiguration
 - https://tomorrowisnew.com/posts/broken-access-control-bug-bypassing-403-s-by-finding-another-endpoint-that-do-the-same-thing/, Broken-Access-Control
@@ -512,7 +508,6 @@
 - https://blog.raphael.karger.is/articles/2020-05/CVE-2020-13693, Privilege-escalation
 - https://medium.com/@kishoretk/how-i-was-able-to-see-identity-of-a-private-video-up-loader-via-rights-manager-responsible-39d996517b6e, Information-disclosure
 - https://healdb.tech/blog/teradici.html, Missing-authentication
-- https://medium.com/csis-techblog/cve-2020-1088-yet-another-arbitrary-delete-eop-a00b97d8c3e2, Local-Privilege-Escalation
 - https://web.archive.org/web/20200616051351/https://hazana.xyz/posts/cors-blimey/, CORS-misconfiguration
 - https://medium.com/@talatmehmood1995/bug-bounty-advanced-manual-penetration-testing-leading-to-price-manipulation-vulnerability-d935a3a5ddf6, Payment-tampering
 - https://medium.com/@aniltom/magic-of-the-back-slash-d868e66b532a, Path-traversal

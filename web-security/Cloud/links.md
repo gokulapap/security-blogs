@@ -20,3 +20,4 @@
 - https://blog.lightspin.io/aws-ecr-public-vulnerability
 - https://blog.doyensec.com/2022/10/18/cloudsectidbit-dataimport.html
 - https://orca.security/resources/blog/bad-build-google-cloud-build-potential-supply-chain-attack-vulnerability/
+- https://www.secureworks.com/research/tampering-with-conditional-access-policies-using-azure-ad-graph-api
