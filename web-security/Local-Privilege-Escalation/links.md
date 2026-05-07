@@ -90,3 +90,4 @@
 - https://github.com/blackarrowsec/redteam-research/tree/master/LPE%20via%20StorSvc
 - https://blog.doyensec.com//2023/03/21/windows-installer.html
 - https://medium.com/csis-techblog/cve-2020-1088-yet-another-arbitrary-delete-eop-a00b97d8c3e2
+- https://www.zerodayinitiative.com/blog/2023/1/23/activation-context-cache-poisoning-exploiting-csrss-for-privilege-escalation

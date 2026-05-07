@@ -43,3 +43,4 @@
 - https://twitter.com/0x01alka/status/1001763583447969792
 - https://blog.trailofbits.com/2023/02/21/vscode-extension-escape-vulnerability/
 - https://krevetk0.medium.com/10-000-for-a-vulnerability-that-doesnt-exist-9dbc63684e94
+- https://securitylab.github.com/advisories/GHSL-2021-1053_Grafana/
