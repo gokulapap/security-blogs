@@ -135,3 +135,4 @@
 - https://medium.com/bugbountywriteup/how-could-i-tag-photo-to-any-users-scrapbook-on-facebook-23ab15e6e4b4
 - https://medium.com/bugbountywriteup/bypassing-the-fix-of-my-previous-instagram-bug-49ece4ea7e1d
 - https://baibhavjha.com.np/blogs/instagramstory/
+- https://ysamm.com/?p=214
