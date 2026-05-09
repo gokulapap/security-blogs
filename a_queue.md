@@ -37,7 +37,6 @@
 - https://medium.com/@Sm9l/what-i-learnt-from-reading-126-information-disclosure-writeups-d896c5d5a2a4, info-disclosure
 - https://samcurry.net/points-com/, Path-traversal
 - https://www.mcnulty.blog/posts/dap-csrf, CSRF
-- https://blog.assetnote.io/2023/07/21/citrix-CVE-2023-3519-analysis/, RCE
 - https://blog.assetnote.io/2023/07/22/pre-auth-rce-metabase/, RCE
 - https://blog.qualys.com/vulnerabilities-threat-research/2023/07/19/cve-2023-38408-remote-code-execution-in-opensshs-forwarded-ssh-agent, RCE
 - https://kuldeep.io/posts/escalating-privileges-with-ssrf/, SSRF
@@ -151,7 +150,6 @@
 - https://splint3rsec.medium.com/russian-roulette-xss-bbba6afd2570, Blind-XSS
 - https://medium.com/@hf6452/a-story-of-a-strange-stored-idor-b6f2769bb6cb, IDOR
 - https://blog.sonarsource.com/checkmk-rce-chain-1/, RCE
-- https://bugs.xdavidhu.me/google/2022/11/10/accidental-70k-google-pixel-lock-screen-bypass/, Lock-screen-bypass
 - https://medium.com/@umeryousuf26/sleep-sql-injection-on-name-parameter-while-updating-profile-2bbac9f47336, SQL-injection
 - https://hdwsec.fr/blog/20221109-netgear/, Memory-corruption
 - https://medium.com/@armandjasharaj/pentest-tales-exif-data-manipulation-b36beb291229, Unrestricted-file-upload
@@ -248,7 +246,6 @@
 - https://infosecwriteups.com/bypassing-waf-to-weaponize-a-stored-xss-ff9963c421ee, Stored-XSS
 - https://melotover.medium.com/can-analyzing-javascript-files-lead-to-remote-code-execution-f24112f1aa1f, Unrestricted-file-upload
 - https://web.archive.org/web/20220516024454/https://medium.com/@tobydavenn/how-i-paid-for-my-holiday-with-bug-bounty-668f1f59e6e5, XSS
-- https://maxva.medium.com/how-i-got-a-lousyt-shirt-from-the-dutch-goverment-2a0d13fe7675, Old-components-with-known-vulnerabilities
 - https://blog.assetnote.io/2022/04/27/vmware-workspace-one-uem-ssrf/, SSRF
 - https://systemweakness.com/unlock-any-blur-text-picture-without-membership-subscription-on-scribd-com-by-neuchi-69237776e24, Payment-bypass
 - https://shubhdeepp.medium.com/how-i-got-apple-hall-of-fame-3d86f858c05f, Content-injection
@@ -680,7 +677,6 @@
 - https://medium.com/@logicbomb_1/bugbounty-your-details-are-saved-into-my-account-user-info-disclosure-vulnerability-in-practo-fe36930a1246, IDOR
 - http://www.tomanthony.co.uk/blog/google-xml-sitemap-auth-bypass-black-hat-seo-bug-bounty/, Logic-flaw
 - https://s1gnalcha0s.github.io/dspl/2018/03/07/Stored-XSS-and-SSRF-Google.html, Stored-XSS
-- https://medium.com/bug-bounty-hunting/how-i-found-a-surprising-xss-vulnerability-on-oracle-netsuite-2d48b7fcf0c8, XSS
 - https://www.seekurity.com/blog/general/the-2-5mins-or-2-5k-hawk-eye-bug-a-facebook-pages-admins-disclosure-vulnerability/, Information-disclosure
 - https://medium.com/bugbountywriteup/bugbounty-exploiting-crlf-injection-can-lands-into-a-nice-bounty-159525a9cb62, CRLF-injection
 - https://medium.freecodecamp.org/responsible-disclosure-how-i-could-have-hacked-all-facebook-accounts-f47c0252ae4d, Bruteforce
@@ -706,7 +702,6 @@
 - https://blog.securitybreached.org/2017/10/10/subdomain-takeover-lamborghini-hacked/, Subdomain-takeover
 - https://philippeharewood.com/facebook-graphql-csrf/, CSRF
 - https://markus-krell.de/craft-cms-why-case-matters/, Reflected-XSS
-- https://guptashubham.com/all-about-hackerone-private-program-terapeak/, IDOR
 - http://manuel-sousa.blogspot.com/2017/09/url-whitelist-bypass-accounts-google.html, Open-redirect
 - https://medium.com/@SyntaxError4/reflective-xss-and-open-redirect-on-indeed-com-subdomain-b4ab40e40c83, Reflected-XSS
 - https://medium.com/japzdivino/idor-on-hackerone-hacker-review-what-program-say-885ce3989a6f, IDOR

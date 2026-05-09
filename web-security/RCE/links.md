@@ -330,3 +330,4 @@
 - https://corben.io/blog/19-9-04-jenkins-to-full-pwnage
 - https://srcincite.io/blog/2022/10/25/eat-what-you-kill-pre-authenticated-rce-in-vmware-nsx-manager.html
 - https://blog.blazeinfosec.com/attack-of-the-clones-2-git-command-client-remote-code-execution-strikes-back/
+- https://blog.assetnote.io/2023/07/21/citrix-CVE-2023-3519-analysis/
