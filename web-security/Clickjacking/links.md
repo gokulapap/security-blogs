@@ -31,3 +31,4 @@
 - https://medium.com/@osamaavvan/account-taker-with-clickjacking-ace744842ec3
 - https://medium.com/@arbazhussain/ctrl-d5ffc7b0640e
 - https://medium.com/@varmaanu001/cookie-stealing-via-clickjacking-using-burp-collaborator-ff6f4ac1c18b
+- https://medium.com/@raushanraj_65039/clickjacking-in-google-docs-and-voice-typing-feature-c481d00b020a

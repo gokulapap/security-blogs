@@ -20,3 +20,4 @@
 - https://infosecwriteups.com/param-hunting-to-injections-4365da5447cf
 - https://medium.com/@chaitanyarajhans024/simple-html-injection-to-250-895b760409ed
 - https://medium.com/@iambroot/what-would-you-do-if-oracles-mailing-server-sent-you-this-bc275b1bf967
+- https://mehedishakeel.medium.com/improper-access-control-my-third-finding-on-hackerone-1455e95b6c8c
