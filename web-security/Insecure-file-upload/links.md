@@ -1,1 +1,2 @@
 - https://starlabs.sg/blog/2021/11-diving-into-open-source-lms-ccodebases/
+- https://0xbadb00da.medium.com/account-takeover-via-stored-xss-with-arbitrary-file-upload-2774ec6cff51
