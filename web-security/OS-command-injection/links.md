@@ -28,3 +28,4 @@
 - https://dylankatz.com/digging-in-to-scp-command-injection/
 - https://bhashit.in/?p=117
 - https://www.betterhacker.com/2016/10/command-injection-without-spaces.html
+- https://nns.ee/blog/2021/04/03/modem-rce.html

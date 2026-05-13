@@ -19,3 +19,4 @@
 - https://mu00d8.me/paper/bernhard22jitpicking.pdf
 - https://weizman.github.io/2019/12/18/js-anti-debug-1/
 - https://www.spookjs.com
+- https://0x0021h.medium.com/bypass-chrome-ad-heavy-detection-mechanism-25c9e2e4a0c4
