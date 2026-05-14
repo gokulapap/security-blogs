@@ -69,3 +69,4 @@
 - https://m0chan.github.io/2019/12/16/Subdomain-Takeover-Azure-CDN.html
 - https://smaranchand.com.np/2021/06/flywheel-subdomain-takeover/
 - https://medium.com/@sudhanshur705/how-recon-helped-me-to-to-find-a-facebook-domain-takeover-58163de0e7d5
+- https://zerforschung.org/posts/freundschaftspass-en/

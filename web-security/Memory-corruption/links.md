@@ -75,3 +75,4 @@
 - https://securityforeveryone.com/blog/google-chrome-zero-day-vulnerability-cve-2021-30573
 - https://labs.taszk.io/articles/post/unziploc/
 - https://www.zscaler.com/blogs/security-research/analysis-adobe-acrobat-reader-javascript-docprint-use-after-free
+- https://twitter.com/FlashbackPwn/status/1492074441450397698
