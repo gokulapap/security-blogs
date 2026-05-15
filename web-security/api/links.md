@@ -2,3 +2,4 @@
 - https://medium.com/@gurudatt.sa26/cypress-understanding-basics-of-api-testing-f81e4f70cca9
 - https://medium.com/@harish_nataraj/making-api-bug-bounties-a-breeze-bf6443db5b37
 - https://medium.com/@dcube.merlin/basic-web-security-testing-apis-58f37e01a730
+- https://medium.com/@evilprince007/broken-object-level-authorization-in-vapi-8a994c50b711

@@ -121,3 +121,4 @@
 - https://medium.com/bugbountywriteup/token-brute-force-to-account-take-over-to-privilege-escalation-to-organization-take-over-650d14c7ce7f
 - https://medium.com/@rohitcoder/user-account-takeover-password-change-nice-catch-2293f4d272b2
 - https://hunter-55.medium.com/from-bug-bounty-hunter-to-risk-analyst-my-cybersecurity-journey-at-deloitte-56e7835619e4
+- https://ysamm.com/?p=646
