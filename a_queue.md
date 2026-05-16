@@ -3,7 +3,6 @@
 - https://medium.com/@_deshine_/easy-2000-race-condition-b4d093c9bc3c, race-condition
 - https://medium.com/@vickieli/intro-to-ssrf-beb35857771f, ssrf
 - https://medium.com/@nanwinata/rce-docker-api-but-11ff70825935, Cloud
-- https://medium.com/@codewithvamp/the-cost-of-neglect-html-injection-3c00e719fdef, html-injection
 - https://medium.com/@ryuukhagetsu/how-i-get-bounty-from-takeover-account-ed17cd838b2a, ATO
 - https://medium.com/@s3c/how-i-hacked-world-wide-tiktok-users-24e794d310d2, journey
 - https://medium.com/@terjanq/clobbering-the-clobbered-advanced-dom-clobbering-8443547ebe94, misc
@@ -71,7 +70,6 @@
 - https://material.security/blog/how-material-security-uncovered-a-vulnerability-in-gmail-api, Broken-Access-Control
 - https://starlabs.sg/advisories/23/23-2017/, SSTI
 - https://offsec.almond.consulting/ghostscript-cve-2023-28879.html, Buffer-Overflow
-- https://medium.com/@zhero_/a-successful-prototype-pollution-chained-to-a-dom-xss-9887087b56a4, Prototype-pollution
 - https://vitorfalcao.com/posts/simple-bugs/overwritting-files/, Normalization
 - https://www.zerodayinitiative.com/blog/2023/4/5/bash-privileged-mode-vulnerabilities-in-parallels-desktop-and-cdpath-handling-in-macos, MacoS
 - https://bishopfox.com/blog/windows-task-scheduler-19044-advisory, Unquoted-search-path
@@ -448,7 +446,6 @@
 - https://medium.com/@mohamedayad_72488/bypass-user-restriction-registration-cbfc4eb855, Logic-flaw
 - https://medium.com/bugbountywriteup/how-i-lost-my-followers-on-medium-9fe10e9862aa, GraphQL
 - https://medium.com/@sudipshah_66336/the-story-of-my-first-4-digit-bounty-from-facebook-3a29830e03cd, Logic-flaw
-- https://medium.com/bugbountywriteup/exploiting-imported-libraries-to-bypass-cloudflare-waf-7aed99186c5a, Reflected-XSS
 - https://medium.com/@rafaelrodripaz/ssrf-in-import-file-function-d0f1c6397262, SSRF
 - https://medium.com/@letssimplysecure/bug-bounty-experience-unvalidated-redirection-vulnerability-eed40d91da27, Open-redirect
 - https://medium.com/@sp2417487/a-tale-of-critical-account-take-over-e1b7c180917c, Account-takeover
@@ -465,7 +462,6 @@
 - https://medium.com/bugbountywriteup/bypass-2fa-like-a-boss-378787707ba, Lack-of-rate-limiting
 - https://samcurry.net/hacking-starbucks/, Path-traversal
 - https://medium.com/@abireena2002/how-i-managed-to-escalate-privilege-as-admin-94b8dc910d14, Lack-of-rate-limiting
-- https://ysamm.com/?p=460, Privilege-escalation
 - https://medium.com/@mudassirsharief58/hunt-for-sql-injection-the-smart-way-db85243a4e90, SQL-injection
 - https://kb.cert.org/vuls/id/636397, DoS
 - https://research.securitum.com/the-curious-case-of-copy-paste/, XSS
@@ -508,7 +504,6 @@
 - https://medium.com/@vbharad/full-account-takeover-android-application-78fa922f78c5, Information-disclosure
 - https://medium.com/@dPhoeniixx/vimeo-upload-function-ssrf-7466d8630437, SSRF
 - https://www.ezequiel.tech/p/500-getclass.html, Sandbox-bypass
-- https://medium.com/@navne3t/a-25-easy-bug-bdfcde4d1370, Session-management-issue
 - https://blog.darabi.me/2019/12/instagram-delete-media-csrf.html, CSRF
 - https://www.hackerinside.me/2019/12/xss-like-pro.html, XSS
 - https://rez0.blog/hacking/2019/11/29/rce-via-imagetragick.html, RCE

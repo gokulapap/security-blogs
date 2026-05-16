@@ -119,3 +119,4 @@
 - https://web.archive.org/web/20200929003337/https://www.mohamedharon.com/2018/04/reflected-xss-on-wwwzomatocom-by.html
 - https://thevillagehacker.medium.com/reflected-xss-on-a-public-program-e8c0416daca1
 - https://medium.com/@0day_exploit/stored-xss-injection-permanent-open-redirection-e14ffa11573c
+- https://medium.com/bugbountywriteup/exploiting-imported-libraries-to-bypass-cloudflare-waf-7aed99186c5a

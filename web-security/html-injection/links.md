@@ -1,2 +1,3 @@
 - https://medium.com/@darshanstanislaus/account-takeover-by-html-injection-d02bbfb43845
 - https://medium.com/@abdulparkar9554/how-i-found-stored-xss-html-injection-vulnerability-on-microsoft-6b8682c03680
+- https://medium.com/@codewithvamp/the-cost-of-neglect-html-injection-3c00e719fdef

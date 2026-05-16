@@ -6,3 +6,4 @@
 - https://www.codean.io/blog/vulnerability-write-up---%22dangerous-assumptions%22
 - https://blog.abdulrah33m.com/prototype-pollution-in-python/
 - https://portswigger.net/research/widespread-prototype-pollution-gadgets
+- https://medium.com/@zhero_/a-successful-prototype-pollution-chained-to-a-dom-xss-9887087b56a4
