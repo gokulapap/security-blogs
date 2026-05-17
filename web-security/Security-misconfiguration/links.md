@@ -4,3 +4,4 @@
 - https://www.wiz.io/blog/azure-app-service-source-code-leak
 - https://www.synacktiv.com/sites/default/files/2023-06/synacktiv-ucopia-multiple-vulnerabilities-2022.pdf
 - https://infosecwriteups.com/complete-take-over-of-cisco-unified-communications-manager-due-consecutively-misconfigurations-2a1b5ce8bd9a
+- https://shahjerry33.medium.com/api-misconfiguration-no-swag-of-swaggerui-9b43135346be

@@ -326,3 +326,4 @@
 - https://www.updatelap.com/2019/08/Rights-Manager-Graph-API-Disclosure-of-business-employee-to-non-business-employee.html
 - https://ysamm.com/?p=700
 - https://www.secjuice.com/api-misconfiguration-data-breach/
+- https://edoverflow.com/2019/ci-knew-there-would-be-bugs-here/

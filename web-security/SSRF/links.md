@@ -164,3 +164,4 @@
 - https://notifybugme.medium.com/aws-internal-metadata-accessed-through-ssrf-by-chaining-an-open-redirect-bug-c4b0e4838dc
 - https://www.ezequiel.tech/2020/05/rce-in-cloud-dm.html
 - https://starlabs.sg/blog/2022/10-sharepoint-post-authenticated-ssrf-vulnerability/
+- https://kuldeep.io/posts/escalating-privileges-with-ssrf/

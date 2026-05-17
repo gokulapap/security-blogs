@@ -136,3 +136,4 @@
 - https://medium.com/bugbountywriteup/bypassing-the-fix-of-my-previous-instagram-bug-49ece4ea7e1d
 - https://baibhavjha.com.np/blogs/instagramstory/
 - https://ysamm.com/?p=214
+- https://securecloud.blog/2022/04/09/msrc-join-security-research-write-up-azure-ad-consent-bypass-disclosure-with-kim-jamia-q1-2022/

@@ -137,3 +137,4 @@
 - https://dewcode.medium.com/how-i-found-29-stored-xss-in-modern-framework-1cfe60a107a0
 - https://web.archive.org/web/20210909040725/https://obsrva.org/2021/08/22/monkeytype-disclosure.html
 - https://apapedulimu.click/multiple-stored-xss-on-tokopedia/
+- https://infosecwriteups.com/stored-xss-to-organisation-takeover-6eaaa2fdcd5b
