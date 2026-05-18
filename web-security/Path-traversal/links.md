@@ -44,3 +44,4 @@
 - https://blog.trailofbits.com/2023/02/21/vscode-extension-escape-vulnerability/
 - https://krevetk0.medium.com/10-000-for-a-vulnerability-that-doesnt-exist-9dbc63684e94
 - https://securitylab.github.com/advisories/GHSL-2021-1053_Grafana/
+- https://blog.it-securityguard.com/bug-bounty-prezi-map-prezi-com-path-traversal/

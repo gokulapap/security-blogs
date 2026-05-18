@@ -2,3 +2,4 @@
 - https://medium.com/@mehedishakeel/improper-access-control-my-third-finding-on-hackerone-1455e95b6c8c
 - https://medium.com/@grahamzemel/1000-bac-the-complete-guide-to-exploiting-broken-access-control-966f1bd121e9
 - https://medium.com/@0xm5awy/how-to-find-business-logics-and-broken-access-control-bugs-a31c1a03ced4
+- https://medium.com/@K9ightFr3ak/exploiting-broken-access-control-vulnerability-4d16f72c7983

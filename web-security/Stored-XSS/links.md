@@ -138,3 +138,4 @@
 - https://web.archive.org/web/20210909040725/https://obsrva.org/2021/08/22/monkeytype-disclosure.html
 - https://apapedulimu.click/multiple-stored-xss-on-tokopedia/
 - https://infosecwriteups.com/stored-xss-to-organisation-takeover-6eaaa2fdcd5b
+- https://medium.com/@friendly_/stored-xss-in-gameskinny-aa26c6a6ae40
