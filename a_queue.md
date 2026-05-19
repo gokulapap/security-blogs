@@ -379,7 +379,6 @@
 - https://ysamm.com/?p=625, Open-redirect
 - https://ysamm.com/?p=613, Information-disclosure
 - https://servicenger.com/blog/mobile/sending-ephemeral-message-to-any-facebook-user/, IDOR
-- https://sanderwind.medium.com/escalating-ssrf-to-rce-7c0147371c40, SSRF
 - https://amineaboud.medium.com/disclose-the-fb-profile-of-facebook-employees-who-create-official-announcement-messages-bug-76554068caf7, Information-disclosure
 - https://web.archive.org/web/20210201180254/https://www.cysek.org/post/bac-sxss, Stored-XSS
 - https://medium.com/bugbountywriteup/bragging-rights-part-1-short-story-of-a-bug-wave-dbb88f48b604, IDOR
@@ -471,7 +470,6 @@
 - https://medium.com/@sandeepkumarsingh1902/bugbounty-adding-money-using-response-modification-334448d34251, Payment-tampering
 - https://medium.com/@hbothra22/recon-to-sensitive-information-disclosure-in-minutes-503fc7ccdf0b, Information-disclosure
 - https://medium.com/@d0nut/piercing-the-veal-short-stories-to-read-with-friends-4aa86d606fc5, SSRF
-- https://www.cyberark.com/threat-research-blog/beware-of-the-gif-account-takeover-vulnerability-in-microsoft-teams/, Account-takeover
 - https://web.archive.org/web/20200513210337/https://medium.com/bugbountywriteup/the-secret-sauce-of-bug-bounty-bdcc2e2d45af, CSTI
 - https://blog.zimperium.com/multiple-kernel-vulnerabilities-affecting-all-qualcomm-devices/, Memory-corruption
 - https://medium.com/@shahjerry33/business-logic-errors-a-new-look-3b18d9c2a12f, Logic-flaw
@@ -501,7 +499,6 @@
 - https://blog.darabi.me/2019/12/instagram-delete-media-csrf.html, CSRF
 - https://www.hackerinside.me/2019/12/xss-like-pro.html, XSS
 - https://rez0.blog/hacking/2019/11/29/rce-via-imagetragick.html, RCE
-- https://medium.com/@mohameddaher/how-i-paid-2-for-1054-xss-bug-20-chars-blind-xss-payloads-12d32760897b, XSS
 - https://web.archive.org/web/20200929013918/https://www.mohamedharon.com/2019/11/subdomain-takeover-via.html, Subdomain-takeover
 - https://philippeharewood.com/disclose-the-owner-of-a-recruiting-manager-in-jobs-beta/, Information-disclosure
 - https://web.archive.org/web/20220826045457/https://blog.bi.tk/chrome-cors/, Caching-issue
@@ -559,7 +556,6 @@
 - https://medium.com/@sharan.panegav/account-takeover-using-cross-site-websocket-hijacking-cswh-99cf9cea6c50, Cross-Site-WebSocket-Hijacking
 - https://staaldraad.github.io/post/2019-03-02-universal-rce-ruby-yaml-load/, Insecure-deserialization
 - https://spyclub.tech/2019/02/26/horizontal-privilege-escalation-on-quora/, Privilege-escalation
-- https://medium.com/@logicbomb_1/chain-of-hacks-leading-to-database-compromise-b2bc2b883915, LFI
 - https://sites.google.com/securifyinc.com/secblogs/exploitingcalendars, Authorization-flaw
 - https://gauravnarwani.com/never-stop-at-banner-grabbing/, Information-disclosure
 - https://www.linkedin.com/pulse/hacking-youtube-fun-profit-alexandru-coltuneac/, IDOR
@@ -613,7 +609,6 @@
 - https://blog.evanricafort.com/2018/08/blind-xss-in-chrome-experiments-google.html, Blind-XSS
 - https://medium.com/@logicbomb_1/bugbounty-paytm-customer-information-is-at-risk-indias-largest-digital-wallet-company-6f7116d4b2d5, IDOR
 - https://www.youtube.com/watch?v=0oKHov6y6mw, Stored-XSS
-- https://blog.bentkowski.info/2018/07/vulnerability-in-hangouts-chat-aka-how.html, Open-redirect
 - https://opnsec.com/2018/07/into-the-borg-ssrf-inside-google-production-network/, SSRF
 - https://www.ambionics.io/blog/prestashop-privilege-escalation, Privilege-escalation
 - https://medium.com/@yassergersy/account-take-over-via-reset-password-f2e9d887bce1, Password-reset

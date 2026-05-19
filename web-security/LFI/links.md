@@ -31,3 +31,4 @@
 - https://medium.com/bugbountywriteup/how-i-hacked-redbus-an-online-bus-ticketing-application-24ef5bb083cd
 - http://blog.jr0ch17.com/2018/No-RCE-then-SSH-to-the-box/
 - https://matan-h.com/one-lfi-bypass-to-rule-them-all-using-base64/
+- https://medium.com/@logicbomb_1/chain-of-hacks-leading-to-database-compromise-b2bc2b883915

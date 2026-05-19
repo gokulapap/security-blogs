@@ -165,3 +165,4 @@
 - https://www.ezequiel.tech/2020/05/rce-in-cloud-dm.html
 - https://starlabs.sg/blog/2022/10-sharepoint-post-authenticated-ssrf-vulnerability/
 - https://kuldeep.io/posts/escalating-privileges-with-ssrf/
+- https://sanderwind.medium.com/escalating-ssrf-to-rce-7c0147371c40
