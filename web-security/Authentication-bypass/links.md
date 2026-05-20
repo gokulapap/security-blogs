@@ -83,3 +83,4 @@
 - https://blog.hacktivesecurity.com/index.php/2021/10/05/cve-2021-43136-formalms-the-evil-default-value-that-leads-to-authentication-bypass/
 - https://medium.com/@yassergersy/access-to-staging-environment-via-user-agent-string-23470546577f
 - https://medium.com/@mustafakhan_89646/asuss-admin-panel-auth-bypass-af5062584ddf
+- https://mohitdabas.wordpress.com/2018/09/18/bypassing-authentication-using-javascript-debugger/

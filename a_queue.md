@@ -79,7 +79,6 @@
 - https://cupc4k3.lol/ssti-leads-to-rce-on-pyrocms-7515be27c811, SSTI
 - https://medium.com/@bag0zathev2/easy-via-api-params-manipulation-leading-to-bypassing-the-email-verification-block-a45dad2db60c, Mass-assignment
 - https://medium.com/@hritkmjth/directory-traversal-and-lfi-worth-400-c4422785d3bd, Path-traversal
-- https://blog.scrt.ch/2023/03/14/producing-a-poc-for-cve-2022-42475-fortinet-rce/, Memory-corruption
 - https://ltsirkov.medium.com/netflix-smart-tv-chaining-self-xss-with-session-poisoning-3eb7c78c7914, Self-XSS
 - https://infosecwriteups.com/account-takeover-an-epic-bug-bounty-story-dd5468d5773d, Account-takeover
 - https://noahblog.360.cn/cve-2022-36413-unauthorized-reset-password-of-zoho-manageengine-adselfservice-plus/, Password-reset
@@ -114,7 +113,6 @@
 - https://research.nccgroup.com/2023/01/20/technical-advisory-multiple-vulnerabilities-in-the-galaxy-app-store-cve-2023-21433-cve-2023-21434/, Android
 - https://medium.com/pentesternepal/two-factor-authentication-bypass-on-facebook-3f4ac3ea139c, MFA-bypass
 - https://www.zerodayinitiative.com/blog/2023/1/18/cve-2022-35690-unauthenticated-rce-in-adobe-coldfusion, RCE
-- https://onekey.com/blog/security-advisory-wago-unauthenticated-config-export-vulnerability/, Path-traversal
 - https://blog.viettelcybersecurity.com/cve-2022-21587-oracle-e-business-suite-unauth-rce/, RCE
 - https://blog.geekycat.in/xss-using-postmessage-in-google-cloud-theia-notebooks/, XSS
 - https://ymohagheghi.medium.com/uploading-the-webshell-using-filename-of-content-disposition-header-story-59ba87752311, Unrestricted-file-upload
@@ -313,7 +311,6 @@
 - https://dewcode.medium.com/force-browsing-bug-at-facebook-business-plan-500-bounty-73d1bb4883af, Authorization-flaw
 - https://www.akamai.com/blog/security/autodiscovering-the-great-leak, Domain-name-collision
 - https://pwnsauc3.medium.com/weaponizing-reflected-xss-to-account-takeover-ae8aeea7aca3, XSS
-- https://s3c.medium.com/how-i-hacked-world-wide-tiktok-users-24e794d310d2, IDOR
 - https://medium.com/@katikitala.sushmitha078/how-i-can-take-over-any-users-account-with-their-mobile-number-6d820a364cad, Account-takeover
 - https://medium.com/pentesternepal/hacking-dutch-government-for-a-lousy-t-shirt-8e1fd1b56deb, IDOR
 - https://cho0k.com/wp-content/uploads/2021/08/FullPoC.pdf, Privilege-escalation
@@ -444,7 +441,6 @@
 - https://medium.com/@sp2417487/a-tale-of-critical-account-take-over-e1b7c180917c, Account-takeover
 - https://blog.securityevaluators.com/tenda-ac1900-vulnerabilities-discovered-and-exploited-e8e26aa0bc68, CSRF
 - https://philippeharewood.com/see-whether-a-hackercup-facebook-participant-allows-recruitment-contact/, Information-disclosure
-- https://vj0shii.github.io/exploiting-application-logic-to-referral-code-disclosure/, Logic-flaw
 - https://medium.com/@b3twise/how-i-found-10-remote-code-execution-in-10-minutes-cve-2020-5902-3def1aa29e9b, RCE
 - https://xvnpw.github.io/posts/from-dot-in-regex-to-ssrf-part-3/, SSRF
 - https://medium.com/@daoud_youssef/from-host-header-injection-to-sql-injection-e7c61a61b575, Host-header-injection
@@ -595,7 +591,6 @@
 - https://nirmaldahal.com.np/posts/2019/11/r-xss-leading-csrf-bypass-to-account-takeover/, Reflected-XSS
 - https://websecblog.com/vulns/bypassing-firebase-authorization-to-create-custom-goo-gl-subdomains/, Logic-flaw
 - https://medium.com/@jonathanbouman/local-file-inclusion-at-ikea-com-e695ed64d82f, LFI
-- https://mohitdabas.wordpress.com/2018/09/18/bypassing-authentication-using-javascript-debugger/, Authentication-bypass
 - https://randywestergren.com/xss-vulnerabilities-in-multiple-iframe-busters-affecting-top-tier-sites/, XSS
 - https://web.archive.org/web/20200811013311/https://medium.com/@protector47/persistent-cross-site-scripting-on-redacted-worth-2-000-1e760617ccab, Stored-XSS
 - https://medium.com/@Mthirup/hacking-your-own-antivirus-for-fun-and-profit-safe-browsing-gone-wrong-365db9d1d3f7, Reflected-XSS

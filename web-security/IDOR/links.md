@@ -300,3 +300,4 @@
 - https://medium.com/@avinash_/disclosure-of-pending-roles-for-any-facebook-page-ab6e4e219f8e
 - https://guptashubham.com/all-about-hackerone-private-program-terapeak/
 - https://web.archive.org/web/20220309092244/https://s0cket7.com/idor-account-takeover/
+- https://s3c.medium.com/how-i-hacked-world-wide-tiktok-users-24e794d310d2
