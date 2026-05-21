@@ -137,3 +137,4 @@
 - https://baibhavjha.com.np/blogs/instagramstory/
 - https://ysamm.com/?p=214
 - https://securecloud.blog/2022/04/09/msrc-join-security-research-write-up-azure-ad-consent-bypass-disclosure-with-kim-jamia-q1-2022/
+- https://medium.com/@pig.wig45/bypassing-access-control-in-a-program-on-hackerone-ef213ab34703

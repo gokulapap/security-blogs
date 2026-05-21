@@ -82,7 +82,6 @@
 - https://ltsirkov.medium.com/netflix-smart-tv-chaining-self-xss-with-session-poisoning-3eb7c78c7914, Self-XSS
 - https://infosecwriteups.com/account-takeover-an-epic-bug-bounty-story-dd5468d5773d, Account-takeover
 - https://noahblog.360.cn/cve-2022-36413-unauthorized-reset-password-of-zoho-manageengine-adselfservice-plus/, Password-reset
-- https://medium.com/@Ano_F_/manipulating-encrypted-traffic-using-pycript-b637612528bb, Client-side-encryption-bypass
 - https://eaton-works.com/2023/03/06/toyota-c360-hack/, Authentication-bypass
 - https://hunter-55.medium.com/500-bounty-in-just-5-minutes-through-recon-5eeb6c299c3c, AWS-misconfiguration
 - https://medium.com/@kushjain0107/how-simple-idor-impacted-the-data-of-thousands-of-customers-of-an-indian-automotive-giant-fdbd2ef1c2c6, Account-takeover
@@ -227,7 +226,6 @@
 - https://medium.com/@sharp488/2fa-bypass-on-private-bug-bounty-program-due-to-csrf-token-misconfiguration-5a9c82151a1, MFA-bypass
 - https://breakpoint.sh/posts/snyk-code-broken-access-control, Path-traversal
 - https://infosecwriteups.com/bypassing-waf-to-weaponize-a-stored-xss-ff9963c421ee, Stored-XSS
-- https://melotover.medium.com/can-analyzing-javascript-files-lead-to-remote-code-execution-f24112f1aa1f, Unrestricted-file-upload
 - https://web.archive.org/web/20220516024454/https://medium.com/@tobydavenn/how-i-paid-for-my-holiday-with-bug-bounty-668f1f59e6e5, XSS
 - https://blog.assetnote.io/2022/04/27/vmware-workspace-one-uem-ssrf/, SSRF
 - https://systemweakness.com/unlock-any-blur-text-picture-without-membership-subscription-on-scribd-com-by-neuchi-69237776e24, Payment-bypass
@@ -287,7 +285,6 @@
 - https://zseano.medium.com/finding-xss-on-apple-com-and-building-a-proof-of-concept-to-leak-your-pii-information-d7bc93cff2df, XSS
 - https://r0.haxors.org/posts?id=26, SQL-injection
 - https://lethanhphuc-pk.medium.com/bugbounty-xss-with-markdown-exploit-fix-on-opensource-1baecebe9645, XSS
-- https://blog.dixitaditya.com/2021/11/19/account-takeover-chain.html, Account-takeover
 - https://feed.bugs.xdavidhu.me/bugs/0008, Privilege-escalation
 - https://hector0x.medium.com/broken-authentication-through-referral-code-25cd0e8bccc2, Authentication-flaw
 - https://hector0x.medium.com/dos-attack-in-yahoo-how-i-was-able-to-deny-new-users-from-service-6b222e744e61, DoS
@@ -492,7 +489,6 @@
 - https://medium.com/@vbharad/full-account-takeover-android-application-78fa922f78c5, Information-disclosure
 - https://medium.com/@dPhoeniixx/vimeo-upload-function-ssrf-7466d8630437, SSRF
 - https://www.ezequiel.tech/p/500-getclass.html, Sandbox-bypass
-- https://blog.darabi.me/2019/12/instagram-delete-media-csrf.html, CSRF
 - https://www.hackerinside.me/2019/12/xss-like-pro.html, XSS
 - https://rez0.blog/hacking/2019/11/29/rce-via-imagetragick.html, RCE
 - https://web.archive.org/web/20200929013918/https://www.mohamedharon.com/2019/11/subdomain-takeover-via.html, Subdomain-takeover
@@ -568,7 +564,6 @@
 - https://medium.com/@hariharan21/stored-xss-via-alternate-text-at-zendesk-support-8bfee68413e4, Stored-XSS
 - https://medium.com/@maxpasqua/stealing-side-channel-attack-tokens-in-facebook-account-switcher-90c5944e3b58, Token-leak
 - https://bugbountypoc.com/how-i-was-able-to-harvest-other-vine-users-ip-address, IDOR
-- https://medium.com/@pig.wig45/bypassing-access-control-in-a-program-on-hackerone-ef213ab34703, Authorization-flaw
 - https://medium.com/@putracraft.theworld/server-side-request-forgery-in-openid-support-defcc64d5e41, SSRF
 - https://blog.scrt.ch/2018/08/24/remote-code-execution-on-a-facebook-server/, LFI
 - https://mohemiv.com/all/exploiting-xxe-with-local-dtd-files/, XXE

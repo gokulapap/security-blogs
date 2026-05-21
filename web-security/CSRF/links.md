@@ -116,3 +116,4 @@
 - https://medium.com/@rajeshranjan457/how-i-csrfd-my-first-bounty-a62b593d3f4d
 - https://ysamm.com/?p=379
 - https://web.archive.org/web/20181030103042/https://zseano.com/blogs/4.html
+- https://blog.darabi.me/2019/12/instagram-delete-media-csrf.html

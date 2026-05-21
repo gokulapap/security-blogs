@@ -123,3 +123,4 @@
 - https://hunter-55.medium.com/from-bug-bounty-hunter-to-risk-analyst-my-cybersecurity-journey-at-deloitte-56e7835619e4
 - https://ysamm.com/?p=646
 - https://www.cyberark.com/threat-research-blog/beware-of-the-gif-account-takeover-vulnerability-in-microsoft-teams/
+- https://blog.dixitaditya.com/2021/11/19/account-takeover-chain.html
