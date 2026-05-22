@@ -46,3 +46,4 @@
 - https://securitylab.github.com/advisories/GHSL-2021-1053_Grafana/
 - https://blog.it-securityguard.com/bug-bounty-prezi-map-prezi-com-path-traversal/
 - https://onekey.com/blog/security-advisory-wago-unauthenticated-config-export-vulnerability/
+- https://samcurry.net/hacking-starbucks/

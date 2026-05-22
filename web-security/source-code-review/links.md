@@ -1,2 +1,3 @@
 - https://medium.com/@pravinponnusamy/secure-code-review-and-sql-injection-d8a1a6da3d67
 - https://medium.com/@vickieli/scanning-for-secrets-in-source-code-9fcb486f8c0e
+- https://medium.com/@haythamkarouata/bug-bounty-hunting-101-js-files-diving-4b1753fefb3d
