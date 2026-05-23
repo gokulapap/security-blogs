@@ -8,3 +8,4 @@
 - https://ophionsecurity.com/blog/phishing-the-anti-phishers
 - https://research.aurainfosec.io/pentest/hook-line-and-phishlet/
 - https://outflank.nl/blog/2021/12/09/a-phishing-document-signed-by-microsoft/
+- https://www.trustedsec.com/blog/modeling-malicious-code-hacking-in-3d/

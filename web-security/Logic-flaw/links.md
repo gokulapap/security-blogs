@@ -200,3 +200,4 @@
 - https://ahussam.me/leak-private-videos-vimeo/
 - https://web.archive.org/web/20200626065913/https://medium.com/@saugatpokharel/able-to-create-hidden-comment-by-blocking-an-admin-facebook-bug-bounty-2020-c62bd10712f
 - https://vj0shii.github.io/exploiting-application-logic-to-referral-code-disclosure/
+- https://ph-hitachi.medium.com/view-friends-list-of-any-users-using-view-as-facebook-bug-bounty-edeb6af5640b
