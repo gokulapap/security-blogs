@@ -334,3 +334,4 @@
 - https://testbnull.medium.com/weblogic-rce-by-only-one-get-request-cve-2020-14882-analysis-6e4b09981dbf
 - https://weizman.github.io/2020/02/14/whatsapp-vuln/
 - https://blog.qualys.com/vulnerabilities-threat-research/2023/07/19/cve-2023-38408-remote-code-execution-in-opensshs-forwarded-ssh-agent
+- https://blog.bricked.tech/posts/tmnf/part1/

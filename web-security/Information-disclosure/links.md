@@ -327,3 +327,4 @@
 - https://ysamm.com/?p=700
 - https://www.secjuice.com/api-misconfiguration-data-breach/
 - https://edoverflow.com/2019/ci-knew-there-would-be-bugs-here/
+- https://pratikkhalane91.medium.com/how-i-was-able-to-bypass-the-admin-panel-without-the-credentials-d65f90e0e1e4
