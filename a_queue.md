@@ -54,7 +54,6 @@
 - https://neodyme.io/blog/csgo_from_zero_to_0day/, Game-hacking
 - https://chevonphillip.medium.com/rce-due-to-dependency-confusion-5000-bounty-fd1b294d645f, Dependency-confusion
 - https://blog.ankursundara.com/cookie-bugs/, Cookie-smuggling
-- https://danrevah.github.io/2023/05/03/CVE-2023-25394-VideoStream-LPE/, Local-Privilege-Escalation
 - https://sumedh00.medium.com/accessing-admin-dashboard-in-5-seconds-acee737eacfb, Default-credentials
 - https://ophionsecurity.com/blog/placeholder-for-dayzzz, SSTI
 - https://medium.com/@lopseg/bug-bounty-writeup-stored-xss-vulnerability-waf-bypass-f38aae7ff9eb, Stored-XSS
@@ -84,7 +83,6 @@
 - https://medium.com/@kushjain0107/how-simple-idor-impacted-the-data-of-thousands-of-customers-of-an-indian-automotive-giant-fdbd2ef1c2c6, Account-takeover
 - https://www.synacktiv.com/sites/default/files/2023-02/Synacktiv-IBM-TWS-CVE-2022-38389.pdf, XXE
 - https://github.blog/2023-02-23-the-code-that-wasnt-there-reading-memory-on-an-android-device-by-accident/, Kernel-hacking
-- https://medium.com/@knassar702/with-a-single-request-you-can-kill-any-gitea-server-1275c5f3b226, Application-level-DoS
 - https://www.vaadata.com/blog/exploiting-an-html-injection-with-dangling-markup/, HTML-injection
 - https://www.praetorian.com/blog/using-crlf-injection-to-bypass-akamai-web-app-firewall/, WAF-bypass
 - https://medium.com/@niraj1mahajan/hacking-the-search-bar-the-story-of-discovering-and-reporting-an-xss-vulnerability-on-bing-com-cac2f241835, XSS
@@ -98,7 +96,6 @@
 - https://blog.quarkslab.com/post-exploitation-abusing-the-keepass-plugin-cache.html, Local-Privilege-escalation
 - https://eaton-works.com/2023/02/06/toyota-gspims-hack/, Authentication-bypass
 - https://bloggerrando.blogspot.com/2023/02/06-2.html, Logic-flaw
-- https://www.cyberark.com/resources/threat-research-blog/breaking-docker-named-pipes-systematically-docker-desktop-privilege-escalation-part-1, Local-Privilege-Escalation
 - https://onekey.com/blog/security-advisory-remote-command-execution-in-binwalk/, RCE
 - https://medium.com/@abhisekr/discovered-a-critical-idor-and-earned-900-for-my-first-p1-vulnerability-57c1e72f42c1, IDOR
 - https://akashc99.medium.com/bypassing-account-lockout-through-password-reset-functionality-8ff5c256f380, Rate-limiting-bypass
@@ -256,7 +253,6 @@
 - https://medium.com/@robert0/how-i-found-broken-access-control-through-out-of-sync-setup-and-got-1000-9143fc5febdd, Broken-Access-Control
 - https://systemweakness.com/host-header-injection-lead-to-account-takeover-2f025a645d13, Host-header-injection
 - https://noob3xploiter.medium.com/2fa-bypass-by-reading-the-documentation-3260a372d8a8, MFA-bypass
-- https://outflank.nl/blog/2022/01/07/a-phishing-document-signed-by-microsoft-part-2/, Phishing
 - https://infosecwriteups.com/authorization-bypass-gmail-2949af041fb, Spoofing
 - https://systemweakness.com/accessing-godaddy-internal-instance-through-an-email-logic-bug-fdbea7b23542, Logic-flaw
 - https://infosecwriteups.com/idor-leads-to-leak-private-details-866563365490, IDOR
@@ -642,7 +638,6 @@
 - https://www.rafaybaloch.com/2017/06/stored-xss-csrf-and-clickjacking.html, Stored-XSS
 - https://ysx.me.uk/a-pair-of-plotly-bugs-stored-xss-and-aws-metadata-ssrf/, Stored-XSS
 - https://philippeharewood.com/find-mingle-suggestions-for-any-facebook-user-revisited/, Logic-flaw
-- https://ysx.me.uk/lightweight-markup-a-trio-of-persistent-xss-in-gitlab/, Stored-XSS
 - https://evilpacket.net/2016/atom-io-misconfiguration-allowed-code-execution-on-untrusted-networks/, RCE
 - https://blog.zsec.uk/gif-time-pornhub/, XSS
 - https://web.archive.org/web/20200819161533/https://whitehatnepal.tumblr.com/post/149937173467/pornhub-email-confirmation-bypass, Email-verification-bypass

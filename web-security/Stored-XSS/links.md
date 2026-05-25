@@ -140,3 +140,4 @@
 - https://infosecwriteups.com/stored-xss-to-organisation-takeover-6eaaa2fdcd5b
 - https://medium.com/@friendly_/stored-xss-in-gameskinny-aa26c6a6ae40
 - https://infosecwriteups.com/bypassing-waf-to-weaponize-a-stored-xss-ff9963c421ee
+- https://ysx.me.uk/lightweight-markup-a-trio-of-persistent-xss-in-gitlab/

@@ -92,3 +92,5 @@
 - https://medium.com/csis-techblog/cve-2020-1088-yet-another-arbitrary-delete-eop-a00b97d8c3e2
 - https://www.zerodayinitiative.com/blog/2023/1/23/activation-context-cache-poisoning-exploiting-csrss-for-privilege-escalation
 - https://www.offensive-security.com/offsec/macos-preferences-priv-escalation/
+- https://www.cyberark.com/resources/threat-research-blog/breaking-docker-named-pipes-systematically-docker-desktop-privilege-escalation-part-1
+- https://danrevah.github.io/2023/05/03/CVE-2023-25394-VideoStream-LPE/

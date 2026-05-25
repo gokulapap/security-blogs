@@ -7,3 +7,4 @@
 - https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/vulnerability-causing-deletion-of-all-users-in-crushftp-admin-area/
 - https://medium.com/@kalvik/pre-denial-of-service-set-up-2fa-on-unverified-account-8399af52ea2d
 - https://www.metabaseq.com/imagemagick-zero-days/
+- https://medium.com/@knassar702/with-a-single-request-you-can-kill-any-gitea-server-1275c5f3b226
