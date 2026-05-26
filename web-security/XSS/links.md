@@ -346,3 +346,4 @@
 - https://medium.com/@DrakenKun/how-i-was-able-to-find-4-cross-site-scripting-xss-on-vulnerability-disclosure-program-e2f39199ae16
 - https://medium.com/@mohameddaher/how-i-paid-2-for-1054-xss-bug-20-chars-blind-xss-payloads-12d32760897b
 - https://aidilarf.medium.com/xss-blind-stored-at-2-assets-tiktok-f32829f11e58
+- https://carvesystems.com/news/xss-through-dhcp-how-attackers-use-standards/

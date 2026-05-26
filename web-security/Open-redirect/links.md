@@ -92,3 +92,4 @@
 - https://medium.com/bugbountywriteup/dont-stop-at-one-bug-d3c56806b5
 - https://web.archive.org/web/20230515045300/https://www.kaytaq.com/uncategorized/bypassing-open-redirect-protection-site-wide-on-web2py-applications/
 - https://blog.bentkowski.info/2018/07/vulnerability-in-hangouts-chat-aka-how.html
+- https://www.vulnerability-db.com/?q=articles/2018/11/16/microsoft-bingplaces-business-url-redirect-vulnerability
