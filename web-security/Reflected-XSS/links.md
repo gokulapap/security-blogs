@@ -120,3 +120,4 @@
 - https://thevillagehacker.medium.com/reflected-xss-on-a-public-program-e8c0416daca1
 - https://medium.com/@0day_exploit/stored-xss-injection-permanent-open-redirection-e14ffa11573c
 - https://medium.com/bugbountywriteup/exploiting-imported-libraries-to-bypass-cloudflare-waf-7aed99186c5a
+- https://medium.com/@paulorcchoupina/a-real-xss-in-olx-7727ae89c640
