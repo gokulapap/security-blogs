@@ -25,3 +25,4 @@
 - https://orca.security/resources/blog/synapse-local-privilege-escalation-vulnerability-spark/
 - https://www.josipfranjkovic.com/blog/race-conditions-on-web
 - https://blog.evanricafort.com/2021/06/generate-online-votes-using-race.html
+- https://infosecwriteups.com/how-i-was-able-to-get-29-free-products-bug-bounty-845667ab4ad4

@@ -203,3 +203,4 @@
 - https://ph-hitachi.medium.com/view-friends-list-of-any-users-using-view-as-facebook-bug-bounty-edeb6af5640b
 - https://zseano.medium.com/how-signing-up-for-an-account-with-an-company-com-email-can-have-unexpected-results-7f1b700976f5
 - https://medium.com/@shahjerry33/business-logic-errors-a-new-look-3b18d9c2a12f
+- https://noobe.io/articles/2020-01/how-i-found-bug-google-search-console
