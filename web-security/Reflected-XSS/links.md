@@ -121,3 +121,4 @@
 - https://medium.com/@0day_exploit/stored-xss-injection-permanent-open-redirection-e14ffa11573c
 - https://medium.com/bugbountywriteup/exploiting-imported-libraries-to-bypass-cloudflare-waf-7aed99186c5a
 - https://medium.com/@paulorcchoupina/a-real-xss-in-olx-7727ae89c640
+- https://cirius.medium.com/escalating-xss-to-account-takeover-ffde08624937
