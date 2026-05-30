@@ -66,3 +66,4 @@
 - https://medium.com/@iframe_h1/how-i-upgraded-my-privileges-to-the-administrator-of-odnoklassnikis-url-shortener-2c58f996d02c
 - https://ivreznap.medium.com/interesting-privilege-escalation-in-an-old-private-program-225d27253e13
 - https://ysamm.com/?p=460
+- https://spyclub.tech/2019/02/26/horizontal-privilege-escalation-on-quora/

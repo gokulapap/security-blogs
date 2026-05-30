@@ -204,3 +204,4 @@
 - https://zseano.medium.com/how-signing-up-for-an-account-with-an-company-com-email-can-have-unexpected-results-7f1b700976f5
 - https://medium.com/@shahjerry33/business-logic-errors-a-new-look-3b18d9c2a12f
 - https://noobe.io/articles/2020-01/how-i-found-bug-google-search-console
+- https://thexssrat.medium.com/poc-the-easiest-125-euros-i-ever-made-4dc87f01e286

@@ -301,3 +301,4 @@
 - https://guptashubham.com/all-about-hackerone-private-program-terapeak/
 - https://web.archive.org/web/20220309092244/https://s0cket7.com/idor-account-takeover/
 - https://s3c.medium.com/how-i-hacked-world-wide-tiktok-users-24e794d310d2
+- https://ysamm.com/?p=60

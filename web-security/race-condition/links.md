@@ -1,1 +1,2 @@
 - https://medium.com/@a13h1/millionaire-in-minutes-uncovering-the-race-condition-exploit-df4c191aa007
+- https://medium.com/@_deshine_/easy-2000-race-condition-b4d093c9bc3c

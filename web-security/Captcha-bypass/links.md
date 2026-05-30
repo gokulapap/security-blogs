@@ -5,3 +5,4 @@
 - https://leigh-annegalloway.com/tumblr/
 - https://andresriancho.com/recaptcha-bypass-via-http-parameter-pollution
 - https://portswigger.net/research/cracking-recaptcha-turbo-intruder-style
+- https://medium.com/bugbountywriteup/bypassing-captcha-like-a-boss-d0edcc3a1c1

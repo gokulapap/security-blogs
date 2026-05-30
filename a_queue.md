@@ -1,5 +1,4 @@
 - https://medium.com/@jenishpanchal514/account-takeover-via-response-manipulation-otp-brute-force-b965fc1b7a37, ATO
-- https://medium.com/@_deshine_/easy-2000-race-condition-b4d093c9bc3c, race-condition
 - https://medium.com/@vickieli/intro-to-ssrf-beb35857771f, ssrf
 - https://medium.com/@nanwinata/rce-docker-api-but-11ff70825935, Cloud
 - https://medium.com/@ryuukhagetsu/how-i-get-bounty-from-takeover-account-ed17cd838b2a, ATO
@@ -334,7 +333,6 @@
 - https://polarply.medium.com/the-false-oracle-azure-functions-padding-oracle-issue-2025e0e6b8a, Padding-oracle-attack
 - https://davtur19.medium.com/telegram-bug-bounties-xss-privacy-issues-official-bot-exploitation-and-more-5277fa78435, XSS
 - https://pharish4948.medium.com/how-i-earned-3200-in-4hours-through-stored-xss-38597877d3e1, Stored-XSS
-- https://thexssrat.medium.com/poc-the-easiest-125-euros-i-ever-made-4dc87f01e286, Logic-flaw
 - https://sudhanshur705.medium.com/how-i-made-it-to-google-hof-f1cec85fdb1b, IDOR
 - https://godiego.co/posts/STO-AWS/, Subdomain-takeover
 - https://gccybermonks.com/posts/xss-mozilla/, XSS
@@ -517,7 +515,6 @@
 - https://philippeharewood.com/cve-2018-16794-on-fs-thefacebook-com/, SSRF
 - https://medium.com/@sharan.panegav/account-takeover-using-cross-site-websocket-hijacking-cswh-99cf9cea6c50, Cross-Site-WebSocket-Hijacking
 - https://staaldraad.github.io/post/2019-03-02-universal-rce-ruby-yaml-load/, Insecure-deserialization
-- https://spyclub.tech/2019/02/26/horizontal-privilege-escalation-on-quora/, Privilege-escalation
 - https://gauravnarwani.com/never-stop-at-banner-grabbing/, Information-disclosure
 - https://www.linkedin.com/pulse/hacking-youtube-fun-profit-alexandru-coltuneac/, IDOR
 - https://ysamm.com/?p=171, IDOR
@@ -528,7 +525,6 @@
 - https://www.shawarkhan.com/2019/01/hijacking-accounts-by-retrieving-jwt.html, Open-redirect
 - https://medium.com/bugbountywriteup/frapp%C3%A9-technologies-erpnext-server-side-template-injection-74e1c95ec872, SSTI
 - https://ysamm.com/?p=68, Logic-flaw
-- https://ysamm.com/?p=60, IDOR
 - https://ysamm.com/?p=12, XSS
 - https://medium.com/@hariharan21/stored-xss-via-alternate-text-at-zendesk-support-8bfee68413e4, Stored-XSS
 - https://medium.com/@maxpasqua/stealing-side-channel-attack-tokens-in-facebook-account-switcher-90c5944e3b58, Token-leak
@@ -579,7 +575,6 @@
 - https://medium.com/@prial261/story-of-a-stored-xss-bypass-26e6659f807b, Stored-XSS
 - https://medium.com/@kankrale.rahul/whatsapp-users-ip-disclosure-with-link-preview-feature-39a477f54fba, Information-disclosure
 - https://medium.com/@vis_hacker/how-i-got-stored-xss-using-file-upload-5c33e19df51e, Stored-XSS
-- https://medium.com/bugbountywriteup/bypassing-captcha-like-a-boss-d0edcc3a1c1, Captcha-bypass
 - https://medium.com/bugbountywriteup/piercing-the-veil-server-side-request-forgery-to-niprnet-access-c358fd5e249a, SSRF
 - https://medium.com/@hisham.mir/exploiting-a-single-parameter-6f4ba2acf523, SSRF
 - https://medium.com/@logicbomb_1/bugbounty-your-details-are-saved-into-my-account-user-info-disclosure-vulnerability-in-practo-fe36930a1246, IDOR
