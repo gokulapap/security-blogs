@@ -12,3 +12,4 @@
 - https://medium.com/@jjainam16/otp-verification-bypass-15312498fe10
 - https://medium.com/@ltsirkov/netflix-bypassing-multi-factor-authentication-mfa-53135c9d6d50
 - https://medium.com/@whitedevil4276/otp-bypass-through-burpsuite-in-maruti-nexa-test-drive-e9d82db656b8
+- https://medium.com/@geekboyranjeet/strange-admin-panel-bypass-story-bug-bounty-5e618099baaf

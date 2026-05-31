@@ -11,7 +11,6 @@
 - https://medium.com/@zycc2727/ssrf-cross-site-scripting-a54422d0753e, ssrf
 - https://medium.com/@ahmdhalabi/taking-over-employee-accounts-by-managers-with-zero-employee-interaction-b60784c3ad84, misc
 - https://medium.com/@tomnomnom/making-a-blind-sql-injection-a-little-less-blind-428dcb614ba8, sql-injection
-- https://medium.com/@geekboyranjeet/strange-admin-panel-bypass-story-bug-bounty-5e618099baaf, bypass
 - https://medium.com/@pingsec/interesting-account-takeover-bugs-619df8466ca0, ATO
 - https://medium.com/@thelinuxboy/bugging-out-my-experience-of-earning-300-for-reporting-an-unexpected-bug-ec9f9b0054bc, journey
 - https://medium.com/@ramAnon/bug-bounty-hunting-methodology-toolkit-tips-tricks-blogs-eb142034d5a5, tricks
@@ -19,7 +18,6 @@
 - https://medium.com/@grahamzemel/python-tips-and-tricks-for-cybersecurity-enthusiasts-9504d9541b8b, tricks
 - https://medium.com/@4bdoz/access-more-than-10k-premium-api-keys-python-exploit-c728fdf5eae, automation
 - https://medium.com/@thexssrat/subdomain-flyover-and-manual-exploration-of-the-results-15c69d509091, STO
-- https://medium.com/@pyrrhon/how-i-was-able-to-take-over-one-of-dells-subdomains-7e06b8516e41, STO
 - https://medium.com/@stopvvar/sql-injection-with-insert-statement-bdcf4d47d178, sql-injection
 - https://medium.com/@theredteamer/tesla-paid-me-10-000-because-of-directory-indexing-c1be06c77a3e, journey
 - https://medium.com/@caesarevan23/the-journey-to-get-sql-injection-at-bluepay-blue-indonesia-bluepay-2019-7a23bbce4cb8, journey
@@ -59,7 +57,6 @@
 - https://www.bitsight.com/blog/new-high-severity-vulnerability-cve-2023-29552-discovered-service-location-protocol-slp, DoS
 - https://www.cyberark.com/resources/threat-research-blog/breaking-docker-named-pipes-systematically-docker-desktop-privilege-escalation-part-2, Local-Privilege-Escalation
 - https://material.security/blog/how-material-security-uncovered-a-vulnerability-in-gmail-api, Broken-Access-Control
-- https://starlabs.sg/advisories/23/23-2017/, SSTI
 - https://offsec.almond.consulting/ghostscript-cve-2023-28879.html, Buffer-Overflow
 - https://vitorfalcao.com/posts/simple-bugs/overwritting-files/, Normalization
 - https://www.zerodayinitiative.com/blog/2023/4/5/bash-privileged-mode-vulnerabilities-in-parallels-desktop-and-cdpath-handling-in-macos, MacoS
@@ -141,7 +138,6 @@
 - https://bishopfox.com/blog/jira-align-advisory, SSRF
 - https://www.redteam-pentesting.de/en/advisories/rt-sa-2021-003/-missing-authentication-in-zkteco-zem-zmm-web-interface, Missing-authentication
 - https://mehedishakeel.medium.com/broken-link-hijacking-my-second-finding-on-hackerone-d715b0713fca, Broken-link-hijacking
-- https://medium.com/@h4x0r_dz/23000-for-authentication-bypass-file-upload-arbitrary-file-overwrite-2578b730a5f8, JWT
 - https://lokeshdlk77.medium.com/facebook-sms-captcha-was-vulnerable-to-csrf-attack-8db537b1e980, CSRF
 - https://medium.com/@iknowhatodo/fall-account-takeover-via-amazon-cognito-misconfiguration-ba5975b06c24, IDOR
 - https://mr23r0.medium.com/code-flaws-leads-to-org-admin-account-takeover-ad9515a96eab, Privilege-escalation
@@ -296,7 +292,6 @@
 - https://itsfading.github.io/posts/I-owe-your-Request-HTTP-Request-Smuggling-leads-to-Full-Accounts-takeover/, HTTP-Request-Smuggling
 - https://web.archive.org/web/20210920030213/https://pmoc.netsoc.cloud/oauth-idor-pii/, IDOR
 - https://sunilyedla.medium.com/websocket-hijacking-to-steal-session-id-of-victim-users-bca84243830, Cross-Site-WebSocket-Hijacking
-- https://tiszka.com/blog/CVE_2021_21225.html, Browser-hacking
 - https://medium.com/@viralbhatt100/bypass-google-captcha-parameter-pollution-leads-to-send-email-to-any-user-on-behalf-of-9013aebbabae, HTTP-parameter-pollution
 - https://infosecwriteups.com/how-we-was-able-to-takeover-whole-organization-via-privilege-escalation-4f74b31a84a6, Privilege-escalation
 - https://blog.gypsyengineer.com/en/security/detecting-jackson-deserialization-vulnerabilities-with-codeql.html, Insecure-deserialization

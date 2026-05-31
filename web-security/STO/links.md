@@ -2,3 +2,4 @@
 - https://medium.com/@AhmedMhesham/easiest-way-to-get-subdomain-takeover-76f444c8ee6f
 - https://medium.com/@orkhan_alibayli/subdomain-takeover-95646de1f436
 - https://medium.com/@nynan/what-i-learnt-from-reading-217-subdomain-takeover-bug-reports-c0b94eda4366
+- https://medium.com/@pyrrhon/how-i-was-able-to-take-over-one-of-dells-subdomains-7e06b8516e41

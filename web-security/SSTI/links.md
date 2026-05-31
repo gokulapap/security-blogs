@@ -17,3 +17,4 @@
 - https://blog.onsec.io/when-youre-so-bored-you-start-debugging-someone-elses-code/
 - https://hateshape.github.io/general/2019/09/06/SuperGlamorousReconwithIntendedFunctionalities.html
 - https://sagarsajeev.medium.com/escalating-ssti-to-reflected-xss-using-curly-braces-825685bd93ec
+- https://starlabs.sg/advisories/23/23-2017/
