@@ -335,3 +335,4 @@
 - https://weizman.github.io/2020/02/14/whatsapp-vuln/
 - https://blog.qualys.com/vulnerabilities-threat-research/2023/07/19/cve-2023-38408-remote-code-execution-in-opensshs-forwarded-ssh-agent
 - https://blog.bricked.tech/posts/tmnf/part1/
+- https://blog.infiltrateops.io/hacking-apple-two-successful-exploits-and-positive-thoughts-on-their-bug-bounty-program-963efe7518f6

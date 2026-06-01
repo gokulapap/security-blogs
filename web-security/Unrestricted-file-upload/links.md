@@ -41,3 +41,4 @@
 - https://medium.com/bugbountywriteup/dank-writeup-on-broken-access-control-on-an-indian-startup-d29132a1ecd
 - https://medium.com/@mumeido/from-hobby-to-hacking-5d8befb3adde
 - https://melotover.medium.com/can-analyzing-javascript-files-lead-to-remote-code-execution-f24112f1aa1f
+- https://medium.com/@prathamrajgor/how-i-hacked-into-a-cambridges-server-and-got-appreciation-letter-d19a830756b2

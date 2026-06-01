@@ -141,3 +141,4 @@
 - https://medium.com/@friendly_/stored-xss-in-gameskinny-aa26c6a6ae40
 - https://infosecwriteups.com/bypassing-waf-to-weaponize-a-stored-xss-ff9963c421ee
 - https://ysx.me.uk/lightweight-markup-a-trio-of-persistent-xss-in-gitlab/
+- https://www.youtube.com/watch?v=0oKHov6y6mw
