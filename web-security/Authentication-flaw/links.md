@@ -7,3 +7,4 @@
 - https://medium.com/@danangtriatmaja/bug-bounty-flaw-in-authentication-get-hall-of-fame-google-6196726ee5b9
 - https://ahussam.me/Vine-Reauth-Bypass
 - https://lightningsecurity.io/blog/password-not-provided/
+- https://blog.lightspin.io/exploiting-eks-authentication-vulnerability-in-aws-iam-authenticator
