@@ -47,3 +47,4 @@
 - https://blog.it-securityguard.com/bug-bounty-prezi-map-prezi-com-path-traversal/
 - https://onekey.com/blog/security-advisory-wago-unauthenticated-config-export-vulnerability/
 - https://samcurry.net/hacking-starbucks/
+- https://medium.com/@hritkmjth/directory-traversal-and-lfi-worth-400-c4422785d3bd

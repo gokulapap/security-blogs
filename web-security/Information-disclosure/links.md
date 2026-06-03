@@ -330,3 +330,4 @@
 - https://pratikkhalane91.medium.com/how-i-was-able-to-bypass-the-admin-panel-without-the-credentials-d65f90e0e1e4
 - https://medium.com/@Skylinearafat/how-to-look-for-js-files-vulnerability-for-fun-and-profit-78bfdfbd6731
 - https://blog.securitybreached.org/2018/12/08/how-i-was-able-to-bypass-email-verification/
+- https://www.josipfranjkovic.com/blog/facebook-partners-portal-account-takeover

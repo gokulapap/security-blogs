@@ -302,3 +302,4 @@
 - https://web.archive.org/web/20220309092244/https://s0cket7.com/idor-account-takeover/
 - https://s3c.medium.com/how-i-hacked-world-wide-tiktok-users-24e794d310d2
 - https://ysamm.com/?p=60
+- https://www.darabi.me/2020/12/create-invisible-post-on-any-facebook.html

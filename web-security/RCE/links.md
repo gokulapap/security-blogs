@@ -337,3 +337,4 @@
 - https://blog.bricked.tech/posts/tmnf/part1/
 - https://blog.infiltrateops.io/hacking-apple-two-successful-exploits-and-positive-thoughts-on-their-bug-bounty-program-963efe7518f6
 - https://blog.securitybreached.org/2017/12/19/unrestricted-file-upload-to-rce-bug-bounty-poc/
+- https://0day.click/recipe/pash/
