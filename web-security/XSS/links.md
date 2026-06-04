@@ -348,3 +348,4 @@
 - https://aidilarf.medium.com/xss-blind-stored-at-2-assets-tiktok-f32829f11e58
 - https://carvesystems.com/news/xss-through-dhcp-how-attackers-use-standards/
 - https://portswigger.net/research/bypassing-firefoxs-html-sanitizer-api
+- https://bloggerrando.blogspot.com/2022/07/09-1.html

@@ -1,1 +1,2 @@
 - https://warandcode.com/post/apify-mass-bug-bounty/
+- https://warandcode.com/post/akamai-arl-hack/
