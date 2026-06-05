@@ -331,3 +331,4 @@
 - https://medium.com/@Skylinearafat/how-to-look-for-js-files-vulnerability-for-fun-and-profit-78bfdfbd6731
 - https://blog.securitybreached.org/2018/12/08/how-i-was-able-to-bypass-email-verification/
 - https://www.josipfranjkovic.com/blog/facebook-partners-portal-account-takeover
+- https://medium.com/@mustafa0x2021/disclose-emails-phone-numbers-other-information-for-facebook-users-who-tried-to-add-funds-to-31aea5f973a5

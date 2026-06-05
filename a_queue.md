@@ -311,7 +311,6 @@
 - https://tuhin1729.medium.com/story-of-my-hacking-dutch-government-46b7a3c8b75a, XSS
 - https://sndpgiriz.medium.com/simple-logical-bug-turned-into-a-bounty-a3d7ac214606, Logic-flaw
 - https://blog.polybdenum.com/2021/05/05/how-i-hacked-google-app-engine-anatomy-of-a-java-bytecode-exploit.html, RCE
-- https://infosecwriteups.com/xss-through-parameter-pollution-9a55da150ab2, Open-redirect
 - https://web.archive.org/web/20210728030437/https://ritiksahni.me/open-source-bug-bounty-tutorial, CSRF
 - https://notifybugme.medium.com/chaining-csrf-with-xss-to-deactivate-mass-user-accounts-by-single-click-b463c0d26587, CSRF
 - https://bughunter25.medium.com/a-tale-of-html-to-pdf-converter-ssrf-and-various-bypasses-4a3e11030c77, SSRF
@@ -356,7 +355,6 @@
 - https://www.mysk.blog/2020/10/25/link-previews/, Information-disclosure
 - https://medium.com/bugbountywriteup/my-first-bug-on-google-observation-wins-1a13d0ea54b0, IDOR
 - https://www.rafaybaloch.com/2020/10/multiple-address-bar-spoofing-vulnerabilities.html, Address-Bar-Spoofing
-- https://medium.com/@mustafa0x2021/disclose-emails-phone-numbers-other-information-for-facebook-users-who-tried-to-add-funds-to-31aea5f973a5, Information-disclosure
 - https://blog.dixitaditya.com/leveraging-xss-to-read-internal-files/, XSS
 - https://medium.com/@parasarora06/cve-2018-5230-jira-cross-site-scripting-59ec96b3d75f, Reflected-XSS
 - https://medium.com/@vasuyadav0786/exploiting-payment-gateways-97ce7af5a9cf, Payment-tampering
@@ -399,7 +397,6 @@
 - https://medium.com/@b3twise/how-i-found-10-remote-code-execution-in-10-minutes-cve-2020-5902-3def1aa29e9b, RCE
 - https://xvnpw.github.io/posts/from-dot-in-regex-to-ssrf-part-3/, SSRF
 - https://medium.com/@hgreal/why-i-paid-3-5k-to-become-a-tld-registrar-reseller-when-doing-bug-bounty-d9d407911dce, XXE
-- https://fadhilthomas.github.io/post/bug-bounty-tokopedia-03/, IDOR
 - https://ysamm.com/?p=479, Information-disclosure
 - https://medium.com/@mase289/a-tale-of-my-first-ever-full-ssrf-bug-4fe71a76e9c4, SSRF
 - https://medium.com/bugbountywriteup/bypass-2fa-like-a-boss-378787707ba, Lack-of-rate-limiting
@@ -482,7 +479,6 @@
 - https://medium.com/@baibhavanandjha/bypassing-instagrams-stories-restriction-5936f8a4f079, Logic-flaw
 - https://medium.com/a-bugz-life/4x-csrfs-chained-for-company-account-takeover-f9fada416986, CSRF
 - https://utkusen.com/blog/why-you-shouldnt-use-password-manager-for-linode.html, Account-takeover
-- https://soroush.secproject.com/blog/2019/04/yet-other-examples-of-abusing-csrf-in-logout/, CSRF
 - https://rpadovani.com/gitlab-responsible-disclosure, Authorization-flaw
 - https://medium.com/@kunal94/web-cache-deception-to-api-endpoint-attack-using-cached-token-header-b01a604a5ccd, Web-cache-deception
 - https://medium.com/@mrnikhilsri/unauthenticated-account-takeover-through-http-leak-33386bb0ba0b, HTML-injection
@@ -539,7 +535,6 @@
 - https://steemit.com/cryptocurrency/@mabdullah22/how-i-hacked-a-crypto-exchange-bug-bounty-writeup, IDOR
 - https://blog.evanricafort.com/2018/08/blind-xss-in-chrome-experiments-google.html, Blind-XSS
 - https://medium.com/@logicbomb_1/bugbounty-paytm-customer-information-is-at-risk-indias-largest-digital-wallet-company-6f7116d4b2d5, IDOR
-- https://opnsec.com/2018/07/into-the-borg-ssrf-inside-google-production-network/, SSRF
 - https://www.ambionics.io/blog/prestashop-privilege-escalation, Privilege-escalation
 - https://medium.com/@yassergersy/account-take-over-via-reset-password-f2e9d887bce1, Password-reset
 - https://medium.com/bugbountywriteup/responsible-disclosure-how-i-could-have-booked-movie-tickets-through-other-user-accounts-2db26a037b4c, Password-reset

@@ -118,3 +118,4 @@
 - https://web.archive.org/web/20181030103042/https://zseano.com/blogs/4.html
 - https://blog.darabi.me/2019/12/instagram-delete-media-csrf.html
 - https://medium.com/@pig.wig45/json-csrf-attack-on-a-social-networking-site-hackerone-platform-3d7aed3239b0
+- https://soroush.secproject.com/blog/2019/04/yet-other-examples-of-abusing-csrf-in-logout/
