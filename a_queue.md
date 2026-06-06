@@ -133,7 +133,6 @@
 - https://www.redteam-pentesting.de/en/advisories/rt-sa-2021-003/-missing-authentication-in-zkteco-zem-zmm-web-interface, Missing-authentication
 - https://mehedishakeel.medium.com/broken-link-hijacking-my-second-finding-on-hackerone-d715b0713fca, Broken-link-hijacking
 - https://lokeshdlk77.medium.com/facebook-sms-captcha-was-vulnerable-to-csrf-attack-8db537b1e980, CSRF
-- https://medium.com/@iknowhatodo/fall-account-takeover-via-amazon-cognito-misconfiguration-ba5975b06c24, IDOR
 - https://mr23r0.medium.com/code-flaws-leads-to-org-admin-account-takeover-ad9515a96eab, Privilege-escalation
 - https://medium.com/@protostar0/hacking-banks-broken-access-control-vulnerability-in-banking-application-part-i-c442ed5ae170, Broken-Access-Control
 - https://nmochea.medium.com/gcash-vulnerability-walkthrough-c7c938163dfb, Android
@@ -313,7 +312,6 @@
 - https://blog.polybdenum.com/2021/05/05/how-i-hacked-google-app-engine-anatomy-of-a-java-bytecode-exploit.html, RCE
 - https://web.archive.org/web/20210728030437/https://ritiksahni.me/open-source-bug-bounty-tutorial, CSRF
 - https://notifybugme.medium.com/chaining-csrf-with-xss-to-deactivate-mass-user-accounts-by-single-click-b463c0d26587, CSRF
-- https://bughunter25.medium.com/a-tale-of-html-to-pdf-converter-ssrf-and-various-bypasses-4a3e11030c77, SSRF
 - https://polarply.medium.com/the-false-oracle-azure-functions-padding-oracle-issue-2025e0e6b8a, Padding-oracle-attack
 - https://davtur19.medium.com/telegram-bug-bounties-xss-privacy-issues-official-bot-exploitation-and-more-5277fa78435, XSS
 - https://pharish4948.medium.com/how-i-earned-3200-in-4hours-through-stored-xss-38597877d3e1, Stored-XSS
@@ -374,7 +372,6 @@
 - https://medium.com/bugbountywriteup/cache-poisoning-of-wget-94a4d70104b1, Web-cache-poisoning
 - https://medium.com/@singh.simran7838/how-i-made-2000-with-url-redirection-b1b5f4e7a678, Open-redirect
 - https://mazinahmed.net/blog/hacking-zoom/, Information-disclosure
-- https://medium.com/@zseano/the-feature-works-as-intended-but-whats-in-the-source-d29f9401bcf6, Information-disclosure
 - https://medium.com/@DK999/apache-example-servlet-leads-to-61a2720cac20, Clickjacking
 - https://objective-see.com/blog/blog_0x4D.html, Local-Privilege-Escalation
 - https://medium.com/bugbountywriteup/bypassing-otp-via-reset-password-f004a29020c, OTP-bypass
@@ -436,7 +433,6 @@
 - https://medium.com/@know.0nix/hunting-good-bugs-with-only-html-d8fd40d17b38, Open-redirect
 - https://medium.com/monetary/how-did-i-earn-3133-70-from-google-translator-9becf942dbdc, XSS
 - https://smaranchand.com.np/2019/12/subdomain-takeover-via-pantheon/, Subdomain-takeover
-- https://medium.com/@vbharad/full-account-takeover-android-application-78fa922f78c5, Information-disclosure
 - https://medium.com/@dPhoeniixx/vimeo-upload-function-ssrf-7466d8630437, SSRF
 - https://www.ezequiel.tech/p/500-getclass.html, Sandbox-bypass
 - https://www.hackerinside.me/2019/12/xss-like-pro.html, XSS
@@ -573,7 +569,6 @@
 - https://markus-krell.de/craft-cms-why-case-matters/, Reflected-XSS
 - http://manuel-sousa.blogspot.com/2017/09/url-whitelist-bypass-accounts-google.html, Open-redirect
 - https://medium.com/@SyntaxError4/reflective-xss-and-open-redirect-on-indeed-com-subdomain-b4ab40e40c83, Reflected-XSS
-- https://medium.com/japzdivino/idor-on-hackerone-hacker-review-what-program-say-885ce3989a6f, IDOR
 - https://medium.com/@arbazhussain/improper-storage-of-protected-projects-files-9ece8e9a4743, IDOR
 - https://web.archive.org/web/20220818204507/https://www.rcesecurity.com/2017/08/from-lfi-to-rce-via-php-sessions/, LFI
 - https://philippeharewood.com/facebook-stories-disclose-facebook-friend-list/, Logic-flaw

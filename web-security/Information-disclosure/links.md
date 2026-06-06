@@ -332,3 +332,5 @@
 - https://blog.securitybreached.org/2018/12/08/how-i-was-able-to-bypass-email-verification/
 - https://www.josipfranjkovic.com/blog/facebook-partners-portal-account-takeover
 - https://medium.com/@mustafa0x2021/disclose-emails-phone-numbers-other-information-for-facebook-users-who-tried-to-add-funds-to-31aea5f973a5
+- https://medium.com/@zseano/the-feature-works-as-intended-but-whats-in-the-source-d29f9401bcf6
+- https://medium.com/@vbharad/full-account-takeover-android-application-78fa922f78c5

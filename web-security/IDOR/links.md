@@ -304,3 +304,5 @@
 - https://ysamm.com/?p=60
 - https://www.darabi.me/2020/12/create-invisible-post-on-any-facebook.html
 - https://fadhilthomas.github.io/post/bug-bounty-tokopedia-03/
+- https://medium.com/@iknowhatodo/fall-account-takeover-via-amazon-cognito-misconfiguration-ba5975b06c24
+- https://medium.com/japzdivino/idor-on-hackerone-hacker-review-what-program-say-885ce3989a6f
