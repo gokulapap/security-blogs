@@ -2,3 +2,4 @@
 - https://medium.com/@know.0nix/link-injection-manipulation-at-admin-google-com-6da3b15a2854
 - https://medium.com/@silentbronco/the-p5-link-injection-story-2632e61f62b7
 - https://web.archive.org/web/20201123204445/https://www.mohamedharon.com/2018/04/link-injection-on-2-twitter-subdomain.html
+- https://medium.com/@abhishake100/hyperlink-injection-easy-money-sometimes-cc1104655300

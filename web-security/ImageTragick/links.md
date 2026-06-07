@@ -1,1 +1,2 @@
 - https://web.archive.org/web/20210116171139/https://strynx.org/imagemagick-rce/
+- https://itsfading.github.io/posts/Unrestricted-File-Upload-Leads-to-SSRF-and-RCE/

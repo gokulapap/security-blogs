@@ -122,3 +122,4 @@
 - https://medium.com/bugbountywriteup/exploiting-imported-libraries-to-bypass-cloudflare-waf-7aed99186c5a
 - https://medium.com/@paulorcchoupina/a-real-xss-in-olx-7727ae89c640
 - https://cirius.medium.com/escalating-xss-to-account-takeover-ffde08624937
+- https://notifybugme.medium.com/automating-reflected-xss-with-burp-suite-intruder-a39b2f060db7
