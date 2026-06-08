@@ -206,3 +206,4 @@
 - https://noobe.io/articles/2020-01/how-i-found-bug-google-search-console
 - https://thexssrat.medium.com/poc-the-easiest-125-euros-i-ever-made-4dc87f01e286
 - http://www.tomanthony.co.uk/blog/google-xml-sitemap-auth-bypass-black-hat-seo-bug-bounty/
+- https://bloggerrando.blogspot.com/2023/02/06-2.html

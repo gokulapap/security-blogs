@@ -349,3 +349,4 @@
 - https://carvesystems.com/news/xss-through-dhcp-how-attackers-use-standards/
 - https://portswigger.net/research/bypassing-firefoxs-html-sanitizer-api
 - https://bloggerrando.blogspot.com/2022/07/09-1.html
+- https://randywestergren.com/xss-vulnerabilities-in-multiple-iframe-busters-affecting-top-tier-sites/

@@ -66,3 +66,4 @@
 - https://www.hackerinside.me/2019/02/dos-on-waf-protected-sites-by-abusing.html
 - https://hector0x.medium.com/dos-attack-in-yahoo-how-i-was-able-to-deny-new-users-from-service-6b222e744e61
 - https://www.trenchesofit.com/2022/09/30/zoneminder-web-app-testing/
+- https://kb.cert.org/vuls/id/636397
