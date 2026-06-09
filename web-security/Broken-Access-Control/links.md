@@ -36,3 +36,4 @@
 - https://blog.nintechnet.com/high-severity-vulnerability-fixed-in-wordpress-elementor-pro-plugin/
 - https://medium.com/@tobydavenn/1500-of-broken-access-controls-503d8a5f56f5
 - https://tomorrowisnew.com/posts/broken-access-control-bug-bypassing-403-s-by-finding-another-endpoint-that-do-the-same-thing/
+- https://bloggerrando.blogspot.com/2021/06/how-many-likes-and-dislikes-that-was.html

@@ -168,3 +168,4 @@
 - https://sanderwind.medium.com/escalating-ssrf-to-rce-7c0147371c40
 - https://opnsec.com/2018/07/into-the-borg-ssrf-inside-google-production-network/
 - https://bughunter25.medium.com/a-tale-of-html-to-pdf-converter-ssrf-and-various-bypasses-4a3e11030c77
+- https://bishopfox.com/blog/jira-align-advisory

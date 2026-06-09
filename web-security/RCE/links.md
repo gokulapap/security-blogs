@@ -339,3 +339,4 @@
 - https://blog.securitybreached.org/2017/12/19/unrestricted-file-upload-to-rce-bug-bounty-poc/
 - https://0day.click/recipe/pash/
 - https://dappsec.substack.com/p/an-advisory-for-cve-2019-16891-from
+- https://www.synacktiv.com/publications/pwn2own-austin-2021-defeating-the-netgear-r6700v3.html
