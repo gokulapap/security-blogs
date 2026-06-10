@@ -142,3 +142,4 @@
 - https://infosecwriteups.com/bypassing-waf-to-weaponize-a-stored-xss-ff9963c421ee
 - https://ysx.me.uk/lightweight-markup-a-trio-of-persistent-xss-in-gitlab/
 - https://www.youtube.com/watch?v=0oKHov6y6mw
+- https://medium.com/@matarpan33r/stored-xss-on-edmodo-67b244824fa5
