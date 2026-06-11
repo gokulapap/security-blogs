@@ -123,3 +123,5 @@
 - https://medium.com/@paulorcchoupina/a-real-xss-in-olx-7727ae89c640
 - https://cirius.medium.com/escalating-xss-to-account-takeover-ffde08624937
 - https://notifybugme.medium.com/automating-reflected-xss-with-burp-suite-intruder-a39b2f060db7
+- https://securitytrooper.com/en/cross-site-scripting-xss-reflected-in-one-of-the-subdomains-of-general-motorsbugbounty
+- https://jowin922.medium.com/reflected-xss-on-target-with-tough-waf-waf-bypass-3b7efd1ef2bc

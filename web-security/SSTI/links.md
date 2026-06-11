@@ -19,3 +19,4 @@
 - https://sagarsajeev.medium.com/escalating-ssti-to-reflected-xss-using-curly-braces-825685bd93ec
 - https://starlabs.sg/advisories/23/23-2017/
 - https://medium.com/bugbountywriteup/frapp%C3%A9-technologies-erpnext-server-side-template-injection-74e1c95ec872
+- https://cupc4k3.lol/ssti-leads-to-rce-on-pyrocms-7515be27c811

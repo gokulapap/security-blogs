@@ -125,3 +125,4 @@
 - https://www.cyberark.com/threat-research-blog/beware-of-the-gif-account-takeover-vulnerability-in-microsoft-teams/
 - https://blog.dixitaditya.com/2021/11/19/account-takeover-chain.html
 - https://ahmdhalabi.medium.com/taking-over-employee-accounts-by-managers-with-zero-employee-interaction-b60784c3ad84
+- https://infosecwriteups.com/account-takeover-an-epic-bug-bounty-story-dd5468d5773d

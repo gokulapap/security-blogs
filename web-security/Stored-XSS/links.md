@@ -143,3 +143,4 @@
 - https://ysx.me.uk/lightweight-markup-a-trio-of-persistent-xss-in-gitlab/
 - https://www.youtube.com/watch?v=0oKHov6y6mw
 - https://medium.com/@matarpan33r/stored-xss-on-edmodo-67b244824fa5
+- https://medium.com/@hariharan21/stored-xss-via-alternate-text-at-zendesk-support-8bfee68413e4
