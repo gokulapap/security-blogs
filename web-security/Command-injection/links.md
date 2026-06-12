@@ -2,3 +2,4 @@
 - https://blog.assetnote.io/2022/05/06/cloudflare-pages-pt1/
 - https://starlabs.sg/blog/2022/12-the-last-breath-of-our-netgear-rax30-bugs-a-tragic-tale-before-pwn2own-toronto-2022/
 - https://www.form3.tech/engineering/content/exploiting-distroless-images
+- https://blog.viettelcybersecurity.com/the-first-step-to-pwn2own-but-a-sad-one/

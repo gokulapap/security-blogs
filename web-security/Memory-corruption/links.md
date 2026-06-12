@@ -77,3 +77,4 @@
 - https://www.zscaler.com/blogs/security-research/analysis-adobe-acrobat-reader-javascript-docprint-use-after-free
 - https://twitter.com/FlashbackPwn/status/1492074441450397698
 - https://blog.scrt.ch/2023/03/14/producing-a-poc-for-cve-2022-42475-fortinet-rce/
+- https://hdwsec.fr/blog/20221109-netgear/

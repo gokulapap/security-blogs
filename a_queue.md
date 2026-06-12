@@ -78,7 +78,6 @@
 - https://mahmoudsec.blogspot.com/2023/02/sql-injection-utilizing-xml-functions.html, SQL-injection
 - https://pullerjsecu.medium.com/bypassing-cors-configurations-to-produce-an-account-takeover-for-fun-and-profit-3e50c3f2a124, CORS-misconfiguration
 - https://infosecwriteups.com/disabling-js-for-the-win-9d13c606f910, Unrestricted-file-upload
-- https://the-deniss.github.io/posts/2023/02/09/elevation-of-privileges-from-everyone-through-avast-av-sandbox-to-system-amppl.html, Local-Privilege-Escalation
 - https://blog.quarkslab.com/post-exploitation-abusing-the-keepass-plugin-cache.html, Local-Privilege-escalation
 - https://eaton-works.com/2023/02/06/toyota-gspims-hack/, Authentication-bypass
 - https://onekey.com/blog/security-advisory-remote-command-execution-in-binwalk/, RCE
@@ -100,7 +99,6 @@
 - https://salt.security/blog/missing-bricks-finding-security-holes-in-lego-apis, XSS
 - https://0xmayankgarg.medium.com/pii-data-exfiltration-within-minutes-f06d4587d201, Information-disclosure
 - https://medium.com/@mrd17x/scoring-for-a-very-simple-bug-you-dont-always-need-proxy-tools-872a832f83ea, IDOR
-- https://blog.viettelcybersecurity.com/the-first-step-to-pwn2own-but-a-sad-one/, Command-injection
 - https://karmainsecurity.com/KIS-2022-06, Zip-Slip-attack
 - https://abhishekmorla.medium.com/bypassing-the-client-side-encryption-to-read-internal-windows-server-files-e832da8b4ac8, Client-side-encryption-bypass
 - https://attackshipsonfi.re/p/exploiting-cors-misconfigurations, CORS-misconfiguration
@@ -112,7 +110,6 @@
 - https://medium.com/@hf6452/a-story-of-a-strange-stored-idor-b6f2769bb6cb, IDOR
 - https://blog.sonarsource.com/checkmk-rce-chain-1/, RCE
 - https://medium.com/@umeryousuf26/sleep-sql-injection-on-name-parameter-while-updating-profile-2bbac9f47336, SQL-injection
-- https://hdwsec.fr/blog/20221109-netgear/, Memory-corruption
 - https://medium.com/@armandjasharaj/pentest-tales-exif-data-manipulation-b36beb291229, Unrestricted-file-upload
 - https://googleprojectzero.blogspot.com/2022/11/gregor-samsa-exploiting-java-xml.html, Integer-truncation
 - https://github.com/colmmacc/CVE-2022-3602, Memory-corruption
@@ -528,7 +525,6 @@
 - https://medium.freecodecamp.org/responsible-disclosure-how-i-could-have-hacked-all-facebook-accounts-f47c0252ae4d, Bruteforce
 - https://blog.intothesymmetry.com/2018/02/bug-bounty-left-over-and-rant-part-iii.html, OAuth
 - https://emtunc.org/blog/01/2018/research-misconfigured-jenkins-servers/, Information-disclosure
-- https://blog.ibrahimdraidia.com/xss-via-angularjs-template-injection_hostinger/, Reflected-XSS
 - https://blog.securitybreached.org/2018/02/04/hunting-insecure-direct-object-reference-vulnerabilities-for-fun-and-profit-part-1/, IDOR
 - https://bhavukjain.com/blog/2017/12/20/facebook-google-login-misconfig/, Account-takeover
 - https://corben.io/blog/17-12-17-hackertarget, SSRF
@@ -545,7 +541,6 @@
 - http://manuel-sousa.blogspot.com/2017/09/url-whitelist-bypass-accounts-google.html, Open-redirect
 - https://medium.com/@SyntaxError4/reflective-xss-and-open-redirect-on-indeed-com-subdomain-b4ab40e40c83, Reflected-XSS
 - https://medium.com/@arbazhussain/improper-storage-of-protected-projects-files-9ece8e9a4743, IDOR
-- https://web.archive.org/web/20220818204507/https://www.rcesecurity.com/2017/08/from-lfi-to-rce-via-php-sessions/, LFI
 - https://philippeharewood.com/facebook-stories-disclose-facebook-friend-list/, Logic-flaw
 - http://c0rni3sm.blogspot.com/2017/08/accidentally-typo-to-bypass.html, Authentication-bypass
 - https://medium.com/@saamux/reflected-xss-on-www-yahoo-com-9b1857cecb8c, Reflected-XSS
