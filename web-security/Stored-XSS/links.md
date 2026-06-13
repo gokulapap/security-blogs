@@ -144,3 +144,4 @@
 - https://www.youtube.com/watch?v=0oKHov6y6mw
 - https://medium.com/@matarpan33r/stored-xss-on-edmodo-67b244824fa5
 - https://medium.com/@hariharan21/stored-xss-via-alternate-text-at-zendesk-support-8bfee68413e4
+- https://medium.com/@jonathanbouman/stored-xss-unvalidated-embed-at-medium-com-528b0d6d4982
