@@ -48,3 +48,4 @@
 - https://onekey.com/blog/security-advisory-wago-unauthenticated-config-export-vulnerability/
 - https://samcurry.net/hacking-starbucks/
 - https://medium.com/@hritkmjth/directory-traversal-and-lfi-worth-400-c4422785d3bd
+- https://medium.com/@aniltom/magic-of-the-back-slash-d868e66b532a

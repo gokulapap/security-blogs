@@ -94,3 +94,4 @@
 - https://blog.bentkowski.info/2018/07/vulnerability-in-hangouts-chat-aka-how.html
 - https://www.vulnerability-db.com/?q=articles/2018/11/16/microsoft-bingplaces-business-url-redirect-vulnerability
 - https://infosecwriteups.com/xss-through-parameter-pollution-9a55da150ab2
+- https://www.shawarkhan.com/2019/01/hijacking-accounts-by-retrieving-jwt.html

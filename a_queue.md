@@ -112,7 +112,6 @@
 - https://medium.com/@umeryousuf26/sleep-sql-injection-on-name-parameter-while-updating-profile-2bbac9f47336, SQL-injection
 - https://medium.com/@armandjasharaj/pentest-tales-exif-data-manipulation-b36beb291229, Unrestricted-file-upload
 - https://googleprojectzero.blogspot.com/2022/11/gregor-samsa-exploiting-java-xml.html, Integer-truncation
-- https://github.com/colmmacc/CVE-2022-3602, Memory-corruption
 - https://portswigger.net/research/safari-is-hot-linking-images-to-semi-random-websites, Browser-hacking
 - https://medium.com/@nanwinata/rce-docker-api-but-11ff70825935, RCE
 - https://sensepost.com/blog/2022/abusing-windows-tokens-to-compromise-active-directory-without-touching-lsass/, Local-Privilege-Escalation
@@ -132,7 +131,6 @@
 - https://labs.jumpsec.com/quest-kace-desktop-authority-pre-auth-remote-code-execution-cve-2021-44031/, RCE
 - https://www.rapid7.com/blog/post/2022/09/08/baxter-sigma-spectrum-infusion-pumps-multiple-vulnerabilities-fixed/, Hardcoded-credentials
 - https://security.humanativaspa.it/groovy-template-engine-exploitation-notes-from-a-real-case-scenario/, RCE
-- https://medium.com/@Parag_Bagul/how-i-found-moodle-cross-site-scripting-459a1c9ad4d5, XSS
 - https://hopesamples.blogspot.com/2022/09/details-about-future-collaboration.html, IDOR
 - https://taggart-tech.com/quasar-electron/, Local-Privilege-Escalation
 - https://medium.com/@xJay/angularjs-client-side-template-injection-the-orderby-filter-20002ca2a0e8, CSTI
@@ -197,7 +195,6 @@
 - https://bloggerrando.blogspot.com/2022/03/13-1.html, Broken-Access-Control
 - https://canmustdie.medium.com/how-did-i-leak-5-2k-customer-data-from-a-large-company-via-broken-access-control-709eb4027409, Broken-Access-Control
 - https://muffsec.com/blog/moodle-2nd-order-sqli/, SQL-injection
-- https://research.nccgroup.com/2022/02/28/brokenprint-a-netgear-stack-overflow/, Memory-corruption
 - https://servicenger.com/mobile/facebook-android-vulnerability-launching-internal-tighten-deeplink-onbehalf-of-user/, Android
 - https://gitlab.com/kop316/vvm-disclosure, Voicemail-hacking
 - https://medium.com/@720922/recon-and-youtube-is-that-a-thing-5523b48c32e3, Subdomain-takeover
@@ -383,7 +380,6 @@
 - https://healdb.tech/blog/teradici.html, Missing-authentication
 - https://web.archive.org/web/20200616051351/https://hazana.xyz/posts/cors-blimey/, CORS-misconfiguration
 - https://medium.com/@talatmehmood1995/bug-bounty-advanced-manual-penetration-testing-leading-to-price-manipulation-vulnerability-d935a3a5ddf6, Payment-tampering
-- https://medium.com/@aniltom/magic-of-the-back-slash-d868e66b532a, Path-traversal
 - https://sites.google.com/securifyinc.com/vrp-writeups/gsuite/bookmark-xss-device-management, XSS
 - https://medium.com/@sandeepkumarsingh1902/bugbounty-adding-money-using-response-modification-334448d34251, Payment-tampering
 - https://medium.com/@hbothra22/recon-to-sensitive-information-disclosure-in-minutes-503fc7ccdf0b, Information-disclosure
@@ -468,7 +464,6 @@
 - https://offensi.com/2019/01/31/lfi-in-apigee-portals, LFI
 - https://blog.detectify.com/2019/01/29/hacking-isnt-an-exact-science/, Authorization-flaw
 - https://medium.com/@ChandSingh/protonmail-xss-stored-b733031ac3b5, Stored-XSS
-- https://www.shawarkhan.com/2019/01/hijacking-accounts-by-retrieving-jwt.html, Open-redirect
 - https://ysamm.com/?p=68, Logic-flaw
 - https://ysamm.com/?p=12, XSS
 - https://medium.com/@maxpasqua/stealing-side-channel-attack-tokens-in-facebook-account-switcher-90c5944e3b58, Token-leak

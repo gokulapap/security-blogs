@@ -350,3 +350,4 @@
 - https://portswigger.net/research/bypassing-firefoxs-html-sanitizer-api
 - https://bloggerrando.blogspot.com/2022/07/09-1.html
 - https://randywestergren.com/xss-vulnerabilities-in-multiple-iframe-busters-affecting-top-tier-sites/
+- https://medium.com/@Parag_Bagul/how-i-found-moodle-cross-site-scripting-459a1c9ad4d5
