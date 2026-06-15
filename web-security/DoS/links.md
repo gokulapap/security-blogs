@@ -67,3 +67,4 @@
 - https://hector0x.medium.com/dos-attack-in-yahoo-how-i-was-able-to-deny-new-users-from-service-6b222e744e61
 - https://www.trenchesofit.com/2022/09/30/zoneminder-web-app-testing/
 - https://kb.cert.org/vuls/id/636397
+- https://medium.com/@mohamedayad_72488/dos-over-wep-application-c5176dc29035
