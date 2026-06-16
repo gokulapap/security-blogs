@@ -95,3 +95,4 @@
 - https://www.vulnerability-db.com/?q=articles/2018/11/16/microsoft-bingplaces-business-url-redirect-vulnerability
 - https://infosecwriteups.com/xss-through-parameter-pollution-9a55da150ab2
 - https://www.shawarkhan.com/2019/01/hijacking-accounts-by-retrieving-jwt.html
+- https://starlabs.sg/blog/2023/06-the-old-the-new-and-the-bypass-one-clickopen-redirect-to-own-samsung-s22-at-pwn2own-2022/

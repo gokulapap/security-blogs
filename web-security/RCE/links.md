@@ -340,3 +340,6 @@
 - https://0day.click/recipe/pash/
 - https://dappsec.substack.com/p/an-advisory-for-cve-2019-16891-from
 - https://www.synacktiv.com/publications/pwn2own-austin-2021-defeating-the-netgear-r6700v3.html
+- https://medium.com/@b3twise/how-i-found-10-remote-code-execution-in-10-minutes-cve-2020-5902-3def1aa29e9b
+- https://docs.google.com/document/d/1-TTCS6fS6kvFUkoJmX4Udr-czQ79lSUVXiWsiAED_bs/edit
+- https://www.iot-inspector.com/blog/advisory-western-digital-my-cloud-pro-series-pr4100-rce/

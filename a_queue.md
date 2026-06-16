@@ -37,7 +37,6 @@
 - https://github.com/firsov/onlyoffice/blob/main/CVE-2023-34939-PoC.md, Path-traversal
 - https://medium.com/@ferferof/pii-data-leakage-and-us-1500-bounty-af676350fb76, Information-disclosure
 - https://orca.security/resources/blog/examining-two-xss-vulnerabilities-in-azure-services/, XSS
-- https://starlabs.sg/blog/2023/06-the-old-the-new-and-the-bypass-one-clickopen-redirect-to-own-samsung-s22-at-pwn2own-2022/, Open-redirect
 - https://hacktus.tech/taking-over-an-entire-organization, Broken-Access-Control
 - https://research.nccgroup.com/2023/05/31/reverse-engineering-coin-hunt-worlds-binary-protocol/, Reverse-engineering
 - https://mc0wn.blogspot.com/2023/05/vulnerabilities-in-apache-commons-text.html, Path-traversal
@@ -197,14 +196,12 @@
 - https://servicenger.com/mobile/facebook-android-vulnerability-launching-internal-tighten-deeplink-onbehalf-of-user/, Android
 - https://gitlab.com/kop316/vvm-disclosure, Voicemail-hacking
 - https://medium.com/@720922/recon-and-youtube-is-that-a-thing-5523b48c32e3, Subdomain-takeover
-- https://www.iot-inspector.com/blog/advisory-western-digital-my-cloud-pro-series-pr4100-rce/, RCE
 - https://twitter.com/m7mdharon/status/1492204287295897600, Subdomain-takeover
 - https://medium.com/@yaala/facebook-oauth-bypass-446a073e687d, OAuth
 - https://spaceraccoon.dev/solving-dom-xss-puzzles, DOM-XSS
 - https://medium.com/@ladecruze/my-first-bounty-idor-self-xss-3000-cde89cbbc1b1, Self-XSS
 - https://sanyamchawla1999.medium.com/my-experience-of-hacking-the-dutch-government-8c219c61c795, XSS
 - https://www.offensive-security.com/offsec/microsoft-onedrive-macos-local-privesc/, Local-Privilege-Escalation
-- https://docs.google.com/document/d/1-TTCS6fS6kvFUkoJmX4Udr-czQ79lSUVXiWsiAED_bs/edit, RCE
 - https://www.ryanpickren.com/safari-uxss, Universal-XSS
 - https://kuldeep.io/posts/path-traversal-paradise/, Path-traversal
 - https://srcincite.io/blog/2022/01/20/zohowned-a-critical-authentication-bypass-on-zoho-manageengine-desktop-central.html, Authentication-bypass
@@ -305,7 +302,6 @@
 - https://ysamm.com/?p=625, Open-redirect
 - https://ysamm.com/?p=613, Information-disclosure
 - https://servicenger.com/blog/mobile/sending-ephemeral-message-to-any-facebook-user/, IDOR
-- https://amineaboud.medium.com/disclose-the-fb-profile-of-facebook-employees-who-create-official-announcement-messages-bug-76554068caf7, Information-disclosure
 - https://web.archive.org/web/20210201180254/https://www.cysek.org/post/bac-sxss, Stored-XSS
 - https://medium.com/bugbountywriteup/bragging-rights-part-1-short-story-of-a-bug-wave-dbb88f48b604, IDOR
 - https://r4id3n.medium.com/ssrf-exploitation-in-spreedsheet-to-pdf-converter-2c7eacdac781, SSRF
@@ -362,7 +358,6 @@
 - https://medium.com/@sp2417487/a-tale-of-critical-account-take-over-e1b7c180917c, Account-takeover
 - https://blog.securityevaluators.com/tenda-ac1900-vulnerabilities-discovered-and-exploited-e8e26aa0bc68, CSRF
 - https://philippeharewood.com/see-whether-a-hackercup-facebook-participant-allows-recruitment-contact/, Information-disclosure
-- https://medium.com/@b3twise/how-i-found-10-remote-code-execution-in-10-minutes-cve-2020-5902-3def1aa29e9b, RCE
 - https://xvnpw.github.io/posts/from-dot-in-regex-to-ssrf-part-3/, SSRF
 - https://medium.com/@hgreal/why-i-paid-3-5k-to-become-a-tld-registrar-reseller-when-doing-bug-bounty-d9d407911dce, XXE
 - https://ysamm.com/?p=479, Information-disclosure
