@@ -22,13 +22,11 @@
 - https://medium.com/@theredteamer/tesla-paid-me-10-000-because-of-directory-indexing-c1be06c77a3e, journey
 - https://medium.com/@caesarevan23/the-journey-to-get-sql-injection-at-bluepay-blue-indonesia-bluepay-2019-7a23bbce4cb8, journey
 - https://medium.com/@jonathanbouman/stored-xss-in-paytium-3-0-13-wordpress-plugin-3157ee37eb8f, XSS
-- https://medium.com/@cyberguy0xd1/how-i-was-able-to-bypass-cloudflare-waf-for-sqli-payload-b9e7a4260026, sql-injection
 - https://medium.com/@Sm9l/what-i-learnt-from-reading-126-information-disclosure-writeups-d896c5d5a2a4, info-disclosure
 - https://samcurry.net/points-com/, Path-traversal
 - https://www.mcnulty.blog/posts/dap-csrf, CSRF
 - https://blog.assetnote.io/2023/07/22/pre-auth-rce-metabase/, RCE
 - https://www.sonarsource.com/blog/a-twist-in-the-code-openmeetings-vulnerabilities-through-unexpected-application-state/, Account-takeover
-- https://www.rapid7.com/blog/post/2023/07/11/cve-2023-29298-adobe-coldfusion-access-control-bypass/, Broken-Access-Control
 - https://dimazarno.medium.com/unexpected-zero-in-mysql-injection-511f632714b0, SQL-injection
 - http://blog.takemyhand.xyz/2023/07/remote-code-execution-in-gitlabs-cli.html, RCE
 - https://www.randorisec.fr/chamilo-1.11.18-multiple-vulnerabilities, OS-command-injection
@@ -105,7 +103,6 @@
 - https://labs.guard.io/xss-vulnerability-found-in-connectwise-remote-access-platform-with-great-potential-for-misuse-by-scammers-a0773da2aacf, Stored-XSS
 - https://basu-banakar.medium.com/ssrf-via-dns-rebinding-cve-2022-4096-b7bf75928bb2, SSRF
 - https://splint3rsec.medium.com/russian-roulette-xss-bbba6afd2570, Blind-XSS
-- https://medium.com/@hf6452/a-story-of-a-strange-stored-idor-b6f2769bb6cb, IDOR
 - https://blog.sonarsource.com/checkmk-rce-chain-1/, RCE
 - https://medium.com/@umeryousuf26/sleep-sql-injection-on-name-parameter-while-updating-profile-2bbac9f47336, SQL-injection
 - https://medium.com/@armandjasharaj/pentest-tales-exif-data-manipulation-b36beb291229, Unrestricted-file-upload
@@ -412,7 +409,6 @@
 - https://ninadmathpati.com/how-i-was-able-to-earn-1000-with-just-10-minutes-of-bug-bounty/, Password-reset
 - https://medium.com/@rohitcoder/bypassing-fix-of-domain-blocking-feature-in-business-manager-41949a18460c, Authorization-flaw
 - https://learn.hackersid.com/2019/08/stored-xss-on-laporbugid.html, Stored-XSS
-- https://ysamm.com/?p=291, IDOR
 - https://medium.com/@ronak_9889/solr-injection-by-abusing-local-parameters-on-zomato-com-a5cb7bef10d5, Solr-injection
 - https://medium.com/@innocenthacker/how-i-found-the-most-critical-bug-in-live-bug-bounty-event-7a88b3aa97b3, Password-reset
 - https://philippeharewood.com/subscribe-to-typing-notifications-for-any-instagram-user/, Authorization-flaw
@@ -425,7 +421,6 @@
 - https://medium.com/@reegun/nuget-squirrel-uncontrolled-endpoints-leads-to-arbitrary-code-execution-80c9df51cf12, RCE
 - https://medium.com/@androgaming1912/gain-adfly-smtp-access-with-ssrf-via-gopher-protocol-26a26d0ec2cb, SSRF
 - https://philippeharewood.com/view-facebook-payouts-for-any-facebook-trivia-game/, Information-disclosure
-- https://medium.com/@dr.spitfire/sensitive-information-disclosure-web-cache-deception-attack-bcac6cb9cd86?sk=a2557f0c557ff38876141c2d94b296dd, Information-disclosure
 - https://web.archive.org/web/20200928091625/https://pwnsec.ninja/2019/06/06/how-i-was-able-to-get-private-ticket-response-panel-and-fortigate-web-panel-via-blind-xss/, Blind-XSS
 - https://payatu.com/microsoft-edge-extensions-host-permission-bypass-cve-2019-0678/, Browser-hacking
 - https://anotherhackerblog.com/exploiting-file-uploads-pt1/, Stored-XSS

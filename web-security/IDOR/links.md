@@ -308,3 +308,5 @@
 - https://medium.com/japzdivino/idor-on-hackerone-hacker-review-what-program-say-885ce3989a6f
 - https://medium.com/bugbountywriteup/add-comment-on-a-private-oculus-developer-bug-report-93f35bc80b2c
 - https://medium.com/@mrd17x/scoring-for-a-very-simple-bug-you-dont-always-need-proxy-tools-872a832f83ea
+- https://ysamm.com/?p=291
+- https://medium.com/@hf6452/a-story-of-a-strange-stored-idor-b6f2769bb6cb

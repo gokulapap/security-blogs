@@ -37,3 +37,4 @@
 - https://medium.com/@tobydavenn/1500-of-broken-access-controls-503d8a5f56f5
 - https://tomorrowisnew.com/posts/broken-access-control-bug-bypassing-403-s-by-finding-another-endpoint-that-do-the-same-thing/
 - https://bloggerrando.blogspot.com/2021/06/how-many-likes-and-dislikes-that-was.html
+- https://www.rapid7.com/blog/post/2023/07/11/cve-2023-29298-adobe-coldfusion-access-control-bypass/

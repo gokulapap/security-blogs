@@ -10,3 +10,4 @@
 - https://medium.com/@yan.zaripov/time-based-sql-injection-63a395434e97
 - https://medium.com/@nav1n/how-i-got-owned-a-multi-billion-dollar-retailers-mysql-databases-using-simple-sql-injection-30f8b0dfd9ce
 - https://medium.com/@sudarshan-s/sql-injection-important-things-you-need-to-know-right-now-b173cdea0610
+- https://medium.com/@cyberguy0xd1/how-i-was-able-to-bypass-cloudflare-waf-for-sqli-payload-b9e7a4260026

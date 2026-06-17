@@ -337,3 +337,4 @@
 - https://web.archive.org/web/20210621221618/https://savirsuda.github.io/Github-The-Goldmine-for-P1s-and-P2s-Sensitive-Information-Exposure-via-Github-by-a-Company-Employee/
 - https://positive.security/blog/urlscan-data-leaks
 - https://amineaboud.medium.com/disclose-the-fb-profile-of-facebook-employees-who-create-official-announcement-messages-bug-76554068caf7
+- https://medium.com/@dr.spitfire/sensitive-information-disclosure-web-cache-deception-attack-bcac6cb9cd86?sk=a2557f0c557ff38876141c2d94b296dd
