@@ -310,3 +310,4 @@
 - https://medium.com/@mrd17x/scoring-for-a-very-simple-bug-you-dont-always-need-proxy-tools-872a832f83ea
 - https://ysamm.com/?p=291
 - https://medium.com/@hf6452/a-story-of-a-strange-stored-idor-b6f2769bb6cb
+- https://pathleax.medium.com/this-is-how-i-was-able-to-see-and-delete-your-private-facebook-portal-photos-a93ed22f875b
