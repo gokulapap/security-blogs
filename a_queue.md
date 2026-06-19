@@ -86,7 +86,6 @@
 - https://medium.com/pentesternepal/two-factor-authentication-bypass-on-facebook-3f4ac3ea139c, MFA-bypass
 - https://www.zerodayinitiative.com/blog/2023/1/18/cve-2022-35690-unauthenticated-rce-in-adobe-coldfusion, RCE
 - https://blog.viettelcybersecurity.com/cve-2022-21587-oracle-e-business-suite-unauth-rce/, RCE
-- https://blog.geekycat.in/xss-using-postmessage-in-google-cloud-theia-notebooks/, XSS
 - https://ymohagheghi.medium.com/uploading-the-webshell-using-filename-of-content-disposition-header-story-59ba87752311, Unrestricted-file-upload
 - https://danaepp.com/hacking-a-net-api-in-the-real-world, LFI
 - https://www.trendmicro.com/en_us/research/22/l/a-technical-analysis-of-cve-2022-22583-and-cve-2022-32800.html, MacOS
@@ -122,7 +121,6 @@
 - https://blog.hacktivesecurity.com/index.php/2022/09/17/http/, HTTP-request-smuggling
 - https://sector7.computest.nl/post/2022-09-unified-automation-opcua-cpp/, DoS
 - https://cturt.github.io/mast1c0re.html, Memory-corruption
-- https://labs.jumpsec.com/quest-kace-desktop-authority-pre-auth-remote-code-execution-cve-2021-44031/, RCE
 - https://www.rapid7.com/blog/post/2022/09/08/baxter-sigma-spectrum-infusion-pumps-multiple-vulnerabilities-fixed/, Hardcoded-credentials
 - https://security.humanativaspa.it/groovy-template-engine-exploitation-notes-from-a-real-case-scenario/, RCE
 - https://hopesamples.blogspot.com/2022/09/details-about-future-collaboration.html, IDOR
@@ -147,7 +145,6 @@
 - https://medium.com/@the_null_kid/instagram-photo-was-present-in-data-backup-nearly-after-two-years-being-deleted-f0e4d6e108, Privacy-issue
 - https://medium.com/@whitehatcyber404/how-i-earned-150-in-2-minutes-html-injection-in-email-3f26f27d3822, HTML-injection
 - https://swarm.ptsecurity.com/researching-open-source-apps-for-xss-to-rce-flaws/, XSS
-- https://medium.com/@Steiner254/bounty-in-less-3-minutes-from-a-google-dork-54bd9bf3a650, Information-disclosure
 - https://www.yesnaveen.com/2022/07/permanently-crash-instagram-followers.html, DoS
 - https://www.zerodayinitiative.com/blog/2022/7/19/riding-the-inforail-to-exploit-ivanti-avalanche, RCE
 - https://www.0xlanks.me/blog/blogengine-writeup, Path-traversal
@@ -248,7 +245,6 @@
 - https://medium.com/pentesternepal/hacking-dutch-government-for-a-lousy-t-shirt-8e1fd1b56deb, IDOR
 - https://cho0k.com/wp-content/uploads/2021/08/FullPoC.pdf, Privilege-escalation
 - https://theshubh77.medium.com/bypassing-2-factor-authentication-for-facebook-business-manager-bounty-1000-usd-c78c858459d6, MFA-bypass
-- https://itsfading.github.io/posts/I-owe-your-Request-HTTP-Request-Smuggling-leads-to-Full-Accounts-takeover/, HTTP-Request-Smuggling
 - https://web.archive.org/web/20210920030213/https://pmoc.netsoc.cloud/oauth-idor-pii/, IDOR
 - https://sunilyedla.medium.com/websocket-hijacking-to-steal-session-id-of-victim-users-bca84243830, Cross-Site-WebSocket-Hijacking
 - https://medium.com/@viralbhatt100/bypass-google-captcha-parameter-pollution-leads-to-send-email-to-any-user-on-behalf-of-9013aebbabae, HTTP-parameter-pollution
@@ -392,7 +388,6 @@
 - https://www.hackerinside.me/2019/12/xss-like-pro.html, XSS
 - https://rez0.blog/hacking/2019/11/29/rce-via-imagetragick.html, RCE
 - https://web.archive.org/web/20200929013918/https://www.mohamedharon.com/2019/11/subdomain-takeover-via.html, Subdomain-takeover
-- https://philippeharewood.com/disclose-the-owner-of-a-recruiting-manager-in-jobs-beta/, Information-disclosure
 - https://web.archive.org/web/20220826045457/https://blog.bi.tk/chrome-cors/, Caching-issue
 - https://medium.com/@masonhck357/chains-on-chains-chaining-several-idors-into-account-takeover-part-one-373627f2910f, IDOR
 - https://blog.sagarvd.me/2019/11/taking-over-facebook-page-tabs.html, Broken-link-hijacking

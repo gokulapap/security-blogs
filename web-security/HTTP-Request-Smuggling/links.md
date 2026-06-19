@@ -6,3 +6,4 @@
 - https://bpandasec.medium.com/client-side-desync-attack-cl-0-request-smuggling-bounty-of-150-327d3aeaeea6
 - https://github.com/dhmosfunk/CVE-2023-25690-POC
 - https://bahruz.me/publications/11844
+- https://itsfading.github.io/posts/I-owe-your-Request-HTTP-Request-Smuggling-leads-to-Full-Accounts-takeover/

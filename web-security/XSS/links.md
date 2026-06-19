@@ -353,3 +353,4 @@
 - https://medium.com/@Parag_Bagul/how-i-found-moodle-cross-site-scripting-459a1c9ad4d5
 - https://research.securitum.com/the-curious-case-of-copy-paste/
 - https://sites.google.com/securifyinc.com/vrp-writeups/gsuite/bookmark-xss-device-management
+- https://blog.geekycat.in/xss-using-postmessage-in-google-cloud-theia-notebooks/
