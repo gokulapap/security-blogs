@@ -96,3 +96,4 @@
 - https://infosecwriteups.com/xss-through-parameter-pollution-9a55da150ab2
 - https://www.shawarkhan.com/2019/01/hijacking-accounts-by-retrieving-jwt.html
 - https://starlabs.sg/blog/2023/06-the-old-the-new-and-the-bypass-one-clickopen-redirect-to-own-samsung-s22-at-pwn2own-2022/
+- https://medium.com/@letssimplysecure/bug-bounty-experience-unvalidated-redirection-vulnerability-eed40d91da27

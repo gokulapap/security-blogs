@@ -17,3 +17,4 @@
 - https://krevetk0.medium.com/hacking-hackers-for-fun-and-profit-784e6c7897e8
 - https://medium.com/bugbountywriteup/how-i-leveraged-an-interesting-csrf-vulnerability-to-turn-self-xss-into-a-persistent-attack-b780824042d2
 - https://medium.com/@adonkidz7/my-first-bounty-from-google-d9f1f3f5787a
+- https://medium.com/@vedanttekale20/story-of-the-best-vulnerability-ive-found-so-far-5e3b0e02b47e

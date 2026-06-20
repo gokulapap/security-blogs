@@ -34,3 +34,4 @@
 - https://honoki.net/2020/03/18/xxe-scape-through-the-front-door-circumventing-the-firewall-with-http-request-smuggling/
 - http://mahmoudsec.blogspot.com/2019/08/exploiting-out-of-band-xxe-using.html
 - https://pvs-studio.com/en/blog/posts/csharp/0918/
+- https://medium.com/@hgreal/why-i-paid-3-5k-to-become-a-tld-registrar-reseller-when-doing-bug-bounty-d9d407911dce

@@ -170,3 +170,4 @@
 - https://bughunter25.medium.com/a-tale-of-html-to-pdf-converter-ssrf-and-various-bypasses-4a3e11030c77
 - https://bishopfox.com/blog/jira-align-advisory
 - https://medium.com/@hisham.mir/exploiting-a-single-parameter-6f4ba2acf523
+- https://basu-banakar.medium.com/ssrf-via-dns-rebinding-cve-2022-4096-b7bf75928bb2
