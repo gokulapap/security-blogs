@@ -4,3 +4,4 @@
 - https://medium.com/@vflexo/full-account-takeover-via-open-redirection-41c167db46
 - https://medium.com/@vikramroot/account-takeover-via-stored-xss-b774f7a2a3ab
 - https://medium.com/@diegotellaroli05/account-takeover-in-chatgpt-e134ed11654d
+- https://medium.com/@ryuukhagetsu/how-i-get-bounty-from-takeover-account-ed17cd838b2a

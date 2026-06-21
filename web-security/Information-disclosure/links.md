@@ -340,3 +340,6 @@
 - https://medium.com/@dr.spitfire/sensitive-information-disclosure-web-cache-deception-attack-bcac6cb9cd86?sk=a2557f0c557ff38876141c2d94b296dd
 - https://medium.com/@Steiner254/bounty-in-less-3-minutes-from-a-google-dork-54bd9bf3a650
 - https://philippeharewood.com/disclose-the-owner-of-a-recruiting-manager-in-jobs-beta/
+- https://mazinahmed.net/blog/hacking-zoom/
+- https://ysamm.com/?p=640
+- https://medium.com/tenable-techblog/logging-passwords-in-plaintext-in-azure-arc-2f94cb046a
