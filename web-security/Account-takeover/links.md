@@ -126,3 +126,4 @@
 - https://blog.dixitaditya.com/2021/11/19/account-takeover-chain.html
 - https://ahmdhalabi.medium.com/taking-over-employee-accounts-by-managers-with-zero-employee-interaction-b60784c3ad84
 - https://infosecwriteups.com/account-takeover-an-epic-bug-bounty-story-dd5468d5773d
+- https://medium.com/@sp2417487/a-tale-of-critical-account-take-over-e1b7c180917c

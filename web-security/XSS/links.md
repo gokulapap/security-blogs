@@ -354,3 +354,4 @@
 - https://research.securitum.com/the-curious-case-of-copy-paste/
 - https://sites.google.com/securifyinc.com/vrp-writeups/gsuite/bookmark-xss-device-management
 - https://blog.geekycat.in/xss-using-postmessage-in-google-cloud-theia-notebooks/
+- https://zseano.medium.com/finding-xss-on-apple-com-and-building-a-proof-of-concept-to-leak-your-pii-information-d7bc93cff2df

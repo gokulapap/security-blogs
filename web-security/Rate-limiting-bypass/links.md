@@ -10,3 +10,4 @@
 - https://0xt4144t.medium.com/rate-limit-bypassing-allowing-identity-spoofing-789b2fe2efa8
 - https://ahmdhalabi.medium.com/chaining-multiple-requests-to-achieve-rate-limiting-vulnerabilities-96c1e8365c06
 - https://infosecwriteups.com/unique-rate-limit-bypass-worth-1800-6e2947c7d972
+- https://akashc99.medium.com/bypassing-account-lockout-through-password-reset-functionality-8ff5c256f380

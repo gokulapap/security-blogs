@@ -344,3 +344,4 @@
 - https://docs.google.com/document/d/1-TTCS6fS6kvFUkoJmX4Udr-czQ79lSUVXiWsiAED_bs/edit
 - https://www.iot-inspector.com/blog/advisory-western-digital-my-cloud-pro-series-pr4100-rce/
 - https://labs.jumpsec.com/quest-kace-desktop-authority-pre-auth-remote-code-execution-cve-2021-44031/
+- https://blog.assetnote.io/2023/07/22/pre-auth-rce-metabase/

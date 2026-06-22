@@ -23,7 +23,6 @@
 - https://medium.com/@Sm9l/what-i-learnt-from-reading-126-information-disclosure-writeups-d896c5d5a2a4, info-disclosure
 - https://samcurry.net/points-com/, Path-traversal
 - https://www.mcnulty.blog/posts/dap-csrf, CSRF
-- https://blog.assetnote.io/2023/07/22/pre-auth-rce-metabase/, RCE
 - https://www.sonarsource.com/blog/a-twist-in-the-code-openmeetings-vulnerabilities-through-unexpected-application-state/, Account-takeover
 - https://dimazarno.medium.com/unexpected-zero-in-mysql-injection-511f632714b0, SQL-injection
 - http://blog.takemyhand.xyz/2023/07/remote-code-execution-in-gitlabs-cli.html, RCE
@@ -77,7 +76,6 @@
 - https://eaton-works.com/2023/02/06/toyota-gspims-hack/, Authentication-bypass
 - https://onekey.com/blog/security-advisory-remote-command-execution-in-binwalk/, RCE
 - https://medium.com/@abhisekr/discovered-a-critical-idor-and-earned-900-for-my-first-p1-vulnerability-57c1e72f42c1, IDOR
-- https://akashc99.medium.com/bypassing-account-lockout-through-password-reset-functionality-8ff5c256f380, Rate-limiting-bypass
 - https://ph-hitachi.medium.com/how-i-hacked-scopely-using-sign-in-with-google-298a9c166ad, Account-takeover
 - https://www.synacktiv.com/sites/default/files/2023-01/advisory_manageengine_adss_2023.pdf, RCE
 - https://melotover.medium.com/bypassing-e2e-encryption-leads-to-multiple-high-vulnerabilities-65b708e5ad84, IDOR
@@ -211,7 +209,6 @@
 - https://blog.agilehunt.com/blogs/security/privilege-escalation-in-microsoft-teams-2021, Privilege-escalation
 - https://www.p1boom.com/2021/12/accidental-idor-in-elearnsecurity-to.html, IDOR
 - https://blog.sonarsource.com/nodebb-remote-code-execution-with-one-shot, RCE
-- https://zseano.medium.com/finding-xss-on-apple-com-and-building-a-proof-of-concept-to-leak-your-pii-information-d7bc93cff2df, XSS
 - https://r0.haxors.org/posts?id=26, SQL-injection
 - https://lethanhphuc-pk.medium.com/bugbounty-xss-with-markdown-exploit-fix-on-opensource-1baecebe9645, XSS
 - https://feed.bugs.xdavidhu.me/bugs/0008, Privilege-escalation
@@ -336,7 +333,6 @@
 - https://medium.com/bugbountywriteup/how-i-lost-my-followers-on-medium-9fe10e9862aa, GraphQL
 - https://medium.com/@sudipshah_66336/the-story-of-my-first-4-digit-bounty-from-facebook-3a29830e03cd, Logic-flaw
 - https://medium.com/@rafaelrodripaz/ssrf-in-import-file-function-d0f1c6397262, SSRF
-- https://medium.com/@sp2417487/a-tale-of-critical-account-take-over-e1b7c180917c, Account-takeover
 - https://blog.securityevaluators.com/tenda-ac1900-vulnerabilities-discovered-and-exploited-e8e26aa0bc68, CSRF
 - https://philippeharewood.com/see-whether-a-hackercup-facebook-participant-allows-recruitment-contact/, Information-disclosure
 - https://xvnpw.github.io/posts/from-dot-in-regex-to-ssrf-part-3/, SSRF
@@ -353,7 +349,6 @@
 - https://medium.com/@talatmehmood1995/bug-bounty-advanced-manual-penetration-testing-leading-to-price-manipulation-vulnerability-d935a3a5ddf6, Payment-tampering
 - https://medium.com/@sandeepkumarsingh1902/bugbounty-adding-money-using-response-modification-334448d34251, Payment-tampering
 - https://medium.com/@hbothra22/recon-to-sensitive-information-disclosure-in-minutes-503fc7ccdf0b, Information-disclosure
-- https://medium.com/@d0nut/piercing-the-veal-short-stories-to-read-with-friends-4aa86d606fc5, SSRF
 - https://web.archive.org/web/20200513210337/https://medium.com/bugbountywriteup/the-secret-sauce-of-bug-bounty-bdcc2e2d45af, CSTI
 - https://blog.zimperium.com/multiple-kernel-vulnerabilities-affecting-all-qualcomm-devices/, Memory-corruption
 - https://medium.com/@afolicdaralee/hacking-a-telecommunication-company-mtn-c46696451fed, OTP-bypass
