@@ -5,3 +5,4 @@
 - https://0x48piraj.medium.com/full-address-bar-spoofing-on-opera-mini-android-597fafa60627
 - https://www.rafaybaloch.com/2018/09/apple-safari-microsoft-edge-browser.html
 - https://servicenger.com/blog/mobile/facebook-for-ios-address-bar-spoofing/
+- https://www.rafaybaloch.com/2020/10/multiple-address-bar-spoofing-vulnerabilities.html

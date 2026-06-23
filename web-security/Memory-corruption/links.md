@@ -81,3 +81,4 @@
 - https://www.microsoft.com/security/blog/2022/08/19/uncovering-a-chromeos-remote-memory-corruption-vulnerability/
 - https://github.com/colmmacc/CVE-2022-3602
 - https://research.nccgroup.com/2022/02/28/brokenprint-a-netgear-stack-overflow/
+- https://ezqelusia.blogspot.com/2020/05/microsofts-first-bug.html

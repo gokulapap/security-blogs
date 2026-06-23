@@ -23,3 +23,4 @@
 - https://web.archive.org/web/20190506160222/https://tutorgeeks.blogspot.com/2017/04/aws-s3-bucket-misconfiguration.html
 - https://medium.com/@valeriyshevchenko/how-to-delete-all-company-progress-by-one-rm-command-in-aws-s3-bucket-df9c44727d7b
 - https://medium.com/bugbountywriteup/from-broken-link-to-sub-folder-takeover-on-bukalapak-3aa985e622c4
+- https://medium.com/@airlanggamurthi/obtained-a-bunch-of-sensitive-data-in-just-few-steps-hacking-1a474200a8c2
