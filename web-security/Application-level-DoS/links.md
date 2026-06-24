@@ -8,3 +8,4 @@
 - https://medium.com/@kalvik/pre-denial-of-service-set-up-2fa-on-unverified-account-8399af52ea2d
 - https://www.metabaseq.com/imagemagick-zero-days/
 - https://medium.com/@knassar702/with-a-single-request-you-can-kill-any-gitea-server-1275c5f3b226
+- https://pathleax.medium.com/this-is-how-i-was-able-to-permanently-crash-all-mapillary-users-within-minutes-c7276def5a94

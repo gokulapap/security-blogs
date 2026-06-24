@@ -355,3 +355,4 @@
 - https://sites.google.com/securifyinc.com/vrp-writeups/gsuite/bookmark-xss-device-management
 - https://blog.geekycat.in/xss-using-postmessage-in-google-cloud-theia-notebooks/
 - https://zseano.medium.com/finding-xss-on-apple-com-and-building-a-proof-of-concept-to-leak-your-pii-information-d7bc93cff2df
+- https://c0nqr0r.medium.com/reading-robots-txt-got-me-4-xss-reports-9fd2234c635f

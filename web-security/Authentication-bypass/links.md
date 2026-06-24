@@ -85,3 +85,4 @@
 - https://medium.com/@mustafakhan_89646/asuss-admin-panel-auth-bypass-af5062584ddf
 - https://mohitdabas.wordpress.com/2018/09/18/bypassing-authentication-using-javascript-debugger/
 - https://labs.nettitude.com/blog/cve-2022-25026-cve-2022-25027-vulnerabilities-in-rocket-trufusion-enterprise/
+- https://blog.intothesymmetry.com/2017/10/slack-saml-authentication-bypass.html
