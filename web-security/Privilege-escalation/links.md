@@ -67,3 +67,4 @@
 - https://ivreznap.medium.com/interesting-privilege-escalation-in-an-old-private-program-225d27253e13
 - https://ysamm.com/?p=460
 - https://spyclub.tech/2019/02/26/horizontal-privilege-escalation-on-quora/
+- https://infosecwriteups.com/how-we-was-able-to-takeover-whole-organization-via-privilege-escalation-4f74b31a84a6

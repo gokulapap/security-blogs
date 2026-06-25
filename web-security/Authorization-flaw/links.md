@@ -140,3 +140,4 @@
 - https://medium.com/@pig.wig45/bypassing-access-control-in-a-program-on-hackerone-ef213ab34703
 - https://medium.com/@sansyrox/hacking-tinders-premium-model-43f9f699d44
 - https://sites.google.com/securifyinc.com/secblogs/exploitingcalendars
+- https://rpadovani.com/gitlab-responsible-disclosure

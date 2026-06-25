@@ -120,3 +120,4 @@
 - https://medium.com/@pig.wig45/json-csrf-attack-on-a-social-networking-site-hackerone-platform-3d7aed3239b0
 - https://soroush.secproject.com/blog/2019/04/yet-other-examples-of-abusing-csrf-in-logout/
 - https://ysamm.com/?p=702
+- https://medium.com/a-bugz-life/4x-csrfs-chained-for-company-account-takeover-f9fada416986
