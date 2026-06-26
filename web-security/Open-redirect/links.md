@@ -99,3 +99,4 @@
 - https://medium.com/@letssimplysecure/bug-bounty-experience-unvalidated-redirection-vulnerability-eed40d91da27
 - https://medium.com/@know.0nix/hunting-good-bugs-with-only-html-d8fd40d17b38
 - http://manuel-sousa.blogspot.com/2017/09/url-whitelist-bypass-accounts-google.html
+- https://www.bugbounty.info/2022/08/never-underestimate-power-of-open.html

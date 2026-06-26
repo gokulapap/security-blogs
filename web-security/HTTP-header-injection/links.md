@@ -1,2 +1,3 @@
 - https://portswigger.net/research/making-http-header-injection-critical-via-response-queue-poisoning
 - https://medium.com/bugbountywriteup/fun-with-header-and-forget-password-without-that-nasty-twist-cbf45e5cc8db
+- https://medium.com/bugbountywriteup/chaining-password-reset-link-poisoning-idor-account-information-leakage-to-achieve-account-bb5e0e400745

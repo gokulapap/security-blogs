@@ -121,3 +121,4 @@
 - https://soroush.secproject.com/blog/2019/04/yet-other-examples-of-abusing-csrf-in-logout/
 - https://ysamm.com/?p=702
 - https://medium.com/a-bugz-life/4x-csrfs-chained-for-company-account-takeover-f9fada416986
+- https://medium.com/@saadahmedx/bypass-csrf-with-clickjacking-worth-1250-6c70cc263f40

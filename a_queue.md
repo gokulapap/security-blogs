@@ -124,7 +124,6 @@
 - https://www.ambionics.io/blog/hacking-watchguard-firewalls, XPath-injection
 - https://redrays.io/cve-2020-2733-jd-edwards/, Information-disclosure
 - https://hackingguy.medium.com/failed-coding-assessment-to-remote-code-execution-a-case-study-part-1-1778934b3b34, RCE
-- https://www.bugbounty.info/2022/08/never-underestimate-power-of-open.html, Open-redirect
 - https://medium.com/@faique/account-takeover-worth-1000-611452063cf, Account-takeover
 - https://blog.78researchlab.com/b9c80d00-d935-43b1-8805-969000df301d, DoS
 - https://medium.com/@tobydavenn/dom-xss-on-a-gov-domain-bypassing-waf-93daec67fda9, DOM-XSS
@@ -133,7 +132,6 @@
 - https://accessvector.net/2022/freebsd-aio-lpe, Memory-corruption
 - https://infosecwriteups.com/salesforce-bug-hunting-to-critical-bug-b5da44789d3, Information-disclosure
 - https://www.akamai.com/blog/security/authentication-coercion-windows-server-service, Off-by-one-Error
-- https://medium.com/@Bishoo97x/un-united-nations-host-header-injection-leads-to-any-full-account-takeover-ato-795bc9ebc670, Host-header-injection
 - https://medium.com/@avinash_/email-confirmation-bypass-at-instagram-cc968f9a126, Email-verification-bypass
 - https://canmustdie.medium.com/multiple-bugs-in-one-program-leads-to-1500-c35fcde06bc7, Privilege-escalation
 - https://medium.com/@the_null_kid/instagram-photo-was-present-in-data-backup-nearly-after-two-years-being-deleted-f0e4d6e108, Privacy-issue
@@ -292,7 +290,6 @@
 - https://medium.com/@prakashpanta1999/replying-comments-on-someones-livestream-from-page-is-posted-as-personal-identity-5fe79ef78b28, Logic-flaw
 - https://www.rcesecurity.com/2020/11/Smuggling-an-un-exploitable-xss/, HTTP-Request-Smuggling
 - https://medium.com/bugbountywriteup/evading-filters-to-perform-the-arbitrary-url-redirection-attack-cce628b9b6a0, Open-redirect
-- https://medium.com/bugbountywriteup/chaining-password-reset-link-poisoning-idor-account-information-leakage-to-achieve-account-bb5e0e400745, HTTP-header-injection
 - https://galnagli.com/DoD_IDOR/, IDOR
 - https://www.mysk.blog/2020/10/25/link-previews/, Information-disclosure
 - https://medium.com/bugbountywriteup/my-first-bug-on-google-observation-wins-1a13d0ea54b0, IDOR
@@ -378,7 +375,6 @@
 - https://medium.com/@ronak_9889/solr-injection-by-abusing-local-parameters-on-zomato-com-a5cb7bef10d5, Solr-injection
 - https://medium.com/@innocenthacker/how-i-found-the-most-critical-bug-in-live-bug-bounty-event-7a88b3aa97b3, Password-reset
 - https://philippeharewood.com/subscribe-to-typing-notifications-for-any-instagram-user/, Authorization-flaw
-- https://medium.com/@saadahmedx/bypass-csrf-with-clickjacking-worth-1250-6c70cc263f40, CSRF
 - https://thezerohack.com/hack-any-instagram, Race-condition
 - https://samcurry.net/cracking-my-windshield-and-earning-10000-on-the-tesla-bug-bounty-program/, Blind-XSS
 - https://medium.com/@hazzaazi31/a-malicious-editor-of-a-page-can-support-to-a-community-action-which-cant-be-unsupported-by-the-f568c3762042, Authorization-flaw
@@ -415,7 +411,6 @@
 - https://blog.detectify.com/2019/01/29/hacking-isnt-an-exact-science/, Authorization-flaw
 - https://medium.com/@ChandSingh/protonmail-xss-stored-b733031ac3b5, Stored-XSS
 - https://ysamm.com/?p=68, Logic-flaw
-- https://ysamm.com/?p=12, XSS
 - https://medium.com/@maxpasqua/stealing-side-channel-attack-tokens-in-facebook-account-switcher-90c5944e3b58, Token-leak
 - https://medium.com/@putracraft.theworld/server-side-request-forgery-in-openid-support-defcc64d5e41, SSRF
 - https://blog.scrt.ch/2018/08/24/remote-code-execution-on-a-facebook-server/, LFI
