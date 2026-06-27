@@ -312,3 +312,5 @@
 - https://medium.com/@hf6452/a-story-of-a-strange-stored-idor-b6f2769bb6cb
 - https://pathleax.medium.com/this-is-how-i-was-able-to-see-and-delete-your-private-facebook-portal-photos-a93ed22f875b
 - https://bugbountypoc.com/how-i-was-able-to-harvest-other-vine-users-ip-address
+- https://medium.com/@abhisekr/discovered-a-critical-idor-and-earned-900-for-my-first-p1-vulnerability-57c1e72f42c1
+- https://feed.bugs.xdavidhu.me/bugs/0009

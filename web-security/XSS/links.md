@@ -357,3 +357,4 @@
 - https://zseano.medium.com/finding-xss-on-apple-com-and-building-a-proof-of-concept-to-leak-your-pii-information-d7bc93cff2df
 - https://c0nqr0r.medium.com/reading-robots-txt-got-me-4-xss-reports-9fd2234c635f
 - https://ysamm.com/?p=12
+- https://sanyamchawla1999.medium.com/my-experience-of-hacking-the-dutch-government-8c219c61c795

@@ -7,3 +7,4 @@
 - https://alesandroortiz.com/articles/uxss-android-webview-cve-2020-6506/
 - https://0x65.dev/blog/2020-03-30/cve-2019-17004-semi-universal-xss-affecting-firefox-for-ios.html
 - https://cyberxplore.medium.com/how-we-are-able-to-hack-any-company-by-sending-message-including-facebook-google-microsoft-b7773626e447
+- https://www.ryanpickren.com/safari-uxss
