@@ -1,1 +1,2 @@
 - https://theevilbit.github.io/posts/cve-2022-22655/
+- https://www.zerodayinitiative.com/blog/2023/4/5/bash-privileged-mode-vulnerabilities-in-parallels-desktop-and-cdpath-handling-in-macos

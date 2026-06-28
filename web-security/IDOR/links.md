@@ -314,3 +314,5 @@
 - https://bugbountypoc.com/how-i-was-able-to-harvest-other-vine-users-ip-address
 - https://medium.com/@abhisekr/discovered-a-critical-idor-and-earned-900-for-my-first-p1-vulnerability-57c1e72f42c1
 - https://feed.bugs.xdavidhu.me/bugs/0009
+- https://www.linkedin.com/pulse/hacking-youtube-fun-profit-alexandru-coltuneac/
+- https://infosecwriteups.com/idor-leads-to-leak-private-details-866563365490

@@ -3,3 +3,4 @@
 - https://hopesamples.blogspot.com/2022/12/source-code-leakage-due-to-exposed.html
 - https://0xlittlespidy.medium.com/indias-aadhar-card-source-code-disclosure-via-exposed-svn-wc-db-c05519ea7761
 - https://blog.projectdiscovery.io/php-http-server-source-disclosure/
+- https://avicoder.me/2016/07/22/Twitter-Vine-Source-code-dump/
