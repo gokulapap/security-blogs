@@ -128,3 +128,4 @@
 - https://infosecwriteups.com/account-takeover-an-epic-bug-bounty-story-dd5468d5773d
 - https://medium.com/@sp2417487/a-tale-of-critical-account-take-over-e1b7c180917c
 - http://www.kamilonurozkaleli.com/posts/a-classical-account-takeover-case-via-multiple-bypasses/
+- https://medium.com/@faique/account-takeover-worth-1000-611452063cf

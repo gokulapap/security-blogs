@@ -1,4 +1,3 @@
-- https://medium.com/@jenishpanchal514/account-takeover-via-response-manipulation-otp-brute-force-b965fc1b7a37, ATO
 - https://medium.com/@vickieli/intro-to-ssrf-beb35857771f, ssrf
 - https://medium.com/@nanwinata/rce-docker-api-but-11ff70825935, Cloud
 - https://medium.com/@s3c/how-i-hacked-world-wide-tiktok-users-24e794d310d2, journey
@@ -121,7 +120,6 @@
 - https://www.ambionics.io/blog/hacking-watchguard-firewalls, XPath-injection
 - https://redrays.io/cve-2020-2733-jd-edwards/, Information-disclosure
 - https://hackingguy.medium.com/failed-coding-assessment-to-remote-code-execution-a-case-study-part-1-1778934b3b34, RCE
-- https://medium.com/@faique/account-takeover-worth-1000-611452063cf, Account-takeover
 - https://blog.78researchlab.com/b9c80d00-d935-43b1-8805-969000df301d, DoS
 - https://medium.com/@tobydavenn/dom-xss-on-a-gov-domain-bypassing-waf-93daec67fda9, DOM-XSS
 - https://medium.com/@ashlyn.lau_17206/2fa-bypass-do-re-mi-cfcfc3775d2e, MFA-bypass
@@ -175,7 +173,6 @@
 - https://canmustdie.medium.com/how-did-i-leak-5-2k-customer-data-from-a-large-company-via-broken-access-control-709eb4027409, Broken-Access-Control
 - https://muffsec.com/blog/moodle-2nd-order-sqli/, SQL-injection
 - https://servicenger.com/mobile/facebook-android-vulnerability-launching-internal-tighten-deeplink-onbehalf-of-user/, Android
-- https://gitlab.com/kop316/vvm-disclosure, Voicemail-hacking
 - https://medium.com/@720922/recon-and-youtube-is-that-a-thing-5523b48c32e3, Subdomain-takeover
 - https://medium.com/@yaala/facebook-oauth-bypass-446a073e687d, OAuth
 - https://spaceraccoon.dev/solving-dom-xss-puzzles, DOM-XSS
@@ -303,7 +300,6 @@
 - https://medium.com/bugbountywriteup/fun-with-header-and-forget-password-with-a-twist-af095b426fb2, Password-reset
 - https://offensi.com/2020/08/18/how-to-contact-google-sre-dropping-a-shell-in-cloud-sql/, SQL-injection
 - https://medium.com/bugbountywriteup/cache-poisoning-of-wget-94a4d70104b1, Web-cache-poisoning
-- https://medium.com/@singh.simran7838/how-i-made-2000-with-url-redirection-b1b5f4e7a678, Open-redirect
 - https://medium.com/@DK999/apache-example-servlet-leads-to-61a2720cac20, Clickjacking
 - https://objective-see.com/blog/blog_0x4D.html, Local-Privilege-Escalation
 - https://medium.com/bugbountywriteup/my-first-bug-bounty-21d3203ffdb0, Information-disclosure
@@ -430,7 +426,6 @@
 - https://blog.evanricafort.com/2018/08/blind-xss-in-chrome-experiments-google.html, Blind-XSS
 - https://medium.com/@logicbomb_1/bugbounty-paytm-customer-information-is-at-risk-indias-largest-digital-wallet-company-6f7116d4b2d5, IDOR
 - https://www.ambionics.io/blog/prestashop-privilege-escalation, Privilege-escalation
-- https://medium.com/@yassergersy/account-take-over-via-reset-password-f2e9d887bce1, Password-reset
 - https://medium.com/bugbountywriteup/responsible-disclosure-how-i-could-have-booked-movie-tickets-through-other-user-accounts-2db26a037b4c, Password-reset
 - https://medium.com/@jonathanbouman/unvalidated-open-redirect-bol-com-b270151380e6, Open-redirect
 - https://thehackerblog.com/reading-your-emails-with-a-readwrite-chrome-extension-same-origin-policy-bypass-8-million-users-affected/index.html, SOP-bypass
