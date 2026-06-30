@@ -95,3 +95,4 @@
 - https://www.cyberark.com/resources/threat-research-blog/breaking-docker-named-pipes-systematically-docker-desktop-privilege-escalation-part-1
 - https://danrevah.github.io/2023/05/03/CVE-2023-25394-VideoStream-LPE/
 - https://the-deniss.github.io/posts/2023/02/09/elevation-of-privileges-from-everyone-through-avast-av-sandbox-to-system-amppl.html
+- https://blog.trailofbits.com/2023/02/16/suid-logic-bug-linux-readline/

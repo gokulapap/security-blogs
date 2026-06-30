@@ -3,3 +3,4 @@
 - https://medium.com/@orkhan_alibayli/subdomain-takeover-95646de1f436
 - https://medium.com/@nynan/what-i-learnt-from-reading-217-subdomain-takeover-bug-reports-c0b94eda4366
 - https://medium.com/@pyrrhon/how-i-was-able-to-take-over-one-of-dells-subdomains-7e06b8516e41
+- https://medium.com/@thexssrat/subdomain-flyover-and-manual-exploration-of-the-results-15c69d509091

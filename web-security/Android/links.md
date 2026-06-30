@@ -24,3 +24,4 @@
 - https://medium.com/@kushjain0107/one-mistake-three-bugs-comprehensive-android-pentesting-a8fc68e36af5
 - https://research.nccgroup.com/2022/12/09/public-report-vpn-by-google-one-security-assessment/
 - https://valsamaras.medium.com/when-equal-is-not-another-webview-takeover-story-730be8d6e202
+- https://research.nccgroup.com/2023/01/20/technical-advisory-multiple-vulnerabilities-in-the-galaxy-app-store-cve-2023-21433-cve-2023-21434/
