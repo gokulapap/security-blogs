@@ -34,3 +34,4 @@
 - https://medium.com/@logicbomb_1/chain-of-hacks-leading-to-database-compromise-b2bc2b883915
 - https://web.archive.org/web/20220818204507/https://www.rcesecurity.com/2017/08/from-lfi-to-rce-via-php-sessions/
 - https://github.com/l0ggg/VMware_vCenter
+- https://medium.com/@jonathanbouman/local-file-inclusion-at-ikea-com-e695ed64d82f

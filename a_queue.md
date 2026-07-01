@@ -79,7 +79,6 @@
 - https://www.trendmicro.com/en_us/research/22/l/a-technical-analysis-of-cve-2022-22583-and-cve-2022-32800.html, MacOS
 - https://crypt0g30rgy.github.io/post/AWSTakeover, Information-disclosure
 - https://0xraminfosec.medium.com/simple-cors-misconfig-leads-to-disclose-the-sensitive-token-worth-of-91433763f4d6, CORS-misconfiguration
-- https://salt.security/blog/missing-bricks-finding-security-holes-in-lego-apis, XSS
 - https://0xmayankgarg.medium.com/pii-data-exfiltration-within-minutes-f06d4587d201, Information-disclosure
 - https://karmainsecurity.com/KIS-2022-06, Zip-Slip-attack
 - https://abhishekmorla.medium.com/bypassing-the-client-side-encryption-to-read-internal-windows-server-files-e832da8b4ac8, Client-side-encryption-bypass
@@ -122,7 +121,6 @@
 - https://doyensec.com/resources/Doyensec_Advisory_SmokescreenGoProxy_Q12022.pdf, DoS
 - https://accessvector.net/2022/freebsd-aio-lpe, Memory-corruption
 - https://infosecwriteups.com/salesforce-bug-hunting-to-critical-bug-b5da44789d3, Information-disclosure
-- https://www.akamai.com/blog/security/authentication-coercion-windows-server-service, Off-by-one-Error
 - https://medium.com/@avinash_/email-confirmation-bypass-at-instagram-cc968f9a126, Email-verification-bypass
 - https://canmustdie.medium.com/multiple-bugs-in-one-program-leads-to-1500-c35fcde06bc7, Privilege-escalation
 - https://medium.com/@the_null_kid/instagram-photo-was-present-in-data-backup-nearly-after-two-years-being-deleted-f0e4d6e108, Privacy-issue
@@ -156,7 +154,6 @@
 - https://blog.assetnote.io/2022/04/27/vmware-workspace-one-uem-ssrf/, SSRF
 - https://systemweakness.com/unlock-any-blur-text-picture-without-membership-subscription-on-scribd-com-by-neuchi-69237776e24, Payment-bypass
 - https://shubhdeepp.medium.com/how-i-got-apple-hall-of-fame-3d86f858c05f, Content-injection
-- https://systemweakness.com/exploiting-a-file-upload-vulnerability-a-directory-traversal-attack-419308cdb059, Unrestricted-file-upload
 - https://debprasadbanerjee502.medium.com/united-nations-bug-bounty-writeup-4bcfdefbb8d3, Information-disclosure
 - https://medium.com/@_ip_/2-3-xss-through-the-front-door-gitlab-fc4b6799e743, XSS
 - https://blog.relyze.com/2022/03/cve-2022-27643-netgear-r6700v3-upnpd.html, Memory-corruption
@@ -260,7 +257,6 @@
 - https://shubhamchaskar.com/ato-through-pe/, Privilege-escalation
 - https://ysamm.com/?p=621, Authorization-flaw
 - https://ysamm.com/?p=625, Open-redirect
-- https://ysamm.com/?p=613, Information-disclosure
 - https://servicenger.com/blog/mobile/sending-ephemeral-message-to-any-facebook-user/, IDOR
 - https://web.archive.org/web/20210201180254/https://www.cysek.org/post/bac-sxss, Stored-XSS
 - https://medium.com/bugbountywriteup/bragging-rights-part-1-short-story-of-a-bug-wave-dbb88f48b604, IDOR
@@ -409,7 +405,6 @@
 - https://jonbottarini.com/2018/10/09/get-as-image-function-pulls-any-insights-nrql-data-from-any-new-relic-account-idor/, IDOR
 - https://medium.com/@sivakrishnasamireddi/just-another-tale-of-severe-bugs-on-a-private-program-405870b03532, Open-redirect
 - https://websecblog.com/vulns/bypassing-firebase-authorization-to-create-custom-goo-gl-subdomains/, Logic-flaw
-- https://medium.com/@jonathanbouman/local-file-inclusion-at-ikea-com-e695ed64d82f, LFI
 - https://web.archive.org/web/20200811013311/https://medium.com/@protector47/persistent-cross-site-scripting-on-redacted-worth-2-000-1e760617ccab, Stored-XSS
 - https://medium.com/@Mthirup/hacking-your-own-antivirus-for-fun-and-profit-safe-browsing-gone-wrong-365db9d1d3f7, Reflected-XSS
 - https://websecblog.com/vulns/reflected-xss-in-google-code-jam/, Reflected-XSS

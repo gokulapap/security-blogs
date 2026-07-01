@@ -343,3 +343,4 @@
 - https://mazinahmed.net/blog/hacking-zoom/
 - https://ysamm.com/?p=640
 - https://medium.com/tenable-techblog/logging-passwords-in-plaintext-in-azure-arc-2f94cb046a
+- https://ysamm.com/?p=613

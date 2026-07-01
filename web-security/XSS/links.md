@@ -358,3 +358,4 @@
 - https://c0nqr0r.medium.com/reading-robots-txt-got-me-4-xss-reports-9fd2234c635f
 - https://ysamm.com/?p=12
 - https://sanyamchawla1999.medium.com/my-experience-of-hacking-the-dutch-government-8c219c61c795
+- https://salt.security/blog/missing-bricks-finding-security-holes-in-lego-apis
