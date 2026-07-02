@@ -1,0 +1,1 @@
+- https://eaton-works.com/2022/06/20/hacking-into-the-worldwide-jacuzzi-smarttub-network/

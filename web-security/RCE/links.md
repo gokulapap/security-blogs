@@ -346,3 +346,4 @@
 - https://labs.jumpsec.com/quest-kace-desktop-authority-pre-auth-remote-code-execution-cve-2021-44031/
 - https://blog.assetnote.io/2023/07/22/pre-auth-rce-metabase/
 - https://evilpacket.net/2016/atom-io-misconfiguration-allowed-code-execution-on-untrusted-networks/
+- https://blog.sonarsource.com/checkmk-rce-chain-1/
