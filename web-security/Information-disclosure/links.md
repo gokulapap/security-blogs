@@ -344,3 +344,5 @@
 - https://ysamm.com/?p=640
 - https://medium.com/tenable-techblog/logging-passwords-in-plaintext-in-azure-arc-2f94cb046a
 - https://ysamm.com/?p=613
+- https://notifybugme.medium.com/finding-basic-authtoken-in-javascript-file-by-full-automation-6188ca1b1f56
+- https://www.seekurity.com/blog/general/the-2-5mins-or-2-5k-hawk-eye-bug-a-facebook-pages-admins-disclosure-vulnerability/

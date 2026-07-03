@@ -39,3 +39,4 @@
 - https://bloggerrando.blogspot.com/2021/06/how-many-likes-and-dislikes-that-was.html
 - https://www.rapid7.com/blog/post/2023/07/11/cve-2023-29298-adobe-coldfusion-access-control-bypass/
 - https://material.security/blog/how-material-security-uncovered-a-vulnerability-in-gmail-api
+- https://medium.com/@protostar0/hacking-banks-broken-access-control-vulnerability-in-banking-application-part-i-c442ed5ae170

@@ -359,3 +359,4 @@
 - https://ysamm.com/?p=12
 - https://sanyamchawla1999.medium.com/my-experience-of-hacking-the-dutch-government-8c219c61c795
 - https://salt.security/blog/missing-bricks-finding-security-holes-in-lego-apis
+- https://nmochea.medium.com/this-post-is-about-an-reflected-xss-that-i-found-on-opera-browser-application-which-could-have-been-39823a22045d
