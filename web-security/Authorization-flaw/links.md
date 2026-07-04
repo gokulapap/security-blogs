@@ -141,3 +141,4 @@
 - https://medium.com/@sansyrox/hacking-tinders-premium-model-43f9f699d44
 - https://sites.google.com/securifyinc.com/secblogs/exploitingcalendars
 - https://rpadovani.com/gitlab-responsible-disclosure
+- https://medium.com/@ar_arvind/facebook-bug-bounty-reading-whatsapp-contacts-list-without-unlocking-the-device-a40e9c660a42

@@ -1,0 +1,1 @@
+- https://www.akamai.com/blog/security/autodiscovering-the-great-leak
