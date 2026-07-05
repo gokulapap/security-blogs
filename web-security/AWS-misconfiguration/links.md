@@ -24,3 +24,5 @@
 - https://medium.com/@valeriyshevchenko/how-to-delete-all-company-progress-by-one-rm-command-in-aws-s3-bucket-df9c44727d7b
 - https://medium.com/bugbountywriteup/from-broken-link-to-sub-folder-takeover-on-bukalapak-3aa985e622c4
 - https://medium.com/@airlanggamurthi/obtained-a-bunch-of-sensitive-data-in-just-few-steps-hacking-1a474200a8c2
+- https://notifybugme.medium.com/how-i-was-able-find-mass-leaked-aws-s3-bucket-from-js-file-6064a5c247f8
+- https://philippeharewood.com/1-800-flowers-credentials-and-message-log-leak-via-facebook-com-facebook/

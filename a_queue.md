@@ -74,7 +74,6 @@
 - https://www.zerodayinitiative.com/blog/2023/1/18/cve-2022-35690-unauthenticated-rce-in-adobe-coldfusion, RCE
 - https://blog.viettelcybersecurity.com/cve-2022-21587-oracle-e-business-suite-unauth-rce/, RCE
 - https://ymohagheghi.medium.com/uploading-the-webshell-using-filename-of-content-disposition-header-story-59ba87752311, Unrestricted-file-upload
-- https://danaepp.com/hacking-a-net-api-in-the-real-world, LFI
 - https://www.trendmicro.com/en_us/research/22/l/a-technical-analysis-of-cve-2022-22583-and-cve-2022-32800.html, MacOS
 - https://crypt0g30rgy.github.io/post/AWSTakeover, Information-disclosure
 - https://0xraminfosec.medium.com/simple-cors-misconfig-leads-to-disclose-the-sensitive-token-worth-of-91433763f4d6, CORS-misconfiguration
@@ -188,7 +187,6 @@
 - https://feed.bugs.xdavidhu.me/bugs/0008, Privilege-escalation
 - https://hector0x.medium.com/broken-authentication-through-referral-code-25cd0e8bccc2, Authentication-flaw
 - https://hector0x.medium.com/dos-attack-in-yahoo-how-i-was-able-to-deny-new-users-from-service-6b222e744e61, DoS
-- https://thalium.github.io/blog/posts/fuzzing-microsoft-rdp-client-using-virtual-channels/, Memory-corruption
 - https://infosecwriteups.com/sony-hunting-i-discovering-hidden-parameters-5x-swag-c3396c0064bc, Open-redirect
 - https://blog.assetnote.io/2021/11/02/sitecore-rce/, RCE
 - https://omespino.com/write-up-xss-stored-in-api-media-atlassian-com-via-doc-file-ios/, Stored-XSS
@@ -214,7 +212,6 @@
 - https://blog.gypsyengineer.com/en/security/detecting-jackson-deserialization-vulnerabilities-with-codeql.html, Insecure-deserialization
 - https://coffeejunkie.me/Blind-XXE-Port-Scanning/, XXE
 - https://3bodymo.medium.com/how-i-earned-by-amazon-s3-bucket-misconfigurations-29d51ee510de, AWS-misconfiguration
-- https://notifybugme.medium.com/how-i-was-able-find-mass-leaked-aws-s3-bucket-from-js-file-6064a5c247f8, AWS-misconfiguration
 - https://ertugrull.medium.com/unprivileged-user-with-read-write-permission-to-user-access-can-escalate-their-role-to-admin-a217d2d280a8, Privilege-escalation
 - https://blog.oversecured.com/Why-dynamic-code-loading-could-be-dangerous-for-your-apps-a-Google-example/, Arbitrary-file-write
 - https://fartademayur.medium.com/this-is-how-i-was-able-to-see-private-archived-posts-stories-of-users-on-instagram-without-de70ca39165c, IDOR
@@ -263,7 +260,6 @@
 - https://medium.com/@prakashpanta1999/replying-comments-on-someones-livestream-from-page-is-posted-as-personal-identity-5fe79ef78b28, Logic-flaw
 - https://www.rcesecurity.com/2020/11/Smuggling-an-un-exploitable-xss/, HTTP-Request-Smuggling
 - https://medium.com/bugbountywriteup/evading-filters-to-perform-the-arbitrary-url-redirection-attack-cce628b9b6a0, Open-redirect
-- https://galnagli.com/DoD_IDOR/, IDOR
 - https://www.mysk.blog/2020/10/25/link-previews/, Information-disclosure
 - https://medium.com/bugbountywriteup/my-first-bug-on-google-observation-wins-1a13d0ea54b0, IDOR
 - https://blog.dixitaditya.com/leveraging-xss-to-read-internal-files/, XSS
@@ -334,7 +330,6 @@
 - https://web.archive.org/web/20220826045457/https://blog.bi.tk/chrome-cors/, Caching-issue
 - https://medium.com/@masonhck357/chains-on-chains-chaining-several-idors-into-account-takeover-part-one-373627f2910f, IDOR
 - https://blog.sagarvd.me/2019/11/taking-over-facebook-page-tabs.html, Broken-link-hijacking
-- https://philippeharewood.com/1-800-flowers-credentials-and-message-log-leak-via-facebook-com-facebook/, AWS-misconfiguration
 - https://blog.usejournal.com/how-recon-helped-samsung-protect-their-production-repositories-of-samsungtv-ecommerce-estores-4c51d6ec4fdd, Information-disclosure
 - https://web.archive.org/web/20200820030055/https://pwnsec.ninja/2019/09/14/how-i-found-a-simple-and-weird-account-takeover-bug/, Account-takeover
 - https://philippeharewood.com/add-users-to-roles-on-facebook-pages-without-an-invitation-consent/, Authorization-flaw

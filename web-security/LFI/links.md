@@ -35,3 +35,4 @@
 - https://web.archive.org/web/20220818204507/https://www.rcesecurity.com/2017/08/from-lfi-to-rce-via-php-sessions/
 - https://github.com/l0ggg/VMware_vCenter
 - https://medium.com/@jonathanbouman/local-file-inclusion-at-ikea-com-e695ed64d82f
+- https://danaepp.com/hacking-a-net-api-in-the-real-world

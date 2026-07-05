@@ -82,3 +82,4 @@
 - https://github.com/colmmacc/CVE-2022-3602
 - https://research.nccgroup.com/2022/02/28/brokenprint-a-netgear-stack-overflow/
 - https://ezqelusia.blogspot.com/2020/05/microsofts-first-bug.html
+- https://thalium.github.io/blog/posts/fuzzing-microsoft-rdp-client-using-virtual-channels/

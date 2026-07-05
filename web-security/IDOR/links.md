@@ -317,3 +317,4 @@
 - https://www.linkedin.com/pulse/hacking-youtube-fun-profit-alexandru-coltuneac/
 - https://infosecwriteups.com/idor-leads-to-leak-private-details-866563365490
 - https://medium.com/@black_b/yahoo-idor-elimination-of-any-comment-e898f4f955f1
+- https://galnagli.com/DoD_IDOR/
