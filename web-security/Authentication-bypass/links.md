@@ -86,3 +86,4 @@
 - https://mohitdabas.wordpress.com/2018/09/18/bypassing-authentication-using-javascript-debugger/
 - https://labs.nettitude.com/blog/cve-2022-25026-cve-2022-25027-vulnerabilities-in-rocket-trufusion-enterprise/
 - https://blog.intothesymmetry.com/2017/10/slack-saml-authentication-bypass.html
+- https://medium.com/@pig.wig45/touch-id-authentication-bypass-on-evernote-and-dropbox-ios-apps-7985219767b2

@@ -36,3 +36,4 @@
 - https://pvs-studio.com/en/blog/posts/csharp/0918/
 - https://medium.com/@hgreal/why-i-paid-3-5k-to-become-a-tld-registrar-reseller-when-doing-bug-bounty-d9d407911dce
 - https://f4d3.io/xxe_wild/
+- https://shubhamchaskar.com/xxe-to-ntlm/
