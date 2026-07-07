@@ -123,3 +123,4 @@
 - https://medium.com/a-bugz-life/4x-csrfs-chained-for-company-account-takeover-f9fada416986
 - https://medium.com/@saadahmedx/bypass-csrf-with-clickjacking-worth-1250-6c70cc263f40
 - https://blog.securityevaluators.com/tenda-ac1900-vulnerabilities-discovered-and-exploited-e8e26aa0bc68
+- https://web.archive.org/web/20210728030437/https://ritiksahni.me/open-source-bug-bounty-tutorial

@@ -6,3 +6,4 @@
 - https://medium.com/@diegotellaroli05/account-takeover-in-chatgpt-e134ed11654d
 - https://medium.com/@ryuukhagetsu/how-i-get-bounty-from-takeover-account-ed17cd838b2a
 - https://medium.com/@jenishpanchal514/account-takeover-via-response-manipulation-otp-brute-force-b965fc1b7a37
+- https://medium.com/@pingsec/interesting-account-takeover-bugs-619df8466ca0

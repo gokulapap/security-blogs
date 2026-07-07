@@ -8,7 +8,6 @@
 - https://medium.com/@sharanthehunter/g-map-api-key-exploitation-6fdf60fbb263, misc
 - https://medium.com/@ahmdhalabi/taking-over-employee-accounts-by-managers-with-zero-employee-interaction-b60784c3ad84, misc
 - https://medium.com/@tomnomnom/making-a-blind-sql-injection-a-little-less-blind-428dcb614ba8, sql-injection
-- https://medium.com/@pingsec/interesting-account-takeover-bugs-619df8466ca0, ATO
 - https://medium.com/@thelinuxboy/bugging-out-my-experience-of-earning-300-for-reporting-an-unexpected-bug-ec9f9b0054bc, journey
 - https://medium.com/@ramAnon/bug-bounty-hunting-methodology-toolkit-tips-tricks-blogs-eb142034d5a5, tricks
 - https://medium.com/@joshuaarulsamy/mindset-that-made-me-one-among-top-15-security-researchers-in-india-for-3-consecutive-times-febb06e8af61, journey
@@ -141,7 +140,6 @@
 - https://infosecwriteups.com/how-an-open-redirection-leads-to-an-account-takeover-73ea883055d1, Open-redirect
 - https://infosecwriteups.com/how-i-found-a-companys-internal-s3-bucket-with-41k-files-94b453e588b5, AWS-misconfiguration
 - https://medium.com/@sharp488/2fa-bypass-on-private-bug-bounty-program-due-to-improper-caching-mechanism-212c5912bd00, MFA-bypass
-- https://medium.com/@sharp488/2fa-bypass-on-private-bug-bounty-program-due-to-csrf-token-misconfiguration-5a9c82151a1, MFA-bypass
 - https://breakpoint.sh/posts/snyk-code-broken-access-control, Path-traversal
 - https://web.archive.org/web/20220516024454/https://medium.com/@tobydavenn/how-i-paid-for-my-holiday-with-bug-bounty-668f1f59e6e5, XSS
 - https://blog.assetnote.io/2022/04/27/vmware-workspace-one-uem-ssrf/, SSRF
@@ -227,7 +225,6 @@
 - https://tuhin1729.medium.com/story-of-my-hacking-dutch-government-46b7a3c8b75a, XSS
 - https://sndpgiriz.medium.com/simple-logical-bug-turned-into-a-bounty-a3d7ac214606, Logic-flaw
 - https://blog.polybdenum.com/2021/05/05/how-i-hacked-google-app-engine-anatomy-of-a-java-bytecode-exploit.html, RCE
-- https://web.archive.org/web/20210728030437/https://ritiksahni.me/open-source-bug-bounty-tutorial, CSRF
 - https://notifybugme.medium.com/chaining-csrf-with-xss-to-deactivate-mass-user-accounts-by-single-click-b463c0d26587, CSRF
 - https://polarply.medium.com/the-false-oracle-azure-functions-padding-oracle-issue-2025e0e6b8a, Padding-oracle-attack
 - https://davtur19.medium.com/telegram-bug-bounties-xss-privacy-issues-official-bot-exploitation-and-more-5277fa78435, XSS
@@ -391,7 +388,6 @@
 - https://blog.securitybreached.org/2018/09/07/rce-jenkins-instance-dosomething-org-bug-bounty-poc/, RCE
 - https://medium.com/bugbountywriteup/from-tomcat-to-nt-authority-system-a79fa09c4abb, Default-credentials
 - https://steemit.com/cryptocurrency/@mabdullah22/how-i-hacked-a-crypto-exchange-bug-bounty-writeup, IDOR
-- https://blog.evanricafort.com/2018/08/blind-xss-in-chrome-experiments-google.html, Blind-XSS
 - https://medium.com/@logicbomb_1/bugbounty-paytm-customer-information-is-at-risk-indias-largest-digital-wallet-company-6f7116d4b2d5, IDOR
 - https://www.ambionics.io/blog/prestashop-privilege-escalation, Privilege-escalation
 - https://medium.com/bugbountywriteup/responsible-disclosure-how-i-could-have-booked-movie-tickets-through-other-user-accounts-2db26a037b4c, Password-reset
@@ -432,7 +428,6 @@
 - https://philippeharewood.com/find-mingle-suggestions-for-any-facebook-user-revisited/, Logic-flaw
 - https://blog.zsec.uk/gif-time-pornhub/, XSS
 - https://web.archive.org/web/20200819161533/https://whitehatnepal.tumblr.com/post/149937173467/pornhub-email-confirmation-bypass, Email-verification-bypass
-- http://artsploit.blogspot.com/, RCE
 - http://www.kernelpicnic.net/2016/07/24/Microsoft-signout.live.com-Remote-Code-Execution-Write-Up.html, RCE
 - https://bitquark.co.uk/blog/2016/02/09/how_i_got_access_to_millions_of_redacted_accounts, RFI
 - https://www.rcesecurity.com/2015/09/cve-2014-7216-a-journey-through-yahoos-bug-bounty-program/, Buffer-Overflow

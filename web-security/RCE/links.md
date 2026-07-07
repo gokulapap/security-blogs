@@ -348,3 +348,4 @@
 - https://evilpacket.net/2016/atom-io-misconfiguration-allowed-code-execution-on-untrusted-networks/
 - https://blog.sonarsource.com/checkmk-rce-chain-1/
 - https://medium.com/@reegun/nuget-squirrel-uncontrolled-endpoints-leads-to-arbitrary-code-execution-80c9df51cf12
+- http://artsploit.blogspot.com/

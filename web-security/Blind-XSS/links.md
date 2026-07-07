@@ -33,3 +33,4 @@
 - http://omespino.com/write-up-telegram-bug-bounty-whatsapp-n-a-blind-xss-stored-ios-in-messengers-twins-who-really-care-about-your-security/
 - https://gatolouco.medium.com/critical-blind-storage-xss-my-first-bug-bounty-d318f6ba570c/
 - https://rohit443.medium.com/blind-xss-on-admin-portal-leads-to-information-disclosure-121d26b2a35a
+- https://blog.evanricafort.com/2018/08/blind-xss-in-chrome-experiments-google.html
