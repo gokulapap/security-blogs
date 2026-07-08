@@ -20,11 +20,9 @@
 - https://samcurry.net/points-com/, Path-traversal
 - https://www.mcnulty.blog/posts/dap-csrf, CSRF
 - https://www.sonarsource.com/blog/a-twist-in-the-code-openmeetings-vulnerabilities-through-unexpected-application-state/, Account-takeover
-- https://dimazarno.medium.com/unexpected-zero-in-mysql-injection-511f632714b0, SQL-injection
 - http://blog.takemyhand.xyz/2023/07/remote-code-execution-in-gitlabs-cli.html, RCE
 - https://www.randorisec.fr/chamilo-1.11.18-multiple-vulnerabilities, OS-command-injection
 - https://medium.com/@0xnaeem/how-i-found-a-sql-injection-bug-in-using-my-cellphone-5b5193fdc314, SQL-injection
-- https://github.com/firsov/onlyoffice/blob/main/CVE-2023-34939-PoC.md, Path-traversal
 - https://medium.com/@ferferof/pii-data-leakage-and-us-1500-bounty-af676350fb76, Information-disclosure
 - https://orca.security/resources/blog/examining-two-xss-vulnerabilities-in-azure-services/, XSS
 - https://hacktus.tech/taking-over-an-entire-organization, Broken-Access-Control
@@ -175,7 +173,6 @@
 - https://mearegtu.medium.com/broken-access-control-cc6cfd793b15, IDOR
 - https://medium.com/@mohamedtaha_42562/how-i-found-xss-vulnerability-in-amazon-in-5-minutes-using-shodan-50b583655297, XSS
 - https://www.r29k.com/articles/bb/priv-esc-via-stored-xss, Account-takeover
-- https://rizwansiddiqu1.medium.com/another-admin-panel-e0489dc76678, HTTP-response-manipulation
 - https://blog.agilehunt.com/blogs/security/privilege-escalation-in-microsoft-teams-2021, Privilege-escalation
 - https://www.p1boom.com/2021/12/accidental-idor-in-elearnsecurity-to.html, IDOR
 - https://blog.sonarsource.com/nodebb-remote-code-execution-with-one-shot, RCE
@@ -276,7 +273,6 @@
 - https://medium.com/@DK999/apache-example-servlet-leads-to-61a2720cac20, Clickjacking
 - https://objective-see.com/blog/blog_0x4D.html, Local-Privilege-Escalation
 - https://medium.com/bugbountywriteup/my-first-bug-bounty-21d3203ffdb0, Information-disclosure
-- https://www.ehpus.com/post/authorization-bypass-in-google-s-ticketing-system, Authorization-flaw
 - https://tolo7010note.blogspot.com/2020/07/an-unreproducable-bug-due-to-load.html, Open-redirect
 - https://medium.com/bugbountywriteup/dns-rebinding-the-treacherous-attack-it-can-be-b367c61b4372, DNS-rebinding
 - https://medium.com/@shahjerry33/http-parameter-pollution-its-contaminated-85edc0805654, HTTP-parameter-pollution
@@ -289,7 +285,6 @@
 - https://xvnpw.github.io/posts/from-dot-in-regex-to-ssrf-part-3/, SSRF
 - https://ysamm.com/?p=479, Information-disclosure
 - https://medium.com/@mase289/a-tale-of-my-first-ever-full-ssrf-bug-4fe71a76e9c4, SSRF
-- https://medium.com/bugbountywriteup/bypass-2fa-like-a-boss-378787707ba, Lack-of-rate-limiting
 - https://medium.com/@abireena2002/how-i-managed-to-escalate-privilege-as-admin-94b8dc910d14, Lack-of-rate-limiting
 - https://blog.raphael.karger.is/articles/2020-05/CVE-2020-13693, Privilege-escalation
 - https://medium.com/@kishoretk/how-i-was-able-to-see-identity-of-a-private-video-up-loader-via-rights-manager-responsible-39d996517b6e, Information-disclosure
