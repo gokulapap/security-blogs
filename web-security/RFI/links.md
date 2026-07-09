@@ -1,1 +1,2 @@
 - http://hassankhanyusufzai.com/RFI_LFI_writeup/
+- https://bitquark.co.uk/blog/2016/02/09/how_i_got_access_to_millions_of_redacted_accounts

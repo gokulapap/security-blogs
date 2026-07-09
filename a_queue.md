@@ -6,7 +6,6 @@
 - https://medium.com/@toxglot/hacking-a-company-from-a-phone-478bbfed04c8, journey
 - https://medium.com/@tommasobona04/building-an-xss-scanner-with-python-detecting-cross-site-scripting-vulnerabilities-by-tommaso-69d4c9e04d72, automation
 - https://medium.com/@sharanthehunter/g-map-api-key-exploitation-6fdf60fbb263, misc
-- https://medium.com/@ahmdhalabi/taking-over-employee-accounts-by-managers-with-zero-employee-interaction-b60784c3ad84, misc
 - https://medium.com/@tomnomnom/making-a-blind-sql-injection-a-little-less-blind-428dcb614ba8, sql-injection
 - https://medium.com/@thelinuxboy/bugging-out-my-experience-of-earning-300-for-reporting-an-unexpected-bug-ec9f9b0054bc, journey
 - https://medium.com/@ramAnon/bug-bounty-hunting-methodology-toolkit-tips-tricks-blogs-eb142034d5a5, tricks
@@ -89,7 +88,6 @@
 - https://sensepost.com/blog/2022/abusing-windows-tokens-to-compromise-active-directory-without-touching-lsass/, Local-Privilege-Escalation
 - https://medium.com/@dsonbacker/a-250-css-injection-my-first-finding-on-hackerone-8863ad253560, CSS-injection
 - https://web.archive.org/web/20221025185418/https://bergee.it/blog/chaining-multiple-vulnerabilities-for-credential-stealing/, CSRF
-- https://www.redteam-pentesting.de/en/advisories/rt-sa-2021-003/-missing-authentication-in-zkteco-zem-zmm-web-interface, Missing-authentication
 - https://mehedishakeel.medium.com/broken-link-hijacking-my-second-finding-on-hackerone-d715b0713fca, Broken-link-hijacking
 - https://lokeshdlk77.medium.com/facebook-sms-captcha-was-vulnerable-to-csrf-attack-8db537b1e980, CSRF
 - https://mr23r0.medium.com/code-flaws-leads-to-org-admin-account-takeover-ad9515a96eab, Privilege-escalation
@@ -317,7 +315,6 @@
 - https://web.archive.org/web/20200929013918/https://www.mohamedharon.com/2019/11/subdomain-takeover-via.html, Subdomain-takeover
 - https://web.archive.org/web/20220826045457/https://blog.bi.tk/chrome-cors/, Caching-issue
 - https://medium.com/@masonhck357/chains-on-chains-chaining-several-idors-into-account-takeover-part-one-373627f2910f, IDOR
-- https://blog.sagarvd.me/2019/11/taking-over-facebook-page-tabs.html, Broken-link-hijacking
 - https://blog.usejournal.com/how-recon-helped-samsung-protect-their-production-repositories-of-samsungtv-ecommerce-estores-4c51d6ec4fdd, Information-disclosure
 - https://web.archive.org/web/20200820030055/https://pwnsec.ninja/2019/09/14/how-i-found-a-simple-and-weird-account-takeover-bug/, Account-takeover
 - https://philippeharewood.com/add-users-to-roles-on-facebook-pages-without-an-invitation-consent/, Authorization-flaw
@@ -393,7 +390,6 @@
 - https://medium.com/bugbountywriteup/4500-bounty-how-i-got-lucky-99d8bc933f75, Subdomain-takeover
 - https://sysdream.com/news/lab/2018-04-30-multiple-security-vulnerabilities-in-domains-belonging-to-google/, Broken-Access-Control
 - https://medium.com/@prial261/story-of-a-stored-xss-bypass-26e6659f807b, Stored-XSS
-- https://medium.com/@kankrale.rahul/whatsapp-users-ip-disclosure-with-link-preview-feature-39a477f54fba, Information-disclosure
 - https://medium.com/@vis_hacker/how-i-got-stored-xss-using-file-upload-5c33e19df51e, Stored-XSS
 - https://medium.com/bugbountywriteup/piercing-the-veil-server-side-request-forgery-to-niprnet-access-c358fd5e249a, SSRF
 - https://medium.com/@logicbomb_1/bugbounty-your-details-are-saved-into-my-account-user-info-disclosure-vulnerability-in-practo-fe36930a1246, IDOR
@@ -424,7 +420,6 @@
 - https://blog.zsec.uk/gif-time-pornhub/, XSS
 - https://web.archive.org/web/20200819161533/https://whitehatnepal.tumblr.com/post/149937173467/pornhub-email-confirmation-bypass, Email-verification-bypass
 - http://www.kernelpicnic.net/2016/07/24/Microsoft-signout.live.com-Remote-Code-Execution-Write-Up.html, RCE
-- https://bitquark.co.uk/blog/2016/02/09/how_i_got_access_to_millions_of_redacted_accounts, RFI
 - https://www.rcesecurity.com/2015/09/cve-2014-7216-a-journey-through-yahoos-bug-bounty-program/, Buffer-Overflow
 - https://0day.click/recipe/2014-02-22-github/, RCE
 - http://blog.shashank.co/2013/12/imgur-xss.html, XSS

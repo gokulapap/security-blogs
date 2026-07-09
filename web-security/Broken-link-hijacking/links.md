@@ -13,3 +13,4 @@
 - https://web.archive.org/web/20200604001225/https://hackking.net/threads/how-i-hacked-dutch-government-in-5-minutes-twitter-account-takeover.20/
 - https://amit-lt.medium.com/hacked-instagram-handle-of-samsung-cb1a35990a90
 - https://trufflesecurity.com/blog/email-graffiti/index.html
+- https://blog.sagarvd.me/2019/11/taking-over-facebook-page-tabs.html

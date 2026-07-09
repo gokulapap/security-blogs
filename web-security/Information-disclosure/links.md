@@ -347,3 +347,4 @@
 - https://notifybugme.medium.com/finding-basic-authtoken-in-javascript-file-by-full-automation-6188ca1b1f56
 - https://www.seekurity.com/blog/general/the-2-5mins-or-2-5k-hawk-eye-bug-a-facebook-pages-admins-disclosure-vulnerability/
 - https://redrays.io/cve-2020-2733-jd-edwards/
+- https://medium.com/@kankrale.rahul/whatsapp-users-ip-disclosure-with-link-preview-feature-39a477f54fba

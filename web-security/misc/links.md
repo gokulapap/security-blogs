@@ -9,3 +9,4 @@
 - https://medium.com/@theshubh77/facebook-page-admin-disclosure-by-create-doc-button-bounty-5000-usd-2fd1ff615bf8
 - https://medium.com/@hbothra22/got-cookies-cookie-based-authentication-vulnerabilities-in-wild-55fa7c374be0
 - https://medium.com/@rootkid/payment-gateway-bypass-on-government-domain-8e0135c34185
+- https://medium.com/@ahmdhalabi/taking-over-employee-accounts-by-managers-with-zero-employee-interaction-b60784c3ad84
