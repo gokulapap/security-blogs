@@ -318,3 +318,5 @@
 - https://infosecwriteups.com/idor-leads-to-leak-private-details-866563365490
 - https://medium.com/@black_b/yahoo-idor-elimination-of-any-comment-e898f4f955f1
 - https://galnagli.com/DoD_IDOR/
+- https://medium.com/@arbazhussain/improper-storage-of-protected-projects-files-9ece8e9a4743
+- https://steemit.com/cryptocurrency/@mabdullah22/how-i-hacked-a-crypto-exchange-bug-bounty-writeup

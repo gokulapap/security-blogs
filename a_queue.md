@@ -53,7 +53,6 @@
 - https://hunter-55.medium.com/500-bounty-in-just-5-minutes-through-recon-5eeb6c299c3c, AWS-misconfiguration
 - https://medium.com/@kushjain0107/how-simple-idor-impacted-the-data-of-thousands-of-customers-of-an-indian-automotive-giant-fdbd2ef1c2c6, Account-takeover
 - https://www.synacktiv.com/sites/default/files/2023-02/Synacktiv-IBM-TWS-CVE-2022-38389.pdf, XXE
-- https://github.blog/2023-02-23-the-code-that-wasnt-there-reading-memory-on-an-android-device-by-accident/, Kernel-hacking
 - https://www.vaadata.com/blog/exploiting-an-html-injection-with-dangling-markup/, HTML-injection
 - https://www.praetorian.com/blog/using-crlf-injection-to-bypass-akamai-web-app-firewall/, WAF-bypass
 - https://medium.com/@niraj1mahajan/hacking-the-search-bar-the-story-of-discovering-and-reporting-an-xss-vulnerability-on-bing-com-cac2f241835, XSS
@@ -211,7 +210,6 @@
 - https://vedanttekale20.medium.com/story-of-my-first-cash-bounty-on-hackerone-acad282ae962, SSRF
 - https://justintaft.com/blog/2021/06/01/cve-2021-29084-synology-crlf-unauthenticated-file-downloads, CRLF-injection
 - https://cirius.medium.com/how-i-hacked-a-target-again-and-again-6db2e462221f, OAuth
-- https://ledz1996.gitlab.io/blog/writeups/CVE-2021-22203-gitlab-arbitrary-file-read-write-through-kroki, Arbitrary-file-read
 - https://infosecwriteups.com/third-party-apps-were-still-getting-your-private-facebook-data-even-after-their-access-expiry-6e4be4880e6e, Logic-flaw
 - https://infosecwriteups.com/writeups-facebook-whitehat-program-2021-instagram-live-setting-bug-500-usd-d2d076b3f8bb, Logic-flaw
 - https://feed.bugs.xdavidhu.me/bugs/0006, Path-traversal
@@ -322,7 +320,6 @@
 - https://ninadmathpati.com/how-i-was-able-to-earn-1000-with-just-10-minutes-of-bug-bounty/, Password-reset
 - https://medium.com/@rohitcoder/bypassing-fix-of-domain-blocking-feature-in-business-manager-41949a18460c, Authorization-flaw
 - https://learn.hackersid.com/2019/08/stored-xss-on-laporbugid.html, Stored-XSS
-- https://medium.com/@ronak_9889/solr-injection-by-abusing-local-parameters-on-zomato-com-a5cb7bef10d5, Solr-injection
 - https://medium.com/@innocenthacker/how-i-found-the-most-critical-bug-in-live-bug-bounty-event-7a88b3aa97b3, Password-reset
 - https://philippeharewood.com/subscribe-to-typing-notifications-for-any-instagram-user/, Authorization-flaw
 - https://thezerohack.com/hack-any-instagram, Race-condition
@@ -379,7 +376,6 @@
 - https://blog.securitybreached.org/2018/09/08/sqli-bootcampnutanix-com-bug-bounty-poc/, SQL-injection
 - https://blog.securitybreached.org/2018/09/07/rce-jenkins-instance-dosomething-org-bug-bounty-poc/, RCE
 - https://medium.com/bugbountywriteup/from-tomcat-to-nt-authority-system-a79fa09c4abb, Default-credentials
-- https://steemit.com/cryptocurrency/@mabdullah22/how-i-hacked-a-crypto-exchange-bug-bounty-writeup, IDOR
 - https://medium.com/@logicbomb_1/bugbounty-paytm-customer-information-is-at-risk-indias-largest-digital-wallet-company-6f7116d4b2d5, IDOR
 - https://www.ambionics.io/blog/prestashop-privilege-escalation, Privilege-escalation
 - https://medium.com/bugbountywriteup/responsible-disclosure-how-i-could-have-booked-movie-tickets-through-other-user-accounts-2db26a037b4c, Password-reset
@@ -409,7 +405,6 @@
 - https://philippeharewood.com/facebook-graphql-csrf/, CSRF
 - https://markus-krell.de/craft-cms-why-case-matters/, Reflected-XSS
 - https://medium.com/@SyntaxError4/reflective-xss-and-open-redirect-on-indeed-com-subdomain-b4ab40e40c83, Reflected-XSS
-- https://medium.com/@arbazhussain/improper-storage-of-protected-projects-files-9ece8e9a4743, IDOR
 - https://philippeharewood.com/facebook-stories-disclose-facebook-friend-list/, Logic-flaw
 - http://c0rni3sm.blogspot.com/2017/08/accidentally-typo-to-bypass.html, Authentication-bypass
 - https://medium.com/@saamux/reflected-xss-on-www-yahoo-com-9b1857cecb8c, Reflected-XSS

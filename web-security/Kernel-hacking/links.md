@@ -3,3 +3,4 @@
 - https://www.vusec.net/projects/uncontained/
 - https://blog.scrt.ch/2023/03/17/bypassing-ppl-in-userland-again/
 - https://blog.talosintelligence.com/weaknesses-mac-os-vmware-msrpc/
+- https://github.blog/2023-02-23-the-code-that-wasnt-there-reading-memory-on-an-android-device-by-accident/

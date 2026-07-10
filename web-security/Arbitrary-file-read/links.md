@@ -8,3 +8,4 @@
 - https://www.sonarsource.com/blog/pretalx-vulnerabilities-how-to-get-accepted-at-every-conference/
 - https://dphoeniixx.medium.com/chaining-telegram-bugs-to-steal-session-related-files-c90eac4749bd
 - https://www.synacktiv.com/sites/default/files/2023-07/synacktiv-phplist-partial-file-read.pdf
+- https://ledz1996.gitlab.io/blog/writeups/CVE-2021-22203-gitlab-arbitrary-file-read-write-through-kroki
