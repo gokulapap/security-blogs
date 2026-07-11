@@ -102,3 +102,4 @@
 - https://www.bugbounty.info/2022/08/never-underestimate-power-of-open.html
 - https://medium.com/@singh.simran7838/how-i-made-2000-with-url-redirection-b1b5f4e7a678
 - https://medium.com/@mamunwhh/how-i-got-500-with-open-redirect-48fd80c82631
+- https://tolo7010note.blogspot.com/2020/07/an-unreproducable-bug-due-to-load.html

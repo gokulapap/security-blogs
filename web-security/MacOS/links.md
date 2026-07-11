@@ -9,3 +9,4 @@
 - https://www.paulosyibelo.com/2021/04/this-man-thought-opening-txt-file-is.html
 - https://srd.cx/cve-2022-26730/
 - https://perception-point.io/technical-analysis-of-cve-2022-22583-bypassing-macos-system-integrity-protection/
+- https://www.trendmicro.com/en_us/research/22/l/a-technical-analysis-of-cve-2022-22583-and-cve-2022-32800.html
