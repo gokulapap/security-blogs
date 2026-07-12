@@ -172,3 +172,4 @@
 - https://medium.com/@hisham.mir/exploiting-a-single-parameter-6f4ba2acf523
 - https://basu-banakar.medium.com/ssrf-via-dns-rebinding-cve-2022-4096-b7bf75928bb2
 - https://medium.com/@d0nut/piercing-the-veal-short-stories-to-read-with-friends-4aa86d606fc5
+- https://medium.com/@mase289/a-tale-of-my-first-ever-full-ssrf-bug-4fe71a76e9c4

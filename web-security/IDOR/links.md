@@ -320,3 +320,4 @@
 - https://galnagli.com/DoD_IDOR/
 - https://medium.com/@arbazhussain/improper-storage-of-protected-projects-files-9ece8e9a4743
 - https://steemit.com/cryptocurrency/@mabdullah22/how-i-hacked-a-crypto-exchange-bug-bounty-writeup
+- https://medium.com/@totmukesh/hack-till-your-last-breath-3e58f4fb1738

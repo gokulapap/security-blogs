@@ -153,7 +153,6 @@
 - https://medium.com/@yaala/facebook-oauth-bypass-446a073e687d, OAuth
 - https://spaceraccoon.dev/solving-dom-xss-puzzles, DOM-XSS
 - https://medium.com/@ladecruze/my-first-bounty-idor-self-xss-3000-cde89cbbc1b1, Self-XSS
-- https://www.offensive-security.com/offsec/microsoft-onedrive-macos-local-privesc/, Local-Privilege-Escalation
 - https://kuldeep.io/posts/path-traversal-paradise/, Path-traversal
 - https://srcincite.io/blog/2022/01/20/zohowned-a-critical-authentication-bypass-on-zoho-manageengine-desktop-central.html, Authentication-bypass
 - https://medium.com/@robert0/how-i-found-broken-access-control-through-out-of-sync-setup-and-got-1000-9143fc5febdd, Broken-Access-Control
@@ -227,7 +226,6 @@
 - https://blog.melbadry9.xyz/ddns-ec2-ips-current-state, Dangling-DNS-records
 - https://wwws.nightwatchcybersecurity.com/2021/03/03/content-injection-rce-in-yandex-browser-for-android-2018/, MiTM
 - https://jayateerthag.medium.com/jira-authenticated-dashboard-access-in-google-acquisition-apigee-ff20cfe11d99, Authentication-bypass
-- https://shubhamchaskar.com/ato-through-pe/, Privilege-escalation
 - https://ysamm.com/?p=621, Authorization-flaw
 - https://ysamm.com/?p=625, Open-redirect
 - https://servicenger.com/blog/mobile/sending-ephemeral-message-to-any-facebook-user/, IDOR
@@ -267,7 +265,6 @@
 - https://medium.com/bugbountywriteup/my-first-bug-bounty-21d3203ffdb0, Information-disclosure
 - https://medium.com/bugbountywriteup/dns-rebinding-the-treacherous-attack-it-can-be-b367c61b4372, DNS-rebinding
 - https://medium.com/@shahjerry33/http-parameter-pollution-its-contaminated-85edc0805654, HTTP-parameter-pollution
-- https://medium.com/@totmukesh/hack-till-your-last-breath-3e58f4fb1738, IDOR
 - https://medium.com/@mohamedayad_72488/bypass-user-restriction-registration-cbfc4eb855, Logic-flaw
 - https://medium.com/bugbountywriteup/how-i-lost-my-followers-on-medium-9fe10e9862aa, GraphQL
 - https://medium.com/@sudipshah_66336/the-story-of-my-first-4-digit-bounty-from-facebook-3a29830e03cd, Logic-flaw
@@ -275,7 +272,6 @@
 - https://philippeharewood.com/see-whether-a-hackercup-facebook-participant-allows-recruitment-contact/, Information-disclosure
 - https://xvnpw.github.io/posts/from-dot-in-regex-to-ssrf-part-3/, SSRF
 - https://ysamm.com/?p=479, Information-disclosure
-- https://medium.com/@mase289/a-tale-of-my-first-ever-full-ssrf-bug-4fe71a76e9c4, SSRF
 - https://medium.com/@abireena2002/how-i-managed-to-escalate-privilege-as-admin-94b8dc910d14, Lack-of-rate-limiting
 - https://blog.raphael.karger.is/articles/2020-05/CVE-2020-13693, Privilege-escalation
 - https://medium.com/@kishoretk/how-i-was-able-to-see-identity-of-a-private-video-up-loader-via-rights-manager-responsible-39d996517b6e, Information-disclosure
@@ -369,7 +365,6 @@
 - https://medium.com/@Mthirup/hacking-your-own-antivirus-for-fun-and-profit-safe-browsing-gone-wrong-365db9d1d3f7, Reflected-XSS
 - https://websecblog.com/vulns/reflected-xss-in-google-code-jam/, Reflected-XSS
 - https://blog.securitybreached.org/2018/09/08/sqli-bootcampnutanix-com-bug-bounty-poc/, SQL-injection
-- https://blog.securitybreached.org/2018/09/07/rce-jenkins-instance-dosomething-org-bug-bounty-poc/, RCE
 - https://medium.com/bugbountywriteup/from-tomcat-to-nt-authority-system-a79fa09c4abb, Default-credentials
 - https://medium.com/@logicbomb_1/bugbounty-paytm-customer-information-is-at-risk-indias-largest-digital-wallet-company-6f7116d4b2d5, IDOR
 - https://www.ambionics.io/blog/prestashop-privilege-escalation, Privilege-escalation

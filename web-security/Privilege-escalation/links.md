@@ -68,3 +68,4 @@
 - https://ysamm.com/?p=460
 - https://spyclub.tech/2019/02/26/horizontal-privilege-escalation-on-quora/
 - https://infosecwriteups.com/how-we-was-able-to-takeover-whole-organization-via-privilege-escalation-4f74b31a84a6
+- https://shubhamchaskar.com/ato-through-pe/
