@@ -70,7 +70,6 @@
 - https://blog.viettelcybersecurity.com/cve-2022-21587-oracle-e-business-suite-unauth-rce/, RCE
 - https://crypt0g30rgy.github.io/post/AWSTakeover, Information-disclosure
 - https://0xraminfosec.medium.com/simple-cors-misconfig-leads-to-disclose-the-sensitive-token-worth-of-91433763f4d6, CORS-misconfiguration
-- https://0xmayankgarg.medium.com/pii-data-exfiltration-within-minutes-f06d4587d201, Information-disclosure
 - https://karmainsecurity.com/KIS-2022-06, Zip-Slip-attack
 - https://abhishekmorla.medium.com/bypassing-the-client-side-encryption-to-read-internal-windows-server-files-e832da8b4ac8, Client-side-encryption-bypass
 - https://attackshipsonfi.re/p/exploiting-cors-misconfigurations, CORS-misconfiguration
@@ -108,7 +107,6 @@
 - https://infosecwriteups.com/salesforce-bug-hunting-to-critical-bug-b5da44789d3, Information-disclosure
 - https://medium.com/@avinash_/email-confirmation-bypass-at-instagram-cc968f9a126, Email-verification-bypass
 - https://canmustdie.medium.com/multiple-bugs-in-one-program-leads-to-1500-c35fcde06bc7, Privilege-escalation
-- https://medium.com/@the_null_kid/instagram-photo-was-present-in-data-backup-nearly-after-two-years-being-deleted-f0e4d6e108, Privacy-issue
 - https://medium.com/@whitehatcyber404/how-i-earned-150-in-2-minutes-html-injection-in-email-3f26f27d3822, HTML-injection
 - https://swarm.ptsecurity.com/researching-open-source-apps-for-xss-to-rce-flaws/, XSS
 - https://www.yesnaveen.com/2022/07/permanently-crash-instagram-followers.html, DoS
@@ -259,7 +257,6 @@
 - https://medium.com/@mateusz.olejarka/a-perfect-duplicate-or-how-to-send-an-email-with-a-spoofed-invoices-content-66cf369bbaa3, Email-spoofing
 - https://medium.com/bugbountywriteup/fun-with-header-and-forget-password-with-a-twist-af095b426fb2, Password-reset
 - https://offensi.com/2020/08/18/how-to-contact-google-sre-dropping-a-shell-in-cloud-sql/, SQL-injection
-- https://medium.com/bugbountywriteup/cache-poisoning-of-wget-94a4d70104b1, Web-cache-poisoning
 - https://medium.com/@DK999/apache-example-servlet-leads-to-61a2720cac20, Clickjacking
 - https://objective-see.com/blog/blog_0x4D.html, Local-Privilege-Escalation
 - https://medium.com/bugbountywriteup/my-first-bug-bounty-21d3203ffdb0, Information-disclosure
@@ -355,7 +352,6 @@
 - https://philippeharewood.com/disclose-page-admins-via-gaming-dashboard-bans/, Information-disclosure
 - https://medium.com/@maxpasqua/breaking-appointments-and-job-interview-schedules-with-malformed-times-edef103e46ba, DoS
 - https://medium.com/bugbountywriteup/duplicate-but-still-cool-236835685075, IDOR
-- https://medium.com/@kunal94/imagemagick-gif-coder-vulnerability-leads-to-memory-disclosure-hackerone-e9975a6a560e, Memory-leak
 - https://medium.com/@notsoshant/a-possibility-of-account-takeover-in-medium-8d950e547639, Account-takeover
 - https://blog.harshjaiswal.com/path-traversal-while-uploading-results-in-rce, Path-traversal
 - https://jonbottarini.com/2018/10/09/get-as-image-function-pulls-any-insights-nrql-data-from-any-new-relic-account-idor/, IDOR
@@ -369,7 +365,6 @@
 - https://medium.com/@logicbomb_1/bugbounty-paytm-customer-information-is-at-risk-indias-largest-digital-wallet-company-6f7116d4b2d5, IDOR
 - https://www.ambionics.io/blog/prestashop-privilege-escalation, Privilege-escalation
 - https://medium.com/bugbountywriteup/responsible-disclosure-how-i-could-have-booked-movie-tickets-through-other-user-accounts-2db26a037b4c, Password-reset
-- https://medium.com/@jonathanbouman/unvalidated-open-redirect-bol-com-b270151380e6, Open-redirect
 - https://thehackerblog.com/reading-your-emails-with-a-readwrite-chrome-extension-same-origin-policy-bypass-8-million-users-affected/index.html, SOP-bypass
 - http://www.shawarkhan.com/2018/06/getting-php-code-execution-and-leverage.html, Code-injection
 - https://blog.witcoat.com/2018/05/30/account-takeover-and-blind-xss-go-pro-get-bugs/, IDOR

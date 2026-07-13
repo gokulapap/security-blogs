@@ -348,3 +348,4 @@
 - https://www.seekurity.com/blog/general/the-2-5mins-or-2-5k-hawk-eye-bug-a-facebook-pages-admins-disclosure-vulnerability/
 - https://redrays.io/cve-2020-2733-jd-edwards/
 - https://medium.com/@kankrale.rahul/whatsapp-users-ip-disclosure-with-link-preview-feature-39a477f54fba
+- https://0xmayankgarg.medium.com/pii-data-exfiltration-within-minutes-f06d4587d201
