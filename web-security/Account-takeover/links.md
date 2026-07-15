@@ -129,3 +129,4 @@
 - https://medium.com/@sp2417487/a-tale-of-critical-account-take-over-e1b7c180917c
 - http://www.kamilonurozkaleli.com/posts/a-classical-account-takeover-case-via-multiple-bypasses/
 - https://medium.com/@faique/account-takeover-worth-1000-611452063cf
+- https://med-mahmoudi26.medium.com/from-staging-to-0-click-account-takeover-528a5ecaa3eb

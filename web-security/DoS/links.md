@@ -68,3 +68,4 @@
 - https://www.trenchesofit.com/2022/09/30/zoneminder-web-app-testing/
 - https://kb.cert.org/vuls/id/636397
 - https://medium.com/@mohamedayad_72488/dos-over-wep-application-c5176dc29035
+- https://www.bitsight.com/blog/new-high-severity-vulnerability-cve-2023-29552-discovered-service-location-protocol-slp

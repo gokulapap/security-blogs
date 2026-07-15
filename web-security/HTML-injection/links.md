@@ -21,3 +21,5 @@
 - https://medium.com/@chaitanyarajhans024/simple-html-injection-to-250-895b760409ed
 - https://medium.com/@iambroot/what-would-you-do-if-oracles-mailing-server-sent-you-this-bc275b1bf967
 - https://mehedishakeel.medium.com/improper-access-control-my-third-finding-on-hackerone-1455e95b6c8c
+- https://medium.com/@whitehatcyber404/how-i-earned-150-in-2-minutes-html-injection-in-email-3f26f27d3822
+- https://shahjerry33.medium.com/stored-iframe-injection-permanent-open-redirection-zero-day-ce7cd15903ac
