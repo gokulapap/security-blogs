@@ -1,2 +1,3 @@
 - https://medium.com/system-weakness/sensitive-data-exfiltration-through-xss-450-409162eced3a
 - https://rafi-ahamed.medium.com/exploiting-api-with-authtoken-3bea7b1fb6a9
+- https://medium.com/@maxpasqua/stealing-side-channel-attack-tokens-in-facebook-account-switcher-90c5944e3b58

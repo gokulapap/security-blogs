@@ -69,3 +69,4 @@
 - https://kb.cert.org/vuls/id/636397
 - https://medium.com/@mohamedayad_72488/dos-over-wep-application-c5176dc29035
 - https://www.bitsight.com/blog/new-high-severity-vulnerability-cve-2023-29552-discovered-service-location-protocol-slp
+- https://www.yesnaveen.com/2022/07/permanently-crash-instagram-followers.html

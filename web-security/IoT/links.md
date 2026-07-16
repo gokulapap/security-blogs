@@ -6,3 +6,4 @@
 - https://kuenzi.dev/toothbrush/
 - https://cybervelia.com/?p=1380
 - https://downrightnifty.me/blog/2022/12/26/hacking-google-home.html
+- https://blog.pretera.com/how-misconfigured-and-vulnerable-devices-could-expose-your-company-to-physical-and-cyber-threats-37d0e0d8d158
