@@ -97,3 +97,4 @@
 - https://the-deniss.github.io/posts/2023/02/09/elevation-of-privileges-from-everyone-through-avast-av-sandbox-to-system-amppl.html
 - https://blog.trailofbits.com/2023/02/16/suid-logic-bug-linux-readline/
 - https://www.offensive-security.com/offsec/microsoft-onedrive-macos-local-privesc/
+- https://taggart-tech.com/quasar-electron/

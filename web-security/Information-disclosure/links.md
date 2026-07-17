@@ -349,3 +349,5 @@
 - https://redrays.io/cve-2020-2733-jd-edwards/
 - https://medium.com/@kankrale.rahul/whatsapp-users-ip-disclosure-with-link-preview-feature-39a477f54fba
 - https://0xmayankgarg.medium.com/pii-data-exfiltration-within-minutes-f06d4587d201
+- https://medium.com/bugbountywriteup/my-first-bug-bounty-21d3203ffdb0
+- https://spongebhav.medium.com/facebook-group-members-disclosure-e53eb83df39e

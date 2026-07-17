@@ -36,3 +36,4 @@
 - https://github.com/l0ggg/VMware_vCenter
 - https://medium.com/@jonathanbouman/local-file-inclusion-at-ikea-com-e695ed64d82f
 - https://danaepp.com/hacking-a-net-api-in-the-real-world
+- https://blog.scrt.ch/2018/08/24/remote-code-execution-on-a-facebook-server/

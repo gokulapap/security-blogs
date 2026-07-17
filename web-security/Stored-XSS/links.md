@@ -145,3 +145,4 @@
 - https://medium.com/@matarpan33r/stored-xss-on-edmodo-67b244824fa5
 - https://medium.com/@hariharan21/stored-xss-via-alternate-text-at-zendesk-support-8bfee68413e4
 - https://medium.com/@jonathanbouman/stored-xss-unvalidated-embed-at-medium-com-528b0d6d4982
+- https://pharish4948.medium.com/how-i-earned-3200-in-4hours-through-stored-xss-38597877d3e1
