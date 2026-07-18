@@ -71,3 +71,4 @@
 - https://medium.com/@sudhanshur705/how-recon-helped-me-to-to-find-a-facebook-domain-takeover-58163de0e7d5
 - https://zerforschung.org/posts/freundschaftspass-en/
 - https://twitter.com/m7mdharon/status/1492204287295897600
+- https://medium.com/@720922/recon-and-youtube-is-that-a-thing-5523b48c32e3

@@ -143,3 +143,4 @@
 - https://rpadovani.com/gitlab-responsible-disclosure
 - https://medium.com/@ar_arvind/facebook-bug-bounty-reading-whatsapp-contacts-list-without-unlocking-the-device-a40e9c660a42
 - https://www.ehpus.com/post/authorization-bypass-in-google-s-ticketing-system
+- https://ysamm.com/?p=621

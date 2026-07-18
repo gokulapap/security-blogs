@@ -351,3 +351,4 @@
 - https://0xmayankgarg.medium.com/pii-data-exfiltration-within-minutes-f06d4587d201
 - https://medium.com/bugbountywriteup/my-first-bug-bounty-21d3203ffdb0
 - https://spongebhav.medium.com/facebook-group-members-disclosure-e53eb83df39e
+- https://cupc4k3.co/caso-de-uso-não-autorizados-de-chave-da-api-do-google-maps-89498752cf7d
