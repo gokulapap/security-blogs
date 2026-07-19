@@ -50,3 +50,4 @@
 - https://medium.com/@hritkmjth/directory-traversal-and-lfi-worth-400-c4422785d3bd
 - https://medium.com/@aniltom/magic-of-the-back-slash-d868e66b532a
 - https://github.com/firsov/onlyoffice/blob/main/CVE-2023-34939-PoC.md
+- https://www.0xlanks.me/blog/blogengine-writeup

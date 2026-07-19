@@ -38,3 +38,4 @@
 - https://f4d3.io/xxe_wild/
 - https://shubhamchaskar.com/xxe-to-ntlm/
 - https://coffeejunkie.me/Blind-XXE-Port-Scanning/
+- https://mohemiv.com/all/exploiting-xxe-with-local-dtd-files/
