@@ -38,7 +38,6 @@
 - https://offsec.almond.consulting/ghostscript-cve-2023-28879.html, Buffer-Overflow
 - https://vitorfalcao.com/posts/simple-bugs/overwritting-files/, Normalization
 - https://bishopfox.com/blog/windows-task-scheduler-19044-advisory, Unquoted-search-path
-- https://kuldeep.io/posts/holiday-hunting-with-aquatone/, SSRF
 - https://rayhan0x01.github.io/ctf/2023/04/01/finding-rce-in-eta-cve-2022-25967.html, RCE
 - https://www.mannulinux.org/2023/03/exploiting-hibernate-injection-in-order.html, HQL-injection
 - https://www.sonarsource.com/blog/it-s-a-snmp-trap-gaining-code-execution-on-librenms/, RCE
@@ -84,7 +83,6 @@
 - https://mr23r0.medium.com/code-flaws-leads-to-org-admin-account-takeover-ad9515a96eab, Privilege-escalation
 - https://nmochea.medium.com/gcash-vulnerability-walkthrough-c7c938163dfb, Android
 - https://medium.com/@bug_vs_me/csrf-attack-0-click-account-delete-1st-write-up-3d67b267b931, CSRF
-- https://doyensec.com/resources/Doyensec_Apollo_Report_Q22022_v4_AfterRetest.pdf, DoS
 - https://blog.hacktivesecurity.com/index.php/2022/09/17/http/, HTTP-request-smuggling
 - https://sector7.computest.nl/post/2022-09-unified-automation-opcua-cpp/, DoS
 - https://cturt.github.io/mast1c0re.html, Memory-corruption
@@ -157,7 +155,6 @@
 - https://blog.sonarsource.com/nodebb-remote-code-execution-with-one-shot, RCE
 - https://r0.haxors.org/posts?id=26, SQL-injection
 - https://feed.bugs.xdavidhu.me/bugs/0008, Privilege-escalation
-- https://hector0x.medium.com/broken-authentication-through-referral-code-25cd0e8bccc2, Authentication-flaw
 - https://hector0x.medium.com/dos-attack-in-yahoo-how-i-was-able-to-deny-new-users-from-service-6b222e744e61, DoS
 - https://infosecwriteups.com/sony-hunting-i-discovering-hidden-parameters-5x-swag-c3396c0064bc, Open-redirect
 - https://blog.assetnote.io/2021/11/02/sitecore-rce/, RCE
@@ -261,7 +258,6 @@
 - https://blog.doyensec.com/2020/04/08/libressl-fuzzer.html, Memory-corruption
 - https://web.archive.org/web/20201004092711/https://sametsahin.net/posts/administrator-level-privilege-escalation-story/, Privilege-escalation
 - https://medium.com/bugbountywriteup/reflected-xss-on-microsoft-com-subdomains-4bdfc2c716df, Reflected-XSS
-- https://medium.com/@adonkidz7/google-ads-self-xss-html-injection-5000-52280da76c80, Self-XSS
 - https://medium.com/a-bugz-life/exploiting-an-ssrf-trials-and-tribulations-14c5d8dbd69a, SSRF
 - https://alexbakker.me/post/mysterious-google-titan-m-bug-cve-2019-9465.html, Cryptographic-issues
 - https://medium.com/@bhaveshthakur2015/account-hijack-using-authorization-bypass-which-made-me-richer-by-ba9dace72682, Account-takeover
@@ -299,7 +295,6 @@
 - https://anotherhackerblog.com/exploiting-file-uploads-pt1/, Stored-XSS
 - https://smaranchand.com.np/2019/05/an-unexploited-cors-misconfiguration-reflecting-further-issues/, CORS-misconfiguration
 - https://medium.com/@__rishabh__/open-redirect-to-account-takeover-e939006a9f24, Open-redirect
-- https://medium.com/@navne3t/a-base64-encoded-parameter-c6fb6b177d68, HTML-injection
 - https://medium.com/@baibhavanandjha/bypassing-instagrams-stories-restriction-5936f8a4f079, Logic-flaw
 - https://utkusen.com/blog/why-you-shouldnt-use-password-manager-for-linode.html, Account-takeover
 - https://medium.com/@kunal94/web-cache-deception-to-api-endpoint-attack-using-cached-token-header-b01a604a5ccd, Web-cache-deception

@@ -70,3 +70,4 @@
 - https://medium.com/@mohamedayad_72488/dos-over-wep-application-c5176dc29035
 - https://www.bitsight.com/blog/new-high-severity-vulnerability-cve-2023-29552-discovered-service-location-protocol-slp
 - https://www.yesnaveen.com/2022/07/permanently-crash-instagram-followers.html
+- https://doyensec.com/resources/Doyensec_Apollo_Report_Q22022_v4_AfterRetest.pdf

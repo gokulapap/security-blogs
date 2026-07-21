@@ -174,3 +174,4 @@
 - https://medium.com/@d0nut/piercing-the-veal-short-stories-to-read-with-friends-4aa86d606fc5
 - https://medium.com/@mase289/a-tale-of-my-first-ever-full-ssrf-bug-4fe71a76e9c4
 - https://medium.com/@putracraft.theworld/server-side-request-forgery-in-openid-support-defcc64d5e41
+- https://kuldeep.io/posts/holiday-hunting-with-aquatone/

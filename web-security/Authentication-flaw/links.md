@@ -8,3 +8,4 @@
 - https://ahussam.me/Vine-Reauth-Bypass
 - https://lightningsecurity.io/blog/password-not-provided/
 - https://blog.lightspin.io/exploiting-eks-authentication-vulnerability-in-aws-iam-authenticator
+- https://hector0x.medium.com/broken-authentication-through-referral-code-25cd0e8bccc2
