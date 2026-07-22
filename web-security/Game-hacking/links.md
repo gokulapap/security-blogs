@@ -1,1 +1,2 @@
 - https://blog.includesecurity.com/2023/04/impersonating-local-unity-players-with-udp-spoofing-in-mirror/
+- https://neodyme.io/blog/csgo_from_zero_to_0day/
