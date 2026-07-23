@@ -323,3 +323,4 @@
 - https://medium.com/@totmukesh/hack-till-your-last-breath-3e58f4fb1738
 - https://servicenger.com/blog/mobile/sending-ephemeral-message-to-any-facebook-user/
 - https://medium.com/@logicbomb_1/bugbounty-paytm-customer-information-is-at-risk-indias-largest-digital-wallet-company-6f7116d4b2d5
+- https://blog.witcoat.com/2018/05/30/account-takeover-and-blind-xss-go-pro-get-bugs/

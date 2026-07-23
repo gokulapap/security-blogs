@@ -5,3 +5,4 @@
 - https://giraffesecurity.dev/posts/google-remote-code-execution/
 - https://hetroublemakr.medium.com/how-i-approached-dependency-confusion-272b46f66907
 - https://systemweakness.com/rce-via-dependency-confusion-e0ed2a127013
+- https://chevonphillip.medium.com/rce-due-to-dependency-confusion-5000-bounty-fd1b294d645f

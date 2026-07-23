@@ -13,3 +13,4 @@
 - https://pastebin.com/E6LMFm2w
 - https://web.archive.org/web/20221017025828/https://medium.com/@EX_097/my-first-critical-bug-in-hackerone-platform-2ce9adcb39a6
 - https://onapsis.com/threat-report/icmad-sap-vulnerabilities
+- https://blog.hacktivesecurity.com/index.php/2022/09/17/http/
