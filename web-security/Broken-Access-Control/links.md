@@ -41,3 +41,4 @@
 - https://material.security/blog/how-material-security-uncovered-a-vulnerability-in-gmail-api
 - https://medium.com/@protostar0/hacking-banks-broken-access-control-vulnerability-in-banking-application-part-i-c442ed5ae170
 - https://naveenroy008.medium.com/broken-session-control-leads-to-access-private-videos-using-the-shared-link-even-after-revoking-the-84e31ac16fe4
+- https://medium.com/@robert0/how-i-found-broken-access-control-through-out-of-sync-setup-and-got-1000-9143fc5febdd

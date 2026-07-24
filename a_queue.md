@@ -5,7 +5,6 @@
 - https://medium.com/@toxglot/hacking-a-company-from-a-phone-478bbfed04c8, journey
 - https://medium.com/@tommasobona04/building-an-xss-scanner-with-python-detecting-cross-site-scripting-vulnerabilities-by-tommaso-69d4c9e04d72, automation
 - https://medium.com/@sharanthehunter/g-map-api-key-exploitation-6fdf60fbb263, misc
-- https://medium.com/@tomnomnom/making-a-blind-sql-injection-a-little-less-blind-428dcb614ba8, sql-injection
 - https://medium.com/@thelinuxboy/bugging-out-my-experience-of-earning-300-for-reporting-an-unexpected-bug-ec9f9b0054bc, journey
 - https://medium.com/@ramAnon/bug-bounty-hunting-methodology-toolkit-tips-tricks-blogs-eb142034d5a5, tricks
 - https://medium.com/@joshuaarulsamy/mindset-that-made-me-one-among-top-15-security-researchers-in-india-for-3-consecutive-times-febb06e8af61, journey
@@ -34,7 +33,6 @@
 - https://blog.assetnote.io/2023/04/26/xss-million-websites-cpanel/, Reflected-XSS
 - https://www.cyberark.com/resources/threat-research-blog/breaking-docker-named-pipes-systematically-docker-desktop-privilege-escalation-part-2, Local-Privilege-Escalation
 - https://offsec.almond.consulting/ghostscript-cve-2023-28879.html, Buffer-Overflow
-- https://vitorfalcao.com/posts/simple-bugs/overwritting-files/, Normalization
 - https://bishopfox.com/blog/windows-task-scheduler-19044-advisory, Unquoted-search-path
 - https://rayhan0x01.github.io/ctf/2023/04/01/finding-rce-in-eta-cve-2022-25967.html, RCE
 - https://www.mannulinux.org/2023/03/exploiting-hibernate-injection-in-order.html, HQL-injection
@@ -131,7 +129,6 @@
 - https://spaceraccoon.dev/solving-dom-xss-puzzles, DOM-XSS
 - https://medium.com/@ladecruze/my-first-bounty-idor-self-xss-3000-cde89cbbc1b1, Self-XSS
 - https://kuldeep.io/posts/path-traversal-paradise/, Path-traversal
-- https://medium.com/@robert0/how-i-found-broken-access-control-through-out-of-sync-setup-and-got-1000-9143fc5febdd, Broken-Access-Control
 - https://systemweakness.com/host-header-injection-lead-to-account-takeover-2f025a645d13, Host-header-injection
 - https://noob3xploiter.medium.com/2fa-bypass-by-reading-the-documentation-3260a372d8a8, MFA-bypass
 - https://infosecwriteups.com/authorization-bypass-gmail-2949af041fb, Spoofing
@@ -188,7 +185,6 @@
 - https://davtur19.medium.com/telegram-bug-bounties-xss-privacy-issues-official-bot-exploitation-and-more-5277fa78435, XSS
 - https://sudhanshur705.medium.com/how-i-made-it-to-google-hof-f1cec85fdb1b, IDOR
 - https://godiego.co/posts/STO-AWS/, Subdomain-takeover
-- https://gccybermonks.com/posts/xss-mozilla/, XSS
 - https://apapedulimu.click/google-vrp-how-i-get-blind-xss-at-google-with-dork-first-bounty-and-hof/, Blind-XSS
 - https://infosecwriteups.com/business-logic-error-on-registration-leads-to-sms-validation-bypass-80380b3ff629, MFA-bypass
 - https://blog.melbadry9.xyz/ddns-ec2-ips-current-state, Dangling-DNS-records
@@ -255,7 +251,6 @@
 - https://web.archive.org/web/20200505142429/https://medium.com/@godofdarkness.msf/reflected-xss-in-at-t-7f1bdd10d8f7, Reflected-XSS
 - https://www.acunetix.com/blog/web-security-zone/xss-google-acunetix/, XSS
 - https://techblog.mediaservice.net/2020/01/ok-google-bypass-the-authentication/, Authentication-bypass
-- https://medium.com/bugbountywriteup/how-i-bought-my-way-to-subdomain-takeover-on-tokopedia-8c6697c85b4d, Subdomain-takeover
 - https://medium.com/@milanmagyar/ggvulnz-how-i-hacked-hundreds-of-companies-through-google-groups-b69c658c8924, Logic-flaw
 - https://medium.com/monetary/how-did-i-earn-3133-70-from-google-translator-9becf942dbdc, XSS
 - https://smaranchand.com.np/2019/12/subdomain-takeover-via-pantheon/, Subdomain-takeover

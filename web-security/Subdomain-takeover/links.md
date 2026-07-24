@@ -72,3 +72,4 @@
 - https://zerforschung.org/posts/freundschaftspass-en/
 - https://twitter.com/m7mdharon/status/1492204287295897600
 - https://medium.com/@720922/recon-and-youtube-is-that-a-thing-5523b48c32e3
+- https://medium.com/bugbountywriteup/how-i-bought-my-way-to-subdomain-takeover-on-tokopedia-8c6697c85b4d
