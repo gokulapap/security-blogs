@@ -1,6 +1,5 @@
 - https://medium.com/@vickieli/intro-to-ssrf-beb35857771f, ssrf
 - https://medium.com/@nanwinata/rce-docker-api-but-11ff70825935, Cloud
-- https://medium.com/@terjanq/clobbering-the-clobbered-advanced-dom-clobbering-8443547ebe94, misc
 - https://medium.com/@notifybugme/how-i-was-able-find-mass-leaked-aws-s3-bucket-from-js-file-6064a5c247f8, info-disclosure
 - https://medium.com/@toxglot/hacking-a-company-from-a-phone-478bbfed04c8, journey
 - https://medium.com/@tommasobona04/building-an-xss-scanner-with-python-detecting-cross-site-scripting-vulnerabilities-by-tommaso-69d4c9e04d72, automation
@@ -37,7 +36,6 @@
 - https://rayhan0x01.github.io/ctf/2023/04/01/finding-rce-in-eta-cve-2022-25967.html, RCE
 - https://www.mannulinux.org/2023/03/exploiting-hibernate-injection-in-order.html, HQL-injection
 - https://www.sonarsource.com/blog/it-s-a-snmp-trap-gaining-code-execution-on-librenms/, RCE
-- https://medium.com/@bughuntar/a-short-tell-of-lfi-from-pdf-link-professor-the-hunter-43a8be853e, LFI
 - https://medium.com/@bag0zathev2/easy-via-api-params-manipulation-leading-to-bypassing-the-email-verification-block-a45dad2db60c, Mass-assignment
 - https://ltsirkov.medium.com/netflix-smart-tv-chaining-self-xss-with-session-poisoning-3eb7c78c7914, Self-XSS
 - https://eaton-works.com/2023/03/06/toyota-c360-hack/, Authentication-bypass
@@ -51,7 +49,6 @@
 - https://pullerjsecu.medium.com/bypassing-cors-configurations-to-produce-an-account-takeover-for-fun-and-profit-3e50c3f2a124, CORS-misconfiguration
 - https://infosecwriteups.com/disabling-js-for-the-win-9d13c606f910, Unrestricted-file-upload
 - https://blog.quarkslab.com/post-exploitation-abusing-the-keepass-plugin-cache.html, Local-Privilege-escalation
-- https://eaton-works.com/2023/02/06/toyota-gspims-hack/, Authentication-bypass
 - https://onekey.com/blog/security-advisory-remote-command-execution-in-binwalk/, RCE
 - https://ph-hitachi.medium.com/how-i-hacked-scopely-using-sign-in-with-google-298a9c166ad, Account-takeover
 - https://www.synacktiv.com/sites/default/files/2023-01/advisory_manageengine_adss_2023.pdf, RCE
@@ -86,7 +83,6 @@
 - https://medium.com/@xJay/angularjs-client-side-template-injection-the-orderby-filter-20002ca2a0e8, CSTI
 - https://www.ambionics.io/blog/hacking-watchguard-firewalls, XPath-injection
 - https://hackingguy.medium.com/failed-coding-assessment-to-remote-code-execution-a-case-study-part-1-1778934b3b34, RCE
-- https://blog.78researchlab.com/b9c80d00-d935-43b1-8805-969000df301d, DoS
 - https://medium.com/@tobydavenn/dom-xss-on-a-gov-domain-bypassing-waf-93daec67fda9, DOM-XSS
 - https://doyensec.com/resources/Doyensec_Advisory_SmokescreenGoProxy_Q12022.pdf, DoS
 - https://accessvector.net/2022/freebsd-aio-lpe, Memory-corruption
@@ -323,7 +319,6 @@
 - http://www.shawarkhan.com/2018/06/getting-php-code-execution-and-leverage.html, Code-injection
 - https://medium.com/bugbountywriteup/4500-bounty-how-i-got-lucky-99d8bc933f75, Subdomain-takeover
 - https://sysdream.com/news/lab/2018-04-30-multiple-security-vulnerabilities-in-domains-belonging-to-google/, Broken-Access-Control
-- https://medium.com/@prial261/story-of-a-stored-xss-bypass-26e6659f807b, Stored-XSS
 - https://medium.com/@vis_hacker/how-i-got-stored-xss-using-file-upload-5c33e19df51e, Stored-XSS
 - https://medium.com/bugbountywriteup/piercing-the-veil-server-side-request-forgery-to-niprnet-access-c358fd5e249a, SSRF
 - https://medium.com/@logicbomb_1/bugbounty-your-details-are-saved-into-my-account-user-info-disclosure-vulnerability-in-practo-fe36930a1246, IDOR

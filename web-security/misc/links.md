@@ -10,3 +10,4 @@
 - https://medium.com/@hbothra22/got-cookies-cookie-based-authentication-vulnerabilities-in-wild-55fa7c374be0
 - https://medium.com/@rootkid/payment-gateway-bypass-on-government-domain-8e0135c34185
 - https://medium.com/@ahmdhalabi/taking-over-employee-accounts-by-managers-with-zero-employee-interaction-b60784c3ad84
+- https://medium.com/@terjanq/clobbering-the-clobbered-advanced-dom-clobbering-8443547ebe94

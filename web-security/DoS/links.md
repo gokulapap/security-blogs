@@ -71,3 +71,4 @@
 - https://www.bitsight.com/blog/new-high-severity-vulnerability-cve-2023-29552-discovered-service-location-protocol-slp
 - https://www.yesnaveen.com/2022/07/permanently-crash-instagram-followers.html
 - https://doyensec.com/resources/Doyensec_Apollo_Report_Q22022_v4_AfterRetest.pdf
+- https://blog.78researchlab.com/b9c80d00-d935-43b1-8805-969000df301d
