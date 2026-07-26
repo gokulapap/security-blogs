@@ -42,7 +42,6 @@
 - https://hunter-55.medium.com/500-bounty-in-just-5-minutes-through-recon-5eeb6c299c3c, AWS-misconfiguration
 - https://medium.com/@kushjain0107/how-simple-idor-impacted-the-data-of-thousands-of-customers-of-an-indian-automotive-giant-fdbd2ef1c2c6, Account-takeover
 - https://www.synacktiv.com/sites/default/files/2023-02/Synacktiv-IBM-TWS-CVE-2022-38389.pdf, XXE
-- https://www.vaadata.com/blog/exploiting-an-html-injection-with-dangling-markup/, HTML-injection
 - https://www.praetorian.com/blog/using-crlf-injection-to-bypass-akamai-web-app-firewall/, WAF-bypass
 - https://medium.com/@niraj1mahajan/hacking-the-search-bar-the-story-of-discovering-and-reporting-an-xss-vulnerability-on-bing-com-cac2f241835, XSS
 - https://mahmoudsec.blogspot.com/2023/02/sql-injection-utilizing-xml-functions.html, SQL-injection
@@ -132,7 +131,6 @@
 - https://sharmajijvs.medium.com/xss-via-file-upload-a2bcc1e5d7f7, XSS
 - https://janmuhammadzaidi.medium.com/how-i-was-able-to-bypass-waf-and-find-the-origin-ip-and-a-few-sensitive-files-fc445180adb7, WAF-bypass
 - https://infosecwriteups.com/hacked-google-meet-40f364bb8368, Authorization-flaw
-- https://mearegtu.medium.com/broken-access-control-cc6cfd793b15, IDOR
 - https://medium.com/@mohamedtaha_42562/how-i-found-xss-vulnerability-in-amazon-in-5-minutes-using-shodan-50b583655297, XSS
 - https://www.r29k.com/articles/bb/priv-esc-via-stored-xss, Account-takeover
 - https://blog.agilehunt.com/blogs/security/privilege-escalation-in-microsoft-teams-2021, Privilege-escalation
@@ -165,7 +163,6 @@
 - https://ertugrull.medium.com/unprivileged-user-with-read-write-permission-to-user-access-can-escalate-their-role-to-admin-a217d2d280a8, Privilege-escalation
 - https://fartademayur.medium.com/this-is-how-i-was-able-to-see-private-archived-posts-stories-of-users-on-instagram-without-de70ca39165c, IDOR
 - https://0x01alka.medium.com/google-vrp-privilege-escalation-on-https-dialogflow-cloud-google-com-599af6c4516d, Authorization-flaw
-- https://youst.in/posts/bypassing-2fa-using-openid-misconfiguration/, MFA-bypass
 - https://vedanttekale20.medium.com/story-of-my-first-cash-bounty-on-hackerone-acad282ae962, SSRF
 - https://justintaft.com/blog/2021/06/01/cve-2021-29084-synology-crlf-unauthenticated-file-downloads, CRLF-injection
 - https://cirius.medium.com/how-i-hacked-a-target-again-and-again-6db2e462221f, OAuth
@@ -256,7 +253,6 @@
 - https://rez0.blog/hacking/2019/11/29/rce-via-imagetragick.html, RCE
 - https://web.archive.org/web/20200929013918/https://www.mohamedharon.com/2019/11/subdomain-takeover-via.html, Subdomain-takeover
 - https://web.archive.org/web/20220826045457/https://blog.bi.tk/chrome-cors/, Caching-issue
-- https://medium.com/@masonhck357/chains-on-chains-chaining-several-idors-into-account-takeover-part-one-373627f2910f, IDOR
 - https://blog.usejournal.com/how-recon-helped-samsung-protect-their-production-repositories-of-samsungtv-ecommerce-estores-4c51d6ec4fdd, Information-disclosure
 - https://web.archive.org/web/20200820030055/https://pwnsec.ninja/2019/09/14/how-i-found-a-simple-and-weird-account-takeover-bug/, Account-takeover
 - https://philippeharewood.com/add-users-to-roles-on-facebook-pages-without-an-invitation-consent/, Authorization-flaw
@@ -307,7 +303,6 @@
 - https://blog.harshjaiswal.com/path-traversal-while-uploading-results-in-rce, Path-traversal
 - https://jonbottarini.com/2018/10/09/get-as-image-function-pulls-any-insights-nrql-data-from-any-new-relic-account-idor/, IDOR
 - https://medium.com/@sivakrishnasamireddi/just-another-tale-of-severe-bugs-on-a-private-program-405870b03532, Open-redirect
-- https://websecblog.com/vulns/bypassing-firebase-authorization-to-create-custom-goo-gl-subdomains/, Logic-flaw
 - https://web.archive.org/web/20200811013311/https://medium.com/@protector47/persistent-cross-site-scripting-on-redacted-worth-2-000-1e760617ccab, Stored-XSS
 - https://medium.com/@Mthirup/hacking-your-own-antivirus-for-fun-and-profit-safe-browsing-gone-wrong-365db9d1d3f7, Reflected-XSS
 - https://websecblog.com/vulns/reflected-xss-in-google-code-jam/, Reflected-XSS

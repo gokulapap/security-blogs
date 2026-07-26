@@ -324,3 +324,5 @@
 - https://servicenger.com/blog/mobile/sending-ephemeral-message-to-any-facebook-user/
 - https://medium.com/@logicbomb_1/bugbounty-paytm-customer-information-is-at-risk-indias-largest-digital-wallet-company-6f7116d4b2d5
 - https://blog.witcoat.com/2018/05/30/account-takeover-and-blind-xss-go-pro-get-bugs/
+- https://medium.com/@masonhck357/chains-on-chains-chaining-several-idors-into-account-takeover-part-one-373627f2910f
+- https://mearegtu.medium.com/broken-access-control-cc6cfd793b15

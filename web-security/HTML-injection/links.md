@@ -24,3 +24,4 @@
 - https://medium.com/@whitehatcyber404/how-i-earned-150-in-2-minutes-html-injection-in-email-3f26f27d3822
 - https://shahjerry33.medium.com/stored-iframe-injection-permanent-open-redirection-zero-day-ce7cd15903ac
 - https://medium.com/@navne3t/a-base64-encoded-parameter-c6fb6b177d68
+- https://www.vaadata.com/blog/exploiting-an-html-injection-with-dangling-markup/

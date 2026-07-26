@@ -210,3 +210,4 @@
 - https://medium.com/bugbountywriteup/make-any-unit-in-facebook-groups-undeletable-efb68e26adb9
 - https://systemweakness.com/accessing-godaddy-internal-instance-through-an-email-logic-bug-fdbea7b23542
 - https://medium.com/@evilboyajay/stealing-money-from-one-account-to-another-account-d7c5ee68922b
+- https://websecblog.com/vulns/bypassing-firebase-authorization-to-create-custom-goo-gl-subdomains/
