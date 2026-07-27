@@ -211,3 +211,4 @@
 - https://systemweakness.com/accessing-godaddy-internal-instance-through-an-email-logic-bug-fdbea7b23542
 - https://medium.com/@evilboyajay/stealing-money-from-one-account-to-another-account-d7c5ee68922b
 - https://websecblog.com/vulns/bypassing-firebase-authorization-to-create-custom-goo-gl-subdomains/
+- https://blog.ethiack.com/en/blog/git-arbitrary-configuration-injection-cve-2023-29007

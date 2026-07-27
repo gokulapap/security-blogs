@@ -10,3 +10,4 @@
 - https://outflank.nl/blog/2021/12/09/a-phishing-document-signed-by-microsoft/
 - https://www.trustedsec.com/blog/modeling-malicious-code-hacking-in-3d/
 - https://outflank.nl/blog/2022/01/07/a-phishing-document-signed-by-microsoft-part-2/
+- https://irsl.medium.com/clipboard-hazard-with-google-sheets-1c1f3d566907

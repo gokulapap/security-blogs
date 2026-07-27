@@ -51,3 +51,4 @@
 - https://medium.com/@aniltom/magic-of-the-back-slash-d868e66b532a
 - https://github.com/firsov/onlyoffice/blob/main/CVE-2023-34939-PoC.md
 - https://www.0xlanks.me/blog/blogengine-writeup
+- https://breakpoint.sh/posts/snyk-code-broken-access-control
