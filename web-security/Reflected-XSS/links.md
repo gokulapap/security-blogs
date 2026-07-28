@@ -128,3 +128,4 @@
 - https://blog.ibrahimdraidia.com/xss-via-angularjs-template-injection_hostinger/
 - https://nirmaldahal.com.np/posts/2019/11/r-xss-leading-csrf-bypass-to-account-takeover/
 - https://sh1yo.art/post/sec-596/
+- https://blog.assetnote.io/2023/04/26/xss-million-websites-cpanel/

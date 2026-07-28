@@ -363,3 +363,4 @@
 - https://lethanhphuc-pk.medium.com/bugbounty-xss-with-markdown-exploit-fix-on-opensource-1baecebe9645
 - https://tuhin1729.medium.com/story-of-my-hacking-dutch-government-46b7a3c8b75a
 - https://gccybermonks.com/posts/xss-mozilla/
+- https://slashcrypto.org/2021/01/15/CVE-2020-1456/

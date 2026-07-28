@@ -144,3 +144,4 @@
 - https://medium.com/@ar_arvind/facebook-bug-bounty-reading-whatsapp-contacts-list-without-unlocking-the-device-a40e9c660a42
 - https://www.ehpus.com/post/authorization-bypass-in-google-s-ticketing-system
 - https://ysamm.com/?p=621
+- https://0x01alka.medium.com/google-vrp-privilege-escalation-on-https-dialogflow-cloud-google-com-599af6c4516d

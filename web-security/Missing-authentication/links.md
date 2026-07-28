@@ -20,3 +20,4 @@
 - https://letshack.xyz/offensive/web-application/legally-hacking-a-government-satellite
 - https://medium.com/@abidafahd/how-i-was-able-to-hunt-a-rare-bug-in-a-private-program-caec0ebaef7f
 - https://www.redteam-pentesting.de/en/advisories/rt-sa-2021-003/-missing-authentication-in-zkteco-zem-zmm-web-interface
+- https://healdb.tech/blog/teradici.html
