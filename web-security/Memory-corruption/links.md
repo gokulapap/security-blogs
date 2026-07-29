@@ -83,3 +83,4 @@
 - https://research.nccgroup.com/2022/02/28/brokenprint-a-netgear-stack-overflow/
 - https://ezqelusia.blogspot.com/2020/05/microsofts-first-bug.html
 - https://thalium.github.io/blog/posts/fuzzing-microsoft-rdp-client-using-virtual-channels/
+- https://accessvector.net/2022/freebsd-aio-lpe

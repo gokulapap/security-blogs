@@ -13,3 +13,4 @@
 - https://www.praetorian.com/blog/azure-b2c-crypto-misuse-and-account-compromise/
 - https://github.com/andyperlitch/jsbn/issues/43
 - https://nebuchadnezzar-megolm.github.io
+- https://vnhacker.blogspot.com/2020/09/advisory-security-issues-in-aws-kms-and.html

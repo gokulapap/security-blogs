@@ -70,3 +70,4 @@
 - https://infosecwriteups.com/how-we-was-able-to-takeover-whole-organization-via-privilege-escalation-4f74b31a84a6
 - https://shubhamchaskar.com/ato-through-pe/
 - https://medium.com/tenable-techblog/microsoft-azure-synapse-pwnalytics-87c99c036291
+- https://www.ambionics.io/blog/prestashop-privilege-escalation
