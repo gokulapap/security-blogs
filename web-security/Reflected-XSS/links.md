@@ -129,3 +129,4 @@
 - https://nirmaldahal.com.np/posts/2019/11/r-xss-leading-csrf-bypass-to-account-takeover/
 - https://sh1yo.art/post/sec-596/
 - https://blog.assetnote.io/2023/04/26/xss-million-websites-cpanel/
+- https://web.archive.org/web/20200505142429/https://medium.com/@godofdarkness.msf/reflected-xss-in-at-t-7f1bdd10d8f7
