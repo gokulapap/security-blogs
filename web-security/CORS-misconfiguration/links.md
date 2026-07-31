@@ -28,3 +28,4 @@
 - https://medium.com/@LogicalHunter/identity-aware-proxy-misconfiguration-google-cloud-vulnerability-813d2a07a4ed
 - https://blog.securitybreached.org/2017/10/10/exploiting-insecure-cross-origin-resource-sharing-cors-api-artsy-net
 - https://corben.io/blog/17-11-27-tricky-CORS
+- https://web.archive.org/web/20200616051351/https://hazana.xyz/posts/cors-blimey/

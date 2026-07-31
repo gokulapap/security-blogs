@@ -1,2 +1,3 @@
 - https://hoyahaxa.blogspot.com/2023/07/on-coldfusion-aes-and-padding-oracle.html
 - https://blog.teddykatz.com/2019/11/23/json-padding-oracles.html
+- https://polarply.medium.com/the-false-oracle-azure-functions-padding-oracle-issue-2025e0e6b8a

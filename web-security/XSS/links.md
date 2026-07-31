@@ -367,3 +367,4 @@
 - http://www.noob.ninja/2017/11/local-file-read-via-xss-in-dynamically.html
 - https://medium.com/@jonathanbouman/stored-xss-in-paytium-3-0-13-wordpress-plugin-3157ee37eb8f
 - https://www.hackerinside.me/2019/12/xss-like-pro.html
+- https://hoyahaxa.blogspot.com/2022/05/bygone-vulnerabilities-remote-code.html
