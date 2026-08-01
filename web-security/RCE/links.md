@@ -354,3 +354,5 @@
 - http://www.kernelpicnic.net/2016/07/24/Microsoft-signout.live.com-Remote-Code-Execution-Write-Up.html
 - https://rez0.blog/hacking/2019/11/29/rce-via-imagetragick.html
 - https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/d-link-multiple-security-vulnerabilities-leading-to-rce/
+- http://blog.takemyhand.xyz/2023/07/remote-code-execution-in-gitlabs-cli.html
+- https://blog.viettelcybersecurity.com/cve-2022-21587-oracle-e-business-suite-unauth-rce/

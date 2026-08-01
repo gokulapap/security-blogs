@@ -137,3 +137,4 @@
 - https://nav1n.medium.com/exploiting-sql-error-sqlstate-42000-to-own-mariadb-of-a-large-eu-based-online-media-and-cf7396c43bbf
 - https://medium.com/@mudassirsharief58/hunt-for-sql-injection-the-smart-way-db85243a4e90
 - https://dimazarno.medium.com/unexpected-zero-in-mysql-injection-511f632714b0
+- https://mahmoudsec.blogspot.com/2023/02/sql-injection-utilizing-xml-functions.html
