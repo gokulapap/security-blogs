@@ -44,3 +44,4 @@
 - https://medium.com/@prathamrajgor/how-i-hacked-into-a-cambridges-server-and-got-appreciation-letter-d19a830756b2
 - https://systemweakness.com/exploiting-a-file-upload-vulnerability-a-directory-traversal-attack-419308cdb059
 - https://ymohagheghi.medium.com/uploading-the-webshell-using-filename-of-content-disposition-header-story-59ba87752311
+- https://medium.com/@armandjasharaj/pentest-tales-exif-data-manipulation-b36beb291229

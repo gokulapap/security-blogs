@@ -369,3 +369,4 @@
 - https://www.hackerinside.me/2019/12/xss-like-pro.html
 - https://hoyahaxa.blogspot.com/2022/05/bygone-vulnerabilities-remote-code.html
 - https://www.acunetix.com/blog/web-security-zone/xss-google-acunetix/
+- https://davtur19.medium.com/telegram-bug-bounties-xss-privacy-issues-official-bot-exploitation-and-more-5277fa78435

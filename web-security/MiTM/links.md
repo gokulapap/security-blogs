@@ -9,3 +9,4 @@
 - https://medium.com/@jonathan.leitschuh/update-want-to-take-over-the-java-ecosystem-all-you-need-is-a-mitm-d069d253fe23
 - https://github.com/champtar/blog/tree/main/K8S_MITM_LoadBalancer_ExternalIPs
 - http://blog.evanricafort.com/2023/05/ipv6-dns-takeover-via-mitm6-write-up.html
+- https://wwws.nightwatchcybersecurity.com/2021/03/03/content-injection-rce-in-yandex-browser-for-android-2018/
