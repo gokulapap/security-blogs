@@ -77,7 +77,6 @@
 - https://canmustdie.medium.com/multiple-bugs-in-one-program-leads-to-1500-c35fcde06bc7, Privilege-escalation
 - https://swarm.ptsecurity.com/researching-open-source-apps-for-xss-to-rce-flaws/, XSS
 - https://www.zerodayinitiative.com/blog/2022/7/19/riding-the-inforail-to-exploit-ivanti-avalanche, RCE
-- https://infosecwriteups.com/ffuf-ing-recon-1ee4e79b3256, vHost-misconfiguration
 - https://medium.com/tenable-techblog/microsoft-azure-site-recovery-dll-hijacking-cd8cc34ef80c, DLL-Hijacking
 - https://bhashit.in/?p=71, Firebase
 - https://blog.electrovolt.io/posts/vscode-rce/, RCE
@@ -118,7 +117,6 @@
 - https://www.r29k.com/articles/bb/priv-esc-via-stored-xss, Account-takeover
 - https://blog.agilehunt.com/blogs/security/privilege-escalation-in-microsoft-teams-2021, Privilege-escalation
 - https://www.p1boom.com/2021/12/accidental-idor-in-elearnsecurity-to.html, IDOR
-- https://blog.sonarsource.com/nodebb-remote-code-execution-with-one-shot, RCE
 - https://r0.haxors.org/posts?id=26, SQL-injection
 - https://feed.bugs.xdavidhu.me/bugs/0008, Privilege-escalation
 - https://infosecwriteups.com/sony-hunting-i-discovering-hidden-parameters-5x-swag-c3396c0064bc, Open-redirect
@@ -200,7 +198,6 @@
 - https://medium.com/@abireena2002/how-i-managed-to-escalate-privilege-as-admin-94b8dc910d14, Lack-of-rate-limiting
 - https://blog.raphael.karger.is/articles/2020-05/CVE-2020-13693, Privilege-escalation
 - https://medium.com/@kishoretk/how-i-was-able-to-see-identity-of-a-private-video-up-loader-via-rights-manager-responsible-39d996517b6e, Information-disclosure
-- https://medium.com/@talatmehmood1995/bug-bounty-advanced-manual-penetration-testing-leading-to-price-manipulation-vulnerability-d935a3a5ddf6, Payment-tampering
 - https://medium.com/@sandeepkumarsingh1902/bugbounty-adding-money-using-response-modification-334448d34251, Payment-tampering
 - https://medium.com/@hbothra22/recon-to-sensitive-information-disclosure-in-minutes-503fc7ccdf0b, Information-disclosure
 - https://web.archive.org/web/20200513210337/https://medium.com/bugbountywriteup/the-secret-sauce-of-bug-bounty-bdcc2e2d45af, CSTI
@@ -227,7 +224,6 @@
 - https://ninadmathpati.com/how-i-was-able-to-earn-1000-with-just-10-minutes-of-bug-bounty/, Password-reset
 - https://medium.com/@rohitcoder/bypassing-fix-of-domain-blocking-feature-in-business-manager-41949a18460c, Authorization-flaw
 - https://learn.hackersid.com/2019/08/stored-xss-on-laporbugid.html, Stored-XSS
-- https://medium.com/@innocenthacker/how-i-found-the-most-critical-bug-in-live-bug-bounty-event-7a88b3aa97b3, Password-reset
 - https://philippeharewood.com/subscribe-to-typing-notifications-for-any-instagram-user/, Authorization-flaw
 - https://thezerohack.com/hack-any-instagram, Race-condition
 - https://samcurry.net/cracking-my-windshield-and-earning-10000-on-the-tesla-bug-bounty-program/, Blind-XSS
@@ -281,7 +277,6 @@
 - https://medium.com/bugbountywriteup/4500-bounty-how-i-got-lucky-99d8bc933f75, Subdomain-takeover
 - https://sysdream.com/news/lab/2018-04-30-multiple-security-vulnerabilities-in-domains-belonging-to-google/, Broken-Access-Control
 - https://medium.com/@vis_hacker/how-i-got-stored-xss-using-file-upload-5c33e19df51e, Stored-XSS
-- https://medium.com/bugbountywriteup/piercing-the-veil-server-side-request-forgery-to-niprnet-access-c358fd5e249a, SSRF
 - https://medium.com/@logicbomb_1/bugbounty-your-details-are-saved-into-my-account-user-info-disclosure-vulnerability-in-practo-fe36930a1246, IDOR
 - https://s1gnalcha0s.github.io/dspl/2018/03/07/Stored-XSS-and-SSRF-Google.html, Stored-XSS
 - https://medium.freecodecamp.org/responsible-disclosure-how-i-could-have-hacked-all-facebook-accounts-f47c0252ae4d, Bruteforce

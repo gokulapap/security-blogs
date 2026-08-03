@@ -1,1 +1,2 @@
 - https://blog.securitybreached.org/2017/11/04/access-localhost-via-virtual-host-virtual-host-enumeration/
+- https://infosecwriteups.com/ffuf-ing-recon-1ee4e79b3256

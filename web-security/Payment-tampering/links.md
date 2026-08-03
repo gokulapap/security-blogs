@@ -14,3 +14,4 @@
 - https://craighays.com/how-i-bought-a-240-pound-annual-subscription-for-bargain-1-penny/
 - https://medium.com/bugbountywriteup/how-i-got-paid-0-from-the-indias-largest-online-gifting-portal-bug-bounty-program-fd9e14f9ca20
 - https://gccybermonks.com/posts/msstorebypass/
+- https://medium.com/@talatmehmood1995/bug-bounty-advanced-manual-penetration-testing-leading-to-price-manipulation-vulnerability-d935a3a5ddf6
