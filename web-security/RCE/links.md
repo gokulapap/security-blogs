@@ -357,3 +357,4 @@
 - http://blog.takemyhand.xyz/2023/07/remote-code-execution-in-gitlabs-cli.html
 - https://blog.viettelcybersecurity.com/cve-2022-21587-oracle-e-business-suite-unauth-rce/
 - https://blog.sonarsource.com/nodebb-remote-code-execution-with-one-shot
+- https://machevalia.blog/blog/ivanti-epm-remote-code-execution

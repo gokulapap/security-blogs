@@ -38,3 +38,4 @@
 - https://danaepp.com/hacking-a-net-api-in-the-real-world
 - https://blog.scrt.ch/2018/08/24/remote-code-execution-on-a-facebook-server/
 - https://medium.com/@bughuntar/a-short-tell-of-lfi-from-pdf-link-professor-the-hunter-43a8be853e
+- https://offensi.com/2019/01/31/lfi-in-apigee-portals
