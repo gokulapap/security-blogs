@@ -147,3 +147,4 @@
 - https://medium.com/@jonathanbouman/stored-xss-unvalidated-embed-at-medium-com-528b0d6d4982
 - https://pharish4948.medium.com/how-i-earned-3200-in-4hours-through-stored-xss-38597877d3e1
 - https://medium.com/@prial261/story-of-a-stored-xss-bypass-26e6659f807b
+- https://www.rafaybaloch.com/2017/06/stored-xss-csrf-and-clickjacking.html

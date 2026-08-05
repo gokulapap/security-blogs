@@ -58,7 +58,6 @@
 - https://medium.com/@umeryousuf26/sleep-sql-injection-on-name-parameter-while-updating-profile-2bbac9f47336, SQL-injection
 - https://portswigger.net/research/safari-is-hot-linking-images-to-semi-random-websites, Browser-hacking
 - https://medium.com/@nanwinata/rce-docker-api-but-11ff70825935, RCE
-- https://sensepost.com/blog/2022/abusing-windows-tokens-to-compromise-active-directory-without-touching-lsass/, Local-Privilege-Escalation
 - https://web.archive.org/web/20221025185418/https://bergee.it/blog/chaining-multiple-vulnerabilities-for-credential-stealing/, CSRF
 - https://mehedishakeel.medium.com/broken-link-hijacking-my-second-finding-on-hackerone-d715b0713fca, Broken-link-hijacking
 - https://lokeshdlk77.medium.com/facebook-sms-captcha-was-vulnerable-to-csrf-attack-8db537b1e980, CSRF
@@ -97,7 +96,6 @@
 - https://shubhdeepp.medium.com/how-i-got-apple-hall-of-fame-3d86f858c05f, Content-injection
 - https://medium.com/@_ip_/2-3-xss-through-the-front-door-gitlab-fc4b6799e743, XSS
 - https://blog.relyze.com/2022/03/cve-2022-27643-netgear-r6700v3-upnpd.html, Memory-corruption
-- https://ajpc500.github.io/macos/Targeting-Visual-Studio-Code-For-macOS/, Local-Privilege-Escalation
 - https://bloggerrando.blogspot.com/2022/03/13-1.html, Broken-Access-Control
 - https://canmustdie.medium.com/how-did-i-leak-5-2k-customer-data-from-a-large-company-via-broken-access-control-709eb4027409, Broken-Access-Control
 - https://muffsec.com/blog/moodle-2nd-order-sqli/, SQL-injection
@@ -201,7 +199,6 @@
 - https://web.archive.org/web/20200513210337/https://medium.com/bugbountywriteup/the-secret-sauce-of-bug-bounty-bdcc2e2d45af, CSTI
 - https://blog.zimperium.com/multiple-kernel-vulnerabilities-affecting-all-qualcomm-devices/, Memory-corruption
 - https://medium.com/@afolicdaralee/hacking-a-telecommunication-company-mtn-c46696451fed, OTP-bypass
-- https://blog.doyensec.com/2020/04/08/libressl-fuzzer.html, Memory-corruption
 - https://web.archive.org/web/20201004092711/https://sametsahin.net/posts/administrator-level-privilege-escalation-story/, Privilege-escalation
 - https://medium.com/bugbountywriteup/reflected-xss-on-microsoft-com-subdomains-4bdfc2c716df, Reflected-XSS
 - https://medium.com/a-bugz-life/exploiting-an-ssrf-trials-and-tribulations-14c5d8dbd69a, SSRF
@@ -264,7 +261,6 @@
 - https://medium.com/@sivakrishnasamireddi/just-another-tale-of-severe-bugs-on-a-private-program-405870b03532, Open-redirect
 - https://web.archive.org/web/20200811013311/https://medium.com/@protector47/persistent-cross-site-scripting-on-redacted-worth-2-000-1e760617ccab, Stored-XSS
 - https://medium.com/@Mthirup/hacking-your-own-antivirus-for-fun-and-profit-safe-browsing-gone-wrong-365db9d1d3f7, Reflected-XSS
-- https://websecblog.com/vulns/reflected-xss-in-google-code-jam/, Reflected-XSS
 - https://blog.securitybreached.org/2018/09/08/sqli-bootcampnutanix-com-bug-bounty-poc/, SQL-injection
 - https://medium.com/bugbountywriteup/from-tomcat-to-nt-authority-system-a79fa09c4abb, Default-credentials
 - https://medium.com/bugbountywriteup/responsible-disclosure-how-i-could-have-booked-movie-tickets-through-other-user-accounts-2db26a037b4c, Password-reset
@@ -291,7 +287,6 @@
 - http://c0rni3sm.blogspot.com/2017/08/accidentally-typo-to-bypass.html, Authentication-bypass
 - https://medium.com/@saamux/reflected-xss-on-www-yahoo-com-9b1857cecb8c, Reflected-XSS
 - https://wesecureapp.com/blog/xss-by-tossing-cookies/, XSS
-- https://www.rafaybaloch.com/2017/06/stored-xss-csrf-and-clickjacking.html, Stored-XSS
 - https://ysx.me.uk/a-pair-of-plotly-bugs-stored-xss-and-aws-metadata-ssrf/, Stored-XSS
 - https://philippeharewood.com/find-mingle-suggestions-for-any-facebook-user-revisited/, Logic-flaw
 - https://blog.zsec.uk/gif-time-pornhub/, XSS

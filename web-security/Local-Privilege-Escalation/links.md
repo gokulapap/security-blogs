@@ -98,3 +98,5 @@
 - https://blog.trailofbits.com/2023/02/16/suid-logic-bug-linux-readline/
 - https://www.offensive-security.com/offsec/microsoft-onedrive-macos-local-privesc/
 - https://taggart-tech.com/quasar-electron/
+- https://ajpc500.github.io/macos/Targeting-Visual-Studio-Code-For-macOS/
+- https://sensepost.com/blog/2022/abusing-windows-tokens-to-compromise-active-directory-without-touching-lsass/
