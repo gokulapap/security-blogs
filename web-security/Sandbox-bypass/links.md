@@ -1,0 +1,1 @@
+- https://www.ezequiel.tech/p/500-getclass.html

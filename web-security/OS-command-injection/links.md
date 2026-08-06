@@ -29,3 +29,4 @@
 - https://bhashit.in/?p=117
 - https://www.betterhacker.com/2016/10/command-injection-without-spaces.html
 - https://nns.ee/blog/2021/04/03/modem-rce.html
+- https://www.randorisec.fr/chamilo-1.11.18-multiple-vulnerabilities

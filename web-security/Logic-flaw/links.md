@@ -213,3 +213,5 @@
 - https://websecblog.com/vulns/bypassing-firebase-authorization-to-create-custom-goo-gl-subdomains/
 - https://blog.ethiack.com/en/blog/git-arbitrary-configuration-injection-cve-2023-29007
 - https://medium.com/@prakashpanta1999/replying-comments-on-someones-livestream-from-page-is-posted-as-personal-identity-5fe79ef78b28
+- https://medium.com/@janijay007/how-i-was-able-to-see-likes-and-dislikes-count-which-is-hidden-by-victim-youtube-1-fa9cfe7cce7d
+- https://philippeharewood.com/facebook-stories-disclose-facebook-friend-list/
