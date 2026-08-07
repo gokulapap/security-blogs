@@ -13,3 +13,4 @@
 - https://chainlover.blogspot.com/2018/11/love-story-of-account-takeover-chaining.html
 - https://medium.com/@daoud_youssef/from-host-header-injection-to-sql-injection-e7c61a61b575
 - https://medium.com/@Bishoo97x/un-united-nations-host-header-injection-leads-to-any-full-account-takeover-ato-795bc9ebc670
+- https://systemweakness.com/host-header-injection-lead-to-account-takeover-2f025a645d13

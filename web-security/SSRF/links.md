@@ -176,3 +176,4 @@
 - https://medium.com/@putracraft.theworld/server-side-request-forgery-in-openid-support-defcc64d5e41
 - https://kuldeep.io/posts/holiday-hunting-with-aquatone/
 - https://medium.com/bugbountywriteup/piercing-the-veil-server-side-request-forgery-to-niprnet-access-c358fd5e249a
+- https://xvnpw.github.io/posts/from-dot-in-regex-to-ssrf-part-3/

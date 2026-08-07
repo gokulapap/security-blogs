@@ -146,3 +146,4 @@
 - https://ysamm.com/?p=621
 - https://0x01alka.medium.com/google-vrp-privilege-escalation-on-https-dialogflow-cloud-google-com-599af6c4516d
 - https://medium.com/@rohitcoder/bypassing-fix-of-domain-blocking-feature-in-business-manager-41949a18460c
+- https://philippeharewood.com/subscribe-to-typing-notifications-for-any-instagram-user/

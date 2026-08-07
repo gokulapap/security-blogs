@@ -131,3 +131,4 @@
 - https://blog.assetnote.io/2023/04/26/xss-million-websites-cpanel/
 - https://web.archive.org/web/20200505142429/https://medium.com/@godofdarkness.msf/reflected-xss-in-at-t-7f1bdd10d8f7
 - https://websecblog.com/vulns/reflected-xss-in-google-code-jam/
+- https://medium.com/@SyntaxError4/reflective-xss-and-open-redirect-on-indeed-com-subdomain-b4ab40e40c83
