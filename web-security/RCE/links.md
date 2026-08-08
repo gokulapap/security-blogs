@@ -359,3 +359,4 @@
 - https://blog.sonarsource.com/nodebb-remote-code-execution-with-one-shot
 - https://machevalia.blog/blog/ivanti-epm-remote-code-execution
 - https://security.humanativaspa.it/groovy-template-engine-exploitation-notes-from-a-real-case-scenario/
+- https://medium.com/@nanwinata/rce-docker-api-but-11ff70825935

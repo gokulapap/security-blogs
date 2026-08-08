@@ -150,3 +150,4 @@
 - https://www.rafaybaloch.com/2017/06/stored-xss-csrf-and-clickjacking.html
 - https://omespino.com/write-up-xss-stored-in-api-media-atlassian-com-via-doc-file-ios/
 - https://medium.com/@ChandSingh/protonmail-xss-stored-b733031ac3b5
+- https://s1gnalcha0s.github.io/dspl/2018/03/07/Stored-XSS-and-SSRF-Google.html

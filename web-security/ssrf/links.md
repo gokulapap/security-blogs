@@ -5,3 +5,4 @@
 - https://medium.com/@whitehatcyber404/how-to-find-escalating-html-to-ssrf-i-instantly-got-the-hof-within-5minutes-805f173c34e4
 - https://medium.com/@notifybugme/chaining-an-blind-ssrf-bug-to-get-an-rce-92c09de3c0ba
 - https://medium.com/@zycc2727/ssrf-cross-site-scripting-a54422d0753e
+- https://medium.com/@vickieli/intro-to-ssrf-beb35857771f
