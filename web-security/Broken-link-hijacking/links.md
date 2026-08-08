@@ -14,3 +14,4 @@
 - https://amit-lt.medium.com/hacked-instagram-handle-of-samsung-cb1a35990a90
 - https://trufflesecurity.com/blog/email-graffiti/index.html
 - https://blog.sagarvd.me/2019/11/taking-over-facebook-page-tabs.html
+- https://hogarth45.medium.com/social-media-take-over-easy-money-aa6274b4b70d

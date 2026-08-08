@@ -71,3 +71,4 @@
 - https://shubhamchaskar.com/ato-through-pe/
 - https://medium.com/tenable-techblog/microsoft-azure-synapse-pwnalytics-87c99c036291
 - https://www.ambionics.io/blog/prestashop-privilege-escalation
+- https://cho0k.com/wp-content/uploads/2021/08/FullPoC.pdf
