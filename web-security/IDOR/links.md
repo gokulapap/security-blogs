@@ -327,3 +327,4 @@
 - https://medium.com/@masonhck357/chains-on-chains-chaining-several-idors-into-account-takeover-part-one-373627f2910f
 - https://mearegtu.medium.com/broken-access-control-cc6cfd793b15
 - https://hopesamples.blogspot.com/2022/09/details-about-future-collaboration.html
+- https://medium.com/@logicbomb_1/bugbounty-your-details-are-saved-into-my-account-user-info-disclosure-vulnerability-in-practo-fe36930a1246

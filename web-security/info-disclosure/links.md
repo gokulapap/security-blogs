@@ -3,3 +3,4 @@
 - https://medium.com/@jaadugar/sensitive-data-exposure-my-first-bug-in-h1-d4006a08d38f
 - https://medium.com/@sushantdhopat/how-i-able-to-steal-lot-of-user-sensitive-information-pii-throw-idor-insecure-direct-object-e41e08e88a06
 - https://medium.com/@Sm9l/what-i-learnt-from-reading-126-information-disclosure-writeups-d896c5d5a2a4
+- https://medium.com/@notifybugme/how-i-was-able-find-mass-leaked-aws-s3-bucket-from-js-file-6064a5c247f8

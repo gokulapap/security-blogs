@@ -5,3 +5,4 @@
 - https://shahjerry33.medium.com/parameter-pollution-zero-day-3feb86ee8a02
 - https://medium.com/@logicbomb_1/bugbounty-compromising-user-account-how-i-was-able-to-compromise-user-account-via-http-4288068b901f
 - https://medium.com/@momenbasel/from-parameter-pollution-to-xss-d095e13be060
+- https://medium.com/@shahjerry33/http-parameter-pollution-its-contaminated-85edc0805654

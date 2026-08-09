@@ -370,3 +370,4 @@
 - https://hoyahaxa.blogspot.com/2022/05/bygone-vulnerabilities-remote-code.html
 - https://www.acunetix.com/blog/web-security-zone/xss-google-acunetix/
 - https://davtur19.medium.com/telegram-bug-bounties-xss-privacy-issues-official-bot-exploitation-and-more-5277fa78435
+- https://medium.com/@_ip_/2-3-xss-through-the-front-door-gitlab-fc4b6799e743

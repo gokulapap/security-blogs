@@ -39,3 +39,4 @@
 - https://shubhamchaskar.com/xxe-to-ntlm/
 - https://coffeejunkie.me/Blind-XXE-Port-Scanning/
 - https://mohemiv.com/all/exploiting-xxe-with-local-dtd-files/
+- https://www.horizon3.ai/red-team-blog-cve-2022-28219/
