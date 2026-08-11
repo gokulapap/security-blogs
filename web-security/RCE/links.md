@@ -360,3 +360,5 @@
 - https://machevalia.blog/blog/ivanti-epm-remote-code-execution
 - https://security.humanativaspa.it/groovy-template-engine-exploitation-notes-from-a-real-case-scenario/
 - https://medium.com/@nanwinata/rce-docker-api-but-11ff70825935
+- https://blog.electrovolt.io/posts/vscode-rce/
+- https://blog.polybdenum.com/2021/05/05/how-i-hacked-google-app-engine-anatomy-of-a-java-bytecode-exploit.html

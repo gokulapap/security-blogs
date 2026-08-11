@@ -215,3 +215,4 @@
 - https://medium.com/@prakashpanta1999/replying-comments-on-someones-livestream-from-page-is-posted-as-personal-identity-5fe79ef78b28
 - https://medium.com/@janijay007/how-i-was-able-to-see-likes-and-dislikes-count-which-is-hidden-by-victim-youtube-1-fa9cfe7cce7d
 - https://philippeharewood.com/facebook-stories-disclose-facebook-friend-list/
+- https://realkeyboardwarrior.github.io/security/2021/10/11/hacking-youtube.html
