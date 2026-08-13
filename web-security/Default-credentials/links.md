@@ -13,3 +13,4 @@
 - https://ian.sh/etugra
 - https://shahjerry33.medium.com/rce-via-webdav-power-of-put-7e1c06c71e60
 - https://medium.com/@ratnadip1998/how-i-mass-hunt-for-admin-panel-access-8c2ad145054
+- https://sumedh00.medium.com/accessing-admin-dashboard-in-5-seconds-acee737eacfb

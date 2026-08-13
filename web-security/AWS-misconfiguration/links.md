@@ -27,3 +27,4 @@
 - https://notifybugme.medium.com/how-i-was-able-find-mass-leaked-aws-s3-bucket-from-js-file-6064a5c247f8
 - https://philippeharewood.com/1-800-flowers-credentials-and-message-log-leak-via-facebook-com-facebook/
 - http://www.digitalmunition.com/WhyIWalkedFrom3k.pdf
+- https://hunter-55.medium.com/500-bounty-in-just-5-minutes-through-recon-5eeb6c299c3c
