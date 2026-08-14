@@ -52,3 +52,4 @@
 - https://github.com/firsov/onlyoffice/blob/main/CVE-2023-34939-PoC.md
 - https://www.0xlanks.me/blog/blogengine-writeup
 - https://breakpoint.sh/posts/snyk-code-broken-access-control
+- https://blog.harshjaiswal.com/path-traversal-while-uploading-results-in-rce

@@ -216,3 +216,4 @@
 - https://medium.com/@janijay007/how-i-was-able-to-see-likes-and-dislikes-count-which-is-hidden-by-victim-youtube-1-fa9cfe7cce7d
 - https://philippeharewood.com/facebook-stories-disclose-facebook-friend-list/
 - https://realkeyboardwarrior.github.io/security/2021/10/11/hacking-youtube.html
+- https://philippeharewood.com/find-mingle-suggestions-for-any-facebook-user-revisited/
