@@ -328,3 +328,4 @@
 - https://mearegtu.medium.com/broken-access-control-cc6cfd793b15
 - https://hopesamples.blogspot.com/2022/09/details-about-future-collaboration.html
 - https://medium.com/@logicbomb_1/bugbounty-your-details-are-saved-into-my-account-user-info-disclosure-vulnerability-in-practo-fe36930a1246
+- https://medium.com/bugbountywriteup/my-first-bug-on-google-observation-wins-1a13d0ea54b0
