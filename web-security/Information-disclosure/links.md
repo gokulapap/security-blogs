@@ -355,3 +355,4 @@
 - https://debprasadbanerjee502.medium.com/united-nations-bug-bounty-writeup-4bcfdefbb8d3
 - https://medium.com/@kishoretk/how-i-was-able-to-see-identity-of-a-private-video-up-loader-via-rights-manager-responsible-39d996517b6e
 - https://philippeharewood.com/disclose-page-admins-via-gaming-dashboard-bans/
+- https://gauravnarwani.com/never-stop-at-banner-grabbing/
