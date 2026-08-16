@@ -33,3 +33,4 @@
 - https://medium.com/@varmaanu001/cookie-stealing-via-clickjacking-using-burp-collaborator-ff6f4ac1c18b
 - https://medium.com/@raushanraj_65039/clickjacking-in-google-docs-and-voice-typing-feature-c481d00b020a
 - https://whitton.io/archive/framing-part-1-click-jacking-etsy
+- https://medium.com/@DK999/apache-example-servlet-leads-to-61a2720cac20

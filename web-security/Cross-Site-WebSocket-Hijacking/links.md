@@ -1,0 +1,1 @@
+- https://sunilyedla.medium.com/websocket-hijacking-to-steal-session-id-of-victim-users-bca84243830
