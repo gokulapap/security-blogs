@@ -29,3 +29,4 @@
 - https://blog.securitybreached.org/2017/10/10/exploiting-insecure-cross-origin-resource-sharing-cors-api-artsy-net
 - https://corben.io/blog/17-11-27-tricky-CORS
 - https://web.archive.org/web/20200616051351/https://hazana.xyz/posts/cors-blimey/
+- https://pullerjsecu.medium.com/bypassing-cors-configurations-to-produce-an-account-takeover-for-fun-and-profit-3e50c3f2a124

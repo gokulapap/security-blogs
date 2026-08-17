@@ -6,3 +6,4 @@
 - https://github.com/PabloMK7/ENLBufferPwn
 - https://labs.bluefrostsecurity.de/blog/2019/04/29/dont-follow-the-masses-bug-hunting-in-javascript-engines/
 - https://www.rcesecurity.com/2015/09/cve-2014-7216-a-journey-through-yahoos-bug-bounty-program/
+- https://offsec.almond.consulting/ghostscript-cve-2023-28879.html

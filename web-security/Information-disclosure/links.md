@@ -357,3 +357,4 @@
 - https://philippeharewood.com/disclose-page-admins-via-gaming-dashboard-bans/
 - https://gauravnarwani.com/never-stop-at-banner-grabbing/
 - https://savebreach.com/facebook-page-admin-identity-disclosure-through-document-edit-history/
+- https://blog.usejournal.com/how-recon-helped-samsung-protect-their-production-repositories-of-samsungtv-ecommerce-estores-4c51d6ec4fdd
