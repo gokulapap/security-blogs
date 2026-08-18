@@ -104,3 +104,4 @@
 - https://medium.com/@mamunwhh/how-i-got-500-with-open-redirect-48fd80c82631
 - https://tolo7010note.blogspot.com/2020/07/an-unreproducable-bug-due-to-load.html
 - https://medium.com/@jonathanbouman/unvalidated-open-redirect-bol-com-b270151380e6
+- https://ysamm.com/?p=625

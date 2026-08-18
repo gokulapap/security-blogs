@@ -6,7 +6,6 @@
 - https://medium.com/@joshuaarulsamy/mindset-that-made-me-one-among-top-15-security-researchers-in-india-for-3-consecutive-times-febb06e8af61, journey
 - https://medium.com/@grahamzemel/python-tips-and-tricks-for-cybersecurity-enthusiasts-9504d9541b8b, tricks
 - https://medium.com/@theredteamer/tesla-paid-me-10-000-because-of-directory-indexing-c1be06c77a3e, journey
-- https://medium.com/@caesarevan23/the-journey-to-get-sql-injection-at-bluepay-blue-indonesia-bluepay-2019-7a23bbce4cb8, journey
 - https://samcurry.net/points-com/, Path-traversal
 - https://www.sonarsource.com/blog/a-twist-in-the-code-openmeetings-vulnerabilities-through-unexpected-application-state/, Account-takeover
 - https://medium.com/@0xnaeem/how-i-found-a-sql-injection-bug-in-using-my-cellphone-5b5193fdc314, SQL-injection
@@ -88,7 +87,6 @@
 - https://blog.agilehunt.com/blogs/security/privilege-escalation-in-microsoft-teams-2021, Privilege-escalation
 - https://www.p1boom.com/2021/12/accidental-idor-in-elearnsecurity-to.html, IDOR
 - https://r0.haxors.org/posts?id=26, SQL-injection
-- https://feed.bugs.xdavidhu.me/bugs/0008, Privilege-escalation
 - https://infosecwriteups.com/sony-hunting-i-discovering-hidden-parameters-5x-swag-c3396c0064bc, Open-redirect
 - https://blog.assetnote.io/2021/11/02/sitecore-rce/, RCE
 - https://darrenmartyn.ie/2021/10/27/zimbra-zmslapd-local-root-exploit/, Local-Privilege-Escalation
@@ -112,13 +110,11 @@
 - https://feed.bugs.xdavidhu.me/bugs/0006, Path-traversal
 - https://www.fortbridge.co.uk/research/drupal-insecure-default-leads-to-password-reset-poisoning/, Password-reset
 - https://galnagli.com/Mass_Assignment/, Mass-assignment
-- https://sndpgiriz.medium.com/simple-logical-bug-turned-into-a-bounty-a3d7ac214606, Logic-flaw
 - https://notifybugme.medium.com/chaining-csrf-with-xss-to-deactivate-mass-user-accounts-by-single-click-b463c0d26587, CSRF
 - https://apapedulimu.click/google-vrp-how-i-get-blind-xss-at-google-with-dork-first-bounty-and-hof/, Blind-XSS
 - https://infosecwriteups.com/business-logic-error-on-registration-leads-to-sms-validation-bypass-80380b3ff629, MFA-bypass
 - https://blog.melbadry9.xyz/ddns-ec2-ips-current-state, Dangling-DNS-records
 - https://jayateerthag.medium.com/jira-authenticated-dashboard-access-in-google-acquisition-apigee-ff20cfe11d99, Authentication-bypass
-- https://ysamm.com/?p=625, Open-redirect
 - https://web.archive.org/web/20210201180254/https://www.cysek.org/post/bac-sxss, Stored-XSS
 - https://medium.com/bugbountywriteup/bragging-rights-part-1-short-story-of-a-bug-wave-dbb88f48b604, IDOR
 - https://r4id3n.medium.com/ssrf-exploitation-in-spreedsheet-to-pdf-converter-2c7eacdac781, SSRF
@@ -163,7 +159,6 @@
 - https://medium.com/monetary/how-did-i-earn-3133-70-from-google-translator-9becf942dbdc, XSS
 - https://medium.com/@dPhoeniixx/vimeo-upload-function-ssrf-7466d8630437, SSRF
 - https://web.archive.org/web/20200929013918/https://www.mohamedharon.com/2019/11/subdomain-takeover-via.html, Subdomain-takeover
-- https://web.archive.org/web/20220826045457/https://blog.bi.tk/chrome-cors/, Caching-issue
 - https://web.archive.org/web/20200820030055/https://pwnsec.ninja/2019/09/14/how-i-found-a-simple-and-weird-account-takeover-bug/, Account-takeover
 - https://medium.com/@bathinivijaysimhareddy/shodan-is-your-friend-if-you-lose-him-you-will-lose-many-657d07472f75, SQL-injection
 - https://ninadmathpati.com/how-i-was-able-to-earn-1000-with-just-10-minutes-of-bug-bounty/, Password-reset

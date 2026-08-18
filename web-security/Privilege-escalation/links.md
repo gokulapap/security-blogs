@@ -73,3 +73,4 @@
 - https://www.ambionics.io/blog/prestashop-privilege-escalation
 - https://cho0k.com/wp-content/uploads/2021/08/FullPoC.pdf
 - https://canmustdie.medium.com/multiple-bugs-in-one-program-leads-to-1500-c35fcde06bc7
+- https://feed.bugs.xdavidhu.me/bugs/0008

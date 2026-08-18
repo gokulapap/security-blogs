@@ -1,0 +1,1 @@
+- https://web.archive.org/web/20220826045457/https://blog.bi.tk/chrome-cors/

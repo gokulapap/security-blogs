@@ -25,3 +25,4 @@
 - https://medium.com/@rajeshranjan457/how-i-was-able-to-regain-access-to-account-deleted-by-admin-leading-to-a2c29025f8cd
 - https://medium.com/@sumedh00/accessing-admin-dashboard-in-5-seconds-acee737eacfb
 - https://medium.com/@s3c/how-i-hacked-world-wide-tiktok-users-24e794d310d2
+- https://medium.com/@caesarevan23/the-journey-to-get-sql-injection-at-bluepay-blue-indonesia-bluepay-2019-7a23bbce4cb8
