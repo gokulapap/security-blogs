@@ -139,3 +139,4 @@
 - https://dimazarno.medium.com/unexpected-zero-in-mysql-injection-511f632714b0
 - https://mahmoudsec.blogspot.com/2023/02/sql-injection-utilizing-xml-functions.html
 - https://medium.com/bugbountywriteup/accessing-the-website-directly-through-its-ip-address-a-case-of-a-poorly-hidden-sql-injection-82833defbbc3
+- https://blog.securitybreached.org/2018/09/08/sqli-bootcampnutanix-com-bug-bounty-poc/

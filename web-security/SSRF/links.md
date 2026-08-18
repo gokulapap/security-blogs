@@ -178,3 +178,4 @@
 - https://medium.com/bugbountywriteup/piercing-the-veil-server-side-request-forgery-to-niprnet-access-c358fd5e249a
 - https://xvnpw.github.io/posts/from-dot-in-regex-to-ssrf-part-3/
 - https://medium.com/@androgaming1912/gain-adfly-smtp-access-with-ssrf-via-gopher-protocol-26a26d0ec2cb
+- https://philippeharewood.com/cve-2018-16794-on-fs-thefacebook-com/

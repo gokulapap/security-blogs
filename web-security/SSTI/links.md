@@ -22,3 +22,4 @@
 - https://cupc4k3.lol/ssti-leads-to-rce-on-pyrocms-7515be27c811
 - https://www.ehpus.com/post/ssti-in-google-maps
 - https://gauravnarwani.com/injecting-6200-to-1200/
+- https://ophionsecurity.com/blog/placeholder-for-dayzzz

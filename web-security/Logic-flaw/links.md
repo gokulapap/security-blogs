@@ -218,3 +218,4 @@
 - https://realkeyboardwarrior.github.io/security/2021/10/11/hacking-youtube.html
 - https://philippeharewood.com/find-mingle-suggestions-for-any-facebook-user-revisited/
 - https://medium.com/@ritishkumarsingh/https-medium-com-ritishkumarsingh-facebook-vulnerability-hiding-from-facebook-page-admin-in-hacked-workflow-86f366f183c6
+- https://infosecwriteups.com/third-party-apps-were-still-getting-your-private-facebook-data-even-after-their-access-expiry-6e4be4880e6e
