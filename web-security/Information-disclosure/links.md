@@ -358,3 +358,5 @@
 - https://gauravnarwani.com/never-stop-at-banner-grabbing/
 - https://savebreach.com/facebook-page-admin-identity-disclosure-through-document-edit-history/
 - https://blog.usejournal.com/how-recon-helped-samsung-protect-their-production-repositories-of-samsungtv-ecommerce-estores-4c51d6ec4fdd
+- https://johnjhacking.com/blog/p1-critical-discovering-and-foiling-a-threat-actor/
+- https://emtunc.org/blog/01/2018/research-misconfigured-jenkins-servers/

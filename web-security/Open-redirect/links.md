@@ -105,3 +105,5 @@
 - https://tolo7010note.blogspot.com/2020/07/an-unreproducable-bug-due-to-load.html
 - https://medium.com/@jonathanbouman/unvalidated-open-redirect-bol-com-b270151380e6
 - https://ysamm.com/?p=625
+- https://medium.com/bugbountywriteup/evading-filters-to-perform-the-arbitrary-url-redirection-attack-cce628b9b6a0
+- https://infosecwriteups.com/how-an-open-redirection-leads-to-an-account-takeover-73ea883055d1

@@ -331,3 +331,4 @@
 - https://medium.com/bugbountywriteup/my-first-bug-on-google-observation-wins-1a13d0ea54b0
 - https://sudhanshur705.medium.com/how-i-made-it-to-google-hof-f1cec85fdb1b
 - https://jonbottarini.com/2018/10/09/get-as-image-function-pulls-any-insights-nrql-data-from-any-new-relic-account-idor/
+- https://medium.com/bugbountywriteup/duplicate-but-still-cool-236835685075
