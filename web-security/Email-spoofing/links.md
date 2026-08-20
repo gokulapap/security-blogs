@@ -3,3 +3,4 @@
 - https://www.synacktiv.com/sites/default/files/2023-05/Synacktiv-Webflow-Arbitrary-Email-Forgery.pdf
 - https://medium.com/@newp_th/google-bug-posting-on-groups-as-any-users-behalf-c24e7f524be5
 - https://shenkaiwen.com/publication/2022-dkim/
+- https://medium.com/@mateusz.olejarka/a-perfect-duplicate-or-how-to-send-an-email-with-a-spoofed-invoices-content-66cf369bbaa3

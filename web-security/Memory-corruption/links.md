@@ -85,3 +85,4 @@
 - https://thalium.github.io/blog/posts/fuzzing-microsoft-rdp-client-using-virtual-channels/
 - https://accessvector.net/2022/freebsd-aio-lpe
 - https://blog.doyensec.com/2020/04/08/libressl-fuzzer.html
+- https://blog.zimperium.com/multiple-kernel-vulnerabilities-affecting-all-qualcomm-devices/
