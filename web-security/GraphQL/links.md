@@ -10,3 +10,4 @@
 - https://rashahacks.com/exposing-users-table-from-a-leaky-graphql-query/
 - https://medium.com/@osamaavvan/unauthenticated-graphql-introspection-and-api-calls-92f1d9d86bcf
 - https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/from-response-to-request-adding-your-own-variables-inside-of-graphql-queries-for-account-take-over/
+- https://medium.com/bugbountywriteup/how-i-lost-my-followers-on-medium-9fe10e9862aa
