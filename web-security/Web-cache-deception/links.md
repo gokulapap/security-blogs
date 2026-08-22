@@ -4,3 +4,4 @@
 - https://medium.com/@snoopy101/web-cache-deception-attack-on-a-private-bug-bounty-program-52872cbdeedc
 - https://www.usenix.org/conference/usenixsecurity22/presentation/mirheidari
 - https://medium.freecodecamp.org/cache-deception-how-i-discovered-a-vulnerability-in-medium-and-helped-them-fix-it-31cec2a3938b
+- https://medium.com/@zhero_/dos-via-cache-poisoning-38f3a87f997c

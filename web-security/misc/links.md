@@ -11,3 +11,4 @@
 - https://medium.com/@rootkid/payment-gateway-bypass-on-government-domain-8e0135c34185
 - https://medium.com/@ahmdhalabi/taking-over-employee-accounts-by-managers-with-zero-employee-interaction-b60784c3ad84
 - https://medium.com/@terjanq/clobbering-the-clobbered-advanced-dom-clobbering-8443547ebe94
+- https://medium.com/@sharanthehunter/g-map-api-key-exploitation-6fdf60fbb263
