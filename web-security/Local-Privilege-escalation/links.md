@@ -1,0 +1,1 @@
+- https://blog.quarkslab.com/post-exploitation-abusing-the-keepass-plugin-cache.html

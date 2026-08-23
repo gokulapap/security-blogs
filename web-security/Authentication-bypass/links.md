@@ -90,3 +90,4 @@
 - https://srcincite.io/blog/2022/01/20/zohowned-a-critical-authentication-bypass-on-zoho-manageengine-desktop-central.html
 - https://medium.com/@amineaboud/story-of-a-weird-vulnerability-i-found-on-facebook-fc0875eb5125
 - https://eaton-works.com/2023/02/06/toyota-gspims-hack/
+- https://techblog.mediaservice.net/2020/01/ok-google-bypass-the-authentication/

@@ -44,3 +44,4 @@
 - https://medium.com/@robert0/how-i-found-broken-access-control-through-out-of-sync-setup-and-got-1000-9143fc5febdd
 - https://bloggerrando.blogspot.com/2022/03/13-1.html
 - https://sysdream.com/news/lab/2018-04-30-multiple-security-vulnerabilities-in-domains-belonging-to-google/
+- https://hacktus.tech/taking-over-an-entire-organization
