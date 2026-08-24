@@ -73,3 +73,4 @@
 - https://doyensec.com/resources/Doyensec_Apollo_Report_Q22022_v4_AfterRetest.pdf
 - https://blog.78researchlab.com/b9c80d00-d935-43b1-8805-969000df301d
 - https://hector0x.medium.com/dos-attack-in-yahoo-how-i-was-able-to-deny-new-users-from-service-6b222e744e61
+- https://medium.com/@maxpasqua/breaking-appointments-and-job-interview-schedules-with-malformed-times-edef103e46ba

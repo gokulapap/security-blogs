@@ -2,3 +2,4 @@
 - https://securitycafe.ro/2023/06/19/dll-hijacking-finding-vulnerabilities-in-pestudio-9-52/
 - https://www.praetorian.com/blog/dynamic-linking-injection/
 - https://blog.aquasec.com/cve-2022-32223-dll-hijacking
+- https://medium.com/tenable-techblog/microsoft-azure-site-recovery-dll-hijacking-cd8cc34ef80c
