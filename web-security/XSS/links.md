@@ -372,3 +372,5 @@
 - https://davtur19.medium.com/telegram-bug-bounties-xss-privacy-issues-official-bot-exploitation-and-more-5277fa78435
 - https://medium.com/@_ip_/2-3-xss-through-the-front-door-gitlab-fc4b6799e743
 - https://swarm.ptsecurity.com/researching-open-source-apps-for-xss-to-rce-flaws/
+- https://orca.security/resources/blog/examining-two-xss-vulnerabilities-in-azure-services/
+- https://medium.com/monetary/how-did-i-earn-3133-70-from-google-translator-9becf942dbdc

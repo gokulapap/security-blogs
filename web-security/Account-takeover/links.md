@@ -135,3 +135,4 @@
 - https://medium.com/@bhaveshthakur2015/account-hijack-using-authorization-bypass-which-made-me-richer-by-ba9dace72682
 - https://utkusen.com/blog/why-you-shouldnt-use-password-manager-for-linode.html
 - https://bhavukjain.com/blog/2017/12/20/facebook-google-login-misconfig/
+- https://www.sonarsource.com/blog/a-twist-in-the-code-openmeetings-vulnerabilities-through-unexpected-application-state/
