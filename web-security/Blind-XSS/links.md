@@ -36,3 +36,4 @@
 - https://blog.evanricafort.com/2018/08/blind-xss-in-chrome-experiments-google.html
 - https://splint3rsec.medium.com/russian-roulette-xss-bbba6afd2570
 - https://web.archive.org/web/20200928091625/https://pwnsec.ninja/2019/06/06/how-i-was-able-to-get-private-ticket-response-panel-and-fortigate-web-panel-via-blind-xss/
+- https://ashketchum.medium.com/blind-xss-in-google-analytics-admin-panel-3133-70-2185d1cce82a

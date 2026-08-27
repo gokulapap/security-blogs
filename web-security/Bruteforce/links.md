@@ -21,3 +21,4 @@
 - https://medium.com/@arbazhussain/bypassing-rate-limit-protection-by-spoofing-originating-ip-ff06adf34157
 - https://medium.com/@circleninja/internshala-bug-in-internshala-student-partner-33d7b66c1bd5
 - https://blog.bitcrack.net/oracle-databases-remote-stealth-password-bruteforce/
+- https://dhiyaneshgeek.github.io/web/security/2021/10/23/how-i-was-able-to-revoke-your-instagram-2fa/
