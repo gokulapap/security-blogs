@@ -180,3 +180,4 @@
 - https://medium.com/@androgaming1912/gain-adfly-smtp-access-with-ssrf-via-gopher-protocol-26a26d0ec2cb
 - https://philippeharewood.com/cve-2018-16794-on-fs-thefacebook-com/
 - https://blog.assetnote.io/2022/04/27/vmware-workspace-one-uem-ssrf/
+- https://medium.com/@dPhoeniixx/vimeo-upload-function-ssrf-7466d8630437
