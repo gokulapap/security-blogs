@@ -1,0 +1,1 @@
+- https://curl.se/docs/CVE-2022-32207.html

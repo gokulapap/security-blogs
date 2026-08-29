@@ -27,3 +27,4 @@
 - https://research.nccgroup.com/2023/01/20/technical-advisory-multiple-vulnerabilities-in-the-galaxy-app-store-cve-2023-21433-cve-2023-21434/
 - https://medium.com/@cappriciosec/how-i-hacked-billion-android-users-social-and-3rd-party-account-a-story-about-5000-bug-c422ca43bd2
 - https://servicenger.com/mobile/facebook-android-vulnerability-launching-internal-tighten-deeplink-onbehalf-of-user/
+- https://nmochea.medium.com/gcash-vulnerability-walkthrough-c7c938163dfb

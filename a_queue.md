@@ -34,8 +34,6 @@
 - https://portswigger.net/research/safari-is-hot-linking-images-to-semi-random-websites, Browser-hacking
 - https://web.archive.org/web/20221025185418/https://bergee.it/blog/chaining-multiple-vulnerabilities-for-credential-stealing/, CSRF
 - https://mehedishakeel.medium.com/broken-link-hijacking-my-second-finding-on-hackerone-d715b0713fca, Broken-link-hijacking
-- https://nmochea.medium.com/gcash-vulnerability-walkthrough-c7c938163dfb, Android
-- https://sector7.computest.nl/post/2022-09-unified-automation-opcua-cpp/, DoS
 - https://cturt.github.io/mast1c0re.html, Memory-corruption
 - https://www.rapid7.com/blog/post/2022/09/08/baxter-sigma-spectrum-infusion-pumps-multiple-vulnerabilities-fixed/, Hardcoded-credentials
 - https://www.ambionics.io/blog/hacking-watchguard-firewalls, XPath-injection
@@ -45,7 +43,6 @@
 - https://medium.com/@avinash_/email-confirmation-bypass-at-instagram-cc968f9a126, Email-verification-bypass
 - https://www.zerodayinitiative.com/blog/2022/7/19/riding-the-inforail-to-exploit-ivanti-avalanche, RCE
 - https://bhashit.in/?p=71, Firebase
-- https://curl.se/docs/CVE-2022-32207.html, Improper-Preservation-of-Permissions
 - https://curl.se/docs/CVE-2022-32205.html, DoS
 - https://www.cyberark.com/resources/threat-research-blog/that-pipe-is-still-leaking-revisiting-the-rdp-named-pipe-vulnerability, RCE
 - https://www.zerodayinitiative.com/blog/2022/6/1/is-exploiting-a-null-pointer-deref-for-lpe-just-a-pipe-dream, Memory-corruption
@@ -73,7 +70,6 @@
 - https://darrenmartyn.ie/2021/10/27/zimbra-zmslapd-local-root-exploit/, Local-Privilege-Escalation
 - https://pyn3rd.github.io/2021/10/22/mysql-jdbc-xxe/, XXE
 - https://web.archive.org/web/20221128060608/https://wya.pl/2021/10/18/shells-and-soap-websphere-deserialization-to-rce/, RCE
-- https://mikekitckchan.medium.com/power-of-your-own-wordlist-fuzz-for-log-file-leads-to-information-leakage-ad46958b4729, Information-disclosure
 - https://rishuranjanofficial.medium.com/html-injection-in-itunesconnect-apple-com-3f8a898f21ee, HTML-injection
 - https://dewcode.medium.com/force-browsing-bug-at-facebook-business-plan-500-bounty-73d1bb4883af, Authorization-flaw
 - https://pwnsauc3.medium.com/weaponizing-reflected-xss-to-account-takeover-ae8aeea7aca3, XSS
@@ -148,7 +144,6 @@
 - https://medium.com/@rupika.luhach/how-i-was-able-to-extract-information-of-other-users-exploiting-idor-9f03aa72dd06, IDOR
 - https://blog.detectify.com/2019/01/29/hacking-isnt-an-exact-science/, Authorization-flaw
 - https://ysamm.com/?p=68, Logic-flaw
-- https://medium.com/@vishnu0002/instagram-multi-factor-authentication-bypass-924d963325a1, MFA-bypass
 - https://medium.com/@zain.sabahat/exploiting-ssrf-like-a-boss-c090dc63d326, SSRF
 - https://medium.com/@notsoshant/a-possibility-of-account-takeover-in-medium-8d950e547639, Account-takeover
 - https://medium.com/@sivakrishnasamireddi/just-another-tale-of-severe-bugs-on-a-private-program-405870b03532, Open-redirect

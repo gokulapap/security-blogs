@@ -360,3 +360,4 @@
 - https://blog.usejournal.com/how-recon-helped-samsung-protect-their-production-repositories-of-samsungtv-ecommerce-estores-4c51d6ec4fdd
 - https://johnjhacking.com/blog/p1-critical-discovering-and-foiling-a-threat-actor/
 - https://emtunc.org/blog/01/2018/research-misconfigured-jenkins-servers/
+- https://mikekitckchan.medium.com/power-of-your-own-wordlist-fuzz-for-log-file-leads-to-information-leakage-ad46958b4729
