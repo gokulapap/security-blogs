@@ -149,3 +149,4 @@
 - https://philippeharewood.com/subscribe-to-typing-notifications-for-any-instagram-user/
 - https://philippeharewood.com/add-users-to-roles-on-facebook-pages-without-an-invitation-consent/
 - https://www.rodneybeede.com/security/slack-announcement-only-channel-post-restriction-bypass.html
+- https://www.seblu.de/2021/12/iap-bypass.html

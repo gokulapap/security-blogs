@@ -1,0 +1,1 @@
+- https://www.mannulinux.org/2023/03/exploiting-hibernate-injection-in-order.html
