@@ -39,3 +39,4 @@
 - https://blog.scrt.ch/2018/08/24/remote-code-execution-on-a-facebook-server/
 - https://medium.com/@bughuntar/a-short-tell-of-lfi-from-pdf-link-professor-the-hunter-43a8be853e
 - https://offensi.com/2019/01/31/lfi-in-apigee-portals
+- https://medium.com/@maxon3/lfi-to-command-execution-deutche-telekom-bug-bounty-6fe0de7df7a6

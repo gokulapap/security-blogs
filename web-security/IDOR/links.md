@@ -332,3 +332,4 @@
 - https://sudhanshur705.medium.com/how-i-made-it-to-google-hof-f1cec85fdb1b
 - https://jonbottarini.com/2018/10/09/get-as-image-function-pulls-any-insights-nrql-data-from-any-new-relic-account-idor/
 - https://medium.com/bugbountywriteup/duplicate-but-still-cool-236835685075
+- https://medium.com/h4x00r/my-very-first-bug-a-dreaded-dupe-and-then-an-idor-jackpot-d01b69f6fbae

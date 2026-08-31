@@ -14,3 +14,4 @@
 - https://github.com/andyperlitch/jsbn/issues/43
 - https://nebuchadnezzar-megolm.github.io
 - https://vnhacker.blogspot.com/2020/09/advisory-security-issues-in-aws-kms-and.html
+- https://alexbakker.me/post/mysterious-google-titan-m-bug-cve-2019-9465.html
