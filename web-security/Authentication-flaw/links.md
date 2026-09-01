@@ -9,3 +9,4 @@
 - https://lightningsecurity.io/blog/password-not-provided/
 - https://blog.lightspin.io/exploiting-eks-authentication-vulnerability-in-aws-iam-authenticator
 - https://hector0x.medium.com/broken-authentication-through-referral-code-25cd0e8bccc2
+- https://medium.com/bugbountywriteup/how-i-earned-500-from-google-flaw-in-authentication-a40018c05616

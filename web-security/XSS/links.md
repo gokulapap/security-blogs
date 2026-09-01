@@ -374,3 +374,5 @@
 - https://swarm.ptsecurity.com/researching-open-source-apps-for-xss-to-rce-flaws/
 - https://orca.security/resources/blog/examining-two-xss-vulnerabilities-in-azure-services/
 - https://medium.com/monetary/how-did-i-earn-3133-70-from-google-translator-9becf942dbdc
+- https://blog.zsec.uk/gif-time-pornhub/
+- https://medium.com/@niraj1mahajan/hacking-the-search-bar-the-story-of-discovering-and-reporting-an-xss-vulnerability-on-bing-com-cac2f241835
