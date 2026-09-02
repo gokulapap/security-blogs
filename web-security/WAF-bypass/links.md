@@ -13,3 +13,4 @@
 - https://medium.com/@kashyapherry147/origin-ip-to-account-takeover-62d7a54abebf
 - https://infosecwriteups.com/bypassing-amazon-waf-to-pop-an-alert-4646ce35554e
 - https://njbooher.github.io/blog/cloudflare-workers-ip-spoofing
+- https://www.praetorian.com/blog/using-crlf-injection-to-bypass-akamai-web-app-firewall/

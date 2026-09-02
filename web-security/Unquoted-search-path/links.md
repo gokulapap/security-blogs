@@ -1,1 +1,2 @@
 - https://bishopfox.com/blog/microsoft-intune-version-1-55-48-0-advisory
+- https://bishopfox.com/blog/windows-task-scheduler-19044-advisory

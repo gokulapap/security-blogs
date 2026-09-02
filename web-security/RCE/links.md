@@ -364,3 +364,4 @@
 - https://blog.polybdenum.com/2021/05/05/how-i-hacked-google-app-engine-anatomy-of-a-java-bytecode-exploit.html
 - https://blog.cybercastle.io/weblogic-remote-code-execution-exploiting-cve-2019-2725/
 - https://www.sonarsource.com/blog/it-s-a-snmp-trap-gaining-code-execution-on-librenms/
+- https://www.synacktiv.com/sites/default/files/2023-01/advisory_manageengine_adss_2023.pdf

@@ -152,3 +152,4 @@
 - https://medium.com/@ChandSingh/protonmail-xss-stored-b733031ac3b5
 - https://s1gnalcha0s.github.io/dspl/2018/03/07/Stored-XSS-and-SSRF-Google.html
 - https://learn.hackersid.com/2019/08/stored-xss-on-laporbugid.html
+- https://anotherhackerblog.com/exploiting-file-uploads-pt1/

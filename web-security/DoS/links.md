@@ -76,3 +76,4 @@
 - https://medium.com/@maxpasqua/breaking-appointments-and-job-interview-schedules-with-malformed-times-edef103e46ba
 - https://doyensec.com/resources/Doyensec_Advisory_SmokescreenGoProxy_Q12022.pdf
 - https://sector7.computest.nl/post/2022-09-unified-automation-opcua-cpp/
+- https://curl.se/docs/CVE-2022-32205.html
