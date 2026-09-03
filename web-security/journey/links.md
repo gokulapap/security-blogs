@@ -27,3 +27,4 @@
 - https://medium.com/@s3c/how-i-hacked-world-wide-tiktok-users-24e794d310d2
 - https://medium.com/@caesarevan23/the-journey-to-get-sql-injection-at-bluepay-blue-indonesia-bluepay-2019-7a23bbce4cb8
 - https://medium.com/@thelinuxboy/bugging-out-my-experience-of-earning-300-for-reporting-an-unexpected-bug-ec9f9b0054bc
+- https://medium.com/@joshuaarulsamy/mindset-that-made-me-one-among-top-15-security-researchers-in-india-for-3-consecutive-times-febb06e8af61

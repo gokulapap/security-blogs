@@ -1,7 +1,6 @@
 - https://medium.com/@toxglot/hacking-a-company-from-a-phone-478bbfed04c8, journey
 - https://medium.com/@tommasobona04/building-an-xss-scanner-with-python-detecting-cross-site-scripting-vulnerabilities-by-tommaso-69d4c9e04d72, automation
 - https://medium.com/@ramAnon/bug-bounty-hunting-methodology-toolkit-tips-tricks-blogs-eb142034d5a5, tricks
-- https://medium.com/@joshuaarulsamy/mindset-that-made-me-one-among-top-15-security-researchers-in-india-for-3-consecutive-times-febb06e8af61, journey
 - https://medium.com/@grahamzemel/python-tips-and-tricks-for-cybersecurity-enthusiasts-9504d9541b8b, tricks
 - https://medium.com/@theredteamer/tesla-paid-me-10-000-because-of-directory-indexing-c1be06c77a3e, journey
 - https://samcurry.net/points-com/, Path-traversal
@@ -13,7 +12,6 @@
 - https://rayhan0x01.github.io/ctf/2023/04/01/finding-rce-in-eta-cve-2022-25967.html, RCE
 - https://ltsirkov.medium.com/netflix-smart-tv-chaining-self-xss-with-session-poisoning-3eb7c78c7914, Self-XSS
 - https://eaton-works.com/2023/03/06/toyota-c360-hack/, Authentication-bypass
-- https://www.synacktiv.com/sites/default/files/2023-02/Synacktiv-IBM-TWS-CVE-2022-38389.pdf, XXE
 - https://infosecwriteups.com/disabling-js-for-the-win-9d13c606f910, Unrestricted-file-upload
 - https://onekey.com/blog/security-advisory-remote-command-execution-in-binwalk/, RCE
 - https://melotover.medium.com/bypassing-e2e-encryption-leads-to-multiple-high-vulnerabilities-65b708e5ad84, IDOR
@@ -41,7 +39,6 @@
 - https://www.cyberark.com/resources/threat-research-blog/that-pipe-is-still-leaking-revisiting-the-rdp-named-pipe-vulnerability, RCE
 - https://www.zerodayinitiative.com/blog/2022/6/1/is-exploiting-a-null-pointer-deref-for-lpe-just-a-pipe-dream, Memory-corruption
 - https://medium.com/@vaibhavatkale/weird-email-verification-bypass-96c793c36d7e, Email-verification-bypass
-- https://infosecwriteups.com/how-i-found-a-companys-internal-s3-bucket-with-41k-files-94b453e588b5, AWS-misconfiguration
 - https://web.archive.org/web/20220516024454/https://medium.com/@tobydavenn/how-i-paid-for-my-holiday-with-bug-bounty-668f1f59e6e5, XSS
 - https://systemweakness.com/unlock-any-blur-text-picture-without-membership-subscription-on-scribd-com-by-neuchi-69237776e24, Payment-bypass
 - https://blog.relyze.com/2022/03/cve-2022-27643-netgear-r6700v3-upnpd.html, Memory-corruption
@@ -58,10 +55,8 @@
 - https://blog.agilehunt.com/blogs/security/privilege-escalation-in-microsoft-teams-2021, Privilege-escalation
 - https://r0.haxors.org/posts?id=26, SQL-injection
 - https://infosecwriteups.com/sony-hunting-i-discovering-hidden-parameters-5x-swag-c3396c0064bc, Open-redirect
-- https://blog.assetnote.io/2021/11/02/sitecore-rce/, RCE
 - https://darrenmartyn.ie/2021/10/27/zimbra-zmslapd-local-root-exploit/, Local-Privilege-Escalation
 - https://pyn3rd.github.io/2021/10/22/mysql-jdbc-xxe/, XXE
-- https://web.archive.org/web/20221128060608/https://wya.pl/2021/10/18/shells-and-soap-websphere-deserialization-to-rce/, RCE
 - https://rishuranjanofficial.medium.com/html-injection-in-itunesconnect-apple-com-3f8a898f21ee, HTML-injection
 - https://dewcode.medium.com/force-browsing-bug-at-facebook-business-plan-500-bounty-73d1bb4883af, Authorization-flaw
 - https://pwnsauc3.medium.com/weaponizing-reflected-xss-to-account-takeover-ae8aeea7aca3, XSS

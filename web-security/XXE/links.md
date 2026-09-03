@@ -40,3 +40,4 @@
 - https://coffeejunkie.me/Blind-XXE-Port-Scanning/
 - https://mohemiv.com/all/exploiting-xxe-with-local-dtd-files/
 - https://www.horizon3.ai/red-team-blog-cve-2022-28219/
+- https://www.synacktiv.com/sites/default/files/2023-02/Synacktiv-IBM-TWS-CVE-2022-38389.pdf

@@ -29,3 +29,4 @@
 - http://www.digitalmunition.com/WhyIWalkedFrom3k.pdf
 - https://hunter-55.medium.com/500-bounty-in-just-5-minutes-through-recon-5eeb6c299c3c
 - https://3bodymo.medium.com/how-i-earned-by-amazon-s3-bucket-misconfigurations-29d51ee510de
+- https://infosecwriteups.com/how-i-found-a-companys-internal-s3-bucket-with-41k-files-94b453e588b5
