@@ -334,3 +334,5 @@
 - https://medium.com/bugbountywriteup/duplicate-but-still-cool-236835685075
 - https://medium.com/h4x00r/my-very-first-bug-a-dreaded-dupe-and-then-an-idor-jackpot-d01b69f6fbae
 - https://www.p1boom.com/2021/12/accidental-idor-in-elearnsecurity-to.html
+- https://blog.securitybreached.org/2018/02/04/hunting-insecure-direct-object-reference-vulnerabilities-for-fun-and-profit-part-1/
+- https://ysamm.com/?p=171

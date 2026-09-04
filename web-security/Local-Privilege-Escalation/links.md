@@ -101,3 +101,4 @@
 - https://ajpc500.github.io/macos/Targeting-Visual-Studio-Code-For-macOS/
 - https://sensepost.com/blog/2022/abusing-windows-tokens-to-compromise-active-directory-without-touching-lsass/
 - https://objective-see.com/blog/blog_0x4D.html
+- https://www.cyberark.com/resources/threat-research-blog/breaking-docker-named-pipes-systematically-docker-desktop-privilege-escalation-part-2
