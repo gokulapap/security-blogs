@@ -17,3 +17,4 @@
 - https://crypt0g30rgy.github.io/post/PaymentBypassOne
 - https://evowizz.dev/blog/huawei-appgallery-vulnerability
 - https://daturamater.medium.com/a-breach-on-patreon-and-their-elusive-bounty-program-5e7ea62dc738
+- https://systemweakness.com/unlock-any-blur-text-picture-without-membership-subscription-on-scribd-com-by-neuchi-69237776e24

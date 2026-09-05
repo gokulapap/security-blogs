@@ -75,3 +75,4 @@
 - https://medium.com/bugbountywriteup/how-i-bought-my-way-to-subdomain-takeover-on-tokopedia-8c6697c85b4d
 - https://smaranchand.com.np/2019/12/subdomain-takeover-via-pantheon/
 - https://godiego.co/posts/STO-AWS/
+- https://medium.com/bugbountywriteup/4500-bounty-how-i-got-lucky-99d8bc933f75

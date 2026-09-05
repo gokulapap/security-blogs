@@ -91,3 +91,4 @@
 - https://medium.com/@amineaboud/story-of-a-weird-vulnerability-i-found-on-facebook-fc0875eb5125
 - https://eaton-works.com/2023/02/06/toyota-gspims-hack/
 - https://techblog.mediaservice.net/2020/01/ok-google-bypass-the-authentication/
+- http://c0rni3sm.blogspot.com/2017/08/accidentally-typo-to-bypass.html
