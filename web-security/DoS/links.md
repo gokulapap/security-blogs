@@ -77,3 +77,4 @@
 - https://doyensec.com/resources/Doyensec_Advisory_SmokescreenGoProxy_Q12022.pdf
 - https://sector7.computest.nl/post/2022-09-unified-automation-opcua-cpp/
 - https://curl.se/docs/CVE-2022-32205.html
+- https://blog.usejournal.com/an-unusal-bug-on-braintree-paypal-b8d3ec662414
