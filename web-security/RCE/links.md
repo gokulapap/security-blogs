@@ -367,3 +367,4 @@
 - https://www.synacktiv.com/sites/default/files/2023-01/advisory_manageengine_adss_2023.pdf
 - https://web.archive.org/web/20221128060608/https://wya.pl/2021/10/18/shells-and-soap-websphere-deserialization-to-rce/
 - https://blog.assetnote.io/2021/11/02/sitecore-rce/
+- https://www.cyberark.com/resources/threat-research-blog/that-pipe-is-still-leaking-revisiting-the-rdp-named-pipe-vulnerability

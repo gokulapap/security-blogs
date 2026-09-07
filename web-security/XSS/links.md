@@ -376,3 +376,4 @@
 - https://medium.com/monetary/how-did-i-earn-3133-70-from-google-translator-9becf942dbdc
 - https://blog.zsec.uk/gif-time-pornhub/
 - https://medium.com/@niraj1mahajan/hacking-the-search-bar-the-story-of-discovering-and-reporting-an-xss-vulnerability-on-bing-com-cac2f241835
+- https://sharmajijvs.medium.com/xss-via-file-upload-a2bcc1e5d7f7

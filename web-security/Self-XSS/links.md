@@ -19,3 +19,4 @@
 - https://medium.com/@adonkidz7/my-first-bounty-from-google-d9f1f3f5787a
 - https://medium.com/@vedanttekale20/story-of-the-best-vulnerability-ive-found-so-far-5e3b0e02b47e
 - https://medium.com/@adonkidz7/google-ads-self-xss-html-injection-5000-52280da76c80
+- https://medium.com/@ladecruze/my-first-bounty-idor-self-xss-3000-cde89cbbc1b1

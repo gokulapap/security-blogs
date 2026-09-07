@@ -181,3 +181,4 @@
 - https://philippeharewood.com/cve-2018-16794-on-fs-thefacebook-com/
 - https://blog.assetnote.io/2022/04/27/vmware-workspace-one-uem-ssrf/
 - https://medium.com/@dPhoeniixx/vimeo-upload-function-ssrf-7466d8630437
+- https://medium.com/@rafaelrodripaz/ssrf-in-import-file-function-d0f1c6397262
