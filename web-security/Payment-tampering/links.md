@@ -16,3 +16,4 @@
 - https://gccybermonks.com/posts/msstorebypass/
 - https://medium.com/@talatmehmood1995/bug-bounty-advanced-manual-penetration-testing-leading-to-price-manipulation-vulnerability-d935a3a5ddf6
 - https://medium.com/@vasuyadav0786/exploiting-payment-gateways-97ce7af5a9cf
+- https://medium.com/@sandeepkumarsingh1902/bugbounty-adding-money-using-response-modification-334448d34251
