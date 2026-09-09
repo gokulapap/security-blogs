@@ -37,3 +37,4 @@
 - https://youst.in/posts/bypassing-2fa-using-openid-misconfiguration/
 - https://medium.com/@sharp488/2fa-bypass-on-private-bug-bounty-program-due-to-improper-caching-mechanism-212c5912bd00
 - https://medium.com/@vishnu0002/instagram-multi-factor-authentication-bypass-924d963325a1
+- https://theshubh77.medium.com/bypassing-2-factor-authentication-for-facebook-business-manager-bounty-1000-usd-c78c858459d6

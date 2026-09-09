@@ -141,3 +141,4 @@
 - https://medium.com/bugbountywriteup/accessing-the-website-directly-through-its-ip-address-a-case-of-a-poorly-hidden-sql-injection-82833defbbc3
 - https://blog.securitybreached.org/2018/09/08/sqli-bootcampnutanix-com-bug-bounty-poc/
 - https://muffsec.com/blog/moodle-2nd-order-sqli/
+- https://r0.haxors.org/posts?id=26
