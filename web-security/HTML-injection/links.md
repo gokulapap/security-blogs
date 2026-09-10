@@ -25,3 +25,4 @@
 - https://shahjerry33.medium.com/stored-iframe-injection-permanent-open-redirection-zero-day-ce7cd15903ac
 - https://medium.com/@navne3t/a-base64-encoded-parameter-c6fb6b177d68
 - https://www.vaadata.com/blog/exploiting-an-html-injection-with-dangling-markup/
+- https://medium.com/@mrnikhilsri/unauthenticated-account-takeover-through-http-leak-33386bb0ba0b

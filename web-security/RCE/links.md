@@ -369,3 +369,4 @@
 - https://blog.assetnote.io/2021/11/02/sitecore-rce/
 - https://www.cyberark.com/resources/threat-research-blog/that-pipe-is-still-leaking-revisiting-the-rdp-named-pipe-vulnerability
 - https://www.zerodayinitiative.com/blog/2023/1/18/cve-2022-35690-unauthenticated-rce-in-adobe-coldfusion
+- https://www.zerodayinitiative.com/blog/2022/7/19/riding-the-inforail-to-exploit-ivanti-avalanche

@@ -2,7 +2,6 @@
 - https://medium.com/@ramAnon/bug-bounty-hunting-methodology-toolkit-tips-tricks-blogs-eb142034d5a5, tricks
 - https://medium.com/@grahamzemel/python-tips-and-tricks-for-cybersecurity-enthusiasts-9504d9541b8b, tricks
 - https://medium.com/@theredteamer/tesla-paid-me-10-000-because-of-directory-indexing-c1be06c77a3e, journey
-- https://samcurry.net/points-com/, Path-traversal
 - https://medium.com/@0xnaeem/how-i-found-a-sql-injection-bug-in-using-my-cellphone-5b5193fdc314, SQL-injection
 - https://medium.com/@ferferof/pii-data-leakage-and-us-1500-bounty-af676350fb76, Information-disclosure
 - https://research.nccgroup.com/2023/05/31/reverse-engineering-coin-hunt-worlds-binary-protocol/, Reverse-engineering
@@ -29,11 +28,9 @@
 - https://medium.com/@tobydavenn/dom-xss-on-a-gov-domain-bypassing-waf-93daec67fda9, DOM-XSS
 - https://infosecwriteups.com/salesforce-bug-hunting-to-critical-bug-b5da44789d3, Information-disclosure
 - https://medium.com/@avinash_/email-confirmation-bypass-at-instagram-cc968f9a126, Email-verification-bypass
-- https://www.zerodayinitiative.com/blog/2022/7/19/riding-the-inforail-to-exploit-ivanti-avalanche, RCE
 - https://www.zerodayinitiative.com/blog/2022/6/1/is-exploiting-a-null-pointer-deref-for-lpe-just-a-pipe-dream, Memory-corruption
 - https://medium.com/@vaibhavatkale/weird-email-verification-bypass-96c793c36d7e, Email-verification-bypass
 - https://web.archive.org/web/20220516024454/https://medium.com/@tobydavenn/how-i-paid-for-my-holiday-with-bug-bounty-668f1f59e6e5, XSS
-- https://blog.relyze.com/2022/03/cve-2022-27643-netgear-r6700v3-upnpd.html, Memory-corruption
 - https://canmustdie.medium.com/how-did-i-leak-5-2k-customer-data-from-a-large-company-via-broken-access-control-709eb4027409, Broken-Access-Control
 - https://medium.com/@yaala/facebook-oauth-bypass-446a073e687d, OAuth
 - https://kuldeep.io/posts/path-traversal-paradise/, Path-traversal
@@ -93,7 +90,6 @@
 - https://medium.com/@__rishabh__/open-redirect-to-account-takeover-e939006a9f24, Open-redirect
 - https://medium.com/@baibhavanandjha/bypassing-instagrams-stories-restriction-5936f8a4f079, Logic-flaw
 - https://medium.com/@kunal94/web-cache-deception-to-api-endpoint-attack-using-cached-token-header-b01a604a5ccd, Web-cache-deception
-- https://medium.com/@mrnikhilsri/unauthenticated-account-takeover-through-http-leak-33386bb0ba0b, HTML-injection
 - https://www.rcesecurity.com/2019/04/dell-kace-k1000-remote-code-execution-the-story-of-bug-k1-18652/, RCE
 - https://medium.com/cesppa/escalating-ssrf-to-rce-f28c482eb8b9, SSRF
 - https://medium.com/@sharan.panegav/account-takeover-using-cross-site-websocket-hijacking-cswh-99cf9cea6c50, Cross-Site-WebSocket-Hijacking
@@ -105,7 +101,6 @@
 - http://www.shawarkhan.com/2018/06/getting-php-code-execution-and-leverage.html, Code-injection
 - https://medium.com/@vis_hacker/how-i-got-stored-xss-using-file-upload-5c33e19df51e, Stored-XSS
 - https://medium.freecodecamp.org/responsible-disclosure-how-i-could-have-hacked-all-facebook-accounts-f47c0252ae4d, Bruteforce
-- https://corben.io/blog/17-12-17-hackertarget, SSRF
 - https://kciredor.com/taking-over-every-ad-on-olx-automated-an-idor-story.html, IDOR
 - https://blog.securitybreached.org/2017/10/10/subdomain-takeover-lamborghini-hacked/, Subdomain-takeover
 - https://wesecureapp.com/blog/xss-by-tossing-cookies/, XSS
