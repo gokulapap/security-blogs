@@ -142,3 +142,4 @@
 - https://blog.securitybreached.org/2018/09/08/sqli-bootcampnutanix-com-bug-bounty-poc/
 - https://muffsec.com/blog/moodle-2nd-order-sqli/
 - https://r0.haxors.org/posts?id=26
+- https://medium.com/@0xnaeem/how-i-found-a-sql-injection-bug-in-using-my-cellphone-5b5193fdc314

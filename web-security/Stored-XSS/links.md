@@ -154,3 +154,4 @@
 - https://learn.hackersid.com/2019/08/stored-xss-on-laporbugid.html
 - https://anotherhackerblog.com/exploiting-file-uploads-pt1/
 - https://web.archive.org/web/20200811013311/https://medium.com/@protector47/persistent-cross-site-scripting-on-redacted-worth-2-000-1e760617ccab
+- https://medium.com/@lopseg/bug-bounty-writeup-stored-xss-vulnerability-waf-bypass-f38aae7ff9eb
