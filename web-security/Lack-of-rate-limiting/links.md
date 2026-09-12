@@ -16,3 +16,4 @@
 - https://ysamm.com/?p=396
 - https://bugbountyhunter.medium.com/500-for-no-rate-limit-on-forgot-password-page-d534d1d750db
 - https://medium.com/bugbountywriteup/bypass-2fa-like-a-boss-378787707ba
+- https://medium.com/@abireena2002/how-i-managed-to-escalate-privilege-as-admin-94b8dc910d14

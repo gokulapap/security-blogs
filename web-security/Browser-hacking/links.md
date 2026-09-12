@@ -22,3 +22,4 @@
 - https://0x0021h.medium.com/bypass-chrome-ad-heavy-detection-mechanism-25c9e2e4a0c4
 - https://tiszka.com/blog/CVE_2021_21225.html
 - https://payatu.com/microsoft-edge-extensions-host-permission-bypass-cve-2019-0678/
+- https://portswigger.net/research/safari-is-hot-linking-images-to-semi-random-websites

@@ -46,3 +46,4 @@
 - https://web-in-security.blogspot.com/2021/02/security-and-privacy-of-social-logins-part2.html
 - https://m3ez.medium.com/how-i-found-dom-based-xss-on-microsoft-msrc-and-how-they-fixed-it-8b71a6020c82
 - https://spaceraccoon.dev/solving-dom-xss-puzzles
+- https://medium.com/@tobydavenn/dom-xss-on-a-gov-domain-bypassing-waf-93daec67fda9

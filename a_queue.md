@@ -18,12 +18,10 @@
 - https://www.zerodayinitiative.com/blog/2022/11/22/cve-2022-40300-sql-injection-in-manageengine-privileged-access-management, SQL-injection
 - https://labs.guard.io/xss-vulnerability-found-in-connectwise-remote-access-platform-with-great-potential-for-misuse-by-scammers-a0773da2aacf, Stored-XSS
 - https://medium.com/@umeryousuf26/sleep-sql-injection-on-name-parameter-while-updating-profile-2bbac9f47336, SQL-injection
-- https://portswigger.net/research/safari-is-hot-linking-images-to-semi-random-websites, Browser-hacking
 - https://cturt.github.io/mast1c0re.html, Memory-corruption
 - https://www.rapid7.com/blog/post/2022/09/08/baxter-sigma-spectrum-infusion-pumps-multiple-vulnerabilities-fixed/, Hardcoded-credentials
 - https://www.ambionics.io/blog/hacking-watchguard-firewalls, XPath-injection
 - https://hackingguy.medium.com/failed-coding-assessment-to-remote-code-execution-a-case-study-part-1-1778934b3b34, RCE
-- https://medium.com/@tobydavenn/dom-xss-on-a-gov-domain-bypassing-waf-93daec67fda9, DOM-XSS
 - https://infosecwriteups.com/salesforce-bug-hunting-to-critical-bug-b5da44789d3, Information-disclosure
 - https://medium.com/@avinash_/email-confirmation-bypass-at-instagram-cc968f9a126, Email-verification-bypass
 - https://www.zerodayinitiative.com/blog/2022/6/1/is-exploiting-a-null-pointer-deref-for-lpe-just-a-pipe-dream, Memory-corruption
@@ -58,7 +56,6 @@
 - https://medium.com/bugbountywriteup/bragging-rights-part-1-short-story-of-a-bug-wave-dbb88f48b604, IDOR
 - https://r4id3n.medium.com/ssrf-exploitation-in-spreedsheet-to-pdf-converter-2c7eacdac781, SSRF
 - https://blog.deesee.xyz/regex/security/2020/12/27/regular-expression-injection.html, ReDoS
-- https://www.rcesecurity.com/2020/11/Smuggling-an-un-exploitable-xss/, HTTP-Request-Smuggling
 - https://www.mysk.blog/2020/10/25/link-previews/, Information-disclosure
 - https://blog.dixitaditya.com/leveraging-xss-to-read-internal-files/, XSS
 - https://medium.com/@parasarora06/cve-2018-5230-jira-cross-site-scripting-59ec96b3d75f, Reflected-XSS
@@ -69,7 +66,6 @@
 - https://medium.com/@mohamedayad_72488/bypass-user-restriction-registration-cbfc4eb855, Logic-flaw
 - https://medium.com/@sudipshah_66336/the-story-of-my-first-4-digit-bounty-from-facebook-3a29830e03cd, Logic-flaw
 - https://philippeharewood.com/see-whether-a-hackercup-facebook-participant-allows-recruitment-contact/, Information-disclosure
-- https://medium.com/@abireena2002/how-i-managed-to-escalate-privilege-as-admin-94b8dc910d14, Lack-of-rate-limiting
 - https://blog.raphael.karger.is/articles/2020-05/CVE-2020-13693, Privilege-escalation
 - https://medium.com/@hbothra22/recon-to-sensitive-information-disclosure-in-minutes-503fc7ccdf0b, Information-disclosure
 - https://medium.com/@afolicdaralee/hacking-a-telecommunication-company-mtn-c46696451fed, OTP-bypass
@@ -80,7 +76,6 @@
 - https://web.archive.org/web/20200820030055/https://pwnsec.ninja/2019/09/14/how-i-found-a-simple-and-weird-account-takeover-bug/, Account-takeover
 - https://medium.com/@bathinivijaysimhareddy/shodan-is-your-friend-if-you-lose-him-you-will-lose-many-657d07472f75, SQL-injection
 - https://medium.com/@shub66452/account-takeover-using-csrf-json-based-a0e6efd1bffc, CSRF
-- https://philippeharewood.com/view-facebook-payouts-for-any-facebook-trivia-game/, Information-disclosure
 - https://smaranchand.com.np/2019/05/an-unexploited-cors-misconfiguration-reflecting-further-issues/, CORS-misconfiguration
 - https://medium.com/@__rishabh__/open-redirect-to-account-takeover-e939006a9f24, Open-redirect
 - https://medium.com/@baibhavanandjha/bypassing-instagrams-stories-restriction-5936f8a4f079, Logic-flaw

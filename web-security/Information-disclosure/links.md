@@ -362,3 +362,4 @@
 - https://emtunc.org/blog/01/2018/research-misconfigured-jenkins-servers/
 - https://mikekitckchan.medium.com/power-of-your-own-wordlist-fuzz-for-log-file-leads-to-information-leakage-ad46958b4729
 - https://ysamm.com/?p=479
+- https://philippeharewood.com/view-facebook-payouts-for-any-facebook-trivia-game/
