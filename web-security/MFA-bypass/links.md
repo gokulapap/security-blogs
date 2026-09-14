@@ -38,3 +38,4 @@
 - https://medium.com/@sharp488/2fa-bypass-on-private-bug-bounty-program-due-to-improper-caching-mechanism-212c5912bd00
 - https://medium.com/@vishnu0002/instagram-multi-factor-authentication-bypass-924d963325a1
 - https://theshubh77.medium.com/bypassing-2-factor-authentication-for-facebook-business-manager-bounty-1000-usd-c78c858459d6
+- https://noob3xploiter.medium.com/2fa-bypass-by-reading-the-documentation-3260a372d8a8

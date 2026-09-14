@@ -1,1 +1,2 @@
 - https://eta.st/2023/01/31/rail-tickets.html
+- https://research.nccgroup.com/2023/05/31/reverse-engineering-coin-hunt-worlds-binary-protocol/

@@ -363,3 +363,4 @@
 - https://mikekitckchan.medium.com/power-of-your-own-wordlist-fuzz-for-log-file-leads-to-information-leakage-ad46958b4729
 - https://ysamm.com/?p=479
 - https://philippeharewood.com/view-facebook-payouts-for-any-facebook-trivia-game/
+- https://infosecwriteups.com/salesforce-bug-hunting-to-critical-bug-b5da44789d3
