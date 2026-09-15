@@ -377,3 +377,4 @@
 - https://blog.zsec.uk/gif-time-pornhub/
 - https://medium.com/@niraj1mahajan/hacking-the-search-bar-the-story-of-discovering-and-reporting-an-xss-vulnerability-on-bing-com-cac2f241835
 - https://sharmajijvs.medium.com/xss-via-file-upload-a2bcc1e5d7f7
+- https://blog.dixitaditya.com/leveraging-xss-to-read-internal-files/

@@ -93,3 +93,4 @@
 - https://techblog.mediaservice.net/2020/01/ok-google-bypass-the-authentication/
 - http://c0rni3sm.blogspot.com/2017/08/accidentally-typo-to-bypass.html
 - https://medium.com/@merry6607/how-i-by-pass-the-login-page-and-2fa-authentication-3f33b06838c
+- https://eaton-works.com/2023/03/06/toyota-c360-hack/

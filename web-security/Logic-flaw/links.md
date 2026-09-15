@@ -221,3 +221,4 @@
 - https://infosecwriteups.com/third-party-apps-were-still-getting-your-private-facebook-data-even-after-their-access-expiry-6e4be4880e6e
 - https://sndpgiriz.medium.com/simple-logical-bug-turned-into-a-bounty-a3d7ac214606
 - https://ysamm.com/?p=68
+- https://medium.com/@sudipshah_66336/the-story-of-my-first-4-digit-bounty-from-facebook-3a29830e03cd

@@ -364,3 +364,4 @@
 - https://ysamm.com/?p=479
 - https://philippeharewood.com/view-facebook-payouts-for-any-facebook-trivia-game/
 - https://infosecwriteups.com/salesforce-bug-hunting-to-critical-bug-b5da44789d3
+- https://medium.com/@ferferof/pii-data-leakage-and-us-1500-bounty-af676350fb76

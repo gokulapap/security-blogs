@@ -137,3 +137,4 @@
 - https://bhavukjain.com/blog/2017/12/20/facebook-google-login-misconfig/
 - https://www.sonarsource.com/blog/a-twist-in-the-code-openmeetings-vulnerabilities-through-unexpected-application-state/
 - https://ph-hitachi.medium.com/how-i-hacked-scopely-using-sign-in-with-google-298a9c166ad
+- https://web.archive.org/web/20200820030055/https://pwnsec.ninja/2019/09/14/how-i-found-a-simple-and-weird-account-takeover-bug/
