@@ -8,3 +8,4 @@
 - https://khaledyassen.medium.com/how-i-bypassed-the-registration-validation-and-logged-in-with-the-company-email-14eb12c45fb5
 - https://vijetareigns.medium.com/email-verification-bypass-worth-cbb65a68a34f
 - https://web.archive.org/web/20200819161533/https://whitehatnepal.tumblr.com/post/149937173467/pornhub-email-confirmation-bypass
+- https://medium.com/@avinash_/email-confirmation-bypass-at-instagram-cc968f9a126

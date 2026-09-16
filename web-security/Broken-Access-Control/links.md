@@ -45,3 +45,4 @@
 - https://bloggerrando.blogspot.com/2022/03/13-1.html
 - https://sysdream.com/news/lab/2018-04-30-multiple-security-vulnerabilities-in-domains-belonging-to-google/
 - https://hacktus.tech/taking-over-an-entire-organization
+- https://canmustdie.medium.com/how-did-i-leak-5-2k-customer-data-from-a-large-company-via-broken-access-control-709eb4027409

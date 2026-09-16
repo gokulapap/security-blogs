@@ -184,3 +184,4 @@
 - https://medium.com/@rafaelrodripaz/ssrf-in-import-file-function-d0f1c6397262
 - https://corben.io/blog/17-12-17-hackertarget
 - https://vedanttekale20.medium.com/story-of-my-first-cash-bounty-on-hackerone-acad282ae962
+- https://medium.com/a-bugz-life/exploiting-an-ssrf-trials-and-tribulations-14c5d8dbd69a
