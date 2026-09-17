@@ -372,3 +372,4 @@
 - https://www.zerodayinitiative.com/blog/2022/7/19/riding-the-inforail-to-exploit-ivanti-avalanche
 - https://www.rcesecurity.com/2019/04/dell-kace-k1000-remote-code-execution-the-story-of-bug-k1-18652/
 - https://onekey.com/blog/security-advisory-remote-command-execution-in-binwalk/
+- https://hackingguy.medium.com/failed-coding-assessment-to-remote-code-execution-a-case-study-part-1-1778934b3b34

@@ -12,9 +12,7 @@
 - https://labs.guard.io/xss-vulnerability-found-in-connectwise-remote-access-platform-with-great-potential-for-misuse-by-scammers-a0773da2aacf, Stored-XSS
 - https://medium.com/@umeryousuf26/sleep-sql-injection-on-name-parameter-while-updating-profile-2bbac9f47336, SQL-injection
 - https://cturt.github.io/mast1c0re.html, Memory-corruption
-- https://www.rapid7.com/blog/post/2022/09/08/baxter-sigma-spectrum-infusion-pumps-multiple-vulnerabilities-fixed/, Hardcoded-credentials
 - https://www.ambionics.io/blog/hacking-watchguard-firewalls, XPath-injection
-- https://hackingguy.medium.com/failed-coding-assessment-to-remote-code-execution-a-case-study-part-1-1778934b3b34, RCE
 - https://www.zerodayinitiative.com/blog/2022/6/1/is-exploiting-a-null-pointer-deref-for-lpe-just-a-pipe-dream, Memory-corruption
 - https://medium.com/@vaibhavatkale/weird-email-verification-bypass-96c793c36d7e, Email-verification-bypass
 - https://web.archive.org/web/20220516024454/https://medium.com/@tobydavenn/how-i-paid-for-my-holiday-with-bug-bounty-668f1f59e6e5, XSS
@@ -30,8 +28,6 @@
 - https://rishuranjanofficial.medium.com/html-injection-in-itunesconnect-apple-com-3f8a898f21ee, HTML-injection
 - https://pwnsauc3.medium.com/weaponizing-reflected-xss-to-account-takeover-ae8aeea7aca3, XSS
 - https://medium.com/pentesternepal/hacking-dutch-government-for-a-lousy-t-shirt-8e1fd1b56deb, IDOR
-- https://ertugrull.medium.com/unprivileged-user-with-read-write-permission-to-user-access-can-escalate-their-role-to-admin-a217d2d280a8, Privilege-escalation
-- https://cirius.medium.com/how-i-hacked-a-target-again-and-again-6db2e462221f, OAuth
 - https://infosecwriteups.com/writeups-facebook-whitehat-program-2021-instagram-live-setting-bug-500-usd-d2d076b3f8bb, Logic-flaw
 - https://feed.bugs.xdavidhu.me/bugs/0006, Path-traversal
 - https://www.fortbridge.co.uk/research/drupal-insecure-default-leads-to-password-reset-poisoning/, Password-reset
@@ -70,7 +66,6 @@
 - https://medium.com/@notsoshant/a-possibility-of-account-takeover-in-medium-8d950e547639, Account-takeover
 - https://medium.com/@sivakrishnasamireddi/just-another-tale-of-severe-bugs-on-a-private-program-405870b03532, Open-redirect
 - https://thehackerblog.com/reading-your-emails-with-a-readwrite-chrome-extension-same-origin-policy-bypass-8-million-users-affected/index.html, SOP-bypass
-- http://www.shawarkhan.com/2018/06/getting-php-code-execution-and-leverage.html, Code-injection
 - https://medium.com/@vis_hacker/how-i-got-stored-xss-using-file-upload-5c33e19df51e, Stored-XSS
 - https://medium.freecodecamp.org/responsible-disclosure-how-i-could-have-hacked-all-facebook-accounts-f47c0252ae4d, Bruteforce
 - https://kciredor.com/taking-over-every-ad-on-olx-automated-an-idor-story.html, IDOR

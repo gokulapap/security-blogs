@@ -1,3 +1,4 @@
 - https://amakki.me/how-i-made-15k-from-remote-code-execution-vulnerability-2e1b14b3902a
 - https://medium.com/@mares.viktor/code-injection-via-python-sandbox-escape-how-i-got-a-shell-inside-a-network-c977c35a82de
 - https://www.synacktiv.com/publications/cool-vulns-dont-live-long-netgear-and-pwn2own.html
+- http://www.shawarkhan.com/2018/06/getting-php-code-execution-and-leverage.html

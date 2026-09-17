@@ -37,3 +37,4 @@
 - https://www.computest.nl/en/knowledge-platform/blog/vulnerability-new-touchid-feature-iCloud-accounts-at-risk-breached/
 - https://web.archive.org/web/20200627125016/https://medium.com/@s3c/hacked-worldwide-zoom-users-fceb31868c2d
 - https://blog.intothesymmetry.com/2018/02/bug-bounty-left-over-and-rant-part-iii.html
+- https://cirius.medium.com/how-i-hacked-a-target-again-and-again-6db2e462221f
