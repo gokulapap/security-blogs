@@ -9,3 +9,4 @@
 - https://vijetareigns.medium.com/email-verification-bypass-worth-cbb65a68a34f
 - https://web.archive.org/web/20200819161533/https://whitehatnepal.tumblr.com/post/149937173467/pornhub-email-confirmation-bypass
 - https://medium.com/@avinash_/email-confirmation-bypass-at-instagram-cc968f9a126
+- https://medium.com/@vaibhavatkale/weird-email-verification-bypass-96c793c36d7e

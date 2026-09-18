@@ -1,2 +1,3 @@
 - https://medium.com/@ddigvijay29/how-to-secure-aws-serverless-lambda-from-redos-regular-expression-denial-of-service-resultant-12f0401118cd
 - https://checkmarx.com/blog/some-vulnerabilities-dont-have-a-name/
+- https://blog.deesee.xyz/regex/security/2020/12/27/regular-expression-injection.html
