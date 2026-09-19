@@ -143,3 +143,4 @@
 - https://muffsec.com/blog/moodle-2nd-order-sqli/
 - https://r0.haxors.org/posts?id=26
 - https://medium.com/@0xnaeem/how-i-found-a-sql-injection-bug-in-using-my-cellphone-5b5193fdc314
+- https://medium.com/@umeryousuf26/sleep-sql-injection-on-name-parameter-while-updating-profile-2bbac9f47336

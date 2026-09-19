@@ -366,3 +366,4 @@
 - https://infosecwriteups.com/salesforce-bug-hunting-to-critical-bug-b5da44789d3
 - https://medium.com/@ferferof/pii-data-leakage-and-us-1500-bounty-af676350fb76
 - https://www.mysk.blog/2020/10/25/link-previews/
+- https://medium.com/@hbothra22/recon-to-sensitive-information-disclosure-in-minutes-503fc7ccdf0b

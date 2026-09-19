@@ -136,3 +136,4 @@
 - https://medium.com/@Mthirup/hacking-your-own-antivirus-for-fun-and-profit-safe-browsing-gone-wrong-365db9d1d3f7
 - https://medium.com/@saamux/reflected-xss-on-www-yahoo-com-9b1857cecb8c
 - https://markus-krell.de/craft-cms-why-case-matters/
+- https://medium.com/@parasarora06/cve-2018-5230-jira-cross-site-scripting-59ec96b3d75f
