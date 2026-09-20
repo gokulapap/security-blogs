@@ -23,3 +23,4 @@
 - https://shrirangdiwakar.medium.com/how-i-turned-0000-into-600-phone-verification-bypass-b1c0f6eb568e
 - https://medium.com/bugbountywriteup/how-i-was-able-to-bypass-otp-token-requirement-in-razer-the-story-of-a-critical-bug-fc63a94ad572
 - https://medium.com/bugbountywriteup/bypassing-otp-via-reset-password-f004a29020c
+- https://medium.com/@afolicdaralee/hacking-a-telecommunication-company-mtn-c46696451fed
