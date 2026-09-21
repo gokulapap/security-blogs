@@ -102,3 +102,4 @@
 - https://sensepost.com/blog/2022/abusing-windows-tokens-to-compromise-active-directory-without-touching-lsass/
 - https://objective-see.com/blog/blog_0x4D.html
 - https://www.cyberark.com/resources/threat-research-blog/breaking-docker-named-pipes-systematically-docker-desktop-privilege-escalation-part-2
+- https://dreamlab.net/en/blog/post/dropbox-escalation-of-privileges-to-system-on-windows-1/

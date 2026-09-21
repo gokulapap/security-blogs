@@ -7,3 +7,4 @@
 - https://infosecwriteups.com/mass-assignment-leads-to-the-victims-account-being-inaccessible-forever-52e48c6a8a4d
 - https://medium.com/@cyberali/mass-assignment-leading-to-pre-account-takeover-13041280a0d9
 - https://medium.com/@bag0zathev2/easy-via-api-params-manipulation-leading-to-bypassing-the-email-verification-block-a45dad2db60c
+- https://galnagli.com/Mass_Assignment/

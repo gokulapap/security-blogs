@@ -87,3 +87,4 @@
 - https://blog.doyensec.com/2020/04/08/libressl-fuzzer.html
 - https://blog.zimperium.com/multiple-kernel-vulnerabilities-affecting-all-qualcomm-devices/
 - https://blog.relyze.com/2022/03/cve-2022-27643-netgear-r6700v3-upnpd.html
+- https://www.zerodayinitiative.com/blog/2022/6/1/is-exploiting-a-null-pointer-deref-for-lpe-just-a-pipe-dream
