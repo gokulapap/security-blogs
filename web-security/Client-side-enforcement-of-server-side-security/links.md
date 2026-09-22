@@ -5,3 +5,4 @@
 - https://medium.com/@7azimo/hacking-into-admin-panel-of-u-s-federal-government-system-c-a-r-s-without-credentials-9117b865ba58
 - http://blog.randorisec.fr/client-side-validation/
 - https://infosecwriteups.com/security-vs-compliance-cloudflare-password-policy-restriction-bypass-da07ca7df4f2
+- https://medium.com/bugbountywriteup/unhiding-the-hidden-2ef44192c10b

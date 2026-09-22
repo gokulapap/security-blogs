@@ -10,3 +10,4 @@
 - https://portswigger.net/research/using-hackability-to-uncover-a-chrome-infoleak
 - https://canvatechblog.com/discovering-headroll-cve-2023-0704-in-chromium-2e7f66fc130c
 - https://servicenger.com/blog/mobile/android-sop-bypass-to-steal-system-files/
+- https://thehackerblog.com/reading-your-emails-with-a-readwrite-chrome-extension-same-origin-policy-bypass-8-million-users-affected/index.html

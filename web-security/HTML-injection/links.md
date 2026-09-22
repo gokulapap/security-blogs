@@ -26,3 +26,4 @@
 - https://medium.com/@navne3t/a-base64-encoded-parameter-c6fb6b177d68
 - https://www.vaadata.com/blog/exploiting-an-html-injection-with-dangling-markup/
 - https://medium.com/@mrnikhilsri/unauthenticated-account-takeover-through-http-leak-33386bb0ba0b
+- https://rishuranjanofficial.medium.com/html-injection-in-itunesconnect-apple-com-3f8a898f21ee
