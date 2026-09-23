@@ -379,3 +379,4 @@
 - https://sharmajijvs.medium.com/xss-via-file-upload-a2bcc1e5d7f7
 - https://blog.dixitaditya.com/leveraging-xss-to-read-internal-files/
 - https://pwnsauc3.medium.com/weaponizing-reflected-xss-to-account-takeover-ae8aeea7aca3
+- http://blog.shashank.co/2013/12/imgur-xss.html
