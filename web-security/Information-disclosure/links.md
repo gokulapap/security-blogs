@@ -368,3 +368,4 @@
 - https://www.mysk.blog/2020/10/25/link-previews/
 - https://medium.com/@hbothra22/recon-to-sensitive-information-disclosure-in-minutes-503fc7ccdf0b
 - https://philippeharewood.com/see-whether-a-hackercup-facebook-participant-allows-recruitment-contact/
+- https://crypt0g30rgy.github.io/post/AWSTakeover
