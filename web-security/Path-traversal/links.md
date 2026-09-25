@@ -56,3 +56,4 @@
 - https://mc0wn.blogspot.com/2023/05/vulnerabilities-in-apache-commons-text.html
 - https://samcurry.net/points-com/
 - http://blog.shashank.co/2013/12/heroku-directory-transversal.html
+- https://kuldeep.io/posts/path-traversal-paradise/

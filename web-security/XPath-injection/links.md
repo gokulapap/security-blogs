@@ -1,0 +1,1 @@
+- https://www.ambionics.io/blog/hacking-watchguard-firewalls
