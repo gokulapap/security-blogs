@@ -22,3 +22,4 @@
 - https://medium.com/@circleninja/internshala-bug-in-internshala-student-partner-33d7b66c1bd5
 - https://blog.bitcrack.net/oracle-databases-remote-stealth-password-bruteforce/
 - https://dhiyaneshgeek.github.io/web/security/2021/10/23/how-i-was-able-to-revoke-your-instagram-2fa/
+- https://medium.freecodecamp.org/responsible-disclosure-how-i-could-have-hacked-all-facebook-accounts-f47c0252ae4d

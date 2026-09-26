@@ -152,3 +152,4 @@
 - https://www.seblu.de/2021/12/iap-bypass.html
 - https://medium.com/@hazzaazi31/a-malicious-editor-of-a-page-can-support-to-a-community-action-which-cant-be-unsupported-by-the-f568c3762042
 - https://dewcode.medium.com/force-browsing-bug-at-facebook-business-plan-500-bounty-73d1bb4883af
+- https://blog.detectify.com/2019/01/29/hacking-isnt-an-exact-science/

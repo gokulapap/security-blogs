@@ -57,3 +57,4 @@
 - https://samcurry.net/points-com/
 - http://blog.shashank.co/2013/12/heroku-directory-transversal.html
 - https://kuldeep.io/posts/path-traversal-paradise/
+- https://feed.bugs.xdavidhu.me/bugs/0006
