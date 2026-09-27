@@ -381,3 +381,4 @@
 - https://pwnsauc3.medium.com/weaponizing-reflected-xss-to-account-takeover-ae8aeea7aca3
 - http://blog.shashank.co/2013/12/imgur-xss.html
 - https://medium.com/@mohamedtaha_42562/how-i-found-xss-vulnerability-in-amazon-in-5-minutes-using-shodan-50b583655297
+- https://wesecureapp.com/blog/xss-by-tossing-cookies/

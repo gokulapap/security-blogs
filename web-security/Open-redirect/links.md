@@ -110,3 +110,4 @@
 - https://medium.com/@honcbb/amazon-bypass-open-redirect-12609c879dff
 - https://infosecwriteups.com/sony-hunting-i-discovering-hidden-parameters-5x-swag-c3396c0064bc
 - https://medium.com/@__rishabh__/open-redirect-to-account-takeover-e939006a9f24
+- https://medium.com/@sivakrishnasamireddi/just-another-tale-of-severe-bugs-on-a-private-program-405870b03532
