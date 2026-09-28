@@ -131,3 +131,4 @@
 - https://web.archive.org/web/20221025185418/https://bergee.it/blog/chaining-multiple-vulnerabilities-for-credential-stealing/
 - https://hackademic.co.in/youtube-bug/
 - https://philippeharewood.com/facebook-graphql-csrf/
+- https://medium.com/@shub66452/account-takeover-using-csrf-json-based-a0e6efd1bffc

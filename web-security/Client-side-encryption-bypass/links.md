@@ -1,1 +1,2 @@
 - https://medium.com/@Ano_F_/manipulating-encrypted-traffic-using-pycript-b637612528bb
+- https://abhishekmorla.medium.com/bypassing-the-client-side-encryption-to-read-internal-windows-server-files-e832da8b4ac8
