@@ -1,2 +1,3 @@
 - https://karmainsecurity.com/KIS-2022-05
 - https://bishopfox.com/blog/what-the-vuln-zimbra
+- https://karmainsecurity.com/KIS-2022-06

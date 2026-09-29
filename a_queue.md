@@ -1,6 +1,3 @@
-- https://karmainsecurity.com/KIS-2022-06, Zip-Slip-attack
-- https://web.archive.org/web/20220516024454/https://medium.com/@tobydavenn/how-i-paid-for-my-holiday-with-bug-bounty-668f1f59e6e5, XSS
-- https://medium.com/@yaala/facebook-oauth-bypass-446a073e687d, OAuth
 - https://janmuhammadzaidi.medium.com/how-i-was-able-to-bypass-waf-and-find-the-origin-ip-and-a-few-sensitive-files-fc445180adb7, WAF-bypass
 - https://infosecwriteups.com/hacked-google-meet-40f364bb8368, Authorization-flaw
 - https://blog.agilehunt.com/blogs/security/privilege-escalation-in-microsoft-teams-2021, Privilege-escalation
@@ -17,5 +14,3 @@
 - https://medium.com/@kunal94/web-cache-deception-to-api-endpoint-attack-using-cached-token-header-b01a604a5ccd, Web-cache-deception
 - https://medium.com/@zain.sabahat/exploiting-ssrf-like-a-boss-c090dc63d326, SSRF
 - https://medium.com/@notsoshant/a-possibility-of-account-takeover-in-medium-8d950e547639, Account-takeover
-- https://kciredor.com/taking-over-every-ad-on-olx-automated-an-idor-story.html, IDOR
-- https://blog.securitybreached.org/2017/10/10/subdomain-takeover-lamborghini-hacked/, Subdomain-takeover

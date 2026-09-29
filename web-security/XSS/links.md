@@ -382,3 +382,4 @@
 - http://blog.shashank.co/2013/12/imgur-xss.html
 - https://medium.com/@mohamedtaha_42562/how-i-found-xss-vulnerability-in-amazon-in-5-minutes-using-shodan-50b583655297
 - https://wesecureapp.com/blog/xss-by-tossing-cookies/
+- https://web.archive.org/web/20220516024454/https://medium.com/@tobydavenn/how-i-paid-for-my-holiday-with-bug-bounty-668f1f59e6e5
