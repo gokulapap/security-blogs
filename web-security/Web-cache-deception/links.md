@@ -5,3 +5,4 @@
 - https://www.usenix.org/conference/usenixsecurity22/presentation/mirheidari
 - https://medium.freecodecamp.org/cache-deception-how-i-discovered-a-vulnerability-in-medium-and-helped-them-fix-it-31cec2a3938b
 - https://medium.com/@zhero_/dos-via-cache-poisoning-38f3a87f997c
+- https://medium.com/@kunal94/web-cache-deception-to-api-endpoint-attack-using-cached-token-header-b01a604a5ccd

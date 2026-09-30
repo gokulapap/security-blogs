@@ -103,3 +103,4 @@
 - https://objective-see.com/blog/blog_0x4D.html
 - https://www.cyberark.com/resources/threat-research-blog/breaking-docker-named-pipes-systematically-docker-desktop-privilege-escalation-part-2
 - https://dreamlab.net/en/blog/post/dropbox-escalation-of-privileges-to-system-on-windows-1/
+- https://darrenmartyn.ie/2021/10/27/zimbra-zmslapd-local-root-exploit/

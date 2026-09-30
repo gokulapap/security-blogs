@@ -32,3 +32,4 @@
 - https://pullerjsecu.medium.com/bypassing-cors-configurations-to-produce-an-account-takeover-for-fun-and-profit-3e50c3f2a124
 - https://0xraminfosec.medium.com/simple-cors-misconfig-leads-to-disclose-the-sensitive-token-worth-of-91433763f4d6
 - https://attackshipsonfi.re/p/exploiting-cors-misconfigurations
+- https://smaranchand.com.np/2019/05/an-unexploited-cors-misconfiguration-reflecting-further-issues/

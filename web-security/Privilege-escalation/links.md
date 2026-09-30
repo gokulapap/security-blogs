@@ -77,3 +77,4 @@
 - https://mr23r0.medium.com/code-flaws-leads-to-org-admin-account-takeover-ad9515a96eab
 - https://ertugrull.medium.com/unprivileged-user-with-read-write-permission-to-user-access-can-escalate-their-role-to-admin-a217d2d280a8
 - https://blog.raphael.karger.is/articles/2020-05/CVE-2020-13693
+- https://blog.agilehunt.com/blogs/security/privilege-escalation-in-microsoft-teams-2021

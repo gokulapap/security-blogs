@@ -1,7 +1,4 @@
 - https://janmuhammadzaidi.medium.com/how-i-was-able-to-bypass-waf-and-find-the-origin-ip-and-a-few-sensitive-files-fc445180adb7, WAF-bypass
-- https://infosecwriteups.com/hacked-google-meet-40f364bb8368, Authorization-flaw
-- https://blog.agilehunt.com/blogs/security/privilege-escalation-in-microsoft-teams-2021, Privilege-escalation
-- https://darrenmartyn.ie/2021/10/27/zimbra-zmslapd-local-root-exploit/, Local-Privilege-Escalation
 - https://pyn3rd.github.io/2021/10/22/mysql-jdbc-xxe/, XXE
 - https://medium.com/pentesternepal/hacking-dutch-government-for-a-lousy-t-shirt-8e1fd1b56deb, IDOR
 - https://www.fortbridge.co.uk/research/drupal-insecure-default-leads-to-password-reset-poisoning/, Password-reset
@@ -10,7 +7,5 @@
 - https://medium.com/@Sheshasai/emoji-error-handling-ba11f1bdb8a6, SQL-injection
 - https://web.archive.org/web/20201004092711/https://sametsahin.net/posts/administrator-level-privilege-escalation-story/, Privilege-escalation
 - https://web.archive.org/web/20200929013918/https://www.mohamedharon.com/2019/11/subdomain-takeover-via.html, Subdomain-takeover
-- https://smaranchand.com.np/2019/05/an-unexploited-cors-misconfiguration-reflecting-further-issues/, CORS-misconfiguration
-- https://medium.com/@kunal94/web-cache-deception-to-api-endpoint-attack-using-cached-token-header-b01a604a5ccd, Web-cache-deception
 - https://medium.com/@zain.sabahat/exploiting-ssrf-like-a-boss-c090dc63d326, SSRF
 - https://medium.com/@notsoshant/a-possibility-of-account-takeover-in-medium-8d950e547639, Account-takeover
