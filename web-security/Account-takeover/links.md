@@ -139,3 +139,4 @@
 - https://ph-hitachi.medium.com/how-i-hacked-scopely-using-sign-in-with-google-298a9c166ad
 - https://web.archive.org/web/20200820030055/https://pwnsec.ninja/2019/09/14/how-i-found-a-simple-and-weird-account-takeover-bug/
 - https://www.r29k.com/articles/bb/priv-esc-via-stored-xss
+- https://medium.com/@notsoshant/a-possibility-of-account-takeover-in-medium-8d950e547639

@@ -77,3 +77,4 @@
 - https://godiego.co/posts/STO-AWS/
 - https://medium.com/bugbountywriteup/4500-bounty-how-i-got-lucky-99d8bc933f75
 - https://blog.securitybreached.org/2017/10/10/subdomain-takeover-lamborghini-hacked/
+- https://web.archive.org/web/20200929013918/https://www.mohamedharon.com/2019/11/subdomain-takeover-via.html

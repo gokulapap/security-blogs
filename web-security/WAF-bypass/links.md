@@ -14,3 +14,4 @@
 - https://infosecwriteups.com/bypassing-amazon-waf-to-pop-an-alert-4646ce35554e
 - https://njbooher.github.io/blog/cloudflare-workers-ip-spoofing
 - https://www.praetorian.com/blog/using-crlf-injection-to-bypass-akamai-web-app-firewall/
+- https://janmuhammadzaidi.medium.com/how-i-was-able-to-bypass-waf-and-find-the-origin-ip-and-a-few-sensitive-files-fc445180adb7
