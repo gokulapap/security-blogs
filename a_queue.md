@@ -1,1 +1,0 @@
-- https://pyn3rd.github.io/2021/10/22/mysql-jdbc-xxe/, XXE
